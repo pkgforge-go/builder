@@ -12,6 +12,10 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
+CYAN='\033[0;36m'
+MAGENTA='\033[0;35m'
+BOLD='\033[1m'
+DIM='\033[2m'
 NC='\033[0m'
 ##Global Flags
 QUIET=false
@@ -94,18 +98,25 @@ EOF
 #-------------------------------------------------------#
 ##Normalize URLs
 normalize_git_url() {
-    local url="$1"
-    
-    # Add https:// if missing
+    local raw_url="$1"
+    local url
+
+    #Trim leading/trailing whitespace
+    url="$(echo "$raw_url" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
+
+    #Remove URL query parameters and fragments
+    url="${url%%[\?#]*}"
+
+    #Add https:// if missing
     if [[ ! "$url" =~ ^https?:// ]]; then
         url="https://$url"
     fi
-    
-    # Ensure .git suffix for cloning
+
+    #Ensure .git suffix for cloning (preserve only if not already present)
     if [[ ! "$url" =~ \.git$ ]]; then
-        url="$url.git"
+        url="${url}.git"
     fi
-    
+
     echo "$url"
 }
 #-------------------------------------------------------#
@@ -433,16 +444,16 @@ EOF
             
             case "$project_type" in
                 "cli")
-                    log_success "🔧 RESULT: CLI TOOL"
-                    echo "Confidence: $confidence" >&2
+                    echo -e "${GREEN}🔧 RESULT: ${BOLD}${CYAN}CLI TOOL${NC} ${DIM}==> ${CYAN}$git_url${NC}" >&2
+                    echo -e "${DIM}Confidence: ${BOLD}${GREEN}$confidence${NC}" >&2
                     ;;
                 "library") 
-                    log_success "📚 RESULT: LIBRARY"
-                    echo "Confidence: $confidence" >&2
+                    echo -e "${BLUE}📚 RESULT: ${BOLD}${MAGENTA}LIBRARY${NC} ${DIM}==> ${CYAN}$git_url${NC}" >&2
+                    echo -e "${DIM}Confidence: ${BOLD}${GREEN}$confidence${NC}" >&2
                     ;;
                 "unclear")
-                    log_warning "❓ RESULT: UNCLEAR"
-                    echo "Confidence: $confidence" >&2
+                    echo -e "${YELLOW}❓ RESULT: ${BOLD}${YELLOW}UNCLEAR${NC} ${DIM}==> ${CYAN}$git_url${NC}" >&2
+                    echo -e "${DIM}Confidence: ${BOLD}${YELLOW}$confidence${NC}" >&2
                     echo "Could be either a library or CLI tool. Manual inspection recommended." >&2
                     ;;
             esac
@@ -482,7 +493,7 @@ detect_project_type() {
             shopt -u globstar nullglob 2>/dev/null
             
             [[ ${#go_files[@]} -eq 0 ]] && {
-                log_error "Not a Go project (no go.mod or .go files found)"
+                log_error "Not a Go project (no go.mod or .go files found): $git_url"
                 return $EXIT_ERROR
             }
         }
