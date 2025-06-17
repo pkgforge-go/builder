@@ -815,9 +815,9 @@ main() {
 
     #cleanup
     cleanup 2>/dev/null
-    find "${SYSTMP}" -path "*/_REPO_" -exec rm -rf "{}" \; 2>/dev/null
-    find "${SYSTMP}" -type d -name "tmp.*" -empty -delete 2>/dev/null
-
+    find "${SYSTMP}" -path "*/_REPO_" -mmin +2 -mmin -10 -exec rm -rf "{}" \; 2>/dev/null
+    find "${SYSTMP}" -type d -name "tmp.*" -empty -mmin +2 -mmin -10 -delete 2>/dev/null
+    
     #exit 
     exit $exit_code
 }
