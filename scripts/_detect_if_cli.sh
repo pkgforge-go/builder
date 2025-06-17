@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
-
-#VERSION=0.0.1
+#VERSION=0.0.2
 #-------------------------------------------------------#
 #Entirely Vibe coded by Claude but tested/verified
-#Determines if a Go project is a CLI tool or library from a git URL
+#Determines if a Go project is a CLI tool or library from a git URL or archive URL
 #Self: https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh
 #-------------------------------------------------------#
 
@@ -49,34 +48,40 @@ trap cleanup EXIT
 ##Usage/Help
 usage() {
     cat << EOF
-Usage: $0 [OPTIONS] <git-url>
-
+Usage: $0 [OPTIONS] <url>
 DESCRIPTION:
   Detects whether a Go project is a CLI tool or library by analyzing its structure,
-  code patterns, and documentation.
-
+  code patterns, and documentation. Supports both git URLs and direct archive URLs.
 OPTIONS:
   -q, --quiet         Suppress progress messages (only output result)
   -j, --json          Output result in JSON format
   -s, --simple        Output simple format: 'cli', 'library', or 'unclear'
   -v, --verbose       Show detailed analysis information
   -h, --help          Show this help message
-
+SUPPORTED URL FORMATS:
+  Git URLs:
+    https://github.com/user/repo
+    https://github.com/user/repo.git
+    github.com/user/repo
+    
+  Archive URLs:
+    https://github.com/user/repo/archive/refs/heads/main.tar.gz
+    https://github.com/user/repo/archive/refs/tags/v1.0.0.tar.gz
+    https://api.github.com/repos/user/repo/tarball/main
+    Any direct .tar.gz/.tgz/.zip archive URL
 OUTPUT FORMATS:
   human (default)     Human-readable output with colors and details
   json               JSON format for programmatic consumption
   simple             Single word: cli, library, or unclear
-
 EXIT CODES:
   0                  CLI tool detected
   1                  Library detected  
   2                  Unclear/ambiguous result
   3                  Error occurred
-
 EXAMPLES:
   $0 https://github.com/spf13/cobra
   $0 -q -s github.com/golang/go
-  $0 --json https://github.com/gin-gonic/gin
+  $0 --json https://github.com/gin-gonic/gin/archive/refs/heads/master.tar.gz
   
 PIPELINE USAGE:
   # Check if it's a CLI and install it
@@ -93,24 +98,39 @@ PIPELINE USAGE:
     "library") echo "Adding to go.mod..." ;;
     *) echo "Manual inspection needed" ;;
   esac
-
 EOF
     exit 1
 }
 #-------------------------------------------------------#
-
 #-------------------------------------------------------#
-##Normalize URLs
+##Detect URL type and normalize
+detect_url_type() {
+    local raw_url="$1"
+    local url
+    
+    #Trim leading/trailing whitespace
+    url="$(echo "$raw_url" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
+    #Remove URL query parameters and fragments
+    url="${url%%[\?#]*}"
+    
+    #Check if it's an archive URL
+    if [[ "$url" =~ \.(tar\.gz|tgz|zip)$ ]] || [[ "$url" =~ /tarball/ ]] || [[ "$url" =~ /zipball/ ]] || [[ "$url" =~ /archive/ ]]; then
+        echo "archive"
+        return 0
+    fi
+    
+    #Otherwise, treat as git URL
+    echo "git"
+    return 0
+}
+##Normalize Git URLs
 normalize_git_url() {
     local raw_url="$1"
     local url
-
     #Trim leading/trailing whitespace
     url="$(echo "$raw_url" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
-
     #Remove URL query parameters and fragments
     url="${url%%[\?#]*}"
-
     #Add https:// if missing
     if [[ ! "$url" =~ ^https?:// ]]; then
         url="https://$url"
@@ -120,8 +140,165 @@ normalize_git_url() {
     if [[ ! "$url" =~ \.git$ ]]; then
         url="${url}.git"
     fi
-
     echo "$url"
+}
+##Normalize Archive URLs
+normalize_archive_url() {
+    local raw_url="$1"
+    local url
+    #Trim leading/trailing whitespace
+    url="$(echo "$raw_url" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')"
+    #Remove URL query parameters and fragments
+    url="${url%%[\?#]*}"
+    #Add https:// if missing
+    if [[ ! "$url" =~ ^https?:// ]]; then
+        url="https://$url"
+    fi
+    echo "$url"
+}
+#-------------------------------------------------------#
+
+#-------------------------------------------------------#
+##Download and extract archive
+download_and_extract_archive() {
+    local archive_url="$1"
+    local repo_dir="$2"
+    local archive_file="$repo_dir/repo.archive"
+    
+    log_info "Downloading archive from: $archive_url"
+    
+    #Create repo directory
+    mkdir -p "$repo_dir"
+    
+    #Download archive with retry logic
+    for i in {1..3}; do
+        if curl -w "(DL) <== %{url}\n" -qfsSL "$archive_url" -o "$archive_file" 2>/dev/null; then
+            log_verbose "Archive downloaded successfully"
+            break
+        fi
+        if [[ $i -eq 3 ]]; then
+            log_error "Failed to download archive: $archive_url"
+            return 1
+        fi
+        log_verbose "Download attempt $i failed, retrying..."
+        sleep $((2 ** (i - 1)))
+    done
+    
+    #Check if file was downloaded and has content
+    if [[ ! -f "$archive_file" || ! -s "$archive_file" ]]; then
+        log_error "Downloaded archive is empty or missing"
+        return 1
+    fi
+    
+    #Extract archive
+    log_info "Extracting archive..."
+    cd "$repo_dir"
+    
+    #Detect archive type and extract accordingly
+    local file_type
+    file_type=$(file -b "$archive_file" 2>/dev/null || echo "unknown")
+    
+    case "$file_type" in
+        *"gzip compressed"*|*"tar archive"*)
+            if tar -tzf "$archive_file" >/dev/null 2>&1; then
+                log_verbose "Extracting tar.gz archive"
+                tar -xzf "$archive_file" --strip-components=1 2>/dev/null || {
+                    log_warning "Failed to strip components, extracting normally"
+                    tar -xzf "$archive_file" 2>/dev/null || {
+                        log_error "Failed to extract tar.gz archive"
+                        return 1
+                    }
+                    #If we couldn't strip components, find the top-level directory and move contents
+                    local top_dirs=(*)
+                    if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" ]]; then
+                        log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
+                        mv "${top_dirs[0]}"/* . 2>/dev/null || true
+                        mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
+                        rmdir "${top_dirs[0]}" 2>/dev/null || true
+                    fi
+                }
+            else
+                log_error "Invalid tar.gz archive"
+                return 1
+            fi
+            ;;
+        *"Zip archive"*)
+            if command -v unzip >/dev/null 2>&1; then
+                log_verbose "Extracting zip archive"
+                unzip -q "$archive_file" 2>/dev/null || {
+                    log_error "Failed to extract zip archive"
+                    return 1
+                }
+                #Handle zip extraction similar to tar
+                local top_dirs=(*)
+                if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "repo.archive" ]]; then
+                    log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
+                    mv "${top_dirs[0]}"/* . 2>/dev/null || true
+                    mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
+                    rmdir "${top_dirs[0]}" 2>/dev/null || true
+                fi
+            else
+                log_error "unzip command not available for zip archive"
+                return 1
+            fi
+            ;;
+        *)
+            #Try to extract as tar.gz first, then zip
+            log_verbose "Unknown file type, trying tar.gz extraction"
+            if tar -tzf "$archive_file" >/dev/null 2>&1 && tar -xzf "$archive_file" --strip-components=1 2>/dev/null; then
+                log_verbose "Successfully extracted as tar.gz"
+            elif command -v unzip >/dev/null 2>&1 && unzip -tq "$archive_file" >/dev/null 2>&1; then
+                log_verbose "Trying zip extraction"
+                unzip -q "$archive_file" 2>/dev/null || {
+                    log_error "Failed to extract as zip"
+                    return 1
+                }
+                #Handle directory structure
+                local top_dirs=(*)
+                if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "repo.archive" ]]; then
+                    log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
+                    mv "${top_dirs[0]}"/* . 2>/dev/null || true
+                    mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
+                    rmdir "${top_dirs[0]}" 2>/dev/null || true
+                fi
+            else
+                log_error "Unable to extract archive (unsupported format or corrupted)"
+                return 1
+            fi
+            ;;
+    esac
+    
+    #Clean up archive file
+    rm -f "$archive_file"
+    
+    #Go back to original directory
+    cd - >/dev/null
+    
+    log_success "Archive extracted successfully"
+    return 0
+}
+#-------------------------------------------------------#
+#-------------------------------------------------------#
+##Clone Git repository
+clone_git_repository() {
+    local git_url="$1"
+    local repo_dir="$2"
+    
+    log_info "Cloning Git repository: $git_url"
+    
+    #Clone with retry logic
+    for i in {1..3}; do
+        if git clone --depth="1" --filter="blob:none" --quiet "$git_url" "$repo_dir" 2>/dev/null; then
+            log_success "Repository cloned successfully"
+            return 0
+        fi
+        if [[ $i -eq 3 ]]; then
+            log_error "Failed to clone repository: $git_url"
+            return 1
+        fi
+        log_verbose "Clone attempt $i failed, retrying..."
+        sleep $((2 ** (i - 1)))
+    done
 }
 #-------------------------------------------------------#
 
@@ -412,13 +589,13 @@ output_results() {
     local dir_score="$5"
     local readme_score="$6"
     local exec_score="$7"
-    local git_url="$8"
+    local original_url="$8"
     
     case "$OUTPUT_FORMAT" in
         "json")
             cat << EOF
 {
-  "url": "$git_url",
+  "url": "$original_url",
   "type": "$project_type",
   "confidence": "$confidence",
   "score": $score,
@@ -448,15 +625,15 @@ EOF
             
             case "$project_type" in
                 "cli")
-                    echo -e "${GREEN}🔧 RESULT: ${BOLD}${CYAN}CLI TOOL${NC} ${DIM}==> ${CYAN}$git_url${NC}" >&2
+                    echo -e "${GREEN}🔧 RESULT: ${BOLD}${CYAN}CLI TOOL${NC} ${DIM}==> ${CYAN}$original_url${NC}" >&2
                     echo -e "${DIM}Confidence: ${BOLD}${GREEN}$confidence${NC}" >&2
                     ;;
                 "library") 
-                    echo -e "${BLUE}📚 RESULT: ${BOLD}${MAGENTA}LIBRARY${NC} ${DIM}==> ${CYAN}$git_url${NC}" >&2
+                    echo -e "${BLUE}📚 RESULT: ${BOLD}${MAGENTA}LIBRARY${NC} ${DIM}==> ${CYAN}$original_url${NC}" >&2
                     echo -e "${DIM}Confidence: ${BOLD}${GREEN}$confidence${NC}" >&2
                     ;;
                 "unclear")
-                    echo -e "${YELLOW}❓ RESULT: ${BOLD}${YELLOW}UNCLEAR${NC} ${DIM}==> ${CYAN}$git_url${NC}" >&2
+                    echo -e "${YELLOW}❓ RESULT: ${BOLD}${YELLOW}UNCLEAR${NC} ${DIM}==> ${CYAN}$original_url${NC}" >&2
                     echo -e "${DIM}Confidence: ${BOLD}${YELLOW}$confidence${NC}" >&2
                     echo "Could be either a library or CLI tool. Manual inspection recommended." >&2
                     ;;
@@ -465,27 +642,50 @@ EOF
     esac
 }
 #-------------------------------------------------------#
-
 #-------------------------------------------------------#
 ##Detect
 detect_project_type() {
-    local git_url="$1"
+    local input_url="$1"
     local total_score=0
+    local url_type
+    local processed_url
     
-    log_info "Analyzing Go project: $git_url"
+    #Detect URL type
+    url_type=$(detect_url_type "$input_url")
+    
+    case "$url_type" in
+        "git")
+            processed_url=$(normalize_git_url "$input_url")
+            log_info "Detected Git URL: $processed_url"
+            ;;
+        "archive")
+            processed_url=$(normalize_archive_url "$input_url")
+            log_info "Detected Archive URL: $processed_url"
+            ;;
+        *)
+            log_error "Unknown URL type: $input_url"
+            return $EXIT_ERROR
+            ;;
+    esac
     
     #Create temporary directory
     TEMP_DIR="$(mktemp -d)"
     local repo_dir="$TEMP_DIR/repo"
     
-    #Clone
-    export git_url repo_dir
-    for i in {1..3}; do
-      git clone --depth="1" --filter="blob:none" --quiet "$git_url" "$repo_dir" 2>/dev/null && break
-      [ $i -eq 3 ] && { log_error "Failed to clone repository: $git_url"; return $EXIT_ERROR; }
-      sleep $((2 ** (i - 1)))
-    done
-
+    #Download/clone based on URL type
+    case "$url_type" in
+        "git")
+            if ! clone_git_repository "$processed_url" "$repo_dir"; then
+                return $EXIT_ERROR
+            fi
+            ;;
+        "archive")
+            if ! download_and_extract_archive "$processed_url" "$repo_dir"; then
+                return $EXIT_ERROR
+            fi
+            ;;
+    esac
+    
     #Check if it's actually a Go project
     if [[ ! -f "$repo_dir/go.mod" ]]; then
         local go_files=()
@@ -498,13 +698,13 @@ detect_project_type() {
             shopt -u globstar nullglob 2>/dev/null
             
             [[ ${#go_files[@]} -eq 0 ]] && {
-                log_error "Not a Go project (no go.mod or .go files found): $git_url"
+                log_error "Not a Go project (no go.mod or .go files found): $input_url"
                 return $EXIT_ERROR
             }
         }
     fi
     
-    log_info "Repository cloned successfully"
+    log_info "Source code acquired successfully"
     
     #Run all checks
     local main_packages=$(check_main_packages "$repo_dir")
@@ -542,7 +742,7 @@ detect_project_type() {
     
     #Output results in requested format
     output_results "$project_type" "$confidence" "$total_score" \
-                  "$main_packages" "$dir_score" "$readme_score" "$exec_score" "$git_url"
+                  "$main_packages" "$dir_score" "$readme_score" "$exec_score" "$input_url"
     
     return $exit_code
 }
@@ -577,34 +777,30 @@ parse_args() {
                 usage
                 ;;
             *)
-                # This should be the git URL
-                if [[ -n "$GIT_URL" ]]; then
+                # This should be the URL
+                if [[ -n "$INPUT_URL" ]]; then
                     log_error "Multiple URLs provided. Only one URL is allowed."
                     usage
                 fi
-                GIT_URL="$1"
+                INPUT_URL="$1"
                 shift
                 ;;
         esac
     done
     
-    if [[ -z "$GIT_URL" ]]; then
-        log_error "Git URL is required"
+    if [[ -z "$INPUT_URL" ]]; then
+        log_error "URL is required"
         usage
     fi
 }
 #-------------------------------------------------------#
-
 #-------------------------------------------------------#
-
 ##Main
 main() {
-    local GIT_URL=""
+    local INPUT_URL=""
     
     # Parse arguments
     parse_args "$@"
-    
-    local normalized_url=$(normalize_git_url "$GIT_URL")
     
     # Check if required tools are available
     if ! command -v git >/dev/null 2>&1; then
@@ -613,7 +809,7 @@ main() {
     fi
     
     # Run detection and exit with appropriate code
-    detect_project_type "$normalized_url"
+    detect_project_type "$INPUT_URL"
     exit $?
 }
 main "$@"
