@@ -53,6 +53,7 @@ fi
  T_CUTOFF_DATE="$(date -d '1 year ago' '+%Y-%m-%d')"
  T_QUERY="language:go stars:>=5 pushed:>${T_CUTOFF_DATE}"
  T_ENCODED_QUERY="$(printf '%s' "$T_QUERY" | jq -sRr @uri)"
+ echo -e "\n[+] Scraping Search API\n"
  for i in {1..2}; do
   gh api "/search/repositories?q=${T_ENCODED_QUERY}&sort=updated&order=desc&per_page=100" --paginate 2>/dev/null |& cat - >"${TEMP_DIR}/tmp/SEARCH.json"
     if [[ $(stat -c%s "${TEMP_DIR}/tmp/SEARCH.json" | tr -d '[:space:]') -lt 10000 ]]; then
@@ -117,15 +118,17 @@ fi
  find "${TEMP_DIR}/tmp" -type f -iname "*SEARCH.json" -exec jq -c '.[]' "{}" + | sed '/^\s*[\[{]/!d' >> "${TEMP_DIR}/RAW.json.tmp"
  [[ -s "${T_OUT}" ]] && cat "${T_OUT}" | sed '/^\s*[\[{]/!d' >> "${TEMP_DIR}/RAW.json.tmp"
 #Map
- jq \
+ jq -s \
  '
-  if type == "array" then 
-    [.[] | select(type == "object" and has("name"))] 
-    | unique_by(.html_url | ascii_downcase) 
-    | sort_by(.name | ascii_downcase)
-  else 
-    error("Expected array input")
-  end' "${TEMP_DIR}/RAW.json.tmp" | jq \
+  if length == 1 and .[0] | type == "array" then
+    .[0]
+  else
+    .
+  end
+  | map(select(type == "object" and has("name")))
+  | unique_by(.html_url | ascii_downcase)
+  | sort_by(.name | ascii_downcase)
+ ' "${TEMP_DIR}/RAW.json.tmp" | jq \
  '
   def sanitize: if type == "string" then gsub("[`${}\\\\\"'\''();|&<>]"; "_") else . end;
   [ .[]
