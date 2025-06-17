@@ -172,7 +172,7 @@ download_and_extract_archive() {
     
     #Download archive with retry logic
     for i in {1..3}; do
-        if curl -w "(DL) <== %{url}\n" -qfsSL "$archive_url" -o "$archive_file" 2>/dev/null; then
+        if curl -qfsSL "$archive_url" --retry 3 --retry-delay 1 --retry-max-time 30 -o "$archive_file"; then
             log_verbose "Archive downloaded successfully"
             break
         fi
@@ -186,7 +186,7 @@ download_and_extract_archive() {
     
     #Check if file was downloaded and has content
     if [[ ! -f "$archive_file" || ! -s "$archive_file" ]]; then
-        log_error "Downloaded archive is empty or missing"
+        log_error "Downloaded archive is empty or missing: $archive_url"
         return 1
     fi
     
