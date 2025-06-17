@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#VERSION=0.0.2
+#VERSION=0.0.3
 #-------------------------------------------------------#
 #Entirely Vibe coded by Claude but tested/verified
 #Determines if a Go project is a CLI tool or library from a git URL or archive URL
@@ -18,6 +18,10 @@ export MAGENTA='\033[0;35m'
 export BOLD='\033[1m'
 export DIM='\033[2m'
 export NC='\033[0m'
+if [[ ! -d "${SYSTMP}" ]]; then
+ SYSTMP="$(dirname $(mktemp -u))"
+fi
+export SYSTMP
 ##Global Flags
 export QUIET=false
 export OUTPUT_FORMAT="human"
@@ -642,6 +646,7 @@ EOF
     esac
 }
 #-------------------------------------------------------#
+
 #-------------------------------------------------------#
 ##Detect
 detect_project_type() {
@@ -670,7 +675,7 @@ detect_project_type() {
     
     #Create temporary directory
     TEMP_DIR="$(mktemp -d)"
-    local repo_dir="$TEMP_DIR/repo"
+    local repo_dir="$TEMP_DIR/_REPO_"
     
     #Download/clone based on URL type
     case "$url_type" in
@@ -794,23 +799,26 @@ parse_args() {
     fi
 }
 #-------------------------------------------------------#
+
 #-------------------------------------------------------#
 ##Main
 main() {
     local INPUT_URL=""
+    local exit_code
     
-    # Parse arguments
+    #Parse arguments
     parse_args "$@"
     
-    # Check if required tools are available
-    if ! command -v git >/dev/null 2>&1; then
-        log_error "git is required but not installed"
-        exit $EXIT_ERROR
-    fi
-    
-    # Run detection and exit with appropriate code
+    #Run detection and exit with appropriate code
     detect_project_type "$INPUT_URL"
-    exit $?
+    exit_code=$?
+
+    #cleanup
+    find "${SYSTMP}" -path "*/_REPO_" -exec rm -rf "{}" \; 2>/dev/null
+    cleanup
+
+    #exit 
+    exit $exit_code
 }
 main "$@"
 #-------------------------------------------------------#
