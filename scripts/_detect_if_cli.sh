@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#VERSION=0.0.3
+#VERSION=0.0.4
 #-------------------------------------------------------#
 #Entirely Vibe coded by Claude but tested/verified
 #Determines if a Go project is a CLI tool or library from a git URL or archive URL
