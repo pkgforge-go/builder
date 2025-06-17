@@ -4,6 +4,7 @@
 #-------------------------------------------------------#
 #Entirely Vibe coded by Claude but tested/verified
 #Determines if a Go project is a CLI tool or library from a git URL
+#Self: https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh
 #-------------------------------------------------------#
 
 #-------------------------------------------------------#
