@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aptly",
+  "pkg_family": "aptly",
+  "pkg_id": "aptly#github.com_aptly_dev_aptly",
+  "pkg_name": "aptly",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aptly-dev/aptly",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "aptly - Debian repository management tool",
+  "homepage": [
+    "https://github.com/aptly-dev/aptly"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aptly",
+    "files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aptly-dev/aptly/archive/d1bfd29dfd8fa6f1e32a51c7e9249c2880a2bf52.tar.gz"
+  ],
+  "tag": [
+    "apt",
+    "debian",
+    "go",
+    "packaging",
+    "ubuntu"
+  ],
+  "version": "HEAD-d1bfd29-250609T181235",
+  "version_upstream": "v1.6.2",
+  "bsum": "6b9082b245f6c8fec9017552dcfa7e8b27000e03f4df95475aec801d42dcc388",
+  "build_date": "2025-06-18T16:33:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737450591",
+  "build_id": "15737450591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aptly-dev/aptly/aptly?tag=HEAD-d1bfd29-250609T181235-riscv64-Linux&download=aptly.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2663",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aptly-dev/aptly/aptly?tag=HEAD-d1bfd29-250609T181235-riscv64-Linux&download=aptly",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aptly-dev/aptly/aptly:HEAD-d1bfd29-250609T181235-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aptly-dev/aptly/aptly",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aptly-dev/aptly/aptly?tag=HEAD-d1bfd29-250609T181235-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "82d8f47d5f60725eb25dca2f1175b4df15b5bcffa334e107a2e628936e18c904",
+  "size": "44 MB",
+  "size_raw": "45233688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
