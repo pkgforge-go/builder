@@ -125,6 +125,7 @@ fi
   else
     .
   end
+  | flatten
   | map(select(type == "object" and has("name")))
   | unique_by(.html_url | ascii_downcase)
   | sort_by(.name | ascii_downcase)
@@ -144,13 +145,14 @@ fi
         homepage: (.html_url // ""),
         license: [(.license.spdx_id // "") | select(. != "")],
         name: (.name // "" | sanitize),
+        pkg_id: ((.name // "") + (if (.name // "") != "" and (.html_url // "") != "" then "#" else "" end) + ((.html_url // "") | sub("^https?://"; "") | gsub("[^a-zA-Z0-9.-]"; "_"))) | sanitize,
         repo_name: (.full_name // "" | sanitize),
         stars: (.stargazers_count // 0),
         tag: (.topics // [] | map(sanitize)),
         updated_at: (.updated_at // "")
       }
   ]
- ' | jq 'unique_by(.clone) | sort_by(.name)' > "${OUT_DIR}/REPO_INPUT.json.tmp"
+ ' | jq 'unique_by(.pkg_id) | sort_by(.name)' > "${OUT_DIR}/REPO_INPUT.json.tmp"
 #Filter 
  CUTOFF_DATE="$(date -d 'last year' '+%Y-01-01' | tr -d '[:space:]')"
  jq --arg cutoff_date "${CUTOFF_DATE}" '[.[] | select((.updated_at | split("T")[0] | strptime("%Y-%m-%d") | mktime) >= ($cutoff_date | strptime("%Y-%m-%d") | mktime))]' "${OUT_DIR}/REPO_INPUT.json.tmp" > "${OUT_DIR}/REPO_INPUT.json"
@@ -259,7 +261,7 @@ fi
  find "${OUT_DIR}/TEMP" -type f -size -3c -delete
  find "${OUT_DIR}/TEMP" -type f -iname "*.json" -exec cat "{}" + > "${OUT_DIR}/RAW.json.tmp"
  awk '/^\s*{\s*$/{flag=1; buffer="{\n"; next} /^\s*}\s*$/{if(flag){buffer=buffer"}\n"; print buffer}; flag=0; next} flag{buffer=buffer$0"\n"}' "${OUT_DIR}/RAW.json.tmp" | jq -c '. as $line | (fromjson? | .message) // $line' >> "${OUT_DIR}/RAW.json.raw"
- jq -s '[.[] | select(type == "object" and has("name"))] | unique_by(.clone | ascii_downcase) | sort_by(.name | ascii_downcase) | walk(if type == "object" then with_entries(select(.value != null and .value != "" and .value != "null")) elif type == "boolean" or type == "number" then tostring else . end) | map(to_entries | sort_by(.key) | from_entries)' \
+ jq -s '[.[] | select(type == "object" and has("name"))] | unique_by(.pkg_id | ascii_downcase) | sort_by(.name | ascii_downcase) | walk(if type == "object" then with_entries(select(.value != null and .value != "" and .value != "null")) elif type == "boolean" or type == "number" then tostring else . end) | map(to_entries | sort_by(.key) | from_entries)' \
  "${OUT_DIR}/RAW.json.raw" | jq \
  '
   sort_by([
@@ -276,7 +278,7 @@ fi
     .name != null and .name != "" and
     .is_cli != null and .is_cli != "" and
     .version != null and .version != ""
- ))' | jq 'unique_by(.clone) | sort_by(.rank | tonumber) | [range(length)] as $indices | [., $indices] | transpose | map(.[0] + {rank: (.[1] + 1 | tostring)})' > "${OUT_DIR}/PKGS_CLI_ONLY.json"
+ ))' | jq 'unique_by(.pkg_id) | sort_by(.rank | tonumber) | [range(length)] as $indices | [., $indices] | transpose | map(.[0] + {rank: (.[1] + 1 | tostring)})' > "${OUT_DIR}/PKGS_CLI_ONLY.json"
 #Print stats
  du -bh "${OUT_DIR}/REPO_DUMP.json"
  du -bh "${OUT_DIR}/PKGS_CLI_ONLY.json"
