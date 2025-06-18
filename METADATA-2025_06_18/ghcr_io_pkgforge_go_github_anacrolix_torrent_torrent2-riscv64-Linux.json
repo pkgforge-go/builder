@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "torrent2",
+  "pkg_family": "torrent",
+  "pkg_id": "torrent2#github.com_anacrolix_torrent",
+  "pkg_name": "torrent2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/torrent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full-featured BitTorrent client package and utilities",
+  "homepage": [
+    "https://github.com/anacrolix/torrent"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "iplist",
+    "mse",
+    "pack-blocklist",
+    "torrent2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/torrent/archive/1e3f1bf041caed8db098ee899d0625b599a98f47.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "go",
+    "magnet-link",
+    "p2p",
+    "streaming",
+    "torrent",
+    "tracker"
+  ],
+  "version": "HEAD-1e3f1bf-250506T121736",
+  "version_upstream": "",
+  "bsum": "799e34099f3dfbf6d11f485a66aeaca78063fd10b60214fc349d1c56143bb915",
+  "build_date": "2025-06-18T16:07:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736530993",
+  "build_id": "15736530993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/torrent2?tag=HEAD-1e3f1bf-250506T121736-riscv64-Linux&download=torrent2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/torrent2?tag=HEAD-1e3f1bf-250506T121736-riscv64-Linux&download=torrent2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/torrent/torrent2:HEAD-1e3f1bf-250506T121736-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/torrent/torrent2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/torrent2?tag=HEAD-1e3f1bf-250506T121736-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03368af7dd8877e48ec9e95aef092979a3ad553f809d611ef57f24a430e123de",
+  "size": "4.4 MB",
+  "size_raw": "4594872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
