@@ -197,8 +197,8 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
     GPKG_LDFLAGS="-s -w -buildid= -linkmode=external"
     GPKG_EXTLDFLAGS="-s -w -static-pie -Wl,--build-id=none"
     GPKG_TAGS="netgo,osusergo"
-    ZIG_VERBOSE_CC="1"
-    ZIG_VERBOSE_LINK="1"
+    #ZIG_VERBOSE_CC="1"
+    #ZIG_VERBOSE_LINK="1"
    #Export
     export CC CGO_CFLAGS CGO_ENABLED CXX GOARCH GOOS GPKG_LDFLAGS GPKG_EXTLDFLAGS GPKG_TAGS ZIG_VERBOSE_CC ZIG_VERBOSE_LINK
    #printenv
@@ -243,14 +243,13 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
      if [[ -d "$(realpath ${GO_CMD_DIR})" ]]; then
        GPKG_OWD="$(realpath .)"
        if [[ ${#GO_CMD_DIRS[@]} -eq 1 ]]; then
-         GPKG_OUT="${G_ARTIFACT_DIR}/${GPKG_NAME_L}"
+         GPKG_OUT_T="${G_ARTIFACT_DIR}/${GPKG_NAME_L}"
        elif echo "${GO_CMD_DIR}" | grep -qE "^\./(api|build|builds|ci|circle|cli|cmd|config|configs|doc|docs|example|examples|git|githooks|github|init|internal|main|pkg|service|src|tool|tools|web)?$"; then
          GPKG_OUT_T="${G_ARTIFACT_DIR}/${GPKG_NAME_L}-$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
-         GPKG_OUT="$(echo "${GPKG_OUT_T}" | tr -d '"'\''[:space:]')"
        else
          GPKG_OUT_T="${G_ARTIFACT_DIR}/$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
-         GPKG_OUT="$(echo "${GPKG_OUT_T}" | tr -d '"'\''[:space:]')"
        fi
+       GPKG_OUT="$(echo "${GPKG_OUT_T}" | sed 's/[-\.[:space:]]*$//' | tr -d '"'\''[:space:]')"
        cd "${GO_CMD_DIR}" || return 1
         echo -e "\n[#] Compiling: ${GO_CMD_DIR} ==> ${GPKG_OUT}\n"
         go build -a -v -x -trimpath \
