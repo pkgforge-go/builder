@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "booster",
+  "pkg_id": "generator#github.com_anatol_booster",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anatol/booster",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and secure initramfs generator",
+  "homepage": [
+    "https://github.com/anatol/booster"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "booster-init",
+    "generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anatol/booster/archive/080112b1a285da006167855328f1e50d359eb88f.tar.gz"
+  ],
+  "tag": [
+    "boot",
+    "initramfs",
+    "linux"
+  ],
+  "version": "HEAD-080112b-250315T152027",
+  "version_upstream": "",
+  "bsum": "d795892ca34e69070a6bc65b99528f149169fcf34cb80c0bcfea2955ef796517",
+  "build_date": "2025-06-18T15:56:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736716444",
+  "build_id": "15736716444",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anatol/booster/generator?tag=HEAD-080112b-250315T152027-riscv64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "565",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anatol/booster/generator?tag=HEAD-080112b-250315T152027-riscv64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anatol/booster/generator:HEAD-080112b-250315T152027-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anatol/booster/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anatol/booster/generator?tag=HEAD-080112b-250315T152027-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b3a47d97cc6aed0519944736d20d54ca2786b70b50f701ffd656bf82f00e67e",
+  "size": "4.6 MB",
+  "size_raw": "4805656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
