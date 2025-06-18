@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "reports",
+  "pkg_family": "magistrala",
+  "pkg_id": "reports#github.com_absmach_magistrala",
+  "pkg_name": "reports",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/absmach/magistrala",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/absmach/magistrala"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "bootstrap",
+    "cli",
+    "cmd",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "re",
+    "reports",
+    "timescale-reader",
+    "timescale-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/absmach/magistrala/archive/fbb030c22ef09601d97100f5c53ba596eb61ec3f.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "authorization",
+    "certificates-generator",
+    "coap",
+    "configuration-management",
+    "devices",
+    "edge",
+    "edge-computing",
+    "go",
+    "golang",
+    "iot",
+    "iot-gateway",
+    "iot-platform",
+    "messaging",
+    "mqtt",
+    "web-sockets"
+  ],
+  "version": "HEAD-fbb030c-250618T130139",
+  "version_upstream": "",
+  "bsum": "5d92a05cde55b648b862b58e5ffc79aa7ad801fca41cf4f43d1291531a2f8032",
+  "build_date": "2025-06-18T15:00:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734822301",
+  "build_id": "15734822301",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/reports?tag=HEAD-fbb030c-250618T130139-aarch64-Linux&download=reports.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/reports?tag=HEAD-fbb030c-250618T130139-aarch64-Linux&download=reports",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/absmach/magistrala/reports:HEAD-fbb030c-250618T130139-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/absmach/magistrala/reports",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/reports?tag=HEAD-fbb030c-250618T130139-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8dd14b0ffc729eb47e3241ac9174da153d33546923071296c4b351ff5bf5ef47",
+  "size": "23 MB",
+  "size_raw": "24068480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
