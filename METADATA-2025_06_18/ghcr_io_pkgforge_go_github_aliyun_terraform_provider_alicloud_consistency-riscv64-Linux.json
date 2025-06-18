@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "consistency",
+  "pkg_family": "terraform-provider-alicloud",
+  "pkg_id": "consistency#github.com_aliyun_terraform_provider_alicloud",
+  "pkg_name": "consistency",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aliyun/terraform-provider-alicloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform AliCloud provider",
+  "homepage": [
+    "https://github.com/aliyun/terraform-provider-alicloud"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compatibility",
+    "consistency",
+    "document",
+    "example",
+    "import",
+    "invoke",
+    "migration",
+    "receive",
+    "terraform-provider-alicloud",
+    "testing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aliyun/terraform-provider-alicloud/archive/58856c46820fbac7e4ecc3f76d5cd568864d0c24.tar.gz"
+  ],
+  "tag": [
+    "alicloud",
+    "terraform",
+    "terraform-provider"
+  ],
+  "version": "HEAD-58856c4-250618T192432",
+  "version_upstream": "",
+  "bsum": "e6f89dbb025c4b7734ef83ec32312ad77d2862445d9bf0c64457ad0c006c8846",
+  "build_date": "2025-06-18T15:50:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736195424",
+  "build_id": "15736195424",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyun/terraform-provider-alicloud/consistency?tag=HEAD-58856c4-250618T192432-riscv64-Linux&download=consistency.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "616",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyun/terraform-provider-alicloud/consistency?tag=HEAD-58856c4-250618T192432-riscv64-Linux&download=consistency",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aliyun/terraform-provider-alicloud/consistency:HEAD-58856c4-250618T192432-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aliyun/terraform-provider-alicloud/consistency",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyun/terraform-provider-alicloud/consistency?tag=HEAD-58856c4-250618T192432-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2161df8da3abd75c9465e81c650d5b664a8fe5d55780fbab9a81f92889ce0443",
+  "size": "287 MB",
+  "size_raw": "300024024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
