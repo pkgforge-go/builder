@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "postgres-writer",
+  "pkg_family": "magistrala",
+  "pkg_id": "postgres-writer#github.com_absmach_magistrala",
+  "pkg_name": "postgres-writer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/absmach/magistrala",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/absmach/magistrala"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "bootstrap",
+    "cli",
+    "cmd",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "re",
+    "reports",
+    "timescale-reader",
+    "timescale-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/absmach/magistrala/archive/fbb030c22ef09601d97100f5c53ba596eb61ec3f.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "authorization",
+    "certificates-generator",
+    "coap",
+    "configuration-management",
+    "devices",
+    "edge",
+    "edge-computing",
+    "go",
+    "golang",
+    "iot",
+    "iot-gateway",
+    "iot-platform",
+    "messaging",
+    "mqtt",
+    "web-sockets"
+  ],
+  "version": "HEAD-fbb030c-250618T130139",
+  "version_upstream": "",
+  "bsum": "be8ad9ec6da46bc671ac025649e6d9a82906cde6e56b2f77a0611dbf5ddaa50b",
+  "build_date": "2025-06-18T14:53:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734822301",
+  "build_id": "15734822301",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/postgres-writer?tag=HEAD-fbb030c-250618T130139-x86_64-Linux&download=postgres-writer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/postgres-writer?tag=HEAD-fbb030c-250618T130139-x86_64-Linux&download=postgres-writer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/absmach/magistrala/postgres-writer:HEAD-fbb030c-250618T130139-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/absmach/magistrala/postgres-writer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/postgres-writer?tag=HEAD-fbb030c-250618T130139-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1214019effe37e979dab1bfd7defc6c80f4196ffe1d8f5d2263a6bad7fda474c",
+  "size": "24 MB",
+  "size_raw": "24253248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
