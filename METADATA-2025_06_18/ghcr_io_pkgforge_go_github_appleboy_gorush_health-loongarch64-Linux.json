@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "health",
+  "pkg_family": "gorush",
+  "pkg_id": "health#github.com_appleboy_gorush",
+  "pkg_name": "health",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/appleboy/gorush",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A push notification server written in Go _Golang_.",
+  "homepage": [
+    "https://github.com/appleboy/gorush"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gorush",
+    "health",
+    "send"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/appleboy/gorush/archive/316fa2605d16e50a32415560ab81d81b5a9bd1f9.tar.gz"
+  ],
+  "tag": [
+    "android",
+    "apns",
+    "gcm",
+    "golang",
+    "gorush-server",
+    "ios",
+    "ios-alert-payload",
+    "ios-notification",
+    "notification-server"
+  ],
+  "version": "HEAD-316fa26-250512T112335",
+  "version_upstream": "",
+  "bsum": "0ce73e985d2fc3f559bb003f588cda73e3ff3ce1deebb4f43ddaaf3de8bc5960",
+  "build_date": "2025-06-18T16:31:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737427309",
+  "build_id": "15737427309",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/gorush/health?tag=HEAD-316fa26-250512T112335-loongarch64-Linux&download=health.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8398",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/gorush/health?tag=HEAD-316fa26-250512T112335-loongarch64-Linux&download=health",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/appleboy/gorush/health:HEAD-316fa26-250512T112335-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/appleboy/gorush/health",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/gorush/health?tag=HEAD-316fa26-250512T112335-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5457ec9841a6f3098da786ab3ab1225ee955069dfc3aff62e20cb42a4c1adf74",
+  "size": "33 MB",
+  "size_raw": "34048672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
