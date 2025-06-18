@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "blocked-services",
+  "pkg_family": "AdGuardHome",
+  "pkg_id": "blocked-services#github.com_AdguardTeam_AdGuardHome",
+  "pkg_name": "blocked-services",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AdguardTeam/AdGuardHome",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network-wide ads _ trackers blocking DNS server",
+  "homepage": [
+    "https://github.com/AdguardTeam/AdGuardHome"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adguardhome",
+    "blocked-services",
+    "translations",
+    "vetted-filters"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AdguardTeam/AdGuardHome/archive/16fda88899c0856d4b310bb4d7fb0e79aec54a2d.tar.gz"
+  ],
+  "tag": [
+    "adblock",
+    "adguard",
+    "dns",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "dnscrypt",
+    "golang",
+    "open-source",
+    "privacy"
+  ],
+  "version": "HEAD-16fda88-250610T165845",
+  "version_upstream": "v0.108.0-b.71",
+  "bsum": "7809fc64e797c189ef2fd6733ec5a351a13b9a419c68f8e36867e1b49c72fd51",
+  "build_date": "2025-06-18T14:14:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734662515",
+  "build_id": "15734662515",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/blocked-services?tag=HEAD-16fda88-250610T165845-aarch64-Linux&download=blocked-services.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28807",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/blocked-services?tag=HEAD-16fda88-250610T165845-aarch64-Linux&download=blocked-services",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adguardteam/adguardhome/blocked-services:HEAD-16fda88-250610T165845-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adguardteam/adguardhome/blocked-services",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/blocked-services?tag=HEAD-16fda88-250610T165845-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0920809dc28c9b65a73a5380ef62514b86df807f351bb10c55560f21791cf8e2",
+  "size": "7.4 MB",
+  "size_raw": "7690240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
