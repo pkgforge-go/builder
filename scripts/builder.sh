@@ -239,6 +239,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
        return 1
      fi
    #Build
+    echo -e "\n[+] Commands: ${GO_CMD_DIRS[*]}\n"
     for GO_CMD_DIR in "${GO_CMD_DIRS[@]}"; do
      if [[ -d "$(realpath ${GO_CMD_DIR})" ]]; then
        GPKG_OWD="$(realpath .)"
