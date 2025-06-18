@@ -223,7 +223,7 @@ jobs:
               )] | first // empty
              ' "${TEMP_META}" | jq . > "${GPKG_META_RAW}"
            #Check
-            if jq --arg "C_N" "${GPKG_NAME}" '.pkg == $C_N and .version and .version != ""' "${GPKG_META_RAW}" | grep -qi 'true'; then
+            if jq --arg "C_N" "${GPKG_NAME}" '.name == $C_N and .version and .version != ""' "${GPKG_META_RAW}" | grep -qi 'true'; then
              #Copy as-is
               cp -fv "${GPKG_META_RAW}" "${GPKG_META}"
              #Export PKG ENV

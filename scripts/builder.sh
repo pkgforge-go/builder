@@ -7,7 +7,7 @@
 
 #-------------------------------------------------------#
 ##Version
-GB_VERSION="0.0.1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
+GB_VERSION="0.0.1+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
 ##Enable Debug 
  if [[ "${DEBUG}" = "1" ]] || [[ "${DEBUG}" = "ON" ]]; then
     set -x
@@ -326,16 +326,10 @@ GB_VERSION="0.0.1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
      #Meta (Raw)
       if [[ -s "${GPKG_META_RAW}" ]]; then
         cp -fv "${GPKG_META_RAW}" "${BUILD_DIR}/GPKG_META_RAW.json"
-      else
-        build_fail_gh
-       exit 1
       fi
      #Meta (Cleaned)
       if [[ -s "${GPKG_META}" ]]; then
         cp -fv "${GPKG_META}" "${BUILD_DIR}/GPKG_META.json"
-      else
-        build_fail_gh
-       exit 1
       fi
    fi
   #Build
