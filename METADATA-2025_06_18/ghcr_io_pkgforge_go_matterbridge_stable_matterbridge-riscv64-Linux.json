@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "matterbridge",
+  "pkg_family": "matterbridge",
+  "pkg_id": "matterbridge#github.com_42wim_matterbridge",
+  "pkg_name": "matterbridge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/42wim/matterbridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API _mattermost not required!_",
+  "homepage": [
+    "https://github.com/42wim/matterbridge"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "matterbridge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using zig+go",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/42wim/matterbridge/archive/c4157a4d5b49fce79c80a30730dc7c404bacd663.tar.gz"
+  ],
+  "tag": [
+    "bridge",
+    "counter-strike",
+    "discord",
+    "facebook-messenger",
+    "gitter",
+    "irc",
+    "matrix",
+    "mattermost",
+    "microsoft-teams",
+    "minecraft-chat",
+    "mumble",
+    "nextcloud",
+    "rocketchat",
+    "slack",
+    "telegram",
+    "twitch",
+    "vk",
+    "whatsapp",
+    "xmpp",
+    "zulip"
+  ],
+  "version": "HEAD-c4157a4-240827T190405",
+  "version_upstream": "",
+  "bsum": "18f05ff1629cc810bec2b380acb94e519f542f9494e563e8228330ae5201c224",
+  "build_date": "2025-06-18T12:54:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15733073898",
+  "build_id": "15733073898",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/matterbridge/stable/matterbridge?tag=HEAD-c4157a4-240827T190405-riscv64-Linux&download=matterbridge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7026",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/matterbridge/stable/matterbridge?tag=HEAD-c4157a4-240827T190405-riscv64-Linux&download=matterbridge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/matterbridge/stable/matterbridge:HEAD-c4157a4-240827T190405-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/matterbridge/stable/matterbridge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/matterbridge/stable/matterbridge?tag=HEAD-c4157a4-240827T190405-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a666b6e9aeaf8f24fd658981a8abe9d745fa03afc2d9c50787102b30adc8e822",
+  "size": "61 MB",
+  "size_raw": "63761912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
