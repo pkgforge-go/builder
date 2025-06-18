@@ -145,7 +145,7 @@ fi
         homepage: (.html_url // ""),
         license: [(.license.spdx_id // "") | select(. != "")],
         name: (.name // "" | sanitize),
-        pkg_id: ((.name // "") + (if (.name // "") != "" and (.html_url // "") != "" then "#" else "" end) + ((.html_url // "") | sub("^https?://"; "") | gsub("[^a-zA-Z0-9.-]"; "_"))) | sanitize,
+        pkg_id: ((.html_url // "") | sub("^https?://"; "") | gsub("[^a-zA-Z0-9.-]"; "_")) | sanitize,
         repo_name: (.full_name // "" | sanitize),
         stars: (.stargazers_count // 0),
         tag: (.topics // [] | map(sanitize)),

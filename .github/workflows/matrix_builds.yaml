@@ -242,7 +242,7 @@ jobs:
                 GPKG_DESCR="No Description Provided"
               fi
               GPKG_HOMEPAGE=""
-              GPKG_ID="$(echo "${GPKG_NAME}#${GPKG_SRCURL}" | awk '{i=index($0,"#"); h=substr($0,1,i); t=substr($0,i+1); gsub(/^https?:\/\//,"",t); gsub(/[^a-zA-Z0-9.]/,"_",t); gsub(/_+/,"_",t); sub(/^_+/,"",t); sub(/_+$/,"",t); print h t}' | tr -d '"'\''[:space:]')"
+              GPKG_ID="$(echo "${GPKG_SRCURL}" | sed 's/#.*//' | awk '{i=index($0,"#"); h=substr($0,1,i); t=substr($0,i+1); gsub(/^https?:\/\//,"",t); gsub(/[^a-zA-Z0-9.]/,"_",t); gsub(/_+/,"_",t); sub(/^_+/,"",t); sub(/_+$/,"",t); print h t}' | tr -d '"'\''[:space:]')"
               GPKG_VERSION="$(date --utc +'%Y%m%dT%H%M%S' | tr -d '[:space:]')"
               GPKG_VERSION_UPSTREAM=""
             fi

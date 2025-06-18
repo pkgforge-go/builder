@@ -394,7 +394,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
    cd "${G_ARTIFACT_DIR}"
    for PROG in "${PROGS[@]}"; do
     #clean
-     unset BUILD_GHACTIONS BUILD_ID BUILD_LOG DOWNLOAD_URL GHCRPKG_TAG GHCRPKG_URL ghcr_push_cmd PKG_BSUM PKG_CATEGORY PKG_DATE PKG_DATETMP PKG_DESCRIPTION PKG_DOWNLOAD_COUNT PKG_FAMILY PKG_HOMEPAGE PKG_JSON PKG_ID PKG_LICENSE PKG_NAME PKG_PROVIDES PKG_SHASUM PKG_SIZE PKG_SIZE_RAW PKG_SRC_URL PKG_TAGS PKG_TYPE PKG_VERSION PKG_WEBPAGE SNAPSHOT_JSON SNAPSHOT_TAGS TAG_URL
+     unset BUILD_GHACTIONS BUILD_ID BUILD_LOG DOWNLOAD_URL GHCRPKG_TAG GHCRPKG_URL ghcr_push_cmd PKG_BSUM PKG_CATEGORY PKG_DATE PKG_DATETMP PKG_DESCRIPTION PKG_DOWNLOAD_COUNT PKG_FAMILY PKG_HOMEPAGE PKG_JSON PKG_ID PKG_ID_TMP PKG_LICENSE PKG_NAME PKG_PROVIDES PKG_SHASUM PKG_SIZE PKG_SIZE_RAW PKG_SRC_URL PKG_TAGS PKG_TYPE PKG_VERSION PKG_WEBPAGE SNAPSHOT_JSON SNAPSHOT_TAGS TAG_URL
     #Check
      if [[ ! -s "./${PROG}" ]]; then
         echo -e "\n[-] Skipping ${PROG} - file does not exist or is empty\n"
@@ -469,7 +469,8 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
     #ID
      BUILD_ID="${GITHUB_RUN_ID}"
      BUILD_GHACTIONS="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-     PKG_ID="${GPKG_ID:-pkgforge-go.${GPKG_NAME}.stable}"
+     PKG_ID_TMP="${PKG_NAME}#${GPKG_ID:-pkgforge-go.${GPKG_NAME}.stable}"
+     PKG_ID="$(echo "${PKG_ID_TMP}" | awk '{i=index($0,"#"); h=substr($0,1,i); t=substr($0,i+1); gsub(/^https?:\/\//,"",t); gsub(/[^a-zA-Z0-9.]/,"_",t); gsub(/_+/,"_",t); sub(/^_+/,"",t); sub(/_+$/,"",t); print h t}' | tr -d '"'\''[:space:]')"
      export BUILD_ID BUILD_GHACTIONS PKG_ID
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "BUILD_GHACTIONS=${BUILD_GHACTIONS}" >> "${GITHUB_ENV}"
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "BUILD_ID=${BUILD_ID}" >> "${GITHUB_ENV}"
