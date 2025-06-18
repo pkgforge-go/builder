@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sish",
+  "pkg_family": "sish",
+  "pkg_id": "sish#github.com_antoniomika_sish",
+  "pkg_name": "sish",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antoniomika/sish",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HTTP_S_/WS_S_/TCP Tunnels to localhost using only SSH.",
+  "homepage": [
+    "https://github.com/antoniomika/sish"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "sish"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antoniomika/sish/archive/8268a9c9e72213e727a0dfe8c2025b66f5fff393.tar.gz"
+  ],
+  "tag": [
+    "http",
+    "https",
+    "ngrok",
+    "serveo",
+    "ssh",
+    "tcp",
+    "tunnel",
+    "websockets"
+  ],
+  "version": "HEAD-8268a9c-250524T191136",
+  "version_upstream": "v2.19.0",
+  "bsum": "7295a5682e7ca820899caf55594c2483312158d400c4bfbe1547eab3a034216c",
+  "build_date": "2025-06-18T16:17:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737290190",
+  "build_id": "15737290190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antoniomika/sish/sish?tag=HEAD-8268a9c-250524T191136-loongarch64-Linux&download=sish.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4255",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antoniomika/sish/sish?tag=HEAD-8268a9c-250524T191136-loongarch64-Linux&download=sish",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antoniomika/sish/sish:HEAD-8268a9c-250524T191136-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antoniomika/sish/sish",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antoniomika/sish/sish?tag=HEAD-8268a9c-250524T191136-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2b89b05788cebd3718c49e4e53dd38c430c453c0c555764b92300adc90ffca8",
+  "size": "22 MB",
+  "size_raw": "22414592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
