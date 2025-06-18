@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dnscrypt",
+  "pkg_family": "dnscrypt",
+  "pkg_id": "dnscrypt#github.com_ameshkov_dnscrypt",
+  "pkg_name": "dnscrypt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ameshkov/dnscrypt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DNSCrypt v2 protocol implementation + a command-line tool",
+  "homepage": [
+    "https://github.com/ameshkov/dnscrypt"
+  ],
+  "license": [
+    "Unlicense"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnscrypt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ameshkov/dnscrypt/archive/8dcd91eaf47df92ae153750f4ff6562dab3c51ed.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dnscrypt",
+    "go"
+  ],
+  "version": "HEAD-8dcd91e-250407T180340",
+  "version_upstream": "v2.4.0",
+  "bsum": "6a7f71a1f4d4de77c25f4d1bb99d54d4b4be4119b1f23850d46cd3194e765772",
+  "build_date": "2025-06-18T15:47:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736367006",
+  "build_id": "15736367006",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ameshkov/dnscrypt/dnscrypt?tag=HEAD-8dcd91e-250407T180340-x86_64-Linux&download=dnscrypt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "79",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ameshkov/dnscrypt/dnscrypt?tag=HEAD-8dcd91e-250407T180340-x86_64-Linux&download=dnscrypt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ameshkov/dnscrypt/dnscrypt:HEAD-8dcd91e-250407T180340-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ameshkov/dnscrypt/dnscrypt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ameshkov/dnscrypt/dnscrypt?tag=HEAD-8dcd91e-250407T180340-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4c38d87d81beca128a42e73c7199f78bce5290f545f9df329a0d122a002a9a7",
+  "size": "6.8 MB",
+  "size_raw": "7082368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
