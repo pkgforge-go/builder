@@ -190,12 +190,15 @@ GB_VERSION="0.0.1+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
      CC="zig cc -target x86_64-linux-musl"
      CXX="zig c++ -target x86_64-linux-musl"
    fi
+   
    CGO_ENABLED="1"
    CGO_CFLAGS="-O2 -flto=auto -fPIE -fpie -static -w -pipe"
    GPKG_LDFLAGS="-s -w -buildid= -linkmode=external"
    GPKG_EXTLDFLAGS="-s -w -static-pie -Wl,--build-id=none"
    GPKG_TAGS="netgo,osusergo"
-   export CC CGO_CFLAGS CGO_ENABLED CXX GOARCH GOOS GPKG_LDFLAGS GPKG_EXTLDFLAGS GPKG_TAGS
+   ZIG_VERBOSE_CC="1"
+   ZIG_VERBOSE_LINK="1"
+   export CC CGO_CFLAGS CGO_ENABLED CXX GOARCH GOOS GPKG_LDFLAGS GPKG_EXTLDFLAGS GPKG_TAGS ZIG_VERBOSE_CC ZIG_VERBOSE_LINK
   }
   export -f set_goflags
  #Set Build Flags
