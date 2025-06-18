@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "docker-bench",
+  "pkg_family": "docker-bench",
+  "pkg_id": "docker-bench#github.com_aquasecurity_docker_bench",
+  "pkg_name": "docker-bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/docker-bench",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Checks whether Docker is deployed according to security best practices as defined in the CIS Docker Benchmark",
+  "homepage": [
+    "https://github.com/aquasecurity/docker-bench"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker-bench"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/docker-bench/archive/c463c39d1c80f3a801073a9187967dbf46588d47.tar.gz"
+  ],
+  "tag": [
+    "cis-docker-benchmarks",
+    "docker"
+  ],
+  "version": "HEAD-c463c39-240407T121248",
+  "version_upstream": "",
+  "bsum": "e2fc75d5526b18eb5ca7cbff5ddd6053fca9c69fcc846dc2be2019761844aaf6",
+  "build_date": "2025-06-18T16:33:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737493626",
+  "build_id": "15737493626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/docker-bench/docker-bench?tag=HEAD-c463c39-240407T121248-x86_64-Linux&download=docker-bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/docker-bench/docker-bench?tag=HEAD-c463c39-240407T121248-x86_64-Linux&download=docker-bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/docker-bench/docker-bench:HEAD-c463c39-240407T121248-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/docker-bench/docker-bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/docker-bench/docker-bench?tag=HEAD-c463c39-240407T121248-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7bb253fe31470da70281338d4a8a63574700a351c7366367d003f29084a9c50e",
+  "size": "8.4 MB",
+  "size_raw": "8732384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
