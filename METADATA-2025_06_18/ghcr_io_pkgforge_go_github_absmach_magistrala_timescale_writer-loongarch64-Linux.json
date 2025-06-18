@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "timescale-writer",
+  "pkg_family": "magistrala",
+  "pkg_id": "timescale-writer#github.com_absmach_magistrala",
+  "pkg_name": "timescale-writer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/absmach/magistrala",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/absmach/magistrala"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "bootstrap",
+    "cli",
+    "cmd",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "re",
+    "reports",
+    "timescale-reader",
+    "timescale-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/absmach/magistrala/archive/fbb030c22ef09601d97100f5c53ba596eb61ec3f.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "authorization",
+    "certificates-generator",
+    "coap",
+    "configuration-management",
+    "devices",
+    "edge",
+    "edge-computing",
+    "go",
+    "golang",
+    "iot",
+    "iot-gateway",
+    "iot-platform",
+    "messaging",
+    "mqtt",
+    "web-sockets"
+  ],
+  "version": "HEAD-fbb030c-250618T130139",
+  "version_upstream": "",
+  "bsum": "db65d85e8ab856291ef7dc9a5af8f176cd928f0b477b096d193cb9d43ae5de47",
+  "build_date": "2025-06-18T14:52:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734822301",
+  "build_id": "15734822301",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/timescale-writer?tag=HEAD-fbb030c-250618T130139-loongarch64-Linux&download=timescale-writer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/timescale-writer?tag=HEAD-fbb030c-250618T130139-loongarch64-Linux&download=timescale-writer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/absmach/magistrala/timescale-writer:HEAD-fbb030c-250618T130139-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/absmach/magistrala/timescale-writer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/timescale-writer?tag=HEAD-fbb030c-250618T130139-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "58dda8867f4913ccf09699aead539023378f6f67f4eda1c6d06644f65e766857",
+  "size": "23 MB",
+  "size_raw": "23548672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

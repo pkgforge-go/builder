@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "alarms",
+  "pkg_family": "magistrala",
+  "pkg_id": "alarms#github.com_absmach_magistrala",
+  "pkg_name": "alarms",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/absmach/magistrala",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/absmach/magistrala"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "bootstrap",
+    "cli",
+    "cmd",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "re",
+    "reports",
+    "timescale-reader",
+    "timescale-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/absmach/magistrala/archive/fbb030c22ef09601d97100f5c53ba596eb61ec3f.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "authorization",
+    "certificates-generator",
+    "coap",
+    "configuration-management",
+    "devices",
+    "edge",
+    "edge-computing",
+    "go",
+    "golang",
+    "iot",
+    "iot-gateway",
+    "iot-platform",
+    "messaging",
+    "mqtt",
+    "web-sockets"
+  ],
+  "version": "HEAD-fbb030c-250618T130139",
+  "version_upstream": "",
+  "bsum": "a6caf65b704a8940b12f3b2a1758ecde497614d67e19483afb56fdec8f633ff4",
+  "build_date": "2025-06-18T14:53:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734822301",
+  "build_id": "15734822301",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/alarms?tag=HEAD-fbb030c-250618T130139-loongarch64-Linux&download=alarms.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/alarms?tag=HEAD-fbb030c-250618T130139-loongarch64-Linux&download=alarms",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/absmach/magistrala/alarms:HEAD-fbb030c-250618T130139-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/absmach/magistrala/alarms",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/alarms?tag=HEAD-fbb030c-250618T130139-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9903a0a0fafa8be415d46961e57a89b57c7676ff9e0f0646b756b906b797bc21",
+  "size": "24 MB",
+  "size_raw": "24529408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
