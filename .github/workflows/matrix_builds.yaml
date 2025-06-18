@@ -244,6 +244,7 @@ jobs:
            #Export 
             export GPKG_DESCR GPKG_META GPKG_META_RAW GPKG_NAME GPKG_VERSION GPKG_VERSION_UPSTREAM
             echo "GPKG_DESCR=${GPKG_DESCR}" >> "${GITHUB_ENV}"
+            echo "GPKG_HOMEPAGE=${GPKG_HOMEPAGE}" >> "${GITHUB_ENV}"
             echo "GPKG_META=${GPKG_META}" >> "${GITHUB_ENV}"
             echo "GPKG_META_RAW=${GPKG_META_RAW}" >> "${GITHUB_ENV}"
             echo "GPKG_VERSION=${GPKG_VERSION}" >> "${GITHUB_ENV}"
