@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ffmpegof",
+  "pkg_family": "ffmpegof",
+  "pkg_id": "ffmpegof#github.com_aleksasiriski_ffmpegof",
+  "pkg_name": "ffmpegof",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aleksasiriski/ffmpegof",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics",
+  "homepage": [
+    "https://github.com/aleksasiriski/ffmpegof"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ffmpegof"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aleksasiriski/ffmpegof/archive/7e08e97005e3eead934debfbf91af8b0041e23bf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7e08e97-241021T121248",
+  "version_upstream": "v10.9.11-fof1",
+  "bsum": "532e3e4b13f799d35e7d3915c8fa2f7e358e6337f2c1c2e06c8db56f31c305ad",
+  "build_date": "2025-06-18T15:31:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736119445",
+  "build_id": "15736119445",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aleksasiriski/ffmpegof/ffmpegof?tag=HEAD-7e08e97-241021T121248-aarch64-Linux&download=ffmpegof.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aleksasiriski/ffmpegof/ffmpegof?tag=HEAD-7e08e97-241021T121248-aarch64-Linux&download=ffmpegof",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aleksasiriski/ffmpegof/ffmpegof:HEAD-7e08e97-241021T121248-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aleksasiriski/ffmpegof/ffmpegof",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aleksasiriski/ffmpegof/ffmpegof?tag=HEAD-7e08e97-241021T121248-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8bdf948ed6face1a45801cf0c66c37969553f8b092a3cfeda7a3d329ca1b785e",
+  "size": "12 MB",
+  "size_raw": "11968128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
