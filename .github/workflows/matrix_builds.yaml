@@ -226,6 +226,7 @@ jobs:
             if jq --arg "C_N" "${GPKG_NAME}" '.name == $C_N and .version and .version != ""' "${GPKG_META_RAW}" | grep -qi 'true'; then
              #Copy as-is
               cp -fv "${GPKG_META_RAW}" "${GPKG_META}"
+              echo -e "\n" && jq . "${GPKG_META}" ; echo -e "\n"
              #Export PKG ENV
               GPKG_DESCR="$(jq -r '.description' "${GPKG_META_RAW}" 2>/dev/null | grep -iv '^null$' | sed 's/^[[:space:]]*\|[[:space:]]*$//g')"
               GPKG_HOMEPAGE="$(jq -r '.homepage // .src_url // .clone // ""' "${GPKG_META_RAW}" 2>/dev/null | grep -iv '^null$' | sed 's/^[[:space:]]*\|[[:space:]]*$//g')"

@@ -138,7 +138,7 @@ GB_VERSION="0.0.1+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
       build_fail_gh
      exit 1 
     fi
-    mkdir -p "${BUILD_DIR}/BUILD_GPKG" 
+    mkdir -p "${BUILD_DIR}/BUILD_GPKG"
     mkdir -p "${BUILD_DIR}/BUILD_TMP"
  fi
  [[ "${GHA_MODE}" == "MATRIX" ]] && echo "BUILD_DIR=${BUILD_DIR}" >> "${GITHUB_ENV}"
@@ -226,7 +226,7 @@ GB_VERSION="0.0.1+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
     for GO_CMD_DIR in "${GO_CMD_DIRS[@]}"; do
      if [[ -d "$(realpath ${GO_CMD_DIR})" ]]; then
        GPKG_OWD="$(realpath .)"
-       if [[ "${GO_CMD_DIR}" == "./" ]]; then
+       if echo "${GO_CMD_DIR}" | grep -qE "^\./(api|build|builds|ci|circle|cli|cmd|config|configs|doc|docs|example|examples|git|githooks|github|init|internal|main|pkg|service|src|tool|tools|web)?$"; then
          GPKG_OUT="${G_ARTIFACT_DIR}/"
        else
          GPKG_OUT_T="${G_ARTIFACT_DIR}/$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
@@ -393,8 +393,9 @@ GB_VERSION="0.0.1+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "PKG_NAME=${PKG_NAME}" >> "${GITHUB_ENV}"
     #Version
      PKG_VERSION="${GPKG_VERSION##*[[:space:]]}"
-     echo "[+] Version: ${PKG_VERSION}"
-     export PKG_VERSION
+     PKG_VERSION_UPSTREAM="${GPKG_VERSION_UPSTREAM##*[[:space:]]}"
+     echo "[+] Version: ${PKG_VERSION} (Upstream: ${PKG_VERSION_UPSTREAM})"
+     export PKG_VERSION PKG_VERSION_UPSTREAM
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "PKG_VERSION=${PKG_VERSION}" >> "${GITHUB_ENV}"
     #Checksums
      PKG_BSUM="$(b3sum "${PROG}" | grep -oE '^[a-f0-9]{64}' | tr -d '[:space:]')"
@@ -564,7 +565,7 @@ GB_VERSION="0.0.1+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
        "src_url": (if env.PKG_SRC_URL then (env.PKG_SRC_URL | split(",") | map(gsub("^\\s+|\\s+$"; "")) | unique | sort) else [] end),
        "tag": (if env.PKG_TAGS then (env.PKG_TAGS | split(",") | map(gsub("^\\s+|\\s+$"; "")) | unique | sort) else [] end),
        "version": (env.PKG_VERSION // ""),
-       "version_upstream": (env.PKG_VERSION // ""),
+       "version_upstream": (env.PKG_VERSION_UPSTREAM // ""),
        "bsum": (env.PKG_BSUM // ""),
        "build_date": (env.PKG_DATE // ""),
        "build_gha": (env.BUILD_GHACTIONS // ""),
