@@ -545,7 +545,7 @@ jobs:
             pushd "/tmp" &>/dev/null
              if [[ -s "./BUILD_ARTIFACTS.zstd" && $(stat -c%s "./BUILD_ARTIFACTS.zstd") -gt 1000 ]]; then
                realpath "./BUILD_ARTIFACTS.zstd" && du -sh "./BUILD_ARTIFACTS.zstd"
-               ls -sh "${{ env.C_ARTIFACT_DIR }}"
+               ls -sh "${{ env.G_ARTIFACT_DIR }}"
                ghcr_push_cmd()
                  {
                   for i in {1..10}; do
@@ -635,7 +635,7 @@ jobs:
           subject-path: |
             "/tmp/BUILD.log"
             "/tmp/BUILD_ARTIFACTS.zstd"
-            ${{ env.C_ARTIFACT_DIR }}/**
+            ${{ env.G_ARTIFACT_DIR }}/**
           show-summary: true
         continue-on-error: true
 
