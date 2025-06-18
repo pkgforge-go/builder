@@ -232,6 +232,7 @@ jobs:
              #Export PKG ENV
               GPKG_DESCR="$(jq -r '.description' "${GPKG_META_RAW}" 2>/dev/null | grep -iv '^null$' | sed 's/^[[:space:]]*\|[[:space:]]*$//g')"
               GPKG_HOMEPAGE="$(jq -r '.homepage // .src_url // .clone // ""' "${GPKG_META_RAW}" 2>/dev/null | grep -iv '^null$' | sed 's/^[[:space:]]*\|[[:space:]]*$//g')"
+              GPKG_ID="$(jq -r '.pkg_id' "${GPKG_META_RAW}" 2>/dev/null | grep -iv '^null$' | tr -d '[:space:]')"
               GPKG_VERSION="$(jq -r '.version' "${GPKG_META_RAW}" 2>/dev/null | grep -iv 'null' | tr -d '[:space:]')"
               GPKG_VERSION_UPSTREAM="$(jq -r '.version_upstream' "${GPKG_META_RAW}" 2>/dev/null | grep -iv 'null' | tr -d '[:space:]')"
             else
@@ -241,13 +242,15 @@ jobs:
                 GPKG_DESCR="No Description Provided"
               fi
               GPKG_HOMEPAGE=""
+              GPKG_ID="$(echo "${GPKG_NAME}#${GPKG_SRCURL}" | awk '{i=index($0,"#"); h=substr($0,1,i); t=substr($0,i+1); gsub(/^https?:\/\//,"",t); gsub(/[^a-zA-Z0-9.]/,"_",t); gsub(/_+/,"_",t); sub(/^_+/,"",t); sub(/_+$/,"",t); print h t}' | tr -d '"'\''[:space:]')"
               GPKG_VERSION="$(date --utc +'%Y%m%dT%H%M%S' | tr -d '[:space:]')"
               GPKG_VERSION_UPSTREAM=""
             fi
            #Export 
-            export GPKG_DESCR GPKG_META GPKG_META_RAW GPKG_NAME GPKG_VERSION GPKG_VERSION_UPSTREAM
+            export GPKG_DESCR GPKG_HOMEPAGE GPKG_ID GPKG_META GPKG_META_RAW GPKG_NAME GPKG_VERSION GPKG_VERSION_UPSTREAM
             echo "GPKG_DESCR=${GPKG_DESCR}" >> "${GITHUB_ENV}"
             echo "GPKG_HOMEPAGE=${GPKG_HOMEPAGE}" >> "${GITHUB_ENV}"
+            echo "GPKG_ID=${GPKG_ID}" >> "${GITHUB_ENV}"
             echo "GPKG_META=${GPKG_META}" >> "${GITHUB_ENV}"
             echo "GPKG_META_RAW=${GPKG_META_RAW}" >> "${GITHUB_ENV}"
             echo "GPKG_VERSION=${GPKG_VERSION}" >> "${GITHUB_ENV}"

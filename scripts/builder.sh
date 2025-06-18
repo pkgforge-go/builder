@@ -244,7 +244,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
        GPKG_OWD="$(realpath .)"
        if [[ ${#GO_CMD_DIRS[@]} -eq 1 ]]; then
          GPKG_OUT_T="${G_ARTIFACT_DIR}/${GPKG_NAME_L}"
-       elif echo "${GO_CMD_DIR}" | grep -qE "^\./(api|build|builds|ci|circle|cli|cmd|config|configs|doc|docs|example|examples|git|githooks|github|init|internal|main|pkg|service|src|tool|tools|web)?$"; then
+       elif echo "${GO_CMD_DIR}" | grep -qE "^\./(api|bin|build|builds|ci|circle|cli|cmd|config|configs|doc|docs|example|examples|git|githooks|github|init|internal|main|pkg|service|src|tool|tools|web)?$"; then
          GPKG_OUT_T="${G_ARTIFACT_DIR}/${GPKG_NAME_L}-$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
        else
          GPKG_OUT_T="${G_ARTIFACT_DIR}/$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
@@ -469,7 +469,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
     #ID
      BUILD_ID="${GITHUB_RUN_ID}"
      BUILD_GHACTIONS="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
-     PKG_ID="pkgforge-go.${GPKG_NAME}.stable"
+     PKG_ID="${GPKG_ID:-pkgforge-go.${GPKG_NAME}.stable}"
      export BUILD_ID BUILD_GHACTIONS PKG_ID
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "BUILD_GHACTIONS=${BUILD_GHACTIONS}" >> "${GITHUB_ENV}"
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "BUILD_ID=${BUILD_ID}" >> "${GITHUB_ENV}"

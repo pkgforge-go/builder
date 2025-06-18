@@ -63,6 +63,8 @@ jobs:
           set +x ; set +e
           #--------------#
           ##Main
+          #export PARALLEL_LIMIT="$(($(nproc)+1))"
+          export PARALLEL_LIMIT="25"
           dos2unix --quiet "${GITHUB_WORKSPACE}/main/scripts/_get_initial_list.sh"
           chmod +x "${GITHUB_WORKSPACE}/main/scripts/_get_initial_list.sh"
           bash "${GITHUB_WORKSPACE}/main/scripts/_get_initial_list.sh"
