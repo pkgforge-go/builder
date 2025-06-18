@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "get",
+  "pkg_family": "aerospike-client-go",
+  "pkg_id": "get#github.com_aerospike_aerospike_client_go",
+  "pkg_name": "get",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aerospike/aerospike-client-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Aerospike Client Go",
+  "homepage": [
+    "https://github.com/aerospike/aerospike-client-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add",
+    "append",
+    "asinfo",
+    "average",
+    "batch",
+    "benchmark",
+    "blob",
+    "cli",
+    "count_set_objects",
+    "custom_list_iter",
+    "expire",
+    "expressions",
+    "generation",
+    "geojson_query",
+    "get",
+    "info",
+    "list_map",
+    "operate",
+    "prepend",
+    "put",
+    "putget",
+    "replace",
+    "scan_paginate",
+    "scan_parallel",
+    "scan_serial",
+    "simple",
+    "single_bin_sum",
+    "tls_secure_connection",
+    "touch",
+    "udf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aerospike/aerospike-client-go/archive/174a824b25f0440cd94d24b64b875910d448dc09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-174a824-250505T222527",
+  "version_upstream": "v8.2.2",
+  "bsum": "6f6d686397ac79f611f1114ddd8eb38b5e075f014cfb1e1d2e888d290d7b4238",
+  "build_date": "2025-06-18T15:14:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735357044",
+  "build_id": "15735357044",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/aerospike-client-go/get?tag=HEAD-174a824-250505T222527-aarch64-Linux&download=get.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "450",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/aerospike-client-go/get?tag=HEAD-174a824-250505T222527-aarch64-Linux&download=get",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aerospike/aerospike-client-go/get:HEAD-174a824-250505T222527-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aerospike/aerospike-client-go/get",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/aerospike-client-go/get?tag=HEAD-174a824-250505T222527-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b037d86df27da63722e0987b2f554ae3a67e978ebf846269a734978b7b619ab2",
+  "size": "7.1 MB",
+  "size_raw": "7367456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
