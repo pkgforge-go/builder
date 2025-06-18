@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "files",
+  "pkg_family": "aptly",
+  "pkg_id": "files#github.com_aptly_dev_aptly",
+  "pkg_name": "files",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aptly-dev/aptly",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "aptly - Debian repository management tool",
+  "homepage": [
+    "https://github.com/aptly-dev/aptly"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aptly",
+    "files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aptly-dev/aptly/archive/d1bfd29dfd8fa6f1e32a51c7e9249c2880a2bf52.tar.gz"
+  ],
+  "tag": [
+    "apt",
+    "debian",
+    "go",
+    "packaging",
+    "ubuntu"
+  ],
+  "version": "HEAD-d1bfd29-250609T181235",
+  "version_upstream": "v1.6.2",
+  "bsum": "a2e9adfdfb5e17e93eaec29766193d5024f28c347a1c0facc6ebfeb9ec886b11",
+  "build_date": "2025-06-18T16:31:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737450591",
+  "build_id": "15737450591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aptly-dev/aptly/files?tag=HEAD-d1bfd29-250609T181235-loongarch64-Linux&download=files.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2663",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aptly-dev/aptly/files?tag=HEAD-d1bfd29-250609T181235-loongarch64-Linux&download=files",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aptly-dev/aptly/files:HEAD-d1bfd29-250609T181235-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aptly-dev/aptly/files",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aptly-dev/aptly/files?tag=HEAD-d1bfd29-250609T181235-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67582cc6efede9b9defb7ac22458503e1303805fb3b3f22da6e193ea90c98869",
+  "size": "2.6 MB",
+  "size_raw": "2702232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
