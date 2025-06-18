@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mse",
+  "pkg_family": "torrent",
+  "pkg_id": "mse#github.com_anacrolix_torrent",
+  "pkg_name": "mse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/torrent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full-featured BitTorrent client package and utilities",
+  "homepage": [
+    "https://github.com/anacrolix/torrent"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "iplist",
+    "mse",
+    "pack-blocklist",
+    "torrent2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/torrent/archive/1e3f1bf041caed8db098ee899d0625b599a98f47.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "go",
+    "magnet-link",
+    "p2p",
+    "streaming",
+    "torrent",
+    "tracker"
+  ],
+  "version": "HEAD-1e3f1bf-250506T121736",
+  "version_upstream": "",
+  "bsum": "c19bd1c72fcfa2306c6b601803c4c75ba4f237e24d14d0a7fae54c2c8a42117b",
+  "build_date": "2025-06-18T16:04:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736530993",
+  "build_id": "15736530993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/mse?tag=HEAD-1e3f1bf-250506T121736-loongarch64-Linux&download=mse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/mse?tag=HEAD-1e3f1bf-250506T121736-loongarch64-Linux&download=mse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/torrent/mse:HEAD-1e3f1bf-250506T121736-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/torrent/mse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/mse?tag=HEAD-1e3f1bf-250506T121736-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d43857e6022c115a9956fa39f44f1f24890d72d5bcc43b4bb13c50a122bac68c",
+  "size": "4.3 MB",
+  "size_raw": "4417472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

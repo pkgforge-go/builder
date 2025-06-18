@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "iplist",
+  "pkg_family": "torrent",
+  "pkg_id": "iplist#github.com_anacrolix_torrent",
+  "pkg_name": "iplist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/torrent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full-featured BitTorrent client package and utilities",
+  "homepage": [
+    "https://github.com/anacrolix/torrent"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "iplist",
+    "mse",
+    "pack-blocklist",
+    "torrent2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/torrent/archive/1e3f1bf041caed8db098ee899d0625b599a98f47.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "go",
+    "magnet-link",
+    "p2p",
+    "streaming",
+    "torrent",
+    "tracker"
+  ],
+  "version": "HEAD-1e3f1bf-250506T121736",
+  "version_upstream": "",
+  "bsum": "99b5549cce5713bded12108b81a8f05f6d48cb3be8c66c24eea3e134efb10dd0",
+  "build_date": "2025-06-18T16:04:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736530993",
+  "build_id": "15736530993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/iplist?tag=HEAD-1e3f1bf-250506T121736-loongarch64-Linux&download=iplist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/iplist?tag=HEAD-1e3f1bf-250506T121736-loongarch64-Linux&download=iplist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/torrent/iplist:HEAD-1e3f1bf-250506T121736-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/torrent/iplist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/iplist?tag=HEAD-1e3f1bf-250506T121736-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c21cf53c0ad7a010c6476ee45ed159dbba6f52c552610ad7194b20d396ab025",
+  "size": "4.4 MB",
+  "size_raw": "4543040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
