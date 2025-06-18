@@ -274,6 +274,7 @@ GB_VERSION="0.0.1+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
       [[ "${GPKG_SRCURL}" =~ /archive/ ]]; then
       cd "${BUILD_DIR}/BUILD_GPKG"
       archive_file="${BUILD_DIR}/BUILD_TMP/${GPKG_NAME}.archive"
+      curl -w "(DL) <== %{url}\n" -qfsSL "${GPKG_SRCURL}" -o "${archive_file}"
       file_type="$(file -b "${archive_file}" 2>/dev/null)"
       case "$file_type" in
         *"gzip compressed"*|*"tar archive"*)
