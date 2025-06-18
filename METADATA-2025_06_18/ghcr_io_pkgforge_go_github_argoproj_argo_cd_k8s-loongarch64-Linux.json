@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "k8s",
+  "pkg_family": "argo-cd",
+  "pkg_id": "k8s#github.com_argoproj_argo_cd",
+  "pkg_name": "k8s",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-cd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Declarative Continuous Deployment for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-cd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "argo-cd-cmd",
+    "cmd",
+    "cmd-docs",
+    "dev-mounter",
+    "gen-catalog",
+    "gen-crd-spec",
+    "gen-docs",
+    "k8s",
+    "known_types"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-cd/archive/a671cc9b2332324146d03698dab1d8cf68cee512.tar.gz"
+  ],
+  "tag": [
+    "argo",
+    "argo-cd",
+    "cd",
+    "ci-cd",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "devops",
+    "docker",
+    "gitops",
+    "hacktoberfest",
+    "helm",
+    "jsonnet",
+    "kubernetes",
+    "kustomize",
+    "pipeline"
+  ],
+  "version": "HEAD-a671cc9-250618T010624",
+  "version_upstream": "",
+  "bsum": "c80d397c15e83ed0ff33fbce0d8180b6b61fa387065ea830857f8073fc88c3c6",
+  "build_date": "2025-06-18T16:59:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737582616",
+  "build_id": "15737582616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/k8s?tag=HEAD-a671cc9-250618T010624-loongarch64-Linux&download=k8s.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/k8s?tag=HEAD-a671cc9-250618T010624-loongarch64-Linux&download=k8s",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-cd/k8s:HEAD-a671cc9-250618T010624-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-cd/k8s",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/k8s?tag=HEAD-a671cc9-250618T010624-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a20b56c6113a7fe5a41879fbe7225595379d4ae326d0225ba6d1672386388647",
+  "size": "80 MB",
+  "size_raw": "83729008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
