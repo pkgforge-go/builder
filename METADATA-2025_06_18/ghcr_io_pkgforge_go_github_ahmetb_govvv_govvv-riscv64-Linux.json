@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "govvv",
+  "pkg_family": "govvv",
+  "pkg_id": "govvv#github.com_ahmetb_govvv",
+  "pkg_name": "govvv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ahmetb/govvv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_go build_ wrapper to add version info to Golang applications",
+  "homepage": [
+    "https://github.com/ahmetb/govvv"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-different-package",
+    "app-empty",
+    "app-example",
+    "app-extra-ldflags",
+    "app-versioned",
+    "govvv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ahmetb/govvv/archive/ce1f54b04cec8d599f54c85b19b263710d918b05.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "versioning"
+  ],
+  "version": "HEAD-ce1f54b-230324T095149",
+  "version_upstream": "",
+  "bsum": "d6dc78076e5eb066d858c9c53a4e24d16bab7069faa17e5df6de822846fc0aa3",
+  "build_date": "2025-06-18T15:04:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735484418",
+  "build_id": "15735484418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ahmetb/govvv/govvv?tag=HEAD-ce1f54b-230324T095149-riscv64-Linux&download=govvv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "537",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ahmetb/govvv/govvv?tag=HEAD-ce1f54b-230324T095149-riscv64-Linux&download=govvv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ahmetb/govvv/govvv:HEAD-ce1f54b-230324T095149-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ahmetb/govvv/govvv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ahmetb/govvv/govvv?tag=HEAD-ce1f54b-230324T095149-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "91260741ea3f8ea59c0467e47e3aa2f36eb7c25f5980730ef3411ae680123599",
+  "size": "1.9 MB",
+  "size_raw": "1962376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
