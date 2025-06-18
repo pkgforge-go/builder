@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "simplesrv",
+  "pkg_family": "diamond",
+  "pkg_id": "simplesrv#github.com_aerth_diamond",
+  "pkg_name": "simplesrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aerth/diamond",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Runlevel 1, you stay unix socket. Runlevel 3, you listen tcp! Kicks old process on boot. Shuts down when kicked by new process. Could contribute to less downtime between app restarts and upgrades.",
+  "homepage": [
+    "https://github.com/aerth/diamond"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "simplesrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aerth/diamond/archive/177650ec85b5605f1fc3d99fbc03a2ed8032e4f8.tar.gz"
+  ],
+  "tag": [
+    "administrator",
+    "kick",
+    "listeners",
+    "runlevel",
+    "runlevels",
+    "server",
+    "unix-socket",
+    "web-application"
+  ],
+  "version": "HEAD-177650e-201223T201305",
+  "version_upstream": "v0.4.9",
+  "bsum": "e734ed5c9a567c8b384d71e2bdc60f14adb96fdbeed5a271be603d93d143b281",
+  "build_date": "2025-06-18T15:03:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735378306",
+  "build_id": "15735378306",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerth/diamond/simplesrv?tag=HEAD-177650e-201223T201305-riscv64-Linux&download=simplesrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerth/diamond/simplesrv?tag=HEAD-177650e-201223T201305-riscv64-Linux&download=simplesrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aerth/diamond/simplesrv:HEAD-177650e-201223T201305-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aerth/diamond/simplesrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerth/diamond/simplesrv?tag=HEAD-177650e-201223T201305-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db787234bb689d6122d1ded52aea5dd4f547ec9c7c5a29f773ba9936f9ee61fe",
+  "size": "8.0 MB",
+  "size_raw": "8331288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
