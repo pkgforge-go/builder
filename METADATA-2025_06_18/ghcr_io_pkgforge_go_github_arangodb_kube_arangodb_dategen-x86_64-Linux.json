@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dategen",
+  "pkg_family": "kube-arangodb",
+  "pkg_id": "dategen#github.com_arangodb_kube_arangodb",
+  "pkg_name": "dategen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arangodb/kube-arangodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min",
+  "homepage": [
+    "https://github.com/arangodb/kube-arangodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dategen",
+    "license",
+    "main",
+    "main-int",
+    "main-ops",
+    "main-platform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arangodb/kube-arangodb/archive/3e41ba0cd072ee47b045725686e741d810f056f9.tar.gz"
+  ],
+  "tag": [
+    "arangodb",
+    "k8s",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-3e41ba0-250618T101825",
+  "version_upstream": "",
+  "bsum": "fe149dd6f584e41ad7d0f424ba3f337eb9a97bfd16b9782d0c40cc5c92502dc4",
+  "build_date": "2025-06-18T16:42:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737525069",
+  "build_id": "15737525069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/dategen?tag=HEAD-3e41ba0-250618T101825-x86_64-Linux&download=dategen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "229",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/dategen?tag=HEAD-3e41ba0-250618T101825-x86_64-Linux&download=dategen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/dategen:HEAD-3e41ba0-250618T101825-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/dategen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/dategen?tag=HEAD-3e41ba0-250618T101825-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c12111757e21bef02c7585c9e03ee842238981a5d8b47b30e31866582245aae8",
+  "size": "1.4 MB",
+  "size_raw": "1464664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

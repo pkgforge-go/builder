@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "license",
+  "pkg_family": "kube-arangodb",
+  "pkg_id": "license#github.com_arangodb_kube_arangodb",
+  "pkg_name": "license",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arangodb/kube-arangodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min",
+  "homepage": [
+    "https://github.com/arangodb/kube-arangodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dategen",
+    "license",
+    "main",
+    "main-int",
+    "main-ops",
+    "main-platform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arangodb/kube-arangodb/archive/3e41ba0cd072ee47b045725686e741d810f056f9.tar.gz"
+  ],
+  "tag": [
+    "arangodb",
+    "k8s",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-3e41ba0-250618T101825",
+  "version_upstream": "",
+  "bsum": "f61f1bac8a23b3332c2c04763a49307011bde45d5611cc75c4957fa912410ba5",
+  "build_date": "2025-06-18T16:42:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737525069",
+  "build_id": "15737525069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/license?tag=HEAD-3e41ba0-250618T101825-x86_64-Linux&download=license.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "229",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/license?tag=HEAD-3e41ba0-250618T101825-x86_64-Linux&download=license",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/license:HEAD-3e41ba0-250618T101825-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/license",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/license?tag=HEAD-3e41ba0-250618T101825-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "984649d979e74541f9d9fafd23fd6f86c7bb2bfaf2fb625984453fc10498f9ee",
+  "size": "19 MB",
+  "size_raw": "19043008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
