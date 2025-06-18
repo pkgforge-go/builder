@@ -111,7 +111,7 @@ jobs:
            ' "./BUILD_LIST.json" "./PKGS_CLI_ONLY.json" > "${SYSTMP}/TEMP/BUILD_LIST.json"
           cat "${SYSTMP}/TEMP/BUILD_LIST.json" | jq -s 'sort_by(.pkg_id)' > "${SYSTMP}/TEMP/LIST.json"
           ##Set Input (256 builds)
-          BUILD_LIST="$(jq -c '[.[]] | .[:25]' "${SYSTMP}/TEMP/LIST.json")"
+          BUILD_LIST="$(jq -c '[.[]] | .[:256]' "${SYSTMP}/TEMP/LIST.json")"
           echo "${BUILD_LIST}" | jq -r '.[] | .pkg_id' | sort -u >> "${GITHUB_WORKSPACE}/main/data/QUEUE_LIST.txt"
           sort -u "${GITHUB_WORKSPACE}/main/data/QUEUE_LIST.txt" -o "${GITHUB_WORKSPACE}/main/data/QUEUE_LIST.txt"
           sed -E 's/^[[:space:]]+|[[:space:]]+$//g' -i "${GITHUB_WORKSPACE}/main/data/QUEUE_LIST.txt"
