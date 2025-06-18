@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "userconfigs",
+  "pkg_family": "aiven-operator",
+  "pkg_id": "userconfigs#github.com_aiven_aiven_operator",
+  "pkg_name": "userconfigs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aiven/aiven-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision and manage Aiven Services from your Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/aiven/aiven-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aiven-operator",
+    "charts",
+    "docs",
+    "sweeper",
+    "userconfigs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aiven/aiven-operator/archive/3700fbb2cb7cc5193a5d762dcebd17d957201710.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "data",
+    "databases",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-3700fbb-250618T130409",
+  "version_upstream": "",
+  "bsum": "00406a42551036cd4e22238e9f1bf5b9ed27c031380d0ca0b16941a05b5afafa",
+  "build_date": "2025-06-18T15:08:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735650385",
+  "build_id": "15735650385",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aiven/aiven-operator/userconfigs?tag=HEAD-3700fbb-250618T130409-x86_64-Linux&download=userconfigs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aiven/aiven-operator/userconfigs?tag=HEAD-3700fbb-250618T130409-x86_64-Linux&download=userconfigs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aiven/aiven-operator/userconfigs:HEAD-3700fbb-250618T130409-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aiven/aiven-operator/userconfigs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aiven/aiven-operator/userconfigs?tag=HEAD-3700fbb-250618T130409-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c35930bf0e68c392fcf895a36ae1b3e5fcfd16ee46dec0d9d412f2ca38ddb55d",
+  "size": "9.8 MB",
+  "size_raw": "10228696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
