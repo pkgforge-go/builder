@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "wasmbrowsertest",
+  "pkg_family": "wasmbrowsertest",
+  "pkg_id": "wasmbrowsertest#github.com_agnivade_wasmbrowsertest",
+  "pkg_name": "wasmbrowsertest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/agnivade/wasmbrowsertest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run WASM tests inside your browser",
+  "homepage": [
+    "https://github.com/agnivade/wasmbrowsertest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanenv",
+    "wasmbrowsertest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/agnivade/wasmbrowsertest/archive/eec8f6b3828fd793968ed35171566ab20de7b4cc.tar.gz"
+  ],
+  "tag": [
+    "browser",
+    "chromedp",
+    "exec",
+    "golang",
+    "runtime",
+    "testing",
+    "wasm"
+  ],
+  "version": "HEAD-eec8f6b-250323T203458",
+  "version_upstream": "v0.11.0",
+  "bsum": "81862ab1cdecd7a1873cced84c22cd13d4400caada9202c88e7a23cb7d27fcad",
+  "build_date": "2025-06-18T15:04:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735400355",
+  "build_id": "15735400355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agnivade/wasmbrowsertest/wasmbrowsertest?tag=HEAD-eec8f6b-250323T203458-aarch64-Linux&download=wasmbrowsertest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agnivade/wasmbrowsertest/wasmbrowsertest?tag=HEAD-eec8f6b-250323T203458-aarch64-Linux&download=wasmbrowsertest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/agnivade/wasmbrowsertest/wasmbrowsertest:HEAD-eec8f6b-250323T203458-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/agnivade/wasmbrowsertest/wasmbrowsertest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agnivade/wasmbrowsertest/wasmbrowsertest?tag=HEAD-eec8f6b-250323T203458-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fac32b790c3ac5dfb1f9ad461326171a18a8ea59a8a90128ba6aa8a5986f2506",
+  "size": "14 MB",
+  "size_raw": "13836192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

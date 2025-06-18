@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cleanenv",
+  "pkg_family": "wasmbrowsertest",
+  "pkg_id": "cleanenv#github.com_agnivade_wasmbrowsertest",
+  "pkg_name": "cleanenv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/agnivade/wasmbrowsertest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run WASM tests inside your browser",
+  "homepage": [
+    "https://github.com/agnivade/wasmbrowsertest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanenv",
+    "wasmbrowsertest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/agnivade/wasmbrowsertest/archive/eec8f6b3828fd793968ed35171566ab20de7b4cc.tar.gz"
+  ],
+  "tag": [
+    "browser",
+    "chromedp",
+    "exec",
+    "golang",
+    "runtime",
+    "testing",
+    "wasm"
+  ],
+  "version": "HEAD-eec8f6b-250323T203458",
+  "version_upstream": "v0.11.0",
+  "bsum": "582f968d5fdce4bd685929dd1feda2e3a38d035735bed3ee9f8f27273a7e8741",
+  "build_date": "2025-06-18T15:04:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735400355",
+  "build_id": "15735400355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agnivade/wasmbrowsertest/cleanenv?tag=HEAD-eec8f6b-250323T203458-aarch64-Linux&download=cleanenv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agnivade/wasmbrowsertest/cleanenv?tag=HEAD-eec8f6b-250323T203458-aarch64-Linux&download=cleanenv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/agnivade/wasmbrowsertest/cleanenv:HEAD-eec8f6b-250323T203458-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/agnivade/wasmbrowsertest/cleanenv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agnivade/wasmbrowsertest/cleanenv?tag=HEAD-eec8f6b-250323T203458-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "86797505384f22312e7a904644140b785226dbbacf9bb40200c20d07a5629c7d",
+  "size": "2.0 MB",
+  "size_raw": "2032504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
