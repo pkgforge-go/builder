@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sales",
+  "pkg_family": "service",
+  "pkg_id": "sales#github.com_ardanlabs_service",
+  "pkg_name": "sales",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ardanlabs/service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Starter-kit for writing services in Go using Kubernetes.",
+  "homepage": [
+    "https://github.com/ardanlabs/service"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "auth",
+    "logfmt",
+    "metrics",
+    "sales"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ardanlabs/service/archive/ed4b7ceee05169a33e6bee683a9dbbaac5410230.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed4b7ce-250612T103718",
+  "version_upstream": "",
+  "bsum": "a0e1deb162964a4d59ea8a5567f82d90ee9e037d679affa62e02488898f910bd",
+  "build_date": "2025-06-18T16:39:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737527939",
+  "build_id": "15737527939",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/sales?tag=HEAD-ed4b7ce-250612T103718-aarch64-Linux&download=sales.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3799",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/sales?tag=HEAD-ed4b7ce-250612T103718-aarch64-Linux&download=sales",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ardanlabs/service/sales:HEAD-ed4b7ce-250612T103718-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ardanlabs/service/sales",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/sales?tag=HEAD-ed4b7ce-250612T103718-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85aee45545136e690ccc297cdaac3c4c34cc41bab80f50776d76118b4e56d743",
+  "size": "38 MB",
+  "size_raw": "39400672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
