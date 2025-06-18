@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "admin",
+  "pkg_family": "service",
+  "pkg_id": "admin#github.com_ardanlabs_service",
+  "pkg_name": "admin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ardanlabs/service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Starter-kit for writing services in Go using Kubernetes.",
+  "homepage": [
+    "https://github.com/ardanlabs/service"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "auth",
+    "logfmt",
+    "metrics",
+    "sales"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ardanlabs/service/archive/ed4b7ceee05169a33e6bee683a9dbbaac5410230.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed4b7ce-250612T103718",
+  "version_upstream": "",
+  "bsum": "6abe782de063653f779d2a4635ef3aadfac757e5f81d22ccfa3c48044b7b0c41",
+  "build_date": "2025-06-18T16:40:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737527939",
+  "build_id": "15737527939",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/admin?tag=HEAD-ed4b7ce-250612T103718-riscv64-Linux&download=admin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3799",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/admin?tag=HEAD-ed4b7ce-250612T103718-riscv64-Linux&download=admin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ardanlabs/service/admin:HEAD-ed4b7ce-250612T103718-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ardanlabs/service/admin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/admin?tag=HEAD-ed4b7ce-250612T103718-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7d19b9dec83808f665d964d548c726fae5f0fe7c5dca2c70412cf29d308a8df",
+  "size": "27 MB",
+  "size_raw": "27381400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
