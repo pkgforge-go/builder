@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tracee-bench",
+  "pkg_family": "tracee",
+  "pkg_id": "tracee-bench#github.com_aquasecurity_tracee",
+  "pkg_name": "tracee-bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/tracee",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux Runtime Security and Forensics using eBPF",
+  "homepage": [
+    "https://github.com/aquasecurity/tracee"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ds_writer",
+    "evt",
+    "tracee-bench",
+    "tracee-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/tracee/archive/0605bd7ebc623f232251fb74abc2fc358250fe7b.tar.gz"
+  ],
+  "tag": [
+    "bpf",
+    "docker",
+    "ebpf",
+    "golang",
+    "kubernetes",
+    "linux",
+    "runtime-security",
+    "security"
+  ],
+  "version": "HEAD-0605bd7-250616T090125",
+  "version_upstream": "",
+  "bsum": "0518102b4c215644fc5ce3da3dd124afc7afdecd43705754aaab73a070911972",
+  "build_date": "2025-06-18T16:39:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737519888",
+  "build_id": "15737519888",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/tracee-bench?tag=HEAD-0605bd7-250616T090125-loongarch64-Linux&download=tracee-bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3926",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/tracee-bench?tag=HEAD-0605bd7-250616T090125-loongarch64-Linux&download=tracee-bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/tracee/tracee-bench:HEAD-0605bd7-250616T090125-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/tracee/tracee-bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/tracee-bench?tag=HEAD-0605bd7-250616T090125-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27ac907d4aaf205860832a653842938cf0eba08126a856df1f36f70c858f96f0",
+  "size": "12 MB",
+  "size_raw": "11848752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

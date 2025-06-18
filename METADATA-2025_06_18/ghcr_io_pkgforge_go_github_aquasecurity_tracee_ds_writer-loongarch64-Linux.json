@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ds_writer",
+  "pkg_family": "tracee",
+  "pkg_id": "ds_writer#github.com_aquasecurity_tracee",
+  "pkg_name": "ds_writer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/tracee",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux Runtime Security and Forensics using eBPF",
+  "homepage": [
+    "https://github.com/aquasecurity/tracee"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ds_writer",
+    "evt",
+    "tracee-bench",
+    "tracee-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/tracee/archive/0605bd7ebc623f232251fb74abc2fc358250fe7b.tar.gz"
+  ],
+  "tag": [
+    "bpf",
+    "docker",
+    "ebpf",
+    "golang",
+    "kubernetes",
+    "linux",
+    "runtime-security",
+    "security"
+  ],
+  "version": "HEAD-0605bd7-250616T090125",
+  "version_upstream": "",
+  "bsum": "c870d628704540fab387dc48d97fb0c02fbbbe0092c79b85cf5ccc845c44f661",
+  "build_date": "2025-06-18T16:39:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737519888",
+  "build_id": "15737519888",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/ds_writer?tag=HEAD-0605bd7-250616T090125-loongarch64-Linux&download=ds_writer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3926",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/ds_writer?tag=HEAD-0605bd7-250616T090125-loongarch64-Linux&download=ds_writer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/tracee/ds_writer:HEAD-0605bd7-250616T090125-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/tracee/ds_writer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/ds_writer?tag=HEAD-0605bd7-250616T090125-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ab77b99b9832466b5df8e1551acf911cb2f5a36f48c90cce42f1323a33a3942",
+  "size": "12 MB",
+  "size_raw": "11616128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
