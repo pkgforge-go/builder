@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "protocol",
+  "pkg_family": "gev",
+  "pkg_id": "protocol#github.com_Allenxuxu_gev",
+  "pkg_name": "protocol",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Allenxuxu/gev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.",
+  "homepage": [
+    "https://github.com/Allenxuxu/gev"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bufferlength",
+    "client",
+    "echo",
+    "evio-echo-server",
+    "eviop-echo-server",
+    "gev-echo-server",
+    "gnet-echo-server",
+    "idleconnection",
+    "maxconnection",
+    "net-echo-server",
+    "protocol",
+    "pushmessage",
+    "sendasync",
+    "server",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Allenxuxu/gev/archive/d685a7d88775df400d2b0a74d64be3e48f2e90bf.tar.gz"
+  ],
+  "tag": [
+    "epoll",
+    "epoll-tcp-server",
+    "event-driven",
+    "evio",
+    "gev",
+    "go",
+    "golang",
+    "gomaxprocs",
+    "goroutine",
+    "kqueue",
+    "network-programming",
+    "nonblocking",
+    "protocol",
+    "reactor",
+    "websocket"
+  ],
+  "version": "HEAD-d685a7d-250608T005639",
+  "version_upstream": "",
+  "bsum": "cb8b94246d10607094c257910e6b888e7b52df3781b836d0d2a59c5778ad72c3",
+  "build_date": "2025-06-18T14:26:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734710258",
+  "build_id": "15734710258",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allenxuxu/gev/protocol?tag=HEAD-d685a7d-250608T005639-aarch64-Linux&download=protocol.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1752",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allenxuxu/gev/protocol?tag=HEAD-d685a7d-250608T005639-aarch64-Linux&download=protocol",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/allenxuxu/gev/protocol:HEAD-d685a7d-250608T005639-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/allenxuxu/gev/protocol",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allenxuxu/gev/protocol?tag=HEAD-d685a7d-250608T005639-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "463d0344064dd7e87199eaeca58be14db2a0fae215252dcdce925ab5f1fc18c9",
+  "size": "2.5 MB",
+  "size_raw": "2598328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
