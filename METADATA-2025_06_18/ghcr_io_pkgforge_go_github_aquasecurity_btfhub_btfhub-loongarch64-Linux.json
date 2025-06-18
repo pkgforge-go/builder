@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "btfhub",
+  "pkg_family": "btfhub",
+  "pkg_id": "btfhub#github.com_aquasecurity_btfhub",
+  "pkg_name": "btfhub",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/btfhub",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BTFhub, in collaboration with the BTFhub Archive repository, supplies BTF files for all published kernels that lack native support for embedded BTF. This joint effort ensures that even kernels without built-in BTF support can effectively leverage the benefits of eBPF programs, promoting compatibility across various kernel versions.",
+  "homepage": [
+    "https://github.com/aquasecurity/btfhub"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "btfhub"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/btfhub/archive/76144e3a8982c0a2fbed5e0ae0028e5845405579.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "kernel",
+    "linux"
+  ],
+  "version": "HEAD-76144e3-250613T165147",
+  "version_upstream": "",
+  "bsum": "a5683bf34b083b3a086bcb35381d66b68021508729638ca257f036c6e410c7f1",
+  "build_date": "2025-06-18T16:34:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737455163",
+  "build_id": "15737455163",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/btfhub/btfhub?tag=HEAD-76144e3-250613T165147-loongarch64-Linux&download=btfhub.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "433",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/btfhub/btfhub?tag=HEAD-76144e3-250613T165147-loongarch64-Linux&download=btfhub",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/btfhub/btfhub:HEAD-76144e3-250613T165147-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/btfhub/btfhub",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/btfhub/btfhub?tag=HEAD-76144e3-250613T165147-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "52449b00b17606c91937ecd4b25a9daf754ba4b6aca2b59f0d73c39df11796b8",
+  "size": "8.3 MB",
+  "size_raw": "8697024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
