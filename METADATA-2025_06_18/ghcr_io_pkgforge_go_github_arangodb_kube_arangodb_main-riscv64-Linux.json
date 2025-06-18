@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "kube-arangodb",
+  "pkg_id": "main#github.com_arangodb_kube_arangodb",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arangodb/kube-arangodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min",
+  "homepage": [
+    "https://github.com/arangodb/kube-arangodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dategen",
+    "license",
+    "main",
+    "main-int",
+    "main-ops",
+    "main-platform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arangodb/kube-arangodb/archive/3e41ba0cd072ee47b045725686e741d810f056f9.tar.gz"
+  ],
+  "tag": [
+    "arangodb",
+    "k8s",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-3e41ba0-250618T101825",
+  "version_upstream": "",
+  "bsum": "b6f3035e071bffd7625b10fa2a4302703e5adcbdcbdc92caf4ff07eef3339808",
+  "build_date": "2025-06-18T16:44:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737525069",
+  "build_id": "15737525069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/main?tag=HEAD-3e41ba0-250618T101825-riscv64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "229",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/main?tag=HEAD-3e41ba0-250618T101825-riscv64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/main:HEAD-3e41ba0-250618T101825-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/main?tag=HEAD-3e41ba0-250618T101825-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69d117f66ab7c62f81e360e7490172f9344c50e801f5f2c21410659139670671",
+  "size": "140 MB",
+  "size_raw": "146568920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
