@@ -601,7 +601,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
        "provides": (if env.PKG_PROVIDES then (env.PKG_PROVIDES | split(",") | map(gsub("^\\s+|\\s+$"; "")) | unique | sort) else [] end),
        "note": [
          "[EXTERNAL] (This is an Official but externally maintained repository)",
-         "This package was automatically built from source using zig+go",
+         "This package was automatically built from source using go+zig",
          "Provided by: https://github.com/pkgforge-go/builder",
          "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
        ],
