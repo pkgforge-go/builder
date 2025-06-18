@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hello-world-static",
+  "pkg_family": "templ",
+  "pkg_id": "hello-world-static#github.com_a_h_templ",
+  "pkg_name": "hello-world-static",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/a-h/templ",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A language for writing HTML user interfaces in Go.",
+  "homepage": [
+    "https://github.com/a-h/templ"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "components",
+    "content-security-policy",
+    "hello-world-ssr",
+    "hello-world-static",
+    "templ",
+    "testprogram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/a-h/templ/archive/63238fc6136f1e731754ede085177544fd95df23.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "html-elements",
+    "htmx",
+    "ide-support",
+    "language-server",
+    "lsp",
+    "server-side-rendering",
+    "templating-languages"
+  ],
+  "version": "HEAD-63238fc-250617T143303",
+  "version_upstream": "",
+  "bsum": "d398d2f44c027891297dc2aef0d6bc2700846ca89735790829feef83e1b27dd5",
+  "build_date": "2025-06-18T14:34:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734748691",
+  "build_id": "15734748691",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/a-h/templ/hello-world-static?tag=HEAD-63238fc-250617T143303-loongarch64-Linux&download=hello-world-static.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9385",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/a-h/templ/hello-world-static?tag=HEAD-63238fc-250617T143303-loongarch64-Linux&download=hello-world-static",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/a-h/templ/hello-world-static:HEAD-63238fc-250617T143303-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/a-h/templ/hello-world-static",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/a-h/templ/hello-world-static?tag=HEAD-63238fc-250617T143303-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5baad6f2584c33dd7f4b8882b96779c627637812bfc1f44bfac18747ffa0dc9b",
+  "size": "3.8 MB",
+  "size_raw": "3981088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
