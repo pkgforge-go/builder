@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "arduino-cli",
+  "pkg_id": "cmd#github.com_arduino_arduino_cli",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arduino/arduino-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Arduino command line tool",
+  "homepage": [
+    "https://github.com/arduino/arduino-cli"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arduino-cli",
+    "client_example",
+    "cmd",
+    "discovery_client",
+    "docsgen",
+    "get_version_example",
+    "list_cores_example",
+    "mock_avrdude",
+    "mock_serial_discovery",
+    "mock_serial_monitor",
+    "term_example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arduino/arduino-cli/archive/11b2625fc8b4af5ce10a183886d682ddf1e5cdfc.tar.gz"
+  ],
+  "tag": [
+    "arduino",
+    "cli",
+    "command-line",
+    "golang",
+    "tooling-team"
+  ],
+  "version": "HEAD-11b2625-250612T101331",
+  "version_upstream": "",
+  "bsum": "30b4835a65f7cafd806963c101792cf52a361da592f75be757a70e34d313c937",
+  "build_date": "2025-06-18T16:42:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737530005",
+  "build_id": "15737530005",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arduino/arduino-cli/cmd?tag=HEAD-11b2625-250612T101331-aarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4571",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arduino/arduino-cli/cmd?tag=HEAD-11b2625-250612T101331-aarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arduino/arduino-cli/cmd:HEAD-11b2625-250612T101331-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arduino/arduino-cli/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arduino/arduino-cli/cmd?tag=HEAD-11b2625-250612T101331-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a57d2df25d778bef65838fb86a9bd3afffd4664659dad068085c027f3a2a1ac",
+  "size": "6.8 MB",
+  "size_raw": "7040928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
