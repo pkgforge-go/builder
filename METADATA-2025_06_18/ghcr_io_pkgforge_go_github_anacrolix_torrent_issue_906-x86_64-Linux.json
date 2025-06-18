@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "issue-906",
+  "pkg_family": "torrent",
+  "pkg_id": "issue-906#github.com_anacrolix_torrent",
+  "pkg_name": "issue-906",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/torrent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full-featured BitTorrent client package and utilities",
+  "homepage": [
+    "https://github.com/anacrolix/torrent"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "iplist",
+    "issue-464",
+    "issue-465",
+    "issue-798",
+    "issue-906",
+    "issue-908",
+    "issue-930",
+    "magnet-metainfo",
+    "mse",
+    "pack-blocklist",
+    "peers-bootstrapping",
+    "torrent",
+    "torrent-pick",
+    "torrent2",
+    "torrentfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/torrent/archive/1e3f1bf041caed8db098ee899d0625b599a98f47.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "go",
+    "magnet-link",
+    "p2p",
+    "streaming",
+    "torrent",
+    "tracker"
+  ],
+  "version": "HEAD-1e3f1bf-250506T121736",
+  "version_upstream": "",
+  "bsum": "8fe0f52229d499ed2105efc13617a22559be59b75b461c76b624a72c2d8f983b",
+  "build_date": "2025-06-18T16:08:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736530993",
+  "build_id": "15736530993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/issue-906?tag=HEAD-1e3f1bf-250506T121736-x86_64-Linux&download=issue-906.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/issue-906?tag=HEAD-1e3f1bf-250506T121736-x86_64-Linux&download=issue-906",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/torrent/issue-906:HEAD-1e3f1bf-250506T121736-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/torrent/issue-906",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/issue-906?tag=HEAD-1e3f1bf-250506T121736-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "435837ad62804ba831955e497e072330ac423e80ba80ccbaaa55ac9b0eac033a",
+  "size": "17 MB",
+  "size_raw": "17370736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

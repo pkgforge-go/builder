@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "torrent-pick",
+  "pkg_family": "torrent",
+  "pkg_id": "torrent-pick#github.com_anacrolix_torrent",
+  "pkg_name": "torrent-pick",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/torrent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full-featured BitTorrent client package and utilities",
+  "homepage": [
+    "https://github.com/anacrolix/torrent"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "iplist",
+    "issue-464",
+    "issue-465",
+    "issue-798",
+    "issue-906",
+    "issue-908",
+    "issue-930",
+    "magnet-metainfo",
+    "mse",
+    "pack-blocklist",
+    "peers-bootstrapping",
+    "torrent",
+    "torrent-pick",
+    "torrent2",
+    "torrentfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/torrent/archive/1e3f1bf041caed8db098ee899d0625b599a98f47.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "go",
+    "magnet-link",
+    "p2p",
+    "streaming",
+    "torrent",
+    "tracker"
+  ],
+  "version": "HEAD-1e3f1bf-250506T121736",
+  "version_upstream": "",
+  "bsum": "ee91390e2e2137db049a21c336ec522c1c2915bfa15ebbae4ff1da6ca8cf574d",
+  "build_date": "2025-06-18T16:09:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736530993",
+  "build_id": "15736530993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/torrent-pick?tag=HEAD-1e3f1bf-250506T121736-x86_64-Linux&download=torrent-pick.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/torrent-pick?tag=HEAD-1e3f1bf-250506T121736-x86_64-Linux&download=torrent-pick",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/torrent/torrent-pick:HEAD-1e3f1bf-250506T121736-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/torrent/torrent-pick",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/torrent/torrent-pick?tag=HEAD-1e3f1bf-250506T121736-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9df515672e3991b9f72bac8b06684f3e439dbe08a98e0bf1ed57bc74c83ee771",
+  "size": "17 MB",
+  "size_raw": "17571504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
