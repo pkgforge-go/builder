@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "main-platform",
+  "pkg_family": "kube-arangodb",
+  "pkg_id": "main-platform#github.com_arangodb_kube_arangodb",
+  "pkg_name": "main-platform",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arangodb/kube-arangodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min",
+  "homepage": [
+    "https://github.com/arangodb/kube-arangodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dategen",
+    "license",
+    "main",
+    "main-int",
+    "main-ops",
+    "main-platform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arangodb/kube-arangodb/archive/3e41ba0cd072ee47b045725686e741d810f056f9.tar.gz"
+  ],
+  "tag": [
+    "arangodb",
+    "k8s",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-3e41ba0-250618T101825",
+  "version_upstream": "",
+  "bsum": "aaa840320b16b1bad90c6ab494ce7b9f6222e33939bbb5e66e202fd19a6c2bd7",
+  "build_date": "2025-06-18T16:44:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737525069",
+  "build_id": "15737525069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/main-platform?tag=HEAD-3e41ba0-250618T101825-loongarch64-Linux&download=main-platform.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "229",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/main-platform?tag=HEAD-3e41ba0-250618T101825-loongarch64-Linux&download=main-platform",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/main-platform:HEAD-3e41ba0-250618T101825-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arangodb/kube-arangodb/main-platform",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/kube-arangodb/main-platform?tag=HEAD-3e41ba0-250618T101825-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb8c74ae8a0f13461cee50b1c736a5e338a410cf6296ee4e1c759b99068e33de",
+  "size": "86 MB",
+  "size_raw": "89280256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
