@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "hollywood",
+  "pkg_id": "client#github.com_anthdm_hollywood",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anthdm/hollywood",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Blazingly fast and light-weight Actor engine written in Golang",
+  "homepage": [
+    "https://github.com/anthdm/hollywood"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "childprocs",
+    "client",
+    "eventstream",
+    "eventstream-monitor",
+    "helloworld",
+    "hooks",
+    "mdns",
+    "member_1",
+    "member_2",
+    "metrics",
+    "persistance",
+    "request",
+    "restarts",
+    "server",
+    "tcpserver",
+    "trade-engine"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anthdm/hollywood/archive/c7a2c2b8162ee3bded91ace7f5192d5dbc507e2f.tar.gz"
+  ],
+  "tag": [
+    "actor-model",
+    "distributed-systems",
+    "fault-tolerance",
+    "golang",
+    "microservices"
+  ],
+  "version": "HEAD-c7a2c2b-250326T065843",
+  "version_upstream": "",
+  "bsum": "357bf0f680149d5ce85599b81ba35953ad37bf145c196e590e61dd7a0d201b4c",
+  "build_date": "2025-06-18T16:21:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737261879",
+  "build_id": "15737261879",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/client?tag=HEAD-c7a2c2b-250326T065843-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1950",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/client?tag=HEAD-c7a2c2b-250326T065843-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anthdm/hollywood/client:HEAD-c7a2c2b-250326T065843-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anthdm/hollywood/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/client?tag=HEAD-c7a2c2b-250326T065843-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d0030fe788bd34171c7a514c0d4f8233e9a187aa1a0f51aaaa57972acc606924",
+  "size": "13 MB",
+  "size_raw": "12754048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
