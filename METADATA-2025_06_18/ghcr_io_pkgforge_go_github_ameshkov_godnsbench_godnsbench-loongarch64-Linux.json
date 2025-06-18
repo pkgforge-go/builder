@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "godnsbench",
+  "pkg_family": "godnsbench",
+  "pkg_id": "godnsbench#github.com_ameshkov_godnsbench",
+  "pkg_name": "godnsbench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ameshkov/godnsbench",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple DNS bench util that supports encrypted protocols.",
+  "homepage": [
+    "https://github.com/ameshkov/godnsbench"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "godnsbench"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ameshkov/godnsbench/archive/f8b483df2c8298001d98022b14402500609caa68.tar.gz"
+  ],
+  "tag": [
+    "benchmark",
+    "dns",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "dnscrypt"
+  ],
+  "version": "HEAD-f8b483d-241203T140959",
+  "version_upstream": "v1.10.0",
+  "bsum": "33961081686004547694bc7d935d1f131f892489f75fd1b468564a7b351f041f",
+  "build_date": "2025-06-18T15:49:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736380355",
+  "build_id": "15736380355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ameshkov/godnsbench/godnsbench?tag=HEAD-f8b483d-241203T140959-loongarch64-Linux&download=godnsbench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "71",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ameshkov/godnsbench/godnsbench?tag=HEAD-f8b483d-241203T140959-loongarch64-Linux&download=godnsbench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ameshkov/godnsbench/godnsbench:HEAD-f8b483d-241203T140959-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ameshkov/godnsbench/godnsbench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ameshkov/godnsbench/godnsbench?tag=HEAD-f8b483d-241203T140959-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e03deeeae8840eb9f5d8616b0852311c8fc7cef94c4eba92ed1a0b25cb98405",
+  "size": "9.0 MB",
+  "size_raw": "9333952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
