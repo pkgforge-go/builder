@@ -204,8 +204,10 @@ jobs:
           ##Package [Exists?]
            #Input
             GPKG_NAME="$(echo "${{ github.event.inputs.gpkg-name }}" | tr -d '"'\''[:space:]')"
+            GPKG_NAME_L="$(echo "${GPKG_NAME}" | tr '[:upper:]' '[:lower:]')"
             GPKG_SRCURL="$(echo "${{ github.event.inputs.gpkg-srcurl }}" | tr -d '"'\''[:space:]')"
             echo "GPKG_NAME=${GPKG_NAME}" >> "${GITHUB_ENV}"
+            echo "GPKG_NAME_L=${GPKG_NAME_L}" >> "${GITHUB_ENV}"
             echo "GPKG_SRCURL=${GPKG_SRCURL}" >> "${GITHUB_ENV}"
            #Does it Exist in meta?
             GPKG_META_RAW="$(mktemp)"

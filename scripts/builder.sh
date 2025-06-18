@@ -7,7 +7,7 @@
 
 #-------------------------------------------------------#
 ##Version
-GB_VERSION="0.0.3+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
+GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
 ##Enable Debug
  if [[ "${DEBUG}" = "1" ]] || [[ "${DEBUG}" = "ON" ]]; then
     set -x
@@ -201,6 +201,20 @@ GB_VERSION="0.0.3+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
     ZIG_VERBOSE_LINK="1"
    #Export
     export CC CGO_CFLAGS CGO_ENABLED CXX GOARCH GOOS GPKG_LDFLAGS GPKG_EXTLDFLAGS GPKG_TAGS ZIG_VERBOSE_CC ZIG_VERBOSE_LINK
+   #printenv
+    echo -e "\n[+] Build ENV: \n$(go version)"
+    go env  
+    echo -e "Zig: $(zig version)\n" 
+    echo "==> CC: ${CC}"
+    echo "==> CGO_CFLAGS: ${CGO_CFLAGS}"
+    echo "==> CGO_ENABLED: ${CGO_ENABLED}"
+    echo "==> CXX: ${CXX}"
+    echo "==> GOARCH: ${GOARCH}"
+    echo "==> GOOS: ${GOOS}"
+    echo "==> LDFLAGS: ${GPKG_LDFLAGS}"
+    echo "==> EXT_LDFLAGS: ${GPKG_EXTLDFLAGS}"
+    echo "==> GO_TAGS: ${GPKG_TAGS}"
+    echo -e "\n"
   }
   export -f set_goflags
  #Set Build Flags
@@ -229,9 +243,10 @@ GB_VERSION="0.0.3+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
      if [[ -d "$(realpath ${GO_CMD_DIR})" ]]; then
        GPKG_OWD="$(realpath .)"
        if [[ ${#GO_CMD_DIRS[@]} -eq 1 ]]; then
-         GPKG_OUT="${G_ARTIFACT_DIR}/"
+         GPKG_OUT="${G_ARTIFACT_DIR}/${GPKG_NAME_L}"
        elif echo "${GO_CMD_DIR}" | grep -qE "^\./(api|build|builds|ci|circle|cli|cmd|config|configs|doc|docs|example|examples|git|githooks|github|init|internal|main|pkg|service|src|tool|tools|web)?$"; then
-         GPKG_OUT="${G_ARTIFACT_DIR}/"
+         GPKG_OUT_T="${G_ARTIFACT_DIR}/${GPKG_NAME_L}-$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
+         GPKG_OUT="$(echo "${GPKG_OUT_T}" | tr -d '"'\''[:space:]')"
        else
          GPKG_OUT_T="${G_ARTIFACT_DIR}/$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
          GPKG_OUT="$(echo "${GPKG_OUT_T}" | tr -d '"'\''[:space:]')"
