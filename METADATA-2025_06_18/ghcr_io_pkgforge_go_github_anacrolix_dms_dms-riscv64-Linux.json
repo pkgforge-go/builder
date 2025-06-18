@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dms",
+  "pkg_family": "dms",
+  "pkg_id": "dms#github.com_anacrolix_dms",
+  "pkg_name": "dms",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/dms",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.",
+  "homepage": [
+    "https://github.com/anacrolix/dms"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dms",
+    "termsig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/dms/archive/4f28a5e2ab128f14291996289044f8a140cfb311.tar.gz"
+  ],
+  "tag": [
+    "dlna",
+    "ffmpeg",
+    "go",
+    "upnp",
+    "upnp-av"
+  ],
+  "version": "HEAD-4f28a5e-250520T122011",
+  "version_upstream": "",
+  "bsum": "cde816984d492366f218bd96fc5c30bad49aa0cd0f8ffdd2a70de6519f665b32",
+  "build_date": "2025-06-18T15:52:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736520803",
+  "build_id": "15736520803",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/dms/dms?tag=HEAD-4f28a5e-250520T122011-riscv64-Linux&download=dms.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "683",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/dms/dms?tag=HEAD-4f28a5e-250520T122011-riscv64-Linux&download=dms",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/dms/dms:HEAD-4f28a5e-250520T122011-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/dms/dms",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/dms/dms?tag=HEAD-4f28a5e-250520T122011-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6322476462440ac8c6f25c9a627b43f268bddf0b68521806f1889323e585c54e",
+  "size": "11 MB",
+  "size_raw": "10664184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
