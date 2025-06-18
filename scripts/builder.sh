@@ -395,7 +395,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
    cd "${G_ARTIFACT_DIR}"
    for PROG in "${PROGS[@]}"; do
     #clean
-     unset BUILD_GHACTIONS BUILD_ID BUILD_LOG DOWNLOAD_URL GHCRPKG_TAG GHCRPKG_URL ghcr_push_cmd PKG_BSUM PKG_CATEGORY PKG_DATE PKG_DATETMP PKG_DESCRIPTION PKG_DOWNLOAD_COUNT PKG_FAMILY PKG_HOMEPAGE PKG_JSON PKG_ID PKG_ID_TMP PKG_LICENSE PKG_NAME PKG_PROVIDES PKG_SHASUM PKG_SIZE PKG_SIZE_RAW PKG_SRC_URL PKG_TAGS PKG_TYPE PKG_VERSION PKG_WEBPAGE SNAPSHOT_JSON SNAPSHOT_TAGS TAG_URL
+     unset BUILD_GHACTIONS BUILD_ID BUILD_LOG DOWNLOAD_URL GHCRPKG_RAND GHCRPKG_TAG GHCRPKG_URL ghcr_push_cmd PKG_BSUM PKG_CATEGORY PKG_DATE PKG_DATETMP PKG_DESCRIPTION PKG_DOWNLOAD_COUNT PKG_FAMILY PKG_HOMEPAGE PKG_JSON PKG_ID PKG_ID_TMP PKG_LICENSE PKG_NAME PKG_PROVIDES PKG_SHASUM PKG_SIZE PKG_SIZE_RAW PKG_SRC_URL PKG_TAGS PKG_TYPE PKG_VERSION PKG_WEBPAGE SNAPSHOT_JSON SNAPSHOT_TAGS TAG_URL
     #Check
      if [[ ! -s "./${PROG}" ]]; then
         echo -e "\n[-] Skipping ${PROG} - file does not exist or is empty\n"
@@ -446,7 +446,8 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
      export PKG_DOWNLOAD_COUNT
     #GHCR
      GHCRPKG_TAG="${PKG_VERSION}-${HOST_TRIPLET}"
-     GHCRPKG_URL="$(echo "ghcr.io/pkgforge-go/${GPKG_NAME}/stable/${PROG}" | sed ':a; s|^\(https://\)\([^/]\)/\(/\)|\1\2/\3|; ta' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
+     GHCRPKG_RAND="$(echo "${GPKG_ID}" | awk -F'_' '{for(i=1;i<=NF;i++) if($i!="") a[++n]=$i; if(n>=3) print a[n-1]"/"a[n]; else if(n==2) print a[2]; delete a; n=0}' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
+     GHCRPKG_URL="$(echo "ghcr.io/pkgforge-go/${GPKG_NAME_L}/${GHCRPKG_RAND:-stable}/${PROG}" | sed ':a; s|^\(https://\)\([^/]\)/\(/\)|\1\2/\3|; ta' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
      echo "[+] GHCR (TAG): ${GHCRPKG_TAG}"
      echo "[+] GHCR (URL): ${GHCRPKG_URL}"
      export GHCRPKG_TAG GHCRPKG_URL

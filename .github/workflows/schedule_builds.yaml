@@ -180,8 +180,8 @@ jobs:
           echo '${{ toJSON(matrix.package) }}' | jq -r '
             "Target: \(.target)",
             "Package: \(.pkg_name)",
-            "Source": \(.src_url)",
-            "Id": \(.pkg_id)"
+            "Source: \(.src_url)",
+            "Id: \(.pkg_id)"
           '
         continue-on-error: true
 
