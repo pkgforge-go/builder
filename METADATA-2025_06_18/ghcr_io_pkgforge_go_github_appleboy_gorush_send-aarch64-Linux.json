@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "send",
+  "pkg_family": "gorush",
+  "pkg_id": "send#github.com_appleboy_gorush",
+  "pkg_name": "send",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/appleboy/gorush",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A push notification server written in Go _Golang_.",
+  "homepage": [
+    "https://github.com/appleboy/gorush"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gorush",
+    "health",
+    "send"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/appleboy/gorush/archive/316fa2605d16e50a32415560ab81d81b5a9bd1f9.tar.gz"
+  ],
+  "tag": [
+    "android",
+    "apns",
+    "gcm",
+    "golang",
+    "gorush-server",
+    "ios",
+    "ios-alert-payload",
+    "ios-notification",
+    "notification-server"
+  ],
+  "version": "HEAD-316fa26-250512T112335",
+  "version_upstream": "",
+  "bsum": "3ed4b0a9742e0a936c56b971787dcef93bb102a4508dacfaff89e9a453e962ab",
+  "build_date": "2025-06-18T16:30:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737427309",
+  "build_id": "15737427309",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/gorush/send?tag=HEAD-316fa26-250512T112335-aarch64-Linux&download=send.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8398",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/gorush/send?tag=HEAD-316fa26-250512T112335-aarch64-Linux&download=send",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/appleboy/gorush/send:HEAD-316fa26-250512T112335-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/appleboy/gorush/send",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/gorush/send?tag=HEAD-316fa26-250512T112335-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c0924c7d49e31056bf4833e409f6013a35b056762f5328bf0d1fda82961ba774",
+  "size": "11 MB",
+  "size_raw": "10653760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
