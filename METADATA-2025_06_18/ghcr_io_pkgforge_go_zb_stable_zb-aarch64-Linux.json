@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "zb",
+  "pkg_family": "zb",
+  "pkg_id": "zb#github.com_256lights_zb",
+  "pkg_name": "zb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/256lights/zb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An experiment in hermetic, reproducible build systems",
+  "homepage": [
+    "https://github.com/256lights/zb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zb",
+    "zb-luac"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using zig+go",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/256lights/zb/archive/73b9171feca9b875cb6c8d23f96dc096eb1f0dbd.tar.gz"
+  ],
+  "tag": [
+    "build-tool",
+    "reproducible-builds"
+  ],
+  "version": "HEAD-73b9171-250615T113236",
+  "version_upstream": "v0.1.0",
+  "bsum": "448cbb706d91296cf7345179c50b840ddc0339d3cfa40a0b9f6bf4c6e4b99364",
+  "build_date": "2025-06-18T12:49:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15733072626",
+  "build_id": "15733072626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/zb/stable/zb?tag=HEAD-73b9171-250615T113236-aarch64-Linux&download=zb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "350",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/zb/stable/zb?tag=HEAD-73b9171-250615T113236-aarch64-Linux&download=zb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/zb/stable/zb:HEAD-73b9171-250615T113236-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/zb/stable/zb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/zb/stable/zb?tag=HEAD-73b9171-250615T113236-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d2a36c3630854eeb558f237ec2f0ec06ecb6068956d0ed8870476eb2e0235903",
+  "size": "17 MB",
+  "size_raw": "16956224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
