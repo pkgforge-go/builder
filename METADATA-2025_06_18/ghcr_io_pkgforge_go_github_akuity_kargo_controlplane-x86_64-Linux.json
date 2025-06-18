@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "controlplane",
+  "pkg_family": "kargo",
+  "pkg_id": "controlplane#github.com_akuity_kargo",
+  "pkg_name": "controlplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/akuity/kargo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Application lifecycle orchestration",
+  "homepage": [
+    "https://github.com/akuity/kargo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "controlplane",
+    "credential-helper",
+    "prototag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/akuity/kargo/archive/7362b2134901a2ec4fc4b7fd5922740d2bf5d4ec.tar.gz"
+  ],
+  "tag": [
+    "argocd",
+    "cd",
+    "delivery",
+    "gitops",
+    "k8s",
+    "kubernetes"
+  ],
+  "version": "HEAD-7362b21-250617T215023",
+  "version_upstream": "",
+  "bsum": "aa9411726c5848cecaa283e349a2856c041f9fc3e92f0c9c7f7d8a75e732fae0",
+  "build_date": "2025-06-18T15:25:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735993970",
+  "build_id": "15735993970",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/controlplane?tag=HEAD-7362b21-250617T215023-x86_64-Linux&download=controlplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2478",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/controlplane?tag=HEAD-7362b21-250617T215023-x86_64-Linux&download=controlplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/akuity/kargo/controlplane:HEAD-7362b21-250617T215023-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/akuity/kargo/controlplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/controlplane?tag=HEAD-7362b21-250617T215023-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b3917c9d84ddea883d4461fedb84f028120dcf05f6f9f99f56c9480271099a7",
+  "size": "122 MB",
+  "size_raw": "127284160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
