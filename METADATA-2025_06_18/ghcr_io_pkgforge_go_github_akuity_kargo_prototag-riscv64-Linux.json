@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "prototag",
+  "pkg_family": "kargo",
+  "pkg_id": "prototag#github.com_akuity_kargo",
+  "pkg_name": "prototag",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/akuity/kargo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Application lifecycle orchestration",
+  "homepage": [
+    "https://github.com/akuity/kargo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "controlplane",
+    "credential-helper",
+    "prototag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/akuity/kargo/archive/7362b2134901a2ec4fc4b7fd5922740d2bf5d4ec.tar.gz"
+  ],
+  "tag": [
+    "argocd",
+    "cd",
+    "delivery",
+    "gitops",
+    "k8s",
+    "kubernetes"
+  ],
+  "version": "HEAD-7362b21-250617T215023",
+  "version_upstream": "",
+  "bsum": "69727511b3cfa146d340af1d77490bdc91edd897346e0fddaf7a06cacd3ac8d8",
+  "build_date": "2025-06-18T15:26:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735993970",
+  "build_id": "15735993970",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/prototag?tag=HEAD-7362b21-250617T215023-riscv64-Linux&download=prototag.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2478",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/prototag?tag=HEAD-7362b21-250617T215023-riscv64-Linux&download=prototag",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/akuity/kargo/prototag:HEAD-7362b21-250617T215023-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/akuity/kargo/prototag",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/prototag?tag=HEAD-7362b21-250617T215023-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8bd4c1820fa46def365ffaf64e05011291bae52670dfc2d86ecea205bacda5f9",
+  "size": "2.4 MB",
+  "size_raw": "2456552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
