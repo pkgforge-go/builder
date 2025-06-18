@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "certs",
+  "pkg_family": "apptainer",
+  "pkg_id": "certs#github.com_apptainer_apptainer",
+  "pkg_name": "certs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apptainer/apptainer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apptainer: Application containers for Linux",
+  "homepage": [
+    "https://github.com/apptainer/apptainer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "confgen",
+    "nfpm",
+    "scripts",
+    "standalone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apptainer/apptainer/archive/6786e92b5f0913115da5530aaaf75037245b4acc.tar.gz"
+  ],
+  "tag": [
+    "apptainer",
+    "containers",
+    "hpc",
+    "linux",
+    "rootless-containers",
+    "science",
+    "singularity",
+    "singularity-container"
+  ],
+  "version": "HEAD-6786e92-250616T173212",
+  "version_upstream": "",
+  "bsum": "85640b122717d908658085e181d1dd49aefe47df847a668aaa7e678743885bbe",
+  "build_date": "2025-06-18T16:35:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737443308",
+  "build_id": "15737443308",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apptainer/apptainer/certs?tag=HEAD-6786e92-250616T173212-aarch64-Linux&download=certs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1346",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apptainer/apptainer/certs?tag=HEAD-6786e92-250616T173212-aarch64-Linux&download=certs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apptainer/apptainer/certs:HEAD-6786e92-250616T173212-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apptainer/apptainer/certs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apptainer/apptainer/certs?tag=HEAD-6786e92-250616T173212-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12d252873c8dcf616682bf1a13d01a7d46083bf76da751f5431b168d4e4898fe",
+  "size": "6.5 MB",
+  "size_raw": "6720320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
