@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "writensleep",
+  "pkg_family": "fileless-xec",
+  "pkg_id": "writensleep#github.com_ariary_fileless_xec",
+  "pkg_name": "writensleep",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ariary/fileless-xec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stealth dropper executing remote binaries without dropping them on disk ._HTTP3 support, ICMP support, invisible tracks, cross-platform,..._",
+  "homepage": [
+    "https://github.com/ariary/fileless-xec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arguments",
+    "client",
+    "fileless-xec",
+    "stdin",
+    "stdout",
+    "writensleep"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ariary/fileless-xec/archive/110b3353c9ce4c15932616cc7bfb775f35ed0eab.tar.gz"
+  ],
+  "tag": [
+    "bypass-firewall",
+    "dropper",
+    "fileless",
+    "golang",
+    "http3",
+    "memfd",
+    "pentest",
+    "pentest-tool",
+    "quic",
+    "security",
+    "stealth"
+  ],
+  "version": "HEAD-110b335-240702T110853",
+  "version_upstream": "",
+  "bsum": "d830e88f7068ed9951c5efce6d9ca3a006734979d1009f8f44cfe1e974b996f1",
+  "build_date": "2025-06-18T16:46:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737582615",
+  "build_id": "15737582615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ariary/fileless-xec/writensleep?tag=HEAD-110b335-240702T110853-aarch64-Linux&download=writensleep.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "202",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ariary/fileless-xec/writensleep?tag=HEAD-110b335-240702T110853-aarch64-Linux&download=writensleep",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ariary/fileless-xec/writensleep:HEAD-110b335-240702T110853-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ariary/fileless-xec/writensleep",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ariary/fileless-xec/writensleep?tag=HEAD-110b335-240702T110853-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30cc7914c4cf612ef5cc19397cac062dafdbf1e3f42b85116d2e9ec89c35d230",
+  "size": "1.7 MB",
+  "size_raw": "1691160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
