@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "selenoid",
+  "pkg_family": "selenoid",
+  "pkg_id": "selenoid#github.com_aerokube_selenoid",
+  "pkg_name": "selenoid",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aerokube/selenoid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.",
+  "homepage": [
+    "https://github.com/aerokube/selenoid"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "selenoid"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aerokube/selenoid/archive/d496072c7e81a6e1cca406d73c0497393ef2725c.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "grid",
+    "hub",
+    "selenium",
+    "selenium-grid",
+    "selenium-server",
+    "selenium-webdriver",
+    "vnc"
+  ],
+  "version": "HEAD-d496072-241217T151337",
+  "version_upstream": "",
+  "bsum": "c60dcf94bba898d3f7050d80771f2d85c81ef4914482f7450fb60280632a1f9f",
+  "build_date": "2025-06-18T15:01:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15735351382",
+  "build_id": "15735351382",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerokube/selenoid/selenoid?tag=HEAD-d496072-241217T151337-riscv64-Linux&download=selenoid.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2643",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerokube/selenoid/selenoid?tag=HEAD-d496072-241217T151337-riscv64-Linux&download=selenoid",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aerokube/selenoid/selenoid:HEAD-d496072-241217T151337-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aerokube/selenoid/selenoid",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerokube/selenoid/selenoid?tag=HEAD-d496072-241217T151337-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1bb0c1528f62ddfc310101dd1331a081e43c8fc0c728593c5f73be54fd817287",
+  "size": "8.5 MB",
+  "size_raw": "8904280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
