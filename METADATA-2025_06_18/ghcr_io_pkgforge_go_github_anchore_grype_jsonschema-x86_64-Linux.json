@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "jsonschema",
+  "pkg_family": "grype",
+  "pkg_id": "jsonschema#github.com_anchore_grype",
+  "pkg_name": "jsonschema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/grype",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A vulnerability scanner for container images and filesystems",
+  "homepage": [
+    "https://github.com/anchore/grype"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "grype",
+    "jsonschema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anchore/grype/archive/34304db156ac304beaa8cd02e8c37ee18384433c.tar.gz"
+  ],
+  "tag": [
+    "container-image",
+    "containers",
+    "cyclonedx",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "oci",
+    "openvex",
+    "security",
+    "static-analysis",
+    "tool",
+    "vex",
+    "vulnerabilities",
+    "vulnerability"
+  ],
+  "version": "HEAD-34304db-250617T114826",
+  "version_upstream": "",
+  "bsum": "86399fa53ce94ced2066e8bc6d635584615a3226a46fcdee31b6cffc7108fd4b",
+  "build_date": "2025-06-18T16:05:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736869161",
+  "build_id": "15736869161",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/jsonschema?tag=HEAD-34304db-250617T114826-x86_64-Linux&download=jsonschema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10015",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/jsonschema?tag=HEAD-34304db-250617T114826-x86_64-Linux&download=jsonschema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/grype/jsonschema:HEAD-34304db-250617T114826-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/grype/jsonschema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/jsonschema?tag=HEAD-34304db-250617T114826-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72c0090d258956f9f2b8560bceba6e4171db141c12b8190a5384d57628407fb2",
+  "size": "87 MB",
+  "size_raw": "91041720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
