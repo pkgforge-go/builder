@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "test_all",
+  "pkg_family": "rclone",
+  "pkg_id": "pkgforge-go.rclone.stable",
+  "pkg_name": "test_all",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rclone/rclone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_rsync for cloud storage_ - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+  "homepage": [
+    "https://github.com/rclone/rclone"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bin",
+    "build_csv",
+    "gen",
+    "librclone",
+    "rclone",
+    "test_all",
+    "test_vfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using zig+go",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rclone/rclone/archive/f226d12a2f26cf1df74c82bee62add4e2fb88e41.tar.gz"
+  ],
+  "tag": [
+    "azure-blob",
+    "azure-blob-storage",
+    "azure-files",
+    "backblaze-b2",
+    "cloud-storage",
+    "dropbox",
+    "encryption",
+    "ftp",
+    "fuse-filesystem",
+    "go",
+    "golang",
+    "google-cloud-storage",
+    "google-drive",
+    "onedrive",
+    "openstack-swift",
+    "rclone",
+    "s3",
+    "sftp",
+    "sync",
+    "webdav"
+  ],
+  "version": "HEAD-f226d12-250617T124635",
+  "version_upstream": "",
+  "bsum": "34fee610af2426885279b196f8abf0e32e18c93535fd9fdf562eac847fb27651",
+  "build_date": "2025-06-18T10:24:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15729396950",
+  "build_id": "15729396950",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/rclone/stable/test_all?tag=HEAD-f226d12-250617T124635-x86_64-Linux&download=test_all.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51035",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/rclone/stable/test_all?tag=HEAD-f226d12-250617T124635-x86_64-Linux&download=test_all",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/rclone/stable/test_all:HEAD-f226d12-250617T124635-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/rclone/stable/test_all",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/rclone/stable/test_all?tag=HEAD-f226d12-250617T124635-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "15a4b6d0f33a13741f94396ce5ffdd7a6f4ff55bf9fb0f14c992586dbf619c22",
+  "size": "65 MB",
+  "size_raw": "67836688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f226d12-250617T124635-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
