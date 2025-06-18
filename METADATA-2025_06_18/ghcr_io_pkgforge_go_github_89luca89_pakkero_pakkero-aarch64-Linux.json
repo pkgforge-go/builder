@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pakkero",
+  "pkg_family": "pakkero",
+  "pkg_id": "pakkero#github.com_89luca89_pakkero",
+  "pkg_name": "pakkero",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/89luca89/pakkero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file _elf binary, script, even appimage_ and compress it, protect it from tampering and intrusion.",
+  "homepage": [
+    "https://github.com/89luca89/pakkero"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "data",
+    "pakkero"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/89luca89/pakkero/archive/86322011b06ec72d332f5ade74e7a9409549ad3b.tar.gz"
+  ],
+  "tag": [
+    "compression",
+    "elf",
+    "elf-binaries",
+    "encryption",
+    "golang",
+    "launcher",
+    "packer",
+    "payload",
+    "protector",
+    "upx"
+  ],
+  "version": "HEAD-8632201-230116T220713",
+  "version_upstream": "",
+  "bsum": "36a74910060269873cc7fa1021aa663b4a5a113f207fa1ec951381328730c066",
+  "build_date": "2025-06-18T14:05:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15734639113",
+  "build_id": "15734639113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/89luca89/pakkero/pakkero?tag=HEAD-8632201-230116T220713-aarch64-Linux&download=pakkero.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "264",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/89luca89/pakkero/pakkero?tag=HEAD-8632201-230116T220713-aarch64-Linux&download=pakkero",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/89luca89/pakkero/pakkero:HEAD-8632201-230116T220713-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/89luca89/pakkero/pakkero",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/89luca89/pakkero/pakkero?tag=HEAD-8632201-230116T220713-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30b743d1f99c908a818bc40900d2a3f01c4ae6d7fc0efe75eac6f94b9085bd77",
+  "size": "2.6 MB",
+  "size_raw": "2658336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
