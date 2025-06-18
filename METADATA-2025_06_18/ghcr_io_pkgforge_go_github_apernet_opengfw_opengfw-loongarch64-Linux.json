@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "opengfw",
+  "pkg_family": "OpenGFW",
+  "pkg_id": "opengfw#github.com_apernet_OpenGFW",
+  "pkg_name": "opengfw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apernet/OpenGFW",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW _Great Firewall of China_ on Linux",
+  "homepage": [
+    "https://github.com/apernet/OpenGFW"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "opengfw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apernet/OpenGFW/archive/278d731b6f0df6665e00987fa9e8afa99244d5f6.tar.gz"
+  ],
+  "tag": [
+    "censorship",
+    "dpi",
+    "filtering",
+    "firewall",
+    "gfw",
+    "ips",
+    "networking"
+  ],
+  "version": "HEAD-278d731-241027T185530",
+  "version_upstream": "v0.4.1",
+  "bsum": "753baaa619077b2351eddb6f30ad15693232fbc063a089f0565b3138a978e50a",
+  "build_date": "2025-06-18T16:23:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737386456",
+  "build_id": "15737386456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apernet/opengfw/opengfw?tag=HEAD-278d731-241027T185530-loongarch64-Linux&download=opengfw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10352",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apernet/opengfw/opengfw?tag=HEAD-278d731-241027T185530-loongarch64-Linux&download=opengfw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apernet/opengfw/opengfw:HEAD-278d731-241027T185530-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apernet/opengfw/opengfw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apernet/opengfw/opengfw?tag=HEAD-278d731-241027T185530-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eee26bc347f695fb2262dcbb98eeab03e7b6479cc8270774f0c8f1aa7e035cdb",
+  "size": "16 MB",
+  "size_raw": "15983648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
