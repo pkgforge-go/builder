@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tcpserver",
+  "pkg_family": "hollywood",
+  "pkg_id": "tcpserver#github.com_anthdm_hollywood",
+  "pkg_name": "tcpserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anthdm/hollywood",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Blazingly fast and light-weight Actor engine written in Golang",
+  "homepage": [
+    "https://github.com/anthdm/hollywood"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "childprocs",
+    "client",
+    "eventstream",
+    "eventstream-monitor",
+    "helloworld",
+    "hooks",
+    "mdns",
+    "member_1",
+    "member_2",
+    "metrics",
+    "persistance",
+    "request",
+    "restarts",
+    "server",
+    "tcpserver",
+    "trade-engine"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anthdm/hollywood/archive/c7a2c2b8162ee3bded91ace7f5192d5dbc507e2f.tar.gz"
+  ],
+  "tag": [
+    "actor-model",
+    "distributed-systems",
+    "fault-tolerance",
+    "golang",
+    "microservices"
+  ],
+  "version": "HEAD-c7a2c2b-250326T065843",
+  "version_upstream": "",
+  "bsum": "6d5a712c0c99c1edf9768a98aa546fa7f2bc7fdae8155c3a2d9df3e550bf0f3a",
+  "build_date": "2025-06-18T16:22:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737261879",
+  "build_id": "15737261879",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/tcpserver?tag=HEAD-c7a2c2b-250326T065843-loongarch64-Linux&download=tcpserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1950",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/tcpserver?tag=HEAD-c7a2c2b-250326T065843-loongarch64-Linux&download=tcpserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anthdm/hollywood/tcpserver:HEAD-c7a2c2b-250326T065843-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anthdm/hollywood/tcpserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/tcpserver?tag=HEAD-c7a2c2b-250326T065843-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "331e4f45d3b2d5809dacbb6fa871b7a09c484f8514ff2993e4f813906ec9c6f0",
+  "size": "4.7 MB",
+  "size_raw": "4881464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

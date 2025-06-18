@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "persistance",
+  "pkg_family": "hollywood",
+  "pkg_id": "persistance#github.com_anthdm_hollywood",
+  "pkg_name": "persistance",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anthdm/hollywood",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Blazingly fast and light-weight Actor engine written in Golang",
+  "homepage": [
+    "https://github.com/anthdm/hollywood"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "childprocs",
+    "client",
+    "eventstream",
+    "eventstream-monitor",
+    "helloworld",
+    "hooks",
+    "mdns",
+    "member_1",
+    "member_2",
+    "metrics",
+    "persistance",
+    "request",
+    "restarts",
+    "server",
+    "tcpserver",
+    "trade-engine"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anthdm/hollywood/archive/c7a2c2b8162ee3bded91ace7f5192d5dbc507e2f.tar.gz"
+  ],
+  "tag": [
+    "actor-model",
+    "distributed-systems",
+    "fault-tolerance",
+    "golang",
+    "microservices"
+  ],
+  "version": "HEAD-c7a2c2b-250326T065843",
+  "version_upstream": "",
+  "bsum": "0fb71aa9c69e7d2d21509bd97580353a39b180d061f130bdb3f1eccb372e25b8",
+  "build_date": "2025-06-18T16:21:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737261879",
+  "build_id": "15737261879",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/persistance?tag=HEAD-c7a2c2b-250326T065843-loongarch64-Linux&download=persistance.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1950",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/persistance?tag=HEAD-c7a2c2b-250326T065843-loongarch64-Linux&download=persistance",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anthdm/hollywood/persistance:HEAD-c7a2c2b-250326T065843-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anthdm/hollywood/persistance",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anthdm/hollywood/persistance?tag=HEAD-c7a2c2b-250326T065843-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2996409ce82a230c9ecff3a814fc150ba9a1e0ea2bea186c7e9e5d06a8023eb3",
+  "size": "4.3 MB",
+  "size_raw": "4415128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
