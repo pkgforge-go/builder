@@ -7,7 +7,7 @@
 
 #-------------------------------------------------------#
 ##Version
-GB_VERSION="0.0.3" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
+GB_VERSION="0.0.3+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
 ##Enable Debug
  if [[ "${DEBUG}" = "1" ]] || [[ "${DEBUG}" = "ON" ]]; then
     set -x
@@ -166,39 +166,41 @@ GB_VERSION="0.0.3" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
  #Set Build Env
   set_goflags()
   {
-   if [[ -z "${HOST_TRIPLET:-}" ]]; then
-     echo "Error: HOST_TRIPLET is not set or is empty" >&2
-     return 1
-   elif [[ "${HOST_TRIPLET}" == "aarch64-Linux" ]]; then
-     GOOS="linux"
-     GOARCH="arm64"
-     CC="zig cc -target aarch64-linux-musl"
-     CXX="zig c++ -target aarch64-linux-musl"
-   elif [[ "${HOST_TRIPLET}" == "loongarch64-Linux" ]]; then
-     GOOS="linux"
-     GOARCH="loong64"
-     CC="zig cc -target loongarch64-linux-musl"
-     CXX="zig c++ -target loongarch64-linux-musl"
-   elif [[ "${HOST_TRIPLET}" == "riscv64-Linux" ]]; then
-     GOOS="linux"
-     GOARCH="riscv64"
-     CC="zig cc -target riscv64-linux-musl"
-     CXX="zig c++ -target riscv64-linux-musl"
-   elif [[ "${HOST_TRIPLET}" == "x86_64-Linux" ]]; then
-     GOOS="linux"
-     GOARCH="amd64"
-     CC="zig cc -target x86_64-linux-musl"
-     CXX="zig c++ -target x86_64-linux-musl"
-   fi
-   
-   CGO_ENABLED="1"
-   CGO_CFLAGS="-O2 -flto=auto -fPIE -fpie -static -w -pipe"
-   GPKG_LDFLAGS="-s -w -buildid= -linkmode=external"
-   GPKG_EXTLDFLAGS="-s -w -static-pie -Wl,--build-id=none"
-   GPKG_TAGS="netgo,osusergo"
-   ZIG_VERBOSE_CC="1"
-   ZIG_VERBOSE_LINK="1"
-   export CC CGO_CFLAGS CGO_ENABLED CXX GOARCH GOOS GPKG_LDFLAGS GPKG_EXTLDFLAGS GPKG_TAGS ZIG_VERBOSE_CC ZIG_VERBOSE_LINK
+   #Host Based ENV 
+    if [[ -z "${HOST_TRIPLET:-}" ]]; then
+      echo "Error: HOST_TRIPLET is not set or is empty" >&2
+      return 1
+    elif [[ "${HOST_TRIPLET}" == "aarch64-Linux" ]]; then
+      GOOS="linux"
+      GOARCH="arm64"
+      CC="zig cc -target aarch64-linux-musl"
+      CXX="zig c++ -target aarch64-linux-musl"
+    elif [[ "${HOST_TRIPLET}" == "loongarch64-Linux" ]]; then
+      GOOS="linux"
+      GOARCH="loong64"
+      CC="zig cc -target loongarch64-linux-musl"
+      CXX="zig c++ -target loongarch64-linux-musl"
+    elif [[ "${HOST_TRIPLET}" == "riscv64-Linux" ]]; then
+      GOOS="linux"
+      GOARCH="riscv64"
+      CC="zig cc -target riscv64-linux-musl"
+      CXX="zig c++ -target riscv64-linux-musl"
+    elif [[ "${HOST_TRIPLET}" == "x86_64-Linux" ]]; then
+      GOOS="linux"
+      GOARCH="amd64"
+      CC="zig cc -target x86_64-linux-musl"
+      CXX="zig c++ -target x86_64-linux-musl"
+    fi
+   #Global ENV
+    CGO_ENABLED="1"
+    CGO_CFLAGS="-O2 -flto=auto -fPIE -fpie -static -w -pipe"
+    GPKG_LDFLAGS="-s -w -buildid= -linkmode=external"
+    GPKG_EXTLDFLAGS="-s -w -static-pie -Wl,--build-id=none"
+    GPKG_TAGS="netgo,osusergo"
+    ZIG_VERBOSE_CC="1"
+    ZIG_VERBOSE_LINK="1"
+   #Export
+    export CC CGO_CFLAGS CGO_ENABLED CXX GOARCH GOOS GPKG_LDFLAGS GPKG_EXTLDFLAGS GPKG_TAGS ZIG_VERBOSE_CC ZIG_VERBOSE_LINK
   }
   export -f set_goflags
  #Set Build Flags
@@ -226,7 +228,9 @@ GB_VERSION="0.0.3" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
     for GO_CMD_DIR in "${GO_CMD_DIRS[@]}"; do
      if [[ -d "$(realpath ${GO_CMD_DIR})" ]]; then
        GPKG_OWD="$(realpath .)"
-       if echo "${GO_CMD_DIR}" | grep -qE "^\./(api|build|builds|ci|circle|cli|cmd|config|configs|doc|docs|example|examples|git|githooks|github|init|internal|main|pkg|service|src|tool|tools|web)?$"; then
+       if [[ ${#GO_CMD_DIRS[@]} -eq 1 ]]; then
+         GPKG_OUT="${G_ARTIFACT_DIR}/"
+       elif echo "${GO_CMD_DIR}" | grep -qE "^\./(api|build|builds|ci|circle|cli|cmd|config|configs|doc|docs|example|examples|git|githooks|github|init|internal|main|pkg|service|src|tool|tools|web)?$"; then
          GPKG_OUT="${G_ARTIFACT_DIR}/"
        else
          GPKG_OUT_T="${G_ARTIFACT_DIR}/$(basename "${GO_CMD_DIR}" | tr '[:upper:]' '[:lower:]')"
