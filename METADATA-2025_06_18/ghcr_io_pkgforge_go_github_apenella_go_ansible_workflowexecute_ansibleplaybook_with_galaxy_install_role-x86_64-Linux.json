@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "workflowexecute-ansibleplaybook-with-galaxy-install-role",
+  "pkg_family": "go-ansible",
+  "pkg_id": "workflowexecute-ansibleplaybook-with-galaxy-install-role#github.com_apenella_go_ansible",
+  "pkg_name": "workflowexecute-ansibleplaybook-with-galaxy-install-role",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apenella/go-ansible",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go-ansible is a Go package that enables the execution of ansible-playbook or ansible commands directly from Golang applications. It supports a wide range of options for each command, enabling smooth integration of Ansible functionality into your projects.",
+  "homepage": [
+    "https://github.com/apenella/go-ansible"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ansibleadhoc-command-module",
+    "ansibleadhoc-simple",
+    "ansibleinventory-graph",
+    "ansibleinventory-simple",
+    "ansibleinventory-vaulted-vars",
+    "ansibleplaybook-become",
+    "ansibleplaybook-cobra-cmd",
+    "ansibleplaybook-custom-transformer",
+    "ansibleplaybook-extravars",
+    "ansibleplaybook-extravars-file",
+    "ansibleplaybook-json-stdout",
+    "ansibleplaybook-myexecutor",
+    "ansibleplaybook-posix-jsonl-stdout",
+    "ansibleplaybook-posix-jsonl-stdout-persistence",
+    "ansibleplaybook-signals-and-cancellation",
+    "ansibleplaybook-simple",
+    "ansibleplaybook-simple-embedfs",
+    "ansibleplaybook-simple-with-prompt",
+    "ansibleplaybook-skipping-failing",
+    "ansibleplaybook-ssh",
+    "ansibleplaybook-ssh-become-root-with-password",
+    "ansibleplaybook-time-measurement",
+    "ansibleplaybook-walk-through-json-output",
+    "ansibleplaybook-with-executor-time-measurament",
+    "ansibleplaybook-with-timeout",
+    "ansibleplaybook-with-vaulted-extravar",
+    "cmd",
+    "workflowexecute-ansibleplaybook-with-galaxy-install-collection",
+    "workflowexecute-ansibleplaybook-with-galaxy-install-role",
+    "workflowexecute-simple",
+    "workflowexecute-time-measurament"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apenella/go-ansible/archive/c4c7e2a5ea0151090d742008d4a53784783e7369.tar.gz"
+  ],
+  "tag": [
+    "ansible",
+    "ansible-playbook",
+    "golang",
+    "golang-library"
+  ],
+  "version": "HEAD-c4c7e2a-250618T080918",
+  "version_upstream": "",
+  "bsum": "dabe4d3672790a95014036f0078922307a7d5d8897dcbe5b5d97f5f59c6f8424",
+  "build_date": "2025-06-18T16:30:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737375165",
+  "build_id": "15737375165",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apenella/go-ansible/workflowexecute-ansibleplaybook-with-galaxy-install-role?tag=HEAD-c4c7e2a-250618T080918-x86_64-Linux&download=workflowexecute-ansibleplaybook-with-galaxy-install-role.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1023",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apenella/go-ansible/workflowexecute-ansibleplaybook-with-galaxy-install-role?tag=HEAD-c4c7e2a-250618T080918-x86_64-Linux&download=workflowexecute-ansibleplaybook-with-galaxy-install-role",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apenella/go-ansible/workflowexecute-ansibleplaybook-with-galaxy-install-role:HEAD-c4c7e2a-250618T080918-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apenella/go-ansible/workflowexecute-ansibleplaybook-with-galaxy-install-role",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apenella/go-ansible/workflowexecute-ansibleplaybook-with-galaxy-install-role?tag=HEAD-c4c7e2a-250618T080918-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "448eaf73ce8346038bcb1b4b5166aae4b3a2fe88d3bf720866d8e993bf97eec2",
+  "size": "4.4 MB",
+  "size_raw": "4577120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
