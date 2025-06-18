@@ -447,12 +447,34 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
     #GHCR
      GHCRPKG_TAG="${PKG_VERSION}-${HOST_TRIPLET}"
      GHCRPKG_RAND="$(echo "${GPKG_ID}" | awk -F'_' '{for(i=1;i<=NF;i++) if($i!="") a[++n]=$i; if(n>=3) print a[n-1]"/"a[n]; else if(n==2) print a[2]; delete a; n=0}' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
-     GHCRPKG_URL="$(echo "ghcr.io/pkgforge-go/${GPKG_NAME_L}/${GHCRPKG_RAND:-stable}/${PROG}" | sed ':a; s|^\(https://\)\([^/]\)/\(/\)|\1\2/\3|; ta' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
+     if echo "${GPKG_SRCURL}" | grep -qi "bitbucket.org"; then
+        GPKG_FORGE="bitbucket"
+     elif echo "${GPKG_SRCURL}" | grep -qi "buildroot.net"; then
+        GPKG_FORGE="buildroot"
+     elif echo "${GPKG_SRCURL}" | grep -qi "codeberg.org"; then
+        GPKG_FORGE="codeberg"
+     elif echo "${GPKG_SRCURL}" | grep -qi "gitee"; then
+        GPKG_FORGE="gitee"
+     elif echo "${GPKG_SRCURL}" | grep -qi "github.com"; then
+        GPKG_FORGE="github"
+     elif echo "${GPKG_SRCURL}" | grep -qi "gitlab.com"; then
+        GPKG_FORGE="gitlab"
+     elif echo "${GPKG_SRCURL}" | grep -qi "gnu.org"; then
+        GPKG_FORGE="gnu"
+     elif echo "${GPKG_SRCURL}" | grep -qi "sr.ht"; then
+        GPKG_FORGE="sourcehut"
+     elif echo "${GPKG_SRCURL}" | grep -qi "sourceforge.net"; then
+        GPKG_FORGE="sourceforge"
+     else
+        GPKG_FORGE="misc"
+     fi
+     GHCRPKG_URL="$(echo "ghcr.io/pkgforge-go/${GPKG_FORGE}/${GHCRPKG_RAND:-stable}/${PROG}" | sed ':a; s|^\(https://\)\([^/]\)/\(/\)|\1\2/\3|; ta' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
      echo "[+] GHCR (TAG): ${GHCRPKG_TAG}"
      echo "[+] GHCR (URL): ${GHCRPKG_URL}"
-     export GHCRPKG_TAG GHCRPKG_URL
+     export GHCRPKG_TAG GHCRPKG_URL GPKG_FORGE
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "GHCRPKG_URL=${GHCRPKG_URL}" >> "${GITHUB_ENV}"
      [[ "${GHA_MODE}" == "MATRIX" ]] && echo "GHCRPKG_TAG=${GHCRPKG_TAG}" >> "${GITHUB_ENV}"
+     [[ "${GHA_MODE}" == "MATRIX" ]] && echo "GPKG_FORGE=${GPKG_FORGE}" >> "${GITHUB_ENV}"
     #Download URL
      DOWNLOAD_URL="$(echo "${GHCRPKG_URL}" | sed 's|^ghcr.io|https://api.ghcr.pkgforge.dev|' | sed ':a; s|^\(https://\)\([^/]\)/\(/\)|\1\2/\3|; ta')?tag=${GHCRPKG_TAG}&download=${PROG}"
      BUILD_LOG="$(echo "${DOWNLOAD_URL}" | sed 's/download=[^&]*/download='"${PROG}"'.log/')"
