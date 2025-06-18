@@ -379,12 +379,11 @@ jobs:
           ##CoreUtils
           export DEBIAN_FRONTEND="noninteractive"
           echo "DEBIAN_FRONTEND=${DEBIAN_FRONTEND}" >> "${GITHUB_ENV}"
-          sudo apt update -y -qq
           #https://github.com/ilikenwf/apt-fast?tab=readme-ov-file#quick-install
           bash -c "$(curl -qfsSL 'https://raw.githubusercontent.com/ilikenwf/apt-fast/master/quick-install.sh')"
+          sudo apt-fast update -y -qq 2>/dev/null
           sudo apt-fast install apt-transport-https apt-utils bc ca-certificates coreutils curl dos2unix fdupes git-lfs gnupg2 \
           jq moreutils p7zip-full rename rsync software-properties-common tar texinfo tmux tree util-linux wget zsync -y -qq 2>/dev/null
-          sudo apt-fast update -y -qq 2>/dev/null
           ##User-Agent
           USER_AGENT="$(curl -qfsSL 'https://pub.ajam.dev/repos/Azathothas/Wordlists/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
           echo "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
