@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mock_serial_discovery",
+  "pkg_family": "arduino-cli",
+  "pkg_id": "mock_serial_discovery#github.com_arduino_arduino_cli",
+  "pkg_name": "mock_serial_discovery",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arduino/arduino-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Arduino command line tool",
+  "homepage": [
+    "https://github.com/arduino/arduino-cli"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client_example",
+    "cmd",
+    "discovery_client",
+    "get_version_example",
+    "mock_avrdude",
+    "mock_serial_discovery",
+    "mock_serial_monitor",
+    "term_example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arduino/arduino-cli/archive/11b2625fc8b4af5ce10a183886d682ddf1e5cdfc.tar.gz"
+  ],
+  "tag": [
+    "arduino",
+    "cli",
+    "command-line",
+    "golang",
+    "tooling-team"
+  ],
+  "version": "HEAD-11b2625-250612T101331",
+  "version_upstream": "",
+  "bsum": "27a6676ff69205a4f8c4c44f3fa98d7e51cdf7d27f9cee8eda4d82713acfd6b9",
+  "build_date": "2025-06-18T16:42:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737530005",
+  "build_id": "15737530005",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arduino/arduino-cli/mock_serial_discovery?tag=HEAD-11b2625-250612T101331-loongarch64-Linux&download=mock_serial_discovery.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4571",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arduino/arduino-cli/mock_serial_discovery?tag=HEAD-11b2625-250612T101331-loongarch64-Linux&download=mock_serial_discovery",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arduino/arduino-cli/mock_serial_discovery:HEAD-11b2625-250612T101331-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arduino/arduino-cli/mock_serial_discovery",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arduino/arduino-cli/mock_serial_discovery?tag=HEAD-11b2625-250612T101331-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7630ac5c4658718cf2fc0f4d5f6be51978594d89ff8ce7f56a5de20a24867e78",
+  "size": "2.3 MB",
+  "size_raw": "2367480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
