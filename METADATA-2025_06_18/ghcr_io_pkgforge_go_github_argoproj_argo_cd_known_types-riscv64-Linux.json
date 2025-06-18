@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "known_types",
+  "pkg_family": "argo-cd",
+  "pkg_id": "known_types#github.com_argoproj_argo_cd",
+  "pkg_name": "known_types",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-cd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Declarative Continuous Deployment for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-cd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "argo-cd-cmd",
+    "cmd",
+    "cmd-docs",
+    "dev-mounter",
+    "gen-catalog",
+    "gen-crd-spec",
+    "gen-docs",
+    "k8s",
+    "known_types"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-cd/archive/a671cc9b2332324146d03698dab1d8cf68cee512.tar.gz"
+  ],
+  "tag": [
+    "argo",
+    "argo-cd",
+    "cd",
+    "ci-cd",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "devops",
+    "docker",
+    "gitops",
+    "hacktoberfest",
+    "helm",
+    "jsonnet",
+    "kubernetes",
+    "kustomize",
+    "pipeline"
+  ],
+  "version": "HEAD-a671cc9-250618T010624",
+  "version_upstream": "",
+  "bsum": "1dc593104d21ded2d2b8f4ae5c3e7d6bd69c562ec43c1805c0da12c5659d95b5",
+  "build_date": "2025-06-18T17:00:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737582616",
+  "build_id": "15737582616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/known_types?tag=HEAD-a671cc9-250618T010624-riscv64-Linux&download=known_types.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/known_types?tag=HEAD-a671cc9-250618T010624-riscv64-Linux&download=known_types",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-cd/known_types:HEAD-a671cc9-250618T010624-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-cd/known_types",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/known_types?tag=HEAD-a671cc9-250618T010624-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dac7ccbaa7c4c98b0dd7b81cea22e2940c247895760bd144b5aeaf3837bb6844",
+  "size": "5.0 MB",
+  "size_raw": "5155992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
