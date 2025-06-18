@@ -359,13 +359,13 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
    echo -e "\n[+] Artifacts: ${G_ARTIFACT_DIR}\n"
    {
      pushd "${BUILD_DIR}/BUILD_GPKG" &>/dev/null
-     echo '\\\\============================ Package Forge ============================////'
+     echo '\\\\========================== Package Forge ===========================////'
      echo '|--- Repository: https://github.com/pkgforge-go/builder                 ---|'
-     echo '|--- Contact: https://docs.pkgforge.dev/contact/chat                       ---|'
-     echo '|--- Discord: https://discord.gg/djJUs48Zbu                                ---|'  
+     echo '|--- Contact: https://docs.pkgforge.dev/contact/chat                    ---|'
+     echo '|--- Discord: https://discord.gg/djJUs48Zbu                             ---|'  
      echo '|--- Docs: https://docs.pkgforge.dev/repositories/external/pkgforge-go  ---|'
      echo '|--- Bugs/Issues: https://github.com/pkgforge-go/builder/issues         ---|'
-     echo '|-----------------------------------------------------------------------------|'
+     echo '|--------------------------------------------------------------------------|'
      echo -e "\n==> [+] Started Building at :: $(TZ='UTC' date +'%A, %Y-%m-%d (%I:%M:%S %p)') UTC\n"
      presetup_go
      set_goflags && go_build
