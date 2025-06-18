@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "booster-init",
+  "pkg_family": "booster",
+  "pkg_id": "booster-init#github.com_anatol_booster",
+  "pkg_name": "booster-init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anatol/booster",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and secure initramfs generator",
+  "homepage": [
+    "https://github.com/anatol/booster"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "booster-init",
+    "generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anatol/booster/archive/080112b1a285da006167855328f1e50d359eb88f.tar.gz"
+  ],
+  "tag": [
+    "boot",
+    "initramfs",
+    "linux"
+  ],
+  "version": "HEAD-080112b-250315T152027",
+  "version_upstream": "",
+  "bsum": "bbb9d4a484957e3da3e1fe77b1d6c2bea9773b31c5eefceb3ce0607344d3bb4d",
+  "build_date": "2025-06-18T15:57:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15736716444",
+  "build_id": "15736716444",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anatol/booster/booster-init?tag=HEAD-080112b-250315T152027-aarch64-Linux&download=booster-init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "565",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anatol/booster/booster-init?tag=HEAD-080112b-250315T152027-aarch64-Linux&download=booster-init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anatol/booster/booster-init:HEAD-080112b-250315T152027-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anatol/booster/booster-init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anatol/booster/booster-init?tag=HEAD-080112b-250315T152027-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c506c408d6acfaebd4b1cb9226690b4531710e9c83ed80951bd91cd0d448fe82",
+  "size": "8.8 MB",
+  "size_raw": "9202880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
