@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen-crd-spec",
+  "pkg_family": "argo-cd",
+  "pkg_id": "gen-crd-spec#github.com_argoproj_argo_cd",
+  "pkg_name": "gen-crd-spec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-cd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Declarative Continuous Deployment for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-cd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "argo-cd-cmd",
+    "cmd",
+    "cmd-docs",
+    "dev-mounter",
+    "gen-catalog",
+    "gen-crd-spec",
+    "gen-docs",
+    "k8s",
+    "known_types"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-cd/archive/a671cc9b2332324146d03698dab1d8cf68cee512.tar.gz"
+  ],
+  "tag": [
+    "argo",
+    "argo-cd",
+    "cd",
+    "ci-cd",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "devops",
+    "docker",
+    "gitops",
+    "hacktoberfest",
+    "helm",
+    "jsonnet",
+    "kubernetes",
+    "kustomize",
+    "pipeline"
+  ],
+  "version": "HEAD-a671cc9-250618T010624",
+  "version_upstream": "",
+  "bsum": "e75eb665f8cfd626bd44ccd50eb09d97fa17428536e7f57140f2adb86a67744b",
+  "build_date": "2025-06-18T16:58:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15737582616",
+  "build_id": "15737582616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/gen-crd-spec?tag=HEAD-a671cc9-250618T010624-x86_64-Linux&download=gen-crd-spec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/gen-crd-spec?tag=HEAD-a671cc9-250618T010624-x86_64-Linux&download=gen-crd-spec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-cd/gen-crd-spec:HEAD-a671cc9-250618T010624-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-cd/gen-crd-spec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-cd/gen-crd-spec?tag=HEAD-a671cc9-250618T010624-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49d4b636a16c2681af7cbcb30a2aca02df3d1e99e7d337a86e922e59d36612ed",
+  "size": "69 MB",
+  "size_raw": "71837712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
