@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "btcctl",
+  "pkg_family": "btcd",
+  "pkg_id": "btcctl#github.com_btcsuite_btcd",
+  "pkg_name": "btcctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/btcsuite/btcd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative full node bitcoin implementation written in Go _golang_",
+  "homepage": [
+    "https://github.com/btcsuite/btcd"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addblock",
+    "bitcoincorehttp",
+    "bitcoincorehttpbulk",
+    "bitcoincoreunixsocket",
+    "btcctl",
+    "btcd",
+    "btcdwebsockets",
+    "btcwalletwebsockets",
+    "customcommand",
+    "dbtool",
+    "findcheckpoint",
+    "gencerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/btcsuite/btcd/archive/3afc25bed2bb43cd81e5221c1ec397783faae3e2.tar.gz"
+  ],
+  "tag": [
+    "bitcoin",
+    "btcd",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-3afc25b-250618T182301",
+  "version_upstream": "",
+  "bsum": "63ecafb60290758593c47f6ff8cbacbdcd443c855508706dcd150ccda43975fb",
+  "build_date": "2025-06-19T15:03:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760280433",
+  "build_id": "15760280433",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/btcsuite/btcd/btcctl?tag=HEAD-3afc25b-250618T182301-aarch64-Linux&download=btcctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6478",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/btcsuite/btcd/btcctl?tag=HEAD-3afc25b-250618T182301-aarch64-Linux&download=btcctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/btcsuite/btcd/btcctl:HEAD-3afc25b-250618T182301-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/btcsuite/btcd/btcctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/btcsuite/btcd/btcctl?tag=HEAD-3afc25b-250618T182301-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "707b991b637b1bdee035a93d344f93bf810eb5a2daff303f0421e90110416fb1",
+  "size": "7.7 MB",
+  "size_raw": "8033536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
