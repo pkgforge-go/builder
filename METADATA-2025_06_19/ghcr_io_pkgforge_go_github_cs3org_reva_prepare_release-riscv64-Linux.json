@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "prepare-release",
+  "pkg_family": "reva",
+  "pkg_id": "prepare-release#github.com_cs3org_reva",
+  "pkg_name": "prepare-release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cs3org/reva",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends",
+  "homepage": [
+    "https://github.com/cs3org/reva"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-artifacts",
+    "generate-documentation",
+    "main",
+    "prepare-release",
+    "reva"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cs3org/reva/archive/65db3d57be633ac358581e2d429ee52aa8441a75.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "cloud",
+    "cloud-storage",
+    "golang",
+    "hacktoberfest",
+    "interoperability-platform",
+    "opensource",
+    "share",
+    "storage",
+    "sync",
+    "synchronization"
+  ],
+  "version": "HEAD-65db3d5-250619T133356",
+  "version_upstream": "",
+  "bsum": "b07b8b66f62af17d94a483ffe090f3a258a54c22d9d5d945f58667967281e203",
+  "build_date": "2025-06-19T20:22:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765258280",
+  "build_id": "15765258280",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/prepare-release?tag=HEAD-65db3d5-250619T133356-riscv64-Linux&download=prepare-release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "191",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/prepare-release?tag=HEAD-65db3d5-250619T133356-riscv64-Linux&download=prepare-release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cs3org/reva/prepare-release:HEAD-65db3d5-250619T133356-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cs3org/reva/prepare-release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/prepare-release?tag=HEAD-65db3d5-250619T133356-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f24699bdc322ff55c3ae9e2b25027b045f3deea6e17fe8b0fcf3370b9a353f03",
+  "size": "2.0 MB",
+  "size_raw": "2000616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
