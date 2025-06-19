@@ -1,0 +1,315 @@
+name: ♻️ Sync Lists ♻️
+concurrency:
+  group: "${{ github.workflow }}-${{ github.ref }}"
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */1 * * *" #@every 1hrs
+#------------------------------------------------------------------------------------#
+jobs:
+    sync-list:
+      name: Sync Lists
+      runs-on: ubuntu-latest
+      permissions: 
+        contents: write
+
+      steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main
+          fetch-depth: 1
+          filter: "blob:none"
+
+      - name: Setup Env
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          ##Install coreutils
+          sudo apt-get update -y -qq && sudo apt-get install curl coreutils dos2unix file findutils gawk git jq moreutils rsync tar xz-utils util-linux wget zip -y -qq
+          ##Install Addons
+          #https://github.com/pkgforge/devscripts/blob/main/Linux/install_bins_curl.sh
+          bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
+          ##Create Output Dir
+          mkdir -p "${GITHUB_WORKSPACE}/main/data"
+          echo "GIT_TERMINAL_PROMPT=0" >> "${GITHUB_ENV}"
+          echo "GIT_ASKPASS=/bin/echo" >> "${GITHUB_ENV}"
+          git config --global "user.email" "AjamX101@gmail.com"
+          git config --global "user.name" "Azathothas"
+          ##tmp
+          SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
+          echo "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+
+      - name: Generate Metadata (PKGS_BUILT.json)
+        env:
+          GH_TOKEN: "${{ github.token }}"
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          ##Main
+          dos2unix --quiet "${GITHUB_WORKSPACE}/main/scripts/gen_meta.sh"
+          chmod +x "${GITHUB_WORKSPACE}/main/scripts/gen_meta.sh"
+          bash "${GITHUB_WORKSPACE}/main/scripts/gen_meta.sh"
+          ##Copy
+          export O_D="${GITHUB_WORKSPACE}/main/data"
+          echo "O_D=${O_D}" >> "${GITHUB_ENV}"
+          HOST_TRIPLETS=("aarch64-Linux" "loongarch64-Linux" "riscv64-Linux" "x86_64-Linux")
+          for HOST_TRIPLET in "${HOST_TRIPLETS[@]}"; do
+            if [[ -s "${SYSTMP}/${HOST_TRIPLET}.json" && $(stat -c%s "${SYSTMP}/${HOST_TRIPLET}.json") -gt 1024 ]]; then
+              cp -fv "${SYSTMP}/${HOST_TRIPLET}.json" "${O_D}/${HOST_TRIPLET}.json"
+            fi
+          done
+          ##Create/Update
+          if [[ -f "${O_D}/aarch64-Linux.json" &&\
+             -f "${O_D}/loongarch64-Linux.json" &&\
+             -f "${O_D}/riscv64-Linux.json" &&\
+             -f "${O_D}/x86_64-Linux.json" ]]; then
+             #Merge
+              cat "${O_D}/aarch64-Linux.json" "${O_D}/loongarch64-Linux.json" \
+              "${O_D}/riscv64-Linux.json" "${O_D}/x86_64-Linux.json" | jq -s \
+               '
+                 map(.[]) | 
+                 group_by(.pkg_id) | 
+                 map({
+                   description: .[0].description,
+                   name: .[0].pkg_name,
+                   pkg_id: .[0].pkg_id,
+                   updated_at: (.[0].build_date | split("T")[0]),
+                   version: .[0].version,
+                   targets: map(.host) | sort | unique
+                 }) | 
+                 sort_by(.name)
+               ' | jq 'unique_by(.pkg_id) | sort_by(.name)' |\
+               jq 'walk(if type == "boolean" or type == "number" then tostring else . end)' | jq \
+               'map(to_entries | sort_by(.key) | from_entries)' | jq \
+               '
+                 map(select(
+                .description != null and .description != "" and
+                .name != null and .name != "" and
+                .pkg_id != null and .pkg_id != "" and
+                .updated_at != null and .updated_at != "" and
+                .version != null and .version != ""
+                ))
+               ' | jq 'unique_by(.pkg_id) | sort_by(.name)' > "${SYSTMP}/PKGS_BUILT.json"
+             #Copy
+               if [[ -f "${O_D}/PKGS_BUILT.json" ]]; then
+                 jq -s \
+                 '
+                  (.[1] // []) as $old |
+                  (.[0] // []) as $new |
+                  ($old | map({(.pkg_id): .}) | add) as $old_by_id |
+                  ($new | map({(.pkg_id): .}) | add) as $new_by_id |
+                  ($old_by_id + $new_by_id) | to_entries | map(.value) | sort_by(.pkg_id)
+                 ' "${SYSTMP}/PKGS_BUILT.json" "${O_D}/PKGS_BUILT.json" | jq . > "${SYSTMP}/merged.json"
+                 export I_F="${SYSTMP}/merged.json"
+               else
+                 export I_F="${SYSTMP}/PKGS_BUILT.json"
+               fi
+               PKG_COUNT="$(jq -r '.[] | .pkg_id' "${I_F}" | grep -iv 'null' | sort -u | wc -l | tr -d '[:space:]')"
+               if [[ "${PKG_COUNT}" -le 5 ]]; then
+                  echo -e "\n[-] FATAL: Failed to Generate Pkg Build List\n"
+                  echo "[-] Count: ${PKG_COUNT}"
+                 exit 1
+               else
+                  echo -e "\n[+] Total Packages: ${PKG_COUNT}"
+                  cp -fv "${I_F}" "${O_D}/PKGS_BUILT.json"
+               fi
+          fi
+          ##Gen MD
+           cat "${O_D}/PKGS_CLI_ONLY.json" | jq -r 'sort_by(.rank | tonumber) | .[] | "- 🐹 **[\(.name)](\(.homepage))**: \(.description | split(".")[0] + ".")"' > "${SYSTMP}/PKG_INFO.md"
+           if [[ -s "${SYSTMP}/PKG_INFO.md" && $(stat -c%s "${SYSTMP}/PKG_INFO.md") -gt 1024 ]]; then
+             cp -fv "${SYSTMP}/PKG_INFO.md" "${O_D}/PKG_INFO.md"
+           fi
+          ##Gen Count
+          PD_COUNT="$(jq -r '.[] | .pkg_id' "${O_D}/REPO_DUMP.json" 2>/dev/null | sort -u | wc -l | tr -d '[:space:]')"
+          PCO_COUNT="$(jq -r '.[] | .pkg_id' "${O_D}/PKGS_CLI_ONLY.json" 2>/dev/null | sort -u | wc -l | tr -d '[:space:]')"
+          PB_COUNT="$(jq -r '.[] | .pkg_id' "${O_D}/PKGS_BUILT.json" 2>/dev/null | sort -u | wc -l | tr -d '[:space:]')"
+          PBU_COUNT="$(jq -r '.[] | .pkg_id' "${O_D}/PKGS_BUILT.json" 2>/dev/null | awk -F'#' '{print $2}' | sort -u | wc -l | tr -d '[:space:]')"
+          PQ_COUNT="$(cat "${O_D}/QUEUE_LIST.txt" 2>/dev/null | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sort -u | wc -l | tr -d '[:space:]')"
+          aarch64_COUNT="$(jq -r '.[] | .ghcr_pkg' "${O_D}/aarch64-Linux.json" 2>/dev/null | sort -u | wc -l | tr -d '[:space:]')"
+          loongarch64_COUNT="$(jq -r '.[] | .ghcr_pkg' "${O_D}/loongarch64-Linux.json" 2>/dev/null | sort -u | wc -l | tr -d '[:space:]')"
+          riscv64_COUNT="$(jq -r '.[] | .ghcr_pkg' "${O_D}/riscv64-Linux.json" 2>/dev/null | sort -u | wc -l | tr -d '[:space:]')"
+          x86_64_COUNT="$(jq -r '.[] | .ghcr_pkg' "${O_D}/x86_64-Linux.json" 2>/dev/null | sort -u | wc -l | tr -d '[:space:]')"
+          jq -n --argjson pd_count "${PD_COUNT:-0}" \
+                --argjson pco_count "${PCO_COUNT:-0}" \
+                --argjson pb_count "${PB_COUNT:-0}" \
+                --argjson pbu_count "${PBU_COUNT:-0}" \
+                --argjson pq_count "${PQ_COUNT:-0}" \
+                --argjson aarch64_count "${aarch64_COUNT:-0}" \
+                --argjson loongarch64_count "${loongarch64_COUNT:-0}" \
+                --argjson riscv64_count "${riscv64_COUNT:-0}" \
+                --argjson x86_64_count "${x86_64_COUNT:-0}" \
+          '[
+            {
+              "source": "pkgs_dump",
+              "total": $pd_count
+            },
+            {
+              "source": "pkgs_cli_only",
+              "total": $pco_count
+            },
+            {
+              "source": "pkgs_built",
+              "total": $pb_count
+            },
+            {
+              "source": "pkgs_built_unique",
+              "total": $pbu_count
+            },
+            {
+              "source": "pkgs_queued",
+              "total": $pq_count
+            },
+            {
+              "source": "aarch64-Linux",
+              "total": $aarch64_count
+            },
+            {
+              "source": "loongarch64-Linux", 
+              "total": $loongarch64_count
+            },
+            {
+              "source": "riscv64-Linux",
+              "total": $riscv64_count
+            },
+            {
+              "source": "x86_64-Linux",
+              "total": $x86_64_count
+            },
+            {
+              "sum": "total-queued",
+              "total": (if $pq_count > 0 then (($pbu_count / $pq_count * 100) | round) else 0 end)
+            },     
+            {
+              "sum": "total-built",
+              "total": ($aarch64_count + $loongarch64_count + $riscv64_count + $x86_64_count)
+            }
+          ]' > "${O_D}/COUNT.json"
+        continue-on-error: true
+
+      - name: Update/Generate BUILD_LIST
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          ##Generate Input
+          pushd "$(mktemp -d)" &>/dev/null
+           ##Get All Pkgs
+           cat "${O_D}/PKGS_CLI_ONLY.json" | jq -r ".[] | .pkg_id" |\
+            grep -Eiv '^null$' | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sort -u -o "./PKGS_ALL.txt"
+           readarray -t "ALL_PKGS" < <(cat "./PKGS_ALL.txt" | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sort -u)
+           echo -e "\n[+] ALL_PKGS ==> ${#ALL_PKGS[@]}\n"
+           if [[ -n "${ALL_PKGS[*]}" && "${#ALL_PKGS[@]}" -gt 2000 ]]; then
+            #Update List
+             printf "%s\n" "${ALL_PKGS[@]}" | sort -u -o "${O_D}/PKG_LIST.txt"
+            #Remove Previous Builds
+             readarray -t "QUEUE_LIST" < <(sort -u "${O_D}/QUEUE_LIST.txt")
+            #Reset Array to new
+             PKG_LIST=()
+             readarray -t "PKG_LIST" < <(printf "%s\n" "${ALL_PKGS[@]}" | sort -u | comm -23 - <(printf "%s\n" "${QUEUE_LIST[@]}" | sort -u))
+             echo -e "\n[+] PKG_LIST ==> ${#PKG_LIST[@]}\n"
+           fi
+           CACHE_LIST=()
+           readarray -t "CACHE_LIST" < <(cat "${O_D}/PKGS_BUILT.json" 2>/dev/null |\
+             jq -r ".[] | .pkg_id" | grep -Eiv '^null$' | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sort -u)
+           if [[ -n "${CACHE_LIST[*]}" && "${#CACHE_LIST[@]}" -gt 100 ]]; then
+             printf "%s\n" "${CACHE_LIST[@]}" | sort -u -o "${O_D}/CACHE_LIST.txt"
+           fi
+           ##Generate Build List
+             comm -23 <(printf "%s\n" "${PKG_LIST[@]}" | sort) <(printf "%s\n" "${CACHE_LIST[@]}" | sort) | sort -u -o "./BUILD_LIST.tmp"
+             BUILD_LIST_TMP="$(wc -l < "./BUILD_LIST.tmp" | tr -cd '[:digit:]' | tr -d '[:space:]')"
+             if [[ "${BUILD_LIST_TMP}" -gt 255 ]]; then
+               echo -e "\n[+] Generating Build List (Diff from Prebuilts [${BUILD_LIST_TMP}])\n"
+               sed -e '/^[[:space:]]*$/d;256q' "./BUILD_LIST.tmp" | sort -u -o "./BUILD_LIST.txt"
+             elif [[ "${BUILD_LIST_TMP}" -lt 10 ]]; then
+               sed -e '/^[[:space:]]*$/d;10q' "./BUILD_LIST.tmp" | sort -u -o "./BUILD_LIST.txt"
+               if [[ "$(wc -l < "./BUILD_LIST.txt" | tr -cd '[:digit:]')" -lt 10 ]]; then
+                  echo -e "\n[+] Generating Build List (Diff from Prebuilts + PKG_LIST + Old Prebuilts)\n"
+                  #curl -qfsSL "https://meta.pkgforge.dev/external/pkgforge-go/x86_64-Linux.json" | jq -r --arg CUT_OFF "$(date -u -d '5 days ago' +%Y-%m-%dT%H:%M:%SZ)" '[.[] | select(.build_date < $CUT_OFF) | .pkg][0:240] | .[]' | sort -u >> "./BUILD_LIST.txt"
+               fi
+             else
+               echo -e "\n[+] Generating Build List (Diff from BUILD_LIST [${BUILD_LIST_TMP}])\n"
+               sed -e '/^[[:space:]]*$/d;256q' "./BUILD_LIST.tmp" | sort -u -o "./BUILD_LIST.txt"
+             fi
+               grep -xFf <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "${O_D}/PKG_LIST.txt") <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "./BUILD_LIST.txt") > "./BUILD_LIST.txt.tmp"
+               BUILD_LIST_TMP_C="$(wc -l < "./BUILD_LIST.txt.tmp" | tr -cd '[:digit:]' | tr -d '[:space:]')"
+               if [[ "${BUILD_LIST_TMP_C}" -gt 10 ]]; then
+                  mv -fv "./BUILD_LIST.txt.tmp" "./BUILD_LIST.txt"
+               else
+                  rm -rfv "./BUILD_LIST.txt.tmp"
+               fi
+               cat "./BUILD_LIST.txt" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d;256q' > "./file1.tmp"
+               cat "${O_D}/BUILD_LIST.txt" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' > "./file2.tmp"
+               comm -23 "./file1.tmp" "./file2.tmp" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d' | head -n $((255 - $(wc -l < "./file2.tmp"))) > "./diff.tmp"
+               cat "./file1.tmp" "./diff.tmp" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d;255q' > "${O_D}/BUILD_LIST.txt"
+           sed -E 's/^[[:space:]]+|[[:space:]]+$//g' -i "${O_D}/CACHE_LIST.txt"
+           sed '/^[[:space:]]*$/d' -i "${O_D}/CACHE_LIST.txt"
+           sed -E 's/^[[:space:]]+|[[:space:]]+$//g' -i "${O_D}/PKG_LIST.txt"
+           sed '/^[[:space:]]*$/d' -i "${O_D}/PKG_LIST.txt"
+           sed -E 's/^[[:space:]]+|[[:space:]]+$//g' -i "${O_D}/BUILD_LIST.txt"
+           sed '/^[[:space:]]*$/d' -i "${O_D}/BUILD_LIST.txt"
+           sed -E 's/^[[:space:]]+|[[:space:]]+$//g' -i "${O_D}/QUEUE_LIST.txt"
+           sed '/^[[:space:]]*$/d' -i "${O_D}/QUEUE_LIST.txt"
+           grep -xFf <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "${O_D}/PKG_LIST.txt") <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "${O_D}/BUILD_LIST.txt") > "./BUILD_LIST.txt.temp"
+           BUILD_LIST_TMP_F="$(wc -l < "./BUILD_LIST.txt.temp" | tr -cd '[:digit:]' | tr -d '[:space:]')"
+           if [[ "${BUILD_LIST_TMP_F}" -gt 5 ]]; then
+              mv -fv "./BUILD_LIST.txt.temp" "${O_D}/BUILD_LIST.txt"
+           else
+              rm -rfv "./BUILD_LIST.txt.temp"
+           fi
+           sed '/^[[:space:]]*$/d' -i "${O_D}/BUILD_LIST.txt"
+           sed '/^[[:space:]]*$/d' -i "${O_D}/CACHE_LIST.txt"
+           sed '/^[[:space:]]*$/d' -i "${O_D}/PKG_LIST.txt"
+           sed '/^[[:space:]]*$/d' -i "${O_D}/QUEUE_LIST.txt"
+           echo -e "\n[+] Total Packages: $(wc -l < ${O_D}/PKG_LIST.txt)"
+           echo -e "[+] Total Prebuilts: $(wc -l < ${O_D}/CACHE_LIST.txt)"
+           echo -e "[+] Total Build Queue: $(wc -l < ${O_D}/BUILD_LIST.txt)"
+           echo -e "[+] Total Exclusions: $(wc -l < ${O_D}/QUEUE_LIST.txt)\n"
+          popd &>/dev/null
+        continue-on-error: true
+
+      - name: Get DateTime
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          NEPALI_TIME="$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')"
+          echo "NEPALI_TIME=${NEPALI_TIME}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+        
+      - name: Pull & Push (1)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main"
+          git pull origin main --no-edit 2>/dev/null
+          git pull origin main --ff-only ; git merge --no-ff -m "Merge & Sync"
+        continue-on-error: true
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main
+          commit_user_name: Azathothas
+          commit_user_email: AjamX101@gmail.com
+          commit_message: "♻️ Synced Lists 📦 <-- [${{ env.NEPALI_TIME }}] ⌚"
+          
+      - name: Pull & Push (2)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main"
+          git pull origin main --no-edit 2>/dev/null
+          git pull origin main --ff-only ; git merge --no-ff -m "Merge & Sync"
+        continue-on-error: true
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main
+          commit_user_name: Azathothas
+          commit_user_email: AjamX101@gmail.com
+          commit_message: "♻️ Synced Lists 📦 <-- [${{ env.NEPALI_TIME }}] ⌚"
