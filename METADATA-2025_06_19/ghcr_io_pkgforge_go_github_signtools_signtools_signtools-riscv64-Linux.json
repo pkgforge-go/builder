@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "signtools",
+  "pkg_family": "SignTools",
+  "pkg_id": "signtools#github.com_SignTools_SignTools",
+  "pkg_name": "signtools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SignTools/SignTools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "✒ A free, self-hosted platform to sideload iOS apps without a computer",
+  "homepage": [
+    "https://github.com/SignTools/SignTools"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "signtools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SignTools/SignTools/archive/1d62b0059dc639a6d0902a788d4995443eaa7d82.tar.gz"
+  ],
+  "tag": [
+    "apps",
+    "ci",
+    "cross-platform",
+    "ios",
+    "ipa",
+    "ipad",
+    "iphone",
+    "macos",
+    "self-hosted",
+    "sideload",
+    "signing"
+  ],
+  "version": "HEAD-1d62b00-250415T161515",
+  "version_upstream": "v3.0.9",
+  "bsum": "ce87fb52ac585b16403370d535911395401109c6f613edd487aa51c78047b6c6",
+  "build_date": "2025-06-19T11:02:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755760405",
+  "build_id": "15755760405",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/signtools/signtools/signtools?tag=HEAD-1d62b00-250415T161515-riscv64-Linux&download=signtools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1705",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/signtools/signtools/signtools?tag=HEAD-1d62b00-250415T161515-riscv64-Linux&download=signtools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/signtools/signtools/signtools:HEAD-1d62b00-250415T161515-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/signtools/signtools/signtools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/signtools/signtools/signtools?tag=HEAD-1d62b00-250415T161515-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3d8bbdf41318eafcdd987b680f6466decaef7e061041cbf7c2d55c7949d64d0",
+  "size": "14 MB",
+  "size_raw": "14335544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
