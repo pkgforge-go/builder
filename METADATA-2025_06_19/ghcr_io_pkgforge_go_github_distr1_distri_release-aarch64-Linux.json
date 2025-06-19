@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "release",
+  "pkg_family": "distri",
+  "pkg_id": "release#github.com_distr1_distri",
+  "pkg_name": "release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/distr1/distri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a Linux distribution to research fast package management",
+  "homepage": [
+    "https://github.com/distr1/distri"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autobuilder",
+    "distri",
+    "distri-checkupstream",
+    "distri-installer",
+    "distri-repobrowser",
+    "kernel-cfg-diff",
+    "minitrd",
+    "release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/distr1/distri/archive/93a19ed31839b4a20039f52c1cd82a26a1158342.tar.gz"
+  ],
+  "tag": [
+    "linux-distribution"
+  ],
+  "version": "HEAD-93a19ed-250417T162751",
+  "version_upstream": "",
+  "bsum": "0652604573c5a86031e870ef368b6aac47771c0d08ac1410dfce84bd82ae7874",
+  "build_date": "2025-06-19T21:31:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766579452",
+  "build_id": "15766579452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distr1/distri/release?tag=HEAD-93a19ed-250417T162751-aarch64-Linux&download=release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "553",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distr1/distri/release?tag=HEAD-93a19ed-250417T162751-aarch64-Linux&download=release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/distr1/distri/release:HEAD-93a19ed-250417T162751-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/distr1/distri/release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distr1/distri/release?tag=HEAD-93a19ed-250417T162751-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c5e623db381b39daf0efdfdca8158823751a3acba7e47d78fea4fa3b7f0f65e",
+  "size": "2.0 MB",
+  "size_raw": "2095288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
