@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "btcdwebsockets",
+  "pkg_family": "btcd",
+  "pkg_id": "btcdwebsockets#github.com_btcsuite_btcd",
+  "pkg_name": "btcdwebsockets",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/btcsuite/btcd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative full node bitcoin implementation written in Go _golang_",
+  "homepage": [
+    "https://github.com/btcsuite/btcd"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addblock",
+    "bitcoincorehttp",
+    "bitcoincorehttpbulk",
+    "bitcoincoreunixsocket",
+    "btcctl",
+    "btcd",
+    "btcdwebsockets",
+    "btcwalletwebsockets",
+    "customcommand",
+    "dbtool",
+    "findcheckpoint",
+    "gencerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/btcsuite/btcd/archive/3afc25bed2bb43cd81e5221c1ec397783faae3e2.tar.gz"
+  ],
+  "tag": [
+    "bitcoin",
+    "btcd",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-3afc25b-250618T182301",
+  "version_upstream": "",
+  "bsum": "9d2f0c342216c9197e888a4588f6a971a985c6fdbcf9342d4befdca34d158fd2",
+  "build_date": "2025-06-19T15:05:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760280433",
+  "build_id": "15760280433",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/btcsuite/btcd/btcdwebsockets?tag=HEAD-3afc25b-250618T182301-loongarch64-Linux&download=btcdwebsockets.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6478",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/btcsuite/btcd/btcdwebsockets?tag=HEAD-3afc25b-250618T182301-loongarch64-Linux&download=btcdwebsockets",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/btcsuite/btcd/btcdwebsockets:HEAD-3afc25b-250618T182301-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/btcsuite/btcd/btcdwebsockets",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/btcsuite/btcd/btcdwebsockets?tag=HEAD-3afc25b-250618T182301-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f35f70c4b10d136fde5c46bb7423d400b8ba22790bef15847fa690e992e3b427",
+  "size": "7.6 MB",
+  "size_raw": "7867504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
