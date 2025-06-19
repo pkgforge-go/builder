@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "go-post",
+  "pkg_family": "decomp",
+  "pkg_id": "go-post#github.com_decomp_decomp",
+  "pkg_name": "go-post",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decomp/decomp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Components of a decompilation pipeline.",
+  "homepage": [
+    "https://github.com/decomp/decomp"
+  ],
+  "license": [
+    "Unlicense"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-post",
+    "ll2dot",
+    "ll2go",
+    "restructure"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/decomp/decomp/archive/4e6f075c50a858ebd2bfa5884ed936143fe78cdb.tar.gz"
+  ],
+  "tag": [
+    "binary-analysis",
+    "compositional-decompilation",
+    "decompilation",
+    "decompilation-pipeline",
+    "decompiler",
+    "go",
+    "golang",
+    "llvm",
+    "llvm-ir",
+    "reverse-engineering"
+  ],
+  "version": "HEAD-4e6f075-230226T120356",
+  "version_upstream": "",
+  "bsum": "92c2e93a778ec78e5ac5ac9972ac3cae73db68de83a00bcbb14506844d213926",
+  "build_date": "2025-06-19T21:05:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765739181",
+  "build_id": "15765739181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/go-post?tag=HEAD-4e6f075-230226T120356-riscv64-Linux&download=go-post.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "474",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/go-post?tag=HEAD-4e6f075-230226T120356-riscv64-Linux&download=go-post",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decomp/decomp/go-post:HEAD-4e6f075-230226T120356-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decomp/decomp/go-post",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/go-post?tag=HEAD-4e6f075-230226T120356-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8376c12f8c667ad486d7684b78c045860cd6a808607a21c28f21646074f8f808",
+  "size": "2.6 MB",
+  "size_raw": "2714376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
