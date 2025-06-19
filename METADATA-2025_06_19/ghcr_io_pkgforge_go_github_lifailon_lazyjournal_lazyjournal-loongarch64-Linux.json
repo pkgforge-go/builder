@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lazyjournal",
+  "pkg_family": "lazyjournal",
+  "pkg_id": "lazyjournal#github.com_Lifailon_lazyjournal",
+  "pkg_name": "lazyjournal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Lifailon/lazyjournal",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A TUI for reading logs from journald, auditd, file system, Docker containers, Podman and Kubernetes pods for quick viewing, coloring output and filtering with fuzzy find, regex support and timestamp.",
+  "homepage": [
+    "https://github.com/Lifailon/lazyjournal"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lazyjournal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Lifailon/lazyjournal/archive/6b08d1ce556654c92dbf3779f4412b2de0dba687.tar.gz"
+  ],
+  "tag": [
+    "audit-log",
+    "auditd",
+    "bsd",
+    "docker-logs",
+    "go",
+    "gocui",
+    "journal",
+    "journalctl",
+    "journald",
+    "kubernetes-logging",
+    "log-analysis",
+    "log-monitor",
+    "log-parser",
+    "log-viewer",
+    "logging",
+    "logs",
+    "podman",
+    "regexp",
+    "syslog",
+    "tui"
+  ],
+  "version": "HEAD-6b08d1c-250529T104036",
+  "version_upstream": "0.7.9",
+  "bsum": "a61cd0bfec9e1aeff438df4dd6633f17283fa425e90d2fc6eb20bbaa128ee2cb",
+  "build_date": "2025-06-19T10:01:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754808663",
+  "build_id": "15754808663",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lifailon/lazyjournal/lazyjournal?tag=HEAD-6b08d1c-250529T104036-loongarch64-Linux&download=lazyjournal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "570",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lifailon/lazyjournal/lazyjournal?tag=HEAD-6b08d1c-250529T104036-loongarch64-Linux&download=lazyjournal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lifailon/lazyjournal/lazyjournal:HEAD-6b08d1c-250529T104036-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lifailon/lazyjournal/lazyjournal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lifailon/lazyjournal/lazyjournal?tag=HEAD-6b08d1c-250529T104036-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6bee836fefc3b14281af09cb7eb35f5e8d38eb2fafa354510825d79f2264602e",
+  "size": "3.8 MB",
+  "size_raw": "3930168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
