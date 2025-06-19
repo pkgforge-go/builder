@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fakecluster",
+  "pkg_family": "ARO-RP",
+  "pkg_id": "fakecluster#github.com_Azure_ARO_RP",
+  "pkg_name": "fakecluster",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/ARO-RP",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Red Hat OpenShift RP",
+  "homepage": [
+    "https://github.com/Azure/ARO-RP"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aead",
+    "aro-rp-cmd",
+    "clean",
+    "cluster",
+    "db",
+    "fakecluster",
+    "gendeploy",
+    "gendevconfig",
+    "gendiscoverycache",
+    "genhiveconfig",
+    "genkey",
+    "licenses",
+    "monitor",
+    "portalauth",
+    "proxy",
+    "role",
+    "swagger",
+    "tunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/ARO-RP/archive/8c770b72f86751bd3b5322792745f606db2be604.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c770b7-250618T184628",
+  "version_upstream": "",
+  "bsum": "7e1939c0712af95b1c4aa02ff03c315defd9f2794be7286cab892d8bebaea5f5",
+  "build_date": "2025-06-19T08:17:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752529830",
+  "build_id": "15752529830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/fakecluster?tag=HEAD-8c770b7-250618T184628-aarch64-Linux&download=fakecluster.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/fakecluster?tag=HEAD-8c770b7-250618T184628-aarch64-Linux&download=fakecluster",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/aro-rp/fakecluster:HEAD-8c770b7-250618T184628-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/aro-rp/fakecluster",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/fakecluster?tag=HEAD-8c770b7-250618T184628-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb5c7c6b531c4b92b3eb2f32825e576d02d0262b960e9d9ab10c23d82f984c90",
+  "size": "36 MB",
+  "size_raw": "37121312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
