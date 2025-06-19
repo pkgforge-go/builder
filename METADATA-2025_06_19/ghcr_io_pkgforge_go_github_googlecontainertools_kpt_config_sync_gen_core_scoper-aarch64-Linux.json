@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gen-core-scoper",
+  "pkg_family": "kpt-config-sync",
+  "pkg_id": "gen-core-scoper#github.com_GoogleContainerTools_kpt_config_sync",
+  "pkg_name": "gen-core-scoper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleContainerTools/kpt-config-sync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+  "homepage": [
+    "https://github.com/GoogleContainerTools/kpt-config-sync"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-core-scoper",
+    "junit-report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleContainerTools/kpt-config-sync/archive/9aafe3b5db40ecd774744655bb886aa81e6dc8c1.tar.gz"
+  ],
+  "tag": [
+    "configuration-management",
+    "gitops",
+    "kubernetes"
+  ],
+  "version": "HEAD-9aafe3b-250619T015910",
+  "version_upstream": "",
+  "bsum": "d7828bb1ed7d0bd1f802d26340373cfbb18dc0797cf84a1226f4a18879deb371",
+  "build_date": "2025-06-19T09:55:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753780933",
+  "build_id": "15753780933",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/gen-core-scoper?tag=HEAD-9aafe3b-250619T015910-aarch64-Linux&download=gen-core-scoper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "258",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/gen-core-scoper?tag=HEAD-9aafe3b-250619T015910-aarch64-Linux&download=gen-core-scoper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecontainertools/kpt-config-sync/gen-core-scoper:HEAD-9aafe3b-250619T015910-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecontainertools/kpt-config-sync/gen-core-scoper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/gen-core-scoper?tag=HEAD-9aafe3b-250619T015910-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7eaf20d72311d2389fb234706c930c40964e72bf2cc6b0b87ba8d107fd64f7e7",
+  "size": "1.8 MB",
+  "size_raw": "1808120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
