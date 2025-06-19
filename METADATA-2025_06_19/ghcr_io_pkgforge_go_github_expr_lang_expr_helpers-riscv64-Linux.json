@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "helpers",
+  "pkg_family": "expr",
+  "pkg_id": "helpers#github.com_expr_lang_expr",
+  "pkg_name": "helpers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/expr-lang/expr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Expression language and expression evaluation for Go",
+  "homepage": [
+    "https://github.com/expr-lang/expr"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "func_types",
+    "gen",
+    "helpers"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/expr-lang/expr/archive/eeb1b8b6259d9a34ad5fb06bdd8cde80841396ac.tar.gz"
+  ],
+  "tag": [
+    "bytecode",
+    "configuration-language",
+    "engine",
+    "evaluator",
+    "expr",
+    "expression",
+    "expression-evaluator",
+    "expression-language",
+    "go",
+    "golang",
+    "rule-engine"
+  ],
+  "version": "HEAD-eeb1b8b-250603T173146",
+  "version_upstream": "v1.17.5",
+  "bsum": "968d44de7cae72f82d160d173e8cd719d6b5e07591cc3b71b01312f494aa2691",
+  "build_date": "2025-06-19T23:25:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767210420",
+  "build_id": "15767210420",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/expr-lang/expr/helpers?tag=HEAD-eeb1b8b-250603T173146-riscv64-Linux&download=helpers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6950",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/expr-lang/expr/helpers?tag=HEAD-eeb1b8b-250603T173146-riscv64-Linux&download=helpers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/expr-lang/expr/helpers:HEAD-eeb1b8b-250603T173146-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/expr-lang/expr/helpers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/expr-lang/expr/helpers?tag=HEAD-eeb1b8b-250603T173146-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a1fd33dc081de85085b36ae4671598e629275ac1fe567fb28f7715512ebddd1",
+  "size": "3.4 MB",
+  "size_raw": "3461896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
