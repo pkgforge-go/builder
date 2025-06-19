@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sort_benchmark",
+  "pkg_family": "gleam",
+  "pkg_id": "sort_benchmark#github.com_chrislusf_gleam",
+  "pkg_name": "sort_benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chrislusf/gleam",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.",
+  "homepage": [
+    "https://github.com/chrislusf/gleam"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cassandra_reader",
+    "csv",
+    "gleam",
+    "goyacc",
+    "join",
+    "kafka_reader",
+    "orc",
+    "parquet",
+    "pi_estimation",
+    "sort_benchmark",
+    "tfidf",
+    "union",
+    "word_count_in_go",
+    "word_count_in_pipeline"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chrislusf/gleam/archive/b15484b8add24d3b2a3a92c315fafa7c72ab468c.tar.gz"
+  ],
+  "tag": [
+    "distributed-computing",
+    "distributed-systems",
+    "golang",
+    "map-reduce"
+  ],
+  "version": "HEAD-b15484b-250420T144704",
+  "version_upstream": "",
+  "bsum": "27dab43721e6d63bbfa5eb8939edb8cc998e90dc4ffabd52a8ae5ccd3fe66581",
+  "build_date": "2025-06-19T18:31:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763613735",
+  "build_id": "15763613735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/sort_benchmark?tag=HEAD-b15484b-250420T144704-aarch64-Linux&download=sort_benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3523",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/sort_benchmark?tag=HEAD-b15484b-250420T144704-aarch64-Linux&download=sort_benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chrislusf/gleam/sort_benchmark:HEAD-b15484b-250420T144704-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chrislusf/gleam/sort_benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/sort_benchmark?tag=HEAD-b15484b-250420T144704-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f066bc1a2e8652f612b13d2b462ea8af4df0549ee6f0aa691b8d92c5b857d4c4",
+  "size": "18 MB",
+  "size_raw": "18689568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
