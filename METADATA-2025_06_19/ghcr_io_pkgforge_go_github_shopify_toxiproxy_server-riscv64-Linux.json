@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "toxiproxy",
+  "pkg_id": "server#github.com_Shopify_toxiproxy",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Shopify/toxiproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+  "homepage": [
+    "https://github.com/Shopify/toxiproxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "e2e",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Shopify/toxiproxy/archive/8585209e3917719b5f3ac36c845b60f1358fc09a.tar.gz"
+  ],
+  "tag": [
+    "chaos",
+    "down",
+    "go",
+    "is",
+    "omg",
+    "proxy",
+    "resiliency",
+    "tcp-proxy",
+    "testing"
+  ],
+  "version": "HEAD-8585209-250616T092528",
+  "version_upstream": "",
+  "bsum": "a4aa6defcbb32e515092ba9bd3a20e163f35f5f76983c855e529486b4df5301b",
+  "build_date": "2025-06-19T10:58:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755718279",
+  "build_id": "15755718279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shopify/toxiproxy/server?tag=HEAD-8585209-250616T092528-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shopify/toxiproxy/server?tag=HEAD-8585209-250616T092528-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shopify/toxiproxy/server:HEAD-8585209-250616T092528-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shopify/toxiproxy/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shopify/toxiproxy/server?tag=HEAD-8585209-250616T092528-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9cf75f80e2b1240f00213ee9337c126d2882951887a9ae181981d38e3a6552d5",
+  "size": "8.9 MB",
+  "size_raw": "9278520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
