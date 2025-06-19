@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "exploredb",
+  "pkg_family": "prysm",
+  "pkg_id": "exploredb#github.com_OffchainLabs_prysm",
+  "pkg_name": "exploredb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/559d02bf4db837f2863848056f2261f4e98e6b20.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-559d02b-250619T121245",
+  "version_upstream": "",
+  "bsum": "4386a1df3ac8741321b34f9362b569b46bbc138accf36971070a419172799a19",
+  "build_date": "2025-06-19T16:29:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761466834",
+  "build_id": "15761466834",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/exploredb?tag=HEAD-559d02b-250619T121245-x86_64-Linux&download=exploredb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3585",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/exploredb?tag=HEAD-559d02b-250619T121245-x86_64-Linux&download=exploredb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/exploredb:HEAD-559d02b-250619T121245-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/exploredb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/exploredb?tag=HEAD-559d02b-250619T121245-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "289a555049028e419ced2e0c59b275d58a40f2d97ab315d8cd20339eebc451f4",
+  "size": "31 MB",
+  "size_raw": "31808424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
