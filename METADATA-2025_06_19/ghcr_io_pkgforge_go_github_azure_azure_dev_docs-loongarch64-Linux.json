@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "docs",
+  "pkg_family": "azure-dev",
+  "pkg_id": "docs#github.com_Azure_azure_dev",
+  "pkg_name": "docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/azure-dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A developer CLI that reduces the time it takes to get started on Azure. The Azure Developer CLI _azd_ provides commands that map to key workflow stages: code, build, deploy, monitor, repeat.",
+  "homepage": [
+    "https://github.com/Azure/azure-dev"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appdetect",
+    "avmres",
+    "azd",
+    "docs",
+    "microsoft.azd.ai.builder",
+    "microsoft.azd.demo",
+    "microsoft.azd.extensions",
+    "proxy",
+    "tfoidc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/azure-dev/archive/ef9775ea38677ab75d54beccf7e04cc3dd21d4ff.tar.gz"
+  ],
+  "tag": [
+    "agents",
+    "ai",
+    "azure",
+    "cli",
+    "deployments",
+    "microsoft"
+  ],
+  "version": "HEAD-ef9775e-250617T135436",
+  "version_upstream": "",
+  "bsum": "b5cf7f84c9853f25a51d198ecf4e182d0e602632684172ad9527f783f9140880",
+  "build_date": "2025-06-19T08:01:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752529762",
+  "build_id": "15752529762",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/docs?tag=HEAD-ef9775e-250617T135436-loongarch64-Linux&download=docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "455",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/docs?tag=HEAD-ef9775e-250617T135436-loongarch64-Linux&download=docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/azure-dev/docs:HEAD-ef9775e-250617T135436-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/azure-dev/docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/docs?tag=HEAD-ef9775e-250617T135436-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c367065736d31fa1c7c9e71988f073ad8faf910c3d0a3245c0296ec4e7f0f2a",
+  "size": "33 MB",
+  "size_raw": "34312608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
