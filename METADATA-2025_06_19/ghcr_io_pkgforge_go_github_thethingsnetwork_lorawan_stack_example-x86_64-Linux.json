@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "lorawan-stack",
+  "pkg_id": "example#github.com_TheThingsNetwork_lorawan_stack",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TheThingsNetwork/lorawan-stack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Things Stack, an Open Source LoRaWAN Network Server",
+  "homepage": [
+    "https://github.com/TheThingsNetwork/lorawan-stack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codec",
+    "example",
+    "ttn-lw-cli",
+    "ttn-lw-stack"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TheThingsNetwork/lorawan-stack/archive/8718b71ce22fcf80e80a009c9a9077039a968481.tar.gz"
+  ],
+  "tag": [
+    "iot",
+    "lora",
+    "lorawan",
+    "ttn"
+  ],
+  "version": "HEAD-8718b71-250619T141136",
+  "version_upstream": "",
+  "bsum": "b01af3ae142183eea29a2103f4f1555d73ddfaddd306cd6d59799ccab9633ae1",
+  "build_date": "2025-06-19T16:31:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761513149",
+  "build_id": "15761513149",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thethingsnetwork/lorawan-stack/example?tag=HEAD-8718b71-250619T141136-x86_64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1071",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thethingsnetwork/lorawan-stack/example?tag=HEAD-8718b71-250619T141136-x86_64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thethingsnetwork/lorawan-stack/example:HEAD-8718b71-250619T141136-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thethingsnetwork/lorawan-stack/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thethingsnetwork/lorawan-stack/example?tag=HEAD-8718b71-250619T141136-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "59a2fc1bf591fcb825905c8339f68f26ba568820222af8d35ff91fe6fd86b387",
+  "size": "72 MB",
+  "size_raw": "75394288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
