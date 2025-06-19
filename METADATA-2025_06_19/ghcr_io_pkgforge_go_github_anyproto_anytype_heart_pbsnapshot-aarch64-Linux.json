@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pbsnapshot",
+  "pkg_family": "anytype-heart",
+  "pkg_id": "pbsnapshot#github.com_anyproto_anytype_heart",
+  "pkg_name": "pbsnapshot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anyproto/anytype-heart",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shared library for Anytype clients",
+  "homepage": [
+    "https://github.com/anyproto/anytype-heart"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "account_create",
+    "account_select",
+    "anytype-heart-docs",
+    "archiveunpacker",
+    "generator",
+    "iosrepack",
+    "logdecode",
+    "pbsnapshot",
+    "perftester",
+    "testcase",
+    "testgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anyproto/anytype-heart/archive/38a18769c957fb3e56afae31f66042dc1d7ceb9b.tar.gz"
+  ],
+  "tag": [
+    "anytype",
+    "e2ee",
+    "local-first",
+    "offline-first",
+    "p2p",
+    "privacy"
+  ],
+  "version": "HEAD-38a1876-250619T120932",
+  "version_upstream": "",
+  "bsum": "bf5510768cbdf48db6d1e32fc1b8ce8cf20fb0682e46c61b80c9989df73af9f0",
+  "build_date": "2025-06-19T16:54:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761732444",
+  "build_id": "15761732444",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anyproto/anytype-heart/pbsnapshot?tag=HEAD-38a1876-250619T120932-aarch64-Linux&download=pbsnapshot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "309",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anyproto/anytype-heart/pbsnapshot?tag=HEAD-38a1876-250619T120932-aarch64-Linux&download=pbsnapshot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anyproto/anytype-heart/pbsnapshot:HEAD-38a1876-250619T120932-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anyproto/anytype-heart/pbsnapshot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anyproto/anytype-heart/pbsnapshot?tag=HEAD-38a1876-250619T120932-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f1fc5f99478cd1bdec2961fa0130ce2e38d6f629bccc947ef9b87f1e42484dbd",
+  "size": "18 MB",
+  "size_raw": "18816128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
