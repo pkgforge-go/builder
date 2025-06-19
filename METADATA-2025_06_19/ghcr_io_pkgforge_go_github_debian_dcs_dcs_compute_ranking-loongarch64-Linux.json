@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dcs-compute-ranking",
+  "pkg_family": "dcs",
+  "pkg_id": "dcs-compute-ranking#github.com_Debian_dcs",
+  "pkg_name": "dcs-compute-ranking",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Debian/dcs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
+  "homepage": [
+    "https://github.com/Debian/dcs"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcs-compute-ranking",
+    "dcs-feeder",
+    "dcs-localdcs",
+    "dcs-reshard",
+    "genprodcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Debian/dcs/archive/4d0675f41041a14be4a7acab2f6b169e06d240d5.tar.gz"
+  ],
+  "tag": [
+    "debian",
+    "grep",
+    "linux",
+    "open-source",
+    "search",
+    "search-engine",
+    "source",
+    "source-code"
+  ],
+  "version": "HEAD-4d0675f-250218T221012",
+  "version_upstream": "",
+  "bsum": "905ab33314c6ba63970e871aff14f4082c31dab7910408fe8560d3a43fea22fe",
+  "build_date": "2025-06-19T08:51:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752746336",
+  "build_id": "15752746336",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-compute-ranking?tag=HEAD-4d0675f-250218T221012-loongarch64-Linux&download=dcs-compute-ranking.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-compute-ranking?tag=HEAD-4d0675f-250218T221012-loongarch64-Linux&download=dcs-compute-ranking",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/dcs/dcs-compute-ranking:HEAD-4d0675f-250218T221012-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/dcs/dcs-compute-ranking",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-compute-ranking?tag=HEAD-4d0675f-250218T221012-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "754903fee5eb8740041aa53b4c2ffc159b01dd17b09a9104868d79da15b7a515",
+  "size": "6.2 MB",
+  "size_raw": "6454848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
