@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tsnsrv",
+  "pkg_family": "tsnsrv",
+  "pkg_id": "tsnsrv#github.com_boinkor_net_tsnsrv",
+  "pkg_name": "tsnsrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/boinkor-net/tsnsrv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A reverse proxy that exposes services on your tailnet _as their own tailscale participants_",
+  "homepage": [
+    "https://github.com/boinkor-net/tsnsrv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tsnsrv",
+    "tsnsrvcmdlinevalidator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/boinkor-net/tsnsrv/archive/e2537464e45db0f173e8e68d0316b40c13e1e49c.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "http",
+    "reverse-proxy",
+    "tailscale"
+  ],
+  "version": "HEAD-e253746-250605T192711",
+  "version_upstream": "",
+  "bsum": "6f58ce2f7d36ccb24a67fe999578d3a625a04a5359db6886cf11708034a3f5dd",
+  "build_date": "2025-06-19T14:41:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759585403",
+  "build_id": "15759585403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrv?tag=HEAD-e253746-250605T192711-x86_64-Linux&download=tsnsrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "220",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrv?tag=HEAD-e253746-250605T192711-x86_64-Linux&download=tsnsrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrv:HEAD-e253746-250605T192711-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrv?tag=HEAD-e253746-250605T192711-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6288a01763c7866afb87bf8a272e0dcd7d862fa221b734f6a2cd3a637b6c5338",
+  "size": "28 MB",
+  "size_raw": "29026592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
