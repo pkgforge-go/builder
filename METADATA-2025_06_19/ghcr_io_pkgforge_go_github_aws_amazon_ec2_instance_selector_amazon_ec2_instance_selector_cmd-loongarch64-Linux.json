@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "amazon-ec2-instance-selector-cmd",
+  "pkg_family": "amazon-ec2-instance-selector",
+  "pkg_id": "amazon-ec2-instance-selector-cmd#github.com_aws_amazon_ec2_instance_selector",
+  "pkg_name": "amazon-ec2-instance-selector-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-ec2-instance-selector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory",
+  "homepage": [
+    "https://github.com/aws/amazon-ec2-instance-selector"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amazon-ec2-instance-selector-cmd",
+    "examples",
+    "readme-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-ec2-instance-selector/archive/e37bb0f2adb34c33b0364fc04a81a8d6fc801c88.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "aws-ec2",
+    "ec2",
+    "ec2-instance",
+    "ec2-spot"
+  ],
+  "version": "HEAD-e37bb0f-250520T082658",
+  "version_upstream": "",
+  "bsum": "e873e0f4c96ec2cac037143fad6f97af0086a98bc024fecdc264149344d11634",
+  "build_date": "2025-06-19T13:16:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758280569",
+  "build_id": "15758280569",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-ec2-instance-selector/amazon-ec2-instance-selector-cmd?tag=HEAD-e37bb0f-250520T082658-loongarch64-Linux&download=amazon-ec2-instance-selector-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-ec2-instance-selector/amazon-ec2-instance-selector-cmd?tag=HEAD-e37bb0f-250520T082658-loongarch64-Linux&download=amazon-ec2-instance-selector-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-ec2-instance-selector/amazon-ec2-instance-selector-cmd:HEAD-e37bb0f-250520T082658-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-ec2-instance-selector/amazon-ec2-instance-selector-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-ec2-instance-selector/amazon-ec2-instance-selector-cmd?tag=HEAD-e37bb0f-250520T082658-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0182946bc6e757f945ece0c0d33f95da49247992be8d36302535a304a7aecaf",
+  "size": "40 MB",
+  "size_raw": "41510520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
