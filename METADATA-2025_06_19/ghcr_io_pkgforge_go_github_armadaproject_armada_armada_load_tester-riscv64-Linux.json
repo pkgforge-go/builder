@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "armada-load-tester",
+  "pkg_family": "armada",
+  "pkg_id": "armada-load-tester#github.com_armadaproject_armada",
+  "pkg_name": "armada-load-tester",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/armadaproject/armada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
+  "homepage": [
+    "https://github.com/armadaproject/armada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "armada-load-tester",
+    "armadactl",
+    "binoculars",
+    "dbloadtester",
+    "eventingester",
+    "executor",
+    "fakeexecutor",
+    "generate",
+    "lookout",
+    "lookoutingester",
+    "merge_swagger",
+    "protoc-gen-armada",
+    "scheduler",
+    "scheduleringester",
+    "server",
+    "simulator",
+    "testsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/armadaproject/armada/archive/3288cb7cf939585ca065fe8858f4d5cce1c5b1b3.tar.gz"
+  ],
+  "tag": [
+    "gr-oss",
+    "kubernetes"
+  ],
+  "version": "HEAD-3288cb7-250619T131152",
+  "version_upstream": "v0.19.7",
+  "bsum": "dcb8b56b21c19d4a5e442068b4f0baa435860a50a1f940bde6e177fd9be5f620",
+  "build_date": "2025-06-19T17:15:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762107750",
+  "build_id": "15762107750",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/armada-load-tester?tag=HEAD-3288cb7-250619T131152-riscv64-Linux&download=armada-load-tester.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/armada-load-tester?tag=HEAD-3288cb7-250619T131152-riscv64-Linux&download=armada-load-tester",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/armadaproject/armada/armada-load-tester:HEAD-3288cb7-250619T131152-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/armadaproject/armada/armada-load-tester",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/armada-load-tester?tag=HEAD-3288cb7-250619T131152-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eadf6184fe5cc6f0f6cc3d946e33c5c1b5975d19d21bd76d6e01803d4c138f89",
+  "size": "45 MB",
+  "size_raw": "46357944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
