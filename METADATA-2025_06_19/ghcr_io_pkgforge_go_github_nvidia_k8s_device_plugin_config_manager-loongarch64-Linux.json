@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "config-manager",
+  "pkg_family": "k8s-device-plugin",
+  "pkg_id": "config-manager#github.com_NVIDIA_k8s_device_plugin",
+  "pkg_name": "config-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/k8s-device-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NVIDIA device plugin for Kubernetes",
+  "homepage": [
+    "https://github.com/NVIDIA/k8s-device-plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/k8s-device-plugin/archive/f479666c5ca59a2490de698465bdc4149d32443d.tar.gz"
+  ],
+  "tag": [
+    "kubernetes"
+  ],
+  "version": "HEAD-f479666-250619T142248",
+  "version_upstream": "",
+  "bsum": "9d0226f0f5291575015634e752f8a99215ed801e8601f50d8d1dd58cccfdd546",
+  "build_date": "2025-06-19T16:02:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761441938",
+  "build_id": "15761441938",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-device-plugin/config-manager?tag=HEAD-f479666-250619T142248-loongarch64-Linux&download=config-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3271",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-device-plugin/config-manager?tag=HEAD-f479666-250619T142248-loongarch64-Linux&download=config-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/k8s-device-plugin/config-manager:HEAD-f479666-250619T142248-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/k8s-device-plugin/config-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-device-plugin/config-manager?tag=HEAD-f479666-250619T142248-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f5fd4063a995d9ec60281d96f76fc34751be09756c14b1eec05fb24dd8ebce68",
+  "size": "37 MB",
+  "size_raw": "38712368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
