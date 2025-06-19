@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "edge",
+  "pkg_family": "nightingale",
+  "pkg_id": "edge#github.com_ccfos_nightingale",
+  "pkg_name": "edge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ccfos/nightingale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+  "homepage": [
+    "https://github.com/ccfos/nightingale"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alert",
+    "center",
+    "cli",
+    "edge",
+    "pushgw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ccfos/nightingale/archive/12f3cc21e1aff665d3480630e907795ba7f8a0bd.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "ccf",
+    "metrics",
+    "monitoring",
+    "nightingale",
+    "observability",
+    "open-falcon",
+    "time-series",
+    "tsdb"
+  ],
+  "version": "HEAD-12f3cc2-250619T161830",
+  "version_upstream": "",
+  "bsum": "006382ebc602ed84e4861da05a88389571e3ac5e5cc61ae456dc4588c5a92003",
+  "build_date": "2025-06-19T17:55:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762710895",
+  "build_id": "15762710895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/edge?tag=HEAD-12f3cc2-250619T161830-riscv64-Linux&download=edge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11007",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/edge?tag=HEAD-12f3cc2-250619T161830-riscv64-Linux&download=edge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ccfos/nightingale/edge:HEAD-12f3cc2-250619T161830-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ccfos/nightingale/edge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/edge?tag=HEAD-12f3cc2-250619T161830-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e52881feaa23e03ad345ea6033727aa4610135b794fe021a08c83e42e7c9057a",
+  "size": "60 MB",
+  "size_raw": "62478744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

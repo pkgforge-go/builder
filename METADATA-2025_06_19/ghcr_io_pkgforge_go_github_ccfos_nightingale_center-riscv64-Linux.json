@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "center",
+  "pkg_family": "nightingale",
+  "pkg_id": "center#github.com_ccfos_nightingale",
+  "pkg_name": "center",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ccfos/nightingale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+  "homepage": [
+    "https://github.com/ccfos/nightingale"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alert",
+    "center",
+    "cli",
+    "edge",
+    "pushgw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ccfos/nightingale/archive/12f3cc21e1aff665d3480630e907795ba7f8a0bd.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "ccf",
+    "metrics",
+    "monitoring",
+    "nightingale",
+    "observability",
+    "open-falcon",
+    "time-series",
+    "tsdb"
+  ],
+  "version": "HEAD-12f3cc2-250619T161830",
+  "version_upstream": "",
+  "bsum": "e132b4ced6d25ac455dc1c4909791bc2ee31ab2eec56000de41420e32a15a01c",
+  "build_date": "2025-06-19T17:56:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762710895",
+  "build_id": "15762710895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/center?tag=HEAD-12f3cc2-250619T161830-riscv64-Linux&download=center.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11007",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/center?tag=HEAD-12f3cc2-250619T161830-riscv64-Linux&download=center",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ccfos/nightingale/center:HEAD-12f3cc2-250619T161830-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ccfos/nightingale/center",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/center?tag=HEAD-12f3cc2-250619T161830-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0a7cc6d555f3163f4b2e28a0e17916dfd4e4f6f77e9e1e7eeee8d4346cff80b",
+  "size": "63 MB",
+  "size_raw": "65315256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
