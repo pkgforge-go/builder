@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "embedded-cable",
+  "pkg_family": "anycable",
+  "pkg_id": "embedded-cable#github.com_anycable_anycable",
+  "pkg_name": "embedded-cable",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anycable/anycable",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Realtime server for reliable two-way communication to power-up any backend",
+  "homepage": [
+    "https://github.com/anycable/anycable"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anycable-go",
+    "embedded-cable",
+    "gobench-cable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anycable/anycable/archive/ca26c67436491681d01cb8543fd7f626b4326d7b.tar.gz"
+  ],
+  "tag": [
+    "realtime",
+    "sse",
+    "websockets"
+  ],
+  "version": "HEAD-ca26c67-250618T114148",
+  "version_upstream": "",
+  "bsum": "a0be3efec3dbb36321ef83c69e6bc5f8f4950702416aadb90acacc08c0b0917c",
+  "build_date": "2025-06-19T11:55:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756598383",
+  "build_id": "15756598383",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/embedded-cable?tag=HEAD-ca26c67-250618T114148-riscv64-Linux&download=embedded-cable.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/embedded-cable?tag=HEAD-ca26c67-250618T114148-riscv64-Linux&download=embedded-cable",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anycable/anycable/embedded-cable:HEAD-ca26c67-250618T114148-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anycable/anycable/embedded-cable",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/embedded-cable?tag=HEAD-ca26c67-250618T114148-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5c19e46c39c1ad3b3ca24e18d6cae013406b161e460820e7f8e1fb335d982fe",
+  "size": "34 MB",
+  "size_raw": "35520888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

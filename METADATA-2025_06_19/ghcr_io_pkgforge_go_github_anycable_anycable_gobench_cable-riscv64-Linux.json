@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gobench-cable",
+  "pkg_family": "anycable",
+  "pkg_id": "gobench-cable#github.com_anycable_anycable",
+  "pkg_name": "gobench-cable",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anycable/anycable",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Realtime server for reliable two-way communication to power-up any backend",
+  "homepage": [
+    "https://github.com/anycable/anycable"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anycable-go",
+    "embedded-cable",
+    "gobench-cable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anycable/anycable/archive/ca26c67436491681d01cb8543fd7f626b4326d7b.tar.gz"
+  ],
+  "tag": [
+    "realtime",
+    "sse",
+    "websockets"
+  ],
+  "version": "HEAD-ca26c67-250618T114148",
+  "version_upstream": "",
+  "bsum": "cb0f69443627e398c8c67da832186c81eeb02717655d600129ebefc945ceec4f",
+  "build_date": "2025-06-19T11:55:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756598383",
+  "build_id": "15756598383",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/gobench-cable?tag=HEAD-ca26c67-250618T114148-riscv64-Linux&download=gobench-cable.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/gobench-cable?tag=HEAD-ca26c67-250618T114148-riscv64-Linux&download=gobench-cable",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anycable/anycable/gobench-cable:HEAD-ca26c67-250618T114148-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anycable/anycable/gobench-cable",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/gobench-cable?tag=HEAD-ca26c67-250618T114148-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a3a38bd230cc63b0e02a84d0d124d5d94e6b460312dd9418bb95656ce744bd3",
+  "size": "34 MB",
+  "size_raw": "35496664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
