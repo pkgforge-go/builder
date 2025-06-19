@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "eventcontextcodegen",
+  "pkg_family": "kvisor",
+  "pkg_id": "eventcontextcodegen#github.com_castai_kvisor",
+  "pkg_name": "eventcontextcodegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "daemon",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "linter",
+    "mock-server",
+    "sock_cookie"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/25b92dfea43110d6c676327384530eaba954735d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-25b92df-250619T124341",
+  "version_upstream": "",
+  "bsum": "4e67c175f5e75dd482b7a63910752f9359357212b990ca5c541550a547f55d75",
+  "build_date": "2025-06-19T17:54:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762668777",
+  "build_id": "15762668777",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/eventcontextcodegen?tag=HEAD-25b92df-250619T124341-aarch64-Linux&download=eventcontextcodegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/eventcontextcodegen?tag=HEAD-25b92df-250619T124341-aarch64-Linux&download=eventcontextcodegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/eventcontextcodegen:HEAD-25b92df-250619T124341-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/eventcontextcodegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/eventcontextcodegen?tag=HEAD-25b92df-250619T124341-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e9df97d541e229d8d40f59fd9315cbef47f4a2be8cad4d38d4c6811e903c5e46",
+  "size": "2.2 MB",
+  "size_raw": "2240664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
