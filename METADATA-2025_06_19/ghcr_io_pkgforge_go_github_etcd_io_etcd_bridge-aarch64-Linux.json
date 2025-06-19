@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bridge",
+  "pkg_family": "etcd",
+  "pkg_id": "bridge#github.com_etcd_io_etcd",
+  "pkg_name": "bridge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/etcd-io/etcd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "homepage": [
+    "https://github.com/etcd-io/etcd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "bridge",
+    "client",
+    "etcd-dump-db",
+    "etcd-dump-logs",
+    "etcd-dump-metrics",
+    "proto-annotations",
+    "raftexample",
+    "storage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/etcd-io/etcd/archive/5dfd6e05a4bd8e09debe31742dee4221ff391d0d.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "consensus",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "etcd",
+    "go",
+    "key-value",
+    "kubernetes",
+    "raft"
+  ],
+  "version": "HEAD-5dfd6e0-250618T210109",
+  "version_upstream": "",
+  "bsum": "906c9432aebcbe4867fe1df59f27c106065cd846c716349c3c06a9b6feb0fb97",
+  "build_date": "2025-06-19T23:07:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767153667",
+  "build_id": "15767153667",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/bridge?tag=HEAD-5dfd6e0-250618T210109-aarch64-Linux&download=bridge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49647",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/bridge?tag=HEAD-5dfd6e0-250618T210109-aarch64-Linux&download=bridge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/etcd/bridge:HEAD-5dfd6e0-250618T210109-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/etcd/bridge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/bridge?tag=HEAD-5dfd6e0-250618T210109-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c13bf125e42af3aabe47003f6511ac1d12ff62384333bf9c1dab818896099e8c",
+  "size": "2.5 MB",
+  "size_raw": "2566776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
