@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dev-2544",
+  "pkg_family": "authgear-server",
+  "pkg_id": "dev-2544#github.com_authgear_authgear_server",
+  "pkg_name": "dev-2544",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/authgear/authgear-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source alternative to Auth0 / Firebase Auth",
+  "homepage": [
+    "https://github.com/authgear/authgear-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandimportlinter",
+    "characterorder",
+    "codegen",
+    "dev-2544",
+    "exportschemas",
+    "generatemjml",
+    "goanalysis",
+    "importlinter",
+    "once",
+    "translationsorter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/authgear/authgear-server/archive/70e322f044d47f91735e794a76a9fc48b5302a2a.tar.gz"
+  ],
+  "tag": [
+    "2fa",
+    "auth0",
+    "authentication",
+    "identity",
+    "keycloak",
+    "login",
+    "mfa",
+    "oauth2",
+    "oidc",
+    "openid-connect",
+    "passkeys",
+    "passwordless",
+    "sso",
+    "supertokens"
+  ],
+  "version": "HEAD-70e322f-250619T142522",
+  "version_upstream": "2025-06-19.0",
+  "bsum": "7f64ed232ca708670a6e41cfa4a2e3a5228c25891020c0e63ca37663eb4ab481",
+  "build_date": "2025-06-19T17:06:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762235951",
+  "build_id": "15762235951",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authgear/authgear-server/dev-2544?tag=HEAD-70e322f-250619T142522-aarch64-Linux&download=dev-2544.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "120",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authgear/authgear-server/dev-2544?tag=HEAD-70e322f-250619T142522-aarch64-Linux&download=dev-2544",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/authgear/authgear-server/dev-2544:HEAD-70e322f-250619T142522-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/authgear/authgear-server/dev-2544",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authgear/authgear-server/dev-2544?tag=HEAD-70e322f-250619T142522-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec64757f91e7785b25ba17b576a8e40389abe6a7775f06dc2437ad2eb3e70538",
+  "size": "5.5 MB",
+  "size_raw": "5708128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
