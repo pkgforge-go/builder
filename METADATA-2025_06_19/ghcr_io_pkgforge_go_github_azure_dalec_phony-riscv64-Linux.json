@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "phony",
+  "pkg_family": "dalec",
+  "pkg_id": "phony#github.com_Azure_dalec",
+  "pkg_name": "phony",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/6ac73997a78db871e7b3e6638a270a032eb85559.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-6ac7399-250618T140047",
+  "version_upstream": "",
+  "bsum": "9c26d6b7e0af5f0fe147c685196a828ebaed61eb7a8aeba2f9da9a1bb0acbd41",
+  "build_date": "2025-06-19T08:07:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752531091",
+  "build_id": "15752531091",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/phony?tag=HEAD-6ac7399-250618T140047-riscv64-Linux&download=phony.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/phony?tag=HEAD-6ac7399-250618T140047-riscv64-Linux&download=phony",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/phony:HEAD-6ac7399-250618T140047-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/phony",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/phony?tag=HEAD-6ac7399-250618T140047-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c138d25e4c7ffcb167c33c896ab98b8c31fbe06fcfe20642974d2aa16bf9b7e0",
+  "size": "18 MB",
+  "size_raw": "18638872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
