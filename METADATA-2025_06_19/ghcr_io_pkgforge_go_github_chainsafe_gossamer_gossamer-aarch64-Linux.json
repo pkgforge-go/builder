@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gossamer",
+  "pkg_family": "gossamer",
+  "pkg_id": "gossamer#github.com_ChainSafe_gossamer",
+  "pkg_name": "gossamer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ChainSafe/gossamer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🕸️ Go Implementation of the Polkadot Host",
+  "homepage": [
+    "https://github.com/ChainSafe/gossamer"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gossamer",
+    "retrieve_block",
+    "retrieve_state",
+    "testcases"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ChainSafe/gossamer/archive/617f5a20492c0661ef8e899f26eb5211ae7a0104.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "p2p",
+    "polkadot",
+    "wasm"
+  ],
+  "version": "HEAD-617f5a2-250617T120024",
+  "version_upstream": "",
+  "bsum": "36f46663d0cf5c5e2842134a3541d94fff6349653be393fcdcc3fefdb2a8c11f",
+  "build_date": "2025-06-19T08:29:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752576834",
+  "build_id": "15752576834",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/gossamer?tag=HEAD-617f5a2-250617T120024-aarch64-Linux&download=gossamer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "451",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/gossamer?tag=HEAD-617f5a2-250617T120024-aarch64-Linux&download=gossamer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainsafe/gossamer/gossamer:HEAD-617f5a2-250617T120024-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainsafe/gossamer/gossamer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/gossamer?tag=HEAD-617f5a2-250617T120024-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "20f480eabf6c97b1dc76726575060fa9bb6b64e0ee15631435f07d8be807ebfb",
+  "size": "54 MB",
+  "size_raw": "56383040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
