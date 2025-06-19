@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "platform-check",
+  "pkg_family": "camel-k",
+  "pkg_id": "platform-check#github.com_apache_camel_k",
+  "pkg_name": "platform-check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/camel-k",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers",
+  "homepage": [
+    "https://github.com/apache/camel-k"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_jdk_version",
+    "doc-gen",
+    "json-schema-gen",
+    "kamel",
+    "license-check",
+    "manager",
+    "platform-check"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/camel-k/archive/8e321f4a04b3b42604fe384f6053bf484277961e.tar.gz"
+  ],
+  "tag": [
+    "camel",
+    "integration",
+    "knative",
+    "kubernetes",
+    "openshift",
+    "operator",
+    "serverless"
+  ],
+  "version": "HEAD-8e321f4-250618T233851",
+  "version_upstream": "",
+  "bsum": "8c249bd76548f3ef91bb35c37854a4f57eaf72129ad9647109f0317c66dd4257",
+  "build_date": "2025-06-19T12:01:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756603808",
+  "build_id": "15756603808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/camel-k/platform-check?tag=HEAD-8e321f4-250618T233851-aarch64-Linux&download=platform-check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "881",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/camel-k/platform-check?tag=HEAD-8e321f4-250618T233851-aarch64-Linux&download=platform-check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/camel-k/platform-check:HEAD-8e321f4-250618T233851-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/camel-k/platform-check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/camel-k/platform-check?tag=HEAD-8e321f4-250618T233851-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "febac1b7edb2e0414365f271483d53784583cebe01c0b4f560f639955712c68d",
+  "size": "44 MB",
+  "size_raw": "45460896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
