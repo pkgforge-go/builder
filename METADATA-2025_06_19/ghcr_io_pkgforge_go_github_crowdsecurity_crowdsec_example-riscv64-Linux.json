@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "crowdsec",
+  "pkg_id": "example#github.com_crowdsecurity_crowdsec",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/crowdsecurity/crowdsec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+  "homepage": [
+    "https://github.com/crowdsecurity/crowdsec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crowdsec",
+    "crowdsec-cli",
+    "example",
+    "notification-dummy",
+    "notification-email",
+    "notification-file",
+    "notification-http",
+    "notification-sentinel",
+    "notification-slack",
+    "notification-splunk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/crowdsecurity/crowdsec/archive/7c6651b28e100ac0ae4a1c44d3949a1d1c256006.tar.gz"
+  ],
+  "tag": [
+    "attacks-prevention",
+    "detection",
+    "ids",
+    "ips",
+    "linux",
+    "protection",
+    "security",
+    "waf"
+  ],
+  "version": "HEAD-7c6651b-250619T162043",
+  "version_upstream": "",
+  "bsum": "35bffc5ea946d86a9e9fcb782722363d58b50e7ccb5caba144a0b199c29e9669",
+  "build_date": "2025-06-19T20:31:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765102712",
+  "build_id": "15765102712",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/example?tag=HEAD-7c6651b-250619T162043-riscv64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10545",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/example?tag=HEAD-7c6651b-250619T162043-riscv64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/crowdsecurity/crowdsec/example:HEAD-7c6651b-250619T162043-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/crowdsecurity/crowdsec/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/example?tag=HEAD-7c6651b-250619T162043-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3075364d04abb0154916e84633e08c3cd1417febff32cbc696a2fa331e7240b5",
+  "size": "5.9 MB",
+  "size_raw": "6145464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
