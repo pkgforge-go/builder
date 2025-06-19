@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "flannel",
+  "pkg_family": "flannel",
+  "pkg_id": "flannel#github.com_flannel_io_flannel",
+  "pkg_name": "flannel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flannel-io/flannel",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "flannel is a network fabric for containers, designed for Kubernetes",
+  "homepage": [
+    "https://github.com/flannel-io/flannel"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "flannel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flannel-io/flannel/archive/1f99acd9f1895284375272b3ff1c5269d6a71215.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "docker-image",
+    "flannel",
+    "go",
+    "kubernetes",
+    "network",
+    "overlay-network",
+    "subnet"
+  ],
+  "version": "HEAD-1f99acd-250616T182642",
+  "version_upstream": "",
+  "bsum": "6d315d5662f30e18752079019726efd0e68820c08b68934d6447334077d8db82",
+  "build_date": "2025-06-19T23:52:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767872984",
+  "build_id": "15767872984",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flannel-io/flannel/flannel?tag=HEAD-1f99acd-250616T182642-x86_64-Linux&download=flannel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9146",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flannel-io/flannel/flannel?tag=HEAD-1f99acd-250616T182642-x86_64-Linux&download=flannel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flannel-io/flannel/flannel:HEAD-1f99acd-250616T182642-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flannel-io/flannel/flannel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flannel-io/flannel/flannel?tag=HEAD-1f99acd-250616T182642-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1dfa2d06316374eeb0940fee906d5cffa76ce5b8bcf957bd46d05d7a01a54e35",
+  "size": "48 MB",
+  "size_raw": "49499904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
