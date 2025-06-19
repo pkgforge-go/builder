@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "cometbft",
+  "pkg_id": "test#github.com_cometbft_cometbft",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cometbft/cometbft",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.",
+  "homepage": [
+    "https://github.com/cometbft/cometbft"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "contract_tests",
+    "load",
+    "metricsdiff",
+    "metricsgen",
+    "parallel",
+    "simple",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cometbft/cometbft/archive/e1a860489ecc91290453487e08863a037f828c6d.tar.gz"
+  ],
+  "tag": [
+    "bft",
+    "blockchain",
+    "cosmos",
+    "database",
+    "distributed-systems",
+    "go",
+    "tendermint-consensus"
+  ],
+  "version": "HEAD-e1a8604-250617T215526",
+  "version_upstream": "",
+  "bsum": "baeb9e1d4c7d105e679890ea491486ec78a2b88e7845ebabf02423bedddfd2b3",
+  "build_date": "2025-06-19T19:48:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764419516",
+  "build_id": "15764419516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/test?tag=HEAD-e1a8604-250617T215526-loongarch64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "754",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/test?tag=HEAD-e1a8604-250617T215526-loongarch64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cometbft/cometbft/test:HEAD-e1a8604-250617T215526-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cometbft/cometbft/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/test?tag=HEAD-e1a8604-250617T215526-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d760ec67d73be4cfddd93ed7928daf1d36afd2ad007db858213aac43fd0c1b5",
+  "size": "6.6 MB",
+  "size_raw": "6862432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
