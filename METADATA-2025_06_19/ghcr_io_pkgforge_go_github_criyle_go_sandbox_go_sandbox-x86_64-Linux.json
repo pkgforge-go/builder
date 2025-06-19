@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "go-sandbox",
+  "pkg_family": "go-sandbox",
+  "pkg_id": "go-sandbox#github.com_criyle_go_sandbox",
+  "pkg_name": "go-sandbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/criyle/go-sandbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sandbox implemented in GO with container / ptrace / seccomp",
+  "homepage": [
+    "https://github.com/criyle/go-sandbox"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-sandbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/criyle/go-sandbox/archive/7aa1c5a28bea47117c6198caffa03f2bda85275b.tar.gz"
+  ],
+  "tag": [
+    "cgroup",
+    "container",
+    "golang",
+    "libseccomp",
+    "linux",
+    "linux-namespace",
+    "memfd",
+    "ptrace",
+    "rlimit",
+    "sandbox",
+    "unix-socket",
+    "uoj"
+  ],
+  "version": "HEAD-7aa1c5a-250525T220223",
+  "version_upstream": "v0.11.5",
+  "bsum": "9b25acac2f37b41fd379c919ee2a1fd73907314f0431708fcc30ef77237af089",
+  "build_date": "2025-06-19T20:16:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765072799",
+  "build_id": "15765072799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/criyle/go-sandbox/go-sandbox?tag=HEAD-7aa1c5a-250525T220223-x86_64-Linux&download=go-sandbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "221",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/criyle/go-sandbox/go-sandbox?tag=HEAD-7aa1c5a-250525T220223-x86_64-Linux&download=go-sandbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/criyle/go-sandbox/go-sandbox:HEAD-7aa1c5a-250525T220223-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/criyle/go-sandbox/go-sandbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/criyle/go-sandbox/go-sandbox?tag=HEAD-7aa1c5a-250525T220223-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc661ceac60626210a791bb5ec15b72ac4e2bbc9aef46dbaddba2ad0fa85270f",
+  "size": "3.3 MB",
+  "size_raw": "3422488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
