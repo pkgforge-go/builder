@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "restructure",
+  "pkg_family": "decomp",
+  "pkg_id": "restructure#github.com_decomp_decomp",
+  "pkg_name": "restructure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decomp/decomp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Components of a decompilation pipeline.",
+  "homepage": [
+    "https://github.com/decomp/decomp"
+  ],
+  "license": [
+    "Unlicense"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-post",
+    "ll2dot",
+    "ll2go",
+    "restructure"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/decomp/decomp/archive/4e6f075c50a858ebd2bfa5884ed936143fe78cdb.tar.gz"
+  ],
+  "tag": [
+    "binary-analysis",
+    "compositional-decompilation",
+    "decompilation",
+    "decompilation-pipeline",
+    "decompiler",
+    "go",
+    "golang",
+    "llvm",
+    "llvm-ir",
+    "reverse-engineering"
+  ],
+  "version": "HEAD-4e6f075-230226T120356",
+  "version_upstream": "",
+  "bsum": "9952ea0704a6769319fc6e0eb2c83333b69275bf2cd0579ba9adb6b9b3cfa034",
+  "build_date": "2025-06-19T21:05:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765739181",
+  "build_id": "15765739181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/restructure?tag=HEAD-4e6f075-230226T120356-riscv64-Linux&download=restructure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "474",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/restructure?tag=HEAD-4e6f075-230226T120356-riscv64-Linux&download=restructure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decomp/decomp/restructure:HEAD-4e6f075-230226T120356-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decomp/decomp/restructure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/restructure?tag=HEAD-4e6f075-230226T120356-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5beb960f3f3d44f1bcc6e3765e1e098c55d43d0f588b478cad4144f4c103303",
+  "size": "2.8 MB",
+  "size_raw": "2839320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
