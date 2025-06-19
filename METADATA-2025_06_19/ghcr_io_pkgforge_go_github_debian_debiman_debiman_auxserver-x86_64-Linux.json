@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "debiman-auxserver",
+  "pkg_family": "debiman",
+  "pkg_id": "debiman-auxserver#github.com_Debian_debiman",
+  "pkg_name": "debiman-auxserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Debian/debiman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "debiman generates a static manpage HTML repository out of a Debian archive",
+  "homepage": [
+    "https://github.com/Debian/debiman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "debiman",
+    "debiman-auxserver",
+    "debiman-idx2rwmap",
+    "debiman-minisrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Debian/debiman/archive/52e0bcdab7676fb9ae1bd6cbce725a903b6da355.tar.gz"
+  ],
+  "tag": [
+    "debian",
+    "manpages"
+  ],
+  "version": "HEAD-52e0bcd-250415T085505",
+  "version_upstream": "",
+  "bsum": "0af1fd2db99c04bfbe2756d9957665776a5aa64526ed1db35e890ca38fc5adb9",
+  "build_date": "2025-06-19T08:51:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752750194",
+  "build_id": "15752750194",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-auxserver?tag=HEAD-52e0bcd-250415T085505-x86_64-Linux&download=debiman-auxserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "209",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-auxserver?tag=HEAD-52e0bcd-250415T085505-x86_64-Linux&download=debiman-auxserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/debiman/debiman-auxserver:HEAD-52e0bcd-250415T085505-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/debiman/debiman-auxserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-auxserver?tag=HEAD-52e0bcd-250415T085505-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9d458e80eccc6e2aa99d2c84702e05b17083e168e17be604cfdc3fcb707f192",
+  "size": "14 MB",
+  "size_raw": "13851928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
