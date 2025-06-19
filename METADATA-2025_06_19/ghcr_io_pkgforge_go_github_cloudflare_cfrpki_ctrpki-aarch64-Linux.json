@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ctrpki",
+  "pkg_family": "cfrpki",
+  "pkg_id": "ctrpki#github.com_cloudflare_cfrpki",
+  "pkg_name": "ctrpki",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/cfrpki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloudflare_s RPKI Toolbox",
+  "homepage": [
+    "https://github.com/cloudflare/cfrpki"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ctrpki",
+    "localrpki",
+    "octorpki"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/cfrpki/archive/932c7596bb6f8ce2e0dadd7930e19ddef1beab0e.tar.gz"
+  ],
+  "tag": [
+    "afrinic",
+    "apnic",
+    "arin",
+    "certificate",
+    "cloudflare",
+    "crypto",
+    "cryptography",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "internet",
+    "key",
+    "lacnic",
+    "pki",
+    "ripe",
+    "roa",
+    "rpki",
+    "rtr",
+    "validator"
+  ],
+  "version": "HEAD-932c759-240229T145710",
+  "version_upstream": "",
+  "bsum": "ddee37f3dbcaf27cb2768481c74722f8412356680dbeaa62da040ca9b53b3d09",
+  "build_date": "2025-06-19T19:02:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764327352",
+  "build_id": "15764327352",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfrpki/ctrpki?tag=HEAD-932c759-240229T145710-aarch64-Linux&download=ctrpki.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "176",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfrpki/ctrpki?tag=HEAD-932c759-240229T145710-aarch64-Linux&download=ctrpki",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/cfrpki/ctrpki:HEAD-932c759-240229T145710-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/cfrpki/ctrpki",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfrpki/ctrpki?tag=HEAD-932c759-240229T145710-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7f1fe4f8b8d77af7dbdf0673b1464d283fadeaf0eb1febdbc0a750884ea5776",
+  "size": "11 MB",
+  "size_raw": "10583200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
