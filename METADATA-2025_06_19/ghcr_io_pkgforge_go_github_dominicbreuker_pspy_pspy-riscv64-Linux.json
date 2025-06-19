@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pspy",
+  "pkg_family": "pspy",
+  "pkg_id": "pspy#github.com_DominicBreuker_pspy",
+  "pkg_name": "pspy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DominicBreuker/pspy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Monitor linux processes without root permissions",
+  "homepage": [
+    "https://github.com/DominicBreuker/pspy"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pspy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DominicBreuker/pspy/archive/f9e6a1590a4312b9faa093d8dc84e19567977a6d.tar.gz"
+  ],
+  "tag": [
+    "ctf",
+    "enumeration",
+    "golang",
+    "pentesting",
+    "privesc",
+    "security"
+  ],
+  "version": "HEAD-f9e6a15-230117T214802",
+  "version_upstream": "v1.2.1",
+  "bsum": "84c0c53ca7273507e2072017c40f3392ef21944475fc9b565ca3bb060ca99de4",
+  "build_date": "2025-06-19T08:59:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753168996",
+  "build_id": "15753168996",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dominicbreuker/pspy/pspy?tag=HEAD-f9e6a15-230117T214802-riscv64-Linux&download=pspy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5492",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dominicbreuker/pspy/pspy?tag=HEAD-f9e6a15-230117T214802-riscv64-Linux&download=pspy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dominicbreuker/pspy/pspy:HEAD-f9e6a15-230117T214802-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dominicbreuker/pspy/pspy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dominicbreuker/pspy/pspy?tag=HEAD-f9e6a15-230117T214802-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61466afae29e96c83d3372da5920710ae3c4a84e7d5ae794c7c0b810e35f266a",
+  "size": "4.0 MB",
+  "size_raw": "4160488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
