@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "battery",
+  "pkg_family": "battery",
+  "pkg_id": "battery#github.com_distatus_battery",
+  "pkg_name": "battery",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/distatus/battery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "cross-platform, normalized battery information library",
+  "homepage": [
+    "https://github.com/distatus/battery"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "battery"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/distatus/battery/archive/24c526632a1ddc76871394d63705ebe668dab97c.tar.gz"
+  ],
+  "tag": [
+    "battery",
+    "cross-platform",
+    "go"
+  ],
+  "version": "HEAD-24c5266-230623T112543",
+  "version_upstream": "v0.11.0",
+  "bsum": "ec3a8fe2b2043ea96ef57b9383198fcc5c30cf0317b0d3f5911bacae4af0619c",
+  "build_date": "2025-06-19T21:28:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766578278",
+  "build_id": "15766578278",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distatus/battery/battery?tag=HEAD-24c5266-230623T112543-loongarch64-Linux&download=battery.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "261",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distatus/battery/battery?tag=HEAD-24c5266-230623T112543-loongarch64-Linux&download=battery",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/distatus/battery/battery:HEAD-24c5266-230623T112543-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/distatus/battery/battery",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distatus/battery/battery?tag=HEAD-24c5266-230623T112543-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e775b104c9b3f39279e0541b9b984775381eb90bbd905ff188f81797e0827105",
+  "size": "1.8 MB",
+  "size_raw": "1864568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
