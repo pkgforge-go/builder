@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "terraform-exporter-btp",
+  "pkg_family": "terraform-exporter-btp",
+  "pkg_id": "terraform-exporter-btp#github.com_SAP_terraform_exporter_btp",
+  "pkg_name": "terraform-exporter-btp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SAP/terraform-exporter-btp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Terraform Exporter for SAP BTP is a tool that helps export resources from a SAP BTP account.  It generates Terraform scripts for the import of resources and enables the import of the Terraform state.",
+  "homepage": [
+    "https://github.com/SAP/terraform-exporter-btp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "terraform-exporter-btp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SAP/terraform-exporter-btp/archive/6e67b0d9559bbd8a52a0b791192c11a960696978.tar.gz"
+  ],
+  "tag": [
+    "sap-btp",
+    "terraform"
+  ],
+  "version": "HEAD-6e67b0d-250619T165846",
+  "version_upstream": "",
+  "bsum": "aa5ffd0fb256bca76ce5ef39f1158afbad792a1f8b9ffa8e510699dd33f18d92",
+  "build_date": "2025-06-19T16:16:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761502714",
+  "build_id": "15761502714",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/terraform-exporter-btp/terraform-exporter-btp?tag=HEAD-6e67b0d-250619T165846-riscv64-Linux&download=terraform-exporter-btp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/terraform-exporter-btp/terraform-exporter-btp?tag=HEAD-6e67b0d-250619T165846-riscv64-Linux&download=terraform-exporter-btp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/terraform-exporter-btp/terraform-exporter-btp:HEAD-6e67b0d-250619T165846-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/terraform-exporter-btp/terraform-exporter-btp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/terraform-exporter-btp/terraform-exporter-btp?tag=HEAD-6e67b0d-250619T165846-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab3beee943027dc6bacff9664f61d24606cd5340820534399f72740ceaf49d55",
+  "size": "17 MB",
+  "size_raw": "17685912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
