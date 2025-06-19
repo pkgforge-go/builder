@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "upswake",
+  "pkg_family": "upswake",
+  "pkg_id": "upswake#github.com_TheDarthMole_upswake",
+  "pkg_name": "upswake",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TheDarthMole/upswake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "UPSWake reads data from a UPS Nut Server and uses it to dynamically send Wake on Lan packets to servers",
+  "homepage": [
+    "https://github.com/TheDarthMole/upswake"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "upswake"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TheDarthMole/upswake/archive/05fb2d1b3619375b94299d93b4402dd032fc0856.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "golang",
+    "nut",
+    "ups",
+    "wake-on-lan",
+    "wol"
+  ],
+  "version": "HEAD-05fb2d1-250619T011905",
+  "version_upstream": "v0.5.1",
+  "bsum": "a91d8553e34a48facace63e0a287bc823b9bf51bdab6516654f247fd3cb3aa66",
+  "build_date": "2025-06-19T11:17:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755898556",
+  "build_id": "15755898556",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thedarthmole/upswake/upswake?tag=HEAD-05fb2d1-250619T011905-riscv64-Linux&download=upswake.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thedarthmole/upswake/upswake?tag=HEAD-05fb2d1-250619T011905-riscv64-Linux&download=upswake",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thedarthmole/upswake/upswake:HEAD-05fb2d1-250619T011905-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thedarthmole/upswake/upswake",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thedarthmole/upswake/upswake?tag=HEAD-05fb2d1-250619T011905-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c51af31f53979f50aeddff468615396809d92c5fd87e05342be0efe28f78be31",
+  "size": "40 MB",
+  "size_raw": "41128952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
