@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hello",
+  "pkg_family": "weaver",
+  "pkg_id": "hello#github.com_ServiceWeaver_weaver",
+  "pkg_name": "hello",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ServiceWeaver/weaver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Programming framework for writing and deploying cloud applications.",
+  "homepage": [
+    "https://github.com/ServiceWeaver/weaver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bankofanthos",
+    "chat",
+    "collatz",
+    "docgen",
+    "example",
+    "factors",
+    "hello",
+    "helloworld",
+    "multi",
+    "reverser",
+    "single",
+    "testprogram",
+    "weaver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ServiceWeaver/weaver/archive/656901ccf43e1ffce053e83e573643697680c223.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-656901c-241108T102936",
+  "version_upstream": "",
+  "bsum": "5edb240c9c8623754c19b0633bcb1890fd76c886c164272262889480f545bf82",
+  "build_date": "2025-06-19T11:02:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755678380",
+  "build_id": "15755678380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/serviceweaver/weaver/hello?tag=HEAD-656901c-241108T102936-aarch64-Linux&download=hello.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4833",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/serviceweaver/weaver/hello?tag=HEAD-656901c-241108T102936-aarch64-Linux&download=hello",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/serviceweaver/weaver/hello:HEAD-656901c-241108T102936-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/serviceweaver/weaver/hello",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/serviceweaver/weaver/hello?tag=HEAD-656901c-241108T102936-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4942368f71812b6e6b740c16e4785ce16297f271108266e2f467157328fa9098",
+  "size": "19 MB",
+  "size_raw": "19698240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
