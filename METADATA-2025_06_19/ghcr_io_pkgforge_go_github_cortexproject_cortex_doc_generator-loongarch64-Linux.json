@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "doc-generator",
+  "pkg_family": "cortex",
+  "pkg_id": "doc-generator#github.com_cortexproject_cortex",
+  "pkg_name": "doc-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cortexproject/cortex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+  "homepage": [
+    "https://github.com/cortexproject/cortex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cortexproject/cortex/archive/fbc197ff1c1f14e6b90cf7d378725e46e9d7d56b.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-fbc197f-250619T000841",
+  "version_upstream": "",
+  "bsum": "73a9ddd4fcadc5dc288668842f11c28f390be35d77753c7cadc7be14a6f011e8",
+  "build_date": "2025-06-19T20:06:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764579206",
+  "build_id": "15764579206",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/doc-generator?tag=HEAD-fbc197f-250619T000841-loongarch64-Linux&download=doc-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5612",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/doc-generator?tag=HEAD-fbc197f-250619T000841-loongarch64-Linux&download=doc-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/doc-generator:HEAD-fbc197f-250619T000841-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/doc-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/doc-generator?tag=HEAD-fbc197f-250619T000841-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2dda18cb992da8b6db13f3f9f677d73d3b307d93a26bec61654b700e99685164",
+  "size": "43 MB",
+  "size_raw": "44906672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
