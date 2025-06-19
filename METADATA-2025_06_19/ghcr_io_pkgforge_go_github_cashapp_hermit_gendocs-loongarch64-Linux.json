@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gendocs",
+  "pkg_family": "hermit",
+  "pkg_id": "gendocs#github.com_cashapp_hermit",
+  "pkg_name": "gendocs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cashapp/hermit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
+  "homepage": [
+    "https://github.com/cashapp/hermit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gendocs",
+    "geninstaller",
+    "hermit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cashapp/hermit/archive/aa0f822450faf762f8cfac1a5fa051526b190380.tar.gz"
+  ],
+  "tag": [
+    "hermetic",
+    "installer",
+    "package-manager"
+  ],
+  "version": "HEAD-aa0f822-250619T101959",
+  "version_upstream": "v0.44.9",
+  "bsum": "6d394202735cc2bb022e69f970f824aeb41452f116ddd1b2c30674b5616a6b95",
+  "build_date": "2025-06-19T17:31:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762667011",
+  "build_id": "15762667011",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cashapp/hermit/gendocs?tag=HEAD-aa0f822-250619T101959-loongarch64-Linux&download=gendocs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "673",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cashapp/hermit/gendocs?tag=HEAD-aa0f822-250619T101959-loongarch64-Linux&download=gendocs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cashapp/hermit/gendocs:HEAD-aa0f822-250619T101959-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cashapp/hermit/gendocs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cashapp/hermit/gendocs?tag=HEAD-aa0f822-250619T101959-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5e0c993cb34b97f5edd3ab41433f113ad4f9edc4a8c3d3b22c91268a3e45c2f",
+  "size": "7.2 MB",
+  "size_raw": "7476640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
