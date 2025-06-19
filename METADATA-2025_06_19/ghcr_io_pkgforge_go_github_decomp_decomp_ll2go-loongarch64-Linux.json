@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ll2go",
+  "pkg_family": "decomp",
+  "pkg_id": "ll2go#github.com_decomp_decomp",
+  "pkg_name": "ll2go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decomp/decomp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Components of a decompilation pipeline.",
+  "homepage": [
+    "https://github.com/decomp/decomp"
+  ],
+  "license": [
+    "Unlicense"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-post",
+    "ll2dot",
+    "ll2go",
+    "restructure"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/decomp/decomp/archive/4e6f075c50a858ebd2bfa5884ed936143fe78cdb.tar.gz"
+  ],
+  "tag": [
+    "binary-analysis",
+    "compositional-decompilation",
+    "decompilation",
+    "decompilation-pipeline",
+    "decompiler",
+    "go",
+    "golang",
+    "llvm",
+    "llvm-ir",
+    "reverse-engineering"
+  ],
+  "version": "HEAD-4e6f075-230226T120356",
+  "version_upstream": "",
+  "bsum": "4e4a7c79926f5054335ef53a88359974f8797d2789c954405a030722aa7f3306",
+  "build_date": "2025-06-19T21:05:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765739181",
+  "build_id": "15765739181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/ll2go?tag=HEAD-4e6f075-230226T120356-loongarch64-Linux&download=ll2go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "474",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/ll2go?tag=HEAD-4e6f075-230226T120356-loongarch64-Linux&download=ll2go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decomp/decomp/ll2go:HEAD-4e6f075-230226T120356-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decomp/decomp/ll2go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decomp/decomp/ll2go?tag=HEAD-4e6f075-230226T120356-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79132fa953e17e86a616d7b18584fc97ccf8d6524acc16e02c17f317af136410",
+  "size": "6.3 MB",
+  "size_raw": "6520264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
