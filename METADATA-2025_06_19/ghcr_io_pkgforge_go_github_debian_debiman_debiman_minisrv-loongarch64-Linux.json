@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "debiman-minisrv",
+  "pkg_family": "debiman",
+  "pkg_id": "debiman-minisrv#github.com_Debian_debiman",
+  "pkg_name": "debiman-minisrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Debian/debiman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "debiman generates a static manpage HTML repository out of a Debian archive",
+  "homepage": [
+    "https://github.com/Debian/debiman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "debiman",
+    "debiman-auxserver",
+    "debiman-idx2rwmap",
+    "debiman-minisrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Debian/debiman/archive/52e0bcdab7676fb9ae1bd6cbce725a903b6da355.tar.gz"
+  ],
+  "tag": [
+    "debian",
+    "manpages"
+  ],
+  "version": "HEAD-52e0bcd-250415T085505",
+  "version_upstream": "",
+  "bsum": "c4071fdecc2a67eadacc8721b1c8ef0e85ca943f6925ecbb806250a17b47b2b3",
+  "build_date": "2025-06-19T08:50:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752750194",
+  "build_id": "15752750194",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-minisrv?tag=HEAD-52e0bcd-250415T085505-loongarch64-Linux&download=debiman-minisrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "209",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-minisrv?tag=HEAD-52e0bcd-250415T085505-loongarch64-Linux&download=debiman-minisrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/debiman/debiman-minisrv:HEAD-52e0bcd-250415T085505-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/debiman/debiman-minisrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-minisrv?tag=HEAD-52e0bcd-250415T085505-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3c59ef52007f6c1a0228cb1ee31972cdb4ab75aef32fa32a61cb68d3a34495a",
+  "size": "13 MB",
+  "size_raw": "13419256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
