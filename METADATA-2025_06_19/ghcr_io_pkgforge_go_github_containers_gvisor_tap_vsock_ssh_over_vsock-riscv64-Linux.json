@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ssh-over-vsock",
+  "pkg_family": "gvisor-tap-vsock",
+  "pkg_id": "ssh-over-vsock#github.com_containers_gvisor_tap_vsock",
+  "pkg_name": "ssh-over-vsock",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/gvisor-tap-vsock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A new network stack based on gVisor",
+  "homepage": [
+    "https://github.com/containers/gvisor-tap-vsock"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gvproxy",
+    "qemu-wrapper",
+    "ssh-over-vsock",
+    "test-companion",
+    "vm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/gvisor-tap-vsock/archive/d9929290469f991f65d9bb832d43e23f8b72ec85.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d992929-250610T125302",
+  "version_upstream": "",
+  "bsum": "13d4bdfc68eee81c65cfafb089dcc0fe85ae7e5acb96146f97c51e1af90f466d",
+  "build_date": "2025-06-19T19:53:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764540981",
+  "build_id": "15764540981",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/ssh-over-vsock?tag=HEAD-d992929-250610T125302-riscv64-Linux&download=ssh-over-vsock.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "306",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/ssh-over-vsock?tag=HEAD-d992929-250610T125302-riscv64-Linux&download=ssh-over-vsock",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/ssh-over-vsock:HEAD-d992929-250610T125302-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/ssh-over-vsock",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/ssh-over-vsock?tag=HEAD-d992929-250610T125302-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e78abc1d1b326fc708326f77e6b72f42f935c597ab177b9e1ce8fc06e3987916",
+  "size": "4.9 MB",
+  "size_raw": "5097080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

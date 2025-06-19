@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vm",
+  "pkg_family": "gvisor-tap-vsock",
+  "pkg_id": "vm#github.com_containers_gvisor_tap_vsock",
+  "pkg_name": "vm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/gvisor-tap-vsock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A new network stack based on gVisor",
+  "homepage": [
+    "https://github.com/containers/gvisor-tap-vsock"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gvproxy",
+    "qemu-wrapper",
+    "ssh-over-vsock",
+    "test-companion",
+    "vm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/gvisor-tap-vsock/archive/d9929290469f991f65d9bb832d43e23f8b72ec85.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d992929-250610T125302",
+  "version_upstream": "",
+  "bsum": "ad99ebeec4d665047bee82092a8964a21d24557a3d10cd40d07b4250afcf003c",
+  "build_date": "2025-06-19T19:53:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764540981",
+  "build_id": "15764540981",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/vm?tag=HEAD-d992929-250610T125302-riscv64-Linux&download=vm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "306",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/vm?tag=HEAD-d992929-250610T125302-riscv64-Linux&download=vm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/vm:HEAD-d992929-250610T125302-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/vm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/vm?tag=HEAD-d992929-250610T125302-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5b9bacb19fb4b0f4281f900ff37892120f97b1f9944abebba209fa9fd184284e",
+  "size": "6.4 MB",
+  "size_raw": "6691640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
