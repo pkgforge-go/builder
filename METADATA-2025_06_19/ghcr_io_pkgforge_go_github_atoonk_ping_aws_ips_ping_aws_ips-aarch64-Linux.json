@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ping-aws-ips",
+  "pkg_family": "ping-aws-ips",
+  "pkg_id": "ping-aws-ips#github.com_atoonk_ping_aws_ips",
+  "pkg_name": "ping-aws-ips",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/atoonk/ping-aws-ips",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ping all AWS IP addresses to see how many ec2 instances AWS has at any given time",
+  "homepage": [
+    "https://github.com/atoonk/ping-aws-ips"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ping-aws-ips"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/atoonk/ping-aws-ips/archive/1d5283a9287f9b566f95ecd98f1833eb82f0af65.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1d5283a-240129T180911",
+  "version_upstream": "",
+  "bsum": "0f9e9bffa26d5b862db471eaac2312c64e9ac22c86a6c46ec8c51c1b47e4b791",
+  "build_date": "2025-06-19T13:05:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758241718",
+  "build_id": "15758241718",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atoonk/ping-aws-ips/ping-aws-ips?tag=HEAD-1d5283a-240129T180911-aarch64-Linux&download=ping-aws-ips.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atoonk/ping-aws-ips/ping-aws-ips?tag=HEAD-1d5283a-240129T180911-aarch64-Linux&download=ping-aws-ips",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/atoonk/ping-aws-ips/ping-aws-ips:HEAD-1d5283a-240129T180911-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/atoonk/ping-aws-ips/ping-aws-ips",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atoonk/ping-aws-ips/ping-aws-ips?tag=HEAD-1d5283a-240129T180911-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0cb0a1da0a9340214d1b32ff46c5a80faf4a9efb2ba81f2b1d53ccce4d93cdd",
+  "size": "6.0 MB",
+  "size_raw": "6215808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
