@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kafka_reader",
+  "pkg_family": "gleam",
+  "pkg_id": "kafka_reader#github.com_chrislusf_gleam",
+  "pkg_name": "kafka_reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chrislusf/gleam",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.",
+  "homepage": [
+    "https://github.com/chrislusf/gleam"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cassandra_reader",
+    "csv",
+    "gleam",
+    "goyacc",
+    "join",
+    "kafka_reader",
+    "orc",
+    "parquet",
+    "pi_estimation",
+    "sort_benchmark",
+    "tfidf",
+    "union",
+    "word_count_in_go",
+    "word_count_in_pipeline"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chrislusf/gleam/archive/b15484b8add24d3b2a3a92c315fafa7c72ab468c.tar.gz"
+  ],
+  "tag": [
+    "distributed-computing",
+    "distributed-systems",
+    "golang",
+    "map-reduce"
+  ],
+  "version": "HEAD-b15484b-250420T144704",
+  "version_upstream": "",
+  "bsum": "99564cce40fb1063006f0025f247e005891086e71c382a52d54f53f9310cdede",
+  "build_date": "2025-06-19T18:31:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763613735",
+  "build_id": "15763613735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/kafka_reader?tag=HEAD-b15484b-250420T144704-loongarch64-Linux&download=kafka_reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3523",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/kafka_reader?tag=HEAD-b15484b-250420T144704-loongarch64-Linux&download=kafka_reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chrislusf/gleam/kafka_reader:HEAD-b15484b-250420T144704-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chrislusf/gleam/kafka_reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/kafka_reader?tag=HEAD-b15484b-250420T144704-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "376a0858dd116bf84d9caf5ca92070c4cbbe1e424c57a2ac4c6168565ed5b961",
+  "size": "14 MB",
+  "size_raw": "14554976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
