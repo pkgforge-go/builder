@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "hishtory",
+  "pkg_id": "server#github.com_ddworken_hishtory",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ddworken/hishtory",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Your shell history: synced, queryable, and in context",
+  "homepage": [
+    "https://github.com/ddworken/hishtory"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hishtory",
+    "posttest",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ddworken/hishtory/archive/0e89432849b257aba3c0383f7264d5dbfe7a68a2.tar.gz"
+  ],
+  "tag": [
+    "bash",
+    "cli",
+    "fish",
+    "golang",
+    "history",
+    "shell",
+    "zsh"
+  ],
+  "version": "HEAD-0e89432-250424T200156",
+  "version_upstream": "",
+  "bsum": "0eff2ca3ffd50be168b1325e7ee876bf0da27fcee00628e3298c98fd6c2661e7",
+  "build_date": "2025-06-19T20:56:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765627170",
+  "build_id": "15765627170",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddworken/hishtory/server?tag=HEAD-0e89432-250424T200156-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddworken/hishtory/server?tag=HEAD-0e89432-250424T200156-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ddworken/hishtory/server:HEAD-0e89432-250424T200156-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ddworken/hishtory/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddworken/hishtory/server?tag=HEAD-0e89432-250424T200156-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8eba8466d63b86761cbe53bbab9061195880b12e320e70de6705c6bcbab85f7b",
+  "size": "52 MB",
+  "size_raw": "53719320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
