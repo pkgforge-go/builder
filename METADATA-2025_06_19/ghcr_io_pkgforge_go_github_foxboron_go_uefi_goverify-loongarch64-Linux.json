@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "goverify",
+  "pkg_family": "go-uefi",
+  "pkg_id": "goverify#github.com_Foxboron_go_uefi",
+  "pkg_name": "goverify",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Foxboron/go-uefi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux UEFI library written in pure Go.",
+  "homepage": [
+    "https://github.com/Foxboron/go-uefi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appendmicrosoft",
+    "efianalyze",
+    "gosiglist",
+    "gosign",
+    "govarsign",
+    "goverify",
+    "gowritevar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Foxboron/go-uefi/archive/3915337a78257ad6d0837e1709d9b734a2061533.tar.gz"
+  ],
+  "tag": [
+    "secure-boot",
+    "uefi",
+    "uefi-secureboot"
+  ],
+  "version": "HEAD-3915337-250618T225220",
+  "version_upstream": "",
+  "bsum": "cdf6f945b2f66221373686d87b691e39ca909f913e811399401ae146f5a026da",
+  "build_date": "2025-06-19T09:25:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753592117",
+  "build_id": "15753592117",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/goverify?tag=HEAD-3915337-250618T225220-loongarch64-Linux&download=goverify.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/goverify?tag=HEAD-3915337-250618T225220-loongarch64-Linux&download=goverify",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/go-uefi/goverify:HEAD-3915337-250618T225220-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/go-uefi/goverify",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/goverify?tag=HEAD-3915337-250618T225220-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce6bb8c4df65fe8e6630e4d06370fca368a5e8d11b3061a8009e1013a9406ca7",
+  "size": "4.3 MB",
+  "size_raw": "4406272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
