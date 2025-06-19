@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scrape-outages",
+  "pkg_family": "nspoweroutages",
+  "pkg_id": "scrape-outages#github.com_danp_nspoweroutages",
+  "pkg_name": "scrape-outages",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/danp/nspoweroutages",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Git scraping of the Nova Scotia Power Outage Map",
+  "homepage": [
+    "https://github.com/danp/nspoweroutages"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scrape-load",
+    "scrape-outages"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/danp/nspoweroutages/archive/374693cf973ed1e7fdbdd28d65c1c31c007cfaff.tar.gz"
+  ],
+  "tag": [
+    "git-scraping"
+  ],
+  "version": "HEAD-374693c-250619T141452",
+  "version_upstream": "",
+  "bsum": "3bcd9a7653cd25def13913b97efbe5fdf4a40dcc0e66a0adc92a948fa6c367a4",
+  "build_date": "2025-06-19T20:47:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765549605",
+  "build_id": "15765549605",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danp/nspoweroutages/scrape-outages?tag=HEAD-374693c-250619T141452-riscv64-Linux&download=scrape-outages.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danp/nspoweroutages/scrape-outages?tag=HEAD-374693c-250619T141452-riscv64-Linux&download=scrape-outages",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/danp/nspoweroutages/scrape-outages:HEAD-374693c-250619T141452-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/danp/nspoweroutages/scrape-outages",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danp/nspoweroutages/scrape-outages?tag=HEAD-374693c-250619T141452-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "909eabe4d217a37df904dc0400fad9bd4fd792eb3f6ee21e0094c3bf782b5ebb",
+  "size": "5.9 MB",
+  "size_raw": "6091992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
