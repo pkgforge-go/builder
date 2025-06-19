@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "spk",
+  "pkg_family": "spk",
+  "pkg_id": "spk#github.com_dhn_spk",
+  "pkg_name": "spk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dhn/spk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.",
+  "homepage": [
+    "https://github.com/dhn/spk"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "spk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dhn/spk/archive/8e43a264349d9529236e8f2a2cec0d9527b34499.tar.gz"
+  ],
+  "tag": [
+    "asn",
+    "bugbounty",
+    "cidr",
+    "enumeration",
+    "golang",
+    "osint",
+    "recon",
+    "reconnaissance"
+  ],
+  "version": "HEAD-8e43a26-250323T131107",
+  "version_upstream": "",
+  "bsum": "0e0f3db0196c2a5d63c6a3438c522e426598ea49053f093589bc6140ff25a268",
+  "build_date": "2025-06-19T21:19:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766158837",
+  "build_id": "15766158837",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dhn/spk/spk?tag=HEAD-8e43a26-250323T131107-loongarch64-Linux&download=spk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "83",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dhn/spk/spk?tag=HEAD-8e43a26-250323T131107-loongarch64-Linux&download=spk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dhn/spk/spk:HEAD-8e43a26-250323T131107-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dhn/spk/spk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dhn/spk/spk?tag=HEAD-8e43a26-250323T131107-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "783c97d58dd4fdc7bef94319a4d4b96ba0c6aec6aa0b0bf7bfa0924bb7ed884a",
+  "size": "7.8 MB",
+  "size_raw": "8176656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
