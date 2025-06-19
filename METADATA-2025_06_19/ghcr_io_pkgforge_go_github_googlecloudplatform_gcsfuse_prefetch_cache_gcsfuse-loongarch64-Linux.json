@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "prefetch_cache_gcsfuse",
+  "pkg_family": "gcsfuse",
+  "pkg_id": "prefetch_cache_gcsfuse#github.com_GoogleCloudPlatform_gcsfuse",
+  "pkg_name": "prefetch_cache_gcsfuse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/gcsfuse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A user-space file system for interacting with Google Cloud Storage",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/gcsfuse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build_gcsfuse",
+    "config-gen",
+    "gcsfuse",
+    "mount_gcsfuse",
+    "package_gcsfuse",
+    "prefetch_cache_gcsfuse",
+    "proxy_server",
+    "read_full_file",
+    "read_within_file",
+    "skip_tests",
+    "stat_files",
+    "write_locally",
+    "write_to_gcs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/gcsfuse/archive/9c5c2d5120bc90f4f26f90f8a8629e6be77a85a0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9c5c2d5-250618T154930",
+  "version_upstream": "",
+  "bsum": "bb291841c20e458e33bec2b552d9760186dd78b88694f40f3d15d79bee430300",
+  "build_date": "2025-06-19T09:39:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753656673",
+  "build_id": "15753656673",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcsfuse/prefetch_cache_gcsfuse?tag=HEAD-9c5c2d5-250618T154930-loongarch64-Linux&download=prefetch_cache_gcsfuse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcsfuse/prefetch_cache_gcsfuse?tag=HEAD-9c5c2d5-250618T154930-loongarch64-Linux&download=prefetch_cache_gcsfuse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/gcsfuse/prefetch_cache_gcsfuse:HEAD-9c5c2d5-250618T154930-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/gcsfuse/prefetch_cache_gcsfuse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcsfuse/prefetch_cache_gcsfuse?tag=HEAD-9c5c2d5-250618T154930-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4677aba96b8200a6f3afd0c2bd02dcfba92385b9c41426000ebf4ea12284fc4f",
+  "size": "35 MB",
+  "size_raw": "35772864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
