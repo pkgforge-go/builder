@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "autostart",
+  "pkg_family": "ec2-autostart",
+  "pkg_id": "autostart#github.com_ericpauley_ec2_autostart",
+  "pkg_name": "autostart",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ericpauley/ec2-autostart",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatically starts EC2 instances based on network traffic",
+  "homepage": [
+    "https://github.com/ericpauley/ec2-autostart"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autostart",
+    "autostop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ericpauley/ec2-autostart/archive/601449a50b7f091bc7434c98ba31fd1986900796.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-601449a-240530T141403",
+  "version_upstream": "v1.1.0",
+  "bsum": "cf1c2e350b3510e133eb7c822667bef845d8b294b59290500d18926c1ac88398",
+  "build_date": "2025-06-19T22:57:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767130072",
+  "build_id": "15767130072",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ericpauley/ec2-autostart/autostart?tag=HEAD-601449a-240530T141403-aarch64-Linux&download=autostart.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ericpauley/ec2-autostart/autostart?tag=HEAD-601449a-240530T141403-aarch64-Linux&download=autostart",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ericpauley/ec2-autostart/autostart:HEAD-601449a-240530T141403-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ericpauley/ec2-autostart/autostart",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ericpauley/ec2-autostart/autostart?tag=HEAD-601449a-240530T141403-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61c0595ad00cac37c77c891c7c734b2d34190c5e0257f2d291791b69058a3d25",
+  "size": "11 MB",
+  "size_raw": "11500512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
