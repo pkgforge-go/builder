@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cidr",
+  "pkg_family": "cidr",
+  "pkg_id": "cidr#github.com_bschaatsbergen_cidr",
+  "pkg_name": "cidr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bschaatsbergen/cidr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.",
+  "homepage": [
+    "https://github.com/bschaatsbergen/cidr"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cidr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bschaatsbergen/cidr/archive/ba2b74eaaaf49c190826143958d3ac509b191453.tar.gz"
+  ],
+  "tag": [
+    "cidr",
+    "cli",
+    "cobra",
+    "go",
+    "homebrew",
+    "ipv4",
+    "ipv6"
+  ],
+  "version": "HEAD-ba2b74e-250309T000325",
+  "version_upstream": "",
+  "bsum": "32bfc66b4400387ad6a905745e139a123d2262172f4e9372aa53bbf1275668b0",
+  "build_date": "2025-06-19T14:58:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760272957",
+  "build_id": "15760272957",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bschaatsbergen/cidr/cidr?tag=HEAD-ba2b74e-250309T000325-aarch64-Linux&download=cidr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "213",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bschaatsbergen/cidr/cidr?tag=HEAD-ba2b74e-250309T000325-aarch64-Linux&download=cidr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bschaatsbergen/cidr/cidr:HEAD-ba2b74e-250309T000325-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bschaatsbergen/cidr/cidr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bschaatsbergen/cidr/cidr?tag=HEAD-ba2b74e-250309T000325-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf89e85ef4162eb3b47200fba28040d3f0acdc3bf35a8f367705cbbe1489548a",
+  "size": "4.2 MB",
+  "size_raw": "4391192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
