@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "docs",
+  "pkg_family": "kubedb",
+  "pkg_id": "docs#github.com_clevyr_kubedb",
+  "pkg_name": "docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clevyr/kubedb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Painlessly work with databases in Kubernetes.",
+  "homepage": [
+    "https://github.com/clevyr/kubedb"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "completions",
+    "docs",
+    "kubedb",
+    "manpages"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clevyr/kubedb/archive/b3d691c72559cd21b9eeecec81e965159c1b6c09.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "kubernetes",
+    "mariadb",
+    "mongodb",
+    "postgresql"
+  ],
+  "version": "HEAD-b3d691c-250619T015823",
+  "version_upstream": "",
+  "bsum": "06c8694b9bf58455e5e6da6d463af4e8b1741cc3728a744f83380198358d4562",
+  "build_date": "2025-06-19T18:49:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764323508",
+  "build_id": "15764323508",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clevyr/kubedb/docs?tag=HEAD-b3d691c-250619T015823-riscv64-Linux&download=docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clevyr/kubedb/docs?tag=HEAD-b3d691c-250619T015823-riscv64-Linux&download=docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clevyr/kubedb/docs:HEAD-b3d691c-250619T015823-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clevyr/kubedb/docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clevyr/kubedb/docs?tag=HEAD-b3d691c-250619T015823-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a90d156357746584e4b9585d5ddc713dece0989ad1e5fd20f9cf669cc4bf99b6",
+  "size": "76 MB",
+  "size_raw": "79366840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
