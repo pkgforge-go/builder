@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "integration_test",
+  "pkg_family": "eks-anywhere",
+  "pkg_id": "integration_test#github.com_aws_eks_anywhere",
+  "pkg_name": "integration_test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/eks-anywhere",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Amazon EKS on your own infrastructure 🚀",
+  "homepage": [
+    "https://github.com/aws/eks-anywhere"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eks-a-tool",
+    "eksctl-anywhere",
+    "integration_test",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/eks-anywhere/archive/fb4bedad3f47b061ccef0695222237336d16db41.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "baremetal",
+    "baremetal-provisioning",
+    "docker",
+    "eks",
+    "k8s",
+    "kubernetes",
+    "kubernetes-cluster",
+    "kubernetes-deployment",
+    "tinkerbell",
+    "vmware"
+  ],
+  "version": "HEAD-fb4beda-250618T050233",
+  "version_upstream": "",
+  "bsum": "656b515958a8346f2ddbe082ec292eab69e0f82c2c481b59db5daa3d064d62f2",
+  "build_date": "2025-06-19T13:25:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758284368",
+  "build_id": "15758284368",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere/integration_test?tag=HEAD-fb4beda-250618T050233-riscv64-Linux&download=integration_test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2034",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere/integration_test?tag=HEAD-fb4beda-250618T050233-riscv64-Linux&download=integration_test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-anywhere/integration_test:HEAD-fb4beda-250618T050233-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-anywhere/integration_test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere/integration_test?tag=HEAD-fb4beda-250618T050233-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "87474ecb2ff5fe3f8d6db090d3f41282fb4217db81746980cd99ed0ba9f64d61",
+  "size": "58 MB",
+  "size_raw": "60274072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
