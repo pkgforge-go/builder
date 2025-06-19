@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tlog-torrent",
+  "pkg_family": "sunlight",
+  "pkg_id": "tlog-torrent#github.com_FiloSottile_sunlight",
+  "pkg_name": "tlog-torrent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FiloSottile/sunlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
+  "homepage": [
+    "https://github.com/FiloSottile/sunlight"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "partial-aftersun",
+    "skylight",
+    "sunlight",
+    "sunlight-keygen",
+    "tlog-torrent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FiloSottile/sunlight/archive/1bba70fd338e091dba2e9ff289a7168eca0fea3f.tar.gz"
+  ],
+  "tag": [
+    "certificate-transparency",
+    "tlog"
+  ],
+  "version": "HEAD-1bba70f-250613T162055",
+  "version_upstream": "v0.4.1",
+  "bsum": "de95fede2720f82503833e69ba3b14d5d7c600e09c29e4eb8516051ab7b75a68",
+  "build_date": "2025-06-19T09:21:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753578510",
+  "build_id": "15753578510",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/tlog-torrent?tag=HEAD-1bba70f-250613T162055-x86_64-Linux&download=tlog-torrent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/tlog-torrent?tag=HEAD-1bba70f-250613T162055-x86_64-Linux&download=tlog-torrent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filosottile/sunlight/tlog-torrent:HEAD-1bba70f-250613T162055-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filosottile/sunlight/tlog-torrent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/tlog-torrent?tag=HEAD-1bba70f-250613T162055-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09f51072cc288ac7609551d50a7dee1227625907d43d0200e196c198656d1dd9",
+  "size": "6.2 MB",
+  "size_raw": "6492832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
