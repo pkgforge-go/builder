@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "docgen",
+  "pkg_family": "cayley",
+  "pkg_id": "docgen#github.com_cayleygraph_cayley",
+  "pkg_name": "docgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cayleygraph/cayley",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open-source graph database",
+  "homepage": [
+    "https://github.com/cayleygraph/cayley"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cayleyexport",
+    "cayleyimport",
+    "docgen",
+    "download_ui",
+    "hello_world",
+    "transaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cayleygraph/cayley/archive/81dcd7d73e45136bc0d01802a8ba4685d8a533eb.tar.gz"
+  ],
+  "tag": [
+    "cayley",
+    "go",
+    "graph",
+    "graph-database",
+    "linked-data"
+  ],
+  "version": "HEAD-81dcd7d-240706T211042",
+  "version_upstream": "",
+  "bsum": "1bbc221d1cdba09bffb738c0b8a31badded99e0f4afb53b23955cd45262f28fe",
+  "build_date": "2025-06-19T17:51:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762689767",
+  "build_id": "15762689767",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cayleygraph/cayley/docgen?tag=HEAD-81dcd7d-240706T211042-riscv64-Linux&download=docgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14939",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cayleygraph/cayley/docgen?tag=HEAD-81dcd7d-240706T211042-riscv64-Linux&download=docgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cayleygraph/cayley/docgen:HEAD-81dcd7d-240706T211042-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cayleygraph/cayley/docgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cayleygraph/cayley/docgen?tag=HEAD-81dcd7d-240706T211042-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "698a6d8c526c17fb616d13608353f231479c8e31d205da48e36a3f2a00da4050",
+  "size": "2.5 MB",
+  "size_raw": "2576776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
