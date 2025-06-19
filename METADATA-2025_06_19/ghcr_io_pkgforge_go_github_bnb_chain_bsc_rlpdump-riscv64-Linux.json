@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rlpdump",
+  "pkg_family": "bsc",
+  "pkg_id": "rlpdump#github.com_bnb_chain_bsc",
+  "pkg_name": "rlpdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bnb-chain/bsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A BNB Smart Chain client based on the go-ethereum fork",
+  "homepage": [
+    "https://github.com/bnb-chain/bsc"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rlpdump",
+    "rlpgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bnb-chain/bsc/archive/7e84843f135986a004f65205b357f4bedc461a30.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "bnb",
+    "ethereum"
+  ],
+  "version": "HEAD-7e84843-250617T165231",
+  "version_upstream": "",
+  "bsum": "8ad4b0352f55838fdad555e2b9c1bd1141fe2675138bba8059466ec61ee518a6",
+  "build_date": "2025-06-19T17:24:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762429454",
+  "build_id": "15762429454",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/rlpdump?tag=HEAD-7e84843-250617T165231-riscv64-Linux&download=rlpdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3007",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/rlpdump?tag=HEAD-7e84843-250617T165231-riscv64-Linux&download=rlpdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bnb-chain/bsc/rlpdump:HEAD-7e84843-250617T165231-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bnb-chain/bsc/rlpdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/rlpdump?tag=HEAD-7e84843-250617T165231-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4463e08cbeafc8a2381cd52855989f3ae65e3a44a086b03eaef8b5b473834db3",
+  "size": "2.3 MB",
+  "size_raw": "2403848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
