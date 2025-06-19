@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "resource",
+  "pkg_family": "fastschema",
+  "pkg_id": "resource#github.com_fastschema_fastschema",
+  "pkg_name": "resource",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fastschema/fastschema",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "All-in-One Backend as a Service with Headless CMS Power",
+  "homepage": [
+    "https://github.com/fastschema/fastschema"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "database",
+    "fastschema-cmd",
+    "hooks",
+    "logging",
+    "relations",
+    "resource",
+    "storage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fastschema/fastschema/archive/319088713fb3485d5f98201528275db5586de099.tar.gz"
+  ],
+  "tag": [
+    "backend",
+    "backend-as-a-service",
+    "cms",
+    "framework",
+    "golang",
+    "headless-cms",
+    "low-code",
+    "no-code",
+    "rbac",
+    "react"
+  ],
+  "version": "HEAD-3190887-250604T163317",
+  "version_upstream": "",
+  "bsum": "9dd8ac58d6860d880ed529e45252cc3861478c0900eac569a50bda42a19edcce",
+  "build_date": "2025-06-19T23:41:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767264036",
+  "build_id": "15767264036",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fastschema/fastschema/resource?tag=HEAD-3190887-250604T163317-riscv64-Linux&download=resource.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "455",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fastschema/fastschema/resource?tag=HEAD-3190887-250604T163317-riscv64-Linux&download=resource",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fastschema/fastschema/resource:HEAD-3190887-250604T163317-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fastschema/fastschema/resource",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fastschema/fastschema/resource?tag=HEAD-3190887-250604T163317-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae0038427f07b69a99f5def472c800fe51477909890aa98d4bfead5480fadceb",
+  "size": "50 MB",
+  "size_raw": "52043704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
