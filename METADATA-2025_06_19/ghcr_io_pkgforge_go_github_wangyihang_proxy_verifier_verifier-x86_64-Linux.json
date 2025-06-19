@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "verifier",
+  "pkg_family": "Proxy-Verifier",
+  "pkg_id": "verifier#github.com_WangYihang_Proxy_Verifier",
+  "pkg_name": "verifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/WangYihang/Proxy-Verifier",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of tools designed to efficiently and effectively locate publicly available proxy server resources.",
+  "homepage": [
+    "https://github.com/WangYihang/Proxy-Verifier"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "downloader",
+    "exporter",
+    "http",
+    "smtp",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/WangYihang/Proxy-Verifier/archive/3ea9985d912373811172e48b082cb2f49f827889.tar.gz"
+  ],
+  "tag": [
+    "http-proxy",
+    "proxy",
+    "proxy-checker",
+    "proxy-list",
+    "socks4",
+    "socks4a",
+    "socks5",
+    "transparent-http-proxy"
+  ],
+  "version": "HEAD-3ea9985-230821T171013",
+  "version_upstream": "",
+  "bsum": "66b7c5136e085aac8149d130585980eafa22aad885f395b603347c77ecac4296",
+  "build_date": "2025-06-19T11:38:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756494804",
+  "build_id": "15756494804",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/proxy-verifier/verifier?tag=HEAD-3ea9985-230821T171013-x86_64-Linux&download=verifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/proxy-verifier/verifier?tag=HEAD-3ea9985-230821T171013-x86_64-Linux&download=verifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wangyihang/proxy-verifier/verifier:HEAD-3ea9985-230821T171013-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wangyihang/proxy-verifier/verifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/proxy-verifier/verifier?tag=HEAD-3ea9985-230821T171013-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da31fe9e589b4e25feca906fb54c015bb463cccaf3a8f1bdae95f15f8b90d040",
+  "size": "6.8 MB",
+  "size_raw": "7088064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
