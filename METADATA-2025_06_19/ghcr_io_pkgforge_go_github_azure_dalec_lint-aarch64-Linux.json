@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "lint",
+  "pkg_family": "dalec",
+  "pkg_id": "lint#github.com_Azure_dalec",
+  "pkg_name": "lint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/6ac73997a78db871e7b3e6638a270a032eb85559.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-6ac7399-250618T140047",
+  "version_upstream": "",
+  "bsum": "2315d9d260314d763f0b2e8ca54e4bfc9a206c90a54374fde41a1735cda74298",
+  "build_date": "2025-06-19T08:06:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752531091",
+  "build_id": "15752531091",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/lint?tag=HEAD-6ac7399-250618T140047-aarch64-Linux&download=lint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/lint?tag=HEAD-6ac7399-250618T140047-aarch64-Linux&download=lint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/lint:HEAD-6ac7399-250618T140047-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/lint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/lint?tag=HEAD-6ac7399-250618T140047-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03f5cd332c9ef4732f067007fe71c3b1af17faf17b17dfad6331ec26c71dc876",
+  "size": "6.4 MB",
+  "size_raw": "6676416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
