@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "msgs-gen",
+  "pkg_family": "goroslib",
+  "pkg_id": "msgs-gen#github.com_bluenviron_goroslib",
+  "pkg_name": "msgs-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bluenviron/goroslib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ROS client library for the Go programming language",
+  "homepage": [
+    "https://github.com/bluenviron/goroslib"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "action-import",
+    "cluster-info",
+    "msg-import",
+    "msgs-gen",
+    "package-import",
+    "param-set-get",
+    "publisher",
+    "publisher-custom",
+    "serviceclient",
+    "serviceprovider",
+    "simpleactionclient",
+    "simpleactionserver",
+    "srv-import",
+    "subscriber",
+    "subscriber-custom",
+    "subscriber-ipv6",
+    "subscriber-udp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bluenviron/goroslib/archive/822b5676f4d99e247254dbf854b43bcbfc17f05b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "robot-operating-system",
+    "ros",
+    "ros-industrial",
+    "ros-libraries",
+    "ros-melodic",
+    "ros-package",
+    "ugv"
+  ],
+  "version": "HEAD-822b567-250602T210150",
+  "version_upstream": "",
+  "bsum": "88c661fdb7c2b387de82222005b1444f5713604cb894dcff59799766d04d6480",
+  "build_date": "2025-06-19T14:30:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759458542",
+  "build_id": "15759458542",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/msgs-gen?tag=HEAD-822b567-250602T210150-loongarch64-Linux&download=msgs-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "365",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/msgs-gen?tag=HEAD-822b567-250602T210150-loongarch64-Linux&download=msgs-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bluenviron/goroslib/msgs-gen:HEAD-822b567-250602T210150-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bluenviron/goroslib/msgs-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/msgs-gen?tag=HEAD-822b567-250602T210150-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c10d4e77be199476bf1d35a2a769c038924d2ba6eaa5a0567c18d62be1e3d567",
+  "size": "12 MB",
+  "size_raw": "12001024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
