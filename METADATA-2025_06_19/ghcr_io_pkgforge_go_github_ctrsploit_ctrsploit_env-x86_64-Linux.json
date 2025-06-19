@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "env",
+  "pkg_family": "ctrsploit",
+  "pkg_id": "env#github.com_ctrsploit_ctrsploit",
+  "pkg_name": "env",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ctrsploit/ctrsploit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A penetration toolkit for container environment",
+  "homepage": [
+    "https://github.com/ctrsploit/ctrsploit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checksec",
+    "cmd",
+    "ctrsploit",
+    "env",
+    "reverse_shell_image"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ctrsploit/ctrsploit/archive/213186bd6f71529ab93f7ba382e5c66d7d1e5989.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "docker",
+    "penetration-testing-tools"
+  ],
+  "version": "HEAD-213186b-250617T110956",
+  "version_upstream": "",
+  "bsum": "e0e72a1e4458b1c69db40834436570cfb051839d76b417c106ca45471cb37dae",
+  "build_date": "2025-06-19T20:31:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765394732",
+  "build_id": "15765394732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/env?tag=HEAD-213186b-250617T110956-x86_64-Linux&download=env.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/env?tag=HEAD-213186b-250617T110956-x86_64-Linux&download=env",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/env:HEAD-213186b-250617T110956-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/env",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/env?tag=HEAD-213186b-250617T110956-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f545c9809ec9f73016a923e527357142d169d3804c34c33bd0c4a290d8ee802",
+  "size": "11 MB",
+  "size_raw": "10758928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
