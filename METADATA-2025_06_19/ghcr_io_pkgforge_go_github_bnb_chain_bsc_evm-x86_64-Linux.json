@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "evm",
+  "pkg_family": "bsc",
+  "pkg_id": "evm#github.com_bnb_chain_bsc",
+  "pkg_name": "evm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bnb-chain/bsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A BNB Smart Chain client based on the go-ethereum fork",
+  "homepage": [
+    "https://github.com/bnb-chain/bsc"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "bootnode",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "extradump",
+    "faucet",
+    "geth",
+    "maliciousvote-submit",
+    "rlpdump",
+    "rlpgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bnb-chain/bsc/archive/7e84843f135986a004f65205b357f4bedc461a30.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "bnb",
+    "ethereum"
+  ],
+  "version": "HEAD-7e84843-250617T165231",
+  "version_upstream": "",
+  "bsum": "faa87261b071ece1c3436eb87d37ddf50419ca3171e0075e25f8ea8a06b61cab",
+  "build_date": "2025-06-19T17:27:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762429454",
+  "build_id": "15762429454",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/evm?tag=HEAD-7e84843-250617T165231-x86_64-Linux&download=evm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3007",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/evm?tag=HEAD-7e84843-250617T165231-x86_64-Linux&download=evm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bnb-chain/bsc/evm:HEAD-7e84843-250617T165231-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bnb-chain/bsc/evm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/evm?tag=HEAD-7e84843-250617T165231-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3df89b11fe1eefd28b4768a9dd8a46684f86dab3ca16aa66c81a8c2fa4f3ca67",
+  "size": "56 MB",
+  "size_raw": "58468752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

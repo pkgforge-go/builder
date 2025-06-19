@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "devp2p",
+  "pkg_family": "bsc",
+  "pkg_id": "devp2p#github.com_bnb_chain_bsc",
+  "pkg_name": "devp2p",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bnb-chain/bsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A BNB Smart Chain client based on the go-ethereum fork",
+  "homepage": [
+    "https://github.com/bnb-chain/bsc"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "bootnode",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "extradump",
+    "faucet",
+    "geth",
+    "maliciousvote-submit",
+    "rlpdump",
+    "rlpgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bnb-chain/bsc/archive/7e84843f135986a004f65205b357f4bedc461a30.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "bnb",
+    "ethereum"
+  ],
+  "version": "HEAD-7e84843-250617T165231",
+  "version_upstream": "",
+  "bsum": "8dd72994f21411a7c40d6a4afe8319c40fa3fee9e3cd929a10ed39ee2113b655",
+  "build_date": "2025-06-19T17:28:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762429454",
+  "build_id": "15762429454",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/devp2p?tag=HEAD-7e84843-250617T165231-x86_64-Linux&download=devp2p.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3007",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/devp2p?tag=HEAD-7e84843-250617T165231-x86_64-Linux&download=devp2p",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bnb-chain/bsc/devp2p:HEAD-7e84843-250617T165231-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bnb-chain/bsc/devp2p",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/devp2p?tag=HEAD-7e84843-250617T165231-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c5b3829da120355d42c734c9800f42580104a0e6e53964854a78b335e872965",
+  "size": "42 MB",
+  "size_raw": "43506096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
