@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "desktop",
+  "pkg_family": "gopeed",
+  "pkg_id": "desktop#github.com_GopeedLab_gopeed",
+  "pkg_name": "desktop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GopeedLab/gopeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
+  "homepage": [
+    "https://github.com/GopeedLab/gopeed"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "desktop",
+    "gopeed",
+    "host",
+    "updater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GopeedLab/gopeed/archive/8ae9363f0f4153fa7837eba98dda29420ab5b6b0.tar.gz"
+  ],
+  "tag": [
+    "android",
+    "bittorrent",
+    "cross-platform",
+    "debian",
+    "downloader",
+    "flutter",
+    "golang",
+    "http",
+    "https",
+    "ios",
+    "macos",
+    "magnet",
+    "torrent",
+    "ubuntu",
+    "windows"
+  ],
+  "version": "HEAD-8ae9363-250617T095151",
+  "version_upstream": "",
+  "bsum": "032105a2dd2e4ff55de00c155ec94a8da47542c2fa59b100f4c406852385a5f8",
+  "build_date": "2025-06-19T09:46:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753781745",
+  "build_id": "15753781745",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopeedlab/gopeed/desktop?tag=HEAD-8ae9363-250617T095151-riscv64-Linux&download=desktop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19279",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopeedlab/gopeed/desktop?tag=HEAD-8ae9363-250617T095151-riscv64-Linux&download=desktop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopeedlab/gopeed/desktop:HEAD-8ae9363-250617T095151-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopeedlab/gopeed/desktop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopeedlab/gopeed/desktop?tag=HEAD-8ae9363-250617T095151-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e0e331dc780b9d19a7849798b5c0428fc588bf5b9a8572f28a3d3d6bece51fe",
+  "size": "29 MB",
+  "size_raw": "30334768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
