@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "playready-internal",
+  "pkg_family": "playReady",
+  "pkg_id": "playready-internal#github.com_3052_playReady",
+  "pkg_name": "playready-internal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/3052/playReady",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "playReady implementation",
+  "homepage": [
+    "https://github.com/3052/playReady"
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "2025-05",
+    "cbc",
+    "ecb",
+    "ecb-brute",
+    "playready-internal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/3052/playReady/archive/e216d0c82a74a729942e682d1ebaa3d6b05c93f7.tar.gz"
+  ],
+  "tag": [
+    "drm",
+    "microsoft"
+  ],
+  "version": "HEAD-e216d0c-250618T200058",
+  "version_upstream": "",
+  "bsum": "c16d467c6344e57d9ec29900673335eb29cea51852fae33c26f999b538c4b0f9",
+  "build_date": "2025-06-19T07:51:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752527750",
+  "build_id": "15752527750",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/playready-internal?tag=HEAD-e216d0c-250618T200058-riscv64-Linux&download=playready-internal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/playready-internal?tag=HEAD-e216d0c-250618T200058-riscv64-Linux&download=playready-internal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/3052/playready/playready-internal:HEAD-e216d0c-250618T200058-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/3052/playready/playready-internal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/playready-internal?tag=HEAD-e216d0c-250618T200058-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2676e2e58df432dc2777dabe4a5b4da2f3ed462c196d273902c835285ef315be",
+  "size": "7.0 MB",
+  "size_raw": "7262968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
