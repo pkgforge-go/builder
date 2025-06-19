@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "migrate",
+  "pkg_family": "enduro",
+  "pkg_id": "migrate#github.com_artefactual_sdps_enduro",
+  "pkg_name": "migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/artefactual-sdps/enduro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool to support ingest and automation in digital preservation workflows",
+  "homepage": [
+    "https://github.com/artefactual-sdps/enduro"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "enduro",
+    "enduro-a3m-worker",
+    "enduro-am-worker",
+    "genpkgs",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/artefactual-sdps/enduro/archive/66c06b007ef5472649f44053808ad5b4eb57fbcd.tar.gz"
+  ],
+  "tag": [
+    "a3m",
+    "archivematica",
+    "archives",
+    "digital-preservation",
+    "enduro",
+    "go",
+    "golang",
+    "ingest",
+    "temporal"
+  ],
+  "version": "HEAD-66c06b0-250618T172055",
+  "version_upstream": "",
+  "bsum": "302ccbc0b4f39cc61a6d4e5b1ba7a702080cc600a86c7730e4eccfeaa4141bd8",
+  "build_date": "2025-06-19T12:06:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756624827",
+  "build_id": "15756624827",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artefactual-sdps/enduro/migrate?tag=HEAD-66c06b0-250618T172055-aarch64-Linux&download=migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artefactual-sdps/enduro/migrate?tag=HEAD-66c06b0-250618T172055-aarch64-Linux&download=migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/artefactual-sdps/enduro/migrate:HEAD-66c06b0-250618T172055-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/artefactual-sdps/enduro/migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artefactual-sdps/enduro/migrate?tag=HEAD-66c06b0-250618T172055-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf03098e0221c987237131dc9336ed36c144fb71a2b5de3722a4ef6d739bc4f1",
+  "size": "13 MB",
+  "size_raw": "12709760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

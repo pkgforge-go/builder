@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "genpkgs",
+  "pkg_family": "enduro",
+  "pkg_id": "genpkgs#github.com_artefactual_sdps_enduro",
+  "pkg_name": "genpkgs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/artefactual-sdps/enduro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool to support ingest and automation in digital preservation workflows",
+  "homepage": [
+    "https://github.com/artefactual-sdps/enduro"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "enduro",
+    "enduro-a3m-worker",
+    "enduro-am-worker",
+    "genpkgs",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/artefactual-sdps/enduro/archive/66c06b007ef5472649f44053808ad5b4eb57fbcd.tar.gz"
+  ],
+  "tag": [
+    "a3m",
+    "archivematica",
+    "archives",
+    "digital-preservation",
+    "enduro",
+    "go",
+    "golang",
+    "ingest",
+    "temporal"
+  ],
+  "version": "HEAD-66c06b0-250618T172055",
+  "version_upstream": "",
+  "bsum": "dae2ee453a474edd2765cae38ecde03fdad6eeba0db96827c0277f009e2d3464",
+  "build_date": "2025-06-19T12:06:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756624827",
+  "build_id": "15756624827",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artefactual-sdps/enduro/genpkgs?tag=HEAD-66c06b0-250618T172055-aarch64-Linux&download=genpkgs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artefactual-sdps/enduro/genpkgs?tag=HEAD-66c06b0-250618T172055-aarch64-Linux&download=genpkgs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/artefactual-sdps/enduro/genpkgs:HEAD-66c06b0-250618T172055-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/artefactual-sdps/enduro/genpkgs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artefactual-sdps/enduro/genpkgs?tag=HEAD-66c06b0-250618T172055-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae9248d445f754dcc0212cfc87dcb0a56e1aa4cc53de9e9a43aa72d931ece188",
+  "size": "2.0 MB",
+  "size_raw": "2030624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
