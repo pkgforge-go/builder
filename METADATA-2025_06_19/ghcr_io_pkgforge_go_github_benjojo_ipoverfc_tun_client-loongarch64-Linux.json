@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tun-client",
+  "pkg_family": "IPoverFC",
+  "pkg_id": "tun-client#github.com_benjojo_IPoverFC",
+  "pkg_name": "tun-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/benjojo/IPoverFC",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IP over ATA over FC _Cheap Ethernet over SCSI_",
+  "homepage": [
+    "https://github.com/benjojo/IPoverFC"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scst-driver",
+    "tun-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/benjojo/IPoverFC/archive/91c916de3e9eeec586ed83b74a23f09122cfa242.tar.gz"
+  ],
+  "tag": [
+    "scsi",
+    "scst",
+    "tuntap"
+  ],
+  "version": "HEAD-91c916d-200909T114857",
+  "version_upstream": "",
+  "bsum": "8615c7b36685e9993f5907743d7d379b6fb097898a2d2f60c1411f52c8736da8",
+  "build_date": "2025-06-19T14:01:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759147653",
+  "build_id": "15759147653",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjojo/ipoverfc/tun-client?tag=HEAD-91c916d-200909T114857-loongarch64-Linux&download=tun-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "52",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjojo/ipoverfc/tun-client?tag=HEAD-91c916d-200909T114857-loongarch64-Linux&download=tun-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/benjojo/ipoverfc/tun-client:HEAD-91c916d-200909T114857-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/benjojo/ipoverfc/tun-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjojo/ipoverfc/tun-client?tag=HEAD-91c916d-200909T114857-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df03cdfbc7ba151b264d09999605fb3029ae10cf687c6751c5e46fadc190059b",
+  "size": "2.2 MB",
+  "size_raw": "2274688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
