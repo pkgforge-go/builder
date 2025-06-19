@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "dragonfly",
+  "pkg_id": "scheduler#github.com_dragonflyoss_dragonfly",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dragonflyoss/dragonfly",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation _CNCF_ as an Incubating Level Project.",
+  "homepage": [
+    "https://github.com/dragonflyoss/dragonfly"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dfcache",
+    "dfget",
+    "dfstore",
+    "manager",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dragonflyoss/dragonfly/archive/ef9c9efdccb4c18b34560d82ee04e6a187c0db2d.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "containers",
+    "docker-image",
+    "nydus",
+    "p2p",
+    "registry"
+  ],
+  "version": "HEAD-ef9c9ef-250619T124627",
+  "version_upstream": "",
+  "bsum": "426e684ef43ea5f879be938222fa04a5bd9f76cf2cff14cdcb724bf45b54eb52",
+  "build_date": "2025-06-19T21:54:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766605773",
+  "build_id": "15766605773",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/scheduler?tag=HEAD-ef9c9ef-250619T124627-riscv64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2625",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/scheduler?tag=HEAD-ef9c9ef-250619T124627-riscv64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dragonflyoss/dragonfly/scheduler:HEAD-ef9c9ef-250619T124627-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dragonflyoss/dragonfly/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/scheduler?tag=HEAD-ef9c9ef-250619T124627-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "26af1f94019c06c1ee8bb21c67e9ca83026c562895d9d99848c757cbda81bab8",
+  "size": "68 MB",
+  "size_raw": "70715256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
