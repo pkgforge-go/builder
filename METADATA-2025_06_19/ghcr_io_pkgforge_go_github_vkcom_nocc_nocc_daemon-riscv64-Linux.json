@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nocc-daemon",
+  "pkg_family": "nocc",
+  "pkg_id": "nocc-daemon#github.com_VKCOM_nocc",
+  "pkg_name": "nocc-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VKCOM/nocc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A distributed C++ compiler: like distcc, but faster",
+  "homepage": [
+    "https://github.com/VKCOM/nocc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nocc-daemon",
+    "nocc-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VKCOM/nocc/archive/1599d368c6f402f8d8349bd119c0218040e6f11b.tar.gz"
+  ],
+  "tag": [
+    "compiler",
+    "distcc",
+    "kphp"
+  ],
+  "version": "HEAD-1599d36-241120T173019",
+  "version_upstream": "",
+  "bsum": "1dae835d10b6b377d6980841f35bc9f46659533c77cba6ce3e965bcb0521a28a",
+  "build_date": "2025-06-19T11:30:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756303201",
+  "build_id": "15756303201",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/nocc/nocc-daemon?tag=HEAD-1599d36-241120T173019-riscv64-Linux&download=nocc-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "286",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/nocc/nocc-daemon?tag=HEAD-1599d36-241120T173019-riscv64-Linux&download=nocc-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vkcom/nocc/nocc-daemon:HEAD-1599d36-241120T173019-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vkcom/nocc/nocc-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/nocc/nocc-daemon?tag=HEAD-1599d36-241120T173019-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f7ede282c178368e7ef830c802c4ec7fd93b9c6afb92a8e6422a8b3010dc431",
+  "size": "11 MB",
+  "size_raw": "11150296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
