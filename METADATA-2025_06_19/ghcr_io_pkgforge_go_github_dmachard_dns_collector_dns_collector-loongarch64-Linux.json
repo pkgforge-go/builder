@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dns-collector",
+  "pkg_family": "DNS-collector",
+  "pkg_id": "dns-collector#github.com_dmachard_DNS_collector",
+  "pkg_name": "dns-collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dmachard/DNS-collector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grab your DNS logs, detect anomalies, and finally understand what_s happening on your network. The missing piece between DNS servers and your data stack.",
+  "homepage": [
+    "https://github.com/dmachard/DNS-collector"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dns-collector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dmachard/DNS-collector/archive/147340d00998953ea7d578c5cccd0cf67449cda9.tar.gz"
+  ],
+  "tag": [
+    "collector",
+    "coredns",
+    "dns",
+    "dns-server",
+    "dnstap",
+    "fluentd",
+    "golang",
+    "grafana",
+    "logs",
+    "loki",
+    "openmetrics",
+    "pcap",
+    "powerdns",
+    "prometheus",
+    "security-tools",
+    "sniffer",
+    "statistics"
+  ],
+  "version": "HEAD-147340d-250617T080155",
+  "version_upstream": "v1.8.0",
+  "bsum": "9f0899b1038746f2da6d5a140452de6c3ac4b58b30ea4f5d7b516d9ed5748603",
+  "build_date": "2025-06-19T21:37:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766583793",
+  "build_id": "15766583793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dmachard/dns-collector/dns-collector?tag=HEAD-147340d-250617T080155-loongarch64-Linux&download=dns-collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "262",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dmachard/dns-collector/dns-collector?tag=HEAD-147340d-250617T080155-loongarch64-Linux&download=dns-collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dmachard/dns-collector/dns-collector:HEAD-147340d-250617T080155-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dmachard/dns-collector/dns-collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dmachard/dns-collector/dns-collector?tag=HEAD-147340d-250617T080155-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "25fda6b44fc8159f53bf0f4e1a45a19a702704a844be0ffbc9250b8a8ada74c0",
+  "size": "41 MB",
+  "size_raw": "41989080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
