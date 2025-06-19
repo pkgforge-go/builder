@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "genprodcerts",
+  "pkg_family": "dcs",
+  "pkg_id": "genprodcerts#github.com_Debian_dcs",
+  "pkg_name": "genprodcerts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Debian/dcs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
+  "homepage": [
+    "https://github.com/Debian/dcs"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcs",
+    "dcs-compute-ranking",
+    "dcs-feeder",
+    "dcs-localdcs",
+    "dcs-package-importer",
+    "dcs-reshard",
+    "dcs-source-backend",
+    "dcs-web",
+    "genprodcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Debian/dcs/archive/4d0675f41041a14be4a7acab2f6b169e06d240d5.tar.gz"
+  ],
+  "tag": [
+    "debian",
+    "grep",
+    "linux",
+    "open-source",
+    "search",
+    "search-engine",
+    "source",
+    "source-code"
+  ],
+  "version": "HEAD-4d0675f-250218T221012",
+  "version_upstream": "",
+  "bsum": "aca9b31e202ddb76d3c6290008d79f068f6d5ab4d35c9f220482d629f06b95f6",
+  "build_date": "2025-06-19T08:51:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752746336",
+  "build_id": "15752746336",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/genprodcerts?tag=HEAD-4d0675f-250218T221012-x86_64-Linux&download=genprodcerts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/genprodcerts?tag=HEAD-4d0675f-250218T221012-x86_64-Linux&download=genprodcerts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/dcs/genprodcerts:HEAD-4d0675f-250218T221012-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/dcs/genprodcerts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/genprodcerts?tag=HEAD-4d0675f-250218T221012-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c38417a3e1e3239ef40bd44a2236f3e4830d2de6e5c36fbc8752f9a92642196",
+  "size": "3.2 MB",
+  "size_raw": "3287456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
