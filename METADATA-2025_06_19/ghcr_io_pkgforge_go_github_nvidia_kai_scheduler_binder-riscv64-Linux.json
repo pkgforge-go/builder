@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "binder",
+  "pkg_family": "KAI-Scheduler",
+  "pkg_id": "binder#github.com_NVIDIA_KAI_Scheduler",
+  "pkg_name": "binder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/KAI-Scheduler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+  "homepage": [
+    "https://github.com/NVIDIA/KAI-Scheduler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binder",
+    "nodescaleadjuster",
+    "podgroupcontroller",
+    "podgrouper",
+    "queuecontroller",
+    "scalingpod",
+    "scheduler",
+    "snapshot-tool",
+    "webhookmanager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/KAI-Scheduler/archive/b8c9bdf79f16ea24ac72048d379206366aac4a0b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b8c9bdf-250618T150330",
+  "version_upstream": "",
+  "bsum": "ea67341e4d4c785e88b649e94a560eba7a3f93d5712c9863443b8cedae27fd18",
+  "build_date": "2025-06-19T10:25:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754946641",
+  "build_id": "15754946641",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/binder?tag=HEAD-b8c9bdf-250618T150330-riscv64-Linux&download=binder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "651",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/binder?tag=HEAD-b8c9bdf-250618T150330-riscv64-Linux&download=binder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/binder:HEAD-b8c9bdf-250618T150330-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/binder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/binder?tag=HEAD-b8c9bdf-250618T150330-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d75f6b5fe6d8fdec9b3caa2c213270e5b92d02827f5d62b8dc8b43c8ac6a97cf",
+  "size": "65 MB",
+  "size_raw": "67850744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
