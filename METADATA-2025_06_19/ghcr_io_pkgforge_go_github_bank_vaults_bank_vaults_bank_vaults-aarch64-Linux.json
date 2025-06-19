@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bank-vaults",
+  "pkg_family": "bank-vaults",
+  "pkg_id": "bank-vaults#github.com_bank_vaults_bank_vaults",
+  "pkg_name": "bank-vaults",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bank-vaults/bank-vaults",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault _auth methods, secret engines_.",
+  "homepage": [
+    "https://github.com/bank-vaults/bank-vaults"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bank-vaults",
+    "template"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bank-vaults/bank-vaults/archive/1adf72a48c6f27bc76e3f8cce7b374cae94ac679.tar.gz"
+  ],
+  "tag": [
+    "alibaba-cloud",
+    "amazon",
+    "azure",
+    "golang",
+    "google-cloud",
+    "helm-chart",
+    "hsm",
+    "istio",
+    "kubernetes",
+    "kubernetes-secrets",
+    "mutating-webhook",
+    "operator",
+    "secret",
+    "security",
+    "unseal",
+    "vault",
+    "vault-client",
+    "vault-operator",
+    "vault-unsealing"
+  ],
+  "version": "HEAD-1adf72a-250619T040340",
+  "version_upstream": "",
+  "bsum": "43c650591c59db78fc664b170495f29d8fade0dec81a149c9af6512b4012280e",
+  "build_date": "2025-06-19T13:47:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758345774",
+  "build_id": "15758345774",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bank-vaults/bank-vaults/bank-vaults?tag=HEAD-1adf72a-250619T040340-aarch64-Linux&download=bank-vaults.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bank-vaults/bank-vaults/bank-vaults?tag=HEAD-1adf72a-250619T040340-aarch64-Linux&download=bank-vaults",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bank-vaults/bank-vaults/bank-vaults:HEAD-1adf72a-250619T040340-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bank-vaults/bank-vaults/bank-vaults",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bank-vaults/bank-vaults/bank-vaults?tag=HEAD-1adf72a-250619T040340-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fc041f0fdf445c8fe5fd282674976143942fa127668fbb08ad19d6d2eed24a6c",
+  "size": "100 MB",
+  "size_raw": "104266144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
