@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "beta9",
+  "pkg_id": "worker#github.com_beam_cloud_beta9",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/beam-cloud/beta9",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable Infrastructure for Running Your AI Workloads at Scale",
+  "homepage": [
+    "https://github.com/beam-cloud/beta9"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gateway",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/beam-cloud/beta9/archive/91c68fdacc08cf807188da9b3fcc74f289e50536.tar.gz"
+  ],
+  "tag": [
+    "autoscaler",
+    "cloudrun",
+    "cuda",
+    "developer-productivity",
+    "distributed-computing",
+    "faas",
+    "fine-tuning",
+    "functions-as-a-service",
+    "generative-ai",
+    "gpu",
+    "large-language-models",
+    "llm",
+    "llm-inference",
+    "ml-platform",
+    "paas",
+    "self-hosted",
+    "serverless",
+    "serverless-containers"
+  ],
+  "version": "HEAD-91c68fd-250618T201300",
+  "version_upstream": "gateway-0.1.504",
+  "bsum": "eec26dee81cc0e701fc082f9355683b2b2e870c0c42c7b88abc19338a95044b1",
+  "build_date": "2025-06-19T13:56:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758513023",
+  "build_id": "15758513023",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/beam-cloud/beta9/worker?tag=HEAD-91c68fd-250618T201300-aarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "829",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/beam-cloud/beta9/worker?tag=HEAD-91c68fd-250618T201300-aarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/beam-cloud/beta9/worker:HEAD-91c68fd-250618T201300-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/beam-cloud/beta9/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/beam-cloud/beta9/worker?tag=HEAD-91c68fd-250618T201300-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ced214bfb6ee8e52099698c6b48e394e5ac940377218f2756ebd35bbc245097",
+  "size": "93 MB",
+  "size_raw": "96828608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
