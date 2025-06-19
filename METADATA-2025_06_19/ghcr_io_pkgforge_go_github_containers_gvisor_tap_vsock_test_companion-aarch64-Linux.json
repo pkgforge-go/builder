@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "test-companion",
+  "pkg_family": "gvisor-tap-vsock",
+  "pkg_id": "test-companion#github.com_containers_gvisor_tap_vsock",
+  "pkg_name": "test-companion",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/gvisor-tap-vsock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A new network stack based on gVisor",
+  "homepage": [
+    "https://github.com/containers/gvisor-tap-vsock"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gvproxy",
+    "qemu-wrapper",
+    "ssh-over-vsock",
+    "test-companion",
+    "vm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/gvisor-tap-vsock/archive/d9929290469f991f65d9bb832d43e23f8b72ec85.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d992929-250610T125302",
+  "version_upstream": "",
+  "bsum": "a7afae1e4d7e291120279f0b7cf2012ba99d5e3a4c66a7143a2b95aea2c05cf4",
+  "build_date": "2025-06-19T19:52:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764540981",
+  "build_id": "15764540981",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/test-companion?tag=HEAD-d992929-250610T125302-aarch64-Linux&download=test-companion.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "306",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/test-companion?tag=HEAD-d992929-250610T125302-aarch64-Linux&download=test-companion",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/test-companion:HEAD-d992929-250610T125302-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/test-companion",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/test-companion?tag=HEAD-d992929-250610T125302-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "865f7677ce5c2d24dbd8ef6c828133946333493e2123c78dfc8898df0954e1a4",
+  "size": "6.5 MB",
+  "size_raw": "6729856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
