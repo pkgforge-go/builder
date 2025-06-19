@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gazelle",
+  "pkg_family": "bazel-gazelle",
+  "pkg_id": "gazelle#github.com_bazel_contrib_bazel_gazelle",
+  "pkg_name": "gazelle",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bazel-contrib/bazel-gazelle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.",
+  "homepage": [
+    "https://github.com/bazel-contrib/bazel-gazelle"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autogazelle",
+    "fetch_repo",
+    "gazelle",
+    "gen",
+    "gen_std_package_list",
+    "generate_repo_config",
+    "move_labels",
+    "override-generator",
+    "platform_info_generator",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bazel-contrib/bazel-gazelle/archive/81cbfeaea15e0add7f291858f6e0292ed773e5c2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-81cbfea-250618T191406",
+  "version_upstream": "",
+  "bsum": "61197761489a448036bedf9b9cb92cfed6a87406529e51a65580b8b44d8f9beb",
+  "build_date": "2025-06-19T13:50:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758422067",
+  "build_id": "15758422067",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazel-contrib/bazel-gazelle/gazelle?tag=HEAD-81cbfea-250618T191406-aarch64-Linux&download=gazelle.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazel-contrib/bazel-gazelle/gazelle?tag=HEAD-81cbfea-250618T191406-aarch64-Linux&download=gazelle",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bazel-contrib/bazel-gazelle/gazelle:HEAD-81cbfea-250618T191406-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bazel-contrib/bazel-gazelle/gazelle",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazel-contrib/bazel-gazelle/gazelle?tag=HEAD-81cbfea-250618T191406-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c6463b2ffb40aeca2ff19112b4502c0a566ed9d25d77c481602a51bc51e1c72",
+  "size": "8.3 MB",
+  "size_raw": "8656256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
