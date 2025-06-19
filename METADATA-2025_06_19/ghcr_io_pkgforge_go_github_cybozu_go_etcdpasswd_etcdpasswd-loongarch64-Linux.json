@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "etcdpasswd",
+  "pkg_family": "etcdpasswd",
+  "pkg_id": "etcdpasswd#github.com_cybozu_go_etcdpasswd",
+  "pkg_name": "etcdpasswd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/etcdpasswd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed Linux user management using etcd",
+  "homepage": [
+    "https://github.com/cybozu-go/etcdpasswd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ep-agent",
+    "etcdpasswd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/etcdpasswd/archive/b08deed0f13736f4df76b05989c5828482cbc54c.tar.gz"
+  ],
+  "tag": [
+    "etcd",
+    "passwd",
+    "ssh",
+    "user-management"
+  ],
+  "version": "HEAD-b08deed-250328T154246",
+  "version_upstream": "v1.4.10",
+  "bsum": "c834b1323c12df60511be3da79aeeb3f495828001c91585287cf0c8c46544a8b",
+  "build_date": "2025-06-19T20:36:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765452284",
+  "build_id": "15765452284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/etcdpasswd/etcdpasswd?tag=HEAD-b08deed-250328T154246-loongarch64-Linux&download=etcdpasswd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/etcdpasswd/etcdpasswd?tag=HEAD-b08deed-250328T154246-loongarch64-Linux&download=etcdpasswd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/etcdpasswd/etcdpasswd:HEAD-b08deed-250328T154246-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/etcdpasswd/etcdpasswd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/etcdpasswd/etcdpasswd?tag=HEAD-b08deed-250328T154246-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b31fae42655ab968d83631d329dd63c044f15216fd0a62982b59318b26306cf4",
+  "size": "17 MB",
+  "size_raw": "17804864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
