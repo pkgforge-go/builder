@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "apply-crds",
+  "pkg_family": "network-operator",
+  "pkg_id": "apply-crds#github.com_Mellanox_network_operator",
+  "pkg_name": "apply-crds",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mellanox/network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NVIDIA Network Operator",
+  "homepage": [
+    "https://github.com/Mellanox/network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-crds",
+    "hack",
+    "keep-ncp",
+    "network-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mellanox/network-operator/archive/9974270ec3c2bfe8bc4424f934436f7528e8c88b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9974270-250619T162908",
+  "version_upstream": "",
+  "bsum": "f1205804fe67b395d83554d2ae8ef402c1ca01e60b81b95e320e2da7ed418f4d",
+  "build_date": "2025-06-19T16:00:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761439355",
+  "build_id": "15761439355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/network-operator/apply-crds?tag=HEAD-9974270-250619T162908-riscv64-Linux&download=apply-crds.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "257",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/network-operator/apply-crds?tag=HEAD-9974270-250619T162908-riscv64-Linux&download=apply-crds",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mellanox/network-operator/apply-crds:HEAD-9974270-250619T162908-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mellanox/network-operator/apply-crds",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/network-operator/apply-crds?tag=HEAD-9974270-250619T162908-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e21a5ddc2094ee19dd04fced931c667695bce14f1dc10e43902c190521e39248",
+  "size": "37 MB",
+  "size_raw": "38061336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
