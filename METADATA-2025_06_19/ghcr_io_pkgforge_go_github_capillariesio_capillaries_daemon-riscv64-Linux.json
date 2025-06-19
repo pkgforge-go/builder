@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "daemon",
+  "pkg_family": "capillaries",
+  "pkg_id": "daemon#github.com_capillariesio_capillaries",
+  "pkg_name": "daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/capillariesio/capillaries",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed batch data processing framework",
+  "homepage": [
+    "https://github.com/capillariesio/capillaries"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigtest_cloud",
+    "daemon",
+    "fannie_mae",
+    "lookup",
+    "parquet",
+    "py_calc",
+    "toolbelt",
+    "webapi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/capillariesio/capillaries/archive/6d5c2c1dd74243617e115d55384c282f1c73b32b.tar.gz"
+  ],
+  "tag": [
+    "batch-processing",
+    "cassandra",
+    "dag",
+    "distributed-computing",
+    "distributed-systems",
+    "go",
+    "golang",
+    "rabbitmq",
+    "relational-algebra",
+    "workflow-engine",
+    "workflows"
+  ],
+  "version": "HEAD-6d5c2c1-250611T183501",
+  "version_upstream": "",
+  "bsum": "1e1017e248006083e1fe1fb6718726b5df9be9c72e035e8eef8868876421da6b",
+  "build_date": "2025-06-19T17:37:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762605872",
+  "build_id": "15762605872",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/capillariesio/capillaries/daemon?tag=HEAD-6d5c2c1-250611T183501-riscv64-Linux&download=daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/capillariesio/capillaries/daemon?tag=HEAD-6d5c2c1-250611T183501-riscv64-Linux&download=daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/capillariesio/capillaries/daemon:HEAD-6d5c2c1-250611T183501-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/capillariesio/capillaries/daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/capillariesio/capillaries/daemon?tag=HEAD-6d5c2c1-250611T183501-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a578077615322214f0a0f838a36ccf7e2266518ea362a2e6fb19ad3234612139",
+  "size": "15 MB",
+  "size_raw": "15488728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "parquet",
+  "pkg_family": "capillaries",
+  "pkg_id": "parquet#github.com_capillariesio_capillaries",
+  "pkg_name": "parquet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/capillariesio/capillaries",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed batch data processing framework",
+  "homepage": [
+    "https://github.com/capillariesio/capillaries"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigtest_cloud",
+    "daemon",
+    "fannie_mae",
+    "lookup",
+    "parquet",
+    "py_calc",
+    "toolbelt",
+    "webapi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/capillariesio/capillaries/archive/6d5c2c1dd74243617e115d55384c282f1c73b32b.tar.gz"
+  ],
+  "tag": [
+    "batch-processing",
+    "cassandra",
+    "dag",
+    "distributed-computing",
+    "distributed-systems",
+    "go",
+    "golang",
+    "rabbitmq",
+    "relational-algebra",
+    "workflow-engine",
+    "workflows"
+  ],
+  "version": "HEAD-6d5c2c1-250611T183501",
+  "version_upstream": "",
+  "bsum": "e1694e6a7c519bf1a71196c722e5c0fd11c79b77d0bd88826bed406752525660",
+  "build_date": "2025-06-19T17:36:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762605872",
+  "build_id": "15762605872",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/capillariesio/capillaries/parquet?tag=HEAD-6d5c2c1-250611T183501-riscv64-Linux&download=parquet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/capillariesio/capillaries/parquet?tag=HEAD-6d5c2c1-250611T183501-riscv64-Linux&download=parquet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/capillariesio/capillaries/parquet:HEAD-6d5c2c1-250611T183501-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/capillariesio/capillaries/parquet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/capillariesio/capillaries/parquet?tag=HEAD-6d5c2c1-250611T183501-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bcaf5822f1773777b6ceaa2cf2d1ae1b0daddac3ab366a49e0f914a58441d6bf",
+  "size": "5.6 MB",
+  "size_raw": "5871704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
