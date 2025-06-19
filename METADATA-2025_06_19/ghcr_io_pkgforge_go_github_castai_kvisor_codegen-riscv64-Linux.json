@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "codegen",
+  "pkg_family": "kvisor",
+  "pkg_id": "codegen#github.com_castai_kvisor",
+  "pkg_name": "codegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "imagescan",
+    "linter",
+    "mock-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/25b92dfea43110d6c676327384530eaba954735d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-25b92df-250619T124341",
+  "version_upstream": "",
+  "bsum": "9c66fec61fe8ff2d68d33e1d79f83c50bea546aaf7431607c7a90409ab63a610",
+  "build_date": "2025-06-19T17:51:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762668777",
+  "build_id": "15762668777",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/codegen?tag=HEAD-25b92df-250619T124341-riscv64-Linux&download=codegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/codegen?tag=HEAD-25b92df-250619T124341-riscv64-Linux&download=codegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/codegen:HEAD-25b92df-250619T124341-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/codegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/codegen?tag=HEAD-25b92df-250619T124341-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca3600c3c17d98d0230a297cbb3e6792ad5a7f8555622f6d9481c4b216796f09",
+  "size": "2.1 MB",
+  "size_raw": "2188456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
