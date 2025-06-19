@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "evaluation",
+  "pkg_family": "clouditor",
+  "pkg_id": "evaluation#github.com_clouditor_clouditor",
+  "pkg_name": "evaluation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clouditor/clouditor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.",
+  "homepage": [
+    "https://github.com/clouditor/clouditor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assessment",
+    "cli",
+    "discovery",
+    "engine",
+    "evaluation",
+    "evidence_store",
+    "orchestrator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clouditor/clouditor/archive/2ac11f81856d29a1ef4470f131d6391daaca5345.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "bsic5",
+    "ccm",
+    "cloud",
+    "compliance",
+    "eucs",
+    "golang",
+    "security"
+  ],
+  "version": "HEAD-2ac11f8-250604T173245",
+  "version_upstream": "",
+  "bsum": "53b03a9d152514a7c0710b299d3f89a7047d55a801a3cd25bc857177bf30524b",
+  "build_date": "2025-06-19T19:21:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764331264",
+  "build_id": "15764331264",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/evaluation?tag=HEAD-2ac11f8-250604T173245-x86_64-Linux&download=evaluation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/evaluation?tag=HEAD-2ac11f8-250604T173245-x86_64-Linux&download=evaluation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clouditor/clouditor/evaluation:HEAD-2ac11f8-250604T173245-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clouditor/clouditor/evaluation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/evaluation?tag=HEAD-2ac11f8-250604T173245-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09d9c8c2e764e4bd0165f0f8ae228869df4552f401983f8578c4ba646d9f3cf9",
+  "size": "35 MB",
+  "size_raw": "35856352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
