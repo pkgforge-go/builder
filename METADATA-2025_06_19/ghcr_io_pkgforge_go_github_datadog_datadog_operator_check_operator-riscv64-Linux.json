@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check-operator",
+  "pkg_family": "datadog-operator",
+  "pkg_id": "check-operator#github.com_DataDog_datadog_operator",
+  "pkg_name": "check-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DataDog/datadog-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for Datadog Resources",
+  "homepage": [
+    "https://github.com/DataDog/datadog-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-operator",
+    "generate-docs",
+    "helpers",
+    "jsonschema",
+    "kubectl-datadog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DataDog/datadog-operator/archive/1235eec1602007c98e41bc4d208a2ea10220e78c.tar.gz"
+  ],
+  "tag": [
+    "customresourcedefinition",
+    "datadog",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-1235eec-250618T164342",
+  "version_upstream": "",
+  "bsum": "c7a8e1ffbe634eba277c42dbd6512296ecbfef6c240a8b65e6bef964ea708f29",
+  "build_date": "2025-06-19T08:53:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752718112",
+  "build_id": "15752718112",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/datadog-operator/check-operator?tag=HEAD-1235eec-250618T164342-riscv64-Linux&download=check-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "359",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/datadog-operator/check-operator?tag=HEAD-1235eec-250618T164342-riscv64-Linux&download=check-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datadog/datadog-operator/check-operator:HEAD-1235eec-250618T164342-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datadog/datadog-operator/check-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/datadog-operator/check-operator?tag=HEAD-1235eec-250618T164342-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "adadaeab2d9ff259f722da8d6c36d7e7deeb7b3c78ca1e72db1fd8d00d0f6584",
+  "size": "70 MB",
+  "size_raw": "72352952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
