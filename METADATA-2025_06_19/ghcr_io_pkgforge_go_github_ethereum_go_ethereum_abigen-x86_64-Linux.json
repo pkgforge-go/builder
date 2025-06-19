@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "abigen",
+  "pkg_family": "go-ethereum",
+  "pkg_id": "abigen#github.com_ethereum_go_ethereum",
+  "pkg_name": "abigen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/go-ethereum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of the Ethereum protocol",
+  "homepage": [
+    "https://github.com/ethereum/go-ethereum"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "blsync",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "geth",
+    "rlpdump",
+    "rlpgen",
+    "workload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum/go-ethereum/archive/09289fd154a45420ec916eb842bfb172df7e0d83.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "ethereum",
+    "geth",
+    "go",
+    "p2p"
+  ],
+  "version": "HEAD-09289fd-250619T161954",
+  "version_upstream": "",
+  "bsum": "73ee916b3291b3b5c965175603d63bee1dcab4b4a97506b4c9ce490983dfb7a3",
+  "build_date": "2025-06-19T23:20:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767175018",
+  "build_id": "15767175018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/abigen?tag=HEAD-09289fd-250619T161954-x86_64-Linux&download=abigen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/abigen?tag=HEAD-09289fd-250619T161954-x86_64-Linux&download=abigen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/go-ethereum/abigen:HEAD-09289fd-250619T161954-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/go-ethereum/abigen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/abigen?tag=HEAD-09289fd-250619T161954-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18c8a3909250896970975e42e966db452348e7020e1a0d53428e4a3b91a1781d",
+  "size": "26 MB",
+  "size_raw": "26261704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
