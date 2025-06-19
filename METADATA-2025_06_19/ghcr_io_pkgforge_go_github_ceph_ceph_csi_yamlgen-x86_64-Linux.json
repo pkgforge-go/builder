@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "yamlgen",
+  "pkg_family": "ceph-csi",
+  "pkg_id": "yamlgen#github.com_ceph_ceph_csi",
+  "pkg_name": "yamlgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ceph/ceph-csi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CSI driver for Ceph",
+  "homepage": [
+    "https://github.com/ceph/ceph-csi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "yamlgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ceph/ceph-csi/archive/69e10d628813b34f232944a04ff4f20d5b4009b5.tar.gz"
+  ],
+  "tag": [
+    "ceph",
+    "cephfs",
+    "csi",
+    "kubernetes",
+    "rbd"
+  ],
+  "version": "HEAD-69e10d6-250619T092545",
+  "version_upstream": "",
+  "bsum": "3d09a0b569d33f58f7e69997ba4f4762ab582df32ebfa09177b2af69cb257bb6",
+  "build_date": "2025-06-19T18:01:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763038984",
+  "build_id": "15763038984",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ceph/ceph-csi/yamlgen?tag=HEAD-69e10d6-250619T092545-x86_64-Linux&download=yamlgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1400",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ceph/ceph-csi/yamlgen?tag=HEAD-69e10d6-250619T092545-x86_64-Linux&download=yamlgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ceph/ceph-csi/yamlgen:HEAD-69e10d6-250619T092545-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ceph/ceph-csi/yamlgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ceph/ceph-csi/yamlgen?tag=HEAD-69e10d6-250619T092545-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e550a648358059f2d15cf33e846efb230adbbcc04dcdfc337df2ac79f51320c4",
+  "size": "17 MB",
+  "size_raw": "17583680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
