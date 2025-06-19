@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vhost-fuzzer",
+  "pkg_family": "vhost-fuzzer",
+  "pkg_id": "vhost-fuzzer#github.com_dsecuredcom_vhost_fuzzer",
+  "pkg_name": "vhost-fuzzer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dsecuredcom/vhost-fuzzer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tool to fuzz for interesting vhost.",
+  "homepage": [
+    "https://github.com/dsecuredcom/vhost-fuzzer"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vhost-fuzzer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dsecuredcom/vhost-fuzzer/archive/20b90bbacc8fa994d8c8300c53414f63dbc901fa.tar.gz"
+  ],
+  "tag": [
+    "bugbounty",
+    "it-security",
+    "pentesting"
+  ],
+  "version": "HEAD-20b90bb-250108T121051",
+  "version_upstream": "",
+  "bsum": "71815fb50fb294eb664dfe781850da7006456c528a93b4d92d08853b5ec50045",
+  "build_date": "2025-06-19T21:56:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766613268",
+  "build_id": "15766613268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsecuredcom/vhost-fuzzer/vhost-fuzzer?tag=HEAD-20b90bb-250108T121051-aarch64-Linux&download=vhost-fuzzer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsecuredcom/vhost-fuzzer/vhost-fuzzer?tag=HEAD-20b90bb-250108T121051-aarch64-Linux&download=vhost-fuzzer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dsecuredcom/vhost-fuzzer/vhost-fuzzer:HEAD-20b90bb-250108T121051-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dsecuredcom/vhost-fuzzer/vhost-fuzzer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsecuredcom/vhost-fuzzer/vhost-fuzzer?tag=HEAD-20b90bb-250108T121051-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14bc12e519ca07af1001647d550e1881d252c2ac58c7a7e55b0f36cf2df25b21",
+  "size": "5.8 MB",
+  "size_raw": "5987360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
