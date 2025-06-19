@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "maclient",
+  "pkg_family": "cfssl",
+  "pkg_id": "maclient#github.com_cloudflare_cfssl",
+  "pkg_name": "maclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/cfssl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CFSSL: Cloudflare_s PKI and TLS toolkit",
+  "homepage": [
+    "https://github.com/cloudflare/cfssl"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfssl",
+    "cfssl-bundle",
+    "cfssl-certinfo",
+    "cfssl-newkey",
+    "cfssl-scan",
+    "cfssljson",
+    "example",
+    "maclient",
+    "maserver",
+    "mkbundle",
+    "multirootca"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/cfssl/archive/ed8df49712657524e8647cb7a9576422baa2faa1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed8df49-250226T114659",
+  "version_upstream": "",
+  "bsum": "28851deb8916152a106a794adbc904a1720bfd185cde1c3693e04b21296e4eeb",
+  "build_date": "2025-06-19T19:10:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764328349",
+  "build_id": "15764328349",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/maclient?tag=HEAD-ed8df49-250226T114659-loongarch64-Linux&download=maclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9057",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/maclient?tag=HEAD-ed8df49-250226T114659-loongarch64-Linux&download=maclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/cfssl/maclient:HEAD-ed8df49-250226T114659-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/cfssl/maclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/maclient?tag=HEAD-ed8df49-250226T114659-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e0917228b88b6c003a65478bd7b8cd35326398592cc9dab021d1862bb3ed222",
+  "size": "8.6 MB",
+  "size_raw": "8940552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
