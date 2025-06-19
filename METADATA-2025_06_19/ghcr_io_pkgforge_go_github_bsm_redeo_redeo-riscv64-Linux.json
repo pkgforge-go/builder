@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "redeo",
+  "pkg_family": "redeo",
+  "pkg_id": "redeo#github.com_bsm_redeo",
+  "pkg_name": "redeo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bsm/redeo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance framework for building redis-protocol compatible TCP servers/services",
+  "homepage": [
+    "https://github.com/bsm/redeo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "redeo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bsm/redeo/archive/b5f6a461e789c12191560132f811d359db5d2849.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "low-latency",
+    "redis",
+    "rpc",
+    "service"
+  ],
+  "version": "HEAD-b5f6a46-230120T163403",
+  "version_upstream": "",
+  "bsum": "97cc4b8a64c70611f29953ae7bc5711ebf612d85ab70e8bef440aacfe441e1f8",
+  "build_date": "2025-06-19T15:00:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760278317",
+  "build_id": "15760278317",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bsm/redeo/redeo?tag=HEAD-b5f6a46-230120T163403-riscv64-Linux&download=redeo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "445",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bsm/redeo/redeo?tag=HEAD-b5f6a46-230120T163403-riscv64-Linux&download=redeo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bsm/redeo/redeo:HEAD-b5f6a46-230120T163403-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bsm/redeo/redeo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bsm/redeo/redeo?tag=HEAD-b5f6a46-230120T163403-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a45eef2f3a8fd3e9c774f983336ae2ddc3a311e710cd01281a646edebcf5abc",
+  "size": "2.6 MB",
+  "size_raw": "2638680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
