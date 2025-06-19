@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ctl",
+  "pkg_family": "argocd-agent",
+  "pkg_id": "ctl#github.com_argoproj_labs_argocd_agent",
+  "pkg_name": "ctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj-labs/argocd-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Redefining the multi cluster story of Argo CD",
+  "homepage": [
+    "https://github.com/argoproj-labs/argocd-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "ctl",
+    "principal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj-labs/argocd-agent/archive/74315f3fba002da4fc4c39853ff49e71bc64c86a.tar.gz"
+  ],
+  "tag": [
+    "agent-based",
+    "argo-cd",
+    "argocd",
+    "distributed",
+    "gitops",
+    "multi-cluster"
+  ],
+  "version": "HEAD-74315f3-250619T091046",
+  "version_upstream": "",
+  "bsum": "3e5a7d93964ae2f4e104839690c9f6a4e96413957b2a4a8434f64c5f1cd71a53",
+  "build_date": "2025-06-19T16:54:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761839945",
+  "build_id": "15761839945",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj-labs/argocd-agent/ctl?tag=HEAD-74315f3-250619T091046-loongarch64-Linux&download=ctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "231",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj-labs/argocd-agent/ctl?tag=HEAD-74315f3-250619T091046-loongarch64-Linux&download=ctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj-labs/argocd-agent/ctl:HEAD-74315f3-250619T091046-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj-labs/argocd-agent/ctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj-labs/argocd-agent/ctl?tag=HEAD-74315f3-250619T091046-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "291233e3e1c1851304a17514d7b4aff6fab21a4c416a0dd6134b18671a6c6786",
+  "size": "89 MB",
+  "size_raw": "92718672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
