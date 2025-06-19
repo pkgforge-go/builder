@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "builder",
+  "pkg_family": "claudie",
+  "pkg_id": "builder#github.com_berops_claudie",
+  "pkg_name": "builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/berops/claudie",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud-agnostic managed Kubernetes",
+  "homepage": [
+    "https://github.com/berops/claudie"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-server",
+    "autoscaler-adapter",
+    "builder",
+    "claudie-operator",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/berops/claudie/archive/987d7b878e04941fe01306c33fd59a5b4f67dad6.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "cloud-native",
+    "cloudflare",
+    "devops",
+    "gcp",
+    "hetzner",
+    "hybrid-cloud",
+    "hybridcloud",
+    "inter-cloud",
+    "intercloud",
+    "k8s",
+    "kubernetes",
+    "kubernetes-cluster",
+    "managed-kubernetes",
+    "multi-cloud",
+    "multicloud",
+    "oci",
+    "paas"
+  ],
+  "version": "HEAD-987d7b8-250619T130201",
+  "version_upstream": "",
+  "bsum": "b6a490b38e930e8ab294027bd70882cc1d758cf312ee371478217f86473bcb1b",
+  "build_date": "2025-06-19T17:12:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762399106",
+  "build_id": "15762399106",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/berops/claudie/builder?tag=HEAD-987d7b8-250619T130201-aarch64-Linux&download=builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "714",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/berops/claudie/builder?tag=HEAD-987d7b8-250619T130201-aarch64-Linux&download=builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/berops/claudie/builder:HEAD-987d7b8-250619T130201-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/berops/claudie/builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/berops/claudie/builder?tag=HEAD-987d7b8-250619T130201-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef178e4f0d7cc746d7c30ae2b76caebc2f8ee28f22a963ed10d5c611aa84263e",
+  "size": "14 MB",
+  "size_raw": "14267072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
