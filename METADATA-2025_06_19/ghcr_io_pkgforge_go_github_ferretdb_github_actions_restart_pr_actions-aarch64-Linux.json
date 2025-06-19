@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "restart-pr-actions",
+  "pkg_family": "github-actions",
+  "pkg_id": "restart-pr-actions#github.com_FerretDB_github_actions",
+  "pkg_name": "restart-pr-actions",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FerretDB/github-actions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shared GitHub Actions for FerretDB repos",
+  "homepage": [
+    "https://github.com/FerretDB/github-actions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conform-pr",
+    "detect-matching-pr",
+    "extract-docker-tag",
+    "extract-first-url",
+    "restart-pr-actions",
+    "setup-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FerretDB/github-actions/archive/849a31958e0d33864161bef4b459d71ec5b695f7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-849a319-250619T130103",
+  "version_upstream": "",
+  "bsum": "e84fb3aa1d701ff6526a83ad026cea1be0ec1108a9998ec9fa58df7241571237",
+  "build_date": "2025-06-19T15:43:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761415182",
+  "build_id": "15761415182",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/restart-pr-actions?tag=HEAD-849a319-250619T130103-aarch64-Linux&download=restart-pr-actions.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/restart-pr-actions?tag=HEAD-849a319-250619T130103-aarch64-Linux&download=restart-pr-actions",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ferretdb/github-actions/restart-pr-actions:HEAD-849a319-250619T130103-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ferretdb/github-actions/restart-pr-actions",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/restart-pr-actions?tag=HEAD-849a319-250619T130103-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7df16da298a4e0bd3963391dac4f62ba5e2dd8ad380398b191ccf8956d444fe1",
+  "size": "6.9 MB",
+  "size_raw": "7172352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
