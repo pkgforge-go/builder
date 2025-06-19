@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dkron-executor-nats",
+  "pkg_family": "dkron",
+  "pkg_id": "dkron-executor-nats#github.com_distribworks_dkron",
+  "pkg_name": "dkron-executor-nats",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/distribworks/dkron",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dkron - Distributed, fault tolerant job scheduling system https://dkron.io",
+  "homepage": [
+    "https://github.com/distribworks/dkron"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dkron",
+    "dkron-executor-gcppubsub",
+    "dkron-executor-grpc",
+    "dkron-executor-kafka",
+    "dkron-executor-nats",
+    "dkron-executor-rabbitmq",
+    "dkron-processor-files",
+    "dkron-processor-fluent",
+    "dkron-processor-log",
+    "dkron-processor-syslog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/distribworks/dkron/archive/ab27ed970af620d12f418ef888d5e7c5dc0323d7.tar.gz"
+  ],
+  "tag": [
+    "cron",
+    "distributed-systems",
+    "fault-tolerance",
+    "scheduled-jobs"
+  ],
+  "version": "HEAD-ab27ed9-250611T213108",
+  "version_upstream": "",
+  "bsum": "cd17061b844b2f34c84289fccbd3894bda2283e2cc716696956ad3441121b0e6",
+  "build_date": "2025-06-19T21:41:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766582377",
+  "build_id": "15766582377",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distribworks/dkron/dkron-executor-nats?tag=HEAD-ab27ed9-250611T213108-aarch64-Linux&download=dkron-executor-nats.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4492",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distribworks/dkron/dkron-executor-nats?tag=HEAD-ab27ed9-250611T213108-aarch64-Linux&download=dkron-executor-nats",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/distribworks/dkron/dkron-executor-nats:HEAD-ab27ed9-250611T213108-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/distribworks/dkron/dkron-executor-nats",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distribworks/dkron/dkron-executor-nats?tag=HEAD-ab27ed9-250611T213108-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a48f54d3394e97cb0b6d202a70f88364b6ef837d3a90af735849ab3dd44137f",
+  "size": "16 MB",
+  "size_raw": "15749216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
