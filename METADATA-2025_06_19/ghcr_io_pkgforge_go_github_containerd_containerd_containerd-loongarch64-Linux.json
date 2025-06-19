@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "containerd",
+  "pkg_family": "containerd",
+  "pkg_id": "containerd#github.com_containerd_containerd",
+  "pkg_name": "containerd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/containerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open and reliable container runtime",
+  "homepage": [
+    "https://github.com/containerd/containerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkpoint",
+    "cmd",
+    "cni-bridge-fp",
+    "containerd",
+    "containerd-shim-runc-fp-v1",
+    "containerd-shim-runc-v2",
+    "containerd-stress",
+    "ctr",
+    "gen-manpages",
+    "go-buildtag",
+    "loopback-v2",
+    "protoc-gen-go-fieldpath",
+    "runc-fp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/containerd/archive/7d394c9e2cec0ef272beec36410f8d0d65f0b6ec.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "containerd",
+    "containers",
+    "cri",
+    "docker",
+    "hacktoberfest",
+    "kubernetes",
+    "oci"
+  ],
+  "version": "HEAD-7d394c9-250619T220346",
+  "version_upstream": "",
+  "bsum": "91f59aaebf4433463081f86edbe9d21f6af570e738ec6166957e57a941d5e6ea",
+  "build_date": "2025-06-19T19:48:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764498984",
+  "build_id": "15764498984",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd?tag=HEAD-7d394c9-250619T220346-loongarch64-Linux&download=containerd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18781",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd?tag=HEAD-7d394c9-250619T220346-loongarch64-Linux&download=containerd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/containerd/containerd:HEAD-7d394c9-250619T220346-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/containerd/containerd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd?tag=HEAD-7d394c9-250619T220346-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "efb94662c330ac56987154a82ee698fc20f1576075f223c0f996e95c3bf48b02",
+  "size": "42 MB",
+  "size_raw": "43112144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
