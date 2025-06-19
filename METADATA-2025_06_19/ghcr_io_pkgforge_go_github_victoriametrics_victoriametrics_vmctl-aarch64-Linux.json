@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vmctl",
+  "pkg_family": "VictoriaMetrics",
+  "pkg_id": "vmctl#github.com_VictoriaMetrics_VictoriaMetrics",
+  "pkg_name": "vmctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+  "homepage": [
+    "https://github.com/VictoriaMetrics/VictoriaMetrics"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "victoria-logs",
+    "victoria-metrics",
+    "vlogscli",
+    "vlogsgenerator",
+    "vmagent",
+    "vmalert",
+    "vmalert-tool",
+    "vmauth",
+    "vmbackup",
+    "vmctl",
+    "vmrestore"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VictoriaMetrics/VictoriaMetrics/archive/27f1c1ab131255ab2f9c23421e93abec343d31db.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "database",
+    "grafana",
+    "graphite",
+    "influxdb",
+    "k8s",
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "opentsdb",
+    "prometheus",
+    "promql",
+    "scalability",
+    "thanos",
+    "tsdb"
+  ],
+  "version": "HEAD-27f1c1a-250619T011045",
+  "version_upstream": "",
+  "bsum": "2f07436f761f3ca842b3eb477030cdeb476def7c1f9d475226819d0b4831d9c8",
+  "build_date": "2025-06-19T11:39:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756430226",
+  "build_id": "15756430226",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-27f1c1a-250619T011045-aarch64-Linux&download=vmctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14325",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-27f1c1a-250619T011045-aarch64-Linux&download=vmctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/victoriametrics/victoriametrics/vmctl:HEAD-27f1c1a-250619T011045-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/victoriametrics/victoriametrics/vmctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-27f1c1a-250619T011045-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "522a0ca5248c6681552981373a0b8fb23ae3c6ef25db19497b5ce1e292d59799",
+  "size": "25 MB",
+  "size_raw": "25169488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
