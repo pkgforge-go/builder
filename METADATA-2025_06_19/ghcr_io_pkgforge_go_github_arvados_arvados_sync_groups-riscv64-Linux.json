@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sync-groups",
+  "pkg_family": "arvados",
+  "pkg_id": "sync-groups#github.com_arvados_arvados",
+  "pkg_name": "sync-groups",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arvados/arvados",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source platform for managing and analyzing biomedical big data",
+  "homepage": [
+    "https://github.com/arvados/arvados"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arvados-package",
+    "crunch-dispatch-local",
+    "keep-block-check",
+    "keep-exercise",
+    "keep-rsync",
+    "sync-groups",
+    "sync-users"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arvados/arvados/archive/1ad54b427aad150d09fa460be877c1eb54eb73a2.tar.gz"
+  ],
+  "tag": [
+    "arvados",
+    "aws",
+    "azure",
+    "bigdata",
+    "bioinformatics",
+    "cloud",
+    "cluster",
+    "cwl",
+    "docker",
+    "gcp",
+    "genomics",
+    "go",
+    "python",
+    "ruby",
+    "workflow",
+    "workflow-engine"
+  ],
+  "version": "HEAD-1ad54b4-250618T124354",
+  "version_upstream": "",
+  "bsum": "e93e751ecf39d2bcfc52b61c68f662953ae0f80f29952df5f2225ae1a33b541f",
+  "build_date": "2025-06-19T12:56:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758233609",
+  "build_id": "15758233609",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/sync-groups?tag=HEAD-1ad54b4-250618T124354-riscv64-Linux&download=sync-groups.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "404",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/sync-groups?tag=HEAD-1ad54b4-250618T124354-riscv64-Linux&download=sync-groups",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/sync-groups:HEAD-1ad54b4-250618T124354-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/sync-groups",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/sync-groups?tag=HEAD-1ad54b4-250618T124354-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3e34332ecd4d7c00fb3ec11a6c5d09927af8b365f15e4680c1843179d713f56",
+  "size": "8.8 MB",
+  "size_raw": "9183160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
