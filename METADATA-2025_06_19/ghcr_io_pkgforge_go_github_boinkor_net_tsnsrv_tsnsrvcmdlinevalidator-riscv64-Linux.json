@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tsnsrvcmdlinevalidator",
+  "pkg_family": "tsnsrv",
+  "pkg_id": "tsnsrvcmdlinevalidator#github.com_boinkor_net_tsnsrv",
+  "pkg_name": "tsnsrvcmdlinevalidator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/boinkor-net/tsnsrv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A reverse proxy that exposes services on your tailnet _as their own tailscale participants_",
+  "homepage": [
+    "https://github.com/boinkor-net/tsnsrv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tsnsrv",
+    "tsnsrvcmdlinevalidator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/boinkor-net/tsnsrv/archive/e2537464e45db0f173e8e68d0316b40c13e1e49c.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "http",
+    "reverse-proxy",
+    "tailscale"
+  ],
+  "version": "HEAD-e253746-250605T192711",
+  "version_upstream": "",
+  "bsum": "ee0705e04ec93c8e8deb2a2476e887ce90c9b9d02d00df609b8bc8140183f805",
+  "build_date": "2025-06-19T14:39:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759585403",
+  "build_id": "15759585403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrvcmdlinevalidator?tag=HEAD-e253746-250605T192711-riscv64-Linux&download=tsnsrvcmdlinevalidator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "220",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrvcmdlinevalidator?tag=HEAD-e253746-250605T192711-riscv64-Linux&download=tsnsrvcmdlinevalidator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrvcmdlinevalidator:HEAD-e253746-250605T192711-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrvcmdlinevalidator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boinkor-net/tsnsrv/tsnsrvcmdlinevalidator?tag=HEAD-e253746-250605T192711-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "749e82d912bc0d9923c2168143e06311b019eba47e2f10ef47fb295d0730d6ae",
+  "size": "23 MB",
+  "size_raw": "23108632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
