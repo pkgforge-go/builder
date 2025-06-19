@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "opr-paas",
+  "pkg_id": "manager#github.com_belastingdienst_opr_paas",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/belastingdienst/opr-paas",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operator providing a multi tenancy solution which allows DevOps teams to request a context for their project, which we like to call a _Project as a service_, e.a. Paas.",
+  "homepage": [
+    "https://github.com/belastingdienst/opr-paas"
+  ],
+  "license": [
+    "EUPL-1.2"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "webservice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/belastingdienst/opr-paas/archive/69f89cdb404551eaa41287041658e4e81e949506.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "kubernetes",
+    "kubernetes-operator",
+    "openshift",
+    "openshift-operator",
+    "operator",
+    "paas",
+    "project",
+    "project-as-a-service"
+  ],
+  "version": "HEAD-69f89cd-250619T103600",
+  "version_upstream": "",
+  "bsum": "ef9586f96299befd617e491ae8db943ee96afeace3a9cfd76f26070736cd3800",
+  "build_date": "2025-06-19T17:05:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762396803",
+  "build_id": "15762396803",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/belastingdienst/opr-paas/manager?tag=HEAD-69f89cd-250619T103600-loongarch64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/belastingdienst/opr-paas/manager?tag=HEAD-69f89cd-250619T103600-loongarch64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/belastingdienst/opr-paas/manager:HEAD-69f89cd-250619T103600-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/belastingdienst/opr-paas/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/belastingdienst/opr-paas/manager?tag=HEAD-69f89cd-250619T103600-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "055b5fbad352c7b33ae4a1c666a7620a276de43235ef5f5e5716173ce1a80a20",
+  "size": "45 MB",
+  "size_raw": "46960512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
