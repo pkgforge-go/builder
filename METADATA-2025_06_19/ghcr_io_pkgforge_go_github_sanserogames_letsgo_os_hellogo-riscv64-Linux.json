@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hellogo",
+  "pkg_family": "LetsGo-OS",
+  "pkg_id": "hellogo#github.com_SanseroGames_LetsGo_OS",
+  "pkg_name": "hellogo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SanseroGames/LetsGo-OS",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operating system written in Go",
+  "homepage": [
+    "https://github.com/SanseroGames/LetsGo-OS"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bomb",
+    "hellogo",
+    "readtest",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SanseroGames/LetsGo-OS/archive/9bd339212aa0421b2d7a8537dc95a1fedddd98dd.tar.gz"
+  ],
+  "tag": [
+    "experimental",
+    "go",
+    "golang",
+    "kernel",
+    "operating-system",
+    "os",
+    "osdev"
+  ],
+  "version": "HEAD-9bd3392-250222T013036",
+  "version_upstream": "",
+  "bsum": "79ffc7e43a56607a12ff35e48797844fa62dce51a96127d83e5e9bf592fc5d17",
+  "build_date": "2025-06-19T10:52:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755653591",
+  "build_id": "15755653591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/hellogo?tag=HEAD-9bd3392-250222T013036-riscv64-Linux&download=hellogo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "130",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/hellogo?tag=HEAD-9bd3392-250222T013036-riscv64-Linux&download=hellogo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sanserogames/letsgo-os/hellogo:HEAD-9bd3392-250222T013036-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sanserogames/letsgo-os/hellogo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/hellogo?tag=HEAD-9bd3392-250222T013036-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7ac67881488be2bb83104bb33838ca018bfa469664df0a65eb92e2a0cc56896",
+  "size": "1.6 MB",
+  "size_raw": "1580104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

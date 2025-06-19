@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "shell",
+  "pkg_family": "LetsGo-OS",
+  "pkg_id": "shell#github.com_SanseroGames_LetsGo_OS",
+  "pkg_name": "shell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SanseroGames/LetsGo-OS",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operating system written in Go",
+  "homepage": [
+    "https://github.com/SanseroGames/LetsGo-OS"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bomb",
+    "hellogo",
+    "readtest",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SanseroGames/LetsGo-OS/archive/9bd339212aa0421b2d7a8537dc95a1fedddd98dd.tar.gz"
+  ],
+  "tag": [
+    "experimental",
+    "go",
+    "golang",
+    "kernel",
+    "operating-system",
+    "os",
+    "osdev"
+  ],
+  "version": "HEAD-9bd3392-250222T013036",
+  "version_upstream": "",
+  "bsum": "de3ac20b9d120279ae37f30621707228f9dd937f028045567ecd09cdefe7e623",
+  "build_date": "2025-06-19T10:52:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755653591",
+  "build_id": "15755653591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/shell?tag=HEAD-9bd3392-250222T013036-riscv64-Linux&download=shell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "130",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/shell?tag=HEAD-9bd3392-250222T013036-riscv64-Linux&download=shell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sanserogames/letsgo-os/shell:HEAD-9bd3392-250222T013036-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sanserogames/letsgo-os/shell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/shell?tag=HEAD-9bd3392-250222T013036-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf008dee820464f0541c6e1b0273deca7f7327ab13e2e24ecbc83e20b8f75e42",
+  "size": "1.6 MB",
+  "size_raw": "1597160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
