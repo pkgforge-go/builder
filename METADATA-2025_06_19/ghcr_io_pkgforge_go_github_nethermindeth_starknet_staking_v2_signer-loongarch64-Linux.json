@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "signer",
+  "pkg_family": "starknet-staking-v2",
+  "pkg_id": "signer#github.com_NethermindEth_starknet_staking_v2",
+  "pkg_name": "signer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NethermindEth/starknet-staking-v2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Validator software for Starknet stakers written in Go",
+  "homepage": [
+    "https://github.com/NethermindEth/starknet-staking-v2"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "signer",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NethermindEth/starknet-staking-v2/archive/f4e72a7bc0e3426f8cfa14ddef5df65162b17745.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f4e72a7-250618T180806",
+  "version_upstream": "",
+  "bsum": "282755b59813c2b0eb327d385a466a92bb4eafcb8f997bccb3e5db83046fd9ca",
+  "build_date": "2025-06-19T10:20:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754954129",
+  "build_id": "15754954129",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/starknet-staking-v2/signer?tag=HEAD-f4e72a7-250618T180806-loongarch64-Linux&download=signer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/starknet-staking-v2/signer?tag=HEAD-f4e72a7-250618T180806-loongarch64-Linux&download=signer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nethermindeth/starknet-staking-v2/signer:HEAD-f4e72a7-250618T180806-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nethermindeth/starknet-staking-v2/signer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/starknet-staking-v2/signer?tag=HEAD-f4e72a7-250618T180806-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a04a28971bcca0446d6ab73a650fd3a8247b5db785719c170e52c1888abe459",
+  "size": "15 MB",
+  "size_raw": "15400928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
