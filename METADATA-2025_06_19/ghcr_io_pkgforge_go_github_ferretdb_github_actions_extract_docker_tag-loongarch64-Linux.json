@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "extract-docker-tag",
+  "pkg_family": "github-actions",
+  "pkg_id": "extract-docker-tag#github.com_FerretDB_github_actions",
+  "pkg_name": "extract-docker-tag",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FerretDB/github-actions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shared GitHub Actions for FerretDB repos",
+  "homepage": [
+    "https://github.com/FerretDB/github-actions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conform-pr",
+    "detect-matching-pr",
+    "extract-docker-tag",
+    "extract-first-url",
+    "restart-pr-actions",
+    "setup-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FerretDB/github-actions/archive/849a31958e0d33864161bef4b459d71ec5b695f7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-849a319-250619T130103",
+  "version_upstream": "",
+  "bsum": "cbf7409c74575f0e3ee32432d89042085b1a145a9d8e19339460b4c9965d4f79",
+  "build_date": "2025-06-19T15:43:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761415182",
+  "build_id": "15761415182",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/extract-docker-tag?tag=HEAD-849a319-250619T130103-loongarch64-Linux&download=extract-docker-tag.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/extract-docker-tag?tag=HEAD-849a319-250619T130103-loongarch64-Linux&download=extract-docker-tag",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ferretdb/github-actions/extract-docker-tag:HEAD-849a319-250619T130103-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ferretdb/github-actions/extract-docker-tag",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/extract-docker-tag?tag=HEAD-849a319-250619T130103-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "43a6c625f46e29e3f86d179c893d84a7bbcf5beeaa46fd9f344e640c14c50211",
+  "size": "4.4 MB",
+  "size_raw": "4524128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
