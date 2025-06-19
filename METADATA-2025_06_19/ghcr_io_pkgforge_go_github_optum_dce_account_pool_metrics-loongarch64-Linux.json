@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "account_pool_metrics",
+  "pkg_family": "dce",
+  "pkg_id": "account_pool_metrics#github.com_Optum_dce",
+  "pkg_name": "account_pool_metrics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Optum/dce",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Disposable Cloud Environment",
+  "homepage": [
+    "https://github.com/Optum/dce"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "account_pool_metrics",
+    "accounts",
+    "awsnukedocgen",
+    "credentials_web_page",
+    "fan_out_update_lease_status",
+    "lease_auth",
+    "leases",
+    "populate_reset_queue",
+    "process_reset_queue",
+    "reset",
+    "update_lease_status",
+    "update_principal_policy",
+    "usage",
+    "v0.10.0_db_rename_assignment_to_lease",
+    "v0.11.0_db_add_leasestatusmodifiedon_field",
+    "v0.19.0_db_expiring_leases",
+    "v0.19.2_fix_expired_leases",
+    "v0.21.0_rename_db_tables_dce",
+    "v0.30.1_db_update_accountstatus_field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Optum/dce/archive/b333f9e4ce8f0d010ac205b277941cdfa342d7ea.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "budget",
+    "cloud",
+    "enterprise",
+    "sandbox-development",
+    "sandbox-environment",
+    "sandbox-playground",
+    "serverless",
+    "terraform"
+  ],
+  "version": "HEAD-b333f9e-250506T205336",
+  "version_upstream": "",
+  "bsum": "5a9fd6285a3c6e4fd0635fb301be9b0b883855a792fe6906b8d633ec21072d74",
+  "build_date": "2025-06-19T10:40:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754991308",
+  "build_id": "15754991308",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/account_pool_metrics?tag=HEAD-b333f9e-250506T205336-loongarch64-Linux&download=account_pool_metrics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "340",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/account_pool_metrics?tag=HEAD-b333f9e-250506T205336-loongarch64-Linux&download=account_pool_metrics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/optum/dce/account_pool_metrics:HEAD-b333f9e-250506T205336-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/optum/dce/account_pool_metrics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/account_pool_metrics?tag=HEAD-b333f9e-250506T205336-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "418c3a159bd3d7ae4be41330aadb3d416c8e0b253d909d7973f648813a254d9b",
+  "size": "26 MB",
+  "size_raw": "26488928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
