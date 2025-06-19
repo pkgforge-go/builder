@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "test_on_demand",
+  "pkg_family": "mediamtx",
+  "pkg_id": "test_on_demand#github.com_bluenviron_mediamtx",
+  "pkg_name": "test_on_demand",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bluenviron/mediamtx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+  "homepage": [
+    "https://github.com/bluenviron/mediamtx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hlsjsdownloader",
+    "mediamtx",
+    "mtxrpicamdownloader",
+    "test_on_demand",
+    "versiongetter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bluenviron/mediamtx/archive/22413167855308ad8a372edcddab5fe4f8ea9010.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "hls",
+    "media-server",
+    "obs-studio",
+    "rtcp",
+    "rtmp",
+    "rtmp-proxy",
+    "rtmp-server",
+    "rtp",
+    "rtsp",
+    "rtsp-proxy",
+    "rtsp-relay",
+    "rtsp-server",
+    "srt",
+    "streaming",
+    "webrtc",
+    "webrtc-proxy"
+  ],
+  "version": "HEAD-2241316-250617T232504",
+  "version_upstream": "",
+  "bsum": "997d55d154ad5a96ca3392bbcc78f21ccf14f18e51bf61e4591003248b4694c4",
+  "build_date": "2025-06-19T14:29:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759461941",
+  "build_id": "15759461941",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/mediamtx/test_on_demand?tag=HEAD-2241316-250617T232504-aarch64-Linux&download=test_on_demand.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14787",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/mediamtx/test_on_demand?tag=HEAD-2241316-250617T232504-aarch64-Linux&download=test_on_demand",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bluenviron/mediamtx/test_on_demand:HEAD-2241316-250617T232504-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bluenviron/mediamtx/test_on_demand",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/mediamtx/test_on_demand?tag=HEAD-2241316-250617T232504-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16a95665bff0b2ec58d8a898215f0603bf37e28d055f2942e1fc7a934a1bc433",
+  "size": "5.8 MB",
+  "size_raw": "6007872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
