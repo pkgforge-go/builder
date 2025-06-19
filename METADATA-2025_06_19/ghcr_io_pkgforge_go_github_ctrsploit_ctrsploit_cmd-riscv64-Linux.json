@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "ctrsploit",
+  "pkg_id": "cmd#github.com_ctrsploit_ctrsploit",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ctrsploit/ctrsploit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A penetration toolkit for container environment",
+  "homepage": [
+    "https://github.com/ctrsploit/ctrsploit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checksec",
+    "cmd",
+    "ctrsploit",
+    "env",
+    "reverse_shell_image"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ctrsploit/ctrsploit/archive/213186bd6f71529ab93f7ba382e5c66d7d1e5989.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "docker",
+    "penetration-testing-tools"
+  ],
+  "version": "HEAD-213186b-250617T110956",
+  "version_upstream": "",
+  "bsum": "689e63331ab1575981694e9c20bf156dcd5a161e2a9dfe7f1f54155c0abe2484",
+  "build_date": "2025-06-19T20:31:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765394732",
+  "build_id": "15765394732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/cmd?tag=HEAD-213186b-250617T110956-riscv64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/cmd?tag=HEAD-213186b-250617T110956-riscv64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/cmd:HEAD-213186b-250617T110956-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/cmd?tag=HEAD-213186b-250617T110956-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76ace89698a56a38f34b06deb1fc9243ea0d45f7815116c20c5d42ce593d25c1",
+  "size": "5.6 MB",
+  "size_raw": "5823288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
