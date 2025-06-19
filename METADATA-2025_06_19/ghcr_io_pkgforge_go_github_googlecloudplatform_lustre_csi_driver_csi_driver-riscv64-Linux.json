@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "csi_driver",
+  "pkg_family": "lustre-csi-driver",
+  "pkg_id": "csi_driver#github.com_GoogleCloudPlatform_lustre_csi_driver",
+  "pkg_name": "csi_driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/lustre-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/lustre-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi_driver",
+    "k8s-integration"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/lustre-csi-driver/archive/4920c7b9e1deebc46df1a68373bb6e462f5aaa59.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4920c7b-250618T102656",
+  "version_upstream": "",
+  "bsum": "c65aebaf429c11c742303621b8d30e1942db0df5727807da66175d2ec0879d73",
+  "build_date": "2025-06-19T09:38:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753746314",
+  "build_id": "15753746314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/lustre-csi-driver/csi_driver?tag=HEAD-4920c7b-250618T102656-riscv64-Linux&download=csi_driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/lustre-csi-driver/csi_driver?tag=HEAD-4920c7b-250618T102656-riscv64-Linux&download=csi_driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/lustre-csi-driver/csi_driver:HEAD-4920c7b-250618T102656-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/lustre-csi-driver/csi_driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/lustre-csi-driver/csi_driver?tag=HEAD-4920c7b-250618T102656-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5cfd3530445c90204ecfbc7bcdcf70b9b683194a59463f4089cf1b4327fdd128",
+  "size": "19 MB",
+  "size_raw": "19004504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
