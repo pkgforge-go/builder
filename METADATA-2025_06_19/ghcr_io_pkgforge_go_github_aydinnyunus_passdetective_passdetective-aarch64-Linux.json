@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "passdetective",
+  "pkg_family": "PassDetective",
+  "pkg_id": "passdetective#github.com_aydinnyunus_PassDetective",
+  "pkg_name": "passdetective",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aydinnyunus/PassDetective",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history.",
+  "homepage": [
+    "https://github.com/aydinnyunus/PassDetective"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "passdetective"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aydinnyunus/PassDetective/archive/e3aebf23c850480900b3b96dc07a84187932fdd2.tar.gz"
+  ],
+  "tag": [
+    "bash",
+    "bugbounty",
+    "bugbounty-tool",
+    "bugbountytips",
+    "golang",
+    "hacking",
+    "kali",
+    "kali-linux",
+    "kali-linux-hacking",
+    "linux",
+    "red-team",
+    "security",
+    "security-tools",
+    "shell",
+    "shell-script",
+    "zsh"
+  ],
+  "version": "HEAD-e3aebf2-240619T133939",
+  "version_upstream": "",
+  "bsum": "504f8d54e711241b7ba65117ef84049ac8d67548621d35e2cf692a198d3e7bb9",
+  "build_date": "2025-06-19T13:27:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758306885",
+  "build_id": "15758306885",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aydinnyunus/passdetective/passdetective?tag=HEAD-e3aebf2-240619T133939-aarch64-Linux&download=passdetective.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "130",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aydinnyunus/passdetective/passdetective?tag=HEAD-e3aebf2-240619T133939-aarch64-Linux&download=passdetective",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aydinnyunus/passdetective/passdetective:HEAD-e3aebf2-240619T133939-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aydinnyunus/passdetective/passdetective",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aydinnyunus/passdetective/passdetective?tag=HEAD-e3aebf2-240619T133939-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3e66dfc260985389ef87d6250dc63de3f22ec987c5103536dec8b389d5b4f50",
+  "size": "4.2 MB",
+  "size_raw": "4305848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
