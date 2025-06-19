@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "buf-digest",
+  "pkg_family": "buf",
+  "pkg_id": "buf-digest#github.com_bufbuild_buf",
+  "pkg_name": "buf-digest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/buf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The best way of working with Protocol Buffers.",
+  "homepage": [
+    "https://github.com/bufbuild/buf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandeps",
+    "buf",
+    "buf-digest",
+    "buf-legacyfederation-go-data",
+    "buf-new-commit-id",
+    "buf-plugin-duplicate-category",
+    "buf-plugin-duplicate-rule",
+    "buf-plugin-panic",
+    "buf-plugin-protovalidate-ext",
+    "buf-plugin-rpc-ext",
+    "buf-plugin-suffix",
+    "bufstyle",
+    "ddiff",
+    "git-ls-files-unstaged",
+    "license-header",
+    "protoc-gen-buf-breaking",
+    "protoc-gen-buf-lint",
+    "protoc-gen-insertion-point-receiver",
+    "protoc-gen-insertion-point-writer",
+    "protoc-gen-top-level-type-names-yaml",
+    "storage-go-data",
+    "wkt-go-data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/buf/archive/139f92eb05a027f931f4a8fba8039910a2d1b5fe.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-139f92e-250618T175024",
+  "version_upstream": "",
+  "bsum": "d83f078d7ae5e293886d8c1b13ed4766bace4e2598f54b01b53b6d070d78976c",
+  "build_date": "2025-06-19T15:07:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760294322",
+  "build_id": "15760294322",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-digest?tag=HEAD-139f92e-250618T175024-riscv64-Linux&download=buf-digest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9976",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-digest?tag=HEAD-139f92e-250618T175024-riscv64-Linux&download=buf-digest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/buf/buf-digest:HEAD-139f92e-250618T175024-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/buf/buf-digest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-digest?tag=HEAD-139f92e-250618T175024-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83ae9b682365b09389a197584b81b16c19fa397f3ff3138f85b96c7be87515fb",
+  "size": "8.4 MB",
+  "size_raw": "8708568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
