@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "v0.19.2_fix_expired_leases",
+  "pkg_family": "dce",
+  "pkg_id": "v0.19.2_fix_expired_leases#github.com_Optum_dce",
+  "pkg_name": "v0.19.2_fix_expired_leases",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Optum/dce",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Disposable Cloud Environment",
+  "homepage": [
+    "https://github.com/Optum/dce"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "account_pool_metrics",
+    "accounts",
+    "awsnukedocgen",
+    "credentials_web_page",
+    "fan_out_update_lease_status",
+    "lease_auth",
+    "leases",
+    "populate_reset_queue",
+    "process_reset_queue",
+    "reset",
+    "update_lease_status",
+    "update_principal_policy",
+    "usage",
+    "v0.10.0_db_rename_assignment_to_lease",
+    "v0.11.0_db_add_leasestatusmodifiedon_field",
+    "v0.19.0_db_expiring_leases",
+    "v0.19.2_fix_expired_leases",
+    "v0.21.0_rename_db_tables_dce",
+    "v0.30.1_db_update_accountstatus_field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Optum/dce/archive/b333f9e4ce8f0d010ac205b277941cdfa342d7ea.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "budget",
+    "cloud",
+    "enterprise",
+    "sandbox-development",
+    "sandbox-environment",
+    "sandbox-playground",
+    "serverless",
+    "terraform"
+  ],
+  "version": "HEAD-b333f9e-250506T205336",
+  "version_upstream": "",
+  "bsum": "77cb70ae841c060e7e10dd44d3b02379f2115c18a67525e81632bf85bd6701ef",
+  "build_date": "2025-06-19T10:41:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754991308",
+  "build_id": "15754991308",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/v0.19.2_fix_expired_leases?tag=HEAD-b333f9e-250506T205336-riscv64-Linux&download=v0.19.2_fix_expired_leases.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "340",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/v0.19.2_fix_expired_leases?tag=HEAD-b333f9e-250506T205336-riscv64-Linux&download=v0.19.2_fix_expired_leases",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/optum/dce/v0.19.2_fix_expired_leases:HEAD-b333f9e-250506T205336-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/optum/dce/v0.19.2_fix_expired_leases",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/v0.19.2_fix_expired_leases?tag=HEAD-b333f9e-250506T205336-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "570de8b235a1b1ddc1f819a9d0b56cafd0052e3bcff4b1648b15aaa798199c88",
+  "size": "12 MB",
+  "size_raw": "11909336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
