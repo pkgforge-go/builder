@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "go-couchbase",
+  "pkg_id": "example#github.com_couchbase_go_couchbase",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/couchbase/go-couchbase",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Couchbase client in Go",
+  "homepage": [
+    "https://github.com/couchbase/go-couchbase"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "bucketlist",
+    "cb_auth",
+    "example",
+    "failoverlog",
+    "hello",
+    "hello_getandtouch",
+    "hello_observe",
+    "hello_tap",
+    "incr",
+    "loadfile",
+    "mb-15442",
+    "observe",
+    "perf",
+    "populate",
+    "streaming",
+    "test",
+    "upr_bench",
+    "upr_feed",
+    "upr_restart",
+    "view2go",
+    "view_params"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/couchbase/go-couchbase/archive/959eaf944140a6c660990f38b1db310ddd6d8e42.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-959eaf9-220209T222054",
+  "version_upstream": "",
+  "bsum": "cfbe3bfcf8c924e0de95d3089f7877d1621b3f90dd28a759d7b32864b73efdf9",
+  "build_date": "2025-06-19T20:09:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764596371",
+  "build_id": "15764596371",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/go-couchbase/example?tag=HEAD-959eaf9-220209T222054-x86_64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "323",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/go-couchbase/example?tag=HEAD-959eaf9-220209T222054-x86_64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/couchbase/go-couchbase/example:HEAD-959eaf9-220209T222054-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/couchbase/go-couchbase/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/go-couchbase/example?tag=HEAD-959eaf9-220209T222054-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "24d26404ae61d54e0aa8f842d51215e677d52b5f1ffbf30d6aef94f6afc1c885",
+  "size": "7.1 MB",
+  "size_raw": "7351264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
