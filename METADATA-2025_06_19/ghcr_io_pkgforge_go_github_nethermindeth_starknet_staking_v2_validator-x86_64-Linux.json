@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "validator",
+  "pkg_family": "starknet-staking-v2",
+  "pkg_id": "validator#github.com_NethermindEth_starknet_staking_v2",
+  "pkg_name": "validator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NethermindEth/starknet-staking-v2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Validator software for Starknet stakers written in Go",
+  "homepage": [
+    "https://github.com/NethermindEth/starknet-staking-v2"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "signer",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NethermindEth/starknet-staking-v2/archive/f4e72a7bc0e3426f8cfa14ddef5df65162b17745.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f4e72a7-250618T180806",
+  "version_upstream": "",
+  "bsum": "86452b22e68ea991ccbcd02cd8d06f6b062b0ba0a0d046118f72be9487db6382",
+  "build_date": "2025-06-19T10:21:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754954129",
+  "build_id": "15754954129",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/starknet-staking-v2/validator?tag=HEAD-f4e72a7-250618T180806-x86_64-Linux&download=validator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/starknet-staking-v2/validator?tag=HEAD-f4e72a7-250618T180806-x86_64-Linux&download=validator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nethermindeth/starknet-staking-v2/validator:HEAD-f4e72a7-250618T180806-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nethermindeth/starknet-staking-v2/validator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/starknet-staking-v2/validator?tag=HEAD-f4e72a7-250618T180806-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18ec091218cc332e4700c4565844114c1583e00f1bb1999d93ed564269449726",
+  "size": "18 MB",
+  "size_raw": "18343392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
