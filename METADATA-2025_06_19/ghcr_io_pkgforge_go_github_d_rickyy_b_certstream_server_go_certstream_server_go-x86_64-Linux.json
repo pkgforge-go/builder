@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "certstream-server-go",
+  "pkg_family": "certstream-server-go",
+  "pkg_id": "certstream-server-go#github.com_d_Rickyy_b_certstream_server_go",
+  "pkg_name": "certstream-server-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/d-Rickyy-b/certstream-server-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket connections to the clients.",
+  "homepage": [
+    "https://github.com/d-Rickyy-b/certstream-server-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certpicker",
+    "certstream-server-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/d-Rickyy-b/certstream-server-go/archive/8d71967d327b0e93a4d9c1cec9e1c68e9f41e2b3.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "certificate-transparency",
+    "certificates",
+    "certstream",
+    "go",
+    "golang",
+    "osint",
+    "phishing",
+    "reconnaissance",
+    "rfc6962",
+    "security",
+    "tls",
+    "tls-certificate",
+    "x509"
+  ],
+  "version": "HEAD-8d71967-250504T131019",
+  "version_upstream": "v1.8.1",
+  "bsum": "3595d7fd1463c4908f60cbac06fcc824051788a6c09666475259ec00d5f4097b",
+  "build_date": "2025-06-19T20:37:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765463622",
+  "build_id": "15765463622",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d-rickyy-b/certstream-server-go/certstream-server-go?tag=HEAD-8d71967-250504T131019-x86_64-Linux&download=certstream-server-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "141",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d-rickyy-b/certstream-server-go/certstream-server-go?tag=HEAD-8d71967-250504T131019-x86_64-Linux&download=certstream-server-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/d-rickyy-b/certstream-server-go/certstream-server-go:HEAD-8d71967-250504T131019-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/d-rickyy-b/certstream-server-go/certstream-server-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d-rickyy-b/certstream-server-go/certstream-server-go?tag=HEAD-8d71967-250504T131019-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1347c1ced87401d875fe96f2f3a4a070a976c2a3dd34398184ff4d209217dfb",
+  "size": "12 MB",
+  "size_raw": "11547104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
