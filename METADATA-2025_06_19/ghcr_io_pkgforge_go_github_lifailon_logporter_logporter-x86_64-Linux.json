@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "logporter",
+  "pkg_family": "logporter",
+  "pkg_id": "logporter#github.com_Lifailon_logporter",
+  "pkg_name": "logporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Lifailon/logporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple and lightweight alternative to cAdvisor for getting basic Docker container metrics as well as custom metrics _e.g. container uptime and number of logged messages_.",
+  "homepage": [
+    "https://github.com/Lifailon/logporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "logporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Lifailon/logporter/archive/8eb8627036e904cddd2b66683cfc145ce929e8e9.tar.gz"
+  ],
+  "tag": [
+    "cadvisor",
+    "container",
+    "docker",
+    "docker-container",
+    "exporter",
+    "golang",
+    "log",
+    "log-metrics",
+    "logging",
+    "logs",
+    "metrics",
+    "metrics-exporter",
+    "monitoring",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-8eb8627-250619T012958",
+  "version_upstream": "",
+  "bsum": "7811e41c2ba20bb8fa023ff8b1bbfb886cc282c445369a07e32f90c0a7b6f7ba",
+  "build_date": "2025-06-19T10:00:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754791643",
+  "build_id": "15754791643",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lifailon/logporter/logporter?tag=HEAD-8eb8627-250619T012958-x86_64-Linux&download=logporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lifailon/logporter/logporter?tag=HEAD-8eb8627-250619T012958-x86_64-Linux&download=logporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lifailon/logporter/logporter:HEAD-8eb8627-250619T012958-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lifailon/logporter/logporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lifailon/logporter/logporter?tag=HEAD-8eb8627-250619T012958-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3648b0363ac3e578e33bb07d601764ac5e57f036dbd37eee4b8ea0f80789df8",
+  "size": "8.6 MB",
+  "size_raw": "8944928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
