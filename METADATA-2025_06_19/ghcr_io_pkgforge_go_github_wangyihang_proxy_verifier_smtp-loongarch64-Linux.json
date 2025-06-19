@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "smtp",
+  "pkg_family": "Proxy-Verifier",
+  "pkg_id": "smtp#github.com_WangYihang_Proxy_Verifier",
+  "pkg_name": "smtp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/WangYihang/Proxy-Verifier",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of tools designed to efficiently and effectively locate publicly available proxy server resources.",
+  "homepage": [
+    "https://github.com/WangYihang/Proxy-Verifier"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "downloader",
+    "exporter",
+    "http",
+    "smtp",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/WangYihang/Proxy-Verifier/archive/3ea9985d912373811172e48b082cb2f49f827889.tar.gz"
+  ],
+  "tag": [
+    "http-proxy",
+    "proxy",
+    "proxy-checker",
+    "proxy-list",
+    "socks4",
+    "socks4a",
+    "socks5",
+    "transparent-http-proxy"
+  ],
+  "version": "HEAD-3ea9985-230821T171013",
+  "version_upstream": "",
+  "bsum": "ac53d9584b95ecc0c4d41d70be22d627e355a138a66d99ba70de132b5e53f05e",
+  "build_date": "2025-06-19T11:39:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756494804",
+  "build_id": "15756494804",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/proxy-verifier/smtp?tag=HEAD-3ea9985-230821T171013-loongarch64-Linux&download=smtp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/proxy-verifier/smtp?tag=HEAD-3ea9985-230821T171013-loongarch64-Linux&download=smtp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wangyihang/proxy-verifier/smtp:HEAD-3ea9985-230821T171013-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wangyihang/proxy-verifier/smtp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/proxy-verifier/smtp?tag=HEAD-3ea9985-230821T171013-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17c3c92bfa97ed8b18ec4984cbec36821312e518fa4a5f75e555a99355cfd5cc",
+  "size": "2.3 MB",
+  "size_raw": "2375736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
