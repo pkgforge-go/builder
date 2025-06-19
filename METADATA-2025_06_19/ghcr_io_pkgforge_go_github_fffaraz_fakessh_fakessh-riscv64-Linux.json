@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fakessh",
+  "pkg_family": "fakessh",
+  "pkg_id": "fakessh#github.com_fffaraz_fakessh",
+  "pkg_name": "fakessh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fffaraz/fakessh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A dockerized fake SSH server honeypot written in Go that logs login attempts.",
+  "homepage": [
+    "https://github.com/fffaraz/fakessh"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fakessh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fffaraz/fakessh/archive/0e05e3c58b8c87ef7166e6e18e2c44acabce1efc.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "fake-ssh-server",
+    "go",
+    "golang",
+    "honeypot",
+    "log",
+    "spambot-security",
+    "ssh",
+    "ssh-honeypot"
+  ],
+  "version": "HEAD-0e05e3c-240203T211543",
+  "version_upstream": "",
+  "bsum": "64c96bd7bf5ffbe2de968d18cd8ecbcc76dd4551fe17b6d0a371caabe2984583",
+  "build_date": "2025-06-19T23:39:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767333105",
+  "build_id": "15767333105",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fffaraz/fakessh/fakessh?tag=HEAD-0e05e3c-240203T211543-riscv64-Linux&download=fakessh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "357",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fffaraz/fakessh/fakessh?tag=HEAD-0e05e3c-240203T211543-riscv64-Linux&download=fakessh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fffaraz/fakessh/fakessh:HEAD-0e05e3c-240203T211543-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fffaraz/fakessh/fakessh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fffaraz/fakessh/fakessh?tag=HEAD-0e05e3c-240203T211543-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ea2ee56d3e81900fabde35f96524c866596dfd6187cb725099048315df3744d",
+  "size": "4.0 MB",
+  "size_raw": "4157752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
