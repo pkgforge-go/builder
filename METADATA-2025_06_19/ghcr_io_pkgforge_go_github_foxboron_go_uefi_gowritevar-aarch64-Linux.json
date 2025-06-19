@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gowritevar",
+  "pkg_family": "go-uefi",
+  "pkg_id": "gowritevar#github.com_Foxboron_go_uefi",
+  "pkg_name": "gowritevar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Foxboron/go-uefi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux UEFI library written in pure Go.",
+  "homepage": [
+    "https://github.com/Foxboron/go-uefi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appendmicrosoft",
+    "efianalyze",
+    "gosiglist",
+    "gosign",
+    "govarsign",
+    "goverify",
+    "gowritevar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Foxboron/go-uefi/archive/3915337a78257ad6d0837e1709d9b734a2061533.tar.gz"
+  ],
+  "tag": [
+    "secure-boot",
+    "uefi",
+    "uefi-secureboot"
+  ],
+  "version": "HEAD-3915337-250618T225220",
+  "version_upstream": "",
+  "bsum": "be942f74d5da20fcfa6d94bbbc41111b11a05962290691dd8f528f124a9a834d",
+  "build_date": "2025-06-19T09:26:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753592117",
+  "build_id": "15753592117",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gowritevar?tag=HEAD-3915337-250618T225220-aarch64-Linux&download=gowritevar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gowritevar?tag=HEAD-3915337-250618T225220-aarch64-Linux&download=gowritevar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/go-uefi/gowritevar:HEAD-3915337-250618T225220-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/go-uefi/gowritevar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gowritevar?tag=HEAD-3915337-250618T225220-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df2885e1f3c6d3b7ced615557e93368af7ac214ecec5ad9b8706fd8bc619e76d",
+  "size": "3.4 MB",
+  "size_raw": "3557504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
