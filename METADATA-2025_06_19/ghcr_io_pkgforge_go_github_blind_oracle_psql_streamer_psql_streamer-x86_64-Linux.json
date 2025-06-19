@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "psql-streamer",
+  "pkg_family": "psql-streamer",
+  "pkg_id": "psql-streamer#github.com_blind_oracle_psql_streamer",
+  "pkg_name": "psql-streamer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blind-oracle/psql-streamer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stream database events from PostgreSQL to Kafka",
+  "homepage": [
+    "https://github.com/blind-oracle/psql-streamer"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "psql-streamer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blind-oracle/psql-streamer/archive/fb8ffdb3eee983a796544fbfea07c3ac4aa5eb91.tar.gz"
+  ],
+  "tag": [
+    "events",
+    "json",
+    "kafka",
+    "logical",
+    "postgresql",
+    "replication",
+    "stream"
+  ],
+  "version": "HEAD-fb8ffdb-200310T105932",
+  "version_upstream": "",
+  "bsum": "9cac24c0e0e47bd02263fc043879e9ea95ae2c48e4df400fd56f49a84d58dae0",
+  "build_date": "2025-06-19T14:24:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759425318",
+  "build_id": "15759425318",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/psql-streamer/psql-streamer?tag=HEAD-fb8ffdb-200310T105932-x86_64-Linux&download=psql-streamer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/psql-streamer/psql-streamer?tag=HEAD-fb8ffdb-200310T105932-x86_64-Linux&download=psql-streamer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blind-oracle/psql-streamer/psql-streamer:HEAD-fb8ffdb-200310T105932-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blind-oracle/psql-streamer/psql-streamer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/psql-streamer/psql-streamer?tag=HEAD-fb8ffdb-200310T105932-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c06deddeffff70a9fc82d4f1396d2eeeca2286deba442c2a0387bc946bab8cb",
+  "size": "15 MB",
+  "size_raw": "15142496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
