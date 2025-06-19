@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sidecar_mounter",
+  "pkg_family": "gcs-fuse-csi-driver",
+  "pkg_id": "sidecar_mounter#github.com_GoogleCloudPlatform_gcs_fuse_csi_driver",
+  "pkg_name": "sidecar_mounter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Google Cloud Storage FUSE Container Storage Interface _CSI_ Plugin.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi_driver",
+    "metadata_prefetch",
+    "sidecar_mounter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver/archive/744de0269d8a3c47a8927618c8cfa31819f6aee7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-744de02-250618T190637",
+  "version_upstream": "",
+  "bsum": "370c1b5742dd34f8d87cbe95df388c493405ee21db24533615a1af085cd721cd",
+  "build_date": "2025-06-19T09:38:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753654554",
+  "build_id": "15753654554",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/sidecar_mounter?tag=HEAD-744de02-250618T190637-aarch64-Linux&download=sidecar_mounter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/sidecar_mounter?tag=HEAD-744de02-250618T190637-aarch64-Linux&download=sidecar_mounter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/sidecar_mounter:HEAD-744de02-250618T190637-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/sidecar_mounter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/sidecar_mounter?tag=HEAD-744de02-250618T190637-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d43cccdd0b4a898527009391d94161cec4d21cefbf8c5e3b1cbae1d78ef4522",
+  "size": "39 MB",
+  "size_raw": "40645152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
