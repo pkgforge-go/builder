@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "exec",
+  "pkg_family": "porter",
+  "pkg_id": "exec#github.com_getporter_porter",
+  "pkg_name": "exec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getporter/porter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
+  "homepage": [
+    "https://github.com/getporter/porter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "exec",
+    "porter",
+    "testmixin",
+    "testplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getporter/porter/archive/8a0e0b337b6abfaf2334290079e77249f5d5828c.tar.gz"
+  ],
+  "tag": [
+    "cnab",
+    "cncf",
+    "hacktoberfest",
+    "porter"
+  ],
+  "version": "HEAD-8a0e0b3-250616T194727",
+  "version_upstream": "canary",
+  "bsum": "669488be350f97aabbeb7fdb01ce3ccf1640ebf2fc45014b9d61fbcd3514465e",
+  "build_date": "2025-06-19T11:16:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755852627",
+  "build_id": "15755852627",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/exec?tag=HEAD-8a0e0b3-250616T194727-aarch64-Linux&download=exec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1316",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/exec?tag=HEAD-8a0e0b3-250616T194727-aarch64-Linux&download=exec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getporter/porter/exec:HEAD-8a0e0b3-250616T194727-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getporter/porter/exec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/exec?tag=HEAD-8a0e0b3-250616T194727-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "750bcfc447e347b96a1c29922b84e4df3087cafb4ac3be7a8b97eb88cab00a9c",
+  "size": "20 MB",
+  "size_raw": "20780000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
