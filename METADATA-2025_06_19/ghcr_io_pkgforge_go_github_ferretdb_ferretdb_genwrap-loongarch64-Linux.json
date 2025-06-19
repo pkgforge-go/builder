@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "genwrap",
+  "pkg_family": "FerretDB",
+  "pkg_id": "genwrap#github.com_FerretDB_FerretDB",
+  "pkg_name": "genwrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FerretDB/FerretDB",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly Open Source MongoDB alternative",
+  "homepage": [
+    "https://github.com/FerretDB/FerretDB"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "envtool",
+    "ferretdb",
+    "genwrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FerretDB/FerretDB/archive/d539b136410525bf2caad04e2662967e3dbec0e5.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "document",
+    "ferretdb",
+    "go",
+    "golang",
+    "mongo",
+    "mongo-db",
+    "mongodb",
+    "mongodb-database",
+    "postgres",
+    "postgresql"
+  ],
+  "version": "HEAD-d539b13-250619T122917",
+  "version_upstream": "",
+  "bsum": "65b2cdef5f099a86915b7dfee1de8688e38e9b0cce82114702727ebe92ede5e0",
+  "build_date": "2025-06-19T15:40:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761414704",
+  "build_id": "15761414704",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/ferretdb/genwrap?tag=HEAD-d539b13-250619T122917-loongarch64-Linux&download=genwrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10218",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/ferretdb/genwrap?tag=HEAD-d539b13-250619T122917-loongarch64-Linux&download=genwrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ferretdb/ferretdb/genwrap:HEAD-d539b13-250619T122917-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ferretdb/ferretdb/genwrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/ferretdb/genwrap?tag=HEAD-d539b13-250619T122917-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77ccacd4b96d032c9a683e0df885bf7ad9ba37905e33d81ed4442f05aa480708",
+  "size": "12 MB",
+  "size_raw": "12578112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
