@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ceph-csi-operator",
+  "pkg_family": "ceph-csi-operator",
+  "pkg_id": "ceph-csi-operator#github.com_ceph_ceph_csi_operator",
+  "pkg_name": "ceph-csi-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ceph/ceph-csi-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing the CephCSI plugins",
+  "homepage": [
+    "https://github.com/ceph/ceph-csi-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ceph-csi-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ceph/ceph-csi-operator/archive/9fd6f884f797a1de574c369884866e6430b88149.tar.gz"
+  ],
+  "tag": [
+    "ceph",
+    "ceph-csi",
+    "ceph-csi-operator",
+    "cephcsi",
+    "cephfs",
+    "kubernetes",
+    "kubernetes-operator",
+    "nfs",
+    "rbd"
+  ],
+  "version": "HEAD-9fd6f88-250619T102355",
+  "version_upstream": "",
+  "bsum": "37a7dbba64372d26e46b33cf25648677eafab3215ecaa167b44ec6a9e8f0119e",
+  "build_date": "2025-06-19T18:00:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763043915",
+  "build_id": "15763043915",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ceph/ceph-csi-operator/ceph-csi-operator?tag=HEAD-9fd6f88-250619T102355-aarch64-Linux&download=ceph-csi-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ceph/ceph-csi-operator/ceph-csi-operator?tag=HEAD-9fd6f88-250619T102355-aarch64-Linux&download=ceph-csi-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ceph/ceph-csi-operator/ceph-csi-operator:HEAD-9fd6f88-250619T102355-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ceph/ceph-csi-operator/ceph-csi-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ceph/ceph-csi-operator/ceph-csi-operator?tag=HEAD-9fd6f88-250619T102355-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "690ce1a9bd68def367c33e954260041012e4032ad5731ffb4d66a573f924560e",
+  "size": "53 MB",
+  "size_raw": "55454816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
