@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bcrypt",
+  "pkg_family": "cb-tumblebug",
+  "pkg_id": "bcrypt#github.com_cloud_barista_cb_tumblebug",
+  "pkg_name": "bcrypt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloud-barista/cb-tumblebug",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud-Barista Multi-Cloud Infra Management Framework",
+  "homepage": [
+    "https://github.com/cloud-barista/cb-tumblebug"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bcrypt",
+    "cb-tumblebug-src",
+    "gcp-aws",
+    "kvstore",
+    "netutil",
+    "vnet-design"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloud-barista/cb-tumblebug/archive/39cdd1adf26410b57b901480e65d063a4818ce97.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "benchmarking",
+    "cb-tumblebug",
+    "cloud",
+    "cloud-barista",
+    "cloud-computing",
+    "csp",
+    "go",
+    "hacktoberfest",
+    "iaas",
+    "kubernetes",
+    "llm",
+    "multi-cloud",
+    "multicloud",
+    "orchestration",
+    "vm"
+  ],
+  "version": "HEAD-39cdd1a-250619T224809",
+  "version_upstream": "v0.10.8",
+  "bsum": "588f0a6db6973f63177ec629d2721f8c04e6bf3f41596345e6b32126ed2c741a",
+  "build_date": "2025-06-19T18:59:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764325425",
+  "build_id": "15764325425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-barista/cb-tumblebug/bcrypt?tag=HEAD-39cdd1a-250619T224809-aarch64-Linux&download=bcrypt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "67",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-barista/cb-tumblebug/bcrypt?tag=HEAD-39cdd1a-250619T224809-aarch64-Linux&download=bcrypt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloud-barista/cb-tumblebug/bcrypt:HEAD-39cdd1a-250619T224809-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloud-barista/cb-tumblebug/bcrypt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-barista/cb-tumblebug/bcrypt?tag=HEAD-39cdd1a-250619T224809-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa3f3cab5c541059fe80f6943753562b7e3b3e05949af74e6d1a72a9b95d9a83",
+  "size": "1.9 MB",
+  "size_raw": "1897312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
