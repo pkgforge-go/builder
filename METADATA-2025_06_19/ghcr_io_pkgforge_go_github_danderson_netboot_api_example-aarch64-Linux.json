@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "api-example",
+  "pkg_family": "netboot",
+  "pkg_id": "api-example#github.com_danderson_netboot",
+  "pkg_name": "api-example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/danderson/netboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Packages and utilities for network booting",
+  "homepage": [
+    "https://github.com/danderson/netboot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-example",
+    "pixiecore",
+    "pixiecore-apache2",
+    "prune_old_versions",
+    "trigger_docker_build",
+    "trigger_quay_build"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/danderson/netboot/archive/2ed7bd30206a51bae786b02d9a5b8156fdcc8870.tar.gz"
+  ],
+  "tag": [
+    "dhcp",
+    "netboot",
+    "pcap",
+    "pixiecore",
+    "pxe",
+    "tftp"
+  ],
+  "version": "HEAD-2ed7bd3-240531T162330",
+  "version_upstream": "",
+  "bsum": "74328691650dac7122caf5e49431de2019cb9177f2c2929ed0eabcc911a752e8",
+  "build_date": "2025-06-19T20:46:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765513202",
+  "build_id": "15765513202",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danderson/netboot/api-example?tag=HEAD-2ed7bd3-240531T162330-aarch64-Linux&download=api-example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1549",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danderson/netboot/api-example?tag=HEAD-2ed7bd3-240531T162330-aarch64-Linux&download=api-example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/danderson/netboot/api-example:HEAD-2ed7bd3-240531T162330-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/danderson/netboot/api-example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danderson/netboot/api-example?tag=HEAD-2ed7bd3-240531T162330-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "464e4266d04279a9173f7382c12712550fb4a47c5a982b1e70febe94e106c2c0",
+  "size": "5.7 MB",
+  "size_raw": "5930624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
