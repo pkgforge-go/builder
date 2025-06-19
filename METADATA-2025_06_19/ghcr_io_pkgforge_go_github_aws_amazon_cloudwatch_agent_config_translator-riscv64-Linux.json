@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "config-translator",
+  "pkg_family": "amazon-cloudwatch-agent",
+  "pkg_id": "config-translator#github.com_aws_amazon_cloudwatch_agent",
+  "pkg_name": "config-translator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-cloudwatch-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.",
+  "homepage": [
+    "https://github.com/aws/amazon-cloudwatch-agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amazon-cloudwatch-agent",
+    "amazon-cloudwatch-agent-config-wizard",
+    "config-downloader",
+    "config-translator",
+    "start-amazon-cloudwatch-agent",
+    "xray-migration"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-cloudwatch-agent/archive/4b3a20009d52595a4b06aa414aa18b15dcc8ef6a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b3a200-250618T134306",
+  "version_upstream": "v1.300057.0",
+  "bsum": "796f96933881ec66756aa3fcf861420f6bdfd2e32d76a119f0e2b671a9bd531f",
+  "build_date": "2025-06-19T13:25:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758279459",
+  "build_id": "15758279459",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-translator?tag=HEAD-4b3a200-250618T134306-riscv64-Linux&download=config-translator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "481",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-translator?tag=HEAD-4b3a200-250618T134306-riscv64-Linux&download=config-translator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-translator:HEAD-4b3a200-250618T134306-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-translator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-translator?tag=HEAD-4b3a200-250618T134306-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5eaaa024a6027a57e435a29f1b535e21aca7a6e234030a3dd1533d02f3f017af",
+  "size": "170 MB",
+  "size_raw": "177934680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
