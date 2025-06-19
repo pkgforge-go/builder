@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "flow-aggregator",
+  "pkg_family": "antrea",
+  "pkg_id": "flow-aggregator#github.com_antrea_io_antrea",
+  "pkg_name": "flow-aggregator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antrea-io/antrea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes networking based on Open vSwitch",
+  "homepage": [
+    "https://github.com/antrea-io/antrea"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "antctl",
+    "antrea-agent-simulator",
+    "antrea-cni",
+    "flow-aggregator",
+    "multicluster-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antrea-io/antrea/archive/b1d086dc3444a7f5ccd75c88798863621ad4234b.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "cni",
+    "kubernetes",
+    "networking",
+    "security"
+  ],
+  "version": "HEAD-b1d086d-250618T180457",
+  "version_upstream": "",
+  "bsum": "138dcc9b8cc08b30dc6180fd3a164066a86c1decd7224c65c1e7c34923783dc2",
+  "build_date": "2025-06-19T12:04:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756596690",
+  "build_id": "15756596690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/flow-aggregator?tag=HEAD-b1d086d-250618T180457-riscv64-Linux&download=flow-aggregator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1708",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/flow-aggregator?tag=HEAD-b1d086d-250618T180457-riscv64-Linux&download=flow-aggregator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antrea-io/antrea/flow-aggregator:HEAD-b1d086d-250618T180457-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antrea-io/antrea/flow-aggregator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/flow-aggregator?tag=HEAD-b1d086d-250618T180457-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a69d696a60960303d2712235bc411ec32b23ec64cd84360b120cf0a4506f34c",
+  "size": "80 MB",
+  "size_raw": "83060536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

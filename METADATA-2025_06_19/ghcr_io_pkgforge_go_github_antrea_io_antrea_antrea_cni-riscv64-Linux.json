@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "antrea-cni",
+  "pkg_family": "antrea",
+  "pkg_id": "antrea-cni#github.com_antrea_io_antrea",
+  "pkg_name": "antrea-cni",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antrea-io/antrea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes networking based on Open vSwitch",
+  "homepage": [
+    "https://github.com/antrea-io/antrea"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "antctl",
+    "antrea-agent-simulator",
+    "antrea-cni",
+    "flow-aggregator",
+    "multicluster-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antrea-io/antrea/archive/b1d086dc3444a7f5ccd75c88798863621ad4234b.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "cni",
+    "kubernetes",
+    "networking",
+    "security"
+  ],
+  "version": "HEAD-b1d086d-250618T180457",
+  "version_upstream": "",
+  "bsum": "356230268a7a58e8b50cfb1b0ef0ca788dbd2e66836e0e3f4e2c191e78fad0cc",
+  "build_date": "2025-06-19T12:03:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756596690",
+  "build_id": "15756596690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/antrea-cni?tag=HEAD-b1d086d-250618T180457-riscv64-Linux&download=antrea-cni.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1708",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/antrea-cni?tag=HEAD-b1d086d-250618T180457-riscv64-Linux&download=antrea-cni",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antrea-io/antrea/antrea-cni:HEAD-b1d086d-250618T180457-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antrea-io/antrea/antrea-cni",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/antrea-cni?tag=HEAD-b1d086d-250618T180457-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c4ea9afb22dae2598abb3b1fe7125313496ff300478f3d7448446dfe7a0412e",
+  "size": "11 MB",
+  "size_raw": "10901144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
