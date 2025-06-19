@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "jsonschema",
+  "pkg_family": "datadog-operator",
+  "pkg_id": "jsonschema#github.com_DataDog_datadog_operator",
+  "pkg_name": "jsonschema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DataDog/datadog-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for Datadog Resources",
+  "homepage": [
+    "https://github.com/DataDog/datadog-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-operator",
+    "generate-docs",
+    "helpers",
+    "jsonschema",
+    "kubectl-datadog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DataDog/datadog-operator/archive/1235eec1602007c98e41bc4d208a2ea10220e78c.tar.gz"
+  ],
+  "tag": [
+    "customresourcedefinition",
+    "datadog",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-1235eec-250618T164342",
+  "version_upstream": "",
+  "bsum": "2b127fbf826208eb4a26064da7f2cff4541605eecef97dd48a8cfe285c5419a4",
+  "build_date": "2025-06-19T08:53:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752718112",
+  "build_id": "15752718112",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/datadog-operator/jsonschema?tag=HEAD-1235eec-250618T164342-x86_64-Linux&download=jsonschema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "359",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/datadog-operator/jsonschema?tag=HEAD-1235eec-250618T164342-x86_64-Linux&download=jsonschema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datadog/datadog-operator/jsonschema:HEAD-1235eec-250618T164342-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datadog/datadog-operator/jsonschema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/datadog-operator/jsonschema?tag=HEAD-1235eec-250618T164342-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "94e76c8fcccac59d008dbcb35d091bd7ea2afb09c3d004bc00ba0e34abf0e6d7",
+  "size": "8.4 MB",
+  "size_raw": "8747776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
