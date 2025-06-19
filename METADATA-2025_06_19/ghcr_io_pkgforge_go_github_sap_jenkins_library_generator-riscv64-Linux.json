@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "jenkins-library",
+  "pkg_id": "generator#github.com_SAP_jenkins_library",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SAP/jenkins-library",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Jenkins shared library for Continuous Delivery pipelines.",
+  "homepage": [
+    "https://github.com/SAP/jenkins-library"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "documentation",
+    "generator",
+    "jenkins-library"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SAP/jenkins-library/archive/b1c3c4bfc7e7c625bb99f1a0fe8c3cc03e596eb8.tar.gz"
+  ],
+  "tag": [
+    "ci-cd",
+    "cli",
+    "golang",
+    "jenkins",
+    "open-source"
+  ],
+  "version": "HEAD-b1c3c4b-250617T164049",
+  "version_upstream": "",
+  "bsum": "b084b10f94c1efc98db5bf7bddc46cac50e34a4fba5d2032ab36e2c788807ee1",
+  "build_date": "2025-06-19T10:52:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755559843",
+  "build_id": "15755559843",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/jenkins-library/generator?tag=HEAD-b1c3c4b-250617T164049-riscv64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "797",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/jenkins-library/generator?tag=HEAD-b1c3c4b-250617T164049-riscv64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/jenkins-library/generator:HEAD-b1c3c4b-250617T164049-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/jenkins-library/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/jenkins-library/generator?tag=HEAD-b1c3c4b-250617T164049-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49f093364d8ad0cb5e911f58b5c6e1b2d6713d2062f09de6b78041a155a59fd4",
+  "size": "13 MB",
+  "size_raw": "13141496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
