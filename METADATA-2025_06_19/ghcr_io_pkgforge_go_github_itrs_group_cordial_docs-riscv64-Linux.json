@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "docs",
+  "pkg_family": "cordial",
+  "pkg_id": "docs#github.com_ITRS_Group_cordial",
+  "pkg_name": "docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ITRS-Group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
+  "homepage": [
+    "https://github.com/ITRS-Group/cordial"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ITRS-Group/cordial/archive/1a04d47d3fa34e34b33f9bc9b1ffc2a06bf07ac1.tar.gz"
+  ],
+  "tag": [
+    "geneos",
+    "itrs"
+  ],
+  "version": "HEAD-1a04d47-250619T143237",
+  "version_upstream": "",
+  "bsum": "7b8d4f37c3cfac89210bcc03b6b8de94c3ba8f59894f54be3b60c89adf4f40c9",
+  "build_date": "2025-06-19T15:57:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761419290",
+  "build_id": "15761419290",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/docs?tag=HEAD-1a04d47-250619T143237-riscv64-Linux&download=docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/docs?tag=HEAD-1a04d47-250619T143237-riscv64-Linux&download=docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/docs:HEAD-1a04d47-250619T143237-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/docs?tag=HEAD-1a04d47-250619T143237-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db9a84e0b0bb051075bcc57be482489e6d8cc00c789c479a94fdd4b249506956",
+  "size": "22 MB",
+  "size_raw": "22171864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

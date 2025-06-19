@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "libemail",
+  "pkg_family": "cordial",
+  "pkg_id": "libemail#github.com_ITRS_Group_cordial",
+  "pkg_name": "libemail",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ITRS-Group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
+  "homepage": [
+    "https://github.com/ITRS-Group/cordial"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ITRS-Group/cordial/archive/1a04d47d3fa34e34b33f9bc9b1ffc2a06bf07ac1.tar.gz"
+  ],
+  "tag": [
+    "geneos",
+    "itrs"
+  ],
+  "version": "HEAD-1a04d47-250619T143237",
+  "version_upstream": "",
+  "bsum": "efb97fcb53d855ff112a951d54879108ea336b40c3a12f49f0c8a9dd182165d4",
+  "build_date": "2025-06-19T15:55:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761419290",
+  "build_id": "15761419290",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libemail?tag=HEAD-1a04d47-250619T143237-riscv64-Linux&download=libemail.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libemail?tag=HEAD-1a04d47-250619T143237-riscv64-Linux&download=libemail",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/libemail:HEAD-1a04d47-250619T143237-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/libemail",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libemail?tag=HEAD-1a04d47-250619T143237-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd35aa54a3ae0364d6a07f5af2f9f798680bdc979c877863e7efd021265831fc",
+  "size": "11 MB",
+  "size_raw": "10754232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
