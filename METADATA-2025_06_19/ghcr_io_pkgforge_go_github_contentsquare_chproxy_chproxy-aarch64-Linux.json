@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "chproxy",
+  "pkg_family": "chproxy",
+  "pkg_id": "chproxy#github.com_ContentSquare_chproxy",
+  "pkg_name": "chproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ContentSquare/chproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-Source ClickHouse http proxy and load balancer",
+  "homepage": [
+    "https://github.com/ContentSquare/chproxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ContentSquare/chproxy/archive/a9364c8b7923adfb1bf02d28e2298bf46eec5559.tar.gz"
+  ],
+  "tag": [
+    "clickhouse",
+    "clickhouse-proxy",
+    "load-balancer",
+    "proxy"
+  ],
+  "version": "HEAD-a9364c8-250606T111223",
+  "version_upstream": "v1.28.0",
+  "bsum": "10451eb6b88bb1be9b0c2641d077e330a3ab9760547958e555453e5e9daf3ddc",
+  "build_date": "2025-06-19T08:32:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752605098",
+  "build_id": "15752605098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/contentsquare/chproxy/chproxy?tag=HEAD-a9364c8-250606T111223-aarch64-Linux&download=chproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/contentsquare/chproxy/chproxy?tag=HEAD-a9364c8-250606T111223-aarch64-Linux&download=chproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/contentsquare/chproxy/chproxy:HEAD-a9364c8-250606T111223-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/contentsquare/chproxy/chproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/contentsquare/chproxy/chproxy?tag=HEAD-a9364c8-250606T111223-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b719a9a9955ed8198c5c24207b3a3842acd1dc608bcd03706d4bcd951c745d3b",
+  "size": "12 MB",
+  "size_raw": "12444672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
