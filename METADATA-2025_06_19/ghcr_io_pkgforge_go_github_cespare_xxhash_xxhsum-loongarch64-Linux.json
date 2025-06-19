@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "xxhsum",
+  "pkg_family": "xxhash",
+  "pkg_id": "xxhsum#github.com_cespare_xxhash",
+  "pkg_name": "xxhsum",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cespare/xxhash",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of the 64-bit xxHash algorithm _XXH64_",
+  "homepage": [
+    "https://github.com/cespare/xxhash"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "xxhsum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cespare/xxhash/archive/ab37246c889f9db16b606fda1c232d659df9271d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ab37246-240703T200136",
+  "version_upstream": "",
+  "bsum": "41de269065ee4b9e237603014c5839df2c09e227869a57367a5bb9582bef3bb0",
+  "build_date": "2025-06-19T18:01:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763131186",
+  "build_id": "15763131186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cespare/xxhash/xxhsum?tag=HEAD-ab37246-240703T200136-loongarch64-Linux&download=xxhsum.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1958",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cespare/xxhash/xxhsum?tag=HEAD-ab37246-240703T200136-loongarch64-Linux&download=xxhsum",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cespare/xxhash/xxhsum:HEAD-ab37246-240703T200136-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cespare/xxhash/xxhsum",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cespare/xxhash/xxhsum?tag=HEAD-ab37246-240703T200136-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "998ac9e76a78eef9a15dab1129326c10a64e16df385ee6f61f59ebb1bf797eec",
+  "size": "1.7 MB",
+  "size_raw": "1712920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
