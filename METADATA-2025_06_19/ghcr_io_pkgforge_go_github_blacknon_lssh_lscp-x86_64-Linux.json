@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lscp",
+  "pkg_family": "lssh",
+  "pkg_id": "lscp#github.com_blacknon_lssh",
+  "pkg_name": "lscp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blacknon/lssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.",
+  "homepage": [
+    "https://github.com/blacknon/lssh"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lscp",
+    "lsftp",
+    "lssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blacknon/lssh/archive/105ec27914937de98da76bd2c136f5e079d41f68.tar.gz"
+  ],
+  "tag": [
+    "command-line",
+    "command-line-tool",
+    "go",
+    "golang",
+    "linux",
+    "macos",
+    "scp",
+    "sftp",
+    "ssh",
+    "ssh-client",
+    "tui",
+    "windows"
+  ],
+  "version": "HEAD-105ec27-240909T232605",
+  "version_upstream": "v0.6.13",
+  "bsum": "e6680a273ae5df8b04882ff3261a177111545e4cef61b43f530e57ec128e6e32",
+  "build_date": "2025-06-19T14:19:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759375587",
+  "build_id": "15759375587",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacknon/lssh/lscp?tag=HEAD-105ec27-240909T232605-x86_64-Linux&download=lscp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "277",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacknon/lssh/lscp?tag=HEAD-105ec27-240909T232605-x86_64-Linux&download=lscp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blacknon/lssh/lscp:HEAD-105ec27-240909T232605-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blacknon/lssh/lscp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacknon/lssh/lscp?tag=HEAD-105ec27-240909T232605-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a7378847ac4d267c072417bf4472646688db9f21729be764594a91e9eec53c5",
+  "size": "9.3 MB",
+  "size_raw": "9746464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
