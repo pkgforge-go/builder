@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "dd-trace-go",
+  "pkg_id": "generator#github.com_DataDog_dd_trace_go",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DataDog/dd-trace-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Datadog Go Library including APM tracing, profiling, and security monitoring.",
+  "homepage": [
+    "https://github.com/DataDog/dd-trace-go"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "matrix"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DataDog/dd-trace-go/archive/6b439752dd563f591ea9dc4ef4d90fb2c3de85cb.tar.gz"
+  ],
+  "tag": [
+    "apm",
+    "appsec",
+    "datadog",
+    "distributed-tracing",
+    "monitoring",
+    "opentelemetry",
+    "opentracing",
+    "otel",
+    "performance",
+    "profiling",
+    "tracing"
+  ],
+  "version": "HEAD-6b43975-250619T152502",
+  "version_upstream": "",
+  "bsum": "e541354ea92c8e691d949953e741619c104a1e7550b78b2ccd33f7f954a4b7aa",
+  "build_date": "2025-06-19T15:36:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761414341",
+  "build_id": "15761414341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/dd-trace-go/generator?tag=HEAD-6b43975-250619T152502-loongarch64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "762",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/dd-trace-go/generator?tag=HEAD-6b43975-250619T152502-loongarch64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datadog/dd-trace-go/generator:HEAD-6b43975-250619T152502-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datadog/dd-trace-go/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/dd-trace-go/generator?tag=HEAD-6b43975-250619T152502-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "55900dad912becf531100aea2e32e58f8151752930e4397748a3826564c83789",
+  "size": "6.5 MB",
+  "size_raw": "6726592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
