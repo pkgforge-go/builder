@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sso-diag",
+  "pkg_family": "cordial",
+  "pkg_id": "sso-diag#github.com_ITRS_Group_cordial",
+  "pkg_name": "sso-diag",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ITRS-Group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
+  "homepage": [
+    "https://github.com/ITRS-Group/cordial"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ITRS-Group/cordial/archive/1a04d47d3fa34e34b33f9bc9b1ffc2a06bf07ac1.tar.gz"
+  ],
+  "tag": [
+    "geneos",
+    "itrs"
+  ],
+  "version": "HEAD-1a04d47-250619T143237",
+  "version_upstream": "",
+  "bsum": "f9f00dc2f322b799e2425eea774436cd2d1f4fba1deb79472167ff98ed535d36",
+  "build_date": "2025-06-19T15:55:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761419290",
+  "build_id": "15761419290",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/sso-diag?tag=HEAD-1a04d47-250619T143237-aarch64-Linux&download=sso-diag.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/sso-diag?tag=HEAD-1a04d47-250619T143237-aarch64-Linux&download=sso-diag",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/sso-diag:HEAD-1a04d47-250619T143237-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/sso-diag",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/sso-diag?tag=HEAD-1a04d47-250619T143237-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f01d3b966fda5f679b8e2729f7382095d4271e2aea4f22cc6ab5c99c571ada2b",
+  "size": "15 MB",
+  "size_raw": "14732800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

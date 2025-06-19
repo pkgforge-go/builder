@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pagerduty",
+  "pkg_family": "cordial",
+  "pkg_id": "pagerduty#github.com_ITRS_Group_cordial",
+  "pkg_name": "pagerduty",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ITRS-Group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
+  "homepage": [
+    "https://github.com/ITRS-Group/cordial"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ITRS-Group/cordial/archive/1a04d47d3fa34e34b33f9bc9b1ffc2a06bf07ac1.tar.gz"
+  ],
+  "tag": [
+    "geneos",
+    "itrs"
+  ],
+  "version": "HEAD-1a04d47-250619T143237",
+  "version_upstream": "",
+  "bsum": "44d672a4262a0f64cbda32a39704ef9f287327fc2b6496cc11e9cf5876f689ad",
+  "build_date": "2025-06-19T15:56:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761419290",
+  "build_id": "15761419290",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/pagerduty?tag=HEAD-1a04d47-250619T143237-aarch64-Linux&download=pagerduty.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/pagerduty?tag=HEAD-1a04d47-250619T143237-aarch64-Linux&download=pagerduty",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/pagerduty:HEAD-1a04d47-250619T143237-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/pagerduty",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/pagerduty?tag=HEAD-1a04d47-250619T143237-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be1c344dad76fd6e76ff46b0c12b31857f8c2e0d16cb627fcaf3629e7dc209fd",
+  "size": "17 MB",
+  "size_raw": "17678944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
