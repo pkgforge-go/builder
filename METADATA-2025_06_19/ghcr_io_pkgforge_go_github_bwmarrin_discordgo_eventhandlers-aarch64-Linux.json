@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "eventhandlers",
+  "pkg_family": "discordgo",
+  "pkg_id": "eventhandlers#github.com_bwmarrin_discordgo",
+  "pkg_name": "eventhandlers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bwmarrin/discordgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_Golang_ Go bindings for Discord",
+  "homepage": [
+    "https://github.com/bwmarrin/discordgo"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "airhorn",
+    "auto_moderation",
+    "autocomplete",
+    "avatar",
+    "components",
+    "context_menus",
+    "dm_pingpong",
+    "echo",
+    "eventhandlers",
+    "modals",
+    "pingpong",
+    "scheduled_events",
+    "slash_commands",
+    "stage_instance",
+    "threads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bwmarrin/discordgo/archive/6e8fa27c7917ea54d8b9ec26f126becae59058d2.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordgo",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-6e8fa27-250524T141924",
+  "version_upstream": "v0.29.0",
+  "bsum": "33ffaa42a28f6bdf312640c45b71a5e291de1d8aef6cc42ee0257678101e2431",
+  "build_date": "2025-06-19T15:13:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760352792",
+  "build_id": "15760352792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/eventhandlers?tag=HEAD-6e8fa27-250524T141924-aarch64-Linux&download=eventhandlers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5429",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/eventhandlers?tag=HEAD-6e8fa27-250524T141924-aarch64-Linux&download=eventhandlers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bwmarrin/discordgo/eventhandlers:HEAD-6e8fa27-250524T141924-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bwmarrin/discordgo/eventhandlers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/eventhandlers?tag=HEAD-6e8fa27-250524T141924-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "788fc020b05262f8a75c784e2488de079b986decb5e8bde364bc92ec8623b9a4",
+  "size": "3.8 MB",
+  "size_raw": "3882584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

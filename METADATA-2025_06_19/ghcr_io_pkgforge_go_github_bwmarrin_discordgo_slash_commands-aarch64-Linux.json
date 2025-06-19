@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "slash_commands",
+  "pkg_family": "discordgo",
+  "pkg_id": "slash_commands#github.com_bwmarrin_discordgo",
+  "pkg_name": "slash_commands",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bwmarrin/discordgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_Golang_ Go bindings for Discord",
+  "homepage": [
+    "https://github.com/bwmarrin/discordgo"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "airhorn",
+    "auto_moderation",
+    "autocomplete",
+    "avatar",
+    "components",
+    "context_menus",
+    "dm_pingpong",
+    "echo",
+    "eventhandlers",
+    "modals",
+    "pingpong",
+    "scheduled_events",
+    "slash_commands",
+    "stage_instance",
+    "threads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bwmarrin/discordgo/archive/6e8fa27c7917ea54d8b9ec26f126becae59058d2.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordgo",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-6e8fa27-250524T141924",
+  "version_upstream": "v0.29.0",
+  "bsum": "03ce572b73f26815cb95e2c35b6986583890d6029c2625b2919d58a4d2363892",
+  "build_date": "2025-06-19T15:14:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760352792",
+  "build_id": "15760352792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/slash_commands?tag=HEAD-6e8fa27-250524T141924-aarch64-Linux&download=slash_commands.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5429",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/slash_commands?tag=HEAD-6e8fa27-250524T141924-aarch64-Linux&download=slash_commands",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bwmarrin/discordgo/slash_commands:HEAD-6e8fa27-250524T141924-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bwmarrin/discordgo/slash_commands",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/slash_commands?tag=HEAD-6e8fa27-250524T141924-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b80ed484f2657ca054aa6814b47dc605d88d2462d546d06a7bac40f572aa7475",
+  "size": "7.1 MB",
+  "size_raw": "7410592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
