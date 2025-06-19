@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nodeadm",
+  "pkg_family": "eks-hybrid",
+  "pkg_id": "nodeadm#github.com_aws_eks_hybrid",
+  "pkg_name": "nodeadm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/eks-hybrid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Use your on-premises and edge infrastructure as nodes in EKS clusters with EKS Hybrid Nodes",
+  "homepage": [
+    "https://github.com/aws/eks-hybrid"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e-test",
+    "nodeadm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/eks-hybrid/archive/2a0decaa6529037cbe0c1b7b9ba6bdd59b1218bd.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cli",
+    "eks",
+    "hybrid",
+    "hybrid-cloud",
+    "kubernetes",
+    "kubernetes-deployment"
+  ],
+  "version": "HEAD-2a0deca-250618T153635",
+  "version_upstream": "",
+  "bsum": "10e9d5f267933fc55def630d32fe68b1b9a88abf7298e2041f6fa8e8f897f71b",
+  "build_date": "2025-06-19T13:22:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758284785",
+  "build_id": "15758284785",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-hybrid/nodeadm?tag=HEAD-2a0deca-250618T153635-loongarch64-Linux&download=nodeadm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-hybrid/nodeadm?tag=HEAD-2a0deca-250618T153635-loongarch64-Linux&download=nodeadm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-hybrid/nodeadm:HEAD-2a0deca-250618T153635-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-hybrid/nodeadm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-hybrid/nodeadm?tag=HEAD-2a0deca-250618T153635-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "425d5a4e5d5b78d97f5eff0d72480dea404e36c77ff486635d0512fcec86f385",
+  "size": "92 MB",
+  "size_raw": "96179456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
