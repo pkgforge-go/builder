@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hishtory",
+  "pkg_family": "hishtory",
+  "pkg_id": "hishtory#github.com_ddworken_hishtory",
+  "pkg_name": "hishtory",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ddworken/hishtory",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Your shell history: synced, queryable, and in context",
+  "homepage": [
+    "https://github.com/ddworken/hishtory"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hishtory",
+    "posttest",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ddworken/hishtory/archive/0e89432849b257aba3c0383f7264d5dbfe7a68a2.tar.gz"
+  ],
+  "tag": [
+    "bash",
+    "cli",
+    "fish",
+    "golang",
+    "history",
+    "shell",
+    "zsh"
+  ],
+  "version": "HEAD-0e89432-250424T200156",
+  "version_upstream": "",
+  "bsum": "3e8314b914be0a2b42436521f6ebecf970b87f9e6c9b8af08fabd867c18ff36f",
+  "build_date": "2025-06-19T21:02:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765627170",
+  "build_id": "15765627170",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddworken/hishtory/hishtory?tag=HEAD-0e89432-250424T200156-riscv64-Linux&download=hishtory.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddworken/hishtory/hishtory?tag=HEAD-0e89432-250424T200156-riscv64-Linux&download=hishtory",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ddworken/hishtory/hishtory:HEAD-0e89432-250424T200156-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ddworken/hishtory/hishtory",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddworken/hishtory/hishtory?tag=HEAD-0e89432-250424T200156-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0b4eb38f2074fb033318f24a23e6e9fcbb6cb3a01114a4a36b0206ae9814529",
+  "size": "44 MB",
+  "size_raw": "45883224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
