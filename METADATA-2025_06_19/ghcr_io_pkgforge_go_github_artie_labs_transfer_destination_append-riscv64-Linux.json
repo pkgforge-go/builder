@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "destination_append",
+  "pkg_family": "transfer",
+  "pkg_id": "destination_append#github.com_artie_labs_transfer",
+  "pkg_name": "destination_append",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/artie-labs/transfer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse _Snowflake, BigQuery, Redshift, Databricks_ in real-time.",
+  "homepage": [
+    "https://github.com/artie-labs/transfer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "destination_append",
+    "destination_merge",
+    "destination_types",
+    "parquet",
+    "transfer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/artie-labs/transfer/archive/0bd32aa50e36f07ebde7da1d71e9b544a1dbe66e.tar.gz"
+  ],
+  "tag": [
+    "apache-kafka",
+    "bigquery",
+    "cdc",
+    "change-data-capture",
+    "data-integration",
+    "data-pipelines",
+    "database",
+    "debezium",
+    "elt",
+    "golang",
+    "kafka",
+    "redshift",
+    "snowflake"
+  ],
+  "version": "HEAD-0bd32aa-250618T225519",
+  "version_upstream": "",
+  "bsum": "09d92c1d0331ddc08abeeb273d29ef39045b7790e3504498e2a400853097c241",
+  "build_date": "2025-06-19T12:09:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756627058",
+  "build_id": "15756627058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/destination_append?tag=HEAD-0bd32aa-250618T225519-riscv64-Linux&download=destination_append.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "658",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/destination_append?tag=HEAD-0bd32aa-250618T225519-riscv64-Linux&download=destination_append",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/artie-labs/transfer/destination_append:HEAD-0bd32aa-250618T225519-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/artie-labs/transfer/destination_append",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/destination_append?tag=HEAD-0bd32aa-250618T225519-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7386a26bb09e2ece876eb3c096547756ebbf44207cd25555c2bdbf656aad6e96",
+  "size": "67 MB",
+  "size_raw": "69748888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
