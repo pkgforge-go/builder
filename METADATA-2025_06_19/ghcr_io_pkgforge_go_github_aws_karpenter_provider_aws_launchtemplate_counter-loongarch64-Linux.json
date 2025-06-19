@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "launchtemplate_counter",
+  "pkg_family": "karpenter-provider-aws",
+  "pkg_id": "launchtemplate_counter#github.com_aws_karpenter_provider_aws",
+  "pkg_name": "launchtemplate_counter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/karpenter-provider-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+  "homepage": [
+    "https://github.com/aws/karpenter-provider-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "allocatable_diff",
+    "bandwidth_gen",
+    "compatibilitymatrix_gen",
+    "configuration_gen",
+    "controller",
+    "instancetype_testdata_gen",
+    "instancetypes_gen",
+    "kwok",
+    "launchtemplate_counter",
+    "metrics_gen",
+    "prices_gen",
+    "version_compatibility_gen",
+    "vpc_limits_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/karpenter-provider-aws/archive/a2195fbd12f9656e68bc299162f57090756bc718.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a2195fb-250618T122130",
+  "version_upstream": "",
+  "bsum": "640732328c0a7edd629cea1d5905f1fa4f2fd02de71fc9a07e47eb8c3296dfb2",
+  "build_date": "2025-06-19T13:37:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758286692",
+  "build_id": "15758286692",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/launchtemplate_counter?tag=HEAD-a2195fb-250618T122130-loongarch64-Linux&download=launchtemplate_counter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7307",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/launchtemplate_counter?tag=HEAD-a2195fb-250618T122130-loongarch64-Linux&download=launchtemplate_counter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/karpenter-provider-aws/launchtemplate_counter:HEAD-a2195fb-250618T122130-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/karpenter-provider-aws/launchtemplate_counter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/launchtemplate_counter?tag=HEAD-a2195fb-250618T122130-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0849da08b5fd50af4d98b64c7e1b4641d98aeb3066123c9a8c6c9517e3515349",
+  "size": "67 MB",
+  "size_raw": "70226000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
