@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gokey",
+  "pkg_family": "gokey",
+  "pkg_id": "gokey#github.com_cloudflare_gokey",
+  "pkg_name": "gokey",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/gokey",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple vaultless password manager in Go",
+  "homepage": [
+    "https://github.com/cloudflare/gokey"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gokey"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/gokey/archive/c218168412a286494ab28fb62dd786c8feef4d20.tar.gz"
+  ],
+  "tag": [
+    "deterministic",
+    "ecc",
+    "ed25519",
+    "key-generator",
+    "keychain",
+    "password-generator",
+    "password-manager",
+    "password-store",
+    "password-vault",
+    "rsa-key",
+    "seed",
+    "stateless"
+  ],
+  "version": "HEAD-c218168-250206T220553",
+  "version_upstream": "",
+  "bsum": "8797a757d648e43c46d7d4b21bbf45487f76cf1a37f3e85c5943eea0c6e58a25",
+  "build_date": "2025-06-19T19:07:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764329346",
+  "build_id": "15764329346",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/gokey/gokey?tag=HEAD-c218168-250206T220553-aarch64-Linux&download=gokey.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2049",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/gokey/gokey?tag=HEAD-c218168-250206T220553-aarch64-Linux&download=gokey",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/gokey/gokey:HEAD-c218168-250206T220553-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/gokey/gokey",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/gokey/gokey?tag=HEAD-c218168-250206T220553-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75c5a07856707c09258221271df700023eeb545d92b0cb6c5a8a909c10a70888",
+  "size": "3.0 MB",
+  "size_raw": "3083328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
