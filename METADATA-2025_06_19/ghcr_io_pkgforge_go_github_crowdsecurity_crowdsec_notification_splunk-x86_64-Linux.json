@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "notification-splunk",
+  "pkg_family": "crowdsec",
+  "pkg_id": "notification-splunk#github.com_crowdsecurity_crowdsec",
+  "pkg_name": "notification-splunk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/crowdsecurity/crowdsec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+  "homepage": [
+    "https://github.com/crowdsecurity/crowdsec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crowdsec",
+    "crowdsec-cli",
+    "example",
+    "notification-dummy",
+    "notification-email",
+    "notification-file",
+    "notification-http",
+    "notification-sentinel",
+    "notification-slack",
+    "notification-splunk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/crowdsecurity/crowdsec/archive/7c6651b28e100ac0ae4a1c44d3949a1d1c256006.tar.gz"
+  ],
+  "tag": [
+    "attacks-prevention",
+    "detection",
+    "ids",
+    "ips",
+    "linux",
+    "protection",
+    "security",
+    "waf"
+  ],
+  "version": "HEAD-7c6651b-250619T162043",
+  "version_upstream": "",
+  "bsum": "dfc2454de54dccea4699c840afc977977d9996103fb3217e77337b40dcb159db",
+  "build_date": "2025-06-19T20:29:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765102712",
+  "build_id": "15765102712",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/notification-splunk?tag=HEAD-7c6651b-250619T162043-x86_64-Linux&download=notification-splunk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10545",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/notification-splunk?tag=HEAD-7c6651b-250619T162043-x86_64-Linux&download=notification-splunk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/crowdsecurity/crowdsec/notification-splunk:HEAD-7c6651b-250619T162043-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/crowdsecurity/crowdsec/notification-splunk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/notification-splunk?tag=HEAD-7c6651b-250619T162043-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "29de19f6a39e6e7305ade9f22dcc1689db07bc993f0bf53d69bd6ec972c172b3",
+  "size": "36 MB",
+  "size_raw": "37581616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
