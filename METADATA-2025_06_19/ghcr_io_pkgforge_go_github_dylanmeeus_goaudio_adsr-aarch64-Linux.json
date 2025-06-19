@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "adsr",
+  "pkg_family": "GoAudio",
+  "pkg_id": "adsr#github.com_DylanMeeus_GoAudio",
+  "pkg_name": "adsr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DylanMeeus/GoAudio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go tools for audio processing _ creation 🎶",
+  "homepage": [
+    "https://github.com/DylanMeeus/GoAudio"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adsr",
+    "amplitude",
+    "extractbrk",
+    "inspect",
+    "midisound",
+    "oscillator",
+    "sine",
+    "spectral",
+    "stereopan",
+    "table_oscillator",
+    "wavetable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DylanMeeus/GoAudio/archive/1a202c9cd3a3fcb402f1c2c5570385b77a2336aa.tar.gz"
+  ],
+  "tag": [
+    "audio",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-1a202c9-220205T222144",
+  "version_upstream": "",
+  "bsum": "49c6dc248f41980907751f417233c65aea4d8d3f82ba8033fe84b13116131b4c",
+  "build_date": "2025-06-19T09:03:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753430439",
+  "build_id": "15753430439",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dylanmeeus/goaudio/adsr?tag=HEAD-1a202c9-220205T222144-aarch64-Linux&download=adsr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "374",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dylanmeeus/goaudio/adsr?tag=HEAD-1a202c9-220205T222144-aarch64-Linux&download=adsr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dylanmeeus/goaudio/adsr:HEAD-1a202c9-220205T222144-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dylanmeeus/goaudio/adsr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dylanmeeus/goaudio/adsr?tag=HEAD-1a202c9-220205T222144-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a074384755d3c53161b14fc382d4dad0350d4f0e46fa61e220b2f2de766413a",
+  "size": "1.7 MB",
+  "size_raw": "1781272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
