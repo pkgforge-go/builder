@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "metadata_prefetch",
+  "pkg_family": "gcs-fuse-csi-driver",
+  "pkg_id": "metadata_prefetch#github.com_GoogleCloudPlatform_gcs_fuse_csi_driver",
+  "pkg_name": "metadata_prefetch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Google Cloud Storage FUSE Container Storage Interface _CSI_ Plugin.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi_driver",
+    "metadata_prefetch",
+    "sidecar_mounter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver/archive/744de0269d8a3c47a8927618c8cfa31819f6aee7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-744de02-250618T190637",
+  "version_upstream": "",
+  "bsum": "843e20e5743222f42e4cd62f3ff812dc1e7cce1d80ef725d44481f32ba724815",
+  "build_date": "2025-06-19T09:38:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753654554",
+  "build_id": "15753654554",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/metadata_prefetch?tag=HEAD-744de02-250618T190637-riscv64-Linux&download=metadata_prefetch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/metadata_prefetch?tag=HEAD-744de02-250618T190637-riscv64-Linux&download=metadata_prefetch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/metadata_prefetch:HEAD-744de02-250618T190637-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/metadata_prefetch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/metadata_prefetch?tag=HEAD-744de02-250618T190637-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5acba483a6e7e4397612d27bcc350562cdb7c176016cebe1b05915f30b6e993",
+  "size": "2.4 MB",
+  "size_raw": "2438984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
