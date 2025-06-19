@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "git_repo",
+  "pkg_family": "dalec",
+  "pkg_id": "git_repo#github.com_Azure_dalec",
+  "pkg_name": "git_repo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/6ac73997a78db871e7b3e6638a270a032eb85559.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-6ac7399-250618T140047",
+  "version_upstream": "",
+  "bsum": "339a81b8c30a6f6a11e25237c028ae281ff3ee366d4dfa518e06fe6941f9349e",
+  "build_date": "2025-06-19T08:06:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752531091",
+  "build_id": "15752531091",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/git_repo?tag=HEAD-6ac7399-250618T140047-x86_64-Linux&download=git_repo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/git_repo?tag=HEAD-6ac7399-250618T140047-x86_64-Linux&download=git_repo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/git_repo:HEAD-6ac7399-250618T140047-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/git_repo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/git_repo?tag=HEAD-6ac7399-250618T140047-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8501bc048f7265d0374122eacac3390b5d8822481717ea5b087a397d098c6ced",
+  "size": "6.5 MB",
+  "size_raw": "6759232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
