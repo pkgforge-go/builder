@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "message",
+  "pkg_family": "wingo",
+  "pkg_id": "message#github.com_BurntSushi_wingo",
+  "pkg_name": "message",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/BurntSushi/wingo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fully-featured window manager written in Go.",
+  "homepage": [
+    "https://github.com/BurntSushi/wingo"
+  ],
+  "license": [
+    "WTFPL"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cycle",
+    "input",
+    "message",
+    "select",
+    "wingo",
+    "wingo-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/BurntSushi/wingo/archive/30b336cbb88d32c12c14768d5ff89b3d55560081.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-30b336c-201011T101536",
+  "version_upstream": "",
+  "bsum": "81bda864667fc4ed8d2248d078853df42f52bc0b68e5d783656d4a11f3648b1d",
+  "build_date": "2025-06-19T08:21:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752568512",
+  "build_id": "15752568512",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/wingo/message?tag=HEAD-30b336c-201011T101536-aarch64-Linux&download=message.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1011",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/wingo/message?tag=HEAD-30b336c-201011T101536-aarch64-Linux&download=message",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/burntsushi/wingo/message:HEAD-30b336c-201011T101536-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/burntsushi/wingo/message",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/wingo/message?tag=HEAD-30b336c-201011T101536-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80ddabd90f9b8ca2387ec4f4043cfe7399108432b471eaee2f508d86316bae44",
+  "size": "3.6 MB",
+  "size_raw": "3757976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
