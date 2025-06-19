@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "statefulset-runner",
+  "pkg_family": "korifi",
+  "pkg_id": "statefulset-runner#github.com_cloudfoundry_korifi",
+  "pkg_name": "statefulset-runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/korifi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry on Kubernetes",
+  "homepage": [
+    "https://github.com/cloudfoundry/korifi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controllers",
+    "helmdoc",
+    "job-task-runner",
+    "korifi-api",
+    "kpack-image-builder",
+    "migration",
+    "statefulset-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/korifi/archive/b751985d84c9752114f42f0972634cc530c3b3ad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b751985-250619T142427",
+  "version_upstream": "",
+  "bsum": "5cb1de8c18984d6b20465c6d71f5716f913786e93387089caf64fc3857753e3c",
+  "build_date": "2025-06-19T19:17:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764330070",
+  "build_id": "15764330070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/statefulset-runner?tag=HEAD-b751985-250619T142427-loongarch64-Linux&download=statefulset-runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "369",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/statefulset-runner?tag=HEAD-b751985-250619T142427-loongarch64-Linux&download=statefulset-runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/korifi/statefulset-runner:HEAD-b751985-250619T142427-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/korifi/statefulset-runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/statefulset-runner?tag=HEAD-b751985-250619T142427-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1293cee648e9a728fad3956553c2ac52aae5474e36604cb134be3d650d09d67",
+  "size": "44 MB",
+  "size_raw": "45366048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

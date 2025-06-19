@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "migration",
+  "pkg_family": "korifi",
+  "pkg_id": "migration#github.com_cloudfoundry_korifi",
+  "pkg_name": "migration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/korifi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry on Kubernetes",
+  "homepage": [
+    "https://github.com/cloudfoundry/korifi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controllers",
+    "helmdoc",
+    "job-task-runner",
+    "korifi-api",
+    "kpack-image-builder",
+    "migration",
+    "statefulset-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/korifi/archive/b751985d84c9752114f42f0972634cc530c3b3ad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b751985-250619T142427",
+  "version_upstream": "",
+  "bsum": "bfc5d3a67b612354bd75b5018e5861321223968da9fb1bf4e0f77c312bd426bd",
+  "build_date": "2025-06-19T19:17:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764330070",
+  "build_id": "15764330070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/migration?tag=HEAD-b751985-250619T142427-loongarch64-Linux&download=migration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "369",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/migration?tag=HEAD-b751985-250619T142427-loongarch64-Linux&download=migration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/korifi/migration:HEAD-b751985-250619T142427-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/korifi/migration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/migration?tag=HEAD-b751985-250619T142427-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a572733bcd956201af9addb3099bd75db2d765e69b68a0a9e5110ef9e1a63124",
+  "size": "39 MB",
+  "size_raw": "40692480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
