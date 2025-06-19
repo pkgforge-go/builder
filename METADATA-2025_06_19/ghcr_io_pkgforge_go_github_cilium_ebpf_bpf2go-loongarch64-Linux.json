@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bpf2go",
+  "pkg_family": "ebpf",
+  "pkg_id": "bpf2go#github.com_cilium_ebpf",
+  "pkg_name": "bpf2go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/0bef90d70db20260cf1f69798047b574c1bd69d1.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-0bef90d-250619T111026",
+  "version_upstream": "",
+  "bsum": "5b8f931c0f9cbaaa6751b54f284f144044379ea78d1094e8a79778fb468ec305",
+  "build_date": "2025-06-19T18:47:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764322776",
+  "build_id": "15764322776",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/bpf2go?tag=HEAD-0bef90d-250619T111026-loongarch64-Linux&download=bpf2go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6917",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/bpf2go?tag=HEAD-0bef90d-250619T111026-loongarch64-Linux&download=bpf2go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/bpf2go:HEAD-0bef90d-250619T111026-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/bpf2go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/bpf2go?tag=HEAD-0bef90d-250619T111026-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d984fe04e26d311debb40f182fbdda3fb90c0c0ab609ae5581125c34e5582baf",
+  "size": "5.7 MB",
+  "size_raw": "5877976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
