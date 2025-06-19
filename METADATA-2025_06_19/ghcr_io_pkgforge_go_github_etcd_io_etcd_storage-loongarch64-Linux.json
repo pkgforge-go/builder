@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "storage",
+  "pkg_family": "etcd",
+  "pkg_id": "storage#github.com_etcd_io_etcd",
+  "pkg_name": "storage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/etcd-io/etcd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "homepage": [
+    "https://github.com/etcd-io/etcd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "bridge",
+    "client",
+    "etcd-dump-db",
+    "etcd-dump-logs",
+    "etcd-dump-metrics",
+    "proto-annotations",
+    "raftexample",
+    "storage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/etcd-io/etcd/archive/5dfd6e05a4bd8e09debe31742dee4221ff391d0d.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "consensus",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "etcd",
+    "go",
+    "key-value",
+    "kubernetes",
+    "raft"
+  ],
+  "version": "HEAD-5dfd6e0-250618T210109",
+  "version_upstream": "",
+  "bsum": "573ef4e9a48448a234695f0d724521d49b4f4f273ebb2da235a76e5aef2d9fd4",
+  "build_date": "2025-06-19T23:07:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767153667",
+  "build_id": "15767153667",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/storage?tag=HEAD-5dfd6e0-250618T210109-loongarch64-Linux&download=storage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49647",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/storage?tag=HEAD-5dfd6e0-250618T210109-loongarch64-Linux&download=storage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/etcd/storage:HEAD-5dfd6e0-250618T210109-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/etcd/storage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/storage?tag=HEAD-5dfd6e0-250618T210109-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db9f9e7ee205c15d7900611da9cca703ea935ef19478f6251633996b5d4f6753",
+  "size": "5.9 MB",
+  "size_raw": "6131680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
