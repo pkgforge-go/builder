@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ffuf",
+  "pkg_family": "ffuf",
+  "pkg_id": "ffuf#github.com_ffuf_ffuf",
+  "pkg_name": "ffuf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ffuf/ffuf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast web fuzzer written in Go",
+  "homepage": [
+    "https://github.com/ffuf/ffuf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ffuf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ffuf/ffuf/archive/57da720af7d1b66066cbbde685b49948f886b29c.tar.gz"
+  ],
+  "tag": [
+    "fuzzer",
+    "infosec",
+    "pentesting",
+    "web"
+  ],
+  "version": "HEAD-57da720-250424T190548",
+  "version_upstream": "",
+  "bsum": "70aa6d15f9a9d5a6b7833d925cd6d3a19c76f8de3cba9579c7d7511898decd23",
+  "build_date": "2025-06-19T23:40:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767361151",
+  "build_id": "15767361151",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ffuf/ffuf/ffuf?tag=HEAD-57da720-250424T190548-loongarch64-Linux&download=ffuf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14146",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ffuf/ffuf/ffuf?tag=HEAD-57da720-250424T190548-loongarch64-Linux&download=ffuf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ffuf/ffuf/ffuf:HEAD-57da720-250424T190548-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ffuf/ffuf/ffuf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ffuf/ffuf/ffuf?tag=HEAD-57da720-250424T190548-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f87f00979d2445758111449f716885bd25ee07aef5fe9367752c496d22d55a47",
+  "size": "9.7 MB",
+  "size_raw": "10100896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
