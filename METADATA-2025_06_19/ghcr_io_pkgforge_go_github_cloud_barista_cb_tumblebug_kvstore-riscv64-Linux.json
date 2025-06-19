@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kvstore",
+  "pkg_family": "cb-tumblebug",
+  "pkg_id": "kvstore#github.com_cloud_barista_cb_tumblebug",
+  "pkg_name": "kvstore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloud-barista/cb-tumblebug",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud-Barista Multi-Cloud Infra Management Framework",
+  "homepage": [
+    "https://github.com/cloud-barista/cb-tumblebug"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bcrypt",
+    "cb-tumblebug-src",
+    "gcp-aws",
+    "kvstore",
+    "netutil",
+    "vnet-design"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloud-barista/cb-tumblebug/archive/39cdd1adf26410b57b901480e65d063a4818ce97.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "benchmarking",
+    "cb-tumblebug",
+    "cloud",
+    "cloud-barista",
+    "cloud-computing",
+    "csp",
+    "go",
+    "hacktoberfest",
+    "iaas",
+    "kubernetes",
+    "llm",
+    "multi-cloud",
+    "multicloud",
+    "orchestration",
+    "vm"
+  ],
+  "version": "HEAD-39cdd1a-250619T224809",
+  "version_upstream": "v0.10.8",
+  "bsum": "a48984a62a08688da57c9facee3b4fe3c40cd6d82df7daa06fd6770d15650c43",
+  "build_date": "2025-06-19T19:00:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764325425",
+  "build_id": "15764325425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-barista/cb-tumblebug/kvstore?tag=HEAD-39cdd1a-250619T224809-riscv64-Linux&download=kvstore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "67",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-barista/cb-tumblebug/kvstore?tag=HEAD-39cdd1a-250619T224809-riscv64-Linux&download=kvstore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloud-barista/cb-tumblebug/kvstore:HEAD-39cdd1a-250619T224809-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloud-barista/cb-tumblebug/kvstore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-barista/cb-tumblebug/kvstore?tag=HEAD-39cdd1a-250619T224809-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa013f0ca6521f5bc885833ba18fef324d3703b690cfbb34591486325b7f9e7d",
+  "size": "15 MB",
+  "size_raw": "14887608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
