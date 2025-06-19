@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "swagger",
+  "pkg_family": "ContainerSSH",
+  "pkg_id": "swagger#github.com_ContainerSSH_ContainerSSH",
+  "pkg_name": "swagger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ContainerSSH/ContainerSSH",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ContainerSSH: Launch containers on demand",
+  "homepage": [
+    "https://github.com/ContainerSSH/ContainerSSH"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "containerssh",
+    "containerssh-auditlog-decoder",
+    "containerssh-testauthconfigserver",
+    "format",
+    "generate-message-codes",
+    "license-report",
+    "swagger",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ContainerSSH/ContainerSSH/archive/5e72a6b7876dcd631ba8f360a4c6b12431bc0a14.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "devsecops",
+    "docker",
+    "kubernetes",
+    "security",
+    "security-tools",
+    "ssh"
+  ],
+  "version": "HEAD-5e72a6b-250128T084449",
+  "version_upstream": "",
+  "bsum": "4667f7ba99228e8d0045ccfab6c2cf0da632cc532f99b503aab66ce963e6db16",
+  "build_date": "2025-06-19T08:36:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752603556",
+  "build_id": "15752603556",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/swagger?tag=HEAD-5e72a6b-250128T084449-loongarch64-Linux&download=swagger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/swagger?tag=HEAD-5e72a6b-250128T084449-loongarch64-Linux&download=swagger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerssh/containerssh/swagger:HEAD-5e72a6b-250128T084449-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerssh/containerssh/swagger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/swagger?tag=HEAD-5e72a6b-250128T084449-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45ab8bf18fb14ae93444914917218c5c8a28c8f877d41dce93b718d2ad47cbb5",
+  "size": "6.1 MB",
+  "size_raw": "6320352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
