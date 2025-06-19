@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nena",
+  "pkg_family": "interpol",
+  "pkg_id": "nena#github.com_avahidi_interpol",
+  "pkg_name": "nena",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/avahidi/interpol",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The _interpol_ security string interpolation library and the _police_ command line tool. Just moved here from https://bitbucket.org/vahidi/interpol",
+  "homepage": [
+    "https://github.com/avahidi/interpol"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "discordia",
+    "hackernews",
+    "hodor",
+    "nena",
+    "police",
+    "webpass"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/avahidi/interpol/archive/246a02d983a78bbf16dc41beb8bb443d882f4f66.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "security-tools"
+  ],
+  "version": "HEAD-246a02d-220529T202827",
+  "version_upstream": "v0.3.0",
+  "bsum": "73c57b74d5b80ab218b782178be5d255cfd202ddc96cdb1adaff2d2587ae06e6",
+  "build_date": "2025-06-19T13:14:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758273878",
+  "build_id": "15758273878",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/avahidi/interpol/nena?tag=HEAD-246a02d-220529T202827-loongarch64-Linux&download=nena.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/avahidi/interpol/nena?tag=HEAD-246a02d-220529T202827-loongarch64-Linux&download=nena",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/avahidi/interpol/nena:HEAD-246a02d-220529T202827-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/avahidi/interpol/nena",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/avahidi/interpol/nena?tag=HEAD-246a02d-220529T202827-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f39841247aa7c02124effb3ff2a16c5a19286649fd3ea5041886d866af6ef339",
+  "size": "1.8 MB",
+  "size_raw": "1871384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
