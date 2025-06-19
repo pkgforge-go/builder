@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gpgkey",
+  "pkg_family": "elastic-package",
+  "pkg_id": "gpgkey#github.com_elastic_elastic_package",
+  "pkg_name": "gpgkey",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/elastic-package",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "elastic-package - Command line tool for developing Elastic Integrations",
+  "homepage": [
+    "https://github.com/elastic/elastic-package"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "elastic-package",
+    "geoipdatabases",
+    "gpgkey",
+    "readme"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/elastic-package/archive/d8e4300715af43b3b792d25960d75c3382948dcd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d8e4300-250619T091355",
+  "version_upstream": "",
+  "bsum": "f5f2632560699eef4f394c8390d6faf754a9e65e03eb0e5712c4cf5168a8d691",
+  "build_date": "2025-06-19T22:33:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766810086",
+  "build_id": "15766810086",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-package/gpgkey?tag=HEAD-d8e4300-250619T091355-loongarch64-Linux&download=gpgkey.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-package/gpgkey?tag=HEAD-d8e4300-250619T091355-loongarch64-Linux&download=gpgkey",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/elastic-package/gpgkey:HEAD-d8e4300-250619T091355-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/elastic-package/gpgkey",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-package/gpgkey?tag=HEAD-d8e4300-250619T091355-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6db419f9452c3e9faaad9f9baeaba75233c4a99eacd36f791ead4cbbb2c58914",
+  "size": "5.3 MB",
+  "size_raw": "5460928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
