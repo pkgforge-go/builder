@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "korifi-api",
+  "pkg_family": "korifi",
+  "pkg_id": "korifi-api#github.com_cloudfoundry_korifi",
+  "pkg_name": "korifi-api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/korifi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry on Kubernetes",
+  "homepage": [
+    "https://github.com/cloudfoundry/korifi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controllers",
+    "helmdoc",
+    "job-task-runner",
+    "korifi-api",
+    "kpack-image-builder",
+    "migration",
+    "statefulset-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/korifi/archive/b751985d84c9752114f42f0972634cc530c3b3ad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b751985-250619T142427",
+  "version_upstream": "",
+  "bsum": "3274751dbb0432423690c27b39faf62d60bc6b2f74768077437d7d8c9f093558",
+  "build_date": "2025-06-19T19:19:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764330070",
+  "build_id": "15764330070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/korifi-api?tag=HEAD-b751985-250619T142427-x86_64-Linux&download=korifi-api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "369",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/korifi-api?tag=HEAD-b751985-250619T142427-x86_64-Linux&download=korifi-api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/korifi/korifi-api:HEAD-b751985-250619T142427-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/korifi/korifi-api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/korifi-api?tag=HEAD-b751985-250619T142427-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75c5e210ce2ecc66323582d07c5c50451eb90a62d55e557fd80967f8e1920ebf",
+  "size": "71 MB",
+  "size_raw": "74376448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
