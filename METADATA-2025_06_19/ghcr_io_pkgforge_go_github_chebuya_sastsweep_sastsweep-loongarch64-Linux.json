@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sastsweep",
+  "pkg_family": "sastsweep",
+  "pkg_id": "sastsweep#github.com_chebuya_sastsweep",
+  "pkg_name": "sastsweep",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chebuya/sastsweep",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tool designed for identifying vulnerabilities in open source codebases at scale. It can gather and filter on key repository metrics such as popularity and project size",
+  "homepage": [
+    "https://github.com/chebuya/sastsweep"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sastsweep"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chebuya/sastsweep/archive/9174a1ac54308d7753b8d898f10b684b14b98a0e.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "owasp",
+    "sast",
+    "security-audit",
+    "security-research",
+    "security-scanner",
+    "semgrep",
+    "static-code-analysis",
+    "vulnerability-research",
+    "vulnerability-scanners"
+  ],
+  "version": "HEAD-9174a1a-250205T174236",
+  "version_upstream": "",
+  "bsum": "ab55b0bacd32e931365f30ed0b7a055bb9d9a50116a848a6a69fd8b0f3abceb3",
+  "build_date": "2025-06-19T18:21:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763584553",
+  "build_id": "15763584553",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chebuya/sastsweep/sastsweep?tag=HEAD-9174a1a-250205T174236-loongarch64-Linux&download=sastsweep.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "229",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chebuya/sastsweep/sastsweep?tag=HEAD-9174a1a-250205T174236-loongarch64-Linux&download=sastsweep",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chebuya/sastsweep/sastsweep:HEAD-9174a1a-250205T174236-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chebuya/sastsweep/sastsweep",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chebuya/sastsweep/sastsweep?tag=HEAD-9174a1a-250205T174236-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2726566f0827355c2c166f6c507500380394a1e6d558e8bedac6abbb9252ee68",
+  "size": "9.6 MB",
+  "size_raw": "10052608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
