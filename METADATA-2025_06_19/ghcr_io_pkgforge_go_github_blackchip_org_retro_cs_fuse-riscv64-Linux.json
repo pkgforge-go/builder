@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fuse",
+  "pkg_family": "retro-cs",
+  "pkg_id": "fuse#github.com_blackchip_org_retro_cs",
+  "pkg_name": "fuse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blackchip-org/retro-cs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The retro-computing systems",
+  "homepage": [
+    "https://github.com/blackchip-org/retro-cs"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dasm",
+    "fuse",
+    "mb2h",
+    "petscii"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blackchip-org/retro-cs/archive/20a4c115ee20b42ad5bede590f2a6eb93bc61d17.tar.gz"
+  ],
+  "tag": [
+    "6502",
+    "commodore-128",
+    "commodore-64",
+    "emulator",
+    "galaga",
+    "go",
+    "golang",
+    "mspacman",
+    "pacman",
+    "z80"
+  ],
+  "version": "HEAD-20a4c11-220922T210930",
+  "version_upstream": "",
+  "bsum": "8d9ffe7097e1d58c8162115172bf8ff069dbad867ec41c7d9c0603da0b3c660e",
+  "build_date": "2025-06-19T14:17:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759373516",
+  "build_id": "15759373516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blackchip-org/retro-cs/fuse?tag=HEAD-20a4c11-220922T210930-riscv64-Linux&download=fuse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blackchip-org/retro-cs/fuse?tag=HEAD-20a4c11-220922T210930-riscv64-Linux&download=fuse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blackchip-org/retro-cs/fuse:HEAD-20a4c11-220922T210930-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blackchip-org/retro-cs/fuse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blackchip-org/retro-cs/fuse?tag=HEAD-20a4c11-220922T210930-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fb6879459ee9f0cec0d3e6fc334f06f0d9cae583d23469cb47ea235a7f8bdf1f",
+  "size": "3.6 MB",
+  "size_raw": "3724008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
