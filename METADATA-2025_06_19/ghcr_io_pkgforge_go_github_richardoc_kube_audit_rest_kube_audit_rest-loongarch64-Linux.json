@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kube-audit-rest",
+  "pkg_family": "kube-audit-rest",
+  "pkg_id": "kube-audit-rest#github.com_RichardoC_kube_audit_rest",
+  "pkg_name": "kube-audit-rest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/RichardoC/kube-audit-rest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes audit logging, when you don_t control the control plane",
+  "homepage": [
+    "https://github.com/RichardoC/kube-audit-rest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kube-audit-rest",
+    "locally"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/RichardoC/kube-audit-rest/archive/8adf1062ad9813706ac5d1b1e51723bc6b2c4014.tar.gz"
+  ],
+  "tag": [
+    "audit-log",
+    "auditing",
+    "kubernetes"
+  ],
+  "version": "HEAD-8adf106-250618T174335",
+  "version_upstream": "",
+  "bsum": "a6b94aea2c0a252d242f337ff9fceedbd21b9a615c4ee8cae977fc5f726c5ae4",
+  "build_date": "2025-06-19T10:46:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755381977",
+  "build_id": "15755381977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/richardoc/kube-audit-rest/kube-audit-rest?tag=HEAD-8adf106-250618T174335-loongarch64-Linux&download=kube-audit-rest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/richardoc/kube-audit-rest/kube-audit-rest?tag=HEAD-8adf106-250618T174335-loongarch64-Linux&download=kube-audit-rest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/richardoc/kube-audit-rest/kube-audit-rest:HEAD-8adf106-250618T174335-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/richardoc/kube-audit-rest/kube-audit-rest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/richardoc/kube-audit-rest/kube-audit-rest?tag=HEAD-8adf106-250618T174335-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c867f3d9d1177150a65262e4fb7f52fa5a8f286eb53179b274ccd549822e1f0a",
+  "size": "12 MB",
+  "size_raw": "12281824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
