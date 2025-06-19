@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tsdbrelay",
+  "pkg_family": "bosun",
+  "pkg_id": "tsdbrelay#github.com_bosun_monitor_bosun",
+  "pkg_name": "tsdbrelay",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bosun-monitor/bosun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Time Series Alerting Framework",
+  "homepage": [
+    "https://github.com/bosun-monitor/bosun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "backfill",
+    "bosun",
+    "bosun-build",
+    "generate",
+    "integrationtest",
+    "release",
+    "scollector",
+    "silence",
+    "snmptester",
+    "synctokens",
+    "tsdbrelay",
+    "util"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bosun-monitor/bosun/archive/b8d3e981f37d353292afc46d88bc2a174ff593dc.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "bosun",
+    "go",
+    "monitoring",
+    "scollector",
+    "tsdb"
+  ],
+  "version": "HEAD-b8d3e98-250213T104149",
+  "version_upstream": "",
+  "bsum": "32c257e84df8420adfd3481fba25fa348214558e4ad564ea91764564c295aacc",
+  "build_date": "2025-06-19T14:50:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759846362",
+  "build_id": "15759846362",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/tsdbrelay?tag=HEAD-b8d3e98-250213T104149-riscv64-Linux&download=tsdbrelay.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3413",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/tsdbrelay?tag=HEAD-b8d3e98-250213T104149-riscv64-Linux&download=tsdbrelay",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bosun-monitor/bosun/tsdbrelay:HEAD-b8d3e98-250213T104149-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bosun-monitor/bosun/tsdbrelay",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/tsdbrelay?tag=HEAD-b8d3e98-250213T104149-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bcc19db1e85b0cf9a3e2fa3e9214e688f048c778248d5b3935932c413d5ccb9a",
+  "size": "7.0 MB",
+  "size_raw": "7297112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
