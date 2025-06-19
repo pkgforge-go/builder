@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sbctl",
+  "pkg_family": "sbctl",
+  "pkg_id": "sbctl#github.com_Foxboron_sbctl",
+  "pkg_name": "sbctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Foxboron/sbctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":computer: :lock: :key: Secure Boot key manager",
+  "homepage": [
+    "https://github.com/Foxboron/sbctl"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sbctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Foxboron/sbctl/archive/30cc0e7b22a0f7185e9962f009ead32c2e482877.tar.gz"
+  ],
+  "tag": [
+    "efi",
+    "efi-stub",
+    "go",
+    "golang",
+    "linux",
+    "secure-boot",
+    "secureboot",
+    "signatures",
+    "uefi",
+    "uefi-secureboot"
+  ],
+  "version": "HEAD-30cc0e7-250506T215030",
+  "version_upstream": "",
+  "bsum": "7a5db42c3f1f547d9d9f214bdc682a67cc2b446cb9afb30f2fa64cba1ba477a2",
+  "build_date": "2025-06-19T09:26:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753606715",
+  "build_id": "15753606715",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/sbctl/sbctl?tag=HEAD-30cc0e7-250506T215030-riscv64-Linux&download=sbctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/sbctl/sbctl?tag=HEAD-30cc0e7-250506T215030-riscv64-Linux&download=sbctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/sbctl/sbctl:HEAD-30cc0e7-250506T215030-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/sbctl/sbctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/sbctl/sbctl?tag=HEAD-30cc0e7-250506T215030-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4f0d5eada0e7e7499870e5b6d80eb80cd035044fdc6dfc008f8ea0d0fa4f699",
+  "size": "9.3 MB",
+  "size_raw": "9751384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
