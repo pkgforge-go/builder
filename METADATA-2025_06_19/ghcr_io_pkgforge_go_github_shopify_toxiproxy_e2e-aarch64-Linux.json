@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "e2e",
+  "pkg_family": "toxiproxy",
+  "pkg_id": "e2e#github.com_Shopify_toxiproxy",
+  "pkg_name": "e2e",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Shopify/toxiproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+  "homepage": [
+    "https://github.com/Shopify/toxiproxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "e2e",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Shopify/toxiproxy/archive/8585209e3917719b5f3ac36c845b60f1358fc09a.tar.gz"
+  ],
+  "tag": [
+    "chaos",
+    "down",
+    "go",
+    "is",
+    "omg",
+    "proxy",
+    "resiliency",
+    "tcp-proxy",
+    "testing"
+  ],
+  "version": "HEAD-8585209-250616T092528",
+  "version_upstream": "",
+  "bsum": "87b464296698fc02b20cfc90a698a5a6bde00a7f153ba82200cb813138941b79",
+  "build_date": "2025-06-19T10:58:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755718279",
+  "build_id": "15755718279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shopify/toxiproxy/e2e?tag=HEAD-8585209-250616T092528-aarch64-Linux&download=e2e.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shopify/toxiproxy/e2e?tag=HEAD-8585209-250616T092528-aarch64-Linux&download=e2e",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shopify/toxiproxy/e2e:HEAD-8585209-250616T092528-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shopify/toxiproxy/e2e",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shopify/toxiproxy/e2e?tag=HEAD-8585209-250616T092528-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2e9ba2ef6bd062d1db7e523c1e028eeeebbb69ad8880a9119c6a9c4f82c77e7",
+  "size": "5.7 MB",
+  "size_raw": "5969280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
