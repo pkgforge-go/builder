@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bbgo",
+  "pkg_family": "bbgo",
+  "pkg_id": "bbgo#github.com_c9s_bbgo",
+  "pkg_name": "bbgo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/c9s/bbgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The modern cryptocurrency trading bot framework written in Go.",
+  "homepage": [
+    "https://github.com/c9s/bbgo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbgo",
+    "bbgo-lorca",
+    "binance-book",
+    "binance-margin",
+    "embed",
+    "google-spreadsheet",
+    "interact",
+    "kucoin",
+    "kucoin-accounts",
+    "max-rewards",
+    "max-withdraw",
+    "okex-book",
+    "telebot",
+    "update-doc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/c9s/bbgo/archive/56b482fab3ed92b371a35fdd800653b1c3a09da2.tar.gz"
+  ],
+  "tag": [
+    "binance",
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "trading",
+    "trading-bot"
+  ],
+  "version": "HEAD-56b482f-250618T155603",
+  "version_upstream": "",
+  "bsum": "1ff62e589570edf41cb08880670e1a4a8d390e11f46fcd6711b6b54824d38bbe",
+  "build_date": "2025-06-19T17:33:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762519654",
+  "build_id": "15762519654",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/bbgo?tag=HEAD-56b482f-250618T155603-aarch64-Linux&download=bbgo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1367",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/bbgo?tag=HEAD-56b482f-250618T155603-aarch64-Linux&download=bbgo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/c9s/bbgo/bbgo:HEAD-56b482f-250618T155603-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/c9s/bbgo/bbgo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/bbgo?tag=HEAD-56b482f-250618T155603-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c8ee3dd20698469441305b2169e680a19aad014f0c925d05e1902480f6bff2c",
+  "size": "52 MB",
+  "size_raw": "53493920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
