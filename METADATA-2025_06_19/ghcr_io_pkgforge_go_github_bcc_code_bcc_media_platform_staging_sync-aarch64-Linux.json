@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "staging-sync",
+  "pkg_family": "bcc-media-platform",
+  "pkg_id": "staging-sync#github.com_bcc_code_bcc_media_platform",
+  "pkg_name": "staging-sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bcc-code/bcc-media-platform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[BCC Media] Website and backend for the BCC Media apps",
+  "homepage": [
+    "https://github.com/bcc-code/bcc-media-platform"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "jobs",
+    "pubsub-helper",
+    "rewriter",
+    "staging-sync",
+    "tools",
+    "videomanipulator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bcc-code/bcc-media-platform/archive/f10b05acd654182fd00a2f3c84f646bc2118fdc9.tar.gz"
+  ],
+  "tag": [
+    "bcc-media"
+  ],
+  "version": "HEAD-f10b05a-250619T161450",
+  "version_upstream": "",
+  "bsum": "1d29236548cfab886c196d0de1e7e90821bba48ea30ac33b48aad3988aafcdc4",
+  "build_date": "2025-06-19T17:07:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762322931",
+  "build_id": "15762322931",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bcc-code/bcc-media-platform/staging-sync?tag=HEAD-f10b05a-250619T161450-aarch64-Linux&download=staging-sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bcc-code/bcc-media-platform/staging-sync?tag=HEAD-f10b05a-250619T161450-aarch64-Linux&download=staging-sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bcc-code/bcc-media-platform/staging-sync:HEAD-f10b05a-250619T161450-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bcc-code/bcc-media-platform/staging-sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bcc-code/bcc-media-platform/staging-sync?tag=HEAD-f10b05a-250619T161450-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a51d274c4df7df57cef4d942488165c03c8497166fe761116683b2146d04b83",
+  "size": "21 MB",
+  "size_raw": "21511392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
