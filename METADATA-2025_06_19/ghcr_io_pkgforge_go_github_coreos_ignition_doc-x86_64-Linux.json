@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "doc",
+  "pkg_family": "ignition",
+  "pkg_id": "doc#github.com_coreos_ignition",
+  "pkg_name": "doc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coreos/ignition",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "First boot installer and configuration tool",
+  "homepage": [
+    "https://github.com/coreos/ignition"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc",
+    "docs",
+    "groupdel-stub",
+    "useradd-stub",
+    "userdel-stub",
+    "usermod-stub",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coreos/ignition/archive/4d1a06336b7902f54d1abc0d18846321dfa98566.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4d1a063-250610T160627",
+  "version_upstream": "",
+  "bsum": "00d3585f8b83981048dd6c47b43059c6ee31fce67cbed6977ad6fee0218d9565",
+  "build_date": "2025-06-19T20:01:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764563292",
+  "build_id": "15764563292",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/doc?tag=HEAD-4d1a063-250610T160627-x86_64-Linux&download=doc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "889",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/doc?tag=HEAD-4d1a063-250610T160627-x86_64-Linux&download=doc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coreos/ignition/doc:HEAD-4d1a063-250610T160627-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coreos/ignition/doc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/doc?tag=HEAD-4d1a063-250610T160627-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42953cec7ec36bb667f42057137c04fb2c208a67f6e243c30462d64e177c67ac",
+  "size": "7.3 MB",
+  "size_raw": "7613344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
