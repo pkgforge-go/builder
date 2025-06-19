@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lsftp",
+  "pkg_family": "lssh",
+  "pkg_id": "lsftp#github.com_blacknon_lssh",
+  "pkg_name": "lsftp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blacknon/lssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.",
+  "homepage": [
+    "https://github.com/blacknon/lssh"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lscp",
+    "lsftp",
+    "lssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blacknon/lssh/archive/105ec27914937de98da76bd2c136f5e079d41f68.tar.gz"
+  ],
+  "tag": [
+    "command-line",
+    "command-line-tool",
+    "go",
+    "golang",
+    "linux",
+    "macos",
+    "scp",
+    "sftp",
+    "ssh",
+    "ssh-client",
+    "tui",
+    "windows"
+  ],
+  "version": "HEAD-105ec27-240909T232605",
+  "version_upstream": "v0.6.13",
+  "bsum": "d03f1bab31247c61285cecfa71a2ec9c3007f3b21e4a0d52d4213bbedf29211b",
+  "build_date": "2025-06-19T14:19:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759375587",
+  "build_id": "15759375587",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacknon/lssh/lsftp?tag=HEAD-105ec27-240909T232605-riscv64-Linux&download=lsftp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "277",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacknon/lssh/lsftp?tag=HEAD-105ec27-240909T232605-riscv64-Linux&download=lsftp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blacknon/lssh/lsftp:HEAD-105ec27-240909T232605-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blacknon/lssh/lsftp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacknon/lssh/lsftp?tag=HEAD-105ec27-240909T232605-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c795a4bdf8350da18a1ed0bd2016125facfb86ae58e93a8d1dfa6190fdc2b02e",
+  "size": "9.2 MB",
+  "size_raw": "9598616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
