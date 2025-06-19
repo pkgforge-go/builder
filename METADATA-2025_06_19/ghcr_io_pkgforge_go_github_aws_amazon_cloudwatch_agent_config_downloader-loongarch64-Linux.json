@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "config-downloader",
+  "pkg_family": "amazon-cloudwatch-agent",
+  "pkg_id": "config-downloader#github.com_aws_amazon_cloudwatch_agent",
+  "pkg_name": "config-downloader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-cloudwatch-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.",
+  "homepage": [
+    "https://github.com/aws/amazon-cloudwatch-agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amazon-cloudwatch-agent-config-wizard",
+    "config-downloader",
+    "config-translator",
+    "start-amazon-cloudwatch-agent",
+    "xray-migration"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-cloudwatch-agent/archive/4b3a20009d52595a4b06aa414aa18b15dcc8ef6a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b3a200-250618T134306",
+  "version_upstream": "v1.300057.0",
+  "bsum": "9755764ccfaef34e737c63f1c964f397939d149c71f8ed8310c554888a7b97ed",
+  "build_date": "2025-06-19T13:24:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758279459",
+  "build_id": "15758279459",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-downloader?tag=HEAD-4b3a200-250618T134306-loongarch64-Linux&download=config-downloader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "481",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-downloader?tag=HEAD-4b3a200-250618T134306-loongarch64-Linux&download=config-downloader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-downloader:HEAD-4b3a200-250618T134306-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-downloader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/config-downloader?tag=HEAD-4b3a200-250618T134306-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e8a27449e64171ce0276cd2ca55dfa0f385df53a57967bdd109e443e55958085",
+  "size": "38 MB",
+  "size_raw": "39551328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

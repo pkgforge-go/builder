@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "xray-migration",
+  "pkg_family": "amazon-cloudwatch-agent",
+  "pkg_id": "xray-migration#github.com_aws_amazon_cloudwatch_agent",
+  "pkg_name": "xray-migration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-cloudwatch-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.",
+  "homepage": [
+    "https://github.com/aws/amazon-cloudwatch-agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amazon-cloudwatch-agent-config-wizard",
+    "config-downloader",
+    "config-translator",
+    "start-amazon-cloudwatch-agent",
+    "xray-migration"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-cloudwatch-agent/archive/4b3a20009d52595a4b06aa414aa18b15dcc8ef6a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b3a200-250618T134306",
+  "version_upstream": "v1.300057.0",
+  "bsum": "36e7da7d36ffe8e6dcb02fe105774da40ae18fc1e4722319ff3e88d0823b098f",
+  "build_date": "2025-06-19T13:24:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758279459",
+  "build_id": "15758279459",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/xray-migration?tag=HEAD-4b3a200-250618T134306-loongarch64-Linux&download=xray-migration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "481",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/xray-migration?tag=HEAD-4b3a200-250618T134306-loongarch64-Linux&download=xray-migration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/xray-migration:HEAD-4b3a200-250618T134306-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/xray-migration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/xray-migration?tag=HEAD-4b3a200-250618T134306-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c8c953479edab7c3196085529f4ada67ca02fbf9be4c385efc86265cb789d85",
+  "size": "7.4 MB",
+  "size_raw": "7657280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
