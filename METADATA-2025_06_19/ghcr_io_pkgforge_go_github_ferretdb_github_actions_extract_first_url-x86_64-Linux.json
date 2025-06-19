@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "extract-first-url",
+  "pkg_family": "github-actions",
+  "pkg_id": "extract-first-url#github.com_FerretDB_github_actions",
+  "pkg_name": "extract-first-url",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FerretDB/github-actions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shared GitHub Actions for FerretDB repos",
+  "homepage": [
+    "https://github.com/FerretDB/github-actions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conform-pr",
+    "detect-matching-pr",
+    "extract-docker-tag",
+    "extract-first-url",
+    "restart-pr-actions",
+    "setup-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FerretDB/github-actions/archive/849a31958e0d33864161bef4b459d71ec5b695f7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-849a319-250619T130103",
+  "version_upstream": "",
+  "bsum": "aa1c3baf6d1e90587ea91b5e5962a900eebf63cd3fa171d968df5fe12eb356d9",
+  "build_date": "2025-06-19T15:43:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761415182",
+  "build_id": "15761415182",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/extract-first-url?tag=HEAD-849a319-250619T130103-x86_64-Linux&download=extract-first-url.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/extract-first-url?tag=HEAD-849a319-250619T130103-x86_64-Linux&download=extract-first-url",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ferretdb/github-actions/extract-first-url:HEAD-849a319-250619T130103-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ferretdb/github-actions/extract-first-url",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/github-actions/extract-first-url?tag=HEAD-849a319-250619T130103-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "726a1aa4b8aecdd8304fad835690a8f0ba9580575679fc1d70ca9cf722387c5e",
+  "size": "4.4 MB",
+  "size_raw": "4600128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
