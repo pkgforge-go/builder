@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "kubernetes-ingress-controller",
+  "pkg_id": "cmd#github.com_Kong_kubernetes_ingress_controller",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Kong/kubernetes-ingress-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.",
+  "homepage": [
+    "https://github.com/Kong/kubernetes-ingress-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-stores",
+    "cleanup",
+    "cli-arguments-docs-gen",
+    "cmd",
+    "networking"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Kong/kubernetes-ingress-controller/archive/1ff5b45a08a545b328b94c02d695dd863166b3e5.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "crds",
+    "ingress",
+    "ingress-controller",
+    "k8s",
+    "kong",
+    "kubernetes",
+    "kubernetes-ingress",
+    "kubernetes-ingress-controller",
+    "microservices",
+    "team-k8s"
+  ],
+  "version": "HEAD-1ff5b45-250619T105054",
+  "version_upstream": "",
+  "bsum": "bbcb337dfe23450b67b9024507870973a4904043d1150d8d689dbde4e20a1564",
+  "build_date": "2025-06-19T15:54:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761433026",
+  "build_id": "15761433026",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/cmd?tag=HEAD-1ff5b45-250619T105054-aarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2289",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/cmd?tag=HEAD-1ff5b45-250619T105054-aarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kong/kubernetes-ingress-controller/cmd:HEAD-1ff5b45-250619T105054-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kong/kubernetes-ingress-controller/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/cmd?tag=HEAD-1ff5b45-250619T105054-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f1890962f0e4099ffb975d77a6f2caba5d0e926b2f157e7ebf2716074b34e97",
+  "size": "72 MB",
+  "size_raw": "74632256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
