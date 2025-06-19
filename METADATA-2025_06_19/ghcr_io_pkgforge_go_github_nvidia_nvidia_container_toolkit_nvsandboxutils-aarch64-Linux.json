@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nvsandboxutils",
+  "pkg_family": "nvidia-container-toolkit",
+  "pkg_id": "nvsandboxutils#github.com_NVIDIA_nvidia_container_toolkit",
+  "pkg_name": "nvsandboxutils",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/nvidia-container-toolkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build and run containers leveraging NVIDIA GPUs",
+  "homepage": [
+    "https://github.com/NVIDIA/nvidia-container-toolkit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nvsandboxutils"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/nvidia-container-toolkit/archive/0dddd5cfd8fffaafaa2a1bd1f46329c6a375e295.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0dddd5c-250618T234044",
+  "version_upstream": "",
+  "bsum": "8fee314d792806aad3b797a918ebb098cf21fac0b186a775c99b5f0291cbe04e",
+  "build_date": "2025-06-19T10:17:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754951345",
+  "build_id": "15754951345",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/nvidia-container-toolkit/nvsandboxutils?tag=HEAD-0dddd5c-250618T234044-aarch64-Linux&download=nvsandboxutils.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3328",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/nvidia-container-toolkit/nvsandboxutils?tag=HEAD-0dddd5c-250618T234044-aarch64-Linux&download=nvsandboxutils",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/nvidia-container-toolkit/nvsandboxutils:HEAD-0dddd5c-250618T234044-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/nvidia-container-toolkit/nvsandboxutils",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/nvidia-container-toolkit/nvsandboxutils?tag=HEAD-0dddd5c-250618T234044-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a27c77bb20096672326f1083e528d0bc991639d0df8ad65a411435343fcfe4d",
+  "size": "2.3 MB",
+  "size_raw": "2307608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
