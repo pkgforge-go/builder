@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "license-report",
+  "pkg_family": "ContainerSSH",
+  "pkg_id": "license-report#github.com_ContainerSSH_ContainerSSH",
+  "pkg_name": "license-report",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ContainerSSH/ContainerSSH",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ContainerSSH: Launch containers on demand",
+  "homepage": [
+    "https://github.com/ContainerSSH/ContainerSSH"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "containerssh",
+    "containerssh-auditlog-decoder",
+    "containerssh-testauthconfigserver",
+    "format",
+    "generate-message-codes",
+    "license-report",
+    "swagger",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ContainerSSH/ContainerSSH/archive/5e72a6b7876dcd631ba8f360a4c6b12431bc0a14.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "devsecops",
+    "docker",
+    "kubernetes",
+    "security",
+    "security-tools",
+    "ssh"
+  ],
+  "version": "HEAD-5e72a6b-250128T084449",
+  "version_upstream": "",
+  "bsum": "1c42a9ef171e587aef6989c00944b53f141a2cab9e2f00ea4200fd3a7077dbda",
+  "build_date": "2025-06-19T08:37:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752603556",
+  "build_id": "15752603556",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/license-report?tag=HEAD-5e72a6b-250128T084449-x86_64-Linux&download=license-report.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/license-report?tag=HEAD-5e72a6b-250128T084449-x86_64-Linux&download=license-report",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerssh/containerssh/license-report:HEAD-5e72a6b-250128T084449-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerssh/containerssh/license-report",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/license-report?tag=HEAD-5e72a6b-250128T084449-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67ccb620ac6309af3008676014a1f11db4c283f7f8c062f790e898b90a1e275a",
+  "size": "12 MB",
+  "size_raw": "11920560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
