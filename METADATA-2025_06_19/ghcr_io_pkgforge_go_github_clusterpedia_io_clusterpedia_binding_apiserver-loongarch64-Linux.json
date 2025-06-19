@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "binding-apiserver",
+  "pkg_family": "clusterpedia",
+  "pkg_id": "binding-apiserver#github.com_clusterpedia_io_clusterpedia",
+  "pkg_name": "binding-apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clusterpedia-io/clusterpedia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Encyclopedia of Kubernetes clusters",
+  "homepage": [
+    "https://github.com/clusterpedia-io/clusterpedia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "binding-apiserver",
+    "clustersynchro-manager",
+    "controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clusterpedia-io/clusterpedia/archive/ba97edcad137c7af8a2ce9cd59cceeee6d9d00d6.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "k8s-sig-multicluster",
+    "kubernetes",
+    "multi-cloud-kubernetes",
+    "multi-cluster"
+  ],
+  "version": "HEAD-ba97edc-250619T164821",
+  "version_upstream": "",
+  "bsum": "ea688f32d0229436119f732c92455c5d25afbf5fe27031c968b51baf89977f69",
+  "build_date": "2025-06-19T19:30:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764363116",
+  "build_id": "15764363116",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterpedia-io/clusterpedia/binding-apiserver?tag=HEAD-ba97edc-250619T164821-loongarch64-Linux&download=binding-apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "833",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterpedia-io/clusterpedia/binding-apiserver?tag=HEAD-ba97edc-250619T164821-loongarch64-Linux&download=binding-apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clusterpedia-io/clusterpedia/binding-apiserver:HEAD-ba97edc-250619T164821-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clusterpedia-io/clusterpedia/binding-apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterpedia-io/clusterpedia/binding-apiserver?tag=HEAD-ba97edc-250619T164821-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8fb55eeb7b5c9d50e8234b90853a82f64f13233db29d48278f41993dd49ca11e",
+  "size": "110 MB",
+  "size_raw": "114945032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
