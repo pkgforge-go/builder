@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check_vmware_snapshots_age",
+  "pkg_family": "check-vmware",
+  "pkg_id": "check_vmware_snapshots_age#github.com_atc0005_check_vmware",
+  "pkg_name": "check_vmware_snapshots_age",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/atc0005/check-vmware",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go-based tooling to monitor VMware environments_ NOT affiliated with or endorsed by VMware, Inc.",
+  "homepage": [
+    "https://github.com/atc0005/check-vmware"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_vmware_alarms",
+    "check_vmware_datastore_performance",
+    "check_vmware_datastore_space",
+    "check_vmware_disk_consolidation",
+    "check_vmware_host_cpu",
+    "check_vmware_host_memory",
+    "check_vmware_hs2ds2vms",
+    "check_vmware_question",
+    "check_vmware_rps_memory",
+    "check_vmware_snapshots_age",
+    "check_vmware_snapshots_count",
+    "check_vmware_snapshots_size",
+    "check_vmware_tools",
+    "check_vmware_vcpus",
+    "check_vmware_vhw",
+    "check_vmware_vm_backup_via_ca",
+    "check_vmware_vm_list",
+    "check_vmware_vm_power_uptime"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/atc0005/check-vmware/archive/66fab1e5d106b153b41431a0d9780cc7864808e7.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "metrics",
+    "monitoring",
+    "nagios",
+    "nagios-plugin",
+    "plugin",
+    "tools",
+    "vmware"
+  ],
+  "version": "HEAD-66fab1e-250603T061034",
+  "version_upstream": "",
+  "bsum": "92078c73a8dacf10863fca4ed7e326b8e9623e9084088e045c2b8fbef46f82f8",
+  "build_date": "2025-06-19T13:11:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758240216",
+  "build_id": "15758240216",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/check-vmware/check_vmware_snapshots_age?tag=HEAD-66fab1e-250603T061034-x86_64-Linux&download=check_vmware_snapshots_age.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/check-vmware/check_vmware_snapshots_age?tag=HEAD-66fab1e-250603T061034-x86_64-Linux&download=check_vmware_snapshots_age",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/atc0005/check-vmware/check_vmware_snapshots_age:HEAD-66fab1e-250603T061034-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/atc0005/check-vmware/check_vmware_snapshots_age",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/check-vmware/check_vmware_snapshots_age?tag=HEAD-66fab1e-250603T061034-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e234e0bce58d626709d3d29e5892952a7eaee175d1507ad93255c15d2eddd2e5",
+  "size": "16 MB",
+  "size_raw": "16767136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
