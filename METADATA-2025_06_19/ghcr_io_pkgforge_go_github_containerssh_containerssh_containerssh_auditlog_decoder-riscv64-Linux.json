@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "containerssh-auditlog-decoder",
+  "pkg_family": "ContainerSSH",
+  "pkg_id": "containerssh-auditlog-decoder#github.com_ContainerSSH_ContainerSSH",
+  "pkg_name": "containerssh-auditlog-decoder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ContainerSSH/ContainerSSH",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ContainerSSH: Launch containers on demand",
+  "homepage": [
+    "https://github.com/ContainerSSH/ContainerSSH"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "containerssh",
+    "containerssh-auditlog-decoder",
+    "containerssh-testauthconfigserver",
+    "format",
+    "generate-message-codes",
+    "license-report",
+    "swagger",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ContainerSSH/ContainerSSH/archive/5e72a6b7876dcd631ba8f360a4c6b12431bc0a14.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "devsecops",
+    "docker",
+    "kubernetes",
+    "security",
+    "security-tools",
+    "ssh"
+  ],
+  "version": "HEAD-5e72a6b-250128T084449",
+  "version_upstream": "",
+  "bsum": "f2d720b77151e9d2d717e15cc1457d08d53c851f2397c8176903d55cc91cda51",
+  "build_date": "2025-06-19T08:35:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752603556",
+  "build_id": "15752603556",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/containerssh-auditlog-decoder?tag=HEAD-5e72a6b-250128T084449-riscv64-Linux&download=containerssh-auditlog-decoder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/containerssh-auditlog-decoder?tag=HEAD-5e72a6b-250128T084449-riscv64-Linux&download=containerssh-auditlog-decoder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerssh/containerssh/containerssh-auditlog-decoder:HEAD-5e72a6b-250128T084449-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerssh/containerssh/containerssh-auditlog-decoder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/containerssh-auditlog-decoder?tag=HEAD-5e72a6b-250128T084449-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "245e354b6e40a16249c4b67dd0f301cad7e11354295148f63adf671868b3e996",
+  "size": "2.7 MB",
+  "size_raw": "2807752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
