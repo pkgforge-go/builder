@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubectl-cnpg",
+  "pkg_family": "cloudnative-pg",
+  "pkg_id": "kubectl-cnpg#github.com_cloudnative_pg_cloudnative_pg",
+  "pkg_name": "kubectl-cnpg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudnative-pg/cloudnative-pg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+  "homepage": [
+    "https://github.com/cloudnative-pg/cloudnative-pg"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-cnpg",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudnative-pg/cloudnative-pg/archive/391ca599050a14a2b0c03fb2e8f349e8ac00bb66.tar.gz"
+  ],
+  "tag": [
+    "automated-failover",
+    "business-continuity",
+    "database",
+    "database-management",
+    "devops",
+    "disaster-recovery",
+    "failover",
+    "high-availability",
+    "json-logging",
+    "k8s",
+    "kubectl-plugin",
+    "kubernetes",
+    "operator",
+    "postgres",
+    "postgresql",
+    "prometheus-exporter",
+    "replication",
+    "self-healing",
+    "sql",
+    "switchover"
+  ],
+  "version": "HEAD-391ca59-250619T103449",
+  "version_upstream": "",
+  "bsum": "c6c64d8b3d312b020273189bd04f71624e533a9ae4bda3eb8afb3b8419cf03b9",
+  "build_date": "2025-06-19T19:16:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764332136",
+  "build_id": "15764332136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudnative-pg/cloudnative-pg/kubectl-cnpg?tag=HEAD-391ca59-250619T103449-loongarch64-Linux&download=kubectl-cnpg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudnative-pg/cloudnative-pg/kubectl-cnpg?tag=HEAD-391ca59-250619T103449-loongarch64-Linux&download=kubectl-cnpg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudnative-pg/cloudnative-pg/kubectl-cnpg:HEAD-391ca59-250619T103449-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudnative-pg/cloudnative-pg/kubectl-cnpg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudnative-pg/cloudnative-pg/kubectl-cnpg?tag=HEAD-391ca59-250619T103449-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69ed47af0cc956daf9627b1541086445b9f3c4d1ac224f67de72e32ecf26996e",
+  "size": "108 MB",
+  "size_raw": "112642432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
