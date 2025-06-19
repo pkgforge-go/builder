@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prune-junit-xml",
+  "pkg_family": "cert-manager",
+  "pkg_id": "prune-junit-xml#github.com_cert_manager_cert_manager",
+  "pkg_name": "prune-junit-xml",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cert-manager/cert-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatically provision and manage TLS certificates in Kubernetes",
+  "homepage": [
+    "https://github.com/cert-manager/cert-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acmeprobe",
+    "extractcrd",
+    "prune-junit-xml",
+    "sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cert-manager/cert-manager/archive/63b4706a2e27696bf580e346e47db7d502308c91.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "crd",
+    "hacktoberfest",
+    "kubernetes",
+    "letsencrypt",
+    "tls"
+  ],
+  "version": "HEAD-63b4706-250619T123710",
+  "version_upstream": "",
+  "bsum": "279bed1773ecab844414c6fa1a1d39f2cdb579bacf9bb3414079c330465e73d1",
+  "build_date": "2025-06-19T18:03:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763085576",
+  "build_id": "15763085576",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/cert-manager/prune-junit-xml?tag=HEAD-63b4706-250619T123710-x86_64-Linux&download=prune-junit-xml.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12894",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/cert-manager/prune-junit-xml?tag=HEAD-63b4706-250619T123710-x86_64-Linux&download=prune-junit-xml",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cert-manager/cert-manager/prune-junit-xml:HEAD-63b4706-250619T123710-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cert-manager/cert-manager/prune-junit-xml",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/cert-manager/prune-junit-xml?tag=HEAD-63b4706-250619T123710-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4929f9f159045fe91dcbce15a62edcfb6aab6ed58b5e97a25c5a8d42672e61d8",
+  "size": "2.3 MB",
+  "size_raw": "2393080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
