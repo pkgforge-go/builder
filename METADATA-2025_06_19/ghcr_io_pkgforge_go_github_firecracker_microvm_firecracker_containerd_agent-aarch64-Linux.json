@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "firecracker-containerd",
+  "pkg_id": "agent#github.com_firecracker_microvm_firecracker_containerd",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/firecracker-microvm/firecracker-containerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+  "homepage": [
+    "https://github.com/firecracker-microvm/firecracker-containerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "containerd",
+    "firecracker-containerd-examples",
+    "internal",
+    "runtime",
+    "snapshotter",
+    "test-bridged-tap",
+    "volume-init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/firecracker-microvm/firecracker-containerd/archive/e6c7a36c34f827a4229d4c898f9b406e9742d7a5.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "containerd",
+    "containers",
+    "firecracker",
+    "firecracker-containerd",
+    "firecracker-microvms",
+    "oci",
+    "virtualization"
+  ],
+  "version": "HEAD-e6c7a36-250418T105828",
+  "version_upstream": "",
+  "bsum": "f60e77b98e86be6621bbdf72373fab8441f008bad00f95aa6672483e341e52f7",
+  "build_date": "2025-06-19T23:50:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767691845",
+  "build_id": "15767691845",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/firecracker-microvm/firecracker-containerd/agent?tag=HEAD-e6c7a36-250418T105828-aarch64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2388",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/firecracker-microvm/firecracker-containerd/agent?tag=HEAD-e6c7a36-250418T105828-aarch64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/firecracker-microvm/firecracker-containerd/agent:HEAD-e6c7a36-250418T105828-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/firecracker-microvm/firecracker-containerd/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/firecracker-microvm/firecracker-containerd/agent?tag=HEAD-e6c7a36-250418T105828-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21c7d1f4c77945e908bea6e68b8ea7e5c30c40829beefac1ceb522e5fb3e6c6e",
+  "size": "19 MB",
+  "size_raw": "19136192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
