@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testplugin",
+  "pkg_family": "conduit",
+  "pkg_id": "testplugin#github.com_ConduitIO_conduit",
+  "pkg_name": "testplugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ConduitIO/conduit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Conduit streams data between data stores. Kafka Connect replacement. No JVM required.",
+  "homepage": [
+    "https://github.com/ConduitIO/conduit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conduit",
+    "testplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ConduitIO/conduit/archive/2b3ae3702e708d466e67f7656bb4722d59be609f.tar.gz"
+  ],
+  "tag": [
+    "conduit",
+    "data-engineering",
+    "data-integration",
+    "data-pipeline",
+    "data-stream",
+    "etl",
+    "go",
+    "kafka",
+    "kafkaconnect"
+  ],
+  "version": "HEAD-2b3ae37-250619T071206",
+  "version_upstream": "",
+  "bsum": "687f3be62f3333dfe32bf73953561dcc2e0cbb9efda2ecf5916f9455f51a756b",
+  "build_date": "2025-06-19T15:32:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761412393",
+  "build_id": "15761412393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conduitio/conduit/testplugin?tag=HEAD-2b3ae37-250619T071206-aarch64-Linux&download=testplugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "531",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conduitio/conduit/testplugin?tag=HEAD-2b3ae37-250619T071206-aarch64-Linux&download=testplugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/conduitio/conduit/testplugin:HEAD-2b3ae37-250619T071206-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/conduitio/conduit/testplugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conduitio/conduit/testplugin?tag=HEAD-2b3ae37-250619T071206-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "62abd57a709856658bda61780afe8318f5a1e05fc693a697fe14100efd84a6b9",
+  "size": "15 MB",
+  "size_raw": "15242624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
