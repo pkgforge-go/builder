@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go-apt-mirror",
+  "pkg_family": "aptutil",
+  "pkg_id": "go-apt-mirror#github.com_cybozu_go_aptutil",
+  "pkg_name": "go-apt-mirror",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/aptutil",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go utilities for Debian APT repositories",
+  "homepage": [
+    "https://github.com/cybozu-go/aptutil"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-apt-cacher",
+    "go-apt-mirror"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/aptutil/archive/08714b5f97ddb3c79520ad126752fc6c777e4ae8.tar.gz"
+  ],
+  "tag": [
+    "apt",
+    "cacher",
+    "debian",
+    "go",
+    "mirror",
+    "ubuntu"
+  ],
+  "version": "HEAD-08714b5-241029T171016",
+  "version_upstream": "",
+  "bsum": "1a18b2ef76868ab093f60c6ce05990432797ec1826c5f79457029e14e7762c94",
+  "build_date": "2025-06-19T20:35:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765440734",
+  "build_id": "15765440734",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/aptutil/go-apt-mirror?tag=HEAD-08714b5-241029T171016-aarch64-Linux&download=go-apt-mirror.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/aptutil/go-apt-mirror?tag=HEAD-08714b5-241029T171016-aarch64-Linux&download=go-apt-mirror",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/aptutil/go-apt-mirror:HEAD-08714b5-241029T171016-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/aptutil/go-apt-mirror",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/aptutil/go-apt-mirror?tag=HEAD-08714b5-241029T171016-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "738fa03d11ea271a8cc295cfe99a62be366b1c10b51d67841a0cc828dfc5f2fc",
+  "size": "7.0 MB",
+  "size_raw": "7249664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
