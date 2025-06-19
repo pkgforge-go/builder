@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ck-server",
+  "pkg_family": "Cloak",
+  "pkg_id": "ck-server#github.com_cbeuw_Cloak",
+  "pkg_name": "ck-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cbeuw/Cloak",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A censorship circumvention tool to evade detection by authoritarian state adversaries",
+  "homepage": [
+    "https://github.com/cbeuw/Cloak"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ck-client",
+    "ck-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cbeuw/Cloak/archive/49357fc20b9f3d642e2c3c42546ded494f7163e7.tar.gz"
+  ],
+  "tag": [
+    "censorship",
+    "censorship-circumvention",
+    "gfw",
+    "openvpn",
+    "pluggable-transports",
+    "proxy",
+    "shadowsocks",
+    "tor",
+    "vpn"
+  ],
+  "version": "HEAD-49357fc-250608T182155",
+  "version_upstream": "",
+  "bsum": "6ea4619cb5a4c90a0e7c2056791a195314f89ad1487d190c289540f7468d1af5",
+  "build_date": "2025-06-19T17:47:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762691939",
+  "build_id": "15762691939",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbeuw/cloak/ck-server?tag=HEAD-49357fc-250608T182155-riscv64-Linux&download=ck-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3594",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbeuw/cloak/ck-server?tag=HEAD-49357fc-250608T182155-riscv64-Linux&download=ck-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cbeuw/cloak/ck-server:HEAD-49357fc-250608T182155-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cbeuw/cloak/ck-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbeuw/cloak/ck-server?tag=HEAD-49357fc-250608T182155-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa1deda23680763c797defba4dd84a3f72aa3c88f5fc5137dbbcbf691e77a79d",
+  "size": "7.5 MB",
+  "size_raw": "7815928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
