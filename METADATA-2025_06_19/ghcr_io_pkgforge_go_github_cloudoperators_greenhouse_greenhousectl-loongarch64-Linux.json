@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "greenhousectl",
+  "pkg_family": "greenhouse",
+  "pkg_id": "greenhousectl#github.com_cloudoperators_greenhouse",
+  "pkg_name": "greenhousectl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudoperators/greenhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud operations platform",
+  "homepage": [
+    "https://github.com/cloudoperators/greenhouse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cors-proxy",
+    "greenhouse",
+    "greenhousectl",
+    "hack",
+    "idproxy",
+    "service-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudoperators/greenhouse/archive/218c760234ed96000d44d664a134000e8238e6ee.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "compliance",
+    "juno",
+    "k8s",
+    "kubebuilder",
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "operations",
+    "prometheus",
+    "reactjs",
+    "security"
+  ],
+  "version": "HEAD-218c760-250619T101321",
+  "version_upstream": "",
+  "bsum": "1be2ca7a7c61ff20dc4dd01f877a293ee69bc447ce5c9a172c2217825273dcf3",
+  "build_date": "2025-06-19T19:21:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764333689",
+  "build_id": "15764333689",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/greenhousectl?tag=HEAD-218c760-250619T101321-loongarch64-Linux&download=greenhousectl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/greenhousectl?tag=HEAD-218c760-250619T101321-loongarch64-Linux&download=greenhousectl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudoperators/greenhouse/greenhousectl:HEAD-218c760-250619T101321-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudoperators/greenhouse/greenhousectl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/greenhousectl?tag=HEAD-218c760-250619T101321-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d1bc457a9ecf36273b784fa209d302dd31513134a89065f6bed5506852ca66a",
+  "size": "80 MB",
+  "size_raw": "82959520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
