@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tyk",
+  "pkg_family": "tyk",
+  "pkg_id": "tyk#github.com_TykTechnologies_tyk",
+  "pkg_name": "tyk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TykTechnologies/tyk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+  "homepage": [
+    "https://github.com/TykTechnologies/tyk"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gomock_reflect_3503306920",
+    "schema",
+    "scripts",
+    "tyk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TykTechnologies/tyk/archive/e4419e97820c6af89e633419366ab2cd2947f255.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "api-gateway",
+    "api-management",
+    "cloudnative",
+    "go",
+    "graphql",
+    "grpc",
+    "k8s",
+    "kubernetes",
+    "microservices",
+    "reverse-proxy",
+    "tyk"
+  ],
+  "version": "HEAD-e4419e9-250618T115603",
+  "version_upstream": "",
+  "bsum": "1950c00e3e5971c8a3efb071d2408e4834597996f1831c68d28bc7a6202944a0",
+  "build_date": "2025-06-19T11:32:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756124663",
+  "build_id": "15756124663",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyktechnologies/tyk/tyk?tag=HEAD-e4419e9-250618T115603-aarch64-Linux&download=tyk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10192",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyktechnologies/tyk/tyk?tag=HEAD-e4419e9-250618T115603-aarch64-Linux&download=tyk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tyktechnologies/tyk/tyk:HEAD-e4419e9-250618T115603-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tyktechnologies/tyk/tyk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyktechnologies/tyk/tyk?tag=HEAD-e4419e9-250618T115603-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "68bf1d1525c300463179a6b67f93cceb91edc1e1d9af8227451ced7918acf2e8",
+  "size": "221 MB",
+  "size_raw": "231120128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
