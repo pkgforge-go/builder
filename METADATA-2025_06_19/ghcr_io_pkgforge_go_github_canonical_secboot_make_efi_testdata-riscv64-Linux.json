@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "make-efi-testdata",
+  "pkg_family": "secboot",
+  "pkg_id": "make-efi-testdata#github.com_canonical_secboot",
+  "pkg_name": "make-efi-testdata",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/secboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/canonical/secboot"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-compattest-data",
+    "make-efi-testdata",
+    "run_argon2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/secboot/archive/97bf6d7fa895ebab5e3e10d2a86ee58154c1e76a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-97bf6d7-250619T110227",
+  "version_upstream": "",
+  "bsum": "b3210e3b33b1e5401962438f9f88db709105d740490cedf9aec0fb7df88b21d3",
+  "build_date": "2025-06-19T17:31:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762602900",
+  "build_id": "15762602900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/make-efi-testdata?tag=HEAD-97bf6d7-250619T110227-riscv64-Linux&download=make-efi-testdata.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/make-efi-testdata?tag=HEAD-97bf6d7-250619T110227-riscv64-Linux&download=make-efi-testdata",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/secboot/make-efi-testdata:HEAD-97bf6d7-250619T110227-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/secboot/make-efi-testdata",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/make-efi-testdata?tag=HEAD-97bf6d7-250619T110227-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "43c6004d86f7ad4698d238755c4538d7cc6988e8776ffa9f9fe2db7d0a38d73b",
+  "size": "5.7 MB",
+  "size_raw": "5892536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
