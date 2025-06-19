@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "extension",
+  "pkg_family": "hotswap",
+  "pkg_id": "extension#github.com_edwingeng_hotswap",
+  "pkg_name": "extension",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edwingeng/hotswap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.",
+  "homepage": [
+    "https://github.com/edwingeng/hotswap"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "extension",
+    "hello",
+    "hotswap",
+    "livex",
+    "slink",
+    "trine"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edwingeng/hotswap/archive/cb7c6779d058ebcd72551d2bd6d86caf9a3f5390.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hot-reload",
+    "hot-swap",
+    "hotswap",
+    "plugin"
+  ],
+  "version": "HEAD-cb7c677-240524T084506",
+  "version_upstream": "",
+  "bsum": "1f109d8dd781021871c607c23feeaeb7c2e5cc2375f39864f6ca456c1494d000",
+  "build_date": "2025-06-19T22:18:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766713162",
+  "build_id": "15766713162",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edwingeng/hotswap/extension?tag=HEAD-cb7c677-240524T084506-riscv64-Linux&download=extension.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "396",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edwingeng/hotswap/extension?tag=HEAD-cb7c677-240524T084506-riscv64-Linux&download=extension",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edwingeng/hotswap/extension:HEAD-cb7c677-240524T084506-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edwingeng/hotswap/extension",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edwingeng/hotswap/extension?tag=HEAD-cb7c677-240524T084506-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a197acddcac7290d153c53f796f8be2e043aec55db1646e475e93b112d4b40fb",
+  "size": "9.2 MB",
+  "size_raw": "9543960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

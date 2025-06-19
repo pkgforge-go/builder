@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "livex",
+  "pkg_family": "hotswap",
+  "pkg_id": "livex#github.com_edwingeng_hotswap",
+  "pkg_name": "livex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edwingeng/hotswap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.",
+  "homepage": [
+    "https://github.com/edwingeng/hotswap"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "extension",
+    "hello",
+    "hotswap",
+    "livex",
+    "slink",
+    "trine"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edwingeng/hotswap/archive/cb7c6779d058ebcd72551d2bd6d86caf9a3f5390.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hot-reload",
+    "hot-swap",
+    "hotswap",
+    "plugin"
+  ],
+  "version": "HEAD-cb7c677-240524T084506",
+  "version_upstream": "",
+  "bsum": "cd879b51fab24b444d437c8df1af0f807eae8357c224a67b3bbe4221d9a5d02f",
+  "build_date": "2025-06-19T22:19:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766713162",
+  "build_id": "15766713162",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edwingeng/hotswap/livex?tag=HEAD-cb7c677-240524T084506-riscv64-Linux&download=livex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "396",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edwingeng/hotswap/livex?tag=HEAD-cb7c677-240524T084506-riscv64-Linux&download=livex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edwingeng/hotswap/livex:HEAD-cb7c677-240524T084506-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edwingeng/hotswap/livex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edwingeng/hotswap/livex?tag=HEAD-cb7c677-240524T084506-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5be0c2ae426692d1f405b9fcd308c35c1f28b3d70cded6db6bd1d72f37e2f6ed",
+  "size": "11 MB",
+  "size_raw": "11033528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
