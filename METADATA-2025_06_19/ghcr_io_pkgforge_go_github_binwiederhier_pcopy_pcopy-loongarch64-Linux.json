@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pcopy",
+  "pkg_family": "pcopy",
+  "pkg_id": "pcopy#github.com_binwiederhier_pcopy",
+  "pkg_name": "pcopy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/binwiederhier/pcopy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.",
+  "homepage": [
+    "https://github.com/binwiederhier/pcopy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pcopy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/binwiederhier/pcopy/archive/4a21c40e9c99383ebe8cda52b33ee9482aaa6675.tar.gz"
+  ],
+  "tag": [
+    "clipboard",
+    "copy-paste",
+    "curl",
+    "golang",
+    "netcat",
+    "nopaste",
+    "pastebin",
+    "self-hosted"
+  ],
+  "version": "HEAD-4a21c40-230314T075031",
+  "version_upstream": "",
+  "bsum": "0947af034c59fa81b297075d5096a1cc49de2730d770edab39468467bf702113",
+  "build_date": "2025-06-19T14:11:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759310758",
+  "build_id": "15759310758",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/binwiederhier/pcopy/pcopy?tag=HEAD-4a21c40-230314T075031-loongarch64-Linux&download=pcopy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "365",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/binwiederhier/pcopy/pcopy?tag=HEAD-4a21c40-230314T075031-loongarch64-Linux&download=pcopy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/binwiederhier/pcopy/pcopy:HEAD-4a21c40-230314T075031-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/binwiederhier/pcopy/pcopy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/binwiederhier/pcopy/pcopy?tag=HEAD-4a21c40-230314T075031-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0069fb9c94c365c8df0e12e4c68ea3221ef8b108d3ef03c8852b488114809e18",
+  "size": "11 MB",
+  "size_raw": "10687632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
