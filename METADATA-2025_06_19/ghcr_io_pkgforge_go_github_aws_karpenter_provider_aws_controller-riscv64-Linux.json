@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "karpenter-provider-aws",
+  "pkg_id": "controller#github.com_aws_karpenter_provider_aws",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/karpenter-provider-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+  "homepage": [
+    "https://github.com/aws/karpenter-provider-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "allocatable_diff",
+    "bandwidth_gen",
+    "compatibilitymatrix_gen",
+    "configuration_gen",
+    "controller",
+    "instancetype_testdata_gen",
+    "instancetypes_gen",
+    "kwok",
+    "launchtemplate_counter",
+    "metrics_gen",
+    "prices_gen",
+    "version_compatibility_gen",
+    "vpc_limits_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/karpenter-provider-aws/archive/a2195fbd12f9656e68bc299162f57090756bc718.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a2195fb-250618T122130",
+  "version_upstream": "",
+  "bsum": "25557711d5c0240881d29b2d81ae592117b5d8e05632be70064c50488521f63f",
+  "build_date": "2025-06-19T13:36:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758286692",
+  "build_id": "15758286692",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/controller?tag=HEAD-a2195fb-250618T122130-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7307",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/controller?tag=HEAD-a2195fb-250618T122130-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/karpenter-provider-aws/controller:HEAD-a2195fb-250618T122130-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/karpenter-provider-aws/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/controller?tag=HEAD-a2195fb-250618T122130-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0bb473f600e7f6f08e194d853d6a0e95f8f5d6365512ce60c9702fcc27ef9e6",
+  "size": "97 MB",
+  "size_raw": "101464888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
