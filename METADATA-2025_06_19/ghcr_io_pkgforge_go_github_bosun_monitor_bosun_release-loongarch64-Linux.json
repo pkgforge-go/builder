@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "release",
+  "pkg_family": "bosun",
+  "pkg_id": "release#github.com_bosun_monitor_bosun",
+  "pkg_name": "release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bosun-monitor/bosun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Time Series Alerting Framework",
+  "homepage": [
+    "https://github.com/bosun-monitor/bosun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "backfill",
+    "bosun",
+    "bosun-build",
+    "generate",
+    "integrationtest",
+    "release",
+    "scollector",
+    "silence",
+    "snmptester",
+    "synctokens",
+    "tsdbrelay",
+    "util"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bosun-monitor/bosun/archive/b8d3e981f37d353292afc46d88bc2a174ff593dc.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "bosun",
+    "go",
+    "monitoring",
+    "scollector",
+    "tsdb"
+  ],
+  "version": "HEAD-b8d3e98-250213T104149",
+  "version_upstream": "",
+  "bsum": "b48c53f34dd06b29ca193448c1b5c5a4a4d6ec8235a41c79088db73de98ba30d",
+  "build_date": "2025-06-19T14:51:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759846362",
+  "build_id": "15759846362",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/release?tag=HEAD-b8d3e98-250213T104149-loongarch64-Linux&download=release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3413",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/release?tag=HEAD-b8d3e98-250213T104149-loongarch64-Linux&download=release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bosun-monitor/bosun/release:HEAD-b8d3e98-250213T104149-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bosun-monitor/bosun/release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/release?tag=HEAD-b8d3e98-250213T104149-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "550e595112c65ea2070c1ac1a591991d56e63c43c3d43161e091fae187d60568",
+  "size": "6.1 MB",
+  "size_raw": "6350656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
