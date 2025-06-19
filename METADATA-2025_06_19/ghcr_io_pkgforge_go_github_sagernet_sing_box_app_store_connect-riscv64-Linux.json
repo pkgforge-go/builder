@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "app_store_connect",
+  "pkg_family": "sing-box",
+  "pkg_id": "app_store_connect#github.com_SagerNet_sing_box",
+  "pkg_name": "app_store_connect",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SagerNet/sing-box",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The universal proxy platform",
+  "homepage": [
+    "https://github.com/SagerNet/sing-box"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app_store_connect",
+    "build",
+    "build_libbox",
+    "protogen",
+    "read_tag",
+    "sing-box",
+    "update_android_version",
+    "update_apple_version",
+    "update_certificates"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SagerNet/sing-box/archive/ccceb8b30a911ad53fed9a6cebf09a8a517aa5dd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ccceb8b-250617T142711",
+  "version_upstream": "v1.12.0-beta.26",
+  "bsum": "bb0f8fedceb40e8dd9b67dacc0a882f23bcbe90ad19e6727dab8caf441e2d0a9",
+  "build_date": "2025-06-19T10:53:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755649412",
+  "build_id": "15755649412",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sagernet/sing-box/app_store_connect?tag=HEAD-ccceb8b-250617T142711-riscv64-Linux&download=app_store_connect.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24388",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sagernet/sing-box/app_store_connect?tag=HEAD-ccceb8b-250617T142711-riscv64-Linux&download=app_store_connect",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sagernet/sing-box/app_store_connect:HEAD-ccceb8b-250617T142711-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sagernet/sing-box/app_store_connect",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sagernet/sing-box/app_store_connect?tag=HEAD-ccceb8b-250617T142711-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d23d952e829af6fc104b6b1c3b20d8c818e583999887f4bfbbe83ec89516827",
+  "size": "7.2 MB",
+  "size_raw": "7480600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
