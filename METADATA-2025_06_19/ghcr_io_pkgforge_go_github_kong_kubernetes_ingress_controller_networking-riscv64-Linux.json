@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "networking",
+  "pkg_family": "kubernetes-ingress-controller",
+  "pkg_id": "networking#github.com_Kong_kubernetes_ingress_controller",
+  "pkg_name": "networking",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Kong/kubernetes-ingress-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.",
+  "homepage": [
+    "https://github.com/Kong/kubernetes-ingress-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-stores",
+    "cleanup",
+    "cli-arguments-docs-gen",
+    "cmd",
+    "networking"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Kong/kubernetes-ingress-controller/archive/1ff5b45a08a545b328b94c02d695dd863166b3e5.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "crds",
+    "ingress",
+    "ingress-controller",
+    "k8s",
+    "kong",
+    "kubernetes",
+    "kubernetes-ingress",
+    "kubernetes-ingress-controller",
+    "microservices",
+    "team-k8s"
+  ],
+  "version": "HEAD-1ff5b45-250619T105054",
+  "version_upstream": "",
+  "bsum": "105878293ce780f26e4e5b9050feb68450280dcdc2aeea0b6d948b9c14a4bedc",
+  "build_date": "2025-06-19T15:55:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761433026",
+  "build_id": "15761433026",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/networking?tag=HEAD-1ff5b45-250619T105054-riscv64-Linux&download=networking.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2289",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/networking?tag=HEAD-1ff5b45-250619T105054-riscv64-Linux&download=networking",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kong/kubernetes-ingress-controller/networking:HEAD-1ff5b45-250619T105054-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kong/kubernetes-ingress-controller/networking",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/networking?tag=HEAD-1ff5b45-250619T105054-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f578975911e565617a7a5094a57998de7f924f55eb6807dd9a5b9996fdfa542f",
+  "size": "6.2 MB",
+  "size_raw": "6436248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
