@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nginx-prometheus",
+  "pkg_family": "nginx-prometheus",
+  "pkg_id": "nginx-prometheus#github.com_blind_oracle_nginx_prometheus",
+  "pkg_name": "nginx-prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blind-oracle/nginx-prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Turn Nginx logs into Prometheus metrics",
+  "homepage": [
+    "https://github.com/blind-oracle/nginx-prometheus"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nginx-prometheus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blind-oracle/nginx-prometheus/archive/2057d480eec8ac42f0b028aa31164d38d44bf13d.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "log",
+    "nginx",
+    "parser",
+    "prometheus",
+    "syslog"
+  ],
+  "version": "HEAD-2057d48-200916T110708",
+  "version_upstream": "",
+  "bsum": "3e0cee6be4b0172c5eb4247f496f9df24c3b221329e6a8dcdf54b29a4456ab87",
+  "build_date": "2025-06-19T14:24:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759425150",
+  "build_id": "15759425150",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/nginx-prometheus/nginx-prometheus?tag=HEAD-2057d48-200916T110708-x86_64-Linux&download=nginx-prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/nginx-prometheus/nginx-prometheus?tag=HEAD-2057d48-200916T110708-x86_64-Linux&download=nginx-prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blind-oracle/nginx-prometheus/nginx-prometheus:HEAD-2057d48-200916T110708-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blind-oracle/nginx-prometheus/nginx-prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/nginx-prometheus/nginx-prometheus?tag=HEAD-2057d48-200916T110708-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b1d0c192a783db88fdece7340dc100c23e1a269b3b4bd708b4d0d9bcdfbffe7",
+  "size": "11 MB",
+  "size_raw": "10844800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
