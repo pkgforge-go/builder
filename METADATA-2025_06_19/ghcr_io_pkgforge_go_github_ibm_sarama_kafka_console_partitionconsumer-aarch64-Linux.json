@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kafka-console-partitionconsumer",
+  "pkg_family": "sarama",
+  "pkg_id": "kafka-console-partitionconsumer#github.com_IBM_sarama",
+  "pkg_name": "kafka-console-partitionconsumer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/IBM/sarama",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sarama is a Go library for Apache Kafka.",
+  "homepage": [
+    "https://github.com/IBM/sarama"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kafka-console-consumer",
+    "kafka-console-partitionconsumer",
+    "kafka-console-producer",
+    "kafka-producer-performance"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/IBM/sarama/archive/aa1a2c5ee2508e6a6032b445d99518defae32c1c.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "kafka",
+    "kafka-client"
+  ],
+  "version": "HEAD-aa1a2c5-250618T114810",
+  "version_upstream": "",
+  "bsum": "42ff5286fca9646bfc5393833905e7ccd4ea021fd9671e140b93e5cc662adbb6",
+  "build_date": "2025-06-19T09:56:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754226520",
+  "build_id": "15754226520",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ibm/sarama/kafka-console-partitionconsumer?tag=HEAD-aa1a2c5-250618T114810-aarch64-Linux&download=kafka-console-partitionconsumer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12040",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ibm/sarama/kafka-console-partitionconsumer?tag=HEAD-aa1a2c5-250618T114810-aarch64-Linux&download=kafka-console-partitionconsumer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ibm/sarama/kafka-console-partitionconsumer:HEAD-aa1a2c5-250618T114810-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ibm/sarama/kafka-console-partitionconsumer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ibm/sarama/kafka-console-partitionconsumer?tag=HEAD-aa1a2c5-250618T114810-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9513b4673d8323d9fa6a77f7326001b3defe1232fa8cd6b19dcc4c8821720395",
+  "size": "7.2 MB",
+  "size_raw": "7505984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
