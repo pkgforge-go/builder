@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "echo",
+  "pkg_family": "easegress",
+  "pkg_id": "echo#github.com_easegress_io_easegress",
+  "pkg_name": "echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/easegress-io/easegress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native traffic orchestration system",
+  "homepage": [
+    "https://github.com/easegress-io/easegress"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "client",
+    "echo",
+    "mirror",
+    "remote",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/easegress-io/easegress/archive/0ba57af6bc240e9b3feb54743bfd93b16b7bb8df.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "cloud-native",
+    "distributed-systems",
+    "etcd",
+    "gateway",
+    "go",
+    "golang",
+    "http",
+    "kubernetes",
+    "load-balancer",
+    "mesh",
+    "microservice",
+    "microservices",
+    "proxy-server",
+    "raft",
+    "reverse-proxy",
+    "service-mesh",
+    "sidecar",
+    "traffic"
+  ],
+  "version": "HEAD-0ba57af-250616T014707",
+  "version_upstream": "",
+  "bsum": "823f5152cb69767baec669814bf7793964ae92c2f020e115b17c0f86b91e65b9",
+  "build_date": "2025-06-19T22:11:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766665373",
+  "build_id": "15766665373",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/easegress-io/easegress/echo?tag=HEAD-0ba57af-250616T014707-loongarch64-Linux&download=echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5831",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/easegress-io/easegress/echo?tag=HEAD-0ba57af-250616T014707-loongarch64-Linux&download=echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/easegress-io/easegress/echo:HEAD-0ba57af-250616T014707-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/easegress-io/easegress/echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/easegress-io/easegress/echo?tag=HEAD-0ba57af-250616T014707-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3964424f82e3642d271e18659904a1e9957d3f58cf0dd99763e6abf6bed7fbf",
+  "size": "5.6 MB",
+  "size_raw": "5868864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
