@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "long-running",
+  "pkg_family": "databricks-sdk-go",
+  "pkg_id": "long-running#github.com_databricks_databricks_sdk_go",
+  "pkg_name": "long-running",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/databricks/databricks-sdk-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Databricks SDK for Go",
+  "homepage": [
+    "https://github.com/databricks/databricks-sdk-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aad-explicit-spn",
+    "client",
+    "custom-auth",
+    "default-auth",
+    "gen",
+    "long-running",
+    "proxy",
+    "useragent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/databricks/databricks-sdk-go/archive/ab63bd8e862efd27e8df552389ff938eb794b097.tar.gz"
+  ],
+  "tag": [
+    "databricks",
+    "databricks-automation",
+    "databricks-sdk",
+    "go"
+  ],
+  "version": "HEAD-ab63bd8-250619T134850",
+  "version_upstream": "v0.73.0",
+  "bsum": "116b17c48788f7cb7d358671a675ad3b03ae38ae474b18281e1f2a69348a3a9b",
+  "build_date": "2025-06-19T20:55:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765579058",
+  "build_id": "15765579058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/databricks/databricks-sdk-go/long-running?tag=HEAD-ab63bd8-250619T134850-aarch64-Linux&download=long-running.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/databricks/databricks-sdk-go/long-running?tag=HEAD-ab63bd8-250619T134850-aarch64-Linux&download=long-running",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/databricks/databricks-sdk-go/long-running:HEAD-ab63bd8-250619T134850-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/databricks/databricks-sdk-go/long-running",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/databricks/databricks-sdk-go/long-running?tag=HEAD-ab63bd8-250619T134850-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13d7ea7ddd197c85dbe210ebdcc15fb7efabbff849edffe9872e8fa985b84654",
+  "size": "27 MB",
+  "size_raw": "27363488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
