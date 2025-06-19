@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "flux-operator",
+  "pkg_id": "cli#github.com_controlplaneio_fluxcd_flux_operator",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/controlplaneio-fluxcd/flux-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flux Operator is a Kubernetes controller for managing the lifecycle of Flux CD",
+  "homepage": [
+    "https://github.com/controlplaneio-fluxcd/flux-operator"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "mcp",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/controlplaneio-fluxcd/flux-operator/archive/7a6828060d8e07312700716fce2d76068ca3bb02.tar.gz"
+  ],
+  "tag": [
+    "continuous-delivery",
+    "fluxcd",
+    "gitops",
+    "mcp-server"
+  ],
+  "version": "HEAD-7a68280-250619T153346",
+  "version_upstream": "",
+  "bsum": "1d9a59cd61a85586a2061de15fcab705ba0b5488cc2a708a2b29ff1fe5821667",
+  "build_date": "2025-06-19T20:01:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764551538",
+  "build_id": "15764551538",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/controlplaneio-fluxcd/flux-operator/cli?tag=HEAD-7a68280-250619T153346-riscv64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/controlplaneio-fluxcd/flux-operator/cli?tag=HEAD-7a68280-250619T153346-riscv64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/controlplaneio-fluxcd/flux-operator/cli:HEAD-7a68280-250619T153346-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/controlplaneio-fluxcd/flux-operator/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/controlplaneio-fluxcd/flux-operator/cli?tag=HEAD-7a68280-250619T153346-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fef9a107295bbe9bdde0383cd78856395f9d7128d34638c821b83f02deb51dea",
+  "size": "61 MB",
+  "size_raw": "63233048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
