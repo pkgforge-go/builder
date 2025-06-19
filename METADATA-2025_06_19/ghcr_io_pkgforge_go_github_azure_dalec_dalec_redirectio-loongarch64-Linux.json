@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dalec-redirectio",
+  "pkg_family": "dalec",
+  "pkg_id": "dalec-redirectio#github.com_Azure_dalec",
+  "pkg_name": "dalec-redirectio",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/6ac73997a78db871e7b3e6638a270a032eb85559.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-6ac7399-250618T140047",
+  "version_upstream": "",
+  "bsum": "a57334bf4f21997eed6014ced5f5afde420c5246651c82141c46ada3cde68ce9",
+  "build_date": "2025-06-19T08:08:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752531091",
+  "build_id": "15752531091",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/dalec-redirectio?tag=HEAD-6ac7399-250618T140047-loongarch64-Linux&download=dalec-redirectio.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/dalec-redirectio?tag=HEAD-6ac7399-250618T140047-loongarch64-Linux&download=dalec-redirectio",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/dalec-redirectio:HEAD-6ac7399-250618T140047-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/dalec-redirectio",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/dalec-redirectio?tag=HEAD-6ac7399-250618T140047-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e49adab3e978515d9ec00ce6dc347d981443777267cdac8882699d123f1be1d0",
+  "size": "1.8 MB",
+  "size_raw": "1788952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
