@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "azwi",
+  "pkg_family": "azure-workload-identity",
+  "pkg_id": "azwi#github.com_Azure_azure_workload_identity",
+  "pkg_name": "azwi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/azure-workload-identity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory _AAD_ with pods.",
+  "homepage": [
+    "https://github.com/Azure/azure-workload-identity"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azwi",
+    "helmify",
+    "proxy",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/azure-workload-identity/archive/fabb12291da0e2227bfe0a2a6bb32f7297dba4be.tar.gz"
+  ],
+  "tag": [
+    "aad",
+    "azure",
+    "federated-identity",
+    "kubernetes",
+    "oidc",
+    "workload-identity"
+  ],
+  "version": "HEAD-fabb122-250618T124800",
+  "version_upstream": "",
+  "bsum": "d953ba37b969dd177fef6d834c7fc5235bfc8d96de0c853e6eea56ffd21ee937",
+  "build_date": "2025-06-19T08:09:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752530418",
+  "build_id": "15752530418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-workload-identity/azwi?tag=HEAD-fabb122-250618T124800-loongarch64-Linux&download=azwi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "312",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-workload-identity/azwi?tag=HEAD-fabb122-250618T124800-loongarch64-Linux&download=azwi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/azure-workload-identity/azwi:HEAD-fabb122-250618T124800-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/azure-workload-identity/azwi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-workload-identity/azwi?tag=HEAD-fabb122-250618T124800-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45a74adb03d26152c7b8142351215537d887de47ddff8448a128a4aebb52f119",
+  "size": "151 MB",
+  "size_raw": "157364352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

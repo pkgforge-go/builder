@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "helmify",
+  "pkg_family": "azure-workload-identity",
+  "pkg_id": "helmify#github.com_Azure_azure_workload_identity",
+  "pkg_name": "helmify",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/azure-workload-identity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory _AAD_ with pods.",
+  "homepage": [
+    "https://github.com/Azure/azure-workload-identity"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azwi",
+    "helmify",
+    "proxy",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/azure-workload-identity/archive/fabb12291da0e2227bfe0a2a6bb32f7297dba4be.tar.gz"
+  ],
+  "tag": [
+    "aad",
+    "azure",
+    "federated-identity",
+    "kubernetes",
+    "oidc",
+    "workload-identity"
+  ],
+  "version": "HEAD-fabb122-250618T124800",
+  "version_upstream": "",
+  "bsum": "7a33e889b3ba662898469e76d47b480679f6248aae8ce86c91965cc427696df1",
+  "build_date": "2025-06-19T08:08:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752530418",
+  "build_id": "15752530418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-workload-identity/helmify?tag=HEAD-fabb122-250618T124800-loongarch64-Linux&download=helmify.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "312",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-workload-identity/helmify?tag=HEAD-fabb122-250618T124800-loongarch64-Linux&download=helmify",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/azure-workload-identity/helmify:HEAD-fabb122-250618T124800-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/azure-workload-identity/helmify",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-workload-identity/helmify?tag=HEAD-fabb122-250618T124800-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eeae554ebb2472d027fe0e4c87cb65928954e82788b16858af9ecfb1eddc2201",
+  "size": "2.2 MB",
+  "size_raw": "2202680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
