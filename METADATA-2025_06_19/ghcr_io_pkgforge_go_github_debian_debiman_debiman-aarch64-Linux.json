@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "debiman",
+  "pkg_family": "debiman",
+  "pkg_id": "debiman#github.com_Debian_debiman",
+  "pkg_name": "debiman",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Debian/debiman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "debiman generates a static manpage HTML repository out of a Debian archive",
+  "homepage": [
+    "https://github.com/Debian/debiman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "debiman",
+    "debiman-auxserver",
+    "debiman-idx2rwmap",
+    "debiman-minisrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Debian/debiman/archive/52e0bcdab7676fb9ae1bd6cbce725a903b6da355.tar.gz"
+  ],
+  "tag": [
+    "debian",
+    "manpages"
+  ],
+  "version": "HEAD-52e0bcd-250415T085505",
+  "version_upstream": "",
+  "bsum": "9b6b21ed6b550709c0c638dab7369e6e2f4598bd9241b271248e4c9d28048b14",
+  "build_date": "2025-06-19T08:51:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752750194",
+  "build_id": "15752750194",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman?tag=HEAD-52e0bcd-250415T085505-aarch64-Linux&download=debiman.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "209",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman?tag=HEAD-52e0bcd-250415T085505-aarch64-Linux&download=debiman",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/debiman/debiman:HEAD-52e0bcd-250415T085505-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/debiman/debiman",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman?tag=HEAD-52e0bcd-250415T085505-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba32a31c638a1a1ab1f358aabd5f3691153f28c107adde8897d847d25f68f515",
+  "size": "16 MB",
+  "size_raw": "16602560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
