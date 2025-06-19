@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "armada",
+  "pkg_id": "scheduler#github.com_armadaproject_armada",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/armadaproject/armada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
+  "homepage": [
+    "https://github.com/armadaproject/armada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "armada-load-tester",
+    "armadactl",
+    "binoculars",
+    "dbloadtester",
+    "eventingester",
+    "generate",
+    "lookout",
+    "lookoutingester",
+    "merge_swagger",
+    "protoc-gen-armada",
+    "scheduler",
+    "scheduleringester",
+    "server",
+    "simulator",
+    "testsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/armadaproject/armada/archive/3288cb7cf939585ca065fe8858f4d5cce1c5b1b3.tar.gz"
+  ],
+  "tag": [
+    "gr-oss",
+    "kubernetes"
+  ],
+  "version": "HEAD-3288cb7-250619T131152",
+  "version_upstream": "v0.19.7",
+  "bsum": "4d36e7d4477fb59dc5c41f6a337f632c2643a32d0dff420703b078b48a37dd73",
+  "build_date": "2025-06-19T17:17:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762107750",
+  "build_id": "15762107750",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/scheduler?tag=HEAD-3288cb7-250619T131152-aarch64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/scheduler?tag=HEAD-3288cb7-250619T131152-aarch64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/armadaproject/armada/scheduler:HEAD-3288cb7-250619T131152-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/armadaproject/armada/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/scheduler?tag=HEAD-3288cb7-250619T131152-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3005561fbe53b9fb6194792d891a69e59697abc1d8150715afdedfd249101edd",
+  "size": "57 MB",
+  "size_raw": "58829376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
