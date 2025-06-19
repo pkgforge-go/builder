@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nodescaleadjuster",
+  "pkg_family": "KAI-Scheduler",
+  "pkg_id": "nodescaleadjuster#github.com_NVIDIA_KAI_Scheduler",
+  "pkg_name": "nodescaleadjuster",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/KAI-Scheduler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+  "homepage": [
+    "https://github.com/NVIDIA/KAI-Scheduler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binder",
+    "nodescaleadjuster",
+    "podgroupcontroller",
+    "podgrouper",
+    "queuecontroller",
+    "scalingpod",
+    "scheduler",
+    "snapshot-tool",
+    "webhookmanager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/KAI-Scheduler/archive/b8c9bdf79f16ea24ac72048d379206366aac4a0b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b8c9bdf-250618T150330",
+  "version_upstream": "",
+  "bsum": "70750fdbf0927c53ff516ba2712505ecdc804cdf0a373bdc2ef6f125cfa0cdc0",
+  "build_date": "2025-06-19T10:26:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754946641",
+  "build_id": "15754946641",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/nodescaleadjuster?tag=HEAD-b8c9bdf-250618T150330-riscv64-Linux&download=nodescaleadjuster.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "651",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/nodescaleadjuster?tag=HEAD-b8c9bdf-250618T150330-riscv64-Linux&download=nodescaleadjuster",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/nodescaleadjuster:HEAD-b8c9bdf-250618T150330-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/nodescaleadjuster",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/nodescaleadjuster?tag=HEAD-b8c9bdf-250618T150330-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27b55c95d008a88cc1532830b0791ce04f0f36a6d8f31d691b0dee0d7db2b767",
+  "size": "41 MB",
+  "size_raw": "42954104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
