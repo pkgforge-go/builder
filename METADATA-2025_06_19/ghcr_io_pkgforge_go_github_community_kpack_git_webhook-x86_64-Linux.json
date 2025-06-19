@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "kpack",
+  "pkg_id": "webhook#github.com_buildpacks_community_kpack.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-init",
+    "build-waiter",
+    "completion",
+    "controller",
+    "logs",
+    "openapi",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buildpacks-community/kpack.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250619T150449",
+  "version_upstream": "",
+  "bsum": "1e6891af20ed32111cd8f695898f918ee16cf25dac85bb25db202e2835b14aa6",
+  "build_date": "2025-06-19T15:15:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760337946",
+  "build_id": "15760337946",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/community/kpack.git/webhook?tag=20250619T150449-x86_64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/community/kpack.git/webhook?tag=20250619T150449-x86_64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/community/kpack.git/webhook:20250619T150449-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/community/kpack.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/community/kpack.git/webhook?tag=20250619T150449-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3ccab1f4fda2cd87d3053b669fd6879a05b04c5b49f16ea15e5e332ec580034",
+  "size": "60 MB",
+  "size_raw": "62751712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
