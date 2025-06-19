@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sunlight",
+  "pkg_family": "sunlight",
+  "pkg_id": "sunlight#github.com_FiloSottile_sunlight",
+  "pkg_name": "sunlight",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FiloSottile/sunlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
+  "homepage": [
+    "https://github.com/FiloSottile/sunlight"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "partial-aftersun",
+    "skylight",
+    "sunlight",
+    "sunlight-keygen",
+    "tlog-torrent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FiloSottile/sunlight/archive/1bba70fd338e091dba2e9ff289a7168eca0fea3f.tar.gz"
+  ],
+  "tag": [
+    "certificate-transparency",
+    "tlog"
+  ],
+  "version": "HEAD-1bba70f-250613T162055",
+  "version_upstream": "v0.4.1",
+  "bsum": "f16e657ecef072c3c519687c0b8865169392fd57c4833d30d0b4729776d52fd4",
+  "build_date": "2025-06-19T09:21:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753578510",
+  "build_id": "15753578510",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/sunlight?tag=HEAD-1bba70f-250613T162055-aarch64-Linux&download=sunlight.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/sunlight?tag=HEAD-1bba70f-250613T162055-aarch64-Linux&download=sunlight",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filosottile/sunlight/sunlight:HEAD-1bba70f-250613T162055-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filosottile/sunlight/sunlight",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/sunlight?tag=HEAD-1bba70f-250613T162055-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4bf767b6e050f27c4019ca27ffbc644e98b4a1c312a43a9e576244dfdcb8ccd",
+  "size": "31 MB",
+  "size_raw": "32270112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
