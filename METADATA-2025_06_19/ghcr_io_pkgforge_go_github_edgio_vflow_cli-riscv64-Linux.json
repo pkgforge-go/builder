@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "vflow",
+  "pkg_id": "cli#github.com_Edgio_vflow",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Edgio/vflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise Network Flow Collector _IPFIX, sFlow, Netflow_",
+  "homepage": [
+    "https://github.com/Edgio/vflow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "clickhouse",
+    "monitor",
+    "stress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Edgio/vflow/archive/811977722a7ce0671f798f734fc0fb36714ac2ec.tar.gz"
+  ],
+  "tag": [
+    "cisco",
+    "golang",
+    "ipfix",
+    "ipv4",
+    "ipv6",
+    "juniper",
+    "kafka",
+    "kubernetes",
+    "monitoring",
+    "netflow",
+    "network",
+    "sflow"
+  ],
+  "version": "HEAD-8119777-240822T132915",
+  "version_upstream": "",
+  "bsum": "e099300febd4b48485f88196d959e52751f6b6b7bcef059e882e83b982c6488f",
+  "build_date": "2025-06-19T09:05:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753460985",
+  "build_id": "15753460985",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgio/vflow/cli?tag=HEAD-8119777-240822T132915-riscv64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1128",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgio/vflow/cli?tag=HEAD-8119777-240822T132915-riscv64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgio/vflow/cli:HEAD-8119777-240822T132915-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgio/vflow/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgio/vflow/cli?tag=HEAD-8119777-240822T132915-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "056584a85cf3358b2cbbd6586e5a0714f0524be8a6794437ac7add767bea816b",
+  "size": "7.4 MB",
+  "size_raw": "7716440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
