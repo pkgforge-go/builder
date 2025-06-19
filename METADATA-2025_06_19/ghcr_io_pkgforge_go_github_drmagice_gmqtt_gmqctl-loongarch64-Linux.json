@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gmqctl",
+  "pkg_family": "gmqtt",
+  "pkg_id": "gmqctl#github.com_DrmagicE_gmqtt",
+  "pkg_name": "gmqctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DrmagicE/gmqtt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.x and V5 in golang",
+  "homepage": [
+    "https://github.com/DrmagicE/gmqtt"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gmqctl",
+    "gmqttd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DrmagicE/gmqtt/archive/a28cd4f9adb20d0cb2feee53294d1f0e9d2ae62a.tar.gz"
+  ],
+  "tag": [
+    "gmqtt",
+    "golang",
+    "mqtt",
+    "mqtt-broker",
+    "mqtt-protocol",
+    "mqtt-server",
+    "server"
+  ],
+  "version": "HEAD-a28cd4f-230915T205930",
+  "version_upstream": "",
+  "bsum": "b67e40aed724e6e0bb23a08c33e0a991b7222469fa5d3b0aa9463a68afe12fdb",
+  "build_date": "2025-06-19T09:01:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753421638",
+  "build_id": "15753421638",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drmagice/gmqtt/gmqctl?tag=HEAD-a28cd4f-230915T205930-loongarch64-Linux&download=gmqctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1006",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drmagice/gmqtt/gmqctl?tag=HEAD-a28cd4f-230915T205930-loongarch64-Linux&download=gmqctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drmagice/gmqtt/gmqctl:HEAD-a28cd4f-230915T205930-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drmagice/gmqtt/gmqctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drmagice/gmqtt/gmqctl?tag=HEAD-a28cd4f-230915T205930-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f46ae3ea6efc6efc218088df2bf6c8a5c276661dc36d561bc82f25466b0f48d",
+  "size": "12 MB",
+  "size_raw": "12554560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
