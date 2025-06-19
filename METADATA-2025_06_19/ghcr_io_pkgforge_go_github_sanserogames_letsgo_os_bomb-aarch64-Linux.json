@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bomb",
+  "pkg_family": "LetsGo-OS",
+  "pkg_id": "bomb#github.com_SanseroGames_LetsGo_OS",
+  "pkg_name": "bomb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SanseroGames/LetsGo-OS",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operating system written in Go",
+  "homepage": [
+    "https://github.com/SanseroGames/LetsGo-OS"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bomb",
+    "hellogo",
+    "readtest",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SanseroGames/LetsGo-OS/archive/9bd339212aa0421b2d7a8537dc95a1fedddd98dd.tar.gz"
+  ],
+  "tag": [
+    "experimental",
+    "go",
+    "golang",
+    "kernel",
+    "operating-system",
+    "os",
+    "osdev"
+  ],
+  "version": "HEAD-9bd3392-250222T013036",
+  "version_upstream": "",
+  "bsum": "aab492070932e5361718009642a286d274e11517fec675ae97eb0925220bf135",
+  "build_date": "2025-06-19T10:52:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755653591",
+  "build_id": "15755653591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/bomb?tag=HEAD-9bd3392-250222T013036-aarch64-Linux&download=bomb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "130",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/bomb?tag=HEAD-9bd3392-250222T013036-aarch64-Linux&download=bomb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sanserogames/letsgo-os/bomb:HEAD-9bd3392-250222T013036-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sanserogames/letsgo-os/bomb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanserogames/letsgo-os/bomb?tag=HEAD-9bd3392-250222T013036-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40d6b435ac2df2af29776a5e23c176aeca90dba48389b0804f0db0548359550a",
+  "size": "1.6 MB",
+  "size_raw": "1626648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
