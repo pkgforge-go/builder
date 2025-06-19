@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "prune_old_versions",
+  "pkg_family": "netboot",
+  "pkg_id": "prune_old_versions#github.com_danderson_netboot",
+  "pkg_name": "prune_old_versions",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/danderson/netboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Packages and utilities for network booting",
+  "homepage": [
+    "https://github.com/danderson/netboot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-example",
+    "pixiecore",
+    "pixiecore-apache2",
+    "prune_old_versions",
+    "trigger_docker_build",
+    "trigger_quay_build"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/danderson/netboot/archive/2ed7bd30206a51bae786b02d9a5b8156fdcc8870.tar.gz"
+  ],
+  "tag": [
+    "dhcp",
+    "netboot",
+    "pcap",
+    "pixiecore",
+    "pxe",
+    "tftp"
+  ],
+  "version": "HEAD-2ed7bd3-240531T162330",
+  "version_upstream": "",
+  "bsum": "fdef977ce43529912172574a95cb2538be24cc8cf7d8c91f131685acca0f48e1",
+  "build_date": "2025-06-19T20:45:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765513202",
+  "build_id": "15765513202",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danderson/netboot/prune_old_versions?tag=HEAD-2ed7bd3-240531T162330-riscv64-Linux&download=prune_old_versions.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1549",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danderson/netboot/prune_old_versions?tag=HEAD-2ed7bd3-240531T162330-riscv64-Linux&download=prune_old_versions",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/danderson/netboot/prune_old_versions:HEAD-2ed7bd3-240531T162330-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/danderson/netboot/prune_old_versions",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danderson/netboot/prune_old_versions?tag=HEAD-2ed7bd3-240531T162330-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc65572172466e06d0da0ae638ab67220b37f4faa9b94e94155be282e4311726",
+  "size": "5.9 MB",
+  "size_raw": "6135992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
