@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "x509-certificate-exporter",
+  "pkg_family": "x509-certificate-exporter",
+  "pkg_id": "x509-certificate-exporter#github.com_enix_x509_certificate_exporter",
+  "pkg_name": "x509-certificate-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enix/x509-certificate-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone",
+  "homepage": [
+    "https://github.com/enix/x509-certificate-exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "x509-certificate-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enix/x509-certificate-exporter/archive/af9a5415e0291faaff1a85965cf6c9627046b443.tar.gz"
+  ],
+  "tag": [
+    "alert",
+    "certificates",
+    "certificates-focusing",
+    "dashboard",
+    "expiration-monitoring",
+    "grafana-dashboard",
+    "kubernetes",
+    "monitoring-tool",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-af9a541-250619T155014",
+  "version_upstream": "",
+  "bsum": "6bd7d52aa9a165e3e973a23af324a0ce8c4aac15fe3d2abd02670c24e483cc5a",
+  "build_date": "2025-06-19T22:54:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767116085",
+  "build_id": "15767116085",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enix/x509-certificate-exporter/x509-certificate-exporter?tag=HEAD-af9a541-250619T155014-x86_64-Linux&download=x509-certificate-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "724",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enix/x509-certificate-exporter/x509-certificate-exporter?tag=HEAD-af9a541-250619T155014-x86_64-Linux&download=x509-certificate-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enix/x509-certificate-exporter/x509-certificate-exporter:HEAD-af9a541-250619T155014-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enix/x509-certificate-exporter/x509-certificate-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enix/x509-certificate-exporter/x509-certificate-exporter?tag=HEAD-af9a541-250619T155014-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "728d5c5874aadbed273abd8c11045444acd1c1230b343875541de2dd5cc74d5a",
+  "size": "51 MB",
+  "size_raw": "52916736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
