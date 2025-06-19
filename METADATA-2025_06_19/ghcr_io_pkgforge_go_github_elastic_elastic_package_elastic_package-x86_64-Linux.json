@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "elastic-package",
+  "pkg_family": "elastic-package",
+  "pkg_id": "elastic-package#github.com_elastic_elastic_package",
+  "pkg_name": "elastic-package",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/elastic-package",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "elastic-package - Command line tool for developing Elastic Integrations",
+  "homepage": [
+    "https://github.com/elastic/elastic-package"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "elastic-package",
+    "geoipdatabases",
+    "gpgkey",
+    "readme"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/elastic-package/archive/d8e4300715af43b3b792d25960d75c3382948dcd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d8e4300-250619T091355",
+  "version_upstream": "",
+  "bsum": "1eaa69fc2b733ceaac4e9d151171aebcaab3abb575e3a63f7e819155dd6ab7af",
+  "build_date": "2025-06-19T22:32:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766810086",
+  "build_id": "15766810086",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-package/elastic-package?tag=HEAD-d8e4300-250619T091355-x86_64-Linux&download=elastic-package.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-package/elastic-package?tag=HEAD-d8e4300-250619T091355-x86_64-Linux&download=elastic-package",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/elastic-package/elastic-package:HEAD-d8e4300-250619T091355-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/elastic-package/elastic-package",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-package/elastic-package?tag=HEAD-d8e4300-250619T091355-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f24625b20c374bec26061bb5d3c1c07b3e354c5cb97ef3574b40e1d5469cef57",
+  "size": "106 MB",
+  "size_raw": "110345984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
