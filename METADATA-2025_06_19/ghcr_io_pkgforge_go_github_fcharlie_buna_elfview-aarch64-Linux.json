@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "elfview",
+  "pkg_family": "buna",
+  "pkg_id": "elfview#github.com_fcharlie_buna",
+  "pkg_name": "elfview",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fcharlie/buna",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An interesting executable file parsing library written by Golang",
+  "homepage": [
+    "https://github.com/fcharlie/buna"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "depends",
+    "elfview",
+    "machoview",
+    "peassets",
+    "peview"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fcharlie/buna/archive/5999c25696ce6106de99f10216b34a65e50e471e.tar.gz"
+  ],
+  "tag": [
+    "elf",
+    "golang",
+    "macho",
+    "pe"
+  ],
+  "version": "HEAD-5999c25-240825T104725",
+  "version_upstream": "",
+  "bsum": "900644207ed9b2348984d236dffc017720ff2702efca738a3f05d7c294cdac45",
+  "build_date": "2025-06-19T23:36:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767271430",
+  "build_id": "15767271430",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fcharlie/buna/elfview?tag=HEAD-5999c25-240825T104725-aarch64-Linux&download=elfview.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fcharlie/buna/elfview?tag=HEAD-5999c25-240825T104725-aarch64-Linux&download=elfview",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fcharlie/buna/elfview:HEAD-5999c25-240825T104725-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fcharlie/buna/elfview",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fcharlie/buna/elfview?tag=HEAD-5999c25-240825T104725-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66ea25b49d14789de75e9fd2ebf7bac208c36792dce0d07bd1ba1ed73c95b4c4",
+  "size": "1.9 MB",
+  "size_raw": "1965592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

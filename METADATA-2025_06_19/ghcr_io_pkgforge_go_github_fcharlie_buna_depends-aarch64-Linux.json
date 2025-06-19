@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "depends",
+  "pkg_family": "buna",
+  "pkg_id": "depends#github.com_fcharlie_buna",
+  "pkg_name": "depends",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fcharlie/buna",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An interesting executable file parsing library written by Golang",
+  "homepage": [
+    "https://github.com/fcharlie/buna"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "depends",
+    "elfview",
+    "machoview",
+    "peassets",
+    "peview"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fcharlie/buna/archive/5999c25696ce6106de99f10216b34a65e50e471e.tar.gz"
+  ],
+  "tag": [
+    "elf",
+    "golang",
+    "macho",
+    "pe"
+  ],
+  "version": "HEAD-5999c25-240825T104725",
+  "version_upstream": "",
+  "bsum": "5f07cd9e41ad90907df33de724812e083b58de43d6a90aeb03379747f2c0c114",
+  "build_date": "2025-06-19T23:36:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767271430",
+  "build_id": "15767271430",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fcharlie/buna/depends?tag=HEAD-5999c25-240825T104725-aarch64-Linux&download=depends.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fcharlie/buna/depends?tag=HEAD-5999c25-240825T104725-aarch64-Linux&download=depends",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fcharlie/buna/depends:HEAD-5999c25-240825T104725-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fcharlie/buna/depends",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fcharlie/buna/depends?tag=HEAD-5999c25-240825T104725-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7b18bf0cc49ee6019cedb8924db0c513ea6cfac31a2a98b9730bf0a2ce7c0e3a",
+  "size": "1.6 MB",
+  "size_raw": "1636216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
