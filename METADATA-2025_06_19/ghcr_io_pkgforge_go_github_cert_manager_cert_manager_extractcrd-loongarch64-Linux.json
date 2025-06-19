@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "extractcrd",
+  "pkg_family": "cert-manager",
+  "pkg_id": "extractcrd#github.com_cert_manager_cert_manager",
+  "pkg_name": "extractcrd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cert-manager/cert-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatically provision and manage TLS certificates in Kubernetes",
+  "homepage": [
+    "https://github.com/cert-manager/cert-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acmeprobe",
+    "extractcrd",
+    "prune-junit-xml",
+    "sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cert-manager/cert-manager/archive/63b4706a2e27696bf580e346e47db7d502308c91.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "crd",
+    "hacktoberfest",
+    "kubernetes",
+    "letsencrypt",
+    "tls"
+  ],
+  "version": "HEAD-63b4706-250619T123710",
+  "version_upstream": "",
+  "bsum": "3ff040314c070ca33eb98ed4dc1c8c8bc1c48765dbc042ef41f998becefd026c",
+  "build_date": "2025-06-19T18:03:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763085576",
+  "build_id": "15763085576",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/cert-manager/extractcrd?tag=HEAD-63b4706-250619T123710-loongarch64-Linux&download=extractcrd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12894",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/cert-manager/extractcrd?tag=HEAD-63b4706-250619T123710-loongarch64-Linux&download=extractcrd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cert-manager/cert-manager/extractcrd:HEAD-63b4706-250619T123710-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cert-manager/cert-manager/extractcrd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/cert-manager/extractcrd?tag=HEAD-63b4706-250619T123710-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48dfb446a577eb2c785a3402a0c8260ea0e4c42a6eb51f74738ee21888734c99",
+  "size": "9.6 MB",
+  "size_raw": "10049696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
