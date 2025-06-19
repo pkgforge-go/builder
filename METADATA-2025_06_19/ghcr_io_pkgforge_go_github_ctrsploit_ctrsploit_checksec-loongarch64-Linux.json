@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "checksec",
+  "pkg_family": "ctrsploit",
+  "pkg_id": "checksec#github.com_ctrsploit_ctrsploit",
+  "pkg_name": "checksec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ctrsploit/ctrsploit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A penetration toolkit for container environment",
+  "homepage": [
+    "https://github.com/ctrsploit/ctrsploit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checksec",
+    "cmd",
+    "ctrsploit",
+    "env",
+    "reverse_shell_image"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ctrsploit/ctrsploit/archive/213186bd6f71529ab93f7ba382e5c66d7d1e5989.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "docker",
+    "penetration-testing-tools"
+  ],
+  "version": "HEAD-213186b-250617T110956",
+  "version_upstream": "",
+  "bsum": "62345f417afb081a4b83852fab7651cf31e6a8a893f1b202521c7f722f8272af",
+  "build_date": "2025-06-19T20:31:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765394732",
+  "build_id": "15765394732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/checksec?tag=HEAD-213186b-250617T110956-loongarch64-Linux&download=checksec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/checksec?tag=HEAD-213186b-250617T110956-loongarch64-Linux&download=checksec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/checksec:HEAD-213186b-250617T110956-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/checksec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/checksec?tag=HEAD-213186b-250617T110956-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a1c4b65ac601fe14362c04845ff286d3e82ab48c9ac705d59eb52c617a7a487",
+  "size": "19 MB",
+  "size_raw": "18924560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
