@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ipam-node",
+  "pkg_family": "nvidia-k8s-ipam",
+  "pkg_id": "ipam-node#github.com_Mellanox_nvidia_k8s_ipam",
+  "pkg_name": "ipam-node",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mellanox/nvidia-k8s-ipam",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IPAM plugin for kubernetes",
+  "homepage": [
+    "https://github.com/Mellanox/nvidia-k8s-ipam"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipam-controller",
+    "ipam-node",
+    "nv-ipam"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mellanox/nvidia-k8s-ipam/archive/4db21696844cf395ba13caeb2e8acf70e0057963.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4db2169-250619T103040",
+  "version_upstream": "",
+  "bsum": "1d58a46b6cea6b786dafc8a6c80fd7654936bf8ac0f28f8e5431c8f76bb00eac",
+  "build_date": "2025-06-19T16:01:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761439599",
+  "build_id": "15761439599",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nvidia-k8s-ipam/ipam-node?tag=HEAD-4db2169-250619T103040-aarch64-Linux&download=ipam-node.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nvidia-k8s-ipam/ipam-node?tag=HEAD-4db2169-250619T103040-aarch64-Linux&download=ipam-node",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mellanox/nvidia-k8s-ipam/ipam-node:HEAD-4db2169-250619T103040-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mellanox/nvidia-k8s-ipam/ipam-node",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nvidia-k8s-ipam/ipam-node?tag=HEAD-4db2169-250619T103040-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46326140141ecd0bfa9a0681bd14b6d82f915316b762336026338802e0f8ffa1",
+  "size": "45 MB",
+  "size_raw": "46871520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
