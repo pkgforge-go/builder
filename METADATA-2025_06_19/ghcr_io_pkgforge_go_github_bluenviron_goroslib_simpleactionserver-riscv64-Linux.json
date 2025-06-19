@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "simpleactionserver",
+  "pkg_family": "goroslib",
+  "pkg_id": "simpleactionserver#github.com_bluenviron_goroslib",
+  "pkg_name": "simpleactionserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bluenviron/goroslib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ROS client library for the Go programming language",
+  "homepage": [
+    "https://github.com/bluenviron/goroslib"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "action-import",
+    "cluster-info",
+    "msg-import",
+    "msgs-gen",
+    "package-import",
+    "param-set-get",
+    "publisher",
+    "publisher-custom",
+    "serviceclient",
+    "serviceprovider",
+    "simpleactionclient",
+    "simpleactionserver",
+    "srv-import",
+    "subscriber",
+    "subscriber-custom",
+    "subscriber-ipv6",
+    "subscriber-udp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bluenviron/goroslib/archive/822b5676f4d99e247254dbf854b43bcbfc17f05b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "robot-operating-system",
+    "ros",
+    "ros-industrial",
+    "ros-libraries",
+    "ros-melodic",
+    "ros-package",
+    "ugv"
+  ],
+  "version": "HEAD-822b567-250602T210150",
+  "version_upstream": "",
+  "bsum": "86076f4a0a67543fd04d7d2a92c7e8fb6bbbb00243f2387c171300b34c7419b5",
+  "build_date": "2025-06-19T14:32:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759458542",
+  "build_id": "15759458542",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/simpleactionserver?tag=HEAD-822b567-250602T210150-riscv64-Linux&download=simpleactionserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "365",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/simpleactionserver?tag=HEAD-822b567-250602T210150-riscv64-Linux&download=simpleactionserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bluenviron/goroslib/simpleactionserver:HEAD-822b567-250602T210150-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bluenviron/goroslib/simpleactionserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/simpleactionserver?tag=HEAD-822b567-250602T210150-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c8b6139f6ded6397ba05def49e916cc10dc97d39ada631d0569223720911be37",
+  "size": "6.9 MB",
+  "size_raw": "7178584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

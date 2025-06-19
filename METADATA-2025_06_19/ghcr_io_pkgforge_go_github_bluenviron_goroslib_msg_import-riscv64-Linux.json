@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "msg-import",
+  "pkg_family": "goroslib",
+  "pkg_id": "msg-import#github.com_bluenviron_goroslib",
+  "pkg_name": "msg-import",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bluenviron/goroslib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ROS client library for the Go programming language",
+  "homepage": [
+    "https://github.com/bluenviron/goroslib"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "action-import",
+    "cluster-info",
+    "msg-import",
+    "msgs-gen",
+    "package-import",
+    "param-set-get",
+    "publisher",
+    "publisher-custom",
+    "serviceclient",
+    "serviceprovider",
+    "simpleactionclient",
+    "simpleactionserver",
+    "srv-import",
+    "subscriber",
+    "subscriber-custom",
+    "subscriber-ipv6",
+    "subscriber-udp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bluenviron/goroslib/archive/822b5676f4d99e247254dbf854b43bcbfc17f05b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "robot-operating-system",
+    "ros",
+    "ros-industrial",
+    "ros-libraries",
+    "ros-melodic",
+    "ros-package",
+    "ugv"
+  ],
+  "version": "HEAD-822b567-250602T210150",
+  "version_upstream": "",
+  "bsum": "61bcad76b49e05be89b28ced2ba0adef1088511a452944533fbdb49a1dbaea8c",
+  "build_date": "2025-06-19T14:31:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759458542",
+  "build_id": "15759458542",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/msg-import?tag=HEAD-822b567-250602T210150-riscv64-Linux&download=msg-import.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "365",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/msg-import?tag=HEAD-822b567-250602T210150-riscv64-Linux&download=msg-import",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bluenviron/goroslib/msg-import:HEAD-822b567-250602T210150-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bluenviron/goroslib/msg-import",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/goroslib/msg-import?tag=HEAD-822b567-250602T210150-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "168b2fafed7de217368cbaf27d3bbadbee7fb27ffcebefb4ceb6967bfe22a48f",
+  "size": "3.8 MB",
+  "size_raw": "3960936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
