@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "consume",
+  "pkg_family": "winc",
+  "pkg_id": "consume#github.com_cloudfoundry_winc",
+  "pkg_name": "consume",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/winc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for spawning and running containers on Windows according to the OCI specification",
+  "homepage": [
+    "https://github.com/cloudfoundry/winc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "consume",
+    "netout",
+    "server",
+    "sleep"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/winc/archive/f08cd33db4c97375f0b855dcfae86a86ca29fd2a.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "containers",
+    "oci",
+    "oci-runtime",
+    "oci-specification",
+    "windows"
+  ],
+  "version": "HEAD-f08cd33-250618T030727",
+  "version_upstream": "",
+  "bsum": "7af1779037b891d94be9d6bbe0ce2f1b4c6040520f65fa6c3691434bee76b3c8",
+  "build_date": "2025-06-19T19:11:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764330697",
+  "build_id": "15764330697",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/winc/consume?tag=HEAD-f08cd33-250618T030727-aarch64-Linux&download=consume.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/winc/consume?tag=HEAD-f08cd33-250618T030727-aarch64-Linux&download=consume",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/winc/consume:HEAD-f08cd33-250618T030727-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/winc/consume",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/winc/consume?tag=HEAD-f08cd33-250618T030727-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e84dbc7e45c66ddcfa58f597d9a041dbe568e25b9a1029e3aca248bf39bb30a",
+  "size": "1.6 MB",
+  "size_raw": "1644216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

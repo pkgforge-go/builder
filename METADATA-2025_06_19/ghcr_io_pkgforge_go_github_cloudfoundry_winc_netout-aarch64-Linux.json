@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "netout",
+  "pkg_family": "winc",
+  "pkg_id": "netout#github.com_cloudfoundry_winc",
+  "pkg_name": "netout",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/winc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for spawning and running containers on Windows according to the OCI specification",
+  "homepage": [
+    "https://github.com/cloudfoundry/winc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "consume",
+    "netout",
+    "server",
+    "sleep"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/winc/archive/f08cd33db4c97375f0b855dcfae86a86ca29fd2a.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "containers",
+    "oci",
+    "oci-runtime",
+    "oci-specification",
+    "windows"
+  ],
+  "version": "HEAD-f08cd33-250618T030727",
+  "version_upstream": "",
+  "bsum": "8293a3e15e828719f84af0228a8eca7dae15f8cb2753e667e22f2cd806d17526",
+  "build_date": "2025-06-19T19:11:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764330697",
+  "build_id": "15764330697",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/winc/netout?tag=HEAD-f08cd33-250618T030727-aarch64-Linux&download=netout.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/winc/netout?tag=HEAD-f08cd33-250618T030727-aarch64-Linux&download=netout",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/winc/netout:HEAD-f08cd33-250618T030727-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/winc/netout",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/winc/netout?tag=HEAD-f08cd33-250618T030727-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83b9c5186812102274e663282a26465aef59d4014e8708d3f2875eed0f05826a",
+  "size": "5.1 MB",
+  "size_raw": "5345760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
