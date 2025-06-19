@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "openadp-server",
+  "pkg_family": "openadp",
+  "pkg_id": "openadp-server#github.com_OpenADP_openadp",
+  "pkg_name": "openadp-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OpenADP/openadp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source Advanced Data Protection for everyone",
+  "homepage": [
+    "https://github.com/OpenADP/openadp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "openadp",
+    "openadp-cli",
+    "openadp-decrypt",
+    "openadp-demo",
+    "openadp-encrypt",
+    "openadp-keygen",
+    "openadp-server",
+    "run-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OpenADP/openadp/archive/97506f8254fa4772f0588ad4652764d82d129f3e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-97506f8-250618T162703",
+  "version_upstream": "",
+  "bsum": "bc40288e088b23243ad2e588812f3273bd6718b3ba8d266b0108e8472dac92dd",
+  "build_date": "2025-06-19T10:29:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754988654",
+  "build_id": "15754988654",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp-server?tag=HEAD-97506f8-250618T162703-aarch64-Linux&download=openadp-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp-server?tag=HEAD-97506f8-250618T162703-aarch64-Linux&download=openadp-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openadp/openadp/openadp-server:HEAD-97506f8-250618T162703-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openadp/openadp/openadp-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp-server?tag=HEAD-97506f8-250618T162703-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d2b9337af4bc3210d211dc9d1e4f2a91ec17b4a386ca0cb88d18115e368f807",
+  "size": "9.5 MB",
+  "size_raw": "9935520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
