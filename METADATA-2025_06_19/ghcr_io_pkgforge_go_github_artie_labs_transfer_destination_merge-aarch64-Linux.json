@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "destination_merge",
+  "pkg_family": "transfer",
+  "pkg_id": "destination_merge#github.com_artie_labs_transfer",
+  "pkg_name": "destination_merge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/artie-labs/transfer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse _Snowflake, BigQuery, Redshift, Databricks_ in real-time.",
+  "homepage": [
+    "https://github.com/artie-labs/transfer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "destination_append",
+    "destination_merge",
+    "destination_types",
+    "parquet",
+    "transfer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/artie-labs/transfer/archive/0bd32aa50e36f07ebde7da1d71e9b544a1dbe66e.tar.gz"
+  ],
+  "tag": [
+    "apache-kafka",
+    "bigquery",
+    "cdc",
+    "change-data-capture",
+    "data-integration",
+    "data-pipelines",
+    "database",
+    "debezium",
+    "elt",
+    "golang",
+    "kafka",
+    "redshift",
+    "snowflake"
+  ],
+  "version": "HEAD-0bd32aa-250618T225519",
+  "version_upstream": "",
+  "bsum": "fad09880392e5b914825aa9c08f5bbb4085f78f61cca2c8b9c5180cb1557d649",
+  "build_date": "2025-06-19T12:07:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756627058",
+  "build_id": "15756627058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/destination_merge?tag=HEAD-0bd32aa-250618T225519-aarch64-Linux&download=destination_merge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "658",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/destination_merge?tag=HEAD-0bd32aa-250618T225519-aarch64-Linux&download=destination_merge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/artie-labs/transfer/destination_merge:HEAD-0bd32aa-250618T225519-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/artie-labs/transfer/destination_merge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/destination_merge?tag=HEAD-0bd32aa-250618T225519-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4cc66ea446aee672a4572cf2bee14f6fdd482092ee775e171efe4600ca8f67f2",
+  "size": "66 MB",
+  "size_raw": "68301984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
