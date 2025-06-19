@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "reverse-ssh",
+  "pkg_family": "reverse-ssh",
+  "pkg_id": "reverse-ssh#github.com_Fahrj_reverse_ssh",
+  "pkg_name": "reverse-ssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Fahrj/reverse-ssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Statically-linked ssh server with reverse shell functionality for CTFs and such",
+  "homepage": [
+    "https://github.com/Fahrj/reverse-ssh"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "reverse-ssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Fahrj/reverse-ssh/archive/b5b9a0d482367bcf4505b01115a9abf1c652c6c6.tar.gz"
+  ],
+  "tag": [
+    "backdoor",
+    "conpty",
+    "golang",
+    "hacking",
+    "penetration-testing",
+    "penetration-testing-tools",
+    "remote-admin-tool",
+    "remote-shell",
+    "reverse-shell",
+    "security",
+    "security-tools",
+    "ssh",
+    "terminal"
+  ],
+  "version": "HEAD-b5b9a0d-220120T231529",
+  "version_upstream": "",
+  "bsum": "94627ca3f063b62ae555725342a1028f85e0e0f650b1ce3f60c91088df97a38d",
+  "build_date": "2025-06-19T09:15:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753563192",
+  "build_id": "15753563192",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fahrj/reverse-ssh/reverse-ssh?tag=HEAD-b5b9a0d-220120T231529-riscv64-Linux&download=reverse-ssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "981",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fahrj/reverse-ssh/reverse-ssh?tag=HEAD-b5b9a0d-220120T231529-riscv64-Linux&download=reverse-ssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fahrj/reverse-ssh/reverse-ssh:HEAD-b5b9a0d-220120T231529-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fahrj/reverse-ssh/reverse-ssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fahrj/reverse-ssh/reverse-ssh?tag=HEAD-b5b9a0d-220120T231529-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9e0b2d558d8d6c7a8dbe3941a01a3fc3a9e2d91c0711a228e60e44d81e1ccfaf",
+  "size": "4.7 MB",
+  "size_raw": "4856440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
