@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "synctokens",
+  "pkg_family": "bosun",
+  "pkg_id": "synctokens#github.com_bosun_monitor_bosun",
+  "pkg_name": "synctokens",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bosun-monitor/bosun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Time Series Alerting Framework",
+  "homepage": [
+    "https://github.com/bosun-monitor/bosun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "backfill",
+    "bosun",
+    "bosun-build",
+    "generate",
+    "integrationtest",
+    "release",
+    "scollector",
+    "silence",
+    "snmptester",
+    "synctokens",
+    "tsdbrelay",
+    "util"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bosun-monitor/bosun/archive/b8d3e981f37d353292afc46d88bc2a174ff593dc.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "bosun",
+    "go",
+    "monitoring",
+    "scollector",
+    "tsdb"
+  ],
+  "version": "HEAD-b8d3e98-250213T104149",
+  "version_upstream": "",
+  "bsum": "8f88a0bee5a9c57de283ea2775aca8ddffb5e2e61ee9e278ea67e2dabf3d6f59",
+  "build_date": "2025-06-19T14:50:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759846362",
+  "build_id": "15759846362",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/synctokens?tag=HEAD-b8d3e98-250213T104149-aarch64-Linux&download=synctokens.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3413",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/synctokens?tag=HEAD-b8d3e98-250213T104149-aarch64-Linux&download=synctokens",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bosun-monitor/bosun/synctokens:HEAD-b8d3e98-250213T104149-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bosun-monitor/bosun/synctokens",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosun-monitor/bosun/synctokens?tag=HEAD-b8d3e98-250213T104149-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b1a13e9f86465200f3e40c923150aad05ce8219b14084c91cbcb227ec3de8d0",
+  "size": "2.7 MB",
+  "size_raw": "2808192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
