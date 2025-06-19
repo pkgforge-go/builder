@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jsluice",
+  "pkg_family": "jsluice",
+  "pkg_id": "jsluice#github.com_BishopFox_jsluice",
+  "pkg_name": "jsluice",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/BishopFox/jsluice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Extract URLs, paths, secrets, and other interesting bits from JavaScript",
+  "homepage": [
+    "https://github.com/BishopFox/jsluice"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "jsluice",
+    "jsurls-sinks",
+    "secrets",
+    "urlmatcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/BishopFox/jsluice/archive/0ddfab153e060a9eeaded4d8669233f7c071e7e4.tar.gz"
+  ],
+  "tag": [
+    "javascript",
+    "security"
+  ],
+  "version": "HEAD-0ddfab1-240110T145140",
+  "version_upstream": "",
+  "bsum": "303723d8e00b27fcb7089ed8f7e625e3251899a53d0eff8b2954300cad166910",
+  "build_date": "2025-06-19T08:14:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752534315",
+  "build_id": "15752534315",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bishopfox/jsluice/jsluice?tag=HEAD-0ddfab1-240110T145140-loongarch64-Linux&download=jsluice.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1573",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bishopfox/jsluice/jsluice?tag=HEAD-0ddfab1-240110T145140-loongarch64-Linux&download=jsluice",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bishopfox/jsluice/jsluice:HEAD-0ddfab1-240110T145140-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bishopfox/jsluice/jsluice",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bishopfox/jsluice/jsluice?tag=HEAD-0ddfab1-240110T145140-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff6b19cb6a5395682b5b4d14f25681c085b70eeafb86d69890ddc262542051bb",
+  "size": "7.8 MB",
+  "size_raw": "8172688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
