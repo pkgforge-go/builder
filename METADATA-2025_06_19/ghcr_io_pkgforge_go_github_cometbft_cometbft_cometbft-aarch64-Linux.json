@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cometbft",
+  "pkg_family": "cometbft",
+  "pkg_id": "cometbft#github.com_cometbft_cometbft",
+  "pkg_name": "cometbft",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cometbft/cometbft",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.",
+  "homepage": [
+    "https://github.com/cometbft/cometbft"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abci-cli",
+    "abci-v2-forum-app",
+    "cmd",
+    "cometbft",
+    "contract_tests",
+    "generator",
+    "json2wal",
+    "load",
+    "metricsdiff",
+    "metricsgen",
+    "node",
+    "parallel",
+    "priv_val_server",
+    "report",
+    "runner",
+    "simple",
+    "test",
+    "wal2json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cometbft/cometbft/archive/e1a860489ecc91290453487e08863a037f828c6d.tar.gz"
+  ],
+  "tag": [
+    "bft",
+    "blockchain",
+    "cosmos",
+    "database",
+    "distributed-systems",
+    "go",
+    "tendermint-consensus"
+  ],
+  "version": "HEAD-e1a8604-250617T215526",
+  "version_upstream": "",
+  "bsum": "2d1c6309688d9d30b287c1335e753b24be5aec66ab25cd26eeb6a726d1d4e3ab",
+  "build_date": "2025-06-19T19:51:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764419516",
+  "build_id": "15764419516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/cometbft?tag=HEAD-e1a8604-250617T215526-aarch64-Linux&download=cometbft.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "754",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/cometbft?tag=HEAD-e1a8604-250617T215526-aarch64-Linux&download=cometbft",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cometbft/cometbft/cometbft:HEAD-e1a8604-250617T215526-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cometbft/cometbft/cometbft",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/cometbft?tag=HEAD-e1a8604-250617T215526-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "302641fa05711a02000a45e366d95a3f3ae63181ac370b3f77a3f074a88b30e6",
+  "size": "34 MB",
+  "size_raw": "34823296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
