@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "common",
+  "pkg_family": "common",
+  "pkg_id": "common#github.com_containers_common",
+  "pkg_name": "common",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/common",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Location for shared common files in github.com/containers repos.",
+  "homepage": [
+    "https://github.com/containers/common"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "common"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/common/archive/d638ae9ccc5e1bc262eb202081ef03d0471e6ce4.tar.gz"
+  ],
+  "tag": [
+    "buildah",
+    "containers",
+    "podman",
+    "skopeo"
+  ],
+  "version": "HEAD-d638ae9-250619T110336",
+  "version_upstream": "",
+  "bsum": "40922eca5e44bc1c39d48eb1c6aca1c5e12eee7735a78c87692a8adefe24a287",
+  "build_date": "2025-06-19T19:52:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764526841",
+  "build_id": "15764526841",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/common/common?tag=HEAD-d638ae9-250619T110336-loongarch64-Linux&download=common.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/common/common?tag=HEAD-d638ae9-250619T110336-loongarch64-Linux&download=common",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/common/common:HEAD-d638ae9-250619T110336-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/common/common",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/common/common?tag=HEAD-d638ae9-250619T110336-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21f7fe454c4d60ce99ed7989e1037a2a8642f0a5672f6e90dc62d1ffbc5e43b1",
+  "size": "2.3 MB",
+  "size_raw": "2313528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
