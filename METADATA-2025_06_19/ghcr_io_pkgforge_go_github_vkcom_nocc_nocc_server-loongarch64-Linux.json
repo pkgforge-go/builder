@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nocc-server",
+  "pkg_family": "nocc",
+  "pkg_id": "nocc-server#github.com_VKCOM_nocc",
+  "pkg_name": "nocc-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VKCOM/nocc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A distributed C++ compiler: like distcc, but faster",
+  "homepage": [
+    "https://github.com/VKCOM/nocc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nocc-daemon",
+    "nocc-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VKCOM/nocc/archive/1599d368c6f402f8d8349bd119c0218040e6f11b.tar.gz"
+  ],
+  "tag": [
+    "compiler",
+    "distcc",
+    "kphp"
+  ],
+  "version": "HEAD-1599d36-241120T173019",
+  "version_upstream": "",
+  "bsum": "f8557ee3ba24cbf49e107089d801f568cc8b2b32847b779f2e1afe17286cc829",
+  "build_date": "2025-06-19T11:30:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756303201",
+  "build_id": "15756303201",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/nocc/nocc-server?tag=HEAD-1599d36-241120T173019-loongarch64-Linux&download=nocc-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "286",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/nocc/nocc-server?tag=HEAD-1599d36-241120T173019-loongarch64-Linux&download=nocc-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vkcom/nocc/nocc-server:HEAD-1599d36-241120T173019-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vkcom/nocc/nocc-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/nocc/nocc-server?tag=HEAD-1599d36-241120T173019-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f636133231e49468372ac6d362aa6ff51f25612efbae4931d31ffbbd1a9c7c0e",
+  "size": "11 MB",
+  "size_raw": "11231360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
