@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "dubbo-go",
+  "pkg_id": "server#github.com_apache_dubbo_go",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/dubbo-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Implementation For Apache Dubbo .",
+  "homepage": [
+    "https://github.com/apache/dubbo-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/dubbo-go/archive/4b6c00cf238c6c4f33b4bcec4d4773c693598a81.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "http2",
+    "microservices",
+    "rpc",
+    "service-mesh"
+  ],
+  "version": "HEAD-4b6c00c-250614T225408",
+  "version_upstream": "",
+  "bsum": "6d1e69ed77fbe589d370fcc365aceea8b1d2fecf9b90e03bdc77e2701edf8929",
+  "build_date": "2025-06-19T16:46:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761820401",
+  "build_id": "15761820401",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-go/server?tag=HEAD-4b6c00c-250614T225408-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4813",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-go/server?tag=HEAD-4b6c00c-250614T225408-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/dubbo-go/server:HEAD-4b6c00c-250614T225408-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/dubbo-go/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-go/server?tag=HEAD-4b6c00c-250614T225408-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ecfbe7310db864179498257d611f456c567f3a9ff90285adbb943e8cf138a2b",
+  "size": "45 MB",
+  "size_raw": "46234592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
