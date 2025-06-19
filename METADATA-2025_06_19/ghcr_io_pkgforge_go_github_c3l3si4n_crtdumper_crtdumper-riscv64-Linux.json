@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "crtdumper",
+  "pkg_family": "crtdumper",
+  "pkg_id": "crtdumper#github.com_c3l3si4n_crtdumper",
+  "pkg_name": "crtdumper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/c3l3si4n/crtdumper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "crtdumper is a Go application designed to interact directly with Certificate Transparency _CT_ logs servers  and extract domain names from certificates. Perfect for security researchers and developers interested in massively extracting domain names from CT logs.",
+  "homepage": [
+    "https://github.com/c3l3si4n/crtdumper"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crtdumper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/c3l3si4n/crtdumper/archive/a64dca61527a7fe516f5d267c3d4a701471c82e0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a64dca6-240622T140323",
+  "version_upstream": "",
+  "bsum": "b0a2519880c1d170f0db7f917924813213adf76adc3259586babc2939e4d6a21",
+  "build_date": "2025-06-19T17:17:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762497570",
+  "build_id": "15762497570",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c3l3si4n/crtdumper/crtdumper?tag=HEAD-a64dca6-240622T140323-riscv64-Linux&download=crtdumper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c3l3si4n/crtdumper/crtdumper?tag=HEAD-a64dca6-240622T140323-riscv64-Linux&download=crtdumper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/c3l3si4n/crtdumper/crtdumper:HEAD-a64dca6-240622T140323-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/c3l3si4n/crtdumper/crtdumper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c3l3si4n/crtdumper/crtdumper?tag=HEAD-a64dca6-240622T140323-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4fbfbe523f575432b7da8cdc35400486c79ab0879e858f7a6c101651b7444cf2",
+  "size": "8.8 MB",
+  "size_raw": "9136504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
