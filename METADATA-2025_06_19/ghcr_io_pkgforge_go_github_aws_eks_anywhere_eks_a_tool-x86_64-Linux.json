@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "eks-a-tool",
+  "pkg_family": "eks-anywhere",
+  "pkg_id": "eks-a-tool#github.com_aws_eks_anywhere",
+  "pkg_name": "eks-a-tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/eks-anywhere",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Amazon EKS on your own infrastructure 🚀",
+  "homepage": [
+    "https://github.com/aws/eks-anywhere"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eks-a-tool",
+    "eksctl-anywhere",
+    "integration_test",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/eks-anywhere/archive/fb4bedad3f47b061ccef0695222237336d16db41.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "baremetal",
+    "baremetal-provisioning",
+    "docker",
+    "eks",
+    "k8s",
+    "kubernetes",
+    "kubernetes-cluster",
+    "kubernetes-deployment",
+    "tinkerbell",
+    "vmware"
+  ],
+  "version": "HEAD-fb4beda-250618T050233",
+  "version_upstream": "",
+  "bsum": "c7f06bcd960b88345d0225adec22cc6a9082dc87a9a6ff1bb6b5b98e91a03e1a",
+  "build_date": "2025-06-19T13:25:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758284368",
+  "build_id": "15758284368",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere/eks-a-tool?tag=HEAD-fb4beda-250618T050233-x86_64-Linux&download=eks-a-tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2034",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere/eks-a-tool?tag=HEAD-fb4beda-250618T050233-x86_64-Linux&download=eks-a-tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-anywhere/eks-a-tool:HEAD-fb4beda-250618T050233-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-anywhere/eks-a-tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere/eks-a-tool?tag=HEAD-fb4beda-250618T050233-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9866faacb2b2898e668c5500d8c3404bf16cd78056b05500c09c6c934a0c884c",
+  "size": "104 MB",
+  "size_raw": "108504992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
