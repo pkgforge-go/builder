@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cofidectl",
+  "pkg_family": "cofidectl",
+  "pkg_id": "cofidectl#github.com_cofide_cofidectl",
+  "pkg_name": "cofidectl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cofide/cofidectl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI for Kubernetes workload identity",
+  "homepage": [
+    "https://github.com/cofide/cofidectl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cofidectl",
+    "cofidectl-test-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cofide/cofidectl/archive/d0f747276913c7aa74cf04897e6be9d2dfe2febe.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "kubernetes",
+    "security",
+    "spiffe",
+    "spire",
+    "workload-identity"
+  ],
+  "version": "HEAD-d0f7472-250619T131007",
+  "version_upstream": "v0.15.0",
+  "bsum": "1875a5ff627390c7ec9ae1500e1470f2c8647840be460db058996b238e16dace",
+  "build_date": "2025-06-19T19:36:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764406487",
+  "build_id": "15764406487",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cofide/cofidectl/cofidectl?tag=HEAD-d0f7472-250619T131007-riscv64-Linux&download=cofidectl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cofide/cofidectl/cofidectl?tag=HEAD-d0f7472-250619T131007-riscv64-Linux&download=cofidectl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cofide/cofidectl/cofidectl:HEAD-d0f7472-250619T131007-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cofide/cofidectl/cofidectl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cofide/cofidectl/cofidectl?tag=HEAD-d0f7472-250619T131007-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc59b5906ab3aec7722ba0650065725537fd05901bd8291bbcd1c9237b0f5811",
+  "size": "95 MB",
+  "size_raw": "99367032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
