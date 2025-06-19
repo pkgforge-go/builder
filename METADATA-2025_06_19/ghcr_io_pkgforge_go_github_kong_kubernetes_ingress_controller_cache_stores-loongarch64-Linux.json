@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cache-stores",
+  "pkg_family": "kubernetes-ingress-controller",
+  "pkg_id": "cache-stores#github.com_Kong_kubernetes_ingress_controller",
+  "pkg_name": "cache-stores",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Kong/kubernetes-ingress-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.",
+  "homepage": [
+    "https://github.com/Kong/kubernetes-ingress-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-stores",
+    "cleanup",
+    "cli-arguments-docs-gen",
+    "cmd",
+    "networking"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Kong/kubernetes-ingress-controller/archive/1ff5b45a08a545b328b94c02d695dd863166b3e5.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "crds",
+    "ingress",
+    "ingress-controller",
+    "k8s",
+    "kong",
+    "kubernetes",
+    "kubernetes-ingress",
+    "kubernetes-ingress-controller",
+    "microservices",
+    "team-k8s"
+  ],
+  "version": "HEAD-1ff5b45-250619T105054",
+  "version_upstream": "",
+  "bsum": "604941f50b2d18f1aa693d969274c1b563a903ef8a67cab31bc4a6c4bfc8cb2a",
+  "build_date": "2025-06-19T15:55:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761433026",
+  "build_id": "15761433026",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/cache-stores?tag=HEAD-1ff5b45-250619T105054-loongarch64-Linux&download=cache-stores.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2289",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/cache-stores?tag=HEAD-1ff5b45-250619T105054-loongarch64-Linux&download=cache-stores",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kong/kubernetes-ingress-controller/cache-stores:HEAD-1ff5b45-250619T105054-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kong/kubernetes-ingress-controller/cache-stores",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kubernetes-ingress-controller/cache-stores?tag=HEAD-1ff5b45-250619T105054-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3048fcd4df4e8de5b75e6a0e3823529b701ee33f6a16071e4804e6dfa69bede",
+  "size": "6.6 MB",
+  "size_raw": "6872288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
