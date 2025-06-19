@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gvproxy",
+  "pkg_family": "gvisor-tap-vsock",
+  "pkg_id": "gvproxy#github.com_containers_gvisor_tap_vsock",
+  "pkg_name": "gvproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/gvisor-tap-vsock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A new network stack based on gVisor",
+  "homepage": [
+    "https://github.com/containers/gvisor-tap-vsock"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gvproxy",
+    "qemu-wrapper",
+    "ssh-over-vsock",
+    "test-companion",
+    "vm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/gvisor-tap-vsock/archive/d9929290469f991f65d9bb832d43e23f8b72ec85.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d992929-250610T125302",
+  "version_upstream": "",
+  "bsum": "34b8325d7d53c738173f44866cbbf7075c496c41f596741758578fbd0497a2dc",
+  "build_date": "2025-06-19T19:53:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764540981",
+  "build_id": "15764540981",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/gvproxy?tag=HEAD-d992929-250610T125302-loongarch64-Linux&download=gvproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "306",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/gvproxy?tag=HEAD-d992929-250610T125302-loongarch64-Linux&download=gvproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/gvproxy:HEAD-d992929-250610T125302-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/gvisor-tap-vsock/gvproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/gvisor-tap-vsock/gvproxy?tag=HEAD-d992929-250610T125302-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "836afd819c404440438a08d831d9daa976ccac25fc3cf37ae47aee641ede47bc",
+  "size": "13 MB",
+  "size_raw": "13419264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
