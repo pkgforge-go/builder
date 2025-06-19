@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mount_gcsfuse",
+  "pkg_family": "gcsfuse",
+  "pkg_id": "mount_gcsfuse#github.com_GoogleCloudPlatform_gcsfuse",
+  "pkg_name": "mount_gcsfuse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/gcsfuse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A user-space file system for interacting with Google Cloud Storage",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/gcsfuse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build_gcsfuse",
+    "config-gen",
+    "gcsfuse",
+    "mount_gcsfuse",
+    "package_gcsfuse",
+    "prefetch_cache_gcsfuse",
+    "proxy_server",
+    "read_full_file",
+    "read_within_file",
+    "skip_tests",
+    "stat_files",
+    "write_locally",
+    "write_to_gcs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/gcsfuse/archive/9c5c2d5120bc90f4f26f90f8a8629e6be77a85a0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9c5c2d5-250618T154930",
+  "version_upstream": "",
+  "bsum": "5f26919f0a8ac71c7a72979c7ac2b0e3453fb3beafec3746c4118f503dac19a0",
+  "build_date": "2025-06-19T09:39:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753656673",
+  "build_id": "15753656673",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcsfuse/mount_gcsfuse?tag=HEAD-9c5c2d5-250618T154930-aarch64-Linux&download=mount_gcsfuse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcsfuse/mount_gcsfuse?tag=HEAD-9c5c2d5-250618T154930-aarch64-Linux&download=mount_gcsfuse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/gcsfuse/mount_gcsfuse:HEAD-9c5c2d5-250618T154930-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/gcsfuse/mount_gcsfuse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcsfuse/mount_gcsfuse?tag=HEAD-9c5c2d5-250618T154930-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef50924ed1f1aab268c09f7de22a8439cee4841a59a8bf4b143586ee74b735a2",
+  "size": "30 MB",
+  "size_raw": "31234208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
