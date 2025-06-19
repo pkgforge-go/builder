@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "paver",
+  "pkg_family": "psiphon-tunnel-core",
+  "pkg_id": "paver#github.com_Psiphon_Labs_psiphon_tunnel_core",
+  "pkg_name": "paver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Psiphon-Labs/psiphon-tunnel-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Psiphon is an Internet censorship circumvention system.",
+  "homepage": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientlibrary",
+    "consoleclient",
+    "logging",
+    "paver",
+    "server",
+    "signer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core/archive/8e55c194938d9abd5604bd487ea98d281ab841ec.tar.gz"
+  ],
+  "tag": [
+    "censorship-circumvention",
+    "golang",
+    "psiphon"
+  ],
+  "version": "HEAD-8e55c19-250618T114056",
+  "version_upstream": "",
+  "bsum": "0632846f7edf8f45c3d3ef391997151b3d741b154115ce0e52d25897e9b2b984",
+  "build_date": "2025-06-19T10:40:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755055545",
+  "build_id": "15755055545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/paver?tag=HEAD-8e55c19-250618T114056-riscv64-Linux&download=paver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "946",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/paver?tag=HEAD-8e55c19-250618T114056-riscv64-Linux&download=paver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/paver:HEAD-8e55c19-250618T114056-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/paver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/paver?tag=HEAD-8e55c19-250618T114056-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f67b6b3ded7550268fd89fe22e431a8ad7cb867f8787cb71e1c7aab7421faab",
+  "size": "5.0 MB",
+  "size_raw": "5223992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

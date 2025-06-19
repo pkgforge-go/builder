@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "signer",
+  "pkg_family": "psiphon-tunnel-core",
+  "pkg_id": "signer#github.com_Psiphon_Labs_psiphon_tunnel_core",
+  "pkg_name": "signer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Psiphon-Labs/psiphon-tunnel-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Psiphon is an Internet censorship circumvention system.",
+  "homepage": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientlibrary",
+    "consoleclient",
+    "logging",
+    "paver",
+    "server",
+    "signer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core/archive/8e55c194938d9abd5604bd487ea98d281ab841ec.tar.gz"
+  ],
+  "tag": [
+    "censorship-circumvention",
+    "golang",
+    "psiphon"
+  ],
+  "version": "HEAD-8e55c19-250618T114056",
+  "version_upstream": "",
+  "bsum": "02129c3e400fdd60114403197c5d46a952630e87a15313e98c1435b685b3605a",
+  "build_date": "2025-06-19T10:40:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755055545",
+  "build_id": "15755055545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/signer?tag=HEAD-8e55c19-250618T114056-riscv64-Linux&download=signer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "946",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/signer?tag=HEAD-8e55c19-250618T114056-riscv64-Linux&download=signer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/signer:HEAD-8e55c19-250618T114056-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/signer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/signer?tag=HEAD-8e55c19-250618T114056-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c2f1b37d5acdd8d1b4a852eb6804c263a582e39aec1dba27bb6e33e66a5b9b7",
+  "size": "4.9 MB",
+  "size_raw": "5061176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
