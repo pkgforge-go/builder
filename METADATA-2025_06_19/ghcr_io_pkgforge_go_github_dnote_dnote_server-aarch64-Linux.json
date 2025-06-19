@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "dnote",
+  "pkg_id": "server#github.com_dnote_dnote",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dnote/dnote",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple command line notebook for programmers",
+  "homepage": [
+    "https://github.com/dnote/dnote"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "migrate",
+    "server",
+    "templates",
+    "watcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dnote/dnote/archive/895dcaa59f1c649f0a5d5703e08ae6a96304d03d.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "command-line-tool",
+    "developer-tools",
+    "dnote",
+    "notebook",
+    "personal-knowledge-base"
+  ],
+  "version": "HEAD-895dcaa-240630T174311",
+  "version_upstream": "",
+  "bsum": "74f1184ef908430d604be456d1d27a667d8ec3af3a3d6ba2c92cecc127c80e12",
+  "build_date": "2025-06-19T21:41:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766588238",
+  "build_id": "15766588238",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnote/dnote/server?tag=HEAD-895dcaa-240630T174311-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2877",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnote/dnote/server?tag=HEAD-895dcaa-240630T174311-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dnote/dnote/server:HEAD-895dcaa-240630T174311-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dnote/dnote/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnote/dnote/server?tag=HEAD-895dcaa-240630T174311-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b20407b6027e3d4edadc061bd84bd2911643e569286f529f97c12ddce1434e0",
+  "size": "11 MB",
+  "size_raw": "11320032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
