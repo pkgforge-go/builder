@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "event-generator",
+  "pkg_family": "kvisor",
+  "pkg_id": "event-generator#github.com_castai_kvisor",
+  "pkg_name": "event-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "daemon",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "imagescan",
+    "linter",
+    "mock-server",
+    "sock_cookie"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/25b92dfea43110d6c676327384530eaba954735d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-25b92df-250619T124341",
+  "version_upstream": "",
+  "bsum": "04279877a5bb3f32666028f0e005bc87edd9c6bcb4e941d1be02b3697427675b",
+  "build_date": "2025-06-19T17:54:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762668777",
+  "build_id": "15762668777",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/event-generator?tag=HEAD-25b92df-250619T124341-x86_64-Linux&download=event-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/event-generator?tag=HEAD-25b92df-250619T124341-x86_64-Linux&download=event-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/event-generator:HEAD-25b92df-250619T124341-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/event-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/event-generator?tag=HEAD-25b92df-250619T124341-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa8d2310536e091a82bdc32fe09064e1cb9ad072b52fb6437af6b6938de5a8af",
+  "size": "48 MB",
+  "size_raw": "50211808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
