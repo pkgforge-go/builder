@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "squashfs",
+  "pkg_family": "squashfs",
+  "pkg_id": "squashfs#github.com_CalebQ42_squashfs",
+  "pkg_name": "squashfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CalebQ42/squashfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A library to interact with Squashfs archives. Currently only has support for reading, but writing archives will probably come eventually.",
+  "homepage": [
+    "https://github.com/CalebQ42/squashfs"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "squashfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CalebQ42/squashfs/archive/f5e9907829bed25fcd260b82c5d84d47e9d9a4be.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "golang-library",
+    "squashfs"
+  ],
+  "version": "HEAD-f5e9907-250612T000359",
+  "version_upstream": "",
+  "bsum": "c9394f0b66a0c9bdfc8a9f45b06b1d78d9aa9b47b5d7dd0e001656110fb6edec",
+  "build_date": "2025-06-19T08:23:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752575090",
+  "build_id": "15752575090",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/calebq42/squashfs/squashfs?tag=HEAD-f5e9907-250612T000359-riscv64-Linux&download=squashfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/calebq42/squashfs/squashfs?tag=HEAD-f5e9907-250612T000359-riscv64-Linux&download=squashfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/calebq42/squashfs/squashfs:HEAD-f5e9907-250612T000359-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/calebq42/squashfs/squashfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/calebq42/squashfs/squashfs?tag=HEAD-f5e9907-250612T000359-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5b29adaab362ee716e935c95c5b9357acbde8fee70b73d54f86f3f5dc14ecfe7",
+  "size": "2.9 MB",
+  "size_raw": "3007992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
