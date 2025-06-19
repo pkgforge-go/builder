@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nvidia-validator",
+  "pkg_family": "gpu-operator",
+  "pkg_id": "nvidia-validator#github.com_NVIDIA_gpu_operator",
+  "pkg_name": "nvidia-validator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/gpu-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+  "homepage": [
+    "https://github.com/NVIDIA/gpu-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gpuop-cfg",
+    "nvidia-validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/gpu-operator/archive/6324d2aca562edf46d93cbf9d2a0837ab5c12e59.tar.gz"
+  ],
+  "tag": [
+    "cuda",
+    "gpu",
+    "kubernetes",
+    "nvidia"
+  ],
+  "version": "HEAD-6324d2a-250618T142838",
+  "version_upstream": "",
+  "bsum": "724d369f1a6f3e8930f44c80b3dc79d5f9a1dfdd5340c3c7e844f27c58a89225",
+  "build_date": "2025-06-19T10:17:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754948867",
+  "build_id": "15754948867",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-operator/nvidia-validator?tag=HEAD-6324d2a-250618T142838-aarch64-Linux&download=nvidia-validator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-operator/nvidia-validator?tag=HEAD-6324d2a-250618T142838-aarch64-Linux&download=nvidia-validator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/gpu-operator/nvidia-validator:HEAD-6324d2a-250618T142838-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/gpu-operator/nvidia-validator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-operator/nvidia-validator?tag=HEAD-6324d2a-250618T142838-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8b15998f0b799b58fa2733fb00f77c80e71ad4b7ac4d1419bedfec5b6fc0d4a",
+  "size": "50 MB",
+  "size_raw": "52200032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

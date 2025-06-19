@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gpuop-cfg",
+  "pkg_family": "gpu-operator",
+  "pkg_id": "gpuop-cfg#github.com_NVIDIA_gpu_operator",
+  "pkg_name": "gpuop-cfg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/gpu-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+  "homepage": [
+    "https://github.com/NVIDIA/gpu-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gpuop-cfg",
+    "nvidia-validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/gpu-operator/archive/6324d2aca562edf46d93cbf9d2a0837ab5c12e59.tar.gz"
+  ],
+  "tag": [
+    "cuda",
+    "gpu",
+    "kubernetes",
+    "nvidia"
+  ],
+  "version": "HEAD-6324d2a-250618T142838",
+  "version_upstream": "",
+  "bsum": "3eedfb8109ffc148880e4a51093e2022f2fa9e90cd9b84313f53ebf780fd8bcf",
+  "build_date": "2025-06-19T10:17:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754948867",
+  "build_id": "15754948867",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-operator/gpuop-cfg?tag=HEAD-6324d2a-250618T142838-aarch64-Linux&download=gpuop-cfg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-operator/gpuop-cfg?tag=HEAD-6324d2a-250618T142838-aarch64-Linux&download=gpuop-cfg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/gpu-operator/gpuop-cfg:HEAD-6324d2a-250618T142838-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/gpu-operator/gpuop-cfg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-operator/gpuop-cfg?tag=HEAD-6324d2a-250618T142838-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49ab117d8101245ee104812d44e46b49f37ec3a1a53ad6c3d3a5a257a590cefd",
+  "size": "25 MB",
+  "size_raw": "25917856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
