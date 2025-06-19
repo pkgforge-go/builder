@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "distsq",
+  "pkg_family": "gensimd",
+  "pkg_id": "distsq#github.com_bjwbell_gensimd",
+  "pkg_name": "distsq",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bjwbell/gensimd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SIMD for Go",
+  "homepage": [
+    "https://github.com/bjwbell/gensimd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "distsq",
+    "gensimd",
+    "reg_spill1",
+    "reg_spill2",
+    "reg_spill3",
+    "simd_example",
+    "sse2_example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bjwbell/gensimd/archive/06eb18285485c0d572cc7f024050fc6cb652ed4c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06eb182-171026T174226",
+  "version_upstream": "",
+  "bsum": "57a32e08e69745f1540a080f7e3bd70cc0ac386f23ee1a6045a6453c5fd9d539",
+  "build_date": "2025-06-19T14:17:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759371696",
+  "build_id": "15759371696",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/distsq?tag=HEAD-06eb182-171026T174226-x86_64-Linux&download=distsq.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "163",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/distsq?tag=HEAD-06eb182-171026T174226-x86_64-Linux&download=distsq",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bjwbell/gensimd/distsq:HEAD-06eb182-171026T174226-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bjwbell/gensimd/distsq",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/distsq?tag=HEAD-06eb182-171026T174226-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1acf332e98acad5f9e0ab5c026f53e7f32f951da30b0433f8c4d65aa6689a1a",
+  "size": "2.7 MB",
+  "size_raw": "2799072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

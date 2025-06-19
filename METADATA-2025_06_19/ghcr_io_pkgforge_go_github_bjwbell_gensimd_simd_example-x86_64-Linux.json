@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "simd_example",
+  "pkg_family": "gensimd",
+  "pkg_id": "simd_example#github.com_bjwbell_gensimd",
+  "pkg_name": "simd_example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bjwbell/gensimd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SIMD for Go",
+  "homepage": [
+    "https://github.com/bjwbell/gensimd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "distsq",
+    "gensimd",
+    "reg_spill1",
+    "reg_spill2",
+    "reg_spill3",
+    "simd_example",
+    "sse2_example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bjwbell/gensimd/archive/06eb18285485c0d572cc7f024050fc6cb652ed4c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06eb182-171026T174226",
+  "version_upstream": "",
+  "bsum": "19770ad242b193ede323c7610f84b83641ba2ad2e836692f75a94142d19570cf",
+  "build_date": "2025-06-19T14:17:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759371696",
+  "build_id": "15759371696",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/simd_example?tag=HEAD-06eb182-171026T174226-x86_64-Linux&download=simd_example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "163",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/simd_example?tag=HEAD-06eb182-171026T174226-x86_64-Linux&download=simd_example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bjwbell/gensimd/simd_example:HEAD-06eb182-171026T174226-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bjwbell/gensimd/simd_example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/simd_example?tag=HEAD-06eb182-171026T174226-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "598e975e1fc0bb7b102d83d76ffd75a3d22de6a5b71de82b9dff714666dbe8de",
+  "size": "2.7 MB",
+  "size_raw": "2816096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
