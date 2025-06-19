@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cortex-tenant",
+  "pkg_family": "cortex-tenant",
+  "pkg_id": "cortex-tenant#github.com_blind_oracle_cortex_tenant",
+  "pkg_name": "cortex-tenant",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blind-oracle/cortex-tenant",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels",
+  "homepage": [
+    "https://github.com/blind-oracle/cortex-tenant"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cortex-tenant"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blind-oracle/cortex-tenant/archive/3b5ab24535cff65a4c35c9fb518cecd06c9aa4d1.tar.gz"
+  ],
+  "tag": [
+    "cortex",
+    "cortex-tenant",
+    "kubernetes",
+    "labels",
+    "metrics",
+    "mimir",
+    "prometheus",
+    "proxy",
+    "tenant",
+    "timeseries"
+  ],
+  "version": "HEAD-3b5ab24-250604T082403",
+  "version_upstream": "v1.15.7",
+  "bsum": "2d9cba377ce72c9fe6c79d9f81fb86e9899c8c584304ce18eb60ac2b2bd423a4",
+  "build_date": "2025-06-19T14:23:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759421787",
+  "build_id": "15759421787",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/cortex-tenant/cortex-tenant?tag=HEAD-3b5ab24-250604T082403-x86_64-Linux&download=cortex-tenant.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "123",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/cortex-tenant/cortex-tenant?tag=HEAD-3b5ab24-250604T082403-x86_64-Linux&download=cortex-tenant",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blind-oracle/cortex-tenant/cortex-tenant:HEAD-3b5ab24-250604T082403-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blind-oracle/cortex-tenant/cortex-tenant",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blind-oracle/cortex-tenant/cortex-tenant?tag=HEAD-3b5ab24-250604T082403-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ddb19a4ab55ac3de7517e7cc6eadfdf6940be3cc26f465fd302bbb26e38a9af8",
+  "size": "12 MB",
+  "size_raw": "12283632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
