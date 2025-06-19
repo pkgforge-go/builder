@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sugardb-cmd",
+  "pkg_family": "SugarDB",
+  "pkg_id": "sugardb-cmd#github.com_EchoVault_SugarDB",
+  "pkg_name": "sugardb-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EchoVault/SugarDB",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Embeddable and distributed in-memory alternative to Redis.",
+  "homepage": [
+    "https://github.com/EchoVault/SugarDB"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sugardb",
+    "sugardb-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EchoVault/SugarDB/archive/b0744d9160b5018b203f0b80239d48720a901cb4.tar.gz"
+  ],
+  "tag": [
+    "cache",
+    "client-server",
+    "cluster",
+    "consistent",
+    "database",
+    "distributed",
+    "distributed-database",
+    "go",
+    "golang",
+    "in-memory-database",
+    "lfu-cache",
+    "lru-cache",
+    "memory",
+    "networking",
+    "open-source",
+    "pubsub",
+    "redis",
+    "store",
+    "tcp"
+  ],
+  "version": "HEAD-b0744d9-250424T020959",
+  "version_upstream": "",
+  "bsum": "69d3027c5bb244a7851bf7b2ef90bb7bc5b58b180c02b53c8eca1d23a0441207",
+  "build_date": "2025-06-19T09:03:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753454012",
+  "build_id": "15753454012",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echovault/sugardb/sugardb-cmd?tag=HEAD-b0744d9-250424T020959-x86_64-Linux&download=sugardb-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "490",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echovault/sugardb/sugardb-cmd?tag=HEAD-b0744d9-250424T020959-x86_64-Linux&download=sugardb-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/echovault/sugardb/sugardb-cmd:HEAD-b0744d9-250424T020959-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/echovault/sugardb/sugardb-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echovault/sugardb/sugardb-cmd?tag=HEAD-b0744d9-250424T020959-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c41b06a6e66c160c9177ff574d6440b9c594bf3b1af35a195b8802b7249431f8",
+  "size": "22 MB",
+  "size_raw": "22073184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
