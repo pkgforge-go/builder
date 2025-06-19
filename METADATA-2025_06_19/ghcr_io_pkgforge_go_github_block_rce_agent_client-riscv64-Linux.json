@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "rce-agent",
+  "pkg_id": "client#github.com_block_rce_agent",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/block/rce-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gRPC-based Remote Command Execution Agent",
+  "homepage": [
+    "https://github.com/block/rce-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/block/rce-agent/archive/a26c1f2fbf9c5616a9169fda4ecb5dbf207d7eab.tar.gz"
+  ],
+  "tag": [
+    "grpc",
+    "rce-agent",
+    "remote-code-execution",
+    "remote-execution"
+  ],
+  "version": "HEAD-a26c1f2-250227T160709",
+  "version_upstream": "",
+  "bsum": "b948032b9dbe3e4eb14d75dccfcd7233a4f30363c550b228589a99d030985e20",
+  "build_date": "2025-06-19T14:25:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759431153",
+  "build_id": "15759431153",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/rce-agent/client?tag=HEAD-a26c1f2-250227T160709-riscv64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "143",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/rce-agent/client?tag=HEAD-a26c1f2-250227T160709-riscv64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/block/rce-agent/client:HEAD-a26c1f2-250227T160709-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/block/rce-agent/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/rce-agent/client?tag=HEAD-a26c1f2-250227T160709-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6688b296d92b2c9d0085adda82dfff0460a14d96820136e10dad6689d7c710d",
+  "size": "12 MB",
+  "size_raw": "11741208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
