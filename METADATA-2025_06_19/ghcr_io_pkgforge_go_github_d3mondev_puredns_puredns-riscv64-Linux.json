@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "puredns",
+  "pkg_family": "puredns",
+  "pkg_id": "puredns#github.com_d3mondev_puredns",
+  "pkg_name": "puredns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/d3mondev/puredns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.",
+  "homepage": [
+    "https://github.com/d3mondev/puredns"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "puredns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/d3mondev/puredns/archive/d82341557f0bb1efcfacf15533464be720ae4be8.tar.gz"
+  ],
+  "tag": [
+    "bugbounty",
+    "dns",
+    "dns-bruteforcer",
+    "dns-lookup",
+    "dns-resolution",
+    "dns-resolver",
+    "hacking",
+    "massdns",
+    "recon",
+    "subdomain",
+    "subdomain-bruteforcing"
+  ],
+  "version": "HEAD-d823415-241118T151732",
+  "version_upstream": "",
+  "bsum": "829605447574f20b05e355f298b25e75236b57d7d8bf4965676c896451034939",
+  "build_date": "2025-06-19T20:38:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765465915",
+  "build_id": "15765465915",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d3mondev/puredns/puredns?tag=HEAD-d823415-241118T151732-riscv64-Linux&download=puredns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1893",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d3mondev/puredns/puredns?tag=HEAD-d823415-241118T151732-riscv64-Linux&download=puredns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/d3mondev/puredns/puredns:HEAD-d823415-241118T151732-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/d3mondev/puredns/puredns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d3mondev/puredns/puredns?tag=HEAD-d823415-241118T151732-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf6fc743c359c57e10819cec4852f8795e0451f645fa5fe3b6c7d3c5da423734",
+  "size": "9.2 MB",
+  "size_raw": "9616920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
