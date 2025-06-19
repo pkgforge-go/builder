@@ -232,6 +232,18 @@
     "version": "HEAD-ed4b7ce-250612T103718"
   },
   {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "admission-webhook",
+    "pkg_id": "admission-webhook#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
     "description": "Go tools for audio processing _ creation 🎶",
     "name": "adsr",
     "pkg_id": "adsr#github.com_DylanMeeus_GoAudio",
@@ -284,6 +296,19 @@
     "version": "HEAD-fce4511-250615T204225"
   },
   {
+    "description": "Self-hosted static pages hosting and managing",
+    "name": "agent",
+    "pkg_id": "agent#github.com_LiteyukiStudio_spage",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-7eb747e-250619T082334"
+  },
+  {
     "description": "Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.",
     "name": "agentbaker",
     "pkg_id": "agentbaker#github.com_Azure_AgentBaker",
@@ -310,6 +335,49 @@
     "version": "HEAD-6ba3c07-250531T153551"
   },
   {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "aisinit",
+    "pkg_id": "aisinit#github.com_NVIDIA_aistore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "aisloader",
+    "pkg_id": "aisloader#github.com_NVIDIA_aistore",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "aisnode",
+    "pkg_id": "aisnode#github.com_NVIDIA_aistore",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "aisnodeprofile",
+    "pkg_id": "aisnodeprofile#github.com_NVIDIA_aistore",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
     "description": "Provision and manage Aiven Services from your Kubernetes cluster.",
     "name": "aiven-operator",
     "pkg_id": "aiven-operator#github.com_aiven_aiven_operator",
@@ -334,6 +402,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-fbb030c-250618T130139"
+  },
+  {
+    "description": "A general purpose application and library for aligning text.",
+    "name": "align",
+    "pkg_id": "align#github.com_Guitarbum722_align",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c81c6ab-210912T091645"
   },
   {
     "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
@@ -451,6 +532,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1546f12-211024T195047"
+  },
+  {
+    "description": "Scriptable interpreter written in golang",
+    "name": "anko",
+    "pkg_id": "anko#github.com_mattn_anko",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3f269a7-250404T000348"
+  },
+  {
+    "description": "Scriptable interpreter written in golang",
+    "name": "anko-package-gen",
+    "pkg_id": "anko-package-gen#github.com_mattn_anko",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3f269a7-250404T000348"
   },
   {
     "description": "A lightning-fast static site generator written in Go",
@@ -817,6 +924,58 @@
     "version": "HEAD-530812f-250606T183437"
   },
   {
+    "description": "V2Ray rule generator to circumvent censorship by the Russian government and evade DPI",
+    "name": "antizapret-v2ray",
+    "pkg_id": "antizapret-v2ray#github.com_OmarAssadi_AntiZapret_V2Ray",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8b9f4e-220707T150623"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "aoc2024",
+    "pkg_id": "aoc2024#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
+    "name": "api",
+    "pkg_id": "api#github.com_GopeedLab_gopeed",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8ae9363-250617T095151"
+  },
+  {
+    "description": "Open source API testing tool. 开源接口调试、测试工具。Mock Server",
+    "name": "api-testing",
+    "pkg_id": "api-testing#github.com_LinuxSuRen_api_testing",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-f3b09b4-250619T080518"
+  },
+  {
     "description": ":white_check_mark: A Go library for email verification without sending any emails.",
     "name": "apiserver",
     "pkg_id": "apiserver#github.com_AfterShip_email_verifier",
@@ -1073,6 +1232,19 @@
     "version": "HEAD-9cd5bee-250610T005736"
   },
   {
+    "description": "Read ROMs, EPROMs, Flash of older Microcontrollers or Computers",
+    "name": "arduino_mega_programmer",
+    "pkg_id": "arduino_mega_programmer#github.com_Gustavomurta_Arduino_Mega_Programmer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3001f19-240217T104624"
+  },
+  {
     "description": "Minimalist text editor with vim-compatible key bindings.",
     "name": "aretext",
     "pkg_id": "aretext#github.com_aretext_aretext",
@@ -1189,6 +1361,29 @@
     "version": "HEAD-ed4b7ce-250612T103718"
   },
   {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "authn",
+    "pkg_id": "authn#github.com_NVIDIA_aistore",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
+    "description": "Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.",
+    "name": "autospotting",
+    "pkg_id": "autospotting#github.com_LeanerCloud_AutoSpotting",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9bc88ee-240418T214846"
+  },
+  {
     "description": "Aerospike Client Go",
     "name": "average",
     "pkg_id": "average#github.com_aerospike_aerospike_client_go",
@@ -1213,6 +1408,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ef9775e-250617T135436"
+  },
+  {
+    "description": "CLI tool that shows the future public IPv4 costs for a variety of AWS resources across all AWS regions from an account.",
+    "name": "aws-ipv4-cost-viewer",
+    "pkg_id": "aws-ipv4-cost-viewer#github.com_LeanerCloud_aws_ipv4_cost_viewer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-10f6737-240116T100653"
   },
   {
     "description": "A developer CLI that reduces the time it takes to get started on Azure. The Azure Developer CLI _azd_ provides commands that map to key workflow stages: code, build, deploy, monitor, repeat.",
@@ -1250,6 +1458,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fabb122-250618T124800"
+  },
+  {
+    "description": "OSINT tool for discovering the real IP addresses of services which are behind Cloudflare but not properly locked down",
+    "name": "badflare",
+    "pkg_id": "badflare#github.com_LeeBrotherston_badflare",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6549570-240501T121847"
   },
   {
     "description": "Go Language Library for SVG generation",
@@ -1432,6 +1653,19 @@
     "version": "HEAD-605d46e-210701T004423"
   },
   {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "binder",
+    "pkg_id": "binder#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
+  },
+  {
     "description": "p2p network to enable running distributed computation and rendering.",
     "name": "bindings",
     "pkg_id": "bindings#github.com_Akilan1999_p2p_rendering_computation",
@@ -1585,6 +1819,19 @@
     "version": "HEAD-0aa8923-240811T004730"
   },
   {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "braille",
+    "pkg_id": "braille#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "A broadcast, in a box.",
     "name": "broadcast-box",
     "pkg_id": "broadcast-box#github.com_Glimesh_broadcast_box",
@@ -1662,6 +1909,19 @@
     "version": "HEAD-d685a7d-250608T005639"
   },
   {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "build_gcsfuse",
+    "pkg_id": "build_gcsfuse#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": ":white_check_mark: A Go library for email verification without sending any emails.",
     "name": "build_metadata",
     "pkg_id": "build_metadata#github.com_AfterShip_email_verifier",
@@ -1688,6 +1948,19 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "candlesticks",
+    "pkg_id": "candlesticks#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "playReady implementation",
     "name": "cbc",
     "pkg_id": "cbc#github.com_3052_playReady",
@@ -1712,6 +1985,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-6786e92-250616T173212"
+  },
+  {
+    "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+    "name": "cffi",
+    "pkg_id": "cffi#github.com_Noooste_azuretls_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1f46516-250618T134224"
   },
   {
     "description": "9haram clone of the acme text editor",
@@ -1776,6 +2062,18 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-c7a2c2b-250326T065843"
+  },
+  {
+    "description": "Effortlessly generate chmod commands",
+    "name": "chmod-cli",
+    "pkg_id": "chmod-cli#github.com_Mayowa_Ojo_chmod_cli",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-fce9a8c-211219T221252"
   },
   {
     "description": "Open-Source ClickHouse http proxy and load balancer",
@@ -1854,6 +2152,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fb351f8-250508T153229"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "circles",
+    "pkg_id": "circles#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
   },
   {
     "description": "Miscellaneous Go hacks",
@@ -2332,6 +2643,19 @@
     "version": "HEAD-118ead5-250612T115649"
   },
   {
+    "description": "A cli text editor",
+    "name": "coconut",
+    "pkg_id": "coconut#github.com_LucasPeixotg_coconut",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-a4dfd10-240303T212821"
+  },
+  {
     "description": "Golang driver for ClickHouse",
     "name": "codegen",
     "pkg_id": "codegen#github.com_ClickHouse_clickhouse_go",
@@ -2384,6 +2708,19 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "columns",
+    "pkg_id": "columns#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.",
     "name": "combine-segs",
     "pkg_id": "combine-segs#github.com_Eyevinn_mp4ff",
@@ -2397,6 +2734,19 @@
     "version": "HEAD-cff60b3-250508T220921"
   },
   {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "compare",
+    "pkg_id": "compare#github.com_NVIDIA_aistore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
     "description": "Terraform AliCloud provider",
     "name": "compatibility",
     "pkg_id": "compatibility#github.com_aliyun_terraform_provider_alicloud",
@@ -2408,6 +2758,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-58856c4-250618T192432"
+  },
+  {
+    "description": "Compiler for a small language into x86-64 Assembly",
+    "name": "compiler",
+    "pkg_id": "compiler#github.com_MauriceGit_compiler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-ecf1690-221019T203722"
   },
   {
     "description": "Fully featured Go _golang_ command line option parser with built-in auto-completion support.",
@@ -2473,6 +2836,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-07cf34a-250617T083249"
+  },
+  {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "config-gen",
+    "pkg_id": "config-gen#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
   },
   {
     "description": "Terraform AliCloud provider",
@@ -2705,6 +3081,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1546f12-211024T195047"
+  },
+  {
+    "description": "MaaFramework Golang Binding",
+    "name": "custom-action",
+    "pkg_id": "custom-action#github.com_MaaXYZ_maa_framework_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8af189c-250619T103559"
+  },
+  {
+    "description": "MaaFramework Golang Binding",
+    "name": "custom-recognition",
+    "pkg_id": "custom-recognition#github.com_MaaXYZ_maa_framework_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8af189c-250619T103559"
   },
   {
     "description": "Aerospike Client Go",
@@ -2993,6 +3395,19 @@
     "version": "HEAD-52e0bcd-250415T085505"
   },
   {
+    "description": "Golang implemented  Redis RDB parser for secondary development and memory analysis",
+    "name": "decode",
+    "pkg_id": "decode#github.com_HDT3213_rdb",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1ceef5a-250317T213959"
+  },
+  {
     "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
     "name": "decode_sbom",
     "pkg_id": "decode_sbom#github.com_anchore_syft",
@@ -3016,6 +3431,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-eae8d4e-250618T105849"
+  },
+  {
+    "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
+    "name": "desktop",
+    "pkg_id": "desktop#github.com_GopeedLab_gopeed",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8ae9363-250617T095151"
   },
   {
     "description": "Declarative Continuous Deployment for Kubernetes",
@@ -3323,6 +3751,19 @@
     "version": "HEAD-0605bd7-250616T090125"
   },
   {
+    "description": "Duckling proxy 🦆 is a Gemini proxy to access the Small Web",
+    "name": "duckling-proxy",
+    "pkg_id": "duckling-proxy#github.com_LukeEmmet_duckling_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e2bfd73-210723T230542"
+  },
+  {
     "description": "9haram clone of the acme text editor",
     "name": "e",
     "pkg_id": "e#github.com_aarzilli_yacco",
@@ -3424,6 +3865,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-937e462-230823T181040"
+  },
+  {
+    "description": "Golang implemented  Redis RDB parser for secondary development and memory analysis",
+    "name": "encode",
+    "pkg_id": "encode#github.com_HDT3213_rdb",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1ceef5a-250317T213959"
   },
   {
     "description": "No Description Provided",
@@ -3685,6 +4139,19 @@
     "version": "HEAD-e27b419-250602T073738"
   },
   {
+    "description": "A command-line F-Droid desktop client",
+    "name": "fdroidcl",
+    "pkg_id": "fdroidcl#github.com_Hoverth_fdroidcl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-f977a6c-250428T140432"
+  },
+  {
     "description": "Go Language Library for SVG generation",
     "name": "fe",
     "pkg_id": "fe#github.com_ajstarks_svgo",
@@ -3813,6 +4280,19 @@
     "version": "HEAD-5e72a6b-250128T084449"
   },
   {
+    "description": "functional programming library for golang",
+    "name": "fp-go",
+    "pkg_id": "fp-go#github.com_IBM_fp_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-73480ca-250614T102620"
+  },
+  {
     "description": "Fasthttp forward proxy",
     "name": "fpgo",
     "pkg_id": "fpgo#github.com_app_fast_fpgo",
@@ -3826,6 +4306,19 @@
     "version": "HEAD-841dfc2-250515T030208"
   },
   {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "frandread",
+    "pkg_id": "frandread#github.com_NVIDIA_aistore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
     "description": "📦 Produce secure packages and containers with declarative configurations",
     "name": "frontend",
     "pkg_id": "frontend#github.com_Azure_dalec",
@@ -3837,6 +4330,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6ac7399-250618T140047"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "functor",
+    "pkg_id": "functor#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
   },
   {
     "description": "Go Language Library for SVG generation",
@@ -3890,6 +4396,31 @@
     "version": "HEAD-86fd5bd-250617T233036"
   },
   {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "gcenode-askpass-sidecar",
+    "pkg_id": "gcenode-askpass-sidecar#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "gcsfuse",
+    "pkg_id": "gcsfuse#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": "🌌  Your Self-hosted Comment System. _ 自托管评论系统",
     "name": "gen",
     "pkg_id": "gen#github.com_ArtalkJS_Artalk",
@@ -3926,6 +4457,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-a671cc9-250618T010624"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "gen-core-scoper",
+    "pkg_id": "gen-core-scoper#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
   },
   {
     "description": "Declarative Continuous Deployment for Kubernetes",
@@ -4198,6 +4742,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-40bff94-250618T221753"
+  },
+  {
+    "description": "🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.",
+    "name": "geoip",
+    "pkg_id": "geoip#github.com_Loyalsoldier_geoip",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d1eca9f-250328T220756"
   },
   {
     "description": "Aerospike Client Go",
@@ -4480,6 +5037,19 @@
     "version": "HEAD-0d8b0eb-250609T152552"
   },
   {
+    "description": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
+    "name": "go-blueprint",
+    "pkg_id": "go-blueprint#github.com_Melkeydev_go_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-99ce129-250518T000132"
+  },
+  {
     "description": "Concurrent ssh client",
     "name": "go-cs",
     "pkg_id": "go-cs#github.com_akosela_go_cs",
@@ -4491,6 +5061,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-be4c9ed-230221T121511"
+  },
+  {
+    "description": "An attempt at a django-like web framework, written in Go.",
+    "name": "go-django",
+    "pkg_id": "go-django#github.com_Nigel2392_go_django",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d1f6cd3-250618T221429"
+  },
+  {
+    "description": "An attempt at a django-like web framework, written in Go.",
+    "name": "go-django-definitions",
+    "pkg_id": "go-django-definitions#github.com_Nigel2392_go_django",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d1f6cd3-250618T221429"
   },
   {
     "description": "Donut Injector ported to pure Go.  For use with https://github.com/TheWover/donut",
@@ -4571,6 +5167,18 @@
     "version": "HEAD-7d38713-230309T192452"
   },
   {
+    "description": "⚡ This application _pings_ websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.",
+    "name": "go-pingbot",
+    "pkg_id": "go-pingbot#github.com_M3DZIK_go_pingbot",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d27381c-220718T030804"
+  },
+  {
     "description": "🚀 Search _ replace URLs in WordPress SQL files.",
     "name": "go-search-replace",
     "pkg_id": "go-search-replace#github.com_Automattic_go_search_replace",
@@ -4623,6 +5231,19 @@
     "version": "HEAD-c6b0d7e-230519T161546"
   },
   {
+    "description": "🚀 Fast and light wildcard pattern matching.",
+    "name": "go-wildcard",
+    "pkg_id": "go-wildcard#github.com_IGLOU_EU_go_wildcard",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-ce22b7a-250211T120319"
+  },
+  {
     "description": "Cast media files to UPnP/DLNA Media Renderers and Smart TVs.",
     "name": "go2tv-lite",
     "pkg_id": "go2tv-lite#github.com_alexballas_go2tv",
@@ -4673,6 +5294,45 @@
     "version": "HEAD-3e16190-250617T035154"
   },
   {
+    "description": "A fast enumeration tool for publicly exposed Azure Storage blobs.",
+    "name": "goblob",
+    "pkg_id": "goblob#github.com_Macmod_goblob",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1b19ca1-230325T102849"
+  },
+  {
+    "description": "Directory/File, DNS and VHost busting tool written in Go",
+    "name": "gobuster",
+    "pkg_id": "gobuster#github.com_OJ_gobuster",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-308cf9f-231221T093359"
+  },
+  {
+    "description": "Checks whether a domain is hosted on a cloud service such as AWS, Azure or CloudFlare",
+    "name": "gocloud",
+    "pkg_id": "gocloud#github.com_MantisSTS_GoCloud",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-18e1e71-230110T020026"
+  },
+  {
     "description": "Blazing fast GraphQL discovery _ fingerprinting toolbox.",
     "name": "goctopus",
     "pkg_id": "goctopus#github.com_Escape_Technologies_goctopus",
@@ -4697,6 +5357,30 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-ea047dc-250519T173406"
+  },
+  {
+    "description": "A complete terminal user interface _TUI_ for LDAP.",
+    "name": "godap",
+    "pkg_id": "godap#github.com_Macmod_godap",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c7d36a6-250602T134300"
+  },
+  {
+    "description": "A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群",
+    "name": "godis",
+    "pkg_id": "godis#github.com_HDT3213_godis",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8a81b91-250601T225747"
   },
   {
     "description": "Simple DNS bench util that supports encrypted protocols.",
@@ -4802,6 +5486,19 @@
     "version": "HEAD-7f3340e-241111T013846"
   },
   {
+    "description": "Go library MalShare API",
+    "name": "gomalshare",
+    "pkg_id": "gomalshare#github.com_MonaxGT_gomalshare",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e9621fc-190429T110001"
+  },
+  {
     "description": "The missing man page for Go binaries. Goman fetches the repo_s readme as a man page replacement.",
     "name": "goman",
     "pkg_id": "goman#github.com_appliedgocode_goman",
@@ -4852,6 +5549,32 @@
     "version": "HEAD-0f64eba-250309T184700"
   },
   {
+    "description": "Golang packages for writing small daemons and servers.",
+    "name": "gone",
+    "pkg_id": "gone#github.com_One_com_gone",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-059b1e2-210510T075705"
+  },
+  {
+    "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
+    "name": "gopeed",
+    "pkg_id": "gopeed#github.com_GopeedLab_gopeed",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8ae9363-250617T095151"
+  },
+  {
     "description": "A push notification server written in Go _Golang_.",
     "name": "gorush",
     "pkg_id": "gorush#github.com_appleboy_gorush",
@@ -4863,6 +5586,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-316fa26-250512T112335"
+  },
+  {
+    "description": "GoSDDL converter",
+    "name": "gosddl",
+    "pkg_id": "gosddl#github.com_MonaxGT_gosddl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d864b88-190430T130406"
   },
   {
     "description": "Linux UEFI library written in pure Go.",
@@ -5071,6 +5807,31 @@
     "version": "HEAD-3915337-250618T225220"
   },
   {
+    "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+    "name": "gpu-operator",
+    "pkg_id": "gpu-operator#github.com_NVIDIA_gpu_operator",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6324d2a-250618T142838"
+  },
+  {
+    "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+    "name": "gpuop-cfg",
+    "pkg_id": "gpuop-cfg#github.com_NVIDIA_gpu_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6324d2a-250618T142838"
+  },
+  {
     "description": "go generate based graphql server library",
     "name": "gqlgen",
     "pkg_id": "gqlgen#github.com_99designs_gqlgen",
@@ -5188,6 +5949,19 @@
     "version": "HEAD-b3eea3d-240806T180611"
   },
   {
+    "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+    "name": "headers",
+    "pkg_id": "headers#github.com_Noooste_azuretls_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1f46516-250618T134224"
+  },
+  {
     "description": "A push notification server written in Go _Golang_.",
     "name": "health",
     "pkg_id": "health#github.com_appleboy_gorush",
@@ -5199,6 +5973,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-316fa26-250512T112335"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "heatcalc",
+    "pkg_id": "heatcalc#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "A suite for hunting suspicious targets, expose domains and phishing discovery",
+    "name": "hednsextractor",
+    "pkg_id": "hednsextractor#github.com_HuntDownProject_HEDnsExtractor",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-13c0314-240516T110236"
   },
   {
     "description": "Kubernetes-native IoT gateway",
@@ -5253,6 +6053,18 @@
     "version": "HEAD-c7a2c2b-250326T065843"
   },
   {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "helm-sync",
+    "pkg_id": "helm-sync#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
     "description": "Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory _AAD_ with pods.",
     "name": "helmify",
     "pkg_id": "helmify#github.com_Azure_azure_workload_identity",
@@ -5305,6 +6117,32 @@
     "version": "HEAD-c7a2c2b-250326T065843"
   },
   {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "horizontal",
+    "pkg_id": "horizontal#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
+    "name": "host",
+    "pkg_id": "host#github.com_GopeedLab_gopeed",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8ae9363-250617T095151"
+  },
+  {
     "description": "Run commands on your host from inside your toolbox or flatpak sandbox",
     "name": "host-spawn",
     "pkg_id": "host-spawn#github.com_1player_host_spawn",
@@ -5344,6 +6182,19 @@
     "version": "HEAD-cf39f88-190829T184846"
   },
   {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "hrw",
+    "pkg_id": "hrw#github.com_NVIDIA_aistore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
     "description": "Interact with Hackthebox using your terminal - Be faster and more competitive !",
     "name": "htb-cli",
     "pkg_id": "htb-cli#github.com_GoToolSharing_htb_cli",
@@ -5370,6 +6221,32 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+    "name": "http2",
+    "pkg_id": "http2#github.com_Noooste_azuretls_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1f46516-250618T134224"
+  },
+  {
+    "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+    "name": "http3",
+    "pkg_id": "http3#github.com_Noooste_azuretls_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1f46516-250618T134224"
+  },
+  {
     "description": "Kubernetes-native IoT gateway",
     "name": "humidity_detector",
     "pkg_id": "humidity_detector#github.com_Edgenesis_shifu",
@@ -5381,6 +6258,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fce5031-250618T101727"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "hydration-controller",
+    "pkg_id": "hydration-controller#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
   },
   {
     "description": "🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.",
@@ -5617,6 +6506,19 @@
     "version": "HEAD-1e3f1bf-250506T121736"
   },
   {
+    "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+    "name": "ja3",
+    "pkg_id": "ja3#github.com_Noooste_azuretls_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1f46516-250618T134224"
+  },
+  {
     "description": "🍍Jeff provides the simplest way to manage web sessions in Go.",
     "name": "jeff",
     "pkg_id": "jeff#github.com_abraithwaite_jeff",
@@ -5708,6 +6610,19 @@
     "version": "HEAD-0ddfab1-240110T145140"
   },
   {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "junit-report",
+    "pkg_id": "junit-report#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
     "description": "Effortlessly check your Cloud Kubernetes cluster_s version and conveniently connect with all your clusters in just one click by utilizing this GO tool.",
     "name": "k8f",
     "pkg_id": "k8f#github.com_AdamRussak_k8f",
@@ -5744,6 +6659,71 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4920c7b-250618T102656"
+  },
+  {
+    "description": "An Operator for deployment and maintenance of NVIDIA NIMs and NeMo microservices in a Kubernetes environment.",
+    "name": "k8s-nim-operator",
+    "pkg_id": "k8s-nim-operator#github.com_NVIDIA_k8s_nim_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-be6a9ca-250618T103223"
+  },
+  {
+    "description": "Sarama is a Go library for Apache Kafka.",
+    "name": "kafka-console-consumer",
+    "pkg_id": "kafka-console-consumer#github.com_IBM_sarama",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-aa1a2c5-250618T114810"
+  },
+  {
+    "description": "Sarama is a Go library for Apache Kafka.",
+    "name": "kafka-console-partitionconsumer",
+    "pkg_id": "kafka-console-partitionconsumer#github.com_IBM_sarama",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-aa1a2c5-250618T114810"
+  },
+  {
+    "description": "Sarama is a Go library for Apache Kafka.",
+    "name": "kafka-console-producer",
+    "pkg_id": "kafka-console-producer#github.com_IBM_sarama",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-aa1a2c5-250618T114810"
+  },
+  {
+    "description": "Sarama is a Go library for Apache Kafka.",
+    "name": "kafka-producer-performance",
+    "pkg_id": "kafka-producer-performance#github.com_IBM_sarama",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-aa1a2c5-250618T114810"
   },
   {
     "description": "Modern Job Scheduler",
@@ -5900,6 +6880,19 @@
     "version": "HEAD-124b1fe-250309T104951"
   },
   {
+    "description": "Build a simple turn-based game to learn how to write production code using Hexagonal Architecture. Onboarding reference for Haraj Solutions Team.",
+    "name": "lambda",
+    "pkg_id": "lambda#github.com_Haraj_backend_hex_monscape",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6595e47-240718T101329"
+  },
+  {
     "description": "Lapper is a wrapper programs for Container running on Lambda. _Beta_",
     "name": "lapper",
     "pkg_id": "lapper#github.com_Finatext_lapper",
@@ -5913,6 +6906,19 @@
     "version": "HEAD-254c2a6-250616T162826"
   },
   {
+    "description": "A TUI for reading logs from journald, auditd, file system, Docker containers, Podman and Kubernetes pods for quick viewing, coloring output and filtering with fuzzy find, regex support and timestamp.",
+    "name": "lazyjournal",
+    "pkg_id": "lazyjournal#github.com_Lifailon_lazyjournal",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6b08d1c-250529T104036"
+  },
+  {
     "description": "translate LLVM IR to Go",
     "name": "leaven",
     "pkg_id": "leaven#github.com_andybalholm_leaven",
@@ -5924,6 +6930,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-a028d74-220409T174729"
+  },
+  {
+    "description": "Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets",
+    "name": "legitify",
+    "pkg_id": "legitify#github.com_Legit_Labs_legitify",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-038aa49-240925T124227"
   },
   {
     "description": "Go Language Library for SVG generation",
@@ -6004,6 +7023,19 @@
     "version": "HEAD-8c770b7-250618T184628"
   },
   {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "lines",
+    "pkg_id": "lines#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "📂 Access Linux-native file systems _including LVM and LUKS_ on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.",
     "name": "linsk",
     "pkg_id": "linsk#github.com_AlexSSD7_linsk",
@@ -6066,6 +7098,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-ed4b7ce-250612T103718"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "logo",
+    "pkg_id": "logo#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "A simple and lightweight alternative to cAdvisor for getting basic Docker container metrics as well as custom metrics _e.g. container uptime and number of logged messages_.",
+    "name": "logporter",
+    "pkg_id": "logporter#github.com_Lifailon_logporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8eb8627-250619T012958"
   },
   {
     "description": "Enhance your output with a timer / date",
@@ -6253,6 +7311,19 @@
     "version": "HEAD-73aa308-250526T164620"
   },
   {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "map",
+    "pkg_id": "map#github.com_NVIDIA_aistore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
     "description": "Go Language Library for SVG generation",
     "name": "marker",
     "pkg_id": "marker#github.com_ajstarks_svgo",
@@ -6315,6 +7386,18 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-c7a2c2b-250326T065843"
+  },
+  {
+    "description": "MarkDown Renderer for the terminal",
+    "name": "mdr",
+    "pkg_id": "mdr#github.com_MichaelMure_mdr",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-14a73ed-210405T223942"
   },
   {
     "description": "Blazingly fast and light-weight Actor engine written in Golang",
@@ -6716,6 +7799,19 @@
     "version": "HEAD-8119777-240822T132915"
   },
   {
+    "description": ":moon_cake: A simple way to generate mocks for multiple purposes",
+    "name": "mooncake",
+    "pkg_id": "mooncake#github.com_GuilhermeCaruso_mooncake",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-dda32b0-220918T034400"
+  },
+  {
     "description": "NixOS deployment tool",
     "name": "morph",
     "pkg_id": "morph#github.com_DBCDK_morph",
@@ -6740,6 +7836,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-94455af-220830T154215"
+  },
+  {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "mount_gcsfuse",
+    "pkg_id": "mount_gcsfuse#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
   },
   {
     "description": "Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.",
@@ -6950,6 +8059,69 @@
     "version": "HEAD-7c76490-250618T124754"
   },
   {
+    "description": "Package for implementing clients and servers of the 9P and 9P2000 distributed resource protocols in Go.",
+    "name": "ninep",
+    "pkg_id": "ninep#github.com_Harvey_OS_ninep",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d30a6d4-200724T092702"
+  },
+  {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "nodescaleadjuster",
+    "pkg_id": "nodescaleadjuster#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "nomos",
+    "pkg_id": "nomos#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "nomoserrors",
+    "pkg_id": "nomoserrors#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "ntcharts-ohlc",
+    "pkg_id": "ntcharts-ohlc#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee.",
     "name": "nuclearpond",
     "pkg_id": "nuclearpond#github.com_DevSecOpsDocs_nuclearpond",
@@ -6987,6 +8159,44 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d35828b-250618T212444"
+  },
+  {
+    "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+    "name": "nvidia-validator",
+    "pkg_id": "nvidia-validator#github.com_NVIDIA_gpu_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6324d2a-250618T142838"
+  },
+  {
+    "description": "Build and run containers leveraging NVIDIA GPUs",
+    "name": "nvsandboxutils",
+    "pkg_id": "nvsandboxutils#github.com_NVIDIA_nvidia_container_toolkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-0dddd5c-250618T234044"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "oci-sync",
+    "pkg_id": "oci-sync#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
   },
   {
     "description": "Golang pull-only, pull-through, caching OCI distribution server",
@@ -7104,6 +8314,19 @@
     "version": "HEAD-1e3f1bf-250506T121736"
   },
   {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "package_gcsfuse",
+    "pkg_id": "package_gcsfuse#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": "Donya Package Manager/System",
     "name": "packagemanager",
     "pkg_id": "packagemanager#github.com_DonyaOS_PackageManager",
@@ -7141,6 +8364,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-890ddf1-250618T171620"
+  },
+  {
+    "description": "Tools for parse JSON-like logs for collecting unique fields and events",
+    "name": "parsefields",
+    "pkg_id": "parsefields#github.com_MonaxGT_parsefields",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3701550-190505T215541"
   },
   {
     "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
@@ -7204,6 +8440,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1e3f1bf-250506T121736"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "perlin",
+    "pkg_id": "perlin#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
   },
   {
     "description": "Blazingly fast and light-weight Actor engine written in Golang",
@@ -7372,6 +8621,32 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "podgroupcontroller",
+    "pkg_id": "podgroupcontroller#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
+  },
+  {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "podgrouper",
+    "pkg_id": "podgrouper#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
+  },
+  {
     "description": "A Swiss Army knife of blockchain tools",
     "name": "polygon-cli",
     "pkg_id": "polygon-cli#github.com_0xPolygon_polygon_cli",
@@ -7437,6 +8712,19 @@
     "version": "HEAD-fce5031-250618T101727"
   },
   {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "prefetch_cache_gcsfuse",
+    "pkg_id": "prefetch_cache_gcsfuse#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": "Aerospike Client Go",
     "name": "prepend",
     "pkg_id": "prepend#github.com_aerospike_aerospike_client_go",
@@ -7448,6 +8736,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-174a824-250505T222527"
+  },
+  {
+    "description": "Nitro goes vroom and fixes everything",
+    "name": "print",
+    "pkg_id": "print#github.com_OffchainLabs_nitro",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-2b88dd4-250618T142204"
   },
   {
     "description": "一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具。其核心检测功能依托相关 AI 引擎的开放 API 构建，支持 HTTPS 协议的数据传输与交互。",
@@ -7566,6 +8867,45 @@
     "version": "HEAD-fabb122-250618T124800"
   },
   {
+    "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+    "name": "proxy",
+    "pkg_id": "proxy#github.com_Noooste_azuretls_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1f46516-250618T134224"
+  },
+  {
+    "description": "Run programs in a network namespace where all traffic go through proxy",
+    "name": "proxy-ns",
+    "pkg_id": "proxy-ns#github.com_OkamiW_proxy_ns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-f7c9588-250609T111133"
+  },
+  {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "proxy_server",
+    "pkg_id": "proxy_server#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": "Monitor linux processes without root permissions",
     "name": "pspy",
     "pkg_id": "pspy#github.com_DominicBreuker_pspy",
@@ -7669,6 +9009,70 @@
     "version": "HEAD-6884f3e-250609T065825"
   },
   {
+    "description": "Write your SQL queries in raw files with all benefits of modern IDEs, use them in an easy way inside your application with all the profit of compile time constants",
+    "name": "qry",
+    "pkg_id": "qry#github.com_HnH_qry",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-4cee236-240220T214350"
+  },
+  {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "queuecontroller",
+    "pkg_id": "queuecontroller#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
+  },
+  {
+    "description": "MaaFramework Golang Binding",
+    "name": "quick-start",
+    "pkg_id": "quick-start#github.com_MaaXYZ_maa_framework_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8af189c-250619T103559"
+  },
+  {
+    "description": "A project to remove the complexity of setting up GPU passthrough for qemu",
+    "name": "quickpassthrough",
+    "pkg_id": "quickpassthrough#github.com_HikariKnight_quickpassthrough",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c1f11ce-250106T144355"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "quickstart",
+    "pkg_id": "quickstart#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "Download media or send API requests",
     "name": "rakuten",
     "pkg_id": "rakuten#github.com_3052_media",
@@ -7706,6 +9110,17 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-0b85659-250618T164206"
+  },
+  {
+    "description": "Golang implemented  Redis RDB parser for secondary development and memory analysis",
+    "name": "rdb",
+    "pkg_id": "rdb#github.com_HDT3213_rdb",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1ceef5a-250317T213959"
   },
   {
     "description": "Industrial IoT Messaging and Device Management Platform",
@@ -7747,6 +9162,32 @@
     "version": "HEAD-a27396f-250617T073600"
   },
   {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "read_full_file",
+    "pkg_id": "read_full_file#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "read_within_file",
+    "pkg_id": "read_within_file#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": "http integration test framework",
     "name": "readme",
     "pkg_id": "readme#github.com_Eun_go_hit",
@@ -7784,6 +9225,30 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bd99af4-230211T234902"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "reconciler",
+    "pkg_id": "reconciler#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "reconciler-manager",
+    "pkg_id": "reconciler-manager#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
   },
   {
     "description": "Golang driver for ClickHouse",
@@ -7838,6 +9303,18 @@
     "version": "HEAD-174a824-250505T222527"
   },
   {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "repo-version",
+    "pkg_id": "repo-version#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
     "description": "Industrial IoT Messaging and Device Management Platform",
     "name": "reports",
     "pkg_id": "reports#github.com_absmach_magistrala",
@@ -7875,6 +9352,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-cff60b3-250508T220921"
+  },
+  {
+    "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+    "name": "resource-group",
+    "pkg_id": "resource-group#github.com_GoogleContainerTools_kpt_config_sync",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aafe3b-250619T015910"
   },
   {
     "description": "Blazingly fast and light-weight Actor engine written in Golang",
@@ -8044,6 +9533,19 @@
     "version": "HEAD-9509b1a-250520T093546"
   },
   {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "rows",
+    "pkg_id": "rows#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "Go Language Library for SVG generation",
     "name": "rpd",
     "pkg_id": "rpd#github.com_ajstarks_svgo",
@@ -8174,6 +9676,19 @@
     "version": "HEAD-30cc0e7-250506T215030"
   },
   {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "scalingpod",
+    "pkg_id": "scalingpod#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
+  },
+  {
     "description": "Aerospike Client Go",
     "name": "scan_paginate",
     "pkg_id": "scan_paginate#github.com_aerospike_aerospike_client_go",
@@ -8211,6 +9726,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-174a824-250505T222527"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "scatter",
+    "pkg_id": "scatter#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "scheduler",
+    "pkg_id": "scheduler#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
   },
   {
     "description": "A Swiss Army knife of blockchain tools",
@@ -8419,6 +9960,31 @@
     "version": "HEAD-fce5031-250618T101727"
   },
   {
+    "description": "Build a simple turn-based game to learn how to write production code using Hexagonal Architecture. Onboarding reference for Haraj Solutions Team.",
+    "name": "server",
+    "pkg_id": "server#github.com_Haraj_backend_hex_monscape",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6595e47-240718T101329"
+  },
+  {
+    "description": "Self-hosted static pages hosting and managing",
+    "name": "server",
+    "pkg_id": "server#github.com_LiteyukiStudio_spage",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-7eb747e-250619T082334"
+  },
+  {
     "description": "Blazingly fast and light-weight Actor engine written in Golang",
     "name": "server",
     "pkg_id": "server#github.com_anthdm_hollywood",
@@ -8484,6 +10050,19 @@
     "version": "HEAD-744de02-250618T190637"
   },
   {
+    "description": "Bare metal to production ready in mins_ your own fly server on your VPS.",
+    "name": "sidekick",
+    "pkg_id": "sidekick#github.com_MightyMoud_sidekick",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-7713fb2-250218T183529"
+  },
+  {
     "description": "📦 Produce secure packages and containers with declarative configurations",
     "name": "signer",
     "pkg_id": "signer#github.com_Azure_dalec",
@@ -8495,6 +10074,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6ac7399-250618T140047"
+  },
+  {
+    "description": "Validator software for Starknet stakers written in Go",
+    "name": "signer",
+    "pkg_id": "signer#github.com_NethermindEth_starknet_staking_v2",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-f4e72a7-250618T180806"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "simple",
+    "pkg_id": "simple#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
   },
   {
     "description": "Aerospike Client Go",
@@ -8612,6 +10217,19 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "skip_tests",
+    "pkg_id": "skip_tests#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
     "name": "skylight",
     "pkg_id": "skylight#github.com_FiloSottile_sunlight",
@@ -8636,6 +10254,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-a62f574-250614T164353"
+  },
+  {
+    "description": "A rapid HTTP downgrade smuggling scanner written in Go.",
+    "name": "smugglefuzz",
+    "pkg_id": "smugglefuzz#github.com_Moopinger_smugglefuzz",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e0023db-240516T150909"
+  },
+  {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "snapshot-tool",
+    "pkg_id": "snapshot-tool#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
   },
   {
     "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
@@ -8688,6 +10332,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1546f12-211024T195047"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "sparkline",
+    "pkg_id": "sparkline#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
   },
   {
     "description": "Go tools for audio processing _ creation 🎶",
@@ -8767,6 +10424,19 @@
     "version": "HEAD-ce8d0e3-250610T135823"
   },
   {
+    "description": "Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops",
+    "name": "ssh-to-age",
+    "pkg_id": "ssh-to-age#github.com_Mic92_ssh_to_age",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-fac62c4-250616T001132"
+  },
+  {
     "description": "Get all ssh public keys of a ssh server",
     "name": "sshkeys",
     "pkg_id": "sshkeys#github.com_Eun_sshkeys",
@@ -8793,6 +10463,19 @@
     "version": "HEAD-fce5031-250618T101727"
   },
   {
+    "description": "Hunt SSL Certificates for interesting keywords on major cloud service providers / internet",
+    "name": "sslsearch",
+    "pkg_id": "sslsearch#github.com_HarshVaragiya_sslsearch",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-cb38977-250420T225504"
+  },
+  {
     "description": "Apptainer: Application containers for Linux",
     "name": "standalone",
     "pkg_id": "standalone#github.com_apptainer_apptainer",
@@ -8817,6 +10500,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-7c76490-250618T124754"
+  },
+  {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "stat_files",
+    "pkg_id": "stat_files#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
   },
   {
     "description": "Bundle a shellscript with statically linked binaries!",
@@ -8908,6 +10604,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1546f12-211024T195047"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "streaming",
+    "pkg_id": "streaming#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
   },
   {
     "description": "Golang driver for ClickHouse",
@@ -9308,6 +11017,32 @@
     "version": "HEAD-13789c4-250618T143355"
   },
   {
+    "description": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs",
+    "name": "terraform-provider-ibm",
+    "pkg_id": "terraform-provider-ibm#github.com_IBM_Cloud_terraform_provider_ibm",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e2b3fcf-250619T082918"
+  },
+  {
+    "description": "Terraform NaverCloud provider",
+    "name": "terraform-provider-ncloud",
+    "pkg_id": "terraform-provider-ncloud#github.com_NaverCloudPlatform_terraform_provider_ncloud",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-dd36d09-250619T114226"
+  },
+  {
     "description": "ContainerSSH: Launch containers on demand",
     "name": "test",
     "pkg_id": "test#github.com_ContainerSSH_ContainerSSH",
@@ -9475,6 +11210,19 @@
     "version": "HEAD-9ab0c5a-250618T135258"
   },
   {
+    "description": "Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕",
+    "name": "testza",
+    "pkg_id": "testza#github.com_MarvinJWendt_testza",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3fab8a7-230203T075552"
+  },
+  {
     "description": "Cross platform rapid GUI framework for golang based on Dear ImGui.",
     "name": "texturefiltering",
     "pkg_id": "texturefiltering#github.com_AllenDang_giu",
@@ -9497,6 +11245,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ef9775e-250617T135436"
+  },
+  {
+    "description": "This is a Golang library which provides functions to map a Terraform configuration for Google Cloud Platform into GCP_s native API inventory format.",
+    "name": "tfplan2cai",
+    "pkg_id": "tfplan2cai#github.com_GoogleCloudPlatform_terraform_google_conversion",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-20fcc66-250618T170248"
+  },
+  {
+    "description": "This is a Golang library which provides functions to map a Terraform configuration for Google Cloud Platform into GCP_s native API inventory format.",
+    "name": "tgc",
+    "pkg_id": "tgc#github.com_GoogleCloudPlatform_terraform_google_conversion",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-20fcc66-250618T170248"
   },
   {
     "description": "AI Chatbots in terminal without needing API keys",
@@ -9525,6 +11299,32 @@
     "version": "HEAD-8d3d327-250528T223806"
   },
   {
+    "description": "A rudimentary implementation of a basic document _NoSQL_ database in Go",
+    "name": "tiedot",
+    "pkg_id": "tiedot#github.com_HouzuoGuo_tiedot",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-ae1e168-210905T184726"
+  },
+  {
+    "description": "Nitro goes vroom and fixes everything",
+    "name": "time",
+    "pkg_id": "time#github.com_OffchainLabs_nitro",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-2b88dd4-250618T142204"
+  },
+  {
     "description": "Industrial IoT Messaging and Device Management Platform",
     "name": "timescale-reader",
     "pkg_id": "timescale-reader#github.com_absmach_magistrala",
@@ -9549,6 +11349,32 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-fbb030c-250618T130139"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "timeseries",
+    "pkg_id": "timeseries#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages.",
+    "name": "tinja",
+    "pkg_id": "tinja#github.com_Hackmanit_TInjA",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-a434f52-250508T231544"
   },
   {
     "description": "TUI application written in GO inspired by tiny-care-terminal",
@@ -9932,6 +11758,19 @@
     "version": "HEAD-840f23c-210427T092247"
   },
   {
+    "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
+    "name": "updater",
+    "pkg_id": "updater#github.com_GopeedLab_gopeed",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-8ae9363-250617T095151"
+  },
+  {
     "description": "Extract URLs, paths, secrets, and other interesting bits from JavaScript",
     "name": "urlmatcher",
     "pkg_id": "urlmatcher#github.com_BishopFox_jsluice",
@@ -9943,6 +11782,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0ddfab1-240110T145140"
+  },
+  {
+    "description": "urlyzer is a URL parsing analysis tool.",
+    "name": "urlyzer",
+    "pkg_id": "urlyzer#github.com_ManuelBerrueta_urlyzer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-795e05b-240727T062805"
+  },
+  {
+    "description": "A 3rd-Party Application Based on Usque Which Provide A Proxy to Connect To Cloudflare Warp Through MASQUE Protocol",
+    "name": "uscf",
+    "pkg_id": "uscf#github.com_HynoR_uscf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-ec1fc34-250619T094739"
   },
   {
     "description": "Provision and manage Aiven Services from your Kubernetes cluster.",
@@ -9984,6 +11849,19 @@
     "version": "HEAD-a62b816-230519T112006"
   },
   {
+    "description": "Validator software for Starknet stakers written in Go",
+    "name": "validator",
+    "pkg_id": "validator#github.com_NethermindEth_starknet_staking_v2",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-f4e72a7-250618T180806"
+  },
+  {
     "description": "Create and manage Isolated Virtual Environments for Go",
     "name": "vengo",
     "pkg_id": "vengo#github.com_DamnWidget_VenGO",
@@ -9995,6 +11873,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9330b07-160426T195759"
+  },
+  {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "vertical",
+    "pkg_id": "vertical#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
   },
   {
     "description": "A tiny tool to manage containers _inspired by docker_.",
@@ -10124,6 +12015,19 @@
     "version": "HEAD-2c67d7f-250201T210755"
   },
   {
+    "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
+    "name": "wavelines",
+    "pkg_id": "wavelines#github.com_NimbleMarkets_ntcharts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c22068d-250108T155727"
+  },
+  {
     "description": "Go tools for audio processing _ creation 🎶",
     "name": "wavetable",
     "pkg_id": "wavetable#github.com_DylanMeeus_GoAudio",
@@ -10147,6 +12051,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9a8bdd8-230217T163808"
+  },
+  {
+    "description": "Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH _http://hackmanit.de/_.",
+    "name": "web-cache-vulnerability-scanner",
+    "pkg_id": "web-cache-vulnerability-scanner#github.com_Hackmanit_Web_Cache_Vulnerability_Scanner",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-110261c-250616T071558"
   },
   {
     "description": "No Description Provided",
@@ -10225,6 +12142,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-035bb8b-240907T124848"
+  },
+  {
+    "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+    "name": "webhookmanager",
+    "pkg_id": "webhookmanager#github.com_NVIDIA_KAI_Scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b8c9bdf-250618T150330"
   },
   {
     "description": "🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.",
@@ -10445,6 +12375,19 @@
     "version": "HEAD-c4c7e2a-250618T080918"
   },
   {
+    "description": "No Description Provided",
+    "name": "workloadagent",
+    "pkg_id": "workloadagent#github.com_GoogleCloudPlatform_workloadagent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-ca82d2e-250618T223733"
+  },
+  {
     "description": "Golang driver for ClickHouse",
     "name": "write",
     "pkg_id": "write#github.com_ClickHouse_clickhouse_go",
@@ -10523,6 +12466,32 @@
     "version": "HEAD-a27396f-250617T073600"
   },
   {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "write_locally",
+    "pkg_id": "write_locally#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
+    "description": "A user-space file system for interacting with Google Cloud Storage",
+    "name": "write_to_gcs",
+    "pkg_id": "write_to_gcs#github.com_GoogleCloudPlatform_gcsfuse",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
     "description": "Stealth dropper executing remote binaries without dropping them on disk ._HTTP3 support, ICMP support, invisible tracks, cross-platform,..._",
     "name": "writensleep",
     "pkg_id": "writensleep#github.com_ariary_fileless_xec",
@@ -10562,6 +12531,16 @@
     "version": "HEAD-f3b5f7d-250531T161328"
   },
   {
+    "description": "AIStore: scalable storage for AI applications",
+    "name": "xmeta",
+    "pkg_id": "xmeta#github.com_NVIDIA_aistore",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e423d65-250618T185547"
+  },
+  {
     "description": "9haram clone of the acme text editor",
     "name": "y9p",
     "pkg_id": "y9p#github.com_aarzilli_yacco",
@@ -10596,6 +12575,58 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7d85f3b-230309T114007"
+  },
+  {
+    "description": "Package software with ease 📦 Versatile deb, rpm and apk packager fueled by PKGBUILD specfiles and golang",
+    "name": "yap",
+    "pkg_id": "yap#github.com_M0Rf30_yap",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-650dfe4-250609T094842"
+  },
+  {
+    "description": "9p fs that serves mutex for inter-program synchronization over network",
+    "name": "yates",
+    "pkg_id": "yates#github.com_LoupLobet_yates",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-2961a39-241219T003324"
+  },
+  {
+    "description": "A whiptail-like dialog box written with Bubble Tea _Go_  #Meet the modern TUI",
+    "name": "yoshinon",
+    "pkg_id": "yoshinon#github.com_Moe_sushi_yoshinon",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-c902d61-240328T124340"
+  },
+  {
+    "description": "cast YouTube videos to your smart TV from command-line",
+    "name": "ytcast",
+    "pkg_id": "ytcast#github.com_MarcoLucidi01_ytcast",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-026d60a-240128T212843"
   },
   {
     "description": "z85 format",
