@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "write-async-std",
+  "pkg_family": "clickhouse-go",
+  "pkg_id": "write-async-std#github.com_ClickHouse_clickhouse_go",
+  "pkg_name": "write-async-std",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ClickHouse/clickhouse-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang driver for ClickHouse",
+  "homepage": [
+    "https://github.com/ClickHouse/clickhouse-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "209",
+    "360",
+    "470",
+    "476",
+    "484",
+    "485",
+    "codegen",
+    "read",
+    "read-native",
+    "release",
+    "stress",
+    "write",
+    "write-async",
+    "write-async-std",
+    "write-native",
+    "write-native-columnar",
+    "write-native-struct"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ClickHouse/clickhouse-go/archive/a27396fbf07ca38de1d452c5b366b3a37ce45f56.tar.gz"
+  ],
+  "tag": [
+    "analytics-database",
+    "clickhouse",
+    "database",
+    "golang",
+    "golang-driver",
+    "sql"
+  ],
+  "version": "HEAD-a27396f-250617T073600",
+  "version_upstream": "v2.37.1",
+  "bsum": "88f26c1ed49c19cb9e60ae1f94742316ade8c65e0e79c9f6e46c6050b20507ab",
+  "build_date": "2025-06-19T08:34:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752580540",
+  "build_id": "15752580540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/clickhouse-go/write-async-std?tag=HEAD-a27396f-250617T073600-loongarch64-Linux&download=write-async-std.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3075",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/clickhouse-go/write-async-std?tag=HEAD-a27396f-250617T073600-loongarch64-Linux&download=write-async-std",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clickhouse/clickhouse-go/write-async-std:HEAD-a27396f-250617T073600-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clickhouse/clickhouse-go/write-async-std",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/clickhouse-go/write-async-std?tag=HEAD-a27396f-250617T073600-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab002ee316941883477c709d3db5df84b6f466a8f1fa446fb8f6d8d4e7cbed9d",
+  "size": "9.7 MB",
+  "size_raw": "10170176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
