@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kamel",
+  "pkg_family": "camel-k",
+  "pkg_id": "kamel#github.com_apache_camel_k",
+  "pkg_name": "kamel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/camel-k",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers",
+  "homepage": [
+    "https://github.com/apache/camel-k"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_jdk_version",
+    "doc-gen",
+    "json-schema-gen",
+    "kamel",
+    "license-check",
+    "manager",
+    "platform-check"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/camel-k/archive/8e321f4a04b3b42604fe384f6053bf484277961e.tar.gz"
+  ],
+  "tag": [
+    "camel",
+    "integration",
+    "knative",
+    "kubernetes",
+    "openshift",
+    "operator",
+    "serverless"
+  ],
+  "version": "HEAD-8e321f4-250618T233851",
+  "version_upstream": "",
+  "bsum": "469a2bdabd1112d4c106d5a5f570704c04ab96b625dc6d22eb5e3649402b8532",
+  "build_date": "2025-06-19T12:01:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756603808",
+  "build_id": "15756603808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/camel-k/kamel?tag=HEAD-8e321f4-250618T233851-riscv64-Linux&download=kamel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "881",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/camel-k/kamel?tag=HEAD-8e321f4-250618T233851-riscv64-Linux&download=kamel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/camel-k/kamel:HEAD-8e321f4-250618T233851-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/camel-k/kamel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/camel-k/kamel?tag=HEAD-8e321f4-250618T233851-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "101f7163922663998bf0d6012d8362e96386dee0523622ef598a87e2a0c92581",
+  "size": "76 MB",
+  "size_raw": "79283736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
