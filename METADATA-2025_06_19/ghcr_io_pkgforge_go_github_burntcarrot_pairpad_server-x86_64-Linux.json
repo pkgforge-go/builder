@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "pairpad",
+  "pkg_id": "server#github.com_burntcarrot_pairpad",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/burntcarrot/pairpad",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collaborative text editor using CRDTs and WebSockets. Lightweight, easy-to-setup.",
+  "homepage": [
+    "https://github.com/burntcarrot/pairpad"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/burntcarrot/pairpad/archive/a9d7b4166161d022d0ad2b19ee8ba42dc7074b28.tar.gz"
+  ],
+  "tag": [
+    "collaborative-editing",
+    "crdt",
+    "go",
+    "termbox",
+    "text-editor",
+    "tui",
+    "websocket"
+  ],
+  "version": "HEAD-a9d7b41-230512T215202",
+  "version_upstream": "v1.2.1",
+  "bsum": "1988a20cb9eedf8d03c0786352d21dafd9e6bce4eef784249b17f672b648f44b",
+  "build_date": "2025-06-19T15:07:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760348765",
+  "build_id": "15760348765",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntcarrot/pairpad/server?tag=HEAD-a9d7b41-230512T215202-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "123",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntcarrot/pairpad/server?tag=HEAD-a9d7b41-230512T215202-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/burntcarrot/pairpad/server:HEAD-a9d7b41-230512T215202-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/burntcarrot/pairpad/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntcarrot/pairpad/server?tag=HEAD-a9d7b41-230512T215202-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df059c27c53b473da20a47bd11878e0b82c0d87642d974374726ad85b28baa41",
+  "size": "6.5 MB",
+  "size_raw": "6772992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
