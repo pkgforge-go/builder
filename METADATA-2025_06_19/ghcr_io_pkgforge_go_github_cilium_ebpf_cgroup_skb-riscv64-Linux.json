@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cgroup_skb",
+  "pkg_family": "ebpf",
+  "pkg_id": "cgroup_skb#github.com_cilium_ebpf",
+  "pkg_name": "cgroup_skb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/0bef90d70db20260cf1f69798047b574c1bd69d1.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-0bef90d-250619T111026",
+  "version_upstream": "",
+  "bsum": "7bad6ac2f3fb96b8cf44a5638fa86af8e521bfa84423bb640f2dc03d2945d1f9",
+  "build_date": "2025-06-19T18:47:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764322776",
+  "build_id": "15764322776",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/cgroup_skb?tag=HEAD-0bef90d-250619T111026-riscv64-Linux&download=cgroup_skb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6917",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/cgroup_skb?tag=HEAD-0bef90d-250619T111026-riscv64-Linux&download=cgroup_skb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/cgroup_skb:HEAD-0bef90d-250619T111026-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/cgroup_skb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/cgroup_skb?tag=HEAD-0bef90d-250619T111026-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e11d664de90fbe1cdc08c2ccf36528d0a4817b133d565e85a07f8c19c6b865f1",
+  "size": "3.4 MB",
+  "size_raw": "3487608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
