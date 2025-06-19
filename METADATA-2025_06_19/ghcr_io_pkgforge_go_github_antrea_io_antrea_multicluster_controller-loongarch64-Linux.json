@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "multicluster-controller",
+  "pkg_family": "antrea",
+  "pkg_id": "multicluster-controller#github.com_antrea_io_antrea",
+  "pkg_name": "multicluster-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antrea-io/antrea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes networking based on Open vSwitch",
+  "homepage": [
+    "https://github.com/antrea-io/antrea"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "antctl",
+    "antrea-agent-simulator",
+    "antrea-cni",
+    "flow-aggregator",
+    "multicluster-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antrea-io/antrea/archive/b1d086dc3444a7f5ccd75c88798863621ad4234b.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "cni",
+    "kubernetes",
+    "networking",
+    "security"
+  ],
+  "version": "HEAD-b1d086d-250618T180457",
+  "version_upstream": "",
+  "bsum": "c183ab8422d747b3494e574ec3b18deea02b799c1946c28eb4a7758ed2e6d333",
+  "build_date": "2025-06-19T12:03:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756596690",
+  "build_id": "15756596690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/multicluster-controller?tag=HEAD-b1d086d-250618T180457-loongarch64-Linux&download=multicluster-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1708",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/multicluster-controller?tag=HEAD-b1d086d-250618T180457-loongarch64-Linux&download=multicluster-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antrea-io/antrea/multicluster-controller:HEAD-b1d086d-250618T180457-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antrea-io/antrea/multicluster-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/multicluster-controller?tag=HEAD-b1d086d-250618T180457-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74ade1b99f6148d3a96e7f852d9afbfc42abc0ff640f7fbd65af57427f0d346c",
+  "size": "67 MB",
+  "size_raw": "69861056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

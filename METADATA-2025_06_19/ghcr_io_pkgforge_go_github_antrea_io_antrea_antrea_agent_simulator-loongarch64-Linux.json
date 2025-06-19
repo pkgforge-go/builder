@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "antrea-agent-simulator",
+  "pkg_family": "antrea",
+  "pkg_id": "antrea-agent-simulator#github.com_antrea_io_antrea",
+  "pkg_name": "antrea-agent-simulator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antrea-io/antrea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes networking based on Open vSwitch",
+  "homepage": [
+    "https://github.com/antrea-io/antrea"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "antctl",
+    "antrea-agent-simulator",
+    "antrea-cni",
+    "flow-aggregator",
+    "multicluster-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antrea-io/antrea/archive/b1d086dc3444a7f5ccd75c88798863621ad4234b.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "cni",
+    "kubernetes",
+    "networking",
+    "security"
+  ],
+  "version": "HEAD-b1d086d-250618T180457",
+  "version_upstream": "",
+  "bsum": "fa19de9365c72088675e6f5517dc10ff994f3917c093b172369d65e1df889f01",
+  "build_date": "2025-06-19T12:03:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756596690",
+  "build_id": "15756596690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/antrea-agent-simulator?tag=HEAD-b1d086d-250618T180457-loongarch64-Linux&download=antrea-agent-simulator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1708",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/antrea-agent-simulator?tag=HEAD-b1d086d-250618T180457-loongarch64-Linux&download=antrea-agent-simulator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antrea-io/antrea/antrea-agent-simulator:HEAD-b1d086d-250618T180457-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antrea-io/antrea/antrea-agent-simulator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antrea-io/antrea/antrea-agent-simulator?tag=HEAD-b1d086d-250618T180457-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16e37b18926fbd7afb8683bfe1b3fb2ac8fbf3855ab32816d71efa2b76b23ddc",
+  "size": "68 MB",
+  "size_raw": "70468064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
