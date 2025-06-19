@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "poller",
+  "pkg_family": "harvest",
+  "pkg_id": "poller#github.com_NetApp_harvest",
+  "pkg_name": "poller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/harvest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-metrics endpoint for ONTAP and StorageGRID",
+  "homepage": [
+    "https://github.com/NetApp/harvest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "harvest",
+    "main",
+    "poller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/harvest/archive/66be280f2107b0793aebce4c598eb9d8dfef5b80.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "grafana-dashboard",
+    "monitoring",
+    "netapp-public",
+    "observability",
+    "prometheus",
+    "storagegrid"
+  ],
+  "version": "HEAD-66be280-250619T135739",
+  "version_upstream": "",
+  "bsum": "31b8cfaec7010befcc2814f8b6e92bd6e3488fada82480cf1972aebd125cc37b",
+  "build_date": "2025-06-19T16:01:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761442950",
+  "build_id": "15761442950",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/poller?tag=HEAD-66be280-250619T135739-x86_64-Linux&download=poller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "163",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/poller?tag=HEAD-66be280-250619T135739-x86_64-Linux&download=poller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/harvest/poller:HEAD-66be280-250619T135739-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/harvest/poller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/poller?tag=HEAD-66be280-250619T135739-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab06e253c4214ac05295f71c6c1eb2bc9d03d5dd969b2baec2747262a9141034",
+  "size": "16 MB",
+  "size_raw": "16199456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
