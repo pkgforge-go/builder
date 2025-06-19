@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sessionprobe",
+  "pkg_family": "sessionprobe",
+  "pkg_id": "sessionprobe#github.com_dub_flow_sessionprobe",
+  "pkg_name": "sessionprobe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dub-flow/sessionprobe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.",
+  "homepage": [
+    "https://github.com/dub-flow/sessionprobe"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sessionprobe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dub-flow/sessionprobe/archive/6780db921ebdbcee2f588190b85a1a54cc3612ad.tar.gz"
+  ],
+  "tag": [
+    "broken-access-control",
+    "pentesting-tool"
+  ],
+  "version": "HEAD-6780db9-240328T150625",
+  "version_upstream": "v1.0.0",
+  "bsum": "d92856b70998574c7006f9f9c2a83f3cd5ef002f8514479216e75c04242bd0cf",
+  "build_date": "2025-06-19T21:58:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766630177",
+  "build_id": "15766630177",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dub-flow/sessionprobe/sessionprobe?tag=HEAD-6780db9-240328T150625-x86_64-Linux&download=sessionprobe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "450",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dub-flow/sessionprobe/sessionprobe?tag=HEAD-6780db9-240328T150625-x86_64-Linux&download=sessionprobe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dub-flow/sessionprobe/sessionprobe:HEAD-6780db9-240328T150625-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dub-flow/sessionprobe/sessionprobe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dub-flow/sessionprobe/sessionprobe?tag=HEAD-6780db9-240328T150625-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "603e3813514b8e4ede52fe9ddfd9c75b346125c9806adcb8f8ea13eff9cbd8cf",
+  "size": "8.6 MB",
+  "size_raw": "8967712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
