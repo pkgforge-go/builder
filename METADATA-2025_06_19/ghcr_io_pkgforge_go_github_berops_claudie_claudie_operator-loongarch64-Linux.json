@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "claudie-operator",
+  "pkg_family": "claudie",
+  "pkg_id": "claudie-operator#github.com_berops_claudie",
+  "pkg_name": "claudie-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/berops/claudie",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud-agnostic managed Kubernetes",
+  "homepage": [
+    "https://github.com/berops/claudie"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-server",
+    "autoscaler-adapter",
+    "builder",
+    "claudie-operator",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/berops/claudie/archive/987d7b878e04941fe01306c33fd59a5b4f67dad6.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "cloud-native",
+    "cloudflare",
+    "devops",
+    "gcp",
+    "hetzner",
+    "hybrid-cloud",
+    "hybridcloud",
+    "inter-cloud",
+    "intercloud",
+    "k8s",
+    "kubernetes",
+    "kubernetes-cluster",
+    "managed-kubernetes",
+    "multi-cloud",
+    "multicloud",
+    "oci",
+    "paas"
+  ],
+  "version": "HEAD-987d7b8-250619T130201",
+  "version_upstream": "",
+  "bsum": "e796b76523b3f12d93f3f041d1bede4fc0ed532f97600610d1e385eed95c7a9f",
+  "build_date": "2025-06-19T17:11:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762399106",
+  "build_id": "15762399106",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/berops/claudie/claudie-operator?tag=HEAD-987d7b8-250619T130201-loongarch64-Linux&download=claudie-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "714",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/berops/claudie/claudie-operator?tag=HEAD-987d7b8-250619T130201-loongarch64-Linux&download=claudie-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/berops/claudie/claudie-operator:HEAD-987d7b8-250619T130201-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/berops/claudie/claudie-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/berops/claudie/claudie-operator?tag=HEAD-987d7b8-250619T130201-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be175c57ed27000e504f74df88afeffd7e8a2780631b7ee052c48c1443cdccdd",
+  "size": "49 MB",
+  "size_raw": "51149952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
