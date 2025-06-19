@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "gcs-fuse-csi-driver",
+  "pkg_id": "webhook#github.com_GoogleCloudPlatform_gcs_fuse_csi_driver",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Google Cloud Storage FUSE Container Storage Interface _CSI_ Plugin.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi_driver",
+    "metadata_prefetch",
+    "sidecar_mounter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver/archive/744de0269d8a3c47a8927618c8cfa31819f6aee7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-744de02-250618T190637",
+  "version_upstream": "",
+  "bsum": "46fe9af1a753305b4f887fa6952463f4a3961c7b1a12c2cd3567730563da9e2f",
+  "build_date": "2025-06-19T09:38:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753654554",
+  "build_id": "15753654554",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/webhook?tag=HEAD-744de02-250618T190637-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/webhook?tag=HEAD-744de02-250618T190637-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/webhook:HEAD-744de02-250618T190637-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/webhook?tag=HEAD-744de02-250618T190637-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f8225cf217745694297af9b26a6a9d6a9c46568c124ce1066e5374ccc2c6a983",
+  "size": "44 MB",
+  "size_raw": "45228192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
