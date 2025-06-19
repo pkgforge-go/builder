@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "format",
+  "pkg_family": "ContainerSSH",
+  "pkg_id": "format#github.com_ContainerSSH_ContainerSSH",
+  "pkg_name": "format",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ContainerSSH/ContainerSSH",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ContainerSSH: Launch containers on demand",
+  "homepage": [
+    "https://github.com/ContainerSSH/ContainerSSH"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "containerssh",
+    "containerssh-auditlog-decoder",
+    "containerssh-testauthconfigserver",
+    "format",
+    "generate-message-codes",
+    "license-report",
+    "swagger",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ContainerSSH/ContainerSSH/archive/5e72a6b7876dcd631ba8f360a4c6b12431bc0a14.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "devsecops",
+    "docker",
+    "kubernetes",
+    "security",
+    "security-tools",
+    "ssh"
+  ],
+  "version": "HEAD-5e72a6b-250128T084449",
+  "version_upstream": "",
+  "bsum": "fb2c9fc8f0965840bb8f119dad0f454d3251063d1d9b9a1fd6d6cd4150fc6c25",
+  "build_date": "2025-06-19T08:36:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752603556",
+  "build_id": "15752603556",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/format?tag=HEAD-5e72a6b-250128T084449-riscv64-Linux&download=format.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/format?tag=HEAD-5e72a6b-250128T084449-riscv64-Linux&download=format",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerssh/containerssh/format:HEAD-5e72a6b-250128T084449-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerssh/containerssh/format",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerssh/containerssh/format?tag=HEAD-5e72a6b-250128T084449-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd4eee439230e9617d0be39b85e73df4b410f0e0be7f52b8d5904cc1eaeadc23",
+  "size": "3.8 MB",
+  "size_raw": "3973576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
