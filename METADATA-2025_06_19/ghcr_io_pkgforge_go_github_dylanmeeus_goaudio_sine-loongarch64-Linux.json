@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sine",
+  "pkg_family": "GoAudio",
+  "pkg_id": "sine#github.com_DylanMeeus_GoAudio",
+  "pkg_name": "sine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DylanMeeus/GoAudio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go tools for audio processing _ creation 🎶",
+  "homepage": [
+    "https://github.com/DylanMeeus/GoAudio"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adsr",
+    "amplitude",
+    "extractbrk",
+    "inspect",
+    "midisound",
+    "oscillator",
+    "sine",
+    "spectral",
+    "stereopan",
+    "table_oscillator",
+    "wavetable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DylanMeeus/GoAudio/archive/1a202c9cd3a3fcb402f1c2c5570385b77a2336aa.tar.gz"
+  ],
+  "tag": [
+    "audio",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-1a202c9-220205T222144",
+  "version_upstream": "",
+  "bsum": "894ab96228367010931c87984722cbb95af9b60859614640af2675f0f1316365",
+  "build_date": "2025-06-19T09:01:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753430439",
+  "build_id": "15753430439",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dylanmeeus/goaudio/sine?tag=HEAD-1a202c9-220205T222144-loongarch64-Linux&download=sine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "374",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dylanmeeus/goaudio/sine?tag=HEAD-1a202c9-220205T222144-loongarch64-Linux&download=sine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dylanmeeus/goaudio/sine:HEAD-1a202c9-220205T222144-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dylanmeeus/goaudio/sine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dylanmeeus/goaudio/sine?tag=HEAD-1a202c9-220205T222144-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4028997dc6728edec438ca2f3453537438635a65295d2577083ba799e2b931d",
+  "size": "1.6 MB",
+  "size_raw": "1654840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
