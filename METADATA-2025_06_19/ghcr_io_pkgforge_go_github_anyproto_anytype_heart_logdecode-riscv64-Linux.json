@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "logdecode",
+  "pkg_family": "anytype-heart",
+  "pkg_id": "logdecode#github.com_anyproto_anytype_heart",
+  "pkg_name": "logdecode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anyproto/anytype-heart",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shared library for Anytype clients",
+  "homepage": [
+    "https://github.com/anyproto/anytype-heart"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "account_create",
+    "account_select",
+    "anytype-heart-docs",
+    "archiveunpacker",
+    "generator",
+    "iosrepack",
+    "logdecode",
+    "pbsnapshot",
+    "perftester",
+    "testcase",
+    "testgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anyproto/anytype-heart/archive/38a18769c957fb3e56afae31f66042dc1d7ceb9b.tar.gz"
+  ],
+  "tag": [
+    "anytype",
+    "e2ee",
+    "local-first",
+    "offline-first",
+    "p2p",
+    "privacy"
+  ],
+  "version": "HEAD-38a1876-250619T120932",
+  "version_upstream": "",
+  "bsum": "ed9901b717914e87c21feef08bcd5b1596855d532a5682a7e2f553ce902cf61a",
+  "build_date": "2025-06-19T16:53:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761732444",
+  "build_id": "15761732444",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anyproto/anytype-heart/logdecode?tag=HEAD-38a1876-250619T120932-riscv64-Linux&download=logdecode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "309",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anyproto/anytype-heart/logdecode?tag=HEAD-38a1876-250619T120932-riscv64-Linux&download=logdecode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anyproto/anytype-heart/logdecode:HEAD-38a1876-250619T120932-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anyproto/anytype-heart/logdecode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anyproto/anytype-heart/logdecode?tag=HEAD-38a1876-250619T120932-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b12b7981bbc5d511dd8294f470aa4b59a81fe298e2d898d6d6948b23870e3398",
+  "size": "1.7 MB",
+  "size_raw": "1749928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
