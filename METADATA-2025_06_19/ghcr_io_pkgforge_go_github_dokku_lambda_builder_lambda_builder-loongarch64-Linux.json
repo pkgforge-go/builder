@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lambda-builder",
+  "pkg_family": "lambda-builder",
+  "pkg_id": "lambda-builder#github.com_dokku_lambda_builder",
+  "pkg_name": "lambda-builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dokku/lambda-builder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool for building lambda function images or zips via Docker",
+  "homepage": [
+    "https://github.com/dokku/lambda-builder"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-nomod",
+    "lambda-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dokku/lambda-builder/archive/48578a351db87f3233d02cf60375cb3112a2330b.tar.gz"
+  ],
+  "tag": [
+    "aws-lambda",
+    "deployment",
+    "docker",
+    "golang",
+    "lambda",
+    "packaging",
+    "serverless"
+  ],
+  "version": "HEAD-48578a3-250618T212157",
+  "version_upstream": "",
+  "bsum": "a28a116084f48c636677547a07ed0ab537274d0701c17317d846a4f391a3e819",
+  "build_date": "2025-06-19T21:42:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766592026",
+  "build_id": "15766592026",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/lambda-builder/lambda-builder?tag=HEAD-48578a3-250618T212157-loongarch64-Linux&download=lambda-builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/lambda-builder/lambda-builder?tag=HEAD-48578a3-250618T212157-loongarch64-Linux&download=lambda-builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dokku/lambda-builder/lambda-builder:HEAD-48578a3-250618T212157-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dokku/lambda-builder/lambda-builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/lambda-builder/lambda-builder?tag=HEAD-48578a3-250618T212157-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "022c9d4e805a2a9489a0411f8b09394701feafd143e2f4898c0646034fb4cd78",
+  "size": "8.4 MB",
+  "size_raw": "8785472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
