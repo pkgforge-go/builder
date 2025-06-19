@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sbctl",
+  "pkg_family": "sbctl",
+  "pkg_id": "sbctl#github.com_Foxboron_sbctl",
+  "pkg_name": "sbctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Foxboron/sbctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":computer: :lock: :key: Secure Boot key manager",
+  "homepage": [
+    "https://github.com/Foxboron/sbctl"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sbctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Foxboron/sbctl/archive/30cc0e7b22a0f7185e9962f009ead32c2e482877.tar.gz"
+  ],
+  "tag": [
+    "efi",
+    "efi-stub",
+    "go",
+    "golang",
+    "linux",
+    "secure-boot",
+    "secureboot",
+    "signatures",
+    "uefi",
+    "uefi-secureboot"
+  ],
+  "version": "HEAD-30cc0e7-250506T215030",
+  "version_upstream": "",
+  "bsum": "95e3de9bbe3bdb2f341d2fc71de300f5824dd61156f6b433087f0eddcd5545c6",
+  "build_date": "2025-06-19T09:27:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753606715",
+  "build_id": "15753606715",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/sbctl/sbctl?tag=HEAD-30cc0e7-250506T215030-aarch64-Linux&download=sbctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/sbctl/sbctl?tag=HEAD-30cc0e7-250506T215030-aarch64-Linux&download=sbctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/sbctl/sbctl:HEAD-30cc0e7-250506T215030-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/sbctl/sbctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/sbctl/sbctl?tag=HEAD-30cc0e7-250506T215030-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e7ffc535dd54f52dc343aa09f0e52bf596242d41b72c4cccc899b98e4c6fd28",
+  "size": "9.4 MB",
+  "size_raw": "9761216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
