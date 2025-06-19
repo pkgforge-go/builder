@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "chat",
+  "pkg_family": "weaver",
+  "pkg_id": "chat#github.com_ServiceWeaver_weaver",
+  "pkg_name": "chat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ServiceWeaver/weaver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Programming framework for writing and deploying cloud applications.",
+  "homepage": [
+    "https://github.com/ServiceWeaver/weaver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bankofanthos",
+    "chat",
+    "collatz",
+    "docgen",
+    "example",
+    "factors",
+    "hello",
+    "helloworld",
+    "multi",
+    "reverser",
+    "single",
+    "testprogram",
+    "weaver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ServiceWeaver/weaver/archive/656901ccf43e1ffce053e83e573643697680c223.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-656901c-241108T102936",
+  "version_upstream": "",
+  "bsum": "9c61304ba4bfad527f095a6293ba8ea74d2f71b9de1dfb0e111ef087794e577e",
+  "build_date": "2025-06-19T10:59:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755678380",
+  "build_id": "15755678380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/serviceweaver/weaver/chat?tag=HEAD-656901c-241108T102936-riscv64-Linux&download=chat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4833",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/serviceweaver/weaver/chat?tag=HEAD-656901c-241108T102936-riscv64-Linux&download=chat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/serviceweaver/weaver/chat:HEAD-656901c-241108T102936-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/serviceweaver/weaver/chat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/serviceweaver/weaver/chat?tag=HEAD-656901c-241108T102936-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "411d95475bf2c23210010c2718bf1603c263cfb15e86f57b16f4c2b6a2cda3ba",
+  "size": "20 MB",
+  "size_raw": "20527704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
