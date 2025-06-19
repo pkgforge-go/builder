@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "csi_driver",
+  "pkg_family": "gcs-fuse-csi-driver",
+  "pkg_id": "csi_driver#github.com_GoogleCloudPlatform_gcs_fuse_csi_driver",
+  "pkg_name": "csi_driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Google Cloud Storage FUSE Container Storage Interface _CSI_ Plugin.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi_driver",
+    "metadata_prefetch",
+    "sidecar_mounter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/gcs-fuse-csi-driver/archive/744de0269d8a3c47a8927618c8cfa31819f6aee7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-744de02-250618T190637",
+  "version_upstream": "",
+  "bsum": "d31e5307c36c3dbae1510f1664b965213d253fcc63fba784095d7ab1beb69c38",
+  "build_date": "2025-06-19T09:38:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753654554",
+  "build_id": "15753654554",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/csi_driver?tag=HEAD-744de02-250618T190637-x86_64-Linux&download=csi_driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/csi_driver?tag=HEAD-744de02-250618T190637-x86_64-Linux&download=csi_driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/csi_driver:HEAD-744de02-250618T190637-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/csi_driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/gcs-fuse-csi-driver/csi_driver?tag=HEAD-744de02-250618T190637-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1fc1a8d17e1b8380b5cc85aabf24be62c90a42bb359cfbc1277c7f95d4a3023b",
+  "size": "52 MB",
+  "size_raw": "53587072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
