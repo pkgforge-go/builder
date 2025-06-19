@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "harvest",
+  "pkg_family": "harvest",
+  "pkg_id": "harvest#github.com_NetApp_harvest",
+  "pkg_name": "harvest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/harvest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-metrics endpoint for ONTAP and StorageGRID",
+  "homepage": [
+    "https://github.com/NetApp/harvest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "harvest",
+    "main",
+    "poller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/harvest/archive/66be280f2107b0793aebce4c598eb9d8dfef5b80.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "grafana-dashboard",
+    "monitoring",
+    "netapp-public",
+    "observability",
+    "prometheus",
+    "storagegrid"
+  ],
+  "version": "HEAD-66be280-250619T135739",
+  "version_upstream": "",
+  "bsum": "6094bd6514d3bebe3f01470a6dd7e0b89c97e6f32b4a1e5e3d453e55964d104b",
+  "build_date": "2025-06-19T16:00:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761442950",
+  "build_id": "15761442950",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/harvest?tag=HEAD-66be280-250619T135739-riscv64-Linux&download=harvest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "163",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/harvest?tag=HEAD-66be280-250619T135739-riscv64-Linux&download=harvest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/harvest/harvest:HEAD-66be280-250619T135739-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/harvest/harvest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/harvest?tag=HEAD-66be280-250619T135739-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9aea1191706687d56d02f66e6f55221f091a1eb79ca94a6a347cf1983eb9acad",
+  "size": "14 MB",
+  "size_raw": "14118712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
