@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "candid",
+  "pkg_family": "candid",
+  "pkg_id": "candid#github.com_canonical_candid",
+  "pkg_name": "candid",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/candid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Identity Manager Service",
+  "homepage": [
+    "https://github.com/canonical/candid"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candid",
+    "candidsrv",
+    "login",
+    "migrate-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/candid/archive/1af712ac2e227bdbb0b1e732ce18e664abb636a6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1af712a-250619T081637",
+  "version_upstream": "v1.12.5",
+  "bsum": "4519796c887bfb4a8cd6f84b58dca2103faf5900af70ac68c575f2cfe16933b1",
+  "build_date": "2025-06-19T17:29:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762598167",
+  "build_id": "15762598167",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/candid/candid?tag=HEAD-1af712a-250619T081637-x86_64-Linux&download=candid.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/candid/candid?tag=HEAD-1af712a-250619T081637-x86_64-Linux&download=candid",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/candid/candid:HEAD-1af712a-250619T081637-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/candid/candid",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/candid/candid?tag=HEAD-1af712a-250619T081637-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef9126fdaa4e2c666ab1e6ae04c3019a4c1295b371d63fbee794ef37294fbf33",
+  "size": "13 MB",
+  "size_raw": "13545408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
