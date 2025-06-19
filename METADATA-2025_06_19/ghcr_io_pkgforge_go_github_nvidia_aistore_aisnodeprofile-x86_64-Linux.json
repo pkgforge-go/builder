@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aisnodeprofile",
+  "pkg_family": "aistore",
+  "pkg_id": "aisnodeprofile#github.com_NVIDIA_aistore",
+  "pkg_name": "aisnodeprofile",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/aistore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AIStore: scalable storage for AI applications",
+  "homepage": [
+    "https://github.com/NVIDIA/aistore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aisinit",
+    "aisloader",
+    "aisnode",
+    "aisnodeprofile",
+    "authn",
+    "compare",
+    "frandread",
+    "hrw",
+    "map",
+    "xmeta"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/aistore/archive/e423d65651ee068cda4e063ad9d7072ffbc405ba.tar.gz"
+  ],
+  "tag": [
+    "batch-jobs",
+    "distributed-shuffle",
+    "erasure-coding",
+    "etl-offload",
+    "kubernetes",
+    "linear-scalability",
+    "multiple-backends",
+    "network-of-clusters",
+    "object-storage",
+    "sds",
+    "software-defined"
+  ],
+  "version": "HEAD-e423d65-250618T185547",
+  "version_upstream": "",
+  "bsum": "7286b8fec0e78733ee31507ce6206b739157c81eef6cd17a3c4c5f68822af50f",
+  "build_date": "2025-06-19T10:21:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754946310",
+  "build_id": "15754946310",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/aisnodeprofile?tag=HEAD-e423d65-250618T185547-x86_64-Linux&download=aisnodeprofile.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1531",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/aisnodeprofile?tag=HEAD-e423d65-250618T185547-x86_64-Linux&download=aisnodeprofile",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/aistore/aisnodeprofile:HEAD-e423d65-250618T185547-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/aistore/aisnodeprofile",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/aisnodeprofile?tag=HEAD-e423d65-250618T185547-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06874424c5a14ff06d48d04570e0bc76092463551e92916346f27837bb65dae9",
+  "size": "58 MB",
+  "size_raw": "60703216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
