@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wafsync",
+  "pkg_family": "bcda-ssas-app",
+  "pkg_id": "wafsync#github.com_CMSgov_bcda_ssas_app",
+  "pkg_name": "wafsync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CMSgov/bcda-ssas-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SSAS component of BCDA application",
+  "homepage": [
+    "https://github.com/CMSgov/bcda-ssas-app"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "main",
+    "wafsync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CMSgov/bcda-ssas-app/archive/11e25b33498f308994ba142332c39df813907e93.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-11e25b3-250618T144843",
+  "version_upstream": "",
+  "bsum": "3e696eb7245f67c29c65bda18c1b482bb10b0c40749ae9509dfe3d00970de84b",
+  "build_date": "2025-06-19T08:23:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752572313",
+  "build_id": "15752572313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-ssas-app/wafsync?tag=HEAD-11e25b3-250618T144843-riscv64-Linux&download=wafsync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-ssas-app/wafsync?tag=HEAD-11e25b3-250618T144843-riscv64-Linux&download=wafsync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cmsgov/bcda-ssas-app/wafsync:HEAD-11e25b3-250618T144843-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cmsgov/bcda-ssas-app/wafsync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-ssas-app/wafsync?tag=HEAD-11e25b3-250618T144843-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "01f065a7cfdac3ef14ede5c3f558be9a270b1f887e20dfd22c8a39563b3616fb",
+  "size": "21 MB",
+  "size_raw": "21264184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

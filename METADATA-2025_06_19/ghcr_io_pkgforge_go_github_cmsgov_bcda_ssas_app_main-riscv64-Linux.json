@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "bcda-ssas-app",
+  "pkg_id": "main#github.com_CMSgov_bcda_ssas_app",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CMSgov/bcda-ssas-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SSAS component of BCDA application",
+  "homepage": [
+    "https://github.com/CMSgov/bcda-ssas-app"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "main",
+    "wafsync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CMSgov/bcda-ssas-app/archive/11e25b33498f308994ba142332c39df813907e93.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-11e25b3-250618T144843",
+  "version_upstream": "",
+  "bsum": "55d658c76308232838df408dbd421ffd8e0f8b6b87c99c5eda9e17948d9247dd",
+  "build_date": "2025-06-19T08:22:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752572313",
+  "build_id": "15752572313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-ssas-app/main?tag=HEAD-11e25b3-250618T144843-riscv64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-ssas-app/main?tag=HEAD-11e25b3-250618T144843-riscv64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cmsgov/bcda-ssas-app/main:HEAD-11e25b3-250618T144843-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cmsgov/bcda-ssas-app/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-ssas-app/main?tag=HEAD-11e25b3-250618T144843-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c790e5858613cd5a7a7c70174120819866a14b7831a0a4159a57745cbd9ea10a",
+  "size": "21 MB",
+  "size_raw": "21851576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
