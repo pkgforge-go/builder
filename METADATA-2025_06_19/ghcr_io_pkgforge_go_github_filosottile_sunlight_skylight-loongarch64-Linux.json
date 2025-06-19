@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "skylight",
+  "pkg_family": "sunlight",
+  "pkg_id": "skylight#github.com_FiloSottile_sunlight",
+  "pkg_name": "skylight",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FiloSottile/sunlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
+  "homepage": [
+    "https://github.com/FiloSottile/sunlight"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "partial-aftersun",
+    "skylight",
+    "sunlight",
+    "sunlight-keygen",
+    "tlog-torrent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FiloSottile/sunlight/archive/1bba70fd338e091dba2e9ff289a7168eca0fea3f.tar.gz"
+  ],
+  "tag": [
+    "certificate-transparency",
+    "tlog"
+  ],
+  "version": "HEAD-1bba70f-250613T162055",
+  "version_upstream": "v0.4.1",
+  "bsum": "77a8aad2ec32ae3654267011913b00ea9823727c08ecceba435c77b849792612",
+  "build_date": "2025-06-19T09:21:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753578510",
+  "build_id": "15753578510",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/skylight?tag=HEAD-1bba70f-250613T162055-loongarch64-Linux&download=skylight.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/skylight?tag=HEAD-1bba70f-250613T162055-loongarch64-Linux&download=skylight",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filosottile/sunlight/skylight:HEAD-1bba70f-250613T162055-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filosottile/sunlight/skylight",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/skylight?tag=HEAD-1bba70f-250613T162055-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e81f11556e79e264479cfa33066570461f3d7e355d51e0700658c199f54ec7f0",
+  "size": "12 MB",
+  "size_raw": "12068000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
