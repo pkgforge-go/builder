@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fetch_ip_ranges",
+  "pkg_family": "ip-scanner",
+  "pkg_id": "fetch_ip_ranges#github.com_csyezheng_ip_scanner",
+  "pkg_name": "fetch_ip_ranges",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csyezheng/ip-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This script is used to find the fastest IP for a given site such as Google Translate, Cloudflare, GitHub, etc.",
+  "homepage": [
+    "https://github.com/csyezheng/ip-scanner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudflare",
+    "fetch_ip_ranges",
+    "google_translate",
+    "ip_scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/csyezheng/ip-scanner/archive/6e93689e4800c23febb20b41d1fb499b03770270.tar.gz"
+  ],
+  "tag": [
+    "connectivity",
+    "internet-access",
+    "ip-scanner",
+    "ping",
+    "reachability",
+    "scanner"
+  ],
+  "version": "HEAD-6e93689-231023T133051",
+  "version_upstream": "v0.2.0",
+  "bsum": "ea6125b8fcba3c447741099c4ae23c780f3f09a7296a919934fc826f0464591f",
+  "build_date": "2025-06-19T20:26:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765377350",
+  "build_id": "15765377350",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csyezheng/ip-scanner/fetch_ip_ranges?tag=HEAD-6e93689-231023T133051-aarch64-Linux&download=fetch_ip_ranges.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csyezheng/ip-scanner/fetch_ip_ranges?tag=HEAD-6e93689-231023T133051-aarch64-Linux&download=fetch_ip_ranges",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csyezheng/ip-scanner/fetch_ip_ranges:HEAD-6e93689-231023T133051-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csyezheng/ip-scanner/fetch_ip_ranges",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csyezheng/ip-scanner/fetch_ip_ranges?tag=HEAD-6e93689-231023T133051-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90ddc043c522133214cc24a370faad2236dda0e5c651cf07f4f3fb889b5e60ba",
+  "size": "7.3 MB",
+  "size_raw": "7639040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
