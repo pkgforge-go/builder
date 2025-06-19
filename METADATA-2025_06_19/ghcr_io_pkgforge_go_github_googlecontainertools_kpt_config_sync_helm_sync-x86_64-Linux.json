@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "helm-sync",
+  "pkg_family": "kpt-config-sync",
+  "pkg_id": "helm-sync#github.com_GoogleContainerTools_kpt_config_sync",
+  "pkg_name": "helm-sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleContainerTools/kpt-config-sync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+  "homepage": [
+    "https://github.com/GoogleContainerTools/kpt-config-sync"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "gcenode-askpass-sidecar",
+    "gen-core-scoper",
+    "helm-sync",
+    "hydration-controller",
+    "junit-report",
+    "nomos",
+    "nomoserrors",
+    "oci-sync",
+    "reconciler",
+    "reconciler-manager",
+    "repo-version",
+    "resource-group"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleContainerTools/kpt-config-sync/archive/9aafe3b5db40ecd774744655bb886aa81e6dc8c1.tar.gz"
+  ],
+  "tag": [
+    "configuration-management",
+    "gitops",
+    "kubernetes"
+  ],
+  "version": "HEAD-9aafe3b-250619T015910",
+  "version_upstream": "",
+  "bsum": "ae341860867224b2454472ad0f1d791fe50d5b30ace4b1b4b03bcbd3ad674706",
+  "build_date": "2025-06-19T09:56:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753780933",
+  "build_id": "15753780933",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/helm-sync?tag=HEAD-9aafe3b-250619T015910-x86_64-Linux&download=helm-sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "258",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/helm-sync?tag=HEAD-9aafe3b-250619T015910-x86_64-Linux&download=helm-sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecontainertools/kpt-config-sync/helm-sync:HEAD-9aafe3b-250619T015910-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecontainertools/kpt-config-sync/helm-sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/helm-sync?tag=HEAD-9aafe3b-250619T015910-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c41459238b87a1b194ff207b47ffc215302a26daee941cbe1cee2ee3cf9eb2d7",
+  "size": "69 MB",
+  "size_raw": "72199856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
