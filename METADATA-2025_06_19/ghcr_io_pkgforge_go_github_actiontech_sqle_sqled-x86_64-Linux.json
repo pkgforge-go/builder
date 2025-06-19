@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sqled",
+  "pkg_family": "sqle",
+  "pkg_id": "sqled#github.com_actiontech_sqle",
+  "pkg_name": "sqled",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/actiontech/sqle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台",
+  "homepage": [
+    "https://github.com/actiontech/sqle"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goyacc",
+    "scannerd",
+    "sqled",
+    "swag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/actiontech/sqle/archive/db5c570dc8a6e1de2dae3c1b68cc43ff8a2cd066.tar.gz"
+  ],
+  "tag": [
+    "advisor",
+    "audit",
+    "jetbrains",
+    "mssql",
+    "mybatis",
+    "mysql",
+    "optimize",
+    "oracle",
+    "pg",
+    "postgresql",
+    "sql",
+    "sql-audit",
+    "suggestion"
+  ],
+  "version": "HEAD-db5c570-250619T174326",
+  "version_upstream": "",
+  "bsum": "022ed302e2a686fd24e59bf147f2e85d2e76a068961b9c7ee3255d90fb738a71",
+  "build_date": "2025-06-19T16:35:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761524408",
+  "build_id": "15761524408",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actiontech/sqle/sqled?tag=HEAD-db5c570-250619T174326-x86_64-Linux&download=sqled.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1421",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actiontech/sqle/sqled?tag=HEAD-db5c570-250619T174326-x86_64-Linux&download=sqled",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/actiontech/sqle/sqled:HEAD-db5c570-250619T174326-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/actiontech/sqle/sqled",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actiontech/sqle/sqled?tag=HEAD-db5c570-250619T174326-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5d5dd99942a18211e2b9954fe0bb74ecbc4d0db79f56a073ec1f1ee8ec27871",
+  "size": "60 MB",
+  "size_raw": "62357208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
