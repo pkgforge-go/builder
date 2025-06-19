@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "ARO-RP",
+  "pkg_id": "proxy#github.com_Azure_ARO_RP",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/ARO-RP",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Red Hat OpenShift RP",
+  "homepage": [
+    "https://github.com/Azure/ARO-RP"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aead",
+    "aro-rp-cmd",
+    "clean",
+    "cluster",
+    "db",
+    "fakecluster",
+    "gendeploy",
+    "gendevconfig",
+    "gendiscoverycache",
+    "genhiveconfig",
+    "genkey",
+    "licenses",
+    "monitor",
+    "portalauth",
+    "proxy",
+    "role",
+    "swagger",
+    "tunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/ARO-RP/archive/8c770b72f86751bd3b5322792745f606db2be604.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c770b7-250618T184628",
+  "version_upstream": "",
+  "bsum": "6bdf1f13b6770dc01a3345a0e44590fb41e4a00f3778e68ec74acabd0bc11b37",
+  "build_date": "2025-06-19T08:17:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752529830",
+  "build_id": "15752529830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/proxy?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/proxy?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/aro-rp/proxy:HEAD-8c770b7-250618T184628-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/aro-rp/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/proxy?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf5760d07f84dca0bac699a00c60a1c9a60f9ac7adb763b644ea9a1407eb8476",
+  "size": "34 MB",
+  "size_raw": "35121272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

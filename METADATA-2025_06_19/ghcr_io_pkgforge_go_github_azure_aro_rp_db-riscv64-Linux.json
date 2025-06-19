@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "db",
+  "pkg_family": "ARO-RP",
+  "pkg_id": "db#github.com_Azure_ARO_RP",
+  "pkg_name": "db",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/ARO-RP",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Red Hat OpenShift RP",
+  "homepage": [
+    "https://github.com/Azure/ARO-RP"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aead",
+    "aro-rp-cmd",
+    "clean",
+    "cluster",
+    "db",
+    "fakecluster",
+    "gendeploy",
+    "gendevconfig",
+    "gendiscoverycache",
+    "genhiveconfig",
+    "genkey",
+    "licenses",
+    "monitor",
+    "portalauth",
+    "proxy",
+    "role",
+    "swagger",
+    "tunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/ARO-RP/archive/8c770b72f86751bd3b5322792745f606db2be604.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c770b7-250618T184628",
+  "version_upstream": "",
+  "bsum": "d5ecd229e883af59829dd7e7b2b72e2b4f9c89cb6260b501571a5724e2ebb2a9",
+  "build_date": "2025-06-19T08:17:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752529830",
+  "build_id": "15752529830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/db?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&download=db.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/db?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&download=db",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/aro-rp/db:HEAD-8c770b7-250618T184628-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/aro-rp/db",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/db?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21424f8e3d25e95a21bb98f719d075467974964cca6847c58c103682878f3697",
+  "size": "38 MB",
+  "size_raw": "39109080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

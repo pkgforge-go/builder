@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "monitor",
+  "pkg_family": "ARO-RP",
+  "pkg_id": "monitor#github.com_Azure_ARO_RP",
+  "pkg_name": "monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/ARO-RP",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Red Hat OpenShift RP",
+  "homepage": [
+    "https://github.com/Azure/ARO-RP"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aead",
+    "aro-rp-cmd",
+    "clean",
+    "cluster",
+    "db",
+    "fakecluster",
+    "gendeploy",
+    "gendevconfig",
+    "gendiscoverycache",
+    "genhiveconfig",
+    "genkey",
+    "licenses",
+    "monitor",
+    "portalauth",
+    "proxy",
+    "role",
+    "swagger",
+    "tunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/ARO-RP/archive/8c770b72f86751bd3b5322792745f606db2be604.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c770b7-250618T184628",
+  "version_upstream": "",
+  "bsum": "30b91e74f9c801492613fd2a2e46c94efc4066595d9e4a700053dba6d8198f9a",
+  "build_date": "2025-06-19T08:17:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752529830",
+  "build_id": "15752529830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/monitor?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&download=monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/monitor?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&download=monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/aro-rp/monitor:HEAD-8c770b7-250618T184628-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/aro-rp/monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/monitor?tag=HEAD-8c770b7-250618T184628-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16850efb9012430f4029f2edb85ea9a016eba725731a6c2a3bf7e65dd3377249",
+  "size": "12 MB",
+  "size_raw": "12061880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
