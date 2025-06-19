@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pcopy",
+  "pkg_family": "pcopy",
+  "pkg_id": "pcopy#github.com_binwiederhier_pcopy",
+  "pkg_name": "pcopy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/binwiederhier/pcopy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.",
+  "homepage": [
+    "https://github.com/binwiederhier/pcopy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pcopy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/binwiederhier/pcopy/archive/4a21c40e9c99383ebe8cda52b33ee9482aaa6675.tar.gz"
+  ],
+  "tag": [
+    "clipboard",
+    "copy-paste",
+    "curl",
+    "golang",
+    "netcat",
+    "nopaste",
+    "pastebin",
+    "self-hosted"
+  ],
+  "version": "HEAD-4a21c40-230314T075031",
+  "version_upstream": "",
+  "bsum": "a2fc6cc33729c7fa1bf7e9ea0eec2975ca06aa09ab49d6702d32f979f58c96b2",
+  "build_date": "2025-06-19T14:09:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759310758",
+  "build_id": "15759310758",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/binwiederhier/pcopy/pcopy?tag=HEAD-4a21c40-230314T075031-riscv64-Linux&download=pcopy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "365",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/binwiederhier/pcopy/pcopy?tag=HEAD-4a21c40-230314T075031-riscv64-Linux&download=pcopy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/binwiederhier/pcopy/pcopy:HEAD-4a21c40-230314T075031-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/binwiederhier/pcopy/pcopy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/binwiederhier/pcopy/pcopy?tag=HEAD-4a21c40-230314T075031-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "24f632a8758f1170f08ad1b49f5eb6a1c5ebc4d751ef60ce082e17c7e5cdb909",
+  "size": "11 MB",
+  "size_raw": "10508920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
