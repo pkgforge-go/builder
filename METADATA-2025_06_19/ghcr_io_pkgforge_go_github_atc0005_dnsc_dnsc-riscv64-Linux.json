@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dnsc",
+  "pkg_family": "dnsc",
+  "pkg_id": "dnsc#github.com_atc0005_dnsc",
+  "pkg_name": "dnsc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/atc0005/dnsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run a DNS query concurrently against all servers in a list and provide results summary",
+  "homepage": [
+    "https://github.com/atc0005/dnsc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnsc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/atc0005/dnsc/archive/11d05e9be9836ca81fe547830cf2935894e738f0.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dns-query",
+    "go",
+    "golang",
+    "query",
+    "troubleshooting"
+  ],
+  "version": "HEAD-11d05e9-250516T071317",
+  "version_upstream": "v0.7.15",
+  "bsum": "17d7fe037072f20dd4a9a2878c2b761dd890912b3ff9328c17bd98dd97b52823",
+  "build_date": "2025-06-19T13:04:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758241038",
+  "build_id": "15758241038",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/dnsc/dnsc?tag=HEAD-11d05e9-250516T071317-riscv64-Linux&download=dnsc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/dnsc/dnsc?tag=HEAD-11d05e9-250516T071317-riscv64-Linux&download=dnsc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/atc0005/dnsc/dnsc:HEAD-11d05e9-250516T071317-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/atc0005/dnsc/dnsc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/dnsc/dnsc?tag=HEAD-11d05e9-250516T071317-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "681cc0b91729377267460e981dc451d75006d8b3797183a2f0aab138cac2a511",
+  "size": "5.6 MB",
+  "size_raw": "5795672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
