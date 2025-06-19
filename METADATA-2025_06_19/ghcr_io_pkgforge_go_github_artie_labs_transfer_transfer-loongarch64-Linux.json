@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "transfer",
+  "pkg_family": "transfer",
+  "pkg_id": "transfer#github.com_artie_labs_transfer",
+  "pkg_name": "transfer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/artie-labs/transfer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse _Snowflake, BigQuery, Redshift, Databricks_ in real-time.",
+  "homepage": [
+    "https://github.com/artie-labs/transfer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "destination_append",
+    "destination_merge",
+    "destination_types",
+    "parquet",
+    "transfer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/artie-labs/transfer/archive/0bd32aa50e36f07ebde7da1d71e9b544a1dbe66e.tar.gz"
+  ],
+  "tag": [
+    "apache-kafka",
+    "bigquery",
+    "cdc",
+    "change-data-capture",
+    "data-integration",
+    "data-pipelines",
+    "database",
+    "debezium",
+    "elt",
+    "golang",
+    "kafka",
+    "redshift",
+    "snowflake"
+  ],
+  "version": "HEAD-0bd32aa-250618T225519",
+  "version_upstream": "",
+  "bsum": "d6b0a723001139a8a0266e50c0ac38cac05a2178f903193510e18ae18d79c3df",
+  "build_date": "2025-06-19T12:09:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756627058",
+  "build_id": "15756627058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/transfer?tag=HEAD-0bd32aa-250618T225519-loongarch64-Linux&download=transfer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "658",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/transfer?tag=HEAD-0bd32aa-250618T225519-loongarch64-Linux&download=transfer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/artie-labs/transfer/transfer:HEAD-0bd32aa-250618T225519-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/artie-labs/transfer/transfer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artie-labs/transfer/transfer?tag=HEAD-0bd32aa-250618T225519-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "425e5452e3b598b3d3bbc4acbd9d41278352f9fdf480663cf30f51d0a0a4757f",
+  "size": "70 MB",
+  "size_raw": "72773392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
