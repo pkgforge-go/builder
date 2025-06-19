@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gensimd",
+  "pkg_family": "gensimd",
+  "pkg_id": "gensimd#github.com_bjwbell_gensimd",
+  "pkg_name": "gensimd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bjwbell/gensimd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SIMD for Go",
+  "homepage": [
+    "https://github.com/bjwbell/gensimd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gensimd",
+    "simd_example",
+    "sse2_example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bjwbell/gensimd/archive/06eb18285485c0d572cc7f024050fc6cb652ed4c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06eb182-171026T174226",
+  "version_upstream": "",
+  "bsum": "37c3df1692e8cab8d7c0a30eee836ac69d299c147a9d3005aa514df55feadcb7",
+  "build_date": "2025-06-19T14:16:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759371696",
+  "build_id": "15759371696",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/gensimd?tag=HEAD-06eb182-171026T174226-loongarch64-Linux&download=gensimd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "163",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/gensimd?tag=HEAD-06eb182-171026T174226-loongarch64-Linux&download=gensimd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bjwbell/gensimd/gensimd:HEAD-06eb182-171026T174226-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bjwbell/gensimd/gensimd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjwbell/gensimd/gensimd?tag=HEAD-06eb182-171026T174226-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0dba7521cf6bcc14ca284db75a1e3125489d992491041d37fb892e68e9022c6",
+  "size": "5.8 MB",
+  "size_raw": "6041056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
