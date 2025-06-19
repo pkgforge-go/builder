@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "groupdel-stub",
+  "pkg_family": "ignition",
+  "pkg_id": "groupdel-stub#github.com_coreos_ignition",
+  "pkg_name": "groupdel-stub",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coreos/ignition",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "First boot installer and configuration tool",
+  "homepage": [
+    "https://github.com/coreos/ignition"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc",
+    "docs",
+    "groupdel-stub",
+    "useradd-stub",
+    "userdel-stub",
+    "usermod-stub",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coreos/ignition/archive/4d1a06336b7902f54d1abc0d18846321dfa98566.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4d1a063-250610T160627",
+  "version_upstream": "",
+  "bsum": "ff1bba63e4438850bdd17be063c5038e221c409af5a1c2fb36391fe1aaec5bb3",
+  "build_date": "2025-06-19T20:02:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764563292",
+  "build_id": "15764563292",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/groupdel-stub?tag=HEAD-4d1a063-250610T160627-riscv64-Linux&download=groupdel-stub.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "889",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/groupdel-stub?tag=HEAD-4d1a063-250610T160627-riscv64-Linux&download=groupdel-stub",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coreos/ignition/groupdel-stub:HEAD-4d1a063-250610T160627-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coreos/ignition/groupdel-stub",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/groupdel-stub?tag=HEAD-4d1a063-250610T160627-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7e58bd2e3e162055d0eca2e906a3ae1a61b5213dd9d6a42ccd12a9dcd6d9c32",
+  "size": "1.7 MB",
+  "size_raw": "1756232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
