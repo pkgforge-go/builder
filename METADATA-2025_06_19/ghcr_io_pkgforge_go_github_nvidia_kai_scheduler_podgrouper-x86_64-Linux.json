@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "podgrouper",
+  "pkg_family": "KAI-Scheduler",
+  "pkg_id": "podgrouper#github.com_NVIDIA_KAI_Scheduler",
+  "pkg_name": "podgrouper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/KAI-Scheduler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+  "homepage": [
+    "https://github.com/NVIDIA/KAI-Scheduler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binder",
+    "nodescaleadjuster",
+    "podgroupcontroller",
+    "podgrouper",
+    "queuecontroller",
+    "scalingpod",
+    "scheduler",
+    "snapshot-tool",
+    "webhookmanager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/KAI-Scheduler/archive/b8c9bdf79f16ea24ac72048d379206366aac4a0b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b8c9bdf-250618T150330",
+  "version_upstream": "",
+  "bsum": "74ef46ed52ecaf483bcf2a0f6cb823a84875baca666bc2286d4d40ca0e9335b5",
+  "build_date": "2025-06-19T10:25:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754946641",
+  "build_id": "15754946641",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/podgrouper?tag=HEAD-b8c9bdf-250618T150330-x86_64-Linux&download=podgrouper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "651",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/podgrouper?tag=HEAD-b8c9bdf-250618T150330-x86_64-Linux&download=podgrouper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/podgrouper:HEAD-b8c9bdf-250618T150330-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/podgrouper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/podgrouper?tag=HEAD-b8c9bdf-250618T150330-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b1807e82894e35aba659b5559c399b69f1d3df8b8fda133b6ec09680edca10d9",
+  "size": "44 MB",
+  "size_raw": "45721824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "scalingpod",
+  "pkg_family": "KAI-Scheduler",
+  "pkg_id": "scalingpod#github.com_NVIDIA_KAI_Scheduler",
+  "pkg_name": "scalingpod",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/KAI-Scheduler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+  "homepage": [
+    "https://github.com/NVIDIA/KAI-Scheduler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binder",
+    "nodescaleadjuster",
+    "podgroupcontroller",
+    "podgrouper",
+    "queuecontroller",
+    "scalingpod",
+    "scheduler",
+    "snapshot-tool",
+    "webhookmanager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/KAI-Scheduler/archive/b8c9bdf79f16ea24ac72048d379206366aac4a0b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b8c9bdf-250618T150330",
+  "version_upstream": "",
+  "bsum": "9549f45d2f28b71710a0ccaa94f9138071c2811ecd6904a73aed579187394f0e",
+  "build_date": "2025-06-19T10:25:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754946641",
+  "build_id": "15754946641",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/scalingpod?tag=HEAD-b8c9bdf-250618T150330-x86_64-Linux&download=scalingpod.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "651",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/scalingpod?tag=HEAD-b8c9bdf-250618T150330-x86_64-Linux&download=scalingpod",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/scalingpod:HEAD-b8c9bdf-250618T150330-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/kai-scheduler/scalingpod",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/kai-scheduler/scalingpod?tag=HEAD-b8c9bdf-250618T150330-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a0e556290b51f7adc40b7923f35f4b0a6a865c1352e7592b1c7aef8443c4aeb",
+  "size": "1.1 MB",
+  "size_raw": "1140216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
