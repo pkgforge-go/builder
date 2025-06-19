@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pg_timetable",
+  "pkg_family": "pg_timetable",
+  "pkg_id": "pg_timetable#github.com_cybertec_postgresql_pg_timetable",
+  "pkg_name": "pg_timetable",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybertec-postgresql/pg_timetable",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "pg_timetable: Advanced scheduling for PostgreSQL",
+  "homepage": [
+    "https://github.com/cybertec-postgresql/pg_timetable"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pg_timetable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybertec-postgresql/pg_timetable/archive/cfbc8c74f94ebbac90e1223efcd9663ecbf1cb72.tar.gz"
+  ],
+  "tag": [
+    "chains",
+    "cron",
+    "database",
+    "docker-image",
+    "interval",
+    "pg-timetable",
+    "postgresql",
+    "postgresql-frontend",
+    "scheduling",
+    "sql"
+  ],
+  "version": "HEAD-cfbc8c7-250618T161942",
+  "version_upstream": "",
+  "bsum": "c8c9d0c8554dd29c6f082e76f810f73d4fd67d2f298e5b760c454cbf235e596d",
+  "build_date": "2025-06-19T20:35:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765440372",
+  "build_id": "15765440372",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pg/timetable/pg_timetable?tag=HEAD-cfbc8c7-250618T161942-loongarch64-Linux&download=pg_timetable.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1186",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pg/timetable/pg_timetable?tag=HEAD-cfbc8c7-250618T161942-loongarch64-Linux&download=pg_timetable",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pg/timetable/pg_timetable:HEAD-cfbc8c7-250618T161942-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pg/timetable/pg_timetable",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pg/timetable/pg_timetable?tag=HEAD-cfbc8c7-250618T161942-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e404ddf08b3c5ce1a5e69c9b84e9558fe6e2b39d937e9c9a490aebf3f16c2daf",
+  "size": "13 MB",
+  "size_raw": "13505024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
