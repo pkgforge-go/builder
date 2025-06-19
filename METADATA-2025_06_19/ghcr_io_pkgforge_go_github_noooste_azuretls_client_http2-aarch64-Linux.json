@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "http2",
+  "pkg_family": "azuretls-client",
+  "pkg_id": "http2#github.com_Noooste_azuretls_client",
+  "pkg_name": "http2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Noooste/azuretls-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+  "homepage": [
+    "https://github.com/Noooste/azuretls-client"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cffi",
+    "headers",
+    "http2",
+    "http3",
+    "ja3",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Noooste/azuretls-client/archive/1f46516601fdcfb185935a3649e2ef667c621d3a.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "http",
+    "http-client",
+    "http2",
+    "http3",
+    "http3-client",
+    "ja3",
+    "ja3-fingerprint",
+    "ssl-pinning",
+    "tls",
+    "tls-client"
+  ],
+  "version": "HEAD-1f46516-250618T134224",
+  "version_upstream": "",
+  "bsum": "79871c77e355ea4cf54412959727ddd392d1f71a556be677aab5b865945de0e1",
+  "build_date": "2025-06-19T10:25:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754975767",
+  "build_id": "15754975767",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noooste/azuretls-client/http2?tag=HEAD-1f46516-250618T134224-aarch64-Linux&download=http2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "261",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noooste/azuretls-client/http2?tag=HEAD-1f46516-250618T134224-aarch64-Linux&download=http2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noooste/azuretls-client/http2:HEAD-1f46516-250618T134224-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noooste/azuretls-client/http2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noooste/azuretls-client/http2?tag=HEAD-1f46516-250618T134224-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d9934f6638976f69e443a6c06166a1092df5d22b32f95893e779e51c02b1633",
+  "size": "12 MB",
+  "size_raw": "12037632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cffi",
+  "pkg_family": "azuretls-client",
+  "pkg_id": "cffi#github.com_Noooste_azuretls_client",
+  "pkg_name": "cffi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Noooste/azuretls-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint",
+  "homepage": [
+    "https://github.com/Noooste/azuretls-client"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cffi",
+    "headers",
+    "http2",
+    "http3",
+    "ja3",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Noooste/azuretls-client/archive/1f46516601fdcfb185935a3649e2ef667c621d3a.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "http",
+    "http-client",
+    "http2",
+    "http3",
+    "http3-client",
+    "ja3",
+    "ja3-fingerprint",
+    "ssl-pinning",
+    "tls",
+    "tls-client"
+  ],
+  "version": "HEAD-1f46516-250618T134224",
+  "version_upstream": "",
+  "bsum": "95f63c26150d72688b637755f0ce4c7fc3ddae76175b118173021bd0d4288a8e",
+  "build_date": "2025-06-19T10:25:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754975767",
+  "build_id": "15754975767",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noooste/azuretls-client/cffi?tag=HEAD-1f46516-250618T134224-aarch64-Linux&download=cffi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "261",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noooste/azuretls-client/cffi?tag=HEAD-1f46516-250618T134224-aarch64-Linux&download=cffi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noooste/azuretls-client/cffi:HEAD-1f46516-250618T134224-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noooste/azuretls-client/cffi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noooste/azuretls-client/cffi?tag=HEAD-1f46516-250618T134224-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e63b5ea42c6181e9f6825afede77765f94de97a7b86e8eac0c7b50e26e6b2b5f",
+  "size": "12 MB",
+  "size_raw": "12293536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
