@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "platform_info_generator",
+  "pkg_family": "bazel-gazelle",
+  "pkg_id": "platform_info_generator#github.com_bazel_contrib_bazel_gazelle",
+  "pkg_name": "platform_info_generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bazel-contrib/bazel-gazelle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.",
+  "homepage": [
+    "https://github.com/bazel-contrib/bazel-gazelle"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autogazelle",
+    "fetch_repo",
+    "gazelle",
+    "gen",
+    "gen_std_package_list",
+    "generate_repo_config",
+    "move_labels",
+    "override-generator",
+    "platform_info_generator",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bazel-contrib/bazel-gazelle/archive/81cbfeaea15e0add7f291858f6e0292ed773e5c2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-81cbfea-250618T191406",
+  "version_upstream": "",
+  "bsum": "a23286a233241d4c42c8b04e6d715971b079367586eeca9e16d7b8852f486916",
+  "build_date": "2025-06-19T13:51:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758422067",
+  "build_id": "15758422067",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazel-contrib/bazel-gazelle/platform_info_generator?tag=HEAD-81cbfea-250618T191406-riscv64-Linux&download=platform_info_generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazel-contrib/bazel-gazelle/platform_info_generator?tag=HEAD-81cbfea-250618T191406-riscv64-Linux&download=platform_info_generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bazel-contrib/bazel-gazelle/platform_info_generator:HEAD-81cbfea-250618T191406-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bazel-contrib/bazel-gazelle/platform_info_generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazel-contrib/bazel-gazelle/platform_info_generator?tag=HEAD-81cbfea-250618T191406-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fc4e170c56dee1662dbc3a699c1dbc665ad684219dd7b80d6a4988df0596e0cc",
+  "size": "1.9 MB",
+  "size_raw": "1931848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
