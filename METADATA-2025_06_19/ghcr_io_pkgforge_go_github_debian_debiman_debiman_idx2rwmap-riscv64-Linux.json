@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "debiman-idx2rwmap",
+  "pkg_family": "debiman",
+  "pkg_id": "debiman-idx2rwmap#github.com_Debian_debiman",
+  "pkg_name": "debiman-idx2rwmap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Debian/debiman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "debiman generates a static manpage HTML repository out of a Debian archive",
+  "homepage": [
+    "https://github.com/Debian/debiman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "debiman",
+    "debiman-auxserver",
+    "debiman-idx2rwmap",
+    "debiman-minisrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Debian/debiman/archive/52e0bcdab7676fb9ae1bd6cbce725a903b6da355.tar.gz"
+  ],
+  "tag": [
+    "debian",
+    "manpages"
+  ],
+  "version": "HEAD-52e0bcd-250415T085505",
+  "version_upstream": "",
+  "bsum": "2b5b21b61f362efef2f79904889db9c36a28fded1a4823b24477044085060e0a",
+  "build_date": "2025-06-19T08:51:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752750194",
+  "build_id": "15752750194",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-idx2rwmap?tag=HEAD-52e0bcd-250415T085505-riscv64-Linux&download=debiman-idx2rwmap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "209",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-idx2rwmap?tag=HEAD-52e0bcd-250415T085505-riscv64-Linux&download=debiman-idx2rwmap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/debiman/debiman-idx2rwmap:HEAD-52e0bcd-250415T085505-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/debiman/debiman-idx2rwmap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/debiman/debiman-idx2rwmap?tag=HEAD-52e0bcd-250415T085505-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4c89649a88c339f8a6f4c1c0f9b94361d90d6cf3b405aae9b5d7fb2c0859704",
+  "size": "5.5 MB",
+  "size_raw": "5688024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
