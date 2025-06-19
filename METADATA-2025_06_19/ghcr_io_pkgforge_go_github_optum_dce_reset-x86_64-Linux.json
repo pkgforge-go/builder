@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "reset",
+  "pkg_family": "dce",
+  "pkg_id": "reset#github.com_Optum_dce",
+  "pkg_name": "reset",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Optum/dce",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Disposable Cloud Environment",
+  "homepage": [
+    "https://github.com/Optum/dce"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "account_pool_metrics",
+    "accounts",
+    "awsnukedocgen",
+    "credentials_web_page",
+    "fan_out_update_lease_status",
+    "lease_auth",
+    "leases",
+    "populate_reset_queue",
+    "process_reset_queue",
+    "reset",
+    "update_lease_status",
+    "update_principal_policy",
+    "usage",
+    "v0.10.0_db_rename_assignment_to_lease",
+    "v0.11.0_db_add_leasestatusmodifiedon_field",
+    "v0.19.0_db_expiring_leases",
+    "v0.19.2_fix_expired_leases",
+    "v0.21.0_rename_db_tables_dce",
+    "v0.30.1_db_update_accountstatus_field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Optum/dce/archive/b333f9e4ce8f0d010ac205b277941cdfa342d7ea.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "budget",
+    "cloud",
+    "enterprise",
+    "sandbox-development",
+    "sandbox-environment",
+    "sandbox-playground",
+    "serverless",
+    "terraform"
+  ],
+  "version": "HEAD-b333f9e-250506T205336",
+  "version_upstream": "",
+  "bsum": "88b5fab8f79e8cbe6469f9c280dc29fa38af54e924fbb63ee3c1056fe54902e3",
+  "build_date": "2025-06-19T10:39:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754991308",
+  "build_id": "15754991308",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/reset?tag=HEAD-b333f9e-250506T205336-x86_64-Linux&download=reset.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "340",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/reset?tag=HEAD-b333f9e-250506T205336-x86_64-Linux&download=reset",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/optum/dce/reset:HEAD-b333f9e-250506T205336-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/optum/dce/reset",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/optum/dce/reset?tag=HEAD-b333f9e-250506T205336-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19d09a83f8008151ce1802e3ef57869c68c9d289652051d0b002bc5b77ac22d2",
+  "size": "261 MB",
+  "size_raw": "273051760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
