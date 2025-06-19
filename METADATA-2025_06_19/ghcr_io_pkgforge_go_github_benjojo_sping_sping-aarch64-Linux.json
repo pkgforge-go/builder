@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sping",
+  "pkg_family": "sping",
+  "pkg_id": "sping#github.com_benjojo_sping",
+  "pkg_name": "sping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/benjojo/sping",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Split ping, see what direction the loss or latency is on",
+  "homepage": [
+    "https://github.com/benjojo/sping"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "icmp-timestap-pinger",
+    "sping"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/benjojo/sping/archive/287083dd1ec5a2f999656f8f63c2c3284d0610c9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-287083d-230919T153834",
+  "version_upstream": "",
+  "bsum": "64cade82e52ed89301068719262a4fdaa6dbc3b413c6e9336de532bde1ba6f18",
+  "build_date": "2025-06-19T14:05:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759214542",
+  "build_id": "15759214542",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjojo/sping/sping?tag=HEAD-287083d-230919T153834-aarch64-Linux&download=sping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "318",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjojo/sping/sping?tag=HEAD-287083d-230919T153834-aarch64-Linux&download=sping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/benjojo/sping/sping:HEAD-287083d-230919T153834-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/benjojo/sping/sping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjojo/sping/sping?tag=HEAD-287083d-230919T153834-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4990fffd2c3ae999dcbeed526aa2975dba8346481efaa917452478dc7028236",
+  "size": "10 MB",
+  "size_raw": "10408448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
