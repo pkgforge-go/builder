@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cfssljson",
+  "pkg_family": "cfssl",
+  "pkg_id": "cfssljson#github.com_cloudflare_cfssl",
+  "pkg_name": "cfssljson",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/cfssl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CFSSL: Cloudflare_s PKI and TLS toolkit",
+  "homepage": [
+    "https://github.com/cloudflare/cfssl"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfssl",
+    "cfssl-bundle",
+    "cfssl-certinfo",
+    "cfssl-newkey",
+    "cfssl-scan",
+    "cfssljson",
+    "example",
+    "maclient",
+    "maserver",
+    "mkbundle",
+    "multirootca"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/cfssl/archive/ed8df49712657524e8647cb7a9576422baa2faa1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed8df49-250226T114659",
+  "version_upstream": "",
+  "bsum": "a07dbe121de9cc5573970ec99ff71643d395a12a64f894485b714a5d5f5dd47e",
+  "build_date": "2025-06-19T19:09:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764328349",
+  "build_id": "15764328349",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/cfssljson?tag=HEAD-ed8df49-250226T114659-riscv64-Linux&download=cfssljson.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9057",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/cfssljson?tag=HEAD-ed8df49-250226T114659-riscv64-Linux&download=cfssljson",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/cfssl/cfssljson:HEAD-ed8df49-250226T114659-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/cfssl/cfssljson",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/cfssljson?tag=HEAD-ed8df49-250226T114659-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a235b6b7ddd0842470c8d23381475c1d241582511a046f05c9bae4396013babf",
+  "size": "7.4 MB",
+  "size_raw": "7741336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
