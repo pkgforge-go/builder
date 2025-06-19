@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fwwc",
+  "pkg_family": "fastwalk",
+  "pkg_id": "fwwc#github.com_charlievieth_fastwalk",
+  "pkg_name": "fwwc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/charlievieth/fastwalk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast directory traversal for Golang",
+  "homepage": [
+    "https://github.com/charlievieth/fastwalk"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fwfind",
+    "fwwc",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/charlievieth/fastwalk/archive/e692243489eeee10ccbe4dc9f24e9b7aa926bb57.tar.gz"
+  ],
+  "tag": [
+    "directory-traversal",
+    "fast",
+    "filepath",
+    "go",
+    "golang",
+    "traversal"
+  ],
+  "version": "HEAD-e692243-250603T194847",
+  "version_upstream": "",
+  "bsum": "4e394848aea44f13676d31006c8174ffeddd8821c659e98b3db1943d2b764fc4",
+  "build_date": "2025-06-19T18:12:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763495832",
+  "build_id": "15763495832",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/charlievieth/fastwalk/fwwc?tag=HEAD-e692243-250603T194847-loongarch64-Linux&download=fwwc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/charlievieth/fastwalk/fwwc?tag=HEAD-e692243-250603T194847-loongarch64-Linux&download=fwwc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/charlievieth/fastwalk/fwwc:HEAD-e692243-250603T194847-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/charlievieth/fastwalk/fwwc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/charlievieth/fastwalk/fwwc?tag=HEAD-e692243-250603T194847-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2b39bd64ce6f557d235b2f2bc752b4e53503f7d97ecd0f2a1ce2807ca6c6747",
+  "size": "1.9 MB",
+  "size_raw": "1918584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
