@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "checkelf",
+  "pkg_family": "nordvpn-linux",
+  "pkg_id": "checkelf#github.com_NordSecurity_nordvpn_linux",
+  "pkg_name": "checkelf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NordSecurity/nordvpn-linux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NordVPN Linux client",
+  "homepage": [
+    "https://github.com/NordSecurity/nordvpn-linux"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkelf",
+    "cli",
+    "downloader",
+    "pulp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NordSecurity/nordvpn-linux/archive/ca0b2164977b12ea43a8439aa6cedc7e4d46299f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca0b216-250619T155734",
+  "version_upstream": "",
+  "bsum": "d97f9c4cc85d2ec9cd11ccf77141ebfa702ecaf148af307a316211def55b4e8f",
+  "build_date": "2025-06-19T16:06:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761455013",
+  "build_id": "15761455013",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordsecurity/nordvpn-linux/checkelf?tag=HEAD-ca0b216-250619T155734-loongarch64-Linux&download=checkelf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordsecurity/nordvpn-linux/checkelf?tag=HEAD-ca0b216-250619T155734-loongarch64-Linux&download=checkelf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nordsecurity/nordvpn-linux/checkelf:HEAD-ca0b216-250619T155734-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nordsecurity/nordvpn-linux/checkelf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordsecurity/nordvpn-linux/checkelf?tag=HEAD-ca0b216-250619T155734-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "943f6356e92219e594c89abc6b7abf6e46cdf0223470bc56dbbf43102c9e1eb9",
+  "size": "2.0 MB",
+  "size_raw": "2086264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

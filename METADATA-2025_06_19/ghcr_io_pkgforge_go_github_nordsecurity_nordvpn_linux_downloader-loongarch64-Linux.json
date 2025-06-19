@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "downloader",
+  "pkg_family": "nordvpn-linux",
+  "pkg_id": "downloader#github.com_NordSecurity_nordvpn_linux",
+  "pkg_name": "downloader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NordSecurity/nordvpn-linux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NordVPN Linux client",
+  "homepage": [
+    "https://github.com/NordSecurity/nordvpn-linux"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkelf",
+    "cli",
+    "downloader",
+    "pulp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NordSecurity/nordvpn-linux/archive/ca0b2164977b12ea43a8439aa6cedc7e4d46299f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca0b216-250619T155734",
+  "version_upstream": "",
+  "bsum": "247531e32ea1c04086a9501328f5eb1ac5367037de1fc00a59af769bb6bfb01f",
+  "build_date": "2025-06-19T16:06:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761455013",
+  "build_id": "15761455013",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordsecurity/nordvpn-linux/downloader?tag=HEAD-ca0b216-250619T155734-loongarch64-Linux&download=downloader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordsecurity/nordvpn-linux/downloader?tag=HEAD-ca0b216-250619T155734-loongarch64-Linux&download=downloader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nordsecurity/nordvpn-linux/downloader:HEAD-ca0b216-250619T155734-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nordsecurity/nordvpn-linux/downloader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordsecurity/nordvpn-linux/downloader?tag=HEAD-ca0b216-250619T155734-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2e008b65a318e31047581e6a9c056727f5d682f08a16a092ce7ab55aaa225ce",
+  "size": "14 MB",
+  "size_raw": "14152896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
