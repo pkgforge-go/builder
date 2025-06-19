@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nomoserrors",
+  "pkg_family": "kpt-config-sync",
+  "pkg_id": "nomoserrors#github.com_GoogleContainerTools_kpt_config_sync",
+  "pkg_name": "nomoserrors",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleContainerTools/kpt-config-sync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
+  "homepage": [
+    "https://github.com/GoogleContainerTools/kpt-config-sync"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "gcenode-askpass-sidecar",
+    "gen-core-scoper",
+    "helm-sync",
+    "hydration-controller",
+    "junit-report",
+    "nomos",
+    "nomoserrors",
+    "oci-sync",
+    "reconciler",
+    "reconciler-manager",
+    "repo-version",
+    "resource-group"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleContainerTools/kpt-config-sync/archive/9aafe3b5db40ecd774744655bb886aa81e6dc8c1.tar.gz"
+  ],
+  "tag": [
+    "configuration-management",
+    "gitops",
+    "kubernetes"
+  ],
+  "version": "HEAD-9aafe3b-250619T015910",
+  "version_upstream": "",
+  "bsum": "c210365eedba9995c50b9ff83d793e1fac344b08bc49d6006bab755140fcbe96",
+  "build_date": "2025-06-19T09:55:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753780933",
+  "build_id": "15753780933",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/nomoserrors?tag=HEAD-9aafe3b-250619T015910-loongarch64-Linux&download=nomoserrors.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "258",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/nomoserrors?tag=HEAD-9aafe3b-250619T015910-loongarch64-Linux&download=nomoserrors",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecontainertools/kpt-config-sync/nomoserrors:HEAD-9aafe3b-250619T015910-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecontainertools/kpt-config-sync/nomoserrors",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/kpt-config-sync/nomoserrors?tag=HEAD-9aafe3b-250619T015910-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7dab94bd7a814b91b73c5abaf7e55864aae51aae988ee68cda20f0501e72ab3c",
+  "size": "73 MB",
+  "size_raw": "75590064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
