@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mcp-proxy",
+  "pkg_family": "mcp-proxy",
+  "pkg_id": "mcp-proxy#github.com_TBXark_mcp_proxy",
+  "pkg_name": "mcp-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TBXark/mcp-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.",
+  "homepage": [
+    "https://github.com/TBXark/mcp-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mcp-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TBXark/mcp-proxy/archive/b9116d5a3fd11ee095590a58746a2a39e0f94509.tar.gz"
+  ],
+  "tag": [
+    "claude",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "modelcontextprotocol"
+  ],
+  "version": "HEAD-b9116d5-250617T204523",
+  "version_upstream": "v0.32.0",
+  "bsum": "9774b2fefbab2c708c7e08fa0722e79b385139aea88c7288193b4f907ca522cb",
+  "build_date": "2025-06-19T16:23:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761511502",
+  "build_id": "15761511502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbxark/mcp-proxy/mcp-proxy?tag=HEAD-b9116d5-250617T204523-loongarch64-Linux&download=mcp-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "319",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbxark/mcp-proxy/mcp-proxy?tag=HEAD-b9116d5-250617T204523-loongarch64-Linux&download=mcp-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tbxark/mcp-proxy/mcp-proxy:HEAD-b9116d5-250617T204523-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tbxark/mcp-proxy/mcp-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbxark/mcp-proxy/mcp-proxy?tag=HEAD-b9116d5-250617T204523-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef01d87086e2025c453b33f655546e2ee35c1ac7a7440c659aa73c9ecd30068f",
+  "size": "7.5 MB",
+  "size_raw": "7829408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
