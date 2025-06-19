@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "platypus-server",
+  "pkg_family": "Platypus",
+  "pkg_id": "platypus-server#github.com_WangYihang_Platypus",
+  "pkg_name": "platypus-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/WangYihang/Platypus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":hammer: A modern multiple reverse shell sessions manager written in go",
+  "homepage": [
+    "https://github.com/WangYihang/Platypus"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "platypus-admin",
+    "platypus-agent",
+    "platypus-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/WangYihang/Platypus/archive/3adc51958afb9392dabe5890b8ac1fb2546086ca.tar.gz"
+  ],
+  "tag": [
+    "attack-defense",
+    "ctf",
+    "pentesting",
+    "pentesting-tools",
+    "red-team",
+    "reverse-shell",
+    "reverse-shell-as-a-service"
+  ],
+  "version": "HEAD-3adc519-250618T152650",
+  "version_upstream": "",
+  "bsum": "87ad8573d0f4778183b257aec36914302372119803712c102272590eaffa9105",
+  "build_date": "2025-06-19T11:38:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756481226",
+  "build_id": "15756481226",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/platypus/platypus-server?tag=HEAD-3adc519-250618T152650-riscv64-Linux&download=platypus-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1593",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/platypus/platypus-server?tag=HEAD-3adc519-250618T152650-riscv64-Linux&download=platypus-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wangyihang/platypus/platypus-server:HEAD-3adc519-250618T152650-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wangyihang/platypus/platypus-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wangyihang/platypus/platypus-server?tag=HEAD-3adc519-250618T152650-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "92ddc636d2ed11442adb951827e413e073cfe84f3bfd59fa0b426ccbc0e82023",
+  "size": "17 MB",
+  "size_raw": "17405112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
