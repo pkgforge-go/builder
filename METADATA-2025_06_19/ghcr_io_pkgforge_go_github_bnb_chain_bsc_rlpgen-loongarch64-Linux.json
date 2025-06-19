@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rlpgen",
+  "pkg_family": "bsc",
+  "pkg_id": "rlpgen#github.com_bnb_chain_bsc",
+  "pkg_name": "rlpgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bnb-chain/bsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A BNB Smart Chain client based on the go-ethereum fork",
+  "homepage": [
+    "https://github.com/bnb-chain/bsc"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rlpdump",
+    "rlpgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bnb-chain/bsc/archive/7e84843f135986a004f65205b357f4bedc461a30.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "bnb",
+    "ethereum"
+  ],
+  "version": "HEAD-7e84843-250617T165231",
+  "version_upstream": "",
+  "bsum": "65879c52ba2afd8568ae91977a05061b40758fd82dec0a56487ebd9fba954c16",
+  "build_date": "2025-06-19T17:23:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762429454",
+  "build_id": "15762429454",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/rlpgen?tag=HEAD-7e84843-250617T165231-loongarch64-Linux&download=rlpgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3007",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/rlpgen?tag=HEAD-7e84843-250617T165231-loongarch64-Linux&download=rlpgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bnb-chain/bsc/rlpgen:HEAD-7e84843-250617T165231-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bnb-chain/bsc/rlpgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/rlpgen?tag=HEAD-7e84843-250617T165231-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3ffc97fac200d78ead8bbd39af0c8ee28c91949f6e37461f1e687196c094464",
+  "size": "5.2 MB",
+  "size_raw": "5384512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
