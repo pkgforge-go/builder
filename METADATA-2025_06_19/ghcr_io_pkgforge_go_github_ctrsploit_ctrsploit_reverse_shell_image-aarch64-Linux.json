@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "reverse_shell_image",
+  "pkg_family": "ctrsploit",
+  "pkg_id": "reverse_shell_image#github.com_ctrsploit_ctrsploit",
+  "pkg_name": "reverse_shell_image",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ctrsploit/ctrsploit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A penetration toolkit for container environment",
+  "homepage": [
+    "https://github.com/ctrsploit/ctrsploit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checksec",
+    "cmd",
+    "ctrsploit",
+    "env",
+    "reverse_shell_image"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ctrsploit/ctrsploit/archive/213186bd6f71529ab93f7ba382e5c66d7d1e5989.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "docker",
+    "penetration-testing-tools"
+  ],
+  "version": "HEAD-213186b-250617T110956",
+  "version_upstream": "",
+  "bsum": "a963c2700ce0fec44a39c5525f7aefbeb4cf7f1b003ca57ff0ea495a467d168f",
+  "build_date": "2025-06-19T20:31:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765394732",
+  "build_id": "15765394732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/reverse_shell_image?tag=HEAD-213186b-250617T110956-aarch64-Linux&download=reverse_shell_image.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/reverse_shell_image?tag=HEAD-213186b-250617T110956-aarch64-Linux&download=reverse_shell_image",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/reverse_shell_image:HEAD-213186b-250617T110956-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ctrsploit/ctrsploit/reverse_shell_image",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ctrsploit/ctrsploit/reverse_shell_image?tag=HEAD-213186b-250617T110956-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ef02e58687cfa966a5e4343e0a011c81944b4bdd5b27e5c02034dcd4457ad17",
+  "size": "2.5 MB",
+  "size_raw": "2518072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
