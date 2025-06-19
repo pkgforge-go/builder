@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cfssl",
+  "pkg_family": "cfssl",
+  "pkg_id": "cfssl#github.com_cloudflare_cfssl",
+  "pkg_name": "cfssl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/cfssl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CFSSL: Cloudflare_s PKI and TLS toolkit",
+  "homepage": [
+    "https://github.com/cloudflare/cfssl"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfssl",
+    "cfssl-bundle",
+    "cfssl-certinfo",
+    "cfssl-newkey",
+    "cfssl-scan",
+    "cfssljson",
+    "example",
+    "maclient",
+    "maserver",
+    "mkbundle",
+    "multirootca"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/cfssl/archive/ed8df49712657524e8647cb7a9576422baa2faa1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed8df49-250226T114659",
+  "version_upstream": "",
+  "bsum": "fe610c29d475461248209fd0e143f238f4d61a1fba45b8c855555d1b270b78c3",
+  "build_date": "2025-06-19T19:10:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764328349",
+  "build_id": "15764328349",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/cfssl?tag=HEAD-ed8df49-250226T114659-x86_64-Linux&download=cfssl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9057",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/cfssl?tag=HEAD-ed8df49-250226T114659-x86_64-Linux&download=cfssl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/cfssl/cfssl:HEAD-ed8df49-250226T114659-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/cfssl/cfssl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cfssl/cfssl?tag=HEAD-ed8df49-250226T114659-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e05f53212368d57157dcf2af2d0f68c99c77435a1087fe87c8ece95026c4cbf7",
+  "size": "16 MB",
+  "size_raw": "16427664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
