@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "echo",
+  "pkg_family": "yggdrasil",
+  "pkg_id": "echo#github.com_RedHatInsights_yggdrasil",
+  "pkg_name": "echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/RedHatInsights/yggdrasil",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/RedHatInsights/yggdrasil"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "echo",
+    "yggctl",
+    "yggd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/RedHatInsights/yggdrasil/archive/63cb050f649faa9d32b2f1c0fbf3a5934ed7b96d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-63cb050-250618T205945",
+  "version_upstream": "",
+  "bsum": "e53a9d68801c963d2aaf5846cc07efaa3eb801e9fa27d5ced9feb96c61ed1b46",
+  "build_date": "2025-06-19T16:16:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761496711",
+  "build_id": "15761496711",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/yggdrasil/echo?tag=HEAD-63cb050-250618T205945-aarch64-Linux&download=echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/yggdrasil/echo?tag=HEAD-63cb050-250618T205945-aarch64-Linux&download=echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redhatinsights/yggdrasil/echo:HEAD-63cb050-250618T205945-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redhatinsights/yggdrasil/echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/yggdrasil/echo?tag=HEAD-63cb050-250618T205945-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5a452ffd3e3b72af37c671eb85d419c04d8a0daf1f44b8f22d97b28ee3a38b2",
+  "size": "4.6 MB",
+  "size_raw": "4762240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
