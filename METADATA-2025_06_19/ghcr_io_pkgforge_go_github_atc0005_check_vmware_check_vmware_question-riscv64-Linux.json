@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check_vmware_question",
+  "pkg_family": "check-vmware",
+  "pkg_id": "check_vmware_question#github.com_atc0005_check_vmware",
+  "pkg_name": "check_vmware_question",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/atc0005/check-vmware",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go-based tooling to monitor VMware environments_ NOT affiliated with or endorsed by VMware, Inc.",
+  "homepage": [
+    "https://github.com/atc0005/check-vmware"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_vmware_alarms",
+    "check_vmware_datastore_performance",
+    "check_vmware_datastore_space",
+    "check_vmware_disk_consolidation",
+    "check_vmware_host_cpu",
+    "check_vmware_host_memory",
+    "check_vmware_hs2ds2vms",
+    "check_vmware_question",
+    "check_vmware_rps_memory",
+    "check_vmware_snapshots_age",
+    "check_vmware_snapshots_count",
+    "check_vmware_snapshots_size",
+    "check_vmware_tools",
+    "check_vmware_vcpus",
+    "check_vmware_vhw",
+    "check_vmware_vm_backup_via_ca",
+    "check_vmware_vm_list",
+    "check_vmware_vm_power_uptime"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/atc0005/check-vmware/archive/66fab1e5d106b153b41431a0d9780cc7864808e7.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "metrics",
+    "monitoring",
+    "nagios",
+    "nagios-plugin",
+    "plugin",
+    "tools",
+    "vmware"
+  ],
+  "version": "HEAD-66fab1e-250603T061034",
+  "version_upstream": "",
+  "bsum": "0833f20fb256ed60ebc6a20582650af9fd87a8623b180e06418c9ba9fef7b1cf",
+  "build_date": "2025-06-19T13:09:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758240216",
+  "build_id": "15758240216",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/check-vmware/check_vmware_question?tag=HEAD-66fab1e-250603T061034-riscv64-Linux&download=check_vmware_question.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/check-vmware/check_vmware_question?tag=HEAD-66fab1e-250603T061034-riscv64-Linux&download=check_vmware_question",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/atc0005/check-vmware/check_vmware_question:HEAD-66fab1e-250603T061034-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/atc0005/check-vmware/check_vmware_question",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/atc0005/check-vmware/check_vmware_question?tag=HEAD-66fab1e-250603T061034-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9a6bb9cbd24a53abeded4099d23574de10da68094a026c7a42800b4b828a00f",
+  "size": "16 MB",
+  "size_raw": "16192440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
