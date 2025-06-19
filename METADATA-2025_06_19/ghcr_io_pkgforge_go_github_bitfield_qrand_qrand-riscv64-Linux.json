@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "qrand",
+  "pkg_family": "qrand",
+  "pkg_id": "qrand#github.com_bitfield_qrand",
+  "pkg_name": "qrand",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bitfield/qrand",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quantum randomness source using the ANU hardware QRNG",
+  "homepage": [
+    "https://github.com/bitfield/qrand"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "numbers",
+    "password",
+    "qrand"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bitfield/qrand/archive/683c42648d34d3fa403db53f4455bb63aa653ddc.tar.gz"
+  ],
+  "tag": [
+    "quantum-mechanics",
+    "random-number-generators"
+  ],
+  "version": "HEAD-683c426-240208T110342",
+  "version_upstream": "",
+  "bsum": "450716acd71bc4de10d7129ee2285a79ee60b31809d2760319886c3560f42508",
+  "build_date": "2025-06-19T14:12:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759320143",
+  "build_id": "15759320143",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitfield/qrand/qrand?tag=HEAD-683c426-240208T110342-riscv64-Linux&download=qrand.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitfield/qrand/qrand?tag=HEAD-683c426-240208T110342-riscv64-Linux&download=qrand",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bitfield/qrand/qrand:HEAD-683c426-240208T110342-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bitfield/qrand/qrand",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitfield/qrand/qrand?tag=HEAD-683c426-240208T110342-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f250cdd86fbb8c92e879ad08d90b40a2303b452f1ae43afb7881ee6c3aed084",
+  "size": "5.9 MB",
+  "size_raw": "6083000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
