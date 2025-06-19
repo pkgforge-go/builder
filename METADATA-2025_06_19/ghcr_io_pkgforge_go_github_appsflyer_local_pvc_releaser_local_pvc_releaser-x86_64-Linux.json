@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "local-pvc-releaser",
+  "pkg_family": "local-pvc-releaser",
+  "pkg_id": "local-pvc-releaser#github.com_AppsFlyer_local_pvc_releaser",
+  "pkg_name": "local-pvc-releaser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AppsFlyer/local-pvc-releaser",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes controller designed to oversee Persistent Volume Claims _PVCs_ associated with local storage on worker nodes. Its purpose is to enhance resilience and facilitate automatic recovery in the event of node termination.",
+  "homepage": [
+    "https://github.com/AppsFlyer/local-pvc-releaser"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "local-pvc-releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AppsFlyer/local-pvc-releaser/archive/00d0c899f6130eb2cb6c1fad817d9797ab873e01.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-00d0c89-250619T171734",
+  "version_upstream": "",
+  "bsum": "0ca7127c39a0f39fe2ad0467802f60b6c21f6cccdb1eb928235fb74488903fc8",
+  "build_date": "2025-06-19T15:30:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761412450",
+  "build_id": "15761412450",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appsflyer/local-pvc-releaser/local-pvc-releaser?tag=HEAD-00d0c89-250619T171734-x86_64-Linux&download=local-pvc-releaser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appsflyer/local-pvc-releaser/local-pvc-releaser?tag=HEAD-00d0c89-250619T171734-x86_64-Linux&download=local-pvc-releaser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/appsflyer/local-pvc-releaser/local-pvc-releaser:HEAD-00d0c89-250619T171734-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/appsflyer/local-pvc-releaser/local-pvc-releaser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appsflyer/local-pvc-releaser/local-pvc-releaser?tag=HEAD-00d0c89-250619T171734-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "acef467151f24534620ef0d1178a020ce3af69b758832c83c3a570aef4b4720d",
+  "size": "42 MB",
+  "size_raw": "43898240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
