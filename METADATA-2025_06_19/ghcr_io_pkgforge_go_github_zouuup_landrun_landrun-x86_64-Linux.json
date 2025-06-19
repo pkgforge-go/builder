@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "landrun",
+  "pkg_family": "landrun",
+  "pkg_id": "landrun#github.com_Zouuup_landrun",
+  "pkg_name": "landrun",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Zouuup/landrun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.",
+  "homepage": [
+    "https://github.com/Zouuup/landrun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "landrun"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Zouuup/landrun/archive/8fb7bf3bb5749abc3f2bd2adab9ea584af98a683.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "golang",
+    "kernel",
+    "landlock",
+    "sandbox",
+    "sandbox-environment",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-8fb7bf3-250407T141246",
+  "version_upstream": "",
+  "bsum": "2015442412ff87b7012fe037b6d3b8fdea2ebbfd42b1a17260e0fdc3a71fea39",
+  "build_date": "2025-06-19T11:49:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756566521",
+  "build_id": "15756566521",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zouuup/landrun/landrun?tag=HEAD-8fb7bf3-250407T141246-x86_64-Linux&download=landrun.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1799",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zouuup/landrun/landrun?tag=HEAD-8fb7bf3-250407T141246-x86_64-Linux&download=landrun",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zouuup/landrun/landrun:HEAD-8fb7bf3-250407T141246-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zouuup/landrun/landrun",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zouuup/landrun/landrun?tag=HEAD-8fb7bf3-250407T141246-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "51f46c5e2980ed65013c23295d78d172ebefc7dc1da25984023a2e131cac0ee5",
+  "size": "4.5 MB",
+  "size_raw": "4615432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
