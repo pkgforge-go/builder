@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "cometbft",
+  "pkg_id": "generator#github.com_cometbft_cometbft",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cometbft/cometbft",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.",
+  "homepage": [
+    "https://github.com/cometbft/cometbft"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abci-cli",
+    "abci-v2-forum-app",
+    "cmd",
+    "cometbft",
+    "contract_tests",
+    "generator",
+    "json2wal",
+    "load",
+    "metricsdiff",
+    "metricsgen",
+    "node",
+    "parallel",
+    "priv_val_server",
+    "report",
+    "runner",
+    "simple",
+    "test",
+    "wal2json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cometbft/cometbft/archive/e1a860489ecc91290453487e08863a037f828c6d.tar.gz"
+  ],
+  "tag": [
+    "bft",
+    "blockchain",
+    "cosmos",
+    "database",
+    "distributed-systems",
+    "go",
+    "tendermint-consensus"
+  ],
+  "version": "HEAD-e1a8604-250617T215526",
+  "version_upstream": "",
+  "bsum": "94dc9aa713fbe9a5d86089f49f9f36d98c9df99591b80cdc5062210983249822",
+  "build_date": "2025-06-19T19:51:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15764419516",
+  "build_id": "15764419516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/generator?tag=HEAD-e1a8604-250617T215526-riscv64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "754",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/generator?tag=HEAD-e1a8604-250617T215526-riscv64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cometbft/cometbft/generator:HEAD-e1a8604-250617T215526-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cometbft/cometbft/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cometbft/cometbft/generator?tag=HEAD-e1a8604-250617T215526-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c47519852ab91ccfdd261a7a44bbbacdeb85d511c209977dbe91214eebb4490c",
+  "size": "28 MB",
+  "size_raw": "29293880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
