@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "autocomplete",
+  "pkg_family": "discordgo",
+  "pkg_id": "autocomplete#github.com_bwmarrin_discordgo",
+  "pkg_name": "autocomplete",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bwmarrin/discordgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_Golang_ Go bindings for Discord",
+  "homepage": [
+    "https://github.com/bwmarrin/discordgo"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "airhorn",
+    "auto_moderation",
+    "autocomplete",
+    "avatar",
+    "components",
+    "context_menus",
+    "dm_pingpong",
+    "echo",
+    "eventhandlers",
+    "modals",
+    "pingpong",
+    "scheduled_events",
+    "slash_commands",
+    "stage_instance",
+    "threads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bwmarrin/discordgo/archive/6e8fa27c7917ea54d8b9ec26f126becae59058d2.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordgo",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-6e8fa27-250524T141924",
+  "version_upstream": "v0.29.0",
+  "bsum": "1a8c21cdce8e32421fe014dd8b24bd79e52b873f28504c2d4b1b92c5cadd8980",
+  "build_date": "2025-06-19T15:13:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760352792",
+  "build_id": "15760352792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/autocomplete?tag=HEAD-6e8fa27-250524T141924-riscv64-Linux&download=autocomplete.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5429",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/autocomplete?tag=HEAD-6e8fa27-250524T141924-riscv64-Linux&download=autocomplete",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bwmarrin/discordgo/autocomplete:HEAD-6e8fa27-250524T141924-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bwmarrin/discordgo/autocomplete",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/autocomplete?tag=HEAD-6e8fa27-250524T141924-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0dc23df9692cf87b5d4480c3bafe4a57d5c343a7bad260f4bba2ae85de00981",
+  "size": "7.1 MB",
+  "size_raw": "7397080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
