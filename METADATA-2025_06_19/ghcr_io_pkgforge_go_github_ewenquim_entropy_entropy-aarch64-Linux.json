@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "entropy",
+  "pkg_family": "entropy",
+  "pkg_id": "entropy#github.com_EwenQuim_entropy",
+  "pkg_name": "entropy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EwenQuim/entropy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.",
+  "homepage": [
+    "https://github.com/EwenQuim/entropy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "entropy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EwenQuim/entropy/archive/aa854363a87fb9e4902d74407e6155c3135833c9.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "entropy",
+    "go",
+    "secrets-detection"
+  ],
+  "version": "HEAD-aa85436-250321T102105",
+  "version_upstream": "",
+  "bsum": "1226e27af8afa744dcaa7a347d4fb3c471cd88d42b02632f89355dceb35a7fd6",
+  "build_date": "2025-06-19T09:13:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753559869",
+  "build_id": "15753559869",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ewenquim/entropy/entropy?tag=HEAD-aa85436-250321T102105-aarch64-Linux&download=entropy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "708",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ewenquim/entropy/entropy?tag=HEAD-aa85436-250321T102105-aarch64-Linux&download=entropy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ewenquim/entropy/entropy:HEAD-aa85436-250321T102105-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ewenquim/entropy/entropy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ewenquim/entropy/entropy?tag=HEAD-aa85436-250321T102105-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2b878f74fb9880cdb8fa634d39ef82111358f91571e5ac5c7eaf278cb51f6d58",
+  "size": "2.1 MB",
+  "size_raw": "2193048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
