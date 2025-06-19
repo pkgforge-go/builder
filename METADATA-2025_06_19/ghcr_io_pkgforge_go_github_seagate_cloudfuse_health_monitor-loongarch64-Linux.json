@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "health-monitor",
+  "pkg_family": "cloudfuse",
+  "pkg_id": "health-monitor#github.com_Seagate_cloudfuse",
+  "pkg_name": "health-monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Seagate/cloudfuse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloudfuse is a FUSE filesystem for S3 and Azure storage",
+  "homepage": [
+    "https://github.com/Seagate/cloudfuse"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "health-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Seagate/cloudfuse/archive/a2b032fbd73b3cacaa1c2c3b89cc8dab392edbaf.tar.gz"
+  ],
+  "tag": [
+    "azure-storage",
+    "cloud",
+    "filesystem",
+    "fuse",
+    "go",
+    "s3"
+  ],
+  "version": "HEAD-a2b032f-250618T142617",
+  "version_upstream": "",
+  "bsum": "e45fd6fdea1cc1612fe07a69ba799e619423e7e68f92c034ce73a5eb3a2f832b",
+  "build_date": "2025-06-19T10:53:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755655712",
+  "build_id": "15755655712",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seagate/cloudfuse/health-monitor?tag=HEAD-a2b032f-250618T142617-loongarch64-Linux&download=health-monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seagate/cloudfuse/health-monitor?tag=HEAD-a2b032f-250618T142617-loongarch64-Linux&download=health-monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seagate/cloudfuse/health-monitor:HEAD-a2b032f-250618T142617-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/seagate/cloudfuse/health-monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seagate/cloudfuse/health-monitor?tag=HEAD-a2b032f-250618T142617-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "776946ca93c1ca4cf19c778925eca7e6f9c906049ae00fd561154aa88e861b3f",
+  "size": "4.4 MB",
+  "size_raw": "4528064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
