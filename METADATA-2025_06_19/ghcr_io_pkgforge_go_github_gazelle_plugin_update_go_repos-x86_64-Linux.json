@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "update_go_repos",
+  "pkg_family": "swift_gazelle_plugin",
+  "pkg_id": "update_go_repos#github.com_cgrindel_swift_gazelle_plugin",
+  "pkg_name": "update_go_repos",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cgrindel/swift_gazelle_plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gazelle plugin for Swift files.",
+  "homepage": [
+    "https://github.com/cgrindel/swift_gazelle_plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate_ci_workflow",
+    "update_go_repos"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cgrindel/swift_gazelle_plugin/archive/6b90a4e11f2bdbe4a8123f3c04c4dda6e9e23961.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6b90a4e-250619T135104",
+  "version_upstream": "",
+  "bsum": "9684c0fc7b512e9d51b351441559568dc74f3c06628c0df933f04012797edc64",
+  "build_date": "2025-06-19T18:02:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763244420",
+  "build_id": "15763244420",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gazelle/plugin/update_go_repos?tag=HEAD-6b90a4e-250619T135104-x86_64-Linux&download=update_go_repos.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gazelle/plugin/update_go_repos?tag=HEAD-6b90a4e-250619T135104-x86_64-Linux&download=update_go_repos",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gazelle/plugin/update_go_repos:HEAD-6b90a4e-250619T135104-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gazelle/plugin/update_go_repos",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gazelle/plugin/update_go_repos?tag=HEAD-6b90a4e-250619T135104-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0efdd33b6d41bc17a479d16f9c172ad2f749c0fe7bb9a73ac240f1b0d94e631",
+  "size": "2.8 MB",
+  "size_raw": "2899032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
