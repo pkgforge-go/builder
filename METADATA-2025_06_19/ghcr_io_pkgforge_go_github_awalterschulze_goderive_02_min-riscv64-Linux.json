@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "02_min",
+  "pkg_family": "goderive",
+  "pkg_id": "02_min#github.com_awalterschulze_goderive",
+  "pkg_name": "02_min",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/awalterschulze/goderive",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Derives and generates mundane golang functions that you do not want to maintain yourself",
+  "homepage": [
+    "https://github.com/awalterschulze/goderive"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01_min",
+    "02_min",
+    "03_sort",
+    "04_range",
+    "05_prefix",
+    "06_mem",
+    "07_fib",
+    "08_hash",
+    "09_autoname",
+    "10_dup",
+    "goderive",
+    "goderive-genreadme"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/awalterschulze/goderive/archive/1a5a06541a5f076c8d5da671acf618d4ad6e4149.tar.gz"
+  ],
+  "tag": [
+    "deriving",
+    "functional-programming",
+    "generator",
+    "generics",
+    "golang"
+  ],
+  "version": "HEAD-1a5a065-250306T095542",
+  "version_upstream": "",
+  "bsum": "4c0584603e3c7fcc7b389fe313ff584d74451a82a917e59f0d1bf7c2d3f10ebc",
+  "build_date": "2025-06-19T13:17:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15758277792",
+  "build_id": "15758277792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awalterschulze/goderive/02_min?tag=HEAD-1a5a065-250306T095542-riscv64-Linux&download=02_min.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1260",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awalterschulze/goderive/02_min?tag=HEAD-1a5a065-250306T095542-riscv64-Linux&download=02_min",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/awalterschulze/goderive/02_min:HEAD-1a5a065-250306T095542-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/awalterschulze/goderive/02_min",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awalterschulze/goderive/02_min?tag=HEAD-1a5a065-250306T095542-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4ae04d962b39984c3762b865c8b8d74cf01b7d6687a1fd8c9e8fc293848ecba",
+  "size": "1.6 MB",
+  "size_raw": "1579624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
