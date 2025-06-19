@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rv2llvm",
+  "pkg_family": "rv2llvm",
+  "pkg_id": "rv2llvm#github.com_d901203_rv2llvm",
+  "pkg_name": "rv2llvm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/d901203/rv2llvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static Binary Translator RISC-V to LLVM IR",
+  "homepage": [
+    "https://github.com/d901203/rv2llvm"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rv2llvm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/d901203/rv2llvm/archive/6267f8f4a49c80dd05091988135e7393278373fd.tar.gz"
+  ],
+  "tag": [
+    "binary-translation",
+    "elf",
+    "go",
+    "golang",
+    "llvm",
+    "llvm-ir",
+    "risc-v",
+    "riscv"
+  ],
+  "version": "HEAD-6267f8f-230509T142727",
+  "version_upstream": "",
+  "bsum": "e8aad693724b24796e756b2883f0249ec731d5adb4c16059a28ee2a7f2e9f4d8",
+  "build_date": "2025-06-19T20:40:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765466850",
+  "build_id": "15765466850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d901203/rv2llvm/rv2llvm?tag=HEAD-6267f8f-230509T142727-loongarch64-Linux&download=rv2llvm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d901203/rv2llvm/rv2llvm?tag=HEAD-6267f8f-230509T142727-loongarch64-Linux&download=rv2llvm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/d901203/rv2llvm/rv2llvm:HEAD-6267f8f-230509T142727-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/d901203/rv2llvm/rv2llvm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/d901203/rv2llvm/rv2llvm?tag=HEAD-6267f8f-230509T142727-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7539f8ab4b53885a03acf318fdfd50aef43b7f0eee1bf01324e728cfbfe63dba",
+  "size": "5.3 MB",
+  "size_raw": "5525608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
