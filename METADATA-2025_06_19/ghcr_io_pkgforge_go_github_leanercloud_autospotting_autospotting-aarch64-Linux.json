@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "autospotting",
+  "pkg_family": "AutoSpotting",
+  "pkg_id": "autospotting#github.com_LeanerCloud_AutoSpotting",
+  "pkg_name": "autospotting",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/LeanerCloud/AutoSpotting",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.",
+  "homepage": [
+    "https://github.com/LeanerCloud/AutoSpotting"
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autospotting"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/LeanerCloud/AutoSpotting/archive/9bc88ee72f9587a2de187cbd333fc06452b4e846.tar.gz"
+  ],
+  "tag": [
+    "amazon-web-services",
+    "automation",
+    "autoscaling",
+    "autoscaling-groups",
+    "aws",
+    "aws-autoscaling",
+    "aws-lambda",
+    "cheaper-spot-instances",
+    "cloudformation",
+    "cost",
+    "ec2",
+    "ec2-instance",
+    "ec2-spot",
+    "go",
+    "golang-application",
+    "infrastructure",
+    "spot-instances",
+    "terraform-module"
+  ],
+  "version": "HEAD-9bc88ee-240418T214846",
+  "version_upstream": "",
+  "bsum": "18c94e271bfada8304da5c530cf3e61c25e7f9ebe592c0d079de3b9ee716cb58",
+  "build_date": "2025-06-19T09:59:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754786222",
+  "build_id": "15754786222",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leanercloud/autospotting/autospotting?tag=HEAD-9bc88ee-240418T214846-aarch64-Linux&download=autospotting.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2353",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leanercloud/autospotting/autospotting?tag=HEAD-9bc88ee-240418T214846-aarch64-Linux&download=autospotting",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leanercloud/autospotting/autospotting:HEAD-9bc88ee-240418T214846-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leanercloud/autospotting/autospotting",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leanercloud/autospotting/autospotting?tag=HEAD-9bc88ee-240418T214846-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64d52d74f22ca20aba7ea130d6fad0873f8f85d5673e7fb80057120478244ba4",
+  "size": "32 MB",
+  "size_raw": "33492800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
