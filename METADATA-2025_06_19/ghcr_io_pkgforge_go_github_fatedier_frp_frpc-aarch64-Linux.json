@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "frpc",
+  "pkg_family": "frp",
+  "pkg_id": "frpc#github.com_fatedier_frp",
+  "pkg_name": "frpc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fatedier/frp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+  "homepage": [
+    "https://github.com/fatedier/frp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "frpc",
+    "frps"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fatedier/frp/archive/de690a55c81a222003564a569e6e2d943c859445.tar.gz"
+  ],
+  "tag": [
+    "expose",
+    "firewall",
+    "frp",
+    "go",
+    "http-proxy",
+    "nat",
+    "p2p",
+    "proxy",
+    "reverse-proxy",
+    "tunnel"
+  ],
+  "version": "HEAD-de690a5-250527T164615",
+  "version_upstream": "",
+  "bsum": "27e414259904c5d099a2d4262b6d72a9b4a8f25cd89fd54574e36b6648c9a6b6",
+  "build_date": "2025-06-19T23:36:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767265499",
+  "build_id": "15767265499",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fatedier/frp/frpc?tag=HEAD-de690a5-250527T164615-aarch64-Linux&download=frpc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95209",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fatedier/frp/frpc?tag=HEAD-de690a5-250527T164615-aarch64-Linux&download=frpc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fatedier/frp/frpc:HEAD-de690a5-250527T164615-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fatedier/frp/frpc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fatedier/frp/frpc?tag=HEAD-de690a5-250527T164615-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19c52f1b32d820388fbbcb6c5e6bd71856d4c8e17081eb6fef50135d6eb82cda",
+  "size": "16 MB",
+  "size_raw": "16187296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
