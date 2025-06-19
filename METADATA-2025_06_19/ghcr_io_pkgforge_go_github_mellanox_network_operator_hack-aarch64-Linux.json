@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "network-operator",
+  "pkg_id": "hack#github.com_Mellanox_network_operator",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mellanox/network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NVIDIA Network Operator",
+  "homepage": [
+    "https://github.com/Mellanox/network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-crds",
+    "hack",
+    "keep-ncp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mellanox/network-operator/archive/9974270ec3c2bfe8bc4424f934436f7528e8c88b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9974270-250619T162908",
+  "version_upstream": "",
+  "bsum": "66dd7b5f9fdd1c0e79f86886ea31e1901c4839b248a5745dae52f8f5dae47081",
+  "build_date": "2025-06-19T16:00:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761439355",
+  "build_id": "15761439355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/network-operator/hack?tag=HEAD-9974270-250619T162908-aarch64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "257",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/network-operator/hack?tag=HEAD-9974270-250619T162908-aarch64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mellanox/network-operator/hack:HEAD-9974270-250619T162908-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mellanox/network-operator/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/network-operator/hack?tag=HEAD-9974270-250619T162908-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "000d04d36a2ea7740ef276e45c448c7c1d1e21f37a8f027baad8d41594e6cc6d",
+  "size": "18 MB",
+  "size_raw": "17829984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
