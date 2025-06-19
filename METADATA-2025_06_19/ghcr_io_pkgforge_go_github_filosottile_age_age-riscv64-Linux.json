@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "age",
+  "pkg_family": "age",
+  "pkg_id": "age#github.com_FiloSottile_age",
+  "pkg_name": "age",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FiloSottile/age",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple, modern and secure encryption tool _and Go library_ with small explicit keys, no config options, and UNIX-style composability.",
+  "homepage": [
+    "https://github.com/FiloSottile/age"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "age",
+    "age-keygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FiloSottile/age/archive/fce45118eee3ac9e13806dec5511f89aabd5aab1.tar.gz"
+  ],
+  "tag": [
+    "age-encryption",
+    "built-at-rc"
+  ],
+  "version": "HEAD-fce4511-250615T204225",
+  "version_upstream": "",
+  "bsum": "e0cd1677eae39ebdbb6540eb2b3f1a1b815af6a59ac76b4b462962a81325edd8",
+  "build_date": "2025-06-19T09:18:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753570885",
+  "build_id": "15753570885",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/age/age?tag=HEAD-fce4511-250615T204225-riscv64-Linux&download=age.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19076",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/age/age?tag=HEAD-fce4511-250615T204225-riscv64-Linux&download=age",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filosottile/age/age:HEAD-fce4511-250615T204225-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filosottile/age/age",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/age/age?tag=HEAD-fce4511-250615T204225-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c377b12f3ee4fdd0215faa590637ea6a34e1bbada21e6392b75c9fe5ede39078",
+  "size": "4.1 MB",
+  "size_raw": "4200312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
