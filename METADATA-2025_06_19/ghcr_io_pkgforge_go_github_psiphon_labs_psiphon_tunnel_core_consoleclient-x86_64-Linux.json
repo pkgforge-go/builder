@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "consoleclient",
+  "pkg_family": "psiphon-tunnel-core",
+  "pkg_id": "consoleclient#github.com_Psiphon_Labs_psiphon_tunnel_core",
+  "pkg_name": "consoleclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Psiphon-Labs/psiphon-tunnel-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Psiphon is an Internet censorship circumvention system.",
+  "homepage": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientlibrary",
+    "consoleclient",
+    "logging",
+    "paver",
+    "server",
+    "signer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core/archive/8e55c194938d9abd5604bd487ea98d281ab841ec.tar.gz"
+  ],
+  "tag": [
+    "censorship-circumvention",
+    "golang",
+    "psiphon"
+  ],
+  "version": "HEAD-8e55c19-250618T114056",
+  "version_upstream": "",
+  "bsum": "d13407af6e6d7594a61c5d77fbeed2f5cf5ee00235abb609b38e70df63664c03",
+  "build_date": "2025-06-19T10:40:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755055545",
+  "build_id": "15755055545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/consoleclient?tag=HEAD-8e55c19-250618T114056-x86_64-Linux&download=consoleclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "946",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/consoleclient?tag=HEAD-8e55c19-250618T114056-x86_64-Linux&download=consoleclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/consoleclient:HEAD-8e55c19-250618T114056-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/consoleclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/consoleclient?tag=HEAD-8e55c19-250618T114056-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99d20c249dd5437e9cd5cad47278f26b57bf3b7fe545439f39d47ca6b6ac9b76",
+  "size": "18 MB",
+  "size_raw": "18481216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

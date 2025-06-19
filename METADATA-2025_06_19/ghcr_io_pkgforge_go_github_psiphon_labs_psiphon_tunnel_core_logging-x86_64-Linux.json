@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "logging",
+  "pkg_family": "psiphon-tunnel-core",
+  "pkg_id": "logging#github.com_Psiphon_Labs_psiphon_tunnel_core",
+  "pkg_name": "logging",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Psiphon-Labs/psiphon-tunnel-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Psiphon is an Internet censorship circumvention system.",
+  "homepage": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientlibrary",
+    "consoleclient",
+    "logging",
+    "paver",
+    "server",
+    "signer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Psiphon-Labs/psiphon-tunnel-core/archive/8e55c194938d9abd5604bd487ea98d281ab841ec.tar.gz"
+  ],
+  "tag": [
+    "censorship-circumvention",
+    "golang",
+    "psiphon"
+  ],
+  "version": "HEAD-8e55c19-250618T114056",
+  "version_upstream": "",
+  "bsum": "9afbd91cef8efd824abb5c4f24c68b4305060a708b3c6613d0be6256e66f9a1e",
+  "build_date": "2025-06-19T10:40:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15755055545",
+  "build_id": "15755055545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/logging?tag=HEAD-8e55c19-250618T114056-x86_64-Linux&download=logging.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "946",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/logging?tag=HEAD-8e55c19-250618T114056-x86_64-Linux&download=logging",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/logging:HEAD-8e55c19-250618T114056-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/logging",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psiphon-labs/psiphon-tunnel-core/logging?tag=HEAD-8e55c19-250618T114056-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98015758cd908a9ad8f596a1385d3adcc3632176ce0805c8387a7d779da87b72",
+  "size": "2.6 MB",
+  "size_raw": "2626168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
