@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "bitmagnet",
+  "pkg_id": "gen#github.com_bitmagnet_io_bitmagnet",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bitmagnet-io/bitmagnet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
+  "homepage": [
+    "https://github.com/bitmagnet-io/bitmagnet"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitmagnet",
+    "dev",
+    "gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bitmagnet-io/bitmagnet/archive/f4e4600d516a5d013b1a3c9b88ef0c4036228843.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "dht",
+    "prowlarr",
+    "radarr",
+    "selfhosted",
+    "servarr",
+    "sonarr",
+    "torrent",
+    "torrents",
+    "torznab"
+  ],
+  "version": "HEAD-f4e4600-250618T080614",
+  "version_upstream": "",
+  "bsum": "cfae36fa61142775741d1e76235b5247c2cd33b747ca276026946eb8ef3bb082",
+  "build_date": "2025-06-19T14:15:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759338582",
+  "build_id": "15759338582",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitmagnet-io/bitmagnet/gen?tag=HEAD-f4e4600-250618T080614-riscv64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3129",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitmagnet-io/bitmagnet/gen?tag=HEAD-f4e4600-250618T080614-riscv64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bitmagnet-io/bitmagnet/gen:HEAD-f4e4600-250618T080614-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bitmagnet-io/bitmagnet/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitmagnet-io/bitmagnet/gen?tag=HEAD-f4e4600-250618T080614-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72b82aec649f9c5e38dfec20c0d5a68a1d575b6f8289023628841d7b1834d963",
+  "size": "8.9 MB",
+  "size_raw": "9246456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
