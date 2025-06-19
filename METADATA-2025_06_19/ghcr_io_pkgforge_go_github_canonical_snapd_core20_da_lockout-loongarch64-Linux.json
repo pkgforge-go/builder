@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "core20-da-lockout",
+  "pkg_family": "snapd",
+  "pkg_id": "core20-da-lockout#github.com_canonical_snapd",
+  "pkg_name": "core20-da-lockout",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/snapd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The snapd and snap tools enable systems to work with .snap files.",
+  "homepage": [
+    "https://github.com/canonical/snapd"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chrorder",
+    "core20-da-lockout",
+    "snap-seccomp-syscalls",
+    "snapd-docs",
+    "test-snapd-go-webserver",
+    "xgettext-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/snapd/archive/bee550c807adeb30d48e5870f2db8243bdf7c1e0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bee550c-250619T152729",
+  "version_upstream": "",
+  "bsum": "3fd06e0382858ebbe5ece87340a6ee9c02757bf01fcb2169baa442be83c83e1e",
+  "build_date": "2025-06-19T17:37:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762602917",
+  "build_id": "15762602917",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/core20-da-lockout?tag=HEAD-bee550c-250619T152729-loongarch64-Linux&download=core20-da-lockout.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1959",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/core20-da-lockout?tag=HEAD-bee550c-250619T152729-loongarch64-Linux&download=core20-da-lockout",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/snapd/core20-da-lockout:HEAD-bee550c-250619T152729-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/snapd/core20-da-lockout",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/core20-da-lockout?tag=HEAD-bee550c-250619T152729-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e80256fc1d2b8e4ed16a2bf559f680327a0f406fbae5633197bb947bc8833a98",
+  "size": "2.8 MB",
+  "size_raw": "2867744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

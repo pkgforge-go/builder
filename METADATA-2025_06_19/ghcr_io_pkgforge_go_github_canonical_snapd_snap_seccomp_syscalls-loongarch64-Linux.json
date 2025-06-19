@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "snap-seccomp-syscalls",
+  "pkg_family": "snapd",
+  "pkg_id": "snap-seccomp-syscalls#github.com_canonical_snapd",
+  "pkg_name": "snap-seccomp-syscalls",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/snapd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The snapd and snap tools enable systems to work with .snap files.",
+  "homepage": [
+    "https://github.com/canonical/snapd"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chrorder",
+    "core20-da-lockout",
+    "snap-seccomp-syscalls",
+    "snapd-docs",
+    "test-snapd-go-webserver",
+    "xgettext-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/snapd/archive/bee550c807adeb30d48e5870f2db8243bdf7c1e0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bee550c-250619T152729",
+  "version_upstream": "",
+  "bsum": "63e9099b948fde50ff13f6daf9cd8c9426e9812cf7fa08f3bd5796bddf617f7c",
+  "build_date": "2025-06-19T17:37:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762602917",
+  "build_id": "15762602917",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-seccomp-syscalls?tag=HEAD-bee550c-250619T152729-loongarch64-Linux&download=snap-seccomp-syscalls.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1959",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-seccomp-syscalls?tag=HEAD-bee550c-250619T152729-loongarch64-Linux&download=snap-seccomp-syscalls",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/snapd/snap-seccomp-syscalls:HEAD-bee550c-250619T152729-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/snapd/snap-seccomp-syscalls",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-seccomp-syscalls?tag=HEAD-bee550c-250619T152729-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fb4ef1932a8482ffa1a040e041a7fa00d29bd36d083789f5579fffe08fd3716",
+  "size": "1.6 MB",
+  "size_raw": "1667912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
