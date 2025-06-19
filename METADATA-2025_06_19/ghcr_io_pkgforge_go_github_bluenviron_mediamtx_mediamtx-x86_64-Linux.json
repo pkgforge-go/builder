@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mediamtx",
+  "pkg_family": "mediamtx",
+  "pkg_id": "mediamtx#github.com_bluenviron_mediamtx",
+  "pkg_name": "mediamtx",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bluenviron/mediamtx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+  "homepage": [
+    "https://github.com/bluenviron/mediamtx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hlsjsdownloader",
+    "mediamtx",
+    "mtxrpicamdownloader",
+    "test_on_demand",
+    "versiongetter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bluenviron/mediamtx/archive/22413167855308ad8a372edcddab5fe4f8ea9010.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "hls",
+    "media-server",
+    "obs-studio",
+    "rtcp",
+    "rtmp",
+    "rtmp-proxy",
+    "rtmp-server",
+    "rtp",
+    "rtsp",
+    "rtsp-proxy",
+    "rtsp-relay",
+    "rtsp-server",
+    "srt",
+    "streaming",
+    "webrtc",
+    "webrtc-proxy"
+  ],
+  "version": "HEAD-2241316-250617T232504",
+  "version_upstream": "",
+  "bsum": "08a59bbd18a66b66900e76ed5269e6ad2a76e33007ee1e702a3bb0bdfc3b8e1f",
+  "build_date": "2025-06-19T14:29:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759461941",
+  "build_id": "15759461941",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/mediamtx/mediamtx?tag=HEAD-2241316-250617T232504-x86_64-Linux&download=mediamtx.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14787",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/mediamtx/mediamtx?tag=HEAD-2241316-250617T232504-x86_64-Linux&download=mediamtx",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bluenviron/mediamtx/mediamtx:HEAD-2241316-250617T232504-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bluenviron/mediamtx/mediamtx",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/mediamtx/mediamtx?tag=HEAD-2241316-250617T232504-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7824e08a30a3ca49fb4159fe61ea134375576947eab7c897a542b5f226a5977a",
+  "size": "25 MB",
+  "size_raw": "25603584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
