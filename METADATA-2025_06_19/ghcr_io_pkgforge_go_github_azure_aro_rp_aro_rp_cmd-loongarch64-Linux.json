@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aro-rp-cmd",
+  "pkg_family": "ARO-RP",
+  "pkg_id": "aro-rp-cmd#github.com_Azure_ARO_RP",
+  "pkg_name": "aro-rp-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/ARO-RP",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Red Hat OpenShift RP",
+  "homepage": [
+    "https://github.com/Azure/ARO-RP"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aead",
+    "aro-rp-cmd",
+    "clean",
+    "cluster",
+    "db",
+    "fakecluster",
+    "gendeploy",
+    "gendevconfig",
+    "gendiscoverycache",
+    "genhiveconfig",
+    "genkey",
+    "licenses",
+    "monitor",
+    "portalauth",
+    "proxy",
+    "role",
+    "swagger",
+    "tunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/ARO-RP/archive/8c770b72f86751bd3b5322792745f606db2be604.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c770b7-250618T184628",
+  "version_upstream": "",
+  "bsum": "f6de859f6a4ebe9e6da98a8233982b0b1dd44b160331f7dac3fcf36df5d750b8",
+  "build_date": "2025-06-19T08:17:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752529830",
+  "build_id": "15752529830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/aro-rp-cmd?tag=HEAD-8c770b7-250618T184628-loongarch64-Linux&download=aro-rp-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/aro-rp-cmd?tag=HEAD-8c770b7-250618T184628-loongarch64-Linux&download=aro-rp-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/aro-rp/aro-rp-cmd:HEAD-8c770b7-250618T184628-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/aro-rp/aro-rp-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aro-rp/aro-rp-cmd?tag=HEAD-8c770b7-250618T184628-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4884565641eba6cdbffc2aabea081f798c708f2c3dceb2a1555523d75c641759",
+  "size": "36 MB",
+  "size_raw": "37125536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
