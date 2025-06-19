@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ssh-to-age",
+  "pkg_family": "ssh-to-age",
+  "pkg_id": "ssh-to-age#github.com_Mic92_ssh_to_age",
+  "pkg_name": "ssh-to-age",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mic92/ssh-to-age",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops",
+  "homepage": [
+    "https://github.com/Mic92/ssh-to-age"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ssh-to-age"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mic92/ssh-to-age/archive/fac62c4e5136d39a5d2a956747be7984f66ada3c.tar.gz"
+  ],
+  "tag": [
+    "build-with-buildbot",
+    "managed-by-renovate"
+  ],
+  "version": "HEAD-fac62c4-250616T001132",
+  "version_upstream": "",
+  "bsum": "50a4aefe5306552934ea0d636ca9697341a33a24bc94ce70458c9c85b826ae00",
+  "build_date": "2025-06-19T10:10:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754896396",
+  "build_id": "15754896396",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mic92/ssh-to-age/ssh-to-age?tag=HEAD-fac62c4-250616T001132-aarch64-Linux&download=ssh-to-age.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "147",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mic92/ssh-to-age/ssh-to-age?tag=HEAD-fac62c4-250616T001132-aarch64-Linux&download=ssh-to-age",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mic92/ssh-to-age/ssh-to-age:HEAD-fac62c4-250616T001132-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mic92/ssh-to-age/ssh-to-age",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mic92/ssh-to-age/ssh-to-age?tag=HEAD-fac62c4-250616T001132-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "279c852bc93dc52c232059039af6ff83f8259940dcb7f5a2d25a2bb9a5d0307d",
+  "size": "3.2 MB",
+  "size_raw": "3280192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
