@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "watcher",
+  "pkg_family": "dnote",
+  "pkg_id": "watcher#github.com_dnote_dnote",
+  "pkg_name": "watcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dnote/dnote",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple command line notebook for programmers",
+  "homepage": [
+    "https://github.com/dnote/dnote"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "migrate",
+    "server",
+    "templates",
+    "watcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dnote/dnote/archive/895dcaa59f1c649f0a5d5703e08ae6a96304d03d.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "command-line-tool",
+    "developer-tools",
+    "dnote",
+    "notebook",
+    "personal-knowledge-base"
+  ],
+  "version": "HEAD-895dcaa-240630T174311",
+  "version_upstream": "",
+  "bsum": "83227c8f801b2c2952860aa0ac6af931a83cc929ca643e1912c774eb1db8ac84",
+  "build_date": "2025-06-19T21:41:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766588238",
+  "build_id": "15766588238",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnote/dnote/watcher?tag=HEAD-895dcaa-240630T174311-riscv64-Linux&download=watcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2877",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnote/dnote/watcher?tag=HEAD-895dcaa-240630T174311-riscv64-Linux&download=watcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dnote/dnote/watcher:HEAD-895dcaa-240630T174311-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dnote/dnote/watcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnote/dnote/watcher?tag=HEAD-895dcaa-240630T174311-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "60b025032fa91b25d0480780d08cd11b5235e34a56ed74eb268b2f73fa54ab08",
+  "size": "2.3 MB",
+  "size_raw": "2379400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
