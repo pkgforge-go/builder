@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "faucet",
+  "pkg_family": "bsc",
+  "pkg_id": "faucet#github.com_bnb_chain_bsc",
+  "pkg_name": "faucet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bnb-chain/bsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A BNB Smart Chain client based on the go-ethereum fork",
+  "homepage": [
+    "https://github.com/bnb-chain/bsc"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "bootnode",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "extradump",
+    "faucet",
+    "geth",
+    "maliciousvote-submit",
+    "rlpdump",
+    "rlpgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bnb-chain/bsc/archive/7e84843f135986a004f65205b357f4bedc461a30.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "bnb",
+    "ethereum"
+  ],
+  "version": "HEAD-7e84843-250617T165231",
+  "version_upstream": "",
+  "bsum": "3c38959b0fc549e067072b12d76e0a22fca646bed83ae00606bf251952841cca",
+  "build_date": "2025-06-19T17:29:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762429454",
+  "build_id": "15762429454",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/faucet?tag=HEAD-7e84843-250617T165231-aarch64-Linux&download=faucet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3007",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/faucet?tag=HEAD-7e84843-250617T165231-aarch64-Linux&download=faucet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bnb-chain/bsc/faucet:HEAD-7e84843-250617T165231-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bnb-chain/bsc/faucet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bnb-chain/bsc/faucet?tag=HEAD-7e84843-250617T165231-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "901e3ce7236f74beb8799fc1137749daa93ef929e33367fe1f0658cfd3031a05",
+  "size": "34 MB",
+  "size_raw": "34851192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
