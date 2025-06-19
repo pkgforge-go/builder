@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "modals",
+  "pkg_family": "discordgo",
+  "pkg_id": "modals#github.com_bwmarrin_discordgo",
+  "pkg_name": "modals",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bwmarrin/discordgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_Golang_ Go bindings for Discord",
+  "homepage": [
+    "https://github.com/bwmarrin/discordgo"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "airhorn",
+    "auto_moderation",
+    "autocomplete",
+    "avatar",
+    "components",
+    "context_menus",
+    "dm_pingpong",
+    "echo",
+    "eventhandlers",
+    "modals",
+    "pingpong",
+    "scheduled_events",
+    "slash_commands",
+    "stage_instance",
+    "threads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bwmarrin/discordgo/archive/6e8fa27c7917ea54d8b9ec26f126becae59058d2.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordgo",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-6e8fa27-250524T141924",
+  "version_upstream": "v0.29.0",
+  "bsum": "debec2095ed3746b2962998869b274a25933cc36c0f76cdbcd419cd6a2fec3de",
+  "build_date": "2025-06-19T15:13:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760352792",
+  "build_id": "15760352792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/modals?tag=HEAD-6e8fa27-250524T141924-loongarch64-Linux&download=modals.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5429",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/modals?tag=HEAD-6e8fa27-250524T141924-loongarch64-Linux&download=modals",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bwmarrin/discordgo/modals:HEAD-6e8fa27-250524T141924-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bwmarrin/discordgo/modals",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/modals?tag=HEAD-6e8fa27-250524T141924-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf213cd80266d39e4f394cb7d1b9651854e4f282fa5699880e9ab39999f736b1",
+  "size": "7.2 MB",
+  "size_raw": "7544000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
