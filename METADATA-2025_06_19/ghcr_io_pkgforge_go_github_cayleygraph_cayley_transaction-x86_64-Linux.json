@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "transaction",
+  "pkg_family": "cayley",
+  "pkg_id": "transaction#github.com_cayleygraph_cayley",
+  "pkg_name": "transaction",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cayleygraph/cayley",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open-source graph database",
+  "homepage": [
+    "https://github.com/cayleygraph/cayley"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cayley",
+    "cayleyexport",
+    "cayleyimport",
+    "docgen",
+    "download_ui",
+    "hello_bolt",
+    "hello_schema",
+    "hello_world",
+    "transaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cayleygraph/cayley/archive/81dcd7d73e45136bc0d01802a8ba4685d8a533eb.tar.gz"
+  ],
+  "tag": [
+    "cayley",
+    "go",
+    "graph",
+    "graph-database",
+    "linked-data"
+  ],
+  "version": "HEAD-81dcd7d-240706T211042",
+  "version_upstream": "",
+  "bsum": "d77e164047a197ca4ffd441327885d190f4aaa5c71f319a772432ce465c7fea0",
+  "build_date": "2025-06-19T17:51:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15762689767",
+  "build_id": "15762689767",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cayleygraph/cayley/transaction?tag=HEAD-81dcd7d-240706T211042-x86_64-Linux&download=transaction.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14939",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cayleygraph/cayley/transaction?tag=HEAD-81dcd7d-240706T211042-x86_64-Linux&download=transaction",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cayleygraph/cayley/transaction:HEAD-81dcd7d-240706T211042-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cayleygraph/cayley/transaction",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cayleygraph/cayley/transaction?tag=HEAD-81dcd7d-240706T211042-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "288c05a2ef776bc6ea7d0e981e5b7eceeb4884aae67dcbb64d894a3c66f9baa5",
+  "size": "2.5 MB",
+  "size_raw": "2544352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
