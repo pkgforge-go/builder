@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "persistent",
+  "pkg_family": "vc",
+  "pkg_id": "persistent#github.com_dc4eu_vc",
+  "pkg_name": "persistent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dc4eu/vc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "European Wallet",
+  "homepage": [
+    "https://github.com/dc4eu/vc"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "issuer",
+    "mockas",
+    "persistent",
+    "portal",
+    "registry",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dc4eu/vc/archive/a972027a4650cb31694ab2925ed82fef7011d81a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a972027-250619T153120",
+  "version_upstream": "",
+  "bsum": "6c5a8da153632d8e741856137246b4bece18f6e639ae6c2641946e641c5e52d7",
+  "build_date": "2025-06-19T21:05:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765618279",
+  "build_id": "15765618279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-a972027-250619T153120-riscv64-Linux&download=persistent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-a972027-250619T153120-riscv64-Linux&download=persistent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dc4eu/vc/persistent:HEAD-a972027-250619T153120-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dc4eu/vc/persistent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-a972027-250619T153120-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c96132121d40ffa981d22d5f871d91fcf9492ecfb33a8fdf1538bc90a019fbdf",
+  "size": "31 MB",
+  "size_raw": "31913752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
