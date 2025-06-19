@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "map",
+  "pkg_family": "aistore",
+  "pkg_id": "map#github.com_NVIDIA_aistore",
+  "pkg_name": "map",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/aistore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AIStore: scalable storage for AI applications",
+  "homepage": [
+    "https://github.com/NVIDIA/aistore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aisinit",
+    "compare",
+    "frandread",
+    "hrw",
+    "map"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/aistore/archive/e423d65651ee068cda4e063ad9d7072ffbc405ba.tar.gz"
+  ],
+  "tag": [
+    "batch-jobs",
+    "distributed-shuffle",
+    "erasure-coding",
+    "etl-offload",
+    "kubernetes",
+    "linear-scalability",
+    "multiple-backends",
+    "network-of-clusters",
+    "object-storage",
+    "sds",
+    "software-defined"
+  ],
+  "version": "HEAD-e423d65-250618T185547",
+  "version_upstream": "",
+  "bsum": "439a4650e7f8eb0310a5bf543543de8b12e127d5c40c1f9dda862b2b0d824399",
+  "build_date": "2025-06-19T10:22:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15754946310",
+  "build_id": "15754946310",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/map?tag=HEAD-e423d65-250618T185547-riscv64-Linux&download=map.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1531",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/map?tag=HEAD-e423d65-250618T185547-riscv64-Linux&download=map",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/aistore/map:HEAD-e423d65-250618T185547-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/aistore/map",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/map?tag=HEAD-e423d65-250618T185547-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b2e2122a31334f94640e2aa8b6e983c462b8abd742ca8385495e26b47782512",
+  "size": "4.0 MB",
+  "size_raw": "4170936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
