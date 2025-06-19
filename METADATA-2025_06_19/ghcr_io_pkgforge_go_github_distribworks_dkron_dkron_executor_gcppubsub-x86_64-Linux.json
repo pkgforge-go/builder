@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dkron-executor-gcppubsub",
+  "pkg_family": "dkron",
+  "pkg_id": "dkron-executor-gcppubsub#github.com_distribworks_dkron",
+  "pkg_name": "dkron-executor-gcppubsub",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/distribworks/dkron",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dkron - Distributed, fault tolerant job scheduling system https://dkron.io",
+  "homepage": [
+    "https://github.com/distribworks/dkron"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dkron",
+    "dkron-executor-gcppubsub",
+    "dkron-executor-grpc",
+    "dkron-executor-kafka",
+    "dkron-executor-nats",
+    "dkron-executor-rabbitmq",
+    "dkron-processor-files",
+    "dkron-processor-fluent",
+    "dkron-processor-log",
+    "dkron-processor-syslog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/distribworks/dkron/archive/ab27ed970af620d12f418ef888d5e7c5dc0323d7.tar.gz"
+  ],
+  "tag": [
+    "cron",
+    "distributed-systems",
+    "fault-tolerance",
+    "scheduled-jobs"
+  ],
+  "version": "HEAD-ab27ed9-250611T213108",
+  "version_upstream": "",
+  "bsum": "dacd20b10bfc46d6d1164be660f61848c90f23f7c434a4423e004ba7f956e9df",
+  "build_date": "2025-06-19T21:40:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766582377",
+  "build_id": "15766582377",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distribworks/dkron/dkron-executor-gcppubsub?tag=HEAD-ab27ed9-250611T213108-x86_64-Linux&download=dkron-executor-gcppubsub.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4492",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distribworks/dkron/dkron-executor-gcppubsub?tag=HEAD-ab27ed9-250611T213108-x86_64-Linux&download=dkron-executor-gcppubsub",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/distribworks/dkron/dkron-executor-gcppubsub:HEAD-ab27ed9-250611T213108-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/distribworks/dkron/dkron-executor-gcppubsub",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distribworks/dkron/dkron-executor-gcppubsub?tag=HEAD-ab27ed9-250611T213108-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f89a6262ce91ef433aab1a1815d241d5a93335f21739cdb113d87f13ff5833ed",
+  "size": "20 MB",
+  "size_raw": "20475552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
