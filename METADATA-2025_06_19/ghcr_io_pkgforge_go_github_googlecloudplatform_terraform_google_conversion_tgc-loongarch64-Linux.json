@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tgc",
+  "pkg_family": "terraform-google-conversion",
+  "pkg_id": "tgc#github.com_GoogleCloudPlatform_terraform_google_conversion",
+  "pkg_name": "tgc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/terraform-google-conversion",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This is a Golang library which provides functions to map a Terraform configuration for Google Cloud Platform into GCP_s native API inventory format.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/terraform-google-conversion"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tfplan2cai",
+    "tgc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/terraform-google-conversion/archive/20fcc668b56f8afc07a846308aed999f89cbb35f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-20fcc66-250618T170248",
+  "version_upstream": "",
+  "bsum": "b6aa7daa0ce1c0abdd5836852a423b66e82dd647a17312002cf7fb6c11d9c09a",
+  "build_date": "2025-06-19T09:43:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15753750217",
+  "build_id": "15753750217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/terraform-google-conversion/tgc?tag=HEAD-20fcc66-250618T170248-loongarch64-Linux&download=tgc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/terraform-google-conversion/tgc?tag=HEAD-20fcc66-250618T170248-loongarch64-Linux&download=tgc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/terraform-google-conversion/tgc:HEAD-20fcc66-250618T170248-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/terraform-google-conversion/tgc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/terraform-google-conversion/tgc?tag=HEAD-20fcc66-250618T170248-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c101f3255a12171f3fe41b4264e15aa2d6380a8bdef3217fd3633575ce42bc9",
+  "size": "70 MB",
+  "size_raw": "72865216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
