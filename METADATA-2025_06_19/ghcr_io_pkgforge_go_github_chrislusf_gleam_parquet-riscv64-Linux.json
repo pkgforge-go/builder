@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "parquet",
+  "pkg_family": "gleam",
+  "pkg_id": "parquet#github.com_chrislusf_gleam",
+  "pkg_name": "parquet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chrislusf/gleam",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.",
+  "homepage": [
+    "https://github.com/chrislusf/gleam"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cassandra_reader",
+    "csv",
+    "gleam",
+    "goyacc",
+    "join",
+    "kafka_reader",
+    "orc",
+    "parquet",
+    "pi_estimation",
+    "sort_benchmark",
+    "tfidf",
+    "union",
+    "word_count_in_go",
+    "word_count_in_pipeline"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chrislusf/gleam/archive/b15484b8add24d3b2a3a92c315fafa7c72ab468c.tar.gz"
+  ],
+  "tag": [
+    "distributed-computing",
+    "distributed-systems",
+    "golang",
+    "map-reduce"
+  ],
+  "version": "HEAD-b15484b-250420T144704",
+  "version_upstream": "",
+  "bsum": "cf6ef01f984dd4f150d362f2c88d411b0614056b2e92ed230b0cb36195996584",
+  "build_date": "2025-06-19T18:30:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15763613735",
+  "build_id": "15763613735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/parquet?tag=HEAD-b15484b-250420T144704-riscv64-Linux&download=parquet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3523",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/parquet?tag=HEAD-b15484b-250420T144704-riscv64-Linux&download=parquet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chrislusf/gleam/parquet:HEAD-b15484b-250420T144704-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chrislusf/gleam/parquet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrislusf/gleam/parquet?tag=HEAD-b15484b-250420T144704-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf9c29ed033ec4e597bc1807f00a23628eaa8f9769e0b991de2fec5b510bc0fa",
+  "size": "18 MB",
+  "size_raw": "18363000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
