@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "distri-checkupstream",
+  "pkg_family": "distri",
+  "pkg_id": "distri-checkupstream#github.com_distr1_distri",
+  "pkg_name": "distri-checkupstream",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/distr1/distri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a Linux distribution to research fast package management",
+  "homepage": [
+    "https://github.com/distr1/distri"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autobuilder",
+    "distri",
+    "distri-checkupstream",
+    "distri-installer",
+    "distri-repobrowser",
+    "kernel-cfg-diff",
+    "minitrd",
+    "release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/distr1/distri/archive/93a19ed31839b4a20039f52c1cd82a26a1158342.tar.gz"
+  ],
+  "tag": [
+    "linux-distribution"
+  ],
+  "version": "HEAD-93a19ed-250417T162751",
+  "version_upstream": "",
+  "bsum": "0eb0af4f94333fc49824a152e65ba5027437f92c056b3105c8fd80ec9fde041d",
+  "build_date": "2025-06-19T21:32:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766579452",
+  "build_id": "15766579452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distr1/distri/distri-checkupstream?tag=HEAD-93a19ed-250417T162751-loongarch64-Linux&download=distri-checkupstream.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "553",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distr1/distri/distri-checkupstream?tag=HEAD-93a19ed-250417T162751-loongarch64-Linux&download=distri-checkupstream",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/distr1/distri/distri-checkupstream:HEAD-93a19ed-250417T162751-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/distr1/distri/distri-checkupstream",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/distr1/distri/distri-checkupstream?tag=HEAD-93a19ed-250417T162751-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4b1739bc1410fc63d2aeea93fc2ab507e649e1fc1920f1d4f01b5e246c64f74",
+  "size": "6.8 MB",
+  "size_raw": "7100096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
