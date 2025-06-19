@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "git-receive-pack",
+  "pkg_family": "gig",
+  "pkg_id": "git-receive-pack#github.com_fhs_gig",
+  "pkg_name": "git-receive-pack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fhs/gig",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Git command implemented in pure Go",
+  "homepage": [
+    "https://github.com/fhs/gig"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gig",
+    "git-receive-pack",
+    "git-upload-pack"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fhs/gig/archive/1d26b02e93ee6c40b2e13aeacd6519de7babbd9a.tar.gz"
+  ],
+  "tag": [
+    "command-line-tool",
+    "git",
+    "golang",
+    "plan9"
+  ],
+  "version": "HEAD-1d26b02-230522T000150",
+  "version_upstream": "",
+  "bsum": "b7abf80699889084ae7852b6730d260934a8c6620f6042e3995a988b268378ea",
+  "build_date": "2025-06-19T23:42:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767413510",
+  "build_id": "15767413510",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fhs/gig/git-receive-pack?tag=HEAD-1d26b02-230522T000150-loongarch64-Linux&download=git-receive-pack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fhs/gig/git-receive-pack?tag=HEAD-1d26b02-230522T000150-loongarch64-Linux&download=git-receive-pack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fhs/gig/git-receive-pack:HEAD-1d26b02-230522T000150-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fhs/gig/git-receive-pack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fhs/gig/git-receive-pack?tag=HEAD-1d26b02-230522T000150-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5680e3624b691fe42df89c75aa47d4e7138819915b44648db693abc197349da7",
+  "size": "12 MB",
+  "size_raw": "12550176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
