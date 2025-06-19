@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ep-agent",
+  "pkg_family": "etcdpasswd",
+  "pkg_id": "ep-agent#github.com_cybozu_go_etcdpasswd",
+  "pkg_name": "ep-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/etcdpasswd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed Linux user management using etcd",
+  "homepage": [
+    "https://github.com/cybozu-go/etcdpasswd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ep-agent",
+    "etcdpasswd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/etcdpasswd/archive/b08deed0f13736f4df76b05989c5828482cbc54c.tar.gz"
+  ],
+  "tag": [
+    "etcd",
+    "passwd",
+    "ssh",
+    "user-management"
+  ],
+  "version": "HEAD-b08deed-250328T154246",
+  "version_upstream": "v1.4.10",
+  "bsum": "0aafc50fda13781bd46c5f0d24f03cfaedf33486bf18e56b7407146af27a240a",
+  "build_date": "2025-06-19T20:36:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765452284",
+  "build_id": "15765452284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/etcdpasswd/ep-agent?tag=HEAD-b08deed-250328T154246-aarch64-Linux&download=ep-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/etcdpasswd/ep-agent?tag=HEAD-b08deed-250328T154246-aarch64-Linux&download=ep-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/etcdpasswd/ep-agent:HEAD-b08deed-250328T154246-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/etcdpasswd/ep-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/etcdpasswd/ep-agent?tag=HEAD-b08deed-250328T154246-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b78e02ff68252284416ff98494f1f89647118d42325f5ead960b335df25f4e6",
+  "size": "17 MB",
+  "size_raw": "17266240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
