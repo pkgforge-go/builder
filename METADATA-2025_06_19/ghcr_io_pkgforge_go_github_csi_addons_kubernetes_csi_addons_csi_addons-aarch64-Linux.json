@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "csi-addons",
+  "pkg_family": "kubernetes-csi-addons",
+  "pkg_id": "csi-addons#github.com_csi_addons_kubernetes_csi_addons",
+  "pkg_name": "csi-addons",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csi-addons/kubernetes-csi-addons",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CSI-Addons implementation and APIs for Kubernetes",
+  "homepage": [
+    "https://github.com/csi-addons/kubernetes-csi-addons"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi-addons",
+    "manager",
+    "sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/csi-addons/kubernetes-csi-addons/archive/8816325e2e14a2c214cbb8fde44209fbba0bf0d5.tar.gz"
+  ],
+  "tag": [
+    "container-storage-interface",
+    "csi",
+    "kubernetes",
+    "kubernetes-csi"
+  ],
+  "version": "HEAD-8816325-250619T114017",
+  "version_upstream": "",
+  "bsum": "551106516d794444ba45b40139d4fd4a2a6e38b569fca4d5e55f490f188620d0",
+  "build_date": "2025-06-19T20:28:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765372700",
+  "build_id": "15765372700",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csi-addons/kubernetes-csi-addons/csi-addons?tag=HEAD-8816325-250619T114017-aarch64-Linux&download=csi-addons.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csi-addons/kubernetes-csi-addons/csi-addons?tag=HEAD-8816325-250619T114017-aarch64-Linux&download=csi-addons",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csi-addons/kubernetes-csi-addons/csi-addons:HEAD-8816325-250619T114017-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csi-addons/kubernetes-csi-addons/csi-addons",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csi-addons/kubernetes-csi-addons/csi-addons?tag=HEAD-8816325-250619T114017-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8409316bcf399700b65ade8aaded194fe1458a155bb9116df42bf864e3800f0a",
+  "size": "40 MB",
+  "size_raw": "41884896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
