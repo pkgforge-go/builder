@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "IPv6_rotationalC2",
+  "pkg_id": "agent#github.com_faanross_IPv6_rotationalC2",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/faanross/IPv6_rotationalC2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proof-of-concept tool that demonstrates how IPv6 aliasing and rotational staggering can be used for network stealth",
+  "homepage": [
+    "https://github.com/faanross/IPv6_rotationalC2"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/faanross/IPv6_rotationalC2/archive/9e37d834e31e58acd4b602ff48d4c75a1af1122f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e37d83-250304T101730",
+  "version_upstream": "",
+  "bsum": "e69f1187db3ca5d2d08fed0773815990d5646dda74d11ff9c9804a0e632f3ad1",
+  "build_date": "2025-06-19T23:27:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767221071",
+  "build_id": "15767221071",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6/rotationalc2/agent?tag=HEAD-9e37d83-250304T101730-aarch64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6/rotationalc2/agent?tag=HEAD-9e37d83-250304T101730-aarch64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipv6/rotationalc2/agent:HEAD-9e37d83-250304T101730-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipv6/rotationalc2/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6/rotationalc2/agent?tag=HEAD-9e37d83-250304T101730-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e11a4558ab3a8f2b48c95bca7a5c065801e78b2bd0ee55454bf3ce823041129",
+  "size": "6.1 MB",
+  "size_raw": "6333632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
