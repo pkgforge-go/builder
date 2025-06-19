@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "terraform-provider-jamfpro",
+  "pkg_family": "terraform-provider-jamfpro",
+  "pkg_id": "terraform-provider-jamfpro#github.com_deploymenttheory_terraform_provider_jamfpro",
+  "pkg_name": "terraform-provider-jamfpro",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/deploymenttheory/terraform-provider-jamfpro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A community terraform provider for Jamf Pro for configuration as code workflows. It can interface with both classic and jamf pro API_s. Built upon the terraform provider sdkV2 and go-api-sdk-jamfpro SDK_s and written in go.",
+  "homepage": [
+    "https://github.com/deploymenttheory/terraform-provider-jamfpro"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "getjamfapiprivileges",
+    "getjamfappcatalogappinstallertitles",
+    "getuseraccountprivileges",
+    "terraform-provider-jamfpro"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/deploymenttheory/terraform-provider-jamfpro/archive/d14e20d2a989cb04871796e80bdbed812ed46f30.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "jamf",
+    "jamfpro",
+    "terraform"
+  ],
+  "version": "HEAD-d14e20d-250619T102656",
+  "version_upstream": "",
+  "bsum": "3697f3c8d107f90539f756a1cc79c1ee478b7b3f19dd824bb790a226a3b15b81",
+  "build_date": "2025-06-19T21:13:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766040466",
+  "build_id": "15766040466",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deploymenttheory/terraform-provider-jamfpro/terraform-provider-jamfpro?tag=HEAD-d14e20d-250619T102656-aarch64-Linux&download=terraform-provider-jamfpro.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deploymenttheory/terraform-provider-jamfpro/terraform-provider-jamfpro?tag=HEAD-d14e20d-250619T102656-aarch64-Linux&download=terraform-provider-jamfpro",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/deploymenttheory/terraform-provider-jamfpro/terraform-provider-jamfpro:HEAD-d14e20d-250619T102656-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/deploymenttheory/terraform-provider-jamfpro/terraform-provider-jamfpro",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deploymenttheory/terraform-provider-jamfpro/terraform-provider-jamfpro?tag=HEAD-d14e20d-250619T102656-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36d14e0d087aebbad6f9078a70b070e5587a9c3a12e1f314563da579080fa7db",
+  "size": "33 MB",
+  "size_raw": "34101536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
