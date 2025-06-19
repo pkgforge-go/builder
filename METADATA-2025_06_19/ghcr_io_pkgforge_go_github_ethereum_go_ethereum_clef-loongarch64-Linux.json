@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clef",
+  "pkg_family": "go-ethereum",
+  "pkg_id": "clef#github.com_ethereum_go_ethereum",
+  "pkg_name": "clef",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/go-ethereum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of the Ethereum protocol",
+  "homepage": [
+    "https://github.com/ethereum/go-ethereum"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "blsync",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "geth",
+    "rlpdump",
+    "rlpgen",
+    "workload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum/go-ethereum/archive/09289fd154a45420ec916eb842bfb172df7e0d83.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "ethereum",
+    "geth",
+    "go",
+    "p2p"
+  ],
+  "version": "HEAD-09289fd-250619T161954",
+  "version_upstream": "",
+  "bsum": "9bdefce848d693bf955bba41cfb7563acfee8f76f3b0815b04678bbbef4bb17b",
+  "build_date": "2025-06-19T23:21:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767175018",
+  "build_id": "15767175018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/clef?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&download=clef.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/clef?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&download=clef",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/go-ethereum/clef:HEAD-09289fd-250619T161954-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/go-ethereum/clef",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/clef?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74f7b2d4884fa7933fb050a599d99faec665004c7f684a6d785b29ee7f47f8ec",
+  "size": "42 MB",
+  "size_raw": "43646544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

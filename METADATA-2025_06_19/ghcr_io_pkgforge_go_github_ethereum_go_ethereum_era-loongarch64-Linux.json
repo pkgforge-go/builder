@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "era",
+  "pkg_family": "go-ethereum",
+  "pkg_id": "era#github.com_ethereum_go_ethereum",
+  "pkg_name": "era",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/go-ethereum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of the Ethereum protocol",
+  "homepage": [
+    "https://github.com/ethereum/go-ethereum"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "blsync",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "geth",
+    "rlpdump",
+    "rlpgen",
+    "workload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum/go-ethereum/archive/09289fd154a45420ec916eb842bfb172df7e0d83.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "ethereum",
+    "geth",
+    "go",
+    "p2p"
+  ],
+  "version": "HEAD-09289fd-250619T161954",
+  "version_upstream": "",
+  "bsum": "97d443da9e93770ce2f71cd3698ab92699b72e1617d0f0b30d93cbe58a14b084",
+  "build_date": "2025-06-19T23:20:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767175018",
+  "build_id": "15767175018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/era?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&download=era.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/era?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&download=era",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/go-ethereum/era:HEAD-09289fd-250619T161954-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/go-ethereum/era",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/era?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "764ecb77a313a2cc2978d9ca4c0586941fd671cd521e48a0b1951b27cfab34c4",
+  "size": "13 MB",
+  "size_raw": "13197728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rlpdump",
+  "pkg_family": "go-ethereum",
+  "pkg_id": "rlpdump#github.com_ethereum_go_ethereum",
+  "pkg_name": "rlpdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/go-ethereum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of the Ethereum protocol",
+  "homepage": [
+    "https://github.com/ethereum/go-ethereum"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "blsync",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "geth",
+    "rlpdump",
+    "rlpgen",
+    "workload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum/go-ethereum/archive/09289fd154a45420ec916eb842bfb172df7e0d83.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "ethereum",
+    "geth",
+    "go",
+    "p2p"
+  ],
+  "version": "HEAD-09289fd-250619T161954",
+  "version_upstream": "",
+  "bsum": "713e578027f61a8e2f77f6b3a7cb1b739333fb1d595189a4994965a00ce611c2",
+  "build_date": "2025-06-19T23:20:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767175018",
+  "build_id": "15767175018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/rlpdump?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&download=rlpdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/rlpdump?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&download=rlpdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/go-ethereum/rlpdump:HEAD-09289fd-250619T161954-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/go-ethereum/rlpdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/rlpdump?tag=HEAD-09289fd-250619T161954-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d9fd55ac74714d3be7fd1af1628d300344b76a3b243479c8e2ec6af9a893a9b",
+  "size": "2.4 MB",
+  "size_raw": "2491928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
