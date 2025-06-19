@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "aggkit",
+  "pkg_id": "scripts#github.com_agglayer_aggkit",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/agglayer/aggkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect any chain to the AggLayer",
+  "homepage": [
+    "https://github.com/agglayer/aggkit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggkit-cmd",
+    "aggsender_find_imported_bridge",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/agglayer/aggkit/archive/c27a853cb959cd87ed059eb5b66172ff5ae9f4a3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c27a853-250619T161457",
+  "version_upstream": "",
+  "bsum": "a28e4d198f5b52a63a84477e39777bdcd335de66c85b56e5cdbc59e1e11c37d6",
+  "build_date": "2025-06-19T16:36:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15761525217",
+  "build_id": "15761525217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agglayer/aggkit/scripts?tag=HEAD-c27a853-250619T161457-riscv64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agglayer/aggkit/scripts?tag=HEAD-c27a853-250619T161457-riscv64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/agglayer/aggkit/scripts:HEAD-c27a853-250619T161457-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/agglayer/aggkit/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agglayer/aggkit/scripts?tag=HEAD-c27a853-250619T161457-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "11ddaae6941e7d8a08c66d9f5b16a8ccb170f13d192637e669827ceab7f92110",
+  "size": "3.0 MB",
+  "size_raw": "3103912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
