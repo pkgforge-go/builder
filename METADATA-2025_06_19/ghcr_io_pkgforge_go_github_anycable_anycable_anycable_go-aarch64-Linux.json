@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "anycable-go",
+  "pkg_family": "anycable",
+  "pkg_id": "anycable-go#github.com_anycable_anycable",
+  "pkg_name": "anycable-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anycable/anycable",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Realtime server for reliable two-way communication to power-up any backend",
+  "homepage": [
+    "https://github.com/anycable/anycable"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anycable-go",
+    "embedded-cable",
+    "gobench-cable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anycable/anycable/archive/ca26c67436491681d01cb8543fd7f626b4326d7b.tar.gz"
+  ],
+  "tag": [
+    "realtime",
+    "sse",
+    "websockets"
+  ],
+  "version": "HEAD-ca26c67-250618T114148",
+  "version_upstream": "",
+  "bsum": "2f437eef1d6348e6365c7e328c76dd7db0ff4ac8d44ebfa66ba27fbe25fc0c6a",
+  "build_date": "2025-06-19T11:55:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15756598383",
+  "build_id": "15756598383",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/anycable-go?tag=HEAD-ca26c67-250618T114148-aarch64-Linux&download=anycable-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/anycable-go?tag=HEAD-ca26c67-250618T114148-aarch64-Linux&download=anycable-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anycable/anycable/anycable-go:HEAD-ca26c67-250618T114148-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anycable/anycable/anycable-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/anycable-go?tag=HEAD-ca26c67-250618T114148-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d0c7c316d7b46339ada49dcfffee27f6e86f3a7e209e3f41604261cfbcfa150",
+  "size": "35 MB",
+  "size_raw": "35788032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
