@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "upem",
+  "pkg_family": "boxesandglue",
+  "pkg_id": "upem#github.com_boxesandglue_boxesandglue",
+  "pkg_name": "upem",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/boxesandglue/boxesandglue",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PDF rendering library for Go using TeX algorithms.",
+  "homepage": [
+    "https://github.com/boxesandglue/boxesandglue"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helper",
+    "ttglyphcomponents",
+    "upem"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/boxesandglue/boxesandglue/archive/bc9d36b6e8a8484471341d7a911d28f2533c76cb.tar.gz"
+  ],
+  "tag": [
+    "pdf",
+    "pdf-generation",
+    "tex",
+    "typesetting"
+  ],
+  "version": "HEAD-bc9d36b-250509T152304",
+  "version_upstream": "v0.1.9",
+  "bsum": "0fdf1478d44c66e54f52c4063836df9ef950f745763f776af428000caeca5d88",
+  "build_date": "2025-06-19T14:47:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15759918161",
+  "build_id": "15759918161",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boxesandglue/boxesandglue/upem?tag=HEAD-bc9d36b-250509T152304-aarch64-Linux&download=upem.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boxesandglue/boxesandglue/upem?tag=HEAD-bc9d36b-250509T152304-aarch64-Linux&download=upem",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/boxesandglue/boxesandglue/upem:HEAD-bc9d36b-250509T152304-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/boxesandglue/boxesandglue/upem",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/boxesandglue/boxesandglue/upem?tag=HEAD-bc9d36b-250509T152304-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ca2b14deb976961fba06775522678f04f52f118545867afb36f14c0ca03ff0d",
+  "size": "9.5 MB",
+  "size_raw": "9950240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
