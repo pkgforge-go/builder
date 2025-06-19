@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hypervisor_domain_list",
+  "pkg_family": "go-qemu",
+  "pkg_id": "hypervisor_domain_list#github.com_digitalocean_go_qemu",
+  "pkg_name": "hypervisor_domain_list",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/digitalocean/go-qemu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go packages to interact with QEMU using the QEMU Machine Protocol _QMP_.  Apache 2.0 Licensed.",
+  "homepage": [
+    "https://github.com/digitalocean/go-qemu"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "domain_details",
+    "domain_system_powerdown",
+    "hypervisor_domain_list",
+    "qapilex",
+    "qapiparse"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/digitalocean/go-qemu/archive/ee9b0668d242374af3071f72347d7c741ca4300c.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "qemu"
+  ],
+  "version": "HEAD-ee9b066-250212T114115",
+  "version_upstream": "",
+  "bsum": "4cc1478c66643093030d56ddf439384c266e6a6ab7ede9ef2ac5f63f0ff6a9b7",
+  "build_date": "2025-06-19T21:23:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15766161107",
+  "build_id": "15766161107",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digitalocean/go-qemu/hypervisor_domain_list?tag=HEAD-ee9b066-250212T114115-x86_64-Linux&download=hypervisor_domain_list.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "770",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digitalocean/go-qemu/hypervisor_domain_list?tag=HEAD-ee9b066-250212T114115-x86_64-Linux&download=hypervisor_domain_list",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/digitalocean/go-qemu/hypervisor_domain_list:HEAD-ee9b066-250212T114115-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/digitalocean/go-qemu/hypervisor_domain_list",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digitalocean/go-qemu/hypervisor_domain_list?tag=HEAD-ee9b066-250212T114115-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64859db9af82ea858caf50ce8ead4d0371c68b18190bd54090dfd6242123b558",
+  "size": "3.0 MB",
+  "size_raw": "3069624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
