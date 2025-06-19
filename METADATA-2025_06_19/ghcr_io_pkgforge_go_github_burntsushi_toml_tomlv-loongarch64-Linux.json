@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tomlv",
+  "pkg_family": "toml",
+  "pkg_id": "tomlv#github.com_BurntSushi_toml",
+  "pkg_name": "tomlv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/BurntSushi/toml",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TOML parser for Golang with reflection.",
+  "homepage": [
+    "https://github.com/BurntSushi/toml"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "toml-test-decoder",
+    "toml-test-encoder",
+    "tomlv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/BurntSushi/toml/archive/011fa2bc64cec3bb4ec450d11984f5e87b8e158c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-011fa2b-250606T172815",
+  "version_upstream": "",
+  "bsum": "18e9cf7ebd5aa3f3e2f2920d22f455e872db0a43565fcca7f159d15174526ff7",
+  "build_date": "2025-06-19T08:19:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752564966",
+  "build_id": "15752564966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/toml/tomlv?tag=HEAD-011fa2b-250606T172815-loongarch64-Linux&download=tomlv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4742",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/toml/tomlv?tag=HEAD-011fa2b-250606T172815-loongarch64-Linux&download=tomlv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/burntsushi/toml/tomlv:HEAD-011fa2b-250606T172815-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/burntsushi/toml/tomlv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/toml/tomlv?tag=HEAD-011fa2b-250606T172815-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2dfa79bb69318e76c36aed4bfa76724051ba93dbbae2b5f0cc213cb668c2dd55",
+  "size": "2.4 MB",
+  "size_raw": "2435064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

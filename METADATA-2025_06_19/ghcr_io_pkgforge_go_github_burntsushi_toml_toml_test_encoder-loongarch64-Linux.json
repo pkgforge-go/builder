@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "toml-test-encoder",
+  "pkg_family": "toml",
+  "pkg_id": "toml-test-encoder#github.com_BurntSushi_toml",
+  "pkg_name": "toml-test-encoder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/BurntSushi/toml",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TOML parser for Golang with reflection.",
+  "homepage": [
+    "https://github.com/BurntSushi/toml"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "toml-test-decoder",
+    "toml-test-encoder",
+    "tomlv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/BurntSushi/toml/archive/011fa2bc64cec3bb4ec450d11984f5e87b8e158c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-011fa2b-250606T172815",
+  "version_upstream": "",
+  "bsum": "ab20d073d424d80bb199d515dabfaf9242ae4dc43ab6673822db9760c763317b",
+  "build_date": "2025-06-19T08:19:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752564966",
+  "build_id": "15752564966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/toml/toml-test-encoder?tag=HEAD-011fa2b-250606T172815-loongarch64-Linux&download=toml-test-encoder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4742",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/toml/toml-test-encoder?tag=HEAD-011fa2b-250606T172815-loongarch64-Linux&download=toml-test-encoder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/burntsushi/toml/toml-test-encoder:HEAD-011fa2b-250606T172815-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/burntsushi/toml/toml-test-encoder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/burntsushi/toml/toml-test-encoder?tag=HEAD-011fa2b-250606T172815-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4131108e9db79834648aa0d5230766d7db81eb9c195d359fd094434775e38c1b",
+  "size": "2.3 MB",
+  "size_raw": "2319896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
