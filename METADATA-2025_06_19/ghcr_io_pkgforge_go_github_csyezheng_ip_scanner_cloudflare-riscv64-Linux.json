@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cloudflare",
+  "pkg_family": "ip-scanner",
+  "pkg_id": "cloudflare#github.com_csyezheng_ip_scanner",
+  "pkg_name": "cloudflare",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csyezheng/ip-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This script is used to find the fastest IP for a given site such as Google Translate, Cloudflare, GitHub, etc.",
+  "homepage": [
+    "https://github.com/csyezheng/ip-scanner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudflare",
+    "fetch_ip_ranges",
+    "google_translate",
+    "ip_scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/csyezheng/ip-scanner/archive/6e93689e4800c23febb20b41d1fb499b03770270.tar.gz"
+  ],
+  "tag": [
+    "connectivity",
+    "internet-access",
+    "ip-scanner",
+    "ping",
+    "reachability",
+    "scanner"
+  ],
+  "version": "HEAD-6e93689-231023T133051",
+  "version_upstream": "v0.2.0",
+  "bsum": "89d95b08ad5e9e604568cc486a494b50bbb3de96a31c30fa06a56a9cfb53bc2a",
+  "build_date": "2025-06-19T20:27:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15765377350",
+  "build_id": "15765377350",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csyezheng/ip-scanner/cloudflare?tag=HEAD-6e93689-231023T133051-riscv64-Linux&download=cloudflare.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csyezheng/ip-scanner/cloudflare?tag=HEAD-6e93689-231023T133051-riscv64-Linux&download=cloudflare",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csyezheng/ip-scanner/cloudflare:HEAD-6e93689-231023T133051-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csyezheng/ip-scanner/cloudflare",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csyezheng/ip-scanner/cloudflare?tag=HEAD-6e93689-231023T133051-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49f74a5a07328b7446c290dc4dc39bd9827f7f95e4ad4999a1f6490d30e96916",
+  "size": "7.5 MB",
+  "size_raw": "7819480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
