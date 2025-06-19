@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sorg",
+  "pkg_family": "sorg",
+  "pkg_id": "sorg#github.com_brandur_sorg",
+  "pkg_name": "sorg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brandur/sorg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go-based static site generator that compiles brandur.org.",
+  "homepage": [
+    "https://github.com/brandur/sorg"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "sorg"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/brandur/sorg/archive/aafb7d59592fe2e21b885dc4f24eae5dafff5d72.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aafb7d5-250616T131806",
+  "version_upstream": "",
+  "bsum": "40f3b1e85bdbb4cd3d11c5aece6e89435c126527f2d1ec4a734ae1d6de6ebd2c",
+  "build_date": "2025-06-19T14:54:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15760185335",
+  "build_id": "15760185335",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brandur/sorg/sorg?tag=HEAD-aafb7d5-250616T131806-aarch64-Linux&download=sorg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "505",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brandur/sorg/sorg?tag=HEAD-aafb7d5-250616T131806-aarch64-Linux&download=sorg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brandur/sorg/sorg:HEAD-aafb7d5-250616T131806-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brandur/sorg/sorg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brandur/sorg/sorg?tag=HEAD-aafb7d5-250616T131806-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f05398a2f872701d4d852221d3198b3517d6d12c6652ac7e1f89026eb6d6b588",
+  "size": "15 MB",
+  "size_raw": "14942560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
