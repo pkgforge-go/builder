@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stress",
+  "pkg_family": "clickhouse-go",
+  "pkg_id": "stress#github.com_ClickHouse_clickhouse_go",
+  "pkg_name": "stress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ClickHouse/clickhouse-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang driver for ClickHouse",
+  "homepage": [
+    "https://github.com/ClickHouse/clickhouse-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "209",
+    "360",
+    "470",
+    "476",
+    "484",
+    "485",
+    "codegen",
+    "read",
+    "read-native",
+    "release",
+    "stress",
+    "write",
+    "write-async",
+    "write-async-std",
+    "write-native",
+    "write-native-columnar",
+    "write-native-struct"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ClickHouse/clickhouse-go/archive/a27396fbf07ca38de1d452c5b366b3a37ce45f56.tar.gz"
+  ],
+  "tag": [
+    "analytics-database",
+    "clickhouse",
+    "database",
+    "golang",
+    "golang-driver",
+    "sql"
+  ],
+  "version": "HEAD-a27396f-250617T073600",
+  "version_upstream": "v2.37.1",
+  "bsum": "05abf2be6e8b8e0ac0a54260fe0e0c5c436fcf47b72ae2e7c33718be786b2bc3",
+  "build_date": "2025-06-19T08:35:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15752580540",
+  "build_id": "15752580540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/clickhouse-go/stress?tag=HEAD-a27396f-250617T073600-x86_64-Linux&download=stress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3075",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/clickhouse-go/stress?tag=HEAD-a27396f-250617T073600-x86_64-Linux&download=stress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clickhouse/clickhouse-go/stress:HEAD-a27396f-250617T073600-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clickhouse/clickhouse-go/stress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/clickhouse-go/stress?tag=HEAD-a27396f-250617T073600-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a481698e55513dc0a0f6f6745a329816f2c8f2700e003f3084dc54701386b82",
+  "size": "14 MB",
+  "size_raw": "14412928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
