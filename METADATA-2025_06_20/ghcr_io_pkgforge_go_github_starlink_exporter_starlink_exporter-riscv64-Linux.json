@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "starlink_exporter",
+  "pkg_family": "starlink_exporter",
+  "pkg_id": "starlink_exporter#github.com_joshuasing_starlink_exporter",
+  "pkg_name": "starlink_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/joshuasing/starlink_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple and easy to use Prometheus exporter for Starlink dishy metrics",
+  "homepage": [
+    "https://github.com/joshuasing/starlink_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-metrics",
+    "scripts",
+    "starlink_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/joshuasing/starlink_exporter/archive/75e4976436816317989db884b2e04690d93bb68c.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "prometheus-exporter",
+    "starlink"
+  ],
+  "version": "HEAD-75e4976-250620T222511",
+  "version_upstream": "",
+  "bsum": "e5d00f00584a0f866450232a167e840bbbe2098fe9d8918c78c569fd986c80b0",
+  "build_date": "2025-06-20T19:09:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785192400",
+  "build_id": "15785192400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/starlink/exporter/starlink_exporter?tag=HEAD-75e4976-250620T222511-riscv64-Linux&download=starlink_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/starlink/exporter/starlink_exporter?tag=HEAD-75e4976-250620T222511-riscv64-Linux&download=starlink_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/starlink/exporter/starlink_exporter:HEAD-75e4976-250620T222511-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/starlink/exporter/starlink_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/starlink/exporter/starlink_exporter?tag=HEAD-75e4976-250620T222511-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b14b4aca76d00c265cedbafc3eca5fb8d9c4797fd245fedcba2fc77eeff96a00",
+  "size": "16 MB",
+  "size_raw": "16162168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
