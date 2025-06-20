@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "syncer",
+  "pkg_family": "vsphere-csi-driver",
+  "pkg_id": "syncer#github.com_kubernetes_sigs_vsphere_csi_driver",
+  "pkg_name": "syncer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/vsphere-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "vSphere storage Container Storage Interface _CSI_ plugin",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/vsphere-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "syncer",
+    "vsphere-csi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/vsphere-csi-driver/archive/e4749caf602b0ac91786d234e6c5b677653bccb1.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "k8s-sig-cloud-provider",
+    "vsphere"
+  ],
+  "version": "HEAD-e4749ca-250620T035052",
+  "version_upstream": "",
+  "bsum": "0ad0dc417bffd703d100223581a9cf58e2aedbdf1aed6b68db4358d422634c9e",
+  "build_date": "2025-06-20T15:45:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781748814",
+  "build_id": "15781748814",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/vsphere-csi-driver/syncer?tag=HEAD-e4749ca-250620T035052-loongarch64-Linux&download=syncer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "318",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/vsphere-csi-driver/syncer?tag=HEAD-e4749ca-250620T035052-loongarch64-Linux&download=syncer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/vsphere-csi-driver/syncer:HEAD-e4749ca-250620T035052-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/vsphere-csi-driver/syncer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/vsphere-csi-driver/syncer?tag=HEAD-e4749ca-250620T035052-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "448e13e9b160bc4fb09db5b6e19179bd50d283d9961618fa3816fd3b4ad6b079",
+  "size": "83 MB",
+  "size_raw": "86826608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
