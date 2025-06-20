@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "integration-tests",
+  "pkg_family": "alloy",
+  "pkg_id": "integration-tests#github.com_grafana_alloy",
+  "pkg_name": "integration-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/alloy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTelemetry Collector distribution with programmable pipelines",
+  "homepage": [
+    "https://github.com/grafana/alloy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alloy",
+    "alloylint",
+    "docs",
+    "integration-tests",
+    "kafka",
+    "listcomponents",
+    "otel-gen",
+    "prom-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/alloy/archive/062df5dda4e0a36fc1a8ccaedbb66710ac4509e0.tar.gz"
+  ],
+  "tag": [
+    "collector",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "version": "HEAD-062df5d-250619T095440",
+  "version_upstream": "",
+  "bsum": "9815b3768392dc11dd89d25f89bf6b778e50a655406b7aab9e3f74f7a5a11e61",
+  "build_date": "2025-06-20T05:11:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771168436",
+  "build_id": "15771168436",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-062df5d-250619T095440-riscv64-Linux&download=integration-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2170",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-062df5d-250619T095440-riscv64-Linux&download=integration-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/integration-tests:HEAD-062df5d-250619T095440-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/alloy/integration-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-062df5d-250619T095440-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13a159a620e71e668e716318816c7875d05ac8d7f3663f0f6a45628a07a1a91f",
+  "size": "67 MB",
+  "size_raw": "69322584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
