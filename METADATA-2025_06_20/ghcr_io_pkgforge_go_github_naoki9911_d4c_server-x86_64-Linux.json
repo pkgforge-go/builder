@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "d4c",
+  "pkg_id": "server#github.com_naoki9911_d4c",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/naoki9911/d4c",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Efficient Container Image Updating with Delta Encoding",
+  "homepage": [
+    "https://github.com/naoki9911/d4c"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ctr-cli",
+    "fuse-diff",
+    "server",
+    "snapshotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/naoki9911/d4c/archive/4866c7f7ce66f87ef150f20a82a7f83983ced777.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4866c7f-241130T231742",
+  "version_upstream": "",
+  "bsum": "f30caa775f3c9089ea46196351376ebaee33239deb715f633f4e60294e30898f",
+  "build_date": "2025-06-20T23:44:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789235550",
+  "build_id": "15789235550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/naoki9911/d4c/server?tag=HEAD-4866c7f-241130T231742-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/naoki9911/d4c/server?tag=HEAD-4866c7f-241130T231742-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/naoki9911/d4c/server:HEAD-4866c7f-241130T231742-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/naoki9911/d4c/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/naoki9911/d4c/server?tag=HEAD-4866c7f-241130T231742-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3cbbbcc2642d5f2a7ed0dc66764173cb5429cd6b24b2588c26506a0fb2f7a18",
+  "size": "12 MB",
+  "size_raw": "12504256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
