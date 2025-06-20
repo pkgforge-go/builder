@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aigw",
+  "pkg_family": "ai-gateway",
+  "pkg_id": "aigw#github.com_envoyproxy_ai_gateway",
+  "pkg_name": "aigw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/envoyproxy/ai-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.",
+  "homepage": [
+    "https://github.com/envoyproxy/ai-gateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aigw",
+    "controller",
+    "extproc",
+    "extproc_custom_metrics",
+    "extproc_custom_router",
+    "testupstream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/envoyproxy/ai-gateway/archive/d6b647448bf8c99c174e47060dc13838b17aff9a.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "ai-gateway",
+    "api-gateway",
+    "cncf",
+    "kubernetes",
+    "llm"
+  ],
+  "version": "HEAD-d6b6474-250620T230743",
+  "version_upstream": "",
+  "bsum": "635488b4daa82575c21cbc5f26f1d0e5f2c121d0099565fb436e52701ec32df7",
+  "build_date": "2025-06-20T18:06:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784208961",
+  "build_id": "15784208961",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/aigw?tag=HEAD-d6b6474-250620T230743-x86_64-Linux&download=aigw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/aigw?tag=HEAD-d6b6474-250620T230743-x86_64-Linux&download=aigw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/aigw:HEAD-d6b6474-250620T230743-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/aigw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/aigw?tag=HEAD-d6b6474-250620T230743-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a3f8adf4be2eb66dcbd42f600ea62316857047fe64d97153be52c20785f0260",
+  "size": "205 MB",
+  "size_raw": "214186800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

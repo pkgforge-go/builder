@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "extproc_custom_metrics",
+  "pkg_family": "ai-gateway",
+  "pkg_id": "extproc_custom_metrics#github.com_envoyproxy_ai_gateway",
+  "pkg_name": "extproc_custom_metrics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/envoyproxy/ai-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.",
+  "homepage": [
+    "https://github.com/envoyproxy/ai-gateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aigw",
+    "controller",
+    "extproc",
+    "extproc_custom_metrics",
+    "extproc_custom_router",
+    "testupstream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/envoyproxy/ai-gateway/archive/d6b647448bf8c99c174e47060dc13838b17aff9a.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "ai-gateway",
+    "api-gateway",
+    "cncf",
+    "kubernetes",
+    "llm"
+  ],
+  "version": "HEAD-d6b6474-250620T230743",
+  "version_upstream": "",
+  "bsum": "d448663bfc004899ea4f10ee90cec0a825b10897e438ee0dfdf223c8aad39f14",
+  "build_date": "2025-06-20T18:06:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784208961",
+  "build_id": "15784208961",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/extproc_custom_metrics?tag=HEAD-d6b6474-250620T230743-x86_64-Linux&download=extproc_custom_metrics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/extproc_custom_metrics?tag=HEAD-d6b6474-250620T230743-x86_64-Linux&download=extproc_custom_metrics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/extproc_custom_metrics:HEAD-d6b6474-250620T230743-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/extproc_custom_metrics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/extproc_custom_metrics?tag=HEAD-d6b6474-250620T230743-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1fa030f554775130775aaedb1375b04484c0bd09f98501f4533c7066ce05e50a",
+  "size": "32 MB",
+  "size_raw": "32880096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
