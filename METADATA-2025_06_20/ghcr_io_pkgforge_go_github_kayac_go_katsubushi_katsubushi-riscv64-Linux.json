@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "katsubushi",
+  "pkg_family": "go-katsubushi",
+  "pkg_id": "katsubushi#github.com_kayac_go_katsubushi",
+  "pkg_name": "katsubushi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kayac/go-katsubushi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ID generator server",
+  "homepage": [
+    "https://github.com/kayac/go-katsubushi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "katsubushi",
+    "katsubushi-dump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kayac/go-katsubushi/archive/56045e1c0074f7faee54a5acc045c18477905742.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "id-generation",
+    "katsubushi",
+    "kayac",
+    "memcached",
+    "snowflake"
+  ],
+  "version": "HEAD-56045e1-250620T224716",
+  "version_upstream": "",
+  "bsum": "b9b9ed515b77e3a893508e07c2ff1adb769c82a9927e72e80fe3837a726ceaf9",
+  "build_date": "2025-06-20T19:18:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785352129",
+  "build_id": "15785352129",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kayac/go-katsubushi/katsubushi?tag=HEAD-56045e1-250620T224716-riscv64-Linux&download=katsubushi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "184",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kayac/go-katsubushi/katsubushi?tag=HEAD-56045e1-250620T224716-riscv64-Linux&download=katsubushi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kayac/go-katsubushi/katsubushi:HEAD-56045e1-250620T224716-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kayac/go-katsubushi/katsubushi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kayac/go-katsubushi/katsubushi?tag=HEAD-56045e1-250620T224716-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f0674d617094cc8ed814d9cab80b3bfebe18ce6a1d4d7370d3a99c7dc934126",
+  "size": "16 MB",
+  "size_raw": "16421624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
