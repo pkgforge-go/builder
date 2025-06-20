@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhooks",
+  "pkg_family": "keda",
+  "pkg_id": "webhooks#github.com_kedacore_keda",
+  "pkg_name": "webhooks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kedacore/keda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+  "homepage": [
+    "https://github.com/kedacore/keda"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter",
+    "operator",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kedacore/keda/archive/30a37e6575604b644a65469888afe79ce24d132e.tar.gz"
+  ],
+  "tag": [
+    "autoscaling",
+    "event-driven",
+    "hacktoberfest",
+    "keda",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-30a37e6-250620T123151",
+  "version_upstream": "",
+  "bsum": "158e4a7be07e6d328d9b2f09b0440d8360e269ec8cab1ef4c86ce7ba0dc4d0fc",
+  "build_date": "2025-06-20T19:27:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785374656",
+  "build_id": "15785374656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/webhooks?tag=HEAD-30a37e6-250620T123151-aarch64-Linux&download=webhooks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/webhooks?tag=HEAD-30a37e6-250620T123151-aarch64-Linux&download=webhooks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kedacore/keda/webhooks:HEAD-30a37e6-250620T123151-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kedacore/keda/webhooks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/webhooks?tag=HEAD-30a37e6-250620T123151-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "abc6f5de23a3f78fa66bcef57edd5ffd1b79d856d57137dd8c249ebfab387ded",
+  "size": "43 MB",
+  "size_raw": "44064896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
