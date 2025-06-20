@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "chainbuilder",
+  "pkg_family": "celestia-app",
+  "pkg_id": "chainbuilder#github.com_celestiaorg_celestia_app",
+  "pkg_name": "chainbuilder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celestiaorg/celestia-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Celestia consensus node",
+  "homepage": [
+    "https://github.com/celestiaorg/celestia-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "blocketa",
+    "blockheight",
+    "blockscan",
+    "blocktime",
+    "bytes-in-block",
+    "celestia-appd",
+    "chainbuilder",
+    "e2e",
+    "latency-monitor",
+    "txsim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celestiaorg/celestia-app/archive/ea39814e10c87ae883b8eedce0a020d59060ef9f.tar.gz"
+  ],
+  "tag": [
+    "celestia",
+    "cosmos-sdk",
+    "lazyledger"
+  ],
+  "version": "HEAD-ea39814-250619T121958",
+  "version_upstream": "",
+  "bsum": "93652d5f8b5825970fd08c3cc412d32547483d842e9a79557d5cb75bf3c5dfaa",
+  "build_date": "2025-06-20T08:25:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773527737",
+  "build_id": "15773527737",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/chainbuilder?tag=HEAD-ea39814-250619T121958-x86_64-Linux&download=chainbuilder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/chainbuilder?tag=HEAD-ea39814-250619T121958-x86_64-Linux&download=chainbuilder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/chainbuilder:HEAD-ea39814-250619T121958-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/chainbuilder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/chainbuilder?tag=HEAD-ea39814-250619T121958-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9765e1aa3ff8f8f6b75a42ba96110aa0e35609392af242fa6a00bfbeccca75b0",
+  "size": "118 MB",
+  "size_raw": "123014912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

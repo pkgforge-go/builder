@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "benchmark",
+  "pkg_family": "celestia-app",
+  "pkg_id": "benchmark#github.com_celestiaorg_celestia_app",
+  "pkg_name": "benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celestiaorg/celestia-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Celestia consensus node",
+  "homepage": [
+    "https://github.com/celestiaorg/celestia-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "blocketa",
+    "blockheight",
+    "blockscan",
+    "blocktime",
+    "bytes-in-block",
+    "celestia-appd",
+    "chainbuilder",
+    "e2e",
+    "latency-monitor",
+    "txsim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celestiaorg/celestia-app/archive/ea39814e10c87ae883b8eedce0a020d59060ef9f.tar.gz"
+  ],
+  "tag": [
+    "celestia",
+    "cosmos-sdk",
+    "lazyledger"
+  ],
+  "version": "HEAD-ea39814-250619T121958",
+  "version_upstream": "",
+  "bsum": "013c97b2810d2fb3ab3e52eb2c1b69484ff1acd2d37c209bd9fb11660fc09f6f",
+  "build_date": "2025-06-20T08:25:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773527737",
+  "build_id": "15773527737",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/benchmark?tag=HEAD-ea39814-250619T121958-x86_64-Linux&download=benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/benchmark?tag=HEAD-ea39814-250619T121958-x86_64-Linux&download=benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/benchmark:HEAD-ea39814-250619T121958-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/benchmark?tag=HEAD-ea39814-250619T121958-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d5d89bc470e0606c954d2760f0d4d0d6caf80e3fec8eb1c5b9d8b5bcea52e52",
+  "size": "156 MB",
+  "size_raw": "163372640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
