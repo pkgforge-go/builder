@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bigmapbench",
+  "pkg_family": "kopia",
+  "pkg_id": "bigmapbench#github.com_kopia_kopia",
+  "pkg_name": "bigmapbench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kopia/kopia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform backup tool for Windows, macOS _ Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+  "homepage": [
+    "https://github.com/kopia/kopia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigmapbench",
+    "cli2md",
+    "gettool",
+    "kopia",
+    "perf_benchmark",
+    "testingaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kopia/kopia/archive/126395f292c116d04e33a3ceb98322c9c3327161.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "cloud",
+    "deduplication",
+    "encryption",
+    "google-cloud-storage",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-126395f-250619T212502",
+  "version_upstream": "",
+  "bsum": "5b8230f5b285ca0ed1dcab9d28c224dc94f53535cec83c183940715b026c8dd1",
+  "build_date": "2025-06-20T15:22:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781531883",
+  "build_id": "15781531883",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/bigmapbench?tag=HEAD-126395f-250619T212502-aarch64-Linux&download=bigmapbench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9866",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/bigmapbench?tag=HEAD-126395f-250619T212502-aarch64-Linux&download=bigmapbench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kopia/kopia/bigmapbench:HEAD-126395f-250619T212502-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kopia/kopia/bigmapbench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/bigmapbench?tag=HEAD-126395f-250619T212502-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bacd98c40358e0ce4c3821c1ea8445fdc750fc9fe2c705768a14246fbf77737c",
+  "size": "4.7 MB",
+  "size_raw": "4911424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
