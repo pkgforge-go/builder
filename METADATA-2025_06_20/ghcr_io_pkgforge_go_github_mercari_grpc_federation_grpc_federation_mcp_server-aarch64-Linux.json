@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "grpc-federation-mcp-server",
+  "pkg_family": "grpc-federation",
+  "pkg_id": "grpc-federation-mcp-server#github.com_mercari_grpc_federation",
+  "pkg_name": "grpc-federation-mcp-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mercari/grpc-federation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gRPC Federation generates a gRPC server by writing a custom option in Protocol Buffers",
+  "homepage": [
+    "https://github.com/mercari/grpc-federation"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-federation-generator",
+    "grpc-federation-language-server",
+    "grpc-federation-linter",
+    "grpc-federation-mcp-server",
+    "protoc-gen-grpc-federation"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mercari/grpc-federation/archive/c2be712da84b46719dcf3e4d3c2917161df584d3.tar.gz"
+  ],
+  "tag": [
+    "cel",
+    "federation",
+    "go",
+    "golang",
+    "golang-library",
+    "grpc",
+    "protobuf",
+    "protocol-buffers",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-c2be712-250618T193501",
+  "version_upstream": "",
+  "bsum": "1da0827a0942ecc2afa850350635470d1b9873049d9c0d35604babd123ba0bed",
+  "build_date": "2025-06-20T22:04:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788295754",
+  "build_id": "15788295754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-mcp-server?tag=HEAD-c2be712-250618T193501-aarch64-Linux&download=grpc-federation-mcp-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "353",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-mcp-server?tag=HEAD-c2be712-250618T193501-aarch64-Linux&download=grpc-federation-mcp-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mercari/grpc-federation/grpc-federation-mcp-server:HEAD-c2be712-250618T193501-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mercari/grpc-federation/grpc-federation-mcp-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-mcp-server?tag=HEAD-c2be712-250618T193501-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e11c4ca81a124e1677b3c7f2fea497bd888a87a4098cf78f0fc4d8c5f42b2d2",
+  "size": "20 MB",
+  "size_raw": "20806752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
