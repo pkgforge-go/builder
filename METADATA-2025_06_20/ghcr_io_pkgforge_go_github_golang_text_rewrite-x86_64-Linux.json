@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rewrite",
+  "pkg_family": "text",
+  "pkg_id": "rewrite#github.com_golang_text",
+  "pkg_name": "rewrite",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/text",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go text processing support",
+  "homepage": [
+    "https://github.com/golang/text"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "colcmp",
+    "extract",
+    "extract_http",
+    "gotext",
+    "rewrite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/text/archive/80721808805f9d846d907c85d73ca6b5b6ecb870.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8072180-250605T080800",
+  "version_upstream": "v0.26.0",
+  "bsum": "75a2552f9091008bdcaa6f961dd648b98d32a51e518acb430e24bfe4eeb1ead5",
+  "build_date": "2025-06-20T04:13:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770603113",
+  "build_id": "15770603113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/rewrite?tag=HEAD-8072180-250605T080800-x86_64-Linux&download=rewrite.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "776",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/rewrite?tag=HEAD-8072180-250605T080800-x86_64-Linux&download=rewrite",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/text/rewrite:HEAD-8072180-250605T080800-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/text/rewrite",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/rewrite?tag=HEAD-8072180-250605T080800-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f87bf3cef5c2b6bc39840f0213efee52b6840d7ffc3a17c8b7c28ef44e43842",
+  "size": "2.1 MB",
+  "size_raw": "2140216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
