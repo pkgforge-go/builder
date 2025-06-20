@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "memrun",
+  "pkg_family": "memrun",
+  "pkg_id": "memrun#github.com_guitmz_memrun",
+  "pkg_name": "memrun",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/guitmz/memrun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Small tool to run ELF binaries from memory with a given process name",
+  "homepage": [
+    "https://github.com/guitmz/memrun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "memrun"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/guitmz/memrun/archive/4a5d8ca91eedfebb8b3dcdf99c96db5d16db77ad.tar.gz"
+  ],
+  "tag": [
+    "assembly",
+    "elf",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-4a5d8ca-190612T103819",
+  "version_upstream": "",
+  "bsum": "b91c5a63acab1e38a43a96be486f2fd410319300dfe56137d9ed6dfea136bb45",
+  "build_date": "2025-06-20T05:12:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771198790",
+  "build_id": "15771198790",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guitmz/memrun/memrun?tag=HEAD-4a5d8ca-190612T103819-loongarch64-Linux&download=memrun.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guitmz/memrun/memrun?tag=HEAD-4a5d8ca-190612T103819-loongarch64-Linux&download=memrun",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guitmz/memrun/memrun:HEAD-4a5d8ca-190612T103819-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guitmz/memrun/memrun",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guitmz/memrun/memrun?tag=HEAD-4a5d8ca-190612T103819-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03e520101e3732acbefdf8c0c8c35b8875654ba91c997c988a190e325dab4d80",
+  "size": "1.7 MB",
+  "size_raw": "1757720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
