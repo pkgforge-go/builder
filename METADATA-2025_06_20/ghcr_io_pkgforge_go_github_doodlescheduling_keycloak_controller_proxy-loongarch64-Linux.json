@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "keycloak-controller",
+  "pkg_id": "proxy#github.com_DoodleScheduling_keycloak_controller",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DoodleScheduling/keycloak-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Keycloak realm reconciliation for kubernetes",
+  "homepage": [
+    "https://github.com/DoodleScheduling/keycloak-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keycloak-controller",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DoodleScheduling/keycloak-controller/archive/df3d51cfb5fcd06352f295f7e04d55db799f1e4c.tar.gz"
+  ],
+  "tag": [
+    "keycloak",
+    "kubernetes-controller",
+    "realm"
+  ],
+  "version": "HEAD-df3d51c-250619T220714",
+  "version_upstream": "",
+  "bsum": "b0bace41c6a73db5f57050921f83d59bda3cf4a2f992ff0a36ef30d57feca93d",
+  "build_date": "2025-06-20T07:15:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773092425",
+  "build_id": "15773092425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doodlescheduling/keycloak-controller/proxy?tag=HEAD-df3d51c-250619T220714-loongarch64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doodlescheduling/keycloak-controller/proxy?tag=HEAD-df3d51c-250619T220714-loongarch64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/doodlescheduling/keycloak-controller/proxy:HEAD-df3d51c-250619T220714-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/doodlescheduling/keycloak-controller/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doodlescheduling/keycloak-controller/proxy?tag=HEAD-df3d51c-250619T220714-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b25c6579a9e86ec43de737d512cc18a3480ee68b7e80fc64379367100f1e1fca",
+  "size": "62 MB",
+  "size_raw": "64513504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
