@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "multiple_rules",
+  "pkg_family": "ekuiper",
+  "pkg_id": "multiple_rules#github.com_lf_edge_ekuiper",
+  "pkg_name": "multiple_rules",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lf-edge/ekuiper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lightweight data stream processing engine for IoT edge",
+  "homepage": [
+    "https://github.com/lf-edge/ekuiper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "edgex",
+    "kuiper",
+    "kuiperd",
+    "multiple_rules",
+    "plugin_server",
+    "redis",
+    "service",
+    "sql",
+    "sub"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lf-edge/ekuiper/archive/b5045351c108edef210e22a4f8b4a87ccbeef1e9.tar.gz"
+  ],
+  "tag": [
+    "edge",
+    "edge-analytics",
+    "edge-computing",
+    "edge-streaming",
+    "hacktoberfest",
+    "iot",
+    "rule-engine",
+    "sql"
+  ],
+  "version": "HEAD-b504535-250620T140632",
+  "version_upstream": "",
+  "bsum": "8b84504ba806e26ed9a0c250e23761f5da46794c2c0d60e55c6230554a6f4e6c",
+  "build_date": "2025-06-20T20:32:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786336635",
+  "build_id": "15786336635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/ekuiper/multiple_rules?tag=HEAD-b504535-250620T140632-loongarch64-Linux&download=multiple_rules.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1600",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/ekuiper/multiple_rules?tag=HEAD-b504535-250620T140632-loongarch64-Linux&download=multiple_rules",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lf-edge/ekuiper/multiple_rules:HEAD-b504535-250620T140632-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lf-edge/ekuiper/multiple_rules",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/ekuiper/multiple_rules?tag=HEAD-b504535-250620T140632-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a36bd352ef274635664a8f79169a62040ac61d62efd5c1faa2e8097609f33675",
+  "size": "6.4 MB",
+  "size_raw": "6632960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
