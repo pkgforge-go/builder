@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-registry-cache",
+  "pkg_family": "gardener-extension-registry-cache",
+  "pkg_id": "gardener-extension-registry-cache#github.com_gardener_gardener_extension_registry_cache",
+  "pkg_name": "gardener-extension-registry-cache",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-registry-cache",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller which deploys pull-through caches for container registries.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-registry-cache"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-registry-cache",
+    "gardener-extension-registry-cache-admission"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-registry-cache/archive/832a1fae28f97bb6e951250fb9fceb64d4e7b651.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-832a1fa-250620T115729",
+  "version_upstream": "",
+  "bsum": "e9b1ed2c9243897a278c7645f5ff8fea9f743a92d1f0b368b8b44a25a2188b0c",
+  "build_date": "2025-06-20T18:26:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784315871",
+  "build_id": "15784315871",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-registry-cache/gardener-extension-registry-cache?tag=HEAD-832a1fa-250620T115729-x86_64-Linux&download=gardener-extension-registry-cache.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-registry-cache/gardener-extension-registry-cache?tag=HEAD-832a1fa-250620T115729-x86_64-Linux&download=gardener-extension-registry-cache",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-registry-cache/gardener-extension-registry-cache:HEAD-832a1fa-250620T115729-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-registry-cache/gardener-extension-registry-cache",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-registry-cache/gardener-extension-registry-cache?tag=HEAD-832a1fa-250620T115729-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83491fc7865727bff1a883242acfff31cdb7ba9519948210f44e4de602091514",
+  "size": "60 MB",
+  "size_raw": "62054240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
