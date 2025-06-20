@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "projects",
+  "pkg_family": "go-tfe",
+  "pkg_id": "projects#github.com_hashicorp_go_tfe",
+  "pkg_name": "projects",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/go-tfe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+  "homepage": [
+    "https://github.com/hashicorp/go-tfe"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backing_data",
+    "configuration_versions",
+    "organizations",
+    "projects",
+    "registry_modules",
+    "run_errors",
+    "state_versions",
+    "users",
+    "workspaces"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/go-tfe/archive/9217ab1e392671f6bcb86e54786efdff80f35827.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "sdk",
+    "terraform-cloud",
+    "terraform-enterprise",
+    "tfe"
+  ],
+  "version": "HEAD-9217ab1-250619T155040",
+  "version_upstream": "",
+  "bsum": "4eb1bdc06017effa6a8d2204a364c04441cd68d07c7cefe3e5b2350b25a18b13",
+  "build_date": "2025-06-20T09:30:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774908639",
+  "build_id": "15774908639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-tfe/projects?tag=HEAD-9217ab1-250619T155040-aarch64-Linux&download=projects.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-tfe/projects?tag=HEAD-9217ab1-250619T155040-aarch64-Linux&download=projects",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/go-tfe/projects:HEAD-9217ab1-250619T155040-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/go-tfe/projects",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-tfe/projects?tag=HEAD-9217ab1-250619T155040-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0713e6a491236dd379880d3243b2996b89190604ae6edadfbaca076ffc1cf230",
+  "size": "7.1 MB",
+  "size_raw": "7345952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
