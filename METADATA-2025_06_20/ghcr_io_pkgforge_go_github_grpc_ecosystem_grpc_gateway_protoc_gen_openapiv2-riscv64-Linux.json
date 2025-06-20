@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-openapiv2",
+  "pkg_family": "grpc-gateway",
+  "pkg_id": "protoc-gen-openapiv2#github.com_grpc_ecosystem_grpc_gateway",
+  "pkg_name": "protoc-gen-openapiv2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grpc-ecosystem/grpc-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+  "homepage": [
+    "https://github.com/grpc-ecosystem/grpc-gateway"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example-gateway-server",
+    "example-grpc-server",
+    "protoc-gen-grpc-gateway",
+    "protoc-gen-openapiv2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grpc-ecosystem/grpc-gateway/archive/f7e7da8506b4cd18f4fcc487af7f8562c28f4a3a.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "grpc",
+    "grpc-gateway",
+    "openapi",
+    "rest-api",
+    "restful-api",
+    "swagger"
+  ],
+  "version": "HEAD-f7e7da8-250619T195645",
+  "version_upstream": "",
+  "bsum": "632ef2ae654d734c36bd6fc419db9354645182c1b8c8d5b8db3b5d991bfc3354",
+  "build_date": "2025-06-20T09:20:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774768107",
+  "build_id": "15774768107",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2?tag=HEAD-f7e7da8-250619T195645-riscv64-Linux&download=protoc-gen-openapiv2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2?tag=HEAD-f7e7da8-250619T195645-riscv64-Linux&download=protoc-gen-openapiv2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2:HEAD-f7e7da8-250619T195645-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-gateway/protoc-gen-openapiv2?tag=HEAD-f7e7da8-250619T195645-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4a64b2ef73b05446c3e259963327ab61c650f1b0fffb30fec3feca8695347ae",
+  "size": "9.6 MB",
+  "size_raw": "9983760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
