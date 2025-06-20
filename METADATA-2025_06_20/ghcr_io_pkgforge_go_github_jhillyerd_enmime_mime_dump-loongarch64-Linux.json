@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mime-dump",
+  "pkg_family": "enmime",
+  "pkg_id": "mime-dump#github.com_jhillyerd_enmime",
+  "pkg_name": "mime-dump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jhillyerd/enmime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MIME mail encoding and decoding package for Go",
+  "homepage": [
+    "https://github.com/jhillyerd/enmime"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mime-dump",
+    "mime-extractor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jhillyerd/enmime/archive/15dab47a805a08c3f5fc6722b49a50371fc473dd.tar.gz"
+  ],
+  "tag": [
+    "decoder",
+    "email",
+    "encoder",
+    "go",
+    "golang",
+    "mail",
+    "mime",
+    "parser"
+  ],
+  "version": "HEAD-15dab47-250608T143027",
+  "version_upstream": "",
+  "bsum": "aa21ae4bec57f81a1b1ff9f54aa7d031f248ebd3854a53b478ce7446baf87664",
+  "build_date": "2025-06-20T13:34:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779512082",
+  "build_id": "15779512082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhillyerd/enmime/mime-dump?tag=HEAD-15dab47-250608T143027-loongarch64-Linux&download=mime-dump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhillyerd/enmime/mime-dump?tag=HEAD-15dab47-250608T143027-loongarch64-Linux&download=mime-dump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jhillyerd/enmime/mime-dump:HEAD-15dab47-250608T143027-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jhillyerd/enmime/mime-dump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhillyerd/enmime/mime-dump?tag=HEAD-15dab47-250608T143027-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e14b141508d62d0ee5dfeb6b420ac8ad60e784d91c9b26c6ed66cc8c0d1619f2",
+  "size": "5.3 MB",
+  "size_raw": "5515360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
