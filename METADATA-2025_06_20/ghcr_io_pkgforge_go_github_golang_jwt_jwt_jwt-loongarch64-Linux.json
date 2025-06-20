@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jwt",
+  "pkg_family": "jwt",
+  "pkg_id": "jwt#github.com_golang_jwt_jwt",
+  "pkg_name": "jwt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang-jwt/jwt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of JSON Web Tokens _JWT_.",
+  "homepage": [
+    "https://github.com/golang-jwt/jwt"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang-jwt/jwt/archive/75740f19088857627364f255f3103a053071ca66.tar.gz"
+  ],
+  "tag": [
+    "auth",
+    "ed25519",
+    "go",
+    "golang",
+    "jwt",
+    "security"
+  ],
+  "version": "HEAD-75740f1-250613T010748",
+  "version_upstream": "",
+  "bsum": "e2f0bbe1629b4dcb5bac598e67e15d1817d51d11519f12fdfcec667e0ab19f7d",
+  "build_date": "2025-06-20T03:57:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770315550",
+  "build_id": "15770315550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang-jwt/jwt/jwt?tag=HEAD-75740f1-250613T010748-loongarch64-Linux&download=jwt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang-jwt/jwt/jwt?tag=HEAD-75740f1-250613T010748-loongarch64-Linux&download=jwt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang-jwt/jwt/jwt:HEAD-75740f1-250613T010748-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang-jwt/jwt/jwt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang-jwt/jwt/jwt?tag=HEAD-75740f1-250613T010748-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "480556a9d77a03bf021faf001e5ca409b010bc218208a186a63963a38fa66963",
+  "size": "3.9 MB",
+  "size_raw": "4002112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
