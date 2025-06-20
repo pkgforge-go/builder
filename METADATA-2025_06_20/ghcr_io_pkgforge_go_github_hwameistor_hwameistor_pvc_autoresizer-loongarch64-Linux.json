@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pvc-autoresizer",
+  "pkg_family": "hwameistor",
+  "pkg_id": "pvc-autoresizer#github.com_hwameistor_hwameistor",
+  "pkg_name": "pvc-autoresizer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hwameistor/hwameistor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hwameistor is an HA local storage system for cloud-native stateful workloads.",
+  "homepage": [
+    "https://github.com/hwameistor/hwameistor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "apiserver",
+    "auditor",
+    "evictor",
+    "exporter",
+    "failover-assistant",
+    "hwameictl",
+    "local-disk-action-controller",
+    "local-disk-manager",
+    "local-storage",
+    "manager",
+    "pvc-autoresizer",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hwameistor/hwameistor/archive/d19e56ec65c18351ad4299bf8bf90501a8360d1b.tar.gz"
+  ],
+  "tag": [
+    "high-availability",
+    "k8s-sig-storage",
+    "kubernetes",
+    "storage"
+  ],
+  "version": "HEAD-d19e56e-250620T102335",
+  "version_upstream": "v0.16.4",
+  "bsum": "54105d4d0db68a75069a98c14bfced703989b0d61eda6bf80993995d9088e39a",
+  "build_date": "2025-06-20T09:51:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775256157",
+  "build_id": "15775256157",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/pvc-autoresizer?tag=HEAD-d19e56e-250620T102335-loongarch64-Linux&download=pvc-autoresizer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/pvc-autoresizer?tag=HEAD-d19e56e-250620T102335-loongarch64-Linux&download=pvc-autoresizer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hwameistor/hwameistor/pvc-autoresizer:HEAD-d19e56e-250620T102335-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hwameistor/hwameistor/pvc-autoresizer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/pvc-autoresizer?tag=HEAD-d19e56e-250620T102335-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f44f6db642a73663d24871bf3cf0235a8a3306d322173c4404d5bea76beccdf2",
+  "size": "41 MB",
+  "size_raw": "42596352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
