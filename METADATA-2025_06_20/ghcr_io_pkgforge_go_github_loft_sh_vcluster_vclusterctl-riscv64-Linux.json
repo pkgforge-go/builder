@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vclusterctl",
+  "pkg_family": "vcluster",
+  "pkg_id": "vclusterctl#github.com_loft_sh_vcluster",
+  "pkg_name": "vclusterctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/loft-sh/vcluster",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It_s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+  "homepage": [
+    "https://github.com/loft-sh/vcluster"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "compat-matrix",
+    "load-testing",
+    "schema",
+    "vcluster",
+    "vclusterctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/loft-sh/vcluster/archive/0f44f8bdbeb344e42abb3b891079eec3d016f6b7.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "helm",
+    "k3s",
+    "k8s",
+    "kubectl",
+    "kubernetes",
+    "multi-tenancy",
+    "platform-engineering",
+    "vcluster",
+    "virtual-clusters"
+  ],
+  "version": "HEAD-0f44f8b-250620T102309",
+  "version_upstream": "v0.26.0-beta.5",
+  "bsum": "7bb1622dce143113044ffec898a43ec98fa8950f4d3e16ad24a665c5ae5c83c0",
+  "build_date": "2025-06-20T21:01:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787186999",
+  "build_id": "15787186999",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loft-sh/vcluster/vclusterctl?tag=HEAD-0f44f8b-250620T102309-riscv64-Linux&download=vclusterctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10592",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loft-sh/vcluster/vclusterctl?tag=HEAD-0f44f8b-250620T102309-riscv64-Linux&download=vclusterctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loft-sh/vcluster/vclusterctl:HEAD-0f44f8b-250620T102309-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loft-sh/vcluster/vclusterctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loft-sh/vcluster/vclusterctl?tag=HEAD-0f44f8b-250620T102309-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2eb3720393f5a761601ec07e0ca84748cc4bee7ca45dffdaf563d75e85f15462",
+  "size": "125 MB",
+  "size_raw": "130300568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
