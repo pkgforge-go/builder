@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rebooter",
+  "pkg_family": "soperator",
+  "pkg_id": "rebooter#github.com_nebius_soperator",
+  "pkg_name": "rebooter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/bd328a2f6530bf7e76a9283e3da0f578f5e4f4c9.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-bd328a2-250620T101949",
+  "version_upstream": "",
+  "bsum": "0b45038a8d684049937aa00df498be5998e38438adb03f8f35aa72cf5ff6dba5",
+  "build_date": "2025-06-20T23:55:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789266272",
+  "build_id": "15789266272",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/rebooter?tag=HEAD-bd328a2-250620T101949-riscv64-Linux&download=rebooter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/rebooter?tag=HEAD-bd328a2-250620T101949-riscv64-Linux&download=rebooter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/rebooter:HEAD-bd328a2-250620T101949-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/rebooter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/rebooter?tag=HEAD-bd328a2-250620T101949-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1e3267684e92ce91ff6044a3dc2df3e095f37d11bf8b27949a0c3c5ccc0a623e",
+  "size": "45 MB",
+  "size_raw": "46403096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
