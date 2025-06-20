@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "ipman",
+  "pkg_id": "operator#github.com_dialohq_ipman",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dialohq/ipman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing IPsec VPN connections",
+  "homepage": [
+    "https://github.com/dialohq/ipman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "restctl",
+    "vxlandlord",
+    "xfrminion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dialohq/ipman/archive/94599cdbc2f76bba8075bd1c96dac5e14dc0bbbb.tar.gz"
+  ],
+  "tag": [
+    "ipsec",
+    "ipsec-vpn",
+    "kubernetes",
+    "kubernetes-operator",
+    "strongswan",
+    "vpn"
+  ],
+  "version": "HEAD-94599cd-250619T184726",
+  "version_upstream": "",
+  "bsum": "bf169ba81fb6109709b9dd19efc5b9f65dc17f7eb23085ed048c24cd345a51cc",
+  "build_date": "2025-06-20T08:35:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773964079",
+  "build_id": "15773964079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/operator?tag=HEAD-94599cd-250619T184726-riscv64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/operator?tag=HEAD-94599cd-250619T184726-riscv64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dialohq/ipman/operator:HEAD-94599cd-250619T184726-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dialohq/ipman/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/operator?tag=HEAD-94599cd-250619T184726-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f972daab3ea82546e0eb56139f83301659118f9b3b670ebbff955ac1a42daa7a",
+  "size": "52 MB",
+  "size_raw": "53652152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
