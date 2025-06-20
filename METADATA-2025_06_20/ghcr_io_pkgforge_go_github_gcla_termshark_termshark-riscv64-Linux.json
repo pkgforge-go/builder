@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "termshark",
+  "pkg_family": "termshark",
+  "pkg_id": "termshark#github.com_gcla_termshark",
+  "pkg_name": "termshark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gcla/termshark",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A terminal UI for tshark, inspired by Wireshark",
+  "homepage": [
+    "https://github.com/gcla/termshark"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "termshark"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gcla/termshark/archive/e8a1ec6e4f2d517f646d3bba35a2ec4926e0202c.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gowid",
+    "pcap",
+    "tcell",
+    "tshark",
+    "tui",
+    "wireshark"
+  ],
+  "version": "HEAD-e8a1ec6-221101T193116",
+  "version_upstream": "",
+  "bsum": "5023aa1373558acef9aa0f87669450020ca6bb895bfc099980e32043069b34fa",
+  "build_date": "2025-06-20T02:27:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769529574",
+  "build_id": "15769529574",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcla/termshark/termshark?tag=HEAD-e8a1ec6-221101T193116-riscv64-Linux&download=termshark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9463",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcla/termshark/termshark?tag=HEAD-e8a1ec6-221101T193116-riscv64-Linux&download=termshark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gcla/termshark/termshark:HEAD-e8a1ec6-221101T193116-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gcla/termshark/termshark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcla/termshark/termshark?tag=HEAD-e8a1ec6-221101T193116-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97d7f498f3f7ee1a103b01b0d4ee93fef7c242f8a442a7100aba7b306edab8db",
+  "size": "18 MB",
+  "size_raw": "17977912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
