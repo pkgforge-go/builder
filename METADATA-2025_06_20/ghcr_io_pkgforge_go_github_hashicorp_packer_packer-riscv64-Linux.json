@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "packer",
+  "pkg_family": "packer",
+  "pkg_id": "packer#github.com_hashicorp_packer",
+  "pkg_name": "packer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/packer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+  "homepage": [
+    "https://github.com/hashicorp/packer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-fixer-deprecations",
+    "packer",
+    "scripts",
+    "ssh-keygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/packer/archive/4cd7ad4721cd3aba078482cabe9b01de8202dfa2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4cd7ad4-250617T092209",
+  "version_upstream": "nightly",
+  "bsum": "d7e36cc95aa8db39c9cf1a6073703d82f16e91af7810bb62abe8f179068869e7",
+  "build_date": "2025-06-20T05:43:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771686552",
+  "build_id": "15771686552",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/packer?tag=HEAD-4cd7ad4-250617T092209-riscv64-Linux&download=packer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15389",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/packer?tag=HEAD-4cd7ad4-250617T092209-riscv64-Linux&download=packer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/packer/packer:HEAD-4cd7ad4-250617T092209-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/packer/packer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/packer?tag=HEAD-4cd7ad4-250617T092209-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7e1ddc888fe0f38bfdf49badb2bdf50d2690cdce27147d6ac3dad34433b5fdf1",
+  "size": "44 MB",
+  "size_raw": "45543224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
