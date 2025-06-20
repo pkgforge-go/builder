@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "isowrap",
+  "pkg_family": "iso9660",
+  "pkg_id": "isowrap#github.com_kdomanski_iso9660",
+  "pkg_name": "isowrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kdomanski/iso9660",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A go library for reading and creating ISO9660 images",
+  "homepage": [
+    "https://github.com/kdomanski/iso9660"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "extract",
+    "isowrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kdomanski/iso9660/archive/08dd38cef6d88b5f983128785ae2908ed2636e20.tar.gz"
+  ],
+  "tag": [
+    "cdrom",
+    "iso",
+    "iso9660"
+  ],
+  "version": "HEAD-08dd38c-231221T145711",
+  "version_upstream": "",
+  "bsum": "95449d9c2a43a391a6cf4cad0b3fb63bf68f99e1b945e36bca2f2a11ab3dc3e6",
+  "build_date": "2025-06-20T14:38:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780347242",
+  "build_id": "15780347242",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdomanski/iso9660/isowrap?tag=HEAD-08dd38c-231221T145711-aarch64-Linux&download=isowrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "274",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdomanski/iso9660/isowrap?tag=HEAD-08dd38c-231221T145711-aarch64-Linux&download=isowrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kdomanski/iso9660/isowrap:HEAD-08dd38c-231221T145711-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kdomanski/iso9660/isowrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdomanski/iso9660/isowrap?tag=HEAD-08dd38c-231221T145711-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce50fed9b2104ab2dadc8277ddc6ecf6620d95eec7ef7c10e24fd84293178527",
+  "size": "1.9 MB",
+  "size_raw": "1916216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
