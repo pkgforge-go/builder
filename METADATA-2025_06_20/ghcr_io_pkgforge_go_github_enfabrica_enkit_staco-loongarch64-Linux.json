@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "staco",
+  "pkg_family": "enkit",
+  "pkg_id": "staco#github.com_enfabrica_enkit",
+  "pkg_name": "staco",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management.",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfabrica/enkit/archive/a1810c278781e4fb96a2b3277b0d289d823f66c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a1810c2-250619T143504",
+  "version_upstream": "",
+  "bsum": "efbe848640eeaa75e06919be70f1b6c18593c42fe086439b076a2f4fc2871084",
+  "build_date": "2025-06-20T08:56:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774078738",
+  "build_id": "15774078738",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/staco?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&download=staco.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/staco?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&download=staco",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/staco:HEAD-a1810c2-250619T143504-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/staco",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/staco?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2dd77215cecaaf1b32b967aee5d90185c9b0289decb28cb4df00b1fde10b6089",
+  "size": "11 MB",
+  "size_raw": "11441376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

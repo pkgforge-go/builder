@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bb_reporter",
+  "pkg_family": "enkit",
+  "pkg_id": "bb_reporter#github.com_enfabrica_enkit",
+  "pkg_name": "bb_reporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management.",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfabrica/enkit/archive/a1810c278781e4fb96a2b3277b0d289d823f66c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a1810c2-250619T143504",
+  "version_upstream": "",
+  "bsum": "e5d8d92145e156534c27ecfe39015f96fa1fc12fd1d7bab23ada19f2bb3fbc2c",
+  "build_date": "2025-06-20T08:55:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774078738",
+  "build_id": "15774078738",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/bb_reporter?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&download=bb_reporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/bb_reporter?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&download=bb_reporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/bb_reporter:HEAD-a1810c2-250619T143504-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/bb_reporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/bb_reporter?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee1055142ae3642fce9851ebb4b8a3a5e61b502f53a266920bf13f1aa936c318",
+  "size": "25 MB",
+  "size_raw": "25972432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

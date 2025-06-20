@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nomad_license_manage",
+  "pkg_family": "enkit",
+  "pkg_id": "nomad_license_manage#github.com_enfabrica_enkit",
+  "pkg_name": "nomad_license_manage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management.",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfabrica/enkit/archive/a1810c278781e4fb96a2b3277b0d289d823f66c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a1810c2-250619T143504",
+  "version_upstream": "",
+  "bsum": "2ef8d3f35aaa64b919a651bb8c232155c5de7e464be1943f3b07c32d4e7d8203",
+  "build_date": "2025-06-20T08:54:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774078738",
+  "build_id": "15774078738",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/nomad_license_manage?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&download=nomad_license_manage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/nomad_license_manage?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&download=nomad_license_manage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/nomad_license_manage:HEAD-a1810c2-250619T143504-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/nomad_license_manage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/nomad_license_manage?tag=HEAD-a1810c2-250619T143504-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ced773aea0558fd6675bbc5d8d9d860f52122edcd80977c9df664deb538c821a",
+  "size": "19 MB",
+  "size_raw": "19854688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
