@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "k8s_gateway",
+  "pkg_family": "k8s_gateway",
+  "pkg_id": "k8s_gateway#github.com_k8s_gateway_k8s_gateway",
+  "pkg_name": "k8s_gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/k8s-gateway/k8s_gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CoreDNS plugin to resolve all types of external Kubernetes resources",
+  "homepage": [
+    "https://github.com/k8s-gateway/k8s_gateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s_gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/k8s-gateway/k8s_gateway/archive/2890cf1369c0289a0a0eeb09dfa8d5083cc2ee33.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2890cf1-250620T021758",
+  "version_upstream": "v1.3.0",
+  "bsum": "5f531f20bda66f12f3e5013c96a01eb274774a2316bbc603ea419d0e405d8d5b",
+  "build_date": "2025-06-20T14:11:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780220780",
+  "build_id": "15780220780",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/gateway/k8s_gateway?tag=HEAD-2890cf1-250620T021758-loongarch64-Linux&download=k8s_gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/gateway/k8s_gateway?tag=HEAD-2890cf1-250620T021758-loongarch64-Linux&download=k8s_gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k8s/gateway/k8s_gateway:HEAD-2890cf1-250620T021758-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k8s/gateway/k8s_gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/gateway/k8s_gateway?tag=HEAD-2890cf1-250620T021758-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d15b98473de8a451af8e8441ca5953b26526064eb573b60204d61b2f15e148f",
+  "size": "83 MB",
+  "size_raw": "86714464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
