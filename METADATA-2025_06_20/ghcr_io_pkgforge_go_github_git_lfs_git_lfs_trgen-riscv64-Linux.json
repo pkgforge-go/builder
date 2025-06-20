@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "trgen",
+  "pkg_family": "git-lfs",
+  "pkg_id": "trgen#github.com_git_lfs_git_lfs",
+  "pkg_name": "trgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/git-lfs/git-lfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Git extension for versioning large files",
+  "homepage": [
+    "https://github.com/git-lfs/git-lfs"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "git-lfs",
+    "git-lfs-test-server-api",
+    "man",
+    "trgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/git-lfs/git-lfs/archive/9e751d16509c9d65bda15b53c7d30a583c66e0c8.tar.gz"
+  ],
+  "tag": [
+    "git",
+    "git-lfs",
+    "go"
+  ],
+  "version": "HEAD-9e751d1-250605T161848",
+  "version_upstream": "",
+  "bsum": "800730b104ed90304a59597c6fe46d2fa8427b5dd70f93803444581642c3010d",
+  "build_date": "2025-06-20T02:47:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769567687",
+  "build_id": "15769567687",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/git-lfs/git-lfs/trgen?tag=HEAD-9e751d1-250605T161848-riscv64-Linux&download=trgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13519",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/git-lfs/git-lfs/trgen?tag=HEAD-9e751d1-250605T161848-riscv64-Linux&download=trgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/git-lfs/git-lfs/trgen:HEAD-9e751d1-250605T161848-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/git-lfs/git-lfs/trgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/git-lfs/git-lfs/trgen?tag=HEAD-9e751d1-250605T161848-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "651d0a4b51fb58fd1d19bb83c501a4c4bb1cff1740bdae7941990c1082d1fe47",
+  "size": "2.0 MB",
+  "size_raw": "2086184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
