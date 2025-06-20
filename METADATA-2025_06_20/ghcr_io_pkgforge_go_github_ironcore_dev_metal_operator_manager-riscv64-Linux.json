@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "metal-operator",
+  "pkg_id": "manager#github.com_ironcore_dev_metal_operator",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ironcore-dev/metal-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for automating bare metal server discovery and provisioning",
+  "homepage": [
+    "https://github.com/ironcore-dev/metal-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "metalctl",
+    "metalprobe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ironcore-dev/metal-operator/archive/c002f2ed9fea9ac41bb2188f9299fb5e49717b8e.tar.gz"
+  ],
+  "tag": [
+    "baremetal",
+    "operator",
+    "provisioning",
+    "servermanagement"
+  ],
+  "version": "HEAD-c002f2e-250620T092732",
+  "version_upstream": "",
+  "bsum": "a06e2b8df5fa0a109c078e46a31dab1ad1f6011cfc6a8d36580cc0e1a56c4f2b",
+  "build_date": "2025-06-20T19:07:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785149213",
+  "build_id": "15785149213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/manager?tag=HEAD-c002f2e-250620T092732-riscv64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/manager?tag=HEAD-c002f2e-250620T092732-riscv64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ironcore-dev/metal-operator/manager:HEAD-c002f2e-250620T092732-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ironcore-dev/metal-operator/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/manager?tag=HEAD-c002f2e-250620T092732-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41f0e98fcb1f4bb7a8c25b0da1e00a88a3fd07584ad4f956d36cf50183961cc3",
+  "size": "60 MB",
+  "size_raw": "62871832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
