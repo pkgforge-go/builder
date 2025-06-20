@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-deepcopy",
+  "pkg_family": "consul",
+  "pkg_id": "protoc-gen-deepcopy#github.com_hashicorp_consul",
+  "pkg_name": "protoc-gen-deepcopy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/consul",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/consul"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen",
+    "consul",
+    "internal-grpc-proxy",
+    "protoc-gen-deepcopy",
+    "protoc-gen-grpc-clone",
+    "protoc-gen-json-shim",
+    "protoc-gen-resource-types",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/consul/archive/766ab74e40293815c2b5756793c597db310181ee.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "version": "HEAD-766ab74-250617T143807",
+  "version_upstream": "",
+  "bsum": "b281afd5d2ca16b422c843b452fc0e9e1e47ffce051a224de7d4aec6ff496599",
+  "build_date": "2025-06-20T05:45:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771648562",
+  "build_id": "15771648562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-deepcopy?tag=HEAD-766ab74-250617T143807-x86_64-Linux&download=protoc-gen-deepcopy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29039",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-deepcopy?tag=HEAD-766ab74-250617T143807-x86_64-Linux&download=protoc-gen-deepcopy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-deepcopy:HEAD-766ab74-250617T143807-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-deepcopy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-deepcopy?tag=HEAD-766ab74-250617T143807-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "993a59274853b7d07286d8731d2b63916ab2de9cd5afb6332596e8a8420231b7",
+  "size": "5.9 MB",
+  "size_raw": "6158680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
