@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cftun",
+  "pkg_family": "cftun",
+  "pkg_id": "cftun#github.com_fmnx_cftun",
+  "pkg_name": "cftun",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fmnx/cftun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Third-party Cloudflare Tunnel client _formerly Argo Tunnel_",
+  "homepage": [
+    "https://github.com/fmnx/cftun"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cftun"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fmnx/cftun/archive/163ef768bad9c37d250e1e5af8f3de6cb9119825.tar.gz"
+  ],
+  "tag": [
+    "argo-tunnel",
+    "cloudflare",
+    "cloudflare-tunnel",
+    "reverse-proxy",
+    "third-party",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-163ef76-250614T084135",
+  "version_upstream": "",
+  "bsum": "27fb50de19709328788958686b6e7edc2592e9b91fbaebc035c54efbbc237a6d",
+  "build_date": "2025-06-20T00:03:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767934071",
+  "build_id": "15767934071",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fmnx/cftun/cftun?tag=HEAD-163ef76-250614T084135-loongarch64-Linux&download=cftun.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "110",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fmnx/cftun/cftun?tag=HEAD-163ef76-250614T084135-loongarch64-Linux&download=cftun",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fmnx/cftun/cftun:HEAD-163ef76-250614T084135-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fmnx/cftun/cftun",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fmnx/cftun/cftun?tag=HEAD-163ef76-250614T084135-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22bebb5ce75ebe69baf7fd4d4c7525f589e550e1c9fc8c8e1e7aae1f05442f86",
+  "size": "13 MB",
+  "size_raw": "13319008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
