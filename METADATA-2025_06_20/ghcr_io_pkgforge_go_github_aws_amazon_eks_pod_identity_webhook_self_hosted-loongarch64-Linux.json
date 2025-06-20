@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "self-hosted",
+  "pkg_family": "amazon-eks-pod-identity-webhook",
+  "pkg_id": "self-hosted#github.com_aws_amazon_eks_pod_identity_webhook",
+  "pkg_name": "self-hosted",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-eks-pod-identity-webhook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Amazon EKS Pod Identity Webhook",
+  "homepage": [
+    "https://github.com/aws/amazon-eks-pod-identity-webhook"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amazon-eks-pod-identity-webhook",
+    "self-hosted"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-eks-pod-identity-webhook/archive/97a1210a13f5d5a7864c64dd829e28ed74608e21.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-97a1210-250619T084950",
+  "version_upstream": "",
+  "bsum": "91af1331f039c541e584d6ff3c7fa9d22bd0d3e76e436c5f9f02316671367fde",
+  "build_date": "2025-06-20T07:48:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773342299",
+  "build_id": "15773342299",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-eks-pod-identity-webhook/self-hosted?tag=HEAD-97a1210-250619T084950-loongarch64-Linux&download=self-hosted.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "648",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-eks-pod-identity-webhook/self-hosted?tag=HEAD-97a1210-250619T084950-loongarch64-Linux&download=self-hosted",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-eks-pod-identity-webhook/self-hosted:HEAD-97a1210-250619T084950-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-eks-pod-identity-webhook/self-hosted",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-eks-pod-identity-webhook/self-hosted?tag=HEAD-97a1210-250619T084950-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a0cd7868d0ae1b98a87bd6a406ad112037ba3195aa125f48d6ac93bc2bd440a",
+  "size": "3.4 MB",
+  "size_raw": "3529088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
