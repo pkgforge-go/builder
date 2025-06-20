@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tool",
+  "pkg_family": "apc-p15-tool",
+  "pkg_id": "tool#github.com_gregtwallace_apc_p15_tool",
+  "pkg_name": "tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gregtwallace/apc-p15-tool",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "APC P15 Tool is an open source replacement for APC_s NMC Security Wizard. It also adds additional functionality for installing certificates on APC NMC2 _ NMC3.",
+  "homepage": [
+    "https://github.com/gregtwallace/apc-p15-tool"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "install_only",
+    "tool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gregtwallace/apc-p15-tool/archive/4a3f79ec070643f414758433aeeb9f31ea3e9799.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4a3f79e-250619T230502",
+  "version_upstream": "v1.2.3",
+  "bsum": "9b85f6571b8c1363f02f5edaed442257d3d421e6d76b8251696d736f4acae3c3",
+  "build_date": "2025-06-20T09:18:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774763687",
+  "build_id": "15774763687",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gregtwallace/apc-p15-tool/tool?tag=HEAD-4a3f79e-250619T230502-aarch64-Linux&download=tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gregtwallace/apc-p15-tool/tool?tag=HEAD-4a3f79e-250619T230502-aarch64-Linux&download=tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gregtwallace/apc-p15-tool/tool:HEAD-4a3f79e-250619T230502-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gregtwallace/apc-p15-tool/tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gregtwallace/apc-p15-tool/tool?tag=HEAD-4a3f79e-250619T230502-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "643f6dfdb8b9b8ebc59bb13a4b05cd22cbe5b1cf53d236b819f0cebd6fcec486",
+  "size": "5.6 MB",
+  "size_raw": "5809568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
