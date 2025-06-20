@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "users",
+  "pkg_family": "mainflux",
+  "pkg_id": "users#github.com_mainflux_mainflux",
+  "pkg_name": "users",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mainflux/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/mainflux/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bootstrap",
+    "cassandra-reader",
+    "cassandra-writer",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "influxdb-reader",
+    "influxdb-writer",
+    "lora",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "opcua",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "twins",
+    "users",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mainflux/mainflux/archive/35230a90bfbe8699c0503ddaebbd540d8d6bb410.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-35230a9-240809T222515",
+  "version_upstream": "",
+  "bsum": "38022f5f9cf189245191a9beb9be297fa24c4a6265c48f3b475b55cc61cfaaa4",
+  "build_date": "2025-06-20T21:31:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787365567",
+  "build_id": "15787365567",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/users?tag=HEAD-35230a9-240809T222515-loongarch64-Linux&download=users.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/users?tag=HEAD-35230a9-240809T222515-loongarch64-Linux&download=users",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainflux/mainflux/users:HEAD-35230a9-240809T222515-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainflux/mainflux/users",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/users?tag=HEAD-35230a9-240809T222515-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2da68b95d3738026c6e86a9431cffe7bf812c6cfe28da32551a053d180872cb6",
+  "size": "25 MB",
+  "size_raw": "25415808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
