@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "shim",
+  "pkg_family": "yunikorn-k8shim",
+  "pkg_id": "shim#github.com_apache_yunikorn_k8shim",
+  "pkg_name": "shim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/yunikorn-k8shim",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache YuniKorn K8shim",
+  "homepage": [
+    "https://github.com/apache/yunikorn-k8shim"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admissioncontroller",
+    "schedulerplugin",
+    "shim",
+    "webtest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/yunikorn-k8shim/archive/6703e4ba830230acccf14e4a7ec3ec901c817438.tar.gz"
+  ],
+  "tag": [
+    "apache-yarn",
+    "go",
+    "kubernetes",
+    "universal-resource-scheduler",
+    "yunikorn"
+  ],
+  "version": "HEAD-6703e4b-250620T094100",
+  "version_upstream": "",
+  "bsum": "d35dec4fe32c523070a8e5fd1f5ee9efcbbb0e118cc50445dcab9a4f11834f2e",
+  "build_date": "2025-06-20T17:15:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782916671",
+  "build_id": "15782916671",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/shim?tag=HEAD-6703e4b-250620T094100-aarch64-Linux&download=shim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "156",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/shim?tag=HEAD-6703e4b-250620T094100-aarch64-Linux&download=shim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/yunikorn-k8shim/shim:HEAD-6703e4b-250620T094100-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/yunikorn-k8shim/shim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/shim?tag=HEAD-6703e4b-250620T094100-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bc3f532e2a124d39f8e662ce69b84d64c11078fdc01572fdb3e9a0257a5ffed8",
+  "size": "63 MB",
+  "size_raw": "65347456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
