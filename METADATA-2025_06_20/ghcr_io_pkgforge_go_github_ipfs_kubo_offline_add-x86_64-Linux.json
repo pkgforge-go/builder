@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "offline_add",
+  "pkg_family": "kubo",
+  "pkg_id": "offline_add#github.com_ipfs_kubo",
+  "pkg_name": "offline_add",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/kubo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IPFS implementation in Go",
+  "homepage": [
+    "https://github.com/ipfs/kubo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-startup",
+    "bench_cli_ipfs_add",
+    "ipfs",
+    "ipfswatch",
+    "offline_add"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/kubo/archive/92aa9936c7bd4b09b7203009cde02d2670b5f326.tar.gz"
+  ],
+  "tag": [
+    "ipfs"
+  ],
+  "version": "HEAD-92aa993-250618T191558",
+  "version_upstream": "",
+  "bsum": "0cbb2f9943d7195ad667e3ac003f76f4a62f52c35ad20586a5d721ee5fc67512",
+  "build_date": "2025-06-20T10:03:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775416783",
+  "build_id": "15775416783",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/offline_add?tag=HEAD-92aa993-250618T191558-x86_64-Linux&download=offline_add.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/offline_add?tag=HEAD-92aa993-250618T191558-x86_64-Linux&download=offline_add",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/kubo/offline_add:HEAD-92aa993-250618T191558-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/kubo/offline_add",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/offline_add?tag=HEAD-92aa993-250618T191558-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8a5d09b9b60cb59a1d45a06c440ceb5e5b1d441eedbac8ad88694a86a518e2f",
+  "size": "19 MB",
+  "size_raw": "18949440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
