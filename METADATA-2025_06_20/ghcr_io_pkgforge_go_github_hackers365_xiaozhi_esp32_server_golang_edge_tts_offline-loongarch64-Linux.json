@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "edge_tts_offline",
+  "pkg_family": "xiaozhi-esp32-server-golang",
+  "pkg_id": "edge_tts_offline#github.com_hackers365_xiaozhi_esp32_server_golang",
+  "pkg_name": "edge_tts_offline",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hackers365/xiaozhi-esp32-server-golang",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+  "homepage": [
+    "https://github.com/hackers365/xiaozhi-esp32-server-golang"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "edge_tts_offline",
+    "mcp_client_over_websocket",
+    "mcp_server_over_websocket",
+    "mqtt",
+    "test",
+    "vllm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hackers365/xiaozhi-esp32-server-golang/archive/b03fd9efeaf787b1f11e59e5b4a7383b34454e06.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b03fd9e-250620T162834",
+  "version_upstream": "",
+  "bsum": "ee725bd953a0b605ea24811303b02e3b234dcc8adcc24d0c440f86bb08a3033e",
+  "build_date": "2025-06-20T18:48:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784455077",
+  "build_id": "15784455077",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/edge_tts_offline?tag=HEAD-b03fd9e-250620T162834-loongarch64-Linux&download=edge_tts_offline.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/edge_tts_offline?tag=HEAD-b03fd9e-250620T162834-loongarch64-Linux&download=edge_tts_offline",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/edge_tts_offline:HEAD-b03fd9e-250620T162834-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/edge_tts_offline",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/edge_tts_offline?tag=HEAD-b03fd9e-250620T162834-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3548e8bf85bdd23f9a38098fb43eb3d43b78a9af4876a468355ca111c03d967",
+  "size": "5.3 MB",
+  "size_raw": "5472544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
