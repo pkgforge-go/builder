@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "goofys",
+  "pkg_family": "goofys",
+  "pkg_id": "goofys#github.com_kahing_goofys",
+  "pkg_name": "goofys",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kahing/goofys",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a high-performance, POSIX-ish Amazon S3 file system written in Go",
+  "homepage": [
+    "https://github.com/kahing/goofys"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goofys",
+    "goofys-example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kahing/goofys/archive/350ff312abaa1abcf21c5a06e143c7edffe9e2f4.tar.gz"
+  ],
+  "tag": [
+    "aws-s3",
+    "azure-blob",
+    "azure-blob-storage",
+    "azure-data-lake",
+    "azure-storage",
+    "cloud-storage",
+    "filesystem",
+    "fuse",
+    "fuse-filesystem",
+    "gcs",
+    "golang",
+    "google-cloud-storage",
+    "openstack-swift",
+    "posix",
+    "s3",
+    "s3-bucket"
+  ],
+  "version": "HEAD-350ff31-230621T154748",
+  "version_upstream": "",
+  "bsum": "a3a99ccc97c8d15c712552eb61733fc0507b6695a43dffd195489bdac39a1f8f",
+  "build_date": "2025-06-20T14:12:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780240196",
+  "build_id": "15780240196",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahing/goofys/goofys?tag=HEAD-350ff31-230621T154748-aarch64-Linux&download=goofys.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5358",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahing/goofys/goofys?tag=HEAD-350ff31-230621T154748-aarch64-Linux&download=goofys",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kahing/goofys/goofys:HEAD-350ff31-230621T154748-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kahing/goofys/goofys",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahing/goofys/goofys?tag=HEAD-350ff31-230621T154748-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d8e741fe30c13b46eb5862392387bd5bdcc7a0b173241ad778ba54f4f47735b",
+  "size": "24 MB",
+  "size_raw": "24372928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
