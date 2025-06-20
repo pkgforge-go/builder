@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "apiserver",
+  "pkg_family": "kubeeye",
+  "pkg_id": "apiserver#github.com_kubesphere_kubeeye",
+  "pkg_name": "apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubesphere/kubeeye",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeEye aims to find various problems on Kubernetes, such as application misconfiguration, unhealthy cluster components and node problems.",
+  "homepage": [
+    "https://github.com/kubesphere/kubeeye"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "ke",
+    "ke-manager",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubesphere/kubeeye/archive/8d8e84dfa1378cafbc71fd3f439f979fad8425dd.tar.gz"
+  ],
+  "tag": [
+    "cluster-analysis",
+    "k8s",
+    "kubeeye",
+    "kubernetes",
+    "observability"
+  ],
+  "version": "HEAD-8d8e84d-250618T165027",
+  "version_upstream": "",
+  "bsum": "140863557aa6c3487f41d5833e0f5363d8b9d750b7992ce264f5ddbd89579f31",
+  "build_date": "2025-06-20T19:44:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785649802",
+  "build_id": "15785649802",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubeeye/apiserver?tag=HEAD-8d8e84d-250618T165027-x86_64-Linux&download=apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "832",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubeeye/apiserver?tag=HEAD-8d8e84d-250618T165027-x86_64-Linux&download=apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubesphere/kubeeye/apiserver:HEAD-8d8e84d-250618T165027-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubesphere/kubeeye/apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubeeye/apiserver?tag=HEAD-8d8e84d-250618T165027-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bbb943b32963d8685ae22cb9b0d03d7cb159a9db9bfff33bf28a3f0da6f7010f",
+  "size": "65 MB",
+  "size_raw": "67783712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
