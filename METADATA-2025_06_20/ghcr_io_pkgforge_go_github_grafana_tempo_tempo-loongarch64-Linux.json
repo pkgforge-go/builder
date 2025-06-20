@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tempo",
+  "pkg_family": "tempo",
+  "pkg_id": "tempo#github.com_grafana_tempo",
+  "pkg_name": "tempo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+  "homepage": [
+    "https://github.com/grafana/tempo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docsgen",
+    "parquetquerygen",
+    "tempo",
+    "tempo-cli",
+    "tempo-query",
+    "tempo-vulture"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo/archive/bec9da55579277831b257207a43bb332ada616e2.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana"
+  ],
+  "version": "HEAD-bec9da5-250620T143114",
+  "version_upstream": "",
+  "bsum": "3842abebf10a639b32c27cc40ca779af4f5a2bc6af249156ee7674cd2aa7703e",
+  "build_date": "2025-06-20T18:45:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784445412",
+  "build_id": "15784445412",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo?tag=HEAD-bec9da5-250620T143114-loongarch64-Linux&download=tempo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4552",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo?tag=HEAD-bec9da5-250620T143114-loongarch64-Linux&download=tempo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo/tempo:HEAD-bec9da5-250620T143114-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo/tempo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo?tag=HEAD-bec9da5-250620T143114-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1dca65ce4f27eba21a5ec7ea1a5bd18647f04e3d3f55a381320832c0ace1f444",
+  "size": "104 MB",
+  "size_raw": "108967216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
