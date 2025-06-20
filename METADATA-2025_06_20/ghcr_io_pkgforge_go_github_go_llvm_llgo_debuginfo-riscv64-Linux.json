@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "debuginfo",
+  "pkg_family": "llgo",
+  "pkg_id": "debuginfo#github.com_go_llvm_llgo",
+  "pkg_name": "debuginfo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-llvm/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "LLVM-based compiler for Go",
+  "homepage": [
+    "https://github.com/go-llvm/llgo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchcomp",
+    "cc-wrapper",
+    "debuginfo",
+    "errors",
+    "for",
+    "if",
+    "makefilter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-llvm/llgo/archive/4b1e47815369ab6595cbb1a49f32556821c627d7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b1e478-150105T091537",
+  "version_upstream": "",
+  "bsum": "978cba7fc3efea64eefe12f67f73a3c8ee6e8fd189bc27f6ddc9f06ae2c55dd0",
+  "build_date": "2025-06-20T03:27:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770136028",
+  "build_id": "15770136028",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-llvm/llgo/debuginfo?tag=HEAD-4b1e478-150105T091537-riscv64-Linux&download=debuginfo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1254",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-llvm/llgo/debuginfo?tag=HEAD-4b1e478-150105T091537-riscv64-Linux&download=debuginfo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-llvm/llgo/debuginfo:HEAD-4b1e478-150105T091537-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-llvm/llgo/debuginfo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-llvm/llgo/debuginfo?tag=HEAD-4b1e478-150105T091537-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d076831d47e4aed85dbfbde7d799b2d6072094a1f0c9a4a92034cdfe980cf4a2",
+  "size": "1.1 MB",
+  "size_raw": "1061200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
