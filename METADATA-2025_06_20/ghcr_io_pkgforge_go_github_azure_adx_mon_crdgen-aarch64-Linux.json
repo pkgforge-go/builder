@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "crdgen",
+  "pkg_family": "adx-mon",
+  "pkg_id": "crdgen#github.com_Azure_adx_mon",
+  "pkg_name": "crdgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/adx-mon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ADX-Mon - Azure Data Explorer based observability platform",
+  "homepage": [
+    "https://github.com/Azure/adx-mon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alerter",
+    "config",
+    "crdgen",
+    "data-gen",
+    "ingestor",
+    "log-load",
+    "operator",
+    "walreader",
+    "write-load"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/adx-mon/archive/93c217e859c96d5f68b70c33b4bf68805741598b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-93c217e-250619T160245",
+  "version_upstream": "",
+  "bsum": "b6f44a1373d30c43e415048664032908798dd1d9c062976d2ae8bac61a66e789",
+  "build_date": "2025-06-20T07:10:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773064027",
+  "build_id": "15773064027",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/crdgen?tag=HEAD-93c217e-250619T160245-aarch64-Linux&download=crdgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/crdgen?tag=HEAD-93c217e-250619T160245-aarch64-Linux&download=crdgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/adx-mon/crdgen:HEAD-93c217e-250619T160245-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/adx-mon/crdgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/crdgen?tag=HEAD-93c217e-250619T160245-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb4f17fb6b081ea11d41f9f6ee90f64b80e44f2614afe73655d49e7dcc0820a3",
+  "size": "36 MB",
+  "size_raw": "37724288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
