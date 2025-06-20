@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dfget",
+  "pkg_family": "dragonfly",
+  "pkg_id": "dfget#github.com_dragonflyoss_dragonfly",
+  "pkg_name": "dfget",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dragonflyoss/dragonfly",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation _CNCF_ as an Incubating Level Project.",
+  "homepage": [
+    "https://github.com/dragonflyoss/dragonfly"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dfcache",
+    "dfget",
+    "dfstore",
+    "manager",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dragonflyoss/dragonfly/archive/a5895bb99e4e352c94b01878af21acb8ac64233d.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "containers",
+    "docker-image",
+    "nydus",
+    "p2p",
+    "registry"
+  ],
+  "version": "HEAD-a5895bb-250620T103739",
+  "version_upstream": "",
+  "bsum": "e6ad3b97e4ba6f9633f80aa9b8ed82d9624feb394eb6a244ebabf96d898d4e19",
+  "build_date": "2025-06-20T17:53:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784130031",
+  "build_id": "15784130031",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/dfget?tag=HEAD-a5895bb-250620T103739-loongarch64-Linux&download=dfget.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2626",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/dfget?tag=HEAD-a5895bb-250620T103739-loongarch64-Linux&download=dfget",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dragonflyoss/dragonfly/dfget:HEAD-a5895bb-250620T103739-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dragonflyoss/dragonfly/dfget",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/dfget?tag=HEAD-a5895bb-250620T103739-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c89c9a798c1aeb5e0050254812107f957ba5c8b130659e787bcf751905555e5b",
+  "size": "89 MB",
+  "size_raw": "92985312",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ef9c9ef-250619T124627-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
