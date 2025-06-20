@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "landlock-abi-version",
+  "pkg_family": "go-landlock",
+  "pkg_id": "landlock-abi-version#github.com_landlock_lsm_go_landlock",
+  "pkg_name": "landlock-abi-version",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/landlock-lsm/go-landlock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library for the Linux Landlock sandboxing feature",
+  "homepage": [
+    "https://github.com/landlock-lsm/go-landlock"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-landlock-configurable",
+    "go-landlock-convert",
+    "landlock-abi-version",
+    "landlock-restrict",
+    "landlock-restrict-net"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/landlock-lsm/go-landlock/archive/1544bccde3a3bc4e9b2f717d348b6054ddce9ba6.tar.gz"
+  ],
+  "tag": [
+    "landlock",
+    "linux",
+    "sandboxing",
+    "security"
+  ],
+  "version": "HEAD-1544bcc-250303T214525",
+  "version_upstream": "",
+  "bsum": "5f4b5f00745b04f1ed636a6369a098089cb8012ce7a093ead0681f9142923a21",
+  "build_date": "2025-06-20T20:11:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786046824",
+  "build_id": "15786046824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/landlock-abi-version?tag=HEAD-1544bcc-250303T214525-aarch64-Linux&download=landlock-abi-version.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "191",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/landlock-abi-version?tag=HEAD-1544bcc-250303T214525-aarch64-Linux&download=landlock-abi-version",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/landlock-abi-version:HEAD-1544bcc-250303T214525-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/landlock-abi-version",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/landlock-abi-version?tag=HEAD-1544bcc-250303T214525-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "929a0226cb7d7e5eac3410d30085f0b55aa48ecb58bf008bc181a561cade3c24",
+  "size": "1.6 MB",
+  "size_raw": "1637016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

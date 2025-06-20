@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go-landlock-configurable",
+  "pkg_family": "go-landlock",
+  "pkg_id": "go-landlock-configurable#github.com_landlock_lsm_go_landlock",
+  "pkg_name": "go-landlock-configurable",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/landlock-lsm/go-landlock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library for the Linux Landlock sandboxing feature",
+  "homepage": [
+    "https://github.com/landlock-lsm/go-landlock"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-landlock-configurable",
+    "go-landlock-convert",
+    "landlock-abi-version",
+    "landlock-restrict",
+    "landlock-restrict-net"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/landlock-lsm/go-landlock/archive/1544bccde3a3bc4e9b2f717d348b6054ddce9ba6.tar.gz"
+  ],
+  "tag": [
+    "landlock",
+    "linux",
+    "sandboxing",
+    "security"
+  ],
+  "version": "HEAD-1544bcc-250303T214525",
+  "version_upstream": "",
+  "bsum": "61ea786ea06b6dc7e67510077dea3a3eff8eb4eef6b8af586a122c07647c6c55",
+  "build_date": "2025-06-20T20:10:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786046824",
+  "build_id": "15786046824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-configurable?tag=HEAD-1544bcc-250303T214525-aarch64-Linux&download=go-landlock-configurable.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "191",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-configurable?tag=HEAD-1544bcc-250303T214525-aarch64-Linux&download=go-landlock-configurable",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-configurable:HEAD-1544bcc-250303T214525-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-configurable",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-configurable?tag=HEAD-1544bcc-250303T214525-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ea2a7f80f8c43d74659bc6ab13d952ed2667ab3da7c3c3a902e0690aab06486c",
+  "size": "2.4 MB",
+  "size_raw": "2448376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
