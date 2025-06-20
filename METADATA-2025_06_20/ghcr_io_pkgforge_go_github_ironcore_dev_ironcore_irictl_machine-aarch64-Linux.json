@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "irictl-machine",
+  "pkg_family": "ironcore",
+  "pkg_id": "irictl-machine#github.com_ironcore_dev_ironcore",
+  "pkg_name": "irictl-machine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ironcore-dev/ironcore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Infrastructure as a Service",
+  "homepage": [
+    "https://github.com/ironcore-dev/ironcore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bucketbroker",
+    "bucketpoollet",
+    "irictl-bucket",
+    "irictl-machine",
+    "irictl-volume",
+    "ironcore-apiserver",
+    "ironcore-controller-manager",
+    "machinebroker",
+    "machinepoollet",
+    "models-schema",
+    "volumebroker",
+    "volumepoollet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ironcore-dev/ironcore/archive/6c985df856069bd4cfb4b8f763abf8d2f9dc6899.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cloudnative",
+    "iaas",
+    "infrastructure",
+    "ironcore",
+    "kubernetes",
+    "onmetal-api"
+  ],
+  "version": "HEAD-6c985df-250620T100354",
+  "version_upstream": "",
+  "bsum": "15d4894476cad6337e1937a9684c72be6c0200f00b24c8f4023fdbfe3d920e15",
+  "build_date": "2025-06-20T19:15:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785118960",
+  "build_id": "15785118960",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/irictl-machine?tag=HEAD-6c985df-250620T100354-aarch64-Linux&download=irictl-machine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/irictl-machine?tag=HEAD-6c985df-250620T100354-aarch64-Linux&download=irictl-machine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ironcore-dev/ironcore/irictl-machine:HEAD-6c985df-250620T100354-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ironcore-dev/ironcore/irictl-machine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/irictl-machine?tag=HEAD-6c985df-250620T100354-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "671c068e05dc450f7566bcc3af51a8557757cc934af3672c560343b8d44b1a17",
+  "size": "39 MB",
+  "size_raw": "40724992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
