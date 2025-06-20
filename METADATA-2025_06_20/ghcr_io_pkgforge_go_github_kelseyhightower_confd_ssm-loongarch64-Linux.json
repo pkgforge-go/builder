@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ssm",
+  "pkg_family": "confd",
+  "pkg_id": "ssm#github.com_kelseyhightower_confd",
+  "pkg_name": "ssm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelseyhightower/confd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage local application configuration files using templates and data from etcd or consul",
+  "homepage": [
+    "https://github.com/kelseyhightower/confd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "confd",
+    "ssm",
+    "zookeeper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelseyhightower/confd/archive/919444eb6cf721d198b2bb18581d0f0b3734d107.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-919444e-231208T220906",
+  "version_upstream": "",
+  "bsum": "e9dae6fab331e801d2b16f7fcb1fe16c846d63f3579a0d7270f0106cdc0be152",
+  "build_date": "2025-06-20T14:44:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780408967",
+  "build_id": "15780408967",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelseyhightower/confd/ssm?tag=HEAD-919444e-231208T220906-loongarch64-Linux&download=ssm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelseyhightower/confd/ssm?tag=HEAD-919444e-231208T220906-loongarch64-Linux&download=ssm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelseyhightower/confd/ssm:HEAD-919444e-231208T220906-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelseyhightower/confd/ssm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelseyhightower/confd/ssm?tag=HEAD-919444e-231208T220906-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a140c2f8ee160fe4c504688182b089d368160012a25617dbd54c0cc6c0883fb",
+  "size": "9.2 MB",
+  "size_raw": "9616288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
