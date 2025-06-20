@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kcp",
+  "pkg_family": "kcp",
+  "pkg_id": "kcp#github.com_kcp_dev_kcp",
+  "pkg_name": "kcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kcp-dev/kcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.",
+  "homepage": [
+    "https://github.com/kcp-dev/kcp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-server",
+    "compat",
+    "crd-puller",
+    "kcp",
+    "kcp-front-proxy",
+    "sharded-test-server",
+    "test-server",
+    "virtual-workspaces"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kcp-dev/kcp/archive/612108bc466f96cb34a6e451be42f1bb77b8cf5a.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "kcp",
+    "kubernetes",
+    "multitenancy"
+  ],
+  "version": "HEAD-612108b-250620T115632",
+  "version_upstream": "",
+  "bsum": "d6d6fb0e756ef0a3b69c05a3ff827a4b64fedf847b061f3253c9a65f936b1413",
+  "build_date": "2025-06-20T19:36:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785364107",
+  "build_id": "15785364107",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/kcp?tag=HEAD-612108b-250620T115632-riscv64-Linux&download=kcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/kcp?tag=HEAD-612108b-250620T115632-riscv64-Linux&download=kcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kcp-dev/kcp/kcp:HEAD-612108b-250620T115632-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kcp-dev/kcp/kcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/kcp?tag=HEAD-612108b-250620T115632-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d26128f4d0384d82bee4fa958f7e622eae788f917c4394fd2d7fdb17ee51562",
+  "size": "107 MB",
+  "size_raw": "111377080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
