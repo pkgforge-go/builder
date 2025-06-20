@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gogs",
+  "pkg_family": "gogs",
+  "pkg_id": "gogs#github.com_gogs_gogs",
+  "pkg_name": "gogs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gogs/gogs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gogs is a painless self-hosted Git service",
+  "homepage": [
+    "https://github.com/gogs/gogs"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gogs",
+    "schemadoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gogs/gogs/archive/d940e692ec58abd45e648c054d7dfd88909034ec.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "git",
+    "go",
+    "gogs",
+    "mysql",
+    "postgresql",
+    "raspberry-pi",
+    "scip-enabled",
+    "self-hosted",
+    "sqlite3"
+  ],
+  "version": "HEAD-d940e69-250618T094651",
+  "version_upstream": "",
+  "bsum": "1f78279b3737f5fc0bd5b08b4af3c23757eafa8f4dc2247623d7c30c5fe95bfb",
+  "build_date": "2025-06-20T03:53:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770226547",
+  "build_id": "15770226547",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gogs/gogs/gogs?tag=HEAD-d940e69-250618T094651-loongarch64-Linux&download=gogs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46511",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gogs/gogs/gogs?tag=HEAD-d940e69-250618T094651-loongarch64-Linux&download=gogs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gogs/gogs/gogs:HEAD-d940e69-250618T094651-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gogs/gogs/gogs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gogs/gogs/gogs?tag=HEAD-d940e69-250618T094651-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0688cc78e96365a3072e7f7f7086e6442b1712f3d4008162bcff81b0b68a575a",
+  "size": "72 MB",
+  "size_raw": "74699264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
