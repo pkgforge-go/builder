@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gh-load",
+  "pkg_family": "gh-archive-clickhouse",
+  "pkg_id": "gh-load#github.com_go_faster_gh_archive_clickhouse",
+  "pkg_name": "gh-load",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-faster/gh-archive-clickhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Save public github event stream to ClickHouse as raw json",
+  "homepage": [
+    "https://github.com/go-faster/gh-archive-clickhouse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gh-archived",
+    "gh-load"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-faster/gh-archive-clickhouse/archive/b3499e9844a50f9ce1e20e00b27949aaab660364.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b3499e9-250619T092829",
+  "version_upstream": "",
+  "bsum": "a32e478d29b3f1bfcda1b3885e507205cdb6244c43fc5b05feb4928f957412db",
+  "build_date": "2025-06-20T03:10:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769717066",
+  "build_id": "15769717066",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/gh-archive-clickhouse/gh-load?tag=HEAD-b3499e9-250619T092829-riscv64-Linux&download=gh-load.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/gh-archive-clickhouse/gh-load?tag=HEAD-b3499e9-250619T092829-riscv64-Linux&download=gh-load",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-faster/gh-archive-clickhouse/gh-load:HEAD-b3499e9-250619T092829-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-faster/gh-archive-clickhouse/gh-load",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/gh-archive-clickhouse/gh-load?tag=HEAD-b3499e9-250619T092829-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd5cade1fe01647a1f6e84596f870890781c738303619a3783d3a8a126188d47",
+  "size": "11 MB",
+  "size_raw": "10884824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
