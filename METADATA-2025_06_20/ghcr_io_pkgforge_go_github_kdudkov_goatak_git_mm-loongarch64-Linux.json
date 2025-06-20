@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mm",
+  "pkg_family": "goatak",
+  "pkg_id": "mm#github.com_kdudkov_goatak.git",
+  "pkg_name": "mm",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goatak_server",
+    "mm",
+    "takreplay",
+    "webclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kdudkov/goatak.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T143725",
+  "version_upstream": "",
+  "bsum": "2d489248baf3bfc4aaa137a4c56b910fadd3d62cdcee4a83b6f2538c09b0bb4b",
+  "build_date": "2025-06-20T14:40:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780364425",
+  "build_id": "15780364425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdudkov/goatak.git/mm?tag=20250620T143725-loongarch64-Linux&download=mm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdudkov/goatak.git/mm?tag=20250620T143725-loongarch64-Linux&download=mm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kdudkov/goatak.git/mm:20250620T143725-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kdudkov/goatak.git/mm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdudkov/goatak.git/mm?tag=20250620T143725-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf9cbb7581a2b1b2aae9a0e5b311e348bab697d27b22f0ff0d936049a257f8f6",
+  "size": "9.8 MB",
+  "size_raw": "10263360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
