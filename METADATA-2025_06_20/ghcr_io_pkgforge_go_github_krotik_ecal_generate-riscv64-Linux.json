@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "ecal",
+  "pkg_id": "generate#github.com_krotik_ecal",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/krotik/ecal",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple embeddable scripting language which supports concurrent event processing.",
+  "homepage": [
+    "https://github.com/krotik/ecal"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ecal-cli",
+    "generate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/krotik/ecal/archive/1a5bf4c77f8973c468f0b5edf47ecb4779da6143.tar.gz"
+  ],
+  "tag": [
+    "debugging",
+    "eca",
+    "embeddable-scripting-language",
+    "event-driven",
+    "event-sink",
+    "interpreter",
+    "language",
+    "object-oriented-programming",
+    "procedural-programming"
+  ],
+  "version": "HEAD-1a5bf4c-210523T105228",
+  "version_upstream": "",
+  "bsum": "a13c832a514f09e00b6262dcd71eed19e00e72c29a49b23a5193fda7012f9ab1",
+  "build_date": "2025-06-20T15:26:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781680612",
+  "build_id": "15781680612",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krotik/ecal/generate?tag=HEAD-1a5bf4c-210523T105228-riscv64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krotik/ecal/generate?tag=HEAD-1a5bf4c-210523T105228-riscv64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/krotik/ecal/generate:HEAD-1a5bf4c-210523T105228-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/krotik/ecal/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krotik/ecal/generate?tag=HEAD-1a5bf4c-210523T105228-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67cb20b22fb8f3b36779955154166cdc15d6a031dd87e74681f9c48f4668d38b",
+  "size": "4.7 MB",
+  "size_raw": "4883672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
