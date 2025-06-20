@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "schedulerplugin",
+  "pkg_family": "yunikorn-k8shim",
+  "pkg_id": "schedulerplugin#github.com_apache_yunikorn_k8shim",
+  "pkg_name": "schedulerplugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/yunikorn-k8shim",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache YuniKorn K8shim",
+  "homepage": [
+    "https://github.com/apache/yunikorn-k8shim"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admissioncontroller",
+    "schedulerplugin",
+    "shim",
+    "webtest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/yunikorn-k8shim/archive/6703e4ba830230acccf14e4a7ec3ec901c817438.tar.gz"
+  ],
+  "tag": [
+    "apache-yarn",
+    "go",
+    "kubernetes",
+    "universal-resource-scheduler",
+    "yunikorn"
+  ],
+  "version": "HEAD-6703e4b-250620T094100",
+  "version_upstream": "",
+  "bsum": "700df0d2b36ae9aecfbafec2cf35923eec5e06cc66f7f67546d61670885e2fdb",
+  "build_date": "2025-06-20T17:14:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782916671",
+  "build_id": "15782916671",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/schedulerplugin?tag=HEAD-6703e4b-250620T094100-x86_64-Linux&download=schedulerplugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "156",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/schedulerplugin?tag=HEAD-6703e4b-250620T094100-x86_64-Linux&download=schedulerplugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/yunikorn-k8shim/schedulerplugin:HEAD-6703e4b-250620T094100-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/yunikorn-k8shim/schedulerplugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/schedulerplugin?tag=HEAD-6703e4b-250620T094100-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e15f301cd073363fc2f7e9f24d717b77bc3a6c780d85d32b12f1dc638b1afb04",
+  "size": "74 MB",
+  "size_raw": "76744000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
