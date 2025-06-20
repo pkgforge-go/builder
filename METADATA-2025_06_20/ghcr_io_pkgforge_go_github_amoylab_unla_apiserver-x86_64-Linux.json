@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "apiserver",
+  "pkg_family": "Unla",
+  "pkg_id": "apiserver#github.com_AmoyLab_Unla",
+  "pkg_name": "apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AmoyLab/Unla",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.",
+  "homepage": [
+    "https://github.com/AmoyLab/Unla"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "mcp-gateway",
+    "mock-server",
+    "openapi-converter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AmoyLab/Unla/archive/e09cbf291c6bf01912812d13a9be56305adce4bf.tar.gz"
+  ],
+  "tag": [
+    "awesome",
+    "mcp",
+    "mcp-adapter",
+    "mcp-gateway",
+    "mcp-server",
+    "rest-to-mcp",
+    "restful-to-mcp"
+  ],
+  "version": "HEAD-e09cbf2-250620T000153",
+  "version_upstream": "",
+  "bsum": "b03a528309ef2dfaf9b313c56bc7902e598d54aba322ea6a6097a1784c881f36",
+  "build_date": "2025-06-20T06:58:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773056381",
+  "build_id": "15773056381",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amoylab/unla/apiserver?tag=HEAD-e09cbf2-250620T000153-x86_64-Linux&download=apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1277",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amoylab/unla/apiserver?tag=HEAD-e09cbf2-250620T000153-x86_64-Linux&download=apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/amoylab/unla/apiserver:HEAD-e09cbf2-250620T000153-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/amoylab/unla/apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amoylab/unla/apiserver?tag=HEAD-e09cbf2-250620T000153-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2c14219e7e2e3a0a01151f06b31ae7b18d8d0e0b3789be0bd6f6ebd960fd14f",
+  "size": "33 MB",
+  "size_raw": "34517088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
