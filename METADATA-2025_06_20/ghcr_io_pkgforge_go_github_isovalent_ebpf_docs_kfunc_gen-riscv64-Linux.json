@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kfunc-gen",
+  "pkg_family": "ebpf-docs",
+  "pkg_id": "kfunc-gen#github.com_isovalent_ebpf_docs",
+  "pkg_name": "kfunc-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/isovalent/ebpf-docs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An effort to comprehensively document eBPF",
+  "homepage": [
+    "https://github.com/isovalent/ebpf-docs"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "feature-gen",
+    "helper-def-scraper",
+    "helper-ref-gen",
+    "kfunc-gen",
+    "libbpf-tag-gen",
+    "mtu-calc",
+    "spellcheck",
+    "version-finder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/isovalent/ebpf-docs/archive/8c100261eeb163dafe16e1073fb1ea646370abaf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c10026-250618T112259",
+  "version_upstream": "",
+  "bsum": "0205f7d0297d1a0578f5931455ddbb604248c81039c5236a951c35badbb60c8d",
+  "build_date": "2025-06-20T10:04:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775556678",
+  "build_id": "15775556678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/kfunc-gen?tag=HEAD-8c10026-250618T112259-riscv64-Linux&download=kfunc-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/kfunc-gen?tag=HEAD-8c10026-250618T112259-riscv64-Linux&download=kfunc-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/isovalent/ebpf-docs/kfunc-gen:HEAD-8c10026-250618T112259-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/isovalent/ebpf-docs/kfunc-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/kfunc-gen?tag=HEAD-8c10026-250618T112259-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "262f4a6c8a12266bcb5aee089b0a5223acc0197b8d3bf2894ef01b59c54873ba",
+  "size": "3.3 MB",
+  "size_raw": "3402040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

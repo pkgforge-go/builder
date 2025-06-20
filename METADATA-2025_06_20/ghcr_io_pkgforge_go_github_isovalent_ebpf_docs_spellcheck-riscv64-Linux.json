@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spellcheck",
+  "pkg_family": "ebpf-docs",
+  "pkg_id": "spellcheck#github.com_isovalent_ebpf_docs",
+  "pkg_name": "spellcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/isovalent/ebpf-docs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An effort to comprehensively document eBPF",
+  "homepage": [
+    "https://github.com/isovalent/ebpf-docs"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "feature-gen",
+    "helper-def-scraper",
+    "helper-ref-gen",
+    "kfunc-gen",
+    "libbpf-tag-gen",
+    "mtu-calc",
+    "spellcheck",
+    "version-finder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/isovalent/ebpf-docs/archive/8c100261eeb163dafe16e1073fb1ea646370abaf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c10026-250618T112259",
+  "version_upstream": "",
+  "bsum": "8d53c312ec25b7bd03e93ffadce02e3ea503b04bca3d282c118cc7378f4732b7",
+  "build_date": "2025-06-20T10:04:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775556678",
+  "build_id": "15775556678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/spellcheck?tag=HEAD-8c10026-250618T112259-riscv64-Linux&download=spellcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/spellcheck?tag=HEAD-8c10026-250618T112259-riscv64-Linux&download=spellcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/isovalent/ebpf-docs/spellcheck:HEAD-8c10026-250618T112259-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/isovalent/ebpf-docs/spellcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/spellcheck?tag=HEAD-8c10026-250618T112259-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "89c5713debdd27f3b4d2915910b25e2479e1d28c389f69f2462fe9d9997cd8f1",
+  "size": "2.6 MB",
+  "size_raw": "2624616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

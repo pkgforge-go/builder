@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "helper-ref-gen",
+  "pkg_family": "ebpf-docs",
+  "pkg_id": "helper-ref-gen#github.com_isovalent_ebpf_docs",
+  "pkg_name": "helper-ref-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/isovalent/ebpf-docs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An effort to comprehensively document eBPF",
+  "homepage": [
+    "https://github.com/isovalent/ebpf-docs"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "feature-gen",
+    "helper-def-scraper",
+    "helper-ref-gen",
+    "kfunc-gen",
+    "libbpf-tag-gen",
+    "mtu-calc",
+    "spellcheck",
+    "version-finder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/isovalent/ebpf-docs/archive/8c100261eeb163dafe16e1073fb1ea646370abaf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c10026-250618T112259",
+  "version_upstream": "",
+  "bsum": "622e0e2b9f1bc3df14e24fc16bf004f7ad3d4bc9efbd2b8c4cede3c9f90a233e",
+  "build_date": "2025-06-20T10:03:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775556678",
+  "build_id": "15775556678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/helper-ref-gen?tag=HEAD-8c10026-250618T112259-riscv64-Linux&download=helper-ref-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/helper-ref-gen?tag=HEAD-8c10026-250618T112259-riscv64-Linux&download=helper-ref-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/isovalent/ebpf-docs/helper-ref-gen:HEAD-8c10026-250618T112259-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/isovalent/ebpf-docs/helper-ref-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isovalent/ebpf-docs/helper-ref-gen?tag=HEAD-8c10026-250618T112259-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b7a6784341a4974818e018452428408c48d768fda3f19077c85364079031be9",
+  "size": "2.4 MB",
+  "size_raw": "2501928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
