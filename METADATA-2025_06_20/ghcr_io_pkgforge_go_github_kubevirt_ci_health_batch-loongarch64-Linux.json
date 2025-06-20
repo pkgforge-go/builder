@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "batch",
+  "pkg_family": "ci-health",
+  "pkg_id": "batch#github.com_kubevirt_ci_health",
+  "pkg_name": "batch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/ci-health",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metrics about CI performance in repositories using Prow",
+  "homepage": [
+    "https://github.com/kubevirt/ci-health"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "batch",
+    "stats"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/ci-health/archive/adbaf11d4208cc36f883fb7f8f2fc32442ea1e9c.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "kubevirt",
+    "metrics",
+    "prometheus",
+    "prow"
+  ],
+  "version": "HEAD-adbaf11-250620T132352",
+  "version_upstream": "",
+  "bsum": "39ddb4a6ea7ff51dca2d8ad6950375adbfd3329045809dbb576290a475f66040",
+  "build_date": "2025-06-20T19:48:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785775636",
+  "build_id": "15785775636",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ci-health/batch?tag=HEAD-adbaf11-250620T132352-loongarch64-Linux&download=batch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ci-health/batch?tag=HEAD-adbaf11-250620T132352-loongarch64-Linux&download=batch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/ci-health/batch:HEAD-adbaf11-250620T132352-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/ci-health/batch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ci-health/batch?tag=HEAD-adbaf11-250620T132352-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ae65ab376a29bfd26641b4cc07d220f357229651b5a0eab34818d98a3831e7b",
+  "size": "19 MB",
+  "size_raw": "19595808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
