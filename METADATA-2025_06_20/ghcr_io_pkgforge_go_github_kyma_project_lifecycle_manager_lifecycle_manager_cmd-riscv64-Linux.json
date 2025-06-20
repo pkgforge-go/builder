@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lifecycle-manager-cmd",
+  "pkg_family": "lifecycle-manager",
+  "pkg_id": "lifecycle-manager-cmd#github.com_kyma_project_lifecycle_manager",
+  "pkg_name": "lifecycle-manager-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyma-project/lifecycle-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Controller that manages the lifecycle of Kyma Modules in your cluster.",
+  "homepage": [
+    "https://github.com/kyma-project/lifecycle-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lifecycle-manager-cmd",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyma-project/lifecycle-manager/archive/919895fe3de784954ad169a918e6f0369bc7c52e.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kyma",
+    "operator"
+  ],
+  "version": "HEAD-919895f-250620T091302",
+  "version_upstream": "",
+  "bsum": "df677bf497b6bc8fa29b9314688c66bec617470409dd7d20587935ac779da492",
+  "build_date": "2025-06-20T20:02:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786019390",
+  "build_id": "15786019390",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/lifecycle-manager/lifecycle-manager-cmd?tag=HEAD-919895f-250620T091302-riscv64-Linux&download=lifecycle-manager-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/lifecycle-manager/lifecycle-manager-cmd?tag=HEAD-919895f-250620T091302-riscv64-Linux&download=lifecycle-manager-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyma-project/lifecycle-manager/lifecycle-manager-cmd:HEAD-919895f-250620T091302-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyma-project/lifecycle-manager/lifecycle-manager-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/lifecycle-manager/lifecycle-manager-cmd?tag=HEAD-919895f-250620T091302-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1524429ff459370377bc06696a693b510f12b5b49c82651e6f7179cf83d88a16",
+  "size": "152 MB",
+  "size_raw": "158441120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
