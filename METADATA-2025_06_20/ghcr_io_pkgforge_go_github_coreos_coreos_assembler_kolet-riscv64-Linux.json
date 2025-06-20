@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kolet",
+  "pkg_family": "coreos-assembler",
+  "pkg_id": "kolet#github.com_coreos_coreos_assembler",
+  "pkg_name": "kolet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coreos/coreos-assembler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tooling container to assemble CoreOS-like systems",
+  "homepage": [
+    "https://github.com/coreos/coreos-assembler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coreos-assembler-cmd",
+    "kola",
+    "kolet",
+    "ore",
+    "plume"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coreos/coreos-assembler/archive/40fa01d6cae22e535447caf242261b11e5f5998f.tar.gz"
+  ],
+  "tag": [
+    "buildsystem",
+    "coreos",
+    "fedora"
+  ],
+  "version": "HEAD-40fa01d-250619T225142",
+  "version_upstream": "",
+  "bsum": "b773b87be9d346453f1088c07a584a2eed0d1fd52dfef0dcf634f6f9bc96b2a5",
+  "build_date": "2025-06-20T08:20:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773778698",
+  "build_id": "15773778698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/kolet?tag=HEAD-40fa01d-250619T225142-riscv64-Linux&download=kolet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "363",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/kolet?tag=HEAD-40fa01d-250619T225142-riscv64-Linux&download=kolet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coreos/coreos-assembler/kolet:HEAD-40fa01d-250619T225142-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coreos/coreos-assembler/kolet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/kolet?tag=HEAD-40fa01d-250619T225142-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8df8fb6c4a475e28e89cb571a8ba2e6f0a0196248187d219f6adc0f61621ef11",
+  "size": "36 MB",
+  "size_raw": "37740280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
