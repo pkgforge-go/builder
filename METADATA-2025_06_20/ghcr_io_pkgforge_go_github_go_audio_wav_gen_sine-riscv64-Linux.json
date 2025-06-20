@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gen-sine",
+  "pkg_family": "wav",
+  "pkg_id": "gen-sine#github.com_go_audio_wav",
+  "pkg_name": "gen-sine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-audio/wav",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Battle tested Wav decoder/encoder",
+  "homepage": [
+    "https://github.com/go-audio/wav"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-sine",
+    "metadata",
+    "wavtagger",
+    "wavtoaiff"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-audio/wav/archive/8b4315af26293f083333d7d02dea3cf12f4d1a56.tar.gz"
+  ],
+  "tag": [
+    "audio",
+    "decoder",
+    "encoder",
+    "golang",
+    "wav"
+  ],
+  "version": "HEAD-8b4315a-241028T081703",
+  "version_upstream": "",
+  "bsum": "5eecd8eb55175e5907705a561ef408a7b2cde297902afc2a7f1780a9ee30e18e",
+  "build_date": "2025-06-20T02:59:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769634975",
+  "build_id": "15769634975",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/gen-sine?tag=HEAD-8b4315a-241028T081703-riscv64-Linux&download=gen-sine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "345",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/gen-sine?tag=HEAD-8b4315a-241028T081703-riscv64-Linux&download=gen-sine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-audio/wav/gen-sine:HEAD-8b4315a-241028T081703-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-audio/wav/gen-sine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/gen-sine?tag=HEAD-8b4315a-241028T081703-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "571ef0194b834bee7289844726791ab45824d5cbaebf55eef89ce22de18e265b",
+  "size": "1.8 MB",
+  "size_raw": "1802376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

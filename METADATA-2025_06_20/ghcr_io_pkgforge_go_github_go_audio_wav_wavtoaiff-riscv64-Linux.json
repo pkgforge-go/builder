@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wavtoaiff",
+  "pkg_family": "wav",
+  "pkg_id": "wavtoaiff#github.com_go_audio_wav",
+  "pkg_name": "wavtoaiff",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-audio/wav",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Battle tested Wav decoder/encoder",
+  "homepage": [
+    "https://github.com/go-audio/wav"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-sine",
+    "metadata",
+    "wavtagger",
+    "wavtoaiff"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-audio/wav/archive/8b4315af26293f083333d7d02dea3cf12f4d1a56.tar.gz"
+  ],
+  "tag": [
+    "audio",
+    "decoder",
+    "encoder",
+    "golang",
+    "wav"
+  ],
+  "version": "HEAD-8b4315a-241028T081703",
+  "version_upstream": "",
+  "bsum": "0e476e9c8ba3aa45e7f81a8162af7d0c5204ae6fcf502ac3a9ec86ab7395d15b",
+  "build_date": "2025-06-20T03:00:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769634975",
+  "build_id": "15769634975",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/wavtoaiff?tag=HEAD-8b4315a-241028T081703-riscv64-Linux&download=wavtoaiff.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "345",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/wavtoaiff?tag=HEAD-8b4315a-241028T081703-riscv64-Linux&download=wavtoaiff",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-audio/wav/wavtoaiff:HEAD-8b4315a-241028T081703-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-audio/wav/wavtoaiff",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/wavtoaiff?tag=HEAD-8b4315a-241028T081703-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be3d1d2fb8a2f0a47551892d1491ce60cd31858eaac8ccebe9a70d74a455fc4b",
+  "size": "1.9 MB",
+  "size_raw": "1919560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
