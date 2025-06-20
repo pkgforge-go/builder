@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "get-active-window",
+  "pkg_family": "xgb",
+  "pkg_id": "get-active-window#github.com_jezek_xgb",
+  "pkg_name": "get-active-window",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jezek/xgb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.",
+  "homepage": [
+    "https://github.com/jezek/xgb"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atoms",
+    "create-window",
+    "get-active-window",
+    "randr",
+    "shapes",
+    "xgbgen",
+    "xinerama"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jezek/xgb/archive/173fab59d6200a1502285d5d66cc21c732122a96.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-173fab5-231130T180410",
+  "version_upstream": "v1.1.1",
+  "bsum": "ddb5739412b4947f9349e03f5d21a135d078d7e2b9daecc96902c8497744ae38",
+  "build_date": "2025-06-20T13:32:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779508651",
+  "build_id": "15779508651",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/get-active-window?tag=HEAD-173fab5-231130T180410-riscv64-Linux&download=get-active-window.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "148",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/get-active-window?tag=HEAD-173fab5-231130T180410-riscv64-Linux&download=get-active-window",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jezek/xgb/get-active-window:HEAD-173fab5-231130T180410-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jezek/xgb/get-active-window",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/get-active-window?tag=HEAD-173fab5-231130T180410-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d8e11762f3652d184ca822594fa8535f8f61068840d0bc2ce7e5b9be9b77153",
+  "size": "2.6 MB",
+  "size_raw": "2683208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
