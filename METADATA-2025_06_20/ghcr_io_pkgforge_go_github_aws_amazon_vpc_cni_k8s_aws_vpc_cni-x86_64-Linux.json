@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aws-vpc-cni",
+  "pkg_family": "amazon-vpc-cni-k8s",
+  "pkg_id": "aws-vpc-cni#github.com_aws_amazon_vpc_cni_k8s",
+  "pkg_name": "aws-vpc-cni",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-vpc-cni-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+  "homepage": [
+    "https://github.com/aws/amazon-vpc-cni-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-k8s-agent",
+    "aws-vpc-cni",
+    "aws-vpc-cni-init",
+    "cni-metrics-helper",
+    "egress-cni-plugin",
+    "grpc-health-probe",
+    "routed-eni-cni-plugin",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-vpc-cni-k8s/archive/1c945a54c23fbdc81087abda1517b1f1cabafae3.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "kubernetes",
+    "pod-networking"
+  ],
+  "version": "HEAD-1c945a5-250619T195141",
+  "version_upstream": "",
+  "bsum": "717a188ff053d742c30320471bf071da3badf1a55eceb92e8a701d6c3aa2a4d8",
+  "build_date": "2025-06-20T07:53:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773343865",
+  "build_id": "15773343865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/aws-vpc-cni?tag=HEAD-1c945a5-250619T195141-x86_64-Linux&download=aws-vpc-cni.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/aws-vpc-cni?tag=HEAD-1c945a5-250619T195141-x86_64-Linux&download=aws-vpc-cni",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/aws-vpc-cni:HEAD-1c945a5-250619T195141-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/aws-vpc-cni",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/aws-vpc-cni?tag=HEAD-1c945a5-250619T195141-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa493d6b946fbcf52738404cd06d77dfe6ddcede39ee67349fefbbfd68fa46b4",
+  "size": "7.9 MB",
+  "size_raw": "8222336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
