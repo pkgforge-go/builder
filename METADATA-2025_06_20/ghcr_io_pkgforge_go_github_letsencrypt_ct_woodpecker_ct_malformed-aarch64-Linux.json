@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ct-malformed",
+  "pkg_family": "ct-woodpecker",
+  "pkg_id": "ct-malformed#github.com_letsencrypt_ct_woodpecker",
+  "pkg_name": "ct-malformed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/letsencrypt/ct-woodpecker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool to monitor a certificate transparency log for operational problems",
+  "homepage": [
+    "https://github.com/letsencrypt/ct-woodpecker"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ct-malformed",
+    "ct-test-srv",
+    "ct-woodpecker",
+    "ct-woodpecker-genissuer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/letsencrypt/ct-woodpecker/archive/cf2d5cd553b2ebde3bcf1b21e1571e0957c8dfe6.tar.gz"
+  ],
+  "tag": [
+    "alert-manager",
+    "certificate-transparency",
+    "ct",
+    "ct-woodpecker",
+    "grafana",
+    "monitoring",
+    "pki",
+    "prometheus",
+    "x509"
+  ],
+  "version": "HEAD-cf2d5cd-230412T113908",
+  "version_upstream": "",
+  "bsum": "c78298120abb5813068ded2fc88fc86bc7c585601578f351129fe3c652a6c341",
+  "build_date": "2025-06-20T20:21:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786189231",
+  "build_id": "15786189231",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/ct-woodpecker/ct-malformed?tag=HEAD-cf2d5cd-230412T113908-aarch64-Linux&download=ct-malformed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "185",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/ct-woodpecker/ct-malformed?tag=HEAD-cf2d5cd-230412T113908-aarch64-Linux&download=ct-malformed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/letsencrypt/ct-woodpecker/ct-malformed:HEAD-cf2d5cd-230412T113908-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/letsencrypt/ct-woodpecker/ct-malformed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/ct-woodpecker/ct-malformed?tag=HEAD-cf2d5cd-230412T113908-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f33927e0a266c7c432aa4b3ed30b38c72fe5bcd941512289ca2f7226408a25e2",
+  "size": "5.7 MB",
+  "size_raw": "5881536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
