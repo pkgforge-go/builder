@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "convertor",
+  "pkg_family": "cloudcost-exporter",
+  "pkg_id": "convertor#github.com_grafana_cloudcost_exporter",
+  "pkg_name": "convertor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/cloudcost-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+  "homepage": [
+    "https://github.com/grafana/cloudcost-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-spot-pricing",
+    "convertor",
+    "dashboards",
+    "exporter",
+    "gcp-fetch-skus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/cloudcost-exporter/archive/9c8a05ed29e1817b7626448e2d1fc5202ebe9368.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9c8a05e-250620T094405",
+  "version_upstream": "",
+  "bsum": "ad8797aefeaf21a68937f3030c01b52300643410bf02f030d4625c2d63982e99",
+  "build_date": "2025-06-20T18:35:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784350741",
+  "build_id": "15784350741",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/convertor?tag=HEAD-9c8a05e-250620T094405-x86_64-Linux&download=convertor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "96",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/convertor?tag=HEAD-9c8a05e-250620T094405-x86_64-Linux&download=convertor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/cloudcost-exporter/convertor:HEAD-9c8a05e-250620T094405-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/cloudcost-exporter/convertor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/convertor?tag=HEAD-9c8a05e-250620T094405-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1eac35203c310ddc682cc706c2318f4e9b3b8f3109262be30fc9b8e0a1b0514",
+  "size": "6.6 MB",
+  "size_raw": "6870360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
