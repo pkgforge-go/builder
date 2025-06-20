@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "core",
+  "pkg_family": "ok-zoomer",
+  "pkg_id": "core#github.com_jbirms_ok_zoomer",
+  "pkg_name": "core",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jbirms/ok-zoomer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go program that takes an image, uses pigo to detect a face, and creates a gif that zooms in on the face",
+  "homepage": [
+    "https://github.com/jbirms/ok-zoomer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "core",
+    "lambda"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jbirms/ok-zoomer/archive/fc07a73d844b19ba3554f9fb76c4c8ae9e662a5f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fc07a73-200102T211831",
+  "version_upstream": "",
+  "bsum": "7a31228d25e543bf129e43100f6de445553ea7e00249e8f81b0c4c5979a758f3",
+  "build_date": "2025-06-20T13:27:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779468692",
+  "build_id": "15779468692",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jbirms/ok-zoomer/core?tag=HEAD-fc07a73-200102T211831-aarch64-Linux&download=core.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "243",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jbirms/ok-zoomer/core?tag=HEAD-fc07a73-200102T211831-aarch64-Linux&download=core",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jbirms/ok-zoomer/core:HEAD-fc07a73-200102T211831-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jbirms/ok-zoomer/core",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jbirms/ok-zoomer/core?tag=HEAD-fc07a73-200102T211831-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f082f3dd629ec90e02c6702741afe1f75565af72416e58059054b50d2e0868d",
+  "size": "14 MB",
+  "size_raw": "13799872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
