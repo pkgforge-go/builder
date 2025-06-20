@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nats-server",
+  "pkg_family": "nats-server",
+  "pkg_id": "nats-server#github.com_nats_io_nats_server",
+  "pkg_name": "nats-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nats-io/nats-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+  "homepage": [
+    "https://github.com/nats-io/nats-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nats-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nats-io/nats-server/archive/f4864cbf8dc6a8e2b133dbebfc5d5cb97463eed6.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "cloud-computing",
+    "cloud-native",
+    "distributed-systems",
+    "go",
+    "golang",
+    "message-bus",
+    "message-queue",
+    "messaging",
+    "microservices-architecture",
+    "nats-server"
+  ],
+  "version": "HEAD-f4864cb-250618T210835",
+  "version_upstream": "",
+  "bsum": "a23b45224f601cdad5ec24acf79e594ca1eded70efbef4295d534d5def2ffcec",
+  "build_date": "2025-06-20T23:44:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789238154",
+  "build_id": "15789238154",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nats-io/nats-server/nats-server?tag=HEAD-f4864cb-250618T210835-aarch64-Linux&download=nats-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17358",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nats-io/nats-server/nats-server?tag=HEAD-f4864cb-250618T210835-aarch64-Linux&download=nats-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nats-io/nats-server/nats-server:HEAD-f4864cb-250618T210835-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nats-io/nats-server/nats-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nats-io/nats-server/nats-server?tag=HEAD-f4864cb-250618T210835-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fab07cf18beafac87ed545f6cdcb2965e826a4664d8c86684d0afd53268d7ab1",
+  "size": "15 MB",
+  "size_raw": "15574880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
