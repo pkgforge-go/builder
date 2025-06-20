@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sdp-encode",
+  "pkg_family": "sdp",
+  "pkg_id": "sdp-encode#github.com_gortc_sdp",
+  "pkg_name": "sdp-encode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gortc/sdp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RFC 4566 SDP implementation in go",
+  "homepage": [
+    "https://github.com/gortc/sdp"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sdp-decode",
+    "sdp-encode",
+    "sdp-encode-low"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gortc/sdp/archive/a7dc7232312a35d392e569c36448ba1860fde415.tar.gz"
+  ],
+  "tag": [
+    "decoder",
+    "encoding",
+    "go",
+    "golang",
+    "gortc",
+    "protocol",
+    "rfc-4566",
+    "sdp",
+    "webrtc"
+  ],
+  "version": "HEAD-a7dc723-200501T194010",
+  "version_upstream": "",
+  "bsum": "7a3fe2186f31757bebfe641644402b4637bb887303df2b5d7732ca6a6aada8d6",
+  "build_date": "2025-06-20T04:38:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771136332",
+  "build_id": "15771136332",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode?tag=HEAD-a7dc723-200501T194010-riscv64-Linux&download=sdp-encode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "113",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode?tag=HEAD-a7dc723-200501T194010-riscv64-Linux&download=sdp-encode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gortc/sdp/sdp-encode:HEAD-a7dc723-200501T194010-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gortc/sdp/sdp-encode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode?tag=HEAD-a7dc723-200501T194010-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4687a906dd3f5461e9a478ba8cffe5b838157d614d9f1c501bce6b960dc18311",
+  "size": "1.7 MB",
+  "size_raw": "1776808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
