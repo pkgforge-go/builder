@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate-keys",
+  "pkg_family": "dendrite",
+  "pkg_id": "generate-keys#github.com_matrix_org_dendrite",
+  "pkg_name": "generate-keys",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrix-org/dendrite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+  "homepage": [
+    "https://github.com/matrix-org/dendrite"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-account",
+    "dendrite",
+    "dendrite-demo-i2p",
+    "dendrite-demo-pinecone",
+    "dendrite-demo-tor",
+    "dendrite-demo-yggdrasil",
+    "dendrite-upgrade-tests",
+    "dendritejs-pinecone",
+    "furl",
+    "generate-config",
+    "generate-keys",
+    "resolve-state"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrix-org/dendrite/archive/084181332b5c364e2442d3c98522ad8848bc4d36.tar.gz"
+  ],
+  "tag": [
+    "dendrite",
+    "golang",
+    "hacktoberfest",
+    "matrix",
+    "matrix-homeserver",
+    "matrix-org"
+  ],
+  "version": "HEAD-0841813-241125T110410",
+  "version_upstream": "",
+  "bsum": "2bbd0f5623dca506fc8d323f510b8372d869e9685679321b95b410f6bf7e7ae3",
+  "build_date": "2025-06-20T21:50:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787955158",
+  "build_id": "15787955158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/generate-keys?tag=HEAD-0841813-241125T110410-aarch64-Linux&download=generate-keys.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/generate-keys?tag=HEAD-0841813-241125T110410-aarch64-Linux&download=generate-keys",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrix-org/dendrite/generate-keys:HEAD-0841813-241125T110410-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrix-org/dendrite/generate-keys",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/generate-keys?tag=HEAD-0841813-241125T110410-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42cd2b231f83fb0e098c4f73fa8960416681418de34074311eb8b4e6bc099613",
+  "size": "4.9 MB",
+  "size_raw": "5038688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0841813-241125T110410-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dendrite-demo-tor",
+  "pkg_family": "dendrite",
+  "pkg_id": "dendrite-demo-tor#github.com_matrix_org_dendrite",
+  "pkg_name": "dendrite-demo-tor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrix-org/dendrite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+  "homepage": [
+    "https://github.com/matrix-org/dendrite"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-account",
+    "dendrite",
+    "dendrite-demo-i2p",
+    "dendrite-demo-pinecone",
+    "dendrite-demo-tor",
+    "dendrite-demo-yggdrasil",
+    "dendrite-upgrade-tests",
+    "dendritejs-pinecone",
+    "furl",
+    "generate-config",
+    "generate-keys",
+    "resolve-state"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrix-org/dendrite/archive/084181332b5c364e2442d3c98522ad8848bc4d36.tar.gz"
+  ],
+  "tag": [
+    "dendrite",
+    "golang",
+    "hacktoberfest",
+    "matrix",
+    "matrix-homeserver",
+    "matrix-org"
+  ],
+  "version": "HEAD-0841813-241125T110410",
+  "version_upstream": "",
+  "bsum": "1581f0956a7c26a2b0d761fc979708cd1e7cff0f53fcf9ae3ae78f7180022e4c",
+  "build_date": "2025-06-20T21:50:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787955158",
+  "build_id": "15787955158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-tor?tag=HEAD-0841813-241125T110410-aarch64-Linux&download=dendrite-demo-tor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-tor?tag=HEAD-0841813-241125T110410-aarch64-Linux&download=dendrite-demo-tor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-tor:HEAD-0841813-241125T110410-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-tor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-tor?tag=HEAD-0841813-241125T110410-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d94eda7588b818b38baffd054400f5e2d6edab7d05e129f3792091ea3704364f",
+  "size": "39 MB",
+  "size_raw": "39950848",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0841813-241125T110410-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
