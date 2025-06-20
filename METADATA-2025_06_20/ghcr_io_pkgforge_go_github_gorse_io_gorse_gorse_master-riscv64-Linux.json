@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gorse-master",
+  "pkg_family": "gorse",
+  "pkg_id": "gorse-master#github.com_gorse_io_gorse",
+  "pkg_name": "gorse-master",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gorse-io/gorse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gorse open source recommender system engine",
+  "homepage": [
+    "https://github.com/gorse-io/gorse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gorse-in-one",
+    "gorse-master",
+    "gorse-server",
+    "gorse-worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gorse-io/gorse/archive/02cd1a70e29f4f7d397ea9bbe5278c6cffc9d13d.tar.gz"
+  ],
+  "tag": [
+    "collaborative-filtering",
+    "go",
+    "knn",
+    "machine-learning",
+    "recommender-system"
+  ],
+  "version": "HEAD-02cd1a7-250607T190757",
+  "version_upstream": "",
+  "bsum": "45d4e1ea7c82efe4aa2d7dc923fbbba0c31275818a497911784a6a4d82ee98ad",
+  "build_date": "2025-06-20T04:43:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771134982",
+  "build_id": "15771134982",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gorse-io/gorse/gorse-master?tag=HEAD-02cd1a7-250607T190757-riscv64-Linux&download=gorse-master.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gorse-io/gorse/gorse-master?tag=HEAD-02cd1a7-250607T190757-riscv64-Linux&download=gorse-master",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gorse-io/gorse/gorse-master:HEAD-02cd1a7-250607T190757-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gorse-io/gorse/gorse-master",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gorse-io/gorse/gorse-master?tag=HEAD-02cd1a7-250607T190757-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a0390369b53c0b359072b0f0aacf0a65679179850c8af21addeeb85dde8f022",
+  "size": "72 MB",
+  "size_raw": "74789496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
