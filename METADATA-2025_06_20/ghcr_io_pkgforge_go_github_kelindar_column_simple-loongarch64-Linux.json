@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "simple",
+  "pkg_family": "column",
+  "pkg_id": "simple#github.com_kelindar_column",
+  "pkg_name": "simple",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelindar/column",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance, columnar, in-memory store with bitmap indexing in Go",
+  "homepage": [
+    "https://github.com/kelindar/column"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench",
+    "cache",
+    "codegen",
+    "merge",
+    "million",
+    "simple",
+    "snapshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelindar/column/archive/0af9c372db72a60ff7f32bde50350c6fdbf3498c.tar.gz"
+  ],
+  "tag": [
+    "bitmap",
+    "columnar-storage",
+    "data-oriented",
+    "db",
+    "indexing",
+    "soa"
+  ],
+  "version": "HEAD-0af9c37-231013T235249",
+  "version_upstream": "v0.4.1",
+  "bsum": "36ca3282055ae6dee31894e32c8219b2edb18cd0c30539bc1d8d727eeb944afd",
+  "build_date": "2025-06-20T14:42:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780396621",
+  "build_id": "15780396621",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/simple?tag=HEAD-0af9c37-231013T235249-loongarch64-Linux&download=simple.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1475",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/simple?tag=HEAD-0af9c37-231013T235249-loongarch64-Linux&download=simple",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelindar/column/simple:HEAD-0af9c37-231013T235249-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelindar/column/simple",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/simple?tag=HEAD-0af9c37-231013T235249-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "706116ef9b2aa930b90a2c5788734995b2277dfcfe6f85fd13b934637acfbaa5",
+  "size": "2.6 MB",
+  "size_raw": "2677888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
