@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ipfswatch",
+  "pkg_family": "kubo",
+  "pkg_id": "ipfswatch#github.com_ipfs_kubo",
+  "pkg_name": "ipfswatch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/kubo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IPFS implementation in Go",
+  "homepage": [
+    "https://github.com/ipfs/kubo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-startup",
+    "bench_cli_ipfs_add",
+    "ipfs",
+    "ipfswatch",
+    "offline_add"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/kubo/archive/92aa9936c7bd4b09b7203009cde02d2670b5f326.tar.gz"
+  ],
+  "tag": [
+    "ipfs"
+  ],
+  "version": "HEAD-92aa993-250618T191558",
+  "version_upstream": "",
+  "bsum": "da067f825f809900f11f3cf573a19371a2102c3a9b3ad4ad616fbd2c390b123c",
+  "build_date": "2025-06-20T10:02:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775416783",
+  "build_id": "15775416783",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/ipfswatch?tag=HEAD-92aa993-250618T191558-riscv64-Linux&download=ipfswatch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/ipfswatch?tag=HEAD-92aa993-250618T191558-riscv64-Linux&download=ipfswatch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/kubo/ipfswatch:HEAD-92aa993-250618T191558-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/kubo/ipfswatch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/ipfswatch?tag=HEAD-92aa993-250618T191558-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f31950afc6caee088644c21f3a62b38903a77edf14c5991928a74641fa135803",
+  "size": "78 MB",
+  "size_raw": "81627672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
