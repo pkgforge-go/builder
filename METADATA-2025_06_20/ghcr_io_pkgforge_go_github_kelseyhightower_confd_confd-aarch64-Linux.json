@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "confd",
+  "pkg_family": "confd",
+  "pkg_id": "confd#github.com_kelseyhightower_confd",
+  "pkg_name": "confd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelseyhightower/confd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage local application configuration files using templates and data from etcd or consul",
+  "homepage": [
+    "https://github.com/kelseyhightower/confd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "confd",
+    "ssm",
+    "zookeeper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelseyhightower/confd/archive/919444eb6cf721d198b2bb18581d0f0b3734d107.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-919444e-231208T220906",
+  "version_upstream": "",
+  "bsum": "4aa40ad466a57ef237ba60d3a0d8d1eb0b26e662876f25f293b09a642cdbc181",
+  "build_date": "2025-06-20T14:45:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780408967",
+  "build_id": "15780408967",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelseyhightower/confd/confd?tag=HEAD-919444e-231208T220906-aarch64-Linux&download=confd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelseyhightower/confd/confd?tag=HEAD-919444e-231208T220906-aarch64-Linux&download=confd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelseyhightower/confd/confd:HEAD-919444e-231208T220906-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelseyhightower/confd/confd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelseyhightower/confd/confd?tag=HEAD-919444e-231208T220906-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7329daf91e81a9b68266ae04c6b6897dd59dab46eda79b7795407a58d465beb3",
+  "size": "28 MB",
+  "size_raw": "28931808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
