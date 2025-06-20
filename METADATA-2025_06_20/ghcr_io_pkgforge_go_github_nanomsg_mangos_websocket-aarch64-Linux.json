@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "websocket",
+  "pkg_family": "mangos",
+  "pkg_id": "websocket#github.com_nanomsg_mangos",
+  "pkg_name": "websocket",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nanomsg/mangos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "mangos is a pure Golang implementation of nanomsg_s _Scalablilty Protocols_",
+  "homepage": [
+    "https://github.com/nanomsg/mangos"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bus",
+    "context",
+    "macat",
+    "pair",
+    "perf",
+    "pipeline",
+    "pubsub",
+    "raw",
+    "reqrep",
+    "survey",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nanomsg/mangos/archive/7020082df9dd3cee315eef6b04fafeffd8a9c166.tar.gz"
+  ],
+  "tag": [
+    "golang-network",
+    "message",
+    "nanomsg",
+    "nng",
+    "pubsub",
+    "queue"
+  ],
+  "version": "HEAD-7020082-250409T150906",
+  "version_upstream": "",
+  "bsum": "cb12de3be2f5f3a6a0d6bc0941f70a63cad3dac1fd56b165afee49d842595405",
+  "build_date": "2025-06-20T23:38:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789204142",
+  "build_id": "15789204142",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/websocket?tag=HEAD-7020082-250409T150906-aarch64-Linux&download=websocket.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "711",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/websocket?tag=HEAD-7020082-250409T150906-aarch64-Linux&download=websocket",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nanomsg/mangos/websocket:HEAD-7020082-250409T150906-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nanomsg/mangos/websocket",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/websocket?tag=HEAD-7020082-250409T150906-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c108bb0acb64b426a6b6f5dd84a32062f2c040ca4bb839e43e58cd490f8745d",
+  "size": "6.6 MB",
+  "size_raw": "6835264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
