@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "keycloak-controller",
+  "pkg_family": "keycloak-controller",
+  "pkg_id": "keycloak-controller#github.com_DoodleScheduling_keycloak_controller",
+  "pkg_name": "keycloak-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DoodleScheduling/keycloak-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Keycloak realm reconciliation for kubernetes",
+  "homepage": [
+    "https://github.com/DoodleScheduling/keycloak-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keycloak-controller",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DoodleScheduling/keycloak-controller/archive/df3d51cfb5fcd06352f295f7e04d55db799f1e4c.tar.gz"
+  ],
+  "tag": [
+    "keycloak",
+    "kubernetes-controller",
+    "realm"
+  ],
+  "version": "HEAD-df3d51c-250619T220714",
+  "version_upstream": "",
+  "bsum": "4a1e27aff05f938d950aa09aae848df19390f61f874308c6f50bc4e1d1212d32",
+  "build_date": "2025-06-20T07:15:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773092425",
+  "build_id": "15773092425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doodlescheduling/keycloak-controller/keycloak-controller?tag=HEAD-df3d51c-250619T220714-riscv64-Linux&download=keycloak-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doodlescheduling/keycloak-controller/keycloak-controller?tag=HEAD-df3d51c-250619T220714-riscv64-Linux&download=keycloak-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/doodlescheduling/keycloak-controller/keycloak-controller:HEAD-df3d51c-250619T220714-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/doodlescheduling/keycloak-controller/keycloak-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doodlescheduling/keycloak-controller/keycloak-controller?tag=HEAD-df3d51c-250619T220714-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17d80ed5b357578d55937cb752d51377bde62da9a7d1882a9af9d72ecb40e46d",
+  "size": "74 MB",
+  "size_raw": "76681240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
