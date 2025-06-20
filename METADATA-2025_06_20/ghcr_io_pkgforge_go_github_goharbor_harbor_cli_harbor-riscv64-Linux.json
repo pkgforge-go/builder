@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "harbor",
+  "pkg_family": "harbor-cli",
+  "pkg_id": "harbor#github.com_goharbor_harbor_cli",
+  "pkg_name": "harbor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goharbor/harbor-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[Sandbox] Official Harbor CLI",
+  "homepage": [
+    "https://github.com/goharbor/harbor-cli"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "harbor",
+    "harbor-cli-doc",
+    "man-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/goharbor/harbor-cli/archive/9929fd959ace357661f7c2d9f7601f690af39a3a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9929fd9-250620T014357",
+  "version_upstream": "",
+  "bsum": "a542f9df53f0f328be9c411d4d6183207f6318ff127f1ba0312b45ba306f5000",
+  "build_date": "2025-06-20T09:12:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774590712",
+  "build_id": "15774590712",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goharbor/harbor-cli/harbor?tag=HEAD-9929fd9-250620T014357-riscv64-Linux&download=harbor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goharbor/harbor-cli/harbor?tag=HEAD-9929fd9-250620T014357-riscv64-Linux&download=harbor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goharbor/harbor-cli/harbor:HEAD-9929fd9-250620T014357-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goharbor/harbor-cli/harbor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goharbor/harbor-cli/harbor?tag=HEAD-9929fd9-250620T014357-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46dddfa133ef9ad2c7e0ebaa26517087373ad71d6b713610631f4bac41118319",
+  "size": "15 MB",
+  "size_raw": "14819704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
