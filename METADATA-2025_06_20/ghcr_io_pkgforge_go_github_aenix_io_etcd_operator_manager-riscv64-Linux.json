@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "etcd-operator",
+  "pkg_id": "manager#github.com_aenix_io_etcd_operator",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aenix-io/etcd-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New generation community-driven etcd-operator!",
+  "homepage": [
+    "https://github.com/aenix-io/etcd-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-etcd",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aenix-io/etcd-operator/archive/856fede289aa4ba622e725574ad75a585056abaa.tar.gz"
+  ],
+  "tag": [
+    "etcd",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-856fede-250429T173825",
+  "version_upstream": "",
+  "bsum": "0ad270603f5b0c773ed96c5f5393646f0abbc4a3e9685e08e232ed7c84991a20",
+  "build_date": "2025-06-20T07:37:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773160558",
+  "build_id": "15773160558",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aenix-io/etcd-operator/manager?tag=HEAD-856fede-250429T173825-riscv64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "120",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aenix-io/etcd-operator/manager?tag=HEAD-856fede-250429T173825-riscv64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aenix-io/etcd-operator/manager:HEAD-856fede-250429T173825-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aenix-io/etcd-operator/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aenix-io/etcd-operator/manager?tag=HEAD-856fede-250429T173825-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "abc2a30ebd85ca269ff7110d8ed8d3ba9909e5b60d228b08ea5b4d33ada3b537",
+  "size": "44 MB",
+  "size_raw": "45359128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
