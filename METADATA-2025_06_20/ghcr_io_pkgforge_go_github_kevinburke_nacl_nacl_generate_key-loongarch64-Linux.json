@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nacl-generate-key",
+  "pkg_family": "nacl",
+  "pkg_id": "nacl-generate-key#github.com_kevinburke_nacl",
+  "pkg_name": "nacl-generate-key",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kevinburke/nacl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure Go implementation of the NaCL set of API_s",
+  "homepage": [
+    "https://github.com/kevinburke/nacl"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-sign-keypair",
+    "nacl-generate-box-key",
+    "nacl-generate-key"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kevinburke/nacl/archive/4fa338b68f84c937d8ae474cd896a8c1bfc3e236.tar.gz"
+  ],
+  "tag": [
+    "curve25519",
+    "golang",
+    "nacl",
+    "secretbox",
+    "security"
+  ],
+  "version": "HEAD-4fa338b-250517T204207",
+  "version_upstream": "",
+  "bsum": "880189eb0a08d4efbc56482964372d12506b304839eea1d46d583ad02db7e308",
+  "build_date": "2025-06-20T14:50:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780428981",
+  "build_id": "15780428981",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/nacl-generate-key?tag=HEAD-4fa338b-250517T204207-loongarch64-Linux&download=nacl-generate-key.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "547",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/nacl-generate-key?tag=HEAD-4fa338b-250517T204207-loongarch64-Linux&download=nacl-generate-key",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kevinburke/nacl/nacl-generate-key:HEAD-4fa338b-250517T204207-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kevinburke/nacl/nacl-generate-key",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/nacl-generate-key?tag=HEAD-4fa338b-250517T204207-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5568647a47850720e8b6be99b63bb64c0ac58dfca2a1265f9db619aae585da81",
+  "size": "1.9 MB",
+  "size_raw": "1890528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
