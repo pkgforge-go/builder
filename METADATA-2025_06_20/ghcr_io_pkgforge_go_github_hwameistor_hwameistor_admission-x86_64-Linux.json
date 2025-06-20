@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "admission",
+  "pkg_family": "hwameistor",
+  "pkg_id": "admission#github.com_hwameistor_hwameistor",
+  "pkg_name": "admission",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hwameistor/hwameistor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hwameistor is an HA local storage system for cloud-native stateful workloads.",
+  "homepage": [
+    "https://github.com/hwameistor/hwameistor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "apiserver",
+    "auditor",
+    "evictor",
+    "exporter",
+    "failover-assistant",
+    "hwameictl",
+    "local-disk-action-controller",
+    "local-disk-manager",
+    "local-storage",
+    "manager",
+    "pvc-autoresizer",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hwameistor/hwameistor/archive/d19e56ec65c18351ad4299bf8bf90501a8360d1b.tar.gz"
+  ],
+  "tag": [
+    "high-availability",
+    "k8s-sig-storage",
+    "kubernetes",
+    "storage"
+  ],
+  "version": "HEAD-d19e56e-250620T102335",
+  "version_upstream": "v0.16.4",
+  "bsum": "0645edf0f566ce894f23fac9538a26a746d5eaf822dc4c8f9e29d7235684bccf",
+  "build_date": "2025-06-20T09:51:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775256157",
+  "build_id": "15775256157",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/admission?tag=HEAD-d19e56e-250620T102335-x86_64-Linux&download=admission.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/admission?tag=HEAD-d19e56e-250620T102335-x86_64-Linux&download=admission",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hwameistor/hwameistor/admission:HEAD-d19e56e-250620T102335-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hwameistor/hwameistor/admission",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/admission?tag=HEAD-d19e56e-250620T102335-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2761f0adecd72d678f7a7e5033120ac20db916190497fe348af20ca88487700",
+  "size": "40 MB",
+  "size_raw": "41140224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
