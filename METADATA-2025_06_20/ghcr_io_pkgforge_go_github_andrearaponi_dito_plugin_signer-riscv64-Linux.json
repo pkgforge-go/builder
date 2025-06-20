@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "plugin-signer",
+  "pkg_family": "dito",
+  "pkg_id": "plugin-signer#github.com_andrearaponi_dito",
+  "pkg_name": "plugin-signer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/andrearaponi/dito",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "an advanced reverse proxy server written in Go",
+  "homepage": [
+    "https://github.com/andrearaponi/dito"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dito-cmd",
+    "plugin-signer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/andrearaponi/dito/archive/3c6c63f9c44d4940dfe3a3e355b31d26833178d2.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "go",
+    "golang",
+    "kubernetes",
+    "microservices",
+    "reverse-proxy"
+  ],
+  "version": "HEAD-3c6c63f-250619T201334",
+  "version_upstream": "",
+  "bsum": "3d516a002870a69123708c73bbed69bb22d60e5700d3c519815b61ceed5d0a94",
+  "build_date": "2025-06-20T07:39:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773227767",
+  "build_id": "15773227767",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/andrearaponi/dito/plugin-signer?tag=HEAD-3c6c63f-250619T201334-riscv64-Linux&download=plugin-signer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "636",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/andrearaponi/dito/plugin-signer?tag=HEAD-3c6c63f-250619T201334-riscv64-Linux&download=plugin-signer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/andrearaponi/dito/plugin-signer:HEAD-3c6c63f-250619T201334-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/andrearaponi/dito/plugin-signer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/andrearaponi/dito/plugin-signer?tag=HEAD-3c6c63f-250619T201334-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a62fd4a61c3ebee2435161993e84f490699118f037326a3a1e22643e08d77d18",
+  "size": "1.9 MB",
+  "size_raw": "1936984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
