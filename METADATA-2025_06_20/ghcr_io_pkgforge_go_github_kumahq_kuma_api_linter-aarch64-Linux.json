@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "api-linter",
+  "pkg_family": "kuma",
+  "pkg_id": "api-linter#github.com_kumahq_kuma",
+  "pkg_name": "api-linter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kumahq/kuma",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
+  "homepage": [
+    "https://github.com/kumahq/kuma"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-linter",
+    "bootstrap",
+    "ci",
+    "generator",
+    "install",
+    "kuma-cni",
+    "kuma-cp",
+    "kuma-dp",
+    "kumactl",
+    "resource-gen",
+    "server",
+    "update-vulnerable-dependencies",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kumahq/kuma/archive/a5569b9f86f9fcd649bb1c6baea94c821745386c.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "cloud-native",
+    "cncf",
+    "connectivity",
+    "control-plane",
+    "controlplane",
+    "envoy",
+    "envoyproxy",
+    "golang",
+    "kong",
+    "kubernetes",
+    "kuma",
+    "mesh",
+    "microservices",
+    "networking",
+    "service-mesh",
+    "servicemesh",
+    "sidecar-proxy"
+  ],
+  "version": "HEAD-a5569b9-250620T074747",
+  "version_upstream": "",
+  "bsum": "8e67c4a36b0e061fb1a4ce5598b6131a25f6803bda88bff489b9e4bd8e73cfbd",
+  "build_date": "2025-06-20T20:05:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785997393",
+  "build_id": "15785997393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/api-linter?tag=HEAD-a5569b9-250620T074747-aarch64-Linux&download=api-linter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3813",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/api-linter?tag=HEAD-a5569b9-250620T074747-aarch64-Linux&download=api-linter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kumahq/kuma/api-linter:HEAD-a5569b9-250620T074747-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kumahq/kuma/api-linter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/api-linter?tag=HEAD-a5569b9-250620T074747-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "696ecac249324e56f1ff92689d1b17b80fde873a1f7a22ff5638f62719e368b8",
+  "size": "6.5 MB",
+  "size_raw": "6787808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

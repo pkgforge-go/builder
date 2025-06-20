@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "install",
+  "pkg_family": "kuma",
+  "pkg_id": "install#github.com_kumahq_kuma",
+  "pkg_name": "install",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kumahq/kuma",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
+  "homepage": [
+    "https://github.com/kumahq/kuma"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-linter",
+    "bootstrap",
+    "ci",
+    "generator",
+    "install",
+    "kuma-cni",
+    "kuma-cp",
+    "kuma-dp",
+    "kumactl",
+    "resource-gen",
+    "server",
+    "update-vulnerable-dependencies",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kumahq/kuma/archive/a5569b9f86f9fcd649bb1c6baea94c821745386c.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "cloud-native",
+    "cncf",
+    "connectivity",
+    "control-plane",
+    "controlplane",
+    "envoy",
+    "envoyproxy",
+    "golang",
+    "kong",
+    "kubernetes",
+    "kuma",
+    "mesh",
+    "microservices",
+    "networking",
+    "service-mesh",
+    "servicemesh",
+    "sidecar-proxy"
+  ],
+  "version": "HEAD-a5569b9-250620T074747",
+  "version_upstream": "",
+  "bsum": "059a88353ca05d00bce5e6615b4695af0b2dee5654048652869b5780c646d36a",
+  "build_date": "2025-06-20T20:06:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785997393",
+  "build_id": "15785997393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/install?tag=HEAD-a5569b9-250620T074747-aarch64-Linux&download=install.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3813",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/install?tag=HEAD-a5569b9-250620T074747-aarch64-Linux&download=install",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kumahq/kuma/install:HEAD-a5569b9-250620T074747-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kumahq/kuma/install",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/install?tag=HEAD-a5569b9-250620T074747-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da23de6d872cb2ece1522396e4dde1f215a0d42cafbe96af8eb6d3718b8b691d",
+  "size": "39 MB",
+  "size_raw": "40641888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
