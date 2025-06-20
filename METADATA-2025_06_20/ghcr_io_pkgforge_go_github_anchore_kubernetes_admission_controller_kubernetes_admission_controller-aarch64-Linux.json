@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kubernetes-admission-controller",
+  "pkg_family": "kubernetes-admission-controller",
+  "pkg_id": "kubernetes-admission-controller#github.com_anchore_kubernetes_admission_controller",
+  "pkg_name": "kubernetes-admission-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/kubernetes-admission-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Service implementation for a Kubernetes Dynamic Webhook controller for interacting with Anchore",
+  "homepage": [
+    "https://github.com/anchore/kubernetes-admission-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubernetes-admission-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anchore/kubernetes-admission-controller/archive/a78e16373947d04c83b7dbc659cd8f3331714e88.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a78e163-250620T115938",
+  "version_upstream": "",
+  "bsum": "5f3b613114a5d47c7a7809a9e8b6f7e286d33e7e9cd919e778612c6ea2c10d05",
+  "build_date": "2025-06-20T17:09:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782912235",
+  "build_id": "15782912235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/kubernetes-admission-controller/kubernetes-admission-controller?tag=HEAD-a78e163-250620T115938-aarch64-Linux&download=kubernetes-admission-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/kubernetes-admission-controller/kubernetes-admission-controller?tag=HEAD-a78e163-250620T115938-aarch64-Linux&download=kubernetes-admission-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/kubernetes-admission-controller/kubernetes-admission-controller:HEAD-a78e163-250620T115938-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/kubernetes-admission-controller/kubernetes-admission-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/kubernetes-admission-controller/kubernetes-admission-controller?tag=HEAD-a78e163-250620T115938-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ebbfa68f2b397b34dc76e59f41243eac487ae0e80b8abc41ab435abda112ad30",
+  "size": "78 MB",
+  "size_raw": "81704960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
