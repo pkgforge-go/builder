@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cassandra-reader",
+  "pkg_family": "mainflux",
+  "pkg_id": "cassandra-reader#github.com_mainflux_mainflux",
+  "pkg_name": "cassandra-reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mainflux/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/mainflux/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bootstrap",
+    "cassandra-reader",
+    "cassandra-writer",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "influxdb-reader",
+    "influxdb-writer",
+    "lora",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "opcua",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "twins",
+    "users",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mainflux/mainflux/archive/35230a90bfbe8699c0503ddaebbd540d8d6bb410.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-35230a9-240809T222515",
+  "version_upstream": "",
+  "bsum": "9e955af1b467381d8b348140620d7a83c0a02a43d5decb22b158e613b955f502",
+  "build_date": "2025-06-20T21:33:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787365567",
+  "build_id": "15787365567",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/cassandra-reader?tag=HEAD-35230a9-240809T222515-riscv64-Linux&download=cassandra-reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/cassandra-reader?tag=HEAD-35230a9-240809T222515-riscv64-Linux&download=cassandra-reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainflux/mainflux/cassandra-reader:HEAD-35230a9-240809T222515-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainflux/mainflux/cassandra-reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/cassandra-reader?tag=HEAD-35230a9-240809T222515-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a72aa2940f54117bf251557d36e48e46d602b6b87bad6ae8cb416771e2034c6c",
+  "size": "20 MB",
+  "size_raw": "20878360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

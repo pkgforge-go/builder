@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "influxdb-reader",
+  "pkg_family": "mainflux",
+  "pkg_id": "influxdb-reader#github.com_mainflux_mainflux",
+  "pkg_name": "influxdb-reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mainflux/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/mainflux/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bootstrap",
+    "cassandra-reader",
+    "cassandra-writer",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "influxdb-reader",
+    "influxdb-writer",
+    "lora",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "opcua",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "twins",
+    "users",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mainflux/mainflux/archive/35230a90bfbe8699c0503ddaebbd540d8d6bb410.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-35230a9-240809T222515",
+  "version_upstream": "",
+  "bsum": "105fa43043d65e6336e391bd6dfde7b4d9ef9fac92fc0faae73c113c65541fd6",
+  "build_date": "2025-06-20T21:33:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787365567",
+  "build_id": "15787365567",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/influxdb-reader?tag=HEAD-35230a9-240809T222515-riscv64-Linux&download=influxdb-reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/influxdb-reader?tag=HEAD-35230a9-240809T222515-riscv64-Linux&download=influxdb-reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainflux/mainflux/influxdb-reader:HEAD-35230a9-240809T222515-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainflux/mainflux/influxdb-reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/influxdb-reader?tag=HEAD-35230a9-240809T222515-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5df67381ea85f8423b6de84e426fffc6bf6e1c8b472a38a83242b3c5b7c61dd7",
+  "size": "28 MB",
+  "size_raw": "28313400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
