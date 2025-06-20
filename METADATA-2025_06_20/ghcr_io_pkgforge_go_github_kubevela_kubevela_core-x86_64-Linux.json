@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "core",
+  "pkg_family": "kubevela",
+  "pkg_id": "core#github.com_kubevela_kubevela",
+  "pkg_name": "core",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevela/kubevela",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Modern Application Platform.",
+  "homepage": [
+    "https://github.com/kubevela/kubevela"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "collect-translation",
+    "core",
+    "def",
+    "dispatch",
+    "mock",
+    "plugin",
+    "terraform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevela/kubevela/archive/7d72fa904c73a476753b6ccaa0dcd06fe6b4817d.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "cloudnative",
+    "cncf",
+    "continuous-delivery",
+    "control-plane",
+    "cue",
+    "helm",
+    "hybridcloud",
+    "kubernetes",
+    "microservices",
+    "multicloud",
+    "multicluster",
+    "oam",
+    "paas",
+    "serverless",
+    "trait",
+    "workloads"
+  ],
+  "version": "HEAD-7d72fa9-250617T102559",
+  "version_upstream": "",
+  "bsum": "5be5724458869392468e7e502678d334e1762ed4169c11717404b08a67faa991",
+  "build_date": "2025-06-20T20:01:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785774271",
+  "build_id": "15785774271",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kubevela/core?tag=HEAD-7d72fa9-250617T102559-x86_64-Linux&download=core.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6728",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kubevela/core?tag=HEAD-7d72fa9-250617T102559-x86_64-Linux&download=core",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevela/kubevela/core:HEAD-7d72fa9-250617T102559-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevela/kubevela/core",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kubevela/core?tag=HEAD-7d72fa9-250617T102559-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d4d2a9bbed56061ef765b8a90e106fbb8b470c829d47215b49a8e0f31254078",
+  "size": "114 MB",
+  "size_raw": "118666144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
