@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "filtermanager",
+  "pkg_family": "retina",
+  "pkg_id": "filtermanager#github.com_microsoft_retina",
+  "pkg_name": "filtermanager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "captureworkload",
+    "controller",
+    "dns",
+    "dropreason",
+    "enricher",
+    "filtermanager",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "packetforward",
+    "packetparser",
+    "retina",
+    "retina-cli",
+    "utsummary",
+    "veth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/586a3a688c488c410f40f4ce78dc99e0ad857e53.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-586a3a6-250619T115102",
+  "version_upstream": "",
+  "bsum": "15193600b7244b816ce2a807c2c77aa1584a84bff636526d53c5e560a4893530",
+  "build_date": "2025-06-20T22:29:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788360945",
+  "build_id": "15788360945",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/filtermanager?tag=HEAD-586a3a6-250619T115102-x86_64-Linux&download=filtermanager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2980",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/filtermanager?tag=HEAD-586a3a6-250619T115102-x86_64-Linux&download=filtermanager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/filtermanager:HEAD-586a3a6-250619T115102-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/filtermanager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/filtermanager?tag=HEAD-586a3a6-250619T115102-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "783eb59f8789aed22dfc3885b120e9a9430f945d19f2d8f0327b88c63c4db18f",
+  "size": "43 MB",
+  "size_raw": "44418232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
