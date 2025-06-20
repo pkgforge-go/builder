@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fcurl",
+  "pkg_family": "fortio",
+  "pkg_id": "fcurl#github.com_fortio_fortio",
+  "pkg_name": "fcurl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fortio/fortio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go _golang_. Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+  "homepage": [
+    "https://github.com/fortio/fortio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "echosrv",
+    "fcurl",
+    "fortio",
+    "histogram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fortio/fortio/archive/6b8dbd3ce8e2e13126fd824a7688b6f112c36018.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "golang-application",
+    "golang-library",
+    "grpc",
+    "http",
+    "performance",
+    "performance-testing",
+    "performance-visualization",
+    "proxy"
+  ],
+  "version": "HEAD-6b8dbd3-250602T072340",
+  "version_upstream": "",
+  "bsum": "dbe764e37dd3805a2b531482902c5c2f1894e3cc41b2ba33bb49d3b8ed349b42",
+  "build_date": "2025-06-20T00:12:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767955212",
+  "build_id": "15767955212",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/fortio/fcurl?tag=HEAD-6b8dbd3-250602T072340-riscv64-Linux&download=fcurl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3542",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/fortio/fcurl?tag=HEAD-6b8dbd3-250602T072340-riscv64-Linux&download=fcurl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fortio/fortio/fcurl:HEAD-6b8dbd3-250602T072340-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fortio/fortio/fcurl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/fortio/fcurl?tag=HEAD-6b8dbd3-250602T072340-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75a10368ccf3ecefe613a32303beecf2ae4ea4f5ba11f21f475e92433dfa068d",
+  "size": "8.2 MB",
+  "size_raw": "8555128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
