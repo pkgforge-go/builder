@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kola",
+  "pkg_family": "coreos-assembler",
+  "pkg_id": "kola#github.com_coreos_coreos_assembler",
+  "pkg_name": "kola",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coreos/coreos-assembler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tooling container to assemble CoreOS-like systems",
+  "homepage": [
+    "https://github.com/coreos/coreos-assembler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coreos-assembler-cmd",
+    "kola",
+    "kolet",
+    "ore",
+    "plume"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coreos/coreos-assembler/archive/40fa01d6cae22e535447caf242261b11e5f5998f.tar.gz"
+  ],
+  "tag": [
+    "buildsystem",
+    "coreos",
+    "fedora"
+  ],
+  "version": "HEAD-40fa01d-250619T225142",
+  "version_upstream": "",
+  "bsum": "b257a49e2ab97143c27a861457b49644aa3f8d9a13c3f2680d5b4815c78b15f5",
+  "build_date": "2025-06-20T08:19:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773778698",
+  "build_id": "15773778698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/kola?tag=HEAD-40fa01d-250619T225142-x86_64-Linux&download=kola.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "363",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/kola?tag=HEAD-40fa01d-250619T225142-x86_64-Linux&download=kola",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coreos/coreos-assembler/kola:HEAD-40fa01d-250619T225142-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coreos/coreos-assembler/kola",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/kola?tag=HEAD-40fa01d-250619T225142-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "983d56c30736fc61ffc399e6aaa324bd3b96df3583f401d7d8add2d5501bc793",
+  "size": "77 MB",
+  "size_raw": "79973600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
