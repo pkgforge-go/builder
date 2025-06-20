@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "grpc-federation-linter",
+  "pkg_family": "grpc-federation",
+  "pkg_id": "grpc-federation-linter#github.com_mercari_grpc_federation",
+  "pkg_name": "grpc-federation-linter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mercari/grpc-federation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gRPC Federation generates a gRPC server by writing a custom option in Protocol Buffers",
+  "homepage": [
+    "https://github.com/mercari/grpc-federation"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-federation-generator",
+    "grpc-federation-language-server",
+    "grpc-federation-linter",
+    "grpc-federation-mcp-server",
+    "protoc-gen-grpc-federation"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mercari/grpc-federation/archive/c2be712da84b46719dcf3e4d3c2917161df584d3.tar.gz"
+  ],
+  "tag": [
+    "cel",
+    "federation",
+    "go",
+    "golang",
+    "golang-library",
+    "grpc",
+    "protobuf",
+    "protocol-buffers",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-c2be712-250618T193501",
+  "version_upstream": "",
+  "bsum": "6c345df222bc9f54bb7d6f95e2cdb9cbd077671af4e21fdfa1347f6565052a09",
+  "build_date": "2025-06-20T22:05:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788295754",
+  "build_id": "15788295754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-linter?tag=HEAD-c2be712-250618T193501-x86_64-Linux&download=grpc-federation-linter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "353",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-linter?tag=HEAD-c2be712-250618T193501-x86_64-Linux&download=grpc-federation-linter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mercari/grpc-federation/grpc-federation-linter:HEAD-c2be712-250618T193501-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mercari/grpc-federation/grpc-federation-linter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-linter?tag=HEAD-c2be712-250618T193501-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6fdf8c7164c4cb567111213f853f0c53c12ea8aa2be67fa497c76900ee1261a",
+  "size": "21 MB",
+  "size_raw": "21498240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
