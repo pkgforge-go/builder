@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dashboards",
+  "pkg_family": "cloudcost-exporter",
+  "pkg_id": "dashboards#github.com_grafana_cloudcost_exporter",
+  "pkg_name": "dashboards",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/cloudcost-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+  "homepage": [
+    "https://github.com/grafana/cloudcost-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-spot-pricing",
+    "convertor",
+    "dashboards",
+    "exporter",
+    "gcp-fetch-skus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/cloudcost-exporter/archive/9c8a05ed29e1817b7626448e2d1fc5202ebe9368.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9c8a05e-250620T094405",
+  "version_upstream": "",
+  "bsum": "2a446db49c087bcd43576e76651306970d64f9cb000782395cb5197b4c418f6c",
+  "build_date": "2025-06-20T18:35:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784350741",
+  "build_id": "15784350741",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/dashboards?tag=HEAD-9c8a05e-250620T094405-riscv64-Linux&download=dashboards.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "96",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/dashboards?tag=HEAD-9c8a05e-250620T094405-riscv64-Linux&download=dashboards",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/cloudcost-exporter/dashboards:HEAD-9c8a05e-250620T094405-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/cloudcost-exporter/dashboards",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/dashboards?tag=HEAD-9c8a05e-250620T094405-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e41bf9c7ff112afa84cfbe5c0c07e480b7c9acf26a1f012f7d0557d9665924ef",
+  "size": "2.2 MB",
+  "size_raw": "2222984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

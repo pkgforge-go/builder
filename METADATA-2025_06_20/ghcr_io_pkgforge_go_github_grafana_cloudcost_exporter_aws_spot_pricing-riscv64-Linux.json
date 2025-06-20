@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aws-spot-pricing",
+  "pkg_family": "cloudcost-exporter",
+  "pkg_id": "aws-spot-pricing#github.com_grafana_cloudcost_exporter",
+  "pkg_name": "aws-spot-pricing",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/cloudcost-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+  "homepage": [
+    "https://github.com/grafana/cloudcost-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-spot-pricing",
+    "convertor",
+    "dashboards",
+    "exporter",
+    "gcp-fetch-skus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/cloudcost-exporter/archive/9c8a05ed29e1817b7626448e2d1fc5202ebe9368.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9c8a05e-250620T094405",
+  "version_upstream": "",
+  "bsum": "f8add2682512ab4f8c8902794f7d4d7b5c4ae13bae2035c45b0f945e4ac53b8c",
+  "build_date": "2025-06-20T18:35:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784350741",
+  "build_id": "15784350741",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/aws-spot-pricing?tag=HEAD-9c8a05e-250620T094405-riscv64-Linux&download=aws-spot-pricing.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "96",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/aws-spot-pricing?tag=HEAD-9c8a05e-250620T094405-riscv64-Linux&download=aws-spot-pricing",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/cloudcost-exporter/aws-spot-pricing:HEAD-9c8a05e-250620T094405-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/cloudcost-exporter/aws-spot-pricing",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cloudcost-exporter/aws-spot-pricing?tag=HEAD-9c8a05e-250620T094405-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e5a24ae5b3434990cec3b351911313639f3b40a3f9af835ddd564bd40e88921",
+  "size": "8.4 MB",
+  "size_raw": "8774872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
