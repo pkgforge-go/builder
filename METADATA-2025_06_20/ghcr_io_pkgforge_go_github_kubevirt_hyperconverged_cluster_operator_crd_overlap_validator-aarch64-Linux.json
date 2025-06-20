@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "crd-overlap-validator",
+  "pkg_family": "hyperconverged-cluster-operator",
+  "pkg_id": "crd-overlap-validator#github.com_kubevirt_hyperconverged_cluster_operator",
+  "pkg_name": "crd-overlap-validator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/hyperconverged-cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator pattern for managing multi-operator products",
+  "homepage": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-overlap-validator",
+    "crwriter",
+    "csv-merger",
+    "docgen",
+    "hyperconverged-cluster-operator",
+    "hyperconverged-cluster-webhook",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator/archive/83c7a32a3135d1c1189997991a88ce43fa1674d4.tar.gz"
+  ],
+  "tag": [
+    "hco",
+    "hyperconverged",
+    "kubernetes",
+    "kubernetes-operator",
+    "openshift",
+    "operator",
+    "virtualization"
+  ],
+  "version": "HEAD-83c7a32-250620T105840",
+  "version_upstream": "",
+  "bsum": "19f46ec9231ad0accd10c178729b074744f9c391227b88b7d3ce1d7f369fe2fc",
+  "build_date": "2025-06-20T19:57:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785780306",
+  "build_id": "15785780306",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crd-overlap-validator?tag=HEAD-83c7a32-250620T105840-aarch64-Linux&download=crd-overlap-validator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crd-overlap-validator?tag=HEAD-83c7a32-250620T105840-aarch64-Linux&download=crd-overlap-validator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crd-overlap-validator:HEAD-83c7a32-250620T105840-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crd-overlap-validator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crd-overlap-validator?tag=HEAD-83c7a32-250620T105840-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "35dd3c1c1f7ef9ff1b751e4e63b92b892199041da22a55f0446be93e3ab2aa4e",
+  "size": "7.6 MB",
+  "size_raw": "7933600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
