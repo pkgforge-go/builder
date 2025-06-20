@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "merge",
+  "pkg_family": "column",
+  "pkg_id": "merge#github.com_kelindar_column",
+  "pkg_name": "merge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelindar/column",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance, columnar, in-memory store with bitmap indexing in Go",
+  "homepage": [
+    "https://github.com/kelindar/column"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench",
+    "cache",
+    "codegen",
+    "merge",
+    "million",
+    "simple",
+    "snapshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelindar/column/archive/0af9c372db72a60ff7f32bde50350c6fdbf3498c.tar.gz"
+  ],
+  "tag": [
+    "bitmap",
+    "columnar-storage",
+    "data-oriented",
+    "db",
+    "indexing",
+    "soa"
+  ],
+  "version": "HEAD-0af9c37-231013T235249",
+  "version_upstream": "v0.4.1",
+  "bsum": "7c5457078b93c04fcb2aca7b6aba0f3097a8158e29307a73081914a4d6c4bf84",
+  "build_date": "2025-06-20T14:42:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780396621",
+  "build_id": "15780396621",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/merge?tag=HEAD-0af9c37-231013T235249-riscv64-Linux&download=merge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1475",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/merge?tag=HEAD-0af9c37-231013T235249-riscv64-Linux&download=merge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelindar/column/merge:HEAD-0af9c37-231013T235249-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelindar/column/merge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/merge?tag=HEAD-0af9c37-231013T235249-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bd253a0bdd3b10a5353752e0cedeba8a27f8cc4c367995b35daac188efb435d9",
+  "size": "2.4 MB",
+  "size_raw": "2463704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
