@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kube-ovn-cmd",
+  "pkg_family": "kube-ovn",
+  "pkg_id": "kube-ovn-cmd#github.com_kubeovn_kube_ovn",
+  "pkg_name": "kube-ovn-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeovn/kube-ovn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Bridge between SDN and Cloud Native _Project under CNCF_",
+  "homepage": [
+    "https://github.com/kubeovn/kube-ovn"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cni",
+    "controller",
+    "daemon",
+    "kube-ovn-cmd",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeovn/kube-ovn/archive/c386c7cdffbb65596525f5df1c4ccbac246f37f3.tar.gz"
+  ],
+  "tag": [
+    "cni",
+    "kubernetes",
+    "kubernetes-networking",
+    "network",
+    "networking",
+    "openvswitch",
+    "overlay-network",
+    "ovn",
+    "ovs",
+    "sdn"
+  ],
+  "version": "HEAD-c386c7c-250620T183945",
+  "version_upstream": "",
+  "bsum": "42f3b800b2aa6feeff36c17a265702a81e23592526e4b9e5c33fe41e1524a4f4",
+  "build_date": "2025-06-20T15:38:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781710353",
+  "build_id": "15781710353",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeovn/kube-ovn/kube-ovn-cmd?tag=HEAD-c386c7c-250620T183945-riscv64-Linux&download=kube-ovn-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2137",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeovn/kube-ovn/kube-ovn-cmd?tag=HEAD-c386c7c-250620T183945-riscv64-Linux&download=kube-ovn-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeovn/kube-ovn/kube-ovn-cmd:HEAD-c386c7c-250620T183945-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeovn/kube-ovn/kube-ovn-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeovn/kube-ovn/kube-ovn-cmd?tag=HEAD-c386c7c-250620T183945-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a998e5ca0349de4c94c5da8cdf026639a99e05a4a5dd7c2997082c55a5d2a79",
+  "size": "72 MB",
+  "size_raw": "74959096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
