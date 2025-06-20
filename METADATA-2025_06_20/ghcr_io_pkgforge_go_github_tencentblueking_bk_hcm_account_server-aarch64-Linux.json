@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "account-server",
+  "pkg_family": "bk-hcm",
+  "pkg_id": "account-server#github.com_TencentBlueKing_bk_hcm",
+  "pkg_name": "account-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TencentBlueKing/bk-hcm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "蓝鲸云管理平台（BK-HCM）",
+  "homepage": [
+    "https://github.com/TencentBlueKing/bk-hcm"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "account-server",
+    "api-server",
+    "auth-server",
+    "cloud-server",
+    "data-service",
+    "hc-service",
+    "task-server",
+    "tools",
+    "web-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TencentBlueKing/bk-hcm/archive/d608b50d74717897990c768084243cbf4f9639b0.tar.gz"
+  ],
+  "tag": [
+    "blueking",
+    "cmp",
+    "devops-tools",
+    "golang",
+    "microsservice",
+    "rest-api"
+  ],
+  "version": "HEAD-d608b50-250620T162435",
+  "version_upstream": "",
+  "bsum": "d1336e1df8882154626b8a299383c9f1c6d656b60b2ecd66ade7fa9185007179",
+  "build_date": "2025-06-20T17:05:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782853464",
+  "build_id": "15782853464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-hcm/account-server?tag=HEAD-d608b50-250620T162435-aarch64-Linux&download=account-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-hcm/account-server?tag=HEAD-d608b50-250620T162435-aarch64-Linux&download=account-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tencentblueking/bk-hcm/account-server:HEAD-d608b50-250620T162435-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tencentblueking/bk-hcm/account-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-hcm/account-server?tag=HEAD-d608b50-250620T162435-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b45c8569dee1f472f8659c4087fcfb4dedb9ea7dc5825b26a0558ddebdb52734",
+  "size": "33 MB",
+  "size_raw": "34376864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
