@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "k3d",
+  "pkg_family": "k3d",
+  "pkg_id": "k3d#github.com_k3d_io_k3d",
+  "pkg_name": "k3d",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/k3d-io/k3d",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Little helper to run CNCF_s k3s in Docker",
+  "homepage": [
+    "https://github.com/k3d-io/k3d"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k3d"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/k3d-io/k3d/archive/298716e677f17032de5571f35b72a16281d04cb1.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "docker",
+    "go",
+    "k3d",
+    "k3s",
+    "kubernetes",
+    "rancher"
+  ],
+  "version": "HEAD-298716e-250522T073625",
+  "version_upstream": "",
+  "bsum": "4b2cb28adca5581b32132299cf72ba6e3018147d4ebcdd3c72a26722e47b6b39",
+  "build_date": "2025-06-20T14:06:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780210876",
+  "build_id": "15780210876",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3d-io/k3d/k3d?tag=HEAD-298716e-250522T073625-loongarch64-Linux&download=k3d.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5854",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3d-io/k3d/k3d?tag=HEAD-298716e-250522T073625-loongarch64-Linux&download=k3d",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k3d-io/k3d/k3d:HEAD-298716e-250522T073625-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k3d-io/k3d/k3d",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3d-io/k3d/k3d?tag=HEAD-298716e-250522T073625-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3ef52dc720960bd6b231f6e2bfb5d028e27bc22aeb573c50d27ae0aa112270ec",
+  "size": "27 MB",
+  "size_raw": "27267360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
