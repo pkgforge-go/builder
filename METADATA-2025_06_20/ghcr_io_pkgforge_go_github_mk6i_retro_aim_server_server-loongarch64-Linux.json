@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "retro-aim-server",
+  "pkg_id": "server#github.com_mk6i_retro_aim_server",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mk6i/retro-aim-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Self-hostable instant messaging server that makes classic AIM and ICQ clients work again. _Independently developed, not affiliated with or endorsed by AOL_",
+  "homepage": [
+    "https://github.com/mk6i/retro-aim-server"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config_generator",
+    "server",
+    "snac_buster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mk6i/retro-aim-server/archive/3df03e182a4406421d8b4ffbf8417947b535a457.tar.gz"
+  ],
+  "tag": [
+    "aim",
+    "aol",
+    "chat",
+    "golang",
+    "icq",
+    "instant-messaging",
+    "retrocomputing"
+  ],
+  "version": "HEAD-3df03e1-250520T212337",
+  "version_upstream": "v0.17.0",
+  "bsum": "7536fe6ec2afb1179db87261c7ec2cd6652472ac71438b7288efe2ad772cc89c",
+  "build_date": "2025-06-20T22:35:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788432806",
+  "build_id": "15788432806",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mk6i/retro-aim-server/server?tag=HEAD-3df03e1-250520T212337-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "848",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mk6i/retro-aim-server/server?tag=HEAD-3df03e1-250520T212337-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mk6i/retro-aim-server/server:HEAD-3df03e1-250520T212337-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mk6i/retro-aim-server/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mk6i/retro-aim-server/server?tag=HEAD-3df03e1-250520T212337-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78250616f456301dabf30d9d0fa2b49eb5abee4debfd88b348beb6a0de6b0d24",
+  "size": "15 MB",
+  "size_raw": "15096736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
