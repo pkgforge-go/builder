@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "thrift_serialize",
+  "pkg_family": "telegraf",
+  "pkg_id": "thrift_serialize#github.com_influxdata_telegraf",
+  "pkg_name": "thrift_serialize",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/influxdata/telegraf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+  "homepage": [
+    "https://github.com/influxdata/telegraf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config_includer",
+    "custom_builder",
+    "examples",
+    "license_checker",
+    "package_incus_test",
+    "readme_config_includer",
+    "readme_linter",
+    "stress_test_write",
+    "telegraf",
+    "testcases",
+    "thrift_serialize",
+    "update_goversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/influxdata/telegraf/archive/92baaf8b1c263610e07d5a2ec5181a9e23fa1e15.tar.gz"
+  ],
+  "tag": [
+    "gnmi",
+    "golang",
+    "influxdb",
+    "json",
+    "kafka",
+    "logs",
+    "metrics",
+    "modbus",
+    "monitoring",
+    "mqtt",
+    "opcua",
+    "telegraf",
+    "time-series",
+    "windows-eventlog",
+    "windows-management-instrumentation",
+    "xpath"
+  ],
+  "version": "HEAD-92baaf8-250618T201455",
+  "version_upstream": "",
+  "bsum": "b5fc97d5af28817d18ee74bc1a9c8ca8e0642517a27ccc043f9f4b7e61166d45",
+  "build_date": "2025-06-20T07:02:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772647435",
+  "build_id": "15772647435",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/telegraf/thrift_serialize?tag=HEAD-92baaf8-250618T201455-loongarch64-Linux&download=thrift_serialize.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/telegraf/thrift_serialize?tag=HEAD-92baaf8-250618T201455-loongarch64-Linux&download=thrift_serialize",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/influxdata/telegraf/thrift_serialize:HEAD-92baaf8-250618T201455-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/influxdata/telegraf/thrift_serialize",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/telegraf/thrift_serialize?tag=HEAD-92baaf8-250618T201455-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b519614d78baa125ff1f337343846d2c8485031ae75070a3af09ee30cdeba5e6",
+  "size": "4.3 MB",
+  "size_raw": "4449888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
