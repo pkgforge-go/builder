@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "flexprice",
+  "pkg_id": "server#github.com_flexprice_flexprice",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flexprice/flexprice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits _ top-ups 🔑 Control feature access",
+  "homepage": [
+    "https://github.com/flexprice/flexprice"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "migrate",
+    "scripts",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flexprice/flexprice/archive/9378c7cadbed350cd762b0691902ee2ab8f04187.tar.gz"
+  ],
+  "tag": [
+    "billing",
+    "clickhouse",
+    "cost",
+    "events",
+    "go",
+    "kafka",
+    "postgresql",
+    "pricing",
+    "stripe",
+    "stripe-subscriptions",
+    "subscription-management",
+    "temporal",
+    "usage-based-pricing"
+  ],
+  "version": "HEAD-9378c7c-250613T202034",
+  "version_upstream": "",
+  "bsum": "db27a780dad6c16eb67d6c584cf006e20b2464811cd8bc41253856e6b8ddacb5",
+  "build_date": "2025-06-20T18:17:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784257813",
+  "build_id": "15784257813",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flexprice/flexprice/server?tag=HEAD-9378c7c-250613T202034-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "244",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flexprice/flexprice/server?tag=HEAD-9378c7c-250613T202034-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flexprice/flexprice/server:HEAD-9378c7c-250613T202034-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flexprice/flexprice/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flexprice/flexprice/server?tag=HEAD-9378c7c-250613T202034-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4e25d8b9b6a4a0a6b91f3809b324c5a14611e59795c76df0fce100ae25d1142",
+  "size": "75 MB",
+  "size_raw": "78094944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
