@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webapp",
+  "pkg_family": "cf-acceptance-tests",
+  "pkg_id": "webapp#github.com_cloudfoundry_cf_acceptance_tests",
+  "pkg_name": "webapp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/cf-acceptance-tests",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CF Acceptance tests",
+  "homepage": [
+    "https://github.com/cloudfoundry/cf-acceptance-tests"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "catsconfiggenerator",
+    "loggregator-load-generator-go",
+    "webapp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/cf-acceptance-tests/archive/fac6c129fc2832398a7848be2f87ff133acbca2e.tar.gz"
+  ],
+  "tag": [
+    "cff-wg-app-runtime-deployments"
+  ],
+  "version": "HEAD-fac6c12-250619T161904",
+  "version_upstream": "",
+  "bsum": "cc144e27fcae9334be7aac916f0d59a67d7d1e82811dbffbc4affd6b0cbe1b33",
+  "build_date": "2025-06-20T08:05:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773626041",
+  "build_id": "15773626041",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/cf-acceptance-tests/webapp?tag=HEAD-fac6c12-250619T161904-riscv64-Linux&download=webapp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "68",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/cf-acceptance-tests/webapp?tag=HEAD-fac6c12-250619T161904-riscv64-Linux&download=webapp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/cf-acceptance-tests/webapp:HEAD-fac6c12-250619T161904-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/cf-acceptance-tests/webapp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/cf-acceptance-tests/webapp?tag=HEAD-fac6c12-250619T161904-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a6dc95d9881d397cd5e9f9ae573a5a995c4e860fa29843f5294d220f00424272",
+  "size": "5.5 MB",
+  "size_raw": "5744568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
