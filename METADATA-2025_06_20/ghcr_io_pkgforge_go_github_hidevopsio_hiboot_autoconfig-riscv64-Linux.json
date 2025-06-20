@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "autoconfig",
+  "pkg_family": "hiboot",
+  "pkg_id": "autoconfig#github.com_hidevopsio_hiboot",
+  "pkg_name": "autoconfig",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hidevopsio/hiboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "hiboot is a high performance web and cli application framework with dependency injection support",
+  "homepage": [
+    "https://github.com/hidevopsio/hiboot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "autoconfig",
+    "crypto",
+    "depinj",
+    "greeting-server",
+    "hello",
+    "helloworld",
+    "jwt",
+    "middleware",
+    "router",
+    "simple-server",
+    "statik",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hidevopsio/hiboot/archive/22ce8a9ec8036736d752bf7b9984d8b344ed287c.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "autoconfiguration",
+    "cli",
+    "cloudnative",
+    "command",
+    "command-line-tool",
+    "container",
+    "dependency-injection",
+    "di",
+    "golang",
+    "ioc",
+    "mvc",
+    "web",
+    "webapp"
+  ],
+  "version": "HEAD-22ce8a9-250528T212608",
+  "version_upstream": "v1.8.2",
+  "bsum": "37727df5f6053836be559927592ef0575ea7948fd020a145bd1084b0c0c51a49",
+  "build_date": "2025-06-20T06:23:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771927268",
+  "build_id": "15771927268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/autoconfig?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&download=autoconfig.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/autoconfig?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&download=autoconfig",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hidevopsio/hiboot/autoconfig:HEAD-22ce8a9-250528T212608-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hidevopsio/hiboot/autoconfig",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/autoconfig?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18c70cc3cb8eba536b87cf1519af3505bca9aef36cd41df45d8fc74916c6c6ec",
+  "size": "17 MB",
+  "size_raw": "17657880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

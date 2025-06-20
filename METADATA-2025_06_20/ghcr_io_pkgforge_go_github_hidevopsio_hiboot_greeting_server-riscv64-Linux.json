@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "greeting-server",
+  "pkg_family": "hiboot",
+  "pkg_id": "greeting-server#github.com_hidevopsio_hiboot",
+  "pkg_name": "greeting-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hidevopsio/hiboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "hiboot is a high performance web and cli application framework with dependency injection support",
+  "homepage": [
+    "https://github.com/hidevopsio/hiboot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "autoconfig",
+    "crypto",
+    "depinj",
+    "greeting-server",
+    "hello",
+    "helloworld",
+    "jwt",
+    "middleware",
+    "router",
+    "simple-server",
+    "statik",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hidevopsio/hiboot/archive/22ce8a9ec8036736d752bf7b9984d8b344ed287c.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "autoconfiguration",
+    "cli",
+    "cloudnative",
+    "command",
+    "command-line-tool",
+    "container",
+    "dependency-injection",
+    "di",
+    "golang",
+    "ioc",
+    "mvc",
+    "web",
+    "webapp"
+  ],
+  "version": "HEAD-22ce8a9-250528T212608",
+  "version_upstream": "v1.8.2",
+  "bsum": "89651d7780ddc9acde207c39551c61513fa9a06bcf968610d6f561baad803d0f",
+  "build_date": "2025-06-20T06:24:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771927268",
+  "build_id": "15771927268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/greeting-server?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&download=greeting-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/greeting-server?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&download=greeting-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hidevopsio/hiboot/greeting-server:HEAD-22ce8a9-250528T212608-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hidevopsio/hiboot/greeting-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/greeting-server?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e9579ec3690d028572d6352687db9416b79b22ce4638e84165ef4a9f1cc5373",
+  "size": "17 MB",
+  "size_raw": "17664344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

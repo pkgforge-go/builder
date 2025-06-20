@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "depinj",
+  "pkg_family": "hiboot",
+  "pkg_id": "depinj#github.com_hidevopsio_hiboot",
+  "pkg_name": "depinj",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hidevopsio/hiboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "hiboot is a high performance web and cli application framework with dependency injection support",
+  "homepage": [
+    "https://github.com/hidevopsio/hiboot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "autoconfig",
+    "crypto",
+    "depinj",
+    "greeting-server",
+    "hello",
+    "helloworld",
+    "jwt",
+    "middleware",
+    "router",
+    "simple-server",
+    "statik",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hidevopsio/hiboot/archive/22ce8a9ec8036736d752bf7b9984d8b344ed287c.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "autoconfiguration",
+    "cli",
+    "cloudnative",
+    "command",
+    "command-line-tool",
+    "container",
+    "dependency-injection",
+    "di",
+    "golang",
+    "ioc",
+    "mvc",
+    "web",
+    "webapp"
+  ],
+  "version": "HEAD-22ce8a9-250528T212608",
+  "version_upstream": "v1.8.2",
+  "bsum": "9e399dae83966eb43dbeb70079dbafb0d9c65fa82b1cd2222036d71082ddec81",
+  "build_date": "2025-06-20T06:24:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771927268",
+  "build_id": "15771927268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/depinj?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&download=depinj.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/depinj?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&download=depinj",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hidevopsio/hiboot/depinj:HEAD-22ce8a9-250528T212608-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hidevopsio/hiboot/depinj",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/depinj?tag=HEAD-22ce8a9-250528T212608-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "671971c8dffbc09759c5cf8b4aec203919dbd79abd0e4b49155bb676c05e5669",
+  "size": "16 MB",
+  "size_raw": "16514456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
