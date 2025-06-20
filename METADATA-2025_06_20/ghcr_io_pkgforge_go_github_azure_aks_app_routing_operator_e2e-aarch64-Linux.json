@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "e2e",
+  "pkg_family": "aks-app-routing-operator",
+  "pkg_id": "e2e#github.com_Azure_aks_app_routing_operator",
+  "pkg_name": "e2e",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/aks-app-routing-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator that implements AKS Application Routing",
+  "homepage": [
+    "https://github.com/Azure/aks-app-routing-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/aks-app-routing-operator/archive/242ad3385dea476022dce5d6a593a39d0c5008a8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-242ad33-250619T220308",
+  "version_upstream": "",
+  "bsum": "261930dcc8a6551aed0c0a6e18c0ec82b31f0f8497bd6fa6771cfae8178a4845",
+  "build_date": "2025-06-20T07:07:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773064174",
+  "build_id": "15773064174",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aks-app-routing-operator/e2e?tag=HEAD-242ad33-250619T220308-aarch64-Linux&download=e2e.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aks-app-routing-operator/e2e?tag=HEAD-242ad33-250619T220308-aarch64-Linux&download=e2e",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/aks-app-routing-operator/e2e:HEAD-242ad33-250619T220308-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/aks-app-routing-operator/e2e",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aks-app-routing-operator/e2e?tag=HEAD-242ad33-250619T220308-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "133db5bcf3371ef8f4fa7920ae4aa7a506892972342a80d60bff311e83f0bb7f",
+  "size": "65 MB",
+  "size_raw": "67631168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
