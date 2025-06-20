@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "gosrt",
+  "pkg_id": "client#github.com_datarhei_gosrt",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/datarhei/gosrt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Implementation of the SRT protocol in pure Go",
+  "homepage": [
+    "https://github.com/datarhei/gosrt"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/datarhei/gosrt/archive/56a1f039d9d19b378c7f44fab4d5541e71dc6c59.tar.gz"
+  ],
+  "tag": [
+    "broadcasting",
+    "datarhei",
+    "foss-gmbh",
+    "go",
+    "low-latency",
+    "multimedia",
+    "restreamer",
+    "srt",
+    "transport"
+  ],
+  "version": "HEAD-56a1f03-250620T113139",
+  "version_upstream": "",
+  "bsum": "edd4f50b7e9e6d6ea887d1c66da6023eb0a2cc4d08ccfe1cf6691623b60048d0",
+  "build_date": "2025-06-20T17:48:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784113080",
+  "build_id": "15784113080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datarhei/gosrt/client?tag=HEAD-56a1f03-250620T113139-riscv64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datarhei/gosrt/client?tag=HEAD-56a1f03-250620T113139-riscv64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datarhei/gosrt/client:HEAD-56a1f03-250620T113139-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datarhei/gosrt/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datarhei/gosrt/client?tag=HEAD-56a1f03-250620T113139-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfa4af1e6044277050cabb01ffdcc5b1bb8efbb56c52dbb3b19250e32f0e1737",
+  "size": "3.1 MB",
+  "size_raw": "3228472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
