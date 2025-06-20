@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ip-to-cloudprovider",
+  "pkg_family": "ip-to-cloudprovider",
+  "pkg_id": "ip-to-cloudprovider#github.com_BenjiTrapp_ip_to_cloudprovider",
+  "pkg_name": "ip-to-cloudprovider",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/BenjiTrapp/ip-to-cloudprovider",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scrape the IP ranges of cloudproviders and check if a IP belongs to a particular CloudProvider. This can also help to speed up your CSIRT activities",
+  "homepage": [
+    "https://github.com/BenjiTrapp/ip-to-cloudprovider"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ip-to-cloudprovider"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/BenjiTrapp/ip-to-cloudprovider/archive/4e9ad46300123b0a82323fe29330675e4c3d6227.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "bluete",
+    "cloudflare",
+    "cloudprovider",
+    "cloudsecurity",
+    "ip-lookup",
+    "ipra",
+    "osint-tool"
+  ],
+  "version": "HEAD-4e9ad46-250620T002031",
+  "version_upstream": "",
+  "bsum": "9a08f19af9a1bc5c7f57221755aee0b659cba9600274e4fa507de5aeb06453ae",
+  "build_date": "2025-06-20T07:04:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773066204",
+  "build_id": "15773066204",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjitrapp/ip-to-cloudprovider/ip-to-cloudprovider?tag=HEAD-4e9ad46-250620T002031-x86_64-Linux&download=ip-to-cloudprovider.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjitrapp/ip-to-cloudprovider/ip-to-cloudprovider?tag=HEAD-4e9ad46-250620T002031-x86_64-Linux&download=ip-to-cloudprovider",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/benjitrapp/ip-to-cloudprovider/ip-to-cloudprovider:HEAD-4e9ad46-250620T002031-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/benjitrapp/ip-to-cloudprovider/ip-to-cloudprovider",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/benjitrapp/ip-to-cloudprovider/ip-to-cloudprovider?tag=HEAD-4e9ad46-250620T002031-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ecd760db1255f52383db5a1f64b24983a5055d5b3c47094660c77ef7c64ccf6",
+  "size": "8.6 MB",
+  "size_raw": "8957248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
