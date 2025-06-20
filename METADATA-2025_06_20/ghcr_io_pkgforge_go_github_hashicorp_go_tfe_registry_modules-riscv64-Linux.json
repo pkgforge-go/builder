@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "registry_modules",
+  "pkg_family": "go-tfe",
+  "pkg_id": "registry_modules#github.com_hashicorp_go_tfe",
+  "pkg_name": "registry_modules",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/go-tfe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+  "homepage": [
+    "https://github.com/hashicorp/go-tfe"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backing_data",
+    "configuration_versions",
+    "organizations",
+    "projects",
+    "registry_modules",
+    "run_errors",
+    "state_versions",
+    "users",
+    "workspaces"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/go-tfe/archive/9217ab1e392671f6bcb86e54786efdff80f35827.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "sdk",
+    "terraform-cloud",
+    "terraform-enterprise",
+    "tfe"
+  ],
+  "version": "HEAD-9217ab1-250619T155040",
+  "version_upstream": "",
+  "bsum": "25df72affeb633f3f99d1c144f22fc01ad39d600328c554d70a6b29f68c21fd0",
+  "build_date": "2025-06-20T09:29:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774908639",
+  "build_id": "15774908639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-tfe/registry_modules?tag=HEAD-9217ab1-250619T155040-riscv64-Linux&download=registry_modules.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-tfe/registry_modules?tag=HEAD-9217ab1-250619T155040-riscv64-Linux&download=registry_modules",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/go-tfe/registry_modules:HEAD-9217ab1-250619T155040-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/go-tfe/registry_modules",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-tfe/registry_modules?tag=HEAD-9217ab1-250619T155040-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fc40ad9575fa804f71a4241b6ee510ba9a83a09a73317af62107f4dfbf236089",
+  "size": "7.2 MB",
+  "size_raw": "7513176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
