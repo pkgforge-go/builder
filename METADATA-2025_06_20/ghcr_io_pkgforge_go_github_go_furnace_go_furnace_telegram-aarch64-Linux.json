@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "telegram",
+  "pkg_family": "go-furnace",
+  "pkg_id": "telegram#github.com_go_furnace_go_furnace",
+  "pkg_name": "telegram",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-furnace/go-furnace",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Hosting Solution for AWS, Google Cloud and Digital Ocean",
+  "homepage": [
+    "https://github.com/go-furnace/go-furnace"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "furnace-aws",
+    "furnace-do",
+    "furnace-gcp",
+    "slack",
+    "telegram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-furnace/go-furnace/archive/be1cec4c9d8669f59a6eb4953c94226ba91f51e2.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cloudformation",
+    "codedeploy",
+    "deployment-manager",
+    "digitalocean",
+    "go",
+    "golang",
+    "google-cloud",
+    "google-cloud-platform",
+    "hacktoberfest",
+    "hosting"
+  ],
+  "version": "HEAD-be1cec4-211028T095002",
+  "version_upstream": "",
+  "bsum": "b59a3deb64c8d386549fef738c04825000478832dc62a2aa62b4dc8d6057f90f",
+  "build_date": "2025-06-20T03:15:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769891190",
+  "build_id": "15769891190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/telegram?tag=HEAD-be1cec4-211028T095002-aarch64-Linux&download=telegram.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "99",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/telegram?tag=HEAD-be1cec4-211028T095002-aarch64-Linux&download=telegram",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-furnace/go-furnace/telegram:HEAD-be1cec4-211028T095002-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-furnace/go-furnace/telegram",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/telegram?tag=HEAD-be1cec4-211028T095002-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fcbcb1086d29761cb55388b61969e412e91ed8d3d4cbbddf3b324b3c5d0f09e",
+  "size": "11 MB",
+  "size_raw": "10763968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

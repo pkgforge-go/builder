@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "slack",
+  "pkg_family": "go-furnace",
+  "pkg_id": "slack#github.com_go_furnace_go_furnace",
+  "pkg_name": "slack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-furnace/go-furnace",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Hosting Solution for AWS, Google Cloud and Digital Ocean",
+  "homepage": [
+    "https://github.com/go-furnace/go-furnace"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "furnace-aws",
+    "furnace-do",
+    "furnace-gcp",
+    "slack",
+    "telegram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-furnace/go-furnace/archive/be1cec4c9d8669f59a6eb4953c94226ba91f51e2.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cloudformation",
+    "codedeploy",
+    "deployment-manager",
+    "digitalocean",
+    "go",
+    "golang",
+    "google-cloud",
+    "google-cloud-platform",
+    "hacktoberfest",
+    "hosting"
+  ],
+  "version": "HEAD-be1cec4-211028T095002",
+  "version_upstream": "",
+  "bsum": "f907ed08d4e7a261e975217c2be47de6c7df2bea131f3899e88bce52c03f9e7c",
+  "build_date": "2025-06-20T03:15:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769891190",
+  "build_id": "15769891190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/slack?tag=HEAD-be1cec4-211028T095002-aarch64-Linux&download=slack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "99",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/slack?tag=HEAD-be1cec4-211028T095002-aarch64-Linux&download=slack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-furnace/go-furnace/slack:HEAD-be1cec4-211028T095002-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-furnace/go-furnace/slack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/slack?tag=HEAD-be1cec4-211028T095002-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4c9605bfbeec255a37a19ec802352b4bf40f66da433430f5590c7bfed095a3f",
+  "size": "11 MB",
+  "size_raw": "10763936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
