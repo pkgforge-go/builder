@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "badger",
+  "pkg_family": "badger",
+  "pkg_id": "badger#github.com_hypermodeinc_badger",
+  "pkg_name": "badger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hypermodeinc/badger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast key-value DB in Go.",
+  "homepage": [
+    "https://github.com/hypermodeinc/badger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "badger",
+    "testgc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hypermodeinc/badger/archive/22ff83d5e14bf66092103b0d1cfdd99f3441c0ec.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "document-database",
+    "go",
+    "golang",
+    "key-value",
+    "library",
+    "ssd"
+  ],
+  "version": "HEAD-22ff83d-250616T175717",
+  "version_upstream": "",
+  "bsum": "5e0e4b667c357e25005489c862e63591e59794a09fa32f2a64bf38b58efba542",
+  "build_date": "2025-06-20T06:36:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772166445",
+  "build_id": "15772166445",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/badger/badger?tag=HEAD-22ff83d-250616T175717-riscv64-Linux&download=badger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14669",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/badger/badger?tag=HEAD-22ff83d-250616T175717-riscv64-Linux&download=badger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hypermodeinc/badger/badger:HEAD-22ff83d-250616T175717-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hypermodeinc/badger/badger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/badger/badger?tag=HEAD-22ff83d-250616T175717-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e001bb0438592f897a3af3890a8c8d4fa5476f27b9c17e4569ab9d0a80bddc1d",
+  "size": "14 MB",
+  "size_raw": "14420120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
