@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "witness",
+  "pkg_family": "witness",
+  "pkg_id": "witness#github.com_in_toto_witness",
+  "pkg_name": "witness",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/in-toto/witness",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.",
+  "homepage": [
+    "https://github.com/in-toto/witness"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docgen",
+    "test",
+    "witness"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/in-toto/witness/archive/94769a420a0fb199b9f8b4efda0a5488311adc84.tar.gz"
+  ],
+  "tag": [
+    "attestation",
+    "security",
+    "security-tools",
+    "supply-chain",
+    "verification"
+  ],
+  "version": "HEAD-94769a4-250616T085344",
+  "version_upstream": "",
+  "bsum": "22e70b939aab71b00413b437321dcb797d1c762939e3927128dc0c44634e4007",
+  "build_date": "2025-06-20T06:53:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772556438",
+  "build_id": "15772556438",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/in-toto/witness/witness?tag=HEAD-94769a4-250616T085344-aarch64-Linux&download=witness.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/in-toto/witness/witness?tag=HEAD-94769a4-250616T085344-aarch64-Linux&download=witness",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/in-toto/witness/witness:HEAD-94769a4-250616T085344-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/in-toto/witness/witness",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/in-toto/witness/witness?tag=HEAD-94769a4-250616T085344-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23f7043a7ae0fa09a169c78a73f274dd9d32982be6287aa70deaf7a2eaba9acb",
+  "size": "73 MB",
+  "size_raw": "75505280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
