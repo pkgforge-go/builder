@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "db",
+  "pkg_family": "pkgsite",
+  "pkg_id": "db#github.com_golang_pkgsite",
+  "pkg_name": "db",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/pkgsite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Home of the pkg.go.dev website",
+  "homepage": [
+    "https://github.com/golang/pkgsite"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csphash",
+    "css",
+    "db",
+    "static",
+    "wait_available"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/pkgsite/archive/041c7c0b878cb88962867185208d4d2ec79de7d0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-041c7c0-250611T115244",
+  "version_upstream": "",
+  "bsum": "d1853f27cdcee244accc39f64f12798bf77aa12c85e8374c370d07ec2fba4384",
+  "build_date": "2025-06-20T04:10:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770405907",
+  "build_id": "15770405907",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/pkgsite/db?tag=HEAD-041c7c0-250611T115244-aarch64-Linux&download=db.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1273",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/pkgsite/db?tag=HEAD-041c7c0-250611T115244-aarch64-Linux&download=db",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/pkgsite/db:HEAD-041c7c0-250611T115244-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/pkgsite/db",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/pkgsite/db?tag=HEAD-041c7c0-250611T115244-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e85d0c858b4eb770b11388c4f22c34c4d27bd9e2fe41e9c6c1437bfa890b65f",
+  "size": "21 MB",
+  "size_raw": "21233664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
