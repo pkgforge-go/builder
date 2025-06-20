@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cms",
+  "pkg_family": "go-project",
+  "pkg_id": "cms#github.com_liyacn_go_project",
+  "pkg_name": "cms",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/liyacn/go-project",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "使用Golang搭建的轻量级应用基础框架，包含微信小程序后端接口、cms管理后台接口、常驻脚本任务",
+  "homepage": [
+    "https://github.com/liyacn/go-project"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cms",
+    "go-project-api",
+    "script"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/liyacn/go-project/archive/f3aa4599b8b0ec8d362ec1e7f535d1c529d2350e.tar.gz"
+  ],
+  "tag": [
+    "cobra",
+    "gin",
+    "golang",
+    "gorm",
+    "viper"
+  ],
+  "version": "HEAD-f3aa459-250615T100900",
+  "version_upstream": "",
+  "bsum": "f01c81861f4c356c30a8c31c2205fc7516455e22a32de38b044717a542e78871",
+  "build_date": "2025-06-20T20:58:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787098469",
+  "build_id": "15787098469",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liyacn/go-project/cms?tag=HEAD-f3aa459-250615T100900-loongarch64-Linux&download=cms.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liyacn/go-project/cms?tag=HEAD-f3aa459-250615T100900-loongarch64-Linux&download=cms",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/liyacn/go-project/cms:HEAD-f3aa459-250615T100900-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/liyacn/go-project/cms",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liyacn/go-project/cms?tag=HEAD-f3aa459-250615T100900-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14a8625abfb086bc6f7aaf2dddbe3b4ce5941d32a4c813989f59b474fa2e3d5b",
+  "size": "19 MB",
+  "size_raw": "19054976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
