@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "crypto",
+  "pkg_family": "hiboot",
+  "pkg_id": "crypto#github.com_hidevopsio_hiboot",
+  "pkg_name": "crypto",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hidevopsio/hiboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "hiboot is a high performance web and cli application framework with dependency injection support",
+  "homepage": [
+    "https://github.com/hidevopsio/hiboot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "autoconfig",
+    "crypto",
+    "depinj",
+    "greeting-server",
+    "hello",
+    "helloworld",
+    "jwt",
+    "middleware",
+    "router",
+    "simple-server",
+    "statik",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hidevopsio/hiboot/archive/22ce8a9ec8036736d752bf7b9984d8b344ed287c.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "autoconfiguration",
+    "cli",
+    "cloudnative",
+    "command",
+    "command-line-tool",
+    "container",
+    "dependency-injection",
+    "di",
+    "golang",
+    "ioc",
+    "mvc",
+    "web",
+    "webapp"
+  ],
+  "version": "HEAD-22ce8a9-250528T212608",
+  "version_upstream": "v1.8.2",
+  "bsum": "5608c87e84b85d8dcbfc7f12f2fb6d7248a0e941e569fcc70c31cf888013ca3d",
+  "build_date": "2025-06-20T06:25:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771927268",
+  "build_id": "15771927268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/crypto?tag=HEAD-22ce8a9-250528T212608-x86_64-Linux&download=crypto.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/crypto?tag=HEAD-22ce8a9-250528T212608-x86_64-Linux&download=crypto",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hidevopsio/hiboot/crypto:HEAD-22ce8a9-250528T212608-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hidevopsio/hiboot/crypto",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/crypto?tag=HEAD-22ce8a9-250528T212608-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8804ea2d42f87bd9b7437f94148d57e2e9cbb0e2be099fb5ec0fb7d7db8b0e0",
+  "size": "12 MB",
+  "size_raw": "12522784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
