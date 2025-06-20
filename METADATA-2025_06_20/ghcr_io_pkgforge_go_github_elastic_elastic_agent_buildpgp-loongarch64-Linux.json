@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "buildpgp",
+  "pkg_family": "elastic-agent",
+  "pkg_id": "buildpgp#github.com_elastic_elastic_agent",
+  "pkg_name": "buildpgp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/elastic-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+  "homepage": [
+    "https://github.com/elastic/elastic-agent"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildfleetcfg",
+    "buildpgp",
+    "component",
+    "elastic-agent",
+    "testblocking",
+    "testlocker",
+    "testsignal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/elastic-agent/archive/8803a02d3538b2e2f2741c103aab025d1852a491.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8803a02-250619T162307",
+  "version_upstream": "",
+  "bsum": "b1212e62618283abfafd1c15541ef4c22391553c5b14d32f60deb7f3a54e2a71",
+  "build_date": "2025-06-20T08:49:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774047902",
+  "build_id": "15774047902",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/buildpgp?tag=HEAD-8803a02-250619T162307-loongarch64-Linux&download=buildpgp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "180",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/buildpgp?tag=HEAD-8803a02-250619T162307-loongarch64-Linux&download=buildpgp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/elastic-agent/buildpgp:HEAD-8803a02-250619T162307-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/elastic-agent/buildpgp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/buildpgp?tag=HEAD-8803a02-250619T162307-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "155de33628959d1de5160160b1afae50792c0ff1b5000c1e331f3773b6a66cb3",
+  "size": "3.8 MB",
+  "size_raw": "3924248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

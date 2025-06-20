@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "testblocking",
+  "pkg_family": "elastic-agent",
+  "pkg_id": "testblocking#github.com_elastic_elastic_agent",
+  "pkg_name": "testblocking",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/elastic-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+  "homepage": [
+    "https://github.com/elastic/elastic-agent"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildfleetcfg",
+    "buildpgp",
+    "component",
+    "elastic-agent",
+    "testblocking",
+    "testlocker",
+    "testsignal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/elastic-agent/archive/8803a02d3538b2e2f2741c103aab025d1852a491.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8803a02-250619T162307",
+  "version_upstream": "",
+  "bsum": "e377b016393b8a8d9149b4829242fee160ce4cd13625bdbdf9d1b874b0638f96",
+  "build_date": "2025-06-20T08:49:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774047902",
+  "build_id": "15774047902",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/testblocking?tag=HEAD-8803a02-250619T162307-loongarch64-Linux&download=testblocking.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "180",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/testblocking?tag=HEAD-8803a02-250619T162307-loongarch64-Linux&download=testblocking",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/elastic-agent/testblocking:HEAD-8803a02-250619T162307-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/elastic-agent/testblocking",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/testblocking?tag=HEAD-8803a02-250619T162307-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6cd6dd7bb66ac37063a10f94f542402f8f36dbfd148c812ce1cb72af49b5f085",
+  "size": "1.4 MB",
+  "size_raw": "1373880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
