@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sender",
+  "pkg_family": "statshouse",
+  "pkg_id": "sender#github.com_VKCOM_statshouse",
+  "pkg_name": "sender",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VKCOM/statshouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "StatsHouse is a highly available, scalable, multitenant monitoring system",
+  "homepage": [
+    "https://github.com/VKCOM/statshouse"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ch-table-gen",
+    "sender",
+    "statshouse-example",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VKCOM/statshouse/archive/ef46bea11f073ee31240bd9a65dde630dcfaec65.tar.gz"
+  ],
+  "tag": [
+    "dashboard",
+    "graphing",
+    "metrics",
+    "monitoring",
+    "observability",
+    "tsdb"
+  ],
+  "version": "HEAD-ef46bea-250619T183844",
+  "version_upstream": "",
+  "bsum": "a3f57075d8e9f01bef53c459d2cce1266e65663b547f1c9668d0f7293037b38f",
+  "build_date": "2025-06-20T07:38:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773124886",
+  "build_id": "15773124886",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/sender?tag=HEAD-ef46bea-250619T183844-aarch64-Linux&download=sender.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/sender?tag=HEAD-ef46bea-250619T183844-aarch64-Linux&download=sender",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vkcom/statshouse/sender:HEAD-ef46bea-250619T183844-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vkcom/statshouse/sender",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/sender?tag=HEAD-ef46bea-250619T183844-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b45f7d8f4a93572d73a1194a6cb08a9ae2e54d0b68557ae06321bddb681408a9",
+  "size": "2.3 MB",
+  "size_raw": "2317944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
