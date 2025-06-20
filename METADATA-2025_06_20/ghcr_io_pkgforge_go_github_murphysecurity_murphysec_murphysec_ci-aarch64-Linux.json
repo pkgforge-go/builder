@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "murphysec-ci",
+  "pkg_family": "murphysec",
+  "pkg_id": "murphysec-ci#github.com_murphysecurity_murphysec",
+  "pkg_name": "murphysec-ci",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/murphysecurity/murphysec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。",
+  "homepage": [
+    "https://github.com/murphysecurity/murphysec"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "murphysec",
+    "murphysec-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/murphysecurity/murphysec/archive/2d5e48b2d7c900f1d2930afb5c0a402382a4adc7.tar.gz"
+  ],
+  "tag": [
+    "codescan",
+    "dependency",
+    "sca",
+    "scanner",
+    "security",
+    "software-composition-analysis",
+    "software-supply-chain",
+    "vulnerability-detection"
+  ],
+  "version": "HEAD-2d5e48b-250620T175714",
+  "version_upstream": "",
+  "bsum": "957328aa9e439c5e104ea23e067af28f779e1e671c5ccdcbffed5fdcfa549b3b",
+  "build_date": "2025-06-20T23:25:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789126690",
+  "build_id": "15789126690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/murphysecurity/murphysec/murphysec-ci?tag=HEAD-2d5e48b-250620T175714-aarch64-Linux&download=murphysec-ci.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1730",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/murphysecurity/murphysec/murphysec-ci?tag=HEAD-2d5e48b-250620T175714-aarch64-Linux&download=murphysec-ci",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/murphysecurity/murphysec/murphysec-ci:HEAD-2d5e48b-250620T175714-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/murphysecurity/murphysec/murphysec-ci",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/murphysecurity/murphysec/murphysec-ci?tag=HEAD-2d5e48b-250620T175714-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b42809fff04fea5a7a58f6b745592237e72ddc157704d9dffa5f27ddecd1f77f",
+  "size": "5.8 MB",
+  "size_raw": "6057376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
