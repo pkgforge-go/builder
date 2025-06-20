@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "testasan",
+  "pkg_family": "gofrontend",
+  "pkg_id": "testasan#github.com_golang_gofrontend",
+  "pkg_name": "testasan",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/gofrontend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go compiler frontend _gccgo_",
+  "homepage": [
+    "https://github.com/golang/gofrontend"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "testasan",
+    "testsigfwd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/gofrontend/archive/f5c453aa726ebb509e7b8cb20df7734f0e411404.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f5c453a-250304T114135",
+  "version_upstream": "",
+  "bsum": "282416e00dcc64ff92f9ed5b06dc25f4687bcfe51a53f7ae8470637d2f81d294",
+  "build_date": "2025-06-20T04:02:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770375006",
+  "build_id": "15770375006",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/gofrontend/testasan?tag=HEAD-f5c453a-250304T114135-loongarch64-Linux&download=testasan.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "874",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/gofrontend/testasan?tag=HEAD-f5c453a-250304T114135-loongarch64-Linux&download=testasan",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/gofrontend/testasan:HEAD-f5c453a-250304T114135-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/gofrontend/testasan",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/gofrontend/testasan?tag=HEAD-f5c453a-250304T114135-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c568350d90aa4cc95dd41052ca55614bbd3dd49a0f25a5fcc12e1731c41bc632",
+  "size": "1.6 MB",
+  "size_raw": "1662752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
