@@ -1,0 +1,63 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "eventing-autoscaler-keda",
+  "pkg_id": "webhook#github.com_knative_extensions_eventing_autoscaler_keda.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-autoscaler-keda.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150402",
+  "version_upstream": "",
+  "bsum": "1cdb0db28d17da5f0497a04a741cb4f83932dd38128d25637febf2f8f1c3a0cb",
+  "build_date": "2025-06-20T15:08:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780760616",
+  "build_id": "15780760616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150402-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150402-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/autoscaler/keda.git/webhook:20250620T150402-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/autoscaler/keda.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150402-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a14498704735de67646817c9c50dd518f00d8b9d3fd3dee9ae7de113a5d03cd",
+  "size": "57 MB",
+  "size_raw": "58914176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
