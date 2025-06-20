@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "playground",
+  "pkg_family": "s12-proto",
+  "pkg_id": "playground#github.com_SafetyCulture_s12_proto",
+  "pkg_name": "playground",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SafetyCulture/s12-proto",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Protocol Buffer tools",
+  "homepage": [
+    "https://github.com/SafetyCulture/s12-proto"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "playground",
+    "protoc-gen-gogrpcmock",
+    "protoc-gen-govalidator",
+    "protoc-gen-logger",
+    "protoc-gen-s12perm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SafetyCulture/s12-proto/archive/d35cf372b74f1afec8e0ce914d3fd2af6017411e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d35cf37-250620T103640",
+  "version_upstream": "v1.37.0",
+  "bsum": "5206cd8a2385835f3df8a864a25f9a8933beab1b06440c8c87d7de96dffa68e8",
+  "build_date": "2025-06-20T07:27:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773115881",
+  "build_id": "15773115881",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/safetyculture/s12-proto/playground?tag=HEAD-d35cf37-250620T103640-loongarch64-Linux&download=playground.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/safetyculture/s12-proto/playground?tag=HEAD-d35cf37-250620T103640-loongarch64-Linux&download=playground",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/safetyculture/s12-proto/playground:HEAD-d35cf37-250620T103640-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/safetyculture/s12-proto/playground",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/safetyculture/s12-proto/playground?tag=HEAD-d35cf37-250620T103640-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "504b3b122e997ddb27ab47dc5ea049257a20309246b21cfaae0dc284802a6e94",
+  "size": "6.2 MB",
+  "size_raw": "6426048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
