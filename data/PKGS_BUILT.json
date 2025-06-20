@@ -993,10 +993,23 @@
     "pkg_id": "agent#github.com_faanross_IPv6_rotationalC2",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9e37d83-250304T101730"
+  },
+  {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "agent",
+    "pkg_id": "agent#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
   },
   {
     "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
@@ -1075,6 +1088,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6e8fa27-250524T141924"
+  },
+  {
+    "description": "Finding XSS during recon",
+    "name": "airixss",
+    "pkg_id": "airixss#github.com_ferreiraklet_airixss",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-4c36e01-220913T161250"
   },
   {
     "description": "AIStore: scalable storage for AI applications",
@@ -1233,6 +1259,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-03ace46-250619T125501"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "alluxio",
+    "pkg_id": "alluxio#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "Go Language Library for SVG generation",
@@ -2431,7 +2470,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "A developer CLI that reduces the time it takes to get started on Azure. The Azure Developer CLI _azd_ provides commands that map to key workflow stages: code, build, deploy, monitor, repeat.",
@@ -3163,6 +3202,19 @@
     "version": "HEAD-ed4b7ce-250612T103718"
   },
   {
+    "description": "A JWT based API for managing users and issuing JWT tokens",
+    "name": "auth",
+    "pkg_id": "auth#github.com_supabase_auth",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c6e0cbe-250619T120316"
+  },
+  {
     "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
     "name": "auth-injector",
     "pkg_id": "auth-injector#github.com_cortexproject_cortex",
@@ -3249,6 +3301,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6e8fa27-250524T141924"
+  },
+  {
+    "description": "Websocket implementation for fasthttp.",
+    "name": "autobahn",
+    "pkg_id": "autobahn#github.com_fasthttp_fastws",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1229a88-210610T160346"
   },
   {
     "description": "Modern, easy to use download automation for torrents and usenet.",
@@ -5333,7 +5398,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
@@ -5422,7 +5487,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": ":white_check_mark: A Go library for email verification without sending any emails.",
@@ -5462,6 +5527,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0ba57af-250616T014707"
+  },
+  {
+    "description": "BuilderHub service for provisioning and permissioning BuilderNet instances",
+    "name": "builder-hub",
+    "pkg_id": "builder-hub#github.com_flashbots_builder_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d17fbce-250619T124003"
   },
   {
     "description": "No Description Provided",
@@ -6235,6 +6313,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ed8df49-250226T114659"
+  },
+  {
+    "description": "Third-party Cloudflare Tunnel client _formerly Argo Tunnel_",
+    "name": "cftun",
+    "pkg_id": "cftun#github.com_fmnx_cftun",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-163ef76-250614T084135"
   },
   {
     "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
@@ -8293,6 +8384,19 @@
     "version": "HEAD-e847e07-250507T080649"
   },
   {
+    "description": "Replay chrome requests from your terminal using curl",
+    "name": "cntui",
+    "pkg_id": "cntui#github.com_fipso_cntui",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-0b64403-230714T193958"
+  },
+  {
     "description": "Manage your database schema as code",
     "name": "cockroach",
     "pkg_id": "cockroach#github.com_ariga_atlas",
@@ -8549,6 +8653,19 @@
     "version": "HEAD-c22068d-250108T155727"
   },
   {
+    "description": "A path tracer written in Go.",
+    "name": "combine",
+    "pkg_id": "combine#github.com_fogleman_pt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6fa0015-170618T212416"
+  },
+  {
     "description": "Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.",
     "name": "combine-segs",
     "pkg_id": "combine-segs#github.com_Eyevinn_mp4ff",
@@ -8717,6 +8834,18 @@
     "version": "HEAD-e5d7ba0-250619T065537"
   },
   {
+    "description": "Tool for generating Clang_s JSON Compilation Database files for make-based build systems.",
+    "name": "compiledb-go",
+    "pkg_id": "compiledb-go#github.com_fcying_compiledb_go",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-f2c83b5-250424T205516"
+  },
+  {
     "description": "Compiler for a small language into x86-64 Assembly",
     "name": "compiler",
     "pkg_id": "compiler#github.com_MauriceGit_compiler",
@@ -8871,6 +9000,17 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-6786e92-250616T173212"
+  },
+  {
+    "description": "Developer first, JSON based configuration management database _CMDB_",
+    "name": "config-db",
+    "pkg_id": "config-db#github.com_flanksource_config_db",
+    "targets": [
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1ffa63d-250619T171056"
   },
   {
     "description": "CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.",
@@ -9091,6 +9231,17 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7d394c9-250619T220346"
+  },
+  {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "containerd",
+    "pkg_id": "containerd#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
   },
   {
     "description": "An open and reliable container runtime",
@@ -9736,6 +9887,19 @@
     "version": "HEAD-a64dca6-240622T140323"
   },
   {
+    "description": "This tool shows the result of crt.sh",
+    "name": "crtsh",
+    "pkg_id": "crtsh#github.com_famasoon_crtsh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-df40d0a-220820T013426"
+  },
+  {
     "description": "An open source platform for managing and analyzing biomedical big data",
     "name": "crunch-dispatch-local",
     "pkg_id": "crunch-dispatch-local#github.com_arvados_arvados",
@@ -9759,6 +9923,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-afdb684-211017T184926"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "csi",
+    "pkg_id": "csi#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "CSI-Addons implementation and APIs for Kubernetes",
@@ -10238,6 +10415,19 @@
     "version": "HEAD-aef2ecd-250618T214300"
   },
   {
+    "description": "All-in-One Backend as a Service with Headless CMS Power",
+    "name": "database",
+    "pkg_id": "database#github.com_fastschema_fastschema",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3190887-250604T163317"
+  },
+  {
     "description": "KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.",
     "name": "dataprotection",
     "pkg_id": "dataprotection#github.com_apecloud_kubeblocks",
@@ -10248,6 +10438,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-8e34326-250616T111821"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "dataset",
+    "pkg_id": "dataset#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min",
@@ -10871,6 +11074,19 @@
     "version": "HEAD-1aa1933-211223T044204"
   },
   {
+    "description": "An interesting executable file parsing library written by Golang",
+    "name": "depends",
+    "pkg_id": "depends#github.com_fcharlie_buna",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-5999c25-240825T104725"
+  },
+  {
     "description": "The Deployment Validator Operator _DVO_ checks deployments and other resources against a curated collection of best practices.",
     "name": "deployment-validation-operator",
     "pkg_id": "deployment-validation-operator#github.com_app_sre_deployment_validation_operator",
@@ -10933,6 +11149,19 @@
     "version": "HEAD-8ae9363-250617T095151"
   },
   {
+    "description": "A path tracer written in Go.",
+    "name": "despeckle",
+    "pkg_id": "despeckle#github.com_fogleman_pt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6fa0015-170618T212416"
+  },
+  {
     "description": "Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse _Snowflake, BigQuery, Redshift, Databricks_ in real-time.",
     "name": "destination_append",
     "pkg_id": "destination_append#github.com_artie_labs_transfer",
@@ -10970,6 +11199,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0bd32aa-250618T225519"
+  },
+  {
+    "description": "Alternative casync implementation",
+    "name": "desync",
+    "pkg_id": "desync#github.com_folbricht_desync",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b340c05-250417T074953"
   },
   {
     "description": "Shared GitHub Actions for FerretDB repos",
@@ -11047,6 +11289,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-c1a3bfb-200427T120907"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "devicesimulator",
+    "pkg_id": "devicesimulator#github.com_flightctl_flightctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2ff9a43-250619T160215"
   },
   {
     "description": "Powerful system container and virtual machine manager",
@@ -11778,6 +12033,19 @@
     "version": "HEAD-ddfde03-250619T101533"
   },
   {
+    "description": "DNS Ping: to check packet loss and latency issues with DNS servers",
+    "name": "dnsping",
+    "pkg_id": "dnsping#github.com_fortio_dnsping",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-42f2819-250526T060117"
+  },
+  {
     "description": "CLI tool for a high QPS DNS benchmark",
     "name": "dnspyre",
     "pkg_id": "dnspyre#github.com_Tantalor93_dnspyre",
@@ -12422,6 +12690,18 @@
     "version": "HEAD-0b3a01c-250618T124933"
   },
   {
+    "description": "No Description Provided",
+    "name": "duty",
+    "pkg_id": "duty#github.com_flanksource_duty",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-af36b71-250619T142119"
+  },
+  {
     "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
     "name": "dv2email",
     "pkg_id": "dv2email#github.com_ITRS_Group_cordial",
@@ -12782,6 +13062,19 @@
     "version": "HEAD-511fd09-250619T133251"
   },
   {
+    "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go _golang_. Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+    "name": "echosrv",
+    "pkg_id": "echosrv#github.com_fortio_fortio",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6b8dbd3-250602T072340"
+  },
+  {
     "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
     "name": "edge",
     "pkg_id": "edge#github.com_ccfos_nightingale",
@@ -12820,6 +13113,19 @@
     "version": "HEAD-d87d326-250610T063129"
   },
   {
+    "description": "acme without window management",
+    "name": "edward",
+    "pkg_id": "edward#github.com_fhs_edward",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-7126e5d-211229T140512"
+  },
+  {
     "description": "Little Bug Bounty _ Hacking Tools⚔️",
     "name": "eefjsf",
     "pkg_id": "eefjsf#github.com_edoardottt_lit_bb_hack_tools",
@@ -12831,6 +13137,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0597615-241110T105825"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "efc",
+    "pkg_id": "efc#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "Linux UEFI library written in pure Go.",
@@ -12908,6 +13227,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d8e4300-250619T091355"
+  },
+  {
+    "description": "An interesting executable file parsing library written by Golang",
+    "name": "elfview",
+    "pkg_id": "elfview#github.com_fcharlie_buna",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-5999c25-240825T104725"
   },
   {
     "description": "Powerful scripting language _ versatile interactive shell",
@@ -13795,6 +14127,19 @@
     "version": "HEAD-a4f2eea-250619T113018"
   },
   {
+    "description": "The programmable open source ledger for fintechs",
+    "name": "examples",
+    "pkg_id": "examples#github.com_formancehq_ledger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-539800c-250617T100642"
+  },
+  {
     "description": "Random fake data generator written in go",
     "name": "exampleupdate",
     "pkg_id": "exampleupdate#github.com_brianvoe_gofakeit",
@@ -14145,6 +14490,19 @@
     "version": "HEAD-336ebe4-250617T171950"
   },
   {
+    "description": "A dockerized fake SSH server honeypot written in Go that logs login attempts.",
+    "name": "fakessh",
+    "pkg_id": "fakessh#github.com_fffaraz_fakessh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-0e05e3c-240203T211543"
+  },
+  {
     "description": "The snapd and snap tools enable systems to work with .snap files.",
     "name": "fakestore",
     "pkg_id": "fakestore#github.com_canonical_snapd",
@@ -14155,6 +14513,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bee550c-250619T152729"
+  },
+  {
+    "description": "Response Engine for managing threats in your Kubernetes",
+    "name": "falco-talon",
+    "pkg_id": "falco-talon#github.com_falcosecurity_falco_talon",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-a0f0069-250619T081208"
   },
   {
     "description": "FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.",
@@ -14209,6 +14580,32 @@
     "version": "HEAD-f1f55d8-250619T001859"
   },
   {
+    "description": "TUI Application Launcher. Alternative to rofi/wofi.",
+    "name": "fastlauncher",
+    "pkg_id": "fastlauncher#github.com_fastlauncher_fastlauncher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-5da40b5-250619T124733"
+  },
+  {
+    "description": "All-in-One Backend as a Service with Headless CMS Power",
+    "name": "fastschema-cmd",
+    "pkg_id": "fastschema-cmd#github.com_fastschema_fastschema",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3190887-250604T163317"
+  },
+  {
     "description": "detects nested contexts in loops or function literals",
     "name": "fatcontext",
     "pkg_id": "fatcontext#github.com_Crocmagnon_fatcontext",
@@ -14244,6 +14641,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0ea4ecd-250616T083603"
+  },
+  {
+    "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go _golang_. Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+    "name": "fcurl",
+    "pkg_id": "fcurl#github.com_fortio_fortio",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6b8dbd3-250602T072340"
   },
   {
     "description": "The snapd and snap tools enable systems to work with .snap files.",
@@ -14400,6 +14810,19 @@
     "version": "HEAD-18bb3cf-250617T152621"
   },
   {
+    "description": "Fast web fuzzer written in Go",
+    "name": "ffuf",
+    "pkg_id": "ffuf#github.com_ffuf_ffuf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-57da720-250424T190548"
+  },
+  {
     "description": "Golang tool which helps dropping the irrelevant entries from your ffuf result file.",
     "name": "ffufpostprocessing",
     "pkg_id": "ffufpostprocessing#github.com_dsecuredcom_ffufPostprocessing",
@@ -14439,6 +14862,19 @@
     "version": "HEAD-e5d7ba0-250619T065537"
   },
   {
+    "description": ":yum: Unix file command written in Go",
+    "name": "fil",
+    "pkg_id": "fil#github.com_file_go_fil",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-ec04fa9-250416T064350"
+  },
+  {
     "description": "golang写的IM服务器_服务组件形式_",
     "name": "file",
     "pkg_id": "file#github.com_alberliu_gim",
@@ -14476,6 +14912,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-18bb3cf-250617T152621"
+  },
+  {
+    "description": "📂 Web File Browser",
+    "name": "filebrowser",
+    "pkg_id": "filebrowser#github.com_filebrowser_filebrowser",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e9bb3dc-250618T215842"
   },
   {
     "description": "Stealth dropper executing remote binaries without dropping them on disk ._HTTP3 support, ICMP support, invisible tracks, cross-platform,..._",
@@ -14593,6 +15042,19 @@
     "version": "HEAD-99f4fe7-190424T085717"
   },
   {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "firecracker-containerd-examples",
+    "pkg_id": "firecracker-containerd-examples#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
+  },
+  {
     "description": "RootFS builder with OCI images",
     "name": "firecracker-rootfs-builder",
     "pkg_id": "firecracker-rootfs-builder#github.com_WoodProgrammer_firecracker_rootfs_builder",
@@ -14604,6 +15066,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6e539e0-250409T143645"
+  },
+  {
+    "description": "firectl is a command-line tool to run Firecracker microVMs",
+    "name": "firectl",
+    "pkg_id": "firectl#github.com_firecracker_microvm_firectl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-df2fb87-250516T150657"
   },
   {
     "description": "[mirror] Go Tools",
@@ -14645,6 +15120,19 @@
     "version": "HEAD-51b70f9-250317T101711"
   },
   {
+    "description": "flannel is a network fabric for containers, designed for Kubernetes",
+    "name": "flannel",
+    "pkg_id": "flannel#github.com_flannel_io_flannel",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1f99acd-250616T182642"
+  },
+  {
     "description": "Forked from [cview]_https://code.rocket9labs.com/tslocum/cview_",
     "name": "flex",
     "pkg_id": "flex#github.com_blacknon_mview",
@@ -14658,6 +15146,71 @@
     "version": "HEAD-1e37b85-240818T135358"
   },
   {
+    "description": "No Description Provided",
+    "name": "flightctl",
+    "pkg_id": "flightctl#github.com_flightctl_flightctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2ff9a43-250619T160215"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "flightctl-agent",
+    "pkg_id": "flightctl-agent#github.com_flightctl_flightctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2ff9a43-250619T160215"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "flightctl-api",
+    "pkg_id": "flightctl-api#github.com_flightctl_flightctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2ff9a43-250619T160215"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "flightctl-periodic",
+    "pkg_id": "flightctl-periodic#github.com_flightctl_flightctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2ff9a43-250619T160215"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "flightctl-worker",
+    "pkg_id": "flightctl-worker#github.com_flightctl_flightctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2ff9a43-250619T160215"
+  },
+  {
     "description": "Stupid simple utility for linting your flake inputs",
     "name": "flint",
     "pkg_id": "flint#github.com_NotAShelf_flint",
@@ -14669,6 +15222,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4de5e2f-250619T115933"
+  },
+  {
+    "description": "Enterprise-ready, GitOps enabled, CloudNative feature management solution",
+    "name": "flipt",
+    "pkg_id": "flipt#github.com_flipt_io_flipt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-95fcbf9-250618T220539"
   },
   {
     "description": "Kubernetes networking based on Open vSwitch",
@@ -14695,6 +15261,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1546f12-211024T195047"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "fluidapp",
+    "pkg_id": "fluidapp#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "Forked from [cview]_https://code.rocket9labs.com/tslocum/cview_",
@@ -14733,6 +15312,17 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4702d66-250619T104559"
+  },
+  {
+    "description": "Run reusable steps from proprietary CI systems.",
+    "name": "forge",
+    "pkg_id": "forge#github.com_frantjc_forge",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1c3ffae-250603T201258"
   },
   {
     "description": "Go implementation of Ethereum proof of stake",
@@ -14797,6 +15387,19 @@
     "version": "HEAD-fc58826-250619T170127"
   },
   {
+    "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go _golang_. Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+    "name": "fortio",
+    "pkg_id": "fortio#github.com_fortio_fortio",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6b8dbd3-250602T072340"
+  },
+  {
     "description": "functional programming library for golang",
     "name": "fp-go",
     "pkg_id": "fp-go#github.com_IBM_fp_go",
@@ -14821,6 +15424,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-841dfc2-250515T030208"
+  },
+  {
+    "description": "A user-friendly CMS written in Go _golang_",
+    "name": "fragmenta-cms",
+    "pkg_id": "fragmenta-cms#github.com_fragmenta_fragmenta_cms",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd08739-180803T215954"
   },
   {
     "description": "Forked from [cview]_https://code.rocket9labs.com/tslocum/cview_",
@@ -14901,6 +15517,19 @@
     "version": "HEAD-eadf666-240412T231032"
   },
   {
+    "description": "Reverse Proxy _ DNS based solution to bypass paywalls 🔨💵🧱",
+    "name": "freenews",
+    "pkg_id": "freenews#github.com_fipso_freenews",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-465db50-240330T183340"
+  },
+  {
     "description": "Generate images of code and terminal output 📸",
     "name": "freeze",
     "pkg_id": "freeze#github.com_charmbracelet_freeze",
@@ -14951,6 +15580,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bc8d4c8-250619T201956"
+  },
+  {
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "name": "frpc",
+    "pkg_id": "frpc#github.com_fatedier_frp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-de690a5-250527T164615"
+  },
+  {
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "name": "frps",
+    "pkg_id": "frps#github.com_fatedier_frp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-de690a5-250527T164615"
   },
   {
     "description": "A more readable alternative to the stat command",
@@ -16196,6 +16851,30 @@
     "version": "HEAD-5e72a6b-250128T084449"
   },
   {
+    "description": "Developer first, JSON based configuration management database _CMDB_",
+    "name": "generate-schemas",
+    "pkg_id": "generate-schemas#github.com_flanksource_config_db",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1ffa63d-250619T171056"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "generate-schemas",
+    "pkg_id": "generate-schemas#github.com_flanksource_mission_control",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b170e59-250619T114032"
+  },
+  {
     "description": "Gazelle plugin for Swift files.",
     "name": "generate_ci_workflow",
     "pkg_id": "generate_ci_workflow#github.com_cgrindel_swift_gazelle_plugin",
@@ -16944,6 +17623,19 @@
     "version": "HEAD-c0f74ff-250618T111750"
   },
   {
+    "description": "Git command implemented in pure Go",
+    "name": "gig",
+    "pkg_id": "gig#github.com_fhs_gig",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1d26b02-230522T000150"
+  },
+  {
     "description": "👧 An honest Finger protocol server",
     "name": "gigi",
     "pkg_id": "gigi#github.com_Fuwn_gigi",
@@ -17035,6 +17727,19 @@
     "version": "HEAD-139f92e-250618T175024"
   },
   {
+    "description": "Git command implemented in pure Go",
+    "name": "git-receive-pack",
+    "pkg_id": "git-receive-pack#github.com_fhs_gig",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1d26b02-230522T000150"
+  },
+  {
     "description": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
     "name": "git-remote-encore",
     "pkg_id": "git-remote-encore#github.com_encoredev_encore",
@@ -17046,6 +17751,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-81f8985-250619T144228"
+  },
+  {
+    "description": "Git command implemented in pure Go",
+    "name": "git-upload-pack",
+    "pkg_id": "git-upload-pack#github.com_fhs_gig",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1d26b02-230522T000150"
   },
   {
     "description": "📦 Produce secure packages and containers with declarative configurations",
@@ -17110,6 +17828,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bdc772c-240728T123115"
+  },
+  {
+    "description": "💊 A git query language",
+    "name": "gitql",
+    "pkg_id": "gitql#github.com_filhodanuvem_gitql",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9aab2f5-240614T233858"
   },
   {
     "description": "Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️",
@@ -17676,6 +18407,19 @@
     "version": "HEAD-4e6f075-230226T120356"
   },
   {
+    "description": "Simple Reverse Proxy with Caching, written in Go, using Redis.",
+    "name": "go-proxy-cache",
+    "pkg_id": "go-proxy-cache#github.com_fabiocicerchia_go_proxy_cache",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-4f5a4d8-241104T223832"
+  },
+  {
     "description": "Sandbox implemented in GO with container / ptrace / seccomp",
     "name": "go-sandbox",
     "pkg_id": "go-sandbox#github.com_criyle_go_sandbox",
@@ -17879,6 +18623,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-c705b63-250227T003808"
+  },
+  {
+    "description": "Plug-and-play Proxy IP Pool with No Environmental Dependencies 无环境依赖开箱即用的代理IP池",
+    "name": "go_proxy_pool",
+    "pkg_id": "go_proxy_pool#github.com_find_xposed_magisk_go_proxy_pool",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-df93c10-250619T125619"
   },
   {
     "description": "Benchmarks of Go serialization methods",
@@ -18626,6 +19383,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6e93689-231023T133051"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "goosefs",
+    "pkg_id": "goosefs#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "[mirror] Go Tools",
@@ -20060,6 +20830,19 @@
     "version": "HEAD-bee550c-250619T152729"
   },
   {
+    "description": "Checks all maintainers of all NPM and Pypi packages for hijackable packages through domain re-registration",
+    "name": "hijagger",
+    "pkg_id": "hijagger#github.com_firefart_hijagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-76a9cd3-250615T120731"
+  },
+  {
     "description": "🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!",
     "name": "hilbish",
     "pkg_id": "hilbish#github.com_Rosettea_Hilbish",
@@ -20083,6 +20866,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0e89432-250424T200156"
+  },
+  {
+    "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go _golang_. Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+    "name": "histogram",
+    "pkg_id": "histogram#github.com_fortio_fortio",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6b8dbd3-250602T072340"
   },
   {
     "description": "Various tools, trinkets and experiments",
@@ -20160,6 +20956,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-c7a2c2b-250326T065843"
+  },
+  {
+    "description": "All-in-One Backend as a Service with Headless CMS Power",
+    "name": "hooks",
+    "pkg_id": "hooks#github.com_fastschema_fastschema",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3190887-250604T163317"
   },
   {
     "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
@@ -20416,6 +21225,19 @@
     "version": "HEAD-1f46516-250618T134224"
   },
   {
+    "description": "go websocket, a better way to buid your IM server",
+    "name": "httpclient",
+    "pkg_id": "httpclient#github.com_fanux_lhttp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-bf219b4-180408T160608"
+  },
+  {
     "description": "Various tools, trinkets and experiments",
     "name": "httpdebug",
     "pkg_id": "httpdebug#github.com_Xe_x",
@@ -20670,6 +21492,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a4359f9-240211T232418"
+  },
+  {
+    "description": "GitOps Toolkit controller that scans container registries",
+    "name": "image-reflector-controller",
+    "pkg_id": "image-reflector-controller#github.com_fluxcd_image_reflector_controller",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fc95ba9-250619T115536"
   },
   {
     "description": "Real time Kubernetes issues and vulnerabilities scanning",
@@ -21149,6 +21983,19 @@
     "version": "HEAD-09fd57e-250604T084249"
   },
   {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "internal",
+    "pkg_id": "internal#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
+  },
+  {
     "description": "A fast script language for Go",
     "name": "interoperability",
     "pkg_id": "interoperability#github.com_d5_tengo",
@@ -21500,6 +22347,19 @@
     "version": "HEAD-1036d90-250619T173158"
   },
   {
+    "description": "Jeeves SQLI Finder",
+    "name": "jeeves",
+    "pkg_id": "jeeves#github.com_ferreiraklet_Jeeves",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-7015095-220513T135341"
+  },
+  {
     "description": "🍍Jeff provides the simplest way to manage web sessions in Go.",
     "name": "jeff",
     "pkg_id": "jeff#github.com_abraithwaite_jeff",
@@ -21536,6 +22396,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b8183a7-250619T121932"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "jindo",
+    "pkg_id": "jindo#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "🔥 Feature-rich interactive Jira command line.",
@@ -21779,6 +22652,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0ddfab1-240110T145140"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "juicefs",
+    "pkg_id": "juicefs#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
@@ -22357,6 +23243,19 @@
     "version": "HEAD-0597615-241110T105825"
   },
   {
+    "description": "A tool that simplifies the management of multiple versions of kubectl",
+    "name": "kuberlr",
+    "pkg_id": "kuberlr#github.com_flavio_kuberlr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1a5fafd-250619T105645"
+  },
+  {
     "description": "A log viewer for Kubernetes troubleshooting",
     "name": "kubernetes-history-inspector",
     "pkg_id": "kubernetes-history-inspector#github.com_GoogleCloudPlatform_khi",
@@ -22651,6 +23550,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-a028d74-220409T174729"
+  },
+  {
+    "description": "The programmable open source ledger for fintechs",
+    "name": "ledger",
+    "pkg_id": "ledger#github.com_formancehq_ledger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-539800c-250617T100642"
   },
   {
     "description": "Best LeetCode friend for geek. :snowboarder:",
@@ -23260,6 +24172,19 @@
     "version": "HEAD-8e55c19-250618T114056"
   },
   {
+    "description": "All-in-One Backend as a Service with Headless CMS Power",
+    "name": "logging",
+    "pkg_id": "logging#github.com_fastschema_fastschema",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3190887-250604T163317"
+  },
+  {
     "description": "golang写的IM服务器_服务组件形式_",
     "name": "logic",
     "pkg_id": "logic#github.com_alberliu_gim",
@@ -23556,6 +24481,19 @@
     "version": "HEAD-5290649-250619T134116"
   },
   {
+    "description": "An interesting executable file parsing library written by Golang",
+    "name": "machoview",
+    "pkg_id": "machoview#github.com_fcharlie_buna",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-5999c25-240825T104725"
+  },
+  {
     "description": "CFSSL: Cloudflare_s PKI and TLS toolkit",
     "name": "maclient",
     "pkg_id": "maclient#github.com_cloudflare_cfssl",
@@ -23567,6 +24505,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ed8df49-250226T114659"
+  },
+  {
+    "description": "✉️ Composable all-in-one mail server.",
+    "name": "maddy",
+    "pkg_id": "maddy#github.com_foxcpp_maddy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fa47d40-250309T154430"
+  },
+  {
+    "description": "✉️ Composable all-in-one mail server.",
+    "name": "maddy-shadow-helper",
+    "pkg_id": "maddy-shadow-helper#github.com_foxcpp_maddy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fa47d40-250309T154430"
   },
   {
     "description": "Full-featured BitTorrent client package and utilities",
@@ -23753,6 +24717,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7e84843-250617T165231"
+  },
+  {
+    "description": "A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.",
+    "name": "man",
+    "pkg_id": "man#github.com_forestnode_io_oneshot",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-22a2a6d-240601T152306"
   },
   {
     "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
@@ -24126,6 +25102,31 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b9116d5-250617T204523"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "mcwig",
+    "pkg_id": "mcwig#github.com_firstrow_mcwig",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6984714-250614T194527"
+  },
+  {
+    "description": "A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.",
+    "name": "md",
+    "pkg_id": "md#github.com_forestnode_io_oneshot",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-22a2a6d-240601T152306"
   },
   {
     "description": "🔁 CLI tool for converting markdown to a single html file. 用于将 markdown 转换为单个 html 文件的 CLI 实用工具。",
@@ -24831,6 +25832,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ef2edeb-240807T102332"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "mission-control",
+    "pkg_id": "mission-control#github.com_flanksource_mission_control",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-b170e59-250619T114032"
   },
   {
     "description": "Correct commonly misspelled English words in source files",
@@ -25659,6 +26672,32 @@
     "version": "HEAD-ff098d8-250619T152254"
   },
   {
+    "description": "Go package for multiplexing a 9P service",
+    "name": "mux9p",
+    "pkg_id": "mux9p#github.com_fhs_mux9p",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6fd7973-210511T133730"
+  },
+  {
+    "description": "Fetch synced lyrics from Musixmatch and save it as *.lrc file, written in Go. Python version https://github.com/fashni/MxLRC",
+    "name": "mxlrc-go",
+    "pkg_id": "mxlrc-go#github.com_fashni_mxlrc_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-9dbd475-220809T005015"
+  },
+  {
     "description": "😍 Golang implementation for myers diff algorithm",
     "name": "myers-diff",
     "pkg_id": "myers-diff#github.com_cj1128_myers_diff",
@@ -25696,6 +26735,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-5ce707e-250613T115959"
+  },
+  {
+    "description": "a command line tool for doing all things nostr",
+    "name": "nak",
+    "pkg_id": "nak#github.com_fiatjaf_nak",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-a650990-250608T105008"
   },
   {
     "description": "A tool for enumerating usernames from text, files, or websites",
@@ -25942,6 +26994,19 @@
     "version": "HEAD-d8486a3-240104T144938"
   },
   {
+    "description": "nginx access logs analytics",
+    "name": "ngtop",
+    "pkg_id": "ngtop#github.com_facundoolano_ngtop",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-2f529be-240914T162229"
+  },
+  {
     "description": "Nilla modules and cli plugins to work with NixOS and home-manager configurations",
     "name": "nilla-home",
     "pkg_id": "nilla-home#github.com_arnarg_nilla_utils",
@@ -25979,6 +27044,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e5d7ba0-250619T065537"
+  },
+  {
+    "description": "Responser",
+    "name": "nilo",
+    "pkg_id": "nilo#github.com_ferreiraklet_nilo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-6d432c2-220418T134640"
   },
   {
     "description": "Package for implementing clients and servers of the 9P and 9P2000 distributed resource protocols in Go.",
@@ -26596,6 +27674,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bac4569-250614T230551"
+  },
+  {
+    "description": "A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.",
+    "name": "oneshot",
+    "pkg_id": "oneshot#github.com_forestnode_io_oneshot",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-22a2a6d-240601T152306"
   },
   {
     "description": "Onion addresses for anything.",
@@ -27368,6 +28458,19 @@
     "version": "HEAD-4a21c40-230314T075031"
   },
   {
+    "description": "An interesting executable file parsing library written by Golang",
+    "name": "peassets",
+    "pkg_id": "peassets#github.com_fcharlie_buna",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-5999c25-240825T104725"
+  },
+  {
     "description": "RocksDB/LevelDB inspired key-value database in Go",
     "name": "pebble",
     "pkg_id": "pebble#github.com_cockroachdb_pebble",
@@ -27402,6 +28505,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e658c46-250618T153119"
+  },
+  {
+    "description": "Complex payload encoder",
+    "name": "pencode",
+    "pkg_id": "pencode#github.com_ffuf_pencode",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-07e33ef-240120T124927"
   },
   {
     "description": "Couchbase client in Go",
@@ -27506,6 +28622,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-20a4c11-220922T210930"
+  },
+  {
+    "description": "An interesting executable file parsing library written by Golang",
+    "name": "peview",
+    "pkg_id": "peview#github.com_fcharlie_buna",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-5999c25-240825T104725"
   },
   {
     "description": "Flexible HTTP command line stress tester for websites and web services",
@@ -27925,6 +29054,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-142b9b4-250619T135307"
+  },
+  {
+    "description": "SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/",
+    "name": "plugin_endpoint",
+    "pkg_id": "plugin_endpoint#github.com_francoismichel_ssh3",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5b4b242-240904T104904"
   },
   {
     "description": "Processlist manager with TCP listener",
@@ -28699,7 +29841,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "Application lifecycle orchestration",
@@ -29497,6 +30639,19 @@
     "version": "HEAD-23ffe92-250618T165415"
   },
   {
+    "description": "Fast, high quality alternative to math/rand and golang.org/x/exp/rand",
+    "name": "rand",
+    "pkg_id": "rand#github.com_flyingmutant_rand",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cc89c0d-241105T163905"
+  },
+  {
     "description": "Go Language Library for SVG generation",
     "name": "randcomp",
     "pkg_id": "randcomp#github.com_ajstarks_svgo",
@@ -29661,7 +30816,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "A user-space file system for interacting with Google Cloud Storage",
@@ -29975,6 +31130,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bebad8f-250603T125741"
+  },
+  {
+    "description": "All-in-One Backend as a Service with Headless CMS Power",
+    "name": "relations",
+    "pkg_id": "relations#github.com_fastschema_fastschema",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3190887-250604T163317"
   },
   {
     "description": "Go source code for Bluesky_s atproto services.",
@@ -30376,6 +31544,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0af42ca-250619T130911"
+  },
+  {
+    "description": "All-in-One Backend as a Service with Headless CMS Power",
+    "name": "resource",
+    "pkg_id": "resource#github.com_fastschema_fastschema",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3190887-250604T163317"
   },
   {
     "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
@@ -30853,6 +32034,19 @@
     "version": "HEAD-d688f30-250619T085618"
   },
   {
+    "description": "🐸 Effortless persistent SSH tunnels with embedded server for seamless connectivity",
+    "name": "rospo",
+    "pkg_id": "rospo#github.com_ferama_rospo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-32c7548-250609T165921"
+  },
+  {
     "description": "利用fofa搜索socks5开放代理进行代理池轮切的工具",
     "name": "rotateproxy",
     "pkg_id": "rotateproxy#github.com_akkuman_rotateproxy",
@@ -30876,6 +32070,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-03f07ad-250212T223633"
+  },
+  {
+    "description": "DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS",
+    "name": "routedns",
+    "pkg_id": "routedns#github.com_folbricht_routedns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d60fbf1-250613T103410"
   },
   {
     "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
@@ -31104,6 +32311,17 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e1a8604-250617T215526"
+  },
+  {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "runtime",
+    "pkg_id": "runtime#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
   },
   {
     "description": "Static Binary Translator RISC-V to LLVM IR",
@@ -31753,6 +32971,19 @@
     "version": "HEAD-91c916d-200909T114857"
   },
   {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "sdk",
+    "pkg_id": "sdk#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
+  },
+  {
     "description": "Extract URLs, paths, secrets, and other interesting bits from JavaScript",
     "name": "secrets",
     "pkg_id": "secrets#github.com_BishopFox_jsluice",
@@ -32196,6 +33427,8 @@
     "pkg_id": "server#github.com_faanross_IPv6_rotationalC2",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
@@ -32419,6 +33652,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fce5031-250618T101727"
+  },
+  {
+    "description": "Run reusable steps from proprietary CI systems.",
+    "name": "shim",
+    "pkg_id": "shim#github.com_frantjc_forge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1c3ffae-250603T201258"
   },
   {
     "description": "An IIS short filename enumeration tool",
@@ -32833,7 +34079,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "Programming framework for writing and deploying cloud applications.",
@@ -33314,6 +34560,17 @@
     "version": "HEAD-b8c9bdf-250618T150330"
   },
   {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "snapshotter",
+    "pkg_id": "snapshotter#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
+  },
+  {
     "description": "🧷 自用的简单 SNIProxy（常用于网站负载均衡、基于域名_SNI_的端口转发等",
     "name": "sniproxy",
     "pkg_id": "sniproxy#github.com_XIU2_SNIProxy",
@@ -33622,6 +34879,19 @@
     "version": "HEAD-1a202c9-220205T222144"
   },
   {
+    "description": "Compare various Image resize algorithms for the Go language",
+    "name": "speedtest-resize",
+    "pkg_id": "speedtest-resize#github.com_fawick_speedtest_resize",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-5d62a2c-201028T172638"
+  },
+  {
     "description": "Spell checker in golang",
     "name": "spell-check",
     "pkg_id": "spell-check#github.com_bharatm29_spell_check",
@@ -33886,6 +35156,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fac62c4-250616T001132"
+  },
+  {
+    "description": "SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/",
+    "name": "ssh3",
+    "pkg_id": "ssh3#github.com_francoismichel_ssh3",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5b4b242-240904T104904"
+  },
+  {
+    "description": "SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/",
+    "name": "ssh3-server",
+    "pkg_id": "ssh3-server#github.com_francoismichel_ssh3",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5b4b242-240904T104904"
   },
   {
     "description": "Get all ssh public keys of a ssh server",
@@ -34210,6 +35506,19 @@
     "version": "HEAD-8d26ec0-250619T014939"
   },
   {
+    "description": "Steampipe plugin to query your OVH Cloud projects and ressources",
+    "name": "steampipe-plugin-ovh",
+    "pkg_id": "steampipe-plugin-ovh#github.com_francois2metz_steampipe_plugin_ovh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-76de5eb-250619T090541"
+  },
+  {
     "description": "🔍 Go tool for LSB steganography, capable of hiding any file within an image.",
     "name": "stegify",
     "pkg_id": "stegify#github.com_DimitarPetrov_stegify",
@@ -34286,6 +35595,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-5dfd6e0-250618T210109"
+  },
+  {
+    "description": "All-in-One Backend as a Service with Headless CMS Power",
+    "name": "storage",
+    "pkg_id": "storage#github.com_fastschema_fastschema",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3190887-250604T163317"
   },
   {
     "description": "The best way of working with Protocol Buffers.",
@@ -34518,6 +35840,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-71ada0c-250529T161552"
+  },
+  {
+    "description": "Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.",
+    "name": "stunner",
+    "pkg_id": "stunner#github.com_firefart_stunner",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-01116ad-250614T120135"
   },
   {
     "description": "alternate nix substitution",
@@ -34957,6 +36292,19 @@
     "version": "HEAD-692ff06-241231T172749"
   },
   {
+    "description": "Syncthing metrics exporter for prometheus",
+    "name": "syncthing_exporter",
+    "pkg_id": "syncthing_exporter#github.com_f100024_syncthing_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-1640a6e-250619T123441"
+  },
+  {
     "description": "Time Series Alerting Framework",
     "name": "synctokens",
     "pkg_id": "synctokens#github.com_bosun_monitor_bosun",
@@ -35181,7 +36529,8 @@
     "pkg_id": "tblogs#github.com_ezeoleaf_tblogs",
     "targets": [
       "aarch64-Linux",
-      "riscv64-Linux"
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-49a3a92-250618T131941"
@@ -35925,6 +37274,19 @@
     "version": "HEAD-6813364-250619T172052"
   },
   {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "test-bridged-tap",
+    "pkg_id": "test-bridged-tap#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
+  },
+  {
     "description": "A new network stack based on gVisor",
     "name": "test-companion",
     "pkg_id": "test-companion#github.com_containers_gvisor_tap_vsock",
@@ -36464,6 +37826,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ecceec3-250302T204720"
+  },
+  {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "thin",
+    "pkg_id": "thin#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
   },
   {
     "description": "The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.",
@@ -37928,7 +39303,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "The universal proxy platform",
@@ -37941,7 +39316,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "The universal proxy platform",
@@ -37954,7 +39329,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-19",
-    "version": "HEAD-ccceb8b-250617T142711"
+    "version": "HEAD-16f243b-250619T121714"
   },
   {
     "description": "Gazelle plugin for Swift files.",
@@ -38315,6 +39690,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b8d3e98-250213T104149"
+  },
+  {
+    "description": "NES emulator written in Go.",
+    "name": "util",
+    "pkg_id": "util#github.com_fogleman_nes",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3880f34-230907T180643"
   },
   {
     "description": "A game designed to let you show off your code-fu by solving problems in the least number of characters.",
@@ -38840,6 +40228,19 @@
     "version": "HEAD-efdb8e9-250316T110839"
   },
   {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "vineyard",
+    "pkg_id": "vineyard#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
+  },
+  {
     "description": "The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.",
     "name": "virtual_sensor",
     "pkg_id": "virtual_sensor#github.com_ThingsPanel_thingspanel_backend_community",
@@ -39042,6 +40443,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-6dbf9a4-221010T212052"
+  },
+  {
+    "description": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+    "name": "volume-init",
+    "pkg_id": "volume-init#github.com_firecracker_microvm_firecracker_containerd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-e6c7a36-250418T105828"
   },
   {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
@@ -39505,6 +40919,19 @@
     "version": "20250619T150456"
   },
   {
+    "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+    "name": "webhook",
+    "pkg_id": "webhook#github.com_fluid_cloudnative_fluid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39b8c2c-250619T153318"
+  },
+  {
     "description": "A webhook receiver on steroids.",
     "name": "webhooked",
     "pkg_id": "webhooked#github.com_42atomys_webhooked",
@@ -39633,6 +41060,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1a30353-250618T172928"
+  },
+  {
+    "description": "Monitor websites for changes",
+    "name": "websitewatcher",
+    "pkg_id": "websitewatcher#github.com_firefart_websitewatcher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-d27794e-250619T121455"
   },
   {
     "description": "🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.",
@@ -40776,6 +42216,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4bfd56c-250514T044158"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "zk",
+    "pkg_id": "zk#github.com_floren_zk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-19",
+    "version": "HEAD-3628093-231231T113122"
   },
   {
     "description": "No Description Provided",
