@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "k3s",
+  "pkg_family": "kubekey",
+  "pkg_id": "k3s#github.com_kubesphere_kubekey",
+  "pkg_name": "k3s",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubesphere/kubekey",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",
+  "homepage": [
+    "https://github.com/kubesphere/kubekey"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k3s",
+    "kubekey"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubesphere/kubekey/archive/9cf08b6aef1cc5490a85b996558491940a27b6f3.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "installer",
+    "k8s",
+    "kubeadm",
+    "kubernetes",
+    "kubernetes-cluster",
+    "kubernetes-deployment"
+  ],
+  "version": "HEAD-9cf08b6-250620T021333",
+  "version_upstream": "",
+  "bsum": "f9a5ccec308fe3cb24285dce7ff5fac99612e1ad07147a1a3b6227977116cf70",
+  "build_date": "2025-06-20T19:47:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785729868",
+  "build_id": "15785729868",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubekey/k3s?tag=HEAD-9cf08b6-250620T021333-x86_64-Linux&download=k3s.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2588",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubekey/k3s?tag=HEAD-9cf08b6-250620T021333-x86_64-Linux&download=k3s",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubesphere/kubekey/k3s:HEAD-9cf08b6-250620T021333-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubesphere/kubekey/k3s",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubekey/k3s?tag=HEAD-9cf08b6-250620T021333-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c87a4d54921f7d3f4f2d20fc62ab5fa077465579edfb282f84e58f72b164ea2",
+  "size": "39 MB",
+  "size_raw": "40164096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
