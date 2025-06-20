@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "traitor",
+  "pkg_family": "traitor",
+  "pkg_id": "traitor#github.com_liamg_traitor",
+  "pkg_name": "traitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/liamg/traitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",
+  "homepage": [
+    "https://github.com/liamg/traitor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pack",
+    "traitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/liamg/traitor/archive/0d221ba0d0e6abf48e7ec602eac03ac45381f24e.tar.gz"
+  ],
+  "tag": [
+    "cve-2021-3560",
+    "cve-2022-0847",
+    "dirtypipe",
+    "exploit",
+    "gtfobins",
+    "hackthebox",
+    "infosec",
+    "privesc",
+    "privilege-escalation",
+    "redteam-tools",
+    "security-tools"
+  ],
+  "version": "HEAD-0d221ba-230307T220641",
+  "version_upstream": "",
+  "bsum": "403654c22e3598546e0e9055d232bf61916f91e087ff2b71eee43f462248445f",
+  "build_date": "2025-06-20T20:30:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786355332",
+  "build_id": "15786355332",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liamg/traitor/traitor?tag=HEAD-0d221ba-230307T220641-aarch64-Linux&download=traitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6927",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liamg/traitor/traitor?tag=HEAD-0d221ba-230307T220641-aarch64-Linux&download=traitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/liamg/traitor/traitor:HEAD-0d221ba-230307T220641-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/liamg/traitor/traitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liamg/traitor/traitor?tag=HEAD-0d221ba-230307T220641-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "268c0897d162cf5d395c388d7f39015bd8ca6fe06c73f7c12ee6806554c633b5",
+  "size": "8.5 MB",
+  "size_raw": "8821664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
