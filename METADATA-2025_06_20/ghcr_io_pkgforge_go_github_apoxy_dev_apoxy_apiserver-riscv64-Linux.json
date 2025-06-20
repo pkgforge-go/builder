@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "apiserver",
+  "pkg_family": "apoxy",
+  "pkg_id": "apiserver#github.com_apoxy_dev_apoxy",
+  "pkg_name": "apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apoxy-dev/apoxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Programmable connectivity platform",
+  "homepage": [
+    "https://github.com/apoxy-dev/apoxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "apoxy",
+    "apoxy-docs",
+    "backplane",
+    "dial-stdio",
+    "tunnelproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apoxy-dev/apoxy/archive/7b78482405d3457cae4bb20326dff42e0e46182a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7b78482-250619T222919",
+  "version_upstream": "",
+  "bsum": "e89586e3cbf4c5b8e85e6a6ad16e20f5e7a1dc35491edc0cd4062c1ed15b4f56",
+  "build_date": "2025-06-20T17:27:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782921021",
+  "build_id": "15782921021",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apoxy-dev/apoxy/apiserver?tag=HEAD-7b78482-250619T222919-riscv64-Linux&download=apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apoxy-dev/apoxy/apiserver?tag=HEAD-7b78482-250619T222919-riscv64-Linux&download=apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apoxy-dev/apoxy/apiserver:HEAD-7b78482-250619T222919-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apoxy-dev/apoxy/apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apoxy-dev/apoxy/apiserver?tag=HEAD-7b78482-250619T222919-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08ea2a84ac40b8aae8e8ba08dd8fb64b65ac4167a731efa5c56ea7bc7340e662",
+  "size": "155 MB",
+  "size_raw": "161514648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
