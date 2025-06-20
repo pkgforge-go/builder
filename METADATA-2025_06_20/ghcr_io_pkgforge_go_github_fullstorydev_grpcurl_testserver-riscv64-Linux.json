@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "testserver",
+  "pkg_family": "grpcurl",
+  "pkg_id": "testserver#github.com_fullstorydev_grpcurl",
+  "pkg_name": "testserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fullstorydev/grpcurl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+  "homepage": [
+    "https://github.com/fullstorydev/grpcurl"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bankdemo",
+    "grpcurl",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fullstorydev/grpcurl/archive/f28d506cea820a059b45cd92fb732f13d3b220ff.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "grpc",
+    "protobuf"
+  ],
+  "version": "HEAD-f28d506-250416T200523",
+  "version_upstream": "",
+  "bsum": "f09949143a36f23b897203c0e80cd01a4058c0d5690f555d4494614b886bccd8",
+  "build_date": "2025-06-20T01:55:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769491451",
+  "build_id": "15769491451",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/testserver?tag=HEAD-f28d506-250416T200523-riscv64-Linux&download=testserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/testserver?tag=HEAD-f28d506-250416T200523-riscv64-Linux&download=testserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fullstorydev/grpcurl/testserver:HEAD-f28d506-250416T200523-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fullstorydev/grpcurl/testserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/testserver?tag=HEAD-f28d506-250416T200523-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3393bb949842e580ee8bd7484e1eaa3a0d629f51912794f4f8833fd59d17dd56",
+  "size": "14 MB",
+  "size_raw": "14040184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
