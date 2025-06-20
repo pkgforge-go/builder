@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "xfrminion",
+  "pkg_family": "ipman",
+  "pkg_id": "xfrminion#github.com_dialohq_ipman",
+  "pkg_name": "xfrminion",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dialohq/ipman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing IPsec VPN connections",
+  "homepage": [
+    "https://github.com/dialohq/ipman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "restctl",
+    "vxlandlord",
+    "xfrminion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dialohq/ipman/archive/94599cdbc2f76bba8075bd1c96dac5e14dc0bbbb.tar.gz"
+  ],
+  "tag": [
+    "ipsec",
+    "ipsec-vpn",
+    "kubernetes",
+    "kubernetes-operator",
+    "strongswan",
+    "vpn"
+  ],
+  "version": "HEAD-94599cd-250619T184726",
+  "version_upstream": "",
+  "bsum": "15af9c41b682136a0814d3e9f456f878f6ad491773f722acbed99359b9db2fed",
+  "build_date": "2025-06-20T08:37:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773964079",
+  "build_id": "15773964079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/xfrminion?tag=HEAD-94599cd-250619T184726-aarch64-Linux&download=xfrminion.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/xfrminion?tag=HEAD-94599cd-250619T184726-aarch64-Linux&download=xfrminion",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dialohq/ipman/xfrminion:HEAD-94599cd-250619T184726-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dialohq/ipman/xfrminion",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/xfrminion?tag=HEAD-94599cd-250619T184726-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "717c88725d0e1c51cdbdf9584e7c5ea9ea74918edf9081b2525d3810ef483bfa",
+  "size": "8.9 MB",
+  "size_raw": "9254560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "restctl",
+  "pkg_family": "ipman",
+  "pkg_id": "restctl#github.com_dialohq_ipman",
+  "pkg_name": "restctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dialohq/ipman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing IPsec VPN connections",
+  "homepage": [
+    "https://github.com/dialohq/ipman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "restctl",
+    "vxlandlord",
+    "xfrminion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dialohq/ipman/archive/94599cdbc2f76bba8075bd1c96dac5e14dc0bbbb.tar.gz"
+  ],
+  "tag": [
+    "ipsec",
+    "ipsec-vpn",
+    "kubernetes",
+    "kubernetes-operator",
+    "strongswan",
+    "vpn"
+  ],
+  "version": "HEAD-94599cd-250619T184726",
+  "version_upstream": "",
+  "bsum": "603108cb66878c9bdc05ffa714a5fca8ed20fb00172efa611f9704868d5c0168",
+  "build_date": "2025-06-20T08:37:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773964079",
+  "build_id": "15773964079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/restctl?tag=HEAD-94599cd-250619T184726-aarch64-Linux&download=restctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/restctl?tag=HEAD-94599cd-250619T184726-aarch64-Linux&download=restctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dialohq/ipman/restctl:HEAD-94599cd-250619T184726-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dialohq/ipman/restctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/restctl?tag=HEAD-94599cd-250619T184726-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "077f75af293845ea0ed599a00a1c0435fcea84ee95e18bcd1104919884dd2f58",
+  "size": "16 MB",
+  "size_raw": "16305280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
