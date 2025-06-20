@@ -25,3 +25,26 @@ Options:
   -V, --version            Print version
 
 ```
+
+### 🛠️ Building
+```bash
+RUST_TARGET="$(uname -m)-unknown-linux-gnu" #musl is slow
+RUSTFLAGS="-C target-feature=+crt-static \
+           -C default-linker-libraries=yes \
+           -C prefer-dynamic=no \
+           -C lto=yes \
+           -C debuginfo=none \
+           -C strip=symbols \
+           -C link-arg=-Wl,--build-id=none \
+           -C link-arg=-Wl,--discard-all \
+           -C link-arg=-Wl,--strip-all"
+           
+export RUST_TARGET RUSTFLAGS
+
+cargo build --target "${RUST_TARGET}" \
+     --all-features \
+     --jobs="$(($(nproc)+1))" \
+     --release
+
+"./target/${RUST_TARGET}/release/go-indexer" --help
+```
