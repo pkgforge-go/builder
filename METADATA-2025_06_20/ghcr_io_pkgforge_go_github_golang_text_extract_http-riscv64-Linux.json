@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "extract_http",
+  "pkg_family": "text",
+  "pkg_id": "extract_http#github.com_golang_text",
+  "pkg_name": "extract_http",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/text",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go text processing support",
+  "homepage": [
+    "https://github.com/golang/text"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "colcmp",
+    "extract",
+    "extract_http",
+    "gotext",
+    "rewrite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/text/archive/80721808805f9d846d907c85d73ca6b5b6ecb870.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8072180-250605T080800",
+  "version_upstream": "v0.26.0",
+  "bsum": "f28dc7f1dacdcb552d00a4d1d394a4bf9a5c5ebe0f1c8098fde686b01bafba4f",
+  "build_date": "2025-06-20T04:13:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770603113",
+  "build_id": "15770603113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/extract_http?tag=HEAD-8072180-250605T080800-riscv64-Linux&download=extract_http.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "776",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/extract_http?tag=HEAD-8072180-250605T080800-riscv64-Linux&download=extract_http",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/text/extract_http:HEAD-8072180-250605T080800-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/text/extract_http",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/extract_http?tag=HEAD-8072180-250605T080800-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2b87a52c58669d685a1fe396291750901d90b779c1a21da35c8b509eb1a145ef",
+  "size": "3.9 MB",
+  "size_raw": "4061272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
