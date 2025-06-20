@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "k8s_gateway",
+  "pkg_family": "k8s_gateway",
+  "pkg_id": "k8s_gateway#github.com_k8s_gateway_k8s_gateway",
+  "pkg_name": "k8s_gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/k8s-gateway/k8s_gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CoreDNS plugin to resolve all types of external Kubernetes resources",
+  "homepage": [
+    "https://github.com/k8s-gateway/k8s_gateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s_gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/k8s-gateway/k8s_gateway/archive/2890cf1369c0289a0a0eeb09dfa8d5083cc2ee33.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2890cf1-250620T021758",
+  "version_upstream": "v1.3.0",
+  "bsum": "82ee21fd8b22e8152dcdb213eb85d4746beb7c31af813032cbc2e4ef3da56b19",
+  "build_date": "2025-06-20T14:11:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780220780",
+  "build_id": "15780220780",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/gateway/k8s_gateway?tag=HEAD-2890cf1-250620T021758-x86_64-Linux&download=k8s_gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/gateway/k8s_gateway?tag=HEAD-2890cf1-250620T021758-x86_64-Linux&download=k8s_gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k8s/gateway/k8s_gateway:HEAD-2890cf1-250620T021758-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k8s/gateway/k8s_gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/gateway/k8s_gateway?tag=HEAD-2890cf1-250620T021758-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6fd4dd682050799f21f126e4d1e210d3c4b89812a2a958a307232cb14daca47",
+  "size": "87 MB",
+  "size_raw": "90483808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
