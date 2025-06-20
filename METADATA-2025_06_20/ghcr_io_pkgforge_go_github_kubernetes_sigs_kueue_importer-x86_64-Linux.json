@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "importer",
+  "pkg_family": "kueue",
+  "pkg_id": "importer#github.com_kubernetes_sigs_kueue",
+  "pkg_name": "importer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/kueue",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-native Job Queueing",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/kueue"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "importer",
+    "kueue",
+    "kueuectl",
+    "kueuectl-docs",
+    "minimalkueue",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/kueue/archive/828472c9a9477698e0abeec6ea3bfd71e132d0a7.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "k8s-sig-scheduling",
+    "kubernetes"
+  ],
+  "version": "HEAD-828472c-250620T071052",
+  "version_upstream": "",
+  "bsum": "56f04c9f62b4273056c014800746dd4752eb8215bf63f015ed5c3ef8d719b181",
+  "build_date": "2025-06-20T19:38:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785646092",
+  "build_id": "15785646092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kueue/importer?tag=HEAD-828472c-250620T071052-x86_64-Linux&download=importer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1829",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kueue/importer?tag=HEAD-828472c-250620T071052-x86_64-Linux&download=importer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kueue/importer:HEAD-828472c-250620T071052-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kueue/importer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kueue/importer?tag=HEAD-828472c-250620T071052-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1cd9ebbd95a801ac46b4fab13e142a287f85f1433370400a0e766ed798cd89ab",
+  "size": "45 MB",
+  "size_raw": "46231648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
