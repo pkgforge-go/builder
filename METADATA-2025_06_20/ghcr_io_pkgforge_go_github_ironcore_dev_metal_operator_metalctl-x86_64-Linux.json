@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "metalctl",
+  "pkg_family": "metal-operator",
+  "pkg_id": "metalctl#github.com_ironcore_dev_metal_operator",
+  "pkg_name": "metalctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ironcore-dev/metal-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for automating bare metal server discovery and provisioning",
+  "homepage": [
+    "https://github.com/ironcore-dev/metal-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "metalctl",
+    "metalprobe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ironcore-dev/metal-operator/archive/c002f2ed9fea9ac41bb2188f9299fb5e49717b8e.tar.gz"
+  ],
+  "tag": [
+    "baremetal",
+    "operator",
+    "provisioning",
+    "servermanagement"
+  ],
+  "version": "HEAD-c002f2e-250620T092732",
+  "version_upstream": "",
+  "bsum": "e144aad25fdfa4e56dfed405dd292dd40f3808bfaf909b659a9808a5dd609e75",
+  "build_date": "2025-06-20T19:06:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785149213",
+  "build_id": "15785149213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/metalctl?tag=HEAD-c002f2e-250620T092732-x86_64-Linux&download=metalctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/metalctl?tag=HEAD-c002f2e-250620T092732-x86_64-Linux&download=metalctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ironcore-dev/metal-operator/metalctl:HEAD-c002f2e-250620T092732-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ironcore-dev/metal-operator/metalctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/metalctl?tag=HEAD-c002f2e-250620T092732-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5b17884fe40419e3953d9a36771055c7af7d7a423e2d8a8ab63ef2e585b109a8",
+  "size": "41 MB",
+  "size_raw": "42971808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

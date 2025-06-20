@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "metalprobe",
+  "pkg_family": "metal-operator",
+  "pkg_id": "metalprobe#github.com_ironcore_dev_metal_operator",
+  "pkg_name": "metalprobe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ironcore-dev/metal-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for automating bare metal server discovery and provisioning",
+  "homepage": [
+    "https://github.com/ironcore-dev/metal-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "metalctl",
+    "metalprobe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ironcore-dev/metal-operator/archive/c002f2ed9fea9ac41bb2188f9299fb5e49717b8e.tar.gz"
+  ],
+  "tag": [
+    "baremetal",
+    "operator",
+    "provisioning",
+    "servermanagement"
+  ],
+  "version": "HEAD-c002f2e-250620T092732",
+  "version_upstream": "",
+  "bsum": "2b43032fd07e72f0db102b018eb598ade6572f1a302e67811ff9c1371ce4089f",
+  "build_date": "2025-06-20T19:06:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785149213",
+  "build_id": "15785149213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/metalprobe?tag=HEAD-c002f2e-250620T092732-x86_64-Linux&download=metalprobe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/metalprobe?tag=HEAD-c002f2e-250620T092732-x86_64-Linux&download=metalprobe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ironcore-dev/metal-operator/metalprobe:HEAD-c002f2e-250620T092732-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ironcore-dev/metal-operator/metalprobe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/metal-operator/metalprobe?tag=HEAD-c002f2e-250620T092732-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f48f58c8fcb1511efc8f2d854bc8c90617a8bd9bfbceba0e78a0807665ae3ba8",
+  "size": "38 MB",
+  "size_raw": "39756544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
