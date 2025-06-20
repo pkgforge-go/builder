@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "s3sync",
+  "pkg_family": "s3sync",
+  "pkg_id": "s3sync#github.com_larrabee_s3sync",
+  "pkg_name": "s3sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/larrabee/s3sync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Really fast sync tool for S3",
+  "homepage": [
+    "https://github.com/larrabee/s3sync"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "s3sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/larrabee/s3sync/archive/9e2eb7f88ef04fa04e6fe9acbeb4945efb532ecb.tar.gz"
+  ],
+  "tag": [
+    "amazon",
+    "ceph-radosgw",
+    "golang",
+    "multithreading",
+    "s3",
+    "sync",
+    "sync-s3-bucket"
+  ],
+  "version": "HEAD-9e2eb7f-240125T155217",
+  "version_upstream": "2.62",
+  "bsum": "32b3473be993cb21adcc0354b21b74bfda0c557ab7c526fb973ff958904ee434",
+  "build_date": "2025-06-20T20:10:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786069949",
+  "build_id": "15786069949",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/larrabee/s3sync/s3sync?tag=HEAD-9e2eb7f-240125T155217-aarch64-Linux&download=s3sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "504",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/larrabee/s3sync/s3sync?tag=HEAD-9e2eb7f-240125T155217-aarch64-Linux&download=s3sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/larrabee/s3sync/s3sync:HEAD-9e2eb7f-240125T155217-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/larrabee/s3sync/s3sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/larrabee/s3sync/s3sync?tag=HEAD-9e2eb7f-240125T155217-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1970f9fc37f1e0bee8e07e0725ae8560129deb87007c06edfa5581a4825b1367",
+  "size": "14 MB",
+  "size_raw": "14080352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
