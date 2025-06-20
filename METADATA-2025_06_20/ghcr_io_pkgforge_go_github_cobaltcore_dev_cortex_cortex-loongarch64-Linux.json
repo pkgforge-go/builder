@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cortex",
+  "pkg_family": "cortex",
+  "pkg_id": "cortex#github.com_cobaltcore_dev_cortex",
+  "pkg_name": "cortex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cobaltcore-dev/cortex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Smart placement service for virtual machines in an OpenStack cloud environment.",
+  "homepage": [
+    "https://github.com/cobaltcore-dev/cortex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cortex",
+    "error",
+    "fillup",
+    "replay"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cobaltcore-dev/cortex/archive/e535ec66bce53099fa3b82844b5418b0891d9ab8.tar.gz"
+  ],
+  "tag": [
+    "apeirora",
+    "cloud",
+    "nova",
+    "openstack",
+    "placement",
+    "scheduling"
+  ],
+  "version": "HEAD-e535ec6-250620T161749",
+  "version_upstream": "",
+  "bsum": "890d290565fa1d6b11ced3a09e8949a1317233f70f18db980b6bc8bb0bf0a4a7",
+  "build_date": "2025-06-20T17:38:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784065302",
+  "build_id": "15784065302",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobaltcore-dev/cortex/cortex?tag=HEAD-e535ec6-250620T161749-loongarch64-Linux&download=cortex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobaltcore-dev/cortex/cortex?tag=HEAD-e535ec6-250620T161749-loongarch64-Linux&download=cortex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cobaltcore-dev/cortex/cortex:HEAD-e535ec6-250620T161749-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cobaltcore-dev/cortex/cortex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobaltcore-dev/cortex/cortex?tag=HEAD-e535ec6-250620T161749-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d64aeb7445fc80c70b67f7b3117cca9b33d216dc09b01bdd6f7fc7ef552c1ba9",
+  "size": "13 MB",
+  "size_raw": "12597280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
