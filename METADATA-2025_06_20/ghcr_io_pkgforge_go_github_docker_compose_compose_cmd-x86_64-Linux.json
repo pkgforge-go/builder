@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "compose-cmd",
+  "pkg_family": "compose",
+  "pkg_id": "compose-cmd#github.com_docker_compose",
+  "pkg_name": "compose-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/compose",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Define and run multi-container applications with Docker",
+  "homepage": [
+    "https://github.com/docker/compose"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compose-cmd",
+    "examples",
+    "main"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docker/compose/archive/f7825a56bf4e430024dfce48b1f3f332c2fd3d85.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "docker-compose",
+    "go",
+    "golang",
+    "orchestration"
+  ],
+  "version": "HEAD-f7825a5-250620T151651",
+  "version_upstream": "v2.37.2",
+  "bsum": "5265cef108ad1ae0cc70ea4945fcd396ed8b7f90fa8f1c82e0bc4bd7973aafbb",
+  "build_date": "2025-06-20T17:52:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784146785",
+  "build_id": "15784146785",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-f7825a5-250620T151651-x86_64-Linux&download=compose-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35636",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-f7825a5-250620T151651-x86_64-Linux&download=compose-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/compose/compose-cmd:HEAD-f7825a5-250620T151651-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/compose/compose-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-f7825a5-250620T151651-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "20bc4b28018028818e0f5041126f790388871476cb96616b800bb96c8b8d9abe",
+  "size": "69 MB",
+  "size_raw": "72256224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
