@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "hwameistor",
+  "pkg_id": "manager#github.com_hwameistor_hwameistor",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hwameistor/hwameistor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hwameistor is an HA local storage system for cloud-native stateful workloads.",
+  "homepage": [
+    "https://github.com/hwameistor/hwameistor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "apiserver",
+    "auditor",
+    "evictor",
+    "exporter",
+    "failover-assistant",
+    "hwameictl",
+    "local-disk-action-controller",
+    "local-disk-manager",
+    "local-storage",
+    "manager",
+    "pvc-autoresizer",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hwameistor/hwameistor/archive/d19e56ec65c18351ad4299bf8bf90501a8360d1b.tar.gz"
+  ],
+  "tag": [
+    "high-availability",
+    "k8s-sig-storage",
+    "kubernetes",
+    "storage"
+  ],
+  "version": "HEAD-d19e56e-250620T102335",
+  "version_upstream": "v0.16.4",
+  "bsum": "1e7d0e17601dea9ed6ba16e31edc901897761cae49641b0c03176c0e7ead985e",
+  "build_date": "2025-06-20T09:53:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775256157",
+  "build_id": "15775256157",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/manager?tag=HEAD-d19e56e-250620T102335-riscv64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/manager?tag=HEAD-d19e56e-250620T102335-riscv64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hwameistor/hwameistor/manager:HEAD-d19e56e-250620T102335-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hwameistor/hwameistor/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hwameistor/hwameistor/manager?tag=HEAD-d19e56e-250620T102335-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5726df69c40409589a426adebaccfbd3d60a68b50d0e67a8c689771af6be84ed",
+  "size": "1.1 MB",
+  "size_raw": "1062416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
