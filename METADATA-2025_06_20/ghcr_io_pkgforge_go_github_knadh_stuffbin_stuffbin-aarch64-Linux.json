@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stuffbin",
+  "pkg_family": "stuffbin",
+  "pkg_id": "stuffbin#github.com_knadh_stuffbin",
+  "pkg_name": "stuffbin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knadh/stuffbin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compress and embed static files and assets into Go binaries and access them with a virtual file system in production",
+  "homepage": [
+    "https://github.com/knadh/stuffbin"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock",
+    "stuffbin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knadh/stuffbin/archive/aa6399d254a7d2fccb74bc19b3f55927d4b462da.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa6399d-231205T214613",
+  "version_upstream": "v1.3.0",
+  "bsum": "a3c7e7cc514407a1de011fa607c392db6d6de2c1660be91eba108fe580c46bfd",
+  "build_date": "2025-06-20T15:05:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780734583",
+  "build_id": "15780734583",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knadh/stuffbin/stuffbin?tag=HEAD-aa6399d-231205T214613-aarch64-Linux&download=stuffbin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "183",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knadh/stuffbin/stuffbin?tag=HEAD-aa6399d-231205T214613-aarch64-Linux&download=stuffbin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knadh/stuffbin/stuffbin:HEAD-aa6399d-231205T214613-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knadh/stuffbin/stuffbin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knadh/stuffbin/stuffbin?tag=HEAD-aa6399d-231205T214613-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ccf956d1b8f49deb9553d12ab65125045d0f7082ebc990833ea66db098e92347",
+  "size": "4.2 MB",
+  "size_raw": "4326560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
