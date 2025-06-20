@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nbexec",
+  "pkg_family": "gonb",
+  "pkg_id": "nbexec#github.com_janpfeifer_gonb",
+  "pkg_name": "nbexec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/janpfeifer/gonb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GoNB, a Go Notebook Kernel for Jupyter",
+  "homepage": [
+    "https://github.com/janpfeifer/gonb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gonb",
+    "nbexec"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/janpfeifer/gonb/archive/0e3dfcaba2b1e6b5649b6d709e0bc6294bdb7ef4.tar.gz"
+  ],
+  "tag": [
+    "data-science",
+    "go",
+    "golang",
+    "gonb",
+    "jupyter",
+    "jupyter-notebook",
+    "jupyter-notebook-kernel"
+  ],
+  "version": "HEAD-0e3dfca-250601T123601",
+  "version_upstream": "v0.11.1",
+  "bsum": "2a10b1a9cf32975fe0e4ecff45983ef0fa9dc92bb0a1181384a4400b73e9b30b",
+  "build_date": "2025-06-20T13:17:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779442258",
+  "build_id": "15779442258",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/janpfeifer/gonb/nbexec?tag=HEAD-0e3dfca-250601T123601-riscv64-Linux&download=nbexec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "873",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/janpfeifer/gonb/nbexec?tag=HEAD-0e3dfca-250601T123601-riscv64-Linux&download=nbexec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/janpfeifer/gonb/nbexec:HEAD-0e3dfca-250601T123601-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/janpfeifer/gonb/nbexec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/janpfeifer/gonb/nbexec?tag=HEAD-0e3dfca-250601T123601-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a5d5412bf8c80032ec3b6e630a39e8a39faec81c4343fa02e4a358ba9ff9c431",
+  "size": "12 MB",
+  "size_raw": "12235224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
