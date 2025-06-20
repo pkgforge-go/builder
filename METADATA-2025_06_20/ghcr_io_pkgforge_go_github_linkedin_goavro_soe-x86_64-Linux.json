@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "soe",
+  "pkg_family": "goavro",
+  "pkg_id": "soe#github.com_linkedin_goavro",
+  "pkg_name": "soe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkedin/goavro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Goavro is a library that encodes and decodes Avro data.",
+  "homepage": [
+    "https://github.com/linkedin/goavro"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "165",
+    "ab2t",
+    "arw",
+    "avroheader",
+    "nested",
+    "roundtrip",
+    "soe",
+    "splice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkedin/goavro/archive/727e6cd8c3dd095d925f6eca18e3814d3fa94aa7.tar.gz"
+  ],
+  "tag": [
+    "avro",
+    "golang"
+  ],
+  "version": "HEAD-727e6cd-250608T213611",
+  "version_upstream": "v2.14.0",
+  "bsum": "9dd439cf93691a90da2a5769623dda4d29d7eee16f89990b2cc6c855bcdbec20",
+  "build_date": "2025-06-20T20:41:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786867312",
+  "build_id": "15786867312",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkedin/goavro/soe?tag=HEAD-727e6cd-250608T213611-x86_64-Linux&download=soe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1029",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkedin/goavro/soe?tag=HEAD-727e6cd-250608T213611-x86_64-Linux&download=soe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkedin/goavro/soe:HEAD-727e6cd-250608T213611-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkedin/goavro/soe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkedin/goavro/soe?tag=HEAD-727e6cd-250608T213611-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d0da24bd3babb116cc9f72b77cf11fccfc2407ed2ff510f09efb67aa1bf73f51",
+  "size": "2.9 MB",
+  "size_raw": "3015040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
