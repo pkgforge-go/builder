@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "OmniSSHAgent",
+  "pkg_id": "test#github.com_masahide_OmniSSHAgent",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/masahide/OmniSSHAgent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Integrated ssh-agent for windows. _pageant compatible. openSSH ssh-agent etc .._",
+  "homepage": [
+    "https://github.com/masahide/OmniSSHAgent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-bench",
+    "test",
+    "wsl2-ssh-agent-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/masahide/OmniSSHAgent/archive/a178faf145620ce7cb27eae85fe228760d7f0c4e.tar.gz"
+  ],
+  "tag": [
+    "1password",
+    "golang",
+    "pageant",
+    "putty",
+    "ssh",
+    "ssh-agent",
+    "ssh-key",
+    "wails",
+    "wsl",
+    "wsl2"
+  ],
+  "version": "HEAD-a178faf-250406T001402",
+  "version_upstream": "v0.5.0",
+  "bsum": "ccb9304dca600b5a028d11c55c2b9ae6d860acaeeae5bdc414eb409b55be693e",
+  "build_date": "2025-06-20T21:37:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787933098",
+  "build_id": "15787933098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/omnisshagent/test?tag=HEAD-a178faf-250406T001402-loongarch64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "142",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/omnisshagent/test?tag=HEAD-a178faf-250406T001402-loongarch64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/masahide/omnisshagent/test:HEAD-a178faf-250406T001402-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/masahide/omnisshagent/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/omnisshagent/test?tag=HEAD-a178faf-250406T001402-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0e2c1687643c55837f4b4ffa84a803daab1b77550ac0fb7c153e4fc8c3addee",
+  "size": "3.2 MB",
+  "size_raw": "3284768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
