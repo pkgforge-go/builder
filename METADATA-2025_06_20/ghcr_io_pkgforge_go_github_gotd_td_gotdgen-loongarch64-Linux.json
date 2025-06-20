@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gotdgen",
+  "pkg_family": "td",
+  "pkg_id": "gotdgen#github.com_gotd_td",
+  "pkg_name": "gotdgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gotd/td",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Telegram client, in Go. _MTProto API_",
+  "homepage": [
+    "https://github.com/gotd/td"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cachedgen",
+    "connclose",
+    "dlkey",
+    "dltl",
+    "dscidr",
+    "gotdecho",
+    "gotdgen",
+    "itergen",
+    "mkentity",
+    "mktyping",
+    "mtprint",
+    "rsagen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gotd/td/archive/6de998aed9819c6c7bb71e2a0fb9d50f6fb20f61.tar.gz"
+  ],
+  "tag": [
+    "bot-api",
+    "go",
+    "golang",
+    "mtproto",
+    "tdlib",
+    "telegram",
+    "telegram-api",
+    "telegram-bot"
+  ],
+  "version": "HEAD-6de998a-250612T113324",
+  "version_upstream": "",
+  "bsum": "44699ab02c95976814818a57261d5c86ed05db5b61a5149b207b4f4d7b238e9e",
+  "build_date": "2025-06-20T04:46:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771157380",
+  "build_id": "15771157380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/gotdgen?tag=HEAD-6de998a-250612T113324-loongarch64-Linux&download=gotdgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1830",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/gotdgen?tag=HEAD-6de998a-250612T113324-loongarch64-Linux&download=gotdgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gotd/td/gotdgen:HEAD-6de998a-250612T113324-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gotd/td/gotdgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/gotdgen?tag=HEAD-6de998a-250612T113324-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b45d2854e8aa2205fb9d0d97d6a08d1b848beeb15abb7ea8e550b24267ec7ea",
+  "size": "33 MB",
+  "size_raw": "34130112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
