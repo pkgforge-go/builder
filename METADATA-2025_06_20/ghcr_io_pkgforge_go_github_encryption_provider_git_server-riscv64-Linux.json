@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "aws-encryption-provider",
+  "pkg_id": "server#github.com_kubernetes_sigs_aws_encryption_provider.git",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "clientv2",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/aws-encryption-provider.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T153335",
+  "version_upstream": "",
+  "bsum": "910f17bf2f36171dd45ccf2f5db0c021b1027a5cf91ff35135fe71907ba2e0c6",
+  "build_date": "2025-06-20T15:35:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781713701",
+  "build_id": "15781713701",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encryption/provider.git/server?tag=20250620T153335-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encryption/provider.git/server?tag=20250620T153335-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/encryption/provider.git/server:20250620T153335-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/encryption/provider.git/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encryption/provider.git/server?tag=20250620T153335-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "698c24cd6419e5d70056ba24d4b7450e0addec9b9e95b39ca1aeb27646a675d6",
+  "size": "19 MB",
+  "size_raw": "19919832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
