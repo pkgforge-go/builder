@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tm",
+  "pkg_family": "gardener-extension-provider-gcp",
+  "pkg_id": "tm#github.com_gardener_gardener_extension_provider_gcp",
+  "pkg_name": "tm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-gcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the GCP cloud provider _https://cloud.google.com_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-gcp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-gcp",
+    "gardener-extension-provider-gcp",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-gcp/archive/e612d64325651410556f82dcafe18d1a082f8fbe.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e612d64-250620T153225",
+  "version_upstream": "",
+  "bsum": "544001fdb6d83e402429f6a7b614d10a950cb5b5d2315ea50e3bb0199c50d68c",
+  "build_date": "2025-06-20T18:23:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784314375",
+  "build_id": "15784314375",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-gcp/tm?tag=HEAD-e612d64-250620T153225-aarch64-Linux&download=tm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-gcp/tm?tag=HEAD-e612d64-250620T153225-aarch64-Linux&download=tm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-gcp/tm:HEAD-e612d64-250620T153225-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-gcp/tm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-gcp/tm?tag=HEAD-e612d64-250620T153225-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5a3e637846df6c596a994db5df47fe4dd26f23f4f9935894b9132414c62b568",
+  "size": "13 MB",
+  "size_raw": "13298624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
