@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "panicparse",
+  "pkg_family": "panicparse",
+  "pkg_id": "panicparse#github.com_maruel_panicparse",
+  "pkg_name": "panicparse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maruel/panicparse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Crash your app in style _Golang_",
+  "homepage": [
+    "https://github.com/maruel/panicparse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "panic",
+    "panicparse",
+    "panicweb",
+    "pp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/maruel/panicparse/archive/da0aba9faf6cbc1094b5e2910b4c2756b264d1e7.tar.gz"
+  ],
+  "tag": [
+    "crash",
+    "go",
+    "panic",
+    "stack-traces"
+  ],
+  "version": "HEAD-da0aba9-250313T165448",
+  "version_upstream": "v2.5.0",
+  "bsum": "1b55aa7b102ae0fae2ebd6b95c811a0dac4726b1b286c88097e7ba474dd4269a",
+  "build_date": "2025-06-20T21:36:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787904513",
+  "build_id": "15787904513",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/panicparse/panicparse?tag=HEAD-da0aba9-250313T165448-riscv64-Linux&download=panicparse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3671",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/panicparse/panicparse?tag=HEAD-da0aba9-250313T165448-riscv64-Linux&download=panicparse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maruel/panicparse/panicparse:HEAD-da0aba9-250313T165448-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maruel/panicparse/panicparse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/panicparse/panicparse?tag=HEAD-da0aba9-250313T165448-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "809cf150d58bd7976c65fa7921fbf66dcb75dddb4309c224c8a2c86706864819",
+  "size": "4.2 MB",
+  "size_raw": "4351784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
