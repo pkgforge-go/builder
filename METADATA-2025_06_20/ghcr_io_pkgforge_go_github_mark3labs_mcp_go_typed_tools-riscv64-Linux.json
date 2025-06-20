@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "typed_tools",
+  "pkg_family": "mcp-go",
+  "pkg_id": "typed_tools#github.com_mark3labs_mcp_go",
+  "pkg_name": "typed_tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mark3labs/mcp-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of the Model Context Protocol _MCP_, enabling seamless integration between LLM applications and external data sources and tools.",
+  "homepage": [
+    "https://github.com/mark3labs/mcp-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "custom_context",
+    "dynamic_path",
+    "everything",
+    "filesystem_stdio_client",
+    "gen",
+    "in_process",
+    "oauth_client",
+    "simple_client",
+    "typed_tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mark3labs/mcp-go/archive/0fdb1974c5728a74ae061e650d25bf90c5c43437.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0fdb197-250619T171331",
+  "version_upstream": "",
+  "bsum": "62c43c598972909bdfc89003eb7a633b40cadef027e0523878b933ff64c83180",
+  "build_date": "2025-06-20T21:35:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787839647",
+  "build_id": "15787839647",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcp-go/typed_tools?tag=HEAD-0fdb197-250619T171331-riscv64-Linux&download=typed_tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5926",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcp-go/typed_tools?tag=HEAD-0fdb197-250619T171331-riscv64-Linux&download=typed_tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mark3labs/mcp-go/typed_tools:HEAD-0fdb197-250619T171331-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mark3labs/mcp-go/typed_tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcp-go/typed_tools?tag=HEAD-0fdb197-250619T171331-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08b7fcf83d5ad8effea048dab1f407c9583058ca03d90f7ee490bd82522a6863",
+  "size": "4.4 MB",
+  "size_raw": "4557848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
