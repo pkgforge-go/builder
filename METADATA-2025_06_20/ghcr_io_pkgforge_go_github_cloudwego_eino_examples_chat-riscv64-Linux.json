@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "chat",
+  "pkg_family": "eino-examples",
+  "pkg_id": "chat#github.com_cloudwego_eino_examples",
+  "pkg_name": "chat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudwego/eino-examples",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Examples and demonstrations for using the Eino framework",
+  "homepage": [
+    "https://github.com/cloudwego/eino-examples"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chain",
+    "chat",
+    "chat_prompt",
+    "customparser",
+    "debug",
+    "extparser",
+    "journal",
+    "multiquery",
+    "openapi3",
+    "plan_execute",
+    "react",
+    "react_with_interrupt",
+    "router",
+    "simple",
+    "state",
+    "textparser",
+    "todoagent",
+    "tool_call_agent",
+    "tool_call_once",
+    "two_model_chat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudwego/eino-examples/archive/eb4c4516b5165b3e8c30527483e18ade9c639a09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-eb4c451-250620T181219",
+  "version_upstream": "",
+  "bsum": "282d66a4950c476999df19787366e9e2ba5baa61ff456cb03acce27ce84ad44b",
+  "build_date": "2025-06-20T17:43:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15783879743",
+  "build_id": "15783879743",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudwego/eino-examples/chat?tag=HEAD-eb4c451-250620T181219-riscv64-Linux&download=chat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "205",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudwego/eino-examples/chat?tag=HEAD-eb4c451-250620T181219-riscv64-Linux&download=chat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudwego/eino-examples/chat:HEAD-eb4c451-250620T181219-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudwego/eino-examples/chat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudwego/eino-examples/chat?tag=HEAD-eb4c451-250620T181219-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5286d0c73046c37e1ca2f993dc6e7adf30ed89547e1218f8eb86d9f156b8fed",
+  "size": "12 MB",
+  "size_raw": "11779384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
