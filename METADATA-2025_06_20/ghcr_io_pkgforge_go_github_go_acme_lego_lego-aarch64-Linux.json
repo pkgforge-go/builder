@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "lego",
+  "pkg_family": "lego",
+  "pkg_id": "lego#github.com_go_acme_lego",
+  "pkg_name": "lego",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-acme/lego",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Let_s Encrypt/ACME client and library written in Go",
+  "homepage": [
+    "https://github.com/go-acme/lego"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clihelp",
+    "docs",
+    "lego",
+    "providers",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-acme/lego/archive/7571c0bd314855a0bdb61a7bbfd7fd9921826070.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "acme-client",
+    "certificate",
+    "dns",
+    "letsencrypt",
+    "rfc8555",
+    "rfc8737",
+    "rfc8738",
+    "security",
+    "tls"
+  ],
+  "version": "HEAD-7571c0b-250619T133338",
+  "version_upstream": "",
+  "bsum": "78abd12460a14a7a422b1a8c8e818b9fa9c12dcfd122308e0efbb5605cf54d26",
+  "build_date": "2025-06-20T03:05:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769634533",
+  "build_id": "15769634533",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-acme/lego/lego?tag=HEAD-7571c0b-250619T133338-aarch64-Linux&download=lego.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8660",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-acme/lego/lego?tag=HEAD-7571c0b-250619T133338-aarch64-Linux&download=lego",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-acme/lego/lego:HEAD-7571c0b-250619T133338-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-acme/lego/lego",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-acme/lego/lego?tag=HEAD-7571c0b-250619T133338-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3952c743b07ff1c7cfe7e90c697e69b99a200fe09357b822957ff3ef23431dc4",
+  "size": "114 MB",
+  "size_raw": "118790752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
