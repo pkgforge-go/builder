@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fission-bundle",
+  "pkg_family": "fission",
+  "pkg_id": "fission-bundle#github.com_fission_fission",
+  "pkg_name": "fission-bundle",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fission/fission",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and Simple Serverless Functions for Kubernetes",
+  "homepage": [
+    "https://github.com/fission/fission"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "builder",
+    "cmd-docs",
+    "fetcher",
+    "fission-bundle",
+    "fission-cli",
+    "genswaggertypedocs",
+    "preupgradechecks",
+    "reporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fission/fission/archive/7403598df95b62e4ab9011d9c4b72704a2006bb5.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "containers",
+    "devops",
+    "docker",
+    "faas",
+    "fission",
+    "functions",
+    "functions-as-a-service",
+    "go",
+    "hacktoberfest",
+    "kubernetes",
+    "lambda",
+    "serverless",
+    "serverless-functions"
+  ],
+  "version": "HEAD-7403598-250620T145151",
+  "version_upstream": "",
+  "bsum": "dc2c902d02acaa5467883a4503a65e12fddcf4f6bbed090222e68f8bf315c6ef",
+  "build_date": "2025-06-20T18:25:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784256712",
+  "build_id": "15784256712",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/fission-bundle?tag=HEAD-7403598-250620T145151-loongarch64-Linux&download=fission-bundle.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8666",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/fission-bundle?tag=HEAD-7403598-250620T145151-loongarch64-Linux&download=fission-bundle",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/fission/fission-bundle:HEAD-7403598-250620T145151-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/fission/fission-bundle",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/fission-bundle?tag=HEAD-7403598-250620T145151-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5932351879f2fef62567cba12a6224f2debf31fcc6640c472701894b83278dd",
+  "size": "77 MB",
+  "size_raw": "79999232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
