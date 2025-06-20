@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "migrate-cli",
+  "pkg_family": "migrate",
+  "pkg_id": "migrate-cli#github.com_golang_migrate_migrate",
+  "pkg_name": "migrate-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang-migrate/migrate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Database migrations. CLI and Golang library.",
+  "homepage": [
+    "https://github.com/golang-migrate/migrate"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "migrate",
+    "migrate-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang-migrate/migrate/archive/278833935c12dda022b1355f33a897d895501c45.tar.gz"
+  ],
+  "tag": [
+    "aws-s3",
+    "cassandra",
+    "database",
+    "databases",
+    "go",
+    "golang",
+    "google-cloud-spanner",
+    "google-cloud-storage",
+    "hacktoberfest",
+    "mariadb",
+    "migration",
+    "migrations",
+    "mongodb",
+    "mysql",
+    "neo4j",
+    "postgres",
+    "spanner",
+    "sql",
+    "sqlite"
+  ],
+  "version": "HEAD-2788339-250425T131427",
+  "version_upstream": "",
+  "bsum": "dcb948ee133b48a4bacad2d8ab2e5b28eb9ffb0f2bee1a23bb73d90435df6e58",
+  "build_date": "2025-06-20T03:57:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770315462",
+  "build_id": "15770315462",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang-migrate/migrate/migrate-cli?tag=HEAD-2788339-250425T131427-loongarch64-Linux&download=migrate-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16845",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang-migrate/migrate/migrate-cli?tag=HEAD-2788339-250425T131427-loongarch64-Linux&download=migrate-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang-migrate/migrate/migrate-cli:HEAD-2788339-250425T131427-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang-migrate/migrate/migrate-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang-migrate/migrate/migrate-cli?tag=HEAD-2788339-250425T131427-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e68cd5a5d2f87e502aace8d20faa3487b0d89f920276b04a72cc18e3a59dce27",
+  "size": "2.6 MB",
+  "size_raw": "2653912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
