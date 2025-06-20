@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cri-dockerd",
+  "pkg_family": "cri-dockerd",
+  "pkg_id": "cri-dockerd#github.com_Mirantis_cri_dockerd",
+  "pkg_name": "cri-dockerd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mirantis/cri-dockerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dockerd as a compliant Container Runtime Interface for Kubernetes",
+  "homepage": [
+    "https://github.com/Mirantis/cri-dockerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cri-dockerd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mirantis/cri-dockerd/archive/f57ecd6fb21b84f713012bc18cbc250bc42800bd.tar.gz"
+  ],
+  "tag": [
+    "cri",
+    "docker",
+    "kubernetes"
+  ],
+  "version": "HEAD-f57ecd6-250619T230231",
+  "version_upstream": "",
+  "bsum": "6f97b8c4f7d4b1eea8a8c71871d9a195662e1388998aa466351ab566b17f57de",
+  "build_date": "2025-06-20T07:23:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773112597",
+  "build_id": "15773112597",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd?tag=HEAD-f57ecd6-250619T230231-loongarch64-Linux&download=cri-dockerd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1245",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd?tag=HEAD-f57ecd6-250619T230231-loongarch64-Linux&download=cri-dockerd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd:HEAD-f57ecd6-250619T230231-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd?tag=HEAD-f57ecd6-250619T230231-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7e34cd13634fae685e209972ef9d4a09bdfe79a0b6435f3d6548efaebd68d517",
+  "size": "53 MB",
+  "size_raw": "54559488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
