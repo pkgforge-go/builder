@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ctr-cli",
+  "pkg_family": "d4c",
+  "pkg_id": "ctr-cli#github.com_naoki9911_d4c",
+  "pkg_name": "ctr-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/naoki9911/d4c",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Efficient Container Image Updating with Delta Encoding",
+  "homepage": [
+    "https://github.com/naoki9911/d4c"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ctr-cli",
+    "fuse-diff",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/naoki9911/d4c/archive/4866c7f7ce66f87ef150f20a82a7f83983ced777.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4866c7f-241130T231742",
+  "version_upstream": "",
+  "bsum": "25f5316690a9b4f283bd219d463de1b0873da3b32f3d60a9bc21193c982d93d8",
+  "build_date": "2025-06-20T23:45:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789235550",
+  "build_id": "15789235550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/naoki9911/d4c/ctr-cli?tag=HEAD-4866c7f-241130T231742-loongarch64-Linux&download=ctr-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/naoki9911/d4c/ctr-cli?tag=HEAD-4866c7f-241130T231742-loongarch64-Linux&download=ctr-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/naoki9911/d4c/ctr-cli:HEAD-4866c7f-241130T231742-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/naoki9911/d4c/ctr-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/naoki9911/d4c/ctr-cli?tag=HEAD-4866c7f-241130T231742-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d64d397dcfc6382ce07120f3a7f396271c3172fc44dd9cc97d3b0b5bc5f81b38",
+  "size": "25 MB",
+  "size_raw": "25521328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
