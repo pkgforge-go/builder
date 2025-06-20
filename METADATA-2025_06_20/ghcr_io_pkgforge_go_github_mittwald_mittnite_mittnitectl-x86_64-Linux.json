@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mittnitectl",
+  "pkg_family": "mittnite",
+  "pkg_id": "mittnitectl#github.com_mittwald_mittnite",
+  "pkg_name": "mittnitectl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mittwald/mittnite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Small init system with templated config files_ to be used as container entrypoint",
+  "homepage": [
+    "https://github.com/mittwald/mittnite"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mittnite",
+    "mittnitectl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mittwald/mittnite/archive/535be875844bf155400d7aee985f07135367500f.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "golang",
+    "init-system"
+  ],
+  "version": "HEAD-535be87-250620T112814",
+  "version_upstream": "v1.10.9",
+  "bsum": "5dc270e0f091bd16905811e95a5cdf68f86de68a02aaf21ee82b774c6a9b51c0",
+  "build_date": "2025-06-20T22:30:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788424805",
+  "build_id": "15788424805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mittwald/mittnite/mittnitectl?tag=HEAD-535be87-250620T112814-x86_64-Linux&download=mittnitectl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mittwald/mittnite/mittnitectl?tag=HEAD-535be87-250620T112814-x86_64-Linux&download=mittnitectl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mittwald/mittnite/mittnitectl:HEAD-535be87-250620T112814-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mittwald/mittnite/mittnitectl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mittwald/mittnite/mittnitectl?tag=HEAD-535be87-250620T112814-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "de9fc54c8c54951d39aa34261ee69dc3811bdd1f3c91e7c84772b549d4c9336e",
+  "size": "17 MB",
+  "size_raw": "17533184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
