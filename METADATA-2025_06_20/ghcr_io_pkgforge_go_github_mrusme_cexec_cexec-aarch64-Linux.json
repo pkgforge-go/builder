@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cexec",
+  "pkg_family": "cexec",
+  "pkg_id": "cexec#github.com_mrusme_cexec",
+  "pkg_name": "cexec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mrusme/cexec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Execute any command, cache its output and get cached output on subsequent execution",
+  "homepage": [
+    "https://github.com/mrusme/cexec"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cexec"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mrusme/cexec/archive/6b9a688b01e44a19d7746d0bfc7504e2d8dbfd84.tar.gz"
+  ],
+  "tag": [
+    "cache",
+    "cached",
+    "caching",
+    "command",
+    "command-line",
+    "command-line-tool",
+    "exec",
+    "execution",
+    "timeout"
+  ],
+  "version": "HEAD-6b9a688-250618T145406",
+  "version_upstream": "",
+  "bsum": "f6f488ab30f45705e2b19a67c91e6383dc58c6ee73b8bf5030838bb95539be4d",
+  "build_date": "2025-06-20T23:09:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788973815",
+  "build_id": "15788973815",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mrusme/cexec/cexec?tag=HEAD-6b9a688-250618T145406-aarch64-Linux&download=cexec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mrusme/cexec/cexec?tag=HEAD-6b9a688-250618T145406-aarch64-Linux&download=cexec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mrusme/cexec/cexec:HEAD-6b9a688-250618T145406-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mrusme/cexec/cexec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mrusme/cexec/cexec?tag=HEAD-6b9a688-250618T145406-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0fd33060a14aafe8c55d2bf7c37f9bd97b48c8d7ad295c37cb18608c86bffe3",
+  "size": "2.7 MB",
+  "size_raw": "2792512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
