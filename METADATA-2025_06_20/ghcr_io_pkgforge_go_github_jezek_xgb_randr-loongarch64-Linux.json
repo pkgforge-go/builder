@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "randr",
+  "pkg_family": "xgb",
+  "pkg_id": "randr#github.com_jezek_xgb",
+  "pkg_name": "randr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jezek/xgb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.",
+  "homepage": [
+    "https://github.com/jezek/xgb"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atoms",
+    "create-window",
+    "get-active-window",
+    "randr",
+    "shapes",
+    "xgbgen",
+    "xinerama"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jezek/xgb/archive/173fab59d6200a1502285d5d66cc21c732122a96.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-173fab5-231130T180410",
+  "version_upstream": "v1.1.1",
+  "bsum": "1a2dc77cc1546216b908ce93ae6ba37abe8e656a04cd103f3ba69c8b9ef3975c",
+  "build_date": "2025-06-20T13:32:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779508651",
+  "build_id": "15779508651",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/randr?tag=HEAD-173fab5-231130T180410-loongarch64-Linux&download=randr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "148",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/randr?tag=HEAD-173fab5-231130T180410-loongarch64-Linux&download=randr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jezek/xgb/randr:HEAD-173fab5-231130T180410-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jezek/xgb/randr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/randr?tag=HEAD-173fab5-231130T180410-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5e6723260fd8b6897e3c35f246e332f150a3b37d600988eb542f18b65c60977",
+  "size": "2.8 MB",
+  "size_raw": "2874040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
