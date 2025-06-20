@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "vsock",
+  "pkg_family": "vsock",
+  "pkg_id": "vsock#github.com_mdlayher_vsock",
+  "pkg_name": "vsock",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mdlayher/vsock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Package vsock provides access to Linux VM sockets _AF_VSOCK_ for communication between a hypervisor and its virtual machines.  MIT Licensed.",
+  "homepage": [
+    "https://github.com/mdlayher/vsock"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vsock"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mdlayher/vsock/archive/908db2f631ffc247d77480009c79516a64a5003e.tar.gz"
+  ],
+  "tag": [
+    "af-vsock",
+    "golang",
+    "hypervisor",
+    "linux",
+    "virtual-machine"
+  ],
+  "version": "HEAD-908db2f-250106T131908",
+  "version_upstream": "",
+  "bsum": "d3eda546a74fb4e452e0551e769b51d94bb0b4ed0881341bd5aa39ee1c7cad2c",
+  "build_date": "2025-06-20T21:59:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788287065",
+  "build_id": "15788287065",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdlayher/vsock/vsock?tag=HEAD-908db2f-250106T131908-x86_64-Linux&download=vsock.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "355",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdlayher/vsock/vsock?tag=HEAD-908db2f-250106T131908-x86_64-Linux&download=vsock",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mdlayher/vsock/vsock:HEAD-908db2f-250106T131908-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mdlayher/vsock/vsock",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdlayher/vsock/vsock?tag=HEAD-908db2f-250106T131908-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7517d92bdc2bf081bfab000976c4c93f94bd4d99cd7dc09ce14e4edc34bb25e",
+  "size": "2.4 MB",
+  "size_raw": "2421568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
