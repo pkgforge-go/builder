@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ssh_ping",
+  "pkg_family": "ssh_ping",
+  "pkg_id": "ssh_ping#github.com_jacobsa_ssh_ping",
+  "pkg_name": "ssh_ping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jacobsa/ssh_ping",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Utility for measuring SSH session latency",
+  "homepage": [
+    "https://github.com/jacobsa/ssh_ping"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ssh_ping"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jacobsa/ssh_ping/archive/0d88349281edf0d9e5c0054dc1811335f59567a9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0d88349-240504T015655",
+  "version_upstream": "",
+  "bsum": "787c0af568d119458bde0b85ad621af26fbd778ab9d90336d110fa2f06a89fcc",
+  "build_date": "2025-06-20T13:11:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779424518",
+  "build_id": "15779424518",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ssh/ping/ssh_ping?tag=HEAD-0d88349-240504T015655-loongarch64-Linux&download=ssh_ping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ssh/ping/ssh_ping?tag=HEAD-0d88349-240504T015655-loongarch64-Linux&download=ssh_ping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ssh/ping/ssh_ping:HEAD-0d88349-240504T015655-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ssh/ping/ssh_ping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ssh/ping/ssh_ping?tag=HEAD-0d88349-240504T015655-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "354d17cb781dda489505e7b06517e213b0d50ace7783c2fa1814b78bc7423fbb",
+  "size": "2.0 MB",
+  "size_raw": "2083960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
