@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pair",
+  "pkg_family": "mangos",
+  "pkg_id": "pair#github.com_nanomsg_mangos",
+  "pkg_name": "pair",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nanomsg/mangos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "mangos is a pure Golang implementation of nanomsg_s _Scalablilty Protocols_",
+  "homepage": [
+    "https://github.com/nanomsg/mangos"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bus",
+    "context",
+    "macat",
+    "pair",
+    "perf",
+    "pipeline",
+    "pubsub",
+    "raw",
+    "reqrep",
+    "survey",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nanomsg/mangos/archive/7020082df9dd3cee315eef6b04fafeffd8a9c166.tar.gz"
+  ],
+  "tag": [
+    "golang-network",
+    "message",
+    "nanomsg",
+    "nng",
+    "pubsub",
+    "queue"
+  ],
+  "version": "HEAD-7020082-250409T150906",
+  "version_upstream": "",
+  "bsum": "68c25237153d613ec2132b1278418f5213ee40066e043fed424ee9f7daa706a9",
+  "build_date": "2025-06-20T23:39:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789204142",
+  "build_id": "15789204142",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/pair?tag=HEAD-7020082-250409T150906-x86_64-Linux&download=pair.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "711",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/pair?tag=HEAD-7020082-250409T150906-x86_64-Linux&download=pair",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nanomsg/mangos/pair:HEAD-7020082-250409T150906-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nanomsg/mangos/pair",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/pair?tag=HEAD-7020082-250409T150906-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5801af5140b2a24b5f7ff67ad16ffab223b437fd86d112e9430742ce2a035537",
+  "size": "6.6 MB",
+  "size_raw": "6898496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

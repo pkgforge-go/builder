@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "survey",
+  "pkg_family": "mangos",
+  "pkg_id": "survey#github.com_nanomsg_mangos",
+  "pkg_name": "survey",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nanomsg/mangos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "mangos is a pure Golang implementation of nanomsg_s _Scalablilty Protocols_",
+  "homepage": [
+    "https://github.com/nanomsg/mangos"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bus",
+    "context",
+    "macat",
+    "pair",
+    "perf",
+    "pipeline",
+    "pubsub",
+    "raw",
+    "reqrep",
+    "survey",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nanomsg/mangos/archive/7020082df9dd3cee315eef6b04fafeffd8a9c166.tar.gz"
+  ],
+  "tag": [
+    "golang-network",
+    "message",
+    "nanomsg",
+    "nng",
+    "pubsub",
+    "queue"
+  ],
+  "version": "HEAD-7020082-250409T150906",
+  "version_upstream": "",
+  "bsum": "fced70563a9d8e1cd5756a1849964c2c4ea08335cd7d9ebb3901deb49c3beda7",
+  "build_date": "2025-06-20T23:39:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789204142",
+  "build_id": "15789204142",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/survey?tag=HEAD-7020082-250409T150906-x86_64-Linux&download=survey.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "711",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/survey?tag=HEAD-7020082-250409T150906-x86_64-Linux&download=survey",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nanomsg/mangos/survey:HEAD-7020082-250409T150906-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nanomsg/mangos/survey",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nanomsg/mangos/survey?tag=HEAD-7020082-250409T150906-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7ff832683a414882ffdfb61976caf3cbad5584fed7b2f0c7084e3d969a7bc31",
+  "size": "6.7 MB",
+  "size_raw": "6928992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
