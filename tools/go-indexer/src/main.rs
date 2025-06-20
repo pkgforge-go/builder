@@ -11,7 +11,7 @@ use std::sync::atomic::{AtomicUsize, Ordering};
 use std::sync::Arc;
 use std::time::{Duration, Instant};
 use tokio::fs::{remove_file, OpenOptions};
-use tokio::io::{AsyncBufReadExt, AsyncWriteExt, BufReader as AsyncBufReader};
+use tokio::io::AsyncWriteExt;
 use tokio::time::sleep;
 use tokio_util::sync::CancellationToken;
 use chrono::{NaiveDate, Utc};
@@ -40,7 +40,7 @@ impl Default for Config {
         Self {
             start_date: NaiveDate::from_ymd_opt(2019, 1, 1).unwrap(),
             end_date: Utc::now().date_naive(),
-            output_file: "go_modules_index.jsonl".to_string(),
+            output_file: "go_index.jsonl".to_string(),
             max_concurrent_days: 30,
             max_retries: 3,
             batch_size: 2000,
@@ -205,12 +205,15 @@ async fn process_day(
         }
     }
 
-    let mut output_file = OpenOptions::new()
+    let mut output_file = tokio::io::BufWriter::with_capacity(
+    64 * 1024,
+    OpenOptions::new()
         .create(true)
         .write(true)
         .truncate(true)
         .open(&day_output)
-        .await?;
+        .await?
+    );
 
     let since = format!("{}T00:00:00Z", date.format("%Y-%m-%d"));
     let next_day = date.succ_opt().unwrap_or(date);
@@ -246,15 +249,15 @@ async fn process_day(
                 let mut valid_lines = 0;
                 let mut new_timestamp = String::new();
 
+                let mut buffer = String::with_capacity(response_text.len() + 1000);
                 for line in response_text.lines() {
                     if line.trim().is_empty() {
                         continue;
                     }
-
                     match serde_json::from_str::<Value>(line) {
                         Ok(json) => {
-                            output_file.write_all(line.as_bytes()).await?;
-                            output_file.write_all(b"\n").await?;
+                            buffer.push_str(line);
+                            buffer.push('\n');
                             valid_lines += 1;
 
                             // Extract timestamp for next iteration
@@ -269,6 +272,9 @@ async fn process_day(
                     }
                 }
 
+                if !buffer.is_empty() {
+                    output_file.write_all(buffer.as_bytes()).await?;
+                }
                 if valid_lines == 0 {
                     break;
                 }
@@ -398,11 +404,12 @@ async fn combine_daily_files(
         create_dir_all(parent)?;
     }
 
-    let mut final_output = OpenOptions::new()
+    let final_output = OpenOptions::new()
         .create(true)
         .append(true)
         .open(output_file)
         .await?;
+    let mut buffered_output = tokio::io::BufWriter::with_capacity(256 * 1024, final_output); // Smaller buffer
 
     let mut total_lines = 0;
     let pb = ProgressBar::new(dates.len() as u64);
@@ -411,28 +418,22 @@ async fn combine_daily_files(
         .unwrap());
 
     for date in dates {
-        let day_file = temp_dir.join(format!("day_{}.jsonl", date.format("%Y_%m_%d")));
-
-        if day_file.exists() {
-            let file = tokio::fs::File::open(&day_file).await?;
-            let reader = AsyncBufReader::new(file);
-            let mut lines = reader.lines();
-            let mut day_lines = 0;
-
-            while let Some(line) = lines.next_line().await? {
-                final_output.write_all(line.as_bytes()).await?;
-                final_output.write_all(b"\n").await?;
-                day_lines += 1;
+        let path = temp_dir.join(format!("day_{}.jsonl", date.format("%Y_%m_%d")));
+        
+        if path.exists() {
+            // Use smaller buffer and simpler approach
+            let contents = tokio::fs::read_to_string(&path).await?;
+            if !contents.is_empty() {
+                buffered_output.write_all(contents.as_bytes()).await?;
+                let line_count = contents.lines().count();
+                total_lines += line_count;
             }
-
-            total_lines += day_lines;
-            pb.set_message(format!("({} lines)", total_lines));
         }
-
+        pb.set_message(format!("({} lines)", total_lines));
         pb.inc(1);
     }
 
-    final_output.flush().await?;
+    buffered_output.flush().await?;
     pb.finish_with_message(format!("✓ {} total lines", total_lines));
     Ok(total_lines)
 }
@@ -578,6 +579,7 @@ fn build_cli() -> Command {
         .about("Go index fetcher from index.golang.org")
         .arg(Arg::new("start-date")
             .long("start-date")
+            .required(true)
             .value_name("DATE")
             .help("Start date in YYYY-MM-DD format")
             .default_value("2019-01-01"))
@@ -591,7 +593,7 @@ fn build_cli() -> Command {
             .short('o')
             .value_name("FILE")
             .help("Output file path")
-            .default_value("go_modules_index.jsonl"))
+            .default_value("go_index.jsonl"))
         .arg(Arg::new("concurrent")
             .long("concurrent")
             .value_name("N")
@@ -638,7 +640,11 @@ async fn main() -> Result<()> {
     let mut config = Config::default();
 
     // Parse dates
-    let start_date_str = matches.get_one::<String>("start-date").unwrap();
+    let start_date_str = matches.get_one::<String>("start-date")
+    .unwrap_or_else(|| {
+        eprintln!("❌ Missing required --start-date argument");
+        std::process::exit(1);
+    });
     let end_date_str = matches.get_one::<String>("end-date").unwrap();
 
     config.start_date = NaiveDate::parse_from_str(start_date_str, "%Y-%m-%d")
@@ -649,6 +655,8 @@ async fn main() -> Result<()> {
     if config.start_date >= config.end_date {
         return Err(anyhow!("Start date must be before end date"));
     }
+    let start_date_fmt = config.start_date.format("%Y-%m-%d").to_string();
+    let end_date_fmt = config.end_date.format("%Y-%m-%d").to_string();
 
     // Parse other options
     config.output_file = matches.get_one::<String>("output").unwrap().clone();
@@ -662,21 +670,22 @@ async fn main() -> Result<()> {
     config.process_output = !matches.get_flag("no-process");
 
     // Print configuration
-    println!("🚀 Go Modules Index Fetcher v2.0");
-    println!("┌─────────────────────────────────────┐");
-    println!("│ Configuration                       │");
-    println!("├─────────────────────────────────────┤");
-    println!("│ Start date: {:>22} │", config.start_date);
-    println!("│ End date: {:>24} │", config.end_date);
-    println!("│ Output file: {:>21} │", config.output_file);
-    println!("│ Max concurrent: {:>18} │", config.max_concurrent_days);
-    println!("│ Max retries: {:>21} │", config.max_retries);
-    println!("│ Batch size: {:>22} │", config.batch_size);
-    println!("│ Timeout: {:>25} │", format!("{}s", config.request_timeout.as_secs()));
-    println!("│ Dry run: {:>25} │", config.dry_run);
-    println!("│ Resume mode: {:>21} │", config.resume_mode);
-    println!("│ Process output: {:>18} │", config.process_output);
-    println!("└─────────────────────────────────────┘");
+    
+    println!("Go Modules Index Fetcher");
+    println!("┌────────────────────────────────────────────────────────────┐");
+    println!("│ Configuration                                              │");
+    println!("├────────────────────────────────────────────────────────────┤");
+    println!("│ {:<28} : {:>27} │", "Start date", start_date_fmt);
+    println!("│ {:<28} : {:>27} │", "End date", end_date_fmt);
+    println!("│ {:<28} : {:>27} │", "Output file", config.output_file);
+    println!("│ {:<28} : {:>27} │", "Max concurrent", config.max_concurrent_days);
+    println!("│ {:<28} : {:>27} │", "Max retries", config.max_retries);
+    println!("│ {:<28} : {:>27} │", "Batch size", config.batch_size);
+    println!("│ {:<28} : {:>27} │", "Timeout", format!("{}s", config.request_timeout.as_secs()));
+    println!("│ {:<28} : {:>27} │", "Dry run", config.dry_run);
+    println!("│ {:<28} : {:>27} │", "Resume mode", config.resume_mode);
+    println!("│ {:<28} : {:>27} │", "Process output", config.process_output);
+    println!("└────────────────────────────────────────────────────────────┘");
 
     let dates = generate_dates(config.start_date, config.end_date);
     println!("📅 Generated {} dates to process", dates.len());
