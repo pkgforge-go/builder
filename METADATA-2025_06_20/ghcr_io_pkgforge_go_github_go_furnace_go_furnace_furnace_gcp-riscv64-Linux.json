@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "furnace-gcp",
+  "pkg_family": "go-furnace",
+  "pkg_id": "furnace-gcp#github.com_go_furnace_go_furnace",
+  "pkg_name": "furnace-gcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-furnace/go-furnace",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Hosting Solution for AWS, Google Cloud and Digital Ocean",
+  "homepage": [
+    "https://github.com/go-furnace/go-furnace"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "furnace-aws",
+    "furnace-do",
+    "furnace-gcp",
+    "slack",
+    "telegram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-furnace/go-furnace/archive/be1cec4c9d8669f59a6eb4953c94226ba91f51e2.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cloudformation",
+    "codedeploy",
+    "deployment-manager",
+    "digitalocean",
+    "go",
+    "golang",
+    "google-cloud",
+    "google-cloud-platform",
+    "hacktoberfest",
+    "hosting"
+  ],
+  "version": "HEAD-be1cec4-211028T095002",
+  "version_upstream": "",
+  "bsum": "690badddcc93e1931c0800cb8a418fae8fa299ded83bd7dc1d6c25e1b15ce0e1",
+  "build_date": "2025-06-20T03:15:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769891190",
+  "build_id": "15769891190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/furnace-gcp?tag=HEAD-be1cec4-211028T095002-riscv64-Linux&download=furnace-gcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "99",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/furnace-gcp?tag=HEAD-be1cec4-211028T095002-riscv64-Linux&download=furnace-gcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-furnace/go-furnace/furnace-gcp:HEAD-be1cec4-211028T095002-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-furnace/go-furnace/furnace-gcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-furnace/go-furnace/furnace-gcp?tag=HEAD-be1cec4-211028T095002-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae064405251c2839fed6eac9298d17e7cee0e2ab4ee3a7ee32ac0601a7e8a5b7",
+  "size": "12 MB",
+  "size_raw": "12373688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
