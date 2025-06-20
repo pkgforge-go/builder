@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "granted",
+  "pkg_family": "granted",
+  "pkg_id": "granted#github.com_fwdcloudsec_granted",
+  "pkg_name": "granted",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fwdcloudsec/granted",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest way to access AWS.",
+  "homepage": [
+    "https://github.com/fwdcloudsec/granted"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "browser",
+    "creds",
+    "granted"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fwdcloudsec/granted/archive/e504d8bc2eed5f1b054fe1f0727c71a97576a5df.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cloud",
+    "cloud-security",
+    "credentials",
+    "hacktoberfest",
+    "iam",
+    "keychain",
+    "sso"
+  ],
+  "version": "HEAD-e504d8b-250511T163326",
+  "version_upstream": "",
+  "bsum": "9bd136a64994c54436ab497c58e7a71ad32989f044e45f4cc9e5c828500d001a",
+  "build_date": "2025-06-20T02:02:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769492629",
+  "build_id": "15769492629",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fwdcloudsec/granted/granted?tag=HEAD-e504d8b-250511T163326-aarch64-Linux&download=granted.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1338",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fwdcloudsec/granted/granted?tag=HEAD-e504d8b-250511T163326-aarch64-Linux&download=granted",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fwdcloudsec/granted/granted:HEAD-e504d8b-250511T163326-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fwdcloudsec/granted/granted",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fwdcloudsec/granted/granted?tag=HEAD-e504d8b-250511T163326-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2141f60194a785d4a39c4e66320cc73b04fa6c719b4fa9f413a2fdf12f1b609",
+  "size": "16 MB",
+  "size_raw": "15974656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
