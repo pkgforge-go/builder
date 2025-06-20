@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fakeroot",
+  "pkg_family": "fakeroot",
+  "pkg_id": "fakeroot#github.com_lure_sh_fakeroot",
+  "pkg_name": "fakeroot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lure-sh/fakeroot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A pure-Go implementation of fakeroot using Linux user namespaces.",
+  "homepage": [
+    "https://github.com/lure-sh/fakeroot"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fakeroot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lure-sh/fakeroot/archive/b2da39c1be0cbd47b2f156d61b6dd04ea0594e1e.tar.gz"
+  ],
+  "tag": [
+    "fakeroot",
+    "golang",
+    "linux",
+    "user-namespaces"
+  ],
+  "version": "HEAD-b2da39c-231024T135152",
+  "version_upstream": "",
+  "bsum": "b7cffaa3646e2560f01e3136b9eef2a5da754f8313ee25dcd9efec4670c64cfa",
+  "build_date": "2025-06-20T21:08:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787278739",
+  "build_id": "15787278739",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lure-sh/fakeroot/fakeroot?tag=HEAD-b2da39c-231024T135152-loongarch64-Linux&download=fakeroot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lure-sh/fakeroot/fakeroot?tag=HEAD-b2da39c-231024T135152-loongarch64-Linux&download=fakeroot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lure-sh/fakeroot/fakeroot:HEAD-b2da39c-231024T135152-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lure-sh/fakeroot/fakeroot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lure-sh/fakeroot/fakeroot?tag=HEAD-b2da39c-231024T135152-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cfd9d77ade9f881f3f4810a1fd13f50e7b5fc070f3ce08097cc622ba1594f760",
+  "size": "2.0 MB",
+  "size_raw": "2078040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
