@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "backport",
+  "pkg_family": "gitea",
+  "pkg_id": "backport#github.com_go_gitea_gitea",
+  "pkg_name": "backport",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-gitea/gitea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+  "homepage": [
+    "https://github.com/go-gitea/gitea"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ambiguous",
+    "backport",
+    "environment-to-ini",
+    "gitea",
+    "invisible"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-gitea/gitea/archive/67083437cd74cda28ef165b965cd5b2fbdb8580f.tar.gz"
+  ],
+  "tag": [
+    "bitbucket",
+    "cicd",
+    "devops",
+    "docker-registry-v2",
+    "git",
+    "git-gui",
+    "git-server",
+    "gitea",
+    "github",
+    "github-actions",
+    "gitlab",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "maven-server",
+    "npm-registry",
+    "vue"
+  ],
+  "version": "HEAD-6708343-250619T003730",
+  "version_upstream": "",
+  "bsum": "83f7fde92f292ea189b043060b3e7b9a9ebf48a357179834b9f8ac2ffd3b418f",
+  "build_date": "2025-06-20T03:18:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769952874",
+  "build_id": "15769952874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/backport?tag=HEAD-6708343-250619T003730-x86_64-Linux&download=backport.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/backport?tag=HEAD-6708343-250619T003730-x86_64-Linux&download=backport",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-gitea/gitea/backport:HEAD-6708343-250619T003730-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-gitea/gitea/backport",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/backport?tag=HEAD-6708343-250619T003730-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66f986bc14dd636e1fc44749697776d038fd6bd7ee7f7fd5126e931d2e85b00e",
+  "size": "9.9 MB",
+  "size_raw": "10279776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
