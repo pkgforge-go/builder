@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dnsping",
+  "pkg_family": "dnsping",
+  "pkg_id": "dnsping#github.com_fortio_dnsping",
+  "pkg_name": "dnsping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fortio/dnsping",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DNS Ping: to check packet loss and latency issues with DNS servers",
+  "homepage": [
+    "https://github.com/fortio/dnsping"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnsping"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fortio/dnsping/archive/42f281978ad363620b63db3466d8b7997196c24b.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "network-tools",
+    "troubleshooting"
+  ],
+  "version": "HEAD-42f2819-250526T060117",
+  "version_upstream": "",
+  "bsum": "bfa70710644520153fbe451779158256d1b2040cea066183ad45c512ebd593e9",
+  "build_date": "2025-06-20T00:10:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767952721",
+  "build_id": "15767952721",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/dnsping/dnsping?tag=HEAD-42f2819-250526T060117-riscv64-Linux&download=dnsping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "104",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/dnsping/dnsping?tag=HEAD-42f2819-250526T060117-riscv64-Linux&download=dnsping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fortio/dnsping/dnsping:HEAD-42f2819-250526T060117-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fortio/dnsping/dnsping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/dnsping/dnsping?tag=HEAD-42f2819-250526T060117-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0bf783581b6cdc726fd38a315a6680b2df346f83c3df928a9c2b8aeaf468449b",
+  "size": "5.9 MB",
+  "size_raw": "6170424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
