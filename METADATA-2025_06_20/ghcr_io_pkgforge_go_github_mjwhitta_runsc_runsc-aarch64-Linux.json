@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "runsc",
+  "pkg_family": "runsc",
+  "pkg_id": "runsc#github.com_mjwhitta_runsc",
+  "pkg_name": "runsc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mjwhitta/runsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple shellcode injector.",
+  "homepage": [
+    "https://github.com/mjwhitta/runsc"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "runsc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mjwhitta/runsc/archive/8f93ea3edb1c93971eb02dda9d3d7f9764cadf38.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8f93ea3-250620T084743",
+  "version_upstream": "v1.5.7",
+  "bsum": "3702c7a90dd6284d7d02043eebeac236ba187f18b5df7bc6e70ebe9875ad8c69",
+  "build_date": "2025-06-20T22:31:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788427310",
+  "build_id": "15788427310",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/runsc/runsc?tag=HEAD-8f93ea3-250620T084743-aarch64-Linux&download=runsc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/runsc/runsc?tag=HEAD-8f93ea3-250620T084743-aarch64-Linux&download=runsc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mjwhitta/runsc/runsc:HEAD-8f93ea3-250620T084743-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mjwhitta/runsc/runsc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/runsc/runsc?tag=HEAD-8f93ea3-250620T084743-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6af79f69a12f936bae2d04142a271ff3497eaa2f929f86b828132e00fd1b374b",
+  "size": "2.2 MB",
+  "size_raw": "2251768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
