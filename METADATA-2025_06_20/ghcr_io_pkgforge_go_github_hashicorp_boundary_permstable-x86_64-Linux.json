@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "permstable",
+  "pkg_family": "boundary",
+  "pkg_id": "permstable#github.com_hashicorp_boundary",
+  "pkg_name": "permstable",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/boundary",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/boundary"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boundary",
+    "genapi",
+    "gencli",
+    "permstable",
+    "remove-gotags-comments"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/boundary/archive/1f64c1202ed9218dd709aad3f3b152cb6f75565b.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "hashicorp",
+    "security",
+    "zero-trust"
+  ],
+  "version": "HEAD-1f64c12-250619T165146",
+  "version_upstream": "",
+  "bsum": "2699ff26ad4d9047c784562e5f4e9c01c30dab18b5e87ca5b0e279ccb39c81f0",
+  "build_date": "2025-06-20T05:43:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771635070",
+  "build_id": "15771635070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/permstable?tag=HEAD-1f64c12-250619T165146-x86_64-Linux&download=permstable.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/permstable?tag=HEAD-1f64c12-250619T165146-x86_64-Linux&download=permstable",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/boundary/permstable:HEAD-1f64c12-250619T165146-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/boundary/permstable",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/permstable?tag=HEAD-1f64c12-250619T165146-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "430f5079e9e7b951361d41ebf445ed024c6a4599d5b657383b1ee34126d705e5",
+  "size": "36 MB",
+  "size_raw": "37337184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
