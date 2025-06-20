@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "redress",
+  "pkg_family": "redress",
+  "pkg_id": "redress#github.com_goretk_redress",
+  "pkg_name": "redress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goretk/redress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Redress - A tool for analyzing stripped Go binaries",
+  "homepage": [
+    "https://github.com/goretk/redress"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "redress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/goretk/redress/archive/fe38d961b5d8bf0a0ebf58421527da64422a7922.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fe38d96-241012T215229",
+  "version_upstream": "v1.2.2",
+  "bsum": "3dc7f09b83c630f88899b29e9d58d173a234da6c9e60f1db438e632b3c225088",
+  "build_date": "2025-06-20T04:36:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771101476",
+  "build_id": "15771101476",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=HEAD-fe38d96-241012T215229-riscv64-Linux&download=redress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1080",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=HEAD-fe38d96-241012T215229-riscv64-Linux&download=redress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goretk/redress/redress:HEAD-fe38d96-241012T215229-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goretk/redress/redress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=HEAD-fe38d96-241012T215229-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ccaf121090ab6f120c28671e177e8f88e214001cfaec80cc61d681b587f3fa9",
+  "size": "10 MB",
+  "size_raw": "10416600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
