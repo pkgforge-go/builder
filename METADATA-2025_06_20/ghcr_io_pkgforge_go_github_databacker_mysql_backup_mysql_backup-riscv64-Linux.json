@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mysql-backup",
+  "pkg_family": "mysql-backup",
+  "pkg_id": "mysql-backup#github.com_databacker_mysql_backup",
+  "pkg_name": "mysql-backup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/databacker/mysql-backup",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "image to enable automated backups of mysql databases in containers",
+  "homepage": [
+    "https://github.com/databacker/mysql-backup"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mysql-backup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/databacker/mysql-backup/archive/d70d361943b4eab049e4fb33c51d7446c3b0afd7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d70d361-250620T145849",
+  "version_upstream": "",
+  "bsum": "566cdc64b61be202bc7622fa1e48286f890f6c8257adcb47c12f847bd6968be2",
+  "build_date": "2025-06-20T17:45:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784110577",
+  "build_id": "15784110577",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/databacker/mysql-backup/mysql-backup?tag=HEAD-d70d361-250620T145849-riscv64-Linux&download=mysql-backup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "707",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/databacker/mysql-backup/mysql-backup?tag=HEAD-d70d361-250620T145849-riscv64-Linux&download=mysql-backup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/databacker/mysql-backup/mysql-backup:HEAD-d70d361-250620T145849-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/databacker/mysql-backup/mysql-backup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/databacker/mysql-backup/mysql-backup?tag=HEAD-d70d361-250620T145849-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1566973a218d20c0fca40ab7abf355d133efd934676d52a6fd9ede790e32ebad",
+  "size": "24 MB",
+  "size_raw": "24355352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
