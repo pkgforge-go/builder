@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sandboxing",
+  "pkg_family": "prolog",
+  "pkg_id": "sandboxing#github.com_ichiban_prolog",
+  "pkg_name": "sandboxing",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ichiban/prolog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The only reasonable scripting engine for Go.",
+  "homepage": [
+    "https://github.com/ichiban/prolog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "call_go_from_prolog",
+    "dcg",
+    "embed_prolog_into_go",
+    "hanoi",
+    "initialization",
+    "sandboxing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ichiban/prolog/archive/6375564ab31421106e3e1d727e4c0274750cfcd7.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "interpreter",
+    "logic-programming",
+    "prolog"
+  ],
+  "version": "HEAD-6375564-241015T100855",
+  "version_upstream": "v1.2.2",
+  "bsum": "7d3981d51efb9e1da390ead45876caa947c65499aaae6338cb383f1706e7b1c9",
+  "build_date": "2025-06-20T06:44:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772315793",
+  "build_id": "15772315793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/sandboxing?tag=HEAD-6375564-241015T100855-loongarch64-Linux&download=sandboxing.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "676",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/sandboxing?tag=HEAD-6375564-241015T100855-loongarch64-Linux&download=sandboxing",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ichiban/prolog/sandboxing:HEAD-6375564-241015T100855-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ichiban/prolog/sandboxing",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/sandboxing?tag=HEAD-6375564-241015T100855-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6436a6c81d15bf332b037c2a585f65183331362b7f84c598dc6f673ef4a8813a",
+  "size": "2.6 MB",
+  "size_raw": "2632280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
