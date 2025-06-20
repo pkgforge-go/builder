@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ulex",
+  "pkg_family": "uc",
+  "pkg_id": "ulex#github.com_mewmew_uc",
+  "pkg_name": "ulex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mewmew/uc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A compiler for the µC language.",
+  "homepage": [
+    "https://github.com/mewmew/uc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "3rdpartycompile",
+    "uclang",
+    "ulex",
+    "uparse",
+    "usem"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mewmew/uc/archive/5b0a9c42b013c0f2f0c922f0ea454dabe1ea05bf.tar.gz"
+  ],
+  "tag": [
+    "c",
+    "compiler",
+    "golang",
+    "llvm-ir"
+  ],
+  "version": "HEAD-5b0a9c4-210325T014626",
+  "version_upstream": "",
+  "bsum": "dcf4c37c6f4a3ec008362aa2f0b33a1b9e0bfd2d89514cd2882ae2e28ef44633",
+  "build_date": "2025-06-20T22:07:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788312421",
+  "build_id": "15788312421",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mewmew/uc/ulex?tag=HEAD-5b0a9c4-210325T014626-riscv64-Linux&download=ulex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mewmew/uc/ulex?tag=HEAD-5b0a9c4-210325T014626-riscv64-Linux&download=ulex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mewmew/uc/ulex:HEAD-5b0a9c4-210325T014626-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mewmew/uc/ulex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mewmew/uc/ulex?tag=HEAD-5b0a9c4-210325T014626-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1b4ad7f785983e15712d1cf2f7fb01938311614050b7f60d1d7b12fad695caf5",
+  "size": "1.9 MB",
+  "size_raw": "1926184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
