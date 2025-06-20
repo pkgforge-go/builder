@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ghostunnel",
+  "pkg_family": "ghostunnel",
+  "pkg_id": "ghostunnel#github.com_ghostunnel_ghostunnel",
+  "pkg_name": "ghostunnel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ghostunnel/ghostunnel",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.",
+  "homepage": [
+    "https://github.com/ghostunnel/ghostunnel"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ghostunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ghostunnel/ghostunnel/archive/ade2a62a3d8718ed775b8e545dc974a567e61840.tar.gz"
+  ],
+  "tag": [
+    "crypto",
+    "go",
+    "hsm",
+    "keychain",
+    "pkcs11",
+    "proxy",
+    "security",
+    "ssl",
+    "stunnel",
+    "tls",
+    "tunnel"
+  ],
+  "version": "HEAD-ade2a62-250604T211833",
+  "version_upstream": "",
+  "bsum": "2b14ce976b57c357eda374c44a614708ad6d02d057366c4c91bf9a3b9ecb34bd",
+  "build_date": "2025-06-20T02:45:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769566251",
+  "build_id": "15769566251",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ghostunnel/ghostunnel/ghostunnel?tag=HEAD-ade2a62-250604T211833-loongarch64-Linux&download=ghostunnel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2045",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ghostunnel/ghostunnel/ghostunnel?tag=HEAD-ade2a62-250604T211833-loongarch64-Linux&download=ghostunnel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ghostunnel/ghostunnel/ghostunnel:HEAD-ade2a62-250604T211833-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ghostunnel/ghostunnel/ghostunnel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ghostunnel/ghostunnel/ghostunnel?tag=HEAD-ade2a62-250604T211833-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a5298de43a2a9529bbc4eaf6abd29947be21e59036a26840a08c25fe1e34d387",
+  "size": "34 MB",
+  "size_raw": "34690552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
