@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "xgbgen",
+  "pkg_family": "xgb",
+  "pkg_id": "xgbgen#github.com_jezek_xgb",
+  "pkg_name": "xgbgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jezek/xgb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The X Go Binding is a low-level API to communicate with the X server. It is modeled on XCB and supports many X extensions.",
+  "homepage": [
+    "https://github.com/jezek/xgb"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atoms",
+    "create-window",
+    "get-active-window",
+    "randr",
+    "shapes",
+    "xgbgen",
+    "xinerama"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jezek/xgb/archive/173fab59d6200a1502285d5d66cc21c732122a96.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-173fab5-231130T180410",
+  "version_upstream": "v1.1.1",
+  "bsum": "a2aae05b9ffe8915b0900c88f5fdec96976a457046543b02bf0974d5ffd3263a",
+  "build_date": "2025-06-20T13:31:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779508651",
+  "build_id": "15779508651",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/xgbgen?tag=HEAD-173fab5-231130T180410-x86_64-Linux&download=xgbgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "148",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/xgbgen?tag=HEAD-173fab5-231130T180410-x86_64-Linux&download=xgbgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jezek/xgb/xgbgen:HEAD-173fab5-231130T180410-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jezek/xgb/xgbgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jezek/xgb/xgbgen?tag=HEAD-173fab5-231130T180410-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e623a7c9cae780e391858a1e78c4bb63217314e9e75274ab0747fcc196bdfe96",
+  "size": "2.8 MB",
+  "size_raw": "2921656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
