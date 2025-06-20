@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "lcs",
+  "pkg_family": "hugescm",
+  "pkg_id": "lcs#github.com_antgroup_hugescm",
+  "pkg_name": "lcs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antgroup/hugescm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HugeSCM - A next generation cloud-based version control system",
+  "homepage": [
+    "https://github.com/antgroup/hugescm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bar2",
+    "diff2",
+    "lcs",
+    "setv",
+    "term",
+    "zeta",
+    "zeta-mc",
+    "zeta-serve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antgroup/hugescm/archive/e7ae9d3c29af8e13863240b5ca5c84cd8fe18c20.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "git",
+    "hugescm",
+    "monorepo",
+    "vcs"
+  ],
+  "version": "HEAD-e7ae9d3-250619T200645",
+  "version_upstream": "",
+  "bsum": "7fefdac7c82ade48792866ba69550c1cfbc17a34bbf6a857fc6f8744b64d8353",
+  "build_date": "2025-06-20T07:41:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773252055",
+  "build_id": "15773252055",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/lcs?tag=HEAD-e7ae9d3-250619T200645-aarch64-Linux&download=lcs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/lcs?tag=HEAD-e7ae9d3-250619T200645-aarch64-Linux&download=lcs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antgroup/hugescm/lcs:HEAD-e7ae9d3-250619T200645-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antgroup/hugescm/lcs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/lcs?tag=HEAD-e7ae9d3-250619T200645-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "076620ac042e408639440574b59c9bfa3213f2457baa7ba682ba36e5c51263d6",
+  "size": "1.6 MB",
+  "size_raw": "1632952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
