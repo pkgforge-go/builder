@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "resource-gen",
+  "pkg_family": "dubbo-kubernetes",
+  "pkg_id": "resource-gen#github.com_apache_dubbo_kubernetes",
+  "pkg_name": "resource-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/dubbo-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Dubbo Kubernetes integration.",
+  "homepage": [
+    "https://github.com/apache/dubbo-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "dds-client",
+    "dubbo-cp",
+    "generator",
+    "resource-gen",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/dubbo-kubernetes/archive/96ffe3fca2bf176ddbd4f7ff1395f433451278a4.tar.gz"
+  ],
+  "tag": [
+    "dubbo",
+    "kubernetes",
+    "microservices",
+    "service-mesh"
+  ],
+  "version": "HEAD-96ffe3f-250620T084954",
+  "version_upstream": "",
+  "bsum": "ae65c20e1e7bdf327f64910a5bfb9b8c6c7e45a6cceae70b6787555940e8a5e9",
+  "build_date": "2025-06-20T07:44:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773253114",
+  "build_id": "15773253114",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/resource-gen?tag=HEAD-96ffe3f-250620T084954-aarch64-Linux&download=resource-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "186",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/resource-gen?tag=HEAD-96ffe3f-250620T084954-aarch64-Linux&download=resource-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/dubbo-kubernetes/resource-gen:HEAD-96ffe3f-250620T084954-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/dubbo-kubernetes/resource-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/resource-gen?tag=HEAD-96ffe3f-250620T084954-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "28920621b76aba292ef0efed8e6adfe1a432e6e653b5d16e317a42f8377f37a9",
+  "size": "19 MB",
+  "size_raw": "19093856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
