@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cla-assistant",
+  "pkg_family": "ci-infra",
+  "pkg_id": "cla-assistant#github.com_gardener_ci_infra",
+  "pkg_name": "cla-assistant",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/ci-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test infrastructure for the Gardener project.",
+  "homepage": [
+    "https://github.com/gardener/ci-infra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "branch-cleaner",
+    "cherrypicker",
+    "cla-assistant",
+    "image-builder",
+    "job-forker",
+    "milestone-activator",
+    "release-handler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/ci-infra/archive/7e6332fbe4052d30867ca707747797d59ba17f32.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7e6332f-250619T133629",
+  "version_upstream": "",
+  "bsum": "004a834c6082e7814adae7f4cbd6f29b029d59028d3fb40b2568bf8ccead5dce",
+  "build_date": "2025-06-20T02:29:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769525724",
+  "build_id": "15769525724",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/ci-infra/cla-assistant?tag=HEAD-7e6332f-250619T133629-riscv64-Linux&download=cla-assistant.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/ci-infra/cla-assistant?tag=HEAD-7e6332f-250619T133629-riscv64-Linux&download=cla-assistant",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/ci-infra/cla-assistant:HEAD-7e6332f-250619T133629-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/ci-infra/cla-assistant",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/ci-infra/cla-assistant?tag=HEAD-7e6332f-250619T133629-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a9e31a572e6de31320e5b1971fc4395388205fe6450f3b5bd4303f15cb1aa1fd",
+  "size": "65 MB",
+  "size_raw": "68115864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
