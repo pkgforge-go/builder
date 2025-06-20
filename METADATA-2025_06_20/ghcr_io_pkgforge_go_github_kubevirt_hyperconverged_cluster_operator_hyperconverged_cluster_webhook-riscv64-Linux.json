@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hyperconverged-cluster-webhook",
+  "pkg_family": "hyperconverged-cluster-operator",
+  "pkg_id": "hyperconverged-cluster-webhook#github.com_kubevirt_hyperconverged_cluster_operator",
+  "pkg_name": "hyperconverged-cluster-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/hyperconverged-cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator pattern for managing multi-operator products",
+  "homepage": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-overlap-validator",
+    "crwriter",
+    "csv-merger",
+    "docgen",
+    "hyperconverged-cluster-operator",
+    "hyperconverged-cluster-webhook",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator/archive/83c7a32a3135d1c1189997991a88ce43fa1674d4.tar.gz"
+  ],
+  "tag": [
+    "hco",
+    "hyperconverged",
+    "kubernetes",
+    "kubernetes-operator",
+    "openshift",
+    "operator",
+    "virtualization"
+  ],
+  "version": "HEAD-83c7a32-250620T105840",
+  "version_upstream": "",
+  "bsum": "0f6b74110526430e96a107ac3e89d470da381f7684453584b673ea3f51980937",
+  "build_date": "2025-06-20T19:58:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785780306",
+  "build_id": "15785780306",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/hyperconverged-cluster-webhook?tag=HEAD-83c7a32-250620T105840-riscv64-Linux&download=hyperconverged-cluster-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/hyperconverged-cluster-webhook?tag=HEAD-83c7a32-250620T105840-riscv64-Linux&download=hyperconverged-cluster-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/hyperconverged-cluster-webhook:HEAD-83c7a32-250620T105840-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/hyperconverged-cluster-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/hyperconverged-cluster-webhook?tag=HEAD-83c7a32-250620T105840-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d18724610e38d1dcef8789f1e19227fff402235b0ea1bab4f7921d1f853b0c82",
+  "size": "50 MB",
+  "size_raw": "51852952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
