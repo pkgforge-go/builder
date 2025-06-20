@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "perf-testing",
+  "pkg_family": "kyverno",
+  "pkg_id": "perf-testing#github.com_kyverno_kyverno",
+  "pkg_name": "perf-testing",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/467bcb5add1e18e0e455ec6b746eb9f9187a1392.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-467bcb5-250620T115123",
+  "version_upstream": "",
+  "bsum": "cc72b1883f02ba449be6076c603ae25ccb89a5766101cabde5c3c80aeebdb1b5",
+  "build_date": "2025-06-20T20:24:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786024431",
+  "build_id": "15786024431",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/perf-testing?tag=HEAD-467bcb5-250620T115123-x86_64-Linux&download=perf-testing.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6437",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/perf-testing?tag=HEAD-467bcb5-250620T115123-x86_64-Linux&download=perf-testing",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/perf-testing:HEAD-467bcb5-250620T115123-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/perf-testing",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/perf-testing?tag=HEAD-467bcb5-250620T115123-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39a1fe4881642004db0fbb3252f68193cf6edde725b631fd99cf91dc4df93c4c",
+  "size": "39 MB",
+  "size_raw": "40523264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

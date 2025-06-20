@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cleanup-controller",
+  "pkg_family": "kyverno",
+  "pkg_id": "cleanup-controller#github.com_kyverno_kyverno",
+  "pkg_name": "cleanup-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/467bcb5add1e18e0e455ec6b746eb9f9187a1392.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-467bcb5-250620T115123",
+  "version_upstream": "",
+  "bsum": "6322578415ca96f23de5d963abbd23a7a2a0f9cd1de27ad93a5aaefb83332fd5",
+  "build_date": "2025-06-20T20:24:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786024431",
+  "build_id": "15786024431",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/cleanup-controller?tag=HEAD-467bcb5-250620T115123-x86_64-Linux&download=cleanup-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6437",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/cleanup-controller?tag=HEAD-467bcb5-250620T115123-x86_64-Linux&download=cleanup-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/cleanup-controller:HEAD-467bcb5-250620T115123-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/cleanup-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/cleanup-controller?tag=HEAD-467bcb5-250620T115123-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88abc06bb0805ff284f65770738b9db4f370a1e74a4bb37dffd61f9fab6d2bcc",
+  "size": "163 MB",
+  "size_raw": "170299072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
