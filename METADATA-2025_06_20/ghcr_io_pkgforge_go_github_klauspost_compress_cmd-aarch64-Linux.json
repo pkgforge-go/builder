@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "compress",
+  "pkg_id": "cmd#github.com_klauspost_compress",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/klauspost/compress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Optimized Go Compression Packages",
+  "homepage": [
+    "https://github.com/klauspost/compress"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builddict",
+    "cmd",
+    "s2c",
+    "s2d"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/klauspost/compress/archive/0b8a32cac1934962e28a85ecfdb0688af278be50.tar.gz"
+  ],
+  "tag": [
+    "compression",
+    "decompression",
+    "deflate",
+    "go",
+    "golang",
+    "gzip",
+    "snappy",
+    "zip",
+    "zstandard",
+    "zstd"
+  ],
+  "version": "HEAD-0b8a32c-250617T165249",
+  "version_upstream": "",
+  "bsum": "b4f6521164e76256f3785e00e90db0cd5e27de309bbee58ab274682e8bd94922",
+  "build_date": "2025-06-20T15:00:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780545883",
+  "build_id": "15780545883",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/cmd?tag=HEAD-0b8a32c-250617T165249-aarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/cmd?tag=HEAD-0b8a32c-250617T165249-aarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/klauspost/compress/cmd:HEAD-0b8a32c-250617T165249-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/klauspost/compress/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/cmd?tag=HEAD-0b8a32c-250617T165249-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3080e8119d83b1b2fc7f8063ba1297b4c84d88dcd15578c1ef4eb1591f4115c",
+  "size": "3.2 MB",
+  "size_raw": "3253528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
