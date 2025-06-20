@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "release",
+  "pkg_family": "cri-o",
+  "pkg_id": "release#github.com_cri_o_cri_o",
+  "pkg_name": "release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cri-o/cri-o",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+  "homepage": [
+    "https://github.com/cri-o/cri-o"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkcriu",
+    "checkseccomp",
+    "dependencies",
+    "metrics-exporter",
+    "release",
+    "release-branch-forward",
+    "release-notes",
+    "scripts",
+    "tag-reconciler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cri-o/cri-o/archive/5e369580837396fd0fca8e7581c3059e595ddf0a.tar.gz"
+  ],
+  "tag": [
+    "container-runtime-interface",
+    "crun",
+    "hacktoberfest",
+    "k8s-sig-node",
+    "kata-containers",
+    "kubernetes",
+    "oci",
+    "oci-runtime",
+    "runc"
+  ],
+  "version": "HEAD-5e36958-250618T050254",
+  "version_upstream": "",
+  "bsum": "c84a719bd4f9332136e6ac947e2dfd27794fb0dacbdf501769472370be91e418",
+  "build_date": "2025-06-20T08:26:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773800197",
+  "build_id": "15773800197",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cri-o/cri-o/release?tag=HEAD-5e36958-250618T050254-riscv64-Linux&download=release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5428",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cri-o/cri-o/release?tag=HEAD-5e36958-250618T050254-riscv64-Linux&download=release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cri-o/cri-o/release:HEAD-5e36958-250618T050254-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cri-o/cri-o/release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cri-o/cri-o/release?tag=HEAD-5e36958-250618T050254-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "53191fc3c917542185c864366887237f653c91d858bf440eef96910398874a31",
+  "size": "9.9 MB",
+  "size_raw": "10305368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
