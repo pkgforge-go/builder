@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "timezone",
+  "pkg_family": "mogo",
+  "pkg_id": "timezone#github.com_grokify_mogo",
+  "pkg_name": "timezone",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grokify/mogo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collection of small DRY Go utilities to make life easier. DRY = Don_t Repeat Yourself.",
+  "homepage": [
+    "https://github.com/grokify/mogo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "areacode_distance",
+    "build_constants",
+    "build_currency_codes",
+    "cli_webp2jpeg",
+    "cp",
+    "crypto_pkcs12",
+    "diff_days",
+    "dotenv2json",
+    "file_sizes",
+    "gitremoteaddupstream",
+    "gitremovehistory",
+    "httpreq",
+    "httpsversioncheck",
+    "language",
+    "nestedstruct2pointer",
+    "read_har",
+    "resize_jpeg",
+    "sql",
+    "subdirs",
+    "time_custom",
+    "timezone",
+    "uptime"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grokify/mogo/archive/6e4cc386fbc03240ae1d8f217b077f304c6da569.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "utilities",
+    "utility-library"
+  ],
+  "version": "HEAD-6e4cc38-250615T075130",
+  "version_upstream": "",
+  "bsum": "8e4f8db172a71f1f54aa16a5bc9f9cbe340d351a958c03169bc87e5cd7340edd",
+  "build_date": "2025-06-20T05:01:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771173217",
+  "build_id": "15771173217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/mogo/timezone?tag=HEAD-6e4cc38-250615T075130-riscv64-Linux&download=timezone.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "68",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/mogo/timezone?tag=HEAD-6e4cc38-250615T075130-riscv64-Linux&download=timezone",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grokify/mogo/timezone:HEAD-6e4cc38-250615T075130-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grokify/mogo/timezone",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/mogo/timezone?tag=HEAD-6e4cc38-250615T075130-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79708fe8057792d17953344f2a071a131c7cf5098356deb4285cea2d73a65051",
+  "size": "2.7 MB",
+  "size_raw": "2802200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
