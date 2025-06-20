@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "buildkit4",
+  "pkg_family": "buildkit",
+  "pkg_id": "buildkit4#github.com_moby_buildkit",
+  "pkg_name": "buildkit4",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/moby/buildkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+  "homepage": [
+    "https://github.com/moby/buildkit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-using-dockerfile",
+    "buildctl",
+    "buildkit-docs",
+    "buildkit0",
+    "buildkit1",
+    "buildkit2",
+    "buildkit3",
+    "buildkit4",
+    "buildkitd",
+    "consistenthash",
+    "dockerfile-frontend",
+    "dockerfile2llb",
+    "dumper",
+    "nested-llb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/moby/buildkit/archive/6dbcf9eb62598c5d82b70b2e3a99099f77a547c9.tar.gz"
+  ],
+  "tag": [
+    "builder",
+    "buildkit",
+    "cloud-native",
+    "containers",
+    "docker",
+    "dockerfile",
+    "go",
+    "golang",
+    "oci",
+    "oci-image"
+  ],
+  "version": "HEAD-6dbcf9e-250620T115209",
+  "version_upstream": "",
+  "bsum": "5deb5b427ef27f8d7a5fd61ca918eefc328764089abed9a995b2f62d315b35a9",
+  "build_date": "2025-06-20T22:45:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788465435",
+  "build_id": "15788465435",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moby/buildkit/buildkit4?tag=HEAD-6dbcf9e-250620T115209-aarch64-Linux&download=buildkit4.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8998",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moby/buildkit/buildkit4?tag=HEAD-6dbcf9e-250620T115209-aarch64-Linux&download=buildkit4",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/moby/buildkit/buildkit4:HEAD-6dbcf9e-250620T115209-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/moby/buildkit/buildkit4",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moby/buildkit/buildkit4?tag=HEAD-6dbcf9e-250620T115209-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d222fd6300335a6d5775b293bef42cd34a4c41879bfdd06ab33b319f9b36e03b",
+  "size": "15 MB",
+  "size_raw": "15711456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
