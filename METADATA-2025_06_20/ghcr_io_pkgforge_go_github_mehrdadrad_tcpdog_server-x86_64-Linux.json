@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "tcpdog",
+  "pkg_id": "server#github.com_mehrdadrad_tcpdog",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mehrdadrad/tcpdog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF based TCP observability.",
+  "homepage": [
+    "https://github.com/mehrdadrad/tcpdog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mehrdadrad/tcpdog/archive/5dc2fe1147fab1650141bdb367b19649da3b78d4.tar.gz"
+  ],
+  "tag": [
+    "bpf",
+    "ebpf",
+    "linux",
+    "monitoring",
+    "observability",
+    "socket",
+    "tcp",
+    "tool"
+  ],
+  "version": "HEAD-5dc2fe1-210721T073631",
+  "version_upstream": "",
+  "bsum": "78cac2ef6f8ad4d9129a24a09f61aa85c636325737bca8b1205428500b9b9886",
+  "build_date": "2025-06-20T22:01:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788290531",
+  "build_id": "15788290531",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mehrdadrad/tcpdog/server?tag=HEAD-5dc2fe1-210721T073631-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "260",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mehrdadrad/tcpdog/server?tag=HEAD-5dc2fe1-210721T073631-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mehrdadrad/tcpdog/server:HEAD-5dc2fe1-210721T073631-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mehrdadrad/tcpdog/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mehrdadrad/tcpdog/server?tag=HEAD-5dc2fe1-210721T073631-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1eb41922b024919596519e0bfa3553c767cf08eceec635c2f0906f14a2c6c1d",
+  "size": "28 MB",
+  "size_raw": "28629968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
