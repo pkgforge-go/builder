@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "usp",
+  "pkg_family": "USP",
+  "pkg_id": "usp#github.com_grahamhelton_USP",
+  "pkg_name": "usp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grahamhelton/USP",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Establishes persistence on a Linux system by creating a udev rule that triggers the execution of a specified payload _binary or script_",
+  "homepage": [
+    "https://github.com/grahamhelton/USP"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "usp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grahamhelton/USP/archive/26dc432c6c3c9756597eb589c14fd4b0abdfe27a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-26dc432-240826T115829",
+  "version_upstream": "",
+  "bsum": "83d3ea1173fb67ec7175abc6179302eac148e22346b437bc17c216adacfca7b0",
+  "build_date": "2025-06-20T04:52:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771171232",
+  "build_id": "15771171232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grahamhelton/usp/usp?tag=HEAD-26dc432-240826T115829-x86_64-Linux&download=usp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "145",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grahamhelton/usp/usp?tag=HEAD-26dc432-240826T115829-x86_64-Linux&download=usp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grahamhelton/usp/usp:HEAD-26dc432-240826T115829-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grahamhelton/usp/usp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grahamhelton/usp/usp?tag=HEAD-26dc432-240826T115829-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f44dfa64aad607be0ad3916fc765190c0c6a26085be1344273295918c371fba",
+  "size": "1.9 MB",
+  "size_raw": "1901912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
