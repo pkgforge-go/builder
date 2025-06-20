@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bootstrap",
+  "pkg_family": "dubbo-kubernetes",
+  "pkg_id": "bootstrap#github.com_apache_dubbo_kubernetes",
+  "pkg_name": "bootstrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/dubbo-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Dubbo Kubernetes integration.",
+  "homepage": [
+    "https://github.com/apache/dubbo-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "dds-client",
+    "dubbo-cp",
+    "dubboctl",
+    "generator",
+    "resource-gen",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/dubbo-kubernetes/archive/96ffe3fca2bf176ddbd4f7ff1395f433451278a4.tar.gz"
+  ],
+  "tag": [
+    "dubbo",
+    "kubernetes",
+    "microservices",
+    "service-mesh"
+  ],
+  "version": "HEAD-96ffe3f-250620T084954",
+  "version_upstream": "",
+  "bsum": "94149f969d62b740e557f6178eeabbf18ba8f2926a237910f8770898e95192b7",
+  "build_date": "2025-06-20T07:44:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773253114",
+  "build_id": "15773253114",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/bootstrap?tag=HEAD-96ffe3f-250620T084954-loongarch64-Linux&download=bootstrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "186",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/bootstrap?tag=HEAD-96ffe3f-250620T084954-loongarch64-Linux&download=bootstrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/dubbo-kubernetes/bootstrap:HEAD-96ffe3f-250620T084954-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/dubbo-kubernetes/bootstrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/bootstrap?tag=HEAD-96ffe3f-250620T084954-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b08a3373645e674346785971fee7334be6b5752605ca2fe1ae3aedfb3e219e3",
+  "size": "4.2 MB",
+  "size_raw": "4359864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
