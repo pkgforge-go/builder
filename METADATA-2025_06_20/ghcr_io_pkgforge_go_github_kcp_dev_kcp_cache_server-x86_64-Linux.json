@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cache-server",
+  "pkg_family": "kcp",
+  "pkg_id": "cache-server#github.com_kcp_dev_kcp",
+  "pkg_name": "cache-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kcp-dev/kcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.",
+  "homepage": [
+    "https://github.com/kcp-dev/kcp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-server",
+    "compat",
+    "crd-puller",
+    "kcp",
+    "kcp-front-proxy",
+    "sharded-test-server",
+    "test-server",
+    "virtual-workspaces"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kcp-dev/kcp/archive/612108bc466f96cb34a6e451be42f1bb77b8cf5a.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "kcp",
+    "kubernetes",
+    "multitenancy"
+  ],
+  "version": "HEAD-612108b-250620T115632",
+  "version_upstream": "",
+  "bsum": "a26ef55738d6af4b3fd7b203490a0721f270aebbebf39234967584db27ef3cc0",
+  "build_date": "2025-06-20T19:36:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785364107",
+  "build_id": "15785364107",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/cache-server?tag=HEAD-612108b-250620T115632-x86_64-Linux&download=cache-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/cache-server?tag=HEAD-612108b-250620T115632-x86_64-Linux&download=cache-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kcp-dev/kcp/cache-server:HEAD-612108b-250620T115632-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kcp-dev/kcp/cache-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/cache-server?tag=HEAD-612108b-250620T115632-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d12def1d290067efc4fd10bf8bf01e15b73fd94145a00bdd36c5c72fc9635bc9",
+  "size": "86 MB",
+  "size_raw": "90170848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
