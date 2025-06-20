@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "virtual-workspaces",
+  "pkg_family": "kcp",
+  "pkg_id": "virtual-workspaces#github.com_kcp_dev_kcp",
+  "pkg_name": "virtual-workspaces",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kcp-dev/kcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.",
+  "homepage": [
+    "https://github.com/kcp-dev/kcp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-server",
+    "compat",
+    "crd-puller",
+    "kcp",
+    "kcp-front-proxy",
+    "sharded-test-server",
+    "test-server",
+    "virtual-workspaces"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kcp-dev/kcp/archive/612108bc466f96cb34a6e451be42f1bb77b8cf5a.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "kcp",
+    "kubernetes",
+    "multitenancy"
+  ],
+  "version": "HEAD-612108b-250620T115632",
+  "version_upstream": "",
+  "bsum": "a86ed6b2ff39947149759632be208a1015ea071cb5d0528ea35ce4378342736d",
+  "build_date": "2025-06-20T19:37:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785364107",
+  "build_id": "15785364107",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/virtual-workspaces?tag=HEAD-612108b-250620T115632-aarch64-Linux&download=virtual-workspaces.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/virtual-workspaces?tag=HEAD-612108b-250620T115632-aarch64-Linux&download=virtual-workspaces",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kcp-dev/kcp/virtual-workspaces:HEAD-612108b-250620T115632-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kcp-dev/kcp/virtual-workspaces",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp/virtual-workspaces?tag=HEAD-612108b-250620T115632-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03adbd6eeced1cf90a4fe9539c628d85cb4395f8df765821614e31ccdfae8a1a",
+  "size": "85 MB",
+  "size_raw": "88177632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
