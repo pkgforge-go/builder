@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tests",
+  "pkg_family": "lifecycle-manager",
+  "pkg_id": "tests#github.com_kyma_project_lifecycle_manager",
+  "pkg_name": "tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyma-project/lifecycle-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Controller that manages the lifecycle of Kyma Modules in your cluster.",
+  "homepage": [
+    "https://github.com/kyma-project/lifecycle-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lifecycle-manager-cmd",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyma-project/lifecycle-manager/archive/919895fe3de784954ad169a918e6f0369bc7c52e.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kyma",
+    "operator"
+  ],
+  "version": "HEAD-919895f-250620T091302",
+  "version_upstream": "",
+  "bsum": "c29d8ef03148e9ac4679bff92882e0ff4646325430fafbcae2eab90c4866c6ce",
+  "build_date": "2025-06-20T20:02:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786019390",
+  "build_id": "15786019390",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/lifecycle-manager/tests?tag=HEAD-919895f-250620T091302-loongarch64-Linux&download=tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/lifecycle-manager/tests?tag=HEAD-919895f-250620T091302-loongarch64-Linux&download=tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyma-project/lifecycle-manager/tests:HEAD-919895f-250620T091302-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyma-project/lifecycle-manager/tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/lifecycle-manager/tests?tag=HEAD-919895f-250620T091302-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fa85c29418334ac76782a068c1b1021940291093b5b24830a148caeff276154",
+  "size": "6.1 MB",
+  "size_raw": "6321312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
