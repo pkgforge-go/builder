@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hcldec",
+  "pkg_family": "hcl",
+  "pkg_id": "hcldec#github.com_hashicorp_hcl",
+  "pkg_name": "hcldec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/hcl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HCL is the HashiCorp configuration language.",
+  "homepage": [
+    "https://github.com/hashicorp/hcl"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hcldec",
+    "hclfmt",
+    "hclspecsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/hcl/archive/6b5c4c2bac7140d1f676d294e99ff5d696b8fbf9.tar.gz"
+  ],
+  "tag": [
+    "configuration-language",
+    "hashicorp",
+    "hcl",
+    "json"
+  ],
+  "version": "HEAD-6b5c4c2-250603T094700",
+  "version_upstream": "",
+  "bsum": "2bc7a1dcbbc9bc2df7a53dd0fe3fb7d2d395b5993547637fcf91f00e8d80db0c",
+  "build_date": "2025-06-20T18:47:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784642966",
+  "build_id": "15784642966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/hcl/hcldec?tag=HEAD-6b5c4c2-250603T094700-loongarch64-Linux&download=hcldec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/hcl/hcldec?tag=HEAD-6b5c4c2-250603T094700-loongarch64-Linux&download=hcldec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/hcl/hcldec:HEAD-6b5c4c2-250603T094700-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/hcl/hcldec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/hcl/hcldec?tag=HEAD-6b5c4c2-250603T094700-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54ee5d61761c4efdea08764933afb3d6d7388f839ae8ce709cab1f3909fa0aa3",
+  "size": "4.8 MB",
+  "size_raw": "4949368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

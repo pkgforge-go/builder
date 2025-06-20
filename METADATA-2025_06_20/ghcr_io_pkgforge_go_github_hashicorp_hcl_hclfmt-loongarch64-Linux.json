@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hclfmt",
+  "pkg_family": "hcl",
+  "pkg_id": "hclfmt#github.com_hashicorp_hcl",
+  "pkg_name": "hclfmt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/hcl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HCL is the HashiCorp configuration language.",
+  "homepage": [
+    "https://github.com/hashicorp/hcl"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hcldec",
+    "hclfmt",
+    "hclspecsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/hcl/archive/6b5c4c2bac7140d1f676d294e99ff5d696b8fbf9.tar.gz"
+  ],
+  "tag": [
+    "configuration-language",
+    "hashicorp",
+    "hcl",
+    "json"
+  ],
+  "version": "HEAD-6b5c4c2-250603T094700",
+  "version_upstream": "",
+  "bsum": "7b280534d2cc5553f04812e58cbcfed366e8a149bd792b848fca602439c75453",
+  "build_date": "2025-06-20T18:46:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784642966",
+  "build_id": "15784642966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/hcl/hclfmt?tag=HEAD-6b5c4c2-250603T094700-loongarch64-Linux&download=hclfmt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/hcl/hclfmt?tag=HEAD-6b5c4c2-250603T094700-loongarch64-Linux&download=hclfmt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/hcl/hclfmt:HEAD-6b5c4c2-250603T094700-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/hcl/hclfmt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/hcl/hclfmt?tag=HEAD-6b5c4c2-250603T094700-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4be4ae794f944b6fea4eead7e8887ec5ab3bcce799d05e3a9fbda56629d0497b",
+  "size": "4.2 MB",
+  "size_raw": "4327672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
