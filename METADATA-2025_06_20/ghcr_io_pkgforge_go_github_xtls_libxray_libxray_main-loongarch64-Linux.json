@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "libxray-main",
+  "pkg_family": "libXray",
+  "pkg_id": "libxray-main#github.com_XTLS_libXray",
+  "pkg_name": "libxray-main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/XTLS/libXray",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Xray-core wrapper, support all platforms.",
+  "homepage": [
+    "https://github.com/XTLS/libXray"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "libxray-main",
+    "linux_route"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/XTLS/libXray/archive/56e5ce6664189a18a0f154898a30558d4c690f30.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-56e5ce6-250620T165812",
+  "version_upstream": "",
+  "bsum": "e35184a52722eab45c94182776de8beef27530e26a25efdbb243c07111a7080a",
+  "build_date": "2025-06-20T16:55:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782896856",
+  "build_id": "15782896856",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xtls/libxray/libxray-main?tag=HEAD-56e5ce6-250620T165812-loongarch64-Linux&download=libxray-main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xtls/libxray/libxray-main?tag=HEAD-56e5ce6-250620T165812-loongarch64-Linux&download=libxray-main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xtls/libxray/libxray-main:HEAD-56e5ce6-250620T165812-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xtls/libxray/libxray-main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xtls/libxray/libxray-main?tag=HEAD-56e5ce6-250620T165812-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e867d81430d96930405fca83e7fc6bfce5fe9014d2dc296b27f53b7c74b4558c",
+  "size": "32 MB",
+  "size_raw": "32577312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
