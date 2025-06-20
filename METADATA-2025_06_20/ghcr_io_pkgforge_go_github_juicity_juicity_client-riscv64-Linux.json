@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "juicity",
+  "pkg_id": "client#github.com_juicity_juicity",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juicity/juicity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "juicity is a quic-based proxy protocol implementation.",
+  "homepage": [
+    "https://github.com/juicity/juicity"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juicity/juicity/archive/4c5e8bd948ba2f72a0dd38681cf13ae532f6c9f5.tar.gz"
+  ],
+  "tag": [
+    "juicity",
+    "protocol",
+    "proxy",
+    "quic"
+  ],
+  "version": "HEAD-4c5e8bd-250220T214810",
+  "version_upstream": "",
+  "bsum": "fa6452937f172a1e1cd7a6160ece1bfc273058dc6383cf318d20645ad8b698ca",
+  "build_date": "2025-06-20T13:55:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779841419",
+  "build_id": "15779841419",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicity/juicity/client?tag=HEAD-4c5e8bd-250220T214810-riscv64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "911",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicity/juicity/client?tag=HEAD-4c5e8bd-250220T214810-riscv64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juicity/juicity/client:HEAD-4c5e8bd-250220T214810-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juicity/juicity/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicity/juicity/client?tag=HEAD-4c5e8bd-250220T214810-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a802168bc588aaab8e2e7061a47b32c3ff925143136d0309e4ba858f14d6416c",
+  "size": "12 MB",
+  "size_raw": "12066776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
