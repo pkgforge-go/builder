@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testoidcauth",
+  "pkg_family": "mongo-go-driver",
+  "pkg_id": "testoidcauth#github.com_mongodb_mongo_go_driver",
+  "pkg_name": "testoidcauth",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mongodb/mongo-go-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Official Golang driver for MongoDB",
+  "homepage": [
+    "https://github.com/mongodb/mongo-go-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-oss-fuzz-corpus",
+    "parse-api-report",
+    "testentauth",
+    "testkms",
+    "testoidcauth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mongodb/mongo-go-driver/archive/73ad05e9d22fe2ead5f4b52c7da09f008aa816a1.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "driver",
+    "go",
+    "golang",
+    "golang-library",
+    "mongodb"
+  ],
+  "version": "HEAD-73ad05e-250618T161759",
+  "version_upstream": "",
+  "bsum": "93070ff8fc94f1f7f5ddf6d82b06bb23eab9b78fda65c1bbb50151e2d94a22d7",
+  "build_date": "2025-06-20T22:44:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788467832",
+  "build_id": "15788467832",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongo-go-driver/testoidcauth?tag=HEAD-73ad05e-250618T161759-aarch64-Linux&download=testoidcauth.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8377",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongo-go-driver/testoidcauth?tag=HEAD-73ad05e-250618T161759-aarch64-Linux&download=testoidcauth",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mongodb/mongo-go-driver/testoidcauth:HEAD-73ad05e-250618T161759-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mongodb/mongo-go-driver/testoidcauth",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongo-go-driver/testoidcauth?tag=HEAD-73ad05e-250618T161759-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7e2ddda15b64423da2589c88f2d3becb3484b437702afa2e834dddf246ff1eab",
+  "size": "9.2 MB",
+  "size_raw": "9561952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
