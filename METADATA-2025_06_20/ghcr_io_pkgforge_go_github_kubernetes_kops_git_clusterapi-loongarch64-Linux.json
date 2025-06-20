@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clusterapi",
+  "pkg_family": "kops",
+  "pkg_id": "clusterapi#github.com_kubernetes_kops.git",
+  "pkg_name": "clusterapi",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "channels",
+    "clusterapi",
+    "dns-controller",
+    "fitask",
+    "generatefileassets",
+    "kops",
+    "kops-api-example",
+    "kops-controller",
+    "kops-utils-cp",
+    "kube-apiserver-healthcheck",
+    "nodeup",
+    "protokube"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/kops.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T154444",
+  "version_upstream": "",
+  "bsum": "ff435a8569ec80c7b5076fb4f825329a67eb6c0abeac600a5514abb273232ebd",
+  "build_date": "2025-06-20T16:10:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781759794",
+  "build_id": "15781759794",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/clusterapi?tag=20250620T154444-loongarch64-Linux&download=clusterapi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/clusterapi?tag=20250620T154444-loongarch64-Linux&download=clusterapi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kops.git/clusterapi:20250620T154444-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kops.git/clusterapi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/clusterapi?tag=20250620T154444-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "52d2f87fe878ec72d358c1b90998201fe72ee21633ec30bda3ed3949d1347a20",
+  "size": "107 MB",
+  "size_raw": "111942496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

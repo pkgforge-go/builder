@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kops",
+  "pkg_family": "kops",
+  "pkg_id": "kops#github.com_kubernetes_kops.git",
+  "pkg_name": "kops",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "channels",
+    "clusterapi",
+    "dns-controller",
+    "fitask",
+    "generatefileassets",
+    "kops",
+    "kops-api-example",
+    "kops-controller",
+    "kops-utils-cp",
+    "kube-apiserver-healthcheck",
+    "nodeup",
+    "protokube"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/kops.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T154444",
+  "version_upstream": "",
+  "bsum": "ea442a77a1fa714d1a387dafaebb186cfe6e7d4b10f49c0f867cd71dbbd4317e",
+  "build_date": "2025-06-20T16:11:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781759794",
+  "build_id": "15781759794",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/kops?tag=20250620T154444-loongarch64-Linux&download=kops.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/kops?tag=20250620T154444-loongarch64-Linux&download=kops",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kops.git/kops:20250620T154444-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kops.git/kops",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/kops?tag=20250620T154444-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d69b4483490ca5f64b30be235e0cc04b2226665cd7d4a9f9d380dd8d5210c54",
+  "size": "260 MB",
+  "size_raw": "272527536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
