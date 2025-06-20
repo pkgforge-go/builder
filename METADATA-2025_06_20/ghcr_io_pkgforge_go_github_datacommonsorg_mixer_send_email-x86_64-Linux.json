@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "send_email",
+  "pkg_family": "mixer",
+  "pkg_id": "send_email#github.com_datacommonsorg_mixer",
+  "pkg_name": "send_email",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/datacommonsorg/mixer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mixer provides the translator engine and API interface to access Data Commons graph",
+  "homepage": [
+    "https://github.com/datacommonsorg/mixer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "http_memprof",
+    "mixer-cmd",
+    "send_email",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/datacommonsorg/mixer/archive/2e3399a4605593e0f2fa9ee37cab0640e4475fba.tar.gz"
+  ],
+  "tag": [
+    "api-server",
+    "go",
+    "grpc-go"
+  ],
+  "version": "HEAD-2e3399a-250620T122249",
+  "version_upstream": "prod",
+  "bsum": "7abf582801742b01174c8591659a465c911a0c5d1399756371715da1dc4faecd",
+  "build_date": "2025-06-20T17:47:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784112003",
+  "build_id": "15784112003",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/send_email?tag=HEAD-2e3399a-250620T122249-x86_64-Linux&download=send_email.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/send_email?tag=HEAD-2e3399a-250620T122249-x86_64-Linux&download=send_email",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datacommonsorg/mixer/send_email:HEAD-2e3399a-250620T122249-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datacommonsorg/mixer/send_email",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/send_email?tag=HEAD-2e3399a-250620T122249-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "62f39a4f8629dc0891d2a3df48988171c5d5daea42c72aaa90e42461b4282f00",
+  "size": "16 MB",
+  "size_raw": "15738656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
