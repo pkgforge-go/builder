@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nodeinstaller",
+  "pkg_family": "contrast",
+  "pkg_id": "nodeinstaller#github.com_edgelesssys_contrast",
+  "pkg_name": "nodeinstaller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edgelesssys/contrast",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy and manage confidential containers on Kubernetes",
+  "homepage": [
+    "https://github.com/edgelesssys/contrast"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "initializer",
+    "nodeinstaller",
+    "resourcegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edgelesssys/contrast/archive/d4062fac0cdfd0e0c414d4d5c3cf1d5bb3c07ffa.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d4062fa-250620T105136",
+  "version_upstream": "",
+  "bsum": "68d3652533cc7b73af9147b985a940d8913da8a991561e75633b3ff5d764b1d9",
+  "build_date": "2025-06-20T17:56:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784183794",
+  "build_id": "15784183794",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/nodeinstaller?tag=HEAD-d4062fa-250620T105136-riscv64-Linux&download=nodeinstaller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "239",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/nodeinstaller?tag=HEAD-d4062fa-250620T105136-riscv64-Linux&download=nodeinstaller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgelesssys/contrast/nodeinstaller:HEAD-d4062fa-250620T105136-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgelesssys/contrast/nodeinstaller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/nodeinstaller?tag=HEAD-d4062fa-250620T105136-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c617c09ee64d23bb5e9db5fc1fc9a8018f95ded2d38e8823c7daf84c9bae83b",
+  "size": "13 MB",
+  "size_raw": "13411064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
