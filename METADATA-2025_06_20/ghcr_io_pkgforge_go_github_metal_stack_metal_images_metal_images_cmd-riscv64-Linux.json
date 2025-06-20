@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "metal-images-cmd",
+  "pkg_family": "metal-images",
+  "pkg_id": "metal-images-cmd#github.com_metal_stack_metal_images",
+  "pkg_name": "metal-images-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metal-stack/metal-images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CI-Builds for the metal-stack OS images",
+  "homepage": [
+    "https://github.com/metal-stack/metal-images"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-table",
+    "metal-images-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metal-stack/metal-images/archive/1bbe9846a533f8c9286d82143f3a2eac7212559b.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "debian",
+    "linux",
+    "metal-images",
+    "ubuntu"
+  ],
+  "version": "HEAD-1bbe984-250620T133346",
+  "version_upstream": "",
+  "bsum": "eef96119c1512da00bde802e2be0e9cb82187892902f5bbe65080fe32364c7a0",
+  "build_date": "2025-06-20T22:04:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788310436",
+  "build_id": "15788310436",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/metal-images/metal-images-cmd?tag=HEAD-1bbe984-250620T133346-riscv64-Linux&download=metal-images-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/metal-images/metal-images-cmd?tag=HEAD-1bbe984-250620T133346-riscv64-Linux&download=metal-images-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metal-stack/metal-images/metal-images-cmd:HEAD-1bbe984-250620T133346-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metal-stack/metal-images/metal-images-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/metal-images/metal-images-cmd?tag=HEAD-1bbe984-250620T133346-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3fbd8cc6dc7c157110653aa480bda15b97e40e06e549ecf14f5db53d250ffcd4",
+  "size": "12 MB",
+  "size_raw": "12311224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
