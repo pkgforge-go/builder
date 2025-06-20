@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "grpc-health-probe",
+  "pkg_family": "grpc-health-probe",
+  "pkg_id": "grpc-health-probe#github.com_grpc_ecosystem_grpc_health_probe",
+  "pkg_name": "grpc-health-probe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grpc-ecosystem/grpc-health-probe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere",
+  "homepage": [
+    "https://github.com/grpc-ecosystem/grpc-health-probe"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-health-probe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grpc-ecosystem/grpc-health-probe/archive/064fb0970cb35e0cc903ca5e5d52cb15158eb2cc.tar.gz"
+  ],
+  "tag": [
+    "grpc",
+    "grpc-health",
+    "kubernetes"
+  ],
+  "version": "HEAD-064fb09-250617T234758",
+  "version_upstream": "",
+  "bsum": "a970f8de4afbd83f1f29d806435354bbbff5cd353c3bf0149389fcc2918d8eb2",
+  "build_date": "2025-06-20T05:03:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771173445",
+  "build_id": "15771173445",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-health-probe/grpc-health-probe?tag=HEAD-064fb09-250617T234758-loongarch64-Linux&download=grpc-health-probe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1506",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-health-probe/grpc-health-probe?tag=HEAD-064fb09-250617T234758-loongarch64-Linux&download=grpc-health-probe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grpc-ecosystem/grpc-health-probe/grpc-health-probe:HEAD-064fb09-250617T234758-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grpc-ecosystem/grpc-health-probe/grpc-health-probe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-health-probe/grpc-health-probe?tag=HEAD-064fb09-250617T234758-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "000dda364b7511b2bdeb4b429cf05c2cd67461494b216cece00386fdaed28c58",
+  "size": "13 MB",
+  "size_raw": "12908384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
