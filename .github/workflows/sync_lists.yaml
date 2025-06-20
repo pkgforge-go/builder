@@ -230,7 +230,24 @@ jobs:
                sed -e '/^[[:space:]]*$/d;10q' "./BUILD_LIST.tmp" | sort -u -o "./BUILD_LIST.txt"
                if [[ "$(wc -l < "./BUILD_LIST.txt" | tr -cd '[:digit:]')" -lt 10 ]]; then
                   echo -e "\n[+] Generating Build List (Diff from Prebuilts + PKG_LIST + Old Prebuilts)\n"
-                  #curl -qfsSL "https://meta.pkgforge.dev/external/pkgforge-go/x86_64-Linux.json" | jq -r --arg CUT_OFF "$(date -u -d '5 days ago' +%Y-%m-%dT%H:%M:%SZ)" '[.[] | select(.build_date < $CUT_OFF) | .pkg][0:240] | .[]' | sort -u >> "./BUILD_LIST.txt"
+                  jq -r --slurpfile cli_pkgs "${O_D}/PKGS_CLI_ONLY.json" \
+                   '
+                    .[] | 
+                    select(type == "object" and has("pkg_id") and has("version") and (.pkg_id | contains("#"))) |
+                    (.pkg_id | split("#")[1]) as $built_pkg_id |
+                    (.version) as $built_version |
+                    ($cli_pkgs[0][] | select(type == "object" and has("pkg_id") and has("version") and .pkg_id == $built_pkg_id)) as $cli_match |
+                    if $cli_match and $built_version and $cli_match.version then
+                      if $built_version != $cli_match.version then
+                        $built_pkg_id
+                      else
+                        empty
+                      end
+                    else
+                      empty
+                    end
+                   ' "${O_D}/PKGS_BUILT.json" | grep -Eiv '^null$' | sed -e '/^[[:space:]]*$/d;240q' |\
+                  sort -u >> "./BUILD_LIST.txt"
                fi
              else
                echo -e "\n[+] Generating Build List (Diff from BUILD_LIST [${BUILD_LIST_TMP}])\n"
