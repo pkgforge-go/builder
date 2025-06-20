@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "checkheader",
+  "pkg_family": "openssl",
+  "pkg_id": "checkheader#github.com_golang_fips_openssl.git",
+  "pkg_name": "checkheader",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkheader",
+    "genaesmodes",
+    "gentestvectors",
+    "mkcgo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang-fips/openssl.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T035521",
+  "version_upstream": "",
+  "bsum": "fe8f87c819405f79a4554b7d489a34c58b61caea48abdfe71a5cc4ccc5f96247",
+  "build_date": "2025-06-20T03:56:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770312983",
+  "build_id": "15770312983",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fips/openssl.git/checkheader?tag=20250620T035521-loongarch64-Linux&download=checkheader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fips/openssl.git/checkheader?tag=20250620T035521-loongarch64-Linux&download=checkheader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fips/openssl.git/checkheader:20250620T035521-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fips/openssl.git/checkheader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fips/openssl.git/checkheader?tag=20250620T035521-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79daaaa58956a749ee7d47f947e6de724146dda13fa7967eb485c260e0d3c7f6",
+  "size": "2.1 MB",
+  "size_raw": "2115320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
