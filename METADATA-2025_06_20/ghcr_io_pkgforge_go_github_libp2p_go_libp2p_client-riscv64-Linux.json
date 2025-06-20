@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "go-libp2p",
+  "pkg_id": "client#github.com_libp2p_go_libp2p",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/libp2p/go-libp2p",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "libp2p implementation in Go",
+  "homepage": [
+    "https://github.com/libp2p/go-libp2p"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "cmd",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/libp2p/go-libp2p/archive/000582cf2c5864b406122d9cff46dd3b8b04abe3.tar.gz"
+  ],
+  "tag": [
+    "libp2p",
+    "networking-stack",
+    "p2p"
+  ],
+  "version": "HEAD-000582c-250618T214803",
+  "version_upstream": "v0.42.0",
+  "bsum": "8d088b334913814c86f0d5adb67788469dfff299b99a140acdfa4615bef5c1e3",
+  "build_date": "2025-06-20T20:33:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786380693",
+  "build_id": "15786380693",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/libp2p/go-libp2p/client?tag=HEAD-000582c-250618T214803-riscv64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6416",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/libp2p/go-libp2p/client?tag=HEAD-000582c-250618T214803-riscv64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/libp2p/go-libp2p/client:HEAD-000582c-250618T214803-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/libp2p/go-libp2p/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/libp2p/go-libp2p/client?tag=HEAD-000582c-250618T214803-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0bb41a2ca889c313da59158fce3fc94111a4fc3b35a47fe4a86839f4f48a6802",
+  "size": "12 MB",
+  "size_raw": "11932152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
