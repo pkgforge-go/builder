@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cri-dockerd",
+  "pkg_family": "cri-dockerd",
+  "pkg_id": "cri-dockerd#github.com_Mirantis_cri_dockerd",
+  "pkg_name": "cri-dockerd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mirantis/cri-dockerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dockerd as a compliant Container Runtime Interface for Kubernetes",
+  "homepage": [
+    "https://github.com/Mirantis/cri-dockerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cri-dockerd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mirantis/cri-dockerd/archive/f57ecd6fb21b84f713012bc18cbc250bc42800bd.tar.gz"
+  ],
+  "tag": [
+    "cri",
+    "docker",
+    "kubernetes"
+  ],
+  "version": "HEAD-f57ecd6-250619T230231",
+  "version_upstream": "",
+  "bsum": "d0e1cba9cc7abf2573454d68522702698259789e1933aa1c696448e7ab676ea5",
+  "build_date": "2025-06-20T07:22:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773112597",
+  "build_id": "15773112597",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd?tag=HEAD-f57ecd6-250619T230231-riscv64-Linux&download=cri-dockerd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1245",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd?tag=HEAD-f57ecd6-250619T230231-riscv64-Linux&download=cri-dockerd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd:HEAD-f57ecd6-250619T230231-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirantis/cri-dockerd/cri-dockerd?tag=HEAD-f57ecd6-250619T230231-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "642005443e00a1cd80b60cba0e56e569fcad22ab4d5ae13c37f41537a5f7ee6b",
+  "size": "52 MB",
+  "size_raw": "53709400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
