@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mcp-grafana",
+  "pkg_family": "mcp-grafana",
+  "pkg_id": "mcp-grafana#github.com_grafana_mcp_grafana",
+  "pkg_name": "mcp-grafana",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/mcp-grafana",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MCP server for Grafana",
+  "homepage": [
+    "https://github.com/grafana/mcp-grafana"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jsonschema",
+    "mcp-grafana",
+    "mcp-grafana-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/mcp-grafana/archive/a71f76a7dca01948d7a216961f5373efeff3e526.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a71f76a-250619T170942",
+  "version_upstream": "",
+  "bsum": "53271065bd2757ef5f71071b8f54c960b3cdab6a267189a9edda23b3c14b66ca",
+  "build_date": "2025-06-20T04:51:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771169964",
+  "build_id": "15771169964",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mcp-grafana/mcp-grafana?tag=HEAD-a71f76a-250619T170942-x86_64-Linux&download=mcp-grafana.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "959",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mcp-grafana/mcp-grafana?tag=HEAD-a71f76a-250619T170942-x86_64-Linux&download=mcp-grafana",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/mcp-grafana/mcp-grafana:HEAD-a71f76a-250619T170942-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/mcp-grafana/mcp-grafana",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mcp-grafana/mcp-grafana?tag=HEAD-a71f76a-250619T170942-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "84c009ad96a260d00cee8b1857264c725f7a49a87bdf32f56cc05211902d878d",
+  "size": "42 MB",
+  "size_raw": "43832720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
