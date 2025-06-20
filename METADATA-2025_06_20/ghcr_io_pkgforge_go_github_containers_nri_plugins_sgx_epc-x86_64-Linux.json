@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sgx-epc",
+  "pkg_family": "nri-plugins",
+  "pkg_id": "sgx-epc#github.com_containers_nri_plugins",
+  "pkg_name": "sgx-epc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/nri-plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collection of community maintained NRI plugins",
+  "homepage": [
+    "https://github.com/containers/nri-plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balloons",
+    "config-manager",
+    "memory-policy",
+    "memory-qos",
+    "memtierd",
+    "mpolset",
+    "sgx-epc",
+    "template",
+    "test06-fuzz",
+    "topology-aware",
+    "udev-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/nri-plugins/archive/ce84ee1f09296cf4d5d35f2acdd5eda60891c09a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ce84ee1-250619T230008",
+  "version_upstream": "",
+  "bsum": "7cfc4d4a4b9bf422c4782f4b1da6f0740a165da9db186c5ade2259c2d92aac4e",
+  "build_date": "2025-06-20T08:16:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773737205",
+  "build_id": "15773737205",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/sgx-epc?tag=HEAD-ce84ee1-250619T230008-x86_64-Linux&download=sgx-epc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/sgx-epc?tag=HEAD-ce84ee1-250619T230008-x86_64-Linux&download=sgx-epc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/nri-plugins/sgx-epc:HEAD-ce84ee1-250619T230008-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/nri-plugins/sgx-epc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/sgx-epc?tag=HEAD-ce84ee1-250619T230008-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b0dcbfcc0944e49a6316b7bd45b52d14044cfd5387d982cb7cea6eaaacc54f1",
+  "size": "6.0 MB",
+  "size_raw": "6218368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

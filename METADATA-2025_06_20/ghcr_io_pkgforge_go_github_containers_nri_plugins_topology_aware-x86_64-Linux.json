@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "topology-aware",
+  "pkg_family": "nri-plugins",
+  "pkg_id": "topology-aware#github.com_containers_nri_plugins",
+  "pkg_name": "topology-aware",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/nri-plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collection of community maintained NRI plugins",
+  "homepage": [
+    "https://github.com/containers/nri-plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balloons",
+    "config-manager",
+    "memory-policy",
+    "memory-qos",
+    "memtierd",
+    "mpolset",
+    "sgx-epc",
+    "template",
+    "test06-fuzz",
+    "topology-aware",
+    "udev-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/nri-plugins/archive/ce84ee1f09296cf4d5d35f2acdd5eda60891c09a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ce84ee1-250619T230008",
+  "version_upstream": "",
+  "bsum": "b7ac01afad72d6dfb9e8abcc180ec909d977f6ec7ef5becd7b5c851589bbcea8",
+  "build_date": "2025-06-20T08:15:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773737205",
+  "build_id": "15773737205",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/topology-aware?tag=HEAD-ce84ee1-250619T230008-x86_64-Linux&download=topology-aware.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/topology-aware?tag=HEAD-ce84ee1-250619T230008-x86_64-Linux&download=topology-aware",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/nri-plugins/topology-aware:HEAD-ce84ee1-250619T230008-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/nri-plugins/topology-aware",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/topology-aware?tag=HEAD-ce84ee1-250619T230008-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "914354ce10872dd92cdf56c4e0b48618278c3333d14ede400e5fbff965f1101e",
+  "size": "53 MB",
+  "size_raw": "55113568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
