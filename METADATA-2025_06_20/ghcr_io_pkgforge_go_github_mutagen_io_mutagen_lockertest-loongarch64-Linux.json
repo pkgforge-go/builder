@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lockertest",
+  "pkg_family": "mutagen",
+  "pkg_id": "lockertest#github.com_mutagen_io_mutagen",
+  "pkg_name": "lockertest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mutagen-io/mutagen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast file synchronization and network forwarding for remote development",
+  "homepage": [
+    "https://github.com/mutagen-io/mutagen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci",
+    "httpdemo",
+    "lockertest",
+    "mutagen",
+    "mutagen-agent",
+    "mutagen-sidecar",
+    "scan_bench",
+    "scripts",
+    "watch_demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mutagen-io/mutagen/archive/03c982a3a34e1dfe496f4bcd4ee7ced34307db68.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-03c982a-250224T154040",
+  "version_upstream": "",
+  "bsum": "aec66d12dd5265dcd37404db1d5adb63ac52f6ed5b9225d63fa899ff1bdb7aa0",
+  "build_date": "2025-06-20T23:30:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789130307",
+  "build_id": "15789130307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/lockertest?tag=HEAD-03c982a-250224T154040-loongarch64-Linux&download=lockertest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/lockertest?tag=HEAD-03c982a-250224T154040-loongarch64-Linux&download=lockertest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mutagen-io/mutagen/lockertest:HEAD-03c982a-250224T154040-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mutagen-io/mutagen/lockertest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/lockertest?tag=HEAD-03c982a-250224T154040-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78852ff5dafcb52eaa30e2dd516b69fb3f19a130d866e56db5a00d0593e93c96",
+  "size": "2.4 MB",
+  "size_raw": "2477760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
