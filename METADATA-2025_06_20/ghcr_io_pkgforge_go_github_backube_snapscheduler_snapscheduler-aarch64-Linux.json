@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "snapscheduler",
+  "pkg_family": "snapscheduler",
+  "pkg_id": "snapscheduler#github.com_backube_snapscheduler",
+  "pkg_name": "snapscheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/backube/snapscheduler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scheduled snapshots for Kubernetes persistent volumes",
+  "homepage": [
+    "https://github.com/backube/snapscheduler"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "snapscheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/backube/snapscheduler/archive/7334cc8b70881286ca2e22d687cd2dde8754bee3.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "data-protection",
+    "kubernetes",
+    "kubernetes-operator",
+    "persistent-volume",
+    "scheduled-snapshots",
+    "storage"
+  ],
+  "version": "HEAD-7334cc8-250620T102243",
+  "version_upstream": "",
+  "bsum": "11940eee9ab586a49b2f39836969213c0f854b0dc03271fd09276eb4e0b4bb95",
+  "build_date": "2025-06-20T17:20:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782959763",
+  "build_id": "15782959763",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/backube/snapscheduler/snapscheduler?tag=HEAD-7334cc8-250620T102243-aarch64-Linux&download=snapscheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/backube/snapscheduler/snapscheduler?tag=HEAD-7334cc8-250620T102243-aarch64-Linux&download=snapscheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/backube/snapscheduler/snapscheduler:HEAD-7334cc8-250620T102243-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/backube/snapscheduler/snapscheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/backube/snapscheduler/snapscheduler?tag=HEAD-7334cc8-250620T102243-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c41b99b48a8c1beaa151bcf4c055a5ab61ffb375456f9341d56ea251ee3b5cd",
+  "size": "43 MB",
+  "size_raw": "44227968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
