@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "grpc-federation-language-server",
+  "pkg_family": "grpc-federation",
+  "pkg_id": "grpc-federation-language-server#github.com_mercari_grpc_federation",
+  "pkg_name": "grpc-federation-language-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mercari/grpc-federation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gRPC Federation generates a gRPC server by writing a custom option in Protocol Buffers",
+  "homepage": [
+    "https://github.com/mercari/grpc-federation"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-federation-generator",
+    "grpc-federation-language-server",
+    "grpc-federation-linter",
+    "grpc-federation-mcp-server",
+    "protoc-gen-grpc-federation"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mercari/grpc-federation/archive/c2be712da84b46719dcf3e4d3c2917161df584d3.tar.gz"
+  ],
+  "tag": [
+    "cel",
+    "federation",
+    "go",
+    "golang",
+    "golang-library",
+    "grpc",
+    "protobuf",
+    "protocol-buffers",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-c2be712-250618T193501",
+  "version_upstream": "",
+  "bsum": "2ed44537bacf459e8a9dc2122f458b3ba0bdfc7dacfb19af0ca5769f5f225682",
+  "build_date": "2025-06-20T22:04:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788295754",
+  "build_id": "15788295754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-language-server?tag=HEAD-c2be712-250618T193501-loongarch64-Linux&download=grpc-federation-language-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "353",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-language-server?tag=HEAD-c2be712-250618T193501-loongarch64-Linux&download=grpc-federation-language-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mercari/grpc-federation/grpc-federation-language-server:HEAD-c2be712-250618T193501-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mercari/grpc-federation/grpc-federation-language-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercari/grpc-federation/grpc-federation-language-server?tag=HEAD-c2be712-250618T193501-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bfb0900f5662566d60582f59d11af0e2d82de09caffa01ed7f06fa1b4d873f1",
+  "size": "22 MB",
+  "size_raw": "22174272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
