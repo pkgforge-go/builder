@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "telnet",
+  "pkg_family": "anyproxy",
+  "pkg_id": "telnet#github.com_keminar_anyproxy",
+  "pkg_name": "telnet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/keminar/anyproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A transparent proxy written in Golang.",
+  "homepage": [
+    "https://github.com/keminar/anyproxy"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anyproxy",
+    "chan",
+    "parseurl",
+    "stress",
+    "telnet",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/keminar/anyproxy/archive/8fb25d1512710ad5411e29e774677f3cb04cc9b0.tar.gz"
+  ],
+  "tag": [
+    "anyproxy",
+    "charles",
+    "golang",
+    "http",
+    "https",
+    "proxifier",
+    "tcp"
+  ],
+  "version": "HEAD-8fb25d1-250324T141836",
+  "version_upstream": "",
+  "bsum": "8d23f0c8122668ea33676f2a81ffbd6463333519de0c13c3c97a1b412106c2c6",
+  "build_date": "2025-06-20T14:46:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780415453",
+  "build_id": "15780415453",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keminar/anyproxy/telnet?tag=HEAD-8fb25d1-250324T141836-aarch64-Linux&download=telnet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keminar/anyproxy/telnet?tag=HEAD-8fb25d1-250324T141836-aarch64-Linux&download=telnet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/keminar/anyproxy/telnet:HEAD-8fb25d1-250324T141836-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/keminar/anyproxy/telnet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keminar/anyproxy/telnet?tag=HEAD-8fb25d1-250324T141836-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d457fd2045d244a28db26d1e5022ca33bd44cf49cde1c7a1a84dedb1a4f46908",
+  "size": "5.5 MB",
+  "size_raw": "5707776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
