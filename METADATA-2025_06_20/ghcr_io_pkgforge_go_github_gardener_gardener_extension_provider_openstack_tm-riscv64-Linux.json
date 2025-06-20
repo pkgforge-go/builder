@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tm",
+  "pkg_family": "gardener-extension-provider-openstack",
+  "pkg_id": "tm#github.com_gardener_gardener_extension_provider_openstack",
+  "pkg_name": "tm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-openstack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the OpenStack cloud provider _https://openstack.org_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-openstack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-openstack",
+    "gardener-extension-provider-openstack",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-openstack/archive/e25019eea51f4278ca87dac83cd7fd88d2de7ad4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e25019e-250620T153730",
+  "version_upstream": "",
+  "bsum": "0167ee9e831f3254c829d898e5f662d50716975e9207f66afe58907e7d1d9b6a",
+  "build_date": "2025-06-20T18:23:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784315338",
+  "build_id": "15784315338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-openstack/tm?tag=HEAD-e25019e-250620T153730-riscv64-Linux&download=tm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-openstack/tm?tag=HEAD-e25019e-250620T153730-riscv64-Linux&download=tm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-openstack/tm:HEAD-e25019e-250620T153730-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-openstack/tm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-openstack/tm?tag=HEAD-e25019e-250620T153730-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "62f0dfecd5cfd5ce2eed60031e7aedff6c3e8df0b39f87b1f19f6bd2077eb2a6",
+  "size": "13 MB",
+  "size_raw": "13583928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
