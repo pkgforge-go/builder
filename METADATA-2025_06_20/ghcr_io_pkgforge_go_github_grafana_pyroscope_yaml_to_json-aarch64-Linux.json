@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "yaml-to-json",
+  "pkg_family": "pyroscope",
+  "pkg_id": "yaml-to-json#github.com_grafana_pyroscope",
+  "pkg_name": "yaml-to-json",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/pyroscope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+  "homepage": [
+    "https://github.com/grafana/pyroscope"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc-generator",
+    "migrating-from-standard-pprof",
+    "profilecli",
+    "pyroscope",
+    "pyroscope-tools",
+    "update-contributors",
+    "yaml-to-json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/pyroscope/archive/06bcfc6280270941f4f3b27ebfe17f5f51639b7a.tar.gz"
+  ],
+  "tag": [
+    "continuous-profiling",
+    "developer-tools",
+    "devops",
+    "find-bottlenecks",
+    "golang",
+    "hacktoberfest",
+    "linux",
+    "monitoring",
+    "observability",
+    "performance",
+    "profiling",
+    "pyroscope",
+    "python",
+    "ruby"
+  ],
+  "version": "HEAD-06bcfc6-250620T201508",
+  "version_upstream": "",
+  "bsum": "2d55473725c4e6c4b44123f5aefcebcbc386a3671b65e2f730163baa29b2d7f5",
+  "build_date": "2025-06-20T18:43:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784421455",
+  "build_id": "15784421455",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/yaml-to-json?tag=HEAD-06bcfc6-250620T201508-aarch64-Linux&download=yaml-to-json.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10657",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/yaml-to-json?tag=HEAD-06bcfc6-250620T201508-aarch64-Linux&download=yaml-to-json",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/pyroscope/yaml-to-json:HEAD-06bcfc6-250620T201508-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/pyroscope/yaml-to-json",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/yaml-to-json?tag=HEAD-06bcfc6-250620T201508-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "221b8549aa22ac2440577042ce1d13a72e7478daff23a16f876d073b5dba6b53",
+  "size": "2.6 MB",
+  "size_raw": "2685016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
