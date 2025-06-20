@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "redka",
+  "pkg_family": "redka",
+  "pkg_id": "redka#github.com_nalgeon_redka",
+  "pkg_name": "redka",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nalgeon/redka",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Redis re-implemented with SQLite",
+  "homepage": [
+    "https://github.com/nalgeon/redka"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "redka"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nalgeon/redka/archive/97c301062cd4b6cbac6bdf2209fd0c64c17923f2.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "key-value",
+    "redis",
+    "sqlite"
+  ],
+  "version": "HEAD-97c3010-250515T234009",
+  "version_upstream": "",
+  "bsum": "9a161fd555adac84634eb0c07f0a3d2aa46846b7868436367a0919811eb4e238",
+  "build_date": "2025-06-20T23:38:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789203250",
+  "build_id": "15789203250",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nalgeon/redka/redka?tag=HEAD-97c3010-250515T234009-aarch64-Linux&download=redka.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3785",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nalgeon/redka/redka?tag=HEAD-97c3010-250515T234009-aarch64-Linux&download=redka",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nalgeon/redka/redka:HEAD-97c3010-250515T234009-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nalgeon/redka/redka",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nalgeon/redka/redka?tag=HEAD-97c3010-250515T234009-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b037a658624bec322d771f88d3d1d2622dc19391905d61f626b27e877fd6a94",
+  "size": "9.2 MB",
+  "size_raw": "9638112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
