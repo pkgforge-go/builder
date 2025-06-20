@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "notification-manager",
+  "pkg_id": "operator#github.com_kubesphere_notification_manager",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubesphere/notification-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s native notification management with multi-tenancy support",
+  "homepage": [
+    "https://github.com/kubesphere/notification-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "notification-manager",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubesphere/notification-manager/archive/85e761d610878ba33593170d2752129e4006aad1.tar.gz"
+  ],
+  "tag": [
+    "alertmanager",
+    "kubernetes"
+  ],
+  "version": "HEAD-85e761d-250620T172247",
+  "version_upstream": "",
+  "bsum": "31d8b9623bb187c6b873883a412f64816b070fa39be65ab432c2fad29bb976e5",
+  "build_date": "2025-06-20T19:45:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785747497",
+  "build_id": "15785747497",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/notification-manager/operator?tag=HEAD-85e761d-250620T172247-riscv64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "233",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/notification-manager/operator?tag=HEAD-85e761d-250620T172247-riscv64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubesphere/notification-manager/operator:HEAD-85e761d-250620T172247-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubesphere/notification-manager/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/notification-manager/operator?tag=HEAD-85e761d-250620T172247-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee96d26e70f7e427c842f6371f4df2587743cb7274a1a0b09b97d0e2d13c7f69",
+  "size": "37 MB",
+  "size_raw": "38753528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
