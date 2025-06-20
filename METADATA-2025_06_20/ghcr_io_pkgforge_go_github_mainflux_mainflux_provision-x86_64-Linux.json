@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "provision",
+  "pkg_family": "mainflux",
+  "pkg_id": "provision#github.com_mainflux_mainflux",
+  "pkg_name": "provision",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mainflux/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/mainflux/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bootstrap",
+    "cassandra-reader",
+    "cassandra-writer",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "influxdb-reader",
+    "influxdb-writer",
+    "lora",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "opcua",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "twins",
+    "users",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mainflux/mainflux/archive/35230a90bfbe8699c0503ddaebbd540d8d6bb410.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-35230a9-240809T222515",
+  "version_upstream": "",
+  "bsum": "30f481fe8893edb0bbfe417a32ab744df6ac4dd3cb64cc7d55683b4863911747",
+  "build_date": "2025-06-20T21:33:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787365567",
+  "build_id": "15787365567",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/provision?tag=HEAD-35230a9-240809T222515-x86_64-Linux&download=provision.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/provision?tag=HEAD-35230a9-240809T222515-x86_64-Linux&download=provision",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainflux/mainflux/provision:HEAD-35230a9-240809T222515-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainflux/mainflux/provision",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/provision?tag=HEAD-35230a9-240809T222515-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "753ef9cbb44bc33b4a52ae3becdf516d9034871d8e83244e6ad7e926e5953892",
+  "size": "15 MB",
+  "size_raw": "15305312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

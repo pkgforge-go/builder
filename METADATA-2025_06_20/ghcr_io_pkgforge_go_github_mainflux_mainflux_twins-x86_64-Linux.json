@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "twins",
+  "pkg_family": "mainflux",
+  "pkg_id": "twins#github.com_mainflux_mainflux",
+  "pkg_name": "twins",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mainflux/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/mainflux/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bootstrap",
+    "cassandra-reader",
+    "cassandra-writer",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "influxdb-reader",
+    "influxdb-writer",
+    "lora",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "opcua",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "twins",
+    "users",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mainflux/mainflux/archive/35230a90bfbe8699c0503ddaebbd540d8d6bb410.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-35230a9-240809T222515",
+  "version_upstream": "",
+  "bsum": "ae53e851f121c1d091a76fce2e15c7e1d3e037d2f338b28fffd2e68bc2ca77bd",
+  "build_date": "2025-06-20T21:34:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787365567",
+  "build_id": "15787365567",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/twins?tag=HEAD-35230a9-240809T222515-x86_64-Linux&download=twins.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/twins?tag=HEAD-35230a9-240809T222515-x86_64-Linux&download=twins",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainflux/mainflux/twins:HEAD-35230a9-240809T222515-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainflux/mainflux/twins",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainflux/mainflux/twins?tag=HEAD-35230a9-240809T222515-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d486d676a78de1edc054f6c401be962b5ba50c4430f7902393017e7370674f4",
+  "size": "29 MB",
+  "size_raw": "30288832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
