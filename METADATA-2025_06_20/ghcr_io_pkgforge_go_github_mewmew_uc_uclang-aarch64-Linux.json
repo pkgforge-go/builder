@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "uclang",
+  "pkg_family": "uc",
+  "pkg_id": "uclang#github.com_mewmew_uc",
+  "pkg_name": "uclang",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mewmew/uc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A compiler for the µC language.",
+  "homepage": [
+    "https://github.com/mewmew/uc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "3rdpartycompile",
+    "uclang",
+    "ulex",
+    "uparse",
+    "usem"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mewmew/uc/archive/5b0a9c42b013c0f2f0c922f0ea454dabe1ea05bf.tar.gz"
+  ],
+  "tag": [
+    "c",
+    "compiler",
+    "golang",
+    "llvm-ir"
+  ],
+  "version": "HEAD-5b0a9c4-210325T014626",
+  "version_upstream": "",
+  "bsum": "82b27081085be98a1443bf4ae2d8602d87ecc3193bf174b0a81494fe9dd519e9",
+  "build_date": "2025-06-20T22:06:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788312421",
+  "build_id": "15788312421",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mewmew/uc/uclang?tag=HEAD-5b0a9c4-210325T014626-aarch64-Linux&download=uclang.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mewmew/uc/uclang?tag=HEAD-5b0a9c4-210325T014626-aarch64-Linux&download=uclang",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mewmew/uc/uclang:HEAD-5b0a9c4-210325T014626-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mewmew/uc/uclang",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mewmew/uc/uclang?tag=HEAD-5b0a9c4-210325T014626-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "afc767d4ce8db38def2170a006f3da308297e7c7bb8e952648de8f64cc93d5ed",
+  "size": "3.3 MB",
+  "size_raw": "3422168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
