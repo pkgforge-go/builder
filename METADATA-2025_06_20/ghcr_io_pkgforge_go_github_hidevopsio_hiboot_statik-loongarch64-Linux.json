@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "statik",
+  "pkg_family": "hiboot",
+  "pkg_id": "statik#github.com_hidevopsio_hiboot",
+  "pkg_name": "statik",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hidevopsio/hiboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "hiboot is a high performance web and cli application framework with dependency injection support",
+  "homepage": [
+    "https://github.com/hidevopsio/hiboot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "autoconfig",
+    "crypto",
+    "depinj",
+    "greeting-server",
+    "hello",
+    "helloworld",
+    "jwt",
+    "middleware",
+    "router",
+    "simple-server",
+    "statik",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hidevopsio/hiboot/archive/22ce8a9ec8036736d752bf7b9984d8b344ed287c.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "autoconfiguration",
+    "cli",
+    "cloudnative",
+    "command",
+    "command-line-tool",
+    "container",
+    "dependency-injection",
+    "di",
+    "golang",
+    "ioc",
+    "mvc",
+    "web",
+    "webapp"
+  ],
+  "version": "HEAD-22ce8a9-250528T212608",
+  "version_upstream": "v1.8.2",
+  "bsum": "8905fae7cefaeab22ebc4dd9cd11d9bfe1f280c4d086749ec4660ceae8e46717",
+  "build_date": "2025-06-20T06:23:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771927268",
+  "build_id": "15771927268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/statik?tag=HEAD-22ce8a9-250528T212608-loongarch64-Linux&download=statik.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/statik?tag=HEAD-22ce8a9-250528T212608-loongarch64-Linux&download=statik",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hidevopsio/hiboot/statik:HEAD-22ce8a9-250528T212608-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hidevopsio/hiboot/statik",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hidevopsio/hiboot/statik?tag=HEAD-22ce8a9-250528T212608-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ccf1038f7d0cc69d99c56a4eb6b09285cb1ff9d1da16cb0397c42052bcc4a3a",
+  "size": "17 MB",
+  "size_raw": "16783440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
