@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bed",
+  "pkg_family": "bed",
+  "pkg_id": "bed#github.com_itchyny_bed",
+  "pkg_name": "bed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itchyny/bed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Binary editor written in Go",
+  "homepage": [
+    "https://github.com/itchyny/bed"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itchyny/bed/archive/506f3317facca1585dc7409e3e16f37cd6563ca9.tar.gz"
+  ],
+  "tag": [
+    "binary",
+    "golang",
+    "hex-editor"
+  ],
+  "version": "HEAD-506f331-241201T180001",
+  "version_upstream": "v0.2.8",
+  "bsum": "5a67e9191e1bc80bc5c3d7ed483e44e2c67a5eb1d62cd1b832f5d204f5fda909",
+  "build_date": "2025-06-20T12:54:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779399658",
+  "build_id": "15779399658",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itchyny/bed/bed?tag=HEAD-506f331-241201T180001-riscv64-Linux&download=bed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1299",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itchyny/bed/bed?tag=HEAD-506f331-241201T180001-riscv64-Linux&download=bed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itchyny/bed/bed:HEAD-506f331-241201T180001-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itchyny/bed/bed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itchyny/bed/bed?tag=HEAD-506f331-241201T180001-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "942e72fc5e18ae8517eee995abd56ee5a24f21aba5ad1374a9a63a349f8818de",
+  "size": "3.4 MB",
+  "size_raw": "3544616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
