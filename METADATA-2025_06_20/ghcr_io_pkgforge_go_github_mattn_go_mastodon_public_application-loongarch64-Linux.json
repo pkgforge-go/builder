@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "public-application",
+  "pkg_family": "go-mastodon",
+  "pkg_id": "public-application#github.com_mattn_go_mastodon",
+  "pkg_name": "public-application",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mattn/go-mastodon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "mastodon client for golang",
+  "homepage": [
+    "https://github.com/mattn/go-mastodon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "public-application",
+    "user-credentials",
+    "user-oauth-authorization"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mattn/go-mastodon/archive/6efc40b8f8029c38be08215233405cfd0cfbf67d.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "mastodon"
+  ],
+  "version": "HEAD-6efc40b-250511T215006",
+  "version_upstream": "",
+  "bsum": "51967972ecaf30bf372b65361505c4d1c07cccbeb76eb997ff336c3c3baa8e3c",
+  "build_date": "2025-06-20T21:50:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787979266",
+  "build_id": "15787979266",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattn/go-mastodon/public-application?tag=HEAD-6efc40b-250511T215006-loongarch64-Linux&download=public-application.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "622",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattn/go-mastodon/public-application?tag=HEAD-6efc40b-250511T215006-loongarch64-Linux&download=public-application",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mattn/go-mastodon/public-application:HEAD-6efc40b-250511T215006-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mattn/go-mastodon/public-application",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattn/go-mastodon/public-application?tag=HEAD-6efc40b-250511T215006-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6dd8abcdf84efe9f6bc9462d684ae73efcdef99c3b16d2fba3aa98193bff2802",
+  "size": "6.1 MB",
+  "size_raw": "6298720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
