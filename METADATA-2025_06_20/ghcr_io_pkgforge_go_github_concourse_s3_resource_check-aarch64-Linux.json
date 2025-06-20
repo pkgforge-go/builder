@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "s3-resource",
+  "pkg_id": "check#github.com_concourse_s3_resource",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/s3-resource",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Concourse resource for interacting with AWS S3",
+  "homepage": [
+    "https://github.com/concourse/s3-resource"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "in",
+    "out"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/s3-resource/archive/764f37489b5fcda00a70a16122891c388d4102e3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-764f374-250619T112314",
+  "version_upstream": "",
+  "bsum": "4d39b053fa5638cb54cbcdd822b8212e1b78e51abce5f4a06bc7fe1d21e87239",
+  "build_date": "2025-06-20T08:10:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773704687",
+  "build_id": "15773704687",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/s3-resource/check?tag=HEAD-764f374-250619T112314-aarch64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "64",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/s3-resource/check?tag=HEAD-764f374-250619T112314-aarch64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/s3-resource/check:HEAD-764f374-250619T112314-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/s3-resource/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/s3-resource/check?tag=HEAD-764f374-250619T112314-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17c4d6291b7fea381332c95380aaa27a47f2acdffb01b7d6e870b4d5620eebec",
+  "size": "9.4 MB",
+  "size_raw": "9758048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
