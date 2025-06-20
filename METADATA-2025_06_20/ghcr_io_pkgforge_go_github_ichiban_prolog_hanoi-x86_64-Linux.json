@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hanoi",
+  "pkg_family": "prolog",
+  "pkg_id": "hanoi#github.com_ichiban_prolog",
+  "pkg_name": "hanoi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ichiban/prolog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The only reasonable scripting engine for Go.",
+  "homepage": [
+    "https://github.com/ichiban/prolog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "1pl",
+    "call_go_from_prolog",
+    "dcg",
+    "embed_prolog_into_go",
+    "hanoi",
+    "initialization",
+    "sandboxing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ichiban/prolog/archive/6375564ab31421106e3e1d727e4c0274750cfcd7.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "interpreter",
+    "logic-programming",
+    "prolog"
+  ],
+  "version": "HEAD-6375564-241015T100855",
+  "version_upstream": "v1.2.2",
+  "bsum": "a6abc95eb44cae6f0b38db9cad2fd072580d432c0929d5d78553a00ce749a6cc",
+  "build_date": "2025-06-20T06:45:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772315793",
+  "build_id": "15772315793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/hanoi?tag=HEAD-6375564-241015T100855-x86_64-Linux&download=hanoi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "676",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/hanoi?tag=HEAD-6375564-241015T100855-x86_64-Linux&download=hanoi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ichiban/prolog/hanoi:HEAD-6375564-241015T100855-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ichiban/prolog/hanoi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/hanoi?tag=HEAD-6375564-241015T100855-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a3e0ed64a7b999dc7aaa7128ba390b1cd2be2ac954104a1301be7887e760a92",
+  "size": "3.0 MB",
+  "size_raw": "3131384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
