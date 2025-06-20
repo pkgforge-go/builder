@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "status",
+  "pkg_family": "distr",
+  "pkg_id": "status#github.com_glasskube_distr",
+  "pkg_name": "status",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glasskube/distr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+  "homepage": [
+    "https://github.com/glasskube/distr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker",
+    "hub",
+    "kubernetes",
+    "mcp",
+    "status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/glasskube/distr/archive/bc799baccc82e06dffcaf9c00a116db62844e832.tar.gz"
+  ],
+  "tag": [
+    "angular",
+    "cloud",
+    "distr",
+    "docker-compose",
+    "glasskube",
+    "go",
+    "golang",
+    "kubernetes",
+    "on-prem",
+    "on-premises",
+    "software-distribution"
+  ],
+  "version": "HEAD-bc799ba-250620T030952",
+  "version_upstream": "",
+  "bsum": "dce1bf79bb35ed6780324d412088a9e04bf3ba03c3f2b76f708df1a11efc4c4b",
+  "build_date": "2025-06-20T09:12:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774392434",
+  "build_id": "15774392434",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/status?tag=HEAD-bc799ba-250620T030952-loongarch64-Linux&download=status.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "613",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/status?tag=HEAD-bc799ba-250620T030952-loongarch64-Linux&download=status",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glasskube/distr/status:HEAD-bc799ba-250620T030952-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glasskube/distr/status",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/status?tag=HEAD-bc799ba-250620T030952-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d73ee9c4203741b2454be1e6a4e80dc49c4d2b7da68d32c4e626d2e9fe2d22dc",
+  "size": "34 MB",
+  "size_raw": "35445216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
