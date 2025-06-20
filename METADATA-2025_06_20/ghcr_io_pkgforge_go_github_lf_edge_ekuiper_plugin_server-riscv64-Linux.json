@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "plugin_server",
+  "pkg_family": "ekuiper",
+  "pkg_id": "plugin_server#github.com_lf_edge_ekuiper",
+  "pkg_name": "plugin_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lf-edge/ekuiper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lightweight data stream processing engine for IoT edge",
+  "homepage": [
+    "https://github.com/lf-edge/ekuiper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "edgex",
+    "kuiper",
+    "kuiperd",
+    "multiple_rules",
+    "plugin_server",
+    "redis",
+    "service",
+    "sql",
+    "sub"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lf-edge/ekuiper/archive/b5045351c108edef210e22a4f8b4a87ccbeef1e9.tar.gz"
+  ],
+  "tag": [
+    "edge",
+    "edge-analytics",
+    "edge-computing",
+    "edge-streaming",
+    "hacktoberfest",
+    "iot",
+    "rule-engine",
+    "sql"
+  ],
+  "version": "HEAD-b504535-250620T140632",
+  "version_upstream": "",
+  "bsum": "3a354db7902ce3bb7213a824b0a793fcced51ce16b2a1655cdc8820797aeb5b1",
+  "build_date": "2025-06-20T20:33:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786336635",
+  "build_id": "15786336635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/ekuiper/plugin_server?tag=HEAD-b504535-250620T140632-riscv64-Linux&download=plugin_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1600",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/ekuiper/plugin_server?tag=HEAD-b504535-250620T140632-riscv64-Linux&download=plugin_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lf-edge/ekuiper/plugin_server:HEAD-b504535-250620T140632-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lf-edge/ekuiper/plugin_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/ekuiper/plugin_server?tag=HEAD-b504535-250620T140632-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c6788d3211b9c8ade64543818b47ad4ce354ca9b4213a2b19aceba630a1a884c",
+  "size": "41 MB",
+  "size_raw": "41963192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
