@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "extract",
+  "pkg_family": "iso9660",
+  "pkg_id": "extract#github.com_kdomanski_iso9660",
+  "pkg_name": "extract",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kdomanski/iso9660",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A go library for reading and creating ISO9660 images",
+  "homepage": [
+    "https://github.com/kdomanski/iso9660"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "extract",
+    "isowrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kdomanski/iso9660/archive/08dd38cef6d88b5f983128785ae2908ed2636e20.tar.gz"
+  ],
+  "tag": [
+    "cdrom",
+    "iso",
+    "iso9660"
+  ],
+  "version": "HEAD-08dd38c-231221T145711",
+  "version_upstream": "",
+  "bsum": "f5542c7dec3b44007cdd69947f3408dd4faec53038a3c9febdebf909aa867552",
+  "build_date": "2025-06-20T14:38:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780347242",
+  "build_id": "15780347242",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdomanski/iso9660/extract?tag=HEAD-08dd38c-231221T145711-x86_64-Linux&download=extract.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "274",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdomanski/iso9660/extract?tag=HEAD-08dd38c-231221T145711-x86_64-Linux&download=extract",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kdomanski/iso9660/extract:HEAD-08dd38c-231221T145711-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kdomanski/iso9660/extract",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdomanski/iso9660/extract?tag=HEAD-08dd38c-231221T145711-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9f7e2ee2c24c08c939ddff9da358b151d921b724b7baf485c21e71771ccb22b",
+  "size": "1.9 MB",
+  "size_raw": "1913336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
