@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "egress-cni-plugin",
+  "pkg_family": "amazon-vpc-cni-k8s",
+  "pkg_id": "egress-cni-plugin#github.com_aws_amazon_vpc_cni_k8s",
+  "pkg_name": "egress-cni-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-vpc-cni-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+  "homepage": [
+    "https://github.com/aws/amazon-vpc-cni-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-k8s-agent",
+    "aws-vpc-cni",
+    "aws-vpc-cni-init",
+    "cni-metrics-helper",
+    "egress-cni-plugin",
+    "grpc-health-probe",
+    "routed-eni-cni-plugin",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-vpc-cni-k8s/archive/1c945a54c23fbdc81087abda1517b1f1cabafae3.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "kubernetes",
+    "pod-networking"
+  ],
+  "version": "HEAD-1c945a5-250619T195141",
+  "version_upstream": "",
+  "bsum": "1d2aa4d56eb76dc2dd7cf4cb2b38e4fa415d17f259acc360c552fb4cff2ab6be",
+  "build_date": "2025-06-20T07:54:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773343865",
+  "build_id": "15773343865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/egress-cni-plugin?tag=HEAD-1c945a5-250619T195141-loongarch64-Linux&download=egress-cni-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/egress-cni-plugin?tag=HEAD-1c945a5-250619T195141-loongarch64-Linux&download=egress-cni-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/egress-cni-plugin:HEAD-1c945a5-250619T195141-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/egress-cni-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/egress-cni-plugin?tag=HEAD-1c945a5-250619T195141-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7fc55b86e9abd5f64112388cad4bfa01578198a39a9d558176b2d93661acc1b",
+  "size": "5.8 MB",
+  "size_raw": "6036448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

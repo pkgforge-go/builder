@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "routed-eni-cni-plugin",
+  "pkg_family": "amazon-vpc-cni-k8s",
+  "pkg_id": "routed-eni-cni-plugin#github.com_aws_amazon_vpc_cni_k8s",
+  "pkg_name": "routed-eni-cni-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-vpc-cni-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+  "homepage": [
+    "https://github.com/aws/amazon-vpc-cni-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-k8s-agent",
+    "aws-vpc-cni",
+    "aws-vpc-cni-init",
+    "cni-metrics-helper",
+    "egress-cni-plugin",
+    "grpc-health-probe",
+    "routed-eni-cni-plugin",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-vpc-cni-k8s/archive/1c945a54c23fbdc81087abda1517b1f1cabafae3.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "kubernetes",
+    "pod-networking"
+  ],
+  "version": "HEAD-1c945a5-250619T195141",
+  "version_upstream": "",
+  "bsum": "0a00262cbd26ab54cb10c6f556160e8c17509ba17cbdc65c1285433d734f59b7",
+  "build_date": "2025-06-20T07:53:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773343865",
+  "build_id": "15773343865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/routed-eni-cni-plugin?tag=HEAD-1c945a5-250619T195141-loongarch64-Linux&download=routed-eni-cni-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/routed-eni-cni-plugin?tag=HEAD-1c945a5-250619T195141-loongarch64-Linux&download=routed-eni-cni-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/routed-eni-cni-plugin:HEAD-1c945a5-250619T195141-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/routed-eni-cni-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/routed-eni-cni-plugin?tag=HEAD-1c945a5-250619T195141-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c424e61990f7d41da56abc227349dfc55e04091f37384a259e11f631609455c2",
+  "size": "13 MB",
+  "size_raw": "13625760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
