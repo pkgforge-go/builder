@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cloner",
+  "pkg_family": "golangci-lint",
+  "pkg_id": "cloner#github.com_golangci_golangci_lint",
+  "pkg_name": "cloner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golangci/golangci-lint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast linters runner for Go",
+  "homepage": [
+    "https://github.com/golangci/golangci-lint"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloner",
+    "copy_jsonschema",
+    "print_ast",
+    "unused_exported"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golangci/golangci-lint/archive/d82cebe3744473336621bbcb120ba656ec021c0a.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "go",
+    "golang",
+    "golangci-lint",
+    "linter"
+  ],
+  "version": "HEAD-d82cebe-250619T133630",
+  "version_upstream": "",
+  "bsum": "5186839b45582d510be12ed3296905213ff74b4a168c0192cf0ce9910cd2dd24",
+  "build_date": "2025-06-20T04:16:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770631597",
+  "build_id": "15770631597",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golangci/golangci-lint/cloner?tag=HEAD-d82cebe-250619T133630-aarch64-Linux&download=cloner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17174",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golangci/golangci-lint/cloner?tag=HEAD-d82cebe-250619T133630-aarch64-Linux&download=cloner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golangci/golangci-lint/cloner:HEAD-d82cebe-250619T133630-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golangci/golangci-lint/cloner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golangci/golangci-lint/cloner?tag=HEAD-d82cebe-250619T133630-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44699c3ce84b52249ad19a1f1de8aeac17a91db443d561e6bbab3ac566476045",
+  "size": "6.0 MB",
+  "size_raw": "6267128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
