@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dynamic_path",
+  "pkg_family": "mcp-go",
+  "pkg_id": "dynamic_path#github.com_mark3labs_mcp_go",
+  "pkg_name": "dynamic_path",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mark3labs/mcp-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of the Model Context Protocol _MCP_, enabling seamless integration between LLM applications and external data sources and tools.",
+  "homepage": [
+    "https://github.com/mark3labs/mcp-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "custom_context",
+    "dynamic_path",
+    "everything",
+    "filesystem_stdio_client",
+    "gen",
+    "in_process",
+    "oauth_client",
+    "simple_client",
+    "typed_tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mark3labs/mcp-go/archive/0fdb1974c5728a74ae061e650d25bf90c5c43437.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0fdb197-250619T171331",
+  "version_upstream": "",
+  "bsum": "51d9df5dbab8bb116acba6c5eb21f1b3c1b88934ecb6cc1b4bf8c5a5a3ff8e56",
+  "build_date": "2025-06-20T21:36:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787839647",
+  "build_id": "15787839647",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcp-go/dynamic_path?tag=HEAD-0fdb197-250619T171331-loongarch64-Linux&download=dynamic_path.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5926",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcp-go/dynamic_path?tag=HEAD-0fdb197-250619T171331-loongarch64-Linux&download=dynamic_path",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mark3labs/mcp-go/dynamic_path:HEAD-0fdb197-250619T171331-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mark3labs/mcp-go/dynamic_path",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcp-go/dynamic_path?tag=HEAD-0fdb197-250619T171331-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d81809064e12b496049ec42fdbbb9e96564e1b623fd079c68bdac9126fb9d5dc",
+  "size": "6.6 MB",
+  "size_raw": "6900736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
