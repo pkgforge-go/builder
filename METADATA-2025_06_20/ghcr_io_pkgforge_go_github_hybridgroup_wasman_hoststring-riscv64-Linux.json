@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hoststring",
+  "pkg_family": "wasman",
+  "pkg_id": "hoststring#github.com_hybridgroup_wasman",
+  "pkg_name": "hoststring",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hybridgroup/wasman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Another wasm interpreter engine for gophers based on pure golang",
+  "homepage": [
+    "https://github.com/hybridgroup/wasman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hostbytes",
+    "hoststring",
+    "log",
+    "numeric",
+    "wasman",
+    "wasman-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hybridgroup/wasman/archive/ce1ea6b618348198afb2181c6668fa674879912d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ce1ea6b-240304T150329",
+  "version_upstream": "",
+  "bsum": "8781c6b1b78a5e6a4eeea0ad18c5744231d67726960e21b10e32e05df50d230e",
+  "build_date": "2025-06-20T06:32:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772118058",
+  "build_id": "15772118058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hybridgroup/wasman/hoststring?tag=HEAD-ce1ea6b-240304T150329-riscv64-Linux&download=hoststring.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hybridgroup/wasman/hoststring?tag=HEAD-ce1ea6b-240304T150329-riscv64-Linux&download=hoststring",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hybridgroup/wasman/hoststring:HEAD-ce1ea6b-240304T150329-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hybridgroup/wasman/hoststring",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hybridgroup/wasman/hoststring?tag=HEAD-ce1ea6b-240304T150329-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3bc84e378419d666127e9c3dccd881371e82dc92ade20ce5c9629c62837ac79",
+  "size": "1.8 MB",
+  "size_raw": "1849128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
