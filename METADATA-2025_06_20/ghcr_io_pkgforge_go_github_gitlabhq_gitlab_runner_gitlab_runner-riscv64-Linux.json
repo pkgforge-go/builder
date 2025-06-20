@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gitlab-runner",
+  "pkg_family": "gitlab-runner",
+  "pkg_id": "gitlab-runner#github.com_gitlabhq_gitlab_runner",
+  "pkg_name": "gitlab-runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gitlabhq/gitlab-runner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mirror _ Please open new issues in our issue tracker on GitLab.com",
+  "homepage": [
+    "https://github.com/gitlabhq/gitlab-runner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-test-directives",
+    "gitlab-runner",
+    "gitlab-runner-helper",
+    "update-feature-flags-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gitlabhq/gitlab-runner/archive/2587eaffe12ec76749ce859c748b5b8d9c26b266.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2587eaf-250619T075939",
+  "version_upstream": "",
+  "bsum": "ab34ab670c422964714ebee043d9bfa348299dfa4451713398339bb7976ae416",
+  "build_date": "2025-06-20T02:56:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769578325",
+  "build_id": "15769578325",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gitlabhq/gitlab-runner/gitlab-runner?tag=HEAD-2587eaf-250619T075939-riscv64-Linux&download=gitlab-runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "215",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gitlabhq/gitlab-runner/gitlab-runner?tag=HEAD-2587eaf-250619T075939-riscv64-Linux&download=gitlab-runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gitlabhq/gitlab-runner/gitlab-runner:HEAD-2587eaf-250619T075939-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gitlabhq/gitlab-runner/gitlab-runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gitlabhq/gitlab-runner/gitlab-runner?tag=HEAD-2587eaf-250619T075939-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38dec7d4a5064630c06d4cedac5aef9825b19612d291773ed5002bc6e9cdde53",
+  "size": "98 MB",
+  "size_raw": "102512984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
