@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tools",
+  "pkg_family": "kanister",
+  "pkg_id": "tools#github.com_kanisterio_kanister",
+  "pkg_name": "tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "kando",
+    "reposervercontroller",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/ccab82b184a1988c9a5b6d369eeb9ebd31af7b3f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-ccab82b-250619T170847",
+  "version_upstream": "",
+  "bsum": "cce0080049ac1fa32b3ef26444d7fb6d1c82c1932b51a915ef3be26e866eded8",
+  "build_date": "2025-06-20T14:34:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780305345",
+  "build_id": "15780305345",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/tools?tag=HEAD-ccab82b-250619T170847-riscv64-Linux&download=tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/tools?tag=HEAD-ccab82b-250619T170847-riscv64-Linux&download=tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/tools:HEAD-ccab82b-250619T170847-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/tools?tag=HEAD-ccab82b-250619T170847-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3dae42c36318118d1f20e0e260e0797df2ff72cee7fad09835c76963d7412198",
+  "size": "2.1 MB",
+  "size_raw": "2124584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
