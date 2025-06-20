@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "infiniband",
+  "pkg_family": "retina",
+  "pkg_id": "infiniband#github.com_microsoft_retina",
+  "pkg_name": "infiniband",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "captureworkload",
+    "enricher",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "retina-cli",
+    "utsummary"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/586a3a688c488c410f40f4ce78dc99e0ad857e53.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-586a3a6-250619T115102",
+  "version_upstream": "",
+  "bsum": "f4e3fd7eacb97131808afc91dd298802940d73a780ad21250d723c9af86d2729",
+  "build_date": "2025-06-20T22:27:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788360945",
+  "build_id": "15788360945",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/infiniband?tag=HEAD-586a3a6-250619T115102-loongarch64-Linux&download=infiniband.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2980",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/infiniband?tag=HEAD-586a3a6-250619T115102-loongarch64-Linux&download=infiniband",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/infiniband:HEAD-586a3a6-250619T115102-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/infiniband",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/infiniband?tag=HEAD-586a3a6-250619T115102-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a21a0077916e6b7a9f3d70f87c89f240dca4b8ac181a058b3f31325a3ffeb4c6",
+  "size": "22 MB",
+  "size_raw": "22743520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
