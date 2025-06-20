@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "config",
+  "pkg_family": "adx-mon",
+  "pkg_id": "config#github.com_Azure_adx_mon",
+  "pkg_name": "config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/adx-mon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ADX-Mon - Azure Data Explorer based observability platform",
+  "homepage": [
+    "https://github.com/Azure/adx-mon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alerter",
+    "config",
+    "crdgen",
+    "data-gen",
+    "ingestor",
+    "log-load",
+    "operator",
+    "walreader",
+    "write-load"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/adx-mon/archive/93c217e859c96d5f68b70c33b4bf68805741598b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-93c217e-250619T160245",
+  "version_upstream": "",
+  "bsum": "056b7762e050d393cfc4c84d224bf340bbfa03ebba13143ad2a359a96c6f762b",
+  "build_date": "2025-06-20T07:11:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773064027",
+  "build_id": "15773064027",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/config?tag=HEAD-93c217e-250619T160245-x86_64-Linux&download=config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/config?tag=HEAD-93c217e-250619T160245-x86_64-Linux&download=config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/adx-mon/config:HEAD-93c217e-250619T160245-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/adx-mon/config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/config?tag=HEAD-93c217e-250619T160245-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03eb56af483c489ad698c4b3aa02f3d4455b93dd80fa52e56a25fe194b76f3ad",
+  "size": "25 MB",
+  "size_raw": "26024952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
