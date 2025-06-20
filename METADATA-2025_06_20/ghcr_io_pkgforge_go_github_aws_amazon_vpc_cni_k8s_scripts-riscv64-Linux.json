@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "amazon-vpc-cni-k8s",
+  "pkg_id": "scripts#github.com_aws_amazon_vpc_cni_k8s",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-vpc-cni-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+  "homepage": [
+    "https://github.com/aws/amazon-vpc-cni-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-k8s-agent",
+    "aws-vpc-cni",
+    "aws-vpc-cni-init",
+    "cni-metrics-helper",
+    "egress-cni-plugin",
+    "grpc-health-probe",
+    "routed-eni-cni-plugin",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-vpc-cni-k8s/archive/1c945a54c23fbdc81087abda1517b1f1cabafae3.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "kubernetes",
+    "pod-networking"
+  ],
+  "version": "HEAD-1c945a5-250619T195141",
+  "version_upstream": "",
+  "bsum": "1ee72761da306d2d44f583adc82348f4a8db955c9ddb1bcc8df7bbfeaab1acee",
+  "build_date": "2025-06-20T07:53:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773343865",
+  "build_id": "15773343865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/scripts?tag=HEAD-1c945a5-250619T195141-riscv64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/scripts?tag=HEAD-1c945a5-250619T195141-riscv64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/scripts:HEAD-1c945a5-250619T195141-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/scripts?tag=HEAD-1c945a5-250619T195141-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ae6790d500fe27dfa8cad21dbc9258f2ca1d91f41d70a2ab9f2c2cc2be25fc8",
+  "size": "34 MB",
+  "size_raw": "35623832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
