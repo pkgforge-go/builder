@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ppmap",
+  "pkg_family": "ppmap",
+  "pkg_id": "ppmap#github.com_kleiton0x00_ppmap",
+  "pkg_name": "ppmap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kleiton0x00/ppmap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.",
+  "homepage": [
+    "https://github.com/kleiton0x00/ppmap"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ppmap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kleiton0x00/ppmap/archive/9426af63f34eae0e2b8e8cb45eede42027aeddc2.tar.gz"
+  ],
+  "tag": [
+    "bug-bounty",
+    "bugbounty",
+    "bugbounty-tool",
+    "cybersecurity",
+    "infosec",
+    "prototype-pollution",
+    "xss",
+    "xss-detection",
+    "xss-exploitation",
+    "xss-vulnerability"
+  ],
+  "version": "HEAD-9426af6-220622T195453",
+  "version_upstream": "",
+  "bsum": "bf6993590416a09c9cbed1a9206b2e00a1c682d6ef8559198e31d1ce22c8cea7",
+  "build_date": "2025-06-20T15:02:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780556901",
+  "build_id": "15780556901",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kleiton0x00/ppmap/ppmap?tag=HEAD-9426af6-220622T195453-riscv64-Linux&download=ppmap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "511",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kleiton0x00/ppmap/ppmap?tag=HEAD-9426af6-220622T195453-riscv64-Linux&download=ppmap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kleiton0x00/ppmap/ppmap:HEAD-9426af6-220622T195453-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kleiton0x00/ppmap/ppmap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kleiton0x00/ppmap/ppmap?tag=HEAD-9426af6-220622T195453-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb0a6c416dfe07cfde2a39b38b01b0e70191ee0368acf0675df09ec99d8ddc69",
+  "size": "8.0 MB",
+  "size_raw": "8339864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
