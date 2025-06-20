@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kanctl",
+  "pkg_family": "kanister",
+  "pkg_id": "kanctl#github.com_kanisterio_kanister",
+  "pkg_name": "kanctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "kando",
+    "reposervercontroller",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/ccab82b184a1988c9a5b6d369eeb9ebd31af7b3f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-ccab82b-250619T170847",
+  "version_upstream": "",
+  "bsum": "70d84cd1cd9cc58ca2b82f666a8626198e9d526907f75709e41b9e00d412b8d8",
+  "build_date": "2025-06-20T14:33:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780305345",
+  "build_id": "15780305345",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/kanctl?tag=HEAD-ccab82b-250619T170847-x86_64-Linux&download=kanctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/kanctl?tag=HEAD-ccab82b-250619T170847-x86_64-Linux&download=kanctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/kanctl:HEAD-ccab82b-250619T170847-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/kanctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/kanctl?tag=HEAD-ccab82b-250619T170847-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f3052f7065fff1637dd494b8b8201968c44461df7a9956f725a9b300dfc3570",
+  "size": "170 MB",
+  "size_raw": "177759040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

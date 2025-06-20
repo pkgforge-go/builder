@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "reposervercontroller",
+  "pkg_family": "kanister",
+  "pkg_id": "reposervercontroller#github.com_kanisterio_kanister",
+  "pkg_name": "reposervercontroller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "kando",
+    "reposervercontroller",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/ccab82b184a1988c9a5b6d369eeb9ebd31af7b3f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-ccab82b-250619T170847",
+  "version_upstream": "",
+  "bsum": "6b2269bd0dfc161dce4fa0b6c4ad341d733ed512e6687f7ec8158ed73e182a89",
+  "build_date": "2025-06-20T14:34:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780305345",
+  "build_id": "15780305345",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/reposervercontroller?tag=HEAD-ccab82b-250619T170847-x86_64-Linux&download=reposervercontroller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/reposervercontroller?tag=HEAD-ccab82b-250619T170847-x86_64-Linux&download=reposervercontroller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/reposervercontroller:HEAD-ccab82b-250619T170847-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/reposervercontroller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/reposervercontroller?tag=HEAD-ccab82b-250619T170847-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9284fc48a5111886f69551d21c136412ceebfbf011cff6c2faa2aede2fa2f51",
+  "size": "179 MB",
+  "size_raw": "187374848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
