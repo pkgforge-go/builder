@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "immortaldir",
+  "pkg_family": "immortal",
+  "pkg_id": "immortaldir#github.com_immortal_immortal",
+  "pkg_name": "immortaldir",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/immortal/immortal",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⭕  A *nix cross-platform _OS agnostic_ supervisor",
+  "homepage": [
+    "https://github.com/immortal/immortal"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "immortal",
+    "immortalctl",
+    "immortaldir"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/immortal/immortal/archive/f20d21df606ca1fd5fa066c0e94f2ac8a2a198dc.tar.gz"
+  ],
+  "tag": [
+    "daemon",
+    "http",
+    "nix-cross-platform",
+    "os-agnostic",
+    "process",
+    "supervisor",
+    "unix",
+    "unix-socket"
+  ],
+  "version": "HEAD-f20d21d-240721T211056",
+  "version_upstream": "v0.24.6",
+  "bsum": "55f3f97a5065cd057109025c9e0986335f33f8f83b0132b0efa89ca4abacd706",
+  "build_date": "2025-06-20T06:47:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772496717",
+  "build_id": "15772496717",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/immortal/immortal/immortaldir?tag=HEAD-f20d21d-240721T211056-loongarch64-Linux&download=immortaldir.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "816",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/immortal/immortal/immortaldir?tag=HEAD-f20d21d-240721T211056-loongarch64-Linux&download=immortaldir",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/immortal/immortal/immortaldir:HEAD-f20d21d-240721T211056-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/immortal/immortal/immortaldir",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/immortal/immortal/immortaldir?tag=HEAD-f20d21d-240721T211056-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cbe36945e8fd560e30cd9c09d392f1a0f9fd241e8c1106c168ea6af6a0c251ef",
+  "size": "6.3 MB",
+  "size_raw": "6603040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
