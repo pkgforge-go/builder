@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "azure-vmss",
+  "pkg_family": "nomad-autoscaler",
+  "pkg_id": "azure-vmss#github.com_hashicorp_nomad_autoscaler",
+  "pkg_name": "azure-vmss",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/nomad-autoscaler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+  "homepage": [
+    "https://github.com/hashicorp/nomad-autoscaler"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-asg",
+    "azure-vmss",
+    "datadog",
+    "fixed-value",
+    "gce-mig",
+    "nomad",
+    "nomad-autoscaler",
+    "pass-through",
+    "prometheus",
+    "target-value",
+    "threshold"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/nomad-autoscaler/archive/4b87659d7ca8462ac2b92ca13bedf902d9577d09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b87659-250620T142927",
+  "version_upstream": "",
+  "bsum": "bed8fd27e0e2a27ef5047238e4f858672d23a807865c4e3d77e235c78b5bcb22",
+  "build_date": "2025-06-20T18:54:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784644626",
+  "build_id": "15784644626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/azure-vmss?tag=HEAD-4b87659-250620T142927-aarch64-Linux&download=azure-vmss.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/azure-vmss?tag=HEAD-4b87659-250620T142927-aarch64-Linux&download=azure-vmss",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/azure-vmss:HEAD-4b87659-250620T142927-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/azure-vmss",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/azure-vmss?tag=HEAD-4b87659-250620T142927-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a6e5ad65399d89eba80397f509c5ae1dfa4ecb5f6f3169f7ccdf6db7000f888",
+  "size": "18 MB",
+  "size_raw": "18646336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

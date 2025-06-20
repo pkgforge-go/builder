@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nomad-autoscaler",
+  "pkg_family": "nomad-autoscaler",
+  "pkg_id": "nomad-autoscaler#github.com_hashicorp_nomad_autoscaler",
+  "pkg_name": "nomad-autoscaler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/nomad-autoscaler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+  "homepage": [
+    "https://github.com/hashicorp/nomad-autoscaler"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-asg",
+    "azure-vmss",
+    "datadog",
+    "fixed-value",
+    "gce-mig",
+    "nomad",
+    "nomad-autoscaler",
+    "pass-through",
+    "prometheus",
+    "target-value",
+    "threshold"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/nomad-autoscaler/archive/4b87659d7ca8462ac2b92ca13bedf902d9577d09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b87659-250620T142927",
+  "version_upstream": "",
+  "bsum": "180a6b07797da0a7c08fe820e37460472bd4fc901dcba249fd53c46b2d6ae24c",
+  "build_date": "2025-06-20T18:54:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784644626",
+  "build_id": "15784644626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/nomad-autoscaler?tag=HEAD-4b87659-250620T142927-aarch64-Linux&download=nomad-autoscaler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/nomad-autoscaler?tag=HEAD-4b87659-250620T142927-aarch64-Linux&download=nomad-autoscaler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/nomad-autoscaler:HEAD-4b87659-250620T142927-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/nomad-autoscaler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/nomad-autoscaler?tag=HEAD-4b87659-250620T142927-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1e3c008b7f8ece16354f3c57cd7194a5f7140e2ea006ec5bb9f32dca67e43610",
+  "size": "51 MB",
+  "size_raw": "53186496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
