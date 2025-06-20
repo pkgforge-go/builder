@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "crosschain",
+  "pkg_id": "example#github.com_cordialsys_crosschain",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cordialsys/crosschain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial Systems abstraction over blockchains",
+  "homepage": [
+    "https://github.com/cordialsys/crosschain"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitcoin",
+    "example",
+    "get_secret"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cordialsys/crosschain/archive/9fd8fef4f0f3d488c309aceffa793d228def347f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9fd8fef-250619T115529",
+  "version_upstream": "",
+  "bsum": "026adf121cfadb5036c226149843ecce90eafe57ca44401e8e3cee1113e79c52",
+  "build_date": "2025-06-20T08:23:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773742435",
+  "build_id": "15773742435",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/example?tag=HEAD-9fd8fef-250619T115529-loongarch64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/example?tag=HEAD-9fd8fef-250619T115529-loongarch64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cordialsys/crosschain/example:HEAD-9fd8fef-250619T115529-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cordialsys/crosschain/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/example?tag=HEAD-9fd8fef-250619T115529-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d4af48d5efd1db99894b4a3647b1ccee33112ace8118f9d56a3bd952f9082167",
+  "size": "19 MB",
+  "size_raw": "19454944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
