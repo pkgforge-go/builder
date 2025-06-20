@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "plume",
+  "pkg_family": "coreos-assembler",
+  "pkg_id": "plume#github.com_coreos_coreos_assembler",
+  "pkg_name": "plume",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coreos/coreos-assembler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tooling container to assemble CoreOS-like systems",
+  "homepage": [
+    "https://github.com/coreos/coreos-assembler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coreos-assembler-cmd",
+    "kola",
+    "kolet",
+    "ore",
+    "plume"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coreos/coreos-assembler/archive/40fa01d6cae22e535447caf242261b11e5f5998f.tar.gz"
+  ],
+  "tag": [
+    "buildsystem",
+    "coreos",
+    "fedora"
+  ],
+  "version": "HEAD-40fa01d-250619T225142",
+  "version_upstream": "",
+  "bsum": "fe78c1e1c008a47cc34dbf531255614aaa18d6dee62220e8aeadff2232e66680",
+  "build_date": "2025-06-20T08:20:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773778698",
+  "build_id": "15773778698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/plume?tag=HEAD-40fa01d-250619T225142-loongarch64-Linux&download=plume.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "363",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/plume?tag=HEAD-40fa01d-250619T225142-loongarch64-Linux&download=plume",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coreos/coreos-assembler/plume:HEAD-40fa01d-250619T225142-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coreos/coreos-assembler/plume",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/plume?tag=HEAD-40fa01d-250619T225142-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d39d231befe17db95031f4a62379c0f8f349c559663fa3c6541a28117eff4613",
+  "size": "37 MB",
+  "size_raw": "38735360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
