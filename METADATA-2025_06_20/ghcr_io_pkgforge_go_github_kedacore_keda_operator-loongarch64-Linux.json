@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "keda",
+  "pkg_id": "operator#github.com_kedacore_keda",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kedacore/keda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+  "homepage": [
+    "https://github.com/kedacore/keda"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter",
+    "operator",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kedacore/keda/archive/30a37e6575604b644a65469888afe79ce24d132e.tar.gz"
+  ],
+  "tag": [
+    "autoscaling",
+    "event-driven",
+    "hacktoberfest",
+    "keda",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-30a37e6-250620T123151",
+  "version_upstream": "",
+  "bsum": "a6fbcbc6e0238a4b3608b54773fab069120d7d98cfda67b1dc12b948a652780e",
+  "build_date": "2025-06-20T19:26:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785374656",
+  "build_id": "15785374656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/operator?tag=HEAD-30a37e6-250620T123151-loongarch64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/operator?tag=HEAD-30a37e6-250620T123151-loongarch64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kedacore/keda/operator:HEAD-30a37e6-250620T123151-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kedacore/keda/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/operator?tag=HEAD-30a37e6-250620T123151-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48c5737150034fc10b88e96ad51e6aa370b1321891a3bace3e2fa41bdabd31b9",
+  "size": "147 MB",
+  "size_raw": "153843696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
