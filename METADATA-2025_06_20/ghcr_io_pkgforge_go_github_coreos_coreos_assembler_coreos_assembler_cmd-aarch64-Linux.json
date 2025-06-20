@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "coreos-assembler-cmd",
+  "pkg_family": "coreos-assembler",
+  "pkg_id": "coreos-assembler-cmd#github.com_coreos_coreos_assembler",
+  "pkg_name": "coreos-assembler-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coreos/coreos-assembler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tooling container to assemble CoreOS-like systems",
+  "homepage": [
+    "https://github.com/coreos/coreos-assembler"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coreos-assembler-cmd",
+    "kola",
+    "kolet",
+    "ore",
+    "plume"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coreos/coreos-assembler/archive/40fa01d6cae22e535447caf242261b11e5f5998f.tar.gz"
+  ],
+  "tag": [
+    "buildsystem",
+    "coreos",
+    "fedora"
+  ],
+  "version": "HEAD-40fa01d-250619T225142",
+  "version_upstream": "",
+  "bsum": "b5c6e77b24c12b86d6d12de54410bac11ad7969ed72588c45d1b3b54c2d716ef",
+  "build_date": "2025-06-20T08:19:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773778698",
+  "build_id": "15773778698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/coreos-assembler-cmd?tag=HEAD-40fa01d-250619T225142-aarch64-Linux&download=coreos-assembler-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "363",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/coreos-assembler-cmd?tag=HEAD-40fa01d-250619T225142-aarch64-Linux&download=coreos-assembler-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coreos/coreos-assembler/coreos-assembler-cmd:HEAD-40fa01d-250619T225142-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coreos/coreos-assembler/coreos-assembler-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/coreos-assembler/coreos-assembler-cmd?tag=HEAD-40fa01d-250619T225142-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c0cc957763a218464a2b49e283a0266f594f7be694c087f6e69063ebd88d59f",
+  "size": "4.9 MB",
+  "size_raw": "5071520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
