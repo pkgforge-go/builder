@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "httptap",
+  "pkg_family": "httptap",
+  "pkg_id": "httptap#github.com_monasticacademy_httptap",
+  "pkg_name": "httptap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/monasticacademy/httptap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "View HTTP/HTTPS requests made by any Linux program",
+  "homepage": [
+    "https://github.com/monasticacademy/httptap"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hello",
+    "http3get",
+    "httpget",
+    "httptap",
+    "run-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/monasticacademy/httptap/archive/3b9c47b96148b1d9079aef1f4697d32d69fc8f5b.tar.gz"
+  ],
+  "tag": [
+    "gvisor",
+    "linux-network-namespace",
+    "man-in-the-middle",
+    "monastery",
+    "networking",
+    "tun-device"
+  ],
+  "version": "HEAD-3b9c47b-250417T102442",
+  "version_upstream": "",
+  "bsum": "447e2dd2a53b9c07bb486ea5acfba9122de3d604de373212227fd699ce738ae8",
+  "build_date": "2025-06-20T22:43:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788467336",
+  "build_id": "15788467336",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/monasticacademy/httptap/httptap?tag=HEAD-3b9c47b-250417T102442-loongarch64-Linux&download=httptap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4021",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/monasticacademy/httptap/httptap?tag=HEAD-3b9c47b-250417T102442-loongarch64-Linux&download=httptap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/monasticacademy/httptap/httptap:HEAD-3b9c47b-250417T102442-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/monasticacademy/httptap/httptap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/monasticacademy/httptap/httptap?tag=HEAD-3b9c47b-250417T102442-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fdd99076254f60049559ff931e65ea85764aeeaeda87fd6e69a92939524dbf75",
+  "size": "13 MB",
+  "size_raw": "13026240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
