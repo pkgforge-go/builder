@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lib",
+  "pkg_family": "ssmwrap",
+  "pkg_id": "lib#github.com_handlename_ssmwrap",
+  "pkg_name": "lib",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/handlename/ssmwrap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Execute command with environment variables or/and files loaded from AWS SSM.",
+  "homepage": [
+    "https://github.com/handlename/ssmwrap"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lib",
+    "ssmwrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/handlename/ssmwrap/archive/81c89b983957bbcc2a8da1e50e80780a397a78f9.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "systems-manager-parameter-store"
+  ],
+  "version": "HEAD-81c89b9-250503T235227",
+  "version_upstream": "",
+  "bsum": "f00226e0d475ddd7edf37749f158cb9c49157834c931adfa8e1401de48fa0230",
+  "build_date": "2025-06-20T05:34:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771484180",
+  "build_id": "15771484180",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/handlename/ssmwrap/lib?tag=HEAD-81c89b9-250503T235227-riscv64-Linux&download=lib.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/handlename/ssmwrap/lib?tag=HEAD-81c89b9-250503T235227-riscv64-Linux&download=lib",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/handlename/ssmwrap/lib:HEAD-81c89b9-250503T235227-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/handlename/ssmwrap/lib",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/handlename/ssmwrap/lib?tag=HEAD-81c89b9-250503T235227-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "636521603f3d818150ea0107509937988cf719042e25555e46c0d3f490b739c3",
+  "size": "8.8 MB",
+  "size_raw": "9220536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
