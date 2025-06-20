@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "read_race",
+  "pkg_family": "webinars_practical_part",
+  "pkg_id": "read_race#github.com_OtusGolang_webinars_practical_part",
+  "pkg_name": "read_race",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OtusGolang/webinars_practical_part",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Практические примеры для вебинаров курса OTUS «Разработчик Golang»",
+  "homepage": [
+    "https://github.com/OtusGolang/webinars_practical_part"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-tcp-chat",
+    "02-chat-client",
+    "03-udp-server",
+    "04-udp-client",
+    "05-dns-resolver",
+    "06-context",
+    "06b-context",
+    "07-signal-notyfy-context",
+    "08-gracefull-stop",
+    "09-context-with-value",
+    "09_pointerkeys",
+    "10-context-with-cancel",
+    "11-context-with-timeout",
+    "12-context-with-deadline",
+    "14_pprof_svg_and_web",
+    "15_flamegraph",
+    "16_trace",
+    "aerospike",
+    "base64",
+    "base64flow",
+    "broker",
+    "clickhouse",
+    "halfsum",
+    "heap",
+    "mongo",
+    "msgpackex",
+    "protobufex",
+    "read_race",
+    "redis",
+    "social-media",
+    "stack",
+    "stack_pointer",
+    "testsql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OtusGolang/webinars_practical_part/archive/81eab85b5fe3735ecdf17fbd45a1d448606d9cdf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-81eab85-250619T125223",
+  "version_upstream": "",
+  "bsum": "c08db6692256e50ec3d61173fb1484570395db3947834fa3106b72f250305acc",
+  "build_date": "2025-06-20T07:35:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773114732",
+  "build_id": "15773114732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/practical/part/read_race?tag=HEAD-81eab85-250619T125223-aarch64-Linux&download=read_race.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "100",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/practical/part/read_race?tag=HEAD-81eab85-250619T125223-aarch64-Linux&download=read_race",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/practical/part/read_race:HEAD-81eab85-250619T125223-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/practical/part/read_race",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/practical/part/read_race?tag=HEAD-81eab85-250619T125223-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d7412ff89429240dfcc323863c7fe4dd6575a52848ea4186c8e31cf373324ca",
+  "size": "1.6 MB",
+  "size_raw": "1640920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
