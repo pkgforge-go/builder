@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "all_states",
+  "pkg_family": "gopensky",
+  "pkg_id": "all_states#github.com_navidys_gopensky",
+  "pkg_name": "all_states",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/navidys/gopensky",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of OpenSKY Network API",
+  "homepage": [
+    "https://github.com/navidys/gopensky"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aircraft",
+    "all_states",
+    "arrivals",
+    "departures",
+    "flights"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/navidys/gopensky/archive/905e06a978ae56a0c1b1663faaf8f463453d943b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "golang-library",
+    "opensky-api",
+    "opensky-network"
+  ],
+  "version": "HEAD-905e06a-250602T113519",
+  "version_upstream": "",
+  "bsum": "8fec5f4ef82ce6b3e6e5092f1df2bee849713db1d2a4f8648da7d1968b3b5275",
+  "build_date": "2025-06-20T23:48:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789262304",
+  "build_id": "15789262304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/navidys/gopensky/all_states?tag=HEAD-905e06a-250602T113519-x86_64-Linux&download=all_states.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/navidys/gopensky/all_states?tag=HEAD-905e06a-250602T113519-x86_64-Linux&download=all_states",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/navidys/gopensky/all_states:HEAD-905e06a-250602T113519-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/navidys/gopensky/all_states",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/navidys/gopensky/all_states?tag=HEAD-905e06a-250602T113519-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76e6734a1abaa03ee6c1ed4141768a3b2a8e25942fef07e5920932ce32c6d2da",
+  "size": "6.3 MB",
+  "size_raw": "6521280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
