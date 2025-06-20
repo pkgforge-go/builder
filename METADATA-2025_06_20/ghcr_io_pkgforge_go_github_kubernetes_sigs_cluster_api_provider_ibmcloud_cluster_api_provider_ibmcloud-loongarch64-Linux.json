@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cluster-api-provider-ibmcloud",
+  "pkg_family": "cluster-api-provider-ibmcloud",
+  "pkg_id": "cluster-api-provider-ibmcloud#github.com_kubernetes_sigs_cluster_api_provider_ibmcloud",
+  "pkg_name": "cluster-api-provider-ibmcloud",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster API Provider for IBM Cloud",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capibmadm",
+    "cluster-api-provider-ibmcloud"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/archive/695c7df4ccbcbc8523aa7a68fa92d3c6237b60d4.tar.gz"
+  ],
+  "tag": [
+    "ibmcloud",
+    "k8s-sig-cluster-lifecycle",
+    "k8s-sig-ibmcloud",
+    "kubernetes",
+    "powervs",
+    "ppc64le"
+  ],
+  "version": "HEAD-695c7df-250620T050653",
+  "version_upstream": "",
+  "bsum": "15557881dc2997040044077969e2093e6128c1e6b442ee7b85446c02edf1cb6a",
+  "build_date": "2025-06-20T19:34:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785647952",
+  "build_id": "15785647952",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-ibmcloud/cluster-api-provider-ibmcloud?tag=HEAD-695c7df-250620T050653-loongarch64-Linux&download=cluster-api-provider-ibmcloud.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-ibmcloud/cluster-api-provider-ibmcloud?tag=HEAD-695c7df-250620T050653-loongarch64-Linux&download=cluster-api-provider-ibmcloud",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-ibmcloud/cluster-api-provider-ibmcloud:HEAD-695c7df-250620T050653-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-ibmcloud/cluster-api-provider-ibmcloud",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-ibmcloud/cluster-api-provider-ibmcloud?tag=HEAD-695c7df-250620T050653-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae4321469eea1d48f5accbf28d2fb746d8fd54d790cd1572d7cceb89dc8161a5",
+  "size": "85 MB",
+  "size_raw": "89008864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
