@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hub-server",
+  "pkg_family": "zadig",
+  "pkg_id": "hub-server#github.com_koderover_zadig.git",
+  "pkg_name": "hub-server",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aslan",
+    "cron",
+    "hub-agent",
+    "hub-server",
+    "init",
+    "jenkins-plugin",
+    "jobexecutor",
+    "packager-plugin",
+    "predator-plugin",
+    "reaper",
+    "ua",
+    "user",
+    "v0.0.1",
+    "zadig-agent",
+    "zgctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/koderover/zadig.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T151120",
+  "version_upstream": "",
+  "bsum": "ab7e7638886cc52e311e9b24cc7a804032660fc48614b02a41988ad532892092",
+  "build_date": "2025-06-20T15:38:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781388834",
+  "build_id": "15781388834",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/hub-server?tag=20250620T151120-riscv64-Linux&download=hub-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/hub-server?tag=20250620T151120-riscv64-Linux&download=hub-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/koderover/zadig.git/hub-server:20250620T151120-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/koderover/zadig.git/hub-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/hub-server?tag=20250620T151120-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9bca2e4891608763cc84f17ea0f0f04047f73937eaef7fd8abf2040cdebf3cba",
+  "size": "69 MB",
+  "size_raw": "71821880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

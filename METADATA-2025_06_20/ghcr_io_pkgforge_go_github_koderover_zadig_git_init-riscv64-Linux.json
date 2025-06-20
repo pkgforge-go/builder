@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "init",
+  "pkg_family": "zadig",
+  "pkg_id": "init#github.com_koderover_zadig.git",
+  "pkg_name": "init",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aslan",
+    "cron",
+    "hub-agent",
+    "hub-server",
+    "init",
+    "jenkins-plugin",
+    "jobexecutor",
+    "packager-plugin",
+    "predator-plugin",
+    "reaper",
+    "ua",
+    "user",
+    "v0.0.1",
+    "zadig-agent",
+    "zgctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/koderover/zadig.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T151120",
+  "version_upstream": "",
+  "bsum": "d989a8ccbfcc399e7b02ef6f5530d1874f21c774d15366cf65d1dc3cd4c946e6",
+  "build_date": "2025-06-20T15:38:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781388834",
+  "build_id": "15781388834",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/init?tag=20250620T151120-riscv64-Linux&download=init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/init?tag=20250620T151120-riscv64-Linux&download=init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/koderover/zadig.git/init:20250620T151120-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/koderover/zadig.git/init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/init?tag=20250620T151120-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b8a1eae575143e8bcd9f6495829d074920d20bcb5cec71aa9a861aea0d70eb9f",
+  "size": "120 MB",
+  "size_raw": "125436056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
