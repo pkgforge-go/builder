@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "xiaozhi-esp32-server-golang",
+  "pkg_id": "test#github.com_hackers365_xiaozhi_esp32_server_golang",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hackers365/xiaozhi-esp32-server-golang",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+  "homepage": [
+    "https://github.com/hackers365/xiaozhi-esp32-server-golang"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "edge_tts_offline",
+    "mcp_client_over_websocket",
+    "mcp_server_over_websocket",
+    "mqtt",
+    "test",
+    "vllm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hackers365/xiaozhi-esp32-server-golang/archive/b03fd9efeaf787b1f11e59e5b4a7383b34454e06.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b03fd9e-250620T162834",
+  "version_upstream": "",
+  "bsum": "bfee0b5673056f6141b69e9b203f205ca0c8554ecf4fce6258df8a7847ac33dc",
+  "build_date": "2025-06-20T18:47:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784455077",
+  "build_id": "15784455077",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/test?tag=HEAD-b03fd9e-250620T162834-x86_64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/test?tag=HEAD-b03fd9e-250620T162834-x86_64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/test:HEAD-b03fd9e-250620T162834-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hackers365/xiaozhi-esp32-server-golang/test?tag=HEAD-b03fd9e-250620T162834-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bc34f464387f45ee4ccdea38f48c6bf974f9a9d7d763c388c153bd45ad167a4d",
+  "size": "1.9 MB",
+  "size_raw": "1908408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
