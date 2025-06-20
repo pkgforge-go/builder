@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "core-common-config-bootstrapper",
+  "pkg_family": "edgex-go",
+  "pkg_id": "core-common-config-bootstrapper#github.com_edgexfoundry_edgex_go",
+  "pkg_name": "core-common-config-bootstrapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edgexfoundry/edgex-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EdgeX Golang Services Monorepo _ Owner: Core/Support WG",
+  "homepage": [
+    "https://github.com/edgexfoundry/edgex-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "core-command",
+    "core-common-config-bootstrapper",
+    "core-data",
+    "core-keeper",
+    "core-metadata",
+    "secrets-config",
+    "security-bootstrapper",
+    "security-file-token-provider",
+    "security-proxy-auth",
+    "security-secretstore-setup",
+    "security-spiffe-token-provider",
+    "support-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edgexfoundry/edgex-go/archive/9304f160789e41c5c58b4be9994841ed5e82e09f.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-9304f16-250620T182212",
+  "version_upstream": "",
+  "bsum": "4dad8935cd0236b31de9d7e5eb7e7d2af9cf4b8b2d4cf808436325f51976c8b8",
+  "build_date": "2025-06-20T18:02:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784188958",
+  "build_id": "15784188958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/core-common-config-bootstrapper?tag=HEAD-9304f16-250620T182212-aarch64-Linux&download=core-common-config-bootstrapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1410",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/core-common-config-bootstrapper?tag=HEAD-9304f16-250620T182212-aarch64-Linux&download=core-common-config-bootstrapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgexfoundry/edgex-go/core-common-config-bootstrapper:HEAD-9304f16-250620T182212-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgexfoundry/edgex-go/core-common-config-bootstrapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/core-common-config-bootstrapper?tag=HEAD-9304f16-250620T182212-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "430c8dcdf8448935adc33bcc2e13945be55e6b12adea6411dd1b7bb464864f23",
+  "size": "16 MB",
+  "size_raw": "16343584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

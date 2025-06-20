@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "security-spiffe-token-provider",
+  "pkg_family": "edgex-go",
+  "pkg_id": "security-spiffe-token-provider#github.com_edgexfoundry_edgex_go",
+  "pkg_name": "security-spiffe-token-provider",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edgexfoundry/edgex-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EdgeX Golang Services Monorepo _ Owner: Core/Support WG",
+  "homepage": [
+    "https://github.com/edgexfoundry/edgex-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "core-command",
+    "core-common-config-bootstrapper",
+    "core-data",
+    "core-keeper",
+    "core-metadata",
+    "secrets-config",
+    "security-bootstrapper",
+    "security-file-token-provider",
+    "security-proxy-auth",
+    "security-secretstore-setup",
+    "security-spiffe-token-provider",
+    "support-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edgexfoundry/edgex-go/archive/9304f160789e41c5c58b4be9994841ed5e82e09f.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-9304f16-250620T182212",
+  "version_upstream": "",
+  "bsum": "62fb2cc0d831370a6f10a89fc72018511f54695631c12bf3ecb0914fdcf23d39",
+  "build_date": "2025-06-20T18:02:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784188958",
+  "build_id": "15784188958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/security-spiffe-token-provider?tag=HEAD-9304f16-250620T182212-aarch64-Linux&download=security-spiffe-token-provider.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1410",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/security-spiffe-token-provider?tag=HEAD-9304f16-250620T182212-aarch64-Linux&download=security-spiffe-token-provider",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgexfoundry/edgex-go/security-spiffe-token-provider:HEAD-9304f16-250620T182212-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgexfoundry/edgex-go/security-spiffe-token-provider",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/security-spiffe-token-provider?tag=HEAD-9304f16-250620T182212-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c6da0717db9b602fcb91689de1b5df6747b42d4502fde4521a2356e1d13c30c8",
+  "size": "31 MB",
+  "size_raw": "31527168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
