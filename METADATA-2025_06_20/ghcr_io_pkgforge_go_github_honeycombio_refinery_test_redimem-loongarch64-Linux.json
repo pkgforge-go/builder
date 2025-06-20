@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test_redimem",
+  "pkg_family": "refinery",
+  "pkg_id": "test_redimem#github.com_honeycombio_refinery",
+  "pkg_name": "test_redimem",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/honeycombio/refinery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions _whether to keep or discard_ to each trace.",
+  "homepage": [
+    "https://github.com/honeycombio/refinery"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "convert",
+    "refinery",
+    "test_redimem"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/honeycombio/refinery/archive/4d1ea93646d51876c88b45d54cb14009140bb80e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4d1ea93-250619T111649",
+  "version_upstream": "",
+  "bsum": "f07b6b2d781846a6797e95a914ce4a8649ac83fb30e6152b1be6da2a3646daa7",
+  "build_date": "2025-06-20T09:42:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775179728",
+  "build_id": "15775179728",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/honeycombio/refinery/test_redimem?tag=HEAD-4d1ea93-250619T111649-loongarch64-Linux&download=test_redimem.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "327",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/honeycombio/refinery/test_redimem?tag=HEAD-4d1ea93-250619T111649-loongarch64-Linux&download=test_redimem",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/honeycombio/refinery/test_redimem:HEAD-4d1ea93-250619T111649-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/honeycombio/refinery/test_redimem",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/honeycombio/refinery/test_redimem?tag=HEAD-4d1ea93-250619T111649-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5454bbe529a60bf15521e75dc59c1c14b3f93342e954f9a5ba915389f1babb3",
+  "size": "4.9 MB",
+  "size_raw": "5045056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
