@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sdp-encode",
+  "pkg_family": "sdp",
+  "pkg_id": "sdp-encode#github.com_gortc_sdp",
+  "pkg_name": "sdp-encode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gortc/sdp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RFC 4566 SDP implementation in go",
+  "homepage": [
+    "https://github.com/gortc/sdp"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sdp-decode",
+    "sdp-encode",
+    "sdp-encode-low"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gortc/sdp/archive/a7dc7232312a35d392e569c36448ba1860fde415.tar.gz"
+  ],
+  "tag": [
+    "decoder",
+    "encoding",
+    "go",
+    "golang",
+    "gortc",
+    "protocol",
+    "rfc-4566",
+    "sdp",
+    "webrtc"
+  ],
+  "version": "HEAD-a7dc723-200501T194010",
+  "version_upstream": "",
+  "bsum": "e13c6fcfc128c44d562d80d0c28fac537d95927b0886da109c490c93e2af007f",
+  "build_date": "2025-06-20T04:38:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771136332",
+  "build_id": "15771136332",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode?tag=HEAD-a7dc723-200501T194010-aarch64-Linux&download=sdp-encode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "113",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode?tag=HEAD-a7dc723-200501T194010-aarch64-Linux&download=sdp-encode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gortc/sdp/sdp-encode:HEAD-a7dc723-200501T194010-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gortc/sdp/sdp-encode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode?tag=HEAD-a7dc723-200501T194010-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03a1ead4342eef1d1c08f905014b489a765077c8ecb12aeffaca8fe628fec0cb",
+  "size": "1.8 MB",
+  "size_raw": "1828248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
