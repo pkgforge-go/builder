@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wait-first",
+  "pkg_family": "circuit",
+  "pkg_id": "wait-first#github.com_gocircuit_circuit",
+  "pkg_name": "wait-first",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gocircuit/circuit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Circuit: Dynamic cloud orchestration http://gocircuit.org",
+  "homepage": [
+    "https://github.com/gocircuit/circuit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "circuit",
+    "start-app",
+    "wait-all",
+    "wait-first",
+    "watchbot",
+    "watchbot-with-chan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gocircuit/circuit/archive/fd2add79ac1e5c203803f3e845169584c2aafaa5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fd2add7-161121T153524",
+  "version_upstream": "",
+  "bsum": "113c5ef6bd9f78d8d5bd22335b434800d09eca68e30a4bf24ea4fd9b32113d30",
+  "build_date": "2025-06-20T03:49:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770213544",
+  "build_id": "15770213544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/wait-first?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&download=wait-first.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1986",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/wait-first?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&download=wait-first",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gocircuit/circuit/wait-first:HEAD-fd2add7-161121T153524-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gocircuit/circuit/wait-first",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/wait-first?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d05c50e39c529c32932eac2a0bb42db714165c31a15e1abde8c3b634ee22983e",
+  "size": "7.6 MB",
+  "size_raw": "7960928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

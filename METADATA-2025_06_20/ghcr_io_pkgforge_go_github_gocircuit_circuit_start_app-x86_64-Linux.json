@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "start-app",
+  "pkg_family": "circuit",
+  "pkg_id": "start-app#github.com_gocircuit_circuit",
+  "pkg_name": "start-app",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gocircuit/circuit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Circuit: Dynamic cloud orchestration http://gocircuit.org",
+  "homepage": [
+    "https://github.com/gocircuit/circuit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "circuit",
+    "start-app",
+    "wait-all",
+    "wait-first",
+    "watchbot",
+    "watchbot-with-chan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gocircuit/circuit/archive/fd2add79ac1e5c203803f3e845169584c2aafaa5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fd2add7-161121T153524",
+  "version_upstream": "",
+  "bsum": "e4046be66b47a5d56b6e558f91ae6c5d540c6f3f47d2ab32f46729624c7d4ccf",
+  "build_date": "2025-06-20T03:49:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770213544",
+  "build_id": "15770213544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/start-app?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&download=start-app.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1986",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/start-app?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&download=start-app",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gocircuit/circuit/start-app:HEAD-fd2add7-161121T153524-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gocircuit/circuit/start-app",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/start-app?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf135acbffc6c37181d0821a6f9e6687f7195f667b5f9a41e448a7d4fc263e6c",
+  "size": "7.7 MB",
+  "size_raw": "8012448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wait-all",
+  "pkg_family": "circuit",
+  "pkg_id": "wait-all#github.com_gocircuit_circuit",
+  "pkg_name": "wait-all",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gocircuit/circuit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Circuit: Dynamic cloud orchestration http://gocircuit.org",
+  "homepage": [
+    "https://github.com/gocircuit/circuit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "circuit",
+    "start-app",
+    "wait-all",
+    "wait-first",
+    "watchbot",
+    "watchbot-with-chan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gocircuit/circuit/archive/fd2add79ac1e5c203803f3e845169584c2aafaa5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fd2add7-161121T153524",
+  "version_upstream": "",
+  "bsum": "86b3089c407174b7f13a1f6154a5a6ae2c4c3e9a2fb94c45ef1e657fbd8f177a",
+  "build_date": "2025-06-20T03:49:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770213544",
+  "build_id": "15770213544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/wait-all?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&download=wait-all.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1986",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/wait-all?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&download=wait-all",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gocircuit/circuit/wait-all:HEAD-fd2add7-161121T153524-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gocircuit/circuit/wait-all",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocircuit/circuit/wait-all?tag=HEAD-fd2add7-161121T153524-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "126e3cd5327eb16a8ee469dbac3c6df69180201dc23d0feb5a19e615cc9701e8",
+  "size": "7.6 MB",
+  "size_raw": "7960960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
