@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "builddict",
+  "pkg_family": "compress",
+  "pkg_id": "builddict#github.com_klauspost_compress",
+  "pkg_name": "builddict",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/klauspost/compress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Optimized Go Compression Packages",
+  "homepage": [
+    "https://github.com/klauspost/compress"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builddict",
+    "cmd",
+    "s2c",
+    "s2d"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/klauspost/compress/archive/0b8a32cac1934962e28a85ecfdb0688af278be50.tar.gz"
+  ],
+  "tag": [
+    "compression",
+    "decompression",
+    "deflate",
+    "go",
+    "golang",
+    "gzip",
+    "snappy",
+    "zip",
+    "zstandard",
+    "zstd"
+  ],
+  "version": "HEAD-0b8a32c-250617T165249",
+  "version_upstream": "",
+  "bsum": "e875e20d080e61a9cd7db9011fe71107644111d56ab46668fda844a19cb8d07c",
+  "build_date": "2025-06-20T15:02:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780545883",
+  "build_id": "15780545883",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/builddict?tag=HEAD-0b8a32c-250617T165249-loongarch64-Linux&download=builddict.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/builddict?tag=HEAD-0b8a32c-250617T165249-loongarch64-Linux&download=builddict",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/klauspost/compress/builddict:HEAD-0b8a32c-250617T165249-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/klauspost/compress/builddict",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/builddict?tag=HEAD-0b8a32c-250617T165249-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d55ed0f0673c0133f46857e913ece0b4d8269c907b69ca22724c9011cb7f0ba",
+  "size": "2.4 MB",
+  "size_raw": "2511136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

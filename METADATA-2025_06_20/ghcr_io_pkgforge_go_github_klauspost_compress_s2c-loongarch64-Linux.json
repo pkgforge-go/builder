@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "s2c",
+  "pkg_family": "compress",
+  "pkg_id": "s2c#github.com_klauspost_compress",
+  "pkg_name": "s2c",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/klauspost/compress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Optimized Go Compression Packages",
+  "homepage": [
+    "https://github.com/klauspost/compress"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builddict",
+    "cmd",
+    "s2c",
+    "s2d"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/klauspost/compress/archive/0b8a32cac1934962e28a85ecfdb0688af278be50.tar.gz"
+  ],
+  "tag": [
+    "compression",
+    "decompression",
+    "deflate",
+    "go",
+    "golang",
+    "gzip",
+    "snappy",
+    "zip",
+    "zstandard",
+    "zstd"
+  ],
+  "version": "HEAD-0b8a32c-250617T165249",
+  "version_upstream": "",
+  "bsum": "0116b6003fa346509445e9e4b87766c1c096d21b92a822e1783a9ad64e5ada46",
+  "build_date": "2025-06-20T15:01:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780545883",
+  "build_id": "15780545883",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/s2c?tag=HEAD-0b8a32c-250617T165249-loongarch64-Linux&download=s2c.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/s2c?tag=HEAD-0b8a32c-250617T165249-loongarch64-Linux&download=s2c",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/klauspost/compress/s2c:HEAD-0b8a32c-250617T165249-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/klauspost/compress/s2c",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/s2c?tag=HEAD-0b8a32c-250617T165249-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e32b3bc0ac95ab02933468963d5a45b844b1a565fa9313a97eca551e13b8d56",
+  "size": "6.3 MB",
+  "size_raw": "6505632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
