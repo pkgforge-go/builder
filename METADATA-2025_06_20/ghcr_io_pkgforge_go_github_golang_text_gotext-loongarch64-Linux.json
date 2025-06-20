@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gotext",
+  "pkg_family": "text",
+  "pkg_id": "gotext#github.com_golang_text",
+  "pkg_name": "gotext",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/text",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go text processing support",
+  "homepage": [
+    "https://github.com/golang/text"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "colcmp",
+    "extract",
+    "extract_http",
+    "gotext",
+    "rewrite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/text/archive/80721808805f9d846d907c85d73ca6b5b6ecb870.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8072180-250605T080800",
+  "version_upstream": "v0.26.0",
+  "bsum": "4f6c182916d031623f681634fc6a411484d03dc28a73d5ac72bd1bb7b20d41de",
+  "build_date": "2025-06-20T04:13:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770603113",
+  "build_id": "15770603113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/gotext?tag=HEAD-8072180-250605T080800-loongarch64-Linux&download=gotext.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "776",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/gotext?tag=HEAD-8072180-250605T080800-loongarch64-Linux&download=gotext",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/text/gotext:HEAD-8072180-250605T080800-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/text/gotext",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/text/gotext?tag=HEAD-8072180-250605T080800-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10607c2845a205bd7510521ca83058d9fc64cab36f087e01e8b529ac4a987bbe",
+  "size": "11 MB",
+  "size_raw": "11264640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
