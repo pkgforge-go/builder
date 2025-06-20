@@ -28,8 +28,10 @@ Options:
 
 ### 🛠️ Building
 ```bash
-RUST_TARGET="$(uname -m)-unknown-linux-gnu" #musl is slow
+#! WARNING: gnu causes core dumps due to malloc
+RUST_TARGET="$(uname -m)-unknown-linux-musl"
 RUSTFLAGS="-C target-feature=+crt-static \
+           -C link-self-contained=yes \
            -C default-linker-libraries=yes \
            -C prefer-dynamic=no \
            -C lto=yes \
@@ -40,6 +42,7 @@ RUSTFLAGS="-C target-feature=+crt-static \
            -C link-arg=-Wl,--strip-all"
            
 export RUST_TARGET RUSTFLAGS
+rustup target add "${RUST_TARGET}"
 
 cargo build --target "${RUST_TARGET}" \
      --all-features \

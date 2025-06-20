@@ -109,24 +109,15 @@ impl Statistics {
         let errors = self.total_errors.load(Ordering::Relaxed);
 
         println!("\n🎉 Processing Complete!");
-        println!("┌─────────────────────────────────────┐");
-        println!("│ Final Statistics                    │");
-        println!("├─────────────────────────────────────┤");
-        println!(
-            "│ Duration: {:>24} │",
-            format!("{:.2}s", elapsed.as_secs_f64())
-        );
-        println!(
-            "│ Days processed: {:>18} │",
-            format!("{}/{}", completed, self.total_days)
-        );
-        println!("│ Total records: {:>19} │", records);
-        println!("│ Errors: {:>26} │", errors);
-        println!(
-            "│ Rate: {:>28} │",
-            format!("{:.0} records/sec", records as f64 / elapsed.as_secs_f64())
-        );
-        println!("└─────────────────────────────────────┘");
+        println!("┌────────────────────────────────────────────────────────────┐");
+        println!("│ Final Statistics                                           │");
+        println!("├────────────────────────────────────────────────────────────┤");
+        println!("│ {:<28} : {:>27} │", "Duration", format!("{:.2}s", elapsed.as_secs_f64()));
+        println!("│ {:<28} : {:>27} │", "Days processed", format!("{}/{}", completed, self.total_days));
+        println!("│ {:<28} : {:>27} │", "Total records", records);
+        println!("│ {:<28} : {:>27} │", "Errors", errors);
+        println!("│ {:<28} : {:>27} │", "Rate", format!("{:.0} records/sec", records as f64 / elapsed.as_secs_f64()));
+        println!("└────────────────────────────────────────────────────────────┘");
     }
 }
 
@@ -237,9 +228,9 @@ async fn process_day(
 
     let mut batch_num = 0;
     let mut current_since = since.clone();
-    let mut prev_timestamp = String::new();
     let mut empty_batches = 0;
     let mut total_records = 0;
+    let date_str = date.format("%Y-%m-%d").to_string();
 
     progress.set_message("Starting...");
 
@@ -269,33 +260,33 @@ async fn process_day(
                 let mut valid_lines = 0;
                 let mut new_timestamp = String::new();
 
-                let mut buffer = String::with_capacity(response_text.len() + 1000);
+                // Process each line
                 for line in response_text.lines() {
                     if line.trim().is_empty() {
                         continue;
                     }
+                    
                     match serde_json::from_str::<Value>(line) {
                         Ok(json) => {
-                            buffer.push_str(line);
-                            buffer.push('\n');
+                            // Write valid JSON line to output
+                            output_file.write_all(line.as_bytes()).await?;
+                            output_file.write_all(b"\n").await?;
                             valid_lines += 1;
 
                             // Extract timestamp for next iteration
-                            if let Some(timestamp) = json.get("Timestamp").and_then(|t| t.as_str())
-                            {
+                            if let Some(timestamp) = json.get("Timestamp").and_then(|t| t.as_str()) {
                                 new_timestamp = timestamp.to_string();
                             }
                         }
                         Err(_) => {
                             stats.add_errors(1);
-                            continue;
+                            if config.verbose {
+                                eprintln!("Invalid JSON line: {}", line);
+                            }
                         }
                     }
                 }
 
-                if !buffer.is_empty() {
-                    output_file.write_all(buffer.as_bytes()).await?;
-                }
                 if valid_lines == 0 {
                     break;
                 }
@@ -304,29 +295,35 @@ async fn process_day(
                 stats.add_records(valid_lines);
 
                 // Check stopping conditions
-                if new_timestamp.is_empty() || new_timestamp == prev_timestamp {
-                    break;
-                }
-
-                let new_date = new_timestamp.split('T').next().unwrap_or("");
-                if new_date != date.format("%Y-%m-%d").to_string() {
-                    break;
-                }
-
                 if valid_lines < config.batch_size {
                     break;
                 }
+                
+                if new_timestamp.is_empty() {
+                    break;
+                }
+                
+                if new_timestamp == current_since {
+                    break; // No progress made
+                }
 
-                prev_timestamp = current_since.clone();
+                // Check if we've moved to the next day
+                if let Some(timestamp_date) = new_timestamp.split('T').next() {
+                    if timestamp_date != date_str {
+                        break;
+                    }
+                }
+
                 current_since = new_timestamp;
                 batch_num += 1;
 
+                // Safety limit to prevent infinite loops
                 if batch_num > 1000 {
                     progress.set_message("Safety limit reached");
                     break;
                 }
 
-                // Brief pause
+                // Brief pause to be nice to the API
                 tokio::time::sleep(Duration::from_millis(100)).await;
             }
             Err(e) => {
@@ -432,7 +429,7 @@ async fn combine_daily_files(
         .append(true)
         .open(output_file)
         .await?;
-    let mut buffered_output = tokio::io::BufWriter::with_capacity(256 * 1024, final_output); // Smaller buffer
+    let mut buffered_output = tokio::io::BufWriter::with_capacity(256 * 1024, final_output); // Smaller buffer of 256KB
 
     let mut total_lines = 0;
     let pb = ProgressBar::new(dates.len() as u64);
@@ -771,34 +768,37 @@ async fn main() -> Result<()> {
 
     let stats = Statistics::new(dates.len());
 
-    // Process all days
-    process_days_parallel(&config, dates.clone(), &temp_dir, &stats).await?;
+    // Use a closure to ensure cleanup happens
+    let result = async {
+        // Process all days
+        process_days_parallel(&config, dates.clone(), &temp_dir, &stats).await?;
 
-    // Combine daily files
-    let total_lines =
-        combine_daily_files(&dates, &temp_dir, &config.output_file, config.resume_mode).await?;
+        // Combine daily files
+        let total_lines =
+            combine_daily_files(&dates, &temp_dir, &config.output_file, config.resume_mode).await?;
 
-    // Post-process if requested
-    if config.process_output {
-        process_output_file(&config.output_file).await?;
-    }
+        // Post-process if requested
+        if config.process_output {
+            process_output_file(&config.output_file).await?;
+        }
 
-    // Print final statistics
-    stats.print_final();
+        // Print final statistics
+        stats.print_final();
 
-    if let Ok(metadata) = std::fs::metadata(&config.output_file) {
-        println!(
-            "📊 Final output: {} ({:.2} MB, {} lines)",
-            config.output_file,
-            metadata.len() as f64 / 1_048_576.0,
-            total_lines
-        );
-    }
+        if let Ok(metadata) = std::fs::metadata(&config.output_file) {
+            println!(
+                "📊 Final output: {} ({:.2} MB, {} lines)",
+                config.output_file,
+                metadata.len() as f64 / 1_048_576.0,
+                total_lines
+            );
+        }
 
-    // Cleanup temp directory
-    if let Err(e) = std::fs::remove_dir_all(&temp_dir) {
-        eprintln!("⚠️  Failed to cleanup temp directory: {}", e);
-    }
+        Ok::<(), anyhow::Error>(())
+    }.await;
 
-    Ok(())
+    // Cleanup happens automatically when temp_dir_handle is dropped
+    drop(temp_dir_handle);
+
+    result
 }
