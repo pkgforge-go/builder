@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate-alias",
+  "pkg_family": "protobuf",
+  "pkg_id": "generate-alias#github.com_golang_protobuf",
+  "pkg_name": "generate-alias",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/protobuf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go support for Google_s protocol buffers",
+  "homepage": [
+    "https://github.com/golang/protobuf"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-alias",
+    "protoc-gen-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/protobuf/archive/75de7c059e36b64f01d0dd234ff2fff404ec3374.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "protobuf",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-75de7c0-240306T074540",
+  "version_upstream": "v1.5.4",
+  "bsum": "6072eac4a4545ce6cdea59cc114fcf3660f7b2804b9e9d14edcf16891e5f8d33",
+  "build_date": "2025-06-20T03:49:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770220539",
+  "build_id": "15770220539",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/protobuf/generate-alias?tag=HEAD-75de7c0-240306T074540-riscv64-Linux&download=generate-alias.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9962",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/protobuf/generate-alias?tag=HEAD-75de7c0-240306T074540-riscv64-Linux&download=generate-alias",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/protobuf/generate-alias:HEAD-75de7c0-240306T074540-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/protobuf/generate-alias",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/protobuf/generate-alias?tag=HEAD-75de7c0-240306T074540-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "282a3c22802d6c7e80963cfd06d48764279f3d42c20fcdf3d25fd706baacac55",
+  "size": "6.2 MB",
+  "size_raw": "6487352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
