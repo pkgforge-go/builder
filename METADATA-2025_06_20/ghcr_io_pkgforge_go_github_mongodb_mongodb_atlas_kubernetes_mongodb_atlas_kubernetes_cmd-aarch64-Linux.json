@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mongodb-atlas-kubernetes-cmd",
+  "pkg_family": "mongodb-atlas-kubernetes",
+  "pkg_id": "mongodb-atlas-kubernetes-cmd#github.com_mongodb_mongodb_atlas_kubernetes",
+  "pkg_name": "mongodb-atlas-kubernetes-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mongodb/mongodb-atlas-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MongoDB Atlas Kubernetes Operator - Manage your MongoDB Atlas clusters from Kubernetes",
+  "homepage": [
+    "https://github.com/mongodb/mongodb-atlas-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compute-test-labels",
+    "mongodb-atlas-kubernetes-cmd",
+    "post-install",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mongodb/mongodb-atlas-kubernetes/archive/9b16514464640dea16fcf86b40a364fa72388a76.tar.gz"
+  ],
+  "tag": [
+    "atlas-api",
+    "atlas-cluster",
+    "kubernetes",
+    "mongodb-atlas-kubernetes",
+    "mongodb-atlas-operator"
+  ],
+  "version": "HEAD-9b16514-250620T091030",
+  "version_upstream": "",
+  "bsum": "95e2ff2fcdc2ace316b8e14b2bee4f2ef9e455221aef74dc4d6e9927447d6f1b",
+  "build_date": "2025-06-20T22:49:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788469212",
+  "build_id": "15788469212",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/mongodb-atlas-kubernetes-cmd?tag=HEAD-9b16514-250620T091030-aarch64-Linux&download=mongodb-atlas-kubernetes-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/mongodb-atlas-kubernetes-cmd?tag=HEAD-9b16514-250620T091030-aarch64-Linux&download=mongodb-atlas-kubernetes-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/mongodb-atlas-kubernetes-cmd:HEAD-9b16514-250620T091030-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/mongodb-atlas-kubernetes-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/mongodb-atlas-kubernetes-cmd?tag=HEAD-9b16514-250620T091030-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba07da3be41600845724814ba923b7e6519e1efa1585b75367b7c4b532d57788",
+  "size": "67 MB",
+  "size_raw": "70052192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
