@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go-mysqldump",
+  "pkg_family": "go-mysql",
+  "pkg_id": "go-mysqldump#github.com_go_mysql_org_go_mysql",
+  "pkg_name": "go-mysqldump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-mysql-org/go-mysql",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a powerful mysql toolset with Go",
+  "homepage": [
+    "https://github.com/go-mysql-org/go-mysql"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-binlogparser",
+    "go-canal",
+    "go-mysqlbinlog",
+    "go-mysqldump",
+    "go-mysqlserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-mysql-org/go-mysql/archive/447a516ce9c0d224ac33a22798944302f1345dae.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-447a516-250611T090020",
+  "version_upstream": "",
+  "bsum": "4db2acb3f051f5ca473597515463c1e564b0892fb6030a267d0f446fc7d62801",
+  "build_date": "2025-06-20T03:27:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770137424",
+  "build_id": "15770137424",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-mysql-org/go-mysql/go-mysqldump?tag=HEAD-447a516-250611T090020-aarch64-Linux&download=go-mysqldump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4767",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-mysql-org/go-mysql/go-mysqldump?tag=HEAD-447a516-250611T090020-aarch64-Linux&download=go-mysqldump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-mysql-org/go-mysql/go-mysqldump:HEAD-447a516-250611T090020-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-mysql-org/go-mysql/go-mysqldump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-mysql-org/go-mysql/go-mysqldump?tag=HEAD-447a516-250611T090020-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be60854f6454432f9bdef1ce49f49d9707dc27793b7f55774ee16c5479140b2b",
+  "size": "2.9 MB",
+  "size_raw": "3039008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
