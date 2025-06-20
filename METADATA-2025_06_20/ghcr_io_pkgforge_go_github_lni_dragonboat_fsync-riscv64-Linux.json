@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fsync",
+  "pkg_family": "dragonboat",
+  "pkg_id": "fsync#github.com_lni_dragonboat",
+  "pkg_name": "fsync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lni/dragonboat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A feature complete and high performance multi-group Raft library in Go.",
+  "homepage": [
+    "https://github.com/lni/dragonboat"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fsync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lni/dragonboat/archive/6a1623140f27d3da7ebdbeeb9d2cf16eed5a5c43.tar.gz"
+  ],
+  "tag": [
+    "consensus",
+    "distributed-consensus",
+    "distributed-storage",
+    "distributed-systems",
+    "go",
+    "golang",
+    "paxos",
+    "raft",
+    "raft-algorithm",
+    "raft-protocol",
+    "replicated-state-machines"
+  ],
+  "version": "HEAD-6a16231-240618T223154",
+  "version_upstream": "",
+  "bsum": "d2e3a2fe92ceff34f53477f092044d7d45e4c341b3b2c20eebfccb649224b4a6",
+  "build_date": "2025-06-20T20:49:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787177186",
+  "build_id": "15787177186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lni/dragonboat/fsync?tag=HEAD-6a16231-240618T223154-riscv64-Linux&download=fsync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5188",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lni/dragonboat/fsync?tag=HEAD-6a16231-240618T223154-riscv64-Linux&download=fsync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lni/dragonboat/fsync:HEAD-6a16231-240618T223154-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lni/dragonboat/fsync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lni/dragonboat/fsync?tag=HEAD-6a16231-240618T223154-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fea274a03530a864731d071f2e58b7da5ed2e086ee466e5250fed98b7bf7a4a0",
+  "size": "1.6 MB",
+  "size_raw": "1675880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
