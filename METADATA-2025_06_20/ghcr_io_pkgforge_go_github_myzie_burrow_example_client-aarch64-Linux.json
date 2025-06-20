@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "example_client",
+  "pkg_family": "burrow",
+  "pkg_id": "example_client#github.com_myzie_burrow",
+  "pkg_name": "example_client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/myzie/burrow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Burrow is a globally distributed HTTP proxy via AWS Lambda",
+  "homepage": [
+    "https://github.com/myzie/burrow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example_client",
+    "example_multi_region"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/myzie/burrow/archive/f39379fce516771afaac9041d412fe95ccdbb6a2.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "aws-lambda",
+    "golang",
+    "http",
+    "proxy",
+    "proxy-server",
+    "serverless"
+  ],
+  "version": "HEAD-f39379f-241121T121614",
+  "version_upstream": "v0.0.6",
+  "bsum": "6deee3fb99df03c86cfe6cef4d18b2fa490c10c1ec936aa5bbbbcf2b865d4a35",
+  "build_date": "2025-06-20T23:33:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789181635",
+  "build_id": "15789181635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/myzie/burrow/example_client?tag=HEAD-f39379f-241121T121614-aarch64-Linux&download=example_client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "241",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/myzie/burrow/example_client?tag=HEAD-f39379f-241121T121614-aarch64-Linux&download=example_client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/myzie/burrow/example_client:HEAD-f39379f-241121T121614-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/myzie/burrow/example_client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/myzie/burrow/example_client?tag=HEAD-f39379f-241121T121614-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d75ec9c0248b1a4f1d36e436a120a6d175aac43177ae5bbfbfe00fe0b9eaab1",
+  "size": "5.9 MB",
+  "size_raw": "6144032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
