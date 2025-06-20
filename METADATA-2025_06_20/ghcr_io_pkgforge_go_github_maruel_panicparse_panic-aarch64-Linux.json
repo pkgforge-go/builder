@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "panic",
+  "pkg_family": "panicparse",
+  "pkg_id": "panic#github.com_maruel_panicparse",
+  "pkg_name": "panic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maruel/panicparse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Crash your app in style _Golang_",
+  "homepage": [
+    "https://github.com/maruel/panicparse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "panic",
+    "panicparse",
+    "panicweb",
+    "pp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/maruel/panicparse/archive/da0aba9faf6cbc1094b5e2910b4c2756b264d1e7.tar.gz"
+  ],
+  "tag": [
+    "crash",
+    "go",
+    "panic",
+    "stack-traces"
+  ],
+  "version": "HEAD-da0aba9-250313T165448",
+  "version_upstream": "v2.5.0",
+  "bsum": "80dfdc7487bd635298fc2e0285f2d9e06c0e03ac0eecd7379aeeac00db19cf43",
+  "build_date": "2025-06-20T21:37:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787904513",
+  "build_id": "15787904513",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/panicparse/panic?tag=HEAD-da0aba9-250313T165448-aarch64-Linux&download=panic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3671",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/panicparse/panic?tag=HEAD-da0aba9-250313T165448-aarch64-Linux&download=panic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maruel/panicparse/panic:HEAD-da0aba9-250313T165448-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maruel/panicparse/panic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/panicparse/panic?tag=HEAD-da0aba9-250313T165448-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f559ed584218db1f8e5f6122f2f8641fe5935f815a6e8c778523288e60b27e11",
+  "size": "1.7 MB",
+  "size_raw": "1702360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
