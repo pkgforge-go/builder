@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ldapnomnom",
+  "pkg_family": "ldapnomnom",
+  "pkg_id": "ldapnomnom#github.com_lkarlslund_ldapnomnom",
+  "pkg_name": "ldapnomnom",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lkarlslund/ldapnomnom",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by _ab_using LDAP Ping requests _cLDAP_",
+  "homepage": [
+    "https://github.com/lkarlslund/ldapnomnom"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ldapnomnom"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lkarlslund/ldapnomnom/archive/bdc7fae37d6745f81788c34c782a564cb0f99225.tar.gz"
+  ],
+  "tag": [
+    "active-directory",
+    "bruteforce",
+    "bruteforcer",
+    "cldap",
+    "ldap"
+  ],
+  "version": "HEAD-bdc7fae-241109T110827",
+  "version_upstream": "v1.5.1",
+  "bsum": "8edc82d16985cb5ea862350bd427a1baf2d72e22bda32897a12d12d169a0b7c0",
+  "build_date": "2025-06-20T20:48:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787171303",
+  "build_id": "15787171303",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lkarlslund/ldapnomnom/ldapnomnom?tag=HEAD-bdc7fae-241109T110827-riscv64-Linux&download=ldapnomnom.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1033",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lkarlslund/ldapnomnom/ldapnomnom?tag=HEAD-bdc7fae-241109T110827-riscv64-Linux&download=ldapnomnom",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lkarlslund/ldapnomnom/ldapnomnom:HEAD-bdc7fae-241109T110827-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lkarlslund/ldapnomnom/ldapnomnom",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lkarlslund/ldapnomnom/ldapnomnom?tag=HEAD-bdc7fae-241109T110827-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06ffda51a78b1d0b904fd01aadab74a983c37370c04f2d10ba56847f939d67c5",
+  "size": "5.9 MB",
+  "size_raw": "6152632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
