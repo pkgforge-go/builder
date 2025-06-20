@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cc-wrapper",
+  "pkg_family": "llgo",
+  "pkg_id": "cc-wrapper#github.com_go_llvm_llgo",
+  "pkg_name": "cc-wrapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-llvm/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "LLVM-based compiler for Go",
+  "homepage": [
+    "https://github.com/go-llvm/llgo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchcomp",
+    "cc-wrapper",
+    "debuginfo",
+    "errors",
+    "for",
+    "if",
+    "makefilter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-llvm/llgo/archive/4b1e47815369ab6595cbb1a49f32556821c627d7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b1e478-150105T091537",
+  "version_upstream": "",
+  "bsum": "bac3f44dacfacb25af90160104ad43fc8c69a976e6b77fbdda5339245d004ae7",
+  "build_date": "2025-06-20T03:24:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770136028",
+  "build_id": "15770136028",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-llvm/llgo/cc-wrapper?tag=HEAD-4b1e478-150105T091537-x86_64-Linux&download=cc-wrapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1254",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-llvm/llgo/cc-wrapper?tag=HEAD-4b1e478-150105T091537-x86_64-Linux&download=cc-wrapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-llvm/llgo/cc-wrapper:HEAD-4b1e478-150105T091537-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-llvm/llgo/cc-wrapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-llvm/llgo/cc-wrapper?tag=HEAD-4b1e478-150105T091537-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4fb5f4f985556e74c821b6eff3b01703eb8af783f8389344d0a5566c4a376b44",
+  "size": "1.8 MB",
+  "size_raw": "1815576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
