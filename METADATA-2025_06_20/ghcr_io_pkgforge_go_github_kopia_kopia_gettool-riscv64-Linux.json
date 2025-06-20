@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gettool",
+  "pkg_family": "kopia",
+  "pkg_id": "gettool#github.com_kopia_kopia",
+  "pkg_name": "gettool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kopia/kopia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform backup tool for Windows, macOS _ Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+  "homepage": [
+    "https://github.com/kopia/kopia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigmapbench",
+    "cli2md",
+    "gettool",
+    "kopia",
+    "perf_benchmark",
+    "testingaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kopia/kopia/archive/126395f292c116d04e33a3ceb98322c9c3327161.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "cloud",
+    "deduplication",
+    "encryption",
+    "google-cloud-storage",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-126395f-250619T212502",
+  "version_upstream": "",
+  "bsum": "49ae90d48fa1212ae0cf8d369981731264032989e965caed3c97db02c4ded5c4",
+  "build_date": "2025-06-20T15:21:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781531883",
+  "build_id": "15781531883",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/gettool?tag=HEAD-126395f-250619T212502-riscv64-Linux&download=gettool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9866",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/gettool?tag=HEAD-126395f-250619T212502-riscv64-Linux&download=gettool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kopia/kopia/gettool:HEAD-126395f-250619T212502-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kopia/kopia/gettool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/gettool?tag=HEAD-126395f-250619T212502-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c5401b3b1216f34298431bb3390e097f5f2b1848af682bb6c6acd235e228c16",
+  "size": "5.9 MB",
+  "size_raw": "6130840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
