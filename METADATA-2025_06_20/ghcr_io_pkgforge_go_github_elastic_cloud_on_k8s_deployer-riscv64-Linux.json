@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "deployer",
+  "pkg_family": "cloud-on-k8s",
+  "pkg_id": "deployer#github.com_elastic_cloud_on_k8s",
+  "pkg_name": "deployer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/cloud-on-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Elastic Cloud on Kubernetes",
+  "homepage": [
+    "https://github.com/elastic/cloud-on-k8s"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloud-on-k8s-cmd",
+    "cmd",
+    "deployer",
+    "license-initializer",
+    "licensing-info",
+    "reattach-pv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/cloud-on-k8s/archive/8aba7126a904cec6a66b87e2f05d91829d5cbffc.tar.gz"
+  ],
+  "tag": [
+    "elasticsearch",
+    "go",
+    "kibana",
+    "kubernetes",
+    "kubernetes-operators"
+  ],
+  "version": "HEAD-8aba712-250620T150851",
+  "version_upstream": "",
+  "bsum": "35efeeb8c7a53d65dcfa36085ad359d5af5b9bfbc4de1c0cb8eaee4c614670d2",
+  "build_date": "2025-06-20T18:02:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784203385",
+  "build_id": "15784203385",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloud-on-k8s/deployer?tag=HEAD-8aba712-250620T150851-riscv64-Linux&download=deployer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2728",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloud-on-k8s/deployer?tag=HEAD-8aba712-250620T150851-riscv64-Linux&download=deployer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/cloud-on-k8s/deployer:HEAD-8aba712-250620T150851-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/cloud-on-k8s/deployer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloud-on-k8s/deployer?tag=HEAD-8aba712-250620T150851-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b60de2c375b3d028dc4232ebc7612c79ea63005dd73e71658d50ab5f05bb3183",
+  "size": "19 MB",
+  "size_raw": "19846264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
