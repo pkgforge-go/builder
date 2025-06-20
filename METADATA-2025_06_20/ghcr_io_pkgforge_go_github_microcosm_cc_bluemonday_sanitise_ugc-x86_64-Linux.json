@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sanitise_ugc",
+  "pkg_family": "bluemonday",
+  "pkg_id": "sanitise_ugc#github.com_microcosm_cc_bluemonday",
+  "pkg_name": "sanitise_ugc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microcosm-cc/bluemonday",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "bluemonday: a fast golang HTML sanitizer _inspired by the OWASP Java HTML Sanitizer_ to scrub user generated content of XSS",
+  "homepage": [
+    "https://github.com/microcosm-cc/bluemonday"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sanitise_html_email",
+    "sanitise_ugc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microcosm-cc/bluemonday/archive/aba082a57c7522316c772ab0dec7e5dbc9833bfa.tar.gz"
+  ],
+  "tag": [
+    "allowlist",
+    "go",
+    "golang",
+    "html",
+    "owasp",
+    "sanitization",
+    "security",
+    "xss"
+  ],
+  "version": "HEAD-aba082a-250404T115548",
+  "version_upstream": "",
+  "bsum": "28b1e5476cb2770f5f4a5b74aed67e9ea6129355374ceea66b687cceae2b4e7a",
+  "build_date": "2025-06-20T22:12:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788351163",
+  "build_id": "15788351163",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microcosm-cc/bluemonday/sanitise_ugc?tag=HEAD-aba082a-250404T115548-x86_64-Linux&download=sanitise_ugc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3419",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microcosm-cc/bluemonday/sanitise_ugc?tag=HEAD-aba082a-250404T115548-x86_64-Linux&download=sanitise_ugc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microcosm-cc/bluemonday/sanitise_ugc:HEAD-aba082a-250404T115548-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microcosm-cc/bluemonday/sanitise_ugc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microcosm-cc/bluemonday/sanitise_ugc?tag=HEAD-aba082a-250404T115548-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12c42ec0b4aa7b7ce6664f72a8ca308685ed0538ad30717acc5d0edfcf0fc408",
+  "size": "2.4 MB",
+  "size_raw": "2418168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
