@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "cloud-provider-openstack",
+  "pkg_id": "client#github.com_kubernetes_cloud_provider_openstack",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/cloud-provider-openstack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubernetes/cloud-provider-openstack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "barbican-kms-plugin",
+    "cinder-csi-plugin",
+    "client",
+    "client-keystone-auth",
+    "k8s-keystone-auth",
+    "magnum-auto-healer",
+    "manila-csi-plugin",
+    "octavia-ingress-controller",
+    "openstack-cloud-controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/cloud-provider-openstack/archive/250b868d88de38c8c4d7c317c45068b314250c7c.tar.gz"
+  ],
+  "tag": [
+    "cloud-controller-manager",
+    "csi-plugin",
+    "k8s-sig-cloud-provider",
+    "k8s-sig-storage",
+    "kubernetes",
+    "openstack"
+  ],
+  "version": "HEAD-250b868-250620T041852",
+  "version_upstream": "",
+  "bsum": "b28dbebdaa6b6a97724fbd4eccb49b3629ce07432828bf6fd3267154d6180405",
+  "build_date": "2025-06-20T19:39:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785646797",
+  "build_id": "15785646797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/client?tag=HEAD-250b868-250620T041852-aarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/client?tag=HEAD-250b868-250620T041852-aarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/client:HEAD-250b868-250620T041852-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/client?tag=HEAD-250b868-250620T041852-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "975dcf624f6eb1e8ef4052feb5b1be4b0e8309e989e0585844a566d26366cf8f",
+  "size": "11 MB",
+  "size_raw": "11309184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

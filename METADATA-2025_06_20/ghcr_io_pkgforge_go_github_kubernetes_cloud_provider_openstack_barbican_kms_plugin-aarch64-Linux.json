@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "barbican-kms-plugin",
+  "pkg_family": "cloud-provider-openstack",
+  "pkg_id": "barbican-kms-plugin#github.com_kubernetes_cloud_provider_openstack",
+  "pkg_name": "barbican-kms-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/cloud-provider-openstack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubernetes/cloud-provider-openstack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "barbican-kms-plugin",
+    "cinder-csi-plugin",
+    "client",
+    "client-keystone-auth",
+    "k8s-keystone-auth",
+    "magnum-auto-healer",
+    "manila-csi-plugin",
+    "octavia-ingress-controller",
+    "openstack-cloud-controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/cloud-provider-openstack/archive/250b868d88de38c8c4d7c317c45068b314250c7c.tar.gz"
+  ],
+  "tag": [
+    "cloud-controller-manager",
+    "csi-plugin",
+    "k8s-sig-cloud-provider",
+    "k8s-sig-storage",
+    "kubernetes",
+    "openstack"
+  ],
+  "version": "HEAD-250b868-250620T041852",
+  "version_upstream": "",
+  "bsum": "02800b8a404863f004420509ee19bce026ba9118015b1ef0600ecc83fa2b7d4c",
+  "build_date": "2025-06-20T19:39:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785646797",
+  "build_id": "15785646797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/barbican-kms-plugin?tag=HEAD-250b868-250620T041852-aarch64-Linux&download=barbican-kms-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/barbican-kms-plugin?tag=HEAD-250b868-250620T041852-aarch64-Linux&download=barbican-kms-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/barbican-kms-plugin:HEAD-250b868-250620T041852-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/barbican-kms-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/barbican-kms-plugin?tag=HEAD-250b868-250620T041852-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1298f02b85e25e38d8d7acabafc42fbdb2e9381ee0484aa150a09faee9e601c9",
+  "size": "19 MB",
+  "size_raw": "19060672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
