@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pyroscope",
+  "pkg_family": "pyroscope",
+  "pkg_id": "pyroscope#github.com_grafana_pyroscope",
+  "pkg_name": "pyroscope",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/pyroscope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+  "homepage": [
+    "https://github.com/grafana/pyroscope"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc-generator",
+    "migrating-from-standard-pprof",
+    "profilecli",
+    "pyroscope",
+    "pyroscope-tools",
+    "update-contributors",
+    "yaml-to-json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/pyroscope/archive/06bcfc6280270941f4f3b27ebfe17f5f51639b7a.tar.gz"
+  ],
+  "tag": [
+    "continuous-profiling",
+    "developer-tools",
+    "devops",
+    "find-bottlenecks",
+    "golang",
+    "hacktoberfest",
+    "linux",
+    "monitoring",
+    "observability",
+    "performance",
+    "profiling",
+    "pyroscope",
+    "python",
+    "ruby"
+  ],
+  "version": "HEAD-06bcfc6-250620T201508",
+  "version_upstream": "",
+  "bsum": "dc1fb31721a937b7c65fd1dd38e1e9dbf090eef5179ef6ace38eee4a2d9cd226",
+  "build_date": "2025-06-20T18:43:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784421455",
+  "build_id": "15784421455",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-06bcfc6-250620T201508-riscv64-Linux&download=pyroscope.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10657",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-06bcfc6-250620T201508-riscv64-Linux&download=pyroscope",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/pyroscope/pyroscope:HEAD-06bcfc6-250620T201508-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/pyroscope/pyroscope",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-06bcfc6-250620T201508-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d68f4512c8323b76f5db32683dfad47294b6c412e2a3099aa3ec846f733d4ff",
+  "size": "76 MB",
+  "size_raw": "79536856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
