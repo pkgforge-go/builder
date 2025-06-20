@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ntp",
+  "pkg_family": "gokrazy",
+  "pkg_id": "ntp#github.com_gokrazy_gokrazy",
+  "pkg_name": "ntp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gokrazy/gokrazy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "turn your Go program_s_ into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs _x86_64 or ARM64_!",
+  "homepage": [
+    "https://github.com/gokrazy/gokrazy"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dhcp",
+    "heartbeat",
+    "ntp",
+    "randomd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gokrazy/gokrazy/archive/6a14de363d75540029d61d8252f0b474519a2f7d.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "linux",
+    "raspberry-pi",
+    "raspberrypi"
+  ],
+  "version": "HEAD-6a14de3-250604T090034",
+  "version_upstream": "",
+  "bsum": "c2a889b802d5295174cd4483f8436a26c6e61bea21b70b2e8ca429bc0fc5d280",
+  "build_date": "2025-06-20T03:55:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770270068",
+  "build_id": "15770270068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gokrazy/gokrazy/ntp?tag=HEAD-6a14de3-250604T090034-aarch64-Linux&download=ntp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3354",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gokrazy/gokrazy/ntp?tag=HEAD-6a14de3-250604T090034-aarch64-Linux&download=ntp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gokrazy/gokrazy/ntp:HEAD-6a14de3-250604T090034-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gokrazy/gokrazy/ntp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gokrazy/gokrazy/ntp?tag=HEAD-6a14de3-250604T090034-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3c05b9489e3ae537b45964568a5ea811e8211526b3cdfbcd7e71ca8ba695e08",
+  "size": "2.8 MB",
+  "size_raw": "2848832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
