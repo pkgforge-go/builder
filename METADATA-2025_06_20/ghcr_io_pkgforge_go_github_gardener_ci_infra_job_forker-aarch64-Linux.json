@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "job-forker",
+  "pkg_family": "ci-infra",
+  "pkg_id": "job-forker#github.com_gardener_ci_infra",
+  "pkg_name": "job-forker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/ci-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test infrastructure for the Gardener project.",
+  "homepage": [
+    "https://github.com/gardener/ci-infra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "branch-cleaner",
+    "cherrypicker",
+    "cla-assistant",
+    "image-builder",
+    "job-forker",
+    "milestone-activator",
+    "release-handler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/ci-infra/archive/7e6332fbe4052d30867ca707747797d59ba17f32.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7e6332f-250619T133629",
+  "version_upstream": "",
+  "bsum": "0b483d0b0f626607ae910ac2dba60bc0965ea161d3456a441a2da6db3b04c1c5",
+  "build_date": "2025-06-20T02:28:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769525724",
+  "build_id": "15769525724",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/ci-infra/job-forker?tag=HEAD-7e6332f-250619T133629-aarch64-Linux&download=job-forker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/ci-infra/job-forker?tag=HEAD-7e6332f-250619T133629-aarch64-Linux&download=job-forker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/ci-infra/job-forker:HEAD-7e6332f-250619T133629-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/ci-infra/job-forker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/ci-infra/job-forker?tag=HEAD-7e6332f-250619T133629-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93625758c6ce73edbaefc673f85690639400eb8b7465338b46515339d60053dc",
+  "size": "60 MB",
+  "size_raw": "62833120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
