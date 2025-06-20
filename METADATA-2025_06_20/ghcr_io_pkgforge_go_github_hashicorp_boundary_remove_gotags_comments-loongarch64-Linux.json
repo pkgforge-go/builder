@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "remove-gotags-comments",
+  "pkg_family": "boundary",
+  "pkg_id": "remove-gotags-comments#github.com_hashicorp_boundary",
+  "pkg_name": "remove-gotags-comments",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/boundary",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/boundary"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genapi",
+    "gencli",
+    "remove-gotags-comments"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/boundary/archive/1f64c1202ed9218dd709aad3f3b152cb6f75565b.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "hashicorp",
+    "security",
+    "zero-trust"
+  ],
+  "version": "HEAD-1f64c12-250619T165146",
+  "version_upstream": "",
+  "bsum": "e2896aa1d6a7e96d5803b8f2a3ac9d5ad7e7dc48ab5241b4eeafd2a0365c90bd",
+  "build_date": "2025-06-20T05:43:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771635070",
+  "build_id": "15771635070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/remove-gotags-comments?tag=HEAD-1f64c12-250619T165146-loongarch64-Linux&download=remove-gotags-comments.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/remove-gotags-comments?tag=HEAD-1f64c12-250619T165146-loongarch64-Linux&download=remove-gotags-comments",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/boundary/remove-gotags-comments:HEAD-1f64c12-250619T165146-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/boundary/remove-gotags-comments",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/remove-gotags-comments?tag=HEAD-1f64c12-250619T165146-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a6d344ca55d17af39af2a03bbb5fa1d4c8a2149e1696172ffb6968c05bb8e29",
+  "size": "15 MB",
+  "size_raw": "14775968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
