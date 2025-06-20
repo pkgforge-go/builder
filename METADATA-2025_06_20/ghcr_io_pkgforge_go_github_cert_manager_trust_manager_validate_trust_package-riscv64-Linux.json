@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "validate-trust-package",
+  "pkg_family": "trust-manager",
+  "pkg_id": "validate-trust-package#github.com_cert_manager_trust_manager",
+  "pkg_name": "validate-trust-package",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cert-manager/trust-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/cert-manager/trust-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "trust-manager",
+    "validate-trust-package"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cert-manager/trust-manager/archive/7a6205ce727853edb34c89ec4e9c5c2edf347d52.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "security",
+    "tls"
+  ],
+  "version": "HEAD-7a6205c-250620T135011",
+  "version_upstream": "",
+  "bsum": "fca70c915e42128fb90de66f13c89d8a25f75febf7cbad3a7d1ce003dab91b37",
+  "build_date": "2025-06-20T17:31:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15783581532",
+  "build_id": "15783581532",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/trust-manager/validate-trust-package?tag=HEAD-7a6205c-250620T135011-riscv64-Linux&download=validate-trust-package.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "321",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/trust-manager/validate-trust-package?tag=HEAD-7a6205c-250620T135011-riscv64-Linux&download=validate-trust-package",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cert-manager/trust-manager/validate-trust-package:HEAD-7a6205c-250620T135011-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cert-manager/trust-manager/validate-trust-package",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/trust-manager/validate-trust-package?tag=HEAD-7a6205c-250620T135011-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df6ade54b7e52e8e40c5c25092b0f4236e26655ffaf43f22e717db4cfe70379b",
+  "size": "3.3 MB",
+  "size_raw": "3371096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
