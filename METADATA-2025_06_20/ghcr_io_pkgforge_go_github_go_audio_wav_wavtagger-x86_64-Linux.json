@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wavtagger",
+  "pkg_family": "wav",
+  "pkg_id": "wavtagger#github.com_go_audio_wav",
+  "pkg_name": "wavtagger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-audio/wav",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Battle tested Wav decoder/encoder",
+  "homepage": [
+    "https://github.com/go-audio/wav"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-sine",
+    "metadata",
+    "wavtagger",
+    "wavtoaiff"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-audio/wav/archive/8b4315af26293f083333d7d02dea3cf12f4d1a56.tar.gz"
+  ],
+  "tag": [
+    "audio",
+    "decoder",
+    "encoder",
+    "golang",
+    "wav"
+  ],
+  "version": "HEAD-8b4315a-241028T081703",
+  "version_upstream": "",
+  "bsum": "0b76a5767005054148e20ff7678da2f9e43275fa22d1afdfd0ecb3143f2f1d19",
+  "build_date": "2025-06-20T03:00:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769634975",
+  "build_id": "15769634975",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/wavtagger?tag=HEAD-8b4315a-241028T081703-x86_64-Linux&download=wavtagger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "345",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/wavtagger?tag=HEAD-8b4315a-241028T081703-x86_64-Linux&download=wavtagger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-audio/wav/wavtagger:HEAD-8b4315a-241028T081703-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-audio/wav/wavtagger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-audio/wav/wavtagger?tag=HEAD-8b4315a-241028T081703-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19a7443291fb67c5722dee44f6e197acba8b2d6c7f58b17f656371fc2d33586e",
+  "size": "2.3 MB",
+  "size_raw": "2369624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
