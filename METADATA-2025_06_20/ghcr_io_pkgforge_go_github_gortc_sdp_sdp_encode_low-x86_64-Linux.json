@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sdp-encode-low",
+  "pkg_family": "sdp",
+  "pkg_id": "sdp-encode-low#github.com_gortc_sdp",
+  "pkg_name": "sdp-encode-low",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gortc/sdp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RFC 4566 SDP implementation in go",
+  "homepage": [
+    "https://github.com/gortc/sdp"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sdp-decode",
+    "sdp-encode",
+    "sdp-encode-low"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gortc/sdp/archive/a7dc7232312a35d392e569c36448ba1860fde415.tar.gz"
+  ],
+  "tag": [
+    "decoder",
+    "encoding",
+    "go",
+    "golang",
+    "gortc",
+    "protocol",
+    "rfc-4566",
+    "sdp",
+    "webrtc"
+  ],
+  "version": "HEAD-a7dc723-200501T194010",
+  "version_upstream": "",
+  "bsum": "62af65eff725b056eab355ce2b80053c808696a9680e9312a7734e8214af2b60",
+  "build_date": "2025-06-20T04:38:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771136332",
+  "build_id": "15771136332",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode-low?tag=HEAD-a7dc723-200501T194010-x86_64-Linux&download=sdp-encode-low.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "113",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode-low?tag=HEAD-a7dc723-200501T194010-x86_64-Linux&download=sdp-encode-low",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gortc/sdp/sdp-encode-low:HEAD-a7dc723-200501T194010-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gortc/sdp/sdp-encode-low",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/sdp/sdp-encode-low?tag=HEAD-a7dc723-200501T194010-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8384f18db3e1e0eb8ce53dda95f4ac586dace3044e163f7282d8d56c409d2e70",
+  "size": "1.7 MB",
+  "size_raw": "1769176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
