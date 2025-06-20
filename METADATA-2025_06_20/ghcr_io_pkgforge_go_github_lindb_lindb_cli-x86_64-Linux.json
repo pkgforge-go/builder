@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "lindb",
+  "pkg_id": "cli#github.com_lindb_lindb",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lindb/lindb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "LinDB is a scalable, high performance, high availability distributed time series database.",
+  "homepage": [
+    "https://github.com/lindb/lindb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "lind",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lindb/lindb/archive/612070e1dc6043d2ea47d5b3bc6dccd51eefaee4.tar.gz"
+  ],
+  "tag": [
+    "cross-datacenter-native",
+    "database",
+    "distributed-database",
+    "go",
+    "high-performance",
+    "metrics",
+    "monitoring",
+    "timeseries"
+  ],
+  "version": "HEAD-612070e-240816T094823",
+  "version_upstream": "",
+  "bsum": "0bbaa10853fdc69598cbf2182e826f4026a10cee15df9c7ba96d19c88d734f10",
+  "build_date": "2025-06-20T20:38:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786777904",
+  "build_id": "15786777904",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/cli?tag=HEAD-612070e-240816T094823-x86_64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3039",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/cli?tag=HEAD-612070e-240816T094823-x86_64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lindb/lindb/cli:HEAD-612070e-240816T094823-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lindb/lindb/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/cli?tag=HEAD-612070e-240816T094823-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c0a27f434cea260faf0bc60d43c3bc55bc2f1ef0869e7b89d0a2891f462ea9f0",
+  "size": "12 MB",
+  "size_raw": "11682912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
