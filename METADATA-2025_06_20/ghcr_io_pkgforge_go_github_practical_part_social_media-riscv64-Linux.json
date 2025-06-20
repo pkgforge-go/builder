@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "social-media",
+  "pkg_family": "webinars_practical_part",
+  "pkg_id": "social-media#github.com_OtusGolang_webinars_practical_part",
+  "pkg_name": "social-media",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OtusGolang/webinars_practical_part",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Практические примеры для вебинаров курса OTUS «Разработчик Golang»",
+  "homepage": [
+    "https://github.com/OtusGolang/webinars_practical_part"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-tcp-chat",
+    "02-chat-client",
+    "03-udp-server",
+    "04-udp-client",
+    "05-dns-resolver",
+    "06-context",
+    "06b-context",
+    "07-signal-notyfy-context",
+    "08-gracefull-stop",
+    "09-context-with-value",
+    "09_pointerkeys",
+    "10-context-with-cancel",
+    "11-context-with-timeout",
+    "12-context-with-deadline",
+    "14_pprof_svg_and_web",
+    "15_flamegraph",
+    "16_trace",
+    "aerospike",
+    "base64",
+    "base64flow",
+    "broker",
+    "clickhouse",
+    "halfsum",
+    "heap",
+    "mongo",
+    "msgpackex",
+    "protobufex",
+    "read_race",
+    "redis",
+    "social-media",
+    "stack",
+    "stack_pointer",
+    "testsql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OtusGolang/webinars_practical_part/archive/81eab85b5fe3735ecdf17fbd45a1d448606d9cdf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-81eab85-250619T125223",
+  "version_upstream": "",
+  "bsum": "c2f6a6d096972d6f67b97377b6d704f3052585baad717a9eb50ca61cb9c27740",
+  "build_date": "2025-06-20T07:34:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773114732",
+  "build_id": "15773114732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/practical/part/social-media?tag=HEAD-81eab85-250619T125223-riscv64-Linux&download=social-media.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "100",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/practical/part/social-media?tag=HEAD-81eab85-250619T125223-riscv64-Linux&download=social-media",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/practical/part/social-media:HEAD-81eab85-250619T125223-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/practical/part/social-media",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/practical/part/social-media?tag=HEAD-81eab85-250619T125223-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bfbf7e3147e9f297394369e5e71ccf2e84f0ab70a5041281922aa64d4b488052",
+  "size": "8.9 MB",
+  "size_raw": "9257656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
