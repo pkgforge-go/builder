@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "immortal",
+  "pkg_family": "immortal",
+  "pkg_id": "immortal#github.com_immortal_immortal",
+  "pkg_name": "immortal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/immortal/immortal",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⭕  A *nix cross-platform _OS agnostic_ supervisor",
+  "homepage": [
+    "https://github.com/immortal/immortal"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "immortal",
+    "immortalctl",
+    "immortaldir"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/immortal/immortal/archive/f20d21df606ca1fd5fa066c0e94f2ac8a2a198dc.tar.gz"
+  ],
+  "tag": [
+    "daemon",
+    "http",
+    "nix-cross-platform",
+    "os-agnostic",
+    "process",
+    "supervisor",
+    "unix",
+    "unix-socket"
+  ],
+  "version": "HEAD-f20d21d-240721T211056",
+  "version_upstream": "v0.24.6",
+  "bsum": "a4513699f19d641ddf45cc9faa9d22178e38ab6e51f0fee5a3a5d64a1cb12738",
+  "build_date": "2025-06-20T06:48:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772496717",
+  "build_id": "15772496717",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/immortal/immortal/immortal?tag=HEAD-f20d21d-240721T211056-aarch64-Linux&download=immortal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "816",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/immortal/immortal/immortal?tag=HEAD-f20d21d-240721T211056-aarch64-Linux&download=immortal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/immortal/immortal/immortal:HEAD-f20d21d-240721T211056-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/immortal/immortal/immortal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/immortal/immortal/immortal?tag=HEAD-f20d21d-240721T211056-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5aefb138389c8731f77f33220e46b85c6e2d770984caa954cc250497d322d82",
+  "size": "7.1 MB",
+  "size_raw": "7428704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
