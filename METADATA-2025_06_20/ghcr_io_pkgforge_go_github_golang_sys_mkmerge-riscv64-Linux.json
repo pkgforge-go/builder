@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mkmerge",
+  "pkg_family": "sys",
+  "pkg_id": "mkmerge#github.com_golang_sys",
+  "pkg_name": "mkmerge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/sys",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go packages for low-level interaction with the operating system",
+  "homepage": [
+    "https://github.com/golang/sys"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mkmerge",
+    "mkwinsyscall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/sys/archive/751c3c6ac2a644645976e8e7f3db0b75c87d32c6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-751c3c6-250617T103538",
+  "version_upstream": "",
+  "bsum": "adb8b7995bffaf84320fb7c6e27a79ede1b5ffcc6df65da85df50fcb9c4786f3",
+  "build_date": "2025-06-20T04:08:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770557519",
+  "build_id": "15770557519",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/sys/mkmerge?tag=HEAD-751c3c6-250617T103538-riscv64-Linux&download=mkmerge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1309",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/sys/mkmerge?tag=HEAD-751c3c6-250617T103538-riscv64-Linux&download=mkmerge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/sys/mkmerge:HEAD-751c3c6-250617T103538-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/sys/mkmerge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/sys/mkmerge?tag=HEAD-751c3c6-250617T103538-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "59390532eb28c9610944c1e24ffb7ae674e8211f0a52817875ab58eca34d77db",
+  "size": "2.7 MB",
+  "size_raw": "2770312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
