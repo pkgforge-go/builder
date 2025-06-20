@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "natpass",
+  "pkg_id": "server#github.com_lwch_natpass",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lwch/natpass",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🔥居家办公，远程开发神器",
+  "homepage": [
+    "https://github.com/lwch/natpass"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bindata",
+    "code-server-forward",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lwch/natpass/archive/0e5b71ae8469d7a88fd08eb9fdd6deec4ce42c5e.tar.gz"
+  ],
+  "tag": [
+    "code-server",
+    "golang",
+    "protobuf",
+    "shell",
+    "tls",
+    "vnc"
+  ],
+  "version": "HEAD-0e5b71a-240424T134347",
+  "version_upstream": "",
+  "bsum": "334bbac79d125b0ff61bf9d235e696486472eb3d496dae7f32fecf4d761e8545",
+  "build_date": "2025-06-20T21:10:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787281099",
+  "build_id": "15787281099",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lwch/natpass/server?tag=HEAD-0e5b71a-240424T134347-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4417",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lwch/natpass/server?tag=HEAD-0e5b71a-240424T134347-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lwch/natpass/server:HEAD-0e5b71a-240424T134347-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lwch/natpass/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lwch/natpass/server?tag=HEAD-0e5b71a-240424T134347-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d64739538ae69df567fbd0f227fc00a8df998c9e444145e8f59ef268022947b7",
+  "size": "12 MB",
+  "size_raw": "11595808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
