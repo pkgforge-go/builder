@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kueue",
+  "pkg_family": "kueue",
+  "pkg_id": "kueue#github.com_kubernetes_sigs_kueue",
+  "pkg_name": "kueue",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/kueue",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-native Job Queueing",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/kueue"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "importer",
+    "kueue",
+    "kueuectl",
+    "kueuectl-docs",
+    "minimalkueue",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/kueue/archive/828472c9a9477698e0abeec6ea3bfd71e132d0a7.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "k8s-sig-scheduling",
+    "kubernetes"
+  ],
+  "version": "HEAD-828472c-250620T071052",
+  "version_upstream": "",
+  "bsum": "0241b7cfcea5bc01118f510e3b980c6b23ebc31ef0a4e8955a0e5f50712148f2",
+  "build_date": "2025-06-20T19:39:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785646092",
+  "build_id": "15785646092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kueue/kueue?tag=HEAD-828472c-250620T071052-loongarch64-Linux&download=kueue.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1829",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kueue/kueue?tag=HEAD-828472c-250620T071052-loongarch64-Linux&download=kueue",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kueue/kueue:HEAD-828472c-250620T071052-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kueue/kueue",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kueue/kueue?tag=HEAD-828472c-250620T071052-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78a04b8f364bd856f44d447b6d5db73b828bb4a5ae6f252e8735fb2aeac2f967",
+  "size": "81 MB",
+  "size_raw": "84878880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
