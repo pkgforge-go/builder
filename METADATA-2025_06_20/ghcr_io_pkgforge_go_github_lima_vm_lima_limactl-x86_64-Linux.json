@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "limactl",
+  "pkg_family": "lima",
+  "pkg_id": "limactl#github.com_lima_vm_lima",
+  "pkg_name": "limactl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lima-vm/lima",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux virtual machines, with a focus on running containers",
+  "homepage": [
+    "https://github.com/lima-vm/lima"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lima-guestagent",
+    "limactl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lima-vm/lima/archive/448e0393fc0f9578dc73d5da6de5b86cc60da453.tar.gz"
+  ],
+  "tag": [
+    "containerd",
+    "macos",
+    "qemu",
+    "vm"
+  ],
+  "version": "HEAD-448e039-250620T161325",
+  "version_upstream": "",
+  "bsum": "ac3851e41218bc3a9941b75444fd937828986faedd70fe8b53ee8311a80d5d97",
+  "build_date": "2025-06-20T20:37:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786714576",
+  "build_id": "15786714576",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lima-vm/lima/limactl?tag=HEAD-448e039-250620T161325-x86_64-Linux&download=limactl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17422",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lima-vm/lima/limactl?tag=HEAD-448e039-250620T161325-x86_64-Linux&download=limactl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lima-vm/lima/limactl:HEAD-448e039-250620T161325-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lima-vm/lima/limactl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lima-vm/lima/limactl?tag=HEAD-448e039-250620T161325-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9e25d63774b6d5639ddd7b56f09831cac56635718cb4a55c90d28c7527e9c4ce",
+  "size": "32 MB",
+  "size_raw": "33358416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
