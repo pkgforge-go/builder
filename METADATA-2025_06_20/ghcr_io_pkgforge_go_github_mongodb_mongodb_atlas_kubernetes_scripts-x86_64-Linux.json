@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "mongodb-atlas-kubernetes",
+  "pkg_id": "scripts#github.com_mongodb_mongodb_atlas_kubernetes",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mongodb/mongodb-atlas-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MongoDB Atlas Kubernetes Operator - Manage your MongoDB Atlas clusters from Kubernetes",
+  "homepage": [
+    "https://github.com/mongodb/mongodb-atlas-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compute-test-labels",
+    "mongodb-atlas-kubernetes-cmd",
+    "post-install",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mongodb/mongodb-atlas-kubernetes/archive/9b16514464640dea16fcf86b40a364fa72388a76.tar.gz"
+  ],
+  "tag": [
+    "atlas-api",
+    "atlas-cluster",
+    "kubernetes",
+    "mongodb-atlas-kubernetes",
+    "mongodb-atlas-operator"
+  ],
+  "version": "HEAD-9b16514-250620T091030",
+  "version_upstream": "",
+  "bsum": "39192397043c71a7cf24a2d4cc968700649b5556508f277fb9022affb819fc27",
+  "build_date": "2025-06-20T22:49:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788469212",
+  "build_id": "15788469212",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/scripts?tag=HEAD-9b16514-250620T091030-x86_64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/scripts?tag=HEAD-9b16514-250620T091030-x86_64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/scripts:HEAD-9b16514-250620T091030-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-kubernetes/scripts?tag=HEAD-9b16514-250620T091030-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ff16a8e7dc0eba55e255398ba509a2f9735b96933fc5a4638bec31001f11f68",
+  "size": "37 MB",
+  "size_raw": "38779872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
