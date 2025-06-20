@@ -1,0 +1,63 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "eventing-autoscaler-keda",
+  "pkg_id": "webhook#github.com_knative_extensions_eventing_autoscaler_keda.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-autoscaler-keda.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150402",
+  "version_upstream": "",
+  "bsum": "10fa5965c3ab66396336ca527be1cead32d1a3c174726136e4b642dfaf37b5c2",
+  "build_date": "2025-06-20T15:09:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780760616",
+  "build_id": "15780760616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150402-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150402-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/autoscaler/keda.git/webhook:20250620T150402-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/autoscaler/keda.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150402-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42d42f142b85546066e8f730a2e7aaf7e1f945c109093287b3a0da522acc56eb",
+  "size": "56 MB",
+  "size_raw": "58075256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
