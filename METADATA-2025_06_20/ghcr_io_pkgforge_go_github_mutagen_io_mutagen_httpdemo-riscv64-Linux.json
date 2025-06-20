@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "httpdemo",
+  "pkg_family": "mutagen",
+  "pkg_id": "httpdemo#github.com_mutagen_io_mutagen",
+  "pkg_name": "httpdemo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mutagen-io/mutagen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast file synchronization and network forwarding for remote development",
+  "homepage": [
+    "https://github.com/mutagen-io/mutagen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci",
+    "httpdemo",
+    "lockertest",
+    "mutagen",
+    "mutagen-agent",
+    "mutagen-sidecar",
+    "scan_bench",
+    "scripts",
+    "watch_demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mutagen-io/mutagen/archive/03c982a3a34e1dfe496f4bcd4ee7ced34307db68.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-03c982a-250224T154040",
+  "version_upstream": "",
+  "bsum": "8fc5537015f67b20f513701f6ffb5337de8b99eb3e4bcea799f52ef47bc101fb",
+  "build_date": "2025-06-20T23:28:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789130307",
+  "build_id": "15789130307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/httpdemo?tag=HEAD-03c982a-250224T154040-riscv64-Linux&download=httpdemo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/httpdemo?tag=HEAD-03c982a-250224T154040-riscv64-Linux&download=httpdemo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mutagen-io/mutagen/httpdemo:HEAD-03c982a-250224T154040-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mutagen-io/mutagen/httpdemo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/httpdemo?tag=HEAD-03c982a-250224T154040-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67098c5f162b1c8ee5d7ed27812f1628182588492b667d14ae7b5cba60291a37",
+  "size": "5.5 MB",
+  "size_raw": "5743032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
