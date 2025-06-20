@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nomad-driver-podman",
+  "pkg_family": "nomad-driver-podman",
+  "pkg_id": "nomad-driver-podman#github.com_hashicorp_nomad_driver_podman",
+  "pkg_name": "nomad-driver-podman",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/nomad-driver-podman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A nomad task driver plugin for sandboxing workloads in podman containers",
+  "homepage": [
+    "https://github.com/hashicorp/nomad-driver-podman"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nomad-driver-podman"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/nomad-driver-podman/archive/12a687de699aabea54a13bbddce1a50f05072cb7.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "dockerless",
+    "nomad",
+    "nomad-podman-driver",
+    "podman",
+    "sandbox"
+  ],
+  "version": "HEAD-12a687d-250619T163608",
+  "version_upstream": "nightly",
+  "bsum": "c65cef89a78209168752629d40dfd51a660e3acbc134aed128ca6a890e864057",
+  "build_date": "2025-06-20T09:31:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774925974",
+  "build_id": "15774925974",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-driver-podman/nomad-driver-podman?tag=HEAD-12a687d-250619T163608-riscv64-Linux&download=nomad-driver-podman.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "244",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-driver-podman/nomad-driver-podman?tag=HEAD-12a687d-250619T163608-riscv64-Linux&download=nomad-driver-podman",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/nomad-driver-podman/nomad-driver-podman:HEAD-12a687d-250619T163608-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/nomad-driver-podman/nomad-driver-podman",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-driver-podman/nomad-driver-podman?tag=HEAD-12a687d-250619T163608-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d4eab5a69a1b594c9b1f0c16351cea44d97b8d5235416f10276a651ddf370f7",
+  "size": "25 MB",
+  "size_raw": "25716672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
