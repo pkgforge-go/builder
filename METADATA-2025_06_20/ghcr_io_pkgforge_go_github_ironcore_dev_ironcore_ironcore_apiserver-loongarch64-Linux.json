@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ironcore-apiserver",
+  "pkg_family": "ironcore",
+  "pkg_id": "ironcore-apiserver#github.com_ironcore_dev_ironcore",
+  "pkg_name": "ironcore-apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ironcore-dev/ironcore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Infrastructure as a Service",
+  "homepage": [
+    "https://github.com/ironcore-dev/ironcore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bucketbroker",
+    "bucketpoollet",
+    "irictl-bucket",
+    "irictl-machine",
+    "irictl-volume",
+    "ironcore-apiserver",
+    "ironcore-controller-manager",
+    "machinebroker",
+    "machinepoollet",
+    "models-schema",
+    "volumebroker",
+    "volumepoollet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ironcore-dev/ironcore/archive/6c985df856069bd4cfb4b8f763abf8d2f9dc6899.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cloudnative",
+    "iaas",
+    "infrastructure",
+    "ironcore",
+    "kubernetes",
+    "onmetal-api"
+  ],
+  "version": "HEAD-6c985df-250620T100354",
+  "version_upstream": "",
+  "bsum": "dcc4463cf56045352b51c36729f0ca11d6a891b7c09ba0a5271201050ecb15b9",
+  "build_date": "2025-06-20T19:16:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785118960",
+  "build_id": "15785118960",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/ironcore-apiserver?tag=HEAD-6c985df-250620T100354-loongarch64-Linux&download=ironcore-apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/ironcore-apiserver?tag=HEAD-6c985df-250620T100354-loongarch64-Linux&download=ironcore-apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ironcore-dev/ironcore/ironcore-apiserver:HEAD-6c985df-250620T100354-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ironcore-dev/ironcore/ironcore-apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/ironcore-apiserver?tag=HEAD-6c985df-250620T100354-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "190e6c6f614b66785d48662f3f424033a1d8f9020dbc44ac48d07fdaf210918a",
+  "size": "78 MB",
+  "size_raw": "80799488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
