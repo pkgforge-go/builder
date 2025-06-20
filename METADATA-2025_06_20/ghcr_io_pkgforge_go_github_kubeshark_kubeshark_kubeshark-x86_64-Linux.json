@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubeshark",
+  "pkg_family": "kubeshark",
+  "pkg_id": "kubeshark#github.com_kubeshark_kubeshark",
+  "pkg_name": "kubeshark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeshark/kubeshark",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes",
+  "homepage": [
+    "https://github.com/kubeshark/kubeshark"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubeshark"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeshark/kubeshark/archive/bedecdb080407d0295b81544440694fd65fcd761.tar.gz"
+  ],
+  "tag": [
+    "amqp",
+    "cloud-native",
+    "devops",
+    "devops-tools",
+    "docker",
+    "forensics",
+    "go",
+    "golang",
+    "grpc",
+    "incident-response",
+    "kafka",
+    "kubernetes",
+    "microservice",
+    "microservices",
+    "microservices-application",
+    "observability",
+    "redis",
+    "rest",
+    "sniffer",
+    "wireshark"
+  ],
+  "version": "HEAD-bedecdb-250618T084517",
+  "version_upstream": "",
+  "bsum": "1fb9112525b44bba18fe56dd548ce56c81f1b1cac4320400d6c53c57e50b8ad8",
+  "build_date": "2025-06-20T15:58:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781774023",
+  "build_id": "15781774023",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeshark/kubeshark/kubeshark?tag=HEAD-bedecdb-250618T084517-x86_64-Linux&download=kubeshark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11384",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeshark/kubeshark/kubeshark?tag=HEAD-bedecdb-250618T084517-x86_64-Linux&download=kubeshark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeshark/kubeshark/kubeshark:HEAD-bedecdb-250618T084517-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeshark/kubeshark/kubeshark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeshark/kubeshark/kubeshark?tag=HEAD-bedecdb-250618T084517-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54e87ece2e5e4da8c73b4ffed819b8266ebc7fafe12fbb9d5c0276f3a4112aa2",
+  "size": "76 MB",
+  "size_raw": "79478592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
