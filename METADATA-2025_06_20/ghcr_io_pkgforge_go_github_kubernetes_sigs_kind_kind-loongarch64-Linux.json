@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kind",
+  "pkg_family": "kind",
+  "pkg_id": "kind#github.com_kubernetes_sigs_kind",
+  "pkg_name": "kind",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/kind",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/kind"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kind"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/kind/archive/3df64e784cc0ea74125b2a2e9877817418afa3af.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "golang",
+    "k8s-sig-testing",
+    "kubeadm",
+    "kubernetes",
+    "podman"
+  ],
+  "version": "HEAD-3df64e7-250609T042824",
+  "version_upstream": "",
+  "bsum": "9042e90f8923c52538bdcd781c0eeb1f11933097350fa60605f19626002e2170",
+  "build_date": "2025-06-20T15:40:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781741355",
+  "build_id": "15781741355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kind/kind?tag=HEAD-3df64e7-250609T042824-loongarch64-Linux&download=kind.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14223",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kind/kind?tag=HEAD-3df64e7-250609T042824-loongarch64-Linux&download=kind",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kind/kind:HEAD-3df64e7-250609T042824-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kind/kind",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kind/kind?tag=HEAD-3df64e7-250609T042824-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b852442d9e10a10fb92354ff40922bff239f105d73a98da95ad949dc0be2929f",
+  "size": "11 MB",
+  "size_raw": "10702016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
