@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "docs",
+  "pkg_family": "mongodb-atlas-cli",
+  "pkg_id": "docs#github.com_mongodb_mongodb_atlas_cli",
+  "pkg_name": "docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mongodb/mongodb-atlas-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud",
+  "homepage": [
+    "https://github.com/mongodb/mongodb-atlas-cli"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-generator",
+    "apply-overlay",
+    "atlas",
+    "docs",
+    "genevergreen",
+    "libraryowners",
+    "otel",
+    "release",
+    "templates-checker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mongodb/mongodb-atlas-cli/archive/0082881aa55ff26eaf66d5740e6d862274b66ed2.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "infrastructure",
+    "mongodb",
+    "mongodb-atlas"
+  ],
+  "version": "HEAD-0082881-250620T132951",
+  "version_upstream": "",
+  "bsum": "01136242658aaf1515f81ec6c7fe8834cee061606eaecb2edeb5e6c5a2f25f05",
+  "build_date": "2025-06-20T23:02:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788468409",
+  "build_id": "15788468409",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-cli/docs?tag=HEAD-0082881-250620T132951-riscv64-Linux&download=docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "171",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-cli/docs?tag=HEAD-0082881-250620T132951-riscv64-Linux&download=docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mongodb/mongodb-atlas-cli/docs:HEAD-0082881-250620T132951-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mongodb/mongodb-atlas-cli/docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-atlas-cli/docs?tag=HEAD-0082881-250620T132951-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88fa10f8ce11f6e9f836ef701c4f47da817b06d9bb7aa4947d675b06215e0b50",
+  "size": "53 MB",
+  "size_raw": "54805208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
