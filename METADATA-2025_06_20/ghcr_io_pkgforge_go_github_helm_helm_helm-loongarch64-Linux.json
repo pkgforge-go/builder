@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "helm",
+  "pkg_family": "helm",
+  "pkg_id": "helm#github.com_helm_helm",
+  "pkg_name": "helm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/helm/helm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Kubernetes Package Manager",
+  "homepage": [
+    "https://github.com/helm/helm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/helm/helm/archive/8e69436435147239aafb13434067cd02cdecaa59.tar.gz"
+  ],
+  "tag": [
+    "chart",
+    "charts",
+    "cncf",
+    "helm",
+    "kubernetes"
+  ],
+  "version": "HEAD-8e69436-250617T151831",
+  "version_upstream": "",
+  "bsum": "c37ca6f06a6782acd7e086829a5b0efdc34796284f5baf6006eed81d2e4cf963",
+  "build_date": "2025-06-20T09:36:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775122859",
+  "build_id": "15775122859",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/helm/helm/helm?tag=HEAD-8e69436-250617T151831-loongarch64-Linux&download=helm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28028",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/helm/helm/helm?tag=HEAD-8e69436-250617T151831-loongarch64-Linux&download=helm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/helm/helm/helm:HEAD-8e69436-250617T151831-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/helm/helm/helm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/helm/helm/helm?tag=HEAD-8e69436-250617T151831-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d2a89e0bad511452497310b27163187ae5aaa3199e06bfa7d0b527cbb6b0840c",
+  "size": "80 MB",
+  "size_raw": "83500032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
