@@ -1,6 +1,11 @@
 //TODO: rewrite this properly, currently it is AI Garbage that does the bare minimum
 
+use anyhow::{anyhow, Context, Result};
+use chrono::{NaiveDate, Utc};
 use clap::{Arg, Command};
+use indexmap::IndexMap;
+use indicatif::{MultiProgress, ProgressBar, ProgressStyle};
+use reqwest::{Client, StatusCode};
 use serde::{Deserialize, Serialize};
 use serde_json::Value;
 use std::collections::HashMap;
@@ -14,11 +19,6 @@ use tokio::fs::{remove_file, OpenOptions};
 use tokio::io::AsyncWriteExt;
 use tokio::time::sleep;
 use tokio_util::sync::CancellationToken;
-use chrono::{NaiveDate, Utc};
-use indicatif::{MultiProgress, ProgressBar, ProgressStyle};
-use indexmap::IndexMap;
-use reqwest::{Client, StatusCode};
-use anyhow::{anyhow, Context, Result};
 
 #[derive(Debug, Clone)]
 struct Config {
@@ -112,11 +112,20 @@ impl Statistics {
         println!("┌─────────────────────────────────────┐");
         println!("│ Final Statistics                    │");
         println!("├─────────────────────────────────────┤");
-        println!("│ Duration: {:>24} │", format!("{:.2}s", elapsed.as_secs_f64()));
-        println!("│ Days processed: {:>18} │", format!("{}/{}", completed, self.total_days));
+        println!(
+            "│ Duration: {:>24} │",
+            format!("{:.2}s", elapsed.as_secs_f64())
+        );
+        println!(
+            "│ Days processed: {:>18} │",
+            format!("{}/{}", completed, self.total_days)
+        );
         println!("│ Total records: {:>19} │", records);
         println!("│ Errors: {:>26} │", errors);
-        println!("│ Rate: {:>28} │", format!("{:.0} records/sec", records as f64 / elapsed.as_secs_f64()));
+        println!(
+            "│ Rate: {:>28} │",
+            format!("{:.0} records/sec", records as f64 / elapsed.as_secs_f64())
+        );
         println!("└─────────────────────────────────────┘");
     }
 }
@@ -124,7 +133,8 @@ impl Statistics {
 async fn create_http_client(timeout: Duration) -> Client {
     Client::builder()
         .timeout(timeout)
-        .user_agent("go-modules-indexer-rust/2.0")
+        // https://github.com/pkgforge/devscripts/blob/main/Misc/User-Agents/ua_safari_macos_latest.txt
+        .user_agent("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15")
         .gzip(true)
         .build()
         .expect("Failed to create HTTP client")
@@ -143,34 +153,40 @@ async fn fetch_with_retry(
         progress.set_message(format!("Attempt {}/{}", attempt, max_retries));
 
         match client.get(url).send().await {
-            Ok(response) => {
-                match response.status() {
-                    StatusCode::OK => {
-                        let text = response.text().await?;
-                        return Ok(text);
-                    }
-                    StatusCode::TOO_MANY_REQUESTS => {
-                        if attempt >= max_retries {
-                            return Err(anyhow!("Rate limited after {} attempts", max_retries));
-                        }
-                        progress.set_message("Rate limited, waiting...");
-                        sleep(Duration::from_secs(5)).await;
-                    }
-                    status if status.is_server_error() => {
-                        if attempt >= max_retries {
-                            return Err(anyhow!("Server error {} after {} attempts", status, max_retries));
-                        }
-                        progress.set_message(format!("Server error {}, retrying...", status));
-                        sleep(delay).await;
-                    }
-                    status => {
-                        return Err(anyhow!("HTTP error: {}", status));
-                    }
+            Ok(response) => match response.status() {
+                StatusCode::OK => {
+                    let text = response.text().await?;
+                    return Ok(text);
                 }
-            }
+                StatusCode::TOO_MANY_REQUESTS => {
+                    if attempt >= max_retries {
+                        return Err(anyhow!("Rate limited after {} attempts", max_retries));
+                    }
+                    progress.set_message("Rate limited, waiting...");
+                    sleep(Duration::from_secs(5)).await;
+                }
+                status if status.is_server_error() => {
+                    if attempt >= max_retries {
+                        return Err(anyhow!(
+                            "Server error {} after {} attempts",
+                            status,
+                            max_retries
+                        ));
+                    }
+                    progress.set_message(format!("Server error {}, retrying...", status));
+                    sleep(delay).await;
+                }
+                status => {
+                    return Err(anyhow!("HTTP error: {}", status));
+                }
+            },
             Err(e) => {
                 if attempt >= max_retries {
-                    return Err(anyhow!("Network error after {} attempts: {}", max_retries, e));
+                    return Err(anyhow!(
+                        "Network error after {} attempts: {}",
+                        max_retries,
+                        e
+                    ));
                 }
                 progress.set_message(format!("Network error, retrying... ({})", e));
                 sleep(delay).await;
@@ -206,13 +222,13 @@ async fn process_day(
     }
 
     let mut output_file = tokio::io::BufWriter::with_capacity(
-    64 * 1024,
-    OpenOptions::new()
-        .create(true)
-        .write(true)
-        .truncate(true)
-        .open(&day_output)
-        .await?
+        64 * 1024,
+        OpenOptions::new()
+            .create(true)
+            .write(true)
+            .truncate(true)
+            .open(&day_output)
+            .await?,
     );
 
     let since = format!("{}T00:00:00Z", date.format("%Y-%m-%d"));
@@ -228,6 +244,10 @@ async fn process_day(
     progress.set_message("Starting...");
 
     loop {
+        //let url = format!(
+        //    "https://api.rv.pkgforge.dev/https://index.golang.org/index?include=all&limit={}&since={}&until={}",
+        //    config.batch_size, current_since, until
+        //);
         let url = format!(
             "https://index.golang.org/index?include=all&limit={}&since={}&until={}",
             config.batch_size, current_since, until
@@ -261,7 +281,8 @@ async fn process_day(
                             valid_lines += 1;
 
                             // Extract timestamp for next iteration
-                            if let Some(timestamp) = json.get("Timestamp").and_then(|t| t.as_str()) {
+                            if let Some(timestamp) = json.get("Timestamp").and_then(|t| t.as_str())
+                            {
                                 new_timestamp = timestamp.to_string();
                             }
                         }
@@ -336,9 +357,11 @@ async fn process_days_parallel(
         .unwrap();
 
     let main_pb = multi_progress.add(ProgressBar::new(dates.len() as u64));
-    main_pb.set_style(ProgressStyle::default_bar()
-        .template("🚀 {msg} [{bar:40.cyan/blue}] {pos}/{len} days ({percent}%) ETA: {eta}")
-        .unwrap());
+    main_pb.set_style(
+        ProgressStyle::default_bar()
+            .template("🚀 {msg} [{bar:40.cyan/blue}] {pos}/{len} days ({percent}%) ETA: {eta}")
+            .unwrap(),
+    );
     main_pb.set_message("Processing days");
 
     let semaphore = Arc::new(tokio::sync::Semaphore::new(config.max_concurrent_days));
@@ -413,13 +436,15 @@ async fn combine_daily_files(
 
     let mut total_lines = 0;
     let pb = ProgressBar::new(dates.len() as u64);
-    pb.set_style(ProgressStyle::default_bar()
-        .template("📋 Combining [{bar:40.green/blue}] {pos}/{len} files {msg}")
-        .unwrap());
+    pb.set_style(
+        ProgressStyle::default_bar()
+            .template("📋 Combining [{bar:40.green/blue}] {pos}/{len} files {msg}")
+            .unwrap(),
+    );
 
     for date in dates {
         let path = temp_dir.join(format!("day_{}.jsonl", date.format("%Y_%m_%d")));
-        
+
         if path.exists() {
             // Use smaller buffer and simpler approach
             let contents = tokio::fs::read_to_string(&path).await?;
@@ -471,9 +496,11 @@ async fn process_output_file(input_file: &str) -> Result<()> {
     let version_fields = ["Version", "version"];
 
     let pb = ProgressBar::new_spinner();
-    pb.set_style(ProgressStyle::default_spinner()
-        .template("🔍 Processing {msg} {spinner:.green}")
-        .unwrap());
+    pb.set_style(
+        ProgressStyle::default_spinner()
+            .template("🔍 Processing {msg} {spinner:.green}")
+            .unwrap(),
+    );
     pb.enable_steady_tick(Duration::from_millis(100));
 
     let mut line_count = 0;
@@ -484,7 +511,10 @@ async fn process_output_file(input_file: &str) -> Result<()> {
         line_count += 1;
 
         if line_count % 10000 == 0 {
-            pb.set_message(format!("{} lines | {} valid | {} errors", line_count, processed_count, error_count));
+            pb.set_message(format!(
+                "{} lines | {} valid | {} errors",
+                line_count, processed_count, error_count
+            ));
         }
 
         let line = line_result?;
@@ -577,60 +607,82 @@ fn build_cli() -> Command {
         .version("0.0.1")
         .author("Azathothas | QaidVoid")
         .about("Go index fetcher from index.golang.org")
-        .arg(Arg::new("start-date")
-            .long("start-date")
-            .required(true)
-            .value_name("DATE")
-            .help("Start date in YYYY-MM-DD format")
-            .default_value("2019-01-01"))
-        .arg(Arg::new("end-date")
-            .long("end-date")
-            .value_name("DATE")
-            .help("End date in YYYY-MM-DD format")
-            .default_value(today))
-        .arg(Arg::new("output")
-            .long("output")
-            .short('o')
-            .value_name("FILE")
-            .help("Output file path")
-            .default_value("go_index.jsonl"))
-        .arg(Arg::new("concurrent")
-            .long("concurrent")
-            .value_name("N")
-            .help("Max concurrent days to process")
-            .default_value("30"))
-        .arg(Arg::new("retries")
-            .long("retries")
-            .value_name("N")
-            .help("Max retries per request")
-            .default_value("3"))
-        .arg(Arg::new("batch-size")
-            .long("batch-size")
-            .value_name("N")
-            .help("Records per batch")
-            .default_value("2000"))
-        .arg(Arg::new("timeout")
-            .long("timeout")
-            .value_name("SECONDS")
-            .help("Request timeout in seconds")
-            .default_value("30"))
-        .arg(Arg::new("dry-run")
-            .long("dry-run")
-            .help("Show what would be done without executing")
-            .action(clap::ArgAction::SetTrue))
-        .arg(Arg::new("resume")
-            .long("resume")
-            .help("Resume from existing partial data")
-            .action(clap::ArgAction::SetTrue))
-        .arg(Arg::new("verbose")
-            .long("verbose")
-            .short('v')
-            .help("Enable verbose output")
-            .action(clap::ArgAction::SetTrue))
-        .arg(Arg::new("no-process")
-            .long("no-process")
-            .help("Skip post-processing step")
-            .action(clap::ArgAction::SetTrue))
+        .arg(
+            Arg::new("start-date")
+                .long("start-date")
+                .required(true)
+                .value_name("DATE")
+                .help("Start date in YYYY-MM-DD format")
+                .default_value("2019-01-01"),
+        )
+        .arg(
+            Arg::new("end-date")
+                .long("end-date")
+                .value_name("DATE")
+                .help("End date in YYYY-MM-DD format")
+                .default_value(today),
+        )
+        .arg(
+            Arg::new("output")
+                .long("output")
+                .short('o')
+                .value_name("FILE")
+                .help("Output file path")
+                .default_value("go_index.jsonl"),
+        )
+        .arg(
+            Arg::new("concurrent")
+                .long("concurrent")
+                .value_name("N")
+                .help("Max concurrent days to process")
+                .default_value("30"),
+        )
+        .arg(
+            Arg::new("retries")
+                .long("retries")
+                .value_name("N")
+                .help("Max retries per request")
+                .default_value("3"),
+        )
+        .arg(
+            Arg::new("batch-size")
+                .long("batch-size")
+                .value_name("N")
+                .help("Records per batch")
+                .default_value("2000"),
+        )
+        .arg(
+            Arg::new("timeout")
+                .long("timeout")
+                .value_name("SECONDS")
+                .help("Request timeout in seconds")
+                .default_value("30"),
+        )
+        .arg(
+            Arg::new("dry-run")
+                .long("dry-run")
+                .help("Show what would be done without executing")
+                .action(clap::ArgAction::SetTrue),
+        )
+        .arg(
+            Arg::new("resume")
+                .long("resume")
+                .help("Resume from existing partial data")
+                .action(clap::ArgAction::SetTrue),
+        )
+        .arg(
+            Arg::new("verbose")
+                .long("verbose")
+                .short('v')
+                .help("Enable verbose output")
+                .action(clap::ArgAction::SetTrue),
+        )
+        .arg(
+            Arg::new("no-process")
+                .long("no-process")
+                .help("Skip post-processing step")
+                .action(clap::ArgAction::SetTrue),
+        )
 }
 
 #[tokio::main]
@@ -640,8 +692,7 @@ async fn main() -> Result<()> {
     let mut config = Config::default();
 
     // Parse dates
-    let start_date_str = matches.get_one::<String>("start-date")
-    .unwrap_or_else(|| {
+    let start_date_str = matches.get_one::<String>("start-date").unwrap_or_else(|| {
         eprintln!("❌ Missing required --start-date argument");
         std::process::exit(1);
     });
@@ -663,14 +714,15 @@ async fn main() -> Result<()> {
     config.max_concurrent_days = matches.get_one::<String>("concurrent").unwrap().parse()?;
     config.max_retries = matches.get_one::<String>("retries").unwrap().parse()?;
     config.batch_size = matches.get_one::<String>("batch-size").unwrap().parse()?;
-    config.request_timeout = Duration::from_secs(matches.get_one::<String>("timeout").unwrap().parse()?);
+    config.request_timeout =
+        Duration::from_secs(matches.get_one::<String>("timeout").unwrap().parse()?);
     config.dry_run = matches.get_flag("dry-run");
     config.resume_mode = matches.get_flag("resume");
     config.verbose = matches.get_flag("verbose");
     config.process_output = !matches.get_flag("no-process");
 
     // Print configuration
-    
+
     println!("Go Modules Index Fetcher");
     println!("┌────────────────────────────────────────────────────────────┐");
     println!("│ Configuration                                              │");
@@ -678,21 +730,37 @@ async fn main() -> Result<()> {
     println!("│ {:<28} : {:>27} │", "Start date", start_date_fmt);
     println!("│ {:<28} : {:>27} │", "End date", end_date_fmt);
     println!("│ {:<28} : {:>27} │", "Output file", config.output_file);
-    println!("│ {:<28} : {:>27} │", "Max concurrent", config.max_concurrent_days);
+    println!(
+        "│ {:<28} : {:>27} │",
+        "Max concurrent", config.max_concurrent_days
+    );
     println!("│ {:<28} : {:>27} │", "Max retries", config.max_retries);
     println!("│ {:<28} : {:>27} │", "Batch size", config.batch_size);
-    println!("│ {:<28} : {:>27} │", "Timeout", format!("{}s", config.request_timeout.as_secs()));
+    println!(
+        "│ {:<28} : {:>27} │",
+        "Timeout",
+        format!("{}s", config.request_timeout.as_secs())
+    );
     println!("│ {:<28} : {:>27} │", "Dry run", config.dry_run);
     println!("│ {:<28} : {:>27} │", "Resume mode", config.resume_mode);
-    println!("│ {:<28} : {:>27} │", "Process output", config.process_output);
+    println!(
+        "│ {:<28} : {:>27} │",
+        "Process output", config.process_output
+    );
     println!("└────────────────────────────────────────────────────────────┘");
 
     let dates = generate_dates(config.start_date, config.end_date);
     println!("📅 Generated {} dates to process", dates.len());
 
     if config.dry_run {
-        println!("🔍 DRY RUN: Would process dates from {} to {}", config.start_date, config.end_date);
-        println!("📁 DRY RUN: Would create output file: {}", config.output_file);
+        println!(
+            "🔍 DRY RUN: Would process dates from {} to {}",
+            config.start_date, config.end_date
+        );
+        println!(
+            "📁 DRY RUN: Would create output file: {}",
+            config.output_file
+        );
         return Ok(());
     }
 
@@ -707,7 +775,8 @@ async fn main() -> Result<()> {
     process_days_parallel(&config, dates.clone(), &temp_dir, &stats).await?;
 
     // Combine daily files
-    let total_lines = combine_daily_files(&dates, &temp_dir, &config.output_file, config.resume_mode).await?;
+    let total_lines =
+        combine_daily_files(&dates, &temp_dir, &config.output_file, config.resume_mode).await?;
 
     // Post-process if requested
     if config.process_output {
@@ -718,10 +787,12 @@ async fn main() -> Result<()> {
     stats.print_final();
 
     if let Ok(metadata) = std::fs::metadata(&config.output_file) {
-        println!("📊 Final output: {} ({:.2} MB, {} lines)",
-                config.output_file,
-                metadata.len() as f64 / 1_048_576.0,
-                total_lines);
+        println!(
+            "📊 Final output: {} ({:.2} MB, {} lines)",
+            config.output_file,
+            metadata.len() as f64 / 1_048_576.0,
+            total_lines
+        );
     }
 
     // Cleanup temp directory
