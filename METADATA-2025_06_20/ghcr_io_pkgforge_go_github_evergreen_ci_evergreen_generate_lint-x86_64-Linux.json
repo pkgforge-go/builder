@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate-lint",
+  "pkg_family": "evergreen",
+  "pkg_id": "generate-lint#github.com_evergreen_ci_evergreen",
+  "pkg_name": "generate-lint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/evergreen-ci/evergreen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Distributed Continuous Integration System from MongoDB",
+  "homepage": [
+    "https://github.com/evergreen-ci/evergreen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-cross-compile",
+    "evergreen",
+    "generate-lint",
+    "gqlgen",
+    "load-smoke-data",
+    "make-tarball",
+    "parse-host-file",
+    "run-linter",
+    "set-project-var",
+    "set-var",
+    "upload-s3",
+    "verify-mod-tidy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/evergreen-ci/evergreen/archive/3cb8b6e69d4b5c15b38a302af69451591a27acbc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3cb8b6e-250620T092505",
+  "version_upstream": "",
+  "bsum": "4196d5b735beb862c12e10a08fa38abea04842df6e5cc23c4aa1c0fb672bc2e0",
+  "build_date": "2025-06-20T18:17:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784215639",
+  "build_id": "15784215639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/generate-lint?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&download=generate-lint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "436",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/generate-lint?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&download=generate-lint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/generate-lint:HEAD-3cb8b6e-250620T092505-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/generate-lint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/generate-lint?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "071b7d667368f00a29997dcb66f4d595efab75cdb2e68fae1cb9f7e683f57847",
+  "size": "6.8 MB",
+  "size_raw": "7127584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

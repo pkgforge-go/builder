@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "build-cross-compile",
+  "pkg_family": "evergreen",
+  "pkg_id": "build-cross-compile#github.com_evergreen_ci_evergreen",
+  "pkg_name": "build-cross-compile",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/evergreen-ci/evergreen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Distributed Continuous Integration System from MongoDB",
+  "homepage": [
+    "https://github.com/evergreen-ci/evergreen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-cross-compile",
+    "evergreen",
+    "generate-lint",
+    "gqlgen",
+    "load-smoke-data",
+    "make-tarball",
+    "parse-host-file",
+    "run-linter",
+    "set-project-var",
+    "set-var",
+    "upload-s3",
+    "verify-mod-tidy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/evergreen-ci/evergreen/archive/3cb8b6e69d4b5c15b38a302af69451591a27acbc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3cb8b6e-250620T092505",
+  "version_upstream": "",
+  "bsum": "9140fb5cbc49787e18aac405433213c48945f2077e623e9d4d96ee055a6ca0f6",
+  "build_date": "2025-06-20T18:16:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784215639",
+  "build_id": "15784215639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/build-cross-compile?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&download=build-cross-compile.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "436",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/build-cross-compile?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&download=build-cross-compile",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/build-cross-compile:HEAD-3cb8b6e-250620T092505-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/build-cross-compile",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/build-cross-compile?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c21a78ccbf04716be62d5cbf1f009d442c3526c6771a1fb6eb6d639e036fd523",
+  "size": "2.0 MB",
+  "size_raw": "2044216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

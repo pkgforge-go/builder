@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gqlgen",
+  "pkg_family": "evergreen",
+  "pkg_id": "gqlgen#github.com_evergreen_ci_evergreen",
+  "pkg_name": "gqlgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/evergreen-ci/evergreen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Distributed Continuous Integration System from MongoDB",
+  "homepage": [
+    "https://github.com/evergreen-ci/evergreen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-cross-compile",
+    "evergreen",
+    "generate-lint",
+    "gqlgen",
+    "load-smoke-data",
+    "make-tarball",
+    "parse-host-file",
+    "run-linter",
+    "set-project-var",
+    "set-var",
+    "upload-s3",
+    "verify-mod-tidy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/evergreen-ci/evergreen/archive/3cb8b6e69d4b5c15b38a302af69451591a27acbc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3cb8b6e-250620T092505",
+  "version_upstream": "",
+  "bsum": "7bbf414cfcb223b01f280691dac031f3d59da58214c397bc36166e43ee326822",
+  "build_date": "2025-06-20T18:17:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784215639",
+  "build_id": "15784215639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/gqlgen?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&download=gqlgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "436",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/gqlgen?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&download=gqlgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/gqlgen:HEAD-3cb8b6e-250620T092505-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/gqlgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/gqlgen?tag=HEAD-3cb8b6e-250620T092505-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f754dc13f32291756f827cc3f46b681d8535dd6e6e040b6b2bfc85788016717",
+  "size": "92 MB",
+  "size_raw": "95573920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
