@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "api",
+  "pkg_family": "mixer",
+  "pkg_id": "api#github.com_datacommonsorg_mixer",
+  "pkg_name": "api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/datacommonsorg/mixer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mixer provides the translator engine and API interface to access Data Commons graph",
+  "homepage": [
+    "https://github.com/datacommonsorg/mixer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "http_memprof",
+    "mixer-cmd",
+    "send_email",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/datacommonsorg/mixer/archive/2e3399a4605593e0f2fa9ee37cab0640e4475fba.tar.gz"
+  ],
+  "tag": [
+    "api-server",
+    "go",
+    "grpc-go"
+  ],
+  "version": "HEAD-2e3399a-250620T122249",
+  "version_upstream": "prod",
+  "bsum": "89c94bc3570c9f416c97167abf95e35fd96b5d49314573d3b1f2717f0f0c05e4",
+  "build_date": "2025-06-20T17:47:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784112003",
+  "build_id": "15784112003",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/api?tag=HEAD-2e3399a-250620T122249-riscv64-Linux&download=api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/api?tag=HEAD-2e3399a-250620T122249-riscv64-Linux&download=api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datacommonsorg/mixer/api:HEAD-2e3399a-250620T122249-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datacommonsorg/mixer/api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/api?tag=HEAD-2e3399a-250620T122249-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b461b8b89ca2d9fb8edf96da8e2e911b756412964899ab38a8c8c2e90ae6d1ab",
+  "size": "12 MB",
+  "size_raw": "11834552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
