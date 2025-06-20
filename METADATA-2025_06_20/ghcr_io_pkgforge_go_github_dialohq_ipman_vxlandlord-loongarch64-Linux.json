@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "vxlandlord",
+  "pkg_family": "ipman",
+  "pkg_id": "vxlandlord#github.com_dialohq_ipman",
+  "pkg_name": "vxlandlord",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dialohq/ipman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing IPsec VPN connections",
+  "homepage": [
+    "https://github.com/dialohq/ipman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "restctl",
+    "vxlandlord",
+    "xfrminion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dialohq/ipman/archive/94599cdbc2f76bba8075bd1c96dac5e14dc0bbbb.tar.gz"
+  ],
+  "tag": [
+    "ipsec",
+    "ipsec-vpn",
+    "kubernetes",
+    "kubernetes-operator",
+    "strongswan",
+    "vpn"
+  ],
+  "version": "HEAD-94599cd-250619T184726",
+  "version_upstream": "",
+  "bsum": "772ca8d872853653fcd873907b82f30567e6de601edd50b57bb2be065895b716",
+  "build_date": "2025-06-20T08:37:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773964079",
+  "build_id": "15773964079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/vxlandlord?tag=HEAD-94599cd-250619T184726-loongarch64-Linux&download=vxlandlord.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/vxlandlord?tag=HEAD-94599cd-250619T184726-loongarch64-Linux&download=vxlandlord",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dialohq/ipman/vxlandlord:HEAD-94599cd-250619T184726-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dialohq/ipman/vxlandlord",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/vxlandlord?tag=HEAD-94599cd-250619T184726-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef51458fb00d1d7eb80da52be35e2c9cb317d37d339557f289bbceea83cc124c",
+  "size": "8.2 MB",
+  "size_raw": "8580448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
