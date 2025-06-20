@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fetcher",
+  "pkg_family": "fission",
+  "pkg_id": "fetcher#github.com_fission_fission",
+  "pkg_name": "fetcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fission/fission",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and Simple Serverless Functions for Kubernetes",
+  "homepage": [
+    "https://github.com/fission/fission"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "builder",
+    "cmd-docs",
+    "fetcher",
+    "fission-bundle",
+    "fission-cli",
+    "genswaggertypedocs",
+    "preupgradechecks",
+    "reporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fission/fission/archive/7403598df95b62e4ab9011d9c4b72704a2006bb5.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "containers",
+    "devops",
+    "docker",
+    "faas",
+    "fission",
+    "functions",
+    "functions-as-a-service",
+    "go",
+    "hacktoberfest",
+    "kubernetes",
+    "lambda",
+    "serverless",
+    "serverless-functions"
+  ],
+  "version": "HEAD-7403598-250620T145151",
+  "version_upstream": "",
+  "bsum": "1c9a4300aa72e624b0c110f62d8054d142c8333617ce074e1370370461a69065",
+  "build_date": "2025-06-20T18:24:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784256712",
+  "build_id": "15784256712",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/fetcher?tag=HEAD-7403598-250620T145151-aarch64-Linux&download=fetcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8666",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/fetcher?tag=HEAD-7403598-250620T145151-aarch64-Linux&download=fetcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/fission/fetcher:HEAD-7403598-250620T145151-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/fission/fetcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/fetcher?tag=HEAD-7403598-250620T145151-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aad201df0725b7f76c670c152fb52ead1e7ae0266381096ead334b7b18f11b53",
+  "size": "68 MB",
+  "size_raw": "70848640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
