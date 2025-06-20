@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "approver-policy",
+  "pkg_family": "approver-policy",
+  "pkg_id": "approver-policy#github.com_cert_manager_approver_policy",
+  "pkg_name": "approver-policy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cert-manager/approver-policy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "approver-policy is a cert-manager approver that allows users to define policies that restrict what certificates can be requested.",
+  "homepage": [
+    "https://github.com/cert-manager/approver-policy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approver-policy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cert-manager/approver-policy/archive/efc9f692a97820d3222052c95f24c1aed92f912e.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "cert-manager",
+    "kubernetes"
+  ],
+  "version": "HEAD-efc9f69-250620T135011",
+  "version_upstream": "",
+  "bsum": "3ecf79641a9f816d1e2df1c8c72b44c3ae3327c79832cad25e33146399aec2b5",
+  "build_date": "2025-06-20T17:30:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15783561583",
+  "build_id": "15783561583",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/approver-policy/approver-policy?tag=HEAD-efc9f69-250620T135011-loongarch64-Linux&download=approver-policy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "83",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/approver-policy/approver-policy?tag=HEAD-efc9f69-250620T135011-loongarch64-Linux&download=approver-policy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cert-manager/approver-policy/approver-policy:HEAD-efc9f69-250620T135011-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cert-manager/approver-policy/approver-policy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/approver-policy/approver-policy?tag=HEAD-efc9f69-250620T135011-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83b21d1e12685e9b9faa76d6d31c89548cabf628f549f2d3c5b9aa544b00cb92",
+  "size": "85 MB",
+  "size_raw": "88177536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
