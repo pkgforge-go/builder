@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hub-server",
+  "pkg_family": "zadig",
+  "pkg_id": "hub-server#github.com_koderover_zadig.git",
+  "pkg_name": "hub-server",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aslan",
+    "cron",
+    "hub-agent",
+    "hub-server",
+    "init",
+    "jenkins-plugin",
+    "jobexecutor",
+    "packager-plugin",
+    "predator-plugin",
+    "reaper",
+    "ua",
+    "user",
+    "v0.0.1",
+    "zadig-agent",
+    "zgctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/koderover/zadig.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T151124",
+  "version_upstream": "",
+  "bsum": "4e00a8500cae8f477f4ef339ef361677ccc175e0c3aa0e823cabce4e1c7f0d73",
+  "build_date": "2025-06-20T15:36:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781388834",
+  "build_id": "15781388834",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/hub-server?tag=20250620T151124-loongarch64-Linux&download=hub-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/hub-server?tag=20250620T151124-loongarch64-Linux&download=hub-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/koderover/zadig.git/hub-server:20250620T151124-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/koderover/zadig.git/hub-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koderover/zadig.git/hub-server?tag=20250620T151124-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "94ebc2a651fcf9bb0e3316955a5e0160220e9e50d4b26837c2e18c3babdafa07",
+  "size": "70 MB",
+  "size_raw": "72648952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
