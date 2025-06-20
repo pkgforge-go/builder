@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "s2d",
+  "pkg_family": "compress",
+  "pkg_id": "s2d#github.com_klauspost_compress",
+  "pkg_name": "s2d",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/klauspost/compress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Optimized Go Compression Packages",
+  "homepage": [
+    "https://github.com/klauspost/compress"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builddict",
+    "cmd",
+    "s2c",
+    "s2d"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/klauspost/compress/archive/0b8a32cac1934962e28a85ecfdb0688af278be50.tar.gz"
+  ],
+  "tag": [
+    "compression",
+    "decompression",
+    "deflate",
+    "go",
+    "golang",
+    "gzip",
+    "snappy",
+    "zip",
+    "zstandard",
+    "zstd"
+  ],
+  "version": "HEAD-0b8a32c-250617T165249",
+  "version_upstream": "",
+  "bsum": "5fec067ac2841e0c2dcc16bc73efdc66c97a4bb2b13f5066947de6727b52ec37",
+  "build_date": "2025-06-20T15:01:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780545883",
+  "build_id": "15780545883",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/s2d?tag=HEAD-0b8a32c-250617T165249-x86_64-Linux&download=s2d.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/s2d?tag=HEAD-0b8a32c-250617T165249-x86_64-Linux&download=s2d",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/klauspost/compress/s2d:HEAD-0b8a32c-250617T165249-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/klauspost/compress/s2d",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/compress/s2d?tag=HEAD-0b8a32c-250617T165249-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7b4c1f0ad4992a00b874d5e0aea149ab99dbe39db2aab7b7ca13a4d7ad436d5e",
+  "size": "6.1 MB",
+  "size_raw": "6372224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
