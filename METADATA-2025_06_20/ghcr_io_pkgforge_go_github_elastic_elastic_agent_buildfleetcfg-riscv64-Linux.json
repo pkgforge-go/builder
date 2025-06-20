@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "buildfleetcfg",
+  "pkg_family": "elastic-agent",
+  "pkg_id": "buildfleetcfg#github.com_elastic_elastic_agent",
+  "pkg_name": "buildfleetcfg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/elastic-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+  "homepage": [
+    "https://github.com/elastic/elastic-agent"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildfleetcfg",
+    "buildpgp",
+    "component",
+    "elastic-agent",
+    "testblocking",
+    "testlocker",
+    "testsignal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/elastic-agent/archive/8803a02d3538b2e2f2741c103aab025d1852a491.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8803a02-250619T162307",
+  "version_upstream": "",
+  "bsum": "34f9dac631be7b3a749ac8d68173037cee52ce01a897a88284f32e81f53554eb",
+  "build_date": "2025-06-20T08:52:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774047902",
+  "build_id": "15774047902",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/buildfleetcfg?tag=HEAD-8803a02-250619T162307-riscv64-Linux&download=buildfleetcfg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "180",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/buildfleetcfg?tag=HEAD-8803a02-250619T162307-riscv64-Linux&download=buildfleetcfg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/elastic-agent/buildfleetcfg:HEAD-8803a02-250619T162307-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/elastic-agent/buildfleetcfg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/buildfleetcfg?tag=HEAD-8803a02-250619T162307-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46d5f5da513767ba98c5dd1ebd6701376e7e3f5f15981e4f950e3c73a28dcd17",
+  "size": "3.7 MB",
+  "size_raw": "3799112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
