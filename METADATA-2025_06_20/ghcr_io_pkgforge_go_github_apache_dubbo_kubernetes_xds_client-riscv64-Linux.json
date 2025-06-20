@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "xds-client",
+  "pkg_family": "dubbo-kubernetes",
+  "pkg_id": "xds-client#github.com_apache_dubbo_kubernetes",
+  "pkg_name": "xds-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/dubbo-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Dubbo Kubernetes integration.",
+  "homepage": [
+    "https://github.com/apache/dubbo-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "dds-client",
+    "dubbo-cp",
+    "dubboctl",
+    "generator",
+    "resource-gen",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/dubbo-kubernetes/archive/96ffe3fca2bf176ddbd4f7ff1395f433451278a4.tar.gz"
+  ],
+  "tag": [
+    "dubbo",
+    "kubernetes",
+    "microservices",
+    "service-mesh"
+  ],
+  "version": "HEAD-96ffe3f-250620T084954",
+  "version_upstream": "",
+  "bsum": "0d1ae64a5cb5f0f99f118a1650e7f01778eda2da39be7fda7094c759bd7c9bed",
+  "build_date": "2025-06-20T07:45:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773253114",
+  "build_id": "15773253114",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/xds-client?tag=HEAD-96ffe3f-250620T084954-riscv64-Linux&download=xds-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "186",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/xds-client?tag=HEAD-96ffe3f-250620T084954-riscv64-Linux&download=xds-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/dubbo-kubernetes/xds-client:HEAD-96ffe3f-250620T084954-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/dubbo-kubernetes/xds-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/dubbo-kubernetes/xds-client?tag=HEAD-96ffe3f-250620T084954-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70348abed179fbb0070b1f2a9d532a017bce9a82ef114f7a3d5d12f8d9da8c7b",
+  "size": "27 MB",
+  "size_raw": "27766104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
