@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ssmwrap",
+  "pkg_family": "ssmwrap",
+  "pkg_id": "ssmwrap#github.com_handlename_ssmwrap",
+  "pkg_name": "ssmwrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/handlename/ssmwrap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Execute command with environment variables or/and files loaded from AWS SSM.",
+  "homepage": [
+    "https://github.com/handlename/ssmwrap"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lib",
+    "ssmwrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/handlename/ssmwrap/archive/81c89b983957bbcc2a8da1e50e80780a397a78f9.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "systems-manager-parameter-store"
+  ],
+  "version": "HEAD-81c89b9-250503T235227",
+  "version_upstream": "",
+  "bsum": "90c4887fbe9a2f2da54a122cef7729ce703330d56620c98711fea7ccd3d12bc1",
+  "build_date": "2025-06-20T05:34:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771484180",
+  "build_id": "15771484180",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/handlename/ssmwrap/ssmwrap?tag=HEAD-81c89b9-250503T235227-loongarch64-Linux&download=ssmwrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/handlename/ssmwrap/ssmwrap?tag=HEAD-81c89b9-250503T235227-loongarch64-Linux&download=ssmwrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/handlename/ssmwrap/ssmwrap:HEAD-81c89b9-250503T235227-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/handlename/ssmwrap/ssmwrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/handlename/ssmwrap/ssmwrap?tag=HEAD-81c89b9-250503T235227-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d1e400675c68830daec9f656eb7a725da14a5a5b41ff1894d6efa504af8d2d91",
+  "size": "9.1 MB",
+  "size_raw": "9493312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
