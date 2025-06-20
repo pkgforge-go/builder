@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "ai-gateway",
+  "pkg_id": "controller#github.com_envoyproxy_ai_gateway",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/envoyproxy/ai-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.",
+  "homepage": [
+    "https://github.com/envoyproxy/ai-gateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aigw",
+    "controller",
+    "extproc",
+    "extproc_custom_metrics",
+    "extproc_custom_router",
+    "testupstream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/envoyproxy/ai-gateway/archive/d6b647448bf8c99c174e47060dc13838b17aff9a.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "ai-gateway",
+    "api-gateway",
+    "cncf",
+    "kubernetes",
+    "llm"
+  ],
+  "version": "HEAD-d6b6474-250620T230743",
+  "version_upstream": "",
+  "bsum": "b5f2a86985781d7e8dc71356b243021e99bd810fb698413312b00cd89b62c38b",
+  "build_date": "2025-06-20T18:06:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784208961",
+  "build_id": "15784208961",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/controller?tag=HEAD-d6b6474-250620T230743-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/controller?tag=HEAD-d6b6474-250620T230743-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/controller:HEAD-d6b6474-250620T230743-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/controller?tag=HEAD-d6b6474-250620T230743-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54dcd4ac80769cfa55e5593588b10c997646b78b2f7457d03688b4f29a761219",
+  "size": "70 MB",
+  "size_raw": "72783672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
