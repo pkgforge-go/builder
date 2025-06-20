@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "flintlockd",
+  "pkg_family": "flintlock",
+  "pkg_id": "flintlockd#github.com_liquidmetal_dev_flintlock",
+  "pkg_name": "flintlockd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/liquidmetal-dev/flintlock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.",
+  "homepage": [
+    "https://github.com/liquidmetal-dev/flintlock"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "flintlock-metrics",
+    "flintlockd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/liquidmetal-dev/flintlock/archive/ceecbca3c1934dafe87d9f6968094ca1c8e7c639.tar.gz"
+  ],
+  "tag": [
+    "cni",
+    "firecracker",
+    "kvm",
+    "microvm",
+    "oci"
+  ],
+  "version": "HEAD-ceecbca-250411T153952",
+  "version_upstream": "",
+  "bsum": "cbb10f3294f19eeb7b950f78e82334c70f8bdcb5376e10e7add9b47c60e563d9",
+  "build_date": "2025-06-20T20:44:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787064116",
+  "build_id": "15787064116",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liquidmetal-dev/flintlock/flintlockd?tag=HEAD-ceecbca-250411T153952-x86_64-Linux&download=flintlockd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "868",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liquidmetal-dev/flintlock/flintlockd?tag=HEAD-ceecbca-250411T153952-x86_64-Linux&download=flintlockd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/liquidmetal-dev/flintlock/flintlockd:HEAD-ceecbca-250411T153952-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/liquidmetal-dev/flintlock/flintlockd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liquidmetal-dev/flintlock/flintlockd?tag=HEAD-ceecbca-250411T153952-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39da09a9c8e9cf6591e04d9a0181d3df9f602dba298920c5ed5dc0c9e7515f85",
+  "size": "41 MB",
+  "size_raw": "41953952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
