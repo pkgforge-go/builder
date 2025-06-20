@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tinydbg",
+  "pkg_family": "tinydbg",
+  "pkg_id": "tinydbg#github.com_hitzhangjie_tinydbg",
+  "pkg_name": "tinydbg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hitzhangjie/tinydbg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repo teaches you how to build a golang debugger in golang. This repo is forked from go-delve/delve and simplified for linux/amd64.",
+  "homepage": [
+    "https://github.com/hitzhangjie/tinydbg"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "starlark_demo",
+    "tinydbg",
+    "tty_demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hitzhangjie/tinydbg/archive/8bf36134a9def9b4da1880d0cd84ee2d5ad34423.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8bf3613-250611T020032",
+  "version_upstream": "",
+  "bsum": "21ea804e233711c654f62fa2797470735a908b4d1dad463b3bb579f522a13aa1",
+  "build_date": "2025-06-20T06:22:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771980415",
+  "build_id": "15771980415",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hitzhangjie/tinydbg/tinydbg?tag=HEAD-8bf3613-250611T020032-x86_64-Linux&download=tinydbg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hitzhangjie/tinydbg/tinydbg?tag=HEAD-8bf3613-250611T020032-x86_64-Linux&download=tinydbg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hitzhangjie/tinydbg/tinydbg:HEAD-8bf3613-250611T020032-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hitzhangjie/tinydbg/tinydbg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hitzhangjie/tinydbg/tinydbg?tag=HEAD-8bf3613-250611T020032-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7977dec7e983e51c7a587b829239ae1bb2cb93e3d18f7a598ea2e31fb0fb2174",
+  "size": "11 MB",
+  "size_raw": "11533024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
