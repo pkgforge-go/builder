@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "routedns",
+  "pkg_family": "routedns",
+  "pkg_id": "routedns#github.com_folbricht_routedns",
+  "pkg_name": "routedns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/folbricht/routedns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS",
+  "homepage": [
+    "https://github.com/folbricht/routedns"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "routedns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/folbricht/routedns/archive/d60fbf18500021ece558ba1857f8e1e47bdac3bc.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dns-client",
+    "dns-over-dtls",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "dns-privacy",
+    "dns-server",
+    "doh",
+    "doq",
+    "dot",
+    "go",
+    "golang",
+    "pipelining"
+  ],
+  "version": "HEAD-d60fbf1-250613T103410",
+  "version_upstream": "v0.1.113",
+  "bsum": "85c83902aa4f2eb216865334cc220a4e0930ad0eea849bcbd0c8b092f6ed6ee2",
+  "build_date": "2025-06-20T00:05:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767939231",
+  "build_id": "15767939231",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/folbricht/routedns/routedns?tag=HEAD-d60fbf1-250613T103410-loongarch64-Linux&download=routedns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "510",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/folbricht/routedns/routedns?tag=HEAD-d60fbf1-250613T103410-loongarch64-Linux&download=routedns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/folbricht/routedns/routedns:HEAD-d60fbf1-250613T103410-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/folbricht/routedns/routedns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/folbricht/routedns/routedns?tag=HEAD-d60fbf1-250613T103410-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d99b553f2eaf4d1d194db60a39983ecdab83f37bb682790408260b3a38c0f57",
+  "size": "19 MB",
+  "size_raw": "19356800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
