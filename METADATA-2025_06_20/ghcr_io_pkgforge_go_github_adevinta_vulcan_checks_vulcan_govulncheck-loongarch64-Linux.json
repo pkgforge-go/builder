@@ -1,0 +1,102 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "vulcan-govulncheck",
+  "pkg_family": "vulcan-checks",
+  "pkg_id": "vulcan-govulncheck#github.com_adevinta_vulcan_checks",
+  "pkg_name": "vulcan-govulncheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adevinta/vulcan-checks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository holds the code for each Vulcan check_s main binary.",
+  "homepage": [
+    "https://github.com/adevinta/vulcan-checks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vulcan-aws-alerts",
+    "vulcan-aws-subdomain-takeover",
+    "vulcan-aws-trusted-advisor",
+    "vulcan-blast-radius",
+    "vulcan-burp",
+    "vulcan-dmarc",
+    "vulcan-drupal",
+    "vulcan-exposed-bgp",
+    "vulcan-exposed-db",
+    "vulcan-exposed-http",
+    "vulcan-exposed-memcached",
+    "vulcan-exposed-router-ports",
+    "vulcan-exposed-services",
+    "vulcan-exposed-ssh",
+    "vulcan-github-alerts",
+    "vulcan-gitleaks",
+    "vulcan-govulncheck",
+    "vulcan-heartbleed",
+    "vulcan-host-discovery",
+    "vulcan-http-headers",
+    "vulcan-ipv6",
+    "vulcan-masscan",
+    "vulcan-mx",
+    "vulcan-nessus",
+    "vulcan-nuclei",
+    "vulcan-prowler",
+    "vulcan-repository-sctrl",
+    "vulcan-results-load-test",
+    "vulcan-retirejs",
+    "vulcan-semgrep",
+    "vulcan-sleep",
+    "vulcan-smtp-open-relay",
+    "vulcan-spf",
+    "vulcan-tenable",
+    "vulcan-trivy",
+    "vulcan-unclassified",
+    "vulcan-vulners",
+    "vulcan-wpscan",
+    "vulcan-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/adevinta/vulcan-checks/archive/aeb7203233dc02f401ba3d40fb02aeb490a323d5.tar.gz"
+  ],
+  "tag": [
+    "vulcan"
+  ],
+  "version": "HEAD-aeb7203-250620T095206",
+  "version_upstream": "",
+  "bsum": "8fb3df2a056730adaed7d1d5115765d74a3703452e7814e86cc766d7d05c09c4",
+  "build_date": "2025-06-20T17:15:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782906690",
+  "build_id": "15782906690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-govulncheck?tag=HEAD-aeb7203-250620T095206-loongarch64-Linux&download=vulcan-govulncheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-govulncheck?tag=HEAD-aeb7203-250620T095206-loongarch64-Linux&download=vulcan-govulncheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-govulncheck:HEAD-aeb7203-250620T095206-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-govulncheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-govulncheck?tag=HEAD-aeb7203-250620T095206-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1995ad150e4498709bb3d67aa6551730f24e6d03b81c1ced09ea059e73ab370",
+  "size": "20 MB",
+  "size_raw": "20971072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

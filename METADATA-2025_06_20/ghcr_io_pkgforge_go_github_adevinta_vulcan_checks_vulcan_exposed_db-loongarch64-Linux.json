@@ -1,0 +1,102 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "vulcan-exposed-db",
+  "pkg_family": "vulcan-checks",
+  "pkg_id": "vulcan-exposed-db#github.com_adevinta_vulcan_checks",
+  "pkg_name": "vulcan-exposed-db",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adevinta/vulcan-checks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository holds the code for each Vulcan check_s main binary.",
+  "homepage": [
+    "https://github.com/adevinta/vulcan-checks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vulcan-aws-alerts",
+    "vulcan-aws-subdomain-takeover",
+    "vulcan-aws-trusted-advisor",
+    "vulcan-blast-radius",
+    "vulcan-burp",
+    "vulcan-dmarc",
+    "vulcan-drupal",
+    "vulcan-exposed-bgp",
+    "vulcan-exposed-db",
+    "vulcan-exposed-http",
+    "vulcan-exposed-memcached",
+    "vulcan-exposed-router-ports",
+    "vulcan-exposed-services",
+    "vulcan-exposed-ssh",
+    "vulcan-github-alerts",
+    "vulcan-gitleaks",
+    "vulcan-govulncheck",
+    "vulcan-heartbleed",
+    "vulcan-host-discovery",
+    "vulcan-http-headers",
+    "vulcan-ipv6",
+    "vulcan-masscan",
+    "vulcan-mx",
+    "vulcan-nessus",
+    "vulcan-nuclei",
+    "vulcan-prowler",
+    "vulcan-repository-sctrl",
+    "vulcan-results-load-test",
+    "vulcan-retirejs",
+    "vulcan-semgrep",
+    "vulcan-sleep",
+    "vulcan-smtp-open-relay",
+    "vulcan-spf",
+    "vulcan-tenable",
+    "vulcan-trivy",
+    "vulcan-unclassified",
+    "vulcan-vulners",
+    "vulcan-wpscan",
+    "vulcan-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/adevinta/vulcan-checks/archive/aeb7203233dc02f401ba3d40fb02aeb490a323d5.tar.gz"
+  ],
+  "tag": [
+    "vulcan"
+  ],
+  "version": "HEAD-aeb7203-250620T095206",
+  "version_upstream": "",
+  "bsum": "a1f8f122bf571d5f1832fe03555ba9c497c6b13b7f157f559c503a4752a6f470",
+  "build_date": "2025-06-20T17:19:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782906690",
+  "build_id": "15782906690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-db?tag=HEAD-aeb7203-250620T095206-loongarch64-Linux&download=vulcan-exposed-db.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-db?tag=HEAD-aeb7203-250620T095206-loongarch64-Linux&download=vulcan-exposed-db",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-db:HEAD-aeb7203-250620T095206-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-db",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-db?tag=HEAD-aeb7203-250620T095206-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2585fb4605973c0b7497b612c39d9d0b0d375bdbdb133276071bd7ad10933369",
+  "size": "20 MB",
+  "size_raw": "19979552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
