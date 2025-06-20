@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "eventing-github",
+  "pkg_id": "webhook#github.com_knative_extensions_eventing_github.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "mt_receive_adapter",
+    "receive_adapter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-github.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150522",
+  "version_upstream": "",
+  "bsum": "535ae5aa6e9402739efbde18692dca9c755cbe43a4f29bb1f66026657968ae14",
+  "build_date": "2025-06-20T15:12:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780824147",
+  "build_id": "15780824147",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eventing/github.git/webhook:20250620T150522-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eventing/github.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da88e1ddcd4190a529a274f3533e4282e066f18246a34f569b294ba30e0381b9",
+  "size": "57 MB",
+  "size_raw": "58939832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
