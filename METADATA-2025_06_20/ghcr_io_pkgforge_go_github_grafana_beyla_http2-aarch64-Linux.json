@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "http2",
+  "pkg_family": "beyla",
+  "pkg_id": "http2#github.com_grafana_beyla",
+  "pkg_name": "http2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/beyla",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF-based autoinstrumentation of web applications and network metrics",
+  "homepage": [
+    "https://github.com/grafana/beyla"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alloy-field-checker",
+    "beyla-genfiles",
+    "client",
+    "doc-checker",
+    "example-http-service",
+    "golang",
+    "grpcpinger",
+    "http2",
+    "httppinger",
+    "k8s-cache",
+    "k8s-cache-example-client",
+    "offsets",
+    "pingclient",
+    "pingserver",
+    "pingwrapper",
+    "server",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/beyla/archive/065d6dd14e26c30fc810b44336850294e4c6cf8b.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "metrics-gathering",
+    "observability",
+    "traces"
+  ],
+  "version": "HEAD-065d6dd-250619T164451",
+  "version_upstream": "",
+  "bsum": "3f784f6ec738f3b11cac0f6db29b5688696572806e59f729baf04fcfc2ffe189",
+  "build_date": "2025-06-20T04:53:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771168456",
+  "build_id": "15771168456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/beyla/http2?tag=HEAD-065d6dd-250619T164451-aarch64-Linux&download=http2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1719",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/beyla/http2?tag=HEAD-065d6dd-250619T164451-aarch64-Linux&download=http2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/beyla/http2:HEAD-065d6dd-250619T164451-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/beyla/http2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/beyla/http2?tag=HEAD-065d6dd-250619T164451-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "510b8723dd10bf3ea14f5b6fa021f7bb0e77db611194e4081a7611c5b5db0f13",
+  "size": "6.4 MB",
+  "size_raw": "6702944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
