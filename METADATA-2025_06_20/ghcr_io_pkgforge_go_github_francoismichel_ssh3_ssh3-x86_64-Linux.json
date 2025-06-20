@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ssh3",
+  "pkg_family": "ssh3",
+  "pkg_id": "ssh3#github.com_francoismichel_ssh3",
+  "pkg_name": "ssh3",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/francoismichel/ssh3",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/",
+  "homepage": [
+    "https://github.com/francoismichel/ssh3"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "plugin_endpoint",
+    "ssh3",
+    "ssh3-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/francoismichel/ssh3/archive/5b4b242db02a5cfbb9ebf9dfc5aad2c32e10f245.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5b4b242-240904T104904",
+  "version_upstream": "",
+  "bsum": "07561a343dde03c68a51291f0ea8ced2c57e24feeb3a18bbf862595d6b7006c5",
+  "build_date": "2025-06-20T00:14:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767959747",
+  "build_id": "15767959747",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/francoismichel/ssh3/ssh3?tag=HEAD-5b4b242-240904T104904-x86_64-Linux&download=ssh3.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3376",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/francoismichel/ssh3/ssh3?tag=HEAD-5b4b242-240904T104904-x86_64-Linux&download=ssh3",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/francoismichel/ssh3/ssh3:HEAD-5b4b242-240904T104904-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/francoismichel/ssh3/ssh3",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/francoismichel/ssh3/ssh3?tag=HEAD-5b4b242-240904T104904-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "958782f956a697c6b86a5c3d82412fb520a88f6357c2c1ed0ce817c3ffc0f5bf",
+  "size": "11 MB",
+  "size_raw": "11367616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
