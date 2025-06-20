@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "katalyst-metric",
+  "pkg_family": "katalyst-core",
+  "pkg_id": "katalyst-metric#github.com_kubewharf_katalyst_core",
+  "pkg_name": "katalyst-metric",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubewharf/katalyst-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agents and centralized components",
+  "homepage": [
+    "https://github.com/kubewharf/katalyst-core"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "katalyst-agent",
+    "katalyst-controller",
+    "katalyst-metric",
+    "katalyst-scheduler",
+    "katalyst-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubewharf/katalyst-core/archive/53e365765b765a8afd0ce2d056723f82221ae642.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-53e3657-250620T152442",
+  "version_upstream": "",
+  "bsum": "26e8fc7f584dde54c72c78bd63c814e8c691214f2c04757542fb2440c5c1de1c",
+  "build_date": "2025-06-20T19:37:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785991608",
+  "build_id": "15785991608",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-metric?tag=HEAD-53e3657-250620T152442-x86_64-Linux&download=katalyst-metric.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "498",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-metric?tag=HEAD-53e3657-250620T152442-x86_64-Linux&download=katalyst-metric",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubewharf/katalyst-core/katalyst-metric:HEAD-53e3657-250620T152442-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubewharf/katalyst-core/katalyst-metric",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-metric?tag=HEAD-53e3657-250620T152442-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "430a6ec49274a8d9a4f3c56f817ca82ecc3beb5188ee088928653a287bb25b2d",
+  "size": "55 MB",
+  "size_raw": "57092480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
