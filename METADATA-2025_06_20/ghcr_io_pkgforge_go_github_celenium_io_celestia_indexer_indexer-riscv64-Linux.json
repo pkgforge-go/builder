@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "indexer",
+  "pkg_family": "celestia-indexer",
+  "pkg_id": "indexer#github.com_celenium_io_celestia_indexer",
+  "pkg_name": "indexer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celenium-io/celestia-indexer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🌐 Indexer for modular data availability network Celestia",
+  "homepage": [
+    "https://github.com/celenium-io/celestia-indexer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "celestials",
+    "indexer",
+    "private_api"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celenium-io/celestia-indexer/archive/acea8c0966b494c2696be11184cc44764006efae.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "blockchain",
+    "celestia",
+    "indexer"
+  ],
+  "version": "HEAD-acea8c0-250620T143655",
+  "version_upstream": "",
+  "bsum": "c6de8a8da0158d2b88bb7c197c3a824c1684e8dce9b1ef2e14a58c29097ba148",
+  "build_date": "2025-06-20T17:36:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15783558952",
+  "build_id": "15783558952",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celenium-io/celestia-indexer/indexer?tag=HEAD-acea8c0-250620T143655-riscv64-Linux&download=indexer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celenium-io/celestia-indexer/indexer?tag=HEAD-acea8c0-250620T143655-riscv64-Linux&download=indexer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celenium-io/celestia-indexer/indexer:HEAD-acea8c0-250620T143655-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celenium-io/celestia-indexer/indexer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celenium-io/celestia-indexer/indexer?tag=HEAD-acea8c0-250620T143655-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7cac45c80b35927dbc31af62f85318d9266a647eab36aa5d5208c6a4259d346a",
+  "size": "115 MB",
+  "size_raw": "119740888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
