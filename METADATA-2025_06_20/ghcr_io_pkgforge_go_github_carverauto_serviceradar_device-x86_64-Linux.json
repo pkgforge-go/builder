@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "device",
+  "pkg_family": "serviceradar",
+  "pkg_id": "device#github.com_carverauto_serviceradar",
+  "pkg_name": "device",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/carverauto/serviceradar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "simple golang-based distributed network monitoring",
+  "homepage": [
+    "https://github.com/carverauto/serviceradar"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "core",
+    "device",
+    "dusk",
+    "faker",
+    "kv",
+    "mapper",
+    "netflow",
+    "poller",
+    "snmp",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/carverauto/serviceradar/archive/1a5aa35ba6b73600abd2cdc6b0863f9723dd6e29.tar.gz"
+  ],
+  "tag": [
+    "distributed",
+    "dusk",
+    "golang",
+    "homelab",
+    "monitoring-tool",
+    "network-monitoring-tool",
+    "network-scanning",
+    "ubiquiti"
+  ],
+  "version": "HEAD-1a5aa35-250619T221913",
+  "version_upstream": "1.0.44-pre6",
+  "bsum": "e00d49b664b8bc304ec9a86f4c766a9f6052b2322180d5a11c5f704c1e23fbcc",
+  "build_date": "2025-06-20T08:02:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773524481",
+  "build_id": "15773524481",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-1a5aa35-250619T221913-x86_64-Linux&download=device.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "185",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-1a5aa35-250619T221913-x86_64-Linux&download=device",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/device:HEAD-1a5aa35-250619T221913-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/device",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-1a5aa35-250619T221913-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0169d20e50fcb234616950d7a930f6b744239990119f478bc621da40383e912e",
+  "size": "17 MB",
+  "size_raw": "17333760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
