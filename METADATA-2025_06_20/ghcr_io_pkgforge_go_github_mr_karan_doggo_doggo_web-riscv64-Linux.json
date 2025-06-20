@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "doggo-web",
+  "pkg_family": "doggo",
+  "pkg_id": "doggo-web#github.com_mr_karan_doggo",
+  "pkg_name": "doggo-web",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mr-karan/doggo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":dog: Command-line DNS Client for Humans. Written in Golang",
+  "homepage": [
+    "https://github.com/mr-karan/doggo"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doggo",
+    "doggo-web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mr-karan/doggo/archive/16ba284a136354fb4f11fd4d566db9b4364e9a32.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dns-client",
+    "doh"
+  ],
+  "version": "HEAD-16ba284-240930T150003",
+  "version_upstream": "v1.0.5",
+  "bsum": "ba0ce6ad4026e3a0dffdcc5df8f29ad93a289cc36c714c0ed6cc9fb3c5910bc3",
+  "build_date": "2025-06-20T23:05:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788740548",
+  "build_id": "15788740548",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mr-karan/doggo/doggo-web?tag=HEAD-16ba284-240930T150003-riscv64-Linux&download=doggo-web.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3664",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mr-karan/doggo/doggo-web?tag=HEAD-16ba284-240930T150003-riscv64-Linux&download=doggo-web",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mr-karan/doggo/doggo-web:HEAD-16ba284-240930T150003-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mr-karan/doggo/doggo-web",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mr-karan/doggo/doggo-web?tag=HEAD-16ba284-240930T150003-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3681f4655a4569e175b979b0e2250b6b8e4ca6f2ee4f18d0140efaa29d66602",
+  "size": "9.8 MB",
+  "size_raw": "10275800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
