@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "docgen",
+  "pkg_family": "hyperconverged-cluster-operator",
+  "pkg_id": "docgen#github.com_kubevirt_hyperconverged_cluster_operator",
+  "pkg_name": "docgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/hyperconverged-cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator pattern for managing multi-operator products",
+  "homepage": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-overlap-validator",
+    "crwriter",
+    "csv-merger",
+    "docgen",
+    "hyperconverged-cluster-operator",
+    "hyperconverged-cluster-webhook",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator/archive/83c7a32a3135d1c1189997991a88ce43fa1674d4.tar.gz"
+  ],
+  "tag": [
+    "hco",
+    "hyperconverged",
+    "kubernetes",
+    "kubernetes-operator",
+    "openshift",
+    "operator",
+    "virtualization"
+  ],
+  "version": "HEAD-83c7a32-250620T105840",
+  "version_upstream": "",
+  "bsum": "1b2c332d420d2c8ac6baf5e81f6ff44c2e1c351b43f1a42c6dc44f35ebf98285",
+  "build_date": "2025-06-20T19:58:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785780306",
+  "build_id": "15785780306",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/docgen?tag=HEAD-83c7a32-250620T105840-x86_64-Linux&download=docgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/docgen?tag=HEAD-83c7a32-250620T105840-x86_64-Linux&download=docgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/docgen:HEAD-83c7a32-250620T105840-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/docgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/docgen?tag=HEAD-83c7a32-250620T105840-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d0ed763e3ecf62b4b7f7a2bc46ffb8b37d68b1414749407be25f5e136785340",
+  "size": "3.8 MB",
+  "size_raw": "3887352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
