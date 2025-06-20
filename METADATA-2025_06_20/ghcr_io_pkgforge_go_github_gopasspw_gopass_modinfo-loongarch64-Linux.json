@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "modinfo",
+  "pkg_family": "gopass",
+  "pkg_id": "modinfo#github.com_gopasspw_gopass",
+  "pkg_name": "modinfo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gopasspw/gopass",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The slightly more awesome standard unix password manager for teams",
+  "homepage": [
+    "https://github.com/gopasspw/gopass"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "gopass",
+    "man",
+    "modinfo",
+    "msipkg",
+    "postrel",
+    "proxy",
+    "release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gopasspw/gopass/archive/d421f0e4f826c9aa4f9fb435208d3035504fca35.tar.gz"
+  ],
+  "tag": [
+    "git",
+    "go",
+    "gpg",
+    "hacktoberfest",
+    "password-manager",
+    "security"
+  ],
+  "version": "HEAD-d421f0e-250610T202600",
+  "version_upstream": "",
+  "bsum": "d3c8b20b489ff785dcfd217c67cf3db0ed03f660d7270e3affed057aaa3358ae",
+  "build_date": "2025-06-20T04:29:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770993232",
+  "build_id": "15770993232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopasspw/gopass/modinfo?tag=HEAD-d421f0e-250610T202600-loongarch64-Linux&download=modinfo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopasspw/gopass/modinfo?tag=HEAD-d421f0e-250610T202600-loongarch64-Linux&download=modinfo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopasspw/gopass/modinfo:HEAD-d421f0e-250610T202600-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopasspw/gopass/modinfo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopasspw/gopass/modinfo?tag=HEAD-d421f0e-250610T202600-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93c07b32814463e62f271f1ec5684753dc6ce3c4d6667ee249d3fcbedb5034c6",
+  "size": "1.8 MB",
+  "size_raw": "1849688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
