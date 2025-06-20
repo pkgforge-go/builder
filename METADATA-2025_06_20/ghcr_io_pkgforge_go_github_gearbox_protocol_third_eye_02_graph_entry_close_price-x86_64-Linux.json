@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "02_graph_entry_close_price",
+  "pkg_family": "third-eye",
+  "pkg_id": "02_graph_entry_close_price#github.com_Gearbox_protocol_third_eye",
+  "pkg_name": "02_graph_entry_close_price",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Gearbox-protocol/third-eye",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/Gearbox-protocol/third-eye"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01_repay_amount",
+    "02_graph_entry_close_price",
+    "03_gatewaypoolledgerfix",
+    "04_formula_entry_close_price",
+    "05_fix_pool_ledger_v3",
+    "06_fetch_steth_shares",
+    "07_fix_execute_transfer_v3",
+    "09_closure_repay_amount",
+    "10_balance_v3_ignore_enabled",
+    "11_dao_gho_fix",
+    "12_lm_rewards_dao_gho",
+    "13_v3_debt_limits",
+    "14_update_price",
+    "15_ticker",
+    "16_fix",
+    "17_merge_price_feed",
+    "account_mining",
+    "debts",
+    "pool_rewards",
+    "stimmies_arb1",
+    "third-eye-cmd",
+    "trading_rewards"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Gearbox-protocol/third-eye/archive/23f78b69a0c102543298c141cb28cc185ee1e970.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-23f78b6-250620T150901",
+  "version_upstream": "",
+  "bsum": "011b94839ed29a598f31d6abd60130773d91517007593f4e70de7bf52316eba3",
+  "build_date": "2025-06-20T16:40:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782599203",
+  "build_id": "15782599203",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gearbox-protocol/third-eye/02_graph_entry_close_price?tag=HEAD-23f78b6-250620T150901-x86_64-Linux&download=02_graph_entry_close_price.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gearbox-protocol/third-eye/02_graph_entry_close_price?tag=HEAD-23f78b6-250620T150901-x86_64-Linux&download=02_graph_entry_close_price",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gearbox-protocol/third-eye/02_graph_entry_close_price:HEAD-23f78b6-250620T150901-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gearbox-protocol/third-eye/02_graph_entry_close_price",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gearbox-protocol/third-eye/02_graph_entry_close_price?tag=HEAD-23f78b6-250620T150901-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9d3a4a77659db00fdccf416059f51299653c285a20a1b761e0f3d0c9bcc7755",
+  "size": "31 MB",
+  "size_raw": "31982240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
