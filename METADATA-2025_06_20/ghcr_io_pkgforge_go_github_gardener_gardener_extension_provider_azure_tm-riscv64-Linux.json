@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tm",
+  "pkg_family": "gardener-extension-provider-azure",
+  "pkg_id": "tm#github.com_gardener_gardener_extension_provider_azure",
+  "pkg_name": "tm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-azure",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the Azure cloud provider _https://azure.microsoft.com_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-azure"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-azure",
+    "gardener-extension-provider-azure",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-azure/archive/3c320e0c5c9b089d27f369ebf8db95e3df76e214.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3c320e0-250620T145747",
+  "version_upstream": "",
+  "bsum": "1af02ff5b22586b857947592a348fbda9b51878b3fa9302fdaa05a261f08040e",
+  "build_date": "2025-06-20T18:23:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784307517",
+  "build_id": "15784307517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/tm?tag=HEAD-3c320e0-250620T145747-riscv64-Linux&download=tm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/tm?tag=HEAD-3c320e0-250620T145747-riscv64-Linux&download=tm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-azure/tm:HEAD-3c320e0-250620T145747-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-azure/tm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/tm?tag=HEAD-3c320e0-250620T145747-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f6e53ddfe53a2ca4d660af9a4ad9cac78286e4fde10752f9b87191991f3d0dd",
+  "size": "14 MB",
+  "size_raw": "13636248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

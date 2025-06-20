@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-admission-azure",
+  "pkg_family": "gardener-extension-provider-azure",
+  "pkg_id": "gardener-extension-admission-azure#github.com_gardener_gardener_extension_provider_azure",
+  "pkg_name": "gardener-extension-admission-azure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-azure",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the Azure cloud provider _https://azure.microsoft.com_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-azure"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-azure",
+    "gardener-extension-provider-azure",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-azure/archive/3c320e0c5c9b089d27f369ebf8db95e3df76e214.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3c320e0-250620T145747",
+  "version_upstream": "",
+  "bsum": "484139f27c4a2165a0f7d579940065f6ebec17fc33c44722536f9c9bec8498d3",
+  "build_date": "2025-06-20T18:23:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784307517",
+  "build_id": "15784307517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-admission-azure?tag=HEAD-3c320e0-250620T145747-riscv64-Linux&download=gardener-extension-admission-azure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-admission-azure?tag=HEAD-3c320e0-250620T145747-riscv64-Linux&download=gardener-extension-admission-azure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-admission-azure:HEAD-3c320e0-250620T145747-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-admission-azure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-admission-azure?tag=HEAD-3c320e0-250620T145747-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4830ab69301e2809a6d1bd1b3e15eff49f4268230cd60b6679f89c0942da259",
+  "size": "58 MB",
+  "size_raw": "59951032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
