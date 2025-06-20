@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webclient",
+  "pkg_family": "goatak",
+  "pkg_id": "webclient#github.com_kdudkov_goatak.git",
+  "pkg_name": "webclient",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goatak_server",
+    "mm",
+    "takreplay",
+    "webclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kdudkov/goatak.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T143823",
+  "version_upstream": "",
+  "bsum": "f5f977bd436251a17af1f48f4bae18d6d18cb32778a209e47068bec97aaecc2c",
+  "build_date": "2025-06-20T14:41:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780364425",
+  "build_id": "15780364425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdudkov/goatak.git/webclient?tag=20250620T143823-riscv64-Linux&download=webclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdudkov/goatak.git/webclient?tag=20250620T143823-riscv64-Linux&download=webclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kdudkov/goatak.git/webclient:20250620T143823-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kdudkov/goatak.git/webclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kdudkov/goatak.git/webclient?tag=20250620T143823-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13143c05a6b2ab9736163a711e39e7e4af2bf23286371c0d342a58aefd9c69f1",
+  "size": "21 MB",
+  "size_raw": "21089592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
