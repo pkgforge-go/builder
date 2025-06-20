@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "firewall-controller",
+  "pkg_family": "firewall-controller",
+  "pkg_id": "firewall-controller#github.com_metal_stack_firewall_controller",
+  "pkg_name": "firewall-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metal-stack/firewall-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A kubernetes controller running on bare-metal firewalls, creating nftables rules, configures suricata, collects network metrics",
+  "homepage": [
+    "https://github.com/metal-stack/firewall-controller"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "firewall-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metal-stack/firewall-controller/archive/8774352fce669d437ba1b765c8f414ddf7e0c7e2.tar.gz"
+  ],
+  "tag": [
+    "firewall-controller",
+    "firewall-crd",
+    "ids",
+    "kubernetes",
+    "networkpolicy",
+    "nftables",
+    "services"
+  ],
+  "version": "HEAD-8774352-250620T114818",
+  "version_upstream": "",
+  "bsum": "57411bf12e054d7ff01f5f2d8f014079ce6a26a2dc5ac0681f781d0c6f190eba",
+  "build_date": "2025-06-20T22:03:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788309058",
+  "build_id": "15788309058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/firewall-controller/firewall-controller?tag=HEAD-8774352-250620T114818-riscv64-Linux&download=firewall-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/firewall-controller/firewall-controller?tag=HEAD-8774352-250620T114818-riscv64-Linux&download=firewall-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metal-stack/firewall-controller/firewall-controller:HEAD-8774352-250620T114818-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metal-stack/firewall-controller/firewall-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/firewall-controller/firewall-controller?tag=HEAD-8774352-250620T114818-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "896d1225251bc74b5390de9597b17d5340b019a04a574ed1fa70db7e98c34aa9",
+  "size": "43 MB",
+  "size_raw": "44752472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
