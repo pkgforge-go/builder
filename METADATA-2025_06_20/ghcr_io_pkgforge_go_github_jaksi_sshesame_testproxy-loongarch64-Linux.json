@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "testproxy",
+  "pkg_family": "sshesame",
+  "pkg_id": "testproxy#github.com_jaksi_sshesame",
+  "pkg_name": "testproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jaksi/sshesame",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity",
+  "homepage": [
+    "https://github.com/jaksi/sshesame"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sshesame",
+    "testproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jaksi/sshesame/archive/062795684a859d36a06979e39498c476dcd66970.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "honeypot",
+    "security",
+    "ssh"
+  ],
+  "version": "HEAD-0627956-240803T184138",
+  "version_upstream": "v0.0.39",
+  "bsum": "419c24217071b5f671a3d33a626657166828ed96e3b0dde7bae0c3e95cd5e87c",
+  "build_date": "2025-06-20T13:15:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779438045",
+  "build_id": "15779438045",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaksi/sshesame/testproxy?tag=HEAD-0627956-240803T184138-loongarch64-Linux&download=testproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1647",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaksi/sshesame/testproxy?tag=HEAD-0627956-240803T184138-loongarch64-Linux&download=testproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaksi/sshesame/testproxy:HEAD-0627956-240803T184138-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jaksi/sshesame/testproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaksi/sshesame/testproxy?tag=HEAD-0627956-240803T184138-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9b4aa536b1fdd48f6dee15c4c9d53a449e39e06507985a5e711b76bde08bb6c",
+  "size": "4.5 MB",
+  "size_raw": "4703680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
