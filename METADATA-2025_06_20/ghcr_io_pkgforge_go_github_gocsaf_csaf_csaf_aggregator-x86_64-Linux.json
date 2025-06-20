@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "csaf_aggregator",
+  "pkg_family": "csaf",
+  "pkg_id": "csaf_aggregator#github.com_gocsaf_csaf",
+  "pkg_name": "csaf_aggregator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gocsaf/csaf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+  "homepage": [
+    "https://github.com/gocsaf/csaf"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csaf_aggregator",
+    "csaf_checker",
+    "csaf_downloader",
+    "csaf_provider",
+    "csaf_uploader",
+    "csaf_validator",
+    "product_lister",
+    "purls_searcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gocsaf/csaf/archive/ce886f138a48300d11d29841e42d637f41480590.tar.gz"
+  ],
+  "tag": [
+    "apache-2-0-license",
+    "csaf",
+    "csaf-aggregator",
+    "csaf-distribution",
+    "csaf-downloader",
+    "csaf-trusted-provider",
+    "provider-checker",
+    "security-automation",
+    "tools"
+  ],
+  "version": "HEAD-ce886f1-250620T085950",
+  "version_upstream": "",
+  "bsum": "78522c3c49d658fbb487b411f37a28fb612ad1a5cd99f29a17fed3078c4143c1",
+  "build_date": "2025-06-20T18:35:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784335681",
+  "build_id": "15784335681",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocsaf/csaf/csaf_aggregator?tag=HEAD-ce886f1-250620T085950-x86_64-Linux&download=csaf_aggregator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocsaf/csaf/csaf_aggregator?tag=HEAD-ce886f1-250620T085950-x86_64-Linux&download=csaf_aggregator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gocsaf/csaf/csaf_aggregator:HEAD-ce886f1-250620T085950-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gocsaf/csaf/csaf_aggregator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocsaf/csaf/csaf_aggregator?tag=HEAD-ce886f1-250620T085950-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66162930fde0b436ba98f7ae90a93539753e6d945e0f1515086d0b3fa90246fc",
+  "size": "13 MB",
+  "size_raw": "13341152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
