@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "k8s-keystone-auth",
+  "pkg_family": "cloud-provider-openstack",
+  "pkg_id": "k8s-keystone-auth#github.com_kubernetes_cloud_provider_openstack",
+  "pkg_name": "k8s-keystone-auth",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/cloud-provider-openstack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubernetes/cloud-provider-openstack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "barbican-kms-plugin",
+    "cinder-csi-plugin",
+    "client",
+    "client-keystone-auth",
+    "k8s-keystone-auth",
+    "magnum-auto-healer",
+    "manila-csi-plugin",
+    "octavia-ingress-controller",
+    "openstack-cloud-controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/cloud-provider-openstack/archive/250b868d88de38c8c4d7c317c45068b314250c7c.tar.gz"
+  ],
+  "tag": [
+    "cloud-controller-manager",
+    "csi-plugin",
+    "k8s-sig-cloud-provider",
+    "k8s-sig-storage",
+    "kubernetes",
+    "openstack"
+  ],
+  "version": "HEAD-250b868-250620T041852",
+  "version_upstream": "",
+  "bsum": "b1bf8290403c1b12ac93d8bf5300d65662025c9feafcc1e2b698ed4b4ed1165e",
+  "build_date": "2025-06-20T19:40:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785646797",
+  "build_id": "15785646797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/k8s-keystone-auth?tag=HEAD-250b868-250620T041852-x86_64-Linux&download=k8s-keystone-auth.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/k8s-keystone-auth?tag=HEAD-250b868-250620T041852-x86_64-Linux&download=k8s-keystone-auth",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/k8s-keystone-auth:HEAD-250b868-250620T041852-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/k8s-keystone-auth",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/k8s-keystone-auth?tag=HEAD-250b868-250620T041852-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a7a5795125ab5f6d9651fea6d8a2dbba4dcc7185ac8d0173569d0fcc182a22d",
+  "size": "54 MB",
+  "size_raw": "55779040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

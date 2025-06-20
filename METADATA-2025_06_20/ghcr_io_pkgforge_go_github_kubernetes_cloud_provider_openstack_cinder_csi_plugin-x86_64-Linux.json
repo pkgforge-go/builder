@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cinder-csi-plugin",
+  "pkg_family": "cloud-provider-openstack",
+  "pkg_id": "cinder-csi-plugin#github.com_kubernetes_cloud_provider_openstack",
+  "pkg_name": "cinder-csi-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/cloud-provider-openstack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubernetes/cloud-provider-openstack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "barbican-kms-plugin",
+    "cinder-csi-plugin",
+    "client",
+    "client-keystone-auth",
+    "k8s-keystone-auth",
+    "magnum-auto-healer",
+    "manila-csi-plugin",
+    "octavia-ingress-controller",
+    "openstack-cloud-controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/cloud-provider-openstack/archive/250b868d88de38c8c4d7c317c45068b314250c7c.tar.gz"
+  ],
+  "tag": [
+    "cloud-controller-manager",
+    "csi-plugin",
+    "k8s-sig-cloud-provider",
+    "k8s-sig-storage",
+    "kubernetes",
+    "openstack"
+  ],
+  "version": "HEAD-250b868-250620T041852",
+  "version_upstream": "",
+  "bsum": "01d1c49fb6aaed2875b94d53de91987f6f8893e468e1cbe13dc8e59b5f0dbc1e",
+  "build_date": "2025-06-20T19:40:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785646797",
+  "build_id": "15785646797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/cinder-csi-plugin?tag=HEAD-250b868-250620T041852-x86_64-Linux&download=cinder-csi-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/cinder-csi-plugin?tag=HEAD-250b868-250620T041852-x86_64-Linux&download=cinder-csi-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/cinder-csi-plugin:HEAD-250b868-250620T041852-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-openstack/cinder-csi-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-openstack/cinder-csi-plugin?tag=HEAD-250b868-250620T041852-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b8185e4fa75c66281783b778afe2c4f6a85efc0436f0de5af304f2dc9bfca08e",
+  "size": "57 MB",
+  "size_raw": "59343328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
