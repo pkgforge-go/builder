@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "app-operator",
+  "pkg_family": "app-operator",
+  "pkg_id": "app-operator#github.com_giantswarm_app_operator",
+  "pkg_name": "app-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/giantswarm/app-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manages apps in Kubernetes clusters, as part of the Giant Swarm app platform",
+  "homepage": [
+    "https://github.com/giantswarm/app-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/giantswarm/app-operator/archive/ab52b87f2b1b35e5b471a2ba046a97622afb5106.tar.gz"
+  ],
+  "tag": [
+    "helm",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-ab52b87-250620T154850",
+  "version_upstream": "",
+  "bsum": "f5e7b5ec56df336f1fc4a45308fb6f907dbdb807147cce54eb64a6b062ac8c00",
+  "build_date": "2025-06-20T18:26:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784325802",
+  "build_id": "15784325802",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/app-operator/app-operator?tag=HEAD-ab52b87-250620T154850-loongarch64-Linux&download=app-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/app-operator/app-operator?tag=HEAD-ab52b87-250620T154850-loongarch64-Linux&download=app-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/giantswarm/app-operator/app-operator:HEAD-ab52b87-250620T154850-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/giantswarm/app-operator/app-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/app-operator/app-operator?tag=HEAD-ab52b87-250620T154850-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c166d3723a95deb76b6294b4cf88867ebfa2db17263ec909f1cdc13578dc065",
+  "size": "89 MB",
+  "size_raw": "92946592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
