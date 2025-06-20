@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "known-types",
+  "pkg_family": "go-plugin",
+  "pkg_id": "known-types#github.com_knqyf263_go_plugin",
+  "pkg_name": "known-types",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knqyf263/go-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Plugin System over WebAssembly",
+  "homepage": [
+    "https://github.com/knqyf263/go-plugin"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helloworld",
+    "host-function-library",
+    "host-functions",
+    "known-types",
+    "protoc-gen-go-plugin",
+    "wasi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knqyf263/go-plugin/archive/c156889d438cf7d729d5959c02772d9f3a86cb2e.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "plugin",
+    "plugins",
+    "protobuf3",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-c156889-250311T094207",
+  "version_upstream": "v0.9.0",
+  "bsum": "d66a54e1c58feb379dde1521bdaf11cc7dd70dc6c24fb6b6d6e310d44fe5de5c",
+  "build_date": "2025-06-20T15:11:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780902304",
+  "build_id": "15780902304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/known-types?tag=HEAD-c156889-250311T094207-aarch64-Linux&download=known-types.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "669",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/known-types?tag=HEAD-c156889-250311T094207-aarch64-Linux&download=known-types",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knqyf263/go-plugin/known-types:HEAD-c156889-250311T094207-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knqyf263/go-plugin/known-types",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/known-types?tag=HEAD-c156889-250311T094207-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "07f78ab1ea9640ffb3cb8a7749fd38e8b1c4e0fe958725838eb0da1240d12c72",
+  "size": "5.7 MB",
+  "size_raw": "5888256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

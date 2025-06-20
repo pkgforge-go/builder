@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-go-plugin",
+  "pkg_family": "go-plugin",
+  "pkg_id": "protoc-gen-go-plugin#github.com_knqyf263_go_plugin",
+  "pkg_name": "protoc-gen-go-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knqyf263/go-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Plugin System over WebAssembly",
+  "homepage": [
+    "https://github.com/knqyf263/go-plugin"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helloworld",
+    "host-function-library",
+    "host-functions",
+    "known-types",
+    "protoc-gen-go-plugin",
+    "wasi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knqyf263/go-plugin/archive/c156889d438cf7d729d5959c02772d9f3a86cb2e.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "plugin",
+    "plugins",
+    "protobuf3",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-c156889-250311T094207",
+  "version_upstream": "v0.9.0",
+  "bsum": "2dc29ed93f76ae263c25a2c242b6f50577000ae9f9e03ff230c5e8a053ad9fbc",
+  "build_date": "2025-06-20T15:12:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780902304",
+  "build_id": "15780902304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/protoc-gen-go-plugin?tag=HEAD-c156889-250311T094207-aarch64-Linux&download=protoc-gen-go-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "669",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/protoc-gen-go-plugin?tag=HEAD-c156889-250311T094207-aarch64-Linux&download=protoc-gen-go-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knqyf263/go-plugin/protoc-gen-go-plugin:HEAD-c156889-250311T094207-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knqyf263/go-plugin/protoc-gen-go-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/protoc-gen-go-plugin?tag=HEAD-c156889-250311T094207-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed00e83925c39698af29a7a43fa54edc01ab0600b980daaad10c9a94f555d786",
+  "size": "7.3 MB",
+  "size_raw": "7616216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
