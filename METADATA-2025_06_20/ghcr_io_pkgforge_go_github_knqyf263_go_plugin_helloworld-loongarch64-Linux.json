@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "helloworld",
+  "pkg_family": "go-plugin",
+  "pkg_id": "helloworld#github.com_knqyf263_go_plugin",
+  "pkg_name": "helloworld",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knqyf263/go-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Plugin System over WebAssembly",
+  "homepage": [
+    "https://github.com/knqyf263/go-plugin"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helloworld",
+    "host-function-library",
+    "host-functions",
+    "known-types",
+    "protoc-gen-go-plugin",
+    "wasi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knqyf263/go-plugin/archive/c156889d438cf7d729d5959c02772d9f3a86cb2e.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "plugin",
+    "plugins",
+    "protobuf3",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-c156889-250311T094207",
+  "version_upstream": "v0.9.0",
+  "bsum": "cddee1d17ed491dd7e558c1daa9e25c1f9c70c602740795772e3e0ddde8fe9b0",
+  "build_date": "2025-06-20T15:12:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780902304",
+  "build_id": "15780902304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/helloworld?tag=HEAD-c156889-250311T094207-loongarch64-Linux&download=helloworld.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "669",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/helloworld?tag=HEAD-c156889-250311T094207-loongarch64-Linux&download=helloworld",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knqyf263/go-plugin/helloworld:HEAD-c156889-250311T094207-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knqyf263/go-plugin/helloworld",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knqyf263/go-plugin/helloworld?tag=HEAD-c156889-250311T094207-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1b16688e45942dbaf84cf4fa513a4937e31a109e3ae87f266c3b04bcd995e5b2",
+  "size": "4.4 MB",
+  "size_raw": "4512192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
