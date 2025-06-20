@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "config-db",
+  "pkg_family": "config-db",
+  "pkg_id": "config-db#github.com_flanksource_config_db",
+  "pkg_name": "config-db",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flanksource/config-db",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Developer first, JSON based configuration management database _CMDB_",
+  "homepage": [
+    "https://github.com/flanksource/config-db"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config-db",
+    "generate-schemas"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flanksource/config-db/archive/1ffa63d63ae376127a9cc2a1436402b507fa5c27.tar.gz"
+  ],
+  "tag": [
+    "cmdb",
+    "json"
+  ],
+  "version": "HEAD-1ffa63d-250619T171056",
+  "version_upstream": "v0.0.952",
+  "bsum": "713a5b8647a629e9f9552344b995b5bf85b19183f9ee96175f4b021f550b3501",
+  "build_date": "2025-06-20T00:01:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767865205",
+  "build_id": "15767865205",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flanksource/config-db/config-db?tag=HEAD-1ffa63d-250619T171056-riscv64-Linux&download=config-db.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flanksource/config-db/config-db?tag=HEAD-1ffa63d-250619T171056-riscv64-Linux&download=config-db",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flanksource/config-db/config-db:HEAD-1ffa63d-250619T171056-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flanksource/config-db/config-db",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flanksource/config-db/config-db?tag=HEAD-1ffa63d-250619T171056-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19bca3cc1a0bde5942cbcda36f7bd01de8c362318f314913fbd6601c4f444a3e",
+  "size": "481 MB",
+  "size_raw": "503898008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
