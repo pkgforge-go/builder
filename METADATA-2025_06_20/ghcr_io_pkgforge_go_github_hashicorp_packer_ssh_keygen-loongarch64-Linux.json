@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ssh-keygen",
+  "pkg_family": "packer",
+  "pkg_id": "ssh-keygen#github.com_hashicorp_packer",
+  "pkg_name": "ssh-keygen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/packer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+  "homepage": [
+    "https://github.com/hashicorp/packer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-fixer-deprecations",
+    "packer",
+    "scripts",
+    "ssh-keygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/packer/archive/4cd7ad4721cd3aba078482cabe9b01de8202dfa2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4cd7ad4-250617T092209",
+  "version_upstream": "nightly",
+  "bsum": "1628d220bb7ce348392b229c67b5debca2faac6bba704998ef34738ffcf410b0",
+  "build_date": "2025-06-20T05:42:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771686552",
+  "build_id": "15771686552",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/ssh-keygen?tag=HEAD-4cd7ad4-250617T092209-loongarch64-Linux&download=ssh-keygen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15389",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/ssh-keygen?tag=HEAD-4cd7ad4-250617T092209-loongarch64-Linux&download=ssh-keygen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/packer/ssh-keygen:HEAD-4cd7ad4-250617T092209-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/packer/ssh-keygen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/ssh-keygen?tag=HEAD-4cd7ad4-250617T092209-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef3273a8d3af8aa0cfd576406f2d9ca27d541f721ab955536d302d6188c59587",
+  "size": "3.3 MB",
+  "size_raw": "3360032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
