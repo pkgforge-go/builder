@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "reporter",
+  "pkg_family": "nbio",
+  "pkg_id": "reporter#github.com_lesismal_nbio",
+  "pkg_name": "reporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lesismal/nbio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.",
+  "homepage": [
+    "https://github.com/lesismal/nbio"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "norace",
+    "reporter",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lesismal/nbio/archive/fa57bdac8a64ea1cb139176741d7cf4538c83458.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fa57bda-250518T142148",
+  "version_upstream": "",
+  "bsum": "9198b15a679712beb78ad444279dae42f981b7b45e26692c0f2fbc3b71f782be",
+  "build_date": "2025-06-20T20:22:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786122204",
+  "build_id": "15786122204",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/reporter?tag=HEAD-fa57bda-250518T142148-aarch64-Linux&download=reporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2508",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/reporter?tag=HEAD-fa57bda-250518T142148-aarch64-Linux&download=reporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lesismal/nbio/reporter:HEAD-fa57bda-250518T142148-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lesismal/nbio/reporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/reporter?tag=HEAD-fa57bda-250518T142148-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "51a84d92b02638d5edb2b87f65e3e5b92601c320cb922852add7258334375839",
+  "size": "8.2 MB",
+  "size_raw": "8544736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "norace",
+  "pkg_family": "nbio",
+  "pkg_id": "norace#github.com_lesismal_nbio",
+  "pkg_name": "norace",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lesismal/nbio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.",
+  "homepage": [
+    "https://github.com/lesismal/nbio"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "norace",
+    "reporter",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lesismal/nbio/archive/fa57bdac8a64ea1cb139176741d7cf4538c83458.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fa57bda-250518T142148",
+  "version_upstream": "",
+  "bsum": "7acf4572d765c8b19c24901b72b15a7766abf486f20560f48fe98ab84aec52a8",
+  "build_date": "2025-06-20T20:22:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786122204",
+  "build_id": "15786122204",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/norace?tag=HEAD-fa57bda-250518T142148-aarch64-Linux&download=norace.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2508",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/norace?tag=HEAD-fa57bda-250518T142148-aarch64-Linux&download=norace",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lesismal/nbio/norace:HEAD-fa57bda-250518T142148-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lesismal/nbio/norace",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/norace?tag=HEAD-fa57bda-250518T142148-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c0fdd640098d2eb40c6f0c449eaffc0f8ac77b45e1ccefa25c17345fe5adda4",
+  "size": "1.8 MB",
+  "size_raw": "1813336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
