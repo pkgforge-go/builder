@@ -1,0 +1,102 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "vulcan-exposed-router-ports",
+  "pkg_family": "vulcan-checks",
+  "pkg_id": "vulcan-exposed-router-ports#github.com_adevinta_vulcan_checks",
+  "pkg_name": "vulcan-exposed-router-ports",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adevinta/vulcan-checks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository holds the code for each Vulcan check_s main binary.",
+  "homepage": [
+    "https://github.com/adevinta/vulcan-checks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vulcan-aws-alerts",
+    "vulcan-aws-subdomain-takeover",
+    "vulcan-aws-trusted-advisor",
+    "vulcan-blast-radius",
+    "vulcan-burp",
+    "vulcan-dmarc",
+    "vulcan-drupal",
+    "vulcan-exposed-bgp",
+    "vulcan-exposed-db",
+    "vulcan-exposed-http",
+    "vulcan-exposed-memcached",
+    "vulcan-exposed-router-ports",
+    "vulcan-exposed-services",
+    "vulcan-exposed-ssh",
+    "vulcan-github-alerts",
+    "vulcan-gitleaks",
+    "vulcan-govulncheck",
+    "vulcan-heartbleed",
+    "vulcan-host-discovery",
+    "vulcan-http-headers",
+    "vulcan-ipv6",
+    "vulcan-masscan",
+    "vulcan-mx",
+    "vulcan-nessus",
+    "vulcan-nuclei",
+    "vulcan-prowler",
+    "vulcan-repository-sctrl",
+    "vulcan-results-load-test",
+    "vulcan-retirejs",
+    "vulcan-semgrep",
+    "vulcan-sleep",
+    "vulcan-smtp-open-relay",
+    "vulcan-spf",
+    "vulcan-tenable",
+    "vulcan-trivy",
+    "vulcan-unclassified",
+    "vulcan-vulners",
+    "vulcan-wpscan",
+    "vulcan-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/adevinta/vulcan-checks/archive/aeb7203233dc02f401ba3d40fb02aeb490a323d5.tar.gz"
+  ],
+  "tag": [
+    "vulcan"
+  ],
+  "version": "HEAD-aeb7203-250620T095206",
+  "version_upstream": "",
+  "bsum": "51318398489afdc8c372bbf69f2990bc0b36768c85b74b51f3460fb74a974895",
+  "build_date": "2025-06-20T17:14:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782906690",
+  "build_id": "15782906690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-router-ports?tag=HEAD-aeb7203-250620T095206-x86_64-Linux&download=vulcan-exposed-router-ports.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-router-ports?tag=HEAD-aeb7203-250620T095206-x86_64-Linux&download=vulcan-exposed-router-ports",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-router-ports:HEAD-aeb7203-250620T095206-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-router-ports",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-exposed-router-ports?tag=HEAD-aeb7203-250620T095206-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc25659b25653c2ede0feb04d245eea08c884e2e9b44ec9a96813be3004aed15",
+  "size": "20 MB",
+  "size_raw": "20813664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
