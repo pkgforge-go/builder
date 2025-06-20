@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "minio",
+  "pkg_family": "minio",
+  "pkg_id": "minio#github.com_minio_minio",
+  "pkg_name": "minio",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/minio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+  "homepage": [
+    "https://github.com/minio/minio"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hash-set",
+    "healing-bin",
+    "minio",
+    "minio-go",
+    "s3-check-md5",
+    "xl-meta"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minio/minio/archive/a6c538c5a113a588d49b4f3af36ae3046cfa5ac6.tar.gz"
+  ],
+  "tag": [
+    "amazon-s3",
+    "cloud",
+    "cloudnative",
+    "cloudstorage",
+    "go",
+    "k8s",
+    "kubernetes",
+    "multi-cloud",
+    "multi-cloud-kubernetes",
+    "objectstorage",
+    "s3",
+    "storage"
+  ],
+  "version": "HEAD-a6c538c-250613T043347",
+  "version_upstream": "",
+  "bsum": "342e8c3eec9b3887c3824ab5c8e5cd8801c7931866aacdf6c014af7e2d25e425",
+  "build_date": "2025-06-20T22:27:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788410920",
+  "build_id": "15788410920",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/minio?tag=HEAD-a6c538c-250613T043347-loongarch64-Linux&download=minio.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53247",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/minio?tag=HEAD-a6c538c-250613T043347-loongarch64-Linux&download=minio",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/minio/minio:HEAD-a6c538c-250613T043347-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/minio/minio",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/minio?tag=HEAD-a6c538c-250613T043347-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e611ca310d3b2a4c049861b0593cf503646b31d5f81b4ee8025c6957036d4721",
+  "size": "110 MB",
+  "size_raw": "115323280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
