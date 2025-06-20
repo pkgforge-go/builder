@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "shrimp",
+  "pkg_family": "shrimp",
+  "pkg_id": "shrimp#github.com_ipv6rslimited_shrimp",
+  "pkg_name": "shrimp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipv6rslimited/shrimp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "shrimp is a simple forward proxy written in GoLang, that does not decrypt traffic, making it secure and easy to configure. It features a locked-down mode which limits it to a single network interface and IPv6 stack.",
+  "homepage": [
+    "https://github.com/ipv6rslimited/shrimp"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "shrimp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipv6rslimited/shrimp/archive/02d6a218d26f99325eefdb39b1180108b65244ee.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-02d6a21-240527T203420",
+  "version_upstream": "",
+  "bsum": "37a31d113603d3a7fc6f62b1b3fc74a69b7dfa6c54bfad626a8de85d40616bd7",
+  "build_date": "2025-06-20T09:59:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775548582",
+  "build_id": "15775548582",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6rslimited/shrimp/shrimp?tag=HEAD-02d6a21-240527T203420-x86_64-Linux&download=shrimp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6rslimited/shrimp/shrimp?tag=HEAD-02d6a21-240527T203420-x86_64-Linux&download=shrimp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipv6rslimited/shrimp/shrimp:HEAD-02d6a21-240527T203420-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipv6rslimited/shrimp/shrimp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6rslimited/shrimp/shrimp?tag=HEAD-02d6a21-240527T203420-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fc424dad6428cce092d73c94e8e46ebe29dc0abef569aa3ac30e92ce98da94ef",
+  "size": "5.7 MB",
+  "size_raw": "5953152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
