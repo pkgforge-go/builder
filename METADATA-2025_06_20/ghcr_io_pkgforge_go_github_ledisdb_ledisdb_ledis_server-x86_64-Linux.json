@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ledis-server",
+  "pkg_family": "ledisdb",
+  "pkg_id": "ledis-server#github.com_ledisdb_ledisdb",
+  "pkg_name": "ledis-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ledisdb/ledisdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A high performance NoSQL Database Server powered by Go",
+  "homepage": [
+    "https://github.com/ledisdb/ledisdb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ledis",
+    "ledis-benchmark",
+    "ledis-cli",
+    "ledis-dump",
+    "ledis-load",
+    "ledis-repair",
+    "ledis-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ledisdb/ledisdb/archive/d35789ec47e667726160e227e7c05e09627a6d6c.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "goleveldb",
+    "ledisdb",
+    "redis",
+    "rocksdb-support",
+    "support-cluster"
+  ],
+  "version": "HEAD-d35789e-200510T215210",
+  "version_upstream": "",
+  "bsum": "e1b2bb7ebb14eb0ddde2b01211625aa0c3228055dc670a6bb9bc3a262e56ff7c",
+  "build_date": "2025-06-20T20:17:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786098150",
+  "build_id": "15786098150",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ledisdb/ledisdb/ledis-server?tag=HEAD-d35789e-200510T215210-x86_64-Linux&download=ledis-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ledisdb/ledisdb/ledis-server?tag=HEAD-d35789e-200510T215210-x86_64-Linux&download=ledis-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ledisdb/ledisdb/ledis-server:HEAD-d35789e-200510T215210-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ledisdb/ledisdb/ledis-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ledisdb/ledisdb/ledis-server?tag=HEAD-d35789e-200510T215210-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5924eb38c77a9ab1e600ff29d77f5064994bd1bb9dd1eca9b5dcfa06d4599b14",
+  "size": "13 MB",
+  "size_raw": "13023264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
