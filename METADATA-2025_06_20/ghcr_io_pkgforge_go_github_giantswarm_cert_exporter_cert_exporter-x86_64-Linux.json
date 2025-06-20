@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cert-exporter",
+  "pkg_family": "cert-exporter",
+  "pkg_id": "cert-exporter#github.com_giantswarm_cert_exporter",
+  "pkg_name": "cert-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/giantswarm/cert-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The cert-exporter walks a directory path it has gotten as input and emits all NotAfter timestamps as metrics for TLS certificates and Vault tokens. It also emits NotAfter timestamps as metrics for TLS certificates stored in Kubernetes secrets.",
+  "homepage": [
+    "https://github.com/giantswarm/cert-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cert-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/giantswarm/cert-exporter/archive/8ebc2aabe0e540f169d7c5e8c0feb35200a3c6ed.tar.gz"
+  ],
+  "tag": [
+    "core-component",
+    "prometheus",
+    "prometheus-exporter",
+    "x509certificates"
+  ],
+  "version": "HEAD-8ebc2aa-250619T224036",
+  "version_upstream": "",
+  "bsum": "f2e997c30079cce41ce0fb6a4a8139bb7e3aa3ef7e875ff1714ccbb39ee120b4",
+  "build_date": "2025-06-20T09:03:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774243411",
+  "build_id": "15774243411",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/cert-exporter/cert-exporter?tag=HEAD-8ebc2aa-250619T224036-x86_64-Linux&download=cert-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/cert-exporter/cert-exporter?tag=HEAD-8ebc2aa-250619T224036-x86_64-Linux&download=cert-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/giantswarm/cert-exporter/cert-exporter:HEAD-8ebc2aa-250619T224036-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/giantswarm/cert-exporter/cert-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/cert-exporter/cert-exporter?tag=HEAD-8ebc2aa-250619T224036-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba2340ba793ee99fc603ae1ddec9f7cdc6063e2c3298be97a4ae787521e49067",
+  "size": "50 MB",
+  "size_raw": "52053376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
