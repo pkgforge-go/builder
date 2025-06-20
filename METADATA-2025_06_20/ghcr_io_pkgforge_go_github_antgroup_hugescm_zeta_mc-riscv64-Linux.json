@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "zeta-mc",
+  "pkg_family": "hugescm",
+  "pkg_id": "zeta-mc#github.com_antgroup_hugescm",
+  "pkg_name": "zeta-mc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antgroup/hugescm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HugeSCM - A next generation cloud-based version control system",
+  "homepage": [
+    "https://github.com/antgroup/hugescm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bar2",
+    "diff2",
+    "lcs",
+    "setv",
+    "term",
+    "zeta",
+    "zeta-mc",
+    "zeta-serve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antgroup/hugescm/archive/e7ae9d3c29af8e13863240b5ca5c84cd8fe18c20.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "git",
+    "hugescm",
+    "monorepo",
+    "vcs"
+  ],
+  "version": "HEAD-e7ae9d3-250619T200645",
+  "version_upstream": "",
+  "bsum": "31e121d56903a6d94655f1e46221db6a19a9bfbf90b11242b8f8d8c856d325f1",
+  "build_date": "2025-06-20T07:42:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773252055",
+  "build_id": "15773252055",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/zeta-mc?tag=HEAD-e7ae9d3-250619T200645-riscv64-Linux&download=zeta-mc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/zeta-mc?tag=HEAD-e7ae9d3-250619T200645-riscv64-Linux&download=zeta-mc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antgroup/hugescm/zeta-mc:HEAD-e7ae9d3-250619T200645-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antgroup/hugescm/zeta-mc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/zeta-mc?tag=HEAD-e7ae9d3-250619T200645-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e7d4adf16fdd68042febf2612eae281ba195d558647d57c4403450a663783d3",
+  "size": "16 MB",
+  "size_raw": "16065368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
