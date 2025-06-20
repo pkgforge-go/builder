@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "strillone",
+  "pkg_family": "strillone",
+  "pkg_id": "strillone#github.com_dnsimple_strillone",
+  "pkg_name": "strillone",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dnsimple/strillone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Listen to incoming webhooks from DNSimple, and publish them to a Slack channel or other messaging service.",
+  "homepage": [
+    "https://github.com/dnsimple/strillone"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "strillone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dnsimple/strillone/archive/68625619ad6597b02507b8cbbc82cc59438e71ef.tar.gz"
+  ],
+  "tag": [
+    "dnsimple",
+    "dnsimple-api",
+    "dnsimple-policy-eng",
+    "dnsimple-policy-lang-golang",
+    "dnsimple-policy-triage-platform",
+    "slack"
+  ],
+  "version": "HEAD-6862561-250620T090303",
+  "version_upstream": "",
+  "bsum": "486bbca6e9969a5ab9bf912f8f97b9305c0ae6ea91b917a3b065afc7d680c1c0",
+  "build_date": "2025-06-20T17:50:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784132952",
+  "build_id": "15784132952",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnsimple/strillone/strillone?tag=HEAD-6862561-250620T090303-riscv64-Linux&download=strillone.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnsimple/strillone/strillone?tag=HEAD-6862561-250620T090303-riscv64-Linux&download=strillone",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dnsimple/strillone/strillone:HEAD-6862561-250620T090303-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dnsimple/strillone/strillone",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dnsimple/strillone/strillone?tag=HEAD-6862561-250620T090303-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d86bd0cb249f1cb882e7a4d040b6f32c6815c8dbec815136662d0e453a0d50ea",
+  "size": "6.6 MB",
+  "size_raw": "6879416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
