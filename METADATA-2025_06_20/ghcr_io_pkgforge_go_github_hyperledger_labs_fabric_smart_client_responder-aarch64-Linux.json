@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "responder",
+  "pkg_family": "fabric-smart-client",
+  "pkg_id": "responder#github.com_hyperledger_labs_fabric_smart_client",
+  "pkg_name": "responder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hyperledger-labs/fabric-smart-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Fabric Smart Client is a new Fabric Client that lets you focus on the business processes and simplifies the development of Fabric-based distributed application.",
+  "homepage": [
+    "https://github.com/hyperledger-labs/fabric-smart-client"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base",
+    "chaincode",
+    "fsccli",
+    "initiator",
+    "newchaincode",
+    "node",
+    "responder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hyperledger-labs/fabric-smart-client/archive/0b8322da538be07bd05a60fe15112c0e54e62006.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "fabric",
+    "hyperledger-fabric"
+  ],
+  "version": "HEAD-0b8322d-250619T204516",
+  "version_upstream": "",
+  "bsum": "ee682b71b00cf07777274a42ec5397dc09fa7971fbe62fec2c7aa1c0e2f262a7",
+  "build_date": "2025-06-20T09:48:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775256679",
+  "build_id": "15775256679",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger-labs/fabric-smart-client/responder?tag=HEAD-0b8322d-250619T204516-aarch64-Linux&download=responder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "57",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger-labs/fabric-smart-client/responder?tag=HEAD-0b8322d-250619T204516-aarch64-Linux&download=responder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyperledger-labs/fabric-smart-client/responder:HEAD-0b8322d-250619T204516-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyperledger-labs/fabric-smart-client/responder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger-labs/fabric-smart-client/responder?tag=HEAD-0b8322d-250619T204516-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ccf79a6973fa5545957548f79a8b8132cfef3f097de830365d0367deb592a3c8",
+  "size": "67 MB",
+  "size_raw": "69354208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
