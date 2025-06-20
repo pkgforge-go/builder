@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "infrastructure",
+  "pkg_family": "gardener-extension-provider-alicloud",
+  "pkg_id": "infrastructure#github.com_gardener_gardener_extension_provider_alicloud",
+  "pkg_name": "infrastructure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-alicloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the Alibaba cloud provider _https://alibabacloud.com_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-alicloud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-alicloud",
+    "gardener-extension-provider-alicloud",
+    "infrastructure",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-alicloud/archive/cec9e5de592526ca3ecb3dbdab19bba72e4d2145.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cec9e5d-250620T150951",
+  "version_upstream": "",
+  "bsum": "25f38b01e371b58fb8e1e9dbe877a05b7a0520510fea3f7dcf1e147a4c59de34",
+  "build_date": "2025-06-20T18:23:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784279302",
+  "build_id": "15784279302",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-alicloud/infrastructure?tag=HEAD-cec9e5d-250620T150951-loongarch64-Linux&download=infrastructure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-alicloud/infrastructure?tag=HEAD-cec9e5d-250620T150951-loongarch64-Linux&download=infrastructure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-alicloud/infrastructure:HEAD-cec9e5d-250620T150951-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-alicloud/infrastructure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-alicloud/infrastructure?tag=HEAD-cec9e5d-250620T150951-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9705e74b033ac0d4c703eb89c74ac5dee63dd8d698a7549389d4a5d71e795984",
+  "size": "108 MB",
+  "size_raw": "113184736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
