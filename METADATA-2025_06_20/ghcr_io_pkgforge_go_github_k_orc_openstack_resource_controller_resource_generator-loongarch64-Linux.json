@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "resource-generator",
+  "pkg_family": "openstack-resource-controller",
+  "pkg_id": "resource-generator#github.com_k_orc_openstack_resource_controller",
+  "pkg_name": "resource-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/k-orc/openstack-resource-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of Kubernetes controllers to manage your OpenStack infrastructure",
+  "homepage": [
+    "https://github.com/k-orc/openstack-resource-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "models-schema",
+    "resource-generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/k-orc/openstack-resource-controller/archive/1a4affd86c4c48d0883c954f764dab68f3ee5b36.tar.gz"
+  ],
+  "tag": [
+    "controller",
+    "kubernetes",
+    "openstack",
+    "orc"
+  ],
+  "version": "HEAD-1a4affd-250620T090914",
+  "version_upstream": "",
+  "bsum": "0bfa6f7579802b4852af897706b50ac0a8b3e1f5f157650804a1db3ea471cdfd",
+  "build_date": "2025-06-20T19:14:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785296262",
+  "build_id": "15785296262",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k-orc/openstack-resource-controller/resource-generator?tag=HEAD-1a4affd-250620T090914-loongarch64-Linux&download=resource-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k-orc/openstack-resource-controller/resource-generator?tag=HEAD-1a4affd-250620T090914-loongarch64-Linux&download=resource-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k-orc/openstack-resource-controller/resource-generator:HEAD-1a4affd-250620T090914-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k-orc/openstack-resource-controller/resource-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k-orc/openstack-resource-controller/resource-generator?tag=HEAD-1a4affd-250620T090914-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a3f7453f14d86a86e51dc0da42187329d80f234b1a8c7335f6325940e539f3b",
+  "size": "2.8 MB",
+  "size_raw": "2919896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
