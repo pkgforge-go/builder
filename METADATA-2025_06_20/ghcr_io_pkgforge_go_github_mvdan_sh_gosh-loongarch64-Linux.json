@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gosh",
+  "pkg_family": "sh",
+  "pkg_id": "gosh#github.com_mvdan_sh",
+  "pkg_name": "gosh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mvdan/sh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A shell parser, formatter, and interpreter with bash support_ includes shfmt",
+  "homepage": [
+    "https://github.com/mvdan/sh"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gosh",
+    "shfmt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mvdan/sh/archive/27a4af87e5c5afbbdad55a3186425999d014bbf3.tar.gz"
+  ],
+  "tag": [
+    "bash",
+    "beautify",
+    "formatter",
+    "go",
+    "interpreter",
+    "mksh",
+    "parser",
+    "posix",
+    "shell",
+    "shfmt"
+  ],
+  "version": "HEAD-27a4af8-250615T233501",
+  "version_upstream": "",
+  "bsum": "2d3fd178d2df99bcfc276ae1c14a2a8960460c22c205ddec78962da30e12ccbc",
+  "build_date": "2025-06-20T23:29:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789151138",
+  "build_id": "15789151138",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mvdan/sh/gosh?tag=HEAD-27a4af8-250615T233501-loongarch64-Linux&download=gosh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7798",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mvdan/sh/gosh?tag=HEAD-27a4af8-250615T233501-loongarch64-Linux&download=gosh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mvdan/sh/gosh:HEAD-27a4af8-250615T233501-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mvdan/sh/gosh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mvdan/sh/gosh?tag=HEAD-27a4af8-250615T233501-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "851c2bf27232b0e8a45f18d494983a8aaa40f70c0d35de730479778802af2804",
+  "size": "3.3 MB",
+  "size_raw": "3430400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
