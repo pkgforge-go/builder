@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "trust-manager",
+  "pkg_family": "trust-manager",
+  "pkg_id": "trust-manager#github.com_cert_manager_trust_manager",
+  "pkg_name": "trust-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cert-manager/trust-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/cert-manager/trust-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "trust-manager",
+    "validate-trust-package"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cert-manager/trust-manager/archive/7a6205ce727853edb34c89ec4e9c5c2edf347d52.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "security",
+    "tls"
+  ],
+  "version": "HEAD-7a6205c-250620T135011",
+  "version_upstream": "",
+  "bsum": "ebb39181e03a05eee9a10352c497abc217a85bf4728615ee4035cd605189666f",
+  "build_date": "2025-06-20T17:31:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15783581532",
+  "build_id": "15783581532",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/trust-manager/trust-manager?tag=HEAD-7a6205c-250620T135011-x86_64-Linux&download=trust-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "321",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/trust-manager/trust-manager?tag=HEAD-7a6205c-250620T135011-x86_64-Linux&download=trust-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cert-manager/trust-manager/trust-manager:HEAD-7a6205c-250620T135011-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cert-manager/trust-manager/trust-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/trust-manager/trust-manager?tag=HEAD-7a6205c-250620T135011-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4335dace51404ff8c1b3d9f456ea94288687e530e8b047c5c70dcfaff6b248e8",
+  "size": "75 MB",
+  "size_raw": "78057888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
