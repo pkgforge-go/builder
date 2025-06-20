@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen-prow-documented",
+  "pkg_family": "test-infra",
+  "pkg_id": "gen-prow-documented#github.com_kubernetes_test_infra",
+  "pkg_name": "gen-prow-documented",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/test-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test infrastructure for the Kubernetes project.",
+  "homepage": [
+    "https://github.com/kubernetes/test-infra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyze",
+    "benchmarkjunit",
+    "builder",
+    "bumpmonitoring",
+    "ci-janitor",
+    "cluster-migration",
+    "cluster-upgrader",
+    "clustersecretbackup",
+    "cmd",
+    "commenter",
+    "config-forker",
+    "config-rotator",
+    "configmap",
+    "configurator",
+    "coverage",
+    "csv",
+    "gcsreader",
+    "gcsweb",
+    "gen-prow-documented",
+    "gencred",
+    "gerrit-onboarder",
+    "gopherage",
+    "issue-creator",
+    "kubetest",
+    "label_sync",
+    "manual-trigger",
+    "pr-creator",
+    "pr-labeler",
+    "prowimagebuilder",
+    "prowjob-report",
+    "prowlog",
+    "service-account-creator",
+    "ts-rollup",
+    "update-hook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/test-infra/archive/fcb58c3efc7205196bc14d62c2dffaa8fe99e271.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-testing"
+  ],
+  "version": "HEAD-fcb58c3-250620T062052",
+  "version_upstream": "",
+  "bsum": "1dd7d6ebfcf287b7e3f55c0dd45e6b1e5bbf59079fe617ac86b3a38652ef6303",
+  "build_date": "2025-06-20T16:15:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781772353",
+  "build_id": "15781772353",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/gen-prow-documented?tag=HEAD-fcb58c3-250620T062052-x86_64-Linux&download=gen-prow-documented.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/gen-prow-documented?tag=HEAD-fcb58c3-250620T062052-x86_64-Linux&download=gen-prow-documented",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/test-infra/gen-prow-documented:HEAD-fcb58c3-250620T062052-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/test-infra/gen-prow-documented",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/gen-prow-documented?tag=HEAD-fcb58c3-250620T062052-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b37fb1ae2e588fb05733628e0ce7f1f17d696996fd91588f02fc927a04b70898",
+  "size": "48 MB",
+  "size_raw": "49710752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pr-labeler",
+  "pkg_family": "test-infra",
+  "pkg_id": "pr-labeler#github.com_kubernetes_test_infra",
+  "pkg_name": "pr-labeler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/test-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test infrastructure for the Kubernetes project.",
+  "homepage": [
+    "https://github.com/kubernetes/test-infra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyze",
+    "benchmarkjunit",
+    "builder",
+    "bumpmonitoring",
+    "ci-janitor",
+    "cluster-migration",
+    "cluster-upgrader",
+    "clustersecretbackup",
+    "cmd",
+    "commenter",
+    "config-forker",
+    "config-rotator",
+    "configmap",
+    "configurator",
+    "coverage",
+    "csv",
+    "gcsreader",
+    "gcsweb",
+    "gen-prow-documented",
+    "gencred",
+    "gerrit-onboarder",
+    "gopherage",
+    "issue-creator",
+    "kubetest",
+    "label_sync",
+    "manual-trigger",
+    "pr-creator",
+    "pr-labeler",
+    "prowimagebuilder",
+    "prowjob-report",
+    "prowlog",
+    "service-account-creator",
+    "ts-rollup",
+    "update-hook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/test-infra/archive/fcb58c3efc7205196bc14d62c2dffaa8fe99e271.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-testing"
+  ],
+  "version": "HEAD-fcb58c3-250620T062052",
+  "version_upstream": "",
+  "bsum": "1a77b8fe0075dfcbabf4d03f0708e11c7cbb209564a987af07da3c837be6c863",
+  "build_date": "2025-06-20T16:13:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781772353",
+  "build_id": "15781772353",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/pr-labeler?tag=HEAD-fcb58c3-250620T062052-x86_64-Linux&download=pr-labeler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/pr-labeler?tag=HEAD-fcb58c3-250620T062052-x86_64-Linux&download=pr-labeler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/test-infra/pr-labeler:HEAD-fcb58c3-250620T062052-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/test-infra/pr-labeler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/pr-labeler?tag=HEAD-fcb58c3-250620T062052-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c958484f7cfd73e678c8b32c1e89689d73904c67da3dc95695c93c8d9263771f",
+  "size": "46 MB",
+  "size_raw": "48019040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
