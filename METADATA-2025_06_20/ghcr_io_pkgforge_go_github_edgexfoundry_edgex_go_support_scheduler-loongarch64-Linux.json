@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "support-scheduler",
+  "pkg_family": "edgex-go",
+  "pkg_id": "support-scheduler#github.com_edgexfoundry_edgex_go",
+  "pkg_name": "support-scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edgexfoundry/edgex-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EdgeX Golang Services Monorepo _ Owner: Core/Support WG",
+  "homepage": [
+    "https://github.com/edgexfoundry/edgex-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "core-command",
+    "core-common-config-bootstrapper",
+    "core-data",
+    "core-keeper",
+    "core-metadata",
+    "secrets-config",
+    "security-bootstrapper",
+    "security-file-token-provider",
+    "security-proxy-auth",
+    "security-secretstore-setup",
+    "security-spiffe-token-provider",
+    "support-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edgexfoundry/edgex-go/archive/9304f160789e41c5c58b4be9994841ed5e82e09f.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-9304f16-250620T182212",
+  "version_upstream": "",
+  "bsum": "8cba5c8524d80cd8e533b9776220e63da358a93223315d8c6d258e198f5185ea",
+  "build_date": "2025-06-20T18:02:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784188958",
+  "build_id": "15784188958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/support-scheduler?tag=HEAD-9304f16-250620T182212-loongarch64-Linux&download=support-scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1410",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/support-scheduler?tag=HEAD-9304f16-250620T182212-loongarch64-Linux&download=support-scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgexfoundry/edgex-go/support-scheduler:HEAD-9304f16-250620T182212-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgexfoundry/edgex-go/support-scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgexfoundry/edgex-go/support-scheduler?tag=HEAD-9304f16-250620T182212-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "346f0ce2ab21df4acba7d7c88e55462ced6064d06909ce6b959fd62b0b896738",
+  "size": "38 MB",
+  "size_raw": "39338528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
