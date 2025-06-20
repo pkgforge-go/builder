@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gopass",
+  "pkg_family": "gopass",
+  "pkg_id": "gopass#github.com_gopasspw_gopass",
+  "pkg_name": "gopass",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gopasspw/gopass",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The slightly more awesome standard unix password manager for teams",
+  "homepage": [
+    "https://github.com/gopasspw/gopass"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "gopass",
+    "man",
+    "modinfo",
+    "msipkg",
+    "postrel",
+    "proxy",
+    "release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gopasspw/gopass/archive/d421f0e4f826c9aa4f9fb435208d3035504fca35.tar.gz"
+  ],
+  "tag": [
+    "git",
+    "go",
+    "gpg",
+    "hacktoberfest",
+    "password-manager",
+    "security"
+  ],
+  "version": "HEAD-d421f0e-250610T202600",
+  "version_upstream": "",
+  "bsum": "b6fea3c86a90ff6df9de7bb8be165ca4b2943f77776748e7c168d293d1189a90",
+  "build_date": "2025-06-20T04:30:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770993232",
+  "build_id": "15770993232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopasspw/gopass/gopass?tag=HEAD-d421f0e-250610T202600-riscv64-Linux&download=gopass.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopasspw/gopass/gopass?tag=HEAD-d421f0e-250610T202600-riscv64-Linux&download=gopass",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopasspw/gopass/gopass:HEAD-d421f0e-250610T202600-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopasspw/gopass/gopass",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopasspw/gopass/gopass?tag=HEAD-d421f0e-250610T202600-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "63567491c670d5cd8f11caef61ffaa38ed017e6e45576531fcde4a8a098d9097",
+  "size": "18 MB",
+  "size_raw": "18489528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
