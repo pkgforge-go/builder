@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mockbackend",
+  "pkg_family": "carbonapi",
+  "pkg_id": "mockbackend#github.com_go_graphite_carbonapi",
+  "pkg_name": "mockbackend",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-graphite/carbonapi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Implementation of graphite API _graphite-web_ in golang",
+  "homepage": [
+    "https://github.com/go-graphite/carbonapi"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "carbonapi",
+    "functiondiff",
+    "mockbackend"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-graphite/carbonapi/archive/3ff38201275eef338e2ed17cea3e92c40aed487c.tar.gz"
+  ],
+  "tag": [
+    "carbon",
+    "carbonapi",
+    "carbonzipper",
+    "go",
+    "graphite",
+    "graphite-clickhouse",
+    "graphite-web",
+    "monitoring",
+    "prometheus",
+    "timeseries",
+    "zipper"
+  ],
+  "version": "HEAD-3ff3820-250620T094802",
+  "version_upstream": "",
+  "bsum": "a4fb3b9a971f96bd146c9b7e2a32d32992f8e9db528dd876afaf04eccf715b59",
+  "build_date": "2025-06-20T18:30:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784333786",
+  "build_id": "15784333786",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/carbonapi/mockbackend?tag=HEAD-3ff3820-250620T094802-loongarch64-Linux&download=mockbackend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "313",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/carbonapi/mockbackend?tag=HEAD-3ff3820-250620T094802-loongarch64-Linux&download=mockbackend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-graphite/carbonapi/mockbackend:HEAD-3ff3820-250620T094802-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-graphite/carbonapi/mockbackend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/carbonapi/mockbackend?tag=HEAD-3ff3820-250620T094802-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff35905f1b61d8d2b8f17600d9f25054c210930fa89221064297a381d9ec70b1",
+  "size": "8.7 MB",
+  "size_raw": "9111296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
