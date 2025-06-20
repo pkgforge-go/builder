@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "test_stage",
+  "pkg_family": "kwok",
+  "pkg_id": "test_stage#github.com_kubernetes_sigs_kwok",
+  "pkg_name": "test_stage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/kwok",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/kwok"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen_cmd_docs",
+    "kwok",
+    "kwokctl",
+    "test_stage",
+    "verify_boilerplate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/kwok/archive/0a48046111e122933e3251955e48a63a44984fc7.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "golang",
+    "k8s-sig-scheduling",
+    "kubernetes",
+    "mulit-cluster",
+    "nerdctl",
+    "simulator"
+  ],
+  "version": "HEAD-0a48046-250619T235852",
+  "version_upstream": "",
+  "bsum": "25de707111e9c3ba129b0bb8ece1d87a95a25bf8149e62f5e0f0ed8d56268d72",
+  "build_date": "2025-06-20T19:45:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785649932",
+  "build_id": "15785649932",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kwok/test_stage?tag=HEAD-0a48046-250619T235852-x86_64-Linux&download=test_stage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2845",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kwok/test_stage?tag=HEAD-0a48046-250619T235852-x86_64-Linux&download=test_stage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kwok/test_stage:HEAD-0a48046-250619T235852-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kwok/test_stage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kwok/test_stage?tag=HEAD-0a48046-250619T235852-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ad85c721ebf409926624fda0a615e6d15ecf5028199fe650e161487dc3d5784",
+  "size": "46 MB",
+  "size_raw": "47868624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
