@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "thin",
+  "pkg_family": "fluid",
+  "pkg_id": "thin#github.com_fluid_cloudnative_fluid",
+  "pkg_name": "thin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fluid-cloudnative/fluid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+  "homepage": [
+    "https://github.com/fluid-cloudnative/fluid"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alluxio",
+    "csi",
+    "dataset",
+    "efc",
+    "fluidapp",
+    "goosefs",
+    "jindo",
+    "juicefs",
+    "sdk",
+    "thin",
+    "vineyard",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fluid-cloudnative/fluid/archive/39b8c2c35470d5d1ea746cd83d86c9fa4894bce6.tar.gz"
+  ],
+  "tag": [
+    "ai-framework",
+    "alluxio",
+    "big-data",
+    "data-abstraction",
+    "distributed-cache",
+    "kubernetes"
+  ],
+  "version": "HEAD-39b8c2c-250619T153318",
+  "version_upstream": "",
+  "bsum": "0f967ffb16f89e91982b93b48ed06989647e20a86a11ba154803f69bc7606f34",
+  "build_date": "2025-06-20T00:11:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767926415",
+  "build_id": "15767926415",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluid-cloudnative/fluid/thin?tag=HEAD-39b8c2c-250619T153318-riscv64-Linux&download=thin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1774",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluid-cloudnative/fluid/thin?tag=HEAD-39b8c2c-250619T153318-riscv64-Linux&download=thin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fluid-cloudnative/fluid/thin:HEAD-39b8c2c-250619T153318-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fluid-cloudnative/fluid/thin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluid-cloudnative/fluid/thin?tag=HEAD-39b8c2c-250619T153318-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "05dfc86c0853fc4a36499bdb1f0768f630f5b43ac32823bab786c7ffddfdf5d8",
+  "size": "44 MB",
+  "size_raw": "45511864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
