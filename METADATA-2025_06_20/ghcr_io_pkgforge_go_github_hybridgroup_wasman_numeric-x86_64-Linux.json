@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "numeric",
+  "pkg_family": "wasman",
+  "pkg_id": "numeric#github.com_hybridgroup_wasman",
+  "pkg_name": "numeric",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hybridgroup/wasman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Another wasm interpreter engine for gophers based on pure golang",
+  "homepage": [
+    "https://github.com/hybridgroup/wasman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hostbytes",
+    "hoststring",
+    "log",
+    "numeric",
+    "wasman",
+    "wasman-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hybridgroup/wasman/archive/ce1ea6b618348198afb2181c6668fa674879912d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ce1ea6b-240304T150329",
+  "version_upstream": "",
+  "bsum": "31fe723666726ad860b9fd07b995f50a50486cfc3ae2dddf7617ffea9abc2766",
+  "build_date": "2025-06-20T06:32:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772118058",
+  "build_id": "15772118058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hybridgroup/wasman/numeric?tag=HEAD-ce1ea6b-240304T150329-x86_64-Linux&download=numeric.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hybridgroup/wasman/numeric?tag=HEAD-ce1ea6b-240304T150329-x86_64-Linux&download=numeric",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hybridgroup/wasman/numeric:HEAD-ce1ea6b-240304T150329-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hybridgroup/wasman/numeric",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hybridgroup/wasman/numeric?tag=HEAD-ce1ea6b-240304T150329-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5ac581fc681bc4978d921629922dc55dfc3046011379d5fd169399472f86772",
+  "size": "1.9 MB",
+  "size_raw": "1907992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
