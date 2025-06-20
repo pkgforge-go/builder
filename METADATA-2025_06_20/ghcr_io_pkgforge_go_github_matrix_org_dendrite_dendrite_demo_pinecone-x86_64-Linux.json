@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dendrite-demo-pinecone",
+  "pkg_family": "dendrite",
+  "pkg_id": "dendrite-demo-pinecone#github.com_matrix_org_dendrite",
+  "pkg_name": "dendrite-demo-pinecone",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrix-org/dendrite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+  "homepage": [
+    "https://github.com/matrix-org/dendrite"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-account",
+    "dendrite",
+    "dendrite-demo-i2p",
+    "dendrite-demo-pinecone",
+    "dendrite-demo-tor",
+    "dendrite-demo-yggdrasil",
+    "dendrite-upgrade-tests",
+    "dendritejs-pinecone",
+    "furl",
+    "generate-config",
+    "generate-keys",
+    "resolve-state"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrix-org/dendrite/archive/084181332b5c364e2442d3c98522ad8848bc4d36.tar.gz"
+  ],
+  "tag": [
+    "dendrite",
+    "golang",
+    "hacktoberfest",
+    "matrix",
+    "matrix-homeserver",
+    "matrix-org"
+  ],
+  "version": "HEAD-0841813-241125T110410",
+  "version_upstream": "",
+  "bsum": "b520d22220d42c000d55ea36d95decc9fbc8f048ce6429476d6914a28d46f62e",
+  "build_date": "2025-06-20T21:49:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787955158",
+  "build_id": "15787955158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-pinecone?tag=HEAD-0841813-241125T110410-x86_64-Linux&download=dendrite-demo-pinecone.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-pinecone?tag=HEAD-0841813-241125T110410-x86_64-Linux&download=dendrite-demo-pinecone",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-pinecone:HEAD-0841813-241125T110410-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-pinecone",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-demo-pinecone?tag=HEAD-0841813-241125T110410-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81a68d729d31f6bf7f551af9c6145460d63162e952b0dfa71cb93b14724e0589",
+  "size": "42 MB",
+  "size_raw": "43838736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0841813-241125T110410-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

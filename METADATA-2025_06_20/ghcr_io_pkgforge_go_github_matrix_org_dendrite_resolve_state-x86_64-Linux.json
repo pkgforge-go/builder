@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "resolve-state",
+  "pkg_family": "dendrite",
+  "pkg_id": "resolve-state#github.com_matrix_org_dendrite",
+  "pkg_name": "resolve-state",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrix-org/dendrite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+  "homepage": [
+    "https://github.com/matrix-org/dendrite"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-account",
+    "dendrite",
+    "dendrite-demo-i2p",
+    "dendrite-demo-pinecone",
+    "dendrite-demo-tor",
+    "dendrite-demo-yggdrasil",
+    "dendrite-upgrade-tests",
+    "dendritejs-pinecone",
+    "furl",
+    "generate-config",
+    "generate-keys",
+    "resolve-state"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrix-org/dendrite/archive/084181332b5c364e2442d3c98522ad8848bc4d36.tar.gz"
+  ],
+  "tag": [
+    "dendrite",
+    "golang",
+    "hacktoberfest",
+    "matrix",
+    "matrix-homeserver",
+    "matrix-org"
+  ],
+  "version": "HEAD-0841813-241125T110410",
+  "version_upstream": "",
+  "bsum": "07efa151416a602e6cb5b24fb0063258ee48ebc1cd08a775d9ea133ba68ca35e",
+  "build_date": "2025-06-20T21:50:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787955158",
+  "build_id": "15787955158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/resolve-state?tag=HEAD-0841813-241125T110410-x86_64-Linux&download=resolve-state.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/resolve-state?tag=HEAD-0841813-241125T110410-x86_64-Linux&download=resolve-state",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrix-org/dendrite/resolve-state:HEAD-0841813-241125T110410-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrix-org/dendrite/resolve-state",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/resolve-state?tag=HEAD-0841813-241125T110410-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fea195d044dd977df6bf51cb84f7175b604b8602e0f011886204c1f5ffd2e739",
+  "size": "25 MB",
+  "size_raw": "26073360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0841813-241125T110410-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
