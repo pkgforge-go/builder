@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "blocktime",
+  "pkg_family": "celestia-app",
+  "pkg_id": "blocktime#github.com_celestiaorg_celestia_app",
+  "pkg_name": "blocktime",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celestiaorg/celestia-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Celestia consensus node",
+  "homepage": [
+    "https://github.com/celestiaorg/celestia-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "blocketa",
+    "blockheight",
+    "blockscan",
+    "blocktime",
+    "bytes-in-block",
+    "celestia-appd",
+    "chainbuilder",
+    "e2e",
+    "latency-monitor",
+    "txsim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celestiaorg/celestia-app/archive/ea39814e10c87ae883b8eedce0a020d59060ef9f.tar.gz"
+  ],
+  "tag": [
+    "celestia",
+    "cosmos-sdk",
+    "lazyledger"
+  ],
+  "version": "HEAD-ea39814-250619T121958",
+  "version_upstream": "",
+  "bsum": "01c58b9331f83d5ea1b7ba187a41f655def8c41181b5e01198e8d9d63aecb531",
+  "build_date": "2025-06-20T08:23:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773527737",
+  "build_id": "15773527737",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/blocktime?tag=HEAD-ea39814-250619T121958-aarch64-Linux&download=blocktime.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/blocktime?tag=HEAD-ea39814-250619T121958-aarch64-Linux&download=blocktime",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/blocktime:HEAD-ea39814-250619T121958-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/blocktime",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/blocktime?tag=HEAD-ea39814-250619T121958-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "33e03a97c68c5b1567eeb6755462e8b2c55a1d52bd9a7a1c9631c9da331df486",
+  "size": "25 MB",
+  "size_raw": "26090816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
