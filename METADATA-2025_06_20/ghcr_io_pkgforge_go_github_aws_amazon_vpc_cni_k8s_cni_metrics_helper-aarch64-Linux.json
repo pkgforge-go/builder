@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cni-metrics-helper",
+  "pkg_family": "amazon-vpc-cni-k8s",
+  "pkg_id": "cni-metrics-helper#github.com_aws_amazon_vpc_cni_k8s",
+  "pkg_name": "cni-metrics-helper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-vpc-cni-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+  "homepage": [
+    "https://github.com/aws/amazon-vpc-cni-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-k8s-agent",
+    "aws-vpc-cni",
+    "aws-vpc-cni-init",
+    "cni-metrics-helper",
+    "egress-cni-plugin",
+    "grpc-health-probe",
+    "routed-eni-cni-plugin",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-vpc-cni-k8s/archive/1c945a54c23fbdc81087abda1517b1f1cabafae3.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "kubernetes",
+    "pod-networking"
+  ],
+  "version": "HEAD-1c945a5-250619T195141",
+  "version_upstream": "",
+  "bsum": "2b2f2f978fc0d8d2df307379f0f4e08529929d90716ec0386f723a73e38a28d4",
+  "build_date": "2025-06-20T07:53:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773343865",
+  "build_id": "15773343865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/cni-metrics-helper?tag=HEAD-1c945a5-250619T195141-aarch64-Linux&download=cni-metrics-helper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/cni-metrics-helper?tag=HEAD-1c945a5-250619T195141-aarch64-Linux&download=cni-metrics-helper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/cni-metrics-helper:HEAD-1c945a5-250619T195141-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/cni-metrics-helper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/cni-metrics-helper?tag=HEAD-1c945a5-250619T195141-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "58bb043eb6905e3539d6effe6378416eeda53d510e72b8df9c3cce90bada71bb",
+  "size": "78 MB",
+  "size_raw": "81472512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
