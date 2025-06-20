@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "example-gateway-server",
+  "pkg_family": "grpc-gateway",
+  "pkg_id": "example-gateway-server#github.com_grpc_ecosystem_grpc_gateway",
+  "pkg_name": "example-gateway-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grpc-ecosystem/grpc-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+  "homepage": [
+    "https://github.com/grpc-ecosystem/grpc-gateway"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example-gateway-server",
+    "example-grpc-server",
+    "protoc-gen-grpc-gateway",
+    "protoc-gen-openapiv2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grpc-ecosystem/grpc-gateway/archive/f7e7da8506b4cd18f4fcc487af7f8562c28f4a3a.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "grpc",
+    "grpc-gateway",
+    "openapi",
+    "rest-api",
+    "restful-api",
+    "swagger"
+  ],
+  "version": "HEAD-f7e7da8-250619T195645",
+  "version_upstream": "",
+  "bsum": "63dbbcd5ad723cf41ab9eb30155fa10940618743bf793a6cc08d932a105cfae7",
+  "build_date": "2025-06-20T09:20:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774768107",
+  "build_id": "15774768107",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-gateway/example-gateway-server?tag=HEAD-f7e7da8-250619T195645-aarch64-Linux&download=example-gateway-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-gateway/example-gateway-server?tag=HEAD-f7e7da8-250619T195645-aarch64-Linux&download=example-gateway-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grpc-ecosystem/grpc-gateway/example-gateway-server:HEAD-f7e7da8-250619T195645-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grpc-ecosystem/grpc-gateway/example-gateway-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grpc-ecosystem/grpc-gateway/example-gateway-server?tag=HEAD-f7e7da8-250619T195645-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21ecc40f882dfb8d198999cd85c02f7d6c4e08bebbf7d2958be02a588b381f84",
+  "size": "15 MB",
+  "size_raw": "14849952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
