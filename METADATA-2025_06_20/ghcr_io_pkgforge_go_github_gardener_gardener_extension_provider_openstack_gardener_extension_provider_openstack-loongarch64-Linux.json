@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-provider-openstack",
+  "pkg_family": "gardener-extension-provider-openstack",
+  "pkg_id": "gardener-extension-provider-openstack#github.com_gardener_gardener_extension_provider_openstack",
+  "pkg_name": "gardener-extension-provider-openstack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-openstack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the OpenStack cloud provider _https://openstack.org_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-openstack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-openstack",
+    "gardener-extension-provider-openstack",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-openstack/archive/e25019eea51f4278ca87dac83cd7fd88d2de7ad4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e25019e-250620T153730",
+  "version_upstream": "",
+  "bsum": "a4ad3132db4e95a3212d9af790d8d6d988465c0ca54f5d53bd9fab8cb743a1d1",
+  "build_date": "2025-06-20T18:24:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784315338",
+  "build_id": "15784315338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-openstack/gardener-extension-provider-openstack?tag=HEAD-e25019e-250620T153730-loongarch64-Linux&download=gardener-extension-provider-openstack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-openstack/gardener-extension-provider-openstack?tag=HEAD-e25019e-250620T153730-loongarch64-Linux&download=gardener-extension-provider-openstack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-openstack/gardener-extension-provider-openstack:HEAD-e25019e-250620T153730-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-openstack/gardener-extension-provider-openstack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-openstack/gardener-extension-provider-openstack?tag=HEAD-e25019e-250620T153730-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04929b8cdf23ba6bbb0dc145d39e315b97714773b5b5dad96d3ec7c906504588",
+  "size": "69 MB",
+  "size_raw": "72303104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
