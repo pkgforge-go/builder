@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "llvm",
+  "pkg_family": "llvm",
+  "pkg_id": "llvm#github.com_llir_llvm",
+  "pkg_name": "llvm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/llir/llvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Library for interacting with LLVM IR in pure Go.",
+  "homepage": [
+    "https://github.com/llir/llvm"
+  ],
+  "license": [
+    "0BSD"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "llvm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/llir/llvm/archive/f0912dd3bef26c6498c896afea9faa0736594d35.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "llvm",
+    "llvm-ir"
+  ],
+  "version": "HEAD-f0912dd-241206T190354",
+  "version_upstream": "",
+  "bsum": "a9b7e739c846269082eeaa1d3e3d5a05b4d00edf013a69e20c8957da8cb73f86",
+  "build_date": "2025-06-20T20:48:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787173260",
+  "build_id": "15787173260",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/llir/llvm/llvm?tag=HEAD-f0912dd-241206T190354-riscv64-Linux&download=llvm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1227",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/llir/llvm/llvm?tag=HEAD-f0912dd-241206T190354-riscv64-Linux&download=llvm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/llir/llvm/llvm:HEAD-f0912dd-241206T190354-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/llir/llvm/llvm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/llir/llvm/llvm?tag=HEAD-f0912dd-241206T190354-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1e399fc58f254cc0953f386eaf84daeb2255a6237541e10551d492b82c9a0f05",
+  "size": "5.3 MB",
+  "size_raw": "5537016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f0912dd-241206T190354-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
