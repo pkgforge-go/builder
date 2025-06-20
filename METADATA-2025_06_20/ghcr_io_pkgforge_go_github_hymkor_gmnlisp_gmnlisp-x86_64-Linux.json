@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gmnlisp",
+  "pkg_family": "gmnlisp",
+  "pkg_id": "gmnlisp#github.com_hymkor_gmnlisp",
+  "pkg_name": "gmnlisp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hymkor/gmnlisp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The interpreter of ISLisp written in Go",
+  "homepage": [
+    "https://github.com/hymkor/gmnlisp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gmnlisp",
+    "gmnlisp-examples",
+    "gmnlpp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hymkor/gmnlisp/archive/7421817a80f719683a4bba03b317b04dd0d55a72.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "islisp",
+    "lisp",
+    "lisp-interpreter"
+  ],
+  "version": "HEAD-7421817-250620T091331",
+  "version_upstream": "",
+  "bsum": "705565de7801586496ece2c0fae3c12e35565216785f9a19460ba1c31799fae0",
+  "build_date": "2025-06-20T06:34:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772149272",
+  "build_id": "15772149272",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hymkor/gmnlisp/gmnlisp?tag=HEAD-7421817-250620T091331-x86_64-Linux&download=gmnlisp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hymkor/gmnlisp/gmnlisp?tag=HEAD-7421817-250620T091331-x86_64-Linux&download=gmnlisp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hymkor/gmnlisp/gmnlisp:HEAD-7421817-250620T091331-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hymkor/gmnlisp/gmnlisp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hymkor/gmnlisp/gmnlisp?tag=HEAD-7421817-250620T091331-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5f42f9fa15c0aa33085e9b2b38db8084baf7f5d3856e410df3877ba65d581c6",
+  "size": "4.0 MB",
+  "size_raw": "4120184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
