@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lookup",
+  "pkg_family": "gomusicbrainz",
+  "pkg_id": "lookup#github.com_michiwend_gomusicbrainz",
+  "pkg_name": "lookup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/michiwend/gomusicbrainz",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a Go _Golang_ MusicBrainz WS2 client library - work in progress",
+  "homepage": [
+    "https://github.com/michiwend/gomusicbrainz"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lookup",
+    "search"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/michiwend/gomusicbrainz/archive/6c07e13dd396ba10bd9f8904be5018df94472839.tar.gz"
+  ],
+  "tag": [
+    "client",
+    "client-library",
+    "go",
+    "golang",
+    "musicbrainz",
+    "musicbrainz-api"
+  ],
+  "version": "HEAD-6c07e13-181012T103520",
+  "version_upstream": "",
+  "bsum": "1f69916ce4013b0dea82cfa61c0ad0ad220aa85b1b0546b9226146fef117ec2e",
+  "build_date": "2025-06-20T22:10:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788347750",
+  "build_id": "15788347750",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michiwend/gomusicbrainz/lookup?tag=HEAD-6c07e13-181012T103520-loongarch64-Linux&download=lookup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michiwend/gomusicbrainz/lookup?tag=HEAD-6c07e13-181012T103520-loongarch64-Linux&download=lookup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/michiwend/gomusicbrainz/lookup:HEAD-6c07e13-181012T103520-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/michiwend/gomusicbrainz/lookup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michiwend/gomusicbrainz/lookup?tag=HEAD-6c07e13-181012T103520-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9200c997b45cc97e170b879cb6d329dbe06f38434b2759d5825a564525e680a4",
+  "size": "5.9 MB",
+  "size_raw": "6155296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
