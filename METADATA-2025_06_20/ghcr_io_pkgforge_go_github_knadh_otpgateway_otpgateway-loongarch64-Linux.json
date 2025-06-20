@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "otpgateway",
+  "pkg_family": "otpgateway",
+  "pkg_id": "otpgateway#github.com_knadh_otpgateway",
+  "pkg_name": "otpgateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knadh/otpgateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Standalone server for user address and OTP verification flows with pluggable providers _e-mail, SMS, bank penny drops etc._",
+  "homepage": [
+    "https://github.com/knadh/otpgateway"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "otpgateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knadh/otpgateway/archive/15afcad5acba3c3a68fe7a2343b00909c4ec92b7.tar.gz"
+  ],
+  "tag": [
+    "email-verification",
+    "mobile-number-verification",
+    "otp-applications",
+    "otp-generator",
+    "otp-verification",
+    "sms-verification",
+    "verification-code"
+  ],
+  "version": "HEAD-15afcad-240704T145347",
+  "version_upstream": "v3.5.1",
+  "bsum": "ddbe6e6b490c4fa22318eae01ca471806af1cbd4fe3d52143c5fa0a6343bfc0b",
+  "build_date": "2025-06-20T15:04:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780616002",
+  "build_id": "15780616002",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knadh/otpgateway/otpgateway?tag=HEAD-15afcad-240704T145347-loongarch64-Linux&download=otpgateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knadh/otpgateway/otpgateway?tag=HEAD-15afcad-240704T145347-loongarch64-Linux&download=otpgateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knadh/otpgateway/otpgateway:HEAD-15afcad-240704T145347-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knadh/otpgateway/otpgateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knadh/otpgateway/otpgateway?tag=HEAD-15afcad-240704T145347-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0bed731708c527fab4b7f80ef20ba0503859be4a775ebde56c43b10fcce134a",
+  "size": "21 MB",
+  "size_raw": "20999424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
