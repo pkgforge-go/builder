@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "GoMud",
+  "pkg_id": "generate#github.com_GoMudEngine_GoMud",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoMudEngine/GoMud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go based MUD _Multi-User Dungeon_ server.",
+  "homepage": [
+    "https://github.com/GoMudEngine/GoMud"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "gomud"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoMudEngine/GoMud/archive/4539dd0b50a8697750e2a235f1b3c0f73684bfee.tar.gz"
+  ],
+  "tag": [
+    "engine",
+    "game-engine",
+    "go",
+    "golang",
+    "moo",
+    "mud",
+    "multiplayer",
+    "multiplayer-online-game",
+    "mush",
+    "telnet",
+    "text",
+    "text-adventure",
+    "webclient",
+    "websockets"
+  ],
+  "version": "HEAD-4539dd0-250619T231720",
+  "version_upstream": "v0.9.1",
+  "bsum": "104612bf86ca3656f4e7f1ee2d661710ec51df28b2706771085b85ef62a9b718",
+  "build_date": "2025-06-20T07:16:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773102198",
+  "build_id": "15773102198",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gomudengine/gomud/generate?tag=HEAD-4539dd0-250619T231720-loongarch64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "165",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gomudengine/gomud/generate?tag=HEAD-4539dd0-250619T231720-loongarch64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gomudengine/gomud/generate:HEAD-4539dd0-250619T231720-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gomudengine/gomud/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gomudengine/gomud/generate?tag=HEAD-4539dd0-250619T231720-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "271e16073ab67da1e16193fad1bffd74e6491d8f8d6d34cfc0a8db8bb030e3e0",
+  "size": "1.8 MB",
+  "size_raw": "1825176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
