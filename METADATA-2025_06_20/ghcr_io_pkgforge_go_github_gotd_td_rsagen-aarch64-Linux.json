@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rsagen",
+  "pkg_family": "td",
+  "pkg_id": "rsagen#github.com_gotd_td",
+  "pkg_name": "rsagen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gotd/td",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Telegram client, in Go. _MTProto API_",
+  "homepage": [
+    "https://github.com/gotd/td"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cachedgen",
+    "connclose",
+    "dlkey",
+    "dltl",
+    "dscidr",
+    "gotdecho",
+    "gotdgen",
+    "itergen",
+    "mkentity",
+    "mktyping",
+    "mtprint",
+    "rsagen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gotd/td/archive/6de998aed9819c6c7bb71e2a0fb9d50f6fb20f61.tar.gz"
+  ],
+  "tag": [
+    "bot-api",
+    "go",
+    "golang",
+    "mtproto",
+    "tdlib",
+    "telegram",
+    "telegram-api",
+    "telegram-bot"
+  ],
+  "version": "HEAD-6de998a-250612T113324",
+  "version_upstream": "",
+  "bsum": "8601ccee520256d3c8b4f627f5b57c85a5cb3472a572192aacf4d8720fa8da28",
+  "build_date": "2025-06-20T04:46:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771157380",
+  "build_id": "15771157380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/rsagen?tag=HEAD-6de998a-250612T113324-aarch64-Linux&download=rsagen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1830",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/rsagen?tag=HEAD-6de998a-250612T113324-aarch64-Linux&download=rsagen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gotd/td/rsagen:HEAD-6de998a-250612T113324-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gotd/td/rsagen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/rsagen?tag=HEAD-6de998a-250612T113324-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27c9644481ba485c5f972a3dc57b5b77c7a277a2485dc6d81003be9a41d8d0f7",
+  "size": "5.2 MB",
+  "size_raw": "5396800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
