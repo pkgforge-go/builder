@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "config-manager",
+  "pkg_family": "nri-plugins",
+  "pkg_id": "config-manager#github.com_containers_nri_plugins",
+  "pkg_name": "config-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/nri-plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collection of community maintained NRI plugins",
+  "homepage": [
+    "https://github.com/containers/nri-plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config-manager",
+    "memory-qos",
+    "memtierd",
+    "mpolset",
+    "sgx-epc",
+    "test06-fuzz",
+    "udev-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/nri-plugins/archive/ce84ee1f09296cf4d5d35f2acdd5eda60891c09a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ce84ee1-250619T230008",
+  "version_upstream": "",
+  "bsum": "b7128639c8b8028bded98aecf688ff1932200ee3f03a114ea07b4e0f48c183b0",
+  "build_date": "2025-06-20T08:17:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773737205",
+  "build_id": "15773737205",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/config-manager?tag=HEAD-ce84ee1-250619T230008-riscv64-Linux&download=config-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/config-manager?tag=HEAD-ce84ee1-250619T230008-riscv64-Linux&download=config-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/nri-plugins/config-manager:HEAD-ce84ee1-250619T230008-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/nri-plugins/config-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/nri-plugins/config-manager?tag=HEAD-ce84ee1-250619T230008-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "defd73d30538e15adc943a11d241c3fca1452aba329efd566bcf75a58f83c81c",
+  "size": "3.4 MB",
+  "size_raw": "3490040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
