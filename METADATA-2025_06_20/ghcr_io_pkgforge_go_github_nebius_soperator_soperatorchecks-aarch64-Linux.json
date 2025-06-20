@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "soperatorchecks",
+  "pkg_family": "soperator",
+  "pkg_id": "soperatorchecks#github.com_nebius_soperator",
+  "pkg_name": "soperatorchecks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/bd328a2f6530bf7e76a9283e3da0f578f5e4f4c9.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-bd328a2-250620T101949",
+  "version_upstream": "",
+  "bsum": "f6cd58a1b80d4d285d46dfb697ece461ae01a56c977082785e6ec48c9c7bf9b6",
+  "build_date": "2025-06-20T23:56:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789266272",
+  "build_id": "15789266272",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperatorchecks?tag=HEAD-bd328a2-250620T101949-aarch64-Linux&download=soperatorchecks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperatorchecks?tag=HEAD-bd328a2-250620T101949-aarch64-Linux&download=soperatorchecks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/soperatorchecks:HEAD-bd328a2-250620T101949-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/soperatorchecks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperatorchecks?tag=HEAD-bd328a2-250620T101949-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "264b428c5af637248536d684ffb476188fff3539fa1985eb811782d11534d28b",
+  "size": "47 MB",
+  "size_raw": "48665152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
