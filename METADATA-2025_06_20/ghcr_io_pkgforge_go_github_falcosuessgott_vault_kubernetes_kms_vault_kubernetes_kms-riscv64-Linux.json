@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vault-kubernetes-kms",
+  "pkg_family": "vault-kubernetes-kms",
+  "pkg_id": "vault-kubernetes-kms#github.com_FalcoSuessgott_vault_kubernetes_kms",
+  "pkg_name": "vault-kubernetes-kms",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FalcoSuessgott/vault-kubernetes-kms",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider",
+  "homepage": [
+    "https://github.com/FalcoSuessgott/vault-kubernetes-kms"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "v2_client",
+    "vault-kubernetes-kms"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FalcoSuessgott/vault-kubernetes-kms/archive/3cef18f24c09249afc5165f9a29c105c75388696.tar.gz"
+  ],
+  "tag": [
+    "hashicorp",
+    "kms",
+    "kubernetes",
+    "kubernetes-kms",
+    "vault"
+  ],
+  "version": "HEAD-3cef18f-250620T185436",
+  "version_upstream": "",
+  "bsum": "ef2ec3e55e6ce3fcf4c81fbe8cac9b4ebeda382061f76b7742825a32c952c781",
+  "build_date": "2025-06-20T16:55:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782591017",
+  "build_id": "15782591017",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/vault-kubernetes-kms?tag=HEAD-3cef18f-250620T185436-riscv64-Linux&download=vault-kubernetes-kms.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/vault-kubernetes-kms?tag=HEAD-3cef18f-250620T185436-riscv64-Linux&download=vault-kubernetes-kms",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/vault-kubernetes-kms:HEAD-3cef18f-250620T185436-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/vault-kubernetes-kms",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/vault-kubernetes-kms?tag=HEAD-3cef18f-250620T185436-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa47398551ebff673d6c21c858f79ad855e16c8110c953e544373bd8fd8cdef6",
+  "size": "16 MB",
+  "size_raw": "16363416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
