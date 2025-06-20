@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "go-canal",
+  "pkg_family": "go-mysql",
+  "pkg_id": "go-canal#github.com_go_mysql_org_go_mysql",
+  "pkg_name": "go-canal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-mysql-org/go-mysql",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a powerful mysql toolset with Go",
+  "homepage": [
+    "https://github.com/go-mysql-org/go-mysql"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-binlogparser",
+    "go-canal",
+    "go-mysqlbinlog",
+    "go-mysqldump",
+    "go-mysqlserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-mysql-org/go-mysql/archive/447a516ce9c0d224ac33a22798944302f1345dae.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-447a516-250611T090020",
+  "version_upstream": "",
+  "bsum": "49bcce37d0422bf42fa699f7ccf809c37b7440082f964a829c841efbf38bb9be",
+  "build_date": "2025-06-20T03:26:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770137424",
+  "build_id": "15770137424",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-mysql-org/go-mysql/go-canal?tag=HEAD-447a516-250611T090020-loongarch64-Linux&download=go-canal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4767",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-mysql-org/go-mysql/go-canal?tag=HEAD-447a516-250611T090020-loongarch64-Linux&download=go-canal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-mysql-org/go-mysql/go-canal:HEAD-447a516-250611T090020-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-mysql-org/go-mysql/go-canal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-mysql-org/go-mysql/go-canal?tag=HEAD-447a516-250611T090020-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ef6777e3afafdea819f12c84bd12a75df459d762f3b78632c4a7f6dc0715891",
+  "size": "20 MB",
+  "size_raw": "20694064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
