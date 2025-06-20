@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "checkheader",
+  "pkg_family": "openssl",
+  "pkg_id": "checkheader#github.com_golang_fips_openssl.git",
+  "pkg_name": "checkheader",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkheader",
+    "genaesmodes",
+    "gentestvectors",
+    "mkcgo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang-fips/openssl.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T035510",
+  "version_upstream": "",
+  "bsum": "be9893776410db98806a535ffe871a88bfcac8267e1f9e2f65bb6c1721e5b7ea",
+  "build_date": "2025-06-20T03:56:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770312983",
+  "build_id": "15770312983",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fips/openssl.git/checkheader?tag=20250620T035510-riscv64-Linux&download=checkheader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fips/openssl.git/checkheader?tag=20250620T035510-riscv64-Linux&download=checkheader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fips/openssl.git/checkheader:20250620T035510-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fips/openssl.git/checkheader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fips/openssl.git/checkheader?tag=20250620T035510-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3113c8cea73c11e2d0e7e3ac70e5cff316b057490202027d6498a902b7843fad",
+  "size": "2.0 MB",
+  "size_raw": "2027592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
