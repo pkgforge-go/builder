@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kube-apiserver-healthcheck",
+  "pkg_family": "kops",
+  "pkg_id": "kube-apiserver-healthcheck#github.com_kubernetes_kops.git",
+  "pkg_name": "kube-apiserver-healthcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "channels",
+    "clusterapi",
+    "dns-controller",
+    "fitask",
+    "generatefileassets",
+    "kops",
+    "kops-api-example",
+    "kops-controller",
+    "kops-utils-cp",
+    "kube-apiserver-healthcheck",
+    "nodeup",
+    "protokube"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/kops.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T154419",
+  "version_upstream": "",
+  "bsum": "83fb6f221741e1794dfdd4fa216bf23764f7f1b7f294fcfd971cdc4ef62904da",
+  "build_date": "2025-06-20T16:11:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781759794",
+  "build_id": "15781759794",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/kube-apiserver-healthcheck?tag=20250620T154419-x86_64-Linux&download=kube-apiserver-healthcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/kube-apiserver-healthcheck?tag=20250620T154419-x86_64-Linux&download=kube-apiserver-healthcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kops.git/kube-apiserver-healthcheck:20250620T154419-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kops.git/kube-apiserver-healthcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/kube-apiserver-healthcheck?tag=20250620T154419-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47f1e8292fd2be498f0a346a58af2d18bc1efca0bee71efa4922f12b820956bc",
+  "size": "7.0 MB",
+  "size_raw": "7237824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

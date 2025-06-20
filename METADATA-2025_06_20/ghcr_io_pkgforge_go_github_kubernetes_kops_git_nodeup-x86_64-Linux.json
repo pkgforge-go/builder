@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nodeup",
+  "pkg_family": "kops",
+  "pkg_id": "nodeup#github.com_kubernetes_kops.git",
+  "pkg_name": "nodeup",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "channels",
+    "clusterapi",
+    "dns-controller",
+    "fitask",
+    "generatefileassets",
+    "kops",
+    "kops-api-example",
+    "kops-controller",
+    "kops-utils-cp",
+    "kube-apiserver-healthcheck",
+    "nodeup",
+    "protokube"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/kops.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T154419",
+  "version_upstream": "",
+  "bsum": "94f20c31dcf89acd53b6f88024a65a9bc0a0d35f0af2f3a67f17208823a6da4c",
+  "build_date": "2025-06-20T16:12:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781759794",
+  "build_id": "15781759794",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/nodeup?tag=20250620T154419-x86_64-Linux&download=nodeup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/nodeup?tag=20250620T154419-x86_64-Linux&download=nodeup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kops.git/nodeup:20250620T154419-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kops.git/nodeup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/nodeup?tag=20250620T154419-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "077a97c30f9fe0c0dc5332b06afb5b84563a3068b9fb7b9381e19fb7fea66940",
+  "size": "184 MB",
+  "size_raw": "192496992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

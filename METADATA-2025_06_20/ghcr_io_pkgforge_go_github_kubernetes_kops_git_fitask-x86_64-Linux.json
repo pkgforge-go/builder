@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fitask",
+  "pkg_family": "kops",
+  "pkg_id": "fitask#github.com_kubernetes_kops.git",
+  "pkg_name": "fitask",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "channels",
+    "clusterapi",
+    "dns-controller",
+    "fitask",
+    "generatefileassets",
+    "kops",
+    "kops-api-example",
+    "kops-controller",
+    "kops-utils-cp",
+    "kube-apiserver-healthcheck",
+    "nodeup",
+    "protokube"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/kops.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T154419",
+  "version_upstream": "",
+  "bsum": "0417ac76022d77df9bb1d5c89fe3dfa82c0be9b4a683a15d60a56a7c9e2e3e02",
+  "build_date": "2025-06-20T16:12:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781759794",
+  "build_id": "15781759794",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/fitask?tag=20250620T154419-x86_64-Linux&download=fitask.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/fitask?tag=20250620T154419-x86_64-Linux&download=fitask",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kops.git/fitask:20250620T154419-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kops.git/fitask",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops.git/fitask?tag=20250620T154419-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ef68c35ae0d96aecb47e07bd98dd16c9d9f8932575b474ae866314b35c5a03d",
+  "size": "8.3 MB",
+  "size_raw": "8604952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
