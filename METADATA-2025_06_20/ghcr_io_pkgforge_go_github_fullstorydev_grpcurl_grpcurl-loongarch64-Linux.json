@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "grpcurl",
+  "pkg_family": "grpcurl",
+  "pkg_id": "grpcurl#github.com_fullstorydev_grpcurl",
+  "pkg_name": "grpcurl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fullstorydev/grpcurl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+  "homepage": [
+    "https://github.com/fullstorydev/grpcurl"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bankdemo",
+    "grpcurl",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fullstorydev/grpcurl/archive/f28d506cea820a059b45cd92fb732f13d3b220ff.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "grpc",
+    "protobuf"
+  ],
+  "version": "HEAD-f28d506-250416T200523",
+  "version_upstream": "",
+  "bsum": "69b10c1278282f18424752c112497fdbc38e335b7c05160ed49673ed7ab89181",
+  "build_date": "2025-06-20T01:57:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769491451",
+  "build_id": "15769491451",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/grpcurl?tag=HEAD-f28d506-250416T200523-loongarch64-Linux&download=grpcurl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/grpcurl?tag=HEAD-f28d506-250416T200523-loongarch64-Linux&download=grpcurl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fullstorydev/grpcurl/grpcurl:HEAD-f28d506-250416T200523-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fullstorydev/grpcurl/grpcurl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/grpcurl?tag=HEAD-f28d506-250416T200523-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7b7ceeae2116a4cf08b90f3fc3ab3020dcc599d021ccd6db3d23f1f54170b76c",
+  "size": "28 MB",
+  "size_raw": "28523328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

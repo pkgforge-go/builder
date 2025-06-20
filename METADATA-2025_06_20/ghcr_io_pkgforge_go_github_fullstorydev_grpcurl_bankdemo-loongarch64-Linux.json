@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bankdemo",
+  "pkg_family": "grpcurl",
+  "pkg_id": "bankdemo#github.com_fullstorydev_grpcurl",
+  "pkg_name": "bankdemo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fullstorydev/grpcurl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+  "homepage": [
+    "https://github.com/fullstorydev/grpcurl"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bankdemo",
+    "grpcurl",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fullstorydev/grpcurl/archive/f28d506cea820a059b45cd92fb732f13d3b220ff.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "grpc",
+    "protobuf"
+  ],
+  "version": "HEAD-f28d506-250416T200523",
+  "version_upstream": "",
+  "bsum": "d3456a5ccdd575badad0d702b143604266bc9899c34e46a9092e96c3b57cea1b",
+  "build_date": "2025-06-20T01:57:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769491451",
+  "build_id": "15769491451",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/bankdemo?tag=HEAD-f28d506-250416T200523-loongarch64-Linux&download=bankdemo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/bankdemo?tag=HEAD-f28d506-250416T200523-loongarch64-Linux&download=bankdemo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fullstorydev/grpcurl/bankdemo:HEAD-f28d506-250416T200523-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fullstorydev/grpcurl/bankdemo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fullstorydev/grpcurl/bankdemo?tag=HEAD-f28d506-250416T200523-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1c3c2ae66e36d73649902ca665c2f05c13878135628156bf84d04233d55b120",
+  "size": "12 MB",
+  "size_raw": "11560800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
