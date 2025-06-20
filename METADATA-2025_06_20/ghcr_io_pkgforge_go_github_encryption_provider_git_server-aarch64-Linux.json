@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "aws-encryption-provider",
+  "pkg_id": "server#github.com_kubernetes_sigs_aws_encryption_provider.git",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "clientv2",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/aws-encryption-provider.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T153337",
+  "version_upstream": "",
+  "bsum": "14e56ca9061f75667d03600066d922661c6a3692be14a601740319aeb45770d8",
+  "build_date": "2025-06-20T15:36:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15781713701",
+  "build_id": "15781713701",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encryption/provider.git/server?tag=20250620T153337-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encryption/provider.git/server?tag=20250620T153337-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/encryption/provider.git/server:20250620T153337-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/encryption/provider.git/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encryption/provider.git/server?tag=20250620T153337-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18f74c3cace5c453854978f69e3921d8455f8a6c77c6976602c615c069fbc50d",
+  "size": "20 MB",
+  "size_raw": "19940736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
