@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "headscale",
+  "pkg_id": "gen#github.com_juanfont_headscale",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juanfont/headscale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source, self-hosted implementation of the Tailscale control server",
+  "homepage": [
+    "https://github.com/juanfont/headscale"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen",
+    "headscale",
+    "hi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juanfont/headscale/archive/ea7376f522607af8ba64ad73a980994da4ab00b4.tar.gz"
+  ],
+  "tag": [
+    "tailscale",
+    "tailscale-control-server",
+    "tailscale-server",
+    "wireguard"
+  ],
+  "version": "HEAD-ea7376f-250618T112215",
+  "version_upstream": "",
+  "bsum": "ca54632835a839cf5e6c16523b79a0c234b2e1dc2e1eca8acc6e209201d4ce49",
+  "build_date": "2025-06-20T13:55:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779725714",
+  "build_id": "15779725714",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-ea7376f-250618T112215-aarch64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29213",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-ea7376f-250618T112215-aarch64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juanfont/headscale/gen:HEAD-ea7376f-250618T112215-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juanfont/headscale/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-ea7376f-250618T112215-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d25171c42cf0d375bca3307d800a7452b178cc9d69120a28967ff6eef0fbdab",
+  "size": "6.2 MB",
+  "size_raw": "6434464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
