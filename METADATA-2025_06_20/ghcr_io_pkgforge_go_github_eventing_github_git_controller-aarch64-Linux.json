@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "eventing-github",
+  "pkg_id": "controller#github.com_knative_extensions_eventing_github.git",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "mt_receive_adapter",
+    "receive_adapter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-github.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150522",
+  "version_upstream": "",
+  "bsum": "ff013e281cebd77c85c7a6a93b61615dd1ab2484603cc40dbeb9b8c58c86c66e",
+  "build_date": "2025-06-20T15:12:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780824147",
+  "build_id": "15780824147",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/controller?tag=20250620T150522-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/controller?tag=20250620T150522-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eventing/github.git/controller:20250620T150522-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eventing/github.git/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/controller?tag=20250620T150522-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ec856e1d10f1997f1ffc36b2ff5ab90ad6eb4e258f6150057924b14f1758ec9",
+  "size": "58 MB",
+  "size_raw": "60301728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

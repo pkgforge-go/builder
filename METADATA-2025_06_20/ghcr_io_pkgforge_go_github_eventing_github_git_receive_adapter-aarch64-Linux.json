@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "receive_adapter",
+  "pkg_family": "eventing-github",
+  "pkg_id": "receive_adapter#github.com_knative_extensions_eventing_github.git",
+  "pkg_name": "receive_adapter",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "mt_receive_adapter",
+    "receive_adapter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-github.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150522",
+  "version_upstream": "",
+  "bsum": "831e1b48cb092c1d246a1307d53df44a36b35cd1d1e140484b3d176ea609b8ca",
+  "build_date": "2025-06-20T15:12:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780824147",
+  "build_id": "15780824147",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/receive_adapter?tag=20250620T150522-aarch64-Linux&download=receive_adapter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/receive_adapter?tag=20250620T150522-aarch64-Linux&download=receive_adapter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eventing/github.git/receive_adapter:20250620T150522-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eventing/github.git/receive_adapter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/receive_adapter?tag=20250620T150522-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "674b8a490251a3b1cd4f37d81551407fe529f16a59152543e22c7ab11fba189d",
+  "size": "60 MB",
+  "size_raw": "62686624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

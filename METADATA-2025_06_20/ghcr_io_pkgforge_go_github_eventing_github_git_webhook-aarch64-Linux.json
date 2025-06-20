@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "eventing-github",
+  "pkg_id": "webhook#github.com_knative_extensions_eventing_github.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "mt_receive_adapter",
+    "receive_adapter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-github.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150522",
+  "version_upstream": "",
+  "bsum": "180c245c14e9c53880436bb154d2d56fb7584eb89584c2f9953cdaba20a05ce0",
+  "build_date": "2025-06-20T15:12:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780824147",
+  "build_id": "15780824147",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-aarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-aarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eventing/github.git/webhook:20250620T150522-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eventing/github.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09c126d2aa4a38228afe001e3eb5a1cc42df366ff3537443a70f95d3bebe4f43",
+  "size": "57 MB",
+  "size_raw": "59253888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
