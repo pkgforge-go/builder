@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "checkdisk",
+  "pkg_family": "dragonboat",
+  "pkg_id": "checkdisk#github.com_lni_dragonboat",
+  "pkg_name": "checkdisk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lni/dragonboat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A feature complete and high performance multi-group Raft library in Go.",
+  "homepage": [
+    "https://github.com/lni/dragonboat"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkdisk",
+    "fsync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lni/dragonboat/archive/6a1623140f27d3da7ebdbeeb9d2cf16eed5a5c43.tar.gz"
+  ],
+  "tag": [
+    "consensus",
+    "distributed-consensus",
+    "distributed-storage",
+    "distributed-systems",
+    "go",
+    "golang",
+    "paxos",
+    "raft",
+    "raft-algorithm",
+    "raft-protocol",
+    "replicated-state-machines"
+  ],
+  "version": "HEAD-6a16231-240618T223154",
+  "version_upstream": "",
+  "bsum": "81d4af6a3ecb27974c6a2d7a1a1e50d4e3134a4437fee96605ac428acb2104b7",
+  "build_date": "2025-06-20T20:50:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787177186",
+  "build_id": "15787177186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lni/dragonboat/checkdisk?tag=HEAD-6a16231-240618T223154-aarch64-Linux&download=checkdisk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5188",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lni/dragonboat/checkdisk?tag=HEAD-6a16231-240618T223154-aarch64-Linux&download=checkdisk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lni/dragonboat/checkdisk:HEAD-6a16231-240618T223154-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lni/dragonboat/checkdisk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lni/dragonboat/checkdisk?tag=HEAD-6a16231-240618T223154-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "670c8ca2885407585d3e516612d1c496e66385f5c1c0f0b5c1e04623a9b3f47e",
+  "size": "14 MB",
+  "size_raw": "14539808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
