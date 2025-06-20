@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "data-gen",
+  "pkg_family": "adx-mon",
+  "pkg_id": "data-gen#github.com_Azure_adx_mon",
+  "pkg_name": "data-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/adx-mon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ADX-Mon - Azure Data Explorer based observability platform",
+  "homepage": [
+    "https://github.com/Azure/adx-mon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alerter",
+    "config",
+    "crdgen",
+    "data-gen",
+    "ingestor",
+    "log-load",
+    "operator",
+    "walreader",
+    "write-load"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/adx-mon/archive/93c217e859c96d5f68b70c33b4bf68805741598b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-93c217e-250619T160245",
+  "version_upstream": "",
+  "bsum": "63e8b5c2d26a3e8f148cd5b29dba405ee28aae2b5f1ac0c8956233463d264bf2",
+  "build_date": "2025-06-20T07:10:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773064027",
+  "build_id": "15773064027",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/data-gen?tag=HEAD-93c217e-250619T160245-loongarch64-Linux&download=data-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/data-gen?tag=HEAD-93c217e-250619T160245-loongarch64-Linux&download=data-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/adx-mon/data-gen:HEAD-93c217e-250619T160245-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/adx-mon/data-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/adx-mon/data-gen?tag=HEAD-93c217e-250619T160245-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df0e0bd93ab54c58fe2a8170d1d18a3a5b3c4a50d1448ea706b61a69006d1f5b",
+  "size": "1.8 MB",
+  "size_raw": "1867640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
