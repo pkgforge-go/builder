@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mkentity",
+  "pkg_family": "td",
+  "pkg_id": "mkentity#github.com_gotd_td",
+  "pkg_name": "mkentity",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gotd/td",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Telegram client, in Go. _MTProto API_",
+  "homepage": [
+    "https://github.com/gotd/td"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cachedgen",
+    "connclose",
+    "dlkey",
+    "dltl",
+    "dscidr",
+    "gotdecho",
+    "gotdgen",
+    "itergen",
+    "mkentity",
+    "mktyping",
+    "mtprint",
+    "rsagen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gotd/td/archive/6de998aed9819c6c7bb71e2a0fb9d50f6fb20f61.tar.gz"
+  ],
+  "tag": [
+    "bot-api",
+    "go",
+    "golang",
+    "mtproto",
+    "tdlib",
+    "telegram",
+    "telegram-api",
+    "telegram-bot"
+  ],
+  "version": "HEAD-6de998a-250612T113324",
+  "version_upstream": "",
+  "bsum": "ca64ba3e817e04312810d43bf86b314a968e74b7725724eb60d4e4f45a965d3a",
+  "build_date": "2025-06-20T04:47:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771157380",
+  "build_id": "15771157380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/mkentity?tag=HEAD-6de998a-250612T113324-riscv64-Linux&download=mkentity.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1830",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/mkentity?tag=HEAD-6de998a-250612T113324-riscv64-Linux&download=mkentity",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gotd/td/mkentity:HEAD-6de998a-250612T113324-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gotd/td/mkentity",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/mkentity?tag=HEAD-6de998a-250612T113324-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "32e82b5e7399e10e5c6093937019fd1bfe6ac01e4f25761882d020f3af6fd532",
+  "size": "28 MB",
+  "size_raw": "29008168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
