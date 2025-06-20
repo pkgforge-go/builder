@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "eventing-github",
+  "pkg_id": "webhook#github.com_knative_extensions_eventing_github.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "mt_receive_adapter",
+    "receive_adapter",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-github.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150522",
+  "version_upstream": "",
+  "bsum": "68d97a749ab5c9f3ed597c4674862e2d3b135c184478a4f9cfb10ea95978372b",
+  "build_date": "2025-06-20T15:12:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780824147",
+  "build_id": "15780824147",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eventing/github.git/webhook:20250620T150522-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eventing/github.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eventing/github.git/webhook?tag=20250620T150522-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a5a860b0f4950a580f829bbc8162abf93d3a9c33b8899f5c96fac6a315d796e",
+  "size": "58 MB",
+  "size_raw": "59779136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
