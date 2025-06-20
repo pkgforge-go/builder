@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "miqt-rcc",
+  "pkg_family": "miqt",
+  "pkg_id": "miqt-rcc#github.com_mappu_miqt",
+  "pkg_name": "miqt-rcc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mappu/miqt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MIT-licensed Qt bindings for Go",
+  "homepage": [
+    "https://github.com/mappu/miqt"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genbindings",
+    "miqt-docker",
+    "miqt-rcc",
+    "miqt-uic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mappu/miqt/archive/8962d676e40017959658c04205995cdb9805a5e0.tar.gz"
+  ],
+  "tag": [
+    "bindings",
+    "cgo",
+    "go",
+    "golang",
+    "qt",
+    "qt5",
+    "qt6",
+    "qt6-widgets",
+    "qtwidgets"
+  ],
+  "version": "HEAD-8962d67-250611T224724",
+  "version_upstream": "v0.11.0",
+  "bsum": "1bd63038dee64e29c641b1b7adcb2cbe0357da938dc57e06e59fedc3dabebe8d",
+  "build_date": "2025-06-20T21:28:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787627958",
+  "build_id": "15787627958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mappu/miqt/miqt-rcc?tag=HEAD-8962d67-250611T224724-aarch64-Linux&download=miqt-rcc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "464",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mappu/miqt/miqt-rcc?tag=HEAD-8962d67-250611T224724-aarch64-Linux&download=miqt-rcc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mappu/miqt/miqt-rcc:HEAD-8962d67-250611T224724-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mappu/miqt/miqt-rcc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mappu/miqt/miqt-rcc?tag=HEAD-8962d67-250611T224724-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da7586264254d7fcaa487601f09b57b9c1c5c7ee16e4d3fca556c9591ecd8701",
+  "size": "2.6 MB",
+  "size_raw": "2695704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
