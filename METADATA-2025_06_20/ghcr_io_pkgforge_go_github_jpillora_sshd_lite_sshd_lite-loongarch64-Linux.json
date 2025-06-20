@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sshd-lite",
+  "pkg_family": "sshd-lite",
+  "pkg_id": "sshd-lite#github.com_jpillora_sshd_lite",
+  "pkg_name": "sshd-lite",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jpillora/sshd-lite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A feature-light sshd_8_ for Windows, Mac, and Linux written in Go",
+  "homepage": [
+    "https://github.com/jpillora/sshd-lite"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sshd-lite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jpillora/sshd-lite/archive/93d588ac5dc4ec8a6b3db2f6445a2b45b39b6084.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-93d588a-250609T001926",
+  "version_upstream": "",
+  "bsum": "25f0e1ccdd433c38c09a1af185c46cbd87bf0ca463fac32246ae38a762a65794",
+  "build_date": "2025-06-20T13:51:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779704182",
+  "build_id": "15779704182",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jpillora/sshd-lite/sshd-lite?tag=HEAD-93d588a-250609T001926-loongarch64-Linux&download=sshd-lite.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "108",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jpillora/sshd-lite/sshd-lite?tag=HEAD-93d588a-250609T001926-loongarch64-Linux&download=sshd-lite",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jpillora/sshd-lite/sshd-lite:HEAD-93d588a-250609T001926-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jpillora/sshd-lite/sshd-lite",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jpillora/sshd-lite/sshd-lite?tag=HEAD-93d588a-250609T001926-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b243fd6cb97b7cc599321d864576d3e4ce32ca06970cddb9d1e25dc9c79ad744",
+  "size": "6.8 MB",
+  "size_raw": "7111296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
