@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tests",
+  "pkg_family": "statshouse",
+  "pkg_id": "tests#github.com_VKCOM_statshouse",
+  "pkg_name": "tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VKCOM/statshouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "StatsHouse is a highly available, scalable, multitenant monitoring system",
+  "homepage": [
+    "https://github.com/VKCOM/statshouse"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ch-table-gen",
+    "sender",
+    "statshouse-example",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VKCOM/statshouse/archive/ef46bea11f073ee31240bd9a65dde630dcfaec65.tar.gz"
+  ],
+  "tag": [
+    "dashboard",
+    "graphing",
+    "metrics",
+    "monitoring",
+    "observability",
+    "tsdb"
+  ],
+  "version": "HEAD-ef46bea-250619T183844",
+  "version_upstream": "",
+  "bsum": "fa83db45deaf70fd19987e3c6be36a6ec6a6b26e3d2975c3324ce304e0ac4285",
+  "build_date": "2025-06-20T07:37:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773124886",
+  "build_id": "15773124886",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/tests?tag=HEAD-ef46bea-250619T183844-loongarch64-Linux&download=tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/tests?tag=HEAD-ef46bea-250619T183844-loongarch64-Linux&download=tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vkcom/statshouse/tests:HEAD-ef46bea-250619T183844-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vkcom/statshouse/tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/tests?tag=HEAD-ef46bea-250619T183844-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4bbfb79d203a601254341840e8f3c12cf752a0661f5ed3134e2f4a25ebe44e83",
+  "size": "3.6 MB",
+  "size_raw": "3692320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
