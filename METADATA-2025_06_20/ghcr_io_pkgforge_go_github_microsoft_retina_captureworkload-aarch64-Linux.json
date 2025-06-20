@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "captureworkload",
+  "pkg_family": "retina",
+  "pkg_id": "captureworkload#github.com_microsoft_retina",
+  "pkg_name": "captureworkload",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "captureworkload",
+    "controller",
+    "dns",
+    "dropreason",
+    "enricher",
+    "filtermanager",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "packetforward",
+    "packetparser",
+    "retina",
+    "utsummary",
+    "veth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/586a3a688c488c410f40f4ce78dc99e0ad857e53.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-586a3a6-250619T115102",
+  "version_upstream": "",
+  "bsum": "3c4b7ffae5ec58b4a080940185bf1e9b6933f4eed5e1e862d7ec767ce4ba6637",
+  "build_date": "2025-06-20T22:30:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788360945",
+  "build_id": "15788360945",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/captureworkload?tag=HEAD-586a3a6-250619T115102-aarch64-Linux&download=captureworkload.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2980",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/captureworkload?tag=HEAD-586a3a6-250619T115102-aarch64-Linux&download=captureworkload",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/captureworkload:HEAD-586a3a6-250619T115102-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/captureworkload",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/captureworkload?tag=HEAD-586a3a6-250619T115102-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1e14c67353f046ab7d557c7af2fc80e49e364314e0c560565bc2c95de77e83e2",
+  "size": "48 MB",
+  "size_raw": "49356224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
