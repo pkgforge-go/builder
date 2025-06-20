@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "creds",
+  "pkg_family": "granted",
+  "pkg_id": "creds#github.com_fwdcloudsec_granted",
+  "pkg_name": "creds",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fwdcloudsec/granted",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest way to access AWS.",
+  "homepage": [
+    "https://github.com/fwdcloudsec/granted"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "browser",
+    "creds",
+    "granted"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fwdcloudsec/granted/archive/e504d8bc2eed5f1b054fe1f0727c71a97576a5df.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cloud",
+    "cloud-security",
+    "credentials",
+    "hacktoberfest",
+    "iam",
+    "keychain",
+    "sso"
+  ],
+  "version": "HEAD-e504d8b-250511T163326",
+  "version_upstream": "",
+  "bsum": "80f29d3b4e52797fa9db46b360b9693c7a6a17cb77fe3a1ffa6fd7a463462483",
+  "build_date": "2025-06-20T02:03:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769492629",
+  "build_id": "15769492629",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fwdcloudsec/granted/creds?tag=HEAD-e504d8b-250511T163326-loongarch64-Linux&download=creds.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1338",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fwdcloudsec/granted/creds?tag=HEAD-e504d8b-250511T163326-loongarch64-Linux&download=creds",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fwdcloudsec/granted/creds:HEAD-e504d8b-250511T163326-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fwdcloudsec/granted/creds",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fwdcloudsec/granted/creds?tag=HEAD-e504d8b-250511T163326-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3986efdcb84846a1e10de56ccc8ec13d02066c604ad86536fca29507fd7502c",
+  "size": "5.3 MB",
+  "size_raw": "5466464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
