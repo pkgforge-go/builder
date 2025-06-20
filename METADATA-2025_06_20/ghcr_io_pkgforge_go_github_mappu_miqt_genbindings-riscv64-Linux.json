@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "genbindings",
+  "pkg_family": "miqt",
+  "pkg_id": "genbindings#github.com_mappu_miqt",
+  "pkg_name": "genbindings",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mappu/miqt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MIT-licensed Qt bindings for Go",
+  "homepage": [
+    "https://github.com/mappu/miqt"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genbindings",
+    "miqt-docker",
+    "miqt-rcc",
+    "miqt-uic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mappu/miqt/archive/8962d676e40017959658c04205995cdb9805a5e0.tar.gz"
+  ],
+  "tag": [
+    "bindings",
+    "cgo",
+    "go",
+    "golang",
+    "qt",
+    "qt5",
+    "qt6",
+    "qt6-widgets",
+    "qtwidgets"
+  ],
+  "version": "HEAD-8962d67-250611T224724",
+  "version_upstream": "v0.11.0",
+  "bsum": "a7a276c051a0ca541bc6ca0299c2ff6b0f2be8baa0711673e50d3c636d3b368e",
+  "build_date": "2025-06-20T21:27:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787627958",
+  "build_id": "15787627958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mappu/miqt/genbindings?tag=HEAD-8962d67-250611T224724-riscv64-Linux&download=genbindings.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "464",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mappu/miqt/genbindings?tag=HEAD-8962d67-250611T224724-riscv64-Linux&download=genbindings",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mappu/miqt/genbindings:HEAD-8962d67-250611T224724-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mappu/miqt/genbindings",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mappu/miqt/genbindings?tag=HEAD-8962d67-250611T224724-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6652e61b7306ac6e99295d3f29c956ef0dd0f409b5e44bb32378460fbd79a8be",
+  "size": "3.7 MB",
+  "size_raw": "3831528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
