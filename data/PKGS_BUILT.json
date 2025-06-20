@@ -1349,6 +1349,19 @@
     "version": "HEAD-b65ebbe-250620T085520"
   },
   {
+    "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "name": "adapter",
+    "pkg_id": "adapter#github.com_kedacore_keda",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-30a37e6-250620T123151"
+  },
+  {
     "description": "Deckhouse Prom++ – high-performance fork of Prometheus, designed to significantly reduce memory consumption",
     "name": "adapter-usage",
     "pkg_id": "adapter-usage#github.com_deckhouse_prompp",
@@ -1360,6 +1373,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-aed44b5-250619T154348"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "adapter-usage",
+    "pkg_id": "adapter-usage#github.com_grafana_mimir_prometheus",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cef71b8-250620T140335"
   },
   {
     "description": "A TUI File Manager for ADB",
@@ -3271,6 +3297,19 @@
     "version": "HEAD-93f0bf4-250415T160741"
   },
   {
+    "description": "The Sail Operator is able to install and manage the lifecycle of the Istio control plane in an Kubernetes _ OpenShift cluster.",
+    "name": "api_transformer",
+    "pkg_id": "api_transformer#github.com_istio_ecosystem_sail_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b22ae1e-250620T072710"
+  },
+  {
     "description": "apicompat checks recent changes to a Go project for backwards incompatible changes",
     "name": "apicompat",
     "pkg_id": "apicompat#github.com_bradleyfalzon_apicompat",
@@ -3858,6 +3897,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-efc9f69-250620T135011"
+  },
+  {
+    "description": "Keboola Connection project as definition files.",
+    "name": "apps-proxy",
+    "pkg_id": "apps-proxy#github.com_keboola_keboola_as_code",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fcccad6-250620T125825"
   },
   {
     "description": "OCI transport plugin for apt-get _i.e., apt-get over ghcr.io_",
@@ -5243,6 +5292,19 @@
     "version": "HEAD-a96796e-250619T074930"
   },
   {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "aws-asg",
+    "pkg_id": "aws-asg#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
     "description": "No Description Provided",
     "name": "aws-ebs-csi-driver",
     "pkg_id": "aws-ebs-csi-driver#github.com_kubernetes_sigs_aws_ebs_csi_driver.git",
@@ -5254,6 +5316,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "20250620T153504"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "aws-iam-authenticator-sso-wrapper",
+    "pkg_id": "aws-iam-authenticator-sso-wrapper#github.com_justinas_b_aws_iam_authenticator_sso_wrapper",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-7c7ec81-250620T100439"
   },
   {
     "description": "CLI tool that shows the future public IPv4 costs for a variety of AWS resources across all AWS regions from an account.",
@@ -5319,6 +5394,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-eeb6a4f-250602T153233"
+  },
+  {
+    "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+    "name": "aws-spot-pricing",
+    "pkg_id": "aws-spot-pricing#github.com_grafana_cloudcost_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9c8a05e-250620T094405"
   },
   {
     "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
@@ -5523,6 +5611,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9ab0c5a-250618T135258"
+  },
+  {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "azure-vmss",
+    "pkg_id": "azure-vmss#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
   },
   {
     "description": "Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory _AAD_ with pods.",
@@ -7593,6 +7694,19 @@
     "version": "HEAD-7a5d2ec-250606T133814"
   },
   {
+    "description": "Source code for bots used by the Istio project.",
+    "name": "bots",
+    "pkg_id": "bots#github.com_istio_bots",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-630ca3e-250620T041010"
+  },
+  {
     "description": "No Description Provided",
     "name": "botzilla-client",
     "pkg_id": "botzilla-client#github.com_Pois_Noir_Botzilla_Client",
@@ -7783,6 +7897,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-e504d8b-250511T163326"
+  },
+  {
+    "description": "Headless browser for Go for TDD workflows",
+    "name": "browser",
+    "pkg_id": "browser#github.com_gost_dom_browser",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5908223-250620T115048"
   },
   {
     "description": "Pure Go bsdiff and bspatch libraries and CLI tools.",
@@ -8006,6 +8133,19 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "bucketbroker",
+    "pkg_id": "bucketbroker#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
     "description": "Couchbase client in Go",
     "name": "bucketlist",
     "pkg_id": "bucketlist#github.com_couchbase_go_couchbase",
@@ -8017,6 +8157,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-959eaf9-220209T222054"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "bucketpoollet",
+    "pkg_id": "bucketpoollet#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
   },
   {
     "description": "The best way of working with Protocol Buffers.",
@@ -9029,7 +9182,9 @@
     "pkg_id": "carbonapi#github.com_go_graphite_carbonapi",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-3ff3820-250620T094802"
@@ -11594,6 +11749,19 @@
     "version": "HEAD-4ab04ee-250616T131646"
   },
   {
+    "description": "Code Generation with a human touch",
+    "name": "cli",
+    "pkg_id": "cli#github.com_grafana_cog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8fc0a44-250618T173733"
+  },
+  {
     "description": "Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...",
     "name": "cli",
     "pkg_id": "cli#github.com_innogames_slack_bot",
@@ -11993,6 +12161,19 @@
     "version": "HEAD-13c91a9-250620T015636"
   },
   {
+    "description": "A short link service system suitable for small and medium-sized community websites. supports short link production, query and 302 redirection, and comes with click statistics, independent IP statistics and access logs.",
+    "name": "client",
+    "pkg_id": "client#github.com_houseme_url_shortenter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-38d6a89-250620T161226"
+  },
+  {
     "description": "Measure your d*mn internet",
     "name": "client",
     "pkg_id": "client#github.com_imup_io_client",
@@ -12234,6 +12415,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-33b6746-250620T110035"
+  },
+  {
+    "description": "Operator for provisioning resources _Postgres, Redis etc_ in-cluster or via cloud providers",
+    "name": "cloud-resource-operator-cmd",
+    "pkg_id": "cloud-resource-operator-cmd#github.com_integr8ly_cloud_resource_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b8db5c9-250620T131955"
   },
   {
     "description": "蓝鲸云管理平台（BK-HCM）",
@@ -13454,6 +13648,19 @@
     "version": "HEAD-d0f7472-250619T131007"
   },
   {
+    "description": "Code Generation with a human touch",
+    "name": "cog-config-schemas",
+    "pkg_id": "cog-config-schemas#github.com_grafana_cog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8fc0a44-250618T173733"
+  },
+  {
     "description": "[mirror] Go text processing support",
     "name": "colcmp",
     "pkg_id": "colcmp#github.com_golang_text",
@@ -13762,6 +13969,19 @@
     "version": "HEAD-8baf340-250620T020355"
   },
   {
+    "description": "No Description Provided",
+    "name": "compact",
+    "pkg_id": "compact#github.com_grafana_mimir_prometheus",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cef71b8-250620T140335"
+  },
+  {
     "description": "AIStore: scalable storage for AI applications",
     "name": "compare",
     "pkg_id": "compare#github.com_NVIDIA_aistore",
@@ -13863,6 +14083,29 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ecf1690-221019T203722"
+  },
+  {
+    "description": "Keboola Connection project as definition files.",
+    "name": "compiler",
+    "pkg_id": "compiler#github.com_keboola_keboola_as_code",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fcccad6-250620T125825"
+  },
+  {
+    "description": "Code Generation with a human touch",
+    "name": "compiler-passes-docs",
+    "pkg_id": "compiler-passes-docs#github.com_grafana_cog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8fc0a44-250618T173733"
   },
   {
     "description": "No Description Provided",
@@ -14455,6 +14698,19 @@
     "version": "HEAD-58856c4-250618T192432"
   },
   {
+    "description": "A short link service system suitable for small and medium-sized community websites. supports short link production, query and 302 redirection, and comes with click statistics, independent IP statistics and access logs.",
+    "name": "console",
+    "pkg_id": "console#github.com_houseme_url_shortenter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-38d6a89-250620T161226"
+  },
+  {
     "description": "Psiphon is an Internet censorship circumvention system.",
     "name": "consoleclient",
     "pkg_id": "consoleclient#github.com_Psiphon_Labs_psiphon_tunnel_core",
@@ -14896,6 +15152,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-559d02b-250619T121245"
+  },
+  {
+    "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+    "name": "convertor",
+    "pkg_id": "convertor#github.com_grafana_cloudcost_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9c8a05e-250620T094405"
   },
   {
     "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
@@ -15915,6 +16184,84 @@
     "version": "HEAD-6e4cc38-250615T075130"
   },
   {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "csaf_aggregator",
+    "pkg_id": "csaf_aggregator#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "csaf_checker",
+    "pkg_id": "csaf_checker#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "csaf_downloader",
+    "pkg_id": "csaf_downloader#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "csaf_provider",
+    "pkg_id": "csaf_provider#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "csaf_uploader",
+    "pkg_id": "csaf_uploader#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "csaf_validator",
+    "pkg_id": "csaf_validator#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
     "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
     "name": "csi",
     "pkg_id": "csi#github.com_fluid_cloudnative_fluid",
@@ -16558,6 +16905,32 @@
     "version": "HEAD-e96f281-241008T221502"
   },
   {
+    "description": "JuiceFS CSI Driver",
+    "name": "dashboard",
+    "pkg_id": "dashboard#github.com_juicedata_juicefs_csi_driver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bc19f71-250620T151958"
+  },
+  {
+    "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+    "name": "dashboards",
+    "pkg_id": "dashboards#github.com_grafana_cloudcost_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9c8a05e-250620T094405"
+  },
+  {
     "description": "The retro-computing systems",
     "name": "dasm",
     "pkg_id": "dasm#github.com_blackchip_org_retro_cs",
@@ -16673,6 +17046,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-89316c7-230312T200828"
+  },
+  {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "datadog",
+    "pkg_id": "datadog#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
   },
   {
     "description": "KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.",
@@ -19086,6 +19472,19 @@
     "version": "HEAD-fbc197f-250619T000841"
   },
   {
+    "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "name": "doc-generator",
+    "pkg_id": "doc-generator#github.com_grafana_pyroscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-06bcfc6-250620T201508"
+  },
+  {
     "description": "Open-source command-line tool designed to simplify the creation of automated tests for web applications",
     "name": "doc_generator",
     "pkg_id": "doc_generator#github.com_TestFlowKit_testflowkit",
@@ -19444,6 +19843,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-c80041b-250619T202439"
+  },
+  {
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "name": "docsgen",
+    "pkg_id": "docsgen#github.com_grafana_tempo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bec9da5-250620T143114"
   },
   {
     "description": "Terraform AliCloud provider",
@@ -20672,6 +21084,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-f10d7cf-250619T182259"
+  },
+  {
+    "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+    "name": "edge_tts_offline",
+    "pkg_id": "edge_tts_offline#github.com_hackers365_xiaozhi_esp32_server_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b03fd9e-250620T162834"
   },
   {
     "description": "Source code editor in pure Go.",
@@ -22635,6 +23060,19 @@
     "version": "HEAD-3ea9985-230821T171013"
   },
   {
+    "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+    "name": "exporter",
+    "pkg_id": "exporter#github.com_grafana_cloudcost_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9c8a05e-250620T094405"
+  },
+  {
     "description": "Hwameistor is an HA local storage system for cloud-native stateful workloads.",
     "name": "exporter",
     "pkg_id": "exporter#github.com_hwameistor_hwameistor",
@@ -24018,6 +24456,19 @@
     "version": "HEAD-dec14d6-250526T175720"
   },
   {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "fixed-value",
+    "pkg_id": "fixed-value#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
     "description": "[mirror] Go Tools",
     "name": "fiximports",
     "pkg_id": "fiximports#github.com_golang_tools",
@@ -24094,6 +24545,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-b583471-250620T140403"
+  },
+  {
+    "description": "Mirror of https://gitlab.com/hetznercloud/fleeting-plugin-hetzner",
+    "name": "fleeting-plugin-hetzner",
+    "pkg_id": "fleeting-plugin-hetzner#github.com_hetznercloud_fleeting_plugin_hetzner",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-34055b5-250620T075811"
   },
   {
     "description": "Builders and buildpacks designed to run on Google Cloud_s container platforms",
@@ -24662,6 +25126,19 @@
     "version": "HEAD-5290649-250619T134116"
   },
   {
+    "description": "A short link service system suitable for small and medium-sized community websites. supports short link production, query and 302 redirection, and comes with click statistics, independent IP statistics and access logs.",
+    "name": "front",
+    "pkg_id": "front#github.com_houseme_url_shortenter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-38d6a89-250620T161226"
+  },
+  {
     "description": "📦 Produce secure packages and containers with declarative configurations",
     "name": "frontend",
     "pkg_id": "frontend#github.com_Azure_dalec",
@@ -24874,7 +25351,9 @@
     "pkg_id": "functiondiff#github.com_go_graphite_carbonapi",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-3ff3820-250620T094802"
@@ -25817,6 +26296,19 @@
     "version": "HEAD-389ef75-250430T124644"
   },
   {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "gce-mig",
+    "pkg_id": "gce-mig#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
     "description": "Connect, secure, control, and observe services.",
     "name": "gce_metadata_server",
     "pkg_id": "gce_metadata_server#github.com_istio_istio",
@@ -25879,6 +26371,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-39cdd1a-250619T224809"
+  },
+  {
+    "description": "Prometheus Exporter for Cloud Provider agnostic cost metrics",
+    "name": "gcp-fetch-skus",
+    "pkg_id": "gcp-fetch-skus#github.com_grafana_cloudcost_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9c8a05e-250620T094405"
   },
   {
     "description": "A user-space file system for interacting with Google Cloud Storage",
@@ -26372,6 +26877,7 @@
     "name": "gen-docs",
     "pkg_id": "gen-docs#github.com_gl_cli_glab",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -26482,6 +26988,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7d394c9-250619T220346"
+  },
+  {
+    "description": "A simple and easy to use Prometheus exporter for Starlink dishy metrics",
+    "name": "gen-metrics",
+    "pkg_id": "gen-metrics#github.com_joshuasing_starlink_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-75e4976-250620T222511"
   },
   {
     "description": "Test infrastructure for the Kubernetes project.",
@@ -27545,6 +28064,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-a9b67a6-250618T170227"
+  },
+  {
+    "description": "Crossplane provider for ionos-cloud based on terraform provider",
+    "name": "generator",
+    "pkg_id": "generator#github.com_ionos_cloud_provider_upjet_ionoscloud",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-adf8292-250620T135035"
   },
   {
     "description": "No Description Provided",
@@ -29863,6 +30395,7 @@
     "name": "glab",
     "pkg_id": "glab#github.com_gl_cli_glab",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -33706,6 +34239,19 @@
     "version": "HEAD-e504d8b-250511T163326"
   },
   {
+    "description": "Gravitee Operator for Kubernetes _GKO_",
+    "name": "gravitee-kubernetes-operator",
+    "pkg_id": "gravitee-kubernetes-operator#github.com_gravitee_io_gravitee_kubernetes_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c56b93c-250620T124134"
+  },
+  {
     "description": "CPU ray tracing in Go",
     "name": "grayt",
     "pkg_id": "grayt#github.com_deosjr_GRayT",
@@ -34221,6 +34767,19 @@
     "version": "HEAD-e74af5a-250619T175028"
   },
   {
+    "description": "Operator for provisioning resources _Postgres, Redis etc_ in-cluster or via cloud providers",
+    "name": "hack",
+    "pkg_id": "hack#github.com_integr8ly_cloud_resource_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b8db5c9-250620T131955"
+  },
+  {
     "description": "No Description Provided",
     "name": "hack",
     "pkg_id": "hack#github.com_kubearchive_kubearchive",
@@ -34376,6 +34935,19 @@
     "version": "HEAD-6375564-241015T100855"
   },
   {
+    "description": "Manage all your domain names in one place _mirror of framagit.org/happyDomain/happydomain_",
+    "name": "happydomain",
+    "pkg_id": "happydomain#github.com_happyDomain_happydomain",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cf3fe67-250620T115550"
+  },
+  {
     "description": "[Sandbox] Official Harbor CLI",
     "name": "harbor",
     "pkg_id": "harbor#github.com_goharbor_harbor_cli",
@@ -34411,6 +34983,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1aedbc7-181028T223042"
+  },
+  {
+    "description": "Go Client Library for HARICA API",
+    "name": "harica",
+    "pkg_id": "harica#github.com_hm_edu_harica",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-acfb9e1-250620T095243"
   },
   {
     "description": "Open-metrics endpoint for ONTAP and StorageGRID",
@@ -34490,6 +35075,32 @@
     "version": "HEAD-d608b50-250620T162435"
   },
   {
+    "description": "HCL is the HashiCorp configuration language.",
+    "name": "hcldec",
+    "pkg_id": "hcldec#github.com_hashicorp_hcl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6b5c4c2-250603T094700"
+  },
+  {
+    "description": "HCL is the HashiCorp configuration language.",
+    "name": "hclfmt",
+    "pkg_id": "hclfmt#github.com_hashicorp_hcl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6b5c4c2-250603T094700"
+  },
+  {
     "description": "Kubernetes cloud-controller-manager for Hetzner Cloud",
     "name": "hcloud-cloud-controller-manager",
     "pkg_id": "hcloud-cloud-controller-manager#github.com_hetznercloud_hcloud_cloud_controller_manager",
@@ -34501,6 +35112,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-31e0331-250619T215109"
+  },
+  {
+    "description": "HCL is the HashiCorp configuration language.",
+    "name": "hclspecsuite",
+    "pkg_id": "hclspecsuite#github.com_hashicorp_hcl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6b5c4c2-250603T094700"
   },
   {
     "description": "Various tools, trinkets and experiments",
@@ -36844,6 +37468,19 @@
     "version": "HEAD-df6bd02-250606T101739"
   },
   {
+    "description": "INternal CA is an API around Certificate Authority flows to handle internal and global certificates at ease",
+    "name": "inca",
+    "pkg_id": "inca#github.com_immobiliare_inca",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d609d17-250620T073232"
+  },
+  {
     "description": "Couchbase client in Go",
     "name": "incr",
     "pkg_id": "incr#github.com_couchbase_go_couchbase",
@@ -37951,6 +38588,45 @@
     "version": "HEAD-d910512-250611T193517"
   },
   {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "irictl-bucket",
+    "pkg_id": "irictl-bucket#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "irictl-machine",
+    "pkg_id": "irictl-machine#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "irictl-volume",
+    "pkg_id": "irictl-volume#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
     "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
     "name": "iris",
     "pkg_id": "iris#github.com_gorgonia_gorgonia",
@@ -37960,6 +38636,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d7a3ce2-231013T111305"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "ironcore-apiserver",
+    "pkg_id": "ironcore-apiserver#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "ironcore-controller-manager",
+    "pkg_id": "ironcore-controller-manager#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
   },
   {
     "description": "Go SDK library and RPC client for the Solana Blockchain",
@@ -38428,6 +39130,19 @@
     "version": "HEAD-7e6332f-250619T133629"
   },
   {
+    "description": "💼 Finding jobs with a CLI made easy.",
+    "name": "job-hunter-toolkit",
+    "pkg_id": "job-hunter-toolkit#github.com_job_hunter_toolkit_job_hunter_toolkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-be41b5d-250620T102326"
+  },
+  {
     "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
     "name": "job-publisher",
     "pkg_id": "job-publisher#github.com_dapr_dapr",
@@ -38801,6 +39516,19 @@
     "version": "HEAD-1e33b46-250619T103003"
   },
   {
+    "description": "JuiceFS CSI Driver",
+    "name": "juicefs-csi-driver-cmd",
+    "pkg_id": "juicefs-csi-driver-cmd#github.com_juicedata_juicefs_csi_driver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bc19f71-250620T151958"
+  },
+  {
     "description": "Adds HostToContainer to JuiceFS Volumes",
     "name": "juicefs-volume-hook",
     "pkg_id": "juicefs-volume-hook#github.com_breuerfelix_juicefs_volume_hook",
@@ -39111,6 +39839,18 @@
     "version": "HEAD-5947876-250611T061702"
   },
   {
+    "description": "Automatic SRE Superpowers within your Kubernetes cluster",
+    "name": "k8sgpt-operator",
+    "pkg_id": "k8sgpt-operator#github.com_k8sgpt_ai_k8sgpt_operator",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-f743316-250620T115716"
+  },
+  {
     "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
     "name": "k9s",
     "pkg_id": "k9s#github.com_derailed_k9s",
@@ -39347,6 +40087,32 @@
     "version": "HEAD-8949d1b-230303T140501"
   },
   {
+    "description": "ID generator server",
+    "name": "katsubushi",
+    "pkg_id": "katsubushi#github.com_kayac_go_katsubushi",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-56045e1-250620T224716"
+  },
+  {
+    "description": "ID generator server",
+    "name": "katsubushi-dump",
+    "pkg_id": "katsubushi-dump#github.com_kayac_go_katsubushi",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-56045e1-250620T224716"
+  },
+  {
     "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
     "name": "katzencat",
     "pkg_id": "katzencat#github.com_katzenpost_katzenpost",
@@ -39392,6 +40158,16 @@
     "version": "HEAD-8e34326-250616T111821"
   },
   {
+    "description": "Keboola Connection project as definition files.",
+    "name": "kbc",
+    "pkg_id": "kbc#github.com_keboola_keboola_as_code",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fcccad6-250620T125825"
+  },
+  {
     "description": "Terminal game to practice keyboard typing",
     "name": "kboard",
     "pkg_id": "kboard#github.com_CamiloGarciaLaRotta_kboard",
@@ -39414,6 +40190,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-adc21d3-200103T172603"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "kcm",
+    "pkg_id": "kcm#github.com_k0rdent_kcm",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8628f35-250620T151107"
   },
   {
     "description": "An open source platform for managing and analyzing biomedical big data",
@@ -42489,6 +43277,32 @@
     "version": "HEAD-5290649-250619T134116"
   },
   {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "machinebroker",
+    "pkg_id": "machinebroker#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "machinepoollet",
+    "pkg_id": "machinepoollet#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
     "description": "An interesting executable file parsing library written by Golang",
     "name": "machoview",
     "pkg_id": "machoview#github.com_fcharlie_buna",
@@ -43075,6 +43889,32 @@
     "version": "HEAD-d19e56e-250620T102335"
   },
   {
+    "description": "Kubernetes operator for automating bare metal server discovery and provisioning",
+    "name": "manager",
+    "pkg_id": "manager#github.com_ironcore_dev_metal_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c002f2e-250620T092732"
+  },
+  {
+    "description": "A set of Kubernetes controllers to manage your OpenStack infrastructure",
+    "name": "manager",
+    "pkg_id": "manager#github.com_k_orc_openstack_resource_controller",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1a4affd-250620T090914"
+  },
+  {
     "description": "golang 版本 的 pttbbs _https://github.com/ptt/pttbbs_",
     "name": "mandloadmanarticles",
     "pkg_id": "mandloadmanarticles#github.com_Ptt_official_app_go_pttbbs",
@@ -43494,6 +44334,19 @@
     "version": "HEAD-68f1d43-250524T220212"
   },
   {
+    "description": "Routes Minecraft client connections to backend servers based upon the requested server address",
+    "name": "mc-router",
+    "pkg_id": "mc-router#github.com_itzg_mc_router",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-122910c-250620T073340"
+  },
+  {
     "description": "No Description Provided",
     "name": "mcing-agent",
     "pkg_id": "mcing-agent#github.com_kmdkuk_MCing.git",
@@ -43620,6 +44473,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b9116d5-250617T204523"
+  },
+  {
+    "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+    "name": "mcp_client_over_websocket",
+    "pkg_id": "mcp_client_over_websocket#github.com_hackers365_xiaozhi_esp32_server_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b03fd9e-250620T162834"
+  },
+  {
+    "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+    "name": "mcp_server_over_websocket",
+    "pkg_id": "mcp_server_over_websocket#github.com_hackers365_xiaozhi_esp32_server_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b03fd9e-250620T162834"
   },
   {
     "description": "No Description Provided",
@@ -44066,6 +44945,32 @@
     "version": "HEAD-744de02-250618T190637"
   },
   {
+    "description": "Kubernetes operator for automating bare metal server discovery and provisioning",
+    "name": "metalctl",
+    "pkg_id": "metalctl#github.com_ironcore_dev_metal_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c002f2e-250620T092732"
+  },
+  {
+    "description": "Kubernetes operator for automating bare metal server discovery and provisioning",
+    "name": "metalprobe",
+    "pkg_id": "metalprobe#github.com_ironcore_dev_metal_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c002f2e-250620T092732"
+  },
+  {
     "description": "RocksDB/LevelDB inspired key-value database in Go",
     "name": "metarunner",
     "pkg_id": "metarunner#github.com_cockroachdb_pebble",
@@ -44477,6 +45382,19 @@
     "version": "HEAD-2788339-250425T131427"
   },
   {
+    "description": "No Description Provided",
+    "name": "migrate",
+    "pkg_id": "migrate#github.com_grafana_mimir_prometheus",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cef71b8-250620T140335"
+  },
+  {
     "description": "Provision remote development environments via Terraform",
     "name": "migrate-ci",
     "pkg_id": "migrate-ci#github.com_coder_coder",
@@ -44527,6 +45445,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-511fd09-250619T133251"
+  },
+  {
+    "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "name": "migrating-from-standard-pprof",
+    "pkg_id": "migrating-from-standard-pprof#github.com_grafana_pyroscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-06bcfc6-250620T201508"
   },
   {
     "description": "Terraform AliCloud provider",
@@ -45205,7 +46136,9 @@
     "pkg_id": "mockbackend#github.com_go_graphite_carbonapi",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-3ff3820-250620T094802"
@@ -45430,6 +46363,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-b8561e1-250620T131420"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "models-schema",
+    "pkg_id": "models-schema#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
+    "description": "A set of Kubernetes controllers to manage your OpenStack infrastructure",
+    "name": "models-schema",
+    "pkg_id": "models-schema#github.com_k_orc_openstack_resource_controller",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1a4affd-250620T090914"
   },
   {
     "description": "Canonical location of the OpenShift API definition.",
@@ -45894,6 +46853,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-8d04e7a-250620T161109"
+  },
+  {
+    "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+    "name": "mqtt",
+    "pkg_id": "mqtt#github.com_hackers365_xiaozhi_esp32_server_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b03fd9e-250620T162834"
   },
   {
     "description": "Scalable distributed log storage for strong consistency, total order, and high availability",
@@ -47186,6 +48158,32 @@
     "version": "HEAD-c8dcd3c-250619T134806"
   },
   {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "nomad",
+    "pkg_id": "nomad#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "nomad-autoscaler",
+    "pkg_id": "nomad-autoscaler#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
     "description": "A nomad task driver plugin for sandboxing workloads in podman containers",
     "name": "nomad-driver-podman",
     "pkg_id": "nomad-driver-podman#github.com_hashicorp_nomad_driver_podman",
@@ -48293,6 +49291,19 @@
     "version": "HEAD-2af742b-250620T113157"
   },
   {
+    "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "name": "operator",
+    "pkg_id": "operator#github.com_kedacore_keda",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-30a37e6-250620T123151"
+  },
+  {
     "description": "Kubernetes operator for Victoria Metrics",
     "name": "operator-cmd",
     "pkg_id": "operator-cmd#github.com_VictoriaMetrics_operator",
@@ -48430,6 +49441,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-36b1a5a-250423T220833"
+  },
+  {
+    "description": "Bridge between OTel and KEDA api",
+    "name": "otel-add-on",
+    "pkg_id": "otel-add-on#github.com_kedify_otel_add_on",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8ecff5e-250620T124031"
   },
   {
     "description": "OpenTelemetry Collector distribution with programmable pipelines",
@@ -48665,6 +49689,19 @@
     "version": "HEAD-4cd7ad4-250617T092209"
   },
   {
+    "description": "Packer plugin for Google Compute Builder",
+    "name": "packer-plugin-googlecompute",
+    "pkg_id": "packer-plugin-googlecompute#github.com_hashicorp_packer_plugin_googlecompute",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-33275c6-250620T133021"
+  },
+  {
     "description": "The simple and easy way to embed static files into Go binaries.",
     "name": "packr",
     "pkg_id": "packr#github.com_gobuffalo_packr",
@@ -48846,6 +49883,19 @@
     "version": "HEAD-ec0dd01-250607T214233"
   },
   {
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "name": "parquetquerygen",
+    "pkg_id": "parquetquerygen#github.com_grafana_tempo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bec9da5-250620T143114"
+  },
+  {
     "description": "A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere.",
     "name": "parse",
     "pkg_id": "parse#github.com_cogentcore_core",
@@ -48985,6 +50035,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-7b5fca5-250618T074443"
+  },
+  {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "pass-through",
+    "pkg_id": "pass-through#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
   },
   {
     "description": "Password Breach API Server",
@@ -50688,6 +51751,19 @@
     "version": "HEAD-3532c16-250331T163101"
   },
   {
+    "description": "simple Go framework",
+    "name": "prago",
+    "pkg_id": "prago#github.com_hypertornado_prago",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cc24c06-250620T150755"
+  },
+  {
     "description": "No Description Provided",
     "name": "predator-plugin",
     "pkg_id": "predator-plugin#github.com_koderover_zadig.git",
@@ -51046,6 +52122,19 @@
     "version": "HEAD-b333f9e-250506T205336"
   },
   {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "product_lister",
+    "pkg_id": "product_lister#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
     "description": "GameBoy Color emulator written in Go.",
     "name": "profile",
     "pkg_id": "profile#github.com_akatsuki105_dawngb",
@@ -51096,6 +52185,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-18e8a01-250327T083545"
+  },
+  {
+    "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "name": "profilecli",
+    "pkg_id": "profilecli#github.com_grafana_pyroscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-06bcfc6-250620T201508"
   },
   {
     "description": "Using either Markdown or Programmatically to generate trees🌳 and directories📁, and to verify directories🔍. Provide CLI, Go package and Web.",
@@ -51174,6 +52276,45 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-062df5d-250619T095440"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "prometheus",
+    "pkg_id": "prometheus#github.com_grafana_mimir_prometheus",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cef71b8-250620T140335"
+  },
+  {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "prometheus",
+    "pkg_id": "prometheus#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "promtool",
+    "pkg_id": "promtool#github.com_grafana_mimir_prometheus",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cef71b8-250620T140335"
   },
   {
     "description": "Zero-Admin 是一套基于 go-zero 框架实现的电商系统的后端服务",
@@ -52303,6 +53444,19 @@
     "version": "HEAD-8cd7e35-230923T220632"
   },
   {
+    "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+    "name": "purls_searcher",
+    "pkg_id": "purls_searcher#github.com_gocsaf_csaf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ce886f1-250620T085950"
+  },
+  {
     "description": "A collection of test cases for all 01-edu projects. Each project has a .txt file containing tests for various scenarios, which are progressively added as each project is completed. Ideal for ensuring correctness and handling edge cases.",
     "name": "push-swap",
     "pkg_id": "push-swap#github.com_hmaach_01edu_tests",
@@ -52416,6 +53570,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6d5c2c1-250611T183501"
+  },
+  {
+    "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "name": "pyroscope",
+    "pkg_id": "pyroscope#github.com_grafana_pyroscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-06bcfc6-250620T201508"
+  },
+  {
+    "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "name": "pyroscope-tools",
+    "pkg_id": "pyroscope-tools#github.com_grafana_pyroscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-06bcfc6-250620T201508"
   },
   {
     "description": "Browser based user interface for the Go source code guru",
@@ -54486,6 +55666,19 @@
     "version": "HEAD-96ffe3f-250620T084954"
   },
   {
+    "description": "A set of Kubernetes controllers to manage your OpenStack infrastructure",
+    "name": "resource-generator",
+    "pkg_id": "resource-generator#github.com_k_orc_openstack_resource_controller",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1a4affd-250620T090914"
+  },
+  {
     "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
     "name": "resource-group",
     "pkg_id": "resource-group#github.com_GoogleContainerTools_kpt_config_sync",
@@ -55992,6 +57185,18 @@
     "version": "HEAD-3ef3d87-250619T151831"
   },
   {
+    "description": "The Sail Operator is able to install and manage the lifecycle of the Istio control plane in an Kubernetes _ OpenShift cluster.",
+    "name": "sail-operator-cmd",
+    "pkg_id": "sail-operator-cmd#github.com_istio_ecosystem_sail_operator",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b22ae1e-250620T072710"
+  },
+  {
     "description": ":robot: task runner for local and remote hosts",
     "name": "sake",
     "pkg_id": "sake#github.com_alajmo_sake",
@@ -56325,6 +57530,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-46c6d8d-250618T074436"
+  },
+  {
+    "description": "A short link service system suitable for small and medium-sized community websites. supports short link production, query and 302 redirection, and comes with click statistics, independent IP statistics and access logs.",
+    "name": "schedule",
+    "pkg_id": "schedule#github.com_houseme_url_shortenter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-38d6a89-250620T161226"
   },
   {
     "description": "_Golang_ Go bindings for Discord",
@@ -56966,6 +58184,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-08f1169-250417T092212"
+  },
+  {
+    "description": "A simple and easy to use Prometheus exporter for Starlink dishy metrics",
+    "name": "scripts",
+    "pkg_id": "scripts#github.com_joshuasing_starlink_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-75e4976-250620T222511"
   },
   {
     "description": "runn is a package/tool for running operations following a scenario.",
@@ -57937,6 +59168,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-065d6dd-250619T164451"
+  },
+  {
+    "description": "A short link service system suitable for small and medium-sized community websites. supports short link production, query and 302 redirection, and comes with click statistics, independent IP statistics and access logs.",
+    "name": "server",
+    "pkg_id": "server#github.com_houseme_url_shortenter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-38d6a89-250620T161226"
   },
   {
     "description": "Connect, secure, control, and observe services.",
@@ -59260,6 +60504,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1bba70f-250613T162055"
+  },
+  {
+    "description": "Secure SMTP on the horizon 📮",
+    "name": "skyline",
+    "pkg_id": "skyline#github.com_kartverket_skyline",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-88c9259-250620T094229"
   },
   {
     "description": "A full-featured license tool to check and fix license headers and resolve dependencies_ licenses.",
@@ -60967,6 +62224,19 @@
     "version": "HEAD-8bf3613-250611T020032"
   },
   {
+    "description": "A simple and easy to use Prometheus exporter for Starlink dishy metrics",
+    "name": "starlink_exporter",
+    "pkg_id": "starlink_exporter#github.com_joshuasing_starlink_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-75e4976-250620T222511"
+  },
+  {
     "description": "Create your own Awesome List by GitHub stars!",
     "name": "starred",
     "pkg_id": "starred#github.com_juev_starred",
@@ -61494,6 +62764,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-80de0b3-250619T133818"
+  },
+  {
+    "description": "Keboola Connection project as definition files.",
+    "name": "stream",
+    "pkg_id": "stream#github.com_keboola_keboola_as_code",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fcccad6-250620T125825"
   },
   {
     "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
@@ -62025,6 +63305,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-c99f9b9-250215T142555"
+  },
+  {
+    "description": "ION Connect node.",
+    "name": "subzero-ion-connect-authgen",
+    "pkg_id": "subzero-ion-connect-authgen#github.com_ice_blockchain_subzero",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2260f0e-250620T142428"
+  },
+  {
+    "description": "ION Connect node.",
+    "name": "subzero-ion-connect-keygen",
+    "pkg_id": "subzero-ion-connect-keygen#github.com_ice_blockchain_subzero",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2260f0e-250620T142428"
   },
   {
     "description": "Embeddable and distributed in-memory alternative to Redis.",
@@ -62704,6 +64010,19 @@
     "version": "HEAD-f08980f-200526T124826"
   },
   {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "target-value",
+    "pkg_id": "target-value#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
     "description": "A task runner / simpler Make alternative written in Go",
     "name": "task",
     "pkg_id": "task#github.com_go_task_task",
@@ -63089,6 +64408,16 @@
     "version": "20250620T150531"
   },
   {
+    "description": "Keboola Connection project as definition files.",
+    "name": "templates-api",
+    "pkg_id": "templates-api#github.com_keboola_keboola_as_code",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fcccad6-250620T125825"
+  },
+  {
     "description": "The UI Kit for templ",
     "name": "templui",
     "pkg_id": "templui#github.com_axzilla_templui",
@@ -63100,6 +64429,58 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-551566f-250615T130729"
+  },
+  {
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "name": "tempo",
+    "pkg_id": "tempo#github.com_grafana_tempo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bec9da5-250620T143114"
+  },
+  {
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "name": "tempo-cli",
+    "pkg_id": "tempo-cli#github.com_grafana_tempo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bec9da5-250620T143114"
+  },
+  {
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "name": "tempo-query",
+    "pkg_id": "tempo-query#github.com_grafana_tempo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bec9da5-250620T143114"
+  },
+  {
+    "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+    "name": "tempo-vulture",
+    "pkg_id": "tempo-vulture#github.com_grafana_tempo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bec9da5-250620T143114"
   },
   {
     "description": "A fast script language for Go",
@@ -63242,6 +64623,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-0ee9eaf-250610T111927"
+  },
+  {
+    "description": "OpenAPI to Terraform Provider Code Generation Specification",
+    "name": "terraform-plugin-codegen-openapi",
+    "pkg_id": "terraform-plugin-codegen-openapi#github.com_hashicorp_terraform_plugin_codegen_openapi",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c0163c9-250620T095212"
+  },
+  {
+    "description": "Generate and validate Terraform plugin/provider documentation.",
+    "name": "terraform-plugin-docs",
+    "pkg_id": "terraform-plugin-docs#github.com_hashicorp_terraform_plugin_docs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9ff8b91-250620T093816"
   },
   {
     "description": "Aiven Terraform Provider",
@@ -63476,6 +64883,19 @@
     "version": "HEAD-312a703-250619T143054"
   },
   {
+    "description": "Utility provider that exposes the cloudinit_config data source which renders a multipart MIME configuration for use with cloud-init _previously available as the template_cloudinit_config resource in the template provider_",
+    "name": "terraform-provider-cloudinit",
+    "pkg_id": "terraform-provider-cloudinit#github.com_hashicorp_terraform_provider_cloudinit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c0a638f-250620T131331"
+  },
+  {
     "description": "No Description Provided",
     "name": "terraform-provider-coder",
     "pkg_id": "terraform-provider-coder#github.com_coder_terraform_provider_coder",
@@ -63617,6 +65037,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d14e20d-250619T102656"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "terraform-provider-kestra",
+    "pkg_id": "terraform-provider-kestra#github.com_kestra_io_terraform_provider_kestra",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-744d192-250620T121009"
+  },
+  {
+    "description": "Terraform provider for Keycloak",
+    "name": "terraform-provider-keycloak",
+    "pkg_id": "terraform-provider-keycloak#github.com_keycloak_terraform_provider_keycloak",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-304e2fb-250620T152451"
   },
   {
     "description": "Terraform MAAS provider",
@@ -63954,6 +65400,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-15617db-250619T172743"
+  },
+  {
+    "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+    "name": "test",
+    "pkg_id": "test#github.com_hackers365_xiaozhi_esp32_server_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b03fd9e-250620T162834"
+  },
+  {
+    "description": "INternal CA is an API around Certificate Authority flows to handle internal and global certificates at ease",
+    "name": "test",
+    "pkg_id": "test#github.com_immobiliare_inca",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d609d17-250620T073232"
   },
   {
     "description": "Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.",
@@ -65104,6 +66576,19 @@
     "version": "HEAD-6e8fa27-250524T141924"
   },
   {
+    "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+    "name": "threshold",
+    "pkg_id": "threshold#github.com_hashicorp_nomad_autoscaler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4b87659-250620T142927"
+  },
+  {
     "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
     "name": "thrift_serialize",
     "pkg_id": "thrift_serialize#github.com_influxdata_telegraf",
@@ -65895,6 +67380,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-aec4a4a-250616T172049"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "topohub",
+    "pkg_id": "topohub#github.com_infrastructure_io_topohub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-103d71e-250620T170723"
   },
   {
     "description": "The Fabric Token SDK provides a collection of APIs and services that streamline development for token-based distributed applications.",
@@ -67243,6 +68741,19 @@
     "version": "20250620T150531"
   },
   {
+    "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "name": "update-contributors",
+    "pkg_id": "update-contributors#github.com_grafana_pyroscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-06bcfc6-250620T201508"
+  },
+  {
     "description": "The modern cryptocurrency trading bot framework written in Go.",
     "name": "update-doc",
     "pkg_id": "update-doc#github.com_c9s_bbgo",
@@ -68207,6 +69718,19 @@
     "version": "HEAD-559d02b-250619T121245"
   },
   {
+    "description": "Helm-like configuration values loader with support for various sources",
+    "name": "vals",
+    "pkg_id": "vals#github.com_helmfile_vals",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-44fe351-250620T204055"
+  },
+  {
     "description": "Hey 👋, I_m Vanessa!",
     "name": "vanessa219",
     "pkg_id": "vanessa219#github.com_Vanessa219_Vanessa219",
@@ -68824,6 +70348,19 @@
     "version": "HEAD-6b1acb1-250619T193903"
   },
   {
+    "description": "golang版本的小智后端服务，支持websocket和mqtt+udp",
+    "name": "vllm",
+    "pkg_id": "vllm#github.com_hackers365_xiaozhi_esp32_server_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b03fd9e-250620T162834"
+  },
+  {
     "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
     "name": "vlogscli",
     "pkg_id": "vlogscli#github.com_VictoriaMetrics_VictoriaMetrics",
@@ -69013,6 +70550,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e6c7a36-250418T105828"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "volumebroker",
+    "pkg_id": "volumebroker#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
+  },
+  {
+    "description": "Cloud Native Infrastructure as a Service",
+    "name": "volumepoollet",
+    "pkg_id": "volumepoollet#github.com_ironcore_dev_ironcore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6c985df-250620T100354"
   },
   {
     "description": "Go SDK library and RPC client for the Solana Blockchain",
@@ -70391,6 +71954,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b28dd99-240131T180640"
+  },
+  {
+    "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "name": "webhooks",
+    "pkg_id": "webhooks#github.com_kedacore_keda",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-30a37e6-250620T123151"
   },
   {
     "description": "Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!",
@@ -71943,6 +73519,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7d85f3b-230309T114007"
+  },
+  {
+    "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+    "name": "yaml-to-json",
+    "pkg_id": "yaml-to-json#github.com_grafana_pyroscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-06bcfc6-250620T201508"
   },
   {
     "description": "CSI driver for Ceph",
