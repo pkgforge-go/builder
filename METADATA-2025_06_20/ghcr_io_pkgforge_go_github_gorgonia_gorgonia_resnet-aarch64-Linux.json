@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "resnet",
+  "pkg_family": "gorgonia",
+  "pkg_id": "resnet#github.com_gorgonia_gorgonia",
+  "pkg_name": "resnet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gorgonia/gorgonia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
+  "homepage": [
+    "https://github.com/gorgonia/gorgonia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "286",
+    "charrnn",
+    "cmd",
+    "convnet",
+    "genapi",
+    "gencudaengine",
+    "iris",
+    "logisticregression",
+    "resnet",
+    "tiny-yolo-v2-coco",
+    "tiny-yolo-v3-coco"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gorgonia/gorgonia/archive/d7a3ce27c9a1ffbee531d7850485229584db8d97.tar.gz"
+  ],
+  "tag": [
+    "artificial-intelligence",
+    "automatic-differentiation",
+    "computation-graph",
+    "deep-learning",
+    "deep-neural-networks",
+    "deeplearning",
+    "differentiation",
+    "go",
+    "golang",
+    "gorgonia",
+    "gradient-descent",
+    "graph-computation",
+    "hacktoberfest",
+    "machine-learning",
+    "neural-network",
+    "symbolic-differentiation"
+  ],
+  "version": "HEAD-d7a3ce2-231013T111305",
+  "version_upstream": "v0.9.18",
+  "bsum": "e96eb68b8bc8e6b5dceb5fe011a541e0c4ed587c242ffe80bf02e2be0a74d3c2",
+  "build_date": "2025-06-20T04:40:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771108661",
+  "build_id": "15771108661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gorgonia/gorgonia/resnet?tag=HEAD-d7a3ce2-231013T111305-aarch64-Linux&download=resnet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5788",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gorgonia/gorgonia/resnet?tag=HEAD-d7a3ce2-231013T111305-aarch64-Linux&download=resnet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gorgonia/gorgonia/resnet:HEAD-d7a3ce2-231013T111305-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gorgonia/gorgonia/resnet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gorgonia/gorgonia/resnet?tag=HEAD-d7a3ce2-231013T111305-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0cca5b5487089ff6e052cf3cfdc4e351d82865f5ca411f34d22eea5bd92ec156",
+  "size": "19 MB",
+  "size_raw": "19159296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
