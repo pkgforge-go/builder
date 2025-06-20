@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prometheus",
+  "pkg_family": "nomad-autoscaler",
+  "pkg_id": "prometheus#github.com_hashicorp_nomad_autoscaler",
+  "pkg_name": "prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/nomad-autoscaler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+  "homepage": [
+    "https://github.com/hashicorp/nomad-autoscaler"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-asg",
+    "azure-vmss",
+    "datadog",
+    "fixed-value",
+    "gce-mig",
+    "nomad",
+    "nomad-autoscaler",
+    "pass-through",
+    "prometheus",
+    "target-value",
+    "threshold"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/nomad-autoscaler/archive/4b87659d7ca8462ac2b92ca13bedf902d9577d09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b87659-250620T142927",
+  "version_upstream": "",
+  "bsum": "651274fd67db5b9750c929a076a682f1ea29e72dcc858c037d312989d80d9e00",
+  "build_date": "2025-06-20T18:55:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784644626",
+  "build_id": "15784644626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/prometheus?tag=HEAD-4b87659-250620T142927-x86_64-Linux&download=prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/prometheus?tag=HEAD-4b87659-250620T142927-x86_64-Linux&download=prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/prometheus:HEAD-4b87659-250620T142927-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/prometheus?tag=HEAD-4b87659-250620T142927-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e6222b41c0af90cd9d74b46b232f149ac2b92f9bb92bd2160b902b2635734d5",
+  "size": "16 MB",
+  "size_raw": "16016576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
