@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rnnlm_gen",
+  "pkg_family": "neu",
+  "pkg_id": "rnnlm_gen#github.com_itsubaki_neu",
+  "pkg_name": "rnnlm_gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsubaki/neu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deep Learning framework for Go from scratch",
+  "homepage": [
+    "https://github.com/itsubaki/neu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cbow",
+    "cbow_negative_sampling",
+    "dqn",
+    "mnist",
+    "rnnlm",
+    "rnnlm_gen",
+    "rnnlm_gru",
+    "rnnlm_lstm",
+    "seq2seq",
+    "seq2seq_attention"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsubaki/neu/archive/3617034e02e0e394ea651c9c96417f9867b82b73.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "deep-q-network",
+    "machine-learning"
+  ],
+  "version": "HEAD-3617034-250518T095049",
+  "version_upstream": "",
+  "bsum": "d3b0c8d7ecf10a20390618de5d3734975bdda8e8ab3a4199bde1485efeee4d49",
+  "build_date": "2025-06-20T13:00:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779399586",
+  "build_id": "15779399586",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/rnnlm_gen?tag=HEAD-3617034-250518T095049-riscv64-Linux&download=rnnlm_gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/rnnlm_gen?tag=HEAD-3617034-250518T095049-riscv64-Linux&download=rnnlm_gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsubaki/neu/rnnlm_gen:HEAD-3617034-250518T095049-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsubaki/neu/rnnlm_gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/rnnlm_gen?tag=HEAD-3617034-250518T095049-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad573c69d155ee6f6ae2041c21d7b62f1d9117f26fa1da6f590b896fbc99a3a5",
+  "size": "2.4 MB",
+  "size_raw": "2474424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "seq2seq_attention",
+  "pkg_family": "neu",
+  "pkg_id": "seq2seq_attention#github.com_itsubaki_neu",
+  "pkg_name": "seq2seq_attention",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsubaki/neu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deep Learning framework for Go from scratch",
+  "homepage": [
+    "https://github.com/itsubaki/neu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cbow",
+    "cbow_negative_sampling",
+    "dqn",
+    "mnist",
+    "rnnlm",
+    "rnnlm_gen",
+    "rnnlm_gru",
+    "rnnlm_lstm",
+    "seq2seq",
+    "seq2seq_attention"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsubaki/neu/archive/3617034e02e0e394ea651c9c96417f9867b82b73.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "deep-q-network",
+    "machine-learning"
+  ],
+  "version": "HEAD-3617034-250518T095049",
+  "version_upstream": "",
+  "bsum": "5e13a6068a817474744165193beaa4bedd17f96181fbbd88c3f7e5ed5e6341c0",
+  "build_date": "2025-06-20T12:59:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779399586",
+  "build_id": "15779399586",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/seq2seq_attention?tag=HEAD-3617034-250518T095049-riscv64-Linux&download=seq2seq_attention.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/seq2seq_attention?tag=HEAD-3617034-250518T095049-riscv64-Linux&download=seq2seq_attention",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsubaki/neu/seq2seq_attention:HEAD-3617034-250518T095049-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsubaki/neu/seq2seq_attention",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/seq2seq_attention?tag=HEAD-3617034-250518T095049-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec03831f284c016f27e08f2dc918421b80ec4e856ecbe49ff348a41b40839060",
+  "size": "2.2 MB",
+  "size_raw": "2210712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

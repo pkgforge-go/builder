@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cbow_negative_sampling",
+  "pkg_family": "neu",
+  "pkg_id": "cbow_negative_sampling#github.com_itsubaki_neu",
+  "pkg_name": "cbow_negative_sampling",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsubaki/neu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deep Learning framework for Go from scratch",
+  "homepage": [
+    "https://github.com/itsubaki/neu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cbow",
+    "cbow_negative_sampling",
+    "dqn",
+    "mnist",
+    "rnnlm",
+    "rnnlm_gen",
+    "rnnlm_gru",
+    "rnnlm_lstm",
+    "seq2seq",
+    "seq2seq_attention"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsubaki/neu/archive/3617034e02e0e394ea651c9c96417f9867b82b73.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "deep-q-network",
+    "machine-learning"
+  ],
+  "version": "HEAD-3617034-250518T095049",
+  "version_upstream": "",
+  "bsum": "0f9daf3575a9ac2493356a974b905a8ff72d508192d5644842fb6da61e6fcd8a",
+  "build_date": "2025-06-20T12:59:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779399586",
+  "build_id": "15779399586",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/cbow_negative_sampling?tag=HEAD-3617034-250518T095049-riscv64-Linux&download=cbow_negative_sampling.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/cbow_negative_sampling?tag=HEAD-3617034-250518T095049-riscv64-Linux&download=cbow_negative_sampling",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsubaki/neu/cbow_negative_sampling:HEAD-3617034-250518T095049-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsubaki/neu/cbow_negative_sampling",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/cbow_negative_sampling?tag=HEAD-3617034-250518T095049-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "227e434eb1f9abacbb14a353c803af33a4e0d0ddf3670fc5fa91fee52c0f4223",
+  "size": "2.0 MB",
+  "size_raw": "2065784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
