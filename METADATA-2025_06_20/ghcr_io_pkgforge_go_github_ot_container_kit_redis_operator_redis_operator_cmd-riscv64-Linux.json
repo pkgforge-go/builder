@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "redis-operator-cmd",
+  "pkg_family": "redis-operator",
+  "pkg_id": "redis-operator-cmd#github.com_OT_CONTAINER_KIT_redis_operator",
+  "pkg_name": "redis-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OT-CONTAINER-KIT/redis-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.",
+  "homepage": [
+    "https://github.com/OT-CONTAINER-KIT/redis-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "metricsdocs",
+    "redis-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OT-CONTAINER-KIT/redis-operator/archive/4d200a3ea04bf3d1a5881ae7e7112f870a9ccfbb.tar.gz"
+  ],
+  "tag": [
+    "crd-controller",
+    "golang",
+    "hacktoberfest",
+    "hacktoberfest-accepted",
+    "helm",
+    "kubernetes",
+    "monitoring",
+    "openshift",
+    "operator",
+    "operator-framework",
+    "opstreesolutions",
+    "prometheus",
+    "redis",
+    "redis-cluster",
+    "redis-operator",
+    "redis-setup"
+  ],
+  "version": "HEAD-4d200a3-250620T201948",
+  "version_upstream": "",
+  "bsum": "cd9aa641eedd2f3a256d9c5273f92389df6c621617492ef323bb690bb2510a58",
+  "build_date": "2025-06-20T16:45:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782665261",
+  "build_id": "15782665261",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ot-container-kit/redis-operator/redis-operator-cmd?tag=HEAD-4d200a3-250620T201948-riscv64-Linux&download=redis-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "946",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ot-container-kit/redis-operator/redis-operator-cmd?tag=HEAD-4d200a3-250620T201948-riscv64-Linux&download=redis-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ot-container-kit/redis-operator/redis-operator-cmd:HEAD-4d200a3-250620T201948-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ot-container-kit/redis-operator/redis-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ot-container-kit/redis-operator/redis-operator-cmd?tag=HEAD-4d200a3-250620T201948-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c18ad821751d705e4047365e1dfe17b71e9214d689adb78f7a56c74d57232df7",
+  "size": "46 MB",
+  "size_raw": "47921816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

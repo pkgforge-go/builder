@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "metricsdocs",
+  "pkg_family": "redis-operator",
+  "pkg_id": "metricsdocs#github.com_OT_CONTAINER_KIT_redis_operator",
+  "pkg_name": "metricsdocs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OT-CONTAINER-KIT/redis-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.",
+  "homepage": [
+    "https://github.com/OT-CONTAINER-KIT/redis-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "metricsdocs",
+    "redis-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OT-CONTAINER-KIT/redis-operator/archive/4d200a3ea04bf3d1a5881ae7e7112f870a9ccfbb.tar.gz"
+  ],
+  "tag": [
+    "crd-controller",
+    "golang",
+    "hacktoberfest",
+    "hacktoberfest-accepted",
+    "helm",
+    "kubernetes",
+    "monitoring",
+    "openshift",
+    "operator",
+    "operator-framework",
+    "opstreesolutions",
+    "prometheus",
+    "redis",
+    "redis-cluster",
+    "redis-operator",
+    "redis-setup"
+  ],
+  "version": "HEAD-4d200a3-250620T201948",
+  "version_upstream": "",
+  "bsum": "cc51de438805d40b86786516b294328e694e4ffeef458ad21cf0dffa4515a9bd",
+  "build_date": "2025-06-20T16:45:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782665261",
+  "build_id": "15782665261",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ot-container-kit/redis-operator/metricsdocs?tag=HEAD-4d200a3-250620T201948-riscv64-Linux&download=metricsdocs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "946",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ot-container-kit/redis-operator/metricsdocs?tag=HEAD-4d200a3-250620T201948-riscv64-Linux&download=metricsdocs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ot-container-kit/redis-operator/metricsdocs:HEAD-4d200a3-250620T201948-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ot-container-kit/redis-operator/metricsdocs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ot-container-kit/redis-operator/metricsdocs?tag=HEAD-4d200a3-250620T201948-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1033fe58e3c80218309ab93cb23e9e3f6f7f78d2c75d85d3d75f8dc37f0d2840",
+  "size": "31 MB",
+  "size_raw": "32085336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
