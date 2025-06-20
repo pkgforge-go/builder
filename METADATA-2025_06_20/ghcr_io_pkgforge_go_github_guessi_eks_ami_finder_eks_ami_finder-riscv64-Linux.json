@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "eks-ami-finder",
+  "pkg_family": "eks-ami-finder",
+  "pkg_id": "eks-ami-finder#github.com_guessi_eks_ami_finder",
+  "pkg_name": "eks-ami-finder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/guessi/eks-ami-finder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Helper tool to find Amazon EKS optimized AMI IDs",
+  "homepage": [
+    "https://github.com/guessi/eks-ami-finder"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eks-ami-finder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/guessi/eks-ami-finder/archive/98c2a0e92f7834dae7f3ad5a46a4e60ee16f8253.tar.gz"
+  ],
+  "tag": [
+    "amazon-eks",
+    "golang"
+  ],
+  "version": "HEAD-98c2a0e-250620T100109",
+  "version_upstream": "v1.3.0",
+  "bsum": "c90cf77534003fc50174161ab75f0b5ec53196c766a3dae13494f591981a37fb",
+  "build_date": "2025-06-20T05:11:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771197480",
+  "build_id": "15771197480",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guessi/eks-ami-finder/eks-ami-finder?tag=HEAD-98c2a0e-250620T100109-riscv64-Linux&download=eks-ami-finder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guessi/eks-ami-finder/eks-ami-finder?tag=HEAD-98c2a0e-250620T100109-riscv64-Linux&download=eks-ami-finder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guessi/eks-ami-finder/eks-ami-finder:HEAD-98c2a0e-250620T100109-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guessi/eks-ami-finder/eks-ami-finder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guessi/eks-ami-finder/eks-ami-finder?tag=HEAD-98c2a0e-250620T100109-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45c5040bde59ae91b287eea041a7b9043da26931772848647b56f80abee40c2e",
+  "size": "37 MB",
+  "size_raw": "37851928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
