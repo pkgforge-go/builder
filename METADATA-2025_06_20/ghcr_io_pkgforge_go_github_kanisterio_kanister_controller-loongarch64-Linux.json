@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "kanister",
+  "pkg_id": "controller#github.com_kanisterio_kanister",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/ccab82b184a1988c9a5b6d369eeb9ebd31af7b3f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-ccab82b-250619T170847",
+  "version_upstream": "",
+  "bsum": "2c7acf9f735d155ae4b105fd8b3dbf26aafa8137350ae8a61f81df6d281631bc",
+  "build_date": "2025-06-20T14:33:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780305345",
+  "build_id": "15780305345",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-ccab82b-250619T170847-loongarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-ccab82b-250619T170847-loongarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/controller:HEAD-ccab82b-250619T170847-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-ccab82b-250619T170847-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f60cb5d61d768725ff2ad70be5ce7fe9a2bffe89b2084043922836962a21c76",
+  "size": "168 MB",
+  "size_raw": "176076704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
