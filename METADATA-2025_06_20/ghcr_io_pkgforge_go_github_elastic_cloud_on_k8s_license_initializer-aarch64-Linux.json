@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "license-initializer",
+  "pkg_family": "cloud-on-k8s",
+  "pkg_id": "license-initializer#github.com_elastic_cloud_on_k8s",
+  "pkg_name": "license-initializer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/cloud-on-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Elastic Cloud on Kubernetes",
+  "homepage": [
+    "https://github.com/elastic/cloud-on-k8s"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloud-on-k8s-cmd",
+    "cmd",
+    "deployer",
+    "license-initializer",
+    "licensing-info",
+    "reattach-pv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/cloud-on-k8s/archive/8aba7126a904cec6a66b87e2f05d91829d5cbffc.tar.gz"
+  ],
+  "tag": [
+    "elasticsearch",
+    "go",
+    "kibana",
+    "kubernetes",
+    "kubernetes-operators"
+  ],
+  "version": "HEAD-8aba712-250620T150851",
+  "version_upstream": "",
+  "bsum": "4de47b478a43bfa1985bbec1104fd5070d83d72f466fb920c50567d48f8564d3",
+  "build_date": "2025-06-20T18:01:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784203385",
+  "build_id": "15784203385",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloud-on-k8s/license-initializer?tag=HEAD-8aba712-250620T150851-aarch64-Linux&download=license-initializer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2728",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloud-on-k8s/license-initializer?tag=HEAD-8aba712-250620T150851-aarch64-Linux&download=license-initializer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/cloud-on-k8s/license-initializer:HEAD-8aba712-250620T150851-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/cloud-on-k8s/license-initializer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloud-on-k8s/license-initializer?tag=HEAD-8aba712-250620T150851-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45933faea7690cae7604fc96a23e01bfdf518d03e6d582d2a922fbe6fbd7c213",
+  "size": "11 MB",
+  "size_raw": "11271328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
