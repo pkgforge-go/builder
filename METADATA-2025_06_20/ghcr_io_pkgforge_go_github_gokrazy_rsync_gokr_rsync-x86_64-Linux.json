@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gokr-rsync",
+  "pkg_family": "rsync",
+  "pkg_id": "gokr-rsync#github.com_gokrazy_rsync",
+  "pkg_name": "gokr-rsync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gokrazy/rsync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "rsync in Go! implements client and server, which can send or receive files _upload, download, all directions supported_",
+  "homepage": [
+    "https://github.com/gokrazy/rsync"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gokr-rsync",
+    "gokr-rsyncd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gokrazy/rsync/archive/51d787319b388ce63f1b01464c2dde9bb7bcec83.tar.gz"
+  ],
+  "tag": [
+    "client",
+    "daemon",
+    "download",
+    "file-transfer",
+    "golang",
+    "network",
+    "protocol",
+    "receiver",
+    "rsync",
+    "sender",
+    "server",
+    "upload"
+  ],
+  "version": "HEAD-51d7873-250617T213506",
+  "version_upstream": "v0.2.10",
+  "bsum": "7aa62f0161c40b93781cd57e96134dacf4656b7b828064a0e1bb3dd5b8d351e5",
+  "build_date": "2025-06-20T03:55:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770271203",
+  "build_id": "15770271203",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gokrazy/rsync/gokr-rsync?tag=HEAD-51d7873-250617T213506-x86_64-Linux&download=gokr-rsync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gokrazy/rsync/gokr-rsync?tag=HEAD-51d7873-250617T213506-x86_64-Linux&download=gokr-rsync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gokrazy/rsync/gokr-rsync:HEAD-51d7873-250617T213506-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gokrazy/rsync/gokr-rsync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gokrazy/rsync/gokr-rsync?tag=HEAD-51d7873-250617T213506-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d58f288d2f448a599c0c19e7f40676faab90bbfd12be3aae70a54279a83f01a",
+  "size": "8.3 MB",
+  "size_raw": "8603008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
