@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "metrics-server",
+  "pkg_family": "metrics-server",
+  "pkg_id": "metrics-server#github.com_kubernetes_sigs_metrics_server",
+  "pkg_name": "metrics-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/metrics-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/metrics-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "metrics-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/metrics-server/archive/55b4961bc1eceffd0a37809dc271e9ae38de9deb.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-instrumentation"
+  ],
+  "version": "HEAD-55b4961-250620T023659",
+  "version_upstream": "",
+  "bsum": "a0bc4117e17d82d3e572ff19808cf46132c0ce03503abd0b2ad8896e8f24aec1",
+  "build_date": "2025-06-20T19:41:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785648146",
+  "build_id": "15785648146",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/metrics-server/metrics-server?tag=HEAD-55b4961-250620T023659-aarch64-Linux&download=metrics-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6204",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/metrics-server/metrics-server?tag=HEAD-55b4961-250620T023659-aarch64-Linux&download=metrics-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/metrics-server/metrics-server:HEAD-55b4961-250620T023659-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/metrics-server/metrics-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/metrics-server/metrics-server?tag=HEAD-55b4961-250620T023659-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98d2a5f729f882d291c929102083b7b9b445236501e99b780e5a73185b59583f",
+  "size": "70 MB",
+  "size_raw": "73104736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
