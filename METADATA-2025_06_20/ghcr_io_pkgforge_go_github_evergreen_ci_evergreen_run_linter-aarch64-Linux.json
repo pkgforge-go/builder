@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "run-linter",
+  "pkg_family": "evergreen",
+  "pkg_id": "run-linter#github.com_evergreen_ci_evergreen",
+  "pkg_name": "run-linter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/evergreen-ci/evergreen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Distributed Continuous Integration System from MongoDB",
+  "homepage": [
+    "https://github.com/evergreen-ci/evergreen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-cross-compile",
+    "evergreen",
+    "generate-lint",
+    "gqlgen",
+    "load-smoke-data",
+    "make-tarball",
+    "parse-host-file",
+    "run-linter",
+    "set-project-var",
+    "set-var",
+    "upload-s3",
+    "verify-mod-tidy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/evergreen-ci/evergreen/archive/3cb8b6e69d4b5c15b38a302af69451591a27acbc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3cb8b6e-250620T092505",
+  "version_upstream": "",
+  "bsum": "299e2973cf9f378efc43fcedd3eb941845a46428eba5ba7c3683d71a66d96880",
+  "build_date": "2025-06-20T18:17:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784215639",
+  "build_id": "15784215639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/run-linter?tag=HEAD-3cb8b6e-250620T092505-aarch64-Linux&download=run-linter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "436",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/run-linter?tag=HEAD-3cb8b6e-250620T092505-aarch64-Linux&download=run-linter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/run-linter:HEAD-3cb8b6e-250620T092505-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/evergreen-ci/evergreen/run-linter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evergreen-ci/evergreen/run-linter?tag=HEAD-3cb8b6e-250620T092505-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "799db049fe7d2764b0acaa8a8a44e851fb1de2ff9f92be79b942b18d10c3d1b7",
+  "size": "2.0 MB",
+  "size_raw": "2018712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
