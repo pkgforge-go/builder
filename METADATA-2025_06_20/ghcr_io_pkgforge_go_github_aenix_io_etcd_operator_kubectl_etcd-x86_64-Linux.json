@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubectl-etcd",
+  "pkg_family": "etcd-operator",
+  "pkg_id": "kubectl-etcd#github.com_aenix_io_etcd_operator",
+  "pkg_name": "kubectl-etcd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aenix-io/etcd-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New generation community-driven etcd-operator!",
+  "homepage": [
+    "https://github.com/aenix-io/etcd-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-etcd",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aenix-io/etcd-operator/archive/856fede289aa4ba622e725574ad75a585056abaa.tar.gz"
+  ],
+  "tag": [
+    "etcd",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-856fede-250429T173825",
+  "version_upstream": "",
+  "bsum": "b4fe42ccb38043a30682f324c7483c3499712b50142a9c88d31d1362a998a5b2",
+  "build_date": "2025-06-20T07:37:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773160558",
+  "build_id": "15773160558",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aenix-io/etcd-operator/kubectl-etcd?tag=HEAD-856fede-250429T173825-x86_64-Linux&download=kubectl-etcd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "120",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aenix-io/etcd-operator/kubectl-etcd?tag=HEAD-856fede-250429T173825-x86_64-Linux&download=kubectl-etcd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aenix-io/etcd-operator/kubectl-etcd:HEAD-856fede-250429T173825-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aenix-io/etcd-operator/kubectl-etcd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aenix-io/etcd-operator/kubectl-etcd?tag=HEAD-856fede-250429T173825-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9e05a7f57acc4b71ed3d55991b3b115317b0af159c33cc4e0d9b4c930ac06dae",
+  "size": "41 MB",
+  "size_raw": "42711520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
