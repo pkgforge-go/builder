@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "terraform-provider-cloudinit",
+  "pkg_family": "terraform-provider-cloudinit",
+  "pkg_id": "terraform-provider-cloudinit#github.com_hashicorp_terraform_provider_cloudinit",
+  "pkg_name": "terraform-provider-cloudinit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/terraform-provider-cloudinit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Utility provider that exposes the cloudinit_config data source which renders a multipart MIME configuration for use with cloud-init _previously available as the template_cloudinit_config resource in the template provider_",
+  "homepage": [
+    "https://github.com/hashicorp/terraform-provider-cloudinit"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "terraform-provider-cloudinit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/terraform-provider-cloudinit/archive/c0a638f58a615cac2ef74ec893635077f6f4bab8.tar.gz"
+  ],
+  "tag": [
+    "cloud-init",
+    "terraform",
+    "terraform-provider"
+  ],
+  "version": "HEAD-c0a638f-250620T131331",
+  "version_upstream": "",
+  "bsum": "c38e1356bb39bb9c33865d58fe10ae86aabb6d146409d94afdbdeb9188b7d1f1",
+  "build_date": "2025-06-20T18:50:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784803961",
+  "build_id": "15784803961",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform-provider-cloudinit/terraform-provider-cloudinit?tag=HEAD-c0a638f-250620T131331-aarch64-Linux&download=terraform-provider-cloudinit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "113",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform-provider-cloudinit/terraform-provider-cloudinit?tag=HEAD-c0a638f-250620T131331-aarch64-Linux&download=terraform-provider-cloudinit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/terraform-provider-cloudinit/terraform-provider-cloudinit:HEAD-c0a638f-250620T131331-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/terraform-provider-cloudinit/terraform-provider-cloudinit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform-provider-cloudinit/terraform-provider-cloudinit?tag=HEAD-c0a638f-250620T131331-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2a12ac33bbf099ce7a2c7627a0004e6523d006243f297ac36498cb429ca5c52",
+  "size": "17 MB",
+  "size_raw": "17518592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
