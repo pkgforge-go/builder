@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kraan",
+  "pkg_family": "kraan",
+  "pkg_id": "kraan#github.com_fidelity_kraan",
+  "pkg_name": "kraan",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fidelity/kraan",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kraan is a Kubernetes Controller that manages the deployment of HelmReleases to a cluster.",
+  "homepage": [
+    "https://github.com/fidelity/kraan"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kraan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fidelity/kraan/archive/d35ab017995b2a8aab01fd185030e1328fb168f7.tar.gz"
+  ],
+  "tag": [
+    "addons",
+    "helm-controller",
+    "k8s"
+  ],
+  "version": "HEAD-d35ab01-250619T162401",
+  "version_upstream": "v0.3.48",
+  "bsum": "ef4ff4260cd42109321f79371ebfdbecd80eb9ddcd2dbd659dbdaa9593784838",
+  "build_date": "2025-06-20T08:54:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774125068",
+  "build_id": "15774125068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fidelity/kraan/kraan?tag=HEAD-d35ab01-250619T162401-loongarch64-Linux&download=kraan.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "128",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fidelity/kraan/kraan?tag=HEAD-d35ab01-250619T162401-loongarch64-Linux&download=kraan",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fidelity/kraan/kraan:HEAD-d35ab01-250619T162401-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fidelity/kraan/kraan",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fidelity/kraan/kraan?tag=HEAD-d35ab01-250619T162401-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9517cbef9dfd6ca73b783a769c7e236481adfb8363075f36142398908448a761",
+  "size": "50 MB",
+  "size_raw": "52059232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
