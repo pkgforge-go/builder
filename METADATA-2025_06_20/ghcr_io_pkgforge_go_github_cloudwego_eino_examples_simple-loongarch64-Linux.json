@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "simple",
+  "pkg_family": "eino-examples",
+  "pkg_id": "simple#github.com_cloudwego_eino_examples",
+  "pkg_name": "simple",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudwego/eino-examples",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Examples and demonstrations for using the Eino framework",
+  "homepage": [
+    "https://github.com/cloudwego/eino-examples"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chain",
+    "chat",
+    "chat_prompt",
+    "customparser",
+    "debug",
+    "extparser",
+    "journal",
+    "multiquery",
+    "openapi3",
+    "plan_execute",
+    "react",
+    "react_with_interrupt",
+    "router",
+    "simple",
+    "state",
+    "textparser",
+    "todoagent",
+    "tool_call_agent",
+    "tool_call_once",
+    "two_model_chat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudwego/eino-examples/archive/eb4c4516b5165b3e8c30527483e18ade9c639a09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-eb4c451-250620T181219",
+  "version_upstream": "",
+  "bsum": "c878c74830f952a5c5d50e4e04bdc15b5cfc1b938c494645198ff6e9c05a8042",
+  "build_date": "2025-06-20T17:42:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15783879743",
+  "build_id": "15783879743",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudwego/eino-examples/simple?tag=HEAD-eb4c451-250620T181219-loongarch64-Linux&download=simple.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "205",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudwego/eino-examples/simple?tag=HEAD-eb4c451-250620T181219-loongarch64-Linux&download=simple",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudwego/eino-examples/simple:HEAD-eb4c451-250620T181219-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudwego/eino-examples/simple",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudwego/eino-examples/simple?tag=HEAD-eb4c451-250620T181219-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3fa9498056f19e318dd4b8b21d239f1d684d7c1fe056f103d5cb21ed1b9fc49d",
+  "size": "13 MB",
+  "size_raw": "13333600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
