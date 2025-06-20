@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "extproc",
+  "pkg_family": "ai-gateway",
+  "pkg_id": "extproc#github.com_envoyproxy_ai_gateway",
+  "pkg_name": "extproc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/envoyproxy/ai-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.",
+  "homepage": [
+    "https://github.com/envoyproxy/ai-gateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aigw",
+    "controller",
+    "extproc",
+    "extproc_custom_metrics",
+    "extproc_custom_router",
+    "testupstream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/envoyproxy/ai-gateway/archive/d6b647448bf8c99c174e47060dc13838b17aff9a.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "ai-gateway",
+    "api-gateway",
+    "cncf",
+    "kubernetes",
+    "llm"
+  ],
+  "version": "HEAD-d6b6474-250620T230743",
+  "version_upstream": "",
+  "bsum": "5d23e402cd44edff7c2d28088a612aa7a20c31b8ef3edd390f38df7496181e4d",
+  "build_date": "2025-06-20T18:06:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784208961",
+  "build_id": "15784208961",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/extproc?tag=HEAD-d6b6474-250620T230743-aarch64-Linux&download=extproc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/extproc?tag=HEAD-d6b6474-250620T230743-aarch64-Linux&download=extproc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/extproc:HEAD-d6b6474-250620T230743-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/envoyproxy/ai-gateway/extproc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/ai-gateway/extproc?tag=HEAD-d6b6474-250620T230743-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae5393e605f29f510e8d89ba72324e53e39a26ae093154f9f0409bf238b7e4f1",
+  "size": "30 MB",
+  "size_raw": "31419232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
