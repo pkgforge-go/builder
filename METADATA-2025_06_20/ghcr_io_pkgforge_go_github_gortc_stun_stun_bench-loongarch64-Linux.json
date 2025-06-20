@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "stun-bench",
+  "pkg_family": "stun",
+  "pkg_id": "stun-bench#github.com_gortc_stun",
+  "pkg_name": "stun-bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gortc/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast RFC 5389 STUN implementation in go",
+  "homepage": [
+    "https://github.com/gortc/stun"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gortc/stun/archive/5958aeb5e3b9c10cbd8d1ad22d63ae8d2396425d.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gortc",
+    "nat-traversal",
+    "rfc-5389",
+    "stun",
+    "stun-server",
+    "webrtc"
+  ],
+  "version": "HEAD-5958aeb-201123T194536",
+  "version_upstream": "",
+  "bsum": "287be1d7bb0c127bfa2b1d7acb255404df2126e9bb84813d1e5b6ffe333125ea",
+  "build_date": "2025-06-20T04:40:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771143900",
+  "build_id": "15771143900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-bench?tag=HEAD-5958aeb-201123T194536-loongarch64-Linux&download=stun-bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "494",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-bench?tag=HEAD-5958aeb-201123T194536-loongarch64-Linux&download=stun-bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gortc/stun/stun-bench:HEAD-5958aeb-201123T194536-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gortc/stun/stun-bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-bench?tag=HEAD-5958aeb-201123T194536-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f79013e15a46bda2d82fa8d6c1f774d465a3069560440bd0a29a9a66fa27451",
+  "size": "3.0 MB",
+  "size_raw": "3103104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

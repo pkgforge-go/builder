@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "stun-traversal",
+  "pkg_family": "stun",
+  "pkg_id": "stun-traversal#github.com_gortc_stun",
+  "pkg_name": "stun-traversal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gortc/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast RFC 5389 STUN implementation in go",
+  "homepage": [
+    "https://github.com/gortc/stun"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gortc/stun/archive/5958aeb5e3b9c10cbd8d1ad22d63ae8d2396425d.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gortc",
+    "nat-traversal",
+    "rfc-5389",
+    "stun",
+    "stun-server",
+    "webrtc"
+  ],
+  "version": "HEAD-5958aeb-201123T194536",
+  "version_upstream": "",
+  "bsum": "8330c7b4d722051e654b8d734c6729a8af025576c8cd41af6e74648078f49f35",
+  "build_date": "2025-06-20T04:41:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771143900",
+  "build_id": "15771143900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-traversal?tag=HEAD-5958aeb-201123T194536-loongarch64-Linux&download=stun-traversal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "494",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-traversal?tag=HEAD-5958aeb-201123T194536-loongarch64-Linux&download=stun-traversal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gortc/stun/stun-traversal:HEAD-5958aeb-201123T194536-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gortc/stun/stun-traversal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-traversal?tag=HEAD-5958aeb-201123T194536-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46877d10f09194e13212edc30b3203a17d3f7d9542d8d01a6db56f79195eec08",
+  "size": "2.6 MB",
+  "size_raw": "2693472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
