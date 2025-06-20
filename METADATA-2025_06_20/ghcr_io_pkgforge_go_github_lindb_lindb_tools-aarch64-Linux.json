@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tools",
+  "pkg_family": "lindb",
+  "pkg_id": "tools#github.com_lindb_lindb",
+  "pkg_name": "tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lindb/lindb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "LinDB is a scalable, high performance, high availability distributed time series database.",
+  "homepage": [
+    "https://github.com/lindb/lindb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "lind",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lindb/lindb/archive/612070e1dc6043d2ea47d5b3bc6dccd51eefaee4.tar.gz"
+  ],
+  "tag": [
+    "cross-datacenter-native",
+    "database",
+    "distributed-database",
+    "go",
+    "high-performance",
+    "metrics",
+    "monitoring",
+    "timeseries"
+  ],
+  "version": "HEAD-612070e-240816T094823",
+  "version_upstream": "",
+  "bsum": "86d5dd81dbd2043d8bad5647e5e5991a402ec94ad9056959aacbffab42083980",
+  "build_date": "2025-06-20T20:38:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786777904",
+  "build_id": "15786777904",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/tools?tag=HEAD-612070e-240816T094823-aarch64-Linux&download=tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3039",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/tools?tag=HEAD-612070e-240816T094823-aarch64-Linux&download=tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lindb/lindb/tools:HEAD-612070e-240816T094823-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lindb/lindb/tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/tools?tag=HEAD-612070e-240816T094823-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7e6f2904901401ef9d6fc6fe6dabc1bb83a7865f5d5ebccb77eb0160ba7f4554",
+  "size": "4.4 MB",
+  "size_raw": "4565240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
