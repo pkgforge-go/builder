@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "genkeypair",
+  "pkg_family": "katzenpost",
+  "pkg_id": "genkeypair#github.com_katzenpost_katzenpost",
+  "pkg_name": "genkeypair",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/katzenpost/katzenpost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
+  "homepage": [
+    "https://github.com/katzenpost/katzenpost"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "courier",
+    "dirauth",
+    "echo-plugin",
+    "fetch",
+    "genconfig",
+    "genkeypair",
+    "gensphinx",
+    "http-proxy-client",
+    "http-proxy-server",
+    "katzencat",
+    "katzencopy",
+    "kpclientd",
+    "map",
+    "ping",
+    "server",
+    "sphinx"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/katzenpost/katzenpost/archive/6de75199689bfba6c13d3206180116ce8aea14ff.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6de7519-250619T130558",
+  "version_upstream": "",
+  "bsum": "724dc404f0734a6e9654d9661a4566dc323d7e64a7467dfdfdd6bb8e85525441",
+  "build_date": "2025-06-20T14:52:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780333292",
+  "build_id": "15780333292",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/genkeypair?tag=HEAD-6de7519-250619T130558-x86_64-Linux&download=genkeypair.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/genkeypair?tag=HEAD-6de7519-250619T130558-x86_64-Linux&download=genkeypair",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/katzenpost/katzenpost/genkeypair:HEAD-6de7519-250619T130558-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/katzenpost/katzenpost/genkeypair",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/genkeypair?tag=HEAD-6de7519-250619T130558-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "504b182bfae80dbacde218410c2e2d5fb61b969e8890fcc29c8adb6f16227149",
+  "size": "4.6 MB",
+  "size_raw": "4746656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
