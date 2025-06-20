@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate-sign-keypair",
+  "pkg_family": "nacl",
+  "pkg_id": "generate-sign-keypair#github.com_kevinburke_nacl",
+  "pkg_name": "generate-sign-keypair",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kevinburke/nacl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure Go implementation of the NaCL set of API_s",
+  "homepage": [
+    "https://github.com/kevinburke/nacl"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-sign-keypair",
+    "nacl-generate-box-key",
+    "nacl-generate-key"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kevinburke/nacl/archive/4fa338b68f84c937d8ae474cd896a8c1bfc3e236.tar.gz"
+  ],
+  "tag": [
+    "curve25519",
+    "golang",
+    "nacl",
+    "secretbox",
+    "security"
+  ],
+  "version": "HEAD-4fa338b-250517T204207",
+  "version_upstream": "",
+  "bsum": "e9b72264ce518fe3d1bd647574e2c038d68dcdc70f8e4cfcdd2246325a7e62f2",
+  "build_date": "2025-06-20T14:50:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780428981",
+  "build_id": "15780428981",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/generate-sign-keypair?tag=HEAD-4fa338b-250517T204207-x86_64-Linux&download=generate-sign-keypair.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "547",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/generate-sign-keypair?tag=HEAD-4fa338b-250517T204207-x86_64-Linux&download=generate-sign-keypair",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kevinburke/nacl/generate-sign-keypair:HEAD-4fa338b-250517T204207-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kevinburke/nacl/generate-sign-keypair",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/generate-sign-keypair?tag=HEAD-4fa338b-250517T204207-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f264db555929416c8505e95f2611df2912746fb21f175e6252270cf755fa11a2",
+  "size": "2.0 MB",
+  "size_raw": "2022464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
