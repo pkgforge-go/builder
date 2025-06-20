@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stateless-lb",
+  "pkg_family": "Meridio",
+  "pkg_id": "stateless-lb#github.com_Nordix_Meridio",
+  "pkg_name": "stateless-lb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Nordix/Meridio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Facilitator of attraction and distribution of external traffic within Kubernetes via secondary networks",
+  "homepage": [
+    "https://github.com/Nordix/Meridio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "frontend",
+    "ipam",
+    "nsp",
+    "operator",
+    "proxy",
+    "stateless-lb",
+    "tapa"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Nordix/Meridio/archive/760a4600e63a3f3eeafe1f8275b473dd00dd6073.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "cnf",
+    "cni",
+    "containers",
+    "golang",
+    "kubernetes",
+    "kubernetes-networking",
+    "loadbalancing",
+    "networking",
+    "networkservicemesh",
+    "nfv",
+    "service-mesh",
+    "vnf"
+  ],
+  "version": "HEAD-760a460-250620T105908",
+  "version_upstream": "",
+  "bsum": "962291dd6687ae4043ffef1b1f9888744eea7fd11bc8ebda449db433b2e217b7",
+  "build_date": "2025-06-20T16:46:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782663371",
+  "build_id": "15782663371",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordix/meridio/stateless-lb?tag=HEAD-760a460-250620T105908-x86_64-Linux&download=stateless-lb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordix/meridio/stateless-lb?tag=HEAD-760a460-250620T105908-x86_64-Linux&download=stateless-lb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nordix/meridio/stateless-lb:HEAD-760a460-250620T105908-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nordix/meridio/stateless-lb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nordix/meridio/stateless-lb?tag=HEAD-760a460-250620T105908-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "083a73d78f8cc66baa733add6a9faee745cecc571b11791878862f9039227740",
+  "size": "33 MB",
+  "size_raw": "34452640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
