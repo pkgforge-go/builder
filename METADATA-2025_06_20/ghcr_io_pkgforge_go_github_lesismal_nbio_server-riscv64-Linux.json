@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "nbio",
+  "pkg_id": "server#github.com_lesismal_nbio",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lesismal/nbio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.",
+  "homepage": [
+    "https://github.com/lesismal/nbio"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "norace",
+    "reporter",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lesismal/nbio/archive/fa57bdac8a64ea1cb139176741d7cf4538c83458.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fa57bda-250518T142148",
+  "version_upstream": "",
+  "bsum": "04fe5c6e8ef551a61424cc00e60186141298704b62c9d62610202562c9c7dccf",
+  "build_date": "2025-06-20T20:20:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786122204",
+  "build_id": "15786122204",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/server?tag=HEAD-fa57bda-250518T142148-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2508",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/server?tag=HEAD-fa57bda-250518T142148-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lesismal/nbio/server:HEAD-fa57bda-250518T142148-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lesismal/nbio/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lesismal/nbio/server?tag=HEAD-fa57bda-250518T142148-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c923c16efd92b555e275b56e3c87928cbba332b85a9a824b198065856fa3c6a6",
+  "size": "5.9 MB",
+  "size_raw": "6120408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
