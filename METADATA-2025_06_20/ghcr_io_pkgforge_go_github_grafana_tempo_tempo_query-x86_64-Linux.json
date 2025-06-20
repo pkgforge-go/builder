@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tempo-query",
+  "pkg_family": "tempo",
+  "pkg_id": "tempo-query#github.com_grafana_tempo",
+  "pkg_name": "tempo-query",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+  "homepage": [
+    "https://github.com/grafana/tempo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docsgen",
+    "parquetquerygen",
+    "tempo",
+    "tempo-cli",
+    "tempo-query",
+    "tempo-vulture"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo/archive/bec9da55579277831b257207a43bb332ada616e2.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana"
+  ],
+  "version": "HEAD-bec9da5-250620T143114",
+  "version_upstream": "",
+  "bsum": "ba3a2906b72f94921591eb16747e233a38df5a9d3ca93af521446160bbb5b412",
+  "build_date": "2025-06-20T18:45:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784445412",
+  "build_id": "15784445412",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo-query?tag=HEAD-bec9da5-250620T143114-x86_64-Linux&download=tempo-query.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4552",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo-query?tag=HEAD-bec9da5-250620T143114-x86_64-Linux&download=tempo-query",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo/tempo-query:HEAD-bec9da5-250620T143114-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo/tempo-query",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo-query?tag=HEAD-bec9da5-250620T143114-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47b8f0195b8c3349da5728309847c2a3d180cb43e7f57051759cd2ca60d0463f",
+  "size": "21 MB",
+  "size_raw": "21004704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
