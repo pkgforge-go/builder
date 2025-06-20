@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "multizip",
+  "pkg_family": "go-fuse",
+  "pkg_id": "multizip#github.com_hanwen_go_fuse",
+  "pkg_name": "multizip",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hanwen/go-fuse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FUSE bindings for Go",
+  "homepage": [
+    "https://github.com/hanwen/go-fuse"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-read-throughput",
+    "bulkstat",
+    "hello",
+    "loopback",
+    "memfs",
+    "multizip",
+    "statfs",
+    "winfs",
+    "zipfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hanwen/go-fuse/archive/86c2f38886a549790184b7d9c212a26a7ff1b953.tar.gz"
+  ],
+  "tag": [
+    "filesystem",
+    "fuse",
+    "fuse-libraries",
+    "libfuse"
+  ],
+  "version": "HEAD-86c2f38-250613T084410",
+  "version_upstream": "",
+  "bsum": "b429ef8ffdf6aad402a60a805fe767d443583956b74750a77ac808f73ff738d7",
+  "build_date": "2025-06-20T05:37:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771515080",
+  "build_id": "15771515080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/multizip?tag=HEAD-86c2f38-250613T084410-loongarch64-Linux&download=multizip.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/multizip?tag=HEAD-86c2f38-250613T084410-loongarch64-Linux&download=multizip",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hanwen/go-fuse/multizip:HEAD-86c2f38-250613T084410-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hanwen/go-fuse/multizip",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/multizip?tag=HEAD-86c2f38-250613T084410-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa46c719744fbd6aa2d46ac20f6106bd490e172eeca51ef0b8b4e57c761a7115",
+  "size": "3.1 MB",
+  "size_raw": "3196152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
