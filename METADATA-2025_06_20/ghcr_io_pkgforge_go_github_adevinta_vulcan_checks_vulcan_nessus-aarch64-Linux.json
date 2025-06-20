@@ -1,0 +1,102 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vulcan-nessus",
+  "pkg_family": "vulcan-checks",
+  "pkg_id": "vulcan-nessus#github.com_adevinta_vulcan_checks",
+  "pkg_name": "vulcan-nessus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adevinta/vulcan-checks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository holds the code for each Vulcan check_s main binary.",
+  "homepage": [
+    "https://github.com/adevinta/vulcan-checks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vulcan-aws-alerts",
+    "vulcan-aws-subdomain-takeover",
+    "vulcan-aws-trusted-advisor",
+    "vulcan-blast-radius",
+    "vulcan-burp",
+    "vulcan-dmarc",
+    "vulcan-drupal",
+    "vulcan-exposed-bgp",
+    "vulcan-exposed-db",
+    "vulcan-exposed-http",
+    "vulcan-exposed-memcached",
+    "vulcan-exposed-router-ports",
+    "vulcan-exposed-services",
+    "vulcan-exposed-ssh",
+    "vulcan-github-alerts",
+    "vulcan-gitleaks",
+    "vulcan-govulncheck",
+    "vulcan-heartbleed",
+    "vulcan-host-discovery",
+    "vulcan-http-headers",
+    "vulcan-ipv6",
+    "vulcan-masscan",
+    "vulcan-mx",
+    "vulcan-nessus",
+    "vulcan-nuclei",
+    "vulcan-prowler",
+    "vulcan-repository-sctrl",
+    "vulcan-results-load-test",
+    "vulcan-retirejs",
+    "vulcan-semgrep",
+    "vulcan-sleep",
+    "vulcan-smtp-open-relay",
+    "vulcan-spf",
+    "vulcan-tenable",
+    "vulcan-trivy",
+    "vulcan-unclassified",
+    "vulcan-vulners",
+    "vulcan-wpscan",
+    "vulcan-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/adevinta/vulcan-checks/archive/aeb7203233dc02f401ba3d40fb02aeb490a323d5.tar.gz"
+  ],
+  "tag": [
+    "vulcan"
+  ],
+  "version": "HEAD-aeb7203-250620T095206",
+  "version_upstream": "",
+  "bsum": "6d77dbd34b500f6e49692c6a45c86fd0b8f4e2d0e8a5ac3259ba4aa0658e3710",
+  "build_date": "2025-06-20T17:15:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782906690",
+  "build_id": "15782906690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-nessus?tag=HEAD-aeb7203-250620T095206-aarch64-Linux&download=vulcan-nessus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-nessus?tag=HEAD-aeb7203-250620T095206-aarch64-Linux&download=vulcan-nessus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-nessus:HEAD-aeb7203-250620T095206-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adevinta/vulcan-checks/vulcan-nessus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adevinta/vulcan-checks/vulcan-nessus?tag=HEAD-aeb7203-250620T095206-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61d165c25639e7c620b106360e5ca85a90e1ee664bca01471663b77df77290c1",
+  "size": "19 MB",
+  "size_raw": "19771744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
