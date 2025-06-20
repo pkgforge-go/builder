@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "btctool",
+  "pkg_family": "heminetwork",
+  "pkg_id": "btctool#github.com_hemilabs_heminetwork",
+  "pkg_name": "btctool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hemilabs/heminetwork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The hemi network core daemons.",
+  "homepage": [
+    "https://github.com/hemilabs/heminetwork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bfgd",
+    "bssd",
+    "btctool",
+    "extool",
+    "hemictl",
+    "keygen",
+    "popmd",
+    "tbcd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hemilabs/heminetwork/archive/af45269e28a743a6004009858ae0e99593cdab86.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-af45269-250614T001108",
+  "version_upstream": "",
+  "bsum": "fca9af8d64401b3d275732f1b1cca49244ed1368788ca68239d1e5b5142ebe8b",
+  "build_date": "2025-06-20T09:41:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775132867",
+  "build_id": "15775132867",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/btctool?tag=HEAD-af45269-250614T001108-loongarch64-Linux&download=btctool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/btctool?tag=HEAD-af45269-250614T001108-loongarch64-Linux&download=btctool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hemilabs/heminetwork/btctool:HEAD-af45269-250614T001108-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hemilabs/heminetwork/btctool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/btctool?tag=HEAD-af45269-250614T001108-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c51d486c5774843165be4b05ceded043f8f632959417cad78c92cbf5e854e727",
+  "size": "7.9 MB",
+  "size_raw": "8262640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
