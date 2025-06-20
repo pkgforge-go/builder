@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "populator-controller",
+  "pkg_family": "forklift",
+  "pkg_id": "populator-controller#github.com_kubev2v_forklift",
+  "pkg_name": "populator-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubev2v/forklift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt",
+  "homepage": [
+    "https://github.com/kubev2v/forklift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "forklift-api",
+    "forklift-controller",
+    "image-converter",
+    "inventory",
+    "openstack-populator",
+    "ova-provider-server",
+    "ovirt-populator",
+    "populator-controller",
+    "virt-v2v",
+    "virt-v2v-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubev2v/forklift/archive/d13e1d020ae9748b6ce7f3a9358b1fd44f22d42c.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubevirt",
+    "migration",
+    "openstack",
+    "ova",
+    "ovf",
+    "ovirt",
+    "virt-v2v",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-d13e1d0-250620T145157",
+  "version_upstream": "",
+  "bsum": "ec76c8b5ec6717d1a7810ffdd0a98dd3ed73fe4ce116b9b1408b651a591bb76d",
+  "build_date": "2025-06-20T19:54:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785771824",
+  "build_id": "15785771824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/populator-controller?tag=HEAD-d13e1d0-250620T145157-loongarch64-Linux&download=populator-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/populator-controller?tag=HEAD-d13e1d0-250620T145157-loongarch64-Linux&download=populator-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubev2v/forklift/populator-controller:HEAD-d13e1d0-250620T145157-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubev2v/forklift/populator-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/populator-controller?tag=HEAD-d13e1d0-250620T145157-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83b3d31c938ee09849a9200db79a35059ba9820f5db00d9c5e5df15d29714f1f",
+  "size": "51 MB",
+  "size_raw": "53378656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
