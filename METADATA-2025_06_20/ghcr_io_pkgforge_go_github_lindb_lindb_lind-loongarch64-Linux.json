@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lind",
+  "pkg_family": "lindb",
+  "pkg_id": "lind#github.com_lindb_lindb",
+  "pkg_name": "lind",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lindb/lindb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "LinDB is a scalable, high performance, high availability distributed time series database.",
+  "homepage": [
+    "https://github.com/lindb/lindb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "lind",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lindb/lindb/archive/612070e1dc6043d2ea47d5b3bc6dccd51eefaee4.tar.gz"
+  ],
+  "tag": [
+    "cross-datacenter-native",
+    "database",
+    "distributed-database",
+    "go",
+    "high-performance",
+    "metrics",
+    "monitoring",
+    "timeseries"
+  ],
+  "version": "HEAD-612070e-240816T094823",
+  "version_upstream": "",
+  "bsum": "e249312ec42525c00eea709ab0ca40f627503280d937e541ae7acc6194b8a567",
+  "build_date": "2025-06-20T20:38:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786777904",
+  "build_id": "15786777904",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/lind?tag=HEAD-612070e-240816T094823-loongarch64-Linux&download=lind.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3039",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/lind?tag=HEAD-612070e-240816T094823-loongarch64-Linux&download=lind",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lindb/lindb/lind:HEAD-612070e-240816T094823-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lindb/lindb/lind",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lindb/lindb/lind?tag=HEAD-612070e-240816T094823-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d823b80eb89f73636f3e2b743b104e56e3a3b2b00b299b77b65421ed95e2e9a",
+  "size": "55 MB",
+  "size_raw": "57222048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
