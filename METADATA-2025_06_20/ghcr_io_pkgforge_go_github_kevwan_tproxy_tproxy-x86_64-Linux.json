@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tproxy",
+  "pkg_family": "tproxy",
+  "pkg_id": "tproxy#github.com_kevwan_tproxy",
+  "pkg_name": "tproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kevwan/tproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cli tool to proxy and analyze TCP connections.",
+  "homepage": [
+    "https://github.com/kevwan/tproxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kevwan/tproxy/archive/7f4bce0c81ab1d5db52e5a40da42e2023fb2ae97.tar.gz"
+  ],
+  "tag": [
+    "charles",
+    "connection",
+    "grpc",
+    "monitoring-tool",
+    "proxy",
+    "relay",
+    "tcp",
+    "tcpdump",
+    "wireshark"
+  ],
+  "version": "HEAD-7f4bce0-250607T135127",
+  "version_upstream": "",
+  "bsum": "7f540fe7caeeaf6ebde1ac667c745ffdf037bbbc5968dc67077920ed5ebdfc28",
+  "build_date": "2025-06-20T14:52:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780430735",
+  "build_id": "15780430735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevwan/tproxy/tproxy?tag=HEAD-7f4bce0-250607T135127-x86_64-Linux&download=tproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevwan/tproxy/tproxy?tag=HEAD-7f4bce0-250607T135127-x86_64-Linux&download=tproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kevwan/tproxy/tproxy:HEAD-7f4bce0-250607T135127-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kevwan/tproxy/tproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevwan/tproxy/tproxy?tag=HEAD-7f4bce0-250607T135127-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "695f7271a0ec604be898af21d6f24ad742b709f88ce6b1e9b428f081e968c0a9",
+  "size": "5.6 MB",
+  "size_raw": "5808064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
