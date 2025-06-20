@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "k8s-mongo-labeler-sidecar",
+  "pkg_family": "k8s-mongo-labeler-sidecar",
+  "pkg_id": "k8s-mongo-labeler-sidecar#github.com_combor_k8s_mongo_labeler_sidecar",
+  "pkg_name": "k8s-mongo-labeler-sidecar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/combor/k8s-mongo-labeler-sidecar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes MongoDB sidecar that watches replica instances and sets label on primary node.",
+  "homepage": [
+    "https://github.com/combor/k8s-mongo-labeler-sidecar"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s-mongo-labeler-sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/combor/k8s-mongo-labeler-sidecar/archive/33e7b727326af5643ffbea757169b38288c50bd4.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "mongo-labeler-sidecar",
+    "mongodb-replica-set",
+    "pod"
+  ],
+  "version": "HEAD-33e7b72-250620T121103",
+  "version_upstream": "",
+  "bsum": "bac354b0c2a260eb09502968ac90206af0c363f1b0422da32f95b1b62553a21a",
+  "build_date": "2025-06-20T17:39:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784068876",
+  "build_id": "15784068876",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/combor/k8s-mongo-labeler-sidecar/k8s-mongo-labeler-sidecar?tag=HEAD-33e7b72-250620T121103-x86_64-Linux&download=k8s-mongo-labeler-sidecar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/combor/k8s-mongo-labeler-sidecar/k8s-mongo-labeler-sidecar?tag=HEAD-33e7b72-250620T121103-x86_64-Linux&download=k8s-mongo-labeler-sidecar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/combor/k8s-mongo-labeler-sidecar/k8s-mongo-labeler-sidecar:HEAD-33e7b72-250620T121103-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/combor/k8s-mongo-labeler-sidecar/k8s-mongo-labeler-sidecar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/combor/k8s-mongo-labeler-sidecar/k8s-mongo-labeler-sidecar?tag=HEAD-33e7b72-250620T121103-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "181e57b94e649498d051c8b88c27b1765295cafa6d8cba68a7e434a368594dbe",
+  "size": "40 MB",
+  "size_raw": "41239232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
