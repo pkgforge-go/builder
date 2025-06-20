@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ktunnels",
+  "pkg_family": "ktunnels",
+  "pkg_id": "ktunnels#github.com_int128_ktunnels",
+  "pkg_name": "ktunnels",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/int128/ktunnels",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy",
+  "homepage": [
+    "https://github.com/int128/ktunnels"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ktunnels"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/int128/ktunnels/archive/0c5c05b889369a4b509c7d96deebc50f902d64e8.tar.gz"
+  ],
+  "tag": [
+    "controller",
+    "golang",
+    "kubebuilder",
+    "kubernetes"
+  ],
+  "version": "HEAD-0c5c05b-250620T004848",
+  "version_upstream": "",
+  "bsum": "5a4fb6a3b844371d1cd67b1bd58346435bac156bfa05ca743aae97f5ac79d660",
+  "build_date": "2025-06-20T09:54:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775404350",
+  "build_id": "15775404350",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/ktunnels/ktunnels?tag=HEAD-0c5c05b-250620T004848-loongarch64-Linux&download=ktunnels.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/ktunnels/ktunnels?tag=HEAD-0c5c05b-250620T004848-loongarch64-Linux&download=ktunnels",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/int128/ktunnels/ktunnels:HEAD-0c5c05b-250620T004848-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/int128/ktunnels/ktunnels",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/ktunnels/ktunnels?tag=HEAD-0c5c05b-250620T004848-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "649d5cfd8ea56aaa36bdcd7f141b6418e7c5fdaf65d339ca801cd17aeee620bd",
+  "size": "62 MB",
+  "size_raw": "64411648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
