@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubelogin",
+  "pkg_family": "kubelogin",
+  "pkg_id": "kubelogin#github.com_int128_kubelogin",
+  "pkg_name": "kubelogin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/int128/kubelogin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "kubectl plugin for Kubernetes OpenID Connect authentication _kubectl oidc-login_",
+  "homepage": [
+    "https://github.com/int128/kubelogin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chromelogin",
+    "httpserver",
+    "kubelogin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/int128/kubelogin/archive/4b19fd7d43c28756a8dbe66f0bfecab85c0986d4.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "kubectl",
+    "kubectl-plugins",
+    "kubernetes",
+    "oidc",
+    "openid-connect"
+  ],
+  "version": "HEAD-4b19fd7-250619T201105",
+  "version_upstream": "",
+  "bsum": "1ec9ea4d0f52b6b70b1624fb90b15ee741f6cbc38e780c407b5d6e88c7fa6759",
+  "build_date": "2025-06-20T09:55:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775404564",
+  "build_id": "15775404564",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/kubelogin/kubelogin?tag=HEAD-4b19fd7-250619T201105-x86_64-Linux&download=kubelogin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1987",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/kubelogin/kubelogin?tag=HEAD-4b19fd7-250619T201105-x86_64-Linux&download=kubelogin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/int128/kubelogin/kubelogin:HEAD-4b19fd7-250619T201105-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/int128/kubelogin/kubelogin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/kubelogin/kubelogin?tag=HEAD-4b19fd7-250619T201105-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2151705e2649d503cc38a3eeabdeedb01b913fad7bb653caa4224fcd27a57cb5",
+  "size": "16 MB",
+  "size_raw": "16710976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
