@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "extool",
+  "pkg_family": "heminetwork",
+  "pkg_id": "extool#github.com_hemilabs_heminetwork",
+  "pkg_name": "extool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hemilabs/heminetwork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The hemi network core daemons.",
+  "homepage": [
+    "https://github.com/hemilabs/heminetwork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bfgd",
+    "bssd",
+    "btctool",
+    "extool",
+    "hemictl",
+    "keygen",
+    "popmd",
+    "tbcd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hemilabs/heminetwork/archive/af45269e28a743a6004009858ae0e99593cdab86.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-af45269-250614T001108",
+  "version_upstream": "",
+  "bsum": "5aed5f49633d772655ac34d732c067357322f7e4977e6ddb9c5d8d7739a06d88",
+  "build_date": "2025-06-20T09:42:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775132867",
+  "build_id": "15775132867",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/extool?tag=HEAD-af45269-250614T001108-x86_64-Linux&download=extool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/extool?tag=HEAD-af45269-250614T001108-x86_64-Linux&download=extool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hemilabs/heminetwork/extool:HEAD-af45269-250614T001108-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hemilabs/heminetwork/extool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/extool?tag=HEAD-af45269-250614T001108-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "787a508a5408d60ddef5be18f99f74dfbc9aee7ef31e2d82dd322611909f6aee",
+  "size": "7.7 MB",
+  "size_raw": "8063824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
