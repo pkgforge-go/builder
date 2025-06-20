@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sail-operator-cmd",
+  "pkg_family": "sail-operator",
+  "pkg_id": "sail-operator-cmd#github.com_istio_ecosystem_sail_operator",
+  "pkg_name": "sail-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/istio-ecosystem/sail-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Sail Operator is able to install and manage the lifecycle of the Istio control plane in an Kubernetes _ OpenShift cluster.",
+  "homepage": [
+    "https://github.com/istio-ecosystem/sail-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api_transformer",
+    "sail-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/istio-ecosystem/sail-operator/archive/b22ae1e2f839c3574ce654b4e0d6a1c8e88d5c62.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b22ae1e-250620T072710",
+  "version_upstream": "",
+  "bsum": "8b0bc0d3955c74ddfd0439f58457acbf69b1c8ef10cebf4fe486d21de7c80bf4",
+  "build_date": "2025-06-20T19:06:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785150617",
+  "build_id": "15785150617",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio-ecosystem/sail-operator/sail-operator-cmd?tag=HEAD-b22ae1e-250620T072710-x86_64-Linux&download=sail-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "72",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio-ecosystem/sail-operator/sail-operator-cmd?tag=HEAD-b22ae1e-250620T072710-x86_64-Linux&download=sail-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/istio-ecosystem/sail-operator/sail-operator-cmd:HEAD-b22ae1e-250620T072710-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/istio-ecosystem/sail-operator/sail-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio-ecosystem/sail-operator/sail-operator-cmd?tag=HEAD-b22ae1e-250620T072710-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10a4bf0db440b5c23f6c27784d4bfa84b8d0a2cf8a7e0db0a832a65984017af5",
+  "size": "101 MB",
+  "size_raw": "104994400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
