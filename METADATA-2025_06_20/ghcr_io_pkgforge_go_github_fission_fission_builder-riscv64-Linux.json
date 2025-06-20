@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "builder",
+  "pkg_family": "fission",
+  "pkg_id": "builder#github.com_fission_fission",
+  "pkg_name": "builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fission/fission",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and Simple Serverless Functions for Kubernetes",
+  "homepage": [
+    "https://github.com/fission/fission"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "builder",
+    "cmd-docs",
+    "fetcher",
+    "fission-bundle",
+    "fission-cli",
+    "genswaggertypedocs",
+    "preupgradechecks",
+    "reporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fission/fission/archive/7403598df95b62e4ab9011d9c4b72704a2006bb5.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "containers",
+    "devops",
+    "docker",
+    "faas",
+    "fission",
+    "functions",
+    "functions-as-a-service",
+    "go",
+    "hacktoberfest",
+    "kubernetes",
+    "lambda",
+    "serverless",
+    "serverless-functions"
+  ],
+  "version": "HEAD-7403598-250620T145151",
+  "version_upstream": "",
+  "bsum": "429657a769530b9f05d2fbb0277947009f2debaaa2236cfde3e6ce8a39f787cd",
+  "build_date": "2025-06-20T18:26:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784256712",
+  "build_id": "15784256712",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/builder?tag=HEAD-7403598-250620T145151-riscv64-Linux&download=builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8666",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/builder?tag=HEAD-7403598-250620T145151-riscv64-Linux&download=builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/fission/builder:HEAD-7403598-250620T145151-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/fission/builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/fission/builder?tag=HEAD-7403598-250620T145151-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "419aa84bc4a1d5631032efcb4eafbd1f3a370f9fc320c3ae0bc37a272fdaf799",
+  "size": "43 MB",
+  "size_raw": "44476056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
