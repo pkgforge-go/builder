@@ -1,0 +1,63 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "eventing-autoscaler-keda",
+  "pkg_id": "webhook#github.com_knative_extensions_eventing_autoscaler_keda.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-autoscaler-keda.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250620T150358",
+  "version_upstream": "",
+  "bsum": "30a53cd66c9273d7d48d5bb928e0af84c6d34c2a9a69c713c32aa25125c82a85",
+  "build_date": "2025-06-20T15:08:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780760616",
+  "build_id": "15780760616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150358-aarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150358-aarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/autoscaler/keda.git/webhook:20250620T150358-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/autoscaler/keda.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/autoscaler/keda.git/webhook?tag=20250620T150358-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47023f2fad12d691b2b45692a6f3a36ebc3b33eaa402e3bb860978282359fbb6",
+  "size": "56 MB",
+  "size_raw": "58394624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
