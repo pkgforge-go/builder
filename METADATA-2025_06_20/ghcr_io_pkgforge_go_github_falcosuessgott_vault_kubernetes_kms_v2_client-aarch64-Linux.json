@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "v2_client",
+  "pkg_family": "vault-kubernetes-kms",
+  "pkg_id": "v2_client#github.com_FalcoSuessgott_vault_kubernetes_kms",
+  "pkg_name": "v2_client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FalcoSuessgott/vault-kubernetes-kms",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Encrypt Kubernetes Secrets using Hashicorp Vault as the KMS Provider",
+  "homepage": [
+    "https://github.com/FalcoSuessgott/vault-kubernetes-kms"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "v2_client",
+    "vault-kubernetes-kms"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FalcoSuessgott/vault-kubernetes-kms/archive/3cef18f24c09249afc5165f9a29c105c75388696.tar.gz"
+  ],
+  "tag": [
+    "hashicorp",
+    "kms",
+    "kubernetes",
+    "kubernetes-kms",
+    "vault"
+  ],
+  "version": "HEAD-3cef18f-250620T185436",
+  "version_upstream": "",
+  "bsum": "747ce0a390965bdf22970322c6ea21e0ce605ad109dafb70caff93a3e3c7ffda",
+  "build_date": "2025-06-20T16:54:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782591017",
+  "build_id": "15782591017",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/v2_client?tag=HEAD-3cef18f-250620T185436-aarch64-Linux&download=v2_client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/v2_client?tag=HEAD-3cef18f-250620T185436-aarch64-Linux&download=v2_client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/v2_client:HEAD-3cef18f-250620T185436-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/v2_client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/falcosuessgott/vault-kubernetes-kms/v2_client?tag=HEAD-3cef18f-250620T185436-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f7ea6c9f5dcc84015ba6aa786c7b781ca57efb9744319705dc97a6a6fb7f46e",
+  "size": "11 MB",
+  "size_raw": "11392192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
