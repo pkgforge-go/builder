@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "katalyst-webhook",
+  "pkg_family": "katalyst-core",
+  "pkg_id": "katalyst-webhook#github.com_kubewharf_katalyst_core",
+  "pkg_name": "katalyst-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubewharf/katalyst-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agents and centralized components",
+  "homepage": [
+    "https://github.com/kubewharf/katalyst-core"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "katalyst-controller",
+    "katalyst-metric",
+    "katalyst-scheduler",
+    "katalyst-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubewharf/katalyst-core/archive/53e365765b765a8afd0ce2d056723f82221ae642.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-53e3657-250620T152442",
+  "version_upstream": "",
+  "bsum": "cf7e832e05aba3d25dd8775f154645a79c443404b0bab8d6161871973dd1abba",
+  "build_date": "2025-06-20T19:36:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785991608",
+  "build_id": "15785991608",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-webhook?tag=HEAD-53e3657-250620T152442-loongarch64-Linux&download=katalyst-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "498",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-webhook?tag=HEAD-53e3657-250620T152442-loongarch64-Linux&download=katalyst-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubewharf/katalyst-core/katalyst-webhook:HEAD-53e3657-250620T152442-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubewharf/katalyst-core/katalyst-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-webhook?tag=HEAD-53e3657-250620T152442-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b21f4a52d2d4c52fb68d38bf7ea28151740acf6156278b934baa9a85818efdea",
+  "size": "49 MB",
+  "size_raw": "51053312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
