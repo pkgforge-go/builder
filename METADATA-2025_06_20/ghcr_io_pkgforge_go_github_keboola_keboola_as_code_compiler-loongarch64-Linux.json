@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "compiler",
+  "pkg_family": "keboola-as-code",
+  "pkg_id": "compiler#github.com_keboola_keboola_as_code",
+  "pkg_name": "compiler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/keboola/keboola-as-code",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Keboola Connection project as definition files.",
+  "homepage": [
+    "https://github.com/keboola/keboola-as-code"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apps-proxy",
+    "compiler",
+    "kbc",
+    "stream",
+    "templates-api"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/keboola/keboola-as-code/archive/fcccad63bc6a7d6f271f68ddc45a4f8fa5906539.tar.gz"
+  ],
+  "tag": [
+    "keboola-cli"
+  ],
+  "version": "HEAD-fcccad6-250620T125825",
+  "version_upstream": "",
+  "bsum": "49cb923abedeacc5b4446ad8ee636e7b070970f686dfa446e0993704817f0638",
+  "build_date": "2025-06-20T19:28:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785366325",
+  "build_id": "15785366325",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keboola/keboola-as-code/compiler?tag=HEAD-fcccad6-250620T125825-loongarch64-Linux&download=compiler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keboola/keboola-as-code/compiler?tag=HEAD-fcccad6-250620T125825-loongarch64-Linux&download=compiler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/keboola/keboola-as-code/compiler:HEAD-fcccad6-250620T125825-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/keboola/keboola-as-code/compiler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keboola/keboola-as-code/compiler?tag=HEAD-fcccad6-250620T125825-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4ae6ee5826f551fd368f7c8307d1cdbbf2c5fe07aa4e3c1b82c50a2eba06dcd6",
+  "size": "16 MB",
+  "size_raw": "16059904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "apps-proxy",
+  "pkg_family": "keboola-as-code",
+  "pkg_id": "apps-proxy#github.com_keboola_keboola_as_code",
+  "pkg_name": "apps-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/keboola/keboola-as-code",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Keboola Connection project as definition files.",
+  "homepage": [
+    "https://github.com/keboola/keboola-as-code"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apps-proxy",
+    "compiler",
+    "kbc",
+    "stream",
+    "templates-api"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/keboola/keboola-as-code/archive/fcccad63bc6a7d6f271f68ddc45a4f8fa5906539.tar.gz"
+  ],
+  "tag": [
+    "keboola-cli"
+  ],
+  "version": "HEAD-fcccad6-250620T125825",
+  "version_upstream": "",
+  "bsum": "4a7e518833f6b92753ce85a52cec7c65665e96f4fa4c035132eba2aee8c6f99f",
+  "build_date": "2025-06-20T19:28:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785366325",
+  "build_id": "15785366325",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keboola/keboola-as-code/apps-proxy?tag=HEAD-fcccad6-250620T125825-loongarch64-Linux&download=apps-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keboola/keboola-as-code/apps-proxy?tag=HEAD-fcccad6-250620T125825-loongarch64-Linux&download=apps-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/keboola/keboola-as-code/apps-proxy:HEAD-fcccad6-250620T125825-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/keboola/keboola-as-code/apps-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keboola/keboola-as-code/apps-proxy?tag=HEAD-fcccad6-250620T125825-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c89d283dbfb9a47fd72c97124939b5807d5a7a20e7bf6fbda4a2176e859991a",
+  "size": "91 MB",
+  "size_raw": "94909216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
