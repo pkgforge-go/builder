@@ -2895,6 +2895,19 @@
     "version": "HEAD-8a0e0b3-250616T194727"
   },
   {
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "name": "app",
+    "pkg_id": "app#github.com_hashicorp_nomad",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c8dcd3c-250619T134806"
+  },
+  {
     "description": "_go build_ wrapper to add version info to Golang applications",
     "name": "app-different-package",
     "pkg_id": "app-different-package#github.com_ahmetb_govvv",
@@ -3036,6 +3049,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-7b5b8eb-250618T232758"
+  },
+  {
+    "description": "Lightweight cache _ proxy",
+    "name": "appletokens",
+    "pkg_id": "appletokens#github.com_gleich_lcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a3e6e03-250619T130331"
   },
   {
     "description": "NVIDIA Network Operator",
@@ -3803,6 +3829,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-336ebe4-250617T171950"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "attest-tool",
+    "pkg_id": "attest-tool#github.com_google_go_attestation",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-e2cec1e-250620T111329"
   },
   {
     "description": "Provision remote development environments via Terraform",
@@ -4625,6 +4664,19 @@
     "version": "HEAD-4848fe0-241213T194759"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "backing_data",
+    "pkg_id": "backing_data#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
     "name": "backport",
     "pkg_id": "backport#github.com_go_gitea_gitea",
@@ -4981,6 +5033,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-24c5266-230623T112543"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "bb_reporter",
+    "pkg_id": "bb_reporter#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "The modern cryptocurrency trading bot framework written in Go.",
@@ -5430,6 +5495,19 @@
     "version": "HEAD-2e38e1d-250227T213657"
   },
   {
+    "description": "Boardgamegeek API for Golang",
+    "name": "bggcli",
+    "pkg_id": "bggcli#github.com_fzerorubigd_gobgg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5ab93a2-250619T210519"
+  },
+  {
     "description": "Efficient cache for gigabytes of data written in Go.",
     "name": "bigcache",
     "pkg_id": "bigcache#github.com_allegro_bigcache",
@@ -5709,6 +5787,71 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-167865a-250413T130052"
+  },
+  {
+    "description": "Layered Configuration Language",
+    "name": "bkl",
+    "pkg_id": "bkl#github.com_gopatchy_bkl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0d7305b-250620T001905"
+  },
+  {
+    "description": "Layered Configuration Language",
+    "name": "bklb",
+    "pkg_id": "bklb#github.com_gopatchy_bkl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0d7305b-250620T001905"
+  },
+  {
+    "description": "Layered Configuration Language",
+    "name": "bkld",
+    "pkg_id": "bkld#github.com_gopatchy_bkl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0d7305b-250620T001905"
+  },
+  {
+    "description": "Layered Configuration Language",
+    "name": "bkli",
+    "pkg_id": "bkli#github.com_gopatchy_bkl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0d7305b-250620T001905"
+  },
+  {
+    "description": "Layered Configuration Language",
+    "name": "bklr",
+    "pkg_id": "bklr#github.com_gopatchy_bkl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0d7305b-250620T001905"
   },
   {
     "description": "Safely store secrets in Git/Mercurial/Subversion",
@@ -6029,6 +6172,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1a30353-250618T172928"
+  },
+  {
+    "description": "Turn Steamapp servers into container images.",
+    "name": "boiler",
+    "pkg_id": "boiler#github.com_frantjc_sindri",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3dfe865-250619T195429"
   },
   {
     "description": "An operating system written in Go",
@@ -6412,6 +6567,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d449682-190321T093408"
+  },
+  {
+    "description": "monte carlo combat simulation for genshin impact",
+    "name": "bsontags",
+    "pkg_id": "bsontags#github.com_genshinsim_gcsim",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6a5bdbd-250619T122243"
   },
   {
     "description": "Pure Go bsdiff and bspatch libraries and CLI tools.",
@@ -6918,6 +7086,19 @@
     "version": "HEAD-aa8f77c-240912T095844"
   },
   {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "build_nark",
+    "pkg_id": "build_nark#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
+  },
+  {
     "description": "Cloud-agnostic managed Kubernetes",
     "name": "builder",
     "pkg_id": "builder#github.com_berops_claudie",
@@ -6957,6 +7138,19 @@
     "version": "HEAD-d17fbce-250619T124003"
   },
   {
+    "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+    "name": "buildfleetcfg",
+    "pkg_id": "buildfleetcfg#github.com_elastic_elastic_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8803a02-250619T162307"
+  },
+  {
     "description": "[mirror] Go_s continuous build and release infrastructure _no stability promises_",
     "name": "buildlet",
     "pkg_id": "buildlet#github.com_golang_build",
@@ -6968,6 +7162,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-7b5b8eb-250618T232758"
+  },
+  {
+    "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+    "name": "buildpgp",
+    "pkg_id": "buildpgp#github.com_elastic_elastic_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8803a02-250619T162307"
   },
   {
     "description": "[mirror] Go_s continuous build and release infrastructure _no stability promises_",
@@ -6994,6 +7201,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1a51bed-250608T141804"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "builtins",
+    "pkg_id": "builtins#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "FUSE bindings for Go",
@@ -7243,6 +7463,18 @@
     "version": "HEAD-2f0fc62-250616T201409"
   },
   {
+    "description": "Maxx is an all-in-one network scanning tool that combines port scanning, protocol and fingerprint recognition, brute-force cracking, as well as vulnerability detection and exploitation functionalities.",
+    "name": "call",
+    "pkg_id": "call#github.com_dusbot_maxx",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0575e0e-250620T104519"
+  },
+  {
     "description": "The only reasonable scripting engine for Go.",
     "name": "call_go_from_prolog",
     "pkg_id": "call_go_from_prolog#github.com_ichiban_prolog",
@@ -7254,6 +7486,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-6375564-241015T100855"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "callables",
+    "pkg_id": "callables#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "[mirror] Go Tools",
@@ -7330,6 +7575,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0b34935-250219T113457"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "capslock",
+    "pkg_id": "capslock#github.com_google_capslock",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-7b545ab-250620T113407"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "capslock-git-diff",
+    "pkg_id": "capslock-git-diff#github.com_google_capslock",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-7b545ab-250620T113407"
   },
   {
     "description": "Capstan, a tool for packaging and running your application on OSv. https://osv.io/capstan",
@@ -7700,6 +7971,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-b73125b-230531T120411"
+  },
+  {
+    "description": "The cert-exporter walks a directory path it has gotten as input and emits all NotAfter timestamps as metrics for TLS certificates and Vault tokens. It also emits NotAfter timestamps as metrics for TLS certificates stored in Kubernetes secrets.",
+    "name": "cert-exporter",
+    "pkg_id": "cert-exporter#github.com_giantswarm_cert_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8ebc2aa-250619T224036"
   },
   {
     "description": "Cert Sub Go is a tool to query SSL Certificate Transparency for subdomain discovery",
@@ -8763,6 +9047,19 @@
     "version": "HEAD-e8cb99c-250612T120916"
   },
   {
+    "description": "Siri Shortcuts Programming Language 🍒",
+    "name": "cherri",
+    "pkg_id": "cherri#github.com_electrikmilk_cherri",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ab04e22-250619T210704"
+  },
+  {
     "description": "Test infrastructure for the Gardener project.",
     "name": "cherrypicker",
     "pkg_id": "cherrypicker#github.com_gardener_ci_infra",
@@ -9238,6 +9535,31 @@
     "version": "HEAD-1ff5b45-250619T105054"
   },
   {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "cleanup",
+    "pkg_id": "cleanup#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "Open source hyperconverged infrastructure _HCI_ software",
+    "name": "cleanup",
+    "pkg_id": "cleanup#github.com_harvester_harvester",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a930b01-250620T092130"
+  },
+  {
     "description": "http integration test framework",
     "name": "clear",
     "pkg_id": "clear#github.com_Eun_go_hit",
@@ -9491,6 +9813,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-895dcaa-240630T174311"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "cli",
+    "pkg_id": "cli#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "A security layer for Git repositories",
@@ -9827,6 +10162,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-065d6dd-250619T164451"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "client",
+    "pkg_id": "client#github.com_helios_network_helios_core",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-13c91a9-250620T015636"
   },
   {
     "description": "Measure your d*mn internet",
@@ -10378,6 +10726,19 @@
     "version": "HEAD-30455bd-240406T131622"
   },
   {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "cmd",
+    "pkg_id": "cmd#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
+  },
+  {
     "description": "eRPC — fault-tolerant evm rpc proxy",
     "name": "cmd",
     "pkg_id": "cmd#github.com_erpc_erpc",
@@ -10465,6 +10826,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d7a3ce2-231013T111305"
+  },
+  {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "cmd",
+    "pkg_id": "cmd#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "name": "cmd",
+    "pkg_id": "cmd#github.com_hashicorp_nomad",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c8dcd3c-250619T134806"
   },
   {
     "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
@@ -10830,6 +11217,18 @@
     "version": "HEAD-ddfde03-250619T101533"
   },
   {
+    "description": "Open source hyperconverged infrastructure _HCI_ software",
+    "name": "codegen",
+    "pkg_id": "codegen#github.com_harvester_harvester",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a930b01-250620T092130"
+  },
+  {
     "description": "Go Language Library for SVG generation",
     "name": "codepic",
     "pkg_id": "codepic#github.com_ajstarks_svgo",
@@ -10931,6 +11330,19 @@
     "version": "HEAD-656901c-241108T102936"
   },
   {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "collect",
+    "pkg_id": "collect#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
     "description": "Go source code for Bluesky_s atproto services.",
     "name": "collectiondir",
     "pkg_id": "collectiondir#github.com_bluesky_social_indigo",
@@ -10941,6 +11353,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-336ebe4-250617T171950"
+  },
+  {
+    "description": "Boardgamegeek API for Golang",
+    "name": "collections",
+    "pkg_id": "collections#github.com_fzerorubigd_gobgg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5ab93a2-250619T210519"
   },
   {
     "description": "Elegant Scraper and Crawler Framework for Golang",
@@ -11279,6 +11704,19 @@
     "version": "HEAD-d922202-250414T215740"
   },
   {
+    "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+    "name": "component",
+    "pkg_id": "component#github.com_elastic_elastic_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8803a02-250619T162307"
+  },
+  {
     "description": "A language for writing HTML user interfaces in Go.",
     "name": "components",
     "pkg_id": "components#github.com_a_h_templ",
@@ -11613,6 +12051,19 @@
     "version": "HEAD-a2195fb-250618T122130"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "configuration_versions",
+    "pkg_id": "configuration_versions#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "Shared GitHub Actions for FerretDB repos",
     "name": "conform-pr",
     "pkg_id": "conform-pr#github.com_FerretDB_github_actions",
@@ -11688,6 +12139,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-8e55c19-250618T114056"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "constants",
+    "pkg_id": "constants#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
@@ -13159,7 +13623,9 @@
     "pkg_id": "d2vpkr#github.com_dotabuff_d2vpkr",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d365ca6-250619T234034"
@@ -14004,6 +14470,19 @@
     "version": "HEAD-8ca6cb6-250619T121246"
   },
   {
+    "description": "Go + Godot 4.4",
+    "name": "defaults",
+    "pkg_id": "defaults#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
+  },
+  {
     "description": "[mirror] Go Tools",
     "name": "defers",
     "pkg_id": "defers#github.com_golang_tools",
@@ -14235,6 +14714,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-22ce8a9-250528T212608"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "deploy",
+    "pkg_id": "deploy#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "The Deployment Validator Operator _DVO_ checks deployments and other resources against a curated collection of best practices.",
@@ -14943,6 +15435,19 @@
     "version": "HEAD-6d86040-250618T010658"
   },
   {
+    "description": "Go + Godot 4.4",
+    "name": "distinctor",
+    "pkg_id": "distinctor#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
+  },
+  {
     "description": "a Linux distribution to research fast package management",
     "name": "distri",
     "pkg_id": "distri#github.com_distr1_distri",
@@ -15566,6 +16071,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-5b81e09-250619T093717"
+  },
+  {
+    "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+    "name": "docker",
+    "pkg_id": "docker#github.com_glasskube_distr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bc799ba-250620T030952"
   },
   {
     "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
@@ -16932,6 +17450,19 @@
     "version": "HEAD-84508c7-250619T072249"
   },
   {
+    "description": "Emulador Genérico do Gabriel",
+    "name": "egg",
+    "pkg_id": "egg#github.com_gboncoffee_egg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c884338-250619T172253"
+  },
+  {
     "description": "An ERB-style templating language for Go.",
     "name": "ego",
     "pkg_id": "ego#github.com_benbjohnson_ego",
@@ -17010,6 +17541,18 @@
     "version": "HEAD-fb4beda-250618T050233"
   },
   {
+    "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+    "name": "elastic-agent",
+    "pkg_id": "elastic-agent#github.com_elastic_elastic_agent",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8803a02-250619T162307"
+  },
+  {
     "description": "elastic-package - Command line tool for developing Elastic Integrations",
     "name": "elastic-package",
     "pkg_id": "elastic-package#github.com_elastic_elastic_package",
@@ -17070,6 +17613,17 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-49937be-250308T121232"
+  },
+  {
+    "description": "Elys Network is a DeFi Proof of Stake blockchain built using Cosmos SDK, bridging the gap between Web2 and Web3 with a premier UI/UX. Elys offers non-custodial DEX with Smartshielded Pools, vaults, perpetual trading, leverage LP, and more.",
+    "name": "elys",
+    "pkg_id": "elys#github.com_elys_network_elys",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-f3701a7-250619T231321"
   },
   {
     "description": "The modern cryptocurrency trading bot framework written in Go.",
@@ -17298,6 +17852,19 @@
     "version": "HEAD-ddfde03-250619T101533"
   },
   {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "enkit_credential_helper",
+    "pkg_id": "enkit_credential_helper#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
+  },
+  {
     "description": "This is Sherlock_s sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks",
     "name": "enola",
     "pkg_id": "enola#github.com_TheYahya_enola",
@@ -17385,6 +17952,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-aa85436-250321T102105"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "enumerate",
+    "pkg_id": "enumerate#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere.",
@@ -17628,6 +18208,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-7a6465b-240805T072803"
+  },
+  {
+    "description": "Creates etcd backups and uploads them to AWS S3",
+    "name": "etcd-backup-operator",
+    "pkg_id": "etcd-backup-operator#github.com_giantswarm_etcd_backup_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6ff55ab-250619T223524"
   },
   {
     "description": "Distributed reliable key-value store for the most critical data of a distributed system",
@@ -18074,6 +18667,32 @@
     "version": "HEAD-dd208c6-250615T121648"
   },
   {
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "name": "example-gateway-server",
+    "pkg_id": "example-gateway-server#github.com_grpc_ecosystem_grpc_gateway",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-f7e7da8-250619T195645"
+  },
+  {
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "name": "example-grpc-server",
+    "pkg_id": "example-grpc-server#github.com_grpc_ecosystem_grpc_gateway",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-f7e7da8-250619T195645"
+  },
+  {
     "description": "eBPF-based autoinstrumentation of web applications and network metrics",
     "name": "example-http-service",
     "pkg_id": "example-http-service#github.com_grafana_beyla",
@@ -18508,6 +19127,19 @@
     "version": "HEAD-849a319-250619T130103"
   },
   {
+    "description": "monte carlo combat simulation for genshin impact",
+    "name": "extract-talents",
+    "pkg_id": "extract-talents#github.com_genshinsim_gcsim",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6a5bdbd-250619T122243"
+  },
+  {
     "description": "[mirror] Go text processing support",
     "name": "extract_http",
     "pkg_id": "extract_http#github.com_golang_text",
@@ -18745,6 +19377,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bee550c-250619T152729"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "faketree",
+    "pkg_id": "faketree#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "Response Engine for managing threats in your Kubernetes",
@@ -19326,6 +19971,19 @@
     "version": "HEAD-1a04d47-250619T143237"
   },
   {
+    "description": "fileshare is a self hosted cloud-disk-like, grpc-based file server",
+    "name": "fileshare",
+    "pkg_id": "fileshare#github.com_fileshare_go_fileshare",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-94e7050-250619T233534"
+  },
+  {
     "description": "[mirror] Go Tools",
     "name": "findcall",
     "pkg_id": "findcall#github.com_golang_tools",
@@ -19649,6 +20307,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-39b8c2c-250619T153318"
+  },
+  {
+    "description": "The only backend you_ll ever need",
+    "name": "fluxend",
+    "pkg_id": "fluxend#github.com_fluxendd_fluxend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-42bdfa1-250619T221128"
   },
   {
     "description": "Forked from [cview]_https://code.rocket9labs.com/tslocum/cview_",
@@ -20816,6 +21487,32 @@
     "version": "HEAD-439ccaa-250617T205712"
   },
   {
+    "description": "Go language plugin for Gauge",
+    "name": "gauge-go",
+    "pkg_id": "gauge-go#github.com_getgauge_contrib_gauge_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c98bdb6-250619T162514"
+  },
+  {
+    "description": "Go language plugin for Gauge",
+    "name": "gauge-go-build",
+    "pkg_id": "gauge-go-build#github.com_getgauge_contrib_gauge_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c98bdb6-250619T162514"
+  },
+  {
     "description": "No Description Provided",
     "name": "gauplus",
     "pkg_id": "gauplus#github.com_bp0lr_gauplus",
@@ -20917,6 +21614,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9c5c2d5-250618T154930"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "gd",
+    "pkg_id": "gd#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
@@ -21473,6 +22183,19 @@
     "version": "20250620T035502"
   },
   {
+    "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+    "name": "genai-toolbox",
+    "pkg_id": "genai-toolbox#github.com_googleapis_genai_toolbox",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-67964d9-250618T153246"
+  },
+  {
     "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
     "name": "genapi",
     "pkg_id": "genapi#github.com_gorgonia_gorgonia",
@@ -21728,6 +22451,19 @@
     "version": "HEAD-81f8985-250619T144228"
   },
   {
+    "description": "Build AI assistants that interact with your systems",
+    "name": "gendocs",
+    "pkg_id": "gendocs#github.com_gptscript_ai_gptscript",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0494b4a-250619T130513"
+  },
+  {
     "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
     "name": "geneos",
     "pkg_id": "geneos#github.com_ITRS_Group_cordial",
@@ -21880,6 +22616,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "Build AI assistants that interact with your systems",
+    "name": "generate",
+    "pkg_id": "generate#github.com_gptscript_ai_gptscript",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0494b4a-250619T130513"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "generate",
+    "pkg_id": "generate#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
@@ -22475,6 +23237,18 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-9b763e9-250619T152038"
+  },
+  {
+    "description": "Open source hyperconverged infrastructure _HCI_ software",
+    "name": "genswagger",
+    "pkg_id": "genswagger#github.com_harvester_harvester",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a930b01-250620T092130"
   },
   {
     "description": "Gentee - script programming language for automation. It uses VM and compiler written in Go _Golang_.",
@@ -24693,6 +25467,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-909b175-240422T140534"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "go-attestation-ci",
+    "pkg_id": "go-attestation-ci#github.com_google_go_attestation",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-e2cec1e-250620T111329"
   },
   {
     "description": "Go app + library to fetch what_s new from AWS",
@@ -27534,6 +28321,19 @@
     "version": "HEAD-d8e4300-250619T091355"
   },
   {
+    "description": "Build AI assistants that interact with your systems",
+    "name": "gptscript",
+    "pkg_id": "gptscript#github.com_gptscript_ai_gptscript",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0494b4a-250619T130513"
+  },
+  {
     "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
     "name": "gpu-operator",
     "pkg_id": "gpu-operator#github.com_NVIDIA_gpu_operator",
@@ -27596,6 +28396,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1546f12-211024T195047"
+  },
+  {
+    "description": "An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs",
+    "name": "grafana-operator",
+    "pkg_id": "grafana-operator#github.com_grafana_grafana_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bf17000-250619T165910"
   },
   {
     "description": "Go Relay Architecture for Implementing Nostr 🌾",
@@ -27931,6 +28744,84 @@
     "version": "HEAD-0b81523-240904T234822"
   },
   {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "guaccollect",
+    "pkg_id": "guaccollect#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "guaccsub",
+    "pkg_id": "guaccsub#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "guacgql",
+    "pkg_id": "guacgql#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "guacingest",
+    "pkg_id": "guacingest#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "guacone",
+    "pkg_id": "guacone#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "guacrest",
+    "pkg_id": "guacrest#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
     "description": "A tool for glamorous shell scripts 🎀",
     "name": "gum",
     "pkg_id": "gum#github.com_charmbracelet_gum",
@@ -28164,6 +29055,32 @@
     "version": "HEAD-6375564-241015T100855"
   },
   {
+    "description": "[Sandbox] Official Harbor CLI",
+    "name": "harbor",
+    "pkg_id": "harbor#github.com_goharbor_harbor_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9929fd9-250620T014357"
+  },
+  {
+    "description": "[Sandbox] Official Harbor CLI",
+    "name": "harbor-cli-doc",
+    "pkg_id": "harbor-cli-doc#github.com_goharbor_harbor_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9929fd9-250620T014357"
+  },
+  {
     "description": "A tool to scan directories and report on the space that could be saved by hardlinking identical files.  It can also perform the linking.  Written in Go.",
     "name": "hardlinkable",
     "pkg_id": "hardlinkable#github.com_chadnetzer_hardlinkable",
@@ -28186,6 +29103,17 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-66be280-250619T135739"
+  },
+  {
+    "description": "Open source hyperconverged infrastructure _HCI_ software",
+    "name": "harvester",
+    "pkg_id": "harvester#github.com_harvester_harvester",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a930b01-250620T092130"
   },
   {
     "description": "Haskell-flavoured functions for Go :smiley:",
@@ -28225,6 +29153,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-b3eea3d-240806T180611"
+  },
+  {
+    "description": "Kubernetes cloud-controller-manager for Hetzner Cloud",
+    "name": "hcloud-cloud-controller-manager",
+    "pkg_id": "hcloud-cloud-controller-manager#github.com_hetznercloud_hcloud_cloud_controller_manager",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-31e0331-250619T215109"
   },
   {
     "description": "Various tools, trinkets and experiments",
@@ -28393,6 +29334,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-13c0314-240516T110236"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "heliades",
+    "pkg_id": "heliades#github.com_helios_network_helios_core",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-13c91a9-250620T015636"
   },
   {
     "description": "♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge _RAG_, API bindings, and first-class testing.",
@@ -28726,6 +29677,18 @@
     "version": "HEAD-22ce8a9-250528T212608"
   },
   {
+    "description": "The Kubernetes Package Manager",
+    "name": "helm",
+    "pkg_id": "helm#github.com_helm_helm",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8e69436-250617T151831"
+  },
+  {
     "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
     "name": "helm-sync",
     "pkg_id": "helm-sync#github.com_GoogleContainerTools_kpt_config_sync",
@@ -28736,6 +29699,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
+    "description": "BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.",
+    "name": "helm-unittest",
+    "pkg_id": "helm-unittest#github.com_helm_unittest_helm_unittest",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-844bfe2-250602T233110"
   },
   {
     "description": "Cloud Foundry on Kubernetes",
@@ -29600,6 +30576,19 @@
     "version": "HEAD-6e4cc38-250615T075130"
   },
   {
+    "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+    "name": "hub",
+    "pkg_id": "hub#github.com_glasskube_distr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bc799ba-250620T030952"
+  },
+  {
     "description": "The world’s fastest framework for building websites.",
     "name": "hugo",
     "pkg_id": "hugo#github.com_gohugoio_hugo",
@@ -29657,6 +30646,7 @@
     "pkg_id": "hydra-dragonfire#github.com_dragonfireclient_hydra_dragonfire",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -30061,6 +31051,19 @@
     "version": "HEAD-70e322f-250619T142522"
   },
   {
+    "description": "monte carlo combat simulation for genshin impact",
+    "name": "imports",
+    "pkg_id": "imports#github.com_genshinsim_gcsim",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6a5bdbd-250619T122243"
+  },
+  {
     "description": "Concourse resource for interacting with AWS S3",
     "name": "in",
     "pkg_id": "in#github.com_concourse_s3_resource",
@@ -30175,6 +31178,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-bee550c-250619T152729"
+  },
+  {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "ingest",
+    "pkg_id": "ingest#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
   },
   {
     "description": "ADX-Mon - Azure Data Explorer based observability platform",
@@ -30381,6 +31397,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d8b1345-250619T162700"
+  },
+  {
+    "description": "APC P15 Tool is an open source replacement for APC_s NMC Security Wizard. It also adds additional functionality for installing certificates on APC NMC2 _ NMC3.",
+    "name": "install_only",
+    "pkg_id": "install_only#github.com_gregtwallace_apc_p15_tool",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4a3f79e-250619T230502"
   },
   {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
@@ -30693,6 +31722,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-38a1876-250619T120932"
+  },
+  {
+    "description": "IoT Sitewise",
+    "name": "iot-sitewise-datasource",
+    "pkg_id": "iot-sitewise-datasource#github.com_grafana_iot_sitewise_datasource",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6334799-250619T100127"
   },
   {
     "description": "Scrape the IP ranges of cloudproviders and check if a IP belongs to a particular CloudProvider. This can also help to speed up your CSIRT activities",
@@ -31312,6 +32354,19 @@
     "version": "HEAD-938d9bb-250609T111607"
   },
   {
+    "description": "Go + Godot 4.4",
+    "name": "js_bindings",
+    "pkg_id": "js_bindings#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
+  },
+  {
     "description": "jsleak is a tool to find secret , paths or links in the source code during the recon.",
     "name": "jsleak",
     "pkg_id": "jsleak#github.com_byt3hx_jsleak",
@@ -31711,6 +32766,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4dc1d93-250619T140404"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "k8s_dummy",
+    "pkg_id": "k8s_dummy#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
@@ -32252,6 +33320,19 @@
     "version": "HEAD-0bef90d-250619T111026"
   },
   {
+    "description": "Kraan is a Kubernetes Controller that manages the deployment of HelmReleases to a cluster.",
+    "name": "kraan",
+    "pkg_id": "kraan#github.com_fidelity_kraan",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d35ab01-250619T162401"
+  },
+  {
     "description": "A Simple and Powerful Golang SQL Library",
     "name": "ksql",
     "pkg_id": "ksql#github.com_VinGarcia_ksql",
@@ -32261,7 +33342,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-19",
+    "updated_at": "2025-06-20",
     "version": "HEAD-dadb419-250608T201613"
   },
   {
@@ -32289,6 +33370,31 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-67bc91a-250618T125148"
+  },
+  {
+    "description": "Turn Steamapp servers into container images.",
+    "name": "kubectl-approve_steamapps",
+    "pkg_id": "kubectl-approve_steamapps#github.com_frantjc_sindri",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3dfe865-250619T195429"
+  },
+  {
+    "description": "Layered Configuration Language",
+    "name": "kubectl-bkl",
+    "pkg_id": "kubectl-bkl#github.com_gopatchy_bkl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0d7305b-250620T001905"
   },
   {
     "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
@@ -32404,6 +33510,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1a5fafd-250619T105645"
+  },
+  {
+    "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+    "name": "kubernetes",
+    "pkg_id": "kubernetes#github.com_glasskube_distr",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bc799ba-250620T030952"
   },
   {
     "description": "A log viewer for Kubernetes troubleshooting",
@@ -32689,6 +33807,19 @@
     "version": "HEAD-393ac0d-241207T225124"
   },
   {
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "name": "launcher",
+    "pkg_id": "launcher#github.com_hashicorp_nomad",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c8dcd3c-250619T134806"
+  },
+  {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
     "name": "launchtemplate_counter",
     "pkg_id": "launchtemplate_counter#github.com_aws_karpenter_provider_aws",
@@ -32765,6 +33896,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-dec14d6-250526T175720"
+  },
+  {
+    "description": "Lightweight cache _ proxy",
+    "name": "lcp-cmd",
+    "pkg_id": "lcp-cmd#github.com_gleich_lcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a3e6e03-250619T130331"
   },
   {
     "description": "HugeSCM - A next generation cloud-based version control system",
@@ -33181,6 +34325,19 @@
     "version": "HEAD-8ac6e3f-250619T175256"
   },
   {
+    "description": "Go + Godot 4.4",
+    "name": "lifetimer",
+    "pkg_id": "lifetimer#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
+  },
+  {
     "description": "An AWS Lightsail monitor service that can auto change blocked IP.",
     "name": "lightsailmon",
     "pkg_id": "lightsailmon#github.com_Septrum101_lightsailMon",
@@ -33283,6 +34440,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-25b92df-250619T124341"
+  },
+  {
+    "description": "Liquor is a framework for backend development of a golang web application",
+    "name": "liquor",
+    "pkg_id": "liquor#github.com_go_liquor_liquor",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d24bf60-250619T184459"
   },
   {
     "description": "Forked from [cview]_https://code.rocket9labs.com/tslocum/cview_",
@@ -34476,6 +35646,19 @@
     "version": "HEAD-d421f0e-250610T202600"
   },
   {
+    "description": "[Sandbox] Official Harbor CLI",
+    "name": "man-docs",
+    "pkg_id": "man-docs#github.com_goharbor_harbor_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9929fd9-250620T014357"
+  },
+  {
     "description": "New generation community-driven etcd-operator!",
     "name": "manager",
     "pkg_id": "manager#github.com_aenix_io_etcd_operator",
@@ -34628,6 +35811,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b5c345a-240516T150051"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "mangle",
+    "pkg_id": "mangle#github.com_google_mangle",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-13fad55-250619T120535"
   },
   {
     "description": ":robot: CLI tool to help you manage repositories",
@@ -34940,6 +36136,19 @@
     "version": "HEAD-7a68280-250619T153346"
   },
   {
+    "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+    "name": "mcp",
+    "pkg_id": "mcp#github.com_glasskube_distr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bc799ba-250620T030952"
+  },
+  {
     "description": "🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.",
     "name": "mcp-gateway",
     "pkg_id": "mcp-gateway#github.com_AmoyLab_Unla",
@@ -34976,6 +36185,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-a71f76a-250619T170942"
+  },
+  {
+    "description": "a web logging proxy for MCP client-server communication",
+    "name": "mcp-log-proxy",
+    "pkg_id": "mcp-log-proxy#github.com_emicklei_mcp_log_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-37a0632-250619T211600"
   },
   {
     "description": "An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.",
@@ -35563,6 +36785,19 @@
     "version": "HEAD-7e78735-250414T230355"
   },
   {
+    "description": "Golang Microservice Boilerplate using MySQL, Docker and Swagger, API REST. Gin Go and GORM with pagination and implementation of a Clean Architecture.",
+    "name": "microservices-go",
+    "pkg_id": "microservices-go#github.com_gbrayhan_microservices_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fe1d1fe-250619T172305"
+  },
+  {
     "description": "Free Implementation of RouterOS Shell",
     "name": "microshell",
     "pkg_id": "microshell#github.com_blkmlk_microshell",
@@ -36013,6 +37248,18 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-c0b55c8-180308T180325"
+  },
+  {
+    "description": "Turn Steamapp servers into container images.",
+    "name": "mist",
+    "pkg_id": "mist#github.com_frantjc_sindri",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3dfe865-250619T195429"
   },
   {
     "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
@@ -36608,6 +37855,19 @@
     "version": "HEAD-8119777-240822T132915"
   },
   {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "monitor",
+    "pkg_id": "monitor#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
+  },
+  {
     "description": "Run separate pipelines for each folder in your monorepo",
     "name": "monorepo-diff-buildkite-plugin",
     "pkg_id": "monorepo-diff-buildkite-plugin#github.com_buildkite_plugins_monorepo_diff_buildkite_plugin",
@@ -36971,6 +38231,19 @@
     "version": "HEAD-5226f2c-250612T104253"
   },
   {
+    "description": "No Description Provided",
+    "name": "multi-nic-cni",
+    "pkg_id": "multi-nic-cni#github.com_foundation_model_stack_multi_nic_cni",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-e5b6f36-250619T124003"
+  },
+  {
     "description": "Kubernetes networking based on Open vSwitch",
     "name": "multicluster-controller",
     "pkg_id": "multicluster-controller#github.com_antrea_io_antrea",
@@ -37229,6 +38502,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-49937be-250308T121232"
+  },
+  {
+    "description": "NDC SDK for Go",
+    "name": "ndc-sdk-go",
+    "pkg_id": "ndc-sdk-go#github.com_hasura_ndc_sdk_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-099f94f-250619T231011"
   },
   {
     "description": "🥢 austere gemini/spartan server",
@@ -37668,6 +38954,19 @@
     "version": "HEAD-1599d36-241120T173019"
   },
   {
+    "description": "Go + Godot 4.4",
+    "name": "nocircle",
+    "pkg_id": "nocircle#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
+  },
+  {
     "description": "AGNTCY Identity allows to onboard, create and verify identities for Agents, Model Context Protocol _MCP_ Servers and Multi-Agent Systems _MASs_.",
     "name": "node",
     "pkg_id": "node#github.com_agntcy_identity",
@@ -37756,6 +39055,43 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-36a1c4f-250617T214608"
+  },
+  {
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "name": "nomad",
+    "pkg_id": "nomad#github.com_hashicorp_nomad",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c8dcd3c-250619T134806"
+  },
+  {
+    "description": "A nomad task driver plugin for sandboxing workloads in podman containers",
+    "name": "nomad-driver-podman",
+    "pkg_id": "nomad-driver-podman#github.com_hashicorp_nomad_driver_podman",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-12a687d-250619T163608"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "nomad_license_manage",
+    "pkg_id": "nomad_license_manage#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "Various tools, trinkets and experiments",
@@ -38745,6 +40081,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-3c78ff1-250611T083120"
+  },
+  {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "organizations",
+    "pkg_id": "organizations#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
   },
   {
     "description": "Various tools, trinkets and experiments",
@@ -40142,6 +41491,19 @@
     "version": "HEAD-e216d0c-250618T200058"
   },
   {
+    "description": "Boardgamegeek API for Golang",
+    "name": "plays",
+    "pkg_id": "plays#github.com_fzerorubigd_gobgg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5ab93a2-250619T210519"
+  },
+  {
     "description": "Azure Container Networking Solutions for Linux and Windows Containers",
     "name": "plugin",
     "pkg_id": "plugin#github.com_Azure_azure_container_networking",
@@ -40957,6 +42319,19 @@
     "version": "HEAD-4345c9f-250619T170136"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "projects",
+    "pkg_id": "projects#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "OpenTelemetry Collector distribution with programmable pipelines",
     "name": "prom-gen",
     "pkg_id": "prom-gen#github.com_grafana_alloy",
@@ -41177,6 +42552,19 @@
     "version": "HEAD-766ab74-250617T143807"
   },
   {
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "name": "protoc-gen-grpc-gateway",
+    "pkg_id": "protoc-gen-grpc-gateway#github.com_grpc_ecosystem_grpc_gateway",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-f7e7da8-250619T195645"
+  },
+  {
     "description": "The best way of working with Protocol Buffers.",
     "name": "protoc-gen-insertion-point-receiver",
     "pkg_id": "protoc-gen-insertion-point-receiver#github.com_bufbuild_buf",
@@ -41240,6 +42628,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d35cf37-250620T103640"
+  },
+  {
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "name": "protoc-gen-openapiv2",
+    "pkg_id": "protoc-gen-openapiv2#github.com_grpc_ecosystem_grpc_gateway",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-f7e7da8-250619T195645"
   },
   {
     "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
@@ -41677,6 +43078,19 @@
     "version": "HEAD-f10b05a-250619T161450"
   },
   {
+    "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+    "name": "pubsub_test",
+    "pkg_id": "pubsub_test#github.com_guacsec_guac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
     "description": "[mirror] Go_s continuous build and release infrastructure _no stability promises_",
     "name": "pubsubhelper",
     "pkg_id": "pubsubhelper#github.com_golang_build",
@@ -41766,6 +43180,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-196ae91-250607T141114"
+  },
+  {
+    "description": "A collection of test cases for all 01-edu projects. Each project has a .txt file containing tests for various scenarios, which are progressively added as each project is completed. Ideal for ensuring correctness and handling edge cases.",
+    "name": "push-swap",
+    "pkg_id": "push-swap#github.com_hmaach_01edu_tests",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-63c1e08-250619T184819"
   },
   {
     "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
@@ -41959,6 +43386,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-683c426-240208T110342"
+  },
+  {
+    "description": "Experimental webassembly framework",
+    "name": "qrcode",
+    "pkg_id": "qrcode#github.com_helmutkemper_webassembly",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d8ebeae-250619T222637"
   },
   {
     "description": ":zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
@@ -42931,6 +44371,19 @@
     "version": "HEAD-da40477-250602T074614"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "registry_modules",
+    "pkg_id": "registry_modules#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "🎲 A Distributed Randomness Beacon Daemon - Go implementation",
     "name": "regression",
     "pkg_id": "regression#github.com_drand_drand",
@@ -43139,6 +44592,19 @@
     "version": "HEAD-5e36958-250618T050254"
   },
   {
+    "description": "The release-operator manages chart configs for new releases.",
+    "name": "release-operator",
+    "pkg_id": "release-operator#github.com_giantswarm_release_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bcd03b6-250619T223855"
+  },
+  {
     "description": "No Description Provided",
     "name": "release-train",
     "pkg_id": "release-train#github.com_WillAbides_release_train",
@@ -43293,6 +44759,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d48d9ae-250318T220215"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "remote_apis_build_demo",
+    "pkg_id": "remote_apis_build_demo#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "Boundary enables identity-based access management for dynamic infrastructure.",
@@ -43600,6 +45079,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "resourceful",
+    "pkg_id": "resourceful#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "Shared GitHub Actions for FerretDB repos",
@@ -44686,6 +46178,19 @@
     "version": "HEAD-97bf6d7-250619T110227"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "run_errors",
+    "pkg_id": "run_errors#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "The snapd and snap tools enable systems to work with .snap files.",
     "name": "runas-1",
     "pkg_id": "runas-1#github.com_canonical_snapd",
@@ -44951,6 +46456,17 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-6375564-241015T100855"
+  },
+  {
+    "description": "Tool to concatenate project files into a single document for use with LLMs.",
+    "name": "sandworm",
+    "pkg_id": "sandworm#github.com_holonoms_sandworm",
+    "targets": [
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-08b716c-250619T185646"
   },
   {
     "description": "This repository contains the Agent for SAP _Linux and Windows_. The agent is intended to run on all Google Cloud compute instances where an SAP workload is running.",
@@ -45235,6 +46751,19 @@
     "version": "HEAD-e4419e9-250618T115603"
   },
   {
+    "description": "A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 _ MS Graph beta API_s. Built upon the terraform provider framework and MS kiota generated graph sdk_s in go.",
+    "name": "schema-builder",
+    "pkg_id": "schema-builder#github.com_deploymenttheory_terraform_provider_microsoft365",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-15617db-250619T172743"
+  },
+  {
     "description": "Gogs is a painless self-hosted Git service",
     "name": "schemadoc",
     "pkg_id": "schemadoc#github.com_gogs_gogs",
@@ -45324,6 +46853,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0af42ca-250619T130911"
+  },
+  {
+    "description": "Tracking the most popular Github repos, updated daily.",
+    "name": "scraper",
+    "pkg_id": "scraper#github.com_henson_Scraper",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-ec54b91-250620T000040"
   },
   {
     "description": "AkôFlow is an open-source middleware for orchestrating and executing container-based scientific workflows across heterogeneous environments. It was originally developed within the e-Science Research Group at the Institute of Computing, Fluminense Federal University _UFF_.",
@@ -45623,6 +47165,19 @@
     "version": "HEAD-4cd7ad4-250617T092209"
   },
   {
+    "description": "No Description Provided",
+    "name": "scripts",
+    "pkg_id": "scripts#github.com_helios_network_helios_core",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-13c91a9-250620T015636"
+  },
+  {
     "description": "Best LeetCode friend for geek. :snowboarder:",
     "name": "scripts",
     "pkg_id": "scripts#github.com_j178_leetgo",
@@ -45868,6 +47423,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ded610c-240819T004715"
+  },
+  {
+    "description": "A semantic versioning command line utility written in Go.",
+    "name": "semver",
+    "pkg_id": "semver#github.com_ffurrer2_semver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4fed846-250619T182858"
   },
   {
     "description": "A push notification server written in Go _Golang_.",
@@ -46939,6 +48507,19 @@
     "version": "HEAD-b8d3e98-250213T104149"
   },
   {
+    "description": "silence-operator manages Alertmanager silences via custom resources",
+    "name": "silence-operator",
+    "pkg_id": "silence-operator#github.com_giantswarm_silence_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0ee921b-250619T200233"
+  },
+  {
     "description": "SIMD for Go",
     "name": "simd_example",
     "pkg_id": "simd_example#github.com_bjwbell_gensimd",
@@ -47791,6 +49372,19 @@
     "version": "HEAD-e59ad09-250619T191316"
   },
   {
+    "description": "This repository converts and hosts Little Snitch rule groups from StevenBlack/hosts.",
+    "name": "snitcher",
+    "pkg_id": "snitcher#github.com_dschaller_snitcher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1d8c0d4-250620T013002"
+  },
+  {
     "description": "simple golang-based distributed network monitoring",
     "name": "snmp",
     "pkg_id": "snmp#github.com_carverauto_serviceradar",
@@ -48033,6 +49627,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-467916e-240322T170109"
+  },
+  {
+    "description": "🚀 A user management microservice_ OAuth 2.0 and OIDC provider",
+    "name": "space",
+    "pkg_id": "space#github.com_earaujoassis_space",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-31e9a5f-250618T221226"
   },
   {
     "description": "No Description Provided",
@@ -48662,6 +50269,19 @@
     "version": "HEAD-81eab85-250619T125223"
   },
   {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "staco",
+    "pkg_id": "staco#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
+  },
+  {
     "description": "[mirror] Go_s continuous build and release infrastructure _no stability promises_",
     "name": "stage0",
     "pkg_id": "stage0#github.com_golang_build",
@@ -48838,6 +50458,19 @@
     "version": "HEAD-9c5c2d5-250618T154930"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "state_versions",
+    "pkg_id": "state_versions#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "Cloud Foundry on Kubernetes",
     "name": "statefulset-runner",
     "pkg_id": "statefulset-runner#github.com_cloudfoundry_korifi",
@@ -48981,6 +50614,19 @@
     "version": "HEAD-ef46bea-250619T183844"
   },
   {
+    "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+    "name": "status",
+    "pkg_id": "status#github.com_glasskube_distr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-bc799ba-250620T030952"
+  },
+  {
     "description": "Stealth dropper executing remote binaries without dropping them on disk ._HTTP3 support, ICMP support, invisible tracks, cross-platform,..._",
     "name": "stdin",
     "pkg_id": "stdin#github.com_ariary_fileless_xec",
@@ -49109,6 +50755,18 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1546f12-211024T195047"
+  },
+  {
+    "description": "Turn Steamapp servers into container images.",
+    "name": "stoker",
+    "pkg_id": "stoker#github.com_frantjc_sindri",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3dfe865-250619T195429"
   },
   {
     "description": "Distributed reliable key-value store for the most critical data of a distributed system",
@@ -49341,6 +50999,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "Go + Godot 4.4",
+    "name": "structables",
+    "pkg_id": "structables#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
   },
   {
     "description": "Staticcheck - The advanced Go linter",
@@ -50499,6 +52170,19 @@
     "version": "HEAD-4271bc0-220807T092529"
   },
   {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "template",
+    "pkg_id": "template#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
+  },
+  {
     "description": "A simple command line notebook for programmers",
     "name": "templates",
     "pkg_id": "templates#github.com_dnote_dnote",
@@ -50654,6 +52338,19 @@
     "version": "HEAD-6e67b0d-250619T165846"
   },
   {
+    "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code _IaC_ development.",
+    "name": "terraform-mcp-server",
+    "pkg_id": "terraform-mcp-server#github.com_hashicorp_terraform_mcp_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-0ee9eaf-250610T111927"
+  },
+  {
     "description": "Aiven Terraform Provider",
     "name": "terraform-provider-aiven",
     "pkg_id": "terraform-provider-aiven#github.com_aiven_terraform_provider_aiven",
@@ -50742,6 +52439,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-383e48d-250619T150432"
+  },
+  {
+    "description": "Manage https://goauthentik.io with terraform.",
+    "name": "terraform-provider-authentik",
+    "pkg_id": "terraform-provider-authentik#github.com_goauthentik_terraform_provider_authentik",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-39352b6-250620T002335"
   },
   {
     "description": "Terraform _ OpenTOFU Provider for managing resources on AuthZed Cloud",
@@ -50990,6 +52700,19 @@
     "version": "HEAD-ec951ae-250619T123648"
   },
   {
+    "description": "A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 _ MS Graph beta API_s. Built upon the terraform provider framework and MS kiota generated graph sdk_s in go.",
+    "name": "terraform-provider-microsoft365",
+    "pkg_id": "terraform-provider-microsoft365#github.com_deploymenttheory_terraform_provider_microsoft365",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-15617db-250619T172743"
+  },
+  {
     "description": "Terraform NaverCloud provider",
     "name": "terraform-provider-ncloud",
     "pkg_id": "terraform-provider-ncloud#github.com_NaverCloudPlatform_terraform_provider_ncloud",
@@ -51029,6 +52752,19 @@
     "version": "HEAD-57688d8-250619T224507"
   },
   {
+    "description": "Terraform provider for SFTPGo",
+    "name": "terraform-provider-sftpgo",
+    "pkg_id": "terraform-provider-sftpgo#github.com_drakkan_terraform_provider_sftpgo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-f21541c-250619T190927"
+  },
+  {
     "description": "Terraform Provider for Splunk ITSI",
     "name": "terraform-provider-splunk-itsi",
     "pkg_id": "terraform-provider-splunk-itsi#github.com_TiVo_terraform_provider_splunk_itsi",
@@ -51040,6 +52776,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ddb6a90-250618T153613"
+  },
+  {
+    "description": "Official HCP Terraform and Terraform Enterprise provider, maintained by HashiCorp. Provision HCP Terraform or Terraform Enterprise - with Terraform!",
+    "name": "terraform-provider-tfe",
+    "pkg_id": "terraform-provider-tfe#github.com_hashicorp_terraform_provider_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c250a88-250619T155212"
   },
   {
     "description": "No Description Provided",
@@ -51066,6 +52815,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-53c0585-221016T215939"
+  },
+  {
+    "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "name": "terragrunt",
+    "pkg_id": "terragrunt#github.com_gruntwork_io_terragrunt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-47dd829-250619T114110"
   },
   {
     "description": "ContainerSSH: Launch containers on demand",
@@ -51221,6 +52983,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a0db450-231008T112640"
+  },
+  {
+    "description": "A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 _ MS Graph beta API_s. Built upon the terraform provider framework and MS kiota generated graph sdk_s in go.",
+    "name": "test",
+    "pkg_id": "test#github.com_deploymenttheory_terraform_provider_microsoft365",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-15617db-250619T172743"
   },
   {
     "description": "Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.",
@@ -51430,6 +53205,19 @@
     "version": "HEAD-f5c453a-250304T114135"
   },
   {
+    "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+    "name": "testblocking",
+    "pkg_id": "testblocking#github.com_elastic_elastic_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8803a02-250619T162307"
+  },
+  {
     "description": "Shared library for Anytype clients",
     "name": "testcase",
     "pkg_id": "testcase#github.com_anyproto_anytype_heart",
@@ -51608,6 +53396,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-58856c4-250618T192432"
+  },
+  {
+    "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+    "name": "testlocker",
+    "pkg_id": "testlocker#github.com_elastic_elastic_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8803a02-250619T162307"
   },
   {
     "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
@@ -51789,6 +53590,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-f5c453a-250304T114135"
+  },
+  {
+    "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+    "name": "testsignal",
+    "pkg_id": "testsignal#github.com_elastic_elastic_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8803a02-250619T162307"
   },
   {
     "description": "Практические примеры для вебинаров курса OTUS «Разработчик Golang»",
@@ -52619,6 +54433,19 @@
     "version": "HEAD-d922202-250414T215740"
   },
   {
+    "description": "APC P15 Tool is an open source replacement for APC_s NMC Security Wizard. It also adds additional functionality for installing certificates on APC NMC2 _ NMC3.",
+    "name": "tool",
+    "pkg_id": "tool#github.com_gregtwallace_apc_p15_tool",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-4a3f79e-250619T230502"
+  },
+  {
     "description": "Distributed batch data processing framework",
     "name": "toolbelt",
     "pkg_id": "toolbelt#github.com_capillariesio_capillaries",
@@ -52894,6 +54721,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0bef90d-250619T111026"
+  },
+  {
+    "description": "A project to collate IAM actions, AWS APIs and managed policies from various public sources.",
+    "name": "trackiam",
+    "pkg_id": "trackiam#github.com_glassechidna_trackiam",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-e2f2022-250619T200404"
   },
   {
     "description": "Blazingly fast and light-weight Actor engine written in Golang",
@@ -53968,6 +55808,18 @@
     "version": "HEAD-bc9d36b-250509T152304"
   },
   {
+    "description": "Open source hyperconverged infrastructure _HCI_ software",
+    "name": "upgradehelper",
+    "pkg_id": "upgradehelper#github.com_harvester_harvester",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a930b01-250620T092130"
+  },
+  {
     "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
     "name": "upload",
     "pkg_id": "upload#github.com_go_rod_rod",
@@ -54302,6 +56154,19 @@
     "version": "HEAD-4d1a063-250610T160627"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "users",
+    "pkg_id": "users#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "Establishes persistence on a Linux system by creating a udev rule that triggers the execution of a specified payload _binary or script_",
     "name": "usp",
     "pkg_id": "usp#github.com_grahamhelton_USP",
@@ -54471,6 +56336,19 @@
     "version": "HEAD-b333f9e-250506T205336"
   },
   {
+    "description": "Go + Godot 4.4",
+    "name": "v2",
+    "pkg_id": "v2#github.com_grow_graphics_gd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1898b6e-250620T123949"
+  },
+  {
     "description": "V2Ray deployment of felixonmars/dnsmasq-china-list project",
     "name": "v2ray-china-list",
     "pkg_id": "v2ray-china-list#github.com_dctxmei_v2ray_china_list",
@@ -54496,6 +56374,18 @@
     "version": "HEAD-0f7c7ac-250608T130653"
   },
   {
+    "description": "Turn Steamapp servers into container images.",
+    "name": "valheimw",
+    "pkg_id": "valheimw#github.com_frantjc_sindri",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3dfe865-250619T195429"
+  },
+  {
     "description": "First boot installer and configuration tool",
     "name": "validate",
     "pkg_id": "validate#github.com_coreos_ignition",
@@ -54507,6 +56397,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4d1a063-250610T160627"
+  },
+  {
+    "description": "Toolkit for lean builds and team management.",
+    "name": "validate",
+    "pkg_id": "validate#github.com_enfabrica_enkit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a1810c2-250619T143504"
   },
   {
     "description": "Validator software for Starknet stakers written in Go",
@@ -54557,6 +56460,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0bef90d-250619T111026"
+  },
+  {
+    "description": "Vault authentication plugin for Kubernetes Service Accounts",
+    "name": "vault-plugin-auth-kubernetes",
+    "pkg_id": "vault-plugin-auth-kubernetes#github.com_hashicorp_vault_plugin_auth_kubernetes",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-8e119e8-250619T142115"
   },
   {
     "description": "Create and manage Isolated Virtual Environments for Go",
@@ -55815,6 +57731,19 @@
     "version": "HEAD-fac6c12-250619T161904"
   },
   {
+    "description": "A simple and standalone WebDAV server.",
+    "name": "webdav",
+    "pkg_id": "webdav#github.com_hacdias_webdav",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-2c2a325-250619T232256"
+  },
+  {
     "description": "No Description Provided",
     "name": "webeye",
     "pkg_id": "webeye#github.com_akkuman_webeye",
@@ -55904,6 +57833,17 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-39b8c2c-250619T153318"
+  },
+  {
+    "description": "Open source hyperconverged infrastructure _HCI_ software",
+    "name": "webhook",
+    "pkg_id": "webhook#github.com_harvester_harvester",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a930b01-250620T092130"
   },
   {
     "description": "A webhook receiver on steroids.",
@@ -56587,6 +58527,19 @@
     "version": "HEAD-ca82d2e-250618T223733"
   },
   {
+    "description": "HCP Terraform/Enterprise API Client/SDK in Golang",
+    "name": "workspaces",
+    "pkg_id": "workspaces#github.com_hashicorp_go_tfe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
     "description": "Golang driver for ClickHouse",
     "name": "write",
     "pkg_id": "write#github.com_ClickHouse_clickhouse_go",
@@ -56830,6 +58783,17 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-f3b5f7d-250531T161328"
+  },
+  {
+    "description": "Ethereum network monitoring with collection clients and a centralized server for data pipelining.",
+    "name": "xatu",
+    "pkg_id": "xatu#github.com_ethpandaops_xatu",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-a772acc-250620T130749"
   },
   {
     "description": "[mirror] Go_s continuous build and release infrastructure _no stability promises_",
