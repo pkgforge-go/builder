@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "downloadkubernetes",
+  "pkg_family": "downloadkubernetes",
+  "pkg_id": "downloadkubernetes#github.com_kubernetes_sigs_downloadkubernetes",
+  "pkg_name": "downloadkubernetes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/downloadkubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Download kubernetes binaries more easily",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/downloadkubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "downloadkubernetes"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/downloadkubernetes/archive/4cd1ca87c76fc1b45be0ec593b30db71ecfe120c.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-release"
+  ],
+  "version": "HEAD-4cd1ca8-250620T012453",
+  "version_upstream": "",
+  "bsum": "8fc836b36c492dcc0e45c1fd26bc87816c4de1b64258a0962090585813cc5406",
+  "build_date": "2025-06-20T19:39:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785648014",
+  "build_id": "15785648014",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/downloadkubernetes/downloadkubernetes?tag=HEAD-4cd1ca8-250620T012453-riscv64-Linux&download=downloadkubernetes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/downloadkubernetes/downloadkubernetes?tag=HEAD-4cd1ca8-250620T012453-riscv64-Linux&download=downloadkubernetes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/downloadkubernetes/downloadkubernetes:HEAD-4cd1ca8-250620T012453-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/downloadkubernetes/downloadkubernetes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/downloadkubernetes/downloadkubernetes?tag=HEAD-4cd1ca8-250620T012453-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d21ab3cf48b1e071faa9e3fe225370a3fed5aa974973228bb08275f398001fa9",
+  "size": "61 MB",
+  "size_raw": "63565784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
