@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mixer-cmd",
+  "pkg_family": "mixer",
+  "pkg_id": "mixer-cmd#github.com_datacommonsorg_mixer",
+  "pkg_name": "mixer-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/datacommonsorg/mixer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mixer provides the translator engine and API interface to access Data Commons graph",
+  "homepage": [
+    "https://github.com/datacommonsorg/mixer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "http_memprof",
+    "mixer-cmd",
+    "send_email",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/datacommonsorg/mixer/archive/2e3399a4605593e0f2fa9ee37cab0640e4475fba.tar.gz"
+  ],
+  "tag": [
+    "api-server",
+    "go",
+    "grpc-go"
+  ],
+  "version": "HEAD-2e3399a-250620T122249",
+  "version_upstream": "prod",
+  "bsum": "80ff2a175a79a907108cf17e1c801a2608684df28ec393c55d4bfd708367eb6e",
+  "build_date": "2025-06-20T17:47:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784112003",
+  "build_id": "15784112003",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/mixer-cmd?tag=HEAD-2e3399a-250620T122249-loongarch64-Linux&download=mixer-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/mixer-cmd?tag=HEAD-2e3399a-250620T122249-loongarch64-Linux&download=mixer-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datacommonsorg/mixer/mixer-cmd:HEAD-2e3399a-250620T122249-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datacommonsorg/mixer/mixer-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datacommonsorg/mixer/mixer-cmd?tag=HEAD-2e3399a-250620T122249-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "29d45d37fb67c4cbb5f93704c8f821ffec2c78746e6715462ece8cc487fb97cb",
+  "size": "63 MB",
+  "size_raw": "65336624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
