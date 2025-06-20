@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "vault-plugin-auth-kubernetes",
+  "pkg_family": "vault-plugin-auth-kubernetes",
+  "pkg_id": "vault-plugin-auth-kubernetes#github.com_hashicorp_vault_plugin_auth_kubernetes",
+  "pkg_name": "vault-plugin-auth-kubernetes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/vault-plugin-auth-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Vault authentication plugin for Kubernetes Service Accounts",
+  "homepage": [
+    "https://github.com/hashicorp/vault-plugin-auth-kubernetes"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vault-plugin-auth-kubernetes"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/vault-plugin-auth-kubernetes/archive/8e119e8c5bb58e4f5822956a9291b436c543f2ff.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8e119e8-250619T142115",
+  "version_upstream": "v0.22.2",
+  "bsum": "1600e61bdf1f60a6df82e9565a8839156d71eb048dd084b844f47f846f7074be",
+  "build_date": "2025-06-20T09:32:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775108031",
+  "build_id": "15775108031",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/vault-plugin-auth-kubernetes/vault-plugin-auth-kubernetes?tag=HEAD-8e119e8-250619T142115-x86_64-Linux&download=vault-plugin-auth-kubernetes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "213",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/vault-plugin-auth-kubernetes/vault-plugin-auth-kubernetes?tag=HEAD-8e119e8-250619T142115-x86_64-Linux&download=vault-plugin-auth-kubernetes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/vault-plugin-auth-kubernetes/vault-plugin-auth-kubernetes:HEAD-8e119e8-250619T142115-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/vault-plugin-auth-kubernetes/vault-plugin-auth-kubernetes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/vault-plugin-auth-kubernetes/vault-plugin-auth-kubernetes?tag=HEAD-8e119e8-250619T142115-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f294ad1cbb133fe40077f132ef67ab339fdbcdbcf0268d55e8f037f6a14e7b56",
+  "size": "33 MB",
+  "size_raw": "34056856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
