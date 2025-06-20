@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kuma-cni",
+  "pkg_family": "kuma",
+  "pkg_id": "kuma-cni#github.com_kumahq_kuma",
+  "pkg_name": "kuma-cni",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kumahq/kuma",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
+  "homepage": [
+    "https://github.com/kumahq/kuma"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-linter",
+    "bootstrap",
+    "ci",
+    "generator",
+    "install",
+    "kuma-cni",
+    "kuma-cp",
+    "kuma-dp",
+    "kumactl",
+    "resource-gen",
+    "server",
+    "update-vulnerable-dependencies",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kumahq/kuma/archive/a5569b9f86f9fcd649bb1c6baea94c821745386c.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "cloud-native",
+    "cncf",
+    "connectivity",
+    "control-plane",
+    "controlplane",
+    "envoy",
+    "envoyproxy",
+    "golang",
+    "kong",
+    "kubernetes",
+    "kuma",
+    "mesh",
+    "microservices",
+    "networking",
+    "service-mesh",
+    "servicemesh",
+    "sidecar-proxy"
+  ],
+  "version": "HEAD-a5569b9-250620T074747",
+  "version_upstream": "",
+  "bsum": "89c80de68f7835d83af8aa72436e9c3a996d34f19dab6647226c67a6ce068c75",
+  "build_date": "2025-06-20T20:06:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785997393",
+  "build_id": "15785997393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/kuma-cni?tag=HEAD-a5569b9-250620T074747-x86_64-Linux&download=kuma-cni.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3813",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/kuma-cni?tag=HEAD-a5569b9-250620T074747-x86_64-Linux&download=kuma-cni",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kumahq/kuma/kuma-cni:HEAD-a5569b9-250620T074747-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kumahq/kuma/kuma-cni",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/kuma-cni?tag=HEAD-a5569b9-250620T074747-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db06d09f7a3b2ac149f2e63301e574b12b1cc62e5fb017d0830f175b7fe7f276",
+  "size": "55 MB",
+  "size_raw": "57539104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
