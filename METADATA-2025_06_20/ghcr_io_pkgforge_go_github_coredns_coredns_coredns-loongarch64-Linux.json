@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "coredns",
+  "pkg_family": "coredns",
+  "pkg_id": "coredns#github.com_coredns_coredns",
+  "pkg_name": "coredns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coredns/coredns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CoreDNS is a DNS server that chains plugins",
+  "homepage": [
+    "https://github.com/coredns/coredns"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coredns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coredns/coredns/archive/b2a2a5f6480ffc584411305277172aa7fa03cf1b.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "coredns",
+    "dns-server",
+    "go",
+    "plugin",
+    "service-discovery"
+  ],
+  "version": "HEAD-b2a2a5f-250619T174937",
+  "version_upstream": "",
+  "bsum": "9bce46e26d54983685f3cc20851794ddd58d3c6579da3f43c97a84d67f419104",
+  "build_date": "2025-06-20T08:16:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773772519",
+  "build_id": "15773772519",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coredns/coredns/coredns?tag=HEAD-b2a2a5f-250619T174937-loongarch64-Linux&download=coredns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13090",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coredns/coredns/coredns?tag=HEAD-b2a2a5f-250619T174937-loongarch64-Linux&download=coredns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coredns/coredns/coredns:HEAD-b2a2a5f-250619T174937-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coredns/coredns/coredns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coredns/coredns/coredns?tag=HEAD-b2a2a5f-250619T174937-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31264484cd506c9af27c07f5de82e940737984536b4f5f6546a0908dcd443305",
+  "size": "76 MB",
+  "size_raw": "78725152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
