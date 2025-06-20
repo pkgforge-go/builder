@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "irictl-volume",
+  "pkg_family": "ironcore",
+  "pkg_id": "irictl-volume#github.com_ironcore_dev_ironcore",
+  "pkg_name": "irictl-volume",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ironcore-dev/ironcore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Infrastructure as a Service",
+  "homepage": [
+    "https://github.com/ironcore-dev/ironcore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bucketbroker",
+    "bucketpoollet",
+    "irictl-bucket",
+    "irictl-machine",
+    "irictl-volume",
+    "ironcore-apiserver",
+    "ironcore-controller-manager",
+    "machinebroker",
+    "machinepoollet",
+    "models-schema",
+    "volumebroker",
+    "volumepoollet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ironcore-dev/ironcore/archive/6c985df856069bd4cfb4b8f763abf8d2f9dc6899.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cloudnative",
+    "iaas",
+    "infrastructure",
+    "ironcore",
+    "kubernetes",
+    "onmetal-api"
+  ],
+  "version": "HEAD-6c985df-250620T100354",
+  "version_upstream": "",
+  "bsum": "cb13b72291da211efa83c1ad9a9e952db28fec0f483e7e59960a80e370268100",
+  "build_date": "2025-06-20T19:16:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785118960",
+  "build_id": "15785118960",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/irictl-volume?tag=HEAD-6c985df-250620T100354-x86_64-Linux&download=irictl-volume.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/irictl-volume?tag=HEAD-6c985df-250620T100354-x86_64-Linux&download=irictl-volume",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ironcore-dev/ironcore/irictl-volume:HEAD-6c985df-250620T100354-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ironcore-dev/ironcore/irictl-volume",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/ironcore/irictl-volume?tag=HEAD-6c985df-250620T100354-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2adbb3ca605eeb02e101f3c43c851e1da8ed448357eef633576d900c0b3e341",
+  "size": "40 MB",
+  "size_raw": "41892256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
