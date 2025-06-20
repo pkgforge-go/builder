@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nacl-generate-box-key",
+  "pkg_family": "nacl",
+  "pkg_id": "nacl-generate-box-key#github.com_kevinburke_nacl",
+  "pkg_name": "nacl-generate-box-key",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kevinburke/nacl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure Go implementation of the NaCL set of API_s",
+  "homepage": [
+    "https://github.com/kevinburke/nacl"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-sign-keypair",
+    "nacl-generate-box-key",
+    "nacl-generate-key"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kevinburke/nacl/archive/4fa338b68f84c937d8ae474cd896a8c1bfc3e236.tar.gz"
+  ],
+  "tag": [
+    "curve25519",
+    "golang",
+    "nacl",
+    "secretbox",
+    "security"
+  ],
+  "version": "HEAD-4fa338b-250517T204207",
+  "version_upstream": "",
+  "bsum": "f1ed33fadcfa8d6cba41302f5fef7727f91e034a6e421d9fadc602f338c5f37b",
+  "build_date": "2025-06-20T14:50:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780428981",
+  "build_id": "15780428981",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/nacl-generate-box-key?tag=HEAD-4fa338b-250517T204207-riscv64-Linux&download=nacl-generate-box-key.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "547",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/nacl-generate-box-key?tag=HEAD-4fa338b-250517T204207-riscv64-Linux&download=nacl-generate-box-key",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kevinburke/nacl/nacl-generate-box-key:HEAD-4fa338b-250517T204207-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kevinburke/nacl/nacl-generate-box-key",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kevinburke/nacl/nacl-generate-box-key?tag=HEAD-4fa338b-250517T204207-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3bf293cd37f590291c8c7b47f1c0a17cf97e85e46e18d42ac06fc56c3c271acb",
+  "size": "1.9 MB",
+  "size_raw": "1987256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
