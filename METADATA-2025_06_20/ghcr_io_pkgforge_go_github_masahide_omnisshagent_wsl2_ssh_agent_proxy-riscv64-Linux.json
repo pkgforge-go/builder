@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wsl2-ssh-agent-proxy",
+  "pkg_family": "OmniSSHAgent",
+  "pkg_id": "wsl2-ssh-agent-proxy#github.com_masahide_OmniSSHAgent",
+  "pkg_name": "wsl2-ssh-agent-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/masahide/OmniSSHAgent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Integrated ssh-agent for windows. _pageant compatible. openSSH ssh-agent etc .._",
+  "homepage": [
+    "https://github.com/masahide/OmniSSHAgent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-bench",
+    "test",
+    "wsl2-ssh-agent-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/masahide/OmniSSHAgent/archive/a178faf145620ce7cb27eae85fe228760d7f0c4e.tar.gz"
+  ],
+  "tag": [
+    "1password",
+    "golang",
+    "pageant",
+    "putty",
+    "ssh",
+    "ssh-agent",
+    "ssh-key",
+    "wails",
+    "wsl",
+    "wsl2"
+  ],
+  "version": "HEAD-a178faf-250406T001402",
+  "version_upstream": "v0.5.0",
+  "bsum": "0f2eb1cf8c01e98cfa74bac5edca5b93b994bb0231ca5dfa3632b7572a61f0c6",
+  "build_date": "2025-06-20T21:38:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787933098",
+  "build_id": "15787933098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/omnisshagent/wsl2-ssh-agent-proxy?tag=HEAD-a178faf-250406T001402-riscv64-Linux&download=wsl2-ssh-agent-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "142",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/omnisshagent/wsl2-ssh-agent-proxy?tag=HEAD-a178faf-250406T001402-riscv64-Linux&download=wsl2-ssh-agent-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/masahide/omnisshagent/wsl2-ssh-agent-proxy:HEAD-a178faf-250406T001402-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/masahide/omnisshagent/wsl2-ssh-agent-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/omnisshagent/wsl2-ssh-agent-proxy?tag=HEAD-a178faf-250406T001402-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5271c6afde6f483be8833701023d38f4d9f92feeb2c13b01b97d07eba7e60a9b",
+  "size": "2.6 MB",
+  "size_raw": "2641032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
