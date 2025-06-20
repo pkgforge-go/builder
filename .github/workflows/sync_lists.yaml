@@ -229,7 +229,8 @@ jobs:
              elif [[ "${BUILD_LIST_TMP}" -lt 10 ]]; then
                sed -e '/^[[:space:]]*$/d;10q' "./BUILD_LIST.tmp" | sort -u -o "./BUILD_LIST.txt"
                if [[ "$(wc -l < "./BUILD_LIST.txt" | tr -cd '[:digit:]')" -lt 10 ]]; then
-                  echo -e "\n[+] Generating Build List (Diff from Prebuilts + PKG_LIST + Old Prebuilts)\n"
+                 echo -e "\n[+] Generating Build List (Diff from Prebuilts + PKG_LIST + Old Prebuilts)\n"
+                 #Filter by version (mismatch)
                   jq -r --slurpfile cli_pkgs "${O_D}/PKGS_CLI_ONLY.json" \
                    '
                     .[] | 
@@ -248,22 +249,44 @@ jobs:
                     end
                    ' "${O_D}/PKGS_BUILT.json" | grep -Eiv '^null$' | sed -e '/^[[:space:]]*$/d;240q' |\
                   sort -u >> "./BUILD_LIST.txt"
+                 #Filter by version (match/greater)
+                  readarray -t "FILTER_LIST" < <(jq -r --slurpfile built "${O_D}/PKGS_CLI_ONLY.json" \
+                   '
+                     .[] | 
+                    select(type == "object" and has("pkg_id") and has("version") and (.pkg_id | contains("#"))) |
+                    (.pkg_id | split("#")[1]) as $built_pkg_id |
+                    (.version) as $built_version |
+                    ($cli_pkgs[0][] | select(type == "object" and has("pkg_id") and has("version") and .pkg_id == $built_pkg_id)) as $cli_match |
+                    if $cli_match and $built_version and $cli_match.version then
+                      if $built_version == $cli_match.version then
+                        $built_pkg_id
+                      else
+                        empty
+                      end
+                    else
+                      empty
+                    end
+                   ' "${O_D}/PKGS_BUILT.json" | grep -Eiv '^null$' | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g')
+                   grep -vxFf <(printf "%s\n" "${FILTER_LIST[@]}") "./BUILD_LIST.txt" > "./BUILD_LIST_filtered.txt"
+                   mv -fv "./BUILD_LIST_filtered.txt" "./BUILD_LIST.txt"
                fi
              else
                echo -e "\n[+] Generating Build List (Diff from BUILD_LIST [${BUILD_LIST_TMP}])\n"
                sed -e '/^[[:space:]]*$/d;256q' "./BUILD_LIST.tmp" | sort -u -o "./BUILD_LIST.txt"
              fi
-               grep -xFf <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "${O_D}/PKG_LIST.txt") <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "./BUILD_LIST.txt") > "./BUILD_LIST.txt.tmp"
-               BUILD_LIST_TMP_C="$(wc -l < "./BUILD_LIST.txt.tmp" | tr -cd '[:digit:]' | tr -d '[:space:]')"
-               if [[ "${BUILD_LIST_TMP_C}" -gt 10 ]]; then
-                  mv -fv "./BUILD_LIST.txt.tmp" "./BUILD_LIST.txt"
-               else
-                  rm -rfv "./BUILD_LIST.txt.tmp"
-               fi
-               cat "./BUILD_LIST.txt" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d;256q' > "./file1.tmp"
-               cat "${O_D}/BUILD_LIST.txt" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' > "./file2.tmp"
-               comm -23 "./file1.tmp" "./file2.tmp" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d' | head -n $((255 - $(wc -l < "./file2.tmp"))) > "./diff.tmp"
-               cat "./file1.tmp" "./diff.tmp" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d;255q' > "${O_D}/BUILD_LIST.txt"
+           ##Cleanup Build List
+             grep -xFf <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "${O_D}/PKG_LIST.txt") <(sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "./BUILD_LIST.txt") > "./BUILD_LIST.txt.tmp"
+             BUILD_LIST_TMP_C="$(wc -l < "./BUILD_LIST.txt.tmp" | tr -cd '[:digit:]' | tr -d '[:space:]')"
+             if [[ "${BUILD_LIST_TMP_C}" -gt 10 ]]; then
+                mv -fv "./BUILD_LIST.txt.tmp" "./BUILD_LIST.txt"
+             else
+                rm -rfv "./BUILD_LIST.txt.tmp"
+             fi
+             cat "./BUILD_LIST.txt" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d;256q' > "./file1.tmp"
+             cat "${O_D}/BUILD_LIST.txt" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' > "./file2.tmp"
+             comm -23 "./file1.tmp" "./file2.tmp" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d' | head -n $((255 - $(wc -l < "./file2.tmp"))) > "./diff.tmp"
+             cat "./file1.tmp" "./diff.tmp" | sort -u | sed -E 's/^[[:space:]]+|[[:space:]]+$//g' | sed -e '/^[[:space:]]*$/d;255q' > "${O_D}/BUILD_LIST.txt"
+           ##Merge & Sort
            sed -E 's/^[[:space:]]+|[[:space:]]+$//g' -i "${O_D}/CACHE_LIST.txt"
            sed '/^[[:space:]]*$/d' -i "${O_D}/CACHE_LIST.txt"
            sed -E 's/^[[:space:]]+|[[:space:]]+$//g' -i "${O_D}/PKG_LIST.txt"
