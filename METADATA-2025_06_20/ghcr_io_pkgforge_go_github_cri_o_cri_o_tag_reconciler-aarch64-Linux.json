@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tag-reconciler",
+  "pkg_family": "cri-o",
+  "pkg_id": "tag-reconciler#github.com_cri_o_cri_o",
+  "pkg_name": "tag-reconciler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cri-o/cri-o",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+  "homepage": [
+    "https://github.com/cri-o/cri-o"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkcriu",
+    "checkseccomp",
+    "dependencies",
+    "metrics-exporter",
+    "release",
+    "release-branch-forward",
+    "release-notes",
+    "scripts",
+    "tag-reconciler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cri-o/cri-o/archive/5e369580837396fd0fca8e7581c3059e595ddf0a.tar.gz"
+  ],
+  "tag": [
+    "container-runtime-interface",
+    "crun",
+    "hacktoberfest",
+    "k8s-sig-node",
+    "kata-containers",
+    "kubernetes",
+    "oci",
+    "oci-runtime",
+    "runc"
+  ],
+  "version": "HEAD-5e36958-250618T050254",
+  "version_upstream": "",
+  "bsum": "235a48015bce976b39ccd5d91b9f1545c95aa6f70e0467a936f070ecfcf23957",
+  "build_date": "2025-06-20T08:28:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773800197",
+  "build_id": "15773800197",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cri-o/cri-o/tag-reconciler?tag=HEAD-5e36958-250618T050254-aarch64-Linux&download=tag-reconciler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5428",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cri-o/cri-o/tag-reconciler?tag=HEAD-5e36958-250618T050254-aarch64-Linux&download=tag-reconciler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cri-o/cri-o/tag-reconciler:HEAD-5e36958-250618T050254-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cri-o/cri-o/tag-reconciler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cri-o/cri-o/tag-reconciler?tag=HEAD-5e36958-250618T050254-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c02ef86a77635a652ca0d762353b56d382e2e4c7690569de3f168d4651de763",
+  "size": "7.4 MB",
+  "size_raw": "7736832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
