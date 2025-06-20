@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dlv",
+  "pkg_family": "delve",
+  "pkg_id": "dlv#github.com_go_delve_delve",
+  "pkg_name": "dlv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-delve/delve",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Delve is a debugger for the Go programming language.",
+  "homepage": [
+    "https://github.com/go-delve/delve"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dlv",
+    "gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-delve/delve/archive/091ff506450c260d89c5f2a7c03bbcdf7eb47419.tar.gz"
+  ],
+  "tag": [
+    "debugger",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-091ff50-250617T160452",
+  "version_upstream": "",
+  "bsum": "d3e68ee231e71d538dc5445a4194347f3d4c322f9d3e5d2c2782be5a48a6698f",
+  "build_date": "2025-06-20T03:03:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769670561",
+  "build_id": "15769670561",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-delve/delve/dlv?tag=HEAD-091ff50-250617T160452-aarch64-Linux&download=dlv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23911",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-delve/delve/dlv?tag=HEAD-091ff50-250617T160452-aarch64-Linux&download=dlv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-delve/delve/dlv:HEAD-091ff50-250617T160452-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-delve/delve/dlv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-delve/delve/dlv?tag=HEAD-091ff50-250617T160452-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fc0f0488c55b9f51fca3258e97b0c59e01ffe37a1bd829d80fb57c105d20f38",
+  "size": "15 MB",
+  "size_raw": "15070528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-091ff50-250617T160452-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
