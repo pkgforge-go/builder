@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "1pl",
+  "pkg_family": "prolog",
+  "pkg_id": "1pl#github.com_ichiban_prolog",
+  "pkg_name": "1pl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ichiban/prolog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The only reasonable scripting engine for Go.",
+  "homepage": [
+    "https://github.com/ichiban/prolog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "1pl",
+    "call_go_from_prolog",
+    "dcg",
+    "embed_prolog_into_go",
+    "hanoi",
+    "initialization",
+    "sandboxing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ichiban/prolog/archive/6375564ab31421106e3e1d727e4c0274750cfcd7.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "interpreter",
+    "logic-programming",
+    "prolog"
+  ],
+  "version": "HEAD-6375564-241015T100855",
+  "version_upstream": "v1.2.2",
+  "bsum": "f65f894167d36013e0b3363d1e0ad0734a68ba15182e7dfbe5e192e7f48a23e8",
+  "build_date": "2025-06-20T06:46:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15772315793",
+  "build_id": "15772315793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/1pl?tag=HEAD-6375564-241015T100855-aarch64-Linux&download=1pl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "676",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/1pl?tag=HEAD-6375564-241015T100855-aarch64-Linux&download=1pl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ichiban/prolog/1pl:HEAD-6375564-241015T100855-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ichiban/prolog/1pl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ichiban/prolog/1pl?tag=HEAD-6375564-241015T100855-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "60d34a500d47ad480f7477d28c113b436aa9630a541258ac070fbcbbec3f1c7d",
+  "size": "3.1 MB",
+  "size_raw": "3240888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
