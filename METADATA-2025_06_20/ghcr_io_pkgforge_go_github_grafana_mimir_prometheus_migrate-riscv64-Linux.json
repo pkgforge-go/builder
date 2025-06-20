@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "migrate",
+  "pkg_family": "mimir-prometheus",
+  "pkg_id": "migrate#github.com_grafana_mimir_prometheus",
+  "pkg_name": "migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/mimir-prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/grafana/mimir-prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "compact",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/mimir-prometheus/archive/cef71b82cad21eec2c91e9f624070547cade8f8c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cef71b8-250620T140335",
+  "version_upstream": "",
+  "bsum": "7c66828cfabe6c6b0c237332fa841e7db66ac00b30508ec7a0db1b7245f9de9c",
+  "build_date": "2025-06-20T18:41:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784368634",
+  "build_id": "15784368634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mimir-prometheus/migrate?tag=HEAD-cef71b8-250620T140335-riscv64-Linux&download=migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mimir-prometheus/migrate?tag=HEAD-cef71b8-250620T140335-riscv64-Linux&download=migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/mimir-prometheus/migrate:HEAD-cef71b8-250620T140335-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/mimir-prometheus/migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mimir-prometheus/migrate?tag=HEAD-cef71b8-250620T140335-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41ef8d464106f7382b39faf07bd79ec72018f35df0bc5cd9e509bacee45c0bf3",
+  "size": "19 MB",
+  "size_raw": "19373592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

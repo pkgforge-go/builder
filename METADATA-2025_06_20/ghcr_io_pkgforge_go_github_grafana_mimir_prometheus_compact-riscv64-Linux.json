@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "compact",
+  "pkg_family": "mimir-prometheus",
+  "pkg_id": "compact#github.com_grafana_mimir_prometheus",
+  "pkg_name": "compact",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/mimir-prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/grafana/mimir-prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "compact",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/mimir-prometheus/archive/cef71b82cad21eec2c91e9f624070547cade8f8c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cef71b8-250620T140335",
+  "version_upstream": "",
+  "bsum": "1260fdc1901dc2c029ced20188661f4a5ce5d4b98ff3c3c83913098ebd59a31d",
+  "build_date": "2025-06-20T18:40:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784368634",
+  "build_id": "15784368634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mimir-prometheus/compact?tag=HEAD-cef71b8-250620T140335-riscv64-Linux&download=compact.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mimir-prometheus/compact?tag=HEAD-cef71b8-250620T140335-riscv64-Linux&download=compact",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/mimir-prometheus/compact:HEAD-cef71b8-250620T140335-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/mimir-prometheus/compact",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/mimir-prometheus/compact?tag=HEAD-cef71b8-250620T140335-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "313e54b5ec6eee289ec1fc9e4df8bf0685893155d2bfd56a0e283fe2c466cc82",
+  "size": "22 MB",
+  "size_raw": "22600856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
