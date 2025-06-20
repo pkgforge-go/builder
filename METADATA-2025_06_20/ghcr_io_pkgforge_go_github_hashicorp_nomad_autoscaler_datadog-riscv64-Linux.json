@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "datadog",
+  "pkg_family": "nomad-autoscaler",
+  "pkg_id": "datadog#github.com_hashicorp_nomad_autoscaler",
+  "pkg_name": "datadog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/nomad-autoscaler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+  "homepage": [
+    "https://github.com/hashicorp/nomad-autoscaler"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-asg",
+    "azure-vmss",
+    "datadog",
+    "fixed-value",
+    "gce-mig",
+    "nomad",
+    "nomad-autoscaler",
+    "pass-through",
+    "prometheus",
+    "target-value",
+    "threshold"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/nomad-autoscaler/archive/4b87659d7ca8462ac2b92ca13bedf902d9577d09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4b87659-250620T142927",
+  "version_upstream": "",
+  "bsum": "02e30424bf4a4d02a7a0da0f48ec8df23034493db860c3f336eeee853982994b",
+  "build_date": "2025-06-20T18:55:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784644626",
+  "build_id": "15784644626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/datadog?tag=HEAD-4b87659-250620T142927-riscv64-Linux&download=datadog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/datadog?tag=HEAD-4b87659-250620T142927-riscv64-Linux&download=datadog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/datadog:HEAD-4b87659-250620T142927-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/nomad-autoscaler/datadog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad-autoscaler/datadog?tag=HEAD-4b87659-250620T142927-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e083df9345b2aa5d3b7dba87b01137fd9707198293bf88d37dc1f0dbf0df8149",
+  "size": "23 MB",
+  "size_raw": "23831576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
