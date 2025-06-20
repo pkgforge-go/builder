@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webdavfs",
+  "pkg_family": "webdavfs",
+  "pkg_id": "webdavfs#github.com_miquels_webdavfs",
+  "pkg_name": "webdavfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/miquels/webdavfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux / OSX FUSE webdav filesystem. This filesystem behaves like a real network filesystem- no unnecessary copying of entire files.",
+  "homepage": [
+    "https://github.com/miquels/webdavfs"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "webdavfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/miquels/webdavfs/archive/7904f8e24a9ecbab0770feb2d89f854044343217.tar.gz"
+  ],
+  "tag": [
+    "fuse",
+    "go",
+    "linux",
+    "mount",
+    "osx",
+    "webdav",
+    "webdav-client"
+  ],
+  "version": "HEAD-7904f8e-230407T171942",
+  "version_upstream": "",
+  "bsum": "f5f536dba0a107bea42730685fcdbf147bbc39de4758ff960e2cbfb992b6f027",
+  "build_date": "2025-06-20T22:22:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788412092",
+  "build_id": "15788412092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/miquels/webdavfs/webdavfs?tag=HEAD-7904f8e-230407T171942-aarch64-Linux&download=webdavfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "245",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/miquels/webdavfs/webdavfs?tag=HEAD-7904f8e-230407T171942-aarch64-Linux&download=webdavfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/miquels/webdavfs/webdavfs:HEAD-7904f8e-230407T171942-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/miquels/webdavfs/webdavfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/miquels/webdavfs/webdavfs?tag=HEAD-7904f8e-230407T171942-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21a0b1c30f1cf8d4800bdf5cdfb73ba0074946c80262999c5ef180ccaf8149ff",
+  "size": "6.7 MB",
+  "size_raw": "6972960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
