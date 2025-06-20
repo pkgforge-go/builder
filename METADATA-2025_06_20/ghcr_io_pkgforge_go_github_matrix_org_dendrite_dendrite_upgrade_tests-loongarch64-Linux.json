@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dendrite-upgrade-tests",
+  "pkg_family": "dendrite",
+  "pkg_id": "dendrite-upgrade-tests#github.com_matrix_org_dendrite",
+  "pkg_name": "dendrite-upgrade-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrix-org/dendrite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+  "homepage": [
+    "https://github.com/matrix-org/dendrite"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-account",
+    "dendrite",
+    "dendrite-demo-i2p",
+    "dendrite-demo-pinecone",
+    "dendrite-demo-tor",
+    "dendrite-demo-yggdrasil",
+    "dendrite-upgrade-tests",
+    "dendritejs-pinecone",
+    "furl",
+    "generate-config",
+    "generate-keys",
+    "resolve-state"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrix-org/dendrite/archive/084181332b5c364e2442d3c98522ad8848bc4d36.tar.gz"
+  ],
+  "tag": [
+    "dendrite",
+    "golang",
+    "hacktoberfest",
+    "matrix",
+    "matrix-homeserver",
+    "matrix-org"
+  ],
+  "version": "HEAD-0841813-241125T110410",
+  "version_upstream": "",
+  "bsum": "5c81eabd260fd18f0b1b1002e343f62fd9aa5b7af635d3b19e8ae80bd6ec4641",
+  "build_date": "2025-06-20T21:48:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15787955158",
+  "build_id": "15787955158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-upgrade-tests?tag=HEAD-0841813-241125T110410-loongarch64-Linux&download=dendrite-upgrade-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-upgrade-tests?tag=HEAD-0841813-241125T110410-loongarch64-Linux&download=dendrite-upgrade-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrix-org/dendrite/dendrite-upgrade-tests:HEAD-0841813-241125T110410-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrix-org/dendrite/dendrite-upgrade-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix-org/dendrite/dendrite-upgrade-tests?tag=HEAD-0841813-241125T110410-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d5feeefc021adc59e1d8a55195fbabdbf41e3cd512ffd495fe4e09f8dfd42f2",
+  "size": "8.4 MB",
+  "size_raw": "8805376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0841813-241125T110410-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
