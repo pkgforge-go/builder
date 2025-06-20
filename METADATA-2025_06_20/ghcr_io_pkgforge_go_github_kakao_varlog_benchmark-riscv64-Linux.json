@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "benchmark",
+  "pkg_family": "varlog",
+  "pkg_id": "benchmark#github.com_kakao_varlog",
+  "pkg_name": "benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakao/varlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable distributed log storage for strong consistency, total order, and high availability",
+  "homepage": [
+    "https://github.com/kakao/varlog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "mrtool",
+    "varlogadm",
+    "varlogcli",
+    "varlogctl",
+    "varlogmr",
+    "varlogsn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kakao/varlog/archive/6f3bfef30bff508fbe792da6558388a38874e18b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6f3bfef-250620T123113",
+  "version_upstream": "",
+  "bsum": "028a43138e6e5cf84d0f63ee4689fa8236f6677dbab55a15355a2ba36890c5e1",
+  "build_date": "2025-06-20T14:25:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780273007",
+  "build_id": "15780273007",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-6f3bfef-250620T123113-riscv64-Linux&download=benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-6f3bfef-250620T123113-riscv64-Linux&download=benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakao/varlog/benchmark:HEAD-6f3bfef-250620T123113-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakao/varlog/benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-6f3bfef-250620T123113-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c75089dc57cfdb7c98ad9a5279eecc41c71378d757d709370f130646fdaaadf1",
+  "size": "26 MB",
+  "size_raw": "26445976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
