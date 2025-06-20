@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "akoflow",
+  "pkg_id": "server#github.com_UFFeScience_akoflow",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/UFFeScience/akoflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AkôFlow is an open-source middleware for orchestrating and executing container-based scientific workflows across heterogeneous environments. It was originally developed within the e-Science Research Group at the Institute of Computing, Fluminense Federal University _UFF_.",
+  "homepage": [
+    "https://github.com/UFFeScience/akoflow"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "scratch",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/UFFeScience/akoflow/archive/b0ed6c580101359a770a06a8e43299e7906fb9b3.tar.gz"
+  ],
+  "tag": [
+    "e-science",
+    "golang",
+    "hpc",
+    "kubernetes",
+    "scientific-workflows",
+    "singularity",
+    "workflows"
+  ],
+  "version": "HEAD-b0ed6c5-250619T183513",
+  "version_upstream": "",
+  "bsum": "4c70591e33c55a9d179424b98e9f67a6d3af0362bd5a4ab375d8d0790bacc9cf",
+  "build_date": "2025-06-20T07:34:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773123823",
+  "build_id": "15773123823",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uffescience/akoflow/server?tag=HEAD-b0ed6c5-250619T183513-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uffescience/akoflow/server?tag=HEAD-b0ed6c5-250619T183513-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uffescience/akoflow/server:HEAD-b0ed6c5-250619T183513-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uffescience/akoflow/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uffescience/akoflow/server?tag=HEAD-b0ed6c5-250619T183513-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e8acb30f05d500cd17ba89e09ba19751008aaf43b1c28cca25f2c012586d3e1",
+  "size": "13 MB",
+  "size_raw": "12973200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
