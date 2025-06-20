@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testsignal",
+  "pkg_family": "elastic-agent",
+  "pkg_id": "testsignal#github.com_elastic_elastic_agent",
+  "pkg_name": "testsignal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/elastic-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.",
+  "homepage": [
+    "https://github.com/elastic/elastic-agent"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildfleetcfg",
+    "buildpgp",
+    "component",
+    "testblocking",
+    "testlocker",
+    "testsignal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/elastic-agent/archive/8803a02d3538b2e2f2741c103aab025d1852a491.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8803a02-250619T162307",
+  "version_upstream": "",
+  "bsum": "4851cf07aae4c816ff3d9b17419d3594dd076cc8b6f3a10551c53eb4e452852f",
+  "build_date": "2025-06-20T08:51:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774047902",
+  "build_id": "15774047902",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/testsignal?tag=HEAD-8803a02-250619T162307-aarch64-Linux&download=testsignal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "180",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/testsignal?tag=HEAD-8803a02-250619T162307-aarch64-Linux&download=testsignal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/elastic-agent/testsignal:HEAD-8803a02-250619T162307-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/elastic-agent/testsignal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/elastic-agent/testsignal?tag=HEAD-8803a02-250619T162307-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "496f943625e205c3be98517939f0639b624bf4620593c81ad6238873da4c8d55",
+  "size": "1.7 MB",
+  "size_raw": "1721304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
