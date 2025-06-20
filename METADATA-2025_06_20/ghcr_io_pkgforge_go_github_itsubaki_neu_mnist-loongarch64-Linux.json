@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mnist",
+  "pkg_family": "neu",
+  "pkg_id": "mnist#github.com_itsubaki_neu",
+  "pkg_name": "mnist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsubaki/neu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deep Learning framework for Go from scratch",
+  "homepage": [
+    "https://github.com/itsubaki/neu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cbow",
+    "cbow_negative_sampling",
+    "dqn",
+    "mnist",
+    "rnnlm",
+    "rnnlm_gen",
+    "rnnlm_gru",
+    "rnnlm_lstm",
+    "seq2seq",
+    "seq2seq_attention"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsubaki/neu/archive/3617034e02e0e394ea651c9c96417f9867b82b73.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "deep-q-network",
+    "machine-learning"
+  ],
+  "version": "HEAD-3617034-250518T095049",
+  "version_upstream": "",
+  "bsum": "bd829bd5e5012409c1c80e86dcc9e9085f97de85f038bb6d860657fd0658664b",
+  "build_date": "2025-06-20T12:59:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15779399586",
+  "build_id": "15779399586",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/mnist?tag=HEAD-3617034-250518T095049-loongarch64-Linux&download=mnist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/mnist?tag=HEAD-3617034-250518T095049-loongarch64-Linux&download=mnist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsubaki/neu/mnist:HEAD-3617034-250518T095049-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsubaki/neu/mnist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/neu/mnist?tag=HEAD-3617034-250518T095049-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec06c238674b30612e70742fd489a2127c5223fcf30c20fd1f16c6a40db663c6",
+  "size": "2.3 MB",
+  "size_raw": "2337408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
