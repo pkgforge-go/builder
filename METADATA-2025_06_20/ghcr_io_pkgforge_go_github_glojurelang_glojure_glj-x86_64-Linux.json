@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "glj",
+  "pkg_family": "glojure",
+  "pkg_id": "glj#github.com_glojurelang_glojure",
+  "pkg_name": "glj",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glojurelang/glojure",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Clojure interpreter hosted on Go, with extensible interop support.",
+  "homepage": [
+    "https://github.com/glojurelang/glojure"
+  ],
+  "license": [
+    "EPL-1.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-import-interop",
+    "glj"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/glojurelang/glojure/archive/e54deb6597ceafd39b497c096262adf1d8963c24.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e54deb6-241013T105542",
+  "version_upstream": "v0.2.6",
+  "bsum": "3051f5c2f60be5354d3f106fd768745a8908030dd4a99a15dd8a320231b473ce",
+  "build_date": "2025-06-20T02:58:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769606128",
+  "build_id": "15769606128",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glojurelang/glojure/glj?tag=HEAD-e54deb6-241013T105542-x86_64-Linux&download=glj.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "414",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glojurelang/glojure/glj?tag=HEAD-e54deb6-241013T105542-x86_64-Linux&download=glj",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glojurelang/glojure/glj:HEAD-e54deb6-241013T105542-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glojurelang/glojure/glj",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glojurelang/glojure/glj?tag=HEAD-e54deb6-241013T105542-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3ee51de1cebbf961f53db073b03c4be74d57ace1c9bfd17263869a06b83f03f",
+  "size": "26 MB",
+  "size_raw": "26225848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
