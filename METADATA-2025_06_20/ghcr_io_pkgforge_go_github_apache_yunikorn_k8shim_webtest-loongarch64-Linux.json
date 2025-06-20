@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webtest",
+  "pkg_family": "yunikorn-k8shim",
+  "pkg_id": "webtest#github.com_apache_yunikorn_k8shim",
+  "pkg_name": "webtest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/yunikorn-k8shim",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache YuniKorn K8shim",
+  "homepage": [
+    "https://github.com/apache/yunikorn-k8shim"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admissioncontroller",
+    "schedulerplugin",
+    "shim",
+    "webtest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/yunikorn-k8shim/archive/6703e4ba830230acccf14e4a7ec3ec901c817438.tar.gz"
+  ],
+  "tag": [
+    "apache-yarn",
+    "go",
+    "kubernetes",
+    "universal-resource-scheduler",
+    "yunikorn"
+  ],
+  "version": "HEAD-6703e4b-250620T094100",
+  "version_upstream": "",
+  "bsum": "bcc8475a2d7376c145b4ac0e02f99e7f38f47147ffc247db6c5bf0146da4e31c",
+  "build_date": "2025-06-20T17:15:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782916671",
+  "build_id": "15782916671",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/webtest?tag=HEAD-6703e4b-250620T094100-loongarch64-Linux&download=webtest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "156",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/webtest?tag=HEAD-6703e4b-250620T094100-loongarch64-Linux&download=webtest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/yunikorn-k8shim/webtest:HEAD-6703e4b-250620T094100-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/yunikorn-k8shim/webtest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/yunikorn-k8shim/webtest?tag=HEAD-6703e4b-250620T094100-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d6a12771477a7fe4c5c876cf35954d09764efd32b49d08d65f2918988c9b4427",
+  "size": "6.3 MB",
+  "size_raw": "6576352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
