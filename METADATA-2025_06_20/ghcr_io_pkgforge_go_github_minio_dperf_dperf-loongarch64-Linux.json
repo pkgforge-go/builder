@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dperf",
+  "pkg_family": "dperf",
+  "pkg_id": "dperf#github.com_minio_dperf",
+  "pkg_name": "dperf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/dperf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drive performance measurement tool",
+  "homepage": [
+    "https://github.com/minio/dperf"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dperf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minio/dperf/archive/7d71916ad439e3120a267b3e62bc3f405b2c8fa6.tar.gz"
+  ],
+  "tag": [
+    "fio",
+    "iozone"
+  ],
+  "version": "HEAD-7d71916-250110T134259",
+  "version_upstream": "v0.6.3",
+  "bsum": "c5c5fa13400e1d163a71537201cf1b89682ee93d079803d5556dba58e03f525c",
+  "build_date": "2025-06-20T22:22:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788405038",
+  "build_id": "15788405038",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/dperf/dperf?tag=HEAD-7d71916-250110T134259-loongarch64-Linux&download=dperf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/dperf/dperf?tag=HEAD-7d71916-250110T134259-loongarch64-Linux&download=dperf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/dperf/dperf:HEAD-7d71916-250110T134259-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/dperf/dperf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/dperf/dperf?tag=HEAD-7d71916-250110T134259-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a6bce96a46fb122295a5e16db1fbdb69425b75aa76f5141534ac1752773e6c9c",
+  "size": "8.1 MB",
+  "size_raw": "8434560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
