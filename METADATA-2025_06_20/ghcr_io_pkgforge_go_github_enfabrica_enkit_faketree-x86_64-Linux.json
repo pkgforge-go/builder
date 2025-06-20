@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "faketree",
+  "pkg_family": "enkit",
+  "pkg_id": "faketree#github.com_enfabrica_enkit",
+  "pkg_name": "faketree",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management.",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfabrica/enkit/archive/a1810c278781e4fb96a2b3277b0d289d823f66c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a1810c2-250619T143504",
+  "version_upstream": "",
+  "bsum": "64472281905c2f5f9fb17a1acf57c774efe3064abc8eb3cb44ad9148b1dbe3f6",
+  "build_date": "2025-06-20T08:56:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774078738",
+  "build_id": "15774078738",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/faketree?tag=HEAD-a1810c2-250619T143504-x86_64-Linux&download=faketree.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/faketree?tag=HEAD-a1810c2-250619T143504-x86_64-Linux&download=faketree",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/faketree:HEAD-a1810c2-250619T143504-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/faketree",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/faketree?tag=HEAD-a1810c2-250619T143504-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa8772622764dfecf01a6f89f0cdb643ef01b2a4bb09260a4088378aa8293e98",
+  "size": "2.4 MB",
+  "size_raw": "2443576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

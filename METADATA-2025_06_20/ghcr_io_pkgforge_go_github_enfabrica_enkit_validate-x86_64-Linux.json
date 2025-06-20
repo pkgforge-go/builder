@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "enkit",
+  "pkg_id": "validate#github.com_enfabrica_enkit",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management.",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfabrica/enkit/archive/a1810c278781e4fb96a2b3277b0d289d823f66c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a1810c2-250619T143504",
+  "version_upstream": "",
+  "bsum": "b351c9d3b09343bbe6612e8dc8423bf99cd248a13e266764aa17a2ecf8493cca",
+  "build_date": "2025-06-20T08:54:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774078738",
+  "build_id": "15774078738",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/validate?tag=HEAD-a1810c2-250619T143504-x86_64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/validate?tag=HEAD-a1810c2-250619T143504-x86_64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/validate:HEAD-a1810c2-250619T143504-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/validate?tag=HEAD-a1810c2-250619T143504-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2192ade7166f819e7de73414a7346c55852ed6ba07323726ca66a0cc2ae4ea18",
+  "size": "3.3 MB",
+  "size_raw": "3365400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
