@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "eval",
+  "pkg_family": "search",
+  "pkg_id": "eval#github.com_kelindar_search",
+  "pkg_name": "eval",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelindar/search",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for embedded vector search and semantic embeddings using llama.cpp",
+  "homepage": [
+    "https://github.com/kelindar/search"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eval",
+    "search-example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelindar/search/archive/519bc5b6ba48fbae3c84b71b00628a83bd8c734a.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "bert",
+    "embeddings",
+    "gguf",
+    "gpu",
+    "llamacpp",
+    "search-engine",
+    "semantic-search",
+    "simd",
+    "vector-search"
+  ],
+  "version": "HEAD-519bc5b-250307T232656",
+  "version_upstream": "v0.4.0",
+  "bsum": "f757eaf89ceb91df80f97e5bb92fe049fcdaad7fdf1c034b60bb6c30b9309c1a",
+  "build_date": "2025-06-20T14:42:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780403476",
+  "build_id": "15780403476",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/eval?tag=HEAD-519bc5b-250307T232656-loongarch64-Linux&download=eval.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "458",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/eval?tag=HEAD-519bc5b-250307T232656-loongarch64-Linux&download=eval",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelindar/search/eval:HEAD-519bc5b-250307T232656-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelindar/search/eval",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/eval?tag=HEAD-519bc5b-250307T232656-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d03bbccbcc3a463090ed87e99a0f3e1e3ee1df1b53ef88d708b025de46b5766f",
+  "size": "2.0 MB",
+  "size_raw": "2068248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
