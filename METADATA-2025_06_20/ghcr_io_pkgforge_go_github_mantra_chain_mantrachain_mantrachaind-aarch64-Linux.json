@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mantrachaind",
+  "pkg_family": "mantrachain",
+  "pkg_id": "mantrachaind#github.com_MANTRA_Chain_mantrachain",
+  "pkg_name": "mantrachaind",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/MANTRA-Chain/mantrachain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MANTRA is a purpose-built RWA Layer 1 Blockchain, capable of adherence to real world regulatory requirements.",
+  "homepage": [
+    "https://github.com/MANTRA-Chain/mantrachain"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci-goreleaser",
+    "mantrachaind"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/MANTRA-Chain/mantrachain/archive/71a053216a4d8c58770e99d061a8319b5e2af496.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-71a0532-250618T180745",
+  "version_upstream": "",
+  "bsum": "699a8daf177d0fa431e1f588318c4f77428413ea7298668d0e08a44a58a559cc",
+  "build_date": "2025-06-20T16:39:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15782653313",
+  "build_id": "15782653313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mantra-chain/mantrachain/mantrachaind?tag=HEAD-71a0532-250618T180745-aarch64-Linux&download=mantrachaind.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mantra-chain/mantrachain/mantrachaind?tag=HEAD-71a0532-250618T180745-aarch64-Linux&download=mantrachaind",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mantra-chain/mantrachain/mantrachaind:HEAD-71a0532-250618T180745-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mantra-chain/mantrachain/mantrachaind",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mantra-chain/mantrachain/mantrachaind?tag=HEAD-71a0532-250618T180745-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d268b8ee606c6b87c848a94930b12ddb22ab9b7cfb4e02c9ddc4553825900c9",
+  "size": "130 MB",
+  "size_raw": "135739936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
