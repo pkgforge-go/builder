@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "benchmark-read-throughput",
+  "pkg_family": "go-fuse",
+  "pkg_id": "benchmark-read-throughput#github.com_hanwen_go_fuse",
+  "pkg_name": "benchmark-read-throughput",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hanwen/go-fuse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FUSE bindings for Go",
+  "homepage": [
+    "https://github.com/hanwen/go-fuse"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-read-throughput",
+    "bulkstat",
+    "hello",
+    "loopback",
+    "memfs",
+    "multizip",
+    "statfs",
+    "winfs",
+    "zipfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hanwen/go-fuse/archive/86c2f38886a549790184b7d9c212a26a7ff1b953.tar.gz"
+  ],
+  "tag": [
+    "filesystem",
+    "fuse",
+    "fuse-libraries",
+    "libfuse"
+  ],
+  "version": "HEAD-86c2f38-250613T084410",
+  "version_upstream": "",
+  "bsum": "74574547c0211e6c3647b43f982eca1370f27391b67a45559f600c79e52cedcc",
+  "build_date": "2025-06-20T05:36:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771515080",
+  "build_id": "15771515080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/benchmark-read-throughput?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&download=benchmark-read-throughput.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/benchmark-read-throughput?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&download=benchmark-read-throughput",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hanwen/go-fuse/benchmark-read-throughput:HEAD-86c2f38-250613T084410-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hanwen/go-fuse/benchmark-read-throughput",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/benchmark-read-throughput?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75ccc827a4ce95f56d4b5e88d91d9965e135c36bf8350e9d2717592c7ddafa54",
+  "size": "1.8 MB",
+  "size_raw": "1789656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

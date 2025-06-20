@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "zipfs",
+  "pkg_family": "go-fuse",
+  "pkg_id": "zipfs#github.com_hanwen_go_fuse",
+  "pkg_name": "zipfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hanwen/go-fuse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FUSE bindings for Go",
+  "homepage": [
+    "https://github.com/hanwen/go-fuse"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-read-throughput",
+    "bulkstat",
+    "hello",
+    "loopback",
+    "memfs",
+    "multizip",
+    "statfs",
+    "winfs",
+    "zipfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hanwen/go-fuse/archive/86c2f38886a549790184b7d9c212a26a7ff1b953.tar.gz"
+  ],
+  "tag": [
+    "filesystem",
+    "fuse",
+    "fuse-libraries",
+    "libfuse"
+  ],
+  "version": "HEAD-86c2f38-250613T084410",
+  "version_upstream": "",
+  "bsum": "65cfa89722bd33dbef399d61fbaac6b34e692f8235406cc1d577f901f3e7d073",
+  "build_date": "2025-06-20T05:37:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771515080",
+  "build_id": "15771515080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/zipfs?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&download=zipfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/zipfs?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&download=zipfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hanwen/go-fuse/zipfs:HEAD-86c2f38-250613T084410-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hanwen/go-fuse/zipfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/zipfs?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ef9520250ad9b6e0d6528a297b8d641c497ce538a501d6b6df1b06b2bb259ad",
+  "size": "3.2 MB",
+  "size_raw": "3354360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

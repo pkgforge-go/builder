@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "memfs",
+  "pkg_family": "go-fuse",
+  "pkg_id": "memfs#github.com_hanwen_go_fuse",
+  "pkg_name": "memfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hanwen/go-fuse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FUSE bindings for Go",
+  "homepage": [
+    "https://github.com/hanwen/go-fuse"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-read-throughput",
+    "bulkstat",
+    "hello",
+    "loopback",
+    "memfs",
+    "multizip",
+    "statfs",
+    "winfs",
+    "zipfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hanwen/go-fuse/archive/86c2f38886a549790184b7d9c212a26a7ff1b953.tar.gz"
+  ],
+  "tag": [
+    "filesystem",
+    "fuse",
+    "fuse-libraries",
+    "libfuse"
+  ],
+  "version": "HEAD-86c2f38-250613T084410",
+  "version_upstream": "",
+  "bsum": "c6bd937f1e0feda3aebc43ec945b6168856c58ba689fb9f43f68a37ae2cfc1ad",
+  "build_date": "2025-06-20T05:36:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771515080",
+  "build_id": "15771515080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/memfs?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&download=memfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/memfs?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&download=memfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hanwen/go-fuse/memfs:HEAD-86c2f38-250613T084410-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hanwen/go-fuse/memfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hanwen/go-fuse/memfs?tag=HEAD-86c2f38-250613T084410-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2edc3534a54a0cd93f197648452ee452528747bc57a365db886a2c908daea3a2",
+  "size": "2.6 MB",
+  "size_raw": "2646392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
