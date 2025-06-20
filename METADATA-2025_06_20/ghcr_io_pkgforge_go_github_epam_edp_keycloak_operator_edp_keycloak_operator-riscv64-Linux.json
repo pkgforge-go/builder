@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "edp-keycloak-operator",
+  "pkg_family": "edp-keycloak-operator",
+  "pkg_id": "edp-keycloak-operator#github.com_epam_edp_keycloak_operator",
+  "pkg_name": "edp-keycloak-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/epam/edp-keycloak-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "It is responsible for establishing a connection to provided Keycloak Server, reconciling realms, and clients according to the created CRs",
+  "homepage": [
+    "https://github.com/epam/edp-keycloak-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "edp-keycloak-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/epam/edp-keycloak-operator/archive/361b2a51ebbae7803834292be60abb1661a91754.tar.gz"
+  ],
+  "tag": [
+    "cd",
+    "ci",
+    "cicd",
+    "edp",
+    "gerrit-sso",
+    "jenkins-sso",
+    "k8s",
+    "keycloak",
+    "kubernetes",
+    "kubernetes-operator",
+    "nexus-sso",
+    "oidc",
+    "operator",
+    "operatorhub",
+    "saml",
+    "sonar-sso",
+    "sso"
+  ],
+  "version": "HEAD-361b2a5-250620T102000",
+  "version_upstream": "",
+  "bsum": "8c9afe30407ec97dacb973513629093c22bfa09e812c5de3fb5097267be14479",
+  "build_date": "2025-06-20T18:12:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784211882",
+  "build_id": "15784211882",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epam/edp-keycloak-operator/edp-keycloak-operator?tag=HEAD-361b2a5-250620T102000-riscv64-Linux&download=edp-keycloak-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "52",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epam/edp-keycloak-operator/edp-keycloak-operator?tag=HEAD-361b2a5-250620T102000-riscv64-Linux&download=edp-keycloak-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/epam/edp-keycloak-operator/edp-keycloak-operator:HEAD-361b2a5-250620T102000-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/epam/edp-keycloak-operator/edp-keycloak-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epam/edp-keycloak-operator/edp-keycloak-operator?tag=HEAD-361b2a5-250620T102000-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae11985e6bd4f0c1eb9056fbf97f4934b0bc40cd71913c7f7f6b9db0640622db",
+  "size": "56 MB",
+  "size_raw": "57703864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
