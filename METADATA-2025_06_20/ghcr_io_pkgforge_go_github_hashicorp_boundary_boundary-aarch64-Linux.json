@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "boundary",
+  "pkg_family": "boundary",
+  "pkg_id": "boundary#github.com_hashicorp_boundary",
+  "pkg_name": "boundary",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/boundary",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/boundary"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boundary",
+    "genapi",
+    "gencli",
+    "permstable",
+    "remove-gotags-comments"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/boundary/archive/1f64c1202ed9218dd709aad3f3b152cb6f75565b.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "hashicorp",
+    "security",
+    "zero-trust"
+  ],
+  "version": "HEAD-1f64c12-250619T165146",
+  "version_upstream": "",
+  "bsum": "0309b87755ce72376258a3c7bbee7b1d26d6b48ed2ec8b11ce299ffcc3903b4b",
+  "build_date": "2025-06-20T05:43:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771635070",
+  "build_id": "15771635070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/boundary?tag=HEAD-1f64c12-250619T165146-aarch64-Linux&download=boundary.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/boundary?tag=HEAD-1f64c12-250619T165146-aarch64-Linux&download=boundary",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/boundary/boundary:HEAD-1f64c12-250619T165146-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/boundary/boundary",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/boundary?tag=HEAD-1f64c12-250619T165146-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8f86bde2b868641b86360fc9724fe7e3f6b2735a40bc59d6291567011460e2af",
+  "size": "56 MB",
+  "size_raw": "58392864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
