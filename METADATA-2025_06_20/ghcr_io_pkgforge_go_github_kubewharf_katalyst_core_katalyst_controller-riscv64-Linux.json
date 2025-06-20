@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "katalyst-controller",
+  "pkg_family": "katalyst-core",
+  "pkg_id": "katalyst-controller#github.com_kubewharf_katalyst_core",
+  "pkg_name": "katalyst-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubewharf/katalyst-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agents and centralized components",
+  "homepage": [
+    "https://github.com/kubewharf/katalyst-core"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "katalyst-agent",
+    "katalyst-controller",
+    "katalyst-metric",
+    "katalyst-scheduler",
+    "katalyst-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubewharf/katalyst-core/archive/53e365765b765a8afd0ce2d056723f82221ae642.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-53e3657-250620T152442",
+  "version_upstream": "",
+  "bsum": "f6430bd766c2b0d38cff78e0927eb6aba35c4103c217008b77c259cb85ff3fc5",
+  "build_date": "2025-06-20T19:37:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785991608",
+  "build_id": "15785991608",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-controller?tag=HEAD-53e3657-250620T152442-riscv64-Linux&download=katalyst-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "498",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-controller?tag=HEAD-53e3657-250620T152442-riscv64-Linux&download=katalyst-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubewharf/katalyst-core/katalyst-controller:HEAD-53e3657-250620T152442-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubewharf/katalyst-core/katalyst-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewharf/katalyst-core/katalyst-controller?tag=HEAD-53e3657-250620T152442-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1fadc4915fe3c12940f31698811c2ddec67a102021b9ef12cbbf9ddc5cfe471b",
+  "size": "58 MB",
+  "size_raw": "60147864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
