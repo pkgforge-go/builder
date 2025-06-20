@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "crwriter",
+  "pkg_family": "hyperconverged-cluster-operator",
+  "pkg_id": "crwriter#github.com_kubevirt_hyperconverged_cluster_operator",
+  "pkg_name": "crwriter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/hyperconverged-cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator pattern for managing multi-operator products",
+  "homepage": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-overlap-validator",
+    "crwriter",
+    "csv-merger",
+    "docgen",
+    "hyperconverged-cluster-operator",
+    "hyperconverged-cluster-webhook",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator/archive/83c7a32a3135d1c1189997991a88ce43fa1674d4.tar.gz"
+  ],
+  "tag": [
+    "hco",
+    "hyperconverged",
+    "kubernetes",
+    "kubernetes-operator",
+    "openshift",
+    "operator",
+    "virtualization"
+  ],
+  "version": "HEAD-83c7a32-250620T105840",
+  "version_upstream": "",
+  "bsum": "9278fcba7a9a2344134a41a8d9cea182294a9c1b4eccb819b82eeeb74b549d98",
+  "build_date": "2025-06-20T19:56:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785780306",
+  "build_id": "15785780306",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crwriter?tag=HEAD-83c7a32-250620T105840-loongarch64-Linux&download=crwriter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crwriter?tag=HEAD-83c7a32-250620T105840-loongarch64-Linux&download=crwriter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crwriter:HEAD-83c7a32-250620T105840-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crwriter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/crwriter?tag=HEAD-83c7a32-250620T105840-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66657ec239f6e166db094ee66757f87d5fc408f1ae44921a0a855d5eb139ee03",
+  "size": "40 MB",
+  "size_raw": "41382976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

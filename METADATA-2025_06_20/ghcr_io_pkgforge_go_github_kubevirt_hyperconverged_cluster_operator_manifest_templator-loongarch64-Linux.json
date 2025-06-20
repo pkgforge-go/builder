@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "manifest-templator",
+  "pkg_family": "hyperconverged-cluster-operator",
+  "pkg_id": "manifest-templator#github.com_kubevirt_hyperconverged_cluster_operator",
+  "pkg_name": "manifest-templator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/hyperconverged-cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator pattern for managing multi-operator products",
+  "homepage": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-overlap-validator",
+    "crwriter",
+    "csv-merger",
+    "docgen",
+    "hyperconverged-cluster-operator",
+    "hyperconverged-cluster-webhook",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/hyperconverged-cluster-operator/archive/83c7a32a3135d1c1189997991a88ce43fa1674d4.tar.gz"
+  ],
+  "tag": [
+    "hco",
+    "hyperconverged",
+    "kubernetes",
+    "kubernetes-operator",
+    "openshift",
+    "operator",
+    "virtualization"
+  ],
+  "version": "HEAD-83c7a32-250620T105840",
+  "version_upstream": "",
+  "bsum": "1d6f12332f8bcc9ce720c2c60c643f232a072b37cc82131736e2329a4626b558",
+  "build_date": "2025-06-20T19:57:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785780306",
+  "build_id": "15785780306",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/manifest-templator?tag=HEAD-83c7a32-250620T105840-loongarch64-Linux&download=manifest-templator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/manifest-templator?tag=HEAD-83c7a32-250620T105840-loongarch64-Linux&download=manifest-templator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/manifest-templator:HEAD-83c7a32-250620T105840-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/manifest-templator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/hyperconverged-cluster-operator/manifest-templator?tag=HEAD-83c7a32-250620T105840-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "176c511c575c5fcffd5d846bc5323c0af262c14578dc4417ccd63f2ef4483ba3",
+  "size": "41 MB",
+  "size_raw": "42012832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
