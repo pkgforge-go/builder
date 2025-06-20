@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stun-decode",
+  "pkg_family": "stun",
+  "pkg_id": "stun-decode#github.com_gortc_stun",
+  "pkg_name": "stun-decode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gortc/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast RFC 5389 STUN implementation in go",
+  "homepage": [
+    "https://github.com/gortc/stun"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gortc/stun/archive/5958aeb5e3b9c10cbd8d1ad22d63ae8d2396425d.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gortc",
+    "nat-traversal",
+    "rfc-5389",
+    "stun",
+    "stun-server",
+    "webrtc"
+  ],
+  "version": "HEAD-5958aeb-201123T194536",
+  "version_upstream": "",
+  "bsum": "f1bd8da6811c6834bb5573fe374397fb68c9e6aa90fde55b85638f981204afed",
+  "build_date": "2025-06-20T04:41:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771143900",
+  "build_id": "15771143900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-decode?tag=HEAD-5958aeb-201123T194536-x86_64-Linux&download=stun-decode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "494",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-decode?tag=HEAD-5958aeb-201123T194536-x86_64-Linux&download=stun-decode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gortc/stun/stun-decode:HEAD-5958aeb-201123T194536-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gortc/stun/stun-decode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gortc/stun/stun-decode?tag=HEAD-5958aeb-201123T194536-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cac9bafd081c29e5c4480566019d813b584ebc319bb6166ac16d3d5cb5fb0192",
+  "size": "2.2 MB",
+  "size_raw": "2205664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
