@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "karmada-search",
+  "pkg_family": "karmada",
+  "pkg_id": "karmada-search#github.com_karmada_io_karmada",
+  "pkg_name": "karmada-search",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/karmada-io/karmada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+  "homepage": [
+    "https://github.com/karmada-io/karmada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregated-apiserver",
+    "descheduler",
+    "karmada-search",
+    "lifted-gen",
+    "metrics-adapter",
+    "operator",
+    "preferredimports",
+    "scheduler",
+    "scheduler-estimator",
+    "service-name-resolution-detector-example",
+    "swagger",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/karmada-io/karmada/archive/2af742b2d38745007c4c8e687f8799cf422b1e36.tar.gz"
+  ],
+  "tag": [
+    "cloud-computing",
+    "cloud-native",
+    "containers",
+    "k8s",
+    "kubernetes",
+    "multi-cluster",
+    "multicloud"
+  ],
+  "version": "HEAD-2af742b-250620T113157",
+  "version_upstream": "",
+  "bsum": "51c50b2496f7e858a59af5abf25d7ac5b1fa0512dc8797886325a6bd6262e7a7",
+  "build_date": "2025-06-20T14:53:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780321624",
+  "build_id": "15780321624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmada-io/karmada/karmada-search?tag=HEAD-2af742b-250620T113157-aarch64-Linux&download=karmada-search.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4877",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmada-io/karmada/karmada-search?tag=HEAD-2af742b-250620T113157-aarch64-Linux&download=karmada-search",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/karmada-io/karmada/karmada-search:HEAD-2af742b-250620T113157-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/karmada-io/karmada/karmada-search",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmada-io/karmada/karmada-search?tag=HEAD-2af742b-250620T113157-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2d183aef4ea2c2526bd888f29cf9db34a435619bd2af692e5dba4cd6cf86947",
+  "size": "78 MB",
+  "size_raw": "81547712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

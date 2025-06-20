@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "karmada",
+  "pkg_id": "scheduler#github.com_karmada_io_karmada",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/karmada-io/karmada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+  "homepage": [
+    "https://github.com/karmada-io/karmada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregated-apiserver",
+    "descheduler",
+    "karmada-search",
+    "lifted-gen",
+    "metrics-adapter",
+    "operator",
+    "preferredimports",
+    "scheduler",
+    "scheduler-estimator",
+    "service-name-resolution-detector-example",
+    "swagger",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/karmada-io/karmada/archive/2af742b2d38745007c4c8e687f8799cf422b1e36.tar.gz"
+  ],
+  "tag": [
+    "cloud-computing",
+    "cloud-native",
+    "containers",
+    "k8s",
+    "kubernetes",
+    "multi-cluster",
+    "multicloud"
+  ],
+  "version": "HEAD-2af742b-250620T113157",
+  "version_upstream": "",
+  "bsum": "665691a0dc2652ac28ec5167eed0e192a5eaf809fd99463e75a05b53dfc910d5",
+  "build_date": "2025-06-20T14:53:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15780321624",
+  "build_id": "15780321624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmada-io/karmada/scheduler?tag=HEAD-2af742b-250620T113157-aarch64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4877",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmada-io/karmada/scheduler?tag=HEAD-2af742b-250620T113157-aarch64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/karmada-io/karmada/scheduler:HEAD-2af742b-250620T113157-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/karmada-io/karmada/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmada-io/karmada/scheduler?tag=HEAD-2af742b-250620T113157-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "07fb6b50bf3b8a40aeea4ecd99eade8bfc4360e3d6be692b6d8736097e24b5ef",
+  "size": "54 MB",
+  "size_raw": "56563360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
