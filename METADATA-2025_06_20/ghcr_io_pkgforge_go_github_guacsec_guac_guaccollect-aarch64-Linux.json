@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "guaccollect",
+  "pkg_family": "guac",
+  "pkg_id": "guaccollect#github.com_guacsec_guac",
+  "pkg_name": "guaccollect",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/guacsec/guac",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+  "homepage": [
+    "https://github.com/guacsec/guac"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "cmd",
+    "collect",
+    "guaccollect",
+    "guaccsub",
+    "guacgql",
+    "guacingest",
+    "guacone",
+    "guacrest",
+    "ingest",
+    "pubsub_test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/guacsec/guac/archive/01d41a653a30619ad49530a0fdedfb9fc8362520.tar.gz"
+  ],
+  "tag": [
+    "attestations",
+    "cyclonedx",
+    "cyclonedx-sbom",
+    "graph",
+    "in-toto",
+    "sbom",
+    "security",
+    "slsa",
+    "software-supply-chain",
+    "software-supply-chain-security",
+    "spdx",
+    "spdx-sbom",
+    "supply-chain",
+    "supply-chain-analytics",
+    "supply-chain-security",
+    "supply-chain-visibility",
+    "vex",
+    "vulnerability",
+    "vulnerability-management"
+  ],
+  "version": "HEAD-01d41a6-250618T210806",
+  "version_upstream": "",
+  "bsum": "df62ee5698cac42c6e3ecba71c42f20cd7523a9c685a2883cc66b8f9a693d60c",
+  "build_date": "2025-06-20T09:32:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774894038",
+  "build_id": "15774894038",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guacsec/guac/guaccollect?tag=HEAD-01d41a6-250618T210806-aarch64-Linux&download=guaccollect.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guacsec/guac/guaccollect?tag=HEAD-01d41a6-250618T210806-aarch64-Linux&download=guaccollect",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guacsec/guac/guaccollect:HEAD-01d41a6-250618T210806-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guacsec/guac/guaccollect",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guacsec/guac/guaccollect?tag=HEAD-01d41a6-250618T210806-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c4b794f413ea97554b57c7aee01546d1a5d12bd2ca7eb3df7cb474fea58ee25b",
+  "size": "119 MB",
+  "size_raw": "123781952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
