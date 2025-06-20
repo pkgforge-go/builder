@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bytes-in-block",
+  "pkg_family": "celestia-app",
+  "pkg_id": "bytes-in-block#github.com_celestiaorg_celestia_app",
+  "pkg_name": "bytes-in-block",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celestiaorg/celestia-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Celestia consensus node",
+  "homepage": [
+    "https://github.com/celestiaorg/celestia-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "blocketa",
+    "blockheight",
+    "blockscan",
+    "blocktime",
+    "bytes-in-block",
+    "celestia-appd",
+    "chainbuilder",
+    "e2e",
+    "latency-monitor",
+    "txsim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celestiaorg/celestia-app/archive/ea39814e10c87ae883b8eedce0a020d59060ef9f.tar.gz"
+  ],
+  "tag": [
+    "celestia",
+    "cosmos-sdk",
+    "lazyledger"
+  ],
+  "version": "HEAD-ea39814-250619T121958",
+  "version_upstream": "",
+  "bsum": "69d2a14d76d75d6cbd0570c20f1501331a04757af3f0396aa3516df7b1fb84c9",
+  "build_date": "2025-06-20T08:22:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773527737",
+  "build_id": "15773527737",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/bytes-in-block?tag=HEAD-ea39814-250619T121958-loongarch64-Linux&download=bytes-in-block.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/bytes-in-block?tag=HEAD-ea39814-250619T121958-loongarch64-Linux&download=bytes-in-block",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/bytes-in-block:HEAD-ea39814-250619T121958-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celestiaorg/celestia-app/bytes-in-block",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-app/bytes-in-block?tag=HEAD-ea39814-250619T121958-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a3c9e322c30620f3c460b41caa7c7cea577f0f93cd0b353ba53d284ed4cc1f0",
+  "size": "6.0 MB",
+  "size_raw": "6210592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
