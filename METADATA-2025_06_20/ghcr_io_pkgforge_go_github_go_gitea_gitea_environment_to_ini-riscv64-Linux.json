@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "environment-to-ini",
+  "pkg_family": "gitea",
+  "pkg_id": "environment-to-ini#github.com_go_gitea_gitea",
+  "pkg_name": "environment-to-ini",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-gitea/gitea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+  "homepage": [
+    "https://github.com/go-gitea/gitea"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ambiguous",
+    "backport",
+    "environment-to-ini",
+    "gitea",
+    "invisible"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-gitea/gitea/archive/67083437cd74cda28ef165b965cd5b2fbdb8580f.tar.gz"
+  ],
+  "tag": [
+    "bitbucket",
+    "cicd",
+    "devops",
+    "docker-registry-v2",
+    "git",
+    "git-gui",
+    "git-server",
+    "gitea",
+    "github",
+    "github-actions",
+    "gitlab",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "maven-server",
+    "npm-registry",
+    "vue"
+  ],
+  "version": "HEAD-6708343-250619T003730",
+  "version_upstream": "",
+  "bsum": "7b4e11c8104704e6fce1ced8ec4cf99df3106faa9d40e496ead792d0d64d0eb7",
+  "build_date": "2025-06-20T03:18:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769952874",
+  "build_id": "15769952874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/environment-to-ini?tag=HEAD-6708343-250619T003730-riscv64-Linux&download=environment-to-ini.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/environment-to-ini?tag=HEAD-6708343-250619T003730-riscv64-Linux&download=environment-to-ini",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-gitea/gitea/environment-to-ini:HEAD-6708343-250619T003730-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-gitea/gitea/environment-to-ini",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/environment-to-ini?tag=HEAD-6708343-250619T003730-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02e0cdee4b6711f42048776cb06ffd2b3648bd638fb9f46a1e364b8c6919c538",
+  "size": "9.0 MB",
+  "size_raw": "9432440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

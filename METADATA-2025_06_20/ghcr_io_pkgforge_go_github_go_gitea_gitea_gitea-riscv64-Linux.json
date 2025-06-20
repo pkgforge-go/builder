@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gitea",
+  "pkg_family": "gitea",
+  "pkg_id": "gitea#github.com_go_gitea_gitea",
+  "pkg_name": "gitea",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-gitea/gitea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+  "homepage": [
+    "https://github.com/go-gitea/gitea"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ambiguous",
+    "backport",
+    "environment-to-ini",
+    "gitea",
+    "invisible"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-gitea/gitea/archive/67083437cd74cda28ef165b965cd5b2fbdb8580f.tar.gz"
+  ],
+  "tag": [
+    "bitbucket",
+    "cicd",
+    "devops",
+    "docker-registry-v2",
+    "git",
+    "git-gui",
+    "git-server",
+    "gitea",
+    "github",
+    "github-actions",
+    "gitlab",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "maven-server",
+    "npm-registry",
+    "vue"
+  ],
+  "version": "HEAD-6708343-250619T003730",
+  "version_upstream": "",
+  "bsum": "8e862ff8bb892b2af7de6999e6ae4ad4e1a9b6d77d1354ed3ae8eedc217395c2",
+  "build_date": "2025-06-20T03:19:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15769952874",
+  "build_id": "15769952874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/gitea?tag=HEAD-6708343-250619T003730-riscv64-Linux&download=gitea.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/gitea?tag=HEAD-6708343-250619T003730-riscv64-Linux&download=gitea",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-gitea/gitea/gitea:HEAD-6708343-250619T003730-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-gitea/gitea/gitea",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-gitea/gitea/gitea?tag=HEAD-6708343-250619T003730-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bdef11df50f7e031bac9d77cbbea9af46a68692bdbae5b1b181d6b8f1d079ed",
+  "size": "106 MB",
+  "size_raw": "111123160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
