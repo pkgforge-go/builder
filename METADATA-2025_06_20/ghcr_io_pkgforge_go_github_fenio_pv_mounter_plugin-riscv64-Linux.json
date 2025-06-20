@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "plugin",
+  "pkg_family": "pv-mounter",
+  "pkg_id": "plugin#github.com_fenio_pv_mounter",
+  "pkg_name": "plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fenio/pv-mounter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mount Kubernetes PVs locally using SSHFS",
+  "homepage": [
+    "https://github.com/fenio/pv-mounter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs",
+    "plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fenio/pv-mounter/archive/387d86463f88b414e69501a1dfed707c0a851711.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "k8s",
+    "k8s-at-home",
+    "krew-plugin",
+    "kubernetes",
+    "persistent-volume",
+    "persistent-volume-claim",
+    "sshfs"
+  ],
+  "version": "HEAD-387d864-250620T151317",
+  "version_upstream": "",
+  "bsum": "9f52238f8f7a2b68c82ab19d9d0495407f5a7c20d4eb4ff9c7909b9b0924567a",
+  "build_date": "2025-06-20T18:12:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784220833",
+  "build_id": "15784220833",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fenio/pv-mounter/plugin?tag=HEAD-387d864-250620T151317-riscv64-Linux&download=plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fenio/pv-mounter/plugin?tag=HEAD-387d864-250620T151317-riscv64-Linux&download=plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fenio/pv-mounter/plugin:HEAD-387d864-250620T151317-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fenio/pv-mounter/plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fenio/pv-mounter/plugin?tag=HEAD-387d864-250620T151317-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd1459c8f0d413cd81269200d2436b17663101da37c46a4650b11cb3217d47de",
+  "size": "66 MB",
+  "size_raw": "68815512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
