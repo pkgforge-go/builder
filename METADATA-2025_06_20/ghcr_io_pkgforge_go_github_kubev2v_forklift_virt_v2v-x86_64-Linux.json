@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "virt-v2v",
+  "pkg_family": "forklift",
+  "pkg_id": "virt-v2v#github.com_kubev2v_forklift",
+  "pkg_name": "virt-v2v",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubev2v/forklift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt",
+  "homepage": [
+    "https://github.com/kubev2v/forklift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "forklift-api",
+    "forklift-controller",
+    "image-converter",
+    "inventory",
+    "openstack-populator",
+    "ova-provider-server",
+    "ovirt-populator",
+    "populator-controller",
+    "virt-v2v",
+    "virt-v2v-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubev2v/forklift/archive/d13e1d020ae9748b6ce7f3a9358b1fd44f22d42c.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubevirt",
+    "migration",
+    "openstack",
+    "ova",
+    "ovf",
+    "ovirt",
+    "virt-v2v",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-d13e1d0-250620T145157",
+  "version_upstream": "",
+  "bsum": "2df07d7fed8ca4ff29ae5b9e08b8fa02085cbc5a2dce8e4c7f25b31e7fca4591",
+  "build_date": "2025-06-20T19:52:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785771824",
+  "build_id": "15785771824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/virt-v2v?tag=HEAD-d13e1d0-250620T145157-x86_64-Linux&download=virt-v2v.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/virt-v2v?tag=HEAD-d13e1d0-250620T145157-x86_64-Linux&download=virt-v2v",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubev2v/forklift/virt-v2v:HEAD-d13e1d0-250620T145157-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubev2v/forklift/virt-v2v",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/virt-v2v?tag=HEAD-d13e1d0-250620T145157-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e8eea7768226721c7e3e2310766653699c4b77805caaf10d627e02904ae8e340",
+  "size": "8.7 MB",
+  "size_raw": "9104640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
