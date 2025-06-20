@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "protobuf-compile",
+  "pkg_family": "terraform",
+  "pkg_id": "protobuf-compile#github.com_hashicorp_terraform",
+  "pkg_name": "protobuf-compile",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/terraform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+  "homepage": [
+    "https://github.com/hashicorp/terraform"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "loggraphdiff",
+    "main",
+    "protobuf-compile",
+    "terraform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/terraform/archive/a9b67a6cdc9502949d38670a3b1187799cf2a70d.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "cloud-management",
+    "graph",
+    "infrastructure-as-code",
+    "terraform"
+  ],
+  "version": "HEAD-a9b67a6-250618T170227",
+  "version_upstream": "",
+  "bsum": "f5b2667b28e6ec966a2a0d0e3e3f593805adbdf393093ca95c02c26739ce11fa",
+  "build_date": "2025-06-20T05:52:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15771691593",
+  "build_id": "15771691593",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform/protobuf-compile?tag=HEAD-a9b67a6-250618T170227-loongarch64-Linux&download=protobuf-compile.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45411",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform/protobuf-compile?tag=HEAD-a9b67a6-250618T170227-loongarch64-Linux&download=protobuf-compile",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/terraform/protobuf-compile:HEAD-a9b67a6-250618T170227-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/terraform/protobuf-compile",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform/protobuf-compile?tag=HEAD-a9b67a6-250618T170227-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a66dbb2f77313d499164fae5de1ec624eaa9cfa99f22b9b0622dc7eea71222e",
+  "size": "23 MB",
+  "size_raw": "23661536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
