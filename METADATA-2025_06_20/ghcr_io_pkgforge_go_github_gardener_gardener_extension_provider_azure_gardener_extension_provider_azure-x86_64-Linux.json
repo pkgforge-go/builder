@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-provider-azure",
+  "pkg_family": "gardener-extension-provider-azure",
+  "pkg_id": "gardener-extension-provider-azure#github.com_gardener_gardener_extension_provider_azure",
+  "pkg_name": "gardener-extension-provider-azure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-azure",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the Azure cloud provider _https://azure.microsoft.com_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-azure"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-azure",
+    "gardener-extension-provider-azure",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-azure/archive/3c320e0c5c9b089d27f369ebf8db95e3df76e214.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3c320e0-250620T145747",
+  "version_upstream": "",
+  "bsum": "41b130fd42e08ebe96ba37ee5c3c50860bf8dff29744a59de1d94a8d97e58ee8",
+  "build_date": "2025-06-20T18:22:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15784307517",
+  "build_id": "15784307517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-provider-azure?tag=HEAD-3c320e0-250620T145747-x86_64-Linux&download=gardener-extension-provider-azure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-provider-azure?tag=HEAD-3c320e0-250620T145747-x86_64-Linux&download=gardener-extension-provider-azure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-provider-azure:HEAD-3c320e0-250620T145747-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-provider-azure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-azure/gardener-extension-provider-azure?tag=HEAD-3c320e0-250620T145747-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2efc940f6e77c5e1e21e4415ce18596dd8f9ef855044685672342437dcd780ed",
+  "size": "80 MB",
+  "size_raw": "83704768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
