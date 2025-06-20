@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "harvester",
+  "pkg_family": "harvester",
+  "pkg_id": "harvester#github.com_harvester_harvester",
+  "pkg_name": "harvester",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "harvester",
+    "upgradehelper",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/a930b015dd7be392ed2a1f734f1edd1df2164a7e.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-a930b01-250620T092130",
+  "version_upstream": "",
+  "bsum": "545b74e622b04068eaddea5edddaf50d1ad9e2f01cd8d9a4e7fa275e8d2e795a",
+  "build_date": "2025-06-20T09:37:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15774901423",
+  "build_id": "15774901423",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-a930b01-250620T092130-loongarch64-Linux&download=harvester.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4473",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-a930b01-250620T092130-loongarch64-Linux&download=harvester",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/harvester:HEAD-a930b01-250620T092130-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/harvester",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-a930b01-250620T092130-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "094ba11b32cdf12f3ef8b9b28662262dde845344fa2610d3b27e3ac916b0d0cb",
+  "size": "140 MB",
+  "size_raw": "146745792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
