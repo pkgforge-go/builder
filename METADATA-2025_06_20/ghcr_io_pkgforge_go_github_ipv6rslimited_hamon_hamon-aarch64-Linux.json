@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hamon",
+  "pkg_family": "hamon",
+  "pkg_id": "hamon#github.com_ipv6rslimited_hamon",
+  "pkg_name": "hamon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipv6rslimited/hamon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hamon is a tool that uses the djb2 _ca. 1991_ hash to map IP addresses to readable words and vice versa. It supports both IPv4 and IPv6 addresses.  The name is derived from HAsh MOdulo Name _ハモン not 刃文_.",
+  "homepage": [
+    "https://github.com/ipv6rslimited/hamon"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hamon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipv6rslimited/hamon/archive/1fa9618fbf135703108e7de8966b1abeb0977197.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1fa9618-240609T172434",
+  "version_upstream": "",
+  "bsum": "e41ed0e0b27ec621f95b7867bfa567244711607a6c1bb18c32943cd32cdb93c3",
+  "build_date": "2025-06-20T09:59:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15775544141",
+  "build_id": "15775544141",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6rslimited/hamon/hamon?tag=HEAD-1fa9618-240609T172434-aarch64-Linux&download=hamon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6rslimited/hamon/hamon?tag=HEAD-1fa9618-240609T172434-aarch64-Linux&download=hamon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipv6rslimited/hamon/hamon:HEAD-1fa9618-240609T172434-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipv6rslimited/hamon/hamon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipv6rslimited/hamon/hamon?tag=HEAD-1fa9618-240609T172434-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b1ff3a68c34cd1d5efd2d6d9baaa272f1cc3a26d7ae1c6a74b63463134afaf1",
+  "size": "1.7 MB",
+  "size_raw": "1778648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
