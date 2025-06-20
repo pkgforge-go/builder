@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hugo",
+  "pkg_family": "hugo",
+  "pkg_id": "hugo#github.com_gohugoio_hugo",
+  "pkg_name": "hugo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gohugoio/hugo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The world’s fastest framework for building websites.",
+  "homepage": [
+    "https://github.com/gohugoio/hugo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fork_go_templates",
+    "gen",
+    "hugo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gohugoio/hugo/archive/b6c8dfa9dc4e446bae7d50088fb568939f6ccd4a.tar.gz"
+  ],
+  "tag": [
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "go",
+    "hugo",
+    "static-site-generator"
+  ],
+  "version": "HEAD-b6c8dfa-250617T073514",
+  "version_upstream": "",
+  "bsum": "1f5e2bdc8c7c7518db855a1d8c8ce500b4493a5e9952f23a87efebd0e247452d",
+  "build_date": "2025-06-20T03:51:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770248873",
+  "build_id": "15770248873",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/hugo?tag=HEAD-b6c8dfa-250617T073514-aarch64-Linux&download=hugo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81629",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/hugo?tag=HEAD-b6c8dfa-250617T073514-aarch64-Linux&download=hugo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gohugoio/hugo/hugo:HEAD-b6c8dfa-250617T073514-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gohugoio/hugo/hugo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/hugo?tag=HEAD-b6c8dfa-250617T073514-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79b8fe2c8a025c5852a5f9565cab60d5cd584b693abc051eef2c75ebb17b1c4f",
+  "size": "53 MB",
+  "size_raw": "55229792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
