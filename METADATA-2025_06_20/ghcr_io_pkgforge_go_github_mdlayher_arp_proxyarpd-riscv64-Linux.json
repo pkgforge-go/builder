@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "proxyarpd",
+  "pkg_family": "arp",
+  "pkg_id": "proxyarpd#github.com_mdlayher_arp",
+  "pkg_name": "proxyarpd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mdlayher/arp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Package arp implements the ARP protocol, as described in RFC 826. MIT Licensed.",
+  "homepage": [
+    "https://github.com/mdlayher/arp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arpc",
+    "proxyarpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mdlayher/arp/archive/6706a2966875c189c24afd003ffe801ff69542a1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6706a29-220512T130110",
+  "version_upstream": "",
+  "bsum": "994014615815cc68fc8cabd4d6a79a8051018e59430c04c64038195d7fc0b009",
+  "build_date": "2025-06-20T21:56:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15788272407",
+  "build_id": "15788272407",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdlayher/arp/proxyarpd?tag=HEAD-6706a29-220512T130110-riscv64-Linux&download=proxyarpd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "374",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdlayher/arp/proxyarpd?tag=HEAD-6706a29-220512T130110-riscv64-Linux&download=proxyarpd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mdlayher/arp/proxyarpd:HEAD-6706a29-220512T130110-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mdlayher/arp/proxyarpd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdlayher/arp/proxyarpd?tag=HEAD-6706a29-220512T130110-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bdf4794934040d917399c11fa421532ee711681e738e303da09c61f37dfd052c",
+  "size": "2.1 MB",
+  "size_raw": "2097192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
