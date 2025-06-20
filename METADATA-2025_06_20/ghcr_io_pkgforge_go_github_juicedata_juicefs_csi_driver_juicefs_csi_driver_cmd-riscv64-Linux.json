@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "juicefs-csi-driver-cmd",
+  "pkg_family": "juicefs-csi-driver",
+  "pkg_id": "juicefs-csi-driver-cmd#github.com_juicedata_juicefs_csi_driver",
+  "pkg_name": "juicefs-csi-driver-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juicedata/juicefs-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "JuiceFS CSI Driver",
+  "homepage": [
+    "https://github.com/juicedata/juicefs-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dashboard",
+    "juicefs-csi-driver-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juicedata/juicefs-csi-driver/archive/bc19f71b421af37cee3edb8813b4c3e0080077a0.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "csi",
+    "filesystem",
+    "juicefs",
+    "kubernetes",
+    "posix"
+  ],
+  "version": "HEAD-bc19f71-250620T151958",
+  "version_upstream": "v0.28.3",
+  "bsum": "f4bb3301f9e6dc4c357fbf8461342ae7994932f8955bf511e48be88d958dccb0",
+  "build_date": "2025-06-20T19:12:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15785200370",
+  "build_id": "15785200370",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs-csi-driver/juicefs-csi-driver-cmd?tag=HEAD-bc19f71-250620T151958-riscv64-Linux&download=juicefs-csi-driver-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "245",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs-csi-driver/juicefs-csi-driver-cmd?tag=HEAD-bc19f71-250620T151958-riscv64-Linux&download=juicefs-csi-driver-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juicedata/juicefs-csi-driver/juicefs-csi-driver-cmd:HEAD-bc19f71-250620T151958-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juicedata/juicefs-csi-driver/juicefs-csi-driver-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs-csi-driver/juicefs-csi-driver-cmd?tag=HEAD-bc19f71-250620T151958-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9a09a2288bb6024901bb593ec06756aa80000203ee0526cd2dc21f334ae5fc5",
+  "size": "55 MB",
+  "size_raw": "57086264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
