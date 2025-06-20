@@ -438,6 +438,19 @@
     "version": "HEAD-9923b92-210823T144511"
   },
   {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "a-to-do-list-application-server",
+    "pkg_id": "a-to-do-list-application-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "Databricks SDK for Go",
     "name": "aad-explicit-spn",
     "pkg_id": "aad-explicit-spn#github.com_databricks_databricks_sdk_go",
@@ -2951,6 +2964,7 @@
     "pkg_id": "arrow2root#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -3303,6 +3317,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fbc197f-250619T000841"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "auth-sample-server",
+    "pkg_id": "auth-sample-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
@@ -5276,6 +5303,7 @@
     "pkg_id": "brio-gen#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -5709,6 +5737,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ddfde03-250619T101533"
+  },
+  {
+    "description": "Circuit: Dynamic cloud orchestration https://gocircuit.org",
+    "name": "build",
+    "pkg_id": "build#github.com_gocircuit_circuit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd2add7-161121T153524"
   },
   {
     "description": "Energy is a framework developed by Go language based on CEF _Chromium Embedded Framework_ for developing cross-platform desktop applications for Windows, Mac OS X, and Linux",
@@ -7425,6 +7466,45 @@
     "version": "HEAD-1036d90-250619T173158"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "chrome-empty",
+    "pkg_id": "chrome-empty#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "chrome-exit-err",
+    "pkg_id": "chrome-exit-err#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "chrome-lib-missing",
+    "pkg_id": "chrome-lib-missing#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Chronos - A static race detector for the go language",
     "name": "chronos",
     "pkg_id": "chronos#github.com_amit_davidson_Chronos",
@@ -7503,6 +7583,19 @@
     "version": "HEAD-118ead5-250612T115649"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "ci-test",
+    "pkg_id": "ci-test#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.",
     "name": "cidr",
     "pkg_id": "cidr#github.com_bschaatsbergen_cidr",
@@ -7540,6 +7633,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "Circuit: Dynamic cloud orchestration https://gocircuit.org",
+    "name": "circuit",
+    "pkg_id": "circuit#github.com_gocircuit_circuit",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd2add7-161121T153524"
   },
   {
     "description": "🌿 It_s Hacker News in your terminal",
@@ -7694,6 +7797,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-8c770b7-250618T184628"
+  },
+  {
+    "description": "A report card for your Go application",
+    "name": "clean-repos",
+    "pkg_id": "clean-repos#github.com_gojp_goreportcard",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1060522-250418T150254"
   },
   {
     "description": "Run WASM tests inside your browser",
@@ -7988,6 +8104,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1a04d47-250619T143237"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "click",
+    "pkg_id": "click#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Enterprise Network Flow Collector _IPFIX, sFlow, Netflow_",
@@ -9143,6 +9272,19 @@
     "version": "HEAD-336ebe4-250617T171950"
   },
   {
+    "description": "Elegant Scraper and Crawler Framework for Golang",
+    "name": "colly",
+    "pkg_id": "colly#github.com_gocolly_colly",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d7e57a1-250618T104417"
+  },
+  {
     "description": "An interactive TUI for generating Vim, VSCode, and Sublime themes",
     "name": "colorstorm",
     "pkg_id": "colorstorm#github.com_benbusby_colorstorm",
@@ -9748,6 +9890,19 @@
     "version": "HEAD-afd6905-250619T161351"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "connect-browser",
+    "pkg_id": "connect-browser#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Terraform AliCloud provider",
     "name": "consistency",
     "pkg_id": "consistency#github.com_aliyun_terraform_provider_alicloud",
@@ -10053,6 +10208,19 @@
     "version": "HEAD-559d02b-250619T121245"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "cookie",
+    "pkg_id": "cookie#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Web-based Cloud Gaming service for Retro Game",
     "name": "coordinator",
     "pkg_id": "coordinator#github.com_giongto35_cloud_game",
@@ -10217,6 +10385,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-089eeae-250218T150803"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "countdown-server",
+    "pkg_id": "countdown-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "Simple, Versatile, Yours",
@@ -10827,6 +11008,19 @@
     "version": "HEAD-ab63bd8-250619T134850"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "custom-launch",
+    "pkg_id": "custom-launch#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "MaaFramework Golang Binding",
     "name": "custom-recognition",
     "pkg_id": "custom-recognition#github.com_MaaXYZ_maa_framework_go",
@@ -11007,6 +11201,19 @@
     "version": "HEAD-3295c80-250108T135632"
   },
   {
+    "description": "No Description Provided",
+    "name": "darkroom",
+    "pkg_id": "darkroom#github.com_gojek_darkroom",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-cd57945-231002T121901"
+  },
+  {
     "description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",
     "name": "dasel",
     "pkg_id": "dasel#github.com_TomWright_dasel",
@@ -11160,6 +11367,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-8c770b7-250618T184628"
+  },
+  {
+    "description": "A report card for your Go application",
+    "name": "db",
+    "pkg_id": "db#github.com_gojp_goreportcard",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1060522-250418T150254"
   },
   {
     "description": "Provision remote development environments via Terraform",
@@ -11433,6 +11653,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-9b763e9-250619T152038"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "debug-deadlock",
+    "pkg_id": "debug-deadlock#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "A Go testing framework for distributed applications",
@@ -12284,6 +12517,19 @@
     "version": "HEAD-a86b7e9-250617T223822"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "disable-window-alert",
+    "pkg_id": "disable-window-alert#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "The _interpol_ security string interpolation library and the _police_ command line tool. Just moved here from https://bitbucket.org/vahidi/interpol",
     "name": "discordia",
     "pkg_id": "discordia#github.com_avahidi_interpol",
@@ -12923,6 +13169,19 @@
     "version": "HEAD-5b81e09-250619T093717"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "docker",
+    "pkg_id": "docker#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Checks whether Docker is deployed according to security best practices as defined in the CIS Docker Benchmark",
     "name": "docker-bench",
     "pkg_id": "docker-bench#github.com_aquasecurity_docker_bench",
@@ -13245,6 +13504,32 @@
     "version": "HEAD-f9e2974-180322T220307"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "download_file",
+    "pkg_id": "download_file#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "download_image",
+    "pkg_id": "download_image#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "An open-source graph database",
     "name": "download_ui",
     "pkg_id": "download_ui#github.com_cayleygraph_cayley",
@@ -13514,6 +13799,19 @@
     "version": "HEAD-f740637-250619T085346"
   },
   {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "dynamic-1",
+    "pkg_id": "dynamic-1#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "Tool to scan servers and hosts using dynamic paths.",
     "name": "dynamic-file-searcher",
     "pkg_id": "dynamic-file-searcher#github.com_dsecuredcom_dynamic_file_searcher",
@@ -13525,6 +13823,45 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9fc2280-250619T143621"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "dynamic-setup",
+    "pkg_id": "dynamic-setup#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "dynamic-setup-invalid",
+    "pkg_id": "dynamic-setup-invalid#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "dynamic-untyped",
+    "pkg_id": "dynamic-untyped#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "Automate Kubernetes observability with Dynatrace",
@@ -14155,6 +14492,19 @@
     "version": "HEAD-87f082c-250218T011601"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "emulate",
+    "pkg_id": "emulate#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Go efficient multilingual NLP and text segmentation_ support English, Chinese, Japanese and others.",
     "name": "en",
     "pkg_id": "en#github.com_go_ego_gse",
@@ -14699,6 +15049,19 @@
     "version": "HEAD-09289fd-250619T161954"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "eval",
+    "pkg_id": "eval#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.",
     "name": "evaluation",
     "pkg_id": "evaluation#github.com_clouditor_clouditor",
@@ -14990,6 +15353,97 @@
     "version": "HEAD-9b763e9-250619T152038"
   },
   {
+    "description": "RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar",
+    "name": "example",
+    "pkg_id": "example#github.com_go_vgo_robotgo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-dd208c6-250615T121648"
+  },
+  {
+    "description": "Examples taken from Rob Pike_s talk about concurrency patterns.",
+    "name": "example1",
+    "pkg_id": "example1#github.com_gobridge_concurrency_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c04c593-181012T163204"
+  },
+  {
+    "description": "Examples taken from Rob Pike_s talk about concurrency patterns.",
+    "name": "example2",
+    "pkg_id": "example2#github.com_gobridge_concurrency_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c04c593-181012T163204"
+  },
+  {
+    "description": "Examples taken from Rob Pike_s talk about concurrency patterns.",
+    "name": "example3",
+    "pkg_id": "example3#github.com_gobridge_concurrency_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c04c593-181012T163204"
+  },
+  {
+    "description": "Examples taken from Rob Pike_s talk about concurrency patterns.",
+    "name": "example4",
+    "pkg_id": "example4#github.com_gobridge_concurrency_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c04c593-181012T163204"
+  },
+  {
+    "description": "Examples taken from Rob Pike_s talk about concurrency patterns.",
+    "name": "example5",
+    "pkg_id": "example5#github.com_gobridge_concurrency_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c04c593-181012T163204"
+  },
+  {
+    "description": "Examples taken from Rob Pike_s talk about concurrency patterns.",
+    "name": "example6",
+    "pkg_id": "example6#github.com_gobridge_concurrency_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c04c593-181012T163204"
+  },
+  {
     "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
     "name": "exampleapiclient",
     "pkg_id": "exampleapiclient#github.com_enfein_mieru",
@@ -15243,6 +15697,19 @@
     "version": "HEAD-cb7c677-240524T084506"
   },
   {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "external-types-demo-server",
+    "pkg_id": "external-types-demo-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "Shared GitHub Actions for FerretDB repos",
     "name": "extract-docker-tag",
     "pkg_id": "extract-docker-tag#github.com_FerretDB_github_actions",
@@ -15360,6 +15827,7 @@
     "pkg_id": "fads-app#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -15372,6 +15840,7 @@
     "pkg_id": "fads-rivet-mc-generic#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -15866,6 +16335,19 @@
     "version": "HEAD-afd6905-250619T161351"
   },
   {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "file-upload-server",
+    "pkg_id": "file-upload-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "[mirror] Go Tools",
     "name": "file2fuzz",
     "pkg_id": "file2fuzz#github.com_golang_tools",
@@ -16064,6 +16546,7 @@
     "pkg_id": "fits2root#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -16326,6 +16809,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-1c3ffae-250603T201258"
+  },
+  {
+    "description": "The world’s fastest framework for building websites.",
+    "name": "fork_go_templates",
+    "pkg_id": "fork_go_templates#github.com_gohugoio_hugo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b6c8dfa-250617T073514"
   },
   {
     "description": "Go implementation of Ethereum proof of stake",
@@ -16924,6 +17420,7 @@
     "pkg_id": "fwk-app#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -16936,6 +17433,7 @@
     "pkg_id": "fwk-cpu-cruncher#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -16948,6 +17446,7 @@
     "pkg_id": "fwk-ex-tuto-1#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -16960,6 +17459,7 @@
     "pkg_id": "fwk-ex-tuto-2#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -16972,6 +17472,7 @@
     "pkg_id": "fwk-ex-tuto-3#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -16984,6 +17485,7 @@
     "pkg_id": "fwk-ex-tuto-4-write-histo#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -16996,6 +17498,7 @@
     "pkg_id": "fwk-ex-tuto-5-read-histo#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -17008,6 +17511,7 @@
     "pkg_id": "fwk-ex-tuto-6-write-data#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -17020,6 +17524,7 @@
     "pkg_id": "fwk-ex-tuto-7-read-data#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -17032,6 +17537,7 @@
     "pkg_id": "fwk-list-components#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -17044,6 +17550,7 @@
     "pkg_id": "fwk-new-comp#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -17625,6 +18132,19 @@
     "version": "HEAD-ec94e69-250410T120831"
   },
   {
+    "description": "The world’s fastest framework for building websites.",
+    "name": "gen",
+    "pkg_id": "gen#github.com_gohugoio_hugo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b6c8dfa-250617T073514"
+  },
+  {
     "description": "Declarative Continuous Deployment for Kubernetes",
     "name": "gen-catalog",
     "pkg_id": "gen-catalog#github.com_argoproj_argo_cd",
@@ -17698,6 +18218,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-dc7b22b-250619T113149"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "gen-fonts",
+    "pkg_id": "gen-fonts#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Clojure interpreter hosted on Go, with extensible interop support.",
@@ -18135,6 +18668,19 @@
     "version": "HEAD-5290649-250619T134116"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "generate",
+    "pkg_id": "generate#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
     "name": "generate-acceptance-tests",
     "pkg_id": "generate-acceptance-tests#github.com_cockroachdb_cockroach",
@@ -18146,6 +18692,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-603ca22-250619T082719"
+  },
+  {
+    "description": "Go support for Google_s protocol buffers",
+    "name": "generate-alias",
+    "pkg_id": "generate-alias#github.com_golang_protobuf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-75de7c0-240306T074540"
   },
   {
     "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
@@ -18780,6 +19339,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-174a824-250505T222527"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "get-browser",
+    "pkg_id": "get-browser#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Container to WASM converter",
@@ -20901,6 +21473,7 @@
     "pkg_id": "go-hepmc-dump#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -20945,6 +21518,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-e976912-250530T141300"
+  },
+  {
+    "description": "Fast JSON encoder/decoder compatible with encoding/json for Go",
+    "name": "go-json",
+    "pkg_id": "go-json#github.com_goccy_go_json",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9872089-250125T143806"
   },
   {
     "description": "Miscellaneous Go hacks",
@@ -21156,6 +21742,7 @@
     "pkg_id": "go-slha-basic#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -21306,6 +21893,19 @@
     "version": "HEAD-9e553bc-250416T085301"
   },
   {
+    "description": "An up-to-date _unofficial_ knowledge base for Go programming self learning",
+    "name": "go101",
+    "pkg_id": "go101#github.com_go101_go101",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9714a51-250617T033710"
+  },
+  {
     "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",
     "name": "go2",
     "pkg_id": "go2#github.com_earthly_earthly",
@@ -21345,6 +21945,19 @@
     "version": "HEAD-c705b63-250227T003808"
   },
   {
+    "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+    "name": "go_elf",
+    "pkg_id": "go_elf#github.com_gojue_ecapture",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9cd91ad-250618T004736"
+  },
+  {
     "description": "Plug-and-play Proxy IP Pool with No Environmental Dependencies 无环境依赖开箱即用的代理IP池",
     "name": "go_proxy_pool",
     "pkg_id": "go_proxy_pool#github.com_find_xposed_magisk_go_proxy_pool",
@@ -21367,6 +21980,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-5753fe8-250613T083000"
+  },
+  {
+    "description": "Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.",
+    "name": "goa",
+    "pkg_id": "goa#github.com_goadesign_goa",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c2be568-250619T092256"
   },
   {
     "description": "Open source alternative to Auth0 / Firebase Auth",
@@ -21512,6 +22138,19 @@
     "version": "HEAD-308cf9f-231221T093359"
   },
   {
+    "description": "Parser / Scanner Generator",
+    "name": "gocc",
+    "pkg_id": "gocc#github.com_goccmack_gocc",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-42bd3d4-250421T181316"
+  },
+  {
     "description": "Checks whether a domain is hosted on a cloud service such as AWS, Azure or CloudFlare",
     "name": "gocloud",
     "pkg_id": "gocloud#github.com_MantisSTS_GoCloud",
@@ -21536,6 +22175,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1866c15-190126T082044"
+  },
+  {
+    "description": "RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar",
+    "name": "gocopy",
+    "pkg_id": "gocopy#github.com_go_vgo_robotgo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-dd208c6-250615T121648"
   },
   {
     "description": "Go implementation of Ethereum proof of stake",
@@ -21718,6 +22370,19 @@
     "version": "HEAD-74fa488-250324T110530"
   },
   {
+    "description": "GO DRiver for ORacle DB",
+    "name": "godror",
+    "pkg_id": "godror#github.com_godror_godror",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-6520588-250618T054650"
+  },
+  {
     "description": "Podman: A tool for managing OCI containers and pods.",
     "name": "goecho",
     "pkg_id": "goecho#github.com_containers_podman",
@@ -21755,6 +22420,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b3820da-250403T100653"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "gofast-cli",
+    "pkg_id": "gofast-cli#github.com_gofast_live_gofast_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3d25d43-250619T094009"
   },
   {
     "description": "GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.",
@@ -21807,6 +22485,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d910512-250611T193517"
+  },
+  {
+    "description": "Gogs is a painless self-hosted Git service",
+    "name": "gogs",
+    "pkg_id": "gogs#github.com_gogs_gogs",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d940e69-250618T094651"
   },
   {
     "description": "A lightweight Golang command-line tool designed to generate cryptographic hash values for HTTP headers.",
@@ -22157,6 +22847,19 @@
     "version": "HEAD-e5d7ba0-250619T065537"
   },
   {
+    "description": "RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar",
+    "name": "gopaste",
+    "pkg_id": "gopaste#github.com_go_vgo_robotgo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-dd208c6-250615T121648"
+  },
+  {
     "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
     "name": "gopeed",
     "pkg_id": "gopeed#github.com_GopeedLab_gopeed",
@@ -22218,6 +22921,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-dcc06ee-250605T203433"
+  },
+  {
+    "description": "A report card for your Go application",
+    "name": "goreportcard",
+    "pkg_id": "goreportcard#github.com_gojp_goreportcard",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1060522-250418T150254"
+  },
+  {
+    "description": "A report card for your Go application",
+    "name": "goreportcard-cli",
+    "pkg_id": "goreportcard-cli#github.com_gojp_goreportcard",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-1060522-250418T150254"
   },
   {
     "description": "Go efficient multilingual NLP and text segmentation_ support English, Chinese, Japanese and others.",
@@ -22872,6 +23601,19 @@
     "version": "HEAD-218c760-250619T101321"
   },
   {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "greeter",
+    "pkg_id": "greeter#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "Miscellaneous Go hacks",
     "name": "greplogs",
     "pkg_id": "greplogs#github.com_aclements_go_misc",
@@ -23258,6 +24000,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1f46516-250618T134224"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "headers",
+    "pkg_id": "headers#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "A push notification server written in Go _Golang_.",
@@ -23672,6 +24427,7 @@
     "pkg_id": "hepmc2root#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -24028,6 +24784,7 @@
     "pkg_id": "hplot#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -24278,6 +25035,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-c64e6de-250111T144508"
+  },
+  {
+    "description": "The world’s fastest framework for building websites.",
+    "name": "hugo",
+    "pkg_id": "hugo#github.com_gohugoio_hugo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-b6c8dfa-250617T073514"
   },
   {
     "description": "Huma REST/HTTP API Framework for Golang with OpenAPI 3.1",
@@ -25023,6 +25793,58 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ddfde03-250619T101533"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "invalid_model_param",
+    "pkg_id": "invalid_model_param#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "invalid_model_response",
+    "pkg_id": "invalid_model_response#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "invalid_param_model",
+    "pkg_id": "invalid_param_model#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "invalid_response_model",
+    "pkg_id": "invalid_response_model#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "A TUI based Invidious client",
@@ -26068,6 +26890,19 @@
     "version": "HEAD-a3dddc4-210803T185815"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "keys",
+    "pkg_id": "keys#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Go implementation of Ethereum proof of stake",
     "name": "keystores",
     "pkg_id": "keystores#github.com_OffchainLabs_prysm",
@@ -26542,6 +27377,19 @@
     "version": "HEAD-48578a3-250618T212157"
   },
   {
+    "description": "The CLI tool to search AWS Lambda runtime and versions across regions.",
+    "name": "lamver",
+    "pkg_id": "lamver#github.com_go_to_k_lamver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3cc4f60-250413T020404"
+  },
+  {
     "description": "Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.",
     "name": "landrun",
     "pkg_id": "landrun#github.com_Zouuup_landrun",
@@ -26579,6 +27427,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-254c2a6-250616T162826"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "launch-managed",
+    "pkg_id": "launch-managed#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
@@ -26638,6 +27499,7 @@
     "pkg_id": "lcio-ex-read-event#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -26650,6 +27512,7 @@
     "pkg_id": "lcio-ls#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -26817,6 +27680,7 @@
     "pkg_id": "lhef2hepmc#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -27068,6 +27932,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6ac7399-250618T140047"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "lint",
+    "pkg_id": "lint#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Real time Kubernetes issues and vulnerabilities scanning",
@@ -27390,6 +28267,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-afd6905-250619T161351"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "logic",
+    "pkg_id": "logic#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Identity Manager Service",
@@ -29055,6 +29945,19 @@
     "version": "HEAD-08e3083-210317T174316"
   },
   {
+    "description": "gominfmt makes the Go code more compact to aid further compression_ revert with gofmt",
+    "name": "minformat",
+    "pkg_id": "minformat#github.com_go_toolsmith_minformat",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-158d7e0-240102T213417"
+  },
+  {
     "description": "Powerful system container and virtual machine manager",
     "name": "mini-oidc",
     "pkg_id": "mini-oidc#github.com_canonical_lxd",
@@ -29091,6 +29994,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-119c388-250513T122648"
+  },
+  {
+    "description": "Powerful mock generation tool for Go programming language",
+    "name": "minimock",
+    "pkg_id": "minimock#github.com_gojuno_minimock",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c669aa6-250414T155924"
   },
   {
     "description": "Go SDK library and RPC client for the Solana Blockchain",
@@ -29944,6 +30860,19 @@
     "version": "HEAD-656901c-241108T102936"
   },
   {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "multi-auth-example-server",
+    "pkg_id": "multi-auth-example-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "Kubernetes networking based on Open vSwitch",
     "name": "multicluster-controller",
     "pkg_id": "multicluster-controller#github.com_antrea_io_antrea",
@@ -30357,6 +31286,19 @@
     "version": "HEAD-2f529be-240914T162229"
   },
   {
+    "description": "Japanese Dictionary",
+    "name": "nihongo",
+    "pkg_id": "nihongo#github.com_gojp_nihongo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-3971520-240207T183624"
+  },
+  {
     "description": "Nilla modules and cli plugins to work with NixOS and home-manager configurations",
     "name": "nilla-home",
     "pkg_id": "nilla-home#github.com_arnarg_nilla_utils",
@@ -30747,6 +31689,7 @@
     "pkg_id": "npy2root#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -30882,6 +31825,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0dddd5c-250618T234044"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "oauth-sample-server",
+    "pkg_id": "oauth-sample-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "Go package and CLI tool for saving web page as single HTML file",
@@ -31486,6 +32442,18 @@
     "version": "HEAD-c4057b2-240619T133137"
   },
   {
+    "description": "The simple and easy way to embed static files into Go binaries.",
+    "name": "packr",
+    "pkg_id": "packr#github.com_gobuffalo_packr",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c4f5900-211122T214453"
+  },
+  {
     "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go.",
     "name": "pagerduty",
     "pkg_id": "pagerduty#github.com_ITRS_Group_cordial",
@@ -31872,6 +32840,19 @@
     "version": "HEAD-4a21c40-230314T075031"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "pdf",
+    "pkg_id": "pdf#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "An interesting executable file parsing library written by Golang",
     "name": "peassets",
     "pkg_id": "peassets#github.com_fcharlie_buna",
@@ -32049,6 +33030,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-20a4c11-220922T210930"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "petstore-fixture",
+    "pkg_id": "petstore-fixture#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "petstore-server",
+    "pkg_id": "petstore-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "An interesting executable file parsing library written by Golang",
@@ -32553,6 +33560,7 @@
     "pkg_id": "podio-gen#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -32646,7 +33654,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-19",
+    "updated_at": "2025-06-20",
     "version": "HEAD-b28b8ec-250519T091430"
   },
   {
@@ -33206,6 +34214,19 @@
     "version": "HEAD-139f92e-250618T175024"
   },
   {
+    "description": "Go support for Google_s protocol buffers",
+    "name": "protoc-gen-go",
+    "pkg_id": "protoc-gen-go#github.com_golang_protobuf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-75de7c0-240306T074540"
+  },
+  {
     "description": "Generate command line interfaces to your gRPC services.",
     "name": "protoc-gen-go-aip-cli",
     "pkg_id": "protoc-gen-go-aip-cli#github.com_einride_aip_cli_go",
@@ -33487,6 +34508,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ab63bd8-250619T134850"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "proxy",
+    "pkg_id": "proxy#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Run programs in a network namespace where all traffic go through proxy",
@@ -34792,6 +35826,19 @@
     "version": "HEAD-93a19ed-250417T162751"
   },
   {
+    "description": "A task runner / simpler Make alternative written in Go",
+    "name": "release",
+    "pkg_id": "release#github.com_go_task_task",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-61e1af5-250616T103942"
+  },
+  {
     "description": "unclutter your .profile",
     "name": "release-changelog",
     "pkg_id": "release-changelog#github.com_direnv_direnv",
@@ -34909,6 +35956,19 @@
     "version": "HEAD-0ba57af-250616T014707"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "remote",
+    "pkg_id": "remote#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Control mouse and keyboard from a smartphone",
     "name": "remote-touchpad",
     "pkg_id": "remote-touchpad#github.com_Unrud_remote_touchpad",
@@ -34946,6 +36006,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0597615-241110T105825"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "rename",
+    "pkg_id": "rename#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Aerospike Client Go",
@@ -35332,6 +36405,19 @@
     "version": "HEAD-656901c-241108T102936"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "revision",
+    "pkg_id": "revision#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "CLI tool for discovering related base domains using WhoisXMLAPI_s reverse Whois endpoints",
     "name": "revwhois",
     "pkg_id": "revwhois#github.com_c3l3si4n_revwhois",
@@ -35428,6 +36514,7 @@
     "pkg_id": "rio-ls-records#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35440,6 +36527,7 @@
     "pkg_id": "rio2yoda#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35614,6 +36702,19 @@
     "version": "HEAD-54bb06f-250618T151449"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "rod-manager",
+    "pkg_id": "rod-manager#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Azure Red Hat OpenShift RP",
     "name": "role",
     "pkg_id": "role#github.com_Azure_ARO_RP",
@@ -35632,6 +36733,7 @@
     "pkg_id": "root-cp#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35644,6 +36746,7 @@
     "pkg_id": "root-diff#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35656,6 +36759,7 @@
     "pkg_id": "root-dump#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35668,6 +36772,7 @@
     "pkg_id": "root-gen-datareader#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35680,6 +36785,7 @@
     "pkg_id": "root-gen-rfunc#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35692,6 +36798,7 @@
     "pkg_id": "root-gen-streamer#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35704,6 +36811,7 @@
     "pkg_id": "root-gen-type#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35716,6 +36824,7 @@
     "pkg_id": "root-ls#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35728,6 +36837,7 @@
     "pkg_id": "root-merge#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35740,6 +36850,7 @@
     "pkg_id": "root-print#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35752,6 +36863,7 @@
     "pkg_id": "root-split#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35764,6 +36876,7 @@
     "pkg_id": "root-srv#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35776,6 +36889,7 @@
     "pkg_id": "root2arrow#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35788,6 +36902,7 @@
     "pkg_id": "root2csv#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35800,6 +36915,7 @@
     "pkg_id": "root2fits#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35812,6 +36928,7 @@
     "pkg_id": "root2npy#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35824,6 +36941,7 @@
     "pkg_id": "root2yoda#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -36559,6 +37677,18 @@
     "version": "HEAD-e4419e9-250618T115603"
   },
   {
+    "description": "Gogs is a painless self-hosted Git service",
+    "name": "schemadoc",
+    "pkg_id": "schemadoc#github.com_gogs_gogs",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-d940e69-250618T094651"
+  },
+  {
     "description": "Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration",
     "name": "scilla",
     "pkg_id": "scilla#github.com_edoardottt_scilla",
@@ -36635,6 +37765,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0af42ca-250619T130911"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "screenshot",
+    "pkg_id": "screenshot#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "A Swiss Army knife of blockchain tools",
@@ -37091,6 +38234,19 @@
     "version": "HEAD-ca3f5f6-250314T212648"
   },
   {
+    "description": "Examples taken from Rob Pike_s talk about concurrency patterns.",
+    "name": "sequencing",
+    "pkg_id": "sequencing#github.com_gobridge_concurrency_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-c04c593-181012T163204"
+  },
+  {
     "description": "Human-readable ANSI sequences 🪩",
     "name": "sequin",
     "pkg_id": "sequin#github.com_charmbracelet_sequin",
@@ -37413,6 +38569,19 @@
     "version": "HEAD-938d9bb-250609T111607"
   },
   {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "server",
+    "pkg_id": "server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "[mirror] Go Tools",
     "name": "server",
     "pkg_id": "server#github.com_golang_tools",
@@ -37516,6 +38685,19 @@
     "version": "HEAD-6780db9-240328T150625"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "setup",
+    "pkg_id": "setup#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Shared GitHub Actions for FerretDB repos",
     "name": "setup-go",
     "pkg_id": "setup-go#github.com_FerretDB_github_actions",
@@ -37602,6 +38784,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9bd3392-250222T013036"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "shell",
+    "pkg_id": "shell#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.",
@@ -38005,6 +39200,32 @@
     "version": "HEAD-7824d15-250515T103823"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "simple-check",
+    "pkg_id": "simple-check#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "simple-to-do-list-api-server",
+    "pkg_id": "simple-to-do-list-api-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
     "description": "ROS client library for the Go programming language",
     "name": "simpleactionclient",
     "pkg_id": "simpleactionclient#github.com_bluenviron_goroslib",
@@ -38152,6 +39373,7 @@
     "pkg_id": "sio-ls-records#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -38349,6 +39571,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-f08cd33-250618T030727"
+  },
+  {
+    "description": "A task runner / simpler Make alternative written in Go",
+    "name": "sleepit",
+    "pkg_id": "sleepit#github.com_go_task_task",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-61e1af5-250616T103942"
   },
   {
     "description": "Simple Logging Facade for Golang",
@@ -39492,6 +40727,16 @@
     "version": "HEAD-4b3a200-250618T134306"
   },
   {
+    "description": "Circuit: Dynamic cloud orchestration https://gocircuit.org",
+    "name": "start-app",
+    "pkg_id": "start-app#github.com_gocircuit_circuit",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd2add7-161121T153524"
+  },
+  {
     "description": "Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备",
     "name": "startup",
     "pkg_id": "startup#github.com_admpub_nging",
@@ -39906,6 +41151,19 @@
     "version": "HEAD-e5d7ba0-250619T065537"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "stripe",
+    "pkg_id": "stripe#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Staticcheck - The advanced Go linter",
     "name": "structlayout",
     "pkg_id": "structlayout#github.com_dominikh_go_tools",
@@ -40010,6 +41268,19 @@
     "version": "HEAD-4901b6d-230905T135533"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "submit",
+    "pkg_id": "submit#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Grab valid subdomains, resolve them, split them and more!",
     "name": "subs",
     "pkg_id": "subs#github.com_0x4f53_subs",
@@ -40086,6 +41357,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-dcd3abe-230805T090401"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "subtree",
+    "pkg_id": "subtree#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Extract most frequent words in a list of subdomains",
@@ -40341,6 +41625,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-5e72a6b-250128T084449"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "swagger",
+    "pkg_id": "swagger#github.com_go_swagger_go_swagger",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "Provision and manage Aiven Services from your Kubernetes cluster.",
@@ -40627,6 +41923,19 @@
     "version": "HEAD-f08980f-200526T124826"
   },
   {
+    "description": "A task runner / simpler Make alternative written in Go",
+    "name": "task",
+    "pkg_id": "task#github.com_go_task_task",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-61e1af5-250616T103942"
+  },
+  {
     "description": "Ultimate Tasks Automation Framework for Hackers, DevSecOps, Pentesters, and Bug-bounty hunters!",
     "name": "task-ninja",
     "pkg_id": "task-ninja#github.com_RikunjSindhwad_Task_Ninja",
@@ -40638,6 +41947,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7617b27-241130T004016"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "task-tracker-server",
+    "pkg_id": "task-tracker-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "Task Timer _tt_ is a dead simple TUI task timer",
@@ -41650,7 +42972,9 @@
     "name": "testfixtures",
     "pkg_id": "testfixtures#github.com_go_testfixtures_testfixtures",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-20",
@@ -41825,6 +43149,19 @@
     "version": "HEAD-e7519b7-240405T135120"
   },
   {
+    "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+    "name": "tests",
+    "pkg_id": "tests#github.com_gojue_ecapture",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-9cd91ad-250618T004736"
+  },
+  {
     "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
     "name": "testserver",
     "pkg_id": "testserver#github.com_fullstorydev_grpcurl",
@@ -41899,6 +43236,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-3fab8a7-230203T075552"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "text",
+    "pkg_id": "text#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "Cross platform rapid GUI framework for golang based on Dear ImGui.",
@@ -42388,6 +43738,19 @@
     "version": "HEAD-174a824-250505T222527"
   },
   {
+    "description": "A task runner / simpler Make alternative written in Go",
+    "name": "tmp",
+    "pkg_id": "tmp#github.com_go_task_task",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-61e1af5-250616T103942"
+  },
+  {
     "description": "Render ASCII art as SVG diagrams",
     "name": "tmpl-expand",
     "pkg_id": "tmpl-expand#github.com_blampe_goat",
@@ -42412,6 +43775,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1679d89-250616T113235"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "todo-list-server",
+    "pkg_id": "todo-list-server#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
+  },
+  {
+    "description": "Swagger 2.0 implementation for go",
+    "name": "todoctl",
+    "pkg_id": "todoctl#github.com_go_swagger_go_swagger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-5226f2c-250612T104253"
   },
   {
     "description": "Build cross platform GUI apps with GO and HTML/JS/CSS _powered by nwjs_",
@@ -42835,6 +44224,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-70e322f-250619T142522"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "translator",
+    "pkg_id": "translator#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "TUI client for Transmission daemon written in Go",
@@ -43650,6 +45052,19 @@
     "version": "HEAD-bc9d36b-250509T152304"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "upload",
+    "pkg_id": "upload#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Various tools, trinkets and experiments",
     "name": "uplodr",
     "pkg_id": "uplodr#github.com_Xe_x",
@@ -43801,6 +45216,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-ec1fc34-250619T094739"
+  },
+  {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "use-rod-like-chrome-extension",
+    "pkg_id": "use-rod-like-chrome-extension#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
   },
   {
     "description": "golang写的IM服务器_服务组件形式_",
@@ -44507,6 +45935,19 @@
     "version": "HEAD-419d0b6-250619T164629"
   },
   {
+    "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
+    "name": "visible",
+    "pkg_id": "visible#github.com_go_rod_rod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
     "description": "Go Language Library for SVG generation",
     "name": "vismem",
     "pkg_id": "vismem#github.com_ajstarks_svgo",
@@ -44801,6 +46242,26 @@
     "version": "HEAD-11e25b3-250618T144843"
   },
   {
+    "description": "Circuit: Dynamic cloud orchestration https://gocircuit.org",
+    "name": "wait-all",
+    "pkg_id": "wait-all#github.com_gocircuit_circuit",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd2add7-161121T153524"
+  },
+  {
+    "description": "Circuit: Dynamic cloud orchestration https://gocircuit.org",
+    "name": "wait-first",
+    "pkg_id": "wait-first#github.com_gocircuit_circuit",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd2add7-161121T153524"
+  },
+  {
     "description": "Super simple tool to help with orchestration of commands on the CLI by waiting on networking resources.",
     "name": "wait-for",
     "pkg_id": "wait-for#github.com_dnnrly_wait_for",
@@ -44950,6 +46411,26 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d5c56e6-230318T080909"
+  },
+  {
+    "description": "Circuit: Dynamic cloud orchestration https://gocircuit.org",
+    "name": "watchbot",
+    "pkg_id": "watchbot#github.com_gocircuit_circuit",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd2add7-161121T153524"
+  },
+  {
+    "description": "Circuit: Dynamic cloud orchestration https://gocircuit.org",
+    "name": "watchbot-with-chan",
+    "pkg_id": "watchbot-with-chan#github.com_gocircuit_circuit",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-20",
+    "version": "HEAD-fd2add7-161121T153524"
   },
   {
     "description": "A simple command line notebook for programmers",
@@ -46207,6 +47688,7 @@
     "pkg_id": "xrd-client#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -46219,6 +47701,7 @@
     "pkg_id": "xrd-cp#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -46231,6 +47714,7 @@
     "pkg_id": "xrd-ls#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -46243,6 +47727,7 @@
     "pkg_id": "xrd-srv#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -46460,6 +47945,7 @@
     "pkg_id": "yoda2rio#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -46472,6 +47958,7 @@
     "pkg_id": "yoda2root#github.com_go_hep_hep",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
