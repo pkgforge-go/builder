@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scan_bench",
+  "pkg_family": "mutagen",
+  "pkg_id": "scan_bench#github.com_mutagen_io_mutagen",
+  "pkg_name": "scan_bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mutagen-io/mutagen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast file synchronization and network forwarding for remote development",
+  "homepage": [
+    "https://github.com/mutagen-io/mutagen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci",
+    "httpdemo",
+    "lockertest",
+    "mutagen",
+    "mutagen-agent",
+    "mutagen-sidecar",
+    "scan_bench",
+    "scripts",
+    "watch_demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mutagen-io/mutagen/archive/03c982a3a34e1dfe496f4bcd4ee7ced34307db68.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-03c982a-250224T154040",
+  "version_upstream": "",
+  "bsum": "d06b81ac18cd96c6ca36c0a099b81dd12603318d805077de1eec7f089e5796ba",
+  "build_date": "2025-06-20T23:29:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789130307",
+  "build_id": "15789130307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/scan_bench?tag=HEAD-03c982a-250224T154040-aarch64-Linux&download=scan_bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/scan_bench?tag=HEAD-03c982a-250224T154040-aarch64-Linux&download=scan_bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mutagen-io/mutagen/scan_bench:HEAD-03c982a-250224T154040-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mutagen-io/mutagen/scan_bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/scan_bench?tag=HEAD-03c982a-250224T154040-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66f840d13e4b3ae6f5a0b7e61e5ccec63cb5d78bbfe6ffe3ff86a6b18d136069",
+  "size": "4.9 MB",
+  "size_raw": "5129408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

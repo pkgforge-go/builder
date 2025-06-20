@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mutagen-sidecar",
+  "pkg_family": "mutagen",
+  "pkg_id": "mutagen-sidecar#github.com_mutagen_io_mutagen",
+  "pkg_name": "mutagen-sidecar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mutagen-io/mutagen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast file synchronization and network forwarding for remote development",
+  "homepage": [
+    "https://github.com/mutagen-io/mutagen"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci",
+    "httpdemo",
+    "lockertest",
+    "mutagen",
+    "mutagen-agent",
+    "mutagen-sidecar",
+    "scan_bench",
+    "scripts",
+    "watch_demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mutagen-io/mutagen/archive/03c982a3a34e1dfe496f4bcd4ee7ced34307db68.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-03c982a-250224T154040",
+  "version_upstream": "",
+  "bsum": "fdf352160f4fc113f219b2e7fd12a8c8a5d4859030c3ff2c901542a5982f208a",
+  "build_date": "2025-06-20T23:28:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789130307",
+  "build_id": "15789130307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/mutagen-sidecar?tag=HEAD-03c982a-250224T154040-aarch64-Linux&download=mutagen-sidecar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/mutagen-sidecar?tag=HEAD-03c982a-250224T154040-aarch64-Linux&download=mutagen-sidecar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mutagen-io/mutagen/mutagen-sidecar:HEAD-03c982a-250224T154040-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mutagen-io/mutagen/mutagen-sidecar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mutagen-io/mutagen/mutagen-sidecar?tag=HEAD-03c982a-250224T154040-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c1afb3694b031ee32e55b6fb99297c903ed3c06348cd7af4b9c9e522d9abffe",
+  "size": "4.3 MB",
+  "size_raw": "4417088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
