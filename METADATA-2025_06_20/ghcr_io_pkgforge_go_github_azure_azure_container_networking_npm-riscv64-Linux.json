@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "npm",
+  "pkg_family": "azure-container-networking",
+  "pkg_id": "npm#github.com_Azure_azure_container_networking",
+  "pkg_name": "npm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/azure-container-networking",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Container Networking Solutions for Linux and Windows Containers",
+  "homepage": [
+    "https://github.com/Azure/azure-container-networking"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acncli",
+    "cilium-nodesubnet",
+    "cmd",
+    "nnsmock",
+    "npm",
+    "plugin",
+    "pluginv6",
+    "service",
+    "stateless"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/azure-container-networking/archive/576af5466b9eea4a4c8f9ae6f05e37c311f24481.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-container",
+    "azure-container-service",
+    "container-networking",
+    "kubernetes-networking",
+    "linux-containers",
+    "windows-containers"
+  ],
+  "version": "HEAD-576af54-250619T234310",
+  "version_upstream": "",
+  "bsum": "95dedc1b63b8cba187a8eeba26f006cde04c4e663f54f32cd17fdf7bfd14692c",
+  "build_date": "2025-06-20T07:12:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15773065603",
+  "build_id": "15773065603",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-container-networking/npm?tag=HEAD-576af54-250619T234310-riscv64-Linux&download=npm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-container-networking/npm?tag=HEAD-576af54-250619T234310-riscv64-Linux&download=npm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/azure-container-networking/npm:HEAD-576af54-250619T234310-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/azure-container-networking/npm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-container-networking/npm?tag=HEAD-576af54-250619T234310-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "458e3feb0dc88030ee4b4d56dcfa4b2955baa7a90f5bbaa045e999aa6a0533a9",
+  "size": "15 MB",
+  "size_raw": "15719800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
