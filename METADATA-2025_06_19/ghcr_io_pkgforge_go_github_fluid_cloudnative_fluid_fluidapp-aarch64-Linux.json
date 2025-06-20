@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fluidapp",
+  "pkg_family": "fluid",
+  "pkg_id": "fluidapp#github.com_fluid_cloudnative_fluid",
+  "pkg_name": "fluidapp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fluid-cloudnative/fluid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
+  "homepage": [
+    "https://github.com/fluid-cloudnative/fluid"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alluxio",
+    "csi",
+    "dataset",
+    "efc",
+    "fluidapp",
+    "goosefs",
+    "jindo",
+    "juicefs",
+    "sdk",
+    "thin",
+    "vineyard",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fluid-cloudnative/fluid/archive/39b8c2c35470d5d1ea746cd83d86c9fa4894bce6.tar.gz"
+  ],
+  "tag": [
+    "ai-framework",
+    "alluxio",
+    "big-data",
+    "data-abstraction",
+    "distributed-cache",
+    "kubernetes"
+  ],
+  "version": "HEAD-39b8c2c-250619T153318",
+  "version_upstream": "",
+  "bsum": "c201f5ce60f0f36ea95eb2ec2e23f021602be36144f46750fa769a8b6ecc8375",
+  "build_date": "2025-06-20T00:10:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15767926415",
+  "build_id": "15767926415",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluid-cloudnative/fluid/fluidapp?tag=HEAD-39b8c2c-250619T153318-aarch64-Linux&download=fluidapp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1774",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluid-cloudnative/fluid/fluidapp?tag=HEAD-39b8c2c-250619T153318-aarch64-Linux&download=fluidapp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fluid-cloudnative/fluid/fluidapp:HEAD-39b8c2c-250619T153318-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fluid-cloudnative/fluid/fluidapp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluid-cloudnative/fluid/fluidapp?tag=HEAD-39b8c2c-250619T153318-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1c8263f1c93c39d4b7d5a4c2aed63efa4149c8198f863f9675659d249fadbf6",
+  "size": "41 MB",
+  "size_raw": "42307136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
