@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "landlock-restrict",
+  "pkg_family": "go-landlock",
+  "pkg_id": "landlock-restrict#github.com_landlock_lsm_go_landlock",
+  "pkg_name": "landlock-restrict",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/landlock-lsm/go-landlock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library for the Linux Landlock sandboxing feature",
+  "homepage": [
+    "https://github.com/landlock-lsm/go-landlock"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-landlock-configurable",
+    "go-landlock-convert",
+    "landlock-abi-version",
+    "landlock-restrict",
+    "landlock-restrict-net"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/landlock-lsm/go-landlock/archive/1544bccde3a3bc4e9b2f717d348b6054ddce9ba6.tar.gz"
+  ],
+  "tag": [
+    "landlock",
+    "linux",
+    "sandboxing",
+    "security"
+  ],
+  "version": "HEAD-1544bcc-250303T214525",
+  "version_upstream": "",
+  "bsum": "3de489408ef705a9230d0328f8dc130335ecdb02cd3cbb89b68cdab9acecf6aa",
+  "build_date": "2025-06-20T20:09:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786046824",
+  "build_id": "15786046824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/landlock-restrict?tag=HEAD-1544bcc-250303T214525-loongarch64-Linux&download=landlock-restrict.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "191",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/landlock-restrict?tag=HEAD-1544bcc-250303T214525-loongarch64-Linux&download=landlock-restrict",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/landlock-restrict:HEAD-1544bcc-250303T214525-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/landlock-restrict",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/landlock-restrict?tag=HEAD-1544bcc-250303T214525-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4abcff8a91ea908314d41d0a5385a7863313dd036155fbc31151edcd8e04cf62",
+  "size": "1.8 MB",
+  "size_raw": "1796024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "go-landlock-convert",
+  "pkg_family": "go-landlock",
+  "pkg_id": "go-landlock-convert#github.com_landlock_lsm_go_landlock",
+  "pkg_name": "go-landlock-convert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/landlock-lsm/go-landlock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library for the Linux Landlock sandboxing feature",
+  "homepage": [
+    "https://github.com/landlock-lsm/go-landlock"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-landlock-configurable",
+    "go-landlock-convert",
+    "landlock-abi-version",
+    "landlock-restrict",
+    "landlock-restrict-net"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/landlock-lsm/go-landlock/archive/1544bccde3a3bc4e9b2f717d348b6054ddce9ba6.tar.gz"
+  ],
+  "tag": [
+    "landlock",
+    "linux",
+    "sandboxing",
+    "security"
+  ],
+  "version": "HEAD-1544bcc-250303T214525",
+  "version_upstream": "",
+  "bsum": "ef8efa9308059bbcdb42ff26657cf32fff68f5a234efb7192eb7bf9c3110f31a",
+  "build_date": "2025-06-20T20:09:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15786046824",
+  "build_id": "15786046824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-convert?tag=HEAD-1544bcc-250303T214525-loongarch64-Linux&download=go-landlock-convert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "191",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-convert?tag=HEAD-1544bcc-250303T214525-loongarch64-Linux&download=go-landlock-convert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-convert:HEAD-1544bcc-250303T214525-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-convert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/landlock-lsm/go-landlock/go-landlock-convert?tag=HEAD-1544bcc-250303T214525-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd81686d0fe479c23d1057f40ef25f01cd376c413c00605617e296bf15ea6ec5",
+  "size": "2.1 MB",
+  "size_raw": "2142616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
