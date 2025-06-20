@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-go",
+  "pkg_family": "protobuf",
+  "pkg_id": "protoc-gen-go#github.com_golang_protobuf",
+  "pkg_name": "protoc-gen-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/protobuf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go support for Google_s protocol buffers",
+  "homepage": [
+    "https://github.com/golang/protobuf"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-alias",
+    "protoc-gen-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/protobuf/archive/75de7c059e36b64f01d0dd234ff2fff404ec3374.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "protobuf",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-75de7c0-240306T074540",
+  "version_upstream": "v1.5.4",
+  "bsum": "ab8687e33b6dfc472d461fb0a882d03d56491f2ded393887c01bd01255a038a6",
+  "build_date": "2025-06-20T03:49:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15770220539",
+  "build_id": "15770220539",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/protobuf/protoc-gen-go?tag=HEAD-75de7c0-240306T074540-loongarch64-Linux&download=protoc-gen-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9962",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/protobuf/protoc-gen-go?tag=HEAD-75de7c0-240306T074540-loongarch64-Linux&download=protoc-gen-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/protobuf/protoc-gen-go:HEAD-75de7c0-240306T074540-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/protobuf/protoc-gen-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/protobuf/protoc-gen-go?tag=HEAD-75de7c0-240306T074540-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08924a1ed730c7c58a2080ab270c80be86619999512899befdf12a8fc485c35e",
+  "size": "5.9 MB",
+  "size_raw": "6180952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
