@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "signatory-tools",
+  "pkg_family": "signatory",
+  "pkg_id": "signatory-tools#github.com_ecadlabs_signatory",
+  "pkg_name": "signatory-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ecadlabs/signatory",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Signatory - A Tezos Remote Signer for signing block-chain operations with private keys using YubiHSM, AWS, GCP, Ledger_s or Azure Key Vault",
+  "homepage": [
+    "https://github.com/ecadlabs/signatory"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approve-list-svc",
+    "signatory",
+    "signatory-cli",
+    "signatory-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ecadlabs/signatory/archive/18283511a682b02f814185b5575c4487542bbf9d.tar.gz"
+  ],
+  "tag": [
+    "aws-kms",
+    "azure-keyvault",
+    "cryptography",
+    "gcp-kms",
+    "hsm",
+    "kms",
+    "ledger-wallet",
+    "tezos",
+    "tezos-baking",
+    "yubihsm"
+  ],
+  "version": "HEAD-1828351-250620T150828",
+  "version_upstream": "",
+  "bsum": "0bb339f93a6d77f5cd0be4b8c39581e332380225dc7bcfd29a008d564769fcd1",
+  "build_date": "2025-06-21T07:59:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793196708",
+  "build_id": "15793196708",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ecadlabs/signatory/signatory-tools?tag=HEAD-1828351-250620T150828-x86_64-Linux&download=signatory-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ecadlabs/signatory/signatory-tools?tag=HEAD-1828351-250620T150828-x86_64-Linux&download=signatory-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ecadlabs/signatory/signatory-tools:HEAD-1828351-250620T150828-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ecadlabs/signatory/signatory-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ecadlabs/signatory/signatory-tools?tag=HEAD-1828351-250620T150828-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72b594e57efba8304b877e923c5ebb1ac1904cdc7e0614ed46c9a40a9b7a8af3",
+  "size": "26 MB",
+  "size_raw": "26728416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
