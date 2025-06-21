@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "crdgen",
+  "pkg_family": "numaflow",
+  "pkg_id": "crdgen#github.com_numaproj_numaflow",
+  "pkg_name": "crdgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/numaproj/numaflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-native platform to run massively parallel data/streaming jobs",
+  "homepage": [
+    "https://github.com/numaproj/numaflow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdgen",
+    "e2e-api",
+    "gen-openapi-spec",
+    "json-schema",
+    "numaflow-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/numaproj/numaflow/archive/c4fecf3d5ab35f473a6a041363735b132dab18ff.tar.gz"
+  ],
+  "tag": [
+    "data-processing",
+    "hacktoberfest",
+    "k8s",
+    "kubernetes",
+    "map-reduce",
+    "pipeline",
+    "stream-processing"
+  ],
+  "version": "HEAD-c4fecf3-250621T021905",
+  "version_upstream": "",
+  "bsum": "4b4a8502da690e1192f36760e509eb67e3d7cc735c84894b19d7c6bdd6e85b99",
+  "build_date": "2025-06-21T09:39:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794161510",
+  "build_id": "15794161510",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/crdgen?tag=HEAD-c4fecf3-250621T021905-riscv64-Linux&download=crdgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1878",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/crdgen?tag=HEAD-c4fecf3-250621T021905-riscv64-Linux&download=crdgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/numaproj/numaflow/crdgen:HEAD-c4fecf3-250621T021905-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/numaproj/numaflow/crdgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/crdgen?tag=HEAD-c4fecf3-250621T021905-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b46fd51e367c68699621e01c9ae03e260a63c86581c5ac1b6d7a9b8d3671211",
+  "size": "2.6 MB",
+  "size_raw": "2722792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
