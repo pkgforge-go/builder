@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "opentelemetry-operator",
+  "pkg_id": "hack#github.com_open_telemetry_opentelemetry_operator",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-telemetry/opentelemetry-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for OpenTelemetry Collector",
+  "homepage": [
+    "https://github.com/open-telemetry/opentelemetry-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gather",
+    "golang",
+    "hack",
+    "opentelemetry-operator",
+    "operator-opamp-bridge",
+    "otel-allocator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-telemetry/opentelemetry-operator/archive/d9ea8dda681b33d4497a4a211e48e2b0d2d1a546.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes-operator",
+    "opentelemetry",
+    "opentelemetry-collector"
+  ],
+  "version": "HEAD-d9ea8dd-250620T122347",
+  "version_upstream": "",
+  "bsum": "f70c0572c2a5f4cf78ae6f2134c7d8f045d7ec1d945ea5d818a133dedb704bfc",
+  "build_date": "2025-06-21T03:05:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791132940",
+  "build_id": "15791132940",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/hack?tag=HEAD-d9ea8dd-250620T122347-riscv64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/hack?tag=HEAD-d9ea8dd-250620T122347-riscv64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-telemetry/opentelemetry-operator/hack:HEAD-d9ea8dd-250620T122347-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-telemetry/opentelemetry-operator/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/hack?tag=HEAD-d9ea8dd-250620T122347-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0254c15fb0381fb4d55056041948027ad2b03f9474a5f6b451b7a2b98a6ba834",
+  "size": "42 MB",
+  "size_raw": "43448632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

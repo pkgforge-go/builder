@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "otel-allocator",
+  "pkg_family": "opentelemetry-operator",
+  "pkg_id": "otel-allocator#github.com_open_telemetry_opentelemetry_operator",
+  "pkg_name": "otel-allocator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-telemetry/opentelemetry-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for OpenTelemetry Collector",
+  "homepage": [
+    "https://github.com/open-telemetry/opentelemetry-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gather",
+    "golang",
+    "hack",
+    "opentelemetry-operator",
+    "operator-opamp-bridge",
+    "otel-allocator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-telemetry/opentelemetry-operator/archive/d9ea8dda681b33d4497a4a211e48e2b0d2d1a546.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes-operator",
+    "opentelemetry",
+    "opentelemetry-collector"
+  ],
+  "version": "HEAD-d9ea8dd-250620T122347",
+  "version_upstream": "",
+  "bsum": "52e9a80c1e85361b27839177e1b42216294151ef84ddcd068fff46f4d92d7aed",
+  "build_date": "2025-06-21T03:06:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791132940",
+  "build_id": "15791132940",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/otel-allocator?tag=HEAD-d9ea8dd-250620T122347-riscv64-Linux&download=otel-allocator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/otel-allocator?tag=HEAD-d9ea8dd-250620T122347-riscv64-Linux&download=otel-allocator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-telemetry/opentelemetry-operator/otel-allocator:HEAD-d9ea8dd-250620T122347-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-telemetry/opentelemetry-operator/otel-allocator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/otel-allocator?tag=HEAD-d9ea8dd-250620T122347-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8c6d758770290a1aa59e816a8cfdd39c0850c5310138c66f905e20877a8207e",
+  "size": "112 MB",
+  "size_raw": "116677944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
