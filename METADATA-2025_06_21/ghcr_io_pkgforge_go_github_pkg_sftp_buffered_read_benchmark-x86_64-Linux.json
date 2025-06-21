@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "buffered-read-benchmark",
+  "pkg_family": "sftp",
+  "pkg_id": "buffered-read-benchmark#github.com_pkg_sftp",
+  "pkg_name": "buffered-read-benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pkg/sftp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SFTP support for the go.crypto/ssh package",
+  "homepage": [
+    "https://github.com/pkg/sftp"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buffered-read-benchmark",
+    "buffered-write-benchmark",
+    "go-sftp-server",
+    "request-server",
+    "server_standalone",
+    "streaming-read-benchmark",
+    "streaming-write-benchmark"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pkg/sftp/archive/36ce9cfd5c257416ed074f58de17e3e6c2149857.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sftp"
+  ],
+  "version": "HEAD-36ce9cf-250328T214405",
+  "version_upstream": "",
+  "bsum": "32763642272ea50b2756be121c57d60af046f35498eb171e029fd5617bbcd88b",
+  "build_date": "2025-06-21T10:54:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794663098",
+  "build_id": "15794663098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/buffered-read-benchmark?tag=HEAD-36ce9cf-250328T214405-x86_64-Linux&download=buffered-read-benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1582",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/buffered-read-benchmark?tag=HEAD-36ce9cf-250328T214405-x86_64-Linux&download=buffered-read-benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pkg/sftp/buffered-read-benchmark:HEAD-36ce9cf-250328T214405-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pkg/sftp/buffered-read-benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/buffered-read-benchmark?tag=HEAD-36ce9cf-250328T214405-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3361c0d9cf63e26e6770c6ca03b2e6165ef661aaca38a82a5299bb65bceb8c3c",
+  "size": "4.3 MB",
+  "size_raw": "4485408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
