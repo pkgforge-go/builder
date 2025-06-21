@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "oidc-server",
+  "pkg_family": "pgrok",
+  "pkg_id": "oidc-server#github.com_pgrok_pgrok",
+  "pkg_name": "oidc-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pgrok/pgrok",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Poor man_s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding",
+  "homepage": [
+    "https://github.com/pgrok/pgrok"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "echo-server",
+    "oidc-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pgrok/pgrok/archive/57cb140d2e4ce8e68f499aaf9a1236150285978e.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "http",
+    "ngrok-alternative",
+    "oidc",
+    "pgrok",
+    "reverse-tunnel",
+    "ssh-tunnel",
+    "sso",
+    "tcp"
+  ],
+  "version": "HEAD-57cb140-250601T120557",
+  "version_upstream": "",
+  "bsum": "b00c213ab7563aba9fee32deab10d7db2b2166d3180f7f94d279fd532010ef3b",
+  "build_date": "2025-06-21T10:29:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794502435",
+  "build_id": "15794502435",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pgrok/pgrok/oidc-server?tag=HEAD-57cb140-250601T120557-x86_64-Linux&download=oidc-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3346",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pgrok/pgrok/oidc-server?tag=HEAD-57cb140-250601T120557-x86_64-Linux&download=oidc-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pgrok/pgrok/oidc-server:HEAD-57cb140-250601T120557-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pgrok/pgrok/oidc-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pgrok/pgrok/oidc-server?tag=HEAD-57cb140-250601T120557-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c340eb2fd012fa5ec64e54f1a3f2844547b84de5c495937937d6918969733818",
+  "size": "8.3 MB",
+  "size_raw": "8697088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
