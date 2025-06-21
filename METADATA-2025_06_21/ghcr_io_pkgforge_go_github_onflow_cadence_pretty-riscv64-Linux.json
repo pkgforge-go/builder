@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pretty",
+  "pkg_family": "cadence",
+  "pkg_id": "pretty#github.com_onflow_cadence",
+  "pkg_name": "pretty",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onflow/cadence",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cadence, the resource-oriented smart contract programming language 🏃‍♂️",
+  "homepage": [
+    "https://github.com/onflow/cadence"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast-explorer",
+    "check",
+    "compare-parsing",
+    "decode-state-values",
+    "gen",
+    "info",
+    "json-cdc",
+    "lex",
+    "main",
+    "minifier",
+    "parse",
+    "pretty",
+    "staged-contracts-report-printer",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/onflow/cadence/archive/ec545e82f2f8cb52bb9cc1f945b09b32d4e2887e.tar.gz"
+  ],
+  "tag": [
+    "cadence",
+    "language",
+    "onflow",
+    "programming-language",
+    "smart-contracts"
+  ],
+  "version": "HEAD-ec545e8-250620T122754",
+  "version_upstream": "",
+  "bsum": "37ad5c3620ada1c016272e732496727476ae5eb6d84fc7aab1a9e840148203ab",
+  "build_date": "2025-06-21T09:47:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794431456",
+  "build_id": "15794431456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/pretty?tag=HEAD-ec545e8-250620T122754-riscv64-Linux&download=pretty.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "537",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/pretty?tag=HEAD-ec545e8-250620T122754-riscv64-Linux&download=pretty",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onflow/cadence/pretty:HEAD-ec545e8-250620T122754-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onflow/cadence/pretty",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/pretty?tag=HEAD-ec545e8-250620T122754-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9035d958f91f066cac9973de14d6242a2137df828db645522b978c36085dc870",
+  "size": "7.2 MB",
+  "size_raw": "7458744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
