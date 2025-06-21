@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "osbuild-mock-openid-provider",
+  "pkg_family": "images",
+  "pkg_id": "osbuild-mock-openid-provider#github.com_osbuild_images",
+  "pkg_name": "osbuild-mock-openid-provider",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Image builder image definition library",
+  "homepage": [
+    "https://github.com/osbuild/images"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boot-aws",
+    "osbuild-mock-openid-provider",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/images/archive/3cfb185198cbac094bb2ec67969e7659814272f6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3cfb185-250620T084946",
+  "version_upstream": "v0.153.0",
+  "bsum": "f596617e292f4834ba0e19a6d032099ba7c6cfa015f0e255219bb875e2eaf9e1",
+  "build_date": "2025-06-21T04:40:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791367371",
+  "build_id": "15791367371",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-mock-openid-provider?tag=HEAD-3cfb185-250620T084946-riscv64-Linux&download=osbuild-mock-openid-provider.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-mock-openid-provider?tag=HEAD-3cfb185-250620T084946-riscv64-Linux&download=osbuild-mock-openid-provider",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/images/osbuild-mock-openid-provider:HEAD-3cfb185-250620T084946-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/images/osbuild-mock-openid-provider",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-mock-openid-provider?tag=HEAD-3cfb185-250620T084946-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee8ee44257801136ac763b2d50cf2a8cdb74778ad92b473a6cb1ab54615d2b73",
+  "size": "6.1 MB",
+  "size_raw": "6339960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

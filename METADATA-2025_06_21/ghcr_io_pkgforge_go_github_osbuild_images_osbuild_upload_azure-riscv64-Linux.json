@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "osbuild-upload-azure",
+  "pkg_family": "images",
+  "pkg_id": "osbuild-upload-azure#github.com_osbuild_images",
+  "pkg_name": "osbuild-upload-azure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Image builder image definition library",
+  "homepage": [
+    "https://github.com/osbuild/images"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boot-aws",
+    "osbuild-mock-openid-provider",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/images/archive/3cfb185198cbac094bb2ec67969e7659814272f6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3cfb185-250620T084946",
+  "version_upstream": "v0.153.0",
+  "bsum": "f3909b24870c83e1b2bc712f248cd5e40ba11174717f96d788ea4cbfee56dde0",
+  "build_date": "2025-06-21T04:40:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791367371",
+  "build_id": "15791367371",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-azure?tag=HEAD-3cfb185-250620T084946-riscv64-Linux&download=osbuild-upload-azure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-azure?tag=HEAD-3cfb185-250620T084946-riscv64-Linux&download=osbuild-upload-azure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/images/osbuild-upload-azure:HEAD-3cfb185-250620T084946-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/images/osbuild-upload-azure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-azure?tag=HEAD-3cfb185-250620T084946-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "faa7a962dc0249cc1df1387869c74a6b80c144a5e081cc75ff489b2c566f33f4",
+  "size": "7.0 MB",
+  "size_raw": "7261752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
