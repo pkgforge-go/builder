@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "nuclio",
+  "pkg_id": "controller#github.com_nuclio_nuclio",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nuclio/nuclio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-Performance Serverless event and data processing platform",
+  "homepage": [
+    "https://github.com/nuclio/nuclio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscaler",
+    "benchmark",
+    "controller",
+    "dashboard",
+    "dlx",
+    "generator",
+    "nuctl",
+    "processor",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nuclio/nuclio/archive/4b9e1dc861f1418dd4c7655544d296caa3eb09e9.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "faas",
+    "faas-platform",
+    "functions",
+    "go",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-4b9e1dc-250620T205715",
+  "version_upstream": "",
+  "bsum": "b59d3e9e89754ec5d0fd5da82b97aaba15ed4019786428185c8c8e293f4af3ed",
+  "build_date": "2025-06-21T09:48:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794160939",
+  "build_id": "15794160939",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/controller?tag=HEAD-4b9e1dc-250620T205715-loongarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/controller?tag=HEAD-4b9e1dc-250620T205715-loongarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nuclio/nuclio/controller:HEAD-4b9e1dc-250620T205715-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nuclio/nuclio/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/controller?tag=HEAD-4b9e1dc-250620T205715-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9e4c9b157fcb92bc4b54df8970c5d82ee8cf60b0936c90322231c62634883d3",
+  "size": "54 MB",
+  "size_raw": "55647056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
