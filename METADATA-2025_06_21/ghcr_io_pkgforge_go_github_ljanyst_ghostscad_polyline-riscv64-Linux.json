@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "polyline",
+  "pkg_family": "ghostscad",
+  "pkg_id": "polyline#github.com_ljanyst_ghostscad",
+  "pkg_name": "polyline",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ljanyst/ghostscad",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD",
+  "homepage": [
+    "https://github.com/ljanyst/ghostscad"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-3d-shapes",
+    "02-2d-shapes-extrusion",
+    "03-booleans",
+    "04-fancy",
+    "05-anchors",
+    "bezier",
+    "bezier-surface",
+    "graph",
+    "polyline",
+    "polyline3d",
+    "sector-and-arc",
+    "stub_generator",
+    "tagged_method_generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ljanyst/ghostscad/archive/04cb15dea9b4d8060c4f9acad2b22bf040aa8c7d.tar.gz"
+  ],
+  "tag": [
+    "3d-printing",
+    "cad",
+    "go",
+    "golang",
+    "modelling"
+  ],
+  "version": "HEAD-04cb15d-250621T110501",
+  "version_upstream": "",
+  "bsum": "beef8bd43652afb3221ed9aef8083778d8234ff9b116914bfa89abc437c99ed2",
+  "build_date": "2025-06-21T22:33:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799924176",
+  "build_id": "15799924176",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/polyline?tag=HEAD-04cb15d-250621T110501-riscv64-Linux&download=polyline.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "175",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/polyline?tag=HEAD-04cb15d-250621T110501-riscv64-Linux&download=polyline",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ljanyst/ghostscad/polyline:HEAD-04cb15d-250621T110501-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ljanyst/ghostscad/polyline",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/polyline?tag=HEAD-04cb15d-250621T110501-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f939c9b5e018282628b714421b54993cb88ccb0444559fdf76d8d8b3a7abe334",
+  "size": "2.4 MB",
+  "size_raw": "2441032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "01-3d-shapes",
+  "pkg_family": "ghostscad",
+  "pkg_id": "01-3d-shapes#github.com_ljanyst_ghostscad",
+  "pkg_name": "01-3d-shapes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ljanyst/ghostscad",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD",
+  "homepage": [
+    "https://github.com/ljanyst/ghostscad"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-3d-shapes",
+    "02-2d-shapes-extrusion",
+    "03-booleans",
+    "04-fancy",
+    "05-anchors",
+    "bezier",
+    "bezier-surface",
+    "graph",
+    "polyline",
+    "polyline3d",
+    "sector-and-arc",
+    "stub_generator",
+    "tagged_method_generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ljanyst/ghostscad/archive/04cb15dea9b4d8060c4f9acad2b22bf040aa8c7d.tar.gz"
+  ],
+  "tag": [
+    "3d-printing",
+    "cad",
+    "go",
+    "golang",
+    "modelling"
+  ],
+  "version": "HEAD-04cb15d-250621T110501",
+  "version_upstream": "",
+  "bsum": "d839f4444bcbe143d86f422ecb0f73f0e1b8120cbeba6fccf8db51c9520eb979",
+  "build_date": "2025-06-21T22:33:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799924176",
+  "build_id": "15799924176",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/01-3d-shapes?tag=HEAD-04cb15d-250621T110501-aarch64-Linux&download=01-3d-shapes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "175",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/01-3d-shapes?tag=HEAD-04cb15d-250621T110501-aarch64-Linux&download=01-3d-shapes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ljanyst/ghostscad/01-3d-shapes:HEAD-04cb15d-250621T110501-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ljanyst/ghostscad/01-3d-shapes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/01-3d-shapes?tag=HEAD-04cb15d-250621T110501-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9072689747066a62054e698ae37569f73a2f118152fc17e4a65a54c1f2c43f3c",
+  "size": "2.4 MB",
+  "size_raw": "2510904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
