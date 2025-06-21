@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "arkd",
+  "pkg_family": "fulmine",
+  "pkg_id": "arkd#github.com_ArkLabsHQ_fulmine",
+  "pkg_name": "arkd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ArkLabsHQ/fulmine",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fulmine is a Bitcoin wallet daemon that integrates Ark protocol_s batched transaction model with Lightning Network infrastructure, enabling routing nodes, service providers and payment hubs to optimize channel liquidity while minimizing on-chain fees, without compromising on self-custody.",
+  "homepage": [
+    "https://github.com/ArkLabsHQ/fulmine"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arkd",
+    "fulmine"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ArkLabsHQ/fulmine/archive/7f64d424004162e407b8f077b76de6a902ecdd6d.tar.gz"
+  ],
+  "tag": [
+    "ark",
+    "ark-labs",
+    "bitcoin",
+    "bitcoin-wallet",
+    "cln",
+    "fulmine",
+    "lightning-network",
+    "lnd",
+    "utxo",
+    "vtxo"
+  ],
+  "version": "HEAD-7f64d42-250620T173538",
+  "version_upstream": "",
+  "bsum": "7b56bcfb7b677406e4901cc60145d5228d25f7628bc5d82fb8d90892fc134eaf",
+  "build_date": "2025-06-21T06:47:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793123385",
+  "build_id": "15793123385",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arklabshq/fulmine/arkd?tag=HEAD-7f64d42-250620T173538-aarch64-Linux&download=arkd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arklabshq/fulmine/arkd?tag=HEAD-7f64d42-250620T173538-aarch64-Linux&download=arkd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arklabshq/fulmine/arkd:HEAD-7f64d42-250620T173538-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arklabshq/fulmine/arkd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arklabshq/fulmine/arkd?tag=HEAD-7f64d42-250620T173538-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c58b783d6afb2841c78c00fda0956dfbc86434d9c79f98aa2cd87c589079d58",
+  "size": "6.0 MB",
+  "size_raw": "6222080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
