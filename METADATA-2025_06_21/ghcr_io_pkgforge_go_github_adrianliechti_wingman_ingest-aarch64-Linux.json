@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ingest",
+  "pkg_family": "wingman",
+  "pkg_id": "ingest#github.com_adrianliechti_wingman",
+  "pkg_name": "ingest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adrianliechti/wingman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Inference Hub for AI at Scale",
+  "homepage": [
+    "https://github.com/adrianliechti/wingman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "golang",
+    "ingest",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/adrianliechti/wingman/archive/ca136881f17dad1bc479150461634045ef29610c.tar.gz"
+  ],
+  "tag": [
+    "ai-gateway",
+    "azure-openai",
+    "claude",
+    "function-calling",
+    "groq",
+    "llama",
+    "llamacpp",
+    "llm",
+    "mistral",
+    "ollama",
+    "openai",
+    "openai-api",
+    "rag"
+  ],
+  "version": "HEAD-ca13688-250621T155021",
+  "version_upstream": "",
+  "bsum": "7ce35e5d0ef41dc839615f22c73c7cff345f57304d6cfa211cb322e17089a7af",
+  "build_date": "2025-06-21T21:44:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799850375",
+  "build_id": "15799850375",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/ingest?tag=HEAD-ca13688-250621T155021-aarch64-Linux&download=ingest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/ingest?tag=HEAD-ca13688-250621T155021-aarch64-Linux&download=ingest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adrianliechti/wingman/ingest:HEAD-ca13688-250621T155021-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adrianliechti/wingman/ingest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/ingest?tag=HEAD-ca13688-250621T155021-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "01b0f99c6a7c4e4d54c9e0489f0aa7c8b52c1c2501382bc894f17c596a5824b1",
+  "size": "21 MB",
+  "size_raw": "21658240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
