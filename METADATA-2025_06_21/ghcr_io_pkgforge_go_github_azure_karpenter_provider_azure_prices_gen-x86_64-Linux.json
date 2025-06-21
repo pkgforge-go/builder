@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prices_gen",
+  "pkg_family": "karpenter-provider-azure",
+  "pkg_id": "prices_gen#github.com_Azure_karpenter_provider_azure",
+  "pkg_name": "prices_gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/karpenter-provider-azure",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AKS Karpenter Provider",
+  "homepage": [
+    "https://github.com/Azure/karpenter-provider-azure"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "instancetype_testdata_gen",
+    "prices_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/karpenter-provider-azure/archive/2f245bbcad73aaea3a7422fb4a800b81b02c918b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2f245bb-250620T174955",
+  "version_upstream": "v1.5.0",
+  "bsum": "607413d2d5430f0896c67ad9df16a218f6bb81a461fb8cfc63f5f9d2b8d0b5e4",
+  "build_date": "2025-06-21T06:48:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793123257",
+  "build_id": "15793123257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/karpenter-provider-azure/prices_gen?tag=HEAD-2f245bb-250620T174955-x86_64-Linux&download=prices_gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "471",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/karpenter-provider-azure/prices_gen?tag=HEAD-2f245bb-250620T174955-x86_64-Linux&download=prices_gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/karpenter-provider-azure/prices_gen:HEAD-2f245bb-250620T174955-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/karpenter-provider-azure/prices_gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/karpenter-provider-azure/prices_gen?tag=HEAD-2f245bb-250620T174955-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "734235ca9cc10c6821891a88ff2e84ab8e707ae6c5b6e170c9efec88b2ec9efe",
+  "size": "14 MB",
+  "size_raw": "14087584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
