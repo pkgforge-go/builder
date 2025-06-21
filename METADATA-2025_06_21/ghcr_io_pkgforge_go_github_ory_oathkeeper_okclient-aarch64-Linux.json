@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "okclient",
+  "pkg_family": "oathkeeper",
+  "pkg_id": "okclient#github.com_ory_oathkeeper",
+  "pkg_name": "okclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/oathkeeper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud native Identity _ Access Proxy / API _IAP_ and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP_s_ requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+  "homepage": [
+    "https://github.com/ory/oathkeeper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clidoc",
+    "oathkeeper",
+    "okapi",
+    "okclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/oathkeeper/archive/42b1e278593afdedd3035e4844a20de871556ce2.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "golang",
+    "hacktoberfest",
+    "oauth2",
+    "openid-connect",
+    "ory",
+    "ory-oathkeeper",
+    "reverse-proxy"
+  ],
+  "version": "HEAD-42b1e27-250620T111551",
+  "version_upstream": "",
+  "bsum": "d04fe444ab8137b5a16607866964122cbf6d492a22c1cedd92bb973e1a255381",
+  "build_date": "2025-06-21T04:21:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791356307",
+  "build_id": "15791356307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/oathkeeper/okclient?tag=HEAD-42b1e27-250620T111551-aarch64-Linux&download=okclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3370",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/oathkeeper/okclient?tag=HEAD-42b1e27-250620T111551-aarch64-Linux&download=okclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/oathkeeper/okclient:HEAD-42b1e27-250620T111551-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/oathkeeper/okclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/oathkeeper/okclient?tag=HEAD-42b1e27-250620T111551-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7ef67a559b43a6f47bee942f26f039db6fc594185acf2f01e4e35d1a5abed20",
+  "size": "14 MB",
+  "size_raw": "14341760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
