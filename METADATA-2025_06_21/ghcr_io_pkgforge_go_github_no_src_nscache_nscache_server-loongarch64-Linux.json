@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nscache-server",
+  "pkg_family": "nscache",
+  "pkg_id": "nscache-server#github.com_no_src_nscache",
+  "pkg_name": "nscache-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/no-src/nscache",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go caching framework that supports multiple data source drivers",
+  "homepage": [
+    "https://github.com/no-src/nscache"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nscache-cli",
+    "nscache-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/no-src/nscache/archive/2da5ae18530ab33a784207046a4481127a169a3d.tar.gz"
+  ],
+  "tag": [
+    "cache",
+    "cachemanager",
+    "golang"
+  ],
+  "version": "HEAD-2da5ae1-250205T114448",
+  "version_upstream": "",
+  "bsum": "19fd40080e08f37bf9e74a1d30d670976511faa970cc0c52a13d64cb8bb91583",
+  "build_date": "2025-06-21T02:11:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790916178",
+  "build_id": "15790916178",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/no-src/nscache/nscache-server?tag=HEAD-2da5ae1-250205T114448-loongarch64-Linux&download=nscache-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/no-src/nscache/nscache-server?tag=HEAD-2da5ae1-250205T114448-loongarch64-Linux&download=nscache-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/no-src/nscache/nscache-server:HEAD-2da5ae1-250205T114448-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/no-src/nscache/nscache-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/no-src/nscache/nscache-server?tag=HEAD-2da5ae1-250205T114448-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a21d60eb48a97f603e9fbb2d1d91d9f615ba3af9f725d7857a450c56dde61b1",
+  "size": "24 MB",
+  "size_raw": "24172288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
