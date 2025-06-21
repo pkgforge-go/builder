@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pkg",
+  "pkg_family": "pkg",
+  "pkg_id": "pkg#github.com_minio_pkg",
+  "pkg_name": "pkg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/pkg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository to hold all the common packages imported by MinIO projects",
+  "homepage": [
+    "https://github.com/minio/pkg"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pkg"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minio/pkg/archive/fa81ca8839d6efaf5fca372fdf4f4455dab69691.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fa81ca8-250620T221930",
+  "version_upstream": "",
+  "bsum": "c9d138c8e2cbe9c6194d7c23ae44f34bb77585c7dc2355f1bc20417c839d88de",
+  "build_date": "2025-06-21T22:37:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799970259",
+  "build_id": "15799970259",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/pkg/pkg?tag=HEAD-fa81ca8-250620T221930-riscv64-Linux&download=pkg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/pkg/pkg?tag=HEAD-fa81ca8-250620T221930-riscv64-Linux&download=pkg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/pkg/pkg:HEAD-fa81ca8-250620T221930-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/pkg/pkg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/pkg/pkg?tag=HEAD-fa81ca8-250620T221930-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d09c602451757cf900c55a48d9afc8ec6df1bccb921a158bd4f383a58a2dd882",
+  "size": "2.9 MB",
+  "size_raw": "3028488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
