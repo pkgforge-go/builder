@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ech",
+  "pkg_family": "utls",
+  "pkg_id": "ech#github.com_refraction_networking_utls",
+  "pkg_name": "ech",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/refraction-networking/utls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.",
+  "homepage": [
+    "https://github.com/refraction-networking/utls"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ech",
+    "old",
+    "tls-resumption"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/refraction-networking/utls/archive/41ce3ba2c2d77d9d4b784e72ffa1841653acc525.tar.gz"
+  ],
+  "tag": [
+    "anticensorship",
+    "cipher-suites",
+    "clienthello",
+    "crypto",
+    "golang",
+    "handshake",
+    "low-level-tls",
+    "obfuscation",
+    "parrot",
+    "tls",
+    "tls-extension"
+  ],
+  "version": "HEAD-41ce3ba-250523T142334",
+  "version_upstream": "",
+  "bsum": "8a3ce590956609cebc8e578aa780524aaffed628e0e4b184d27801f4ca344472",
+  "build_date": "2025-06-21T13:36:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795920136",
+  "build_id": "15795920136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/utls/ech?tag=HEAD-41ce3ba-250523T142334-riscv64-Linux&download=ech.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1938",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/utls/ech?tag=HEAD-41ce3ba-250523T142334-riscv64-Linux&download=ech",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/refraction-networking/utls/ech:HEAD-41ce3ba-250523T142334-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/refraction-networking/utls/ech",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/utls/ech?tag=HEAD-41ce3ba-250523T142334-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef1a017c63450aee3448e827740efd526bc15b82801bbb44e869dea624e01966",
+  "size": "7.2 MB",
+  "size_raw": "7522232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
