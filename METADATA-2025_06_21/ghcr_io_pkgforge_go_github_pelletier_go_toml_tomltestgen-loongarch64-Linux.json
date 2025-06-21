@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tomltestgen",
+  "pkg_family": "go-toml",
+  "pkg_id": "tomltestgen#github.com_pelletier_go_toml",
+  "pkg_name": "tomltestgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pelletier/go-toml",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the TOML file format",
+  "homepage": [
+    "https://github.com/pelletier/go-toml"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gotoml-test-decoder",
+    "gotoml-test-encoder",
+    "jsontoml",
+    "tomljson",
+    "tomll",
+    "tomltestgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pelletier/go-toml/archive/85e2448ce57f28543cb00e30572cf25fe4dfe6e4.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "hacktoberfest",
+    "toml",
+    "toml-parsing"
+  ],
+  "version": "HEAD-85e2448-250510T151434",
+  "version_upstream": "",
+  "bsum": "7a53720aedb30d4966ecafbbf2f0e918a1999b060a9fabc7dd3136466b11fd2b",
+  "build_date": "2025-06-21T10:18:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794480598",
+  "build_id": "15794480598",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pelletier/go-toml/tomltestgen?tag=HEAD-85e2448-250510T151434-loongarch64-Linux&download=tomltestgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1822",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pelletier/go-toml/tomltestgen?tag=HEAD-85e2448-250510T151434-loongarch64-Linux&download=tomltestgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pelletier/go-toml/tomltestgen:HEAD-85e2448-250510T151434-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pelletier/go-toml/tomltestgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pelletier/go-toml/tomltestgen?tag=HEAD-85e2448-250510T151434-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "15aa12d412097339d55b7b06ca5cdc364017d8601aaf99c9ab374cf0b38a8c57",
+  "size": "3.5 MB",
+  "size_raw": "3661464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

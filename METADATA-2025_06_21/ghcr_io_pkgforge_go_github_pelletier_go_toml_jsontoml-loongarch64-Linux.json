@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jsontoml",
+  "pkg_family": "go-toml",
+  "pkg_id": "jsontoml#github.com_pelletier_go_toml",
+  "pkg_name": "jsontoml",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pelletier/go-toml",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the TOML file format",
+  "homepage": [
+    "https://github.com/pelletier/go-toml"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gotoml-test-decoder",
+    "gotoml-test-encoder",
+    "jsontoml",
+    "tomljson",
+    "tomll",
+    "tomltestgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pelletier/go-toml/archive/85e2448ce57f28543cb00e30572cf25fe4dfe6e4.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "hacktoberfest",
+    "toml",
+    "toml-parsing"
+  ],
+  "version": "HEAD-85e2448-250510T151434",
+  "version_upstream": "",
+  "bsum": "27fdb7f33d6847723b33d5d406043e149fe7025d2c55356aa8944da9ae7c3414",
+  "build_date": "2025-06-21T10:18:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794480598",
+  "build_id": "15794480598",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pelletier/go-toml/jsontoml?tag=HEAD-85e2448-250510T151434-loongarch64-Linux&download=jsontoml.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1822",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pelletier/go-toml/jsontoml?tag=HEAD-85e2448-250510T151434-loongarch64-Linux&download=jsontoml",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pelletier/go-toml/jsontoml:HEAD-85e2448-250510T151434-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pelletier/go-toml/jsontoml",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pelletier/go-toml/jsontoml?tag=HEAD-85e2448-250510T151434-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c2eb9123e93f23ce62f08d697ab3034503933768f688fd8766728541e2dead7",
+  "size": "2.3 MB",
+  "size_raw": "2310584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
