@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "backfill-index",
+  "pkg_family": "rekor",
+  "pkg_id": "backfill-index#github.com_sigstore_rekor",
+  "pkg_name": "backfill-index",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Software Supply Chain Transparency Log",
+  "homepage": [
+    "https://github.com/sigstore/rekor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backfill-index",
+    "cleanup-index",
+    "copy-index",
+    "rekor-cli",
+    "rekor-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor/archive/1ef8b666115e6f93f80c74ce2b4cae67a529d1fc.tar.gz"
+  ],
+  "tag": [
+    "provenance",
+    "security",
+    "supply-chain",
+    "transparency-log"
+  ],
+  "version": "HEAD-1ef8b66-250618T181451",
+  "version_upstream": "",
+  "bsum": "6fca535c40e25e1b69e79e6fe73ccb99317cde622e79bd9b9dfee13dc3ae3e8e",
+  "build_date": "2025-06-21T23:29:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800313999",
+  "build_id": "15800313999",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/backfill-index?tag=HEAD-1ef8b66-250618T181451-loongarch64-Linux&download=backfill-index.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/backfill-index?tag=HEAD-1ef8b66-250618T181451-loongarch64-Linux&download=backfill-index",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor/backfill-index:HEAD-1ef8b66-250618T181451-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor/backfill-index",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/backfill-index?tag=HEAD-1ef8b66-250618T181451-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d1482e2ba6e0f692b22c1110314f914528253f875697b627d81035e33464204",
+  "size": "17 MB",
+  "size_raw": "16849600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

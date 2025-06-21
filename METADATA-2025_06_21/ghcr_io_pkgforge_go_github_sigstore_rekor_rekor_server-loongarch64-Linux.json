@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rekor-server",
+  "pkg_family": "rekor",
+  "pkg_id": "rekor-server#github.com_sigstore_rekor",
+  "pkg_name": "rekor-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Software Supply Chain Transparency Log",
+  "homepage": [
+    "https://github.com/sigstore/rekor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backfill-index",
+    "cleanup-index",
+    "copy-index",
+    "rekor-cli",
+    "rekor-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor/archive/1ef8b666115e6f93f80c74ce2b4cae67a529d1fc.tar.gz"
+  ],
+  "tag": [
+    "provenance",
+    "security",
+    "supply-chain",
+    "transparency-log"
+  ],
+  "version": "HEAD-1ef8b66-250618T181451",
+  "version_upstream": "",
+  "bsum": "b346c79db286e3c21187262c18a1b0d972bd8e2a429c4b77561bc0418fb19e6e",
+  "build_date": "2025-06-21T23:29:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800313999",
+  "build_id": "15800313999",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/rekor-server?tag=HEAD-1ef8b66-250618T181451-loongarch64-Linux&download=rekor-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/rekor-server?tag=HEAD-1ef8b66-250618T181451-loongarch64-Linux&download=rekor-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor/rekor-server:HEAD-1ef8b66-250618T181451-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor/rekor-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/rekor-server?tag=HEAD-1ef8b66-250618T181451-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19ba59b639e0d5a470c72ead85219c8390296a7c319cab7c47e3d753f5e7023e",
+  "size": "71 MB",
+  "size_raw": "73799456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
