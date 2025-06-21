@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ipfix-collector",
+  "pkg_family": "flowlogs-pipeline",
+  "pkg_id": "ipfix-collector#github.com_netobserv_flowlogs_pipeline",
+  "pkg_name": "ipfix-collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/netobserv/flowlogs-pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Transform flow logs into metrics",
+  "homepage": [
+    "https://github.com/netobserv/flowlogs-pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitodoc",
+    "confgenerator",
+    "ipfix-collector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/netobserv/flowlogs-pipeline/archive/7f03781160f49f6373f797e2c612fcfb7cf947e8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7f03781-250620T145308",
+  "version_upstream": "",
+  "bsum": "bdfbcfdab76206ed911bec36d8bcfec4a4822eed7901e2ea94748e2b30470d73",
+  "build_date": "2025-06-21T00:04:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789454996",
+  "build_id": "15789454996",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netobserv/flowlogs-pipeline/ipfix-collector?tag=HEAD-7f03781-250620T145308-loongarch64-Linux&download=ipfix-collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netobserv/flowlogs-pipeline/ipfix-collector?tag=HEAD-7f03781-250620T145308-loongarch64-Linux&download=ipfix-collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netobserv/flowlogs-pipeline/ipfix-collector:HEAD-7f03781-250620T145308-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netobserv/flowlogs-pipeline/ipfix-collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netobserv/flowlogs-pipeline/ipfix-collector?tag=HEAD-7f03781-250620T145308-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8290af77854d1042f7f9da0e92945b5c5d41df09da87f8cd18d3a7080bf140c2",
+  "size": "6.5 MB",
+  "size_raw": "6755072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
