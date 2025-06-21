@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "release",
+  "pkg_family": "mongo-tools",
+  "pkg_id": "release#github.com_mongodb_mongo_tools",
+  "pkg_name": "release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mongodb/mongo-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/mongodb/mongo-tools"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "main",
+    "mongo-tools",
+    "release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mongodb/mongo-tools/archive/3b20937cf4baceadb69589d274fd8729e895269e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3b20937-250620T112630",
+  "version_upstream": "",
+  "bsum": "3ac25f72d0a2c6cd75c0ec23936df78699925b57208a35040cde71a2fae3277d",
+  "build_date": "2025-06-21T09:28:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794139414",
+  "build_id": "15794139414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongo-tools/release?tag=HEAD-3b20937-250620T112630-riscv64-Linux&download=release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1020",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongo-tools/release?tag=HEAD-3b20937-250620T112630-riscv64-Linux&download=release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mongodb/mongo-tools/release:HEAD-3b20937-250620T112630-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mongodb/mongo-tools/release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongo-tools/release?tag=HEAD-3b20937-250620T112630-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66b28c52eb47c8ad715a53d0686ae79840e6cc21d1c8e4e063dc4342115839bb",
+  "size": "17 MB",
+  "size_raw": "17425304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
