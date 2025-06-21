@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "buildtools",
+  "pkg_family": "embedded-cluster",
+  "pkg_id": "buildtools#github.com_replicatedhq_embedded_cluster",
+  "pkg_name": "buildtools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/replicatedhq/embedded-cluster",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/replicatedhq/embedded-cluster"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildtools",
+    "embedded-cluster-release-builder",
+    "hack",
+    "local-artifact-mirror",
+    "schemagen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/replicatedhq/embedded-cluster/archive/7f3cb9c2ba8354ae9e88e85aecdab28bb749f6c9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7f3cb9c-250620T112004",
+  "version_upstream": "",
+  "bsum": "04199cc190ce0c38b9090c13f43fb700628a60adc82664076f615e46547ce8ab",
+  "build_date": "2025-06-21T13:51:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795934320",
+  "build_id": "15795934320",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/replicatedhq/embedded-cluster/buildtools?tag=HEAD-7f3cb9c-250620T112004-riscv64-Linux&download=buildtools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/replicatedhq/embedded-cluster/buildtools?tag=HEAD-7f3cb9c-250620T112004-riscv64-Linux&download=buildtools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/replicatedhq/embedded-cluster/buildtools:HEAD-7f3cb9c-250620T112004-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/replicatedhq/embedded-cluster/buildtools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/replicatedhq/embedded-cluster/buildtools?tag=HEAD-7f3cb9c-250620T112004-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "811799b1d9037f662ecdb5badc95cfb12135cd8a18be736b714277767ace5287",
+  "size": "87 MB",
+  "size_raw": "90352320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
