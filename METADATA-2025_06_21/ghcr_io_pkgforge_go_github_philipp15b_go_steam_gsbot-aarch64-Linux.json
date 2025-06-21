@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gsbot",
+  "pkg_family": "go-steam",
+  "pkg_id": "gsbot#github.com_Philipp15b_go_steam",
+  "pkg_name": "gsbot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Philipp15b/go-steam",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Steam_s protocol in Go to allow automation of different actions on the Steam network without running an actual Steam client. Includes APIs for friends, chatting, trading, trade offers and TF2 crafting.",
+  "homepage": [
+    "https://github.com/Philipp15b/go-steam"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "gsbot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Philipp15b/go-steam/archive/bec6b03a4561808bdc4946bce8a7150ad4599d1b.tar.gz"
+  ],
+  "tag": [
+    "steam",
+    "steamkit"
+  ],
+  "version": "HEAD-bec6b03-211206T145001",
+  "version_upstream": "v3.0.0",
+  "bsum": "b9e16ecb5b3204dd66cd8ae82e31cc019910f6fa0f1b998cedf3c4d4ce705427",
+  "build_date": "2025-06-21T23:56:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800637404",
+  "build_id": "15800637404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/philipp15b/go-steam/gsbot?tag=HEAD-bec6b03-211206T145001-aarch64-Linux&download=gsbot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "413",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/philipp15b/go-steam/gsbot?tag=HEAD-bec6b03-211206T145001-aarch64-Linux&download=gsbot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/philipp15b/go-steam/gsbot:HEAD-bec6b03-211206T145001-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/philipp15b/go-steam/gsbot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/philipp15b/go-steam/gsbot?tag=HEAD-bec6b03-211206T145001-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23a9c67876d069b151c0fa31dfb2504cae54cb7b737b80c91febe7477aed92a9",
+  "size": "12 MB",
+  "size_raw": "11834528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bec6b03-211206T145001-aarch64-Linux[v3.0.0]"
+  ],
+  "trusted": "true"
+}
