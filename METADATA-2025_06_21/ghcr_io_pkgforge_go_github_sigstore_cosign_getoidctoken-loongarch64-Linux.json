@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "getoidctoken",
+  "pkg_family": "cosign",
+  "pkg_id": "getoidctoken#github.com_sigstore_cosign",
+  "pkg_name": "getoidctoken",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/cosign",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Code signing and transparency for containers and binaries",
+  "homepage": [
+    "https://github.com/sigstore/cosign"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conformance",
+    "cosign",
+    "getoidctoken",
+    "help",
+    "sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/cosign/archive/af5a988bb15a03919ccaac7a2ddcad7a9d006f38.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-af5a988-250617T200314",
+  "version_upstream": "v2.5.2",
+  "bsum": "351403e4c240a584df85f421cb0836024a24bc7d58022b4c622af75636b0cb42",
+  "build_date": "2025-06-21T23:29:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800295820",
+  "build_id": "15800295820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/getoidctoken?tag=HEAD-af5a988-250617T200314-loongarch64-Linux&download=getoidctoken.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5011",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/getoidctoken?tag=HEAD-af5a988-250617T200314-loongarch64-Linux&download=getoidctoken",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/cosign/getoidctoken:HEAD-af5a988-250617T200314-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/cosign/getoidctoken",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/getoidctoken?tag=HEAD-af5a988-250617T200314-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02a916cc85a73cf3b1a12ab192a5088da751e4368a3e23e4b4c7c23a1e135c08",
+  "size": "6.0 MB",
+  "size_raw": "6195584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
