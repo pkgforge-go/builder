@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "optgen",
+  "pkg_family": "go-mysql-server",
+  "pkg_id": "optgen#github.com_dolthub_go_mysql_server",
+  "pkg_name": "optgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dolthub/go-mysql-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.",
+  "homepage": [
+    "https://github.com/dolthub/go-mysql-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "convert",
+    "generate",
+    "optgen",
+    "plangen",
+    "scriptgen",
+    "sqllogictest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dolthub/go-mysql-server/archive/02707261435133e86bc628f7c4cba055cc96a92a.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "mysql",
+    "mysql-server",
+    "query-engine",
+    "relational-database",
+    "sql",
+    "sql-engine",
+    "sql-server"
+  ],
+  "version": "HEAD-0270726-250620T173137",
+  "version_upstream": "",
+  "bsum": "dd225354d4f3a4ddf0323a95700316a6f191d14d49ac86eec5a75d89d706c865",
+  "build_date": "2025-06-21T07:58:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793194031",
+  "build_id": "15793194031",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/go-mysql-server/optgen?tag=HEAD-0270726-250620T173137-loongarch64-Linux&download=optgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2467",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/go-mysql-server/optgen?tag=HEAD-0270726-250620T173137-loongarch64-Linux&download=optgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dolthub/go-mysql-server/optgen:HEAD-0270726-250620T173137-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dolthub/go-mysql-server/optgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/go-mysql-server/optgen?tag=HEAD-0270726-250620T173137-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2cdae210506e81b6fafd5dbde59464491279a6ac18c5fa054a8b296973cb89ff",
+  "size": "5.0 MB",
+  "size_raw": "5213976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
