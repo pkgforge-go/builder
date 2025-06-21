@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "kuberay",
+  "pkg_id": "cmd#github.com_ray_project_kuberay",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ray-project/kuberay",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit to run Ray applications on Kubernetes",
+  "homepage": [
+    "https://github.com/ray-project/kuberay"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ray-project/kuberay/archive/b16fb3f6c124a91c09695bb7f247c5f68185e983.tar.gz"
+  ],
+  "tag": [
+    "apache",
+    "deep-learning",
+    "kubernetes",
+    "machine-learning",
+    "ray"
+  ],
+  "version": "HEAD-b16fb3f-250620T210954",
+  "version_upstream": "",
+  "bsum": "b3b61191cc8847f29304d466cc9478606bfccc24077ee633d6c04b909b20ed3e",
+  "build_date": "2025-06-21T13:14:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795907638",
+  "build_id": "15795907638",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ray-project/kuberay/cmd?tag=HEAD-b16fb3f-250620T210954-aarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1836",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ray-project/kuberay/cmd?tag=HEAD-b16fb3f-250620T210954-aarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ray-project/kuberay/cmd:HEAD-b16fb3f-250620T210954-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ray-project/kuberay/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ray-project/kuberay/cmd?tag=HEAD-b16fb3f-250620T210954-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47f7707fb9b5b98a44fa1f274a2e8f599fa348fc3745ba020869065508425174",
+  "size": "13 MB",
+  "size_raw": "13054912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
