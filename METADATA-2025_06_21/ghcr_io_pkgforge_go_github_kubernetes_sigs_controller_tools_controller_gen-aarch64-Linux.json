@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller-gen",
+  "pkg_family": "controller-tools",
+  "pkg_id": "controller-gen#github.com_kubernetes_sigs_controller_tools",
+  "pkg_name": "controller-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/controller-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools to use with the controller-runtime libraries",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/controller-tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller-gen",
+    "helpgen",
+    "type-scaffold"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/controller-tools/archive/692f5e3efb172ec7a31a0360a05ff2df110ff6d5.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-api-machinery"
+  ],
+  "version": "HEAD-692f5e3-250620T111052",
+  "version_upstream": "",
+  "bsum": "12893482df53d724469888275d692729258a683e150e8c7bebf7dd461a9f0b68",
+  "build_date": "2025-06-21T08:57:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793721139",
+  "build_id": "15793721139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-tools/controller-gen?tag=HEAD-692f5e3-250620T111052-aarch64-Linux&download=controller-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "806",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-tools/controller-gen?tag=HEAD-692f5e3-250620T111052-aarch64-Linux&download=controller-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/controller-tools/controller-gen:HEAD-692f5e3-250620T111052-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/controller-tools/controller-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-tools/controller-gen?tag=HEAD-692f5e3-250620T111052-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "89e623589c54f263ff92eadfaafdfe7e7ad5db58f725b12bb5d6c04f081e0555",
+  "size": "25 MB",
+  "size_raw": "26078496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
