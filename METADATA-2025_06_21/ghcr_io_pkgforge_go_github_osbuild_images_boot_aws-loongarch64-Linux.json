@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "boot-aws",
+  "pkg_family": "images",
+  "pkg_id": "boot-aws#github.com_osbuild_images",
+  "pkg_name": "boot-aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Image builder image definition library",
+  "homepage": [
+    "https://github.com/osbuild/images"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boot-aws",
+    "osbuild-mock-openid-provider",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/images/archive/3cfb185198cbac094bb2ec67969e7659814272f6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3cfb185-250620T084946",
+  "version_upstream": "v0.153.0",
+  "bsum": "61d94d170bf9b03e0cd8b2b9c4faacd45c6e762805a1cd5d1b20ff0ff581ce75",
+  "build_date": "2025-06-21T04:39:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791367371",
+  "build_id": "15791367371",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/boot-aws?tag=HEAD-3cfb185-250620T084946-loongarch64-Linux&download=boot-aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/boot-aws?tag=HEAD-3cfb185-250620T084946-loongarch64-Linux&download=boot-aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/images/boot-aws:HEAD-3cfb185-250620T084946-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/images/boot-aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/boot-aws?tag=HEAD-3cfb185-250620T084946-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9ccdee86bf02a1e47873aaea8488ecc8d4c9ff5f060a00886bd739725cf1aba2",
+  "size": "14 MB",
+  "size_raw": "13999584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
