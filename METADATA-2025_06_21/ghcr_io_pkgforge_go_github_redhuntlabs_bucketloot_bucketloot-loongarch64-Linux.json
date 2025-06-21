@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bucketloot",
+  "pkg_family": "BucketLoot",
+  "pkg_id": "bucketloot#github.com_redhuntlabs_BucketLoot",
+  "pkg_name": "bucketloot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/redhuntlabs/BucketLoot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.",
+  "homepage": [
+    "https://github.com/redhuntlabs/BucketLoot"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bucketloot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/redhuntlabs/BucketLoot/archive/69949e0bf459bbfa9c5bb01a0ed35a8cb5dda847.tar.gz"
+  ],
+  "tag": [
+    "research"
+  ],
+  "version": "HEAD-69949e0-250122T104826",
+  "version_upstream": "",
+  "bsum": "465f3f259630121fdaa1902c451e0e68ee103c04e5e12f8dfdebb1518317c13b",
+  "build_date": "2025-06-21T13:23:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795910235",
+  "build_id": "15795910235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhuntlabs/bucketloot/bucketloot?tag=HEAD-69949e0-250122T104826-loongarch64-Linux&download=bucketloot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "421",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhuntlabs/bucketloot/bucketloot?tag=HEAD-69949e0-250122T104826-loongarch64-Linux&download=bucketloot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redhuntlabs/bucketloot/bucketloot:HEAD-69949e0-250122T104826-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redhuntlabs/bucketloot/bucketloot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhuntlabs/bucketloot/bucketloot?tag=HEAD-69949e0-250122T104826-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97e272d1ca12c301bde4ae1cde48e88639c4960f8c4a643442e654d4ba1d4d16",
+  "size": "12 MB",
+  "size_raw": "11749024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
