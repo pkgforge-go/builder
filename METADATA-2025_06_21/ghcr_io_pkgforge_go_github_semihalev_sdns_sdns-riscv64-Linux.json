@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sdns",
+  "pkg_family": "sdns",
+  "pkg_id": "sdns#github.com_semihalev_sdns",
+  "pkg_name": "sdns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/semihalev/sdns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.",
+  "homepage": [
+    "https://github.com/semihalev/sdns"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sdns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/semihalev/sdns/archive/9c0156103f5ad426788af45862accb4b865a5e45.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "dns-privacy",
+    "dns-resolver",
+    "dns-server",
+    "dnssec",
+    "edns",
+    "resolver"
+  ],
+  "version": "HEAD-9c01561-250619T091603",
+  "version_upstream": "",
+  "bsum": "4f2d5a33c0e823a910e1a6eb2c2444e5ac22b0c94fc09d536dba2073967ec3f9",
+  "build_date": "2025-06-21T15:28:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796820688",
+  "build_id": "15796820688",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semihalev/sdns/sdns?tag=HEAD-9c01561-250619T091603-riscv64-Linux&download=sdns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semihalev/sdns/sdns?tag=HEAD-9c01561-250619T091603-riscv64-Linux&download=sdns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/semihalev/sdns/sdns:HEAD-9c01561-250619T091603-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/semihalev/sdns/sdns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semihalev/sdns/sdns?tag=HEAD-9c01561-250619T091603-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a7e12d0d2bbce83c1051be3c29e07d423ae2dd1e94b87724e52d13a70655020",
+  "size": "70 MB",
+  "size_raw": "73036600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
