@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gather",
+  "pkg_family": "opentelemetry-operator",
+  "pkg_id": "gather#github.com_open_telemetry_opentelemetry_operator",
+  "pkg_name": "gather",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-telemetry/opentelemetry-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for OpenTelemetry Collector",
+  "homepage": [
+    "https://github.com/open-telemetry/opentelemetry-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gather",
+    "golang",
+    "hack",
+    "opentelemetry-operator",
+    "operator-opamp-bridge",
+    "otel-allocator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-telemetry/opentelemetry-operator/archive/d9ea8dda681b33d4497a4a211e48e2b0d2d1a546.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes-operator",
+    "opentelemetry",
+    "opentelemetry-collector"
+  ],
+  "version": "HEAD-d9ea8dd-250620T122347",
+  "version_upstream": "",
+  "bsum": "696aa6cea147b37c089f8ab11393db8e0393ef8eb7fa67fd2dfdea0a3c2e87d4",
+  "build_date": "2025-06-21T03:05:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791132940",
+  "build_id": "15791132940",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/gather?tag=HEAD-d9ea8dd-250620T122347-loongarch64-Linux&download=gather.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/gather?tag=HEAD-d9ea8dd-250620T122347-loongarch64-Linux&download=gather",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-telemetry/opentelemetry-operator/gather:HEAD-d9ea8dd-250620T122347-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-telemetry/opentelemetry-operator/gather",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-telemetry/opentelemetry-operator/gather?tag=HEAD-d9ea8dd-250620T122347-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37dc0a3719598316fbcef3385721f9c64b0a671e95be821cfb091b20ea52abf1",
+  "size": "46 MB",
+  "size_raw": "47337088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
