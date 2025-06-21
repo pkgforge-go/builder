@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cloudformation",
+  "pkg_family": "cloudbeat",
+  "pkg_id": "cloudformation#github.com_elastic_cloudbeat",
+  "pkg_name": "cloudformation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/cloudbeat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Analyzing Cloud Security Posture",
+  "homepage": [
+    "https://github.com/elastic/cloudbeat"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asset-inventory-cloudformation",
+    "cloudbeat",
+    "cloudformation"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/cloudbeat/archive/c734d2069bf37a9ecaad48f2b235dc2608ec4b91.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "cspm",
+    "golang",
+    "vulnerability-detection",
+    "vulnerability-scanners"
+  ],
+  "version": "HEAD-c734d20-250620T194649",
+  "version_upstream": "",
+  "bsum": "78d6a750d4d571c8375057e441d09570326656b5b1d4efe38be30544a84dbac6",
+  "build_date": "2025-06-21T08:07:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793197481",
+  "build_id": "15793197481",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/cloudformation?tag=HEAD-c734d20-250620T194649-x86_64-Linux&download=cloudformation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/cloudformation?tag=HEAD-c734d20-250620T194649-x86_64-Linux&download=cloudformation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/cloudbeat/cloudformation:HEAD-c734d20-250620T194649-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/cloudbeat/cloudformation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/cloudformation?tag=HEAD-c734d20-250620T194649-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd6179e88f8929ac5eb2598c6a58d238e7ddab888608499d9181085dee63267d",
+  "size": "17 MB",
+  "size_raw": "17414736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

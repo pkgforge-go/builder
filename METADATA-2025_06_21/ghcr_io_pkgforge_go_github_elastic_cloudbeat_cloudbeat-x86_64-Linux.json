@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cloudbeat",
+  "pkg_family": "cloudbeat",
+  "pkg_id": "cloudbeat#github.com_elastic_cloudbeat",
+  "pkg_name": "cloudbeat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/cloudbeat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Analyzing Cloud Security Posture",
+  "homepage": [
+    "https://github.com/elastic/cloudbeat"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asset-inventory-cloudformation",
+    "cloudbeat",
+    "cloudformation"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/cloudbeat/archive/c734d2069bf37a9ecaad48f2b235dc2608ec4b91.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "cspm",
+    "golang",
+    "vulnerability-detection",
+    "vulnerability-scanners"
+  ],
+  "version": "HEAD-c734d20-250620T194649",
+  "version_upstream": "",
+  "bsum": "838effdfe29898d03f31e8042eb81e3ff29a3cf4eabf10cfa870eab1f43ca6d9",
+  "build_date": "2025-06-21T08:07:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793197481",
+  "build_id": "15793197481",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/cloudbeat?tag=HEAD-c734d20-250620T194649-x86_64-Linux&download=cloudbeat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/cloudbeat?tag=HEAD-c734d20-250620T194649-x86_64-Linux&download=cloudbeat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/cloudbeat/cloudbeat:HEAD-c734d20-250620T194649-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/cloudbeat/cloudbeat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/cloudbeat?tag=HEAD-c734d20-250620T194649-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7fb29e8dd06765f1a86d3b6b68d80410114c4d71a66032a4b4b234b781b6308",
+  "size": "515 MB",
+  "size_raw": "539858736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
