@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "readme_inputs",
+  "pkg_family": "cluster-baremetal-operator",
+  "pkg_id": "readme_inputs#github.com_openshift_cluster_baremetal_operator",
+  "pkg_name": "readme_inputs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-baremetal-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository is for a new second level operator for baremetal installs. See https://github.com/openshift/enhancements/pull/212.",
+  "homepage": [
+    "https://github.com/openshift/cluster-baremetal-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-baremetal-operator",
+    "readme_inputs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-baremetal-operator/archive/01a79b7134dae82236747844f6cb5a415448c336.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-01a79b7-250620T131428",
+  "version_upstream": "",
+  "bsum": "76a4e60f640ebc1e0e8ff376514f6f13cc7f296ab7a44b4caa500b41cc205b72",
+  "build_date": "2025-06-21T03:32:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791233850",
+  "build_id": "15791233850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-baremetal-operator/readme_inputs?tag=HEAD-01a79b7-250620T131428-aarch64-Linux&download=readme_inputs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-baremetal-operator/readme_inputs?tag=HEAD-01a79b7-250620T131428-aarch64-Linux&download=readme_inputs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-baremetal-operator/readme_inputs:HEAD-01a79b7-250620T131428-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-baremetal-operator/readme_inputs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-baremetal-operator/readme_inputs?tag=HEAD-01a79b7-250620T131428-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bda75fa00bb8d414de9af54b7f540f2c33542339b56cfc8d22507da6cc236ff",
+  "size": "2.5 MB",
+  "size_raw": "2602520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
