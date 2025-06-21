@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "vsphere",
+  "pkg_family": "machine-api-operator",
+  "pkg_id": "vsphere#github.com_openshift_machine_api_operator",
+  "pkg_name": "vsphere",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/machine-api-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Machine API operator",
+  "homepage": [
+    "https://github.com/openshift/machine-api-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "machine-api-operator",
+    "machine-api-tests-ext",
+    "machine-healthcheck",
+    "machineset",
+    "nodelink-controller",
+    "vsphere"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/machine-api-operator/archive/b9b1512b4263bf6e36c7b6a81d155f0fb944b3c2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b9b1512-250620T063553",
+  "version_upstream": "",
+  "bsum": "4fbe195450487a03e2ef64bef6a8279fc189363caf8b36a302c2ee1b7cad6aa5",
+  "build_date": "2025-06-21T03:45:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791241405",
+  "build_id": "15791241405",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/vsphere?tag=HEAD-b9b1512-250620T063553-x86_64-Linux&download=vsphere.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "177",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/vsphere?tag=HEAD-b9b1512-250620T063553-x86_64-Linux&download=vsphere",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/machine-api-operator/vsphere:HEAD-b9b1512-250620T063553-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/machine-api-operator/vsphere",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/vsphere?tag=HEAD-b9b1512-250620T063553-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16c805fda50bf2c0415a79e6b0c80263c17308b5a0cbc1b6e6c3e0f97983bdbd",
+  "size": "99 MB",
+  "size_raw": "103205568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
