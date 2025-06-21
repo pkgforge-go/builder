@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go-mod-outdated",
+  "pkg_family": "go-mod-outdated",
+  "pkg_id": "go-mod-outdated#github.com_psampaz_go_mod_outdated",
+  "pkg_name": "go-mod-outdated",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/psampaz/go-mod-outdated",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.",
+  "homepage": [
+    "https://github.com/psampaz/go-mod-outdated"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-mod-outdated"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/psampaz/go-mod-outdated/archive/bb79367d102a05221196613dde574f1a0b81b556.tar.gz"
+  ],
+  "tag": [
+    "beautifier",
+    "beautify",
+    "go",
+    "go-modules",
+    "golang",
+    "outdated",
+    "outdated-dependencies",
+    "outdated-libraries",
+    "outdated-packages",
+    "prettifier",
+    "prettify"
+  ],
+  "version": "HEAD-bb79367-230219T212242",
+  "version_upstream": "",
+  "bsum": "dac16099444f9e05c0d8110d5e827514c43802ef7e4ccbd56608393cdd57714f",
+  "build_date": "2025-06-21T12:04:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795237488",
+  "build_id": "15795237488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psampaz/go-mod-outdated/go-mod-outdated?tag=HEAD-bb79367-230219T212242-aarch64-Linux&download=go-mod-outdated.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "661",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psampaz/go-mod-outdated/go-mod-outdated?tag=HEAD-bb79367-230219T212242-aarch64-Linux&download=go-mod-outdated",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psampaz/go-mod-outdated/go-mod-outdated:HEAD-bb79367-230219T212242-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psampaz/go-mod-outdated/go-mod-outdated",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psampaz/go-mod-outdated/go-mod-outdated?tag=HEAD-bb79367-230219T212242-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9369bf9387b75f6a11aea712471282c3b88a891915b6dfe28d8a958ddbe86c6",
+  "size": "2.8 MB",
+  "size_raw": "2897848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
