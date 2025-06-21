@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wayland-scanner",
+  "pkg_family": "wayland",
+  "pkg_id": "wayland-scanner#github.com_neurlang_wayland",
+  "pkg_name": "wayland-scanner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/neurlang/wayland",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang Wayland - Go Multiplatform UI library",
+  "homepage": [
+    "https://github.com/neurlang/wayland"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "editor_backend",
+    "go-wayland-imageviewer",
+    "go-wayland-simple-shm",
+    "wayland-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/neurlang/wayland/archive/174f8c169e237670e689c1743eb95620b80e9c63.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gui",
+    "linux",
+    "wayland",
+    "wayland-client",
+    "windows"
+  ],
+  "version": "HEAD-174f8c1-241117T141446",
+  "version_upstream": "v0.2.1",
+  "bsum": "4884f5a30366e33af743cb3e0eed198df1eaec4c9f62ef77e8ffd196a1f359b6",
+  "build_date": "2025-06-21T00:06:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789533062",
+  "build_id": "15789533062",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/wayland-scanner?tag=HEAD-174f8c1-241117T141446-riscv64-Linux&download=wayland-scanner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/wayland-scanner?tag=HEAD-174f8c1-241117T141446-riscv64-Linux&download=wayland-scanner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/neurlang/wayland/wayland-scanner:HEAD-174f8c1-241117T141446-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/neurlang/wayland/wayland-scanner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/wayland-scanner?tag=HEAD-174f8c1-241117T141446-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81bff602ea7f2fef677749fa646988cabd8273200d6b9d9d09993a924ef3af1b",
+  "size": "2.0 MB",
+  "size_raw": "2084072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "go-wayland-simple-shm",
+  "pkg_family": "wayland",
+  "pkg_id": "go-wayland-simple-shm#github.com_neurlang_wayland",
+  "pkg_name": "go-wayland-simple-shm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/neurlang/wayland",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang Wayland - Go Multiplatform UI library",
+  "homepage": [
+    "https://github.com/neurlang/wayland"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "editor_backend",
+    "go-wayland-imageviewer",
+    "go-wayland-simple-shm",
+    "wayland-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/neurlang/wayland/archive/174f8c169e237670e689c1743eb95620b80e9c63.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gui",
+    "linux",
+    "wayland",
+    "wayland-client",
+    "windows"
+  ],
+  "version": "HEAD-174f8c1-241117T141446",
+  "version_upstream": "v0.2.1",
+  "bsum": "750c991d4d0b4fac57675939de9502fa16ad9108ffd89c6375643c6b2842ba6d",
+  "build_date": "2025-06-21T00:06:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789533062",
+  "build_id": "15789533062",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/go-wayland-simple-shm?tag=HEAD-174f8c1-241117T141446-riscv64-Linux&download=go-wayland-simple-shm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/go-wayland-simple-shm?tag=HEAD-174f8c1-241117T141446-riscv64-Linux&download=go-wayland-simple-shm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/neurlang/wayland/go-wayland-simple-shm:HEAD-174f8c1-241117T141446-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/neurlang/wayland/go-wayland-simple-shm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/go-wayland-simple-shm?tag=HEAD-174f8c1-241117T141446-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0491a0b9837b897a94561317a77d04f5dffc1e27b20094f6edd805ded238169a",
+  "size": "2.2 MB",
+  "size_raw": "2291864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
