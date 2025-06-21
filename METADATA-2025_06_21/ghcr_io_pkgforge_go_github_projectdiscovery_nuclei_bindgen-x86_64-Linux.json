@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bindgen",
+  "pkg_family": "nuclei",
+  "pkg_id": "bindgen#github.com_projectdiscovery_nuclei",
+  "pkg_name": "bindgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/nuclei",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+  "homepage": [
+    "https://github.com/projectdiscovery/nuclei"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "bindgen",
+    "docgen",
+    "functional-test",
+    "fuzzplayground",
+    "generate-checksum",
+    "integration-test",
+    "memogen",
+    "nuclei",
+    "scan-charts",
+    "scrapefuncs",
+    "signer",
+    "simple",
+    "tmc",
+    "tsgen",
+    "with_speed_control"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/nuclei/archive/c242b112ccef37321144cb1d4a795a5d71255a15.tar.gz"
+  ],
+  "tag": [
+    "attack-surface",
+    "cve-scanner",
+    "dast",
+    "hacktoberfest",
+    "nuclei-engine",
+    "security",
+    "security-scanner",
+    "subdomain-takeover",
+    "vulnerability-assessment",
+    "vulnerability-detection",
+    "vulnerability-scanner"
+  ],
+  "version": "HEAD-c242b11-250619T200759",
+  "version_upstream": "",
+  "bsum": "f5ae5dfe7a8c679d2947c5837fa848490642193d7503fc0cabe76f151bffc28c",
+  "build_date": "2025-06-21T12:07:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794975637",
+  "build_id": "15794975637",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/nuclei/bindgen?tag=HEAD-c242b11-250619T200759-x86_64-Linux&download=bindgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23722",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/nuclei/bindgen?tag=HEAD-c242b11-250619T200759-x86_64-Linux&download=bindgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/nuclei/bindgen:HEAD-c242b11-250619T200759-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/nuclei/bindgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/nuclei/bindgen?tag=HEAD-c242b11-250619T200759-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f4cbc9308a34dfb735b83d2252c9bac4775912c5fed1f4e67317bea8cb90420",
+  "size": "53 MB",
+  "size_raw": "54971696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
