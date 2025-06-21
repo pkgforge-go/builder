@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "okapi",
+  "pkg_family": "oathkeeper",
+  "pkg_id": "okapi#github.com_ory_oathkeeper",
+  "pkg_name": "okapi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/oathkeeper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud native Identity _ Access Proxy / API _IAP_ and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP_s_ requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+  "homepage": [
+    "https://github.com/ory/oathkeeper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clidoc",
+    "oathkeeper",
+    "okapi",
+    "okclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/oathkeeper/archive/42b1e278593afdedd3035e4844a20de871556ce2.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "golang",
+    "hacktoberfest",
+    "oauth2",
+    "openid-connect",
+    "ory",
+    "ory-oathkeeper",
+    "reverse-proxy"
+  ],
+  "version": "HEAD-42b1e27-250620T111551",
+  "version_upstream": "",
+  "bsum": "7ae260b44bd124cb8930bc73c2aed816d34d7066188ec8fe610c3c8402e28d7c",
+  "build_date": "2025-06-21T04:22:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791356307",
+  "build_id": "15791356307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/oathkeeper/okapi?tag=HEAD-42b1e27-250620T111551-riscv64-Linux&download=okapi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3370",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/oathkeeper/okapi?tag=HEAD-42b1e27-250620T111551-riscv64-Linux&download=okapi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/oathkeeper/okapi:HEAD-42b1e27-250620T111551-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/oathkeeper/okapi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/oathkeeper/okapi?tag=HEAD-42b1e27-250620T111551-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "086233b2c5e63c3d4e1767ba959ebae2ce491b7495144112bcb0f3634f10cf51",
+  "size": "15 MB",
+  "size_raw": "14982392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
