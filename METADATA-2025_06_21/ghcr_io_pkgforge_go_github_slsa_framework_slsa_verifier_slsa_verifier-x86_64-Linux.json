@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "slsa-verifier",
+  "pkg_family": "slsa-verifier",
+  "pkg_id": "slsa-verifier#github.com_slsa_framework_slsa_verifier",
+  "pkg_name": "slsa-verifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/slsa-framework/slsa-verifier",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Verify provenance from SLSA compliant builders",
+  "homepage": [
+    "https://github.com/slsa-framework/slsa-verifier"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "service",
+    "slsa-verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/slsa-framework/slsa-verifier/archive/08d54ab1de7093828bf27f41cd0dd62064119e1d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-08d54ab-250620T085925",
+  "version_upstream": "",
+  "bsum": "b285346c92e8cd516e6597d7e056704b918d08c49ea387f640985371a22a1d6c",
+  "build_date": "2025-06-21T23:48:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800593311",
+  "build_id": "15800593311",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slsa-framework/slsa-verifier/slsa-verifier?tag=HEAD-08d54ab-250620T085925-x86_64-Linux&download=slsa-verifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "267",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slsa-framework/slsa-verifier/slsa-verifier?tag=HEAD-08d54ab-250620T085925-x86_64-Linux&download=slsa-verifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slsa-framework/slsa-verifier/slsa-verifier:HEAD-08d54ab-250620T085925-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slsa-framework/slsa-verifier/slsa-verifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slsa-framework/slsa-verifier/slsa-verifier?tag=HEAD-08d54ab-250620T085925-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "702098f09cec032fe726c7d1edbc4d55208dbac4b822526ba7d667b8ce5393e9",
+  "size": "25 MB",
+  "size_raw": "26121088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
