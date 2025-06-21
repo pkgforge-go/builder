@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "osbuild-service-maintenance",
+  "pkg_family": "osbuild-composer",
+  "pkg_id": "osbuild-service-maintenance#github.com_osbuild_osbuild_composer",
+  "pkg_name": "osbuild-service-maintenance",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/osbuild-composer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An HTTP service for building bootable OS images.",
+  "homepage": [
+    "https://github.com/osbuild/osbuild-composer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock-dnf-json",
+    "osbuild-jobsite-builder",
+    "osbuild-jobsite-manager",
+    "osbuild-mock-openid-provider",
+    "osbuild-service-maintenance",
+    "osbuild-upload-aws",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci",
+    "osbuild-upload-pulp-ostree",
+    "osbuild-worker-executor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/osbuild-composer/archive/c4430ffa7a9b24bc74014d6033d71803db6af65c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c4430ff-250620T125517",
+  "version_upstream": "",
+  "bsum": "0fd11e37ce89e6c6134f82194571743628be3051795cb1e6e099f881ec7147c1",
+  "build_date": "2025-06-21T04:36:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791375669",
+  "build_id": "15791375669",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-service-maintenance?tag=HEAD-c4430ff-250620T125517-aarch64-Linux&download=osbuild-service-maintenance.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "182",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-service-maintenance?tag=HEAD-c4430ff-250620T125517-aarch64-Linux&download=osbuild-service-maintenance",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/osbuild-service-maintenance:HEAD-c4430ff-250620T125517-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/osbuild-service-maintenance",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-service-maintenance?tag=HEAD-c4430ff-250620T125517-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9859f8f604e5cd85bf944393c6003f3cb436a6fb9b6e5111b1633aa9a32ef5a1",
+  "size": "70 MB",
+  "size_raw": "73253824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
