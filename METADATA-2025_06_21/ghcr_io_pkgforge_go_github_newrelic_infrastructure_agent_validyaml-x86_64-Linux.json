@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "validyaml",
+  "pkg_family": "infrastructure-agent",
+  "pkg_id": "validyaml#github.com_newrelic_infrastructure_agent",
+  "pkg_name": "validyaml",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/infrastructure-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic Infrastructure Agent",
+  "homepage": [
+    "https://github.com/newrelic/infrastructure-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfgreq",
+    "cmdchannel_mock",
+    "cmdreq",
+    "discoverer",
+    "environment",
+    "huge",
+    "inventory",
+    "longrunning_hb",
+    "longtime",
+    "main",
+    "main-agent",
+    "main-service",
+    "newrelic-infra",
+    "newrelic-infra-ctl",
+    "newrelic-infra-service",
+    "overflow",
+    "protocol_v4",
+    "simple",
+    "validyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/infrastructure-agent/archive/996edebc943819f040eff52c277f9d4507d2da2f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-996edeb-250617T100244",
+  "version_upstream": "",
+  "bsum": "7be6a33df7c5147260d26bae33324c7613a05bf1e6fd56bff778167d3f2c3851",
+  "build_date": "2025-06-21T00:11:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789575259",
+  "build_id": "15789575259",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/validyaml?tag=HEAD-996edeb-250617T100244-x86_64-Linux&download=validyaml.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "146",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/validyaml?tag=HEAD-996edeb-250617T100244-x86_64-Linux&download=validyaml",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/validyaml:HEAD-996edeb-250617T100244-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/validyaml",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/validyaml?tag=HEAD-996edeb-250617T100244-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "392b2d1d3b2ebb93e5c8e9f5f9c9ff59aeed763890ee917428489c5addcd0a75",
+  "size": "2.6 MB",
+  "size_raw": "2662584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

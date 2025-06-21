@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "protocol_v4",
+  "pkg_family": "infrastructure-agent",
+  "pkg_id": "protocol_v4#github.com_newrelic_infrastructure_agent",
+  "pkg_name": "protocol_v4",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/infrastructure-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic Infrastructure Agent",
+  "homepage": [
+    "https://github.com/newrelic/infrastructure-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfgreq",
+    "cmdchannel_mock",
+    "cmdreq",
+    "discoverer",
+    "environment",
+    "huge",
+    "inventory",
+    "longrunning_hb",
+    "longtime",
+    "main",
+    "main-agent",
+    "main-service",
+    "newrelic-infra",
+    "newrelic-infra-ctl",
+    "newrelic-infra-service",
+    "overflow",
+    "protocol_v4",
+    "simple",
+    "validyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/infrastructure-agent/archive/996edebc943819f040eff52c277f9d4507d2da2f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-996edeb-250617T100244",
+  "version_upstream": "",
+  "bsum": "044f9fa2ee4732b0f4dec39d7cc819444587857326c729a6c17f61400671c9e9",
+  "build_date": "2025-06-21T00:12:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789575259",
+  "build_id": "15789575259",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/protocol_v4?tag=HEAD-996edeb-250617T100244-x86_64-Linux&download=protocol_v4.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "146",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/protocol_v4?tag=HEAD-996edeb-250617T100244-x86_64-Linux&download=protocol_v4",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/protocol_v4:HEAD-996edeb-250617T100244-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/protocol_v4",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/protocol_v4?tag=HEAD-996edeb-250617T100244-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f2587323135a2c1ff2c8702a849495fbe70491637473f1f32d1bbfc6c11c3f1",
+  "size": "1.6 MB",
+  "size_raw": "1653208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

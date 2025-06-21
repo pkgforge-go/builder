@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "inventory",
+  "pkg_family": "infrastructure-agent",
+  "pkg_id": "inventory#github.com_newrelic_infrastructure_agent",
+  "pkg_name": "inventory",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/infrastructure-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic Infrastructure Agent",
+  "homepage": [
+    "https://github.com/newrelic/infrastructure-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfgreq",
+    "cmdchannel_mock",
+    "cmdreq",
+    "discoverer",
+    "environment",
+    "huge",
+    "inventory",
+    "longrunning_hb",
+    "longtime",
+    "main",
+    "main-agent",
+    "main-service",
+    "newrelic-infra",
+    "newrelic-infra-ctl",
+    "newrelic-infra-service",
+    "overflow",
+    "protocol_v4",
+    "simple",
+    "validyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/infrastructure-agent/archive/996edebc943819f040eff52c277f9d4507d2da2f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-996edeb-250617T100244",
+  "version_upstream": "",
+  "bsum": "ff94bb2056e5ab2e3609091bf0c15e760be0da0904f48c35fc946b9c83ca5a61",
+  "build_date": "2025-06-21T00:10:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789575259",
+  "build_id": "15789575259",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/inventory?tag=HEAD-996edeb-250617T100244-x86_64-Linux&download=inventory.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "146",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/inventory?tag=HEAD-996edeb-250617T100244-x86_64-Linux&download=inventory",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/inventory:HEAD-996edeb-250617T100244-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/inventory",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/inventory?tag=HEAD-996edeb-250617T100244-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b06eb7723a740a0ab6d2cfe2e6c5b9221d41fcfb4faa32fb7a6a2532edd5776",
+  "size": "24 MB",
+  "size_raw": "24567168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
