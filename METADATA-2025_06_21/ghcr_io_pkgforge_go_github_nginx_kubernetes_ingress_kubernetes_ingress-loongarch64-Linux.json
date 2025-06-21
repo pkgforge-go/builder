@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubernetes-ingress",
+  "pkg_family": "kubernetes-ingress",
+  "pkg_id": "kubernetes-ingress#github.com_nginx_kubernetes_ingress",
+  "pkg_name": "kubernetes-ingress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nginx/kubernetes-ingress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NGINX and  NGINX Plus Ingress Controllers for Kubernetes",
+  "homepage": [
+    "https://github.com/nginx/kubernetes-ingress"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubernetes-ingress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nginx/kubernetes-ingress/archive/dc7b42d98451fc96e2604973dc9bc302f622cef6.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "go",
+    "golang",
+    "ingress",
+    "ingress-controller",
+    "k8s",
+    "kubernetes",
+    "nginx"
+  ],
+  "version": "HEAD-dc7b42d-250620T133743",
+  "version_upstream": "",
+  "bsum": "c4d85b56cc4ba52ed3c44aaffc3cf98f034121ac8380e612e0992bce682ab7a0",
+  "build_date": "2025-06-21T00:14:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789611191",
+  "build_id": "15789611191",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nginx/kubernetes-ingress/kubernetes-ingress?tag=HEAD-dc7b42d-250620T133743-loongarch64-Linux&download=kubernetes-ingress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4797",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nginx/kubernetes-ingress/kubernetes-ingress?tag=HEAD-dc7b42d-250620T133743-loongarch64-Linux&download=kubernetes-ingress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nginx/kubernetes-ingress/kubernetes-ingress:HEAD-dc7b42d-250620T133743-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nginx/kubernetes-ingress/kubernetes-ingress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nginx/kubernetes-ingress/kubernetes-ingress?tag=HEAD-dc7b42d-250620T133743-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db5a22a2973bd96b649c5b5adf909f7ae80ba099b49304793ea3fb426af80dac",
+  "size": "66 MB",
+  "size_raw": "68416192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
