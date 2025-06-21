@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "atomicrename",
+  "pkg_family": "gocryptfs",
+  "pkg_id": "atomicrename#github.com_rfjakob_gocryptfs",
+  "pkg_name": "atomicrename",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rfjakob/gocryptfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Encrypted overlay filesystem written in Go",
+  "homepage": [
+    "https://github.com/rfjakob/gocryptfs"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atomicrename",
+    "findholes",
+    "getdents",
+    "readdirnames",
+    "statfs",
+    "statvsfstat",
+    "symlink_race"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rfjakob/gocryptfs/archive/8f37c3bfe26876df449495bdf4dcedf6dd0b6859.tar.gz"
+  ],
+  "tag": [
+    "encryption",
+    "filesystem",
+    "fuse",
+    "gcm",
+    "golang"
+  ],
+  "version": "HEAD-8f37c3b-250615T210937",
+  "version_upstream": "",
+  "bsum": "3ffd0e256cdc2180af8f97ca4577d0efadfd59733f117da05ed79ae96de0023d",
+  "build_date": "2025-06-21T13:54:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795944753",
+  "build_id": "15795944753",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rfjakob/gocryptfs/atomicrename?tag=HEAD-8f37c3b-250615T210937-riscv64-Linux&download=atomicrename.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3909",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rfjakob/gocryptfs/atomicrename?tag=HEAD-8f37c3b-250615T210937-riscv64-Linux&download=atomicrename",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rfjakob/gocryptfs/atomicrename:HEAD-8f37c3b-250615T210937-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rfjakob/gocryptfs/atomicrename",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rfjakob/gocryptfs/atomicrename?tag=HEAD-8f37c3b-250615T210937-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b5d450a8a47e5aacb6b8a61e760930fce3e0863a2d56cba369fdc0a7f36dbcd",
+  "size": "1.7 MB",
+  "size_raw": "1761256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

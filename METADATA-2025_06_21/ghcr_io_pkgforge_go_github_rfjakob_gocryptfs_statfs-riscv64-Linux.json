@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "statfs",
+  "pkg_family": "gocryptfs",
+  "pkg_id": "statfs#github.com_rfjakob_gocryptfs",
+  "pkg_name": "statfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rfjakob/gocryptfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Encrypted overlay filesystem written in Go",
+  "homepage": [
+    "https://github.com/rfjakob/gocryptfs"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atomicrename",
+    "findholes",
+    "getdents",
+    "readdirnames",
+    "statfs",
+    "statvsfstat",
+    "symlink_race"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rfjakob/gocryptfs/archive/8f37c3bfe26876df449495bdf4dcedf6dd0b6859.tar.gz"
+  ],
+  "tag": [
+    "encryption",
+    "filesystem",
+    "fuse",
+    "gcm",
+    "golang"
+  ],
+  "version": "HEAD-8f37c3b-250615T210937",
+  "version_upstream": "",
+  "bsum": "4e39c2e3fd0f183b58cc4c0805ed789b1a41506167848a67d8644de41eca3842",
+  "build_date": "2025-06-21T13:55:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795944753",
+  "build_id": "15795944753",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rfjakob/gocryptfs/statfs?tag=HEAD-8f37c3b-250615T210937-riscv64-Linux&download=statfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3909",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rfjakob/gocryptfs/statfs?tag=HEAD-8f37c3b-250615T210937-riscv64-Linux&download=statfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rfjakob/gocryptfs/statfs:HEAD-8f37c3b-250615T210937-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rfjakob/gocryptfs/statfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rfjakob/gocryptfs/statfs?tag=HEAD-8f37c3b-250615T210937-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "841ae756b07e8d997e9ada8c294c96be8c12cb154140330424ea47924f079202",
+  "size": "1.8 MB",
+  "size_raw": "1886984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
