@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "httpx",
+  "pkg_family": "httpx",
+  "pkg_id": "httpx#github.com_projectdiscovery_httpx",
+  "pkg_name": "httpx",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/httpx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+  "homepage": [
+    "https://github.com/projectdiscovery/httpx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "functional-test",
+    "httpx",
+    "integration-test",
+    "simple",
+    "speed_control"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/httpx/archive/faef63191950f116f93dc46f93e04c216703edc6.tar.gz"
+  ],
+  "tag": [
+    "bugbounty",
+    "cli",
+    "cybersecurity",
+    "hacktoberfest",
+    "http",
+    "lib",
+    "osint",
+    "pentest-tool",
+    "pipeline",
+    "ssl-certificate"
+  ],
+  "version": "HEAD-faef631-250619T105914",
+  "version_upstream": "",
+  "bsum": "cc38c9566c831c91d78d8f017df8da8cd9625172896f32e5f5e663e5286ccddb",
+  "build_date": "2025-06-21T11:42:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794951279",
+  "build_id": "15794951279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/httpx/httpx?tag=HEAD-faef631-250619T105914-loongarch64-Linux&download=httpx.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8607",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/httpx/httpx?tag=HEAD-faef631-250619T105914-loongarch64-Linux&download=httpx",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/httpx/httpx:HEAD-faef631-250619T105914-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/httpx/httpx",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/httpx/httpx?tag=HEAD-faef631-250619T105914-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f5db12053ff7e67e148f99ea8b77673a96e7181357da4bf55f1f56d0835de68",
+  "size": "42 MB",
+  "size_raw": "43300208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
