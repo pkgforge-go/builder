@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "narextract",
+  "pkg_family": "nix-download",
+  "pkg_id": "narextract#github.com_simonfxr_nix_download",
+  "pkg_name": "narextract",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/simonfxr/nix-download",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fully self contained tool to fetch nix store paths from binary caches",
+  "homepage": [
+    "https://github.com/simonfxr/nix-download"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "narextract",
+    "nix-download"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/simonfxr/nix-download/archive/095cc446e7bf9fe1ccc9147599a9c7256684d1a2.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "nix"
+  ],
+  "version": "HEAD-095cc44-250207T195127",
+  "version_upstream": "v0.2.0",
+  "bsum": "4b12592c69b7138c9f7887666e4d7f27319006bcb63ee4d5ceef2e5bd3e902ee",
+  "build_date": "2025-06-21T23:26:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800314138",
+  "build_id": "15800314138",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simonfxr/nix-download/narextract?tag=HEAD-095cc44-250207T195127-riscv64-Linux&download=narextract.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simonfxr/nix-download/narextract?tag=HEAD-095cc44-250207T195127-riscv64-Linux&download=narextract",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simonfxr/nix-download/narextract:HEAD-095cc44-250207T195127-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/simonfxr/nix-download/narextract",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simonfxr/nix-download/narextract?tag=HEAD-095cc44-250207T195127-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70accc7955973678c207b190ae98f9395415376be1f8328c877bd656c55306b7",
+  "size": "1.8 MB",
+  "size_raw": "1814024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
