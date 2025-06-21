@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "signal",
+  "pkg_family": "netbird",
+  "pkg_id": "signal#github.com_netbirdio_netbird",
+  "pkg_name": "signal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/netbirdio/netbird",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+  "homepage": [
+    "https://github.com/netbirdio/netbird"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "example",
+    "management",
+    "relay",
+    "signal",
+    "testec2",
+    "upload-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/netbirdio/netbird/archive/83457f8b99a8d5382e069eed682173e213b2b218.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "mesh",
+    "mesh-networks",
+    "nat-traversal",
+    "netbird",
+    "vpn",
+    "wireguard",
+    "wireguard-vpn",
+    "wiretrustee",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-83457f8-250620T121324",
+  "version_upstream": "",
+  "bsum": "d649aca615e7e6ba936dfb61b4253e2bf7e47f7c11252e83086bb73f9bf9a94c",
+  "build_date": "2025-06-21T00:01:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789342197",
+  "build_id": "15789342197",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/signal?tag=HEAD-83457f8-250620T121324-riscv64-Linux&download=signal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15954",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/signal?tag=HEAD-83457f8-250620T121324-riscv64-Linux&download=signal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netbirdio/netbird/signal:HEAD-83457f8-250620T121324-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netbirdio/netbird/signal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/signal?tag=HEAD-83457f8-250620T121324-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f4a79962d4f566a06e740ed714f84b5d20797fdc9aeb974852c88f05a6d47ef",
+  "size": "18 MB",
+  "size_raw": "18106488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
