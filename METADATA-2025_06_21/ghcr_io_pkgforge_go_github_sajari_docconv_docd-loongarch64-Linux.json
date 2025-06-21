@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "docd",
+  "pkg_family": "docconv",
+  "pkg_id": "docd#github.com_sajari_docconv",
+  "pkg_name": "docd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sajari/docconv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text",
+  "homepage": [
+    "https://github.com/sajari/docconv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docconv-client",
+    "docd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sajari/docconv/archive/785a29a00de4b976c379fd38299c220307220684.tar.gz"
+  ],
+  "tag": [
+    "conversion",
+    "docs",
+    "docx",
+    "go",
+    "html",
+    "pdf",
+    "pdf-converter",
+    "rtf",
+    "rtf-files",
+    "word",
+    "xml"
+  ],
+  "version": "HEAD-785a29a-240304T092002",
+  "version_upstream": "",
+  "bsum": "c534f5550b7e757581c6fc2e48109ba8ba130b195f478c12422ee3ca4ea3abf0",
+  "build_date": "2025-06-21T14:52:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796489218",
+  "build_id": "15796489218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sajari/docconv/docd?tag=HEAD-785a29a-240304T092002-loongarch64-Linux&download=docd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1710",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sajari/docconv/docd?tag=HEAD-785a29a-240304T092002-loongarch64-Linux&download=docd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sajari/docconv/docd:HEAD-785a29a-240304T092002-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sajari/docconv/docd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sajari/docconv/docd?tag=HEAD-785a29a-240304T092002-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff8c4803e1b080ea806396b32fecbea7bdd6ccd6fed7e3708cb195c4b5853f59",
+  "size": "18 MB",
+  "size_raw": "17974208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
