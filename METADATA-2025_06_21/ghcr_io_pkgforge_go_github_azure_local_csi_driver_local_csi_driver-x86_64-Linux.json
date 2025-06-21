@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "local-csi-driver",
+  "pkg_family": "local-csi-driver",
+  "pkg_id": "local-csi-driver#github.com_Azure_local_csi_driver",
+  "pkg_name": "local-csi-driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/local-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "local-csi-driver provides access to local NVMe storage from Kubernetes",
+  "homepage": [
+    "https://github.com/Azure/local-csi-driver"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "local-csi-driver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/local-csi-driver/archive/cfc991b1602d57281fafceeefd2a91755dbac2d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cfc991b-250620T095425",
+  "version_upstream": "",
+  "bsum": "01373fdbb671b248d9dc1444916660888093703cb7d7bdfd65cbf63d79639a88",
+  "build_date": "2025-06-21T06:46:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793123317",
+  "build_id": "15793123317",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/local-csi-driver/local-csi-driver?tag=HEAD-cfc991b-250620T095425-x86_64-Linux&download=local-csi-driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/local-csi-driver/local-csi-driver?tag=HEAD-cfc991b-250620T095425-x86_64-Linux&download=local-csi-driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/local-csi-driver/local-csi-driver:HEAD-cfc991b-250620T095425-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/local-csi-driver/local-csi-driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/local-csi-driver/local-csi-driver?tag=HEAD-cfc991b-250620T095425-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69ea84a3159154b87066f95725a83ae5f6014bb9b915bb39fcb14573bf13d1c7",
+  "size": "58 MB",
+  "size_raw": "60238912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
