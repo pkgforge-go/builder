@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "performance-profile-creator",
+  "pkg_family": "cluster-node-tuning-operator",
+  "pkg_id": "performance-profile-creator#github.com_openshift_cluster_node_tuning_operator",
+  "pkg_name": "performance-profile-creator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-node-tuning-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage node-level tuning by orchestrating the tuned daemon.",
+  "homepage": [
+    "https://github.com/openshift/cluster-node-tuning-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs-generator",
+    "gather-sysinfo",
+    "performance-profile-creator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-node-tuning-operator/archive/3f2fed34c5e1f83f49ba6def4ee375dfd4ec9da9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3f2fed3-250620T214729",
+  "version_upstream": "",
+  "bsum": "ac693aa4f602e5464e2dbb958aa22a3ee1de69e2730ce0cfcd97dd6edb22a019",
+  "build_date": "2025-06-21T10:04:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794438594",
+  "build_id": "15794438594",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/performance-profile-creator?tag=HEAD-3f2fed3-250620T214729-loongarch64-Linux&download=performance-profile-creator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "109",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/performance-profile-creator?tag=HEAD-3f2fed3-250620T214729-loongarch64-Linux&download=performance-profile-creator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-node-tuning-operator/performance-profile-creator:HEAD-3f2fed3-250620T214729-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-node-tuning-operator/performance-profile-creator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/performance-profile-creator?tag=HEAD-3f2fed3-250620T214729-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1abb3353ae1680d918017e02b2895279314994f59ce9945c5ec031895be5714",
+  "size": "39 MB",
+  "size_raw": "40465600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

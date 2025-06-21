@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gather-sysinfo",
+  "pkg_family": "cluster-node-tuning-operator",
+  "pkg_id": "gather-sysinfo#github.com_openshift_cluster_node_tuning_operator",
+  "pkg_name": "gather-sysinfo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-node-tuning-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage node-level tuning by orchestrating the tuned daemon.",
+  "homepage": [
+    "https://github.com/openshift/cluster-node-tuning-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs-generator",
+    "gather-sysinfo",
+    "performance-profile-creator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-node-tuning-operator/archive/3f2fed34c5e1f83f49ba6def4ee375dfd4ec9da9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3f2fed3-250620T214729",
+  "version_upstream": "",
+  "bsum": "a847e25deebae62a9b5eb95a80f36c303d61fb6af14e17c723fce8baad4bfb37",
+  "build_date": "2025-06-21T10:04:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794438594",
+  "build_id": "15794438594",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/gather-sysinfo?tag=HEAD-3f2fed3-250620T214729-loongarch64-Linux&download=gather-sysinfo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "109",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/gather-sysinfo?tag=HEAD-3f2fed3-250620T214729-loongarch64-Linux&download=gather-sysinfo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-node-tuning-operator/gather-sysinfo:HEAD-3f2fed3-250620T214729-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-node-tuning-operator/gather-sysinfo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/gather-sysinfo?tag=HEAD-3f2fed3-250620T214729-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c36b96e3962e30e77ff8598f9f842bfcbeacb87987854d4bbc2e86350008b22a",
+  "size": "48 MB",
+  "size_raw": "49745408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
