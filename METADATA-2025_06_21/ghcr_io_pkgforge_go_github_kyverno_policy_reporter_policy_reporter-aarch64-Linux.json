@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "policy-reporter",
+  "pkg_family": "policy-reporter",
+  "pkg_id": "policy-reporter#github.com_kyverno_policy_reporter",
+  "pkg_name": "policy-reporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/policy-reporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.",
+  "homepage": [
+    "https://github.com/kyverno/policy-reporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alertmanager",
+    "hack",
+    "policy-reporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/policy-reporter/archive/9d441ee3c3a4bd1b2907433d2fd1664fb5011874.tar.gz"
+  ],
+  "tag": [
+    "grafana",
+    "kubernetes",
+    "kyverno",
+    "metrics",
+    "observability",
+    "prometheus-metrics"
+  ],
+  "version": "HEAD-9d441ee-250619T082516",
+  "version_upstream": "",
+  "bsum": "271432927ed2953bdc73765d5ee1e2ad4236121ee16f52868a387517203fde6d",
+  "build_date": "2025-06-21T22:33:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799921856",
+  "build_id": "15799921856",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/policy-reporter/policy-reporter?tag=HEAD-9d441ee-250619T082516-aarch64-Linux&download=policy-reporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "321",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/policy-reporter/policy-reporter?tag=HEAD-9d441ee-250619T082516-aarch64-Linux&download=policy-reporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/policy-reporter/policy-reporter:HEAD-9d441ee-250619T082516-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/policy-reporter/policy-reporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/policy-reporter/policy-reporter?tag=HEAD-9d441ee-250619T082516-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e909ac3fbb9bca3fb2a958a5beabd39987a99c3dec0cab3af57651d7fbb5358",
+  "size": "88 MB",
+  "size_raw": "92236768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
