@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "swagger2openapi",
+  "pkg_family": "content-sources-backend",
+  "pkg_id": "swagger2openapi#github.com_content_services_content_sources_backend",
+  "pkg_name": "swagger2openapi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/content-services/content-sources-backend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Backend for content sources service",
+  "homepage": [
+    "https://github.com/content-services/content-sources-backend"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candlepin",
+    "content-sources",
+    "dbmigrate",
+    "external-repos",
+    "jobs",
+    "lint_openapi",
+    "swagger2openapi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/content-services/content-sources-backend/archive/b2893c3f3400a650354a3e78d230afee673dec73.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-b2893c3-250620T115254",
+  "version_upstream": "",
+  "bsum": "45bb6f9ee48263babb102ada5b4528d25b7fe95f23cf5f800032b0368724b89b",
+  "build_date": "2025-06-21T07:44:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793167391",
+  "build_id": "15793167391",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/content-services/content-sources-backend/swagger2openapi?tag=HEAD-b2893c3-250620T115254-aarch64-Linux&download=swagger2openapi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/content-services/content-sources-backend/swagger2openapi?tag=HEAD-b2893c3-250620T115254-aarch64-Linux&download=swagger2openapi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/content-services/content-sources-backend/swagger2openapi:HEAD-b2893c3-250620T115254-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/content-services/content-sources-backend/swagger2openapi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/content-services/content-sources-backend/swagger2openapi?tag=HEAD-b2893c3-250620T115254-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "016c0858cf6624d44a8e1ef4f287e029d62a46aabadea399676b4d8dc879b092",
+  "size": "6.9 MB",
+  "size_raw": "7200128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
