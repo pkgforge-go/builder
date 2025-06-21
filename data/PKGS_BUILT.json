@@ -2271,6 +2271,19 @@
     "version": "HEAD-d19e56e-250620T102335"
   },
   {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "admission-tracer",
+    "pkg_id": "admission-tracer#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
+  },
+  {
     "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
     "name": "admission-webhook",
     "pkg_id": "admission-webhook#github.com_GoogleContainerTools_kpt_config_sync",
@@ -3439,6 +3452,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b8d3e98-250213T104149"
+  },
+  {
+    "description": "Conformance test suite for OpenShift",
+    "name": "annotate",
+    "pkg_id": "annotate#github.com_openshift_origin",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
   },
   {
     "description": "CNCF Jaeger, a Distributed Tracing Platform",
@@ -7780,6 +7805,18 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-336ebe4-250617T171950"
+  },
+  {
+    "description": "Ziti SDK for Golang",
+    "name": "before",
+    "pkg_id": "before#github.com_openziti_sdk_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-62d030d-250617T100941"
   },
   {
     "description": "Benc is the fastest serializer in pure Golang supporting code generation and forward/backward compatibility.",
@@ -12264,6 +12301,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d421f0e-250610T202600"
+  },
+  {
+    "description": "Conformance test suite for OpenShift",
+    "name": "changelog",
+    "pkg_id": "changelog#github.com_openshift_origin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
   },
   {
     "description": "Update multiple repositories in with one command",
@@ -17177,7 +17227,10 @@
     "name": "complete",
     "pkg_id": "complete#github.com_openshift_osin",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0f4d38c-220317T035346"
@@ -18195,6 +18248,31 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-c9c3646-250618T230424"
+  },
+  {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "control-plane-operator",
+    "pkg_id": "control-plane-operator#github.com_openshift_hypershift",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
+  },
+  {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "control-plane-pki-operator",
+    "pkg_id": "control-plane-pki-operator#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
   },
   {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
@@ -21385,6 +21463,19 @@
     "version": "HEAD-a7a81da-240305T223610"
   },
   {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "delegatingclientgenerator",
+    "pkg_id": "delegatingclientgenerator#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
+  },
+  {
     "description": "OCI Runtime Tools",
     "name": "delete",
     "pkg_id": "delete#github.com_opencontainers_runtime_tools",
@@ -21733,6 +21824,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-8aba712-250620T150851"
+  },
+  {
+    "description": "Conformance test suite for OpenShift",
+    "name": "deployment",
+    "pkg_id": "deployment#github.com_openshift_origin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
   },
   {
     "description": "The Deployment Validator Operator _DVO_ checks deployments and other resources against a curated collection of best practices.",
@@ -26588,6 +26692,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b5c3886-250618T234258"
+  },
+  {
+    "description": "Conformance test suite for OpenShift",
+    "name": "etcdhelper",
+    "pkg_id": "etcdhelper#github.com_openshift_origin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
   },
   {
     "description": "Distributed Linux user management using etcd",
@@ -35800,6 +35917,19 @@
     "version": "HEAD-c88fd52-250610T084326"
   },
   {
+    "description": "No Description Provided",
+    "name": "glance-operator",
+    "pkg_id": "glance-operator#github.com_openstack_k8s_operators_glance_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-99f5c5b-250620T063310"
+  },
+  {
     "description": "Go 3D Game Engine _http://g3n.rocks_",
     "name": "glapi2go",
     "pkg_id": "glapi2go#github.com_g3n_engine",
@@ -37756,7 +37886,10 @@
     "name": "goauth2client",
     "pkg_id": "goauth2client#github.com_openshift_osin",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0f4d38c-220317T035346"
@@ -39839,6 +39972,19 @@
     "version": "HEAD-ffeb470-250609T100855"
   },
   {
+    "description": "Conformance test suite for OpenShift",
+    "name": "gotest2junit",
+    "pkg_id": "gotest2junit#github.com_openshift_origin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
+  },
+  {
     "description": "A tool for formatting Go test results as readable documentation",
     "name": "gotestdox",
     "pkg_id": "gotestdox#github.com_bitfield_gotestdox",
@@ -41092,7 +41238,10 @@
     "name": "hack",
     "pkg_id": "hack#github.com_openshift_installer",
     "targets": [
-      "loongarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-7b227fa-250620T112332"
@@ -43608,6 +43757,32 @@
     "version": "HEAD-83c7a32-250620T105840"
   },
   {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "hypershift",
+    "pkg_id": "hypershift#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
+  },
+  {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "hypershift-operator",
+    "pkg_id": "hypershift-operator#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
+  },
+  {
     "description": "Go packages to interact with QEMU using the QEMU Machine Protocol _QMP_.  Apache 2.0 Licensed.",
     "name": "hypervisor_domain_list",
     "pkg_id": "hypervisor_domain_list#github.com_digitalocean_go_qemu",
@@ -43785,6 +43960,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-84508c7-250619T072249"
+  },
+  {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "ignition-server",
+    "pkg_id": "ignition-server#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
   },
   {
     "description": "🚀 Fast and simple .ignore file generator, built in Go",
@@ -44817,6 +45005,19 @@
     "version": "HEAD-3654b05-250616T101342"
   },
   {
+    "description": "An SRIOV CNI plugin",
+    "name": "integration",
+    "pkg_id": "integration#github.com_openshift_sriov_cni",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-1a914b1-250620T080950"
+  },
+  {
     "description": "No Description Provided",
     "name": "integration-service-cmd",
     "pkg_id": "integration-service-cmd#github.com_konflux_ci_integration_service.git",
@@ -45496,6 +45697,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-6c985df-250620T100354"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "ironic-operator",
+    "pkg_id": "ironic-operator#github.com_openstack_k8s_operators_ironic_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c6585c9-250620T085455"
   },
   {
     "description": "an inspector for your environment",
@@ -46374,6 +46588,19 @@
     "version": "HEAD-6890275-211119T232250"
   },
   {
+    "description": "Conformance test suite for OpenShift",
+    "name": "jsonformat",
+    "pkg_id": "jsonformat#github.com_openshift_origin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
+  },
+  {
     "description": "🏝 JSONL Graph Tools",
     "name": "jsonl-graph",
     "pkg_id": "jsonl-graph#github.com_nikolaydubina_jsonl_graph",
@@ -46556,6 +46783,19 @@
     "version": "HEAD-9aafe3b-250619T015910"
   },
   {
+    "description": "Conformance test suite for OpenShift",
+    "name": "junitreport",
+    "pkg_id": "junitreport#github.com_openshift_origin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
+  },
+  {
     "description": "Go implementation of JSON Web Tokens _JWT_.",
     "name": "jwt",
     "pkg_id": "jwt#github.com_golang_jwt_jwt",
@@ -46599,7 +46839,10 @@
     "name": "jwttoken",
     "pkg_id": "jwttoken#github.com_openshift_osin",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0f4d38c-220317T035346"
@@ -47136,6 +47379,19 @@
     "version": "HEAD-8949d1b-230303T140501"
   },
   {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "karpenter-operator",
+    "pkg_id": "karpenter-operator#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
+  },
+  {
     "description": "Katalyst aims to provide a universal solution to help improve resource utilization and optimize the overall costs in the cloud. This is the core components in Katalyst system, including multiple agents and centralized components",
     "name": "katalyst-agent",
     "pkg_id": "katalyst-agent#github.com_kubewharf_katalyst_core",
@@ -47559,6 +47815,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "Keystone Kubernetes Operator",
+    "name": "keystone-operator",
+    "pkg_id": "keystone-operator#github.com_openstack_k8s_operators_keystone_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-0d8d8c4-250620T072008"
   },
   {
     "description": "Go implementation of Ethereum proof of stake",
@@ -50601,6 +50870,19 @@
     "version": "HEAD-a9d3591-250618T234452"
   },
   {
+    "description": "Conformance test suite for OpenShift",
+    "name": "listtests",
+    "pkg_id": "listtests#github.com_openshift_origin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
+  },
+  {
     "description": "Streaming replication for SQLite.",
     "name": "litestream",
     "pkg_id": "litestream#github.com_benbjohnson_litestream",
@@ -52770,6 +53052,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a84a3a1-250619T151526"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "mariadb-operator",
+    "pkg_id": "mariadb-operator#github.com_openstack_k8s_operators_mariadb_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-a09f892-250620T084047"
   },
   {
     "description": "Terraform HuaweiCloud provider",
@@ -57257,6 +57552,19 @@
     "version": "HEAD-1ff5b45-250619T105054"
   },
   {
+    "description": "No Description Provided",
+    "name": "neutron-operator",
+    "pkg_id": "neutron-operator#github.com_openstack_k8s_operators_neutron_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-21c3d7b-250620T093059"
+  },
+  {
     "description": "The Fabric Smart Client is a new Fabric Client that lets you focus on the business processes and simplifies the development of Fabric-based distributed application.",
     "name": "newchaincode",
     "pkg_id": "newchaincode#github.com_hyperledger_labs_fabric_smart_client",
@@ -57732,7 +58040,9 @@
     "name": "node-joiner",
     "pkg_id": "node-joiner#github.com_openshift_installer",
     "targets": [
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-7b227fa-250620T112332"
@@ -58599,6 +58909,19 @@
     "version": "HEAD-250b868-250620T041852"
   },
   {
+    "description": "Octavia Kubernetes Operator",
+    "name": "octavia-operator",
+    "pkg_id": "octavia-operator#github.com_openstack_k8s_operators_octavia_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d585666-250620T083745"
+  },
+  {
     "description": "Go package for sharding databases _ Supports every ORM or raw SQL _",
     "name": "octillery",
     "pkg_id": "octillery#github.com_blastrain_octillery",
@@ -59231,7 +59554,10 @@
     "name": "openidconnect",
     "pkg_id": "openidconnect#github.com_openshift_osin",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0f4d38c-220317T035346"
@@ -59241,10 +59567,24 @@
     "name": "openshift-install",
     "pkg_id": "openshift-install#github.com_openshift_installer",
     "targets": [
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-7b227fa-250620T112332"
+  },
+  {
+    "description": "Conformance test suite for OpenShift",
+    "name": "openshift-tests",
+    "pkg_id": "openshift-tests#github.com_openshift_origin",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
   },
   {
     "description": "No Description Provided",
@@ -59657,7 +59997,10 @@
     "name": "osincliclient",
     "pkg_id": "osincliclient#github.com_openshift_osin",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0f4d38c-220317T035346"
@@ -63272,6 +63615,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0ea5ed0-250523T160157"
+  },
+  {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "product-cli",
+    "pkg_id": "product-cli#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
   },
   {
     "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
@@ -68426,6 +68782,19 @@
     "version": "HEAD-d688f30-250619T085618"
   },
   {
+    "description": "No Description Provided",
+    "name": "rosa",
+    "pkg_id": "rosa#github.com_openshift_rosa",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-fe5ddff-250620T084218"
+  },
+  {
     "description": "🐸 Effortless persistent SSH tunnels with embedded server for seamless connectivity",
     "name": "rospo",
     "pkg_id": "rospo#github.com_ferama_rospo",
@@ -70531,6 +70900,18 @@
     "version": "HEAD-39b8c2c-250619T153318"
   },
   {
+    "description": "Ziti SDK for Golang",
+    "name": "sdk-version",
+    "pkg_id": "sdk-version#github.com_openziti_sdk_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-62d030d-250617T100941"
+  },
+  {
     "description": "RFC 4566 SDP implementation in go",
     "name": "sdp-decode",
     "pkg_id": "sdp-decode#github.com_gortc_sdp",
@@ -72011,6 +72392,18 @@
     "version": "HEAD-393ac0d-241207T225124"
   },
   {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "setup",
+    "pkg_id": "setup#github.com_openshift_hypershift",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
+  },
+  {
     "description": "Shared GitHub Actions for FerretDB repos",
     "name": "setup-go",
     "pkg_id": "setup-go#github.com_FerretDB_github_actions",
@@ -72777,7 +73170,10 @@
     "name": "simple",
     "pkg_id": "simple#github.com_openshift_osin",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0f4d38c-220317T035346"
@@ -74730,6 +75126,57 @@
     "version": "HEAD-ce8d0e3-250610T135823"
   },
   {
+    "description": "An SRIOV CNI plugin",
+    "name": "sriov",
+    "pkg_id": "sriov#github.com_openshift_sriov_cni",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-1a914b1-250620T080950"
+  },
+  {
+    "description": "SR-IOV Network Operator",
+    "name": "sriov-network-config-daemon",
+    "pkg_id": "sriov-network-config-daemon#github.com_openshift_sriov_network_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-061a63d-250620T073634"
+  },
+  {
+    "description": "SR-IOV Network Operator",
+    "name": "sriov-network-operator",
+    "pkg_id": "sriov-network-operator#github.com_openshift_sriov_network_operator",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-061a63d-250620T073634"
+  },
+  {
+    "description": "SR-IOV Network Operator",
+    "name": "sriov-network-operator-config-cleanup",
+    "pkg_id": "sriov-network-operator-config-cleanup#github.com_openshift_sriov_network_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-061a63d-250620T073634"
+  },
+  {
     "description": "ROS client library for the Go programming language",
     "name": "srv-import",
     "pkg_id": "srv-import#github.com_bluenviron_goroslib",
@@ -74780,6 +75227,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-06eb182-171026T174226"
+  },
+  {
+    "description": "Ziti SSH",
+    "name": "ssh",
+    "pkg_id": "ssh#github.com_openziti_test_kitchen_zssh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8873a27-241021T090347"
   },
   {
     "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
@@ -77563,6 +78023,19 @@
     "version": "HEAD-6a5aeb1-250620T095024"
   },
   {
+    "description": "Operator that deploys and manages all the telemetry agents both in the podified control plane and in the external dataplane",
+    "name": "telemetry-operator",
+    "pkg_id": "telemetry-operator#github.com_openstack_k8s_operators_telemetry_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-f0b8ec5-250620T083504"
+  },
+  {
     "description": "Kubernetes-native IoT gateway",
     "name": "telemetryservice",
     "pkg_id": "telemetryservice#github.com_Edgenesis_shifu",
@@ -78918,6 +79391,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-a178faf-250406T001402"
+  },
+  {
+    "description": "Hyperscale OpenShift - clusters with hosted control planes",
+    "name": "test",
+    "pkg_id": "test#github.com_openshift_hypershift",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-63403c2-250620T095851"
   },
   {
     "description": "The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network",
@@ -82923,6 +83409,18 @@
     "version": "HEAD-7b5b8eb-250618T232758"
   },
   {
+    "description": "Conformance test suite for OpenShift",
+    "name": "update-tls-artifacts",
+    "pkg_id": "update-tls-artifacts#github.com_openshift_origin",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bea636f-250620T115245"
+  },
+  {
     "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
     "name": "update-vulnerable-dependencies",
     "pkg_id": "update-vulnerable-dependencies#github.com_kumahq_kuma",
@@ -84440,6 +84938,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a355239-250616T153438"
+  },
+  {
+    "description": "A  tool to create, transform and attest VEX metadata",
+    "name": "vexctl",
+    "pkg_id": "vexctl#github.com_openvex_vexctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-950f5ef-250618T084014"
   },
   {
     "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
@@ -86546,6 +87057,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-b57af52-250620T111559"
+  },
+  {
+    "description": "SR-IOV Network Operator",
+    "name": "webhook",
+    "pkg_id": "webhook#github.com_openshift_sriov_network_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-061a63d-250620T073634"
   },
   {
     "description": "A webhook receiver on steroids.",
@@ -88952,6 +89476,31 @@
     "version": "HEAD-86c2f38-250613T084410"
   },
   {
+    "description": "Ziti SDK for Golang",
+    "name": "zitified",
+    "pkg_id": "zitified#github.com_openziti_sdk_golang",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-62d030d-250617T100941"
+  },
+  {
+    "description": "Ziti SSH",
+    "name": "zitified-ssh",
+    "pkg_id": "zitified-ssh#github.com_openziti_test_kitchen_zssh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8873a27-241021T090347"
+  },
+  {
     "description": "No Description Provided",
     "name": "zk",
     "pkg_id": "zk#github.com_floren_zk",
@@ -89025,6 +89574,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-adac21c-250522T155234"
+  },
+  {
+    "description": "Ziti SSH",
+    "name": "zscp",
+    "pkg_id": "zscp#github.com_openziti_test_kitchen_zssh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8873a27-241021T090347"
+  },
+  {
+    "description": "Ziti SSH",
+    "name": "zssh",
+    "pkg_id": "zssh#github.com_openziti_test_kitchen_zssh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8873a27-241021T090347"
   },
   {
     "description": "web based tor proxy",

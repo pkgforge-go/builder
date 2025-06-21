@@ -174,6 +174,7 @@ adh-rules#github.com_5_whys_adh_rules
 admin#github.com_ardanlabs_service
 admin#github.com_mikestefanello_pagoda
 admission#github.com_hwameistor_hwameistor
+admission-tracer#github.com_openshift_hypershift
 admission-webhook#github.com_GoogleContainerTools_kpt_config_sync
 admissioncontroller#github.com_apache_yunikorn_k8shim
 admitik#github.com_freepik_company_admitik
@@ -266,6 +267,7 @@ anko#github.com_mattn_anko
 anko-package-gen#github.com_mattn_anko
 anna#github.com_anna_ssg_anna
 annotate#github.com_bosun_monitor_bosun
+annotate#github.com_openshift_origin
 anonymizer#github.com_jaegertracing_jaeger
 ansibleadhoc-command-module#github.com_apenella_go_ansible
 ansibleadhoc-simple#github.com_apenella_go_ansible
@@ -605,6 +607,7 @@ bed#github.com_itchyny_bed
 bee#github.com_ethersphere_bee
 beelzebub#github.com_mariocandela_beelzebub
 beemo#github.com_bluesky_social_indigo
+before#github.com_openziti_sdk_golang
 benc#github.com_deneonet_benc
 bench#github.com_d5_tengo
 bench#github.com_jpillora_chisel
@@ -954,6 +957,7 @@ change#github.com_aarzilli_yacco
 changelog#github.com_NetApp_harvest
 changelog#github.com_aiven_terraform_provider_aiven
 changelog#github.com_gopasspw_gopass
+changelog#github.com_openshift_origin
 changer#github.com_lindell_multi_gitter
 changie#github.com_miniscruff_changie
 chanify#github.com_chanify_chanify
@@ -1419,6 +1423,8 @@ context#github.com_nanomsg_mangos
 context_menus#github.com_bwmarrin_discordgo
 contract_tests#github.com_cometbft_cometbft
 contractsgen#github.com_axelarnetwork_axelar_core
+control-plane-operator#github.com_openshift_hypershift
+control-plane-pki-operator#github.com_openshift_hypershift
 controller#github.com_aws_karpenter_provider_aws
 controller#github.com_buildpacks_community_kpack.git
 controller#github.com_castai_kvisor
@@ -1668,6 +1674,7 @@ defaults#github.com_grow_graphics_gd
 defaults#github.com_mondoohq_cnquery
 defers#github.com_golang_tools
 define#github.com_Rican7_define
+delegatingclientgenerator#github.com_openshift_hypershift
 delete#github.com_opencontainers_runtime_tools
 delete_only_create_resources#github.com_opencontainers_runtime_tools
 delete_resources#github.com_opencontainers_runtime_tools
@@ -1695,6 +1702,7 @@ depends#github.com_fcharlie_buna
 depinj#github.com_hidevopsio_hiboot
 deploy#github.com_enfabrica_enkit
 deployer#github.com_elastic_cloud_on_k8s
+deployment#github.com_openshift_origin
 deployment-validation-operator#github.com_app_sre_deployment_validation_operator
 deploytool#github.com_0xPolygonHermez_zkevm_bridge_service
 deposit#github.com_0xPolygonHermez_zkevm_bridge_service
@@ -2076,6 +2084,7 @@ etcd-dump-db#github.com_etcd_io_etcd
 etcd-dump-logs#github.com_etcd_io_etcd
 etcd-dump-metrics#github.com_etcd_io_etcd
 etcd-operator#github.com_etcd_io_etcd_operator
+etcdhelper#github.com_openshift_origin
 etcdpasswd#github.com_cybozu_go_etcdpasswd
 eth1exporter#github.com_OffchainLabs_prysm
 ethernet#github.com_mdlayher_ethernet
@@ -2793,6 +2802,7 @@ gittuf#github.com_gittuf_gittuf
 glab#github.com_gl_cli_glab
 glamour#github.com_charmbracelet_glamour
 glance#github.com_glanceapp_glance
+glance-operator#github.com_openstack_k8s_operators_glance_operator
 glapi2go#github.com_g3n_engine
 gleam#github.com_chrislusf_gleam
 glider#github.com_nadoo_glider
@@ -3107,6 +3117,7 @@ gotag#github.com_jcjordyn130_gotag
 gotdecho#github.com_gotd_td
 gotdgen#github.com_gotd_td
 gotenberg#github.com_gotenberg_gotenberg
+gotest2junit#github.com_openshift_origin
 gotestdox#github.com_bitfield_gotestdox
 gotestfmt#github.com_GoTestTools_gotestfmt
 gotestfmt-formatter#github.com_GoTestTools_gotestfmt
@@ -3401,6 +3412,8 @@ hydration-controller#github.com_GoogleContainerTools_kpt_config_sync
 hydroxide#github.com_emersion_hydroxide
 hyperconverged-cluster-operator#github.com_kubevirt_hyperconverged_cluster_operator
 hyperconverged-cluster-webhook#github.com_kubevirt_hyperconverged_cluster_operator
+hypershift#github.com_openshift_hypershift
+hypershift-operator#github.com_openshift_hypershift
 hypervisor_domain_list#github.com_digitalocean_go_qemu
 i18n#github.com_jesseduffield_lazygit
 i6.shark#github.com_itzCozi_i6.shark
@@ -3415,6 +3428,7 @@ idleconnection#github.com_Allenxuxu_gev
 idproxy#github.com_cloudoperators_greenhouse
 if#github.com_go_llvm_llgo
 ifaceassert#github.com_golang_tools
+ignition-server#github.com_openshift_hypershift
 ignore#github.com_neptship_ignore
 image-builder#github.com_gardener_ci_infra
 image-converter#github.com_kubev2v_forklift
@@ -3495,6 +3509,7 @@ instancetype_testdata_gen#github.com_aws_karpenter_provider_aws
 instancetypes_gen#github.com_aws_karpenter_provider_aws
 instrumented-sample-app#github.com_nholuongut_prometheus_operator
 integration#github.com_99designs_gqlgen
+integration#github.com_openshift_sriov_cni
 integration-service-cmd#github.com_konflux_ci_integration_service.git
 integration-tests#github.com_bruin_data_bruin
 integration-tests#github.com_grafana_alloy
@@ -3548,6 +3563,7 @@ irictl-volume#github.com_ironcore_dev_ironcore
 iris#github.com_gorgonia_gorgonia
 ironcore-apiserver#github.com_ironcore_dev_ironcore
 ironcore-controller-manager#github.com_ironcore_dev_ironcore
+ironic-operator#github.com_openstack_k8s_operators_ironic_operator
 is#github.com_oalders_is
 isblockhashvalid#github.com_gagliardetto_solana_go
 isclaimed#github.com_0xPolygonHermez_zkevm_bridge_service
@@ -3617,6 +3633,7 @@ json2go#github.com_m_zajac_json2go
 json2wal#github.com_cometbft_cometbft
 jsoncolor#github.com_neilotoole_jsoncolor
 jsonfmt#github.com_go_ffmt_ffmt
+jsonformat#github.com_openshift_origin
 jsonl-graph#github.com_nikolaydubina_jsonl_graph
 jsonschema#github.com_DataDog_datadog_operator
 jsonschema#github.com_anchore_grype
@@ -3631,6 +3648,7 @@ juicefs-csi-driver-cmd#github.com_juicedata_juicefs_csi_driver
 juicefs-volume-hook#github.com_breuerfelix_juicefs_volume_hook
 jump#github.com_gsamokovarov_jump
 junit-report#github.com_GoogleContainerTools_kpt_config_sync
+junitreport#github.com_openshift_origin
 jwt#github.com_golang_jwt_jwt
 jwt#github.com_hidevopsio_hiboot
 jwt-cracker-go#github.com_elvisgraho_jwt_cracker_go
@@ -3677,6 +3695,7 @@ kando#github.com_kanisterio_kanister
 karashi#github.com_hachiya_kurisu_natto
 karmada-search#github.com_karmada_io_karmada
 karmem#github.com_inkeliz_karmem
+karpenter-operator#github.com_openshift_hypershift
 katalyst-agent#github.com_kubewharf_katalyst_core
 katalyst-controller#github.com_kubewharf_katalyst_core
 katalyst-metric#github.com_kubewharf_katalyst_core
@@ -3711,6 +3730,7 @@ keycloak-controller#github.com_DoodleScheduling_keycloak_controller
 keygen#github.com_hemilabs_heminetwork
 keygen#github.com_number571_go_peer
 keys#github.com_go_rod_rod
+keystone-operator#github.com_openstack_k8s_operators_keystone_operator
 keystores#github.com_OffchainLabs_prysm
 kfunc-gen#github.com_isovalent_ebpf_docs
 kill#github.com_opencontainers_runtime_tools
@@ -3949,6 +3969,7 @@ list_map#github.com_aerospike_aerospike_client_go
 listcomponents#github.com_grafana_alloy
 lister-gen#github.com_kubernetes_code_generator.git
 listmonk#github.com_knadh_listmonk
+listtests#github.com_openshift_origin
 litestream#github.com_benbjohnson_litestream
 livekit#github.com_livekit_livekit
 livex#github.com_edwingeng_hotswap
@@ -4119,6 +4140,7 @@ map#github.com_katzenpost_katzenpost.git
 map_in_map#github.com_cilium_ebpf
 mapper#github.com_carverauto_serviceradar
 marble-backend#github.com_checkmarble_marble_backend
+mariadb-operator#github.com_openstack_k8s_operators_mariadb_operator
 markdown_check#github.com_huaweicloud_terraform_provider_huaweicloud
 markdown_gen#github.com_huaweicloud_terraform_provider_huaweicloud
 marker#github.com_ajstarks_svgo
@@ -4467,6 +4489,7 @@ network#github.com_mondoohq_cnquery
 network-observability-operator#github.com_netobserv_network_observability_operator
 network-operator#github.com_Mellanox_network_operator
 networking#github.com_Kong_kubernetes_ingress_controller
+neutron-operator#github.com_openstack_k8s_operators_neutron_operator
 newchaincode#github.com_hyperledger_labs_fabric_smart_client
 newrelic-infra#github.com_newrelic_infrastructure_agent
 newrelic-infra-ctl#github.com_newrelic_infrastructure_agent
@@ -4572,6 +4595,7 @@ oci-runtime-tool#github.com_opencontainers_runtime_tools
 oci-sync#github.com_GoogleContainerTools_kpt_config_sync
 ociregistry#github.com_aceeric_ociregistry
 octavia-ingress-controller#github.com_kubernetes_cloud_provider_openstack
+octavia-operator#github.com_openstack_k8s_operators_octavia_operator
 octillery#github.com_blastrain_octillery
 octorpki#github.com_cloudflare_cfrpki
 octosql#github.com_cube2222_octosql
@@ -4623,6 +4647,7 @@ openfga#github.com_openfga_openfga
 opengfw#github.com_apernet_OpenGFW
 openidconnect#github.com_openshift_osin
 openshift-install#github.com_openshift_installer
+openshift-tests#github.com_openshift_origin
 openstack-cloud-controller-manager#github.com_kubernetes_cloud_provider_openstack
 openstack-populator#github.com_kubev2v_forklift
 opentelemetry-go-auto-instrumentation#github.com_alibaba_opentelemetry_go_auto_instrumentation
@@ -4938,6 +4963,7 @@ process_reset_queue#github.com_Optum_dce
 process_rlimits#github.com_opencontainers_runtime_tools
 process_rlimits_fail#github.com_opencontainers_runtime_tools
 process_user#github.com_opencontainers_runtime_tools
+product-cli#github.com_openshift_hypershift
 product_lister#github.com_gocsaf_csaf
 profile#github.com_akatsuki105_dawngb
 profile-list#github.com_jedib0t_go_pretty
@@ -5339,6 +5365,7 @@ root_readonly_true#github.com_opencontainers_runtime_tools
 rootlessport#github.com_containers_podman
 rootsubscribe#github.com_gagliardetto_solana_go
 ror#github.com_NorskHelsenett_ror
+rosa#github.com_openshift_rosa
 rospo#github.com_ferama_rospo
 rotateproxy#github.com_akkuman_rotateproxy
 roumon#github.com_becheran_roumon
@@ -5503,6 +5530,7 @@ scripts#github.com_sylabs_singularity
 scst-driver#github.com_benjojo_IPoverFC
 sd-helper#github.com_opencontainers_runc
 sdk#github.com_fluid_cloudnative_fluid
+sdk-version#github.com_openziti_sdk_golang
 sdp-decode#github.com_gortc_sdp
 sdp-encode#github.com_gortc_sdp
 sdp-encode-low#github.com_gortc_sdp
@@ -5618,6 +5646,7 @@ sessionup#github.com_jellydator_sessionup
 set-project-var#github.com_evergreen_ci_evergreen
 set-var#github.com_evergreen_ci_evergreen
 setup#github.com_go_rod_rod
+setup#github.com_openshift_hypershift
 setup-go#github.com_FerretDB_github_actions
 setup_oauth2#github.com_emiddleton_gads
 setv#github.com_antgroup_hugescm
@@ -5831,10 +5860,15 @@ squirrel#github.com_2337761309_Squirrel
 src#github.com_istio_istio
 src-fingerprint#github.com_GitGuardian_src_fingerprint
 srgb#github.com_aclements_go_misc
+sriov#github.com_openshift_sriov_cni
+sriov-network-config-daemon#github.com_openshift_sriov_network_operator
+sriov-network-operator#github.com_openshift_sriov_network_operator
+sriov-network-operator-config-cleanup#github.com_openshift_sriov_network_operator
 srv-import#github.com_bluenviron_goroslib
 ssadump#github.com_golang_tools
 sse#github.com_golang_tools
 sse2_example#github.com_bjwbell_gensimd
+ssh#github.com_openziti_test_kitchen_zssh
 ssh-keygen#github.com_hashicorp_packer
 ssh-over-vsock#github.com_containers_gvisor_tap_vsock
 ssh-to-age#github.com_Mic92_ssh_to_age
@@ -6051,6 +6085,7 @@ telego#github.com_mymmrac_telego
 telegraf#github.com_influxdata_telegraf
 telegram#github.com_go_furnace_go_furnace
 telemetry-manager#github.com_kyma_project_telemetry_manager
+telemetry-operator#github.com_openstack_k8s_operators_telemetry_operator
 telemetryservice#github.com_Edgenesis_shifu
 telepush#github.com_muety_telepush
 telnet#github.com_keminar_anyproxy
@@ -6156,6 +6191,7 @@ test#github.com_ko_build_ko
 test#github.com_koltyakov_gosip
 test#github.com_kubesphere_kubeeye
 test#github.com_masahide_OmniSSHAgent
+test#github.com_openshift_hypershift
 test-binary-hook#github.com_buildkite_agent
 test-bridged-tap#github.com_firecracker_microvm_firecracker_containerd
 test-certs#github.com_interuss_dss
@@ -6469,6 +6505,7 @@ update-feature-flags-docs#github.com_gitlabhq_gitlab_runner
 update-hook#github.com_kubernetes_test_infra
 update-knative-components#github.com_knative_func.git
 update-protos#github.com_golang_build
+update-tls-artifacts#github.com_openshift_origin
 update-vulnerable-dependencies#github.com_kumahq_kuma
 update_android_version#github.com_SagerNet_sing_box
 update_apple_version#github.com_SagerNet_sing_box
@@ -6587,6 +6624,7 @@ vettool#github.com_ebitengine_debugui
 vettool#github.com_hajimehoshi_guigui
 vettools#github.com_hajimehoshi_ebiten
 vetu#github.com_cirruslabs_vetu
+vexctl#github.com_openvex_vexctl
 vformat#github.com_XTLS_Xray_core
 vfs#github.com_C2FO_vfs
 vhost-fuzzer#github.com_dsecuredcom_vhost_fuzzer
@@ -6753,6 +6791,7 @@ webhook#github.com_karmada_io_karmada
 webhook#github.com_knative_extensions_eventing_autoscaler_keda.git
 webhook#github.com_knative_extensions_eventing_github.git
 webhook#github.com_octo_sts_app
+webhook#github.com_openshift_sriov_network_operator
 webhooked#github.com_42atomys_webhooked
 webhookmanager#github.com_NVIDIA_KAI_Scheduler
 webhooks#github.com_bleenco_abstruse
@@ -6940,10 +6979,14 @@ zgctl#github.com_koderover_zadig.git
 zimple#github.com_ALX99_zimple
 zipar#github.com_Projeto_Pindorama_zipar
 zipfs#github.com_hanwen_go_fuse
+zitified#github.com_openziti_sdk_golang
+zitified-ssh#github.com_openziti_test_kitchen_zssh
 zk#github.com_floren_zk
 zkevm-bridge-service-cmd#github.com_0xPolygonHermez_zkevm_bridge_service
 zombie#github.com_chainreactors_zombie
 zookeeper#github.com_kelseyhightower_confd
 zoom#github.com_albrow_zoom
 zqdgr#github.com_juls0730_zqdgr
+zscp#github.com_openziti_test_kitchen_zssh
+zssh#github.com_openziti_test_kitchen_zssh
 zwiebelproxy#github.com_firefart_zwiebelproxy
