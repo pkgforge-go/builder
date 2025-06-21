@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "go-readelf",
+  "pkg_family": "go-readelf",
+  "pkg_id": "go-readelf#github.com_sad0p_go_readelf",
+  "pkg_name": "go-readelf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sad0p/go-readelf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Elf binary parsing utility written in Go.",
+  "homepage": [
+    "https://github.com/sad0p/go-readelf"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-readelf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sad0p/go-readelf/archive/d709d48236c8c527014af74879d1fd2e904c2fd7.tar.gz"
+  ],
+  "tag": [
+    "elf-binaries",
+    "elf-parser",
+    "golang-tools",
+    "reverse-enginnering"
+  ],
+  "version": "HEAD-d709d48-210615T132807",
+  "version_upstream": "v1.1",
+  "bsum": "53b5377fe46fc0638925998e59307b9f660829d676ddd0e3ee373dcc51cd7652",
+  "build_date": "2025-06-21T14:48:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796460242",
+  "build_id": "15796460242",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sad0p/go-readelf/go-readelf?tag=HEAD-d709d48-210615T132807-loongarch64-Linux&download=go-readelf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sad0p/go-readelf/go-readelf?tag=HEAD-d709d48-210615T132807-loongarch64-Linux&download=go-readelf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sad0p/go-readelf/go-readelf:HEAD-d709d48-210615T132807-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sad0p/go-readelf/go-readelf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sad0p/go-readelf/go-readelf?tag=HEAD-d709d48-210615T132807-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a505f502340719a61ae6f1b9dc7f9436926f3d89db52117e10ec80e975657b16",
+  "size": "1.9 MB",
+  "size_raw": "1918576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
