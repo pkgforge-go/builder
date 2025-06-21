@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "clair",
+  "pkg_family": "clair",
+  "pkg_id": "clair#github.com_quay_clair",
+  "pkg_name": "clair",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quay/clair",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Vulnerability Static Analysis for Containers",
+  "homepage": [
+    "https://github.com/quay/clair"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clair",
+    "clairctl",
+    "quaybackstop",
+    "webhookd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quay/clair/archive/629562717ccdd276f0d23ea2d2a814f817fa9b5b.tar.gz"
+  ],
+  "tag": [
+    "clair",
+    "containers",
+    "docker",
+    "go",
+    "kubernetes",
+    "oci",
+    "oci-image",
+    "static-analysis",
+    "vulnerabilities"
+  ],
+  "version": "HEAD-6295627-250617T160926",
+  "version_upstream": "",
+  "bsum": "4e4b5c63fd3219f8c0b7cfdc9cc6177a1832b97e2cbe9c8b60bf2ec4655b2f1b",
+  "build_date": "2025-06-21T12:28:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795368480",
+  "build_id": "15795368480",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/clair/clair?tag=HEAD-6295627-250617T160926-aarch64-Linux&download=clair.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10665",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/clair/clair?tag=HEAD-6295627-250617T160926-aarch64-Linux&download=clair",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quay/clair/clair:HEAD-6295627-250617T160926-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quay/clair/clair",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/clair/clair?tag=HEAD-6295627-250617T160926-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7cd3f7d3a30c1eab5a012d334651a4606bc53bf9931280069d197be74278f076",
+  "size": "33 MB",
+  "size_raw": "33734208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

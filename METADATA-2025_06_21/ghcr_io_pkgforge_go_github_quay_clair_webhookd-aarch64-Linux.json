@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhookd",
+  "pkg_family": "clair",
+  "pkg_id": "webhookd#github.com_quay_clair",
+  "pkg_name": "webhookd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quay/clair",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Vulnerability Static Analysis for Containers",
+  "homepage": [
+    "https://github.com/quay/clair"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clair",
+    "clairctl",
+    "quaybackstop",
+    "webhookd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quay/clair/archive/629562717ccdd276f0d23ea2d2a814f817fa9b5b.tar.gz"
+  ],
+  "tag": [
+    "clair",
+    "containers",
+    "docker",
+    "go",
+    "kubernetes",
+    "oci",
+    "oci-image",
+    "static-analysis",
+    "vulnerabilities"
+  ],
+  "version": "HEAD-6295627-250617T160926",
+  "version_upstream": "",
+  "bsum": "3cd270b454f51e6e2579e068f9926c4309cfc31ed959ff10977ecd98774e84e3",
+  "build_date": "2025-06-21T12:28:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795368480",
+  "build_id": "15795368480",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/clair/webhookd?tag=HEAD-6295627-250617T160926-aarch64-Linux&download=webhookd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10665",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/clair/webhookd?tag=HEAD-6295627-250617T160926-aarch64-Linux&download=webhookd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quay/clair/webhookd:HEAD-6295627-250617T160926-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quay/clair/webhookd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/clair/webhookd?tag=HEAD-6295627-250617T160926-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39ba2d2110bdeb7e807655dd282842edca26da66a9d2d24a549a41f60545937d",
+  "size": "7.0 MB",
+  "size_raw": "7318368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
