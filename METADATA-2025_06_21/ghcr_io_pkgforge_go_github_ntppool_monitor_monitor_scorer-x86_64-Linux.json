@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "monitor-scorer",
+  "pkg_family": "monitor",
+  "pkg_id": "monitor-scorer#github.com_ntppool_monitor",
+  "pkg_name": "monitor-scorer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ntppool/monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "monitoring agent for the NTP Pool",
+  "homepage": [
+    "https://github.com/ntppool/monitor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "monitor-api",
+    "monitor-scorer",
+    "ntppool-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ntppool/monitor/archive/b19fa88aab9dc43f5055d744f48e63ec439210b2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b19fa88-250621T055354",
+  "version_upstream": "",
+  "bsum": "492d3ab1f39c3fe2be5d49d33242b86951aa7f6659a6343c6537f2d42c956073",
+  "build_date": "2025-06-21T22:43:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800012472",
+  "build_id": "15800012472",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/monitor-scorer?tag=HEAD-b19fa88-250621T055354-x86_64-Linux&download=monitor-scorer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/monitor-scorer?tag=HEAD-b19fa88-250621T055354-x86_64-Linux&download=monitor-scorer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ntppool/monitor/monitor-scorer:HEAD-b19fa88-250621T055354-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ntppool/monitor/monitor-scorer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/monitor-scorer?tag=HEAD-b19fa88-250621T055354-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f267f5f4100f18a57b827046d92781aceea58891e02bfe40f61362b6fd225874",
+  "size": "14 MB",
+  "size_raw": "14217632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ntppool-agent",
+  "pkg_family": "monitor",
+  "pkg_id": "ntppool-agent#github.com_ntppool_monitor",
+  "pkg_name": "ntppool-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ntppool/monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "monitoring agent for the NTP Pool",
+  "homepage": [
+    "https://github.com/ntppool/monitor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "monitor-api",
+    "monitor-scorer",
+    "ntppool-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ntppool/monitor/archive/b19fa88aab9dc43f5055d744f48e63ec439210b2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b19fa88-250621T055354",
+  "version_upstream": "",
+  "bsum": "8a7e74afbb6a9d89bc5be450d8c170f6429a7468133ccd04c5c66bf7bdbaacc0",
+  "build_date": "2025-06-21T22:43:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800012472",
+  "build_id": "15800012472",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/ntppool-agent?tag=HEAD-b19fa88-250621T055354-x86_64-Linux&download=ntppool-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/ntppool-agent?tag=HEAD-b19fa88-250621T055354-x86_64-Linux&download=ntppool-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ntppool/monitor/ntppool-agent:HEAD-b19fa88-250621T055354-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ntppool/monitor/ntppool-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/ntppool-agent?tag=HEAD-b19fa88-250621T055354-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4ba1b1a9d5c5fcd965ae2f3f374637975a2c43a387b0021cf7594968bd7d81f0",
+  "size": "21 MB",
+  "size_raw": "21182400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
