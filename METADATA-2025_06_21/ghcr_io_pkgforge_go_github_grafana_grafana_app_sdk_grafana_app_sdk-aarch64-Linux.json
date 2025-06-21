@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "grafana-app-sdk",
+  "pkg_family": "grafana-app-sdk",
+  "pkg_id": "grafana-app-sdk#github.com_grafana_grafana_app_sdk",
+  "pkg_name": "grafana-app-sdk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/grafana-app-sdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An SDK for developing apps for grafana using kubernetes-like storage and operators",
+  "homepage": [
+    "https://github.com/grafana/grafana-app-sdk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grafana-app-sdk",
+    "reconciler",
+    "store",
+    "watcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/grafana-app-sdk/archive/8b872193ded0c52e3f9a1701c5c0c8cbcdd9c389.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8b87219-250620T132748",
+  "version_upstream": "",
+  "bsum": "85740e80bc14984fd75ab2fca3342a5cfc21c1c4cd91793d2acfcda6e1d73364",
+  "build_date": "2025-06-21T08:24:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793625408",
+  "build_id": "15793625408",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/grafana-app-sdk/grafana-app-sdk?tag=HEAD-8b87219-250620T132748-aarch64-Linux&download=grafana-app-sdk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/grafana-app-sdk/grafana-app-sdk?tag=HEAD-8b87219-250620T132748-aarch64-Linux&download=grafana-app-sdk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/grafana-app-sdk/grafana-app-sdk:HEAD-8b87219-250620T132748-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/grafana-app-sdk/grafana-app-sdk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/grafana-app-sdk/grafana-app-sdk?tag=HEAD-8b87219-250620T132748-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "edd262a22a45ce3af2617343e997f976a272d3940bd81a331d0005800be62ea4",
+  "size": "53 MB",
+  "size_raw": "55249760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
