@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "avo",
+  "pkg_family": "wyhash",
+  "pkg_id": "avo#github.com_orisano_wyhash",
+  "pkg_name": "avo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orisano/wyhash",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A pure-Go wyhash implementation.",
+  "homepage": [
+    "https://github.com/orisano/wyhash"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "avo",
+    "wyhashsum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/orisano/wyhash/archive/1dcb0946e93596269d84eff83609127453fa739b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "hash",
+    "wyhash"
+  ],
+  "version": "HEAD-1dcb094-250610T175250",
+  "version_upstream": "",
+  "bsum": "0a5f0ac99ffa7b650782c37940ecc0a9e2f0436436175f9dff92d20b65301509",
+  "build_date": "2025-06-21T04:15:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791306952",
+  "build_id": "15791306952",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orisano/wyhash/avo?tag=HEAD-1dcb094-250610T175250-loongarch64-Linux&download=avo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orisano/wyhash/avo?tag=HEAD-1dcb094-250610T175250-loongarch64-Linux&download=avo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orisano/wyhash/avo:HEAD-1dcb094-250610T175250-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orisano/wyhash/avo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orisano/wyhash/avo?tag=HEAD-1dcb094-250610T175250-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e8c464720ab9c4a7e4b7f4a4d1d8c12d3a290db2c4d58b8e8648f0620d0a8f68",
+  "size": "5.1 MB",
+  "size_raw": "5323504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
