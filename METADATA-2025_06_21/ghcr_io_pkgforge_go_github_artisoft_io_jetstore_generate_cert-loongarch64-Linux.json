@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate_cert",
+  "pkg_family": "jetstore",
+  "pkg_id": "generate_cert#github.com_artisoft_io_jetstore",
+  "pkg_name": "generate_cert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/artisoft-io/jetstore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "JetStore Compute Analytic Platform",
+  "homepage": [
+    "https://github.com/artisoft-io/jetstore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "client",
+    "copytest",
+    "cp_node",
+    "cp_reducing_starter",
+    "cp_sharding_starter",
+    "cpipes_server",
+    "encodingtest",
+    "generate_cert",
+    "httptest",
+    "jetstore_one",
+    "jsontest",
+    "lambdas",
+    "loader",
+    "local_test_driver",
+    "node",
+    "parquetschema",
+    "parquettest",
+    "pqarrow_json_test",
+    "pqarrow_test",
+    "purge_data",
+    "purge_database",
+    "register_keys_v2",
+    "rotate_secret",
+    "run_reports",
+    "server",
+    "serverv2",
+    "snappy",
+    "sqs_register_keys",
+    "status_update",
+    "tests",
+    "unsnappy",
+    "update_db",
+    "xlsxreader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/artisoft-io/jetstore/archive/91505ecf3e02fa95bc644e8f255199749ac85c33.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-91505ec-250620T164345",
+  "version_upstream": "2.6.2",
+  "bsum": "a5cf38e459466cb75f59ce9d077dcc580b62d58538aa7bd4801241bb3c5a48e4",
+  "build_date": "2025-06-21T07:40:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793150028",
+  "build_id": "15793150028",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artisoft-io/jetstore/generate_cert?tag=HEAD-91505ec-250620T164345-loongarch64-Linux&download=generate_cert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artisoft-io/jetstore/generate_cert?tag=HEAD-91505ec-250620T164345-loongarch64-Linux&download=generate_cert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/artisoft-io/jetstore/generate_cert:HEAD-91505ec-250620T164345-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/artisoft-io/jetstore/generate_cert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/artisoft-io/jetstore/generate_cert?tag=HEAD-91505ec-250620T164345-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2e61bee993705d96e612c5eabebdcb9e1112e06efce005b0a9b0d03ed0f67c2a",
+  "size": "3.3 MB",
+  "size_raw": "3407136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
