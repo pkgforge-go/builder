@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "appimaged",
+  "pkg_family": "go-appimage",
+  "pkg_id": "appimaged#github.com_probonopd_go_appimage",
+  "pkg_name": "appimaged",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/probonopd/go-appimage",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of AppImage tools",
+  "homepage": [
+    "https://github.com/probonopd/go-appimage"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appimaged",
+    "appimagetool",
+    "mkappimage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/probonopd/go-appimage/archive/214f09c8f361fd8b984c1162f293876f956372f7.tar.gz"
+  ],
+  "tag": [
+    "appimage",
+    "go",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-214f09c-250610T205250",
+  "version_upstream": "continuous",
+  "bsum": "767852e50c53ab746f6c44c5185c5585d173819853d7db2262b344c482f773cc",
+  "build_date": "2025-06-21T11:28:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794880909",
+  "build_id": "15794880909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/appimaged?tag=HEAD-214f09c-250610T205250-riscv64-Linux&download=appimaged.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "988",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/appimaged?tag=HEAD-214f09c-250610T205250-riscv64-Linux&download=appimaged",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/probonopd/go-appimage/appimaged:HEAD-214f09c-250610T205250-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/probonopd/go-appimage/appimaged",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/appimaged?tag=HEAD-214f09c-250610T205250-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d8b00f9afab12e244285c855308b019ee13a95010941379b0a0d2408bc72601",
+  "size": "11 MB",
+  "size_raw": "10626424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
