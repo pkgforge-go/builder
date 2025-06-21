@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "netbird",
+  "pkg_id": "example#github.com_netbirdio_netbird",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/netbirdio/netbird",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+  "homepage": [
+    "https://github.com/netbirdio/netbird"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "example",
+    "management",
+    "relay",
+    "signal",
+    "testec2",
+    "upload-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/netbirdio/netbird/archive/83457f8b99a8d5382e069eed682173e213b2b218.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "mesh",
+    "mesh-networks",
+    "nat-traversal",
+    "netbird",
+    "vpn",
+    "wireguard",
+    "wireguard-vpn",
+    "wiretrustee",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-83457f8-250620T121324",
+  "version_upstream": "",
+  "bsum": "ddd67b2219e40805c90b9fc3b4934f83118bf4bc19ce56ec2f7611e51dc3d550",
+  "build_date": "2025-06-21T00:02:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789342197",
+  "build_id": "15789342197",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/example?tag=HEAD-83457f8-250620T121324-aarch64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15954",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/example?tag=HEAD-83457f8-250620T121324-aarch64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netbirdio/netbird/example:HEAD-83457f8-250620T121324-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netbirdio/netbird/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/example?tag=HEAD-83457f8-250620T121324-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b0b72910157ab292765f48104f0d3d473d4d736d8b122ce38aa468907b96ed4",
+  "size": "5.2 MB",
+  "size_raw": "5371680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
