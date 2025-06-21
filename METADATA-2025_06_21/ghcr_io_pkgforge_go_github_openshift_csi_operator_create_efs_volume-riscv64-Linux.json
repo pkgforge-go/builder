@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "create-efs-volume",
+  "pkg_family": "csi-operator",
+  "pkg_id": "create-efs-volume#github.com_openshift_csi_operator",
+  "pkg_name": "create-efs-volume",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/csi-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for the ocp-csi bridge",
+  "homepage": [
+    "https://github.com/openshift/csi-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-ebs-csi-driver-operator",
+    "aws-efs-csi-driver-operator",
+    "azure-disk-csi-driver-operator",
+    "azure-file-csi-driver-operator",
+    "create-efs-volume",
+    "generator",
+    "openstack-cinder-csi-driver-operator",
+    "openstack-manila-csi-driver-operator",
+    "smb-csi-driver-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/csi-operator/archive/9acc59cbdad525d09651c6247c959bbd06f35ac0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9acc59c-250620T182451",
+  "version_upstream": "",
+  "bsum": "9096c1f1278ade891cfba8eb432da6b738b1c89447b5875488e097cd8f56354e",
+  "build_date": "2025-06-21T10:20:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794447088",
+  "build_id": "15794447088",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/create-efs-volume?tag=HEAD-9acc59c-250620T182451-riscv64-Linux&download=create-efs-volume.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/create-efs-volume?tag=HEAD-9acc59c-250620T182451-riscv64-Linux&download=create-efs-volume",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/csi-operator/create-efs-volume:HEAD-9acc59c-250620T182451-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/csi-operator/create-efs-volume",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/create-efs-volume?tag=HEAD-9acc59c-250620T182451-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4a39ed3bf351fcad04e7de2ecff23787a1c20e67599b2726352ea769fe7a5f0",
+  "size": "75 MB",
+  "size_raw": "77862936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
