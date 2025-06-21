@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "forward",
+  "pkg_family": "kne",
+  "pkg_id": "forward#github.com_openconfig_kne",
+  "pkg_name": "forward",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/kne",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openconfig/kne"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "forward",
+    "kne_cli",
+    "server",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/kne/archive/e2f5fdd427e9fe713741c106142236826b7bf2d0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e2f5fdd-250620T120419",
+  "version_upstream": "v0.2.2",
+  "bsum": "f2c850523b088ea24c03cddfc3825116a09ef809beea5b6ae386c6addaaa84ef",
+  "build_date": "2025-06-21T09:57:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794435438",
+  "build_id": "15794435438",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/forward?tag=HEAD-e2f5fdd-250620T120419-aarch64-Linux&download=forward.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "226",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/forward?tag=HEAD-e2f5fdd-250620T120419-aarch64-Linux&download=forward",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/kne/forward:HEAD-e2f5fdd-250620T120419-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/kne/forward",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/forward?tag=HEAD-e2f5fdd-250620T120419-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e81506f209f80389509b3f1bb8ddb5aadcdda1b013682ee0ac95ba1376bec2a",
+  "size": "13 MB",
+  "size_raw": "12896000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
