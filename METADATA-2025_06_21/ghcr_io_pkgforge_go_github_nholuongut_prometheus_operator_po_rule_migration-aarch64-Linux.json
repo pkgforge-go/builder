@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "po-rule-migration",
+  "pkg_family": "prometheus-operator",
+  "pkg_id": "po-rule-migration#github.com_nholuongut_prometheus_operator",
+  "pkg_name": "po-rule-migration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nholuongut/prometheus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+  "homepage": [
+    "https://github.com/nholuongut/prometheus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alertmanager-webhook",
+    "instrumented-sample-app",
+    "po-rule-migration"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nholuongut/prometheus-operator/archive/54f1c4bca3d2f9a40198600c5bd795b4297bfe4b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-54f1c4b-250620T071055",
+  "version_upstream": "",
+  "bsum": "5313623b56ff9916f134b7c16b296b06e452b72b553796db7f80e85720d2cad7",
+  "build_date": "2025-06-21T02:04:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790898724",
+  "build_id": "15790898724",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/po-rule-migration?tag=HEAD-54f1c4b-250620T071055-aarch64-Linux&download=po-rule-migration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/po-rule-migration?tag=HEAD-54f1c4b-250620T071055-aarch64-Linux&download=po-rule-migration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nholuongut/prometheus-operator/po-rule-migration:HEAD-54f1c4b-250620T071055-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nholuongut/prometheus-operator/po-rule-migration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/po-rule-migration?tag=HEAD-54f1c4b-250620T071055-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c73fdf6c516aa767bb9a15e556c363b8b6de6f8f1f937a0daf29c92706a696e",
+  "size": "17 MB",
+  "size_raw": "17378848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
