@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "machine-api-tests-ext",
+  "pkg_family": "machine-api-operator",
+  "pkg_id": "machine-api-tests-ext#github.com_openshift_machine_api_operator",
+  "pkg_name": "machine-api-tests-ext",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/machine-api-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Machine API operator",
+  "homepage": [
+    "https://github.com/openshift/machine-api-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "machine-api-operator",
+    "machine-api-tests-ext",
+    "machine-healthcheck",
+    "machineset",
+    "nodelink-controller",
+    "vsphere"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/machine-api-operator/archive/b9b1512b4263bf6e36c7b6a81d155f0fb944b3c2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b9b1512-250620T063553",
+  "version_upstream": "",
+  "bsum": "8edd9665e08ebd5f65cab7fe9cab375368b436cc7cad0dbdf8a06087557c61d8",
+  "build_date": "2025-06-21T03:47:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791241405",
+  "build_id": "15791241405",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext?tag=HEAD-b9b1512-250620T063553-riscv64-Linux&download=machine-api-tests-ext.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "177",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext?tag=HEAD-b9b1512-250620T063553-riscv64-Linux&download=machine-api-tests-ext",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext:HEAD-b9b1512-250620T063553-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext?tag=HEAD-b9b1512-250620T063553-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf75a41f0203c70f3445b0a8ae8feea27aaea6c57d6fd9426b496e8ecd1d92df",
+  "size": "144 MB",
+  "size_raw": "150509816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
