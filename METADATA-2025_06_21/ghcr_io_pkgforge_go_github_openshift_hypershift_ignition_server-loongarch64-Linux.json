@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ignition-server",
+  "pkg_family": "hypershift",
+  "pkg_id": "ignition-server#github.com_openshift_hypershift",
+  "pkg_name": "ignition-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/63403c2b1861a27c0f01ce0ecc0965647fce9c57.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-63403c2-250620T095851",
+  "version_upstream": "",
+  "bsum": "a98aa06d1e2e35445b5ac9bf379d8f2643e6eddf82abddcdbff41d6ccf825d8a",
+  "build_date": "2025-06-21T03:52:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791234678",
+  "build_id": "15791234678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/ignition-server?tag=HEAD-63403c2-250620T095851-loongarch64-Linux&download=ignition-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "463",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/ignition-server?tag=HEAD-63403c2-250620T095851-loongarch64-Linux&download=ignition-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/ignition-server:HEAD-63403c2-250620T095851-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/ignition-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/ignition-server?tag=HEAD-63403c2-250620T095851-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03d4c1cfa69a0e165e2efc32f244208719667941023227e5efc49c0eb1f472a6",
+  "size": "64 MB",
+  "size_raw": "66320864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "admission-tracer",
+  "pkg_family": "hypershift",
+  "pkg_id": "admission-tracer#github.com_openshift_hypershift",
+  "pkg_name": "admission-tracer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/63403c2b1861a27c0f01ce0ecc0965647fce9c57.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-63403c2-250620T095851",
+  "version_upstream": "",
+  "bsum": "86bc80b9fc6a6c193811f45c13840afb2630533612b11fdac60a2851e4672399",
+  "build_date": "2025-06-21T03:51:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791234678",
+  "build_id": "15791234678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/admission-tracer?tag=HEAD-63403c2-250620T095851-loongarch64-Linux&download=admission-tracer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "463",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/admission-tracer?tag=HEAD-63403c2-250620T095851-loongarch64-Linux&download=admission-tracer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/admission-tracer:HEAD-63403c2-250620T095851-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/admission-tracer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/admission-tracer?tag=HEAD-63403c2-250620T095851-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2315310b72360836c3f7329c6a5409b890928132fd9c99d9fbf3bede9c292bbf",
+  "size": "60 MB",
+  "size_raw": "62283328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
