@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "unikorn-virtualcluster-controller",
+  "pkg_family": "uni-kubernetes",
+  "pkg_id": "unikorn-virtualcluster-controller#github.com_nscaledev_uni_kubernetes",
+  "pkg_name": "unikorn-virtualcluster-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nscaledev/uni-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster API driven PaaS Orchestrator",
+  "homepage": [
+    "https://github.com/nscaledev/uni-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "unikorn-cluster-controller",
+    "unikorn-cluster-manager-controller",
+    "unikorn-monitor",
+    "unikorn-server",
+    "unikorn-virtualcluster-controller",
+    "validate_openapi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nscaledev/uni-kubernetes/archive/f41357ce6b69049aa07e84e0a27f3efc73beb401.tar.gz"
+  ],
+  "tag": [
+    "unikorn"
+  ],
+  "version": "HEAD-f41357c-250620T114340",
+  "version_upstream": "",
+  "bsum": "555b44d502ce1f5d8957b7f614cb81be8b7ada5b0809b10fc0fdef17fe9127ab",
+  "build_date": "2025-06-21T02:26:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790940419",
+  "build_id": "15790940419",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-virtualcluster-controller?tag=HEAD-f41357c-250620T114340-aarch64-Linux&download=unikorn-virtualcluster-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-virtualcluster-controller?tag=HEAD-f41357c-250620T114340-aarch64-Linux&download=unikorn-virtualcluster-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-virtualcluster-controller:HEAD-f41357c-250620T114340-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-virtualcluster-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-virtualcluster-controller?tag=HEAD-f41357c-250620T114340-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5eda320f76619f1f3fd6ddabd489c5aaa62ef9383c4f5496498bf3b15f29e94",
+  "size": "47 MB",
+  "size_raw": "48930592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
