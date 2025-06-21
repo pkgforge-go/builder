@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mkappimage",
+  "pkg_family": "go-appimage",
+  "pkg_id": "mkappimage#github.com_probonopd_go_appimage",
+  "pkg_name": "mkappimage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/probonopd/go-appimage",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of AppImage tools",
+  "homepage": [
+    "https://github.com/probonopd/go-appimage"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appimaged",
+    "appimagetool",
+    "mkappimage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/probonopd/go-appimage/archive/214f09c8f361fd8b984c1162f293876f956372f7.tar.gz"
+  ],
+  "tag": [
+    "appimage",
+    "go",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-214f09c-250610T205250",
+  "version_upstream": "continuous",
+  "bsum": "9e372b9a7d92e463832ad0836bfda1eef80116421b114e7ba5903b5ae671bb39",
+  "build_date": "2025-06-21T11:28:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794880909",
+  "build_id": "15794880909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/mkappimage?tag=HEAD-214f09c-250610T205250-loongarch64-Linux&download=mkappimage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "988",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/mkappimage?tag=HEAD-214f09c-250610T205250-loongarch64-Linux&download=mkappimage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/probonopd/go-appimage/mkappimage:HEAD-214f09c-250610T205250-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/probonopd/go-appimage/mkappimage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/mkappimage?tag=HEAD-214f09c-250610T205250-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b872d91f1d926d0d22a567be9efff3819b4479be464e281947d71bad0fd7c992",
+  "size": "13 MB",
+  "size_raw": "13031344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

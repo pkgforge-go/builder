@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "appimagetool",
+  "pkg_family": "go-appimage",
+  "pkg_id": "appimagetool#github.com_probonopd_go_appimage",
+  "pkg_name": "appimagetool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/probonopd/go-appimage",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of AppImage tools",
+  "homepage": [
+    "https://github.com/probonopd/go-appimage"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appimaged",
+    "appimagetool",
+    "mkappimage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/probonopd/go-appimage/archive/214f09c8f361fd8b984c1162f293876f956372f7.tar.gz"
+  ],
+  "tag": [
+    "appimage",
+    "go",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-214f09c-250610T205250",
+  "version_upstream": "continuous",
+  "bsum": "5f8f4534411988c1ad4c0ad8ff5971227d7a51725deea9432d275610910aa176",
+  "build_date": "2025-06-21T11:28:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794880909",
+  "build_id": "15794880909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/appimagetool?tag=HEAD-214f09c-250610T205250-loongarch64-Linux&download=appimagetool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "988",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/appimagetool?tag=HEAD-214f09c-250610T205250-loongarch64-Linux&download=appimagetool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/probonopd/go-appimage/appimagetool:HEAD-214f09c-250610T205250-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/probonopd/go-appimage/appimagetool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/probonopd/go-appimage/appimagetool?tag=HEAD-214f09c-250610T205250-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c0575344ae0cf0475f098b0ba965c50467dcfb2c7e4f4b3e48277a4935380ff8",
+  "size": "13 MB",
+  "size_raw": "13569488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
