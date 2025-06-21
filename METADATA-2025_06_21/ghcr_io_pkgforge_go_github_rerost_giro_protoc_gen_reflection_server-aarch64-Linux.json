@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-reflection-server",
+  "pkg_family": "giro",
+  "pkg_id": "protoc-gen-reflection-server#github.com_rerost_giro",
+  "pkg_name": "protoc-gen-reflection-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rerost/giro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative to grpc_cli. giro can be used for gRPC servers without Server Reflection",
+  "homepage": [
+    "https://github.com/rerost/giro"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dummyserver",
+    "giro",
+    "multiple_package",
+    "protoc-gen-reflection-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rerost/giro/archive/9e3004446d9f60021176c86e10acb4facddca78c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e30044-250621T081452",
+  "version_upstream": "",
+  "bsum": "df8f5de290815a969143a710db8f540a9f22ff7cd537efa5485640876f0db407",
+  "build_date": "2025-06-21T22:46:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800211255",
+  "build_id": "15800211255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rerost/giro/protoc-gen-reflection-server?tag=HEAD-9e30044-250621T081452-aarch64-Linux&download=protoc-gen-reflection-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rerost/giro/protoc-gen-reflection-server?tag=HEAD-9e30044-250621T081452-aarch64-Linux&download=protoc-gen-reflection-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rerost/giro/protoc-gen-reflection-server:HEAD-9e30044-250621T081452-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rerost/giro/protoc-gen-reflection-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rerost/giro/protoc-gen-reflection-server?tag=HEAD-9e30044-250621T081452-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f389fa504278337ff3658b0dffff08358dd8c26c03e6f4cb2de5a55e104d748a",
+  "size": "16 MB",
+  "size_raw": "15763296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

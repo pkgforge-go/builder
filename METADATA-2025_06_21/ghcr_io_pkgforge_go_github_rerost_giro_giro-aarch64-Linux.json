@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "giro",
+  "pkg_family": "giro",
+  "pkg_id": "giro#github.com_rerost_giro",
+  "pkg_name": "giro",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rerost/giro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative to grpc_cli. giro can be used for gRPC servers without Server Reflection",
+  "homepage": [
+    "https://github.com/rerost/giro"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dummyserver",
+    "giro",
+    "multiple_package",
+    "protoc-gen-reflection-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rerost/giro/archive/9e3004446d9f60021176c86e10acb4facddca78c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e30044-250621T081452",
+  "version_upstream": "",
+  "bsum": "c58b2d0bb73f3ac89ad8f17bb4fe5d019d7edd42fcb4e9400ad0a074cf2718c9",
+  "build_date": "2025-06-21T22:46:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800211255",
+  "build_id": "15800211255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rerost/giro/giro?tag=HEAD-9e30044-250621T081452-aarch64-Linux&download=giro.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rerost/giro/giro?tag=HEAD-9e30044-250621T081452-aarch64-Linux&download=giro",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rerost/giro/giro:HEAD-9e30044-250621T081452-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rerost/giro/giro",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rerost/giro/giro?tag=HEAD-9e30044-250621T081452-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7204e86e2948a350d2be1c7ef7851930ff79fb9d55b09d87e466ea09fa2b6a08",
+  "size": "14 MB",
+  "size_raw": "13656960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
