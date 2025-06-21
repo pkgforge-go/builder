@@ -1107,6 +1107,18 @@
     "version": "HEAD-e1a8604-250617T215526"
   },
   {
+    "description": "Airbyte_s CLI for managing local Airbyte installations",
+    "name": "abctl",
+    "pkg_id": "abctl#github.com_airbytehq_abctl",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c2c129b-250620T103531"
+  },
+  {
     "description": "A BNB Smart Chain client based on the go-ethereum fork",
     "name": "abidump",
     "pkg_id": "abidump#github.com_bnb_chain_bsc",
@@ -1129,6 +1141,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-09289fd-250619T161954"
+  },
+  {
+    "description": "Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.",
+    "name": "abigen",
+    "pkg_id": "abigen#github.com_ava_labs_coreth",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-0058a7e-250620T163936"
   },
   {
     "description": "A BNB Smart Chain client based on the go-ethereum fork",
@@ -2336,6 +2361,19 @@
     "version": "HEAD-fc82b12-250618T174431"
   },
   {
+    "description": "Go 微服务框架 Kratos（Bilibili开源）最佳实践。封装常用工具，以满足实际开发工作中的需求，提升开发效率。",
+    "name": "admin",
+    "pkg_id": "admin#github.com_EchoGroot_kratos_examples",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-f41fbe1-250621T114056"
+  },
+  {
     "description": "Starter-kit for writing services in Go using Kubernetes.",
     "name": "admin",
     "pkg_id": "admin#github.com_ardanlabs_service",
@@ -2714,6 +2752,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-a178faf-250406T001402"
+  },
+  {
+    "description": "HTTP API for Claude Code, Goose, Aider, and Codex",
+    "name": "agentapi",
+    "pkg_id": "agentapi#github.com_coder_agentapi",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-62568da-250604T142538"
   },
   {
     "description": "Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.",
@@ -4149,6 +4200,19 @@
     "version": "HEAD-e0f2ead-250612T121714"
   },
   {
+    "description": "Golnag microservice-template by DDD",
+    "name": "api",
+    "pkg_id": "api#github.com_batazor_microservice_template_ddd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8860966-250621T023313"
+  },
+  {
     "description": "[BCC Media] Website and backend for the BCC Media apps",
     "name": "api",
     "pkg_id": "api#github.com_bcc_code_bcc_media_platform",
@@ -4522,6 +4586,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-7b78482-250619T222919"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "apiserver",
+    "pkg_id": "apiserver#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "The Encyclopedia of Kubernetes clusters",
@@ -5087,6 +5161,32 @@
     "version": "20250620T154534"
   },
   {
+    "description": "Expressive, Easy to Build, and High-Performance Application Networks",
+    "name": "appnet-cmd",
+    "pkg_id": "appnet-cmd#github.com_appnet_org_appnet",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91ee0a8-250620T175051"
+  },
+  {
+    "description": "Expressive, Easy to Build, and High-Performance Application Networks",
+    "name": "appnetctl",
+    "pkg_id": "appnetctl#github.com_appnet_org_appnet",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91ee0a8-250620T175051"
+  },
+  {
     "description": "🍄 A parser, interpreter and compiler for libmagic rule files in golang",
     "name": "apprentice",
     "pkg_id": "apprentice#github.com_itchio_wizardry",
@@ -5098,6 +5198,18 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-e8c8c4a-200301T171332"
+  },
+  {
+    "description": "A Kubernetes CSI plugin to automatically mount SPIFFE certificates to Pods using ephemeral volumes",
+    "name": "approver",
+    "pkg_id": "approver#github.com_cert_manager_csi_driver_spiffe",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-763eda7-250620T163711"
   },
   {
     "description": "approver-policy is a cert-manager approver that allows users to define policies that restrict what certificates can be requested.",
@@ -5418,6 +5530,18 @@
     "version": "HEAD-4591280-250618T105758"
   },
   {
+    "description": "Kubernetes Operator for Argo CD RBAC Management.",
+    "name": "argocd-rbac-operator",
+    "pkg_id": "argocd-rbac-operator#github.com_argoproj_labs_argocd_rbac_operator",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d7df06f-250620T175205"
+  },
+  {
     "description": "Bali -  Minimalist Golang build and packaging tool",
     "name": "args",
     "pkg_id": "args#github.com_balibuild_bali",
@@ -5442,6 +5566,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-110b335-240702T110853"
+  },
+  {
+    "description": "Fulmine is a Bitcoin wallet daemon that integrates Ark protocol_s batched transaction model with Lightning Network infrastructure, enabling routing nodes, service providers and payment hubs to optimize channel liquidity while minimizing on-chain fees, without compromising on self-custody.",
+    "name": "arkd",
+    "pkg_id": "arkd#github.com_ArkLabsHQ_fulmine",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-7f64d42-250620T173538"
   },
   {
     "description": "SIMD implementation in Go",
@@ -6311,6 +6448,19 @@
     "version": "HEAD-c6e0cbe-250619T120316"
   },
   {
+    "description": "Experiment with Go + HTMX and OAuth2/OIDC + WebAuthn",
+    "name": "auth-htmx",
+    "pkg_id": "auth-htmx#github.com_Darkness4_auth_htmx",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-4e02654-250621T030422"
+  },
+  {
     "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
     "name": "auth-injector",
     "pkg_id": "auth-injector#github.com_cortexproject_cortex",
@@ -6410,6 +6560,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e423d65-250618T185547"
+  },
+  {
+    "description": "K8s-native AuthN/AuthZ service to protect your APIs.",
+    "name": "authorino",
+    "pkg_id": "authorino#github.com_Kuadrant_authorino",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c59a17b-250620T152548"
   },
   {
     "description": "🔑 Authz0 is an automated authorization test tool. Unauthorized access can be identified based on URLs and Roles _ Credentials.",
@@ -6775,6 +6938,19 @@
     "version": "HEAD-a96796e-250619T074930"
   },
   {
+    "description": "A Kubernetes controller for Amazon VPC Lattice",
+    "name": "aws-application-networking-k8s",
+    "pkg_id": "aws-application-networking-k8s#github.com_aws_aws_application_networking_k8s",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-a5795d3-250620T184613"
+  },
+  {
     "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
     "name": "aws-asg",
     "pkg_id": "aws-asg#github.com_hashicorp_nomad_autoscaler",
@@ -6799,6 +6975,18 @@
     ],
     "updated_at": "2025-06-20",
     "version": "20250620T153504"
+  },
+  {
+    "description": "Handles rolling upgrades for AWS ASGs on EKS",
+    "name": "aws-eks-asg-rolling-update-handler",
+    "pkg_id": "aws-eks-asg-rolling-update-handler#github.com_TwiN_aws_eks_asg_rolling_update_handler",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-32eee90-250620T203802"
   },
   {
     "description": "No Description Provided",
@@ -8022,7 +8210,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-20",
+    "updated_at": "2025-06-21",
     "version": "HEAD-ab8f06a-240929T093505"
   },
   {
@@ -8498,6 +8686,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-676ea01-240924T120615"
+  },
+  {
+    "description": "Golnag microservice-template by DDD",
+    "name": "billing",
+    "pkg_id": "billing#github.com_batazor_microservice_template_ddd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8860966-250621T023313"
   },
   {
     "description": "Effortless binary manager",
@@ -9303,6 +9504,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-e5f5910-250619T105504"
+  },
+  {
+    "description": "Golnag microservice-template by DDD",
+    "name": "book",
+    "pkg_id": "book#github.com_batazor_microservice_template_ddd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8860966-250621T023313"
   },
   {
     "description": "Simple static site generator built with Go",
@@ -10656,6 +10870,19 @@
     "version": "HEAD-6dbcf9e-250620T115209"
   },
   {
+    "description": "Official MCP Server for Buildkite.",
+    "name": "buildkite-mcp-server",
+    "pkg_id": "buildkite-mcp-server#github.com_buildkite_buildkite_mcp_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-2fce8d2-250621T111853"
+  },
+  {
     "description": "[mirror] Go_s continuous build and release infrastructure _no stability promises_",
     "name": "buildlet",
     "pkg_id": "buildlet#github.com_golang_build",
@@ -11392,6 +11619,19 @@
     "version": "HEAD-3ff3820-250620T094802"
   },
   {
+    "description": "Command line utility for managing Cardano services",
+    "name": "cardano-up",
+    "pkg_id": "cardano-up#github.com_blinklabs_io_cardano_up",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-79bf1fc-250620T165858"
+  },
+  {
     "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
     "name": "cariddi",
     "pkg_id": "cariddi#github.com_edoardottt_cariddi",
@@ -11724,6 +11964,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-fdfdf9a-250312T110759"
+  },
+  {
+    "description": "On-Demand Minecraft Server running on ECS_Fargate_ and deployed via CDK _Go_",
+    "name": "cdk",
+    "pkg_id": "cdk#github.com_cbrgm_cdk_on_demand_minecraft_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-413124a-250620T204723"
   },
   {
     "description": "📦  Make security testing of K8s, Docker, and Containerd easier.",
@@ -12096,6 +12349,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-7f9f957-250615T082039"
+  },
+  {
+    "description": "A command line utility to facilitate terraforming your existing Cloudflare resources.",
+    "name": "cf-terraforming",
+    "pkg_id": "cf-terraforming#github.com_cloudflare_cf_terraforming",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-40e0f0b-250620T105614"
   },
   {
     "description": "Manage your Cloudflare credentials, securely",
@@ -13518,6 +13784,16 @@
     "version": "HEAD-7e6332f-250619T133629"
   },
   {
+    "description": "📝  Production-ready backend template with go-chi router for Create Go App CLI.",
+    "name": "chi-go-template",
+    "pkg_id": "chi-go-template#github.com_create_go_app_chi_go_template",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-25350a2-250620T204658"
+  },
+  {
     "description": "Telegram bot for TL_DR usage in a group chat",
     "name": "chi-shod-bot",
     "pkg_id": "chi-shod-bot#github.com_ArmanJR_chi_shod_bot",
@@ -13529,6 +13805,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-f7151e7-231008T221051"
+  },
+  {
+    "description": "RPC/Websocket based metrics exporter for Chia",
+    "name": "chia-exporter",
+    "pkg_id": "chia-exporter#github.com_Chia_Network_chia_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-ce5ec75-250620T094537"
   },
   {
     "description": "chihuahuad binary repository",
@@ -13564,7 +13853,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-20",
+    "updated_at": "2025-06-21",
     "version": "HEAD-ab8f06a-240929T093505"
   },
   {
@@ -13734,6 +14023,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7d5426c-250303T100350"
+  },
+  {
+    "description": "Storage orchestrator for containers",
+    "name": "chwrap",
+    "pkg_id": "chwrap#github.com_NetApp_trident",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-6e3969e-250620T211427"
   },
   {
     "description": "Changelog generator : use a git repository and various data sources and publish the result on external services",
@@ -14067,6 +14369,19 @@
     "version": "HEAD-8c770b7-250618T184628"
   },
   {
+    "description": "No Description Provided",
+    "name": "clean-home",
+    "pkg_id": "clean-home#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
+  },
+  {
     "description": "A report card for your Go application",
     "name": "clean-repos",
     "pkg_id": "clean-repos#github.com_gojp_goreportcard",
@@ -14270,6 +14585,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7f13dd7-230830T164321"
+  },
+  {
+    "description": "Go microservice tutorial project using Domain Driven Design and Onion Architecture!",
+    "name": "cli",
+    "pkg_id": "cli#github.com_MarioCarrion_todo_api_microservice_example",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-86010f9-250618T232028"
   },
   {
     "description": "NordVPN Linux client",
@@ -14744,6 +15072,19 @@
     "version": "HEAD-1e611f4-250121T142615"
   },
   {
+    "description": "ClickHouse SQL Parser writing in Go",
+    "name": "clickhouse-sql-parser",
+    "pkg_id": "clickhouse-sql-parser#github.com_AfterShip_clickhouse_sql_parser",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-3da35a0-250621T000001"
+  },
+  {
     "description": "The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",
     "name": "clidoc",
     "pkg_id": "clidoc#github.com_ory_hydra",
@@ -14883,6 +15224,16 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-110b335-240702T110853"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "client",
+    "pkg_id": "client#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "Microservice framework following best cloud practices with a focus on productivity.",
@@ -15565,6 +15916,18 @@
     "version": "HEAD-167bc6b-240420T105458"
   },
   {
+    "description": "An active monitoring software to detect failures before your customers do.",
+    "name": "cloudprober",
+    "pkg_id": "cloudprober#github.com_cloudprober_cloudprober",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-11183f6-250621T090841"
+  },
+  {
     "description": "The developer first cloud governance platform",
     "name": "cloudquery",
     "pkg_id": "cloudquery#github.com_cloudquery_cloudquery",
@@ -15678,6 +16041,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-8c770b7-250618T184628"
+  },
+  {
+    "description": "The Kamaji Control Plane provider implementation of the Cluster Management API",
+    "name": "cluster-api-control-plane-provider-kamaji",
+    "pkg_id": "cluster-api-control-plane-provider-kamaji#github.com_clastix_cluster_api_control_plane_provider_kamaji",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-b15172c-250620T202941"
   },
   {
     "description": "No Description Provided",
@@ -15991,6 +16367,18 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-82b1b76-250619T112611"
+  },
+  {
+    "description": "An active monitoring software to detect failures before your customers do.",
+    "name": "cmd",
+    "pkg_id": "cmd#github.com_cloudprober_cloudprober",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-11183f6-250621T090841"
   },
   {
     "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.",
@@ -16739,6 +17127,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4aed31f-220928T085728"
+  },
+  {
+    "description": "Code generator for AWS Controllers for Kubernetes",
+    "name": "code-generator",
+    "pkg_id": "code-generator#github.com_aws_controllers_k8s_code_generator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-a488d4e-250620T224646"
   },
   {
     "description": "A faster file programming language detector",
@@ -18628,6 +19029,19 @@
     "version": "HEAD-63403c2-250620T095851"
   },
   {
+    "description": "AKS Karpenter Provider",
+    "name": "controller",
+    "pkg_id": "controller#github.com_Azure_karpenter_provider_azure",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-2f245bb-250620T174955"
+  },
+  {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
     "name": "controller",
     "pkg_id": "controller#github.com_aws_karpenter_provider_aws",
@@ -18966,6 +19380,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d82cebe-250619T133630"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "copytest",
+    "pkg_id": "copytest#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "A wrapper for integrating the OWASP Coraza WAF with HAProxy_s SPOE filters.",
@@ -19401,6 +19825,36 @@
     "version": "HEAD-6e4cc38-250615T075130"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "cp_node",
+    "pkg_id": "cp_node#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "cp_reducing_starter",
+    "pkg_id": "cp_reducing_starter#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "cp_sharding_starter",
+    "pkg_id": "cp_sharding_starter#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "⚡️ SharePoint SDK for Go",
     "name": "cpass",
     "pkg_id": "cpass#github.com_koltyakov_gosip",
@@ -19412,6 +19866,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-504bd0d-250409T083605"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "cpipes_server",
+    "pkg_id": "cpipes_server#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "CPU feature identification for Go",
@@ -20089,6 +20553,18 @@
     "version": "HEAD-ce886f1-250620T085950"
   },
   {
+    "description": "A Kubernetes CSI plugin to automatically mount SPIFFE certificates to Pods using ephemeral volumes",
+    "name": "csi",
+    "pkg_id": "csi#github.com_cert_manager_csi_driver_spiffe",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-763eda7-250620T163711"
+  },
+  {
     "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
     "name": "csi",
     "pkg_id": "csi#github.com_fluid_cloudnative_fluid",
@@ -20126,6 +20602,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-8816325-250619T114017"
+  },
+  {
+    "description": "Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes",
+    "name": "csi-driver",
+    "pkg_id": "csi-driver#github.com_hetznercloud_csi_driver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-7897f70-250620T154403"
   },
   {
     "description": "The Google Cloud Storage FUSE Container Storage Interface _CSI_ Plugin.",
@@ -22495,6 +22984,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-c1a3bfb-200427T120907"
+  },
+  {
+    "description": "Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites",
+    "name": "development",
+    "pkg_id": "development#github.com_JasonLovesDoggo_caddy_defender",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-aa75f3e-250620T181725"
   },
   {
     "description": "simple golang-based distributed network monitoring",
@@ -26383,6 +26885,19 @@
     "version": "HEAD-9d7e97e-250513T084824"
   },
   {
+    "description": "No Description Provided",
+    "name": "emf-generator",
+    "pkg_id": "emf-generator#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
+  },
+  {
     "description": "The Social Web Toolkit",
     "name": "emissary",
     "pkg_id": "emissary#github.com_EmissarySocial_emissary",
@@ -26521,6 +27036,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-1ceef5a-250317T213959"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "encodingtest",
+    "pkg_id": "encodingtest#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
@@ -28308,6 +28833,18 @@
     "version": "HEAD-cb7c677-240524T084506"
   },
   {
+    "description": "An active monitoring software to detect failures before your customers do.",
+    "name": "external",
+    "pkg_id": "external#github.com_cloudprober_cloudprober",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-11183f6-250621T090841"
+  },
+  {
     "description": "No Description Provided",
     "name": "external-dns",
     "pkg_id": "external-dns#github.com_kubernetes_sigs_external_dns.git",
@@ -28859,6 +29396,19 @@
     "version": "HEAD-6d5c2c1-250611T183501"
   },
   {
+    "description": "An all-in-one scraper/downloader for Fansly written in go with the aid of A.I. Download content, Record lives, and Interact with post from your favorite creators. Available as standalone binaries for all platforms.",
+    "name": "fansly-scraper",
+    "pkg_id": "fansly-scraper#github.com_agnosto_fansly_scraper",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-9224b85-250620T141137"
+  },
+  {
     "description": "The New Yet another Readline for Go",
     "name": "farmer",
     "pkg_id": "farmer#github.com_nyaosorg_go_readline_ny",
@@ -29331,6 +29881,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-afd6905-250619T161351"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "file-serve",
+    "pkg_id": "file-serve#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "Swagger 2.0 implementation for go",
@@ -30219,6 +30782,19 @@
     "version": "HEAD-1e37b85-240818T135358"
   },
   {
+    "description": "Manage Infrastructure as Code with less pain.",
+    "name": "fogg",
+    "pkg_id": "fogg#github.com_chanzuckerberg_fogg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-774cec1-250620T103241"
+  },
+  {
     "description": "Go Language Library for SVG generation",
     "name": "fontcompare",
     "pkg_id": "fontcompare#github.com_ajstarks_svgo",
@@ -30835,6 +31411,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-31e7332-250516T145611"
+  },
+  {
+    "description": "Fulmine is a Bitcoin wallet daemon that integrates Ark protocol_s batched transaction model with Lightning Network infrastructure, enabling routing nodes, service providers and payment hubs to optimize channel liquidity while minimizing on-chain fees, without compromising on self-custody.",
+    "name": "fulmine",
+    "pkg_id": "fulmine#github.com_ArkLabsHQ_fulmine",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-7f64d42-250620T173538"
   },
   {
     "description": "No Description Provided",
@@ -31462,7 +32051,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-20",
+    "updated_at": "2025-06-21",
     "version": "HEAD-79cb631-220316T095925"
   },
   {
@@ -31977,6 +32566,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-8a5c9ee-250619T201909"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "gce_workload_cert_refresh",
+    "pkg_id": "gce_workload_cert_refresh#github.com_GoogleCloudPlatform_guest_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-369a8ee-250620T215812"
   },
   {
     "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
@@ -32604,7 +33206,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
-    "version": "HEAD-dc7b22b-250619T113149"
+    "version": "HEAD-d4efe0b-250620T155544"
   },
   {
     "description": "Read only mirror of https://gitlab.com/gitlab-org/cli",
@@ -33642,6 +34244,16 @@
     "version": "HEAD-1bbe984-250620T133346"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "generate_cert",
+    "pkg_id": "generate_cert#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "Connect, secure, control, and observe services.",
     "name": "generate_cert",
     "pkg_id": "generate_cert#github.com_istio_istio",
@@ -33860,6 +34472,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-96ffe3f-250620T084954"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "generator",
+    "pkg_id": "generator#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
   },
   {
     "description": "World_s most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
@@ -35536,7 +36161,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
-    "version": "HEAD-dc7b22b-250619T113149"
+    "version": "HEAD-d4efe0b-250620T155544"
   },
   {
     "description": "Save public github event stream to ClickHouse as raw json",
@@ -35929,6 +36554,19 @@
     "version": "HEAD-7daaa3e-250222T221623"
   },
   {
+    "description": "No Description Provided",
+    "name": "git-board",
+    "pkg_id": "git-board#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
+  },
+  {
     "description": "Git extension for versioning large files",
     "name": "git-lfs",
     "pkg_id": "git-lfs#github.com_git_lfs_git_lfs",
@@ -35992,6 +36630,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-0629661-250211T232252"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "git-readdir",
+    "pkg_id": "git-readdir#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "Git command implemented in pure Go",
@@ -36331,6 +36982,19 @@
     "version": "HEAD-2bfdf12-230328T174704"
   },
   {
+    "description": "Migrate GitHub Repository to Gitea Platform using Golang",
+    "name": "github2gitea",
+    "pkg_id": "github2gitea#github.com_appleboy_github2gitea",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-71aafe6-250621T103442"
+  },
+  {
     "description": "Quickly find all identities someone has used on their Github commits",
     "name": "githubid",
     "pkg_id": "githubid#github.com_beescuit_githubid",
@@ -36431,6 +37095,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-7b5b8eb-250618T232758"
+  },
+  {
+    "description": "GitOps Environment Promotion tool that lets you focus on the _what,_ not the _how_",
+    "name": "gitops-promoter",
+    "pkg_id": "gitops-promoter#github.com_argoproj_labs_gitops_promoter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-f833472-250620T202909"
   },
   {
     "description": "💊 A git query language",
@@ -39794,6 +40471,45 @@
     "version": "HEAD-56b482f-250618T155603"
   },
   {
+    "description": "No Description Provided",
+    "name": "google_authorized_keys",
+    "pkg_id": "google_authorized_keys#github.com_GoogleCloudPlatform_guest_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-369a8ee-250620T215812"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "google_guest_agent",
+    "pkg_id": "google_guest_agent#github.com_GoogleCloudPlatform_guest_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-369a8ee-250620T215812"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "google_metadata_script_runner",
+    "pkg_id": "google_metadata_script_runner#github.com_GoogleCloudPlatform_guest_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-369a8ee-250620T215812"
+  },
+  {
     "description": "This script is used to find the fastest IP for a given site such as Google Translate, Cloudflare, GitHub, etc.",
     "name": "google_translate",
     "pkg_id": "google_translate#github.com_csyezheng_ip_scanner",
@@ -40128,6 +40844,19 @@
     "version": "HEAD-2a4af8e-250606T151820"
   },
   {
+    "description": "Go orm _ migrations generator + query builder _",
+    "name": "gormite",
+    "pkg_id": "gormite#github.com_KoNekoD_gormite",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-23ef392-250620T214349"
+  },
+  {
     "description": "Go efficient multilingual NLP and text segmentation_ support English, Chinese, Japanese and others.",
     "name": "goroutines",
     "pkg_id": "goroutines#github.com_go_ego_gse",
@@ -40373,6 +41102,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-3915337-250618T225220"
+  },
+  {
+    "description": "Fetch the wallpaper from Bing, Unsplash, etc.",
+    "name": "gosimac",
+    "pkg_id": "gosimac#github.com_1995parham_gosimac",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c53e251-250620T221426"
   },
   {
     "description": "Go source code for Bluesky_s atproto services.",
@@ -40720,6 +41462,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-84508c7-250619T072249"
+  },
+  {
+    "description": "Go implementation of the Cardano Ouroboros family of protocols",
+    "name": "gouroboros",
+    "pkg_id": "gouroboros#github.com_blinklabs_io_gouroboros",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-b275c23-250620T220251"
   },
   {
     "description": "Use a custom domain in your Go import path",
@@ -41709,6 +42464,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-01d41a6-250618T210806"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "gui",
+    "pkg_id": "gui#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "A tool for glamorous shell scripts 🎀",
@@ -44210,6 +44978,16 @@
     "version": "HEAD-3b9c47b-250417T102442"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "httptest",
+    "pkg_id": "httptest#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
     "name": "hub",
     "pkg_id": "hub#github.com_glasskube_distr",
@@ -44336,6 +45114,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fce5031-250618T101727"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "hunterx",
+    "pkg_id": "hunterx#github.com_7estUser_HunterX",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d614d85-250621T105058"
   },
   {
     "description": "This repo contains the material for the Practical Go class.",
@@ -45086,6 +45877,19 @@
     "version": "HEAD-d9eb1d7-250617T113522"
   },
   {
+    "description": "Public repository for the Gazelle C++ extension",
+    "name": "indexer",
+    "pkg_id": "indexer#github.com_EngFlow_gazelle_cc",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-f31308c-250620T111305"
+  },
+  {
     "description": "🌐 Indexer for modular data availability network Celestia",
     "name": "indexer",
     "pkg_id": "indexer#github.com_celenium_io_celestia_indexer",
@@ -45599,6 +46403,19 @@
     "version": "HEAD-d8b1345-250619T162700"
   },
   {
+    "description": "No Description Provided",
+    "name": "install",
+    "pkg_id": "install#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
+  },
+  {
     "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
     "name": "install",
     "pkg_id": "install#github.com_kumahq_kuma",
@@ -45648,6 +46465,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-746f746-250303T124049"
+  },
+  {
+    "description": "AKS Karpenter Provider",
+    "name": "instancetype_testdata_gen",
+    "pkg_id": "instancetype_testdata_gen#github.com_Azure_karpenter_provider_azure",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-2f245bb-250620T174955"
   },
   {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
@@ -46152,6 +46982,19 @@
     "version": "HEAD-4db2169-250619T103040"
   },
   {
+    "description": "cli tool to patch IPAs and their plugins, fixing problems with the share sheet, widgets, VPNs, etc",
+    "name": "ipapatch",
+    "pkg_id": "ipapatch#github.com_asdfzxcvbn_ipapatch",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-1460ae6-250620T182540"
+  },
+  {
     "description": "Command-line tool that allows searching and downloading app packages _known as ipa files_ from the iOS App Store",
     "name": "ipatool",
     "pkg_id": "ipatool#github.com_majd_ipatool",
@@ -46627,6 +47470,18 @@
     "version": "HEAD-519778a-250620T154525"
   },
   {
+    "description": "istio-csr is an agent that allows for Istio workload and control plane components to be secured using cert-manager.",
+    "name": "istio-csr",
+    "pkg_id": "istio-csr#github.com_cert_manager_istio_csr",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-0662535-250620T163112"
+  },
+  {
     "description": "No Description Provided",
     "name": "istio-router-check",
     "pkg_id": "istio-router-check#github.com_getyourguide_istio_config_validator",
@@ -46871,6 +47726,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b8183a7-250619T121932"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "jetstore_one",
+    "pkg_id": "jetstore_one#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. _Project under CNCF_",
@@ -47206,6 +48071,19 @@
     "version": "HEAD-76fafe6-240406T002055"
   },
   {
+    "description": "No Description Provided",
+    "name": "json-indent",
+    "pkg_id": "json-indent#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
+  },
+  {
     "description": "Interactive viewer for JSON logs.",
     "name": "json-log-viewer",
     "pkg_id": "json-log-viewer#github.com_hedhyw_json_log_viewer",
@@ -47398,6 +48276,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7382730-240812T110943"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "jsontest",
+    "pkg_id": "jsontest#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "jsubfinder searches webpages for javascript _ analyzes them for hidden subdomains and secrets _wip_.",
@@ -48692,6 +49580,19 @@
     "version": "HEAD-5e8f9d9-250507T095641"
   },
   {
+    "description": "No Description Provided",
+    "name": "kitchen-time",
+    "pkg_id": "kitchen-time#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
+  },
+  {
     "description": "Go RPC framework with high-performance and strong-extensibility for building micro-services.",
     "name": "kitex",
     "pkg_id": "kitex#github.com_cloudwego_kitex",
@@ -49866,6 +50767,19 @@
     "version": "HEAD-9de503e-250619T161022"
   },
   {
+    "description": "graphql backend for laisky-blog",
+    "name": "laisky-blog-graphql",
+    "pkg_id": "laisky-blog-graphql#github.com_Laisky_laisky_blog_graphql",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-1e13b10-250620T191125"
+  },
+  {
     "description": "lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理系统。An admin api system with gin,  JWT and RBAC.",
     "name": "lakego-admin",
     "pkg_id": "lakego-admin#github.com_deatil_lakego_admin",
@@ -49926,6 +50840,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-48578a3-250618T212157"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "lambdas",
+    "pkg_id": "lambdas#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "The CLI tool to search AWS Lambda runtime and versions across regions.",
@@ -50083,6 +51007,19 @@
     "version": "HEAD-393ac0d-241207T225124"
   },
   {
+    "description": "On-Demand Minecraft Server running on ECS_Fargate_ and deployed via CDK _Go_",
+    "name": "launcher",
+    "pkg_id": "launcher#github.com_cbrgm_cdk_on_demand_minecraft_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-413124a-250620T204723"
+  },
+  {
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "name": "launcher",
     "pkg_id": "launcher#github.com_hashicorp_nomad",
@@ -50107,6 +51044,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a2195fb-250618T122130"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "laundry",
+    "pkg_id": "laundry#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "A non-POSIX compliant C dialect written in Go",
@@ -51075,6 +52025,32 @@
     "version": "HEAD-c22068d-250108T155727"
   },
   {
+    "description": "LinK is not Keepalived - Virtual IP manager backed by etcd",
+    "name": "link",
+    "pkg_id": "link#github.com_Scalingo_link",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c46ad40-250620T185521"
+  },
+  {
+    "description": "LinK is not Keepalived - Virtual IP manager backed by etcd",
+    "name": "link-client",
+    "pkg_id": "link-client#github.com_Scalingo_link",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c46ad40-250620T185521"
+  },
+  {
     "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
     "name": "linkerd2-cli",
     "pkg_id": "linkerd2-cli#github.com_linkerd_linkerd2",
@@ -51876,6 +52852,16 @@
     "version": "HEAD-0f44f8b-250620T102309"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "loader",
+    "pkg_id": "loader#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "Couchbase client in Go",
     "name": "loadfile",
     "pkg_id": "loadfile#github.com_couchbase_go_couchbase",
@@ -51887,6 +52873,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-959eaf9-220209T222054"
+  },
+  {
+    "description": "local-csi-driver provides access to local NVMe storage from Kubernetes",
+    "name": "local-csi-driver",
+    "pkg_id": "local-csi-driver#github.com_Azure_local_csi_driver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-cfc991b-250620T095425"
   },
   {
     "description": "Hwameistor is an HA local storage system for cloud-native stateful workloads.",
@@ -51951,6 +52950,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d19e56e-250620T102335"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "local_test_driver",
+    "pkg_id": "local_test_driver#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "Kubernetes audit logging, when you don_t control the control plane",
@@ -52031,6 +53040,19 @@
     "version": "HEAD-26cf26d-250620T101907"
   },
   {
+    "description": "No Description Provided",
+    "name": "log-generator",
+    "pkg_id": "log-generator#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
+  },
+  {
     "description": "ADX-Mon - Azure Data Explorer based observability platform",
     "name": "log-load",
     "pkg_id": "log-load#github.com_Azure_adx_mon",
@@ -52107,6 +53129,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-ed4b7ce-250612T103718"
+  },
+  {
+    "description": "On-Demand Minecraft Server running on ECS_Fargate_ and deployed via CDK _Go_",
+    "name": "logforwarder",
+    "pkg_id": "logforwarder#github.com_cbrgm_cdk_on_demand_minecraft_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-413124a-250620T204723"
   },
   {
     "description": "Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation",
@@ -55868,6 +56903,19 @@
     "version": "HEAD-babaa69-250609T221257"
   },
   {
+    "description": "No Description Provided",
+    "name": "mitmproxy-cert",
+    "pkg_id": "mitmproxy-cert#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
+  },
+  {
     "description": "Small init system with templated config files_ to be used as container entrypoint",
     "name": "mittnite",
     "pkg_id": "mittnite#github.com_mittwald_mittnite",
@@ -57302,6 +58350,19 @@
   },
   {
     "description": "No Description Provided",
+    "name": "msiversion",
+    "pkg_id": "msiversion#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
+  },
+  {
+    "description": "No Description Provided",
     "name": "mt_receive_adapter",
     "pkg_id": "mt_receive_adapter#github.com_knative_extensions_eventing_github.git",
     "targets": [
@@ -57737,6 +58798,18 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-11111ed-250620T125105"
+  },
+  {
+    "description": "An active monitoring software to detect failures before your customers do.",
+    "name": "myprober",
+    "pkg_id": "myprober#github.com_cloudprober_cloudprober",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-11183f6-250621T090841"
   },
   {
     "description": "Fully featured Go _golang_ command line option parser with built-in auto-completion support.",
@@ -58270,6 +59343,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-d685a7d-250608T005639"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "net-http",
+    "pkg_id": "net-http#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "simple golang-based distributed network monitoring",
@@ -58873,6 +59959,16 @@
     "version": "HEAD-cc0909e-250618T220919"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "node",
+    "pkg_id": "node#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.",
     "name": "node",
     "pkg_id": "node#github.com_cometbft_cometbft",
@@ -58908,6 +60004,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-7b227fa-250620T112332"
+  },
+  {
+    "description": "Storage orchestrator for containers",
+    "name": "node_prep",
+    "pkg_id": "node_prep#github.com_NetApp_trident",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-6e3969e-250620T211427"
   },
   {
     "description": "Use your on-premises and edge infrastructure as nodes in EKS clusters with EKS Hybrid Nodes",
@@ -59614,6 +60723,17 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-6324d2a-250618T142838"
+  },
+  {
+    "description": "A TUI for monitoring Cardano nodes",
+    "name": "nview",
+    "pkg_id": "nview#github.com_blinklabs_io_nview",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-985ea97-250620T165932"
   },
   {
     "description": "Build and run containers leveraging NVIDIA GPUs",
@@ -60412,6 +61532,19 @@
     "version": "HEAD-e09cbf2-250620T000153"
   },
   {
+    "description": "Go microservice tutorial project using Domain Driven Design and Onion Architecture!",
+    "name": "openapi-gen",
+    "pkg_id": "openapi-gen#github.com_MarioCarrion_todo_api_microservice_example",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-86010f9-250618T232028"
+  },
+  {
     "description": "Examples and demonstrations for using the Eino framework",
     "name": "openapi3",
     "pkg_id": "openapi3#github.com_cloudwego_eino_examples",
@@ -60627,6 +61760,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7d25272-250619T194919"
+  },
+  {
+    "description": "Storage orchestrator for containers",
+    "name": "operator",
+    "pkg_id": "operator#github.com_NetApp_trident",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-6e3969e-250620T211427"
   },
   {
     "description": "Facilitator of attraction and distribution of external traffic within Kubernetes via secondary networks",
@@ -61798,6 +62944,26 @@
     "version": "HEAD-bec9da5-250620T143114"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "parquetschema",
+    "pkg_id": "parquetschema#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "parquettest",
+    "pkg_id": "parquettest#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere.",
     "name": "parse",
     "pkg_id": "parse#github.com_cogentcore_core",
@@ -62000,6 +63166,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e3aebf2-240619T133939"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "password",
+    "pkg_id": "password#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "Quantum randomness source using the ANU hardware QRNG",
@@ -63415,6 +64594,18 @@
     "version": "HEAD-142b9b4-250619T135307"
   },
   {
+    "description": "Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.",
+    "name": "plugin",
+    "pkg_id": "plugin#github.com_ava_labs_coreth",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-0058a7e-250620T163936"
+  },
+  {
     "description": "Mount Kubernetes PVs locally using SSHFS",
     "name": "plugin",
     "pkg_id": "plugin#github.com_fenio_pv_mounter",
@@ -63476,6 +64667,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-e716c2d-250620T135931"
+  },
+  {
+    "description": "CloudQuery Go SDK for source and destination plugins",
+    "name": "plugin-sdk",
+    "pkg_id": "plugin-sdk#github.com_cloudquery_plugin_sdk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d220f63-250621T011643"
   },
   {
     "description": "an advanced reverse proxy server written in Go",
@@ -64214,6 +65418,26 @@
     "version": "HEAD-504bd0d-250409T083605"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "pqarrow_json_test",
+    "pkg_id": "pqarrow_json_test#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "pqarrow_test",
+    "pkg_id": "pqarrow_test#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "Test infrastructure for the Kubernetes project.",
     "name": "pr-creator",
     "pkg_id": "pr-creator#github.com_kubernetes_test_infra",
@@ -64339,6 +65563,45 @@
     "version": "HEAD-029cd91-171219T203541"
   },
   {
+    "description": "No Description Provided",
+    "name": "prepare",
+    "pkg_id": "prepare#github.com_cloudfoundry_csb_brokerpak_aws",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-432d79c-250621T035204"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "prepare",
+    "pkg_id": "prepare#github.com_cloudfoundry_csb_brokerpak_azure",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-541bfc7-250620T192800"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "prepare",
+    "pkg_id": "prepare#github.com_cloudfoundry_csb_brokerpak_gcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-7221e20-250620T192424"
+  },
+  {
     "description": "WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends",
     "name": "prepare-release",
     "pkg_id": "prepare-release#github.com_cs3org_reva",
@@ -64442,6 +65705,19 @@
     "version": "HEAD-1e37b85-240818T135358"
   },
   {
+    "description": "📊 Presentations from the CNCF community to share and reuse",
+    "name": "presentations",
+    "pkg_id": "presentations#github.com_cncf_presentations",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-1ed192d-250620T115051"
+  },
+  {
     "description": "OCI Runtime Tools",
     "name": "prestart",
     "pkg_id": "prestart#github.com_opencontainers_runtime_tools",
@@ -64492,6 +65768,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-7403598-250620T145151"
+  },
+  {
+    "description": "AKS Karpenter Provider",
+    "name": "prices_gen",
+    "pkg_id": "prices_gen#github.com_Azure_karpenter_provider_azure",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-2f245bb-250620T174955"
   },
   {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
@@ -64802,6 +66091,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0ea5ed0-250523T160157"
+  },
+  {
+    "description": "Procyon is a powerful http web framework written in Go. _Build your application fast_.",
+    "name": "procyon",
+    "pkg_id": "procyon#github.com_codnect_procyon",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-93d6f10-250621T001526"
   },
   {
     "description": "Hyperscale OpenShift - clusters with hosted control planes",
@@ -66279,6 +67581,26 @@
     "version": "HEAD-bc1a52f-250407T144134"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "purge_data",
+    "pkg_id": "purge_data#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "purge_database",
+    "pkg_id": "purge_database#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "Streamlining Text Processing",
     "name": "purl",
     "pkg_id": "purl#github.com_catatsuy_purl",
@@ -67129,6 +68451,19 @@
     "version": "HEAD-173fab5-231130T180410"
   },
   {
+    "description": "Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites",
+    "name": "ranges",
+    "pkg_id": "ranges#github.com_JasonLovesDoggo_caddy_defender",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-aa75f3e-250620T181725"
+  },
+  {
     "description": "Little Bug Bounty _ Hacking Tools⚔️",
     "name": "rapwp",
     "pkg_id": "rapwp#github.com_edoardottt_lit_bb_hack_tools",
@@ -67813,6 +69148,19 @@
     "version": "HEAD-97c3010-250515T234009"
   },
   {
+    "description": "Redmine-cli is a CLI tool for interacting with the Redmine project management system. It allows you to perform tasks such as managing issues and listing projects from the command line, streamlining workflow and saving time.",
+    "name": "redmine-cli",
+    "pkg_id": "redmine-cli#github.com_MrJeffLarry_redmine_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-3a7a94f-250620T213707"
+  },
+  {
     "description": "Redress - A tool for analyzing stripped Go binaries",
     "name": "redress",
     "pkg_id": "redress#github.com_goretk_redress",
@@ -67931,6 +69279,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "20250620T154534"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "register_keys_v2",
+    "pkg_id": "register_keys_v2#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "European Wallet",
@@ -68976,6 +70334,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d4062fa-250620T105136"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "resources",
+    "pkg_id": "resources#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
   },
   {
     "description": "The Fabric Smart Client is a new Fabric Client that lets you focus on the business processes and simplifies the development of Fabric-based distributed application.",
@@ -70034,6 +71405,16 @@
     "version": "HEAD-32c7548-250609T165921"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "rotate_secret",
+    "pkg_id": "rotate_secret#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "利用fofa搜索socks5开放代理进行代理池轮切的工具",
     "name": "rotateproxy",
     "pkg_id": "rotateproxy#github.com_akkuman_rotateproxy",
@@ -70395,6 +71776,16 @@
     "version": "HEAD-9217ab1-250619T155040"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "run_reports",
+    "pkg_id": "run_reports#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "The snapd and snap tools enable systems to work with .snap files.",
     "name": "runas-1",
     "pkg_id": "runas-1#github.com_canonical_snapd",
@@ -70659,6 +72050,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-566b4d0-250120T170247"
+  },
+  {
+    "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "name": "s-ui",
+    "pkg_id": "s-ui#github.com_alireza0_s_ui",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-a109504-250527T215458"
   },
   {
     "description": "Optimized Go Compression Packages",
@@ -71722,7 +73126,7 @@
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-21",
-    "version": "HEAD-dc7b22b-250619T113149"
+    "version": "HEAD-d4efe0b-250620T155544"
   },
   {
     "description": "Common interface to CouchDB or CouchDB-like databases for Go and GopherJS",
@@ -72929,6 +74333,16 @@
     "version": "HEAD-3288cb7-250619T131152"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "server",
+    "pkg_id": "server#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "Universal goroutine monitor using pprof and termui",
     "name": "server",
     "pkg_id": "server#github.com_becheran_roumon",
@@ -73412,6 +74826,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-81669b4-241206T141018"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "serverv2",
+    "pkg_id": "serverv2#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "Azure Container Networking Solutions for Linux and Windows Containers",
@@ -75308,6 +76732,16 @@
     "version": "HEAD-c0ab52c-250529T171219"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "snappy",
+    "pkg_id": "snappy#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "The Snappy compression format in the Go programming language.",
     "name": "snappy",
     "pkg_id": "snappy#github.com_golang_snappy",
@@ -76326,6 +77760,16 @@
     "version": "HEAD-e7929d2-250618T200933"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "sqs_register_keys",
+    "pkg_id": "sqs_register_keys#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "A library to interact with Squashfs archives. Currently only has support for reading, but writing archives will probably come eventually.",
     "name": "squashfs",
     "pkg_id": "squashfs#github.com_CalebQ42_squashfs",
@@ -77279,6 +78723,19 @@
     "version": "HEAD-adbaf11-250620T132352"
   },
   {
+    "description": "No Description Provided",
+    "name": "statsd-generator",
+    "pkg_id": "statsd-generator#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
+  },
+  {
     "description": "StatsHouse is a highly available, scalable, multitenant monitoring system",
     "name": "statshouse-example",
     "pkg_id": "statshouse-example#github.com_VKCOM_statshouse",
@@ -77303,6 +78760,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-bc799ba-250620T030952"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "status_update",
+    "pkg_id": "status_update#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "Statusbar for linux window manager written with golang",
@@ -77629,6 +79096,19 @@
     "version": "HEAD-228e6f4-240717T185645"
   },
   {
+    "description": "Companion for Stremio.",
+    "name": "stremthru",
+    "pkg_id": "stremthru#github.com_MunifTanjim_stremthru",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-f0b211b-250617T021008"
+  },
+  {
     "description": "Golang driver for ClickHouse",
     "name": "stress",
     "pkg_id": "stress#github.com_ClickHouse_clickhouse_go",
@@ -77911,6 +79391,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-aa6399d-231205T214613"
+  },
+  {
+    "description": "Terminal user interface for Slurm HPC clusters",
+    "name": "stui",
+    "pkg_id": "stui#github.com_Antvirf_stui",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-a758928-250621T100235"
   },
   {
     "description": "Fast RFC 5389 STUN implementation in go",
@@ -78785,6 +80278,19 @@
     "version": "HEAD-bee550c-250619T152729"
   },
   {
+    "description": "Storage orchestrator for containers",
+    "name": "syswrap",
+    "pkg_id": "syswrap#github.com_NetApp_trident",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-6e3969e-250620T211427"
+  },
+  {
     "description": "high-performance graph database for real-time use cases",
     "name": "t",
     "pkg_id": "t#github.com_hypermodeinc_dgraph",
@@ -78989,6 +80495,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-4b87659-250620T142927"
+  },
+  {
+    "description": "Go 微服务框架 Kratos（Bilibili开源）最佳实践。封装常用工具，以满足实际开发工作中的需求，提升开发效率。",
+    "name": "task",
+    "pkg_id": "task#github.com_EchoGroot_kratos_examples",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-f41fbe1-250621T114056"
   },
   {
     "description": "A task runner / simpler Make alternative written in Go",
@@ -80242,6 +81761,19 @@
     "version": "HEAD-ec951ae-250619T123648"
   },
   {
+    "description": "A Terraform provider for Materialize",
+    "name": "terraform-provider-materialize",
+    "pkg_id": "terraform-provider-materialize#github.com_MaterializeInc_terraform_provider_materialize",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c859223-250620T192929"
+  },
+  {
     "description": "A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 _ MS Graph beta API_s. Built upon the terraform provider framework and MS kiota generated graph sdk_s in go.",
     "name": "terraform-provider-microsoft365",
     "pkg_id": "terraform-provider-microsoft365#github.com_deploymenttheory_terraform_provider_microsoft365",
@@ -81419,6 +82951,16 @@
     "version": "HEAD-ef46bea-250619T183844"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "tests",
+    "pkg_id": "tests#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
     "name": "tests",
     "pkg_id": "tests#github.com_gojue_ecapture",
@@ -82061,6 +83603,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-6e4cc38-250615T075130"
+  },
+  {
+    "description": "Timeleap is a distributed computing platform that allows you to run your applications on a global network of computers. It is designed to be fast, secure, and scalable.",
+    "name": "timeleap",
+    "pkg_id": "timeleap#github.com_TimeleapLabs_timeleap",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-f4148aa-250620T220420"
   },
   {
     "description": "A _sleep_ with progress",
@@ -82999,6 +84554,19 @@
     "version": "HEAD-fccde9f-250618T123007"
   },
   {
+    "description": "No Description Provided",
+    "name": "touch",
+    "pkg_id": "touch#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
+  },
+  {
     "description": "Aerospike Client Go",
     "name": "touch",
     "pkg_id": "touch#github.com_aerospike_aerospike_client_go",
@@ -83424,6 +84992,32 @@
     "version": "HEAD-b6e154c-250620T085406"
   },
   {
+    "description": "Storage orchestrator for containers",
+    "name": "trident",
+    "pkg_id": "trident#github.com_NetApp_trident",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-6e3969e-250620T211427"
+  },
+  {
+    "description": "Storage orchestrator for containers",
+    "name": "trident-cli",
+    "pkg_id": "trident-cli#github.com_NetApp_trident",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-6e3969e-250620T211427"
+  },
+  {
     "description": "Packages and utilities for network booting",
     "name": "trigger_docker_build",
     "pkg_id": "trigger_docker_build#github.com_danderson_netboot",
@@ -83701,6 +85295,19 @@
     "version": "HEAD-8718b71-250619T141136"
   },
   {
+    "description": "3-2-1 backup and sync",
+    "name": "tto",
+    "pkg_id": "tto#github.com_ctomkow_tto",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-177561d-250620T141057"
+  },
+  {
     "description": "Share your terminal as a web application in bind/reverse mode",
     "name": "tty2web",
     "pkg_id": "tty2web#github.com_kost_tty2web",
@@ -83942,6 +85549,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-eb4c451-250620T181219"
+  },
+  {
+    "description": "Go implementation of the Cardano Ouroboros family of protocols",
+    "name": "tx-submission",
+    "pkg_id": "tx-submission#github.com_blinklabs_io_gouroboros",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-b275c23-250620T220251"
+  },
+  {
+    "description": "Cardano Transaction Submit API service",
+    "name": "tx-submit-api",
+    "pkg_id": "tx-submit-api#github.com_blinklabs_io_tx_submit_api",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-2dc7bbe-250620T165757"
   },
   {
     "description": "Cordial Systems abstraction over blockchains",
@@ -84571,6 +86204,16 @@
     "version": "HEAD-0df0534-250301T125049"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "unsnappy",
+    "pkg_id": "unsnappy#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "Staticcheck - The advanced Go linter",
     "name": "unused",
     "pkg_id": "unused#github.com_dominikh_go_tools",
@@ -84683,6 +86326,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-56b482f-250618T155603"
+  },
+  {
+    "description": "Official MCP Server for Buildkite.",
+    "name": "update-docs",
+    "pkg_id": "update-docs#github.com_buildkite_buildkite_mcp_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-2fce8d2-250621T111853"
   },
   {
     "description": "Mirror _ Please open new issues in our issue tracker on GitLab.com",
@@ -84798,6 +86454,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-16f243b-250619T121714"
+  },
+  {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "update_db",
+    "pkg_id": "update_db#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
   },
   {
     "description": "Gazelle plugin for Swift files.",
@@ -85224,6 +86890,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-afd6905-250619T161351"
+  },
+  {
+    "description": "Golnag microservice-template by DDD",
+    "name": "user",
+    "pkg_id": "user#github.com_batazor_microservice_template_ddd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-8860966-250621T023313"
   },
   {
     "description": "No Description Provided",
@@ -85868,6 +87547,19 @@
     "version": "HEAD-559d02b-250619T121245"
   },
   {
+    "description": "No Description Provided",
+    "name": "validator",
+    "pkg_id": "validator#github.com_aws_amazon_cloudwatch_agent_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-d5e515a-250620T164648"
+  },
+  {
     "description": "Command line tool to validate INI syntax of input file.",
     "name": "validini",
     "pkg_id": "validini#github.com_martinlindhe_validini",
@@ -86243,6 +87935,45 @@
     "version": "HEAD-2241316-250617T232504"
   },
   {
+    "description": "No Description Provided",
+    "name": "versions",
+    "pkg_id": "versions#github.com_cloudfoundry_csb_brokerpak_aws",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-432d79c-250621T035204"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "versions",
+    "pkg_id": "versions#github.com_cloudfoundry_csb_brokerpak_azure",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-541bfc7-250620T192800"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "versions",
+    "pkg_id": "versions#github.com_cloudfoundry_csb_brokerpak_gcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-7221e20-250620T192424"
+  },
+  {
     "description": "Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs",
     "name": "vertical",
     "pkg_id": "vertical#github.com_NimbleMarkets_ntcharts",
@@ -86440,6 +88171,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-27f1c1a-250619T011045"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "video-to-image",
+    "pkg_id": "video-to-image#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "[BCC Media] Website and backend for the BCC Media apps",
@@ -86659,6 +88403,32 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-604194a-250512T160801"
+  },
+  {
+    "description": "LinK is not Keepalived - Virtual IP manager backed by etcd",
+    "name": "visualize",
+    "pkg_id": "visualize#github.com_Scalingo_link",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-c46ad40-250620T185521"
+  },
+  {
+    "description": "Extended performance metrics",
+    "name": "visus",
+    "pkg_id": "visus#github.com_cockroachlabs_visus",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-0fabcde-250620T143057"
   },
   {
     "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
@@ -87946,6 +89716,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-fd2add7-161121T153524"
+  },
+  {
+    "description": "On-Demand Minecraft Server running on ECS_Fargate_ and deployed via CDK _Go_",
+    "name": "watchdog",
+    "pkg_id": "watchdog#github.com_cbrgm_cdk_on_demand_minecraft_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-413124a-250620T204723"
   },
   {
     "description": "A simple command line notebook for programmers",
@@ -90120,6 +91903,16 @@
     "version": "HEAD-0e234a0-250611T151918"
   },
   {
+    "description": "JetStore Compute Analytic Platform",
+    "name": "xlsxreader",
+    "pkg_id": "xlsxreader#github.com_artisoft_io_jetstore",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-91505ec-250620T164345"
+  },
+  {
     "description": "AIStore: scalable storage for AI applications",
     "name": "xmeta",
     "pkg_id": "xmeta#github.com_NVIDIA_aistore",
@@ -90543,6 +92336,19 @@
     "version": "HEAD-6b851f9-240911T115302"
   },
   {
+    "description": "🐳 Build OCI images for Bentos in k8s",
+    "name": "yatai-image-builder",
+    "pkg_id": "yatai-image-builder#github.com_bentoml_yatai_image_builder",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-a781a5d-250620T161910"
+  },
+  {
     "description": "9p fs that serves mutex for inter-program synchronization over network",
     "name": "yates",
     "pkg_id": "yates#github.com_LoupLobet_yates",
@@ -90554,6 +92360,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-2961a39-241219T003324"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "year",
+    "pkg_id": "year#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "Антиспам для групп, при входе нового участника в группу бот задает вопрос, если ответа нет, участник блокируется",
@@ -90671,6 +92490,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-45565ac-250506T130307"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "youtube-views",
+    "pkg_id": "youtube-views#github.com_3052_blog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-21",
+    "version": "HEAD-bcc7d3b-250620T155508"
   },
   {
     "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",
