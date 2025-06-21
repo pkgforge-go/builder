@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "upstream",
+  "pkg_family": "go-control-plane",
+  "pkg_id": "upstream#github.com_envoyproxy_go_control_plane",
+  "pkg_name": "upstream",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/envoyproxy/go-control-plane",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of data-plane-api",
+  "homepage": [
+    "https://github.com/envoyproxy/go-control-plane"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "main",
+    "upstream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/envoyproxy/go-control-plane/archive/740324d5338b2fb1d47eb2d41cd2ccfe59d4417c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-740324d-250621T105040",
+  "version_upstream": "",
+  "bsum": "fd6479f90a0d862f2ca3eb29e45abb4b53e741519636c8202117c1dd5957ea25",
+  "build_date": "2025-06-21T22:09:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799885763",
+  "build_id": "15799885763",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/go-control-plane/upstream?tag=HEAD-740324d-250621T105040-riscv64-Linux&download=upstream.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1609",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/go-control-plane/upstream?tag=HEAD-740324d-250621T105040-riscv64-Linux&download=upstream",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/go-control-plane/upstream:HEAD-740324d-250621T105040-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/envoyproxy/go-control-plane/upstream",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/go-control-plane/upstream?tag=HEAD-740324d-250621T105040-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f9c9c724e2eabe9bd0ffd72441e1b58a4c09613605675b9146a5dff4a762d4b",
+  "size": "5.6 MB",
+  "size_raw": "5787320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
