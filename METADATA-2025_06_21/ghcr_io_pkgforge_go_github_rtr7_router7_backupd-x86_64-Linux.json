@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "backupd",
+  "pkg_family": "router7",
+  "pkg_id": "backupd#github.com_rtr7_router7",
+  "pkg_name": "backupd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rtr7/router7",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.",
+  "homepage": [
+    "https://github.com/rtr7/router7"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backupd",
+    "captured",
+    "dhcp4",
+    "dhcp4d",
+    "dhcp6",
+    "diagd",
+    "dnsd",
+    "dyndns",
+    "netconfigd",
+    "radvd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rtr7/router7/archive/52826d60114dccb9bf7f476f0440ff9d6c096147.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "homelab",
+    "networking"
+  ],
+  "version": "HEAD-52826d6-250417T162712",
+  "version_upstream": "",
+  "bsum": "34583a1469c18351e6dc6058c31d4f337d6e3b987f5feaea873cc53850fcf071",
+  "build_date": "2025-06-21T14:36:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796421104",
+  "build_id": "15796421104",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/backupd?tag=HEAD-52826d6-250417T162712-x86_64-Linux&download=backupd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2712",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/backupd?tag=HEAD-52826d6-250417T162712-x86_64-Linux&download=backupd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtr7/router7/backupd:HEAD-52826d6-250417T162712-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtr7/router7/backupd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/backupd?tag=HEAD-52826d6-250417T162712-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b847437dba5477cf8cf96545f5a283b6ac9846655c94c710b6730c9f8eef16b",
+  "size": "7.6 MB",
+  "size_raw": "7897632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
