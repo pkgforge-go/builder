@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mkpaqfs",
+  "pkg_family": "disktools",
+  "pkg_id": "mkpaqfs#github.com_qeedquan_disktools",
+  "pkg_name": "mkpaqfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qeedquan/disktools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Disk tools",
+  "homepage": [
+    "https://github.com/qeedquan/disktools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "diskinfo",
+    "fatimg",
+    "fdtdump",
+    "fspdump",
+    "mkpaqfs",
+    "sar",
+    "tpmtooldump",
+    "uimagedump",
+    "xilinxbootdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/qeedquan/disktools/archive/759cef86a1ee13d404c166740775c5584cabf143.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-759cef8-240117T135942",
+  "version_upstream": "",
+  "bsum": "1d49ed502ae185094dd9adb7e22371f0ba38d9d47e1640494bd99a09be0fec8d",
+  "build_date": "2025-06-21T12:18:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795326475",
+  "build_id": "15795326475",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/mkpaqfs?tag=HEAD-759cef8-240117T135942-aarch64-Linux&download=mkpaqfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/mkpaqfs?tag=HEAD-759cef8-240117T135942-aarch64-Linux&download=mkpaqfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qeedquan/disktools/mkpaqfs:HEAD-759cef8-240117T135942-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qeedquan/disktools/mkpaqfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/mkpaqfs?tag=HEAD-759cef8-240117T135942-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9b6d7cf79a822c42c904af68a808a4a383c66fa4d10ab33c2bead3b92daf6dd",
+  "size": "2.1 MB",
+  "size_raw": "2127104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

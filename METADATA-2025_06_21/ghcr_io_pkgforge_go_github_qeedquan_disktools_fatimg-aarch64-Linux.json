@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fatimg",
+  "pkg_family": "disktools",
+  "pkg_id": "fatimg#github.com_qeedquan_disktools",
+  "pkg_name": "fatimg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qeedquan/disktools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Disk tools",
+  "homepage": [
+    "https://github.com/qeedquan/disktools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "diskinfo",
+    "fatimg",
+    "fdtdump",
+    "fspdump",
+    "mkpaqfs",
+    "sar",
+    "tpmtooldump",
+    "uimagedump",
+    "xilinxbootdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/qeedquan/disktools/archive/759cef86a1ee13d404c166740775c5584cabf143.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-759cef8-240117T135942",
+  "version_upstream": "",
+  "bsum": "94110e3df9f8c225f9f5925817014a69fe57014544cda526396f18053b75b70f",
+  "build_date": "2025-06-21T12:19:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795326475",
+  "build_id": "15795326475",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/fatimg?tag=HEAD-759cef8-240117T135942-aarch64-Linux&download=fatimg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/fatimg?tag=HEAD-759cef8-240117T135942-aarch64-Linux&download=fatimg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qeedquan/disktools/fatimg:HEAD-759cef8-240117T135942-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qeedquan/disktools/fatimg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/fatimg?tag=HEAD-759cef8-240117T135942-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a788817d605d44de89d367841a192c373f6d1c0ad94fa70ad8a77e69a10171f7",
+  "size": "1.8 MB",
+  "size_raw": "1861208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
