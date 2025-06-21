@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "machine-config-daemon",
+  "pkg_family": "machine-config-operator",
+  "pkg_id": "machine-config-daemon#github.com_openshift_machine_config_operator",
+  "pkg_name": "machine-config-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/machine-config-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openshift/machine-config-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver-watcher",
+    "machine-config-daemon",
+    "machine-config-operator",
+    "machine-config-server",
+    "machine-os-builder",
+    "mcdiff",
+    "mco-builder",
+    "mco-push",
+    "onclustertesting",
+    "run-on-all-nodes",
+    "wait-for-mcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/machine-config-operator/archive/7177bf1f52fd3e6e5667a827f1060a015a8e4b71.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7177bf1-250621T130306",
+  "version_upstream": "",
+  "bsum": "20afeead1c5288428a7ceb34ddbc360f3c6be2ece7b625eb97d5e4099569dd28",
+  "build_date": "2025-06-21T23:05:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800115703",
+  "build_id": "15800115703",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/machine-config-daemon?tag=HEAD-7177bf1-250621T130306-riscv64-Linux&download=machine-config-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/machine-config-daemon?tag=HEAD-7177bf1-250621T130306-riscv64-Linux&download=machine-config-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/machine-config-operator/machine-config-daemon:HEAD-7177bf1-250621T130306-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/machine-config-operator/machine-config-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/machine-config-daemon?tag=HEAD-7177bf1-250621T130306-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cff8c9b43dfbeddd7a9154b882d079a10145045abae180349a6fb520e5d0ec03",
+  "size": "76 MB",
+  "size_raw": "78727936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
