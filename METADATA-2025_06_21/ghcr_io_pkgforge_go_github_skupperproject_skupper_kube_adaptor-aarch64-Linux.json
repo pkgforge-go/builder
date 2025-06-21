@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kube-adaptor",
+  "pkg_family": "skupper",
+  "pkg_id": "kube-adaptor#github.com_skupperproject_skupper",
+  "pkg_name": "kube-adaptor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/skupperproject/skupper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.",
+  "homepage": [
+    "https://github.com/skupperproject/skupper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "generate-doc",
+    "kube-adaptor",
+    "network-observer",
+    "skupper",
+    "system-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/skupperproject/skupper/archive/6a81e6f62c06217642aa5172b7a4b6408d208aa4.tar.gz"
+  ],
+  "tag": [
+    "skupper"
+  ],
+  "version": "HEAD-6a81e6f-250618T114000",
+  "version_upstream": "",
+  "bsum": "5d731e142815b562e7aec51d7e77f01b2b05d951a2100eb1e84169cb883a545a",
+  "build_date": "2025-06-21T23:43:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800503460",
+  "build_id": "15800503460",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/kube-adaptor?tag=HEAD-6a81e6f-250618T114000-aarch64-Linux&download=kube-adaptor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "638",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/kube-adaptor?tag=HEAD-6a81e6f-250618T114000-aarch64-Linux&download=kube-adaptor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skupperproject/skupper/kube-adaptor:HEAD-6a81e6f-250618T114000-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skupperproject/skupper/kube-adaptor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/kube-adaptor?tag=HEAD-6a81e6f-250618T114000-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "769de15c6cf51a28a9d1fb6b23fece45a8fe3c544f8a96bd820c5ae5b97b381d",
+  "size": "50 MB",
+  "size_raw": "51639392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
