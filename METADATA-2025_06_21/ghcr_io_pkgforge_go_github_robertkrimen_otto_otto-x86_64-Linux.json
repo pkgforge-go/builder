@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "otto",
+  "pkg_family": "otto",
+  "pkg_id": "otto#github.com_robertkrimen_otto",
+  "pkg_name": "otto",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/robertkrimen/otto",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A JavaScript interpreter in Go _golang_",
+  "homepage": [
+    "https://github.com/robertkrimen/otto"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-jscore",
+    "gen-tokens",
+    "otto",
+    "tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/robertkrimen/otto/archive/3ca729876b8973d2faeb6f25d1c8e7dd6580063a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3ca7298-250613T170831",
+  "version_upstream": "",
+  "bsum": "696b0e813165824e73c0ab1c270e5b6d0f8bb53a7b6f61d3dcb2f498aa41983c",
+  "build_date": "2025-06-21T14:16:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796325124",
+  "build_id": "15796325124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robertkrimen/otto/otto?tag=HEAD-3ca7298-250613T170831-x86_64-Linux&download=otto.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8319",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robertkrimen/otto/otto?tag=HEAD-3ca7298-250613T170831-x86_64-Linux&download=otto",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/robertkrimen/otto/otto:HEAD-3ca7298-250613T170831-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/robertkrimen/otto/otto",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robertkrimen/otto/otto?tag=HEAD-3ca7298-250613T170831-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f598595720be64afaabbe74f8c53cc77b28679ad1989b100ff697f2d00bef820",
+  "size": "5.2 MB",
+  "size_raw": "5421208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
