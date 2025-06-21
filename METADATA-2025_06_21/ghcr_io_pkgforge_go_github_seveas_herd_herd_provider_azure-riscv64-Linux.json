@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "herd-provider-azure",
+  "pkg_family": "herd",
+  "pkg_id": "herd-provider-azure#github.com_seveas_herd",
+  "pkg_name": "herd-provider-azure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/seveas/herd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Massively parallel ssh client",
+  "homepage": [
+    "https://github.com/seveas/herd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "herd",
+    "herd-provider-aws",
+    "herd-provider-azure",
+    "herd-provider-consul",
+    "herd-provider-example",
+    "herd-provider-google",
+    "herd-provider-prometheus",
+    "herd-provider-puppet",
+    "herd-provider-tailscale",
+    "herd-provider-transip"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/seveas/herd/archive/65f95f8a43a143914ae4988fe2bb0c62f70b8afc.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "orchestration",
+    "sre",
+    "ssh",
+    "sysadmin",
+    "system-administration"
+  ],
+  "version": "HEAD-65f95f8-250410T001920",
+  "version_upstream": "",
+  "bsum": "1dbf4555ddc347f6e4b65e6d7623ad742c5aa0c56eabcdaa32053205db92c33d",
+  "build_date": "2025-06-21T15:38:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796827959",
+  "build_id": "15796827959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-azure?tag=HEAD-65f95f8-250410T001920-riscv64-Linux&download=herd-provider-azure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-azure?tag=HEAD-65f95f8-250410T001920-riscv64-Linux&download=herd-provider-azure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seveas/herd/herd-provider-azure:HEAD-65f95f8-250410T001920-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/seveas/herd/herd-provider-azure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-azure?tag=HEAD-65f95f8-250410T001920-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c0b2f07088012977c784e167391831425c5b8be8a52f665e9f3063636ab1f91c",
+  "size": "16 MB",
+  "size_raw": "16713592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
