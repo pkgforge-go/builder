@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "goauth2client",
+  "pkg_family": "osin",
+  "pkg_id": "goauth2client#github.com_openshift_osin",
+  "pkg_name": "goauth2client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/osin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang OAuth2 server library",
+  "homepage": [
+    "https://github.com/openshift/osin"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "complete",
+    "goauth2client",
+    "jwttoken",
+    "openidconnect",
+    "osincliclient",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/osin/archive/0f4d38c6e53fa6b5631fb3942222a9238e8e1be9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0f4d38c-220317T035346",
+  "version_upstream": "",
+  "bsum": "56de25ca4b81ae776dda161ae2d4264240a3eb2f4ff9d9f445d1d6f9ed4cee56",
+  "build_date": "2025-06-21T03:47:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791246390",
+  "build_id": "15791246390",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/goauth2client?tag=HEAD-0f4d38c-220317T035346-aarch64-Linux&download=goauth2client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1927",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/goauth2client?tag=HEAD-0f4d38c-220317T035346-aarch64-Linux&download=goauth2client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/osin/goauth2client:HEAD-0f4d38c-220317T035346-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/osin/goauth2client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/goauth2client?tag=HEAD-0f4d38c-220317T035346-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba8a7412b6c7d0045a54dde60911e48541a60e4145d294a9c0105390cc9b57f3",
+  "size": "6.7 MB",
+  "size_raw": "6958272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
