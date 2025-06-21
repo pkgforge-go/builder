@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "go-mysql-server",
+  "pkg_id": "generate#github.com_dolthub_go_mysql_server",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dolthub/go-mysql-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.",
+  "homepage": [
+    "https://github.com/dolthub/go-mysql-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "convert",
+    "generate",
+    "optgen",
+    "plangen",
+    "scriptgen",
+    "sqllogictest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dolthub/go-mysql-server/archive/02707261435133e86bc628f7c4cba055cc96a92a.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "mysql",
+    "mysql-server",
+    "query-engine",
+    "relational-database",
+    "sql",
+    "sql-engine",
+    "sql-server"
+  ],
+  "version": "HEAD-0270726-250620T173137",
+  "version_upstream": "",
+  "bsum": "201d288f397858cd83e7901ee02a4f3e588a3a47cd8d1490c9b0cebfe31aa1a4",
+  "build_date": "2025-06-21T07:58:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793194031",
+  "build_id": "15793194031",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/go-mysql-server/generate?tag=HEAD-0270726-250620T173137-aarch64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2467",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/go-mysql-server/generate?tag=HEAD-0270726-250620T173137-aarch64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dolthub/go-mysql-server/generate:HEAD-0270726-250620T173137-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dolthub/go-mysql-server/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/go-mysql-server/generate?tag=HEAD-0270726-250620T173137-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "290a69cd981f9aef840f7a2200c03bb39756ce619cce7cf5652a46bab820566e",
+  "size": "23 MB",
+  "size_raw": "23311352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
