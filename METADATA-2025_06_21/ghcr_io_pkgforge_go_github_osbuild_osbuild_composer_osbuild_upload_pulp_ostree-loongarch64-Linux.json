@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "osbuild-upload-pulp-ostree",
+  "pkg_family": "osbuild-composer",
+  "pkg_id": "osbuild-upload-pulp-ostree#github.com_osbuild_osbuild_composer",
+  "pkg_name": "osbuild-upload-pulp-ostree",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/osbuild-composer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An HTTP service for building bootable OS images.",
+  "homepage": [
+    "https://github.com/osbuild/osbuild-composer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock-dnf-json",
+    "osbuild-jobsite-builder",
+    "osbuild-jobsite-manager",
+    "osbuild-mock-openid-provider",
+    "osbuild-service-maintenance",
+    "osbuild-upload-aws",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci",
+    "osbuild-upload-pulp-ostree",
+    "osbuild-worker-executor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/osbuild-composer/archive/c4430ffa7a9b24bc74014d6033d71803db6af65c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c4430ff-250620T125517",
+  "version_upstream": "",
+  "bsum": "5f2c7b6555f85025194a533ed5209a154cd1398edde5b87e4449d59e9b4ef42a",
+  "build_date": "2025-06-21T04:36:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791375669",
+  "build_id": "15791375669",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-pulp-ostree?tag=HEAD-c4430ff-250620T125517-loongarch64-Linux&download=osbuild-upload-pulp-ostree.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "182",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-pulp-ostree?tag=HEAD-c4430ff-250620T125517-loongarch64-Linux&download=osbuild-upload-pulp-ostree",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-pulp-ostree:HEAD-c4430ff-250620T125517-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-pulp-ostree",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-pulp-ostree?tag=HEAD-c4430ff-250620T125517-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aae52991b69b59d7647ff490c246ba74fb16d11f4373d4fb6e68fdcb73d252f8",
+  "size": "6.9 MB",
+  "size_raw": "7202112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
