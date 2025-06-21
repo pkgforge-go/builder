@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "sriov-network-operator",
+  "pkg_id": "webhook#github.com_openshift_sriov_network_operator",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/sriov-network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SR-IOV Network Operator",
+  "homepage": [
+    "https://github.com/openshift/sriov-network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sriov-network-config-daemon",
+    "sriov-network-operator",
+    "sriov-network-operator-config-cleanup",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/sriov-network-operator/archive/061a63d8e12780c25b4c929d933b631d17a3fc26.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-061a63d-250620T073634",
+  "version_upstream": "",
+  "bsum": "e03220a0d1a1e6eb77401106a7a37b748c56a025b8183748d5daf1436246ec2b",
+  "build_date": "2025-06-21T03:58:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791258928",
+  "build_id": "15791258928",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-network-operator/webhook?tag=HEAD-061a63d-250620T073634-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-network-operator/webhook?tag=HEAD-061a63d-250620T073634-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/sriov-network-operator/webhook:HEAD-061a63d-250620T073634-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/sriov-network-operator/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-network-operator/webhook?tag=HEAD-061a63d-250620T073634-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f1fcb4973d6a20560477fb11b67e72d027c9fcca9025498e57f060b65e255bc",
+  "size": "59 MB",
+  "size_raw": "61285272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
