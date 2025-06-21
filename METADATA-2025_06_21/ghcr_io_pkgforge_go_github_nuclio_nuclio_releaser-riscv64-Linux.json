@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "releaser",
+  "pkg_family": "nuclio",
+  "pkg_id": "releaser#github.com_nuclio_nuclio",
+  "pkg_name": "releaser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nuclio/nuclio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-Performance Serverless event and data processing platform",
+  "homepage": [
+    "https://github.com/nuclio/nuclio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscaler",
+    "benchmark",
+    "controller",
+    "dashboard",
+    "dlx",
+    "generator",
+    "nuctl",
+    "processor",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nuclio/nuclio/archive/4b9e1dc861f1418dd4c7655544d296caa3eb09e9.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "faas",
+    "faas-platform",
+    "functions",
+    "go",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-4b9e1dc-250620T205715",
+  "version_upstream": "",
+  "bsum": "767cf544508bac6c57775118db88ce5128860e825979122d816fb163ac97da93",
+  "build_date": "2025-06-21T09:50:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794160939",
+  "build_id": "15794160939",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/releaser?tag=HEAD-4b9e1dc-250620T205715-riscv64-Linux&download=releaser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/releaser?tag=HEAD-4b9e1dc-250620T205715-riscv64-Linux&download=releaser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nuclio/nuclio/releaser:HEAD-4b9e1dc-250620T205715-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nuclio/nuclio/releaser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/releaser?tag=HEAD-4b9e1dc-250620T205715-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "daa5e095283b3bd4ece21c427ae88e549948a13c2ac2f19cb050bd5882edeb6f",
+  "size": "35 MB",
+  "size_raw": "36379352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
