@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sriov-network-config-daemon",
+  "pkg_family": "sriov-network-operator",
+  "pkg_id": "sriov-network-config-daemon#github.com_openshift_sriov_network_operator",
+  "pkg_name": "sriov-network-config-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/sriov-network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SR-IOV Network Operator",
+  "homepage": [
+    "https://github.com/openshift/sriov-network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sriov-network-config-daemon",
+    "sriov-network-operator",
+    "sriov-network-operator-config-cleanup",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/sriov-network-operator/archive/061a63d8e12780c25b4c929d933b631d17a3fc26.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-061a63d-250620T073634",
+  "version_upstream": "",
+  "bsum": "04de87cffd392e6c9c55e2a5c41f66b1b1885ec8d23a6578164b1cd52d37add4",
+  "build_date": "2025-06-21T03:58:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791258928",
+  "build_id": "15791258928",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-network-operator/sriov-network-config-daemon?tag=HEAD-061a63d-250620T073634-loongarch64-Linux&download=sriov-network-config-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-network-operator/sriov-network-config-daemon?tag=HEAD-061a63d-250620T073634-loongarch64-Linux&download=sriov-network-config-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/sriov-network-operator/sriov-network-config-daemon:HEAD-061a63d-250620T073634-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/sriov-network-operator/sriov-network-config-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-network-operator/sriov-network-config-daemon?tag=HEAD-061a63d-250620T073634-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c22769bdf1d67a2f9390ed091b27ececf727cb56c2bd055d02732ce8becc81d2",
+  "size": "65 MB",
+  "size_raw": "67352832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
