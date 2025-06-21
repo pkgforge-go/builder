@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cluster-deploy",
+  "pkg_family": "ocs-operator",
+  "pkg_id": "cluster-deploy#github.com_red_hat_storage_ocs_operator",
+  "pkg_name": "cluster-deploy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/red-hat-storage/ocs-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for RHOCS",
+  "homepage": [
+    "https://github.com/red-hat-storage/ocs-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-deploy",
+    "csv-merger",
+    "ocs-operator",
+    "onboarding-validation-keys-generator",
+    "provider",
+    "ux-backend"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/red-hat-storage/ocs-operator/archive/7c5a7e6d5bacecbd4db89f4a5bdbf2434e40742b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7c5a7e6-250620T162737",
+  "version_upstream": "",
+  "bsum": "335877d1f2b921f0650cc7082abd360a628bc8be1894e5af75fcba95172dc973",
+  "build_date": "2025-06-21T13:25:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795909486",
+  "build_id": "15795909486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/cluster-deploy?tag=HEAD-7c5a7e6-250620T162737-x86_64-Linux&download=cluster-deploy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/cluster-deploy?tag=HEAD-7c5a7e6-250620T162737-x86_64-Linux&download=cluster-deploy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/red-hat-storage/ocs-operator/cluster-deploy:HEAD-7c5a7e6-250620T162737-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/red-hat-storage/ocs-operator/cluster-deploy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/cluster-deploy?tag=HEAD-7c5a7e6-250620T162737-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bad9ec8473c0ce6f77a42fb096806dcb291318fd441f6a97095dcc4f6df6c64e",
+  "size": "46 MB",
+  "size_raw": "47943840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
