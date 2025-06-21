@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prepare-release",
+  "pkg_family": "restic",
+  "pkg_id": "prepare-release#github.com_restic_restic",
+  "pkg_name": "prepare-release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/restic/restic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast, secure, efficient backup program",
+  "homepage": [
+    "https://github.com/restic/restic"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-release-binaries",
+    "prepare-release",
+    "restic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/restic/restic/archive/7d39b1bfe853be8102bba6c4d18f8dfa5fa3ce7d.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "dedupe",
+    "deduplication",
+    "go",
+    "restic",
+    "secure-by-default"
+  ],
+  "version": "HEAD-7d39b1b-250602T184004",
+  "version_upstream": "",
+  "bsum": "c268e7bf118380c74af1e0722daa2d44c8e52baa2034aec5b2980930c53e91b0",
+  "build_date": "2025-06-21T13:50:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795942114",
+  "build_id": "15795942114",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/restic/restic/prepare-release?tag=HEAD-7d39b1b-250602T184004-x86_64-Linux&download=prepare-release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29045",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/restic/restic/prepare-release?tag=HEAD-7d39b1b-250602T184004-x86_64-Linux&download=prepare-release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/restic/restic/prepare-release:HEAD-7d39b1b-250602T184004-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/restic/restic/prepare-release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/restic/restic/prepare-release?tag=HEAD-7d39b1b-250602T184004-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1725f6ea02dd8d864e1253acc616546a29dc62e086b17a3259dc29760609d10c",
+  "size": "2.6 MB",
+  "size_raw": "2624536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
