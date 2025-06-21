@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "proxyblob",
+  "pkg_id": "proxy#github.com_quarkslab_proxyblob",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quarkslab/proxyblob",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SOCKS5 proxy tool that uses Azure Blob Storage as a means of communication.",
+  "homepage": [
+    "https://github.com/quarkslab/proxyblob"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quarkslab/proxyblob/archive/d148bc3198fc01b405bc4aa7e0dc7b78ffccbdfe.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d148bc3-250429T141318",
+  "version_upstream": "",
+  "bsum": "876ec8c731c2b2677001f773aec79254a6c7b243999cedb8e9b1f8ccdcb800c8",
+  "build_date": "2025-06-21T12:24:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795368286",
+  "build_id": "15795368286",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quarkslab/proxyblob/proxy?tag=HEAD-d148bc3-250429T141318-riscv64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "211",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quarkslab/proxyblob/proxy?tag=HEAD-d148bc3-250429T141318-riscv64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quarkslab/proxyblob/proxy:HEAD-d148bc3-250429T141318-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quarkslab/proxyblob/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quarkslab/proxyblob/proxy?tag=HEAD-d148bc3-250429T141318-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "220b346947e1adb3c1ed87badeb5acf5bd6766f2d6ce5fff6a5642127e8064a4",
+  "size": "8.2 MB",
+  "size_raw": "8509336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
