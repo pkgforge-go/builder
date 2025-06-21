@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rootlesskit-docker-proxy",
+  "pkg_family": "rootlesskit",
+  "pkg_id": "rootlesskit-docker-proxy#github.com_rootless_containers_rootlesskit",
+  "pkg_name": "rootlesskit-docker-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rootless-containers/rootlesskit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux-native _fake root_ for implementing rootless containers",
+  "homepage": [
+    "https://github.com/rootless-containers/rootlesskit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rootlessctl",
+    "rootlesskit",
+    "rootlesskit-docker-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rootless-containers/rootlesskit/archive/790f0e1bbbff15f2e91e78a47002648e031676e0.tar.gz"
+  ],
+  "tag": [
+    "rootless-containers"
+  ],
+  "version": "HEAD-790f0e1-250613T032400",
+  "version_upstream": "",
+  "bsum": "01791b5ad63135b3f45d37f50547eec676c26a0859c0d4d82d92011c76fd02db",
+  "build_date": "2025-06-21T14:27:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796399478",
+  "build_id": "15796399478",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rootless-containers/rootlesskit/rootlesskit-docker-proxy?tag=HEAD-790f0e1-250613T032400-x86_64-Linux&download=rootlesskit-docker-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1089",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rootless-containers/rootlesskit/rootlesskit-docker-proxy?tag=HEAD-790f0e1-250613T032400-x86_64-Linux&download=rootlesskit-docker-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rootless-containers/rootlesskit/rootlesskit-docker-proxy:HEAD-790f0e1-250613T032400-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rootless-containers/rootlesskit/rootlesskit-docker-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rootless-containers/rootlesskit/rootlesskit-docker-proxy?tag=HEAD-790f0e1-250613T032400-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9e4a8f3477d41f800c2feed0b085f17aa3b63a4632a86389f552b75808afe967",
+  "size": "6.5 MB",
+  "size_raw": "6741280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
