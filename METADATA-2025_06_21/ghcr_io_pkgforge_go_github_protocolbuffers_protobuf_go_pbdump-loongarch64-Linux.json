@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pbdump",
+  "pkg_family": "protobuf-go",
+  "pkg_id": "pbdump#github.com_protocolbuffers_protobuf_go",
+  "pkg_name": "pbdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/protocolbuffers/protobuf-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go support for Google_s protocol buffers",
+  "homepage": [
+    "https://github.com/protocolbuffers/protobuf-go"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-corpus",
+    "generate-protos",
+    "generate-types",
+    "pbdump",
+    "protoc-gen-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/protocolbuffers/protobuf-go/archive/32018e9a48fe1fb3addef57cd8b745ade54fc0d7.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "protobufs",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-32018e9-250520T010729",
+  "version_upstream": "",
+  "bsum": "43d01063e78b73f271d0a9faa09f33fd75bca1af9fc9739a6682ab871f3f9976",
+  "build_date": "2025-06-21T12:04:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795211313",
+  "build_id": "15795211313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protocolbuffers/protobuf-go/pbdump?tag=HEAD-32018e9-250520T010729-loongarch64-Linux&download=pbdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protocolbuffers/protobuf-go/pbdump?tag=HEAD-32018e9-250520T010729-loongarch64-Linux&download=pbdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/protocolbuffers/protobuf-go/pbdump:HEAD-32018e9-250520T010729-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/protocolbuffers/protobuf-go/pbdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protocolbuffers/protobuf-go/pbdump?tag=HEAD-32018e9-250520T010729-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79ecf5ad5709ea6bcd2d61bef3887fec6cbd25a2e5b8f507925ccf670dadda9e",
+  "size": "4.2 MB",
+  "size_raw": "4305848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
