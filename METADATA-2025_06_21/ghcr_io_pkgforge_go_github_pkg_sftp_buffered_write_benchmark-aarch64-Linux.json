@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "buffered-write-benchmark",
+  "pkg_family": "sftp",
+  "pkg_id": "buffered-write-benchmark#github.com_pkg_sftp",
+  "pkg_name": "buffered-write-benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pkg/sftp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SFTP support for the go.crypto/ssh package",
+  "homepage": [
+    "https://github.com/pkg/sftp"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buffered-read-benchmark",
+    "buffered-write-benchmark",
+    "go-sftp-server",
+    "request-server",
+    "server_standalone",
+    "streaming-read-benchmark",
+    "streaming-write-benchmark"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pkg/sftp/archive/36ce9cfd5c257416ed074f58de17e3e6c2149857.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sftp"
+  ],
+  "version": "HEAD-36ce9cf-250328T214405",
+  "version_upstream": "",
+  "bsum": "e489db3f7b520a63742bf99ccbbfc37904820f2ffa2cc0819ef0980aec3b7186",
+  "build_date": "2025-06-21T10:54:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794663098",
+  "build_id": "15794663098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/buffered-write-benchmark?tag=HEAD-36ce9cf-250328T214405-aarch64-Linux&download=buffered-write-benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1582",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/buffered-write-benchmark?tag=HEAD-36ce9cf-250328T214405-aarch64-Linux&download=buffered-write-benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pkg/sftp/buffered-write-benchmark:HEAD-36ce9cf-250328T214405-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pkg/sftp/buffered-write-benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/buffered-write-benchmark?tag=HEAD-36ce9cf-250328T214405-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44408798edde68894161205c241e3335ef26b5fd1d50e00c70675d3c75a99326",
+  "size": "4.0 MB",
+  "size_raw": "4173312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

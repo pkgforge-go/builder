@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go-sftp-server",
+  "pkg_family": "sftp",
+  "pkg_id": "go-sftp-server#github.com_pkg_sftp",
+  "pkg_name": "go-sftp-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pkg/sftp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SFTP support for the go.crypto/ssh package",
+  "homepage": [
+    "https://github.com/pkg/sftp"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buffered-read-benchmark",
+    "buffered-write-benchmark",
+    "go-sftp-server",
+    "request-server",
+    "server_standalone",
+    "streaming-read-benchmark",
+    "streaming-write-benchmark"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pkg/sftp/archive/36ce9cfd5c257416ed074f58de17e3e6c2149857.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sftp"
+  ],
+  "version": "HEAD-36ce9cf-250328T214405",
+  "version_upstream": "",
+  "bsum": "8a16fa935fc9141962f62df5e7ccba486605297230f5b7a8c8718b29eb07da04",
+  "build_date": "2025-06-21T10:54:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794663098",
+  "build_id": "15794663098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/go-sftp-server?tag=HEAD-36ce9cf-250328T214405-aarch64-Linux&download=go-sftp-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1582",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/go-sftp-server?tag=HEAD-36ce9cf-250328T214405-aarch64-Linux&download=go-sftp-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pkg/sftp/go-sftp-server:HEAD-36ce9cf-250328T214405-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pkg/sftp/go-sftp-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/go-sftp-server?tag=HEAD-36ce9cf-250328T214405-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7355c7be9b9e0533c2e40bb7662af9fd399b8fd2d4c1fe9fe407e248d371983b",
+  "size": "4.5 MB",
+  "size_raw": "4626048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
