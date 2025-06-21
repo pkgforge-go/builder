@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nextbike",
+  "pkg_family": "kiel-live",
+  "pkg_id": "nextbike#github.com_kiel_live_kiel_live",
+  "pkg_name": "nextbike",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kiel-live/kiel-live",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This app allows you to view live updates of public transport.",
+  "homepage": [
+    "https://github.com/kiel-live/kiel-live"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ais",
+    "donkey",
+    "gtfs",
+    "kvg",
+    "nextbike"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kiel-live/kiel-live/archive/d75345dd33870e1ecf4d673f94b8d8cb8e80f453.tar.gz"
+  ],
+  "tag": [
+    "bus-arrivals",
+    "kiel",
+    "live",
+    "nodejs",
+    "opnv",
+    "public-transit",
+    "public-transport",
+    "public-transportation",
+    "pwa",
+    "vuejs"
+  ],
+  "version": "HEAD-d75345d-250621T031132",
+  "version_upstream": "",
+  "bsum": "bf34c287d58fb658d23bdb404c5e32bd69b170ef3f550dd643839f6a7603fe98",
+  "build_date": "2025-06-21T08:50:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793693158",
+  "build_id": "15793693158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/nextbike?tag=HEAD-d75345d-250621T031132-loongarch64-Linux&download=nextbike.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/nextbike?tag=HEAD-d75345d-250621T031132-loongarch64-Linux&download=nextbike",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kiel-live/kiel-live/nextbike:HEAD-d75345d-250621T031132-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kiel-live/kiel-live/nextbike",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/nextbike?tag=HEAD-d75345d-250621T031132-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0bb23ca0073025987e286ad0e79620a9f01f348d41d1f45be63cb50a2788514f",
+  "size": "7.2 MB",
+  "size_raw": "7527456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ais",
+  "pkg_family": "kiel-live",
+  "pkg_id": "ais#github.com_kiel_live_kiel_live",
+  "pkg_name": "ais",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kiel-live/kiel-live",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This app allows you to view live updates of public transport.",
+  "homepage": [
+    "https://github.com/kiel-live/kiel-live"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ais",
+    "donkey",
+    "gtfs",
+    "kvg",
+    "nextbike"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kiel-live/kiel-live/archive/d75345dd33870e1ecf4d673f94b8d8cb8e80f453.tar.gz"
+  ],
+  "tag": [
+    "bus-arrivals",
+    "kiel",
+    "live",
+    "nodejs",
+    "opnv",
+    "public-transit",
+    "public-transport",
+    "public-transportation",
+    "pwa",
+    "vuejs"
+  ],
+  "version": "HEAD-d75345d-250621T031132",
+  "version_upstream": "",
+  "bsum": "1d4d3018e31e697bdbad4d9c8f1eb212f84bf1798fe20539ea0b7e742b613dc5",
+  "build_date": "2025-06-21T08:50:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793693158",
+  "build_id": "15793693158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/ais?tag=HEAD-d75345d-250621T031132-loongarch64-Linux&download=ais.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/ais?tag=HEAD-d75345d-250621T031132-loongarch64-Linux&download=ais",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kiel-live/kiel-live/ais:HEAD-d75345d-250621T031132-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kiel-live/kiel-live/ais",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/ais?tag=HEAD-d75345d-250621T031132-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff62ad4b9bab33bb4f4bd1e3becf9b0f8fe2a7177f0a6a813b154b98f9746921",
+  "size": "6.8 MB",
+  "size_raw": "7107968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
