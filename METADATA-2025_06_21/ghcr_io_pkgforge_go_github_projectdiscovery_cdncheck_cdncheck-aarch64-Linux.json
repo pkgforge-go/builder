@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cdncheck",
+  "pkg_family": "cdncheck",
+  "pkg_id": "cdncheck#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "cdncheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/cdncheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address.",
+  "homepage": [
+    "https://github.com/projectdiscovery/cdncheck"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/cdncheck/archive/dbdc9660aaaae93d0243b22b86659446f17eb090.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cdn",
+    "cli",
+    "cname",
+    "detection",
+    "lib",
+    "technology"
+  ],
+  "version": "HEAD-dbdc966-250615T001226",
+  "version_upstream": "v1.1.23",
+  "bsum": "d74d3045392ccbad6ddd07971d58cd91aa15fa7424668d3b3b312b652390bc96",
+  "build_date": "2025-06-21T11:36:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794901609",
+  "build_id": "15794901609",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck?tag=HEAD-dbdc966-250615T001226-aarch64-Linux&download=cdncheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "843",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck?tag=HEAD-dbdc966-250615T001226-aarch64-Linux&download=cdncheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck:HEAD-dbdc966-250615T001226-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck?tag=HEAD-dbdc966-250615T001226-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "419c3ee044deef0fe6eb94561b1c22310f5c99bb00f67725427641f18a47e607",
+  "size": "23 MB",
+  "size_raw": "23588544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
