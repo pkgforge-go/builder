@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tls-resumption",
+  "pkg_family": "utls",
+  "pkg_id": "tls-resumption#github.com_refraction_networking_utls",
+  "pkg_name": "tls-resumption",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/refraction-networking/utls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.",
+  "homepage": [
+    "https://github.com/refraction-networking/utls"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ech",
+    "old",
+    "tls-resumption"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/refraction-networking/utls/archive/41ce3ba2c2d77d9d4b784e72ffa1841653acc525.tar.gz"
+  ],
+  "tag": [
+    "anticensorship",
+    "cipher-suites",
+    "clienthello",
+    "crypto",
+    "golang",
+    "handshake",
+    "low-level-tls",
+    "obfuscation",
+    "parrot",
+    "tls",
+    "tls-extension"
+  ],
+  "version": "HEAD-41ce3ba-250523T142334",
+  "version_upstream": "",
+  "bsum": "8cf7554df1544889e391da5e90fa775db96bd5283a364c4c7b917a89552ca59f",
+  "build_date": "2025-06-21T13:35:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795920136",
+  "build_id": "15795920136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/utls/tls-resumption?tag=HEAD-41ce3ba-250523T142334-x86_64-Linux&download=tls-resumption.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1938",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/utls/tls-resumption?tag=HEAD-41ce3ba-250523T142334-x86_64-Linux&download=tls-resumption",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/refraction-networking/utls/tls-resumption:HEAD-41ce3ba-250523T142334-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/refraction-networking/utls/tls-resumption",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/utls/tls-resumption?tag=HEAD-41ce3ba-250523T142334-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "00bc22a983fd36f21e6df24fa497a7203f673851edd3495c50d09cbf19fc155d",
+  "size": "6.8 MB",
+  "size_raw": "7077216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
