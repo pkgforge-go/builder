@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gh",
+  "pkg_family": "cli",
+  "pkg_id": "gh#github.com_cli_cli",
+  "pkg_name": "gh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cli/cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GitHub’s official command line tool",
+  "homepage": [
+    "https://github.com/cli/cli"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-docs",
+    "gh",
+    "script"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cli/cli/archive/dc7b22b65971f0937211bab26a7b00b2a26d2d83.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "git",
+    "github-api-v4",
+    "golang"
+  ],
+  "version": "HEAD-dc7b22b-250619T113149",
+  "version_upstream": "",
+  "bsum": "62757a53ced34b0f1102820c24bbe675ec32f58874959b80afa7b108bb99fcd2",
+  "build_date": "2025-06-21T02:37:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790960790",
+  "build_id": "15790960790",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gh?tag=HEAD-dc7b22b-250619T113149-x86_64-Linux&download=gh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39481",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gh?tag=HEAD-dc7b22b-250619T113149-x86_64-Linux&download=gh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cli/cli/gh:HEAD-dc7b22b-250619T113149-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cli/cli/gh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gh?tag=HEAD-dc7b22b-250619T113149-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc9110b33b58b79b4d98fb5f7d7c3a8083615f84c79c63cc3940e13073c0133b",
+  "size": "41 MB",
+  "size_raw": "42289264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dc7b22b-250619T113149-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
