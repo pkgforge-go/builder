@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goserver",
+  "pkg_family": "gobasic",
+  "pkg_id": "goserver#github.com_skx_gobasic",
+  "pkg_name": "goserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/skx/gobasic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A BASIC interpreter written in golang.",
+  "homepage": [
+    "https://github.com/skx/gobasic"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "embed",
+    "gobasic",
+    "goserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/skx/gobasic/archive/437b54e80e2a31627bbaf8797f600cc2de4f3e0c.tar.gz"
+  ],
+  "tag": [
+    "basic",
+    "golang",
+    "interpreted-programming-language",
+    "interpreter"
+  ],
+  "version": "HEAD-437b54e-240220T181635",
+  "version_upstream": "",
+  "bsum": "33115c089df67127de7f9968860633b738d409233d76a69cbd89b55d61688a02",
+  "build_date": "2025-06-21T23:39:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800549039",
+  "build_id": "15800549039",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skx/gobasic/goserver?tag=HEAD-437b54e-240220T181635-riscv64-Linux&download=goserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "336",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skx/gobasic/goserver?tag=HEAD-437b54e-240220T181635-riscv64-Linux&download=goserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skx/gobasic/goserver:HEAD-437b54e-240220T181635-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skx/gobasic/goserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skx/gobasic/goserver?tag=HEAD-437b54e-240220T181635-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cdbb22be51c498ed12a716d268ad84a69427e3420d7be805d644125866d4b11a",
+  "size": "6.3 MB",
+  "size_raw": "6533080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
