@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "docs-generator",
+  "pkg_family": "cluster-node-tuning-operator",
+  "pkg_id": "docs-generator#github.com_openshift_cluster_node_tuning_operator",
+  "pkg_name": "docs-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-node-tuning-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage node-level tuning by orchestrating the tuned daemon.",
+  "homepage": [
+    "https://github.com/openshift/cluster-node-tuning-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs-generator",
+    "gather-sysinfo",
+    "performance-profile-creator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-node-tuning-operator/archive/3f2fed34c5e1f83f49ba6def4ee375dfd4ec9da9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3f2fed3-250620T214729",
+  "version_upstream": "",
+  "bsum": "4685b3621df0993f95150faa2a7590cbe977548c23fa7584f23acb4178025ce5",
+  "build_date": "2025-06-21T10:05:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794438594",
+  "build_id": "15794438594",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/docs-generator?tag=HEAD-3f2fed3-250620T214729-x86_64-Linux&download=docs-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "109",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/docs-generator?tag=HEAD-3f2fed3-250620T214729-x86_64-Linux&download=docs-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-node-tuning-operator/docs-generator:HEAD-3f2fed3-250620T214729-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-node-tuning-operator/docs-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-node-tuning-operator/docs-generator?tag=HEAD-3f2fed3-250620T214729-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab2d42b142d63c845fa44d23931162b29cb4b6697150fdf97165cc291c08a8f5",
+  "size": "2.6 MB",
+  "size_raw": "2628728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
