@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dnstake",
+  "pkg_family": "dnstake",
+  "pkg_id": "dnstake#github.com_pwnesia_dnstake",
+  "pkg_name": "dnstake",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pwnesia/dnstake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover",
+  "homepage": [
+    "https://github.com/pwnesia/dnstake"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnstake"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pwnesia/dnstake/archive/3d9d96ef75139202fd25ba5c01292d8a94cd0682.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "go",
+    "golang",
+    "nameserver",
+    "subdomain",
+    "takeover",
+    "vulnerability"
+  ],
+  "version": "HEAD-3d9d96e-220524T103728",
+  "version_upstream": "",
+  "bsum": "070b32634014881aa63255278f82b0eb3992da14ccdf45679798df75b6698c35",
+  "build_date": "2025-06-21T12:15:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795318849",
+  "build_id": "15795318849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pwnesia/dnstake/dnstake?tag=HEAD-3d9d96e-220524T103728-riscv64-Linux&download=dnstake.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "846",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pwnesia/dnstake/dnstake?tag=HEAD-3d9d96e-220524T103728-riscv64-Linux&download=dnstake",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pwnesia/dnstake/dnstake:HEAD-3d9d96e-220524T103728-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pwnesia/dnstake/dnstake",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pwnesia/dnstake/dnstake?tag=HEAD-3d9d96e-220524T103728-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca09ee4454cd0002db418d7fb27c753e49f894cd1b34d20b5aac0825818c5c84",
+  "size": "6.1 MB",
+  "size_raw": "6293560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
