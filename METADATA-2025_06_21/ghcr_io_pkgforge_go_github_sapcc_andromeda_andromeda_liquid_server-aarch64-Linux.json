@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "andromeda-liquid-server",
+  "pkg_family": "andromeda",
+  "pkg_id": "andromeda-liquid-server#github.com_sapcc_andromeda",
+  "pkg_name": "andromeda-liquid-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/andromeda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Platform agnostic GSLB frontend with OpenStack-like API",
+  "homepage": [
+    "https://github.com/sapcc/andromeda"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "andromeda-akamai-agent",
+    "andromeda-akamai-reports",
+    "andromeda-f5-agent",
+    "andromeda-f5-status-agent",
+    "andromeda-house-keeping",
+    "andromeda-liquid-server",
+    "andromeda-migrate",
+    "andromeda-server",
+    "m31ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/andromeda/archive/4db208f388e54223390144cefe339b5caa9697ac.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "gslb",
+    "loadbalancer",
+    "openstack"
+  ],
+  "version": "HEAD-4db208f-250621T113853",
+  "version_upstream": "",
+  "bsum": "90837756b347ce6e6fefaa2e80dd68558d6f1f58cfd8b255f9a691e462938960",
+  "build_date": "2025-06-21T15:00:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796495070",
+  "build_id": "15796495070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-liquid-server?tag=HEAD-4db208f-250621T113853-aarch64-Linux&download=andromeda-liquid-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-liquid-server?tag=HEAD-4db208f-250621T113853-aarch64-Linux&download=andromeda-liquid-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-liquid-server:HEAD-4db208f-250621T113853-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-liquid-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-liquid-server?tag=HEAD-4db208f-250621T113853-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d51d5e4e1f1b3a1a45a600428f3e529a63463851c1d895cc3cb5c1c92b43b215",
+  "size": "18 MB",
+  "size_raw": "17861760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
