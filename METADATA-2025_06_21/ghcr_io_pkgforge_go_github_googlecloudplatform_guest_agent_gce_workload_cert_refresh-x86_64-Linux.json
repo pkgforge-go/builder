@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gce_workload_cert_refresh",
+  "pkg_family": "guest-agent",
+  "pkg_id": "gce_workload_cert_refresh#github.com_GoogleCloudPlatform_guest_agent",
+  "pkg_name": "gce_workload_cert_refresh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/guest-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/guest-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gce_workload_cert_refresh",
+    "google_authorized_keys",
+    "google_guest_agent",
+    "google_metadata_script_runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/guest-agent/archive/369a8ee7c532cd995dd1a2644bafea5ace91c395.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-369a8ee-250620T215812",
+  "version_upstream": "",
+  "bsum": "03300d958c036f0846f5cf097ac036a0ce60dd459406f4a012510dc751580bef",
+  "build_date": "2025-06-21T06:53:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793123823",
+  "build_id": "15793123823",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-agent/gce_workload_cert_refresh?tag=HEAD-369a8ee-250620T215812-x86_64-Linux&download=gce_workload_cert_refresh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "144",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-agent/gce_workload_cert_refresh?tag=HEAD-369a8ee-250620T215812-x86_64-Linux&download=gce_workload_cert_refresh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/guest-agent/gce_workload_cert_refresh:HEAD-369a8ee-250620T215812-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/guest-agent/gce_workload_cert_refresh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-agent/gce_workload_cert_refresh?tag=HEAD-369a8ee-250620T215812-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "53638122f0b38e91650dcd6e5521994513216a141b1d22791d1e87b0d8d6a76f",
+  "size": "17 MB",
+  "size_raw": "17040800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
