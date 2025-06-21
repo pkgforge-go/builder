@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "applyforest",
+  "pkg_family": "CloudForest",
+  "pkg_id": "applyforest#github.com_ryanbressler_CloudForest",
+  "pkg_name": "applyforest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ryanbressler/CloudForest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ensembles of decision trees in go/golang.",
+  "homepage": [
+    "https://github.com/ryanbressler/CloudForest"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "applyforest",
+    "growforest",
+    "leafcount",
+    "nfold",
+    "toafm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ryanbressler/CloudForest/archive/8f151e494fd2660d6128292318b5851b1393c252.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8f151e4-220204T235429",
+  "version_upstream": "",
+  "bsum": "3f4a92784902728032f9bd89cf770c510a19cb05610b47eb045416f8a462451d",
+  "build_date": "2025-06-21T14:43:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796445469",
+  "build_id": "15796445469",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ryanbressler/cloudforest/applyforest?tag=HEAD-8f151e4-220204T235429-riscv64-Linux&download=applyforest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "743",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ryanbressler/cloudforest/applyforest?tag=HEAD-8f151e4-220204T235429-riscv64-Linux&download=applyforest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ryanbressler/cloudforest/applyforest:HEAD-8f151e4-220204T235429-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ryanbressler/cloudforest/applyforest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ryanbressler/cloudforest/applyforest?tag=HEAD-8f151e4-220204T235429-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d609b407af84bae9224a51f45bd001041f9e8d3c218bea6e93bfd288a4310486",
+  "size": "2.1 MB",
+  "size_raw": "2145512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
