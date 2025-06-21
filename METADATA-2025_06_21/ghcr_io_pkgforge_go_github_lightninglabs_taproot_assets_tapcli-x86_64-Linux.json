@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tapcli",
+  "pkg_family": "taproot-assets",
+  "pkg_id": "tapcli#github.com_lightninglabs_taproot_assets",
+  "pkg_name": "tapcli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lightninglabs/taproot-assets",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A layer 1 daemon, for the Taproot Assets Protocol specification, written in Go _golang_",
+  "homepage": [
+    "https://github.com/lightninglabs/taproot-assets"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "merge-sql-schemas",
+    "tapcli",
+    "tapd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lightninglabs/taproot-assets/archive/2f518d21fc86531536d055a79327a01d2a954580.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2f518d2-250620T182107",
+  "version_upstream": "",
+  "bsum": "63005007c72d2b5380cc047ba83ca05890359bc5cf3e70fb6e4b08de24a1f7fd",
+  "build_date": "2025-06-21T09:06:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793730579",
+  "build_id": "15793730579",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/taproot-assets/tapcli?tag=HEAD-2f518d2-250620T182107-x86_64-Linux&download=tapcli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "485",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/taproot-assets/tapcli?tag=HEAD-2f518d2-250620T182107-x86_64-Linux&download=tapcli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightninglabs/taproot-assets/tapcli:HEAD-2f518d2-250620T182107-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightninglabs/taproot-assets/tapcli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/taproot-assets/tapcli?tag=HEAD-2f518d2-250620T182107-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7829fac9931c15a9b1038d52057189e23d2a27c9a89403a94d36f3179a42847b",
+  "size": "48 MB",
+  "size_raw": "50067024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
