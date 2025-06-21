@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "andromeda-migrate",
+  "pkg_family": "andromeda",
+  "pkg_id": "andromeda-migrate#github.com_sapcc_andromeda",
+  "pkg_name": "andromeda-migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/andromeda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Platform agnostic GSLB frontend with OpenStack-like API",
+  "homepage": [
+    "https://github.com/sapcc/andromeda"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "andromeda-akamai-agent",
+    "andromeda-akamai-reports",
+    "andromeda-f5-agent",
+    "andromeda-f5-status-agent",
+    "andromeda-house-keeping",
+    "andromeda-liquid-server",
+    "andromeda-migrate",
+    "andromeda-server",
+    "m31ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/andromeda/archive/4db208f388e54223390144cefe339b5caa9697ac.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "gslb",
+    "loadbalancer",
+    "openstack"
+  ],
+  "version": "HEAD-4db208f-250621T113853",
+  "version_upstream": "",
+  "bsum": "b2f4f8a6daa6034fa9eb1d2764dcac19d5f29d3ed8d123582364532ffea652ee",
+  "build_date": "2025-06-21T15:01:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796495070",
+  "build_id": "15796495070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-migrate?tag=HEAD-4db208f-250621T113853-aarch64-Linux&download=andromeda-migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-migrate?tag=HEAD-4db208f-250621T113853-aarch64-Linux&download=andromeda-migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-migrate:HEAD-4db208f-250621T113853-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-migrate?tag=HEAD-4db208f-250621T113853-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1590484317a64d5844cad5e33dad90a9c4d65fed254b8b0b1b894243ca88bf5",
+  "size": "17 MB",
+  "size_raw": "17397440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
