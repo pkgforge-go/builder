@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gosec",
+  "pkg_family": "gosec",
+  "pkg_id": "gosec#github.com_securego_gosec",
+  "pkg_name": "gosec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/securego/gosec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go security checker",
+  "homepage": [
+    "https://github.com/securego/gosec"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gosec",
+    "gosecutil",
+    "tlsconfig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/securego/gosec/archive/4a8cb4609fccc267e012189996cad9b08f2f2af8.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "security",
+    "security-automation",
+    "security-tools",
+    "static-analysis",
+    "static-code-analysis"
+  ],
+  "version": "HEAD-4a8cb46-250616T143438",
+  "version_upstream": "",
+  "bsum": "3243b75d98b76c34cdcdd445ff8d99acfb835d620c85673f7b56207fdc60062c",
+  "build_date": "2025-06-21T15:14:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796807848",
+  "build_id": "15796807848",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/securego/gosec/gosec?tag=HEAD-4a8cb46-250616T143438-x86_64-Linux&download=gosec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8305",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/securego/gosec/gosec?tag=HEAD-4a8cb46-250616T143438-x86_64-Linux&download=gosec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/securego/gosec/gosec:HEAD-4a8cb46-250616T143438-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/securego/gosec/gosec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/securego/gosec/gosec?tag=HEAD-4a8cb46-250616T143438-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aee4672cb48ecdaeb0f9672c08d11ff8469e29b9564043b752f46199803042ca",
+  "size": "24 MB",
+  "size_raw": "24614592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
