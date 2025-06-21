@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "sonar",
+  "pkg_id": "client#github.com_nt0xa_sonar",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nt0xa/sonar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sonar is a security researcher_s Swiss army knife for finding and exploiting vulnerabilities that require out-of-band interactions",
+  "homepage": [
+    "https://github.com/nt0xa/sonar"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "codegen",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nt0xa/sonar/archive/7159c7f4ac62f8198de4a63fadbb793d3814377a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7159c7f-250620T114337",
+  "version_upstream": "v1.18.1",
+  "bsum": "d01ebba079b9578d31af266c0b2e485b5b3fbace3b35af5a5c749bf54f8481d5",
+  "build_date": "2025-06-21T02:23:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790942974",
+  "build_id": "15790942974",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nt0xa/sonar/client?tag=HEAD-7159c7f-250620T114337-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nt0xa/sonar/client?tag=HEAD-7159c7f-250620T114337-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nt0xa/sonar/client:HEAD-7159c7f-250620T114337-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nt0xa/sonar/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nt0xa/sonar/client?tag=HEAD-7159c7f-250620T114337-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc01eeed97aa264fe83b2fbd30770f3344c63628b3ed37ad782e12208359ccb9",
+  "size": "14 MB",
+  "size_raw": "13899008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
