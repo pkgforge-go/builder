@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "crd",
+  "pkg_family": "radius",
+  "pkg_id": "crd#github.com_radius_project_radius",
+  "pkg_name": "crd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/radius-project/radius",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",
+  "homepage": [
+    "https://github.com/radius-project/radius"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "applications-rp",
+    "controller",
+    "crd",
+    "docgen",
+    "dynamic-rp",
+    "rad",
+    "ucpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/radius-project/radius/archive/0da9286033476187cfb5dcdb1b5c7330dbda878a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0da9286-250618T140911",
+  "version_upstream": "",
+  "bsum": "fd86879e6230940c70b62751d76ae73056c4f8f360ca802fc80defbb98d7a16f",
+  "build_date": "2025-06-21T13:09:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795905079",
+  "build_id": "15795905079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/crd?tag=HEAD-0da9286-250618T140911-x86_64-Linux&download=crd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1581",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/crd?tag=HEAD-0da9286-250618T140911-x86_64-Linux&download=crd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/radius-project/radius/crd:HEAD-0da9286-250618T140911-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/radius-project/radius/crd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/crd?tag=HEAD-0da9286-250618T140911-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7cce5a45f6cf1daa688b727be58eef81c09abe56094d66565b17b6ce0e5e5918",
+  "size": "6.0 MB",
+  "size_raw": "6195200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
