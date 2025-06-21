@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "baggageclaim",
+  "pkg_family": "concourse",
+  "pkg_id": "baggageclaim#github.com_concourse_concourse",
+  "pkg_name": "baggageclaim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/concourse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Concourse is a container-based automation system written in Go.",
+  "homepage": [
+    "https://github.com/concourse/concourse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "baggageclaim",
+    "cli",
+    "concourse",
+    "fly",
+    "fs_mounter",
+    "sample",
+    "scripts",
+    "tsa"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/concourse/archive/4e1aa2bc2ac00e63a2fe5ed4902d468c42131047.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "ci-cd",
+    "concourse",
+    "containerd",
+    "containers",
+    "continuous-delivery",
+    "continuous-integration",
+    "elm",
+    "go",
+    "pipelines",
+    "runc"
+  ],
+  "version": "HEAD-4e1aa2b-250620T122546",
+  "version_upstream": "",
+  "bsum": "27f45eadc095c363d79f86cdb8c853220b38ce742d9e6944d8b6cc98554afc4f",
+  "build_date": "2025-06-21T07:49:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793167060",
+  "build_id": "15793167060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/baggageclaim?tag=HEAD-4e1aa2b-250620T122546-aarch64-Linux&download=baggageclaim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7583",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/baggageclaim?tag=HEAD-4e1aa2b-250620T122546-aarch64-Linux&download=baggageclaim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/concourse/baggageclaim:HEAD-4e1aa2b-250620T122546-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/concourse/baggageclaim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/baggageclaim?tag=HEAD-4e1aa2b-250620T122546-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a4a60d8e3ca6dacf4491e82d970fd984806fe01fc54f6aeb2633e94a2cdbfe8",
+  "size": "17 MB",
+  "size_raw": "17364000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
