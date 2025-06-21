@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "amass",
+  "pkg_family": "amass",
+  "pkg_id": "amass#github.com_owasp_amass_amass",
+  "pkg_name": "amass",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/owasp-amass/amass",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "In-depth attack surface mapping and asset discovery",
+  "homepage": [
+    "https://github.com/owasp-amass/amass"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amass"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/owasp-amass/amass/archive/5f1f7176bae60975c1e5be64273cb201f1bb37c3.tar.gz"
+  ],
+  "tag": [
+    "attack-surfaces",
+    "dns",
+    "enumeration",
+    "go",
+    "golang",
+    "information-gathering",
+    "maltego",
+    "network-security",
+    "osint",
+    "osint-reconnaissance",
+    "owasp",
+    "recon",
+    "subdomain"
+  ],
+  "version": "HEAD-5f1f717-230910T164057",
+  "version_upstream": "v4.2.0",
+  "bsum": "b5cd6515772a3a11ebde952cfa702e52a8c6dbdc33c4782abc264d46a0843918",
+  "build_date": "2025-06-21T04:38:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791660371",
+  "build_id": "15791660371",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owasp-amass/amass/amass?tag=HEAD-5f1f717-230910T164057-aarch64-Linux&download=amass.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13141",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owasp-amass/amass/amass?tag=HEAD-5f1f717-230910T164057-aarch64-Linux&download=amass",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/owasp-amass/amass/amass:HEAD-5f1f717-230910T164057-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/owasp-amass/amass/amass",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owasp-amass/amass/amass?tag=HEAD-5f1f717-230910T164057-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fe41fa15ecf05ed486e3cd9bbfd57229247dd8fc103db65d47774269b4cf071",
+  "size": "38 MB",
+  "size_raw": "39161600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
