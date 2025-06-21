@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dlx",
+  "pkg_family": "nuclio",
+  "pkg_id": "dlx#github.com_nuclio_nuclio",
+  "pkg_name": "dlx",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nuclio/nuclio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-Performance Serverless event and data processing platform",
+  "homepage": [
+    "https://github.com/nuclio/nuclio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscaler",
+    "benchmark",
+    "controller",
+    "dashboard",
+    "dlx",
+    "generator",
+    "nuctl",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nuclio/nuclio/archive/4b9e1dc861f1418dd4c7655544d296caa3eb09e9.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "faas",
+    "faas-platform",
+    "functions",
+    "go",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-4b9e1dc-250620T205715",
+  "version_upstream": "",
+  "bsum": "ad2efc03c876c790c88d2165cb980d123453537011d2a26d86ece7209854881a",
+  "build_date": "2025-06-21T09:48:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794160939",
+  "build_id": "15794160939",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/dlx?tag=HEAD-4b9e1dc-250620T205715-aarch64-Linux&download=dlx.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/dlx?tag=HEAD-4b9e1dc-250620T205715-aarch64-Linux&download=dlx",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nuclio/nuclio/dlx:HEAD-4b9e1dc-250620T205715-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nuclio/nuclio/dlx",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/dlx?tag=HEAD-4b9e1dc-250620T205715-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef611271559a691babe1e313ffa5655c6cc5a7d0af8eceb6acd816092e4f7910",
+  "size": "47 MB",
+  "size_raw": "48697120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
