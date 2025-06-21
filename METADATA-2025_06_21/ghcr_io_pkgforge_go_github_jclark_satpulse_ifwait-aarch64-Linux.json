@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ifwait",
+  "pkg_family": "satpulse",
+  "pkg_id": "ifwait#github.com_jclark_satpulse",
+  "pkg_name": "ifwait",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jclark/satpulse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Use a GPS receiver as a source of time for a PTP and NTP server",
+  "homepage": [
+    "https://github.com/jclark/satpulse"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devtest",
+    "ifwait",
+    "satpulsed",
+    "satpulsetool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jclark/satpulse/archive/85c22479a42aa6c32655ba491969ca3efc2a076e.tar.gz"
+  ],
+  "tag": [
+    "chrony",
+    "gnss",
+    "go",
+    "gps",
+    "linuxptp",
+    "ntp",
+    "ptp",
+    "ublox"
+  ],
+  "version": "HEAD-85c2247-250521T014644",
+  "version_upstream": "",
+  "bsum": "d4193e1066f75670ad82b3002f6ae7e14fe95859ce53fb603313decd5edbcbab",
+  "build_date": "2025-06-21T08:42:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793662150",
+  "build_id": "15793662150",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/ifwait?tag=HEAD-85c2247-250521T014644-aarch64-Linux&download=ifwait.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/ifwait?tag=HEAD-85c2247-250521T014644-aarch64-Linux&download=ifwait",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jclark/satpulse/ifwait:HEAD-85c2247-250521T014644-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jclark/satpulse/ifwait",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/ifwait?tag=HEAD-85c2247-250521T014644-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d4b1274100c8e34b643ac797973c2bdff98b0872e9fafa670b572c8152f522ef",
+  "size": "2.2 MB",
+  "size_raw": "2306488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
