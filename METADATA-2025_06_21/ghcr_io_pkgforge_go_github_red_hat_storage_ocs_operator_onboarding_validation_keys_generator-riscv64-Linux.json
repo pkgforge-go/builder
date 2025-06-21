@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "onboarding-validation-keys-generator",
+  "pkg_family": "ocs-operator",
+  "pkg_id": "onboarding-validation-keys-generator#github.com_red_hat_storage_ocs_operator",
+  "pkg_name": "onboarding-validation-keys-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/red-hat-storage/ocs-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for RHOCS",
+  "homepage": [
+    "https://github.com/red-hat-storage/ocs-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-deploy",
+    "csv-merger",
+    "ocs-operator",
+    "onboarding-validation-keys-generator",
+    "provider",
+    "ux-backend"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/red-hat-storage/ocs-operator/archive/7c5a7e6d5bacecbd4db89f4a5bdbf2434e40742b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7c5a7e6-250620T162737",
+  "version_upstream": "",
+  "bsum": "20ac19236aa7be367eb6bf207e203878719db1647f8d980ae82941067cc030d1",
+  "build_date": "2025-06-21T13:26:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795909486",
+  "build_id": "15795909486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/onboarding-validation-keys-generator?tag=HEAD-7c5a7e6-250620T162737-riscv64-Linux&download=onboarding-validation-keys-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/onboarding-validation-keys-generator?tag=HEAD-7c5a7e6-250620T162737-riscv64-Linux&download=onboarding-validation-keys-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/red-hat-storage/ocs-operator/onboarding-validation-keys-generator:HEAD-7c5a7e6-250620T162737-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/red-hat-storage/ocs-operator/onboarding-validation-keys-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/onboarding-validation-keys-generator?tag=HEAD-7c5a7e6-250620T162737-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04152dd4392ea4b19ebf58619749aa2a4dac0787ab97875d19d67e901a8c8096",
+  "size": "43 MB",
+  "size_raw": "44554040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
