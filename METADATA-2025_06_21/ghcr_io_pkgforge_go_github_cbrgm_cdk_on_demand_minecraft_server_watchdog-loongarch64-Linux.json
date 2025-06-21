@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "watchdog",
+  "pkg_family": "cdk-on-demand-minecraft-server",
+  "pkg_id": "watchdog#github.com_cbrgm_cdk_on_demand_minecraft_server",
+  "pkg_name": "watchdog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cbrgm/cdk-on-demand-minecraft-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "On-Demand Minecraft Server running on ECS_Fargate_ and deployed via CDK _Go_",
+  "homepage": [
+    "https://github.com/cbrgm/cdk-on-demand-minecraft-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdk",
+    "launcher",
+    "logforwarder",
+    "watchdog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cbrgm/cdk-on-demand-minecraft-server/archive/413124a50464e38547978556aba6e393dba49115.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cdk",
+    "eks",
+    "go",
+    "minecraft",
+    "serverless"
+  ],
+  "version": "HEAD-413124a-250620T204723",
+  "version_upstream": "",
+  "bsum": "82256fbf6bbd7d13d40c2fc09a428642bac46af7f0b8fc4bebd69966fd38c642",
+  "build_date": "2025-06-21T07:27:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793161137",
+  "build_id": "15793161137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/watchdog?tag=HEAD-413124a-250620T204723-loongarch64-Linux&download=watchdog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/watchdog?tag=HEAD-413124a-250620T204723-loongarch64-Linux&download=watchdog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/watchdog:HEAD-413124a-250620T204723-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/watchdog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/watchdog?tag=HEAD-413124a-250620T204723-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "343810a4d86f82f69bbc5d5cd683bd343ec90c54edee3ca9af069edc4baede73",
+  "size": "10 MB",
+  "size_raw": "10415616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
