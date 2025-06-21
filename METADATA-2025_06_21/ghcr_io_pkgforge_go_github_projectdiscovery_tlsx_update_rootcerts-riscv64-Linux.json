@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "update-rootcerts",
+  "pkg_family": "tlsx",
+  "pkg_id": "update-rootcerts#github.com_projectdiscovery_tlsx",
+  "pkg_name": "update-rootcerts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/tlsx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and configurable TLS grabber focused on TLS based data collection.",
+  "homepage": [
+    "https://github.com/projectdiscovery/tlsx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tlsx",
+    "tlsx-examples",
+    "update-cipherstatus",
+    "update-rootcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/tlsx/archive/dab7118c463e0525614557fad8ea038d5d5e524d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dab7118-250418T170546",
+  "version_upstream": "",
+  "bsum": "43e627a13bb425d1e08449b9f13a6f86989ac6914e85164a3fa90ce4c4b014b9",
+  "build_date": "2025-06-21T11:53:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795010991",
+  "build_id": "15795010991",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/tlsx/update-rootcerts?tag=HEAD-dab7118-250418T170546-riscv64-Linux&download=update-rootcerts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "984",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/tlsx/update-rootcerts?tag=HEAD-dab7118-250418T170546-riscv64-Linux&download=update-rootcerts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/tlsx/update-rootcerts:HEAD-dab7118-250418T170546-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/tlsx/update-rootcerts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/tlsx/update-rootcerts?tag=HEAD-dab7118-250418T170546-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "56f34fc6c2f9c61577d5e93ccbe6f026ce41c4bb96976946c57cc88c007a456f",
+  "size": "6.7 MB",
+  "size_raw": "6971736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
