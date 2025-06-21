@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gtfs",
+  "pkg_family": "kiel-live",
+  "pkg_id": "gtfs#github.com_kiel_live_kiel_live",
+  "pkg_name": "gtfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kiel-live/kiel-live",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This app allows you to view live updates of public transport.",
+  "homepage": [
+    "https://github.com/kiel-live/kiel-live"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ais",
+    "donkey",
+    "gtfs",
+    "kvg",
+    "nextbike"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kiel-live/kiel-live/archive/d75345dd33870e1ecf4d673f94b8d8cb8e80f453.tar.gz"
+  ],
+  "tag": [
+    "bus-arrivals",
+    "kiel",
+    "live",
+    "nodejs",
+    "opnv",
+    "public-transit",
+    "public-transport",
+    "public-transportation",
+    "pwa",
+    "vuejs"
+  ],
+  "version": "HEAD-d75345d-250621T031132",
+  "version_upstream": "",
+  "bsum": "197902cd9c5528e6e7c9aa012be3f7c5c8e55e7b4b9bd994d2c335411da2347f",
+  "build_date": "2025-06-21T08:51:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793693158",
+  "build_id": "15793693158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/gtfs?tag=HEAD-d75345d-250621T031132-riscv64-Linux&download=gtfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/gtfs?tag=HEAD-d75345d-250621T031132-riscv64-Linux&download=gtfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kiel-live/kiel-live/gtfs:HEAD-d75345d-250621T031132-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kiel-live/kiel-live/gtfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/gtfs?tag=HEAD-d75345d-250621T031132-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f89ff1644a625b20b20e0169dca70e98205a7f8afe4081e99356749f0a85b637",
+  "size": "7.4 MB",
+  "size_raw": "7691416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
