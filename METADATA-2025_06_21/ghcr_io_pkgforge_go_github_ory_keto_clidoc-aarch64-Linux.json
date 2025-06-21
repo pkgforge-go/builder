@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "clidoc",
+  "pkg_family": "keto",
+  "pkg_id": "clidoc#github.com_ory_keto",
+  "pkg_name": "clidoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/keto",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google_s proven _Zanzibar_ approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",
+  "homepage": [
+    "https://github.com/ory/keto"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "00-create-tuples",
+    "00-write-direct-access",
+    "01-check-direct-access",
+    "01-expand-beach",
+    "01-list-pm",
+    "02-list-coffee-break",
+    "99-cleanup",
+    "clidoc",
+    "keto"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/keto/archive/d50c75e653ce808cd870598ebe7978abea2e77ce.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-d50c75e-250620T111144",
+  "version_upstream": "",
+  "bsum": "783d18c2820d497b426ab226c119012bf7cf48fd022df48770f2b6e99c1e2523",
+  "build_date": "2025-06-21T04:21:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791352687",
+  "build_id": "15791352687",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/keto/clidoc?tag=HEAD-d50c75e-250620T111144-aarch64-Linux&download=clidoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5046",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/keto/clidoc?tag=HEAD-d50c75e-250620T111144-aarch64-Linux&download=clidoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/keto/clidoc:HEAD-d50c75e-250620T111144-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/keto/clidoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/keto/clidoc?tag=HEAD-d50c75e-250620T111144-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f2026f6d3affcfd5f6da7cdc2350b4448115d536498f8353c1d6d2bc3d14c27d",
+  "size": "37 MB",
+  "size_raw": "38090176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "00-write-direct-access",
+  "pkg_family": "keto",
+  "pkg_id": "00-write-direct-access#github.com_ory_keto",
+  "pkg_name": "00-write-direct-access",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/keto",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google_s proven _Zanzibar_ approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",
+  "homepage": [
+    "https://github.com/ory/keto"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "00-create-tuples",
+    "00-write-direct-access",
+    "01-check-direct-access",
+    "01-expand-beach",
+    "01-list-pm",
+    "02-list-coffee-break",
+    "99-cleanup",
+    "clidoc",
+    "keto"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/keto/archive/d50c75e653ce808cd870598ebe7978abea2e77ce.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-d50c75e-250620T111144",
+  "version_upstream": "",
+  "bsum": "37ad9778b244ade67ef00ed5cd0d4457a1d4c1ce7da1036fe3fed79e454b6151",
+  "build_date": "2025-06-21T04:21:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791352687",
+  "build_id": "15791352687",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/keto/00-write-direct-access?tag=HEAD-d50c75e-250620T111144-aarch64-Linux&download=00-write-direct-access.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5046",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/keto/00-write-direct-access?tag=HEAD-d50c75e-250620T111144-aarch64-Linux&download=00-write-direct-access",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/keto/00-write-direct-access:HEAD-d50c75e-250620T111144-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/keto/00-write-direct-access",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/keto/00-write-direct-access?tag=HEAD-d50c75e-250620T111144-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b166160abf63c7454155b48e31b1f216734f775c93470cbec8a3d7f54b5dee48",
+  "size": "11 MB",
+  "size_raw": "10885888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
