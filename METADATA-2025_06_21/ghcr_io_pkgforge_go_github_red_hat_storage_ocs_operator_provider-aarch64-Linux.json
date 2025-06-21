@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "provider",
+  "pkg_family": "ocs-operator",
+  "pkg_id": "provider#github.com_red_hat_storage_ocs_operator",
+  "pkg_name": "provider",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/red-hat-storage/ocs-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for RHOCS",
+  "homepage": [
+    "https://github.com/red-hat-storage/ocs-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-deploy",
+    "csv-merger",
+    "ocs-operator",
+    "onboarding-validation-keys-generator",
+    "provider",
+    "ux-backend"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/red-hat-storage/ocs-operator/archive/7c5a7e6d5bacecbd4db89f4a5bdbf2434e40742b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7c5a7e6-250620T162737",
+  "version_upstream": "",
+  "bsum": "717db40cfd0176a03a63e5a1da591da97d3df034fd2c7e7134f2dca2ab2143f9",
+  "build_date": "2025-06-21T13:26:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795909486",
+  "build_id": "15795909486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/provider?tag=HEAD-7c5a7e6-250620T162737-aarch64-Linux&download=provider.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/provider?tag=HEAD-7c5a7e6-250620T162737-aarch64-Linux&download=provider",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/red-hat-storage/ocs-operator/provider:HEAD-7c5a7e6-250620T162737-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/red-hat-storage/ocs-operator/provider",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/red-hat-storage/ocs-operator/provider?tag=HEAD-7c5a7e6-250620T162737-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18eea6bc68fc53bd085d84f679d89ba99452391f84323fb99c703a0a2c4b71cb",
+  "size": "47 MB",
+  "size_raw": "49153216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
