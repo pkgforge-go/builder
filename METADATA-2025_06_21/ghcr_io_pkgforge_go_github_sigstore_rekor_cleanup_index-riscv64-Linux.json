@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cleanup-index",
+  "pkg_family": "rekor",
+  "pkg_id": "cleanup-index#github.com_sigstore_rekor",
+  "pkg_name": "cleanup-index",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Software Supply Chain Transparency Log",
+  "homepage": [
+    "https://github.com/sigstore/rekor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backfill-index",
+    "cleanup-index",
+    "copy-index",
+    "rekor-cli",
+    "rekor-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor/archive/1ef8b666115e6f93f80c74ce2b4cae67a529d1fc.tar.gz"
+  ],
+  "tag": [
+    "provenance",
+    "security",
+    "supply-chain",
+    "transparency-log"
+  ],
+  "version": "HEAD-1ef8b66-250618T181451",
+  "version_upstream": "",
+  "bsum": "2091999fe08e349b64be3472da97a4447e827ec3aa0df145edaa3130fab5a0aa",
+  "build_date": "2025-06-21T23:29:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800313999",
+  "build_id": "15800313999",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/cleanup-index?tag=HEAD-1ef8b66-250618T181451-riscv64-Linux&download=cleanup-index.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/cleanup-index?tag=HEAD-1ef8b66-250618T181451-riscv64-Linux&download=cleanup-index",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor/cleanup-index:HEAD-1ef8b66-250618T181451-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor/cleanup-index",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/cleanup-index?tag=HEAD-1ef8b66-250618T181451-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48694451dae72730d29801526e4870fe7a547252c39989d5fe35b1f4791edc6d",
+  "size": "15 MB",
+  "size_raw": "14938104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
