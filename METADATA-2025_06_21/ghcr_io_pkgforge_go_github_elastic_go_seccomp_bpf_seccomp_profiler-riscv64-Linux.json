@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "seccomp-profiler",
+  "pkg_family": "go-seccomp-bpf",
+  "pkg_id": "seccomp-profiler#github.com_elastic_go_seccomp_bpf",
+  "pkg_name": "seccomp-profiler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/go-seccomp-bpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for installing a seccomp BPF system call filter.",
+  "homepage": [
+    "https://github.com/elastic/go-seccomp-bpf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sandbox",
+    "seccomp-profiler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/go-seccomp-bpf/archive/9375c0f7fb340aa2e8715cc30cc0247be18971c9.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "seccomp",
+    "seccomp-bpf-policies"
+  ],
+  "version": "HEAD-9375c0f-250620T133841",
+  "version_upstream": "v1.6.0",
+  "bsum": "f63aeb41b57dd1d68204efe9e4efacc8d22f2158d9294f169c5d553e72751016",
+  "build_date": "2025-06-21T08:00:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793197711",
+  "build_id": "15793197711",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/go-seccomp-bpf/seccomp-profiler?tag=HEAD-9375c0f-250620T133841-riscv64-Linux&download=seccomp-profiler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/go-seccomp-bpf/seccomp-profiler?tag=HEAD-9375c0f-250620T133841-riscv64-Linux&download=seccomp-profiler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/go-seccomp-bpf/seccomp-profiler:HEAD-9375c0f-250620T133841-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/go-seccomp-bpf/seccomp-profiler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/go-seccomp-bpf/seccomp-profiler?tag=HEAD-9375c0f-250620T133841-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f5d395d309c18ae8305c66dbb8fa363d5440a0fe24ee322c537e762bc8b17e8",
+  "size": "4.1 MB",
+  "size_raw": "4205656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
