@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nix-download",
+  "pkg_family": "nix-download",
+  "pkg_id": "nix-download#github.com_simonfxr_nix_download",
+  "pkg_name": "nix-download",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/simonfxr/nix-download",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fully self contained tool to fetch nix store paths from binary caches",
+  "homepage": [
+    "https://github.com/simonfxr/nix-download"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "narextract",
+    "nix-download"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/simonfxr/nix-download/archive/095cc446e7bf9fe1ccc9147599a9c7256684d1a2.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "nix"
+  ],
+  "version": "HEAD-095cc44-250207T195127",
+  "version_upstream": "v0.2.0",
+  "bsum": "2b476afebfe9ccc927393dc626359a0c0a74788856feed6308d57f6c002307ff",
+  "build_date": "2025-06-21T23:26:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800314138",
+  "build_id": "15800314138",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simonfxr/nix-download/nix-download?tag=HEAD-095cc44-250207T195127-loongarch64-Linux&download=nix-download.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simonfxr/nix-download/nix-download?tag=HEAD-095cc44-250207T195127-loongarch64-Linux&download=nix-download",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simonfxr/nix-download/nix-download:HEAD-095cc44-250207T195127-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/simonfxr/nix-download/nix-download",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simonfxr/nix-download/nix-download?tag=HEAD-095cc44-250207T195127-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d2ea313b3b192a921da376a291d54358070f3dae85cfbcef088bdd331e311ff",
+  "size": "6.4 MB",
+  "size_raw": "6680064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
