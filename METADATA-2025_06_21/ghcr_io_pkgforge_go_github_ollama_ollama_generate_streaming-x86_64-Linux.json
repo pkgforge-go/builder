@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate-streaming",
+  "pkg_family": "ollama",
+  "pkg_id": "generate-streaming#github.com_ollama_ollama",
+  "pkg_name": "generate-streaming",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ollama/ollama",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+  "homepage": [
+    "https://github.com/ollama/ollama"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "chat",
+    "generate",
+    "generate-streaming",
+    "multimodal",
+    "ollama",
+    "pull-progress",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ollama/ollama/archive/87b7af6ceef2b4d96374dbff5070b41b17d3f138.tar.gz"
+  ],
+  "tag": [
+    "deepseek",
+    "gemma",
+    "gemma2",
+    "gemma3",
+    "go",
+    "golang",
+    "llama",
+    "llama2",
+    "llama3",
+    "llava",
+    "llm",
+    "llms",
+    "mistral",
+    "ollama",
+    "phi3",
+    "phi4",
+    "qwen"
+  ],
+  "version": "HEAD-87b7af6-250619T171249",
+  "version_upstream": "",
+  "bsum": "ede7122e0c5395ce3b52d451820d144ae30830a87c155eb751435b8d24aa545c",
+  "build_date": "2025-06-21T02:48:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790992575",
+  "build_id": "15790992575",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/generate-streaming?tag=HEAD-87b7af6-250619T171249-x86_64-Linux&download=generate-streaming.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "144300",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/generate-streaming?tag=HEAD-87b7af6-250619T171249-x86_64-Linux&download=generate-streaming",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ollama/ollama/generate-streaming:HEAD-87b7af6-250619T171249-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ollama/ollama/generate-streaming",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/generate-streaming?tag=HEAD-87b7af6-250619T171249-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "830bc8cb4c35ebd4f5ba3a05744fcf8a23b4327edeb376677fef8772aa0dc9b0",
+  "size": "6.7 MB",
+  "size_raw": "6953952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
