@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "jwttoken",
+  "pkg_family": "osin",
+  "pkg_id": "jwttoken#github.com_openshift_osin",
+  "pkg_name": "jwttoken",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/osin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang OAuth2 server library",
+  "homepage": [
+    "https://github.com/openshift/osin"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "complete",
+    "goauth2client",
+    "jwttoken",
+    "openidconnect",
+    "osincliclient",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/osin/archive/0f4d38c6e53fa6b5631fb3942222a9238e8e1be9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0f4d38c-220317T035346",
+  "version_upstream": "",
+  "bsum": "1c13a3babe6f89483f88e6eaf79dc4546f114e18ae8eb6e45bafd5d0e7f9d18d",
+  "build_date": "2025-06-21T03:48:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791246390",
+  "build_id": "15791246390",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/jwttoken?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&download=jwttoken.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1927",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/jwttoken?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&download=jwttoken",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/osin/jwttoken:HEAD-0f4d38c-220317T035346-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/osin/jwttoken",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/jwttoken?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1fce5ca10c958a5f816e34468eb3250a402bf0be6a485ee477ad1826741b9bbc",
+  "size": "6.9 MB",
+  "size_raw": "7135032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

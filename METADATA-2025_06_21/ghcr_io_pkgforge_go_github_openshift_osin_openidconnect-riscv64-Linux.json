@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "openidconnect",
+  "pkg_family": "osin",
+  "pkg_id": "openidconnect#github.com_openshift_osin",
+  "pkg_name": "openidconnect",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/osin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang OAuth2 server library",
+  "homepage": [
+    "https://github.com/openshift/osin"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "complete",
+    "goauth2client",
+    "jwttoken",
+    "openidconnect",
+    "osincliclient",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/osin/archive/0f4d38c6e53fa6b5631fb3942222a9238e8e1be9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0f4d38c-220317T035346",
+  "version_upstream": "",
+  "bsum": "4eabe1f375b032eab81925da81ecbce989b5180b9a1dfa5216535766e34027b8",
+  "build_date": "2025-06-21T03:49:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791246390",
+  "build_id": "15791246390",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/openidconnect?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&download=openidconnect.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1927",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/openidconnect?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&download=openidconnect",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/osin/openidconnect:HEAD-0f4d38c-220317T035346-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/osin/openidconnect",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/openidconnect?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e56287bebffd3d87cfa57e8611abb9ae7d10088e489936157d1f87954bd0d4a4",
+  "size": "6.3 MB",
+  "size_raw": "6597944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

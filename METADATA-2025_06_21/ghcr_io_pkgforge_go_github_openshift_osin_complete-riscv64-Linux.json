@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "complete",
+  "pkg_family": "osin",
+  "pkg_id": "complete#github.com_openshift_osin",
+  "pkg_name": "complete",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/osin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang OAuth2 server library",
+  "homepage": [
+    "https://github.com/openshift/osin"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "complete",
+    "goauth2client",
+    "jwttoken",
+    "openidconnect",
+    "osincliclient",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/osin/archive/0f4d38c6e53fa6b5631fb3942222a9238e8e1be9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0f4d38c-220317T035346",
+  "version_upstream": "",
+  "bsum": "27e3e2f613f68ed2259b8b3104efb111ff424b710e6c8f78909be208fe56dc0f",
+  "build_date": "2025-06-21T03:49:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791246390",
+  "build_id": "15791246390",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/complete?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&download=complete.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1927",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/complete?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&download=complete",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/osin/complete:HEAD-0f4d38c-220317T035346-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/osin/complete",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/osin/complete?tag=HEAD-0f4d38c-220317T035346-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6591385c6e759d737225ca97983fb5be9f6ad0ca8edf64db0d93218b5b781eb5",
+  "size": "6.7 MB",
+  "size_raw": "6978616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
