@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "integration-tests",
+  "pkg_family": "uncover",
+  "pkg_id": "integration-tests#github.com_projectdiscovery_uncover",
+  "pkg_name": "integration-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/uncover",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quickly discover exposed hosts on the internet using multiple search engines.",
+  "homepage": [
+    "https://github.com/projectdiscovery/uncover"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "integration-tests",
+    "uncover",
+    "uncover-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/uncover/archive/de7098e5db2817422636ce63a44ebd1ea07ac782.tar.gz"
+  ],
+  "tag": [
+    "asm",
+    "attack-surface",
+    "bugbounty",
+    "cli",
+    "osint",
+    "recon",
+    "reconnaissance"
+  ],
+  "version": "HEAD-de7098e-250620T214821",
+  "version_upstream": "v1.1.0",
+  "bsum": "05d98ea98cd8a31e3984d7a8aef2dfde9af7fc727180ffefbcb15c47da0e2222",
+  "build_date": "2025-06-21T11:52:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795015659",
+  "build_id": "15795015659",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/uncover/integration-tests?tag=HEAD-de7098e-250620T214821-loongarch64-Linux&download=integration-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2633",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/uncover/integration-tests?tag=HEAD-de7098e-250620T214821-loongarch64-Linux&download=integration-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/uncover/integration-tests:HEAD-de7098e-250620T214821-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/uncover/integration-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/uncover/integration-tests?tag=HEAD-de7098e-250620T214821-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "58cf7f6bcc7648d7f7665bb9ebb9439fac00f9a7cd2dbe75c98f7dc1d1d9b75b",
+  "size": "4.9 MB",
+  "size_raw": "5079648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
