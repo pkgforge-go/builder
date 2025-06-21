@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "schema",
+  "pkg_family": "app-orch-catalog",
+  "pkg_id": "schema#github.com_open_edge_platform_app_orch_catalog",
+  "pkg_name": "schema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/app-orch-catalog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Facilitates catalog services for application packaging and deployment.",
+  "homepage": [
+    "https://github.com/open-edge-platform/app-orch-catalog"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application-catalog",
+    "dp-to-helm",
+    "helm-to-dp",
+    "rest-proxy",
+    "schema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/app-orch-catalog/archive/b239bbdcb91c70d858a90f66f7ca817a5230870c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b239bbd-250620T125314",
+  "version_upstream": "v0.14.8",
+  "bsum": "d968ba74152192b3db8da778703b2b33a73e9217847a4100ad9b4a45bf24c1c4",
+  "build_date": "2025-06-21T09:50:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794432295",
+  "build_id": "15794432295",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/schema?tag=HEAD-b239bbd-250620T125314-aarch64-Linux&download=schema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/schema?tag=HEAD-b239bbd-250620T125314-aarch64-Linux&download=schema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/schema:HEAD-b239bbd-250620T125314-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/schema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/schema?tag=HEAD-b239bbd-250620T125314-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1b1f9789b79eb135eb69c3833375655a003d673f804798de54ed0e1941f24ff2",
+  "size": "8.3 MB",
+  "size_raw": "8607808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
