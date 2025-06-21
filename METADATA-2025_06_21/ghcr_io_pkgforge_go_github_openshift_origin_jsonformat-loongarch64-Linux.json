@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jsonformat",
+  "pkg_family": "origin",
+  "pkg_id": "jsonformat#github.com_openshift_origin",
+  "pkg_name": "jsonformat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/origin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Conformance test suite for OpenShift",
+  "homepage": [
+    "https://github.com/openshift/origin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "changelog",
+    "deployment",
+    "etcdhelper",
+    "gotest2junit",
+    "jsonformat",
+    "junitreport",
+    "listtests",
+    "openshift-tests",
+    "update-tls-artifacts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/origin/archive/bea636f988a7f190e5e68609f1aeea531d7987fa.tar.gz"
+  ],
+  "tag": [
+    "caas",
+    "ci-cd",
+    "containers",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "go",
+    "kubernetes",
+    "openshift",
+    "openshift-origin",
+    "paas"
+  ],
+  "version": "HEAD-bea636f-250620T115245",
+  "version_upstream": "",
+  "bsum": "fe568b2819c4d3bb91d661595e3ae4f7413aa9be56eebf2f93dc3bee0599b2f5",
+  "build_date": "2025-06-21T04:03:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791246040",
+  "build_id": "15791246040",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/jsonformat?tag=HEAD-bea636f-250620T115245-loongarch64-Linux&download=jsonformat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8550",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/jsonformat?tag=HEAD-bea636f-250620T115245-loongarch64-Linux&download=jsonformat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/origin/jsonformat:HEAD-bea636f-250620T115245-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/origin/jsonformat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/jsonformat?tag=HEAD-bea636f-250620T115245-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48d110c0457820dda5a2ab009fbed0134aefc2b2591566d0f47553137c591b73",
+  "size": "2.1 MB",
+  "size_raw": "2175256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
