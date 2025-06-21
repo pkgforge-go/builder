@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "s5cmd",
+  "pkg_family": "s5cmd",
+  "pkg_id": "s5cmd#github.com_peak_s5cmd",
+  "pkg_name": "s5cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/peak/s5cmd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Parallel S3 and local filesystem execution tool.",
+  "homepage": [
+    "https://github.com/peak/s5cmd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "s5cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/peak/s5cmd/archive/54d6a8a955688f07e5acc40d61f9c42ceac6c33b.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cli",
+    "filesystem",
+    "go",
+    "s3",
+    "s5cmd",
+    "storage"
+  ],
+  "version": "HEAD-54d6a8a-250613T103030",
+  "version_upstream": "",
+  "bsum": "cf0b19d623fbf15ee6cc058c25fe3ef8882944b55ebd1f2f86c4e5e33e004a13",
+  "build_date": "2025-06-21T10:14:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794471764",
+  "build_id": "15794471764",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peak/s5cmd/s5cmd?tag=HEAD-54d6a8a-250613T103030-riscv64-Linux&download=s5cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3354",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peak/s5cmd/s5cmd?tag=HEAD-54d6a8a-250613T103030-riscv64-Linux&download=s5cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/peak/s5cmd/s5cmd:HEAD-54d6a8a-250613T103030-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/peak/s5cmd/s5cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peak/s5cmd/s5cmd?tag=HEAD-54d6a8a-250613T103030-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "807eca9085378e89f2d16db11b8eb1df5b93e94565fc9d854ac14dcb089ad3e2",
+  "size": "17 MB",
+  "size_raw": "17166456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
