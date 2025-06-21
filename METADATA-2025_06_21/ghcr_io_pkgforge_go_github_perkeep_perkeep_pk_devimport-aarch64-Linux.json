@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pk-devimport",
+  "pkg_family": "perkeep",
+  "pkg_id": "pk-devimport#github.com_perkeep_perkeep",
+  "pkg_name": "pk-devimport",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perkeep/perkeep",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Perkeep _née Camlistore_ is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+  "homepage": [
+    "https://github.com/perkeep/perkeep"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closure",
+    "dev",
+    "devcam",
+    "docker",
+    "envvardoc",
+    "genclosuredeps",
+    "hello",
+    "perkeepd",
+    "pk",
+    "pk-devimport",
+    "pk-get",
+    "pk-mount",
+    "pk-put",
+    "pk-web",
+    "publisher",
+    "release",
+    "scancab",
+    "scanningcabinet",
+    "synology"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/perkeep/perkeep/archive/56726780f66b5654c1d7c01dc85b0e686ddbffd2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5672678-250527T140155",
+  "version_upstream": "",
+  "bsum": "20f89b1d6a7b4287846bd3e44a9147b42bad37ea8780171779c76530460634a6",
+  "build_date": "2025-06-21T10:31:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794483740",
+  "build_id": "15794483740",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/pk-devimport?tag=HEAD-5672678-250527T140155-aarch64-Linux&download=pk-devimport.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6634",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/pk-devimport?tag=HEAD-5672678-250527T140155-aarch64-Linux&download=pk-devimport",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perkeep/perkeep/pk-devimport:HEAD-5672678-250527T140155-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perkeep/perkeep/pk-devimport",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/pk-devimport?tag=HEAD-5672678-250527T140155-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a7dd2dc5c8c7677f65fbf2f51f33384955b28aaa5de84be4f5e55f31043c74d",
+  "size": "27 MB",
+  "size_raw": "27344448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
