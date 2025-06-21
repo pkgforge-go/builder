@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "super-simple-store",
+  "pkg_family": "diskv",
+  "pkg_id": "super-simple-store#github.com_peterbourgon_diskv",
+  "pkg_name": "super-simple-store",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/peterbourgon/diskv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A disk-backed key-value store.",
+  "homepage": [
+    "https://github.com/peterbourgon/diskv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced-transform",
+    "content-addressable-store",
+    "git-like-store",
+    "super-simple-store"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/peterbourgon/diskv/archive/2566386005f64f58f34e1ff32907800a64537e6a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2566386-211110T021007",
+  "version_upstream": "v3.0.1",
+  "bsum": "5473874f88831c64ff5138c49d84fe3ed63cebc7f72029d942f8f9047d051551",
+  "build_date": "2025-06-21T10:23:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794485125",
+  "build_id": "15794485125",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peterbourgon/diskv/super-simple-store?tag=HEAD-2566386-211110T021007-aarch64-Linux&download=super-simple-store.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1435",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peterbourgon/diskv/super-simple-store?tag=HEAD-2566386-211110T021007-aarch64-Linux&download=super-simple-store",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/peterbourgon/diskv/super-simple-store:HEAD-2566386-211110T021007-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/peterbourgon/diskv/super-simple-store",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peterbourgon/diskv/super-simple-store?tag=HEAD-2566386-211110T021007-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bff1968a0f154534f639b8b1c63763535181690620fef288754ebfe9d9b34640",
+  "size": "1.9 MB",
+  "size_raw": "1956664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
