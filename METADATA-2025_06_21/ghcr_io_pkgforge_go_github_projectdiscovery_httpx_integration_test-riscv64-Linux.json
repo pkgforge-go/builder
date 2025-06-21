@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "integration-test",
+  "pkg_family": "httpx",
+  "pkg_id": "integration-test#github.com_projectdiscovery_httpx",
+  "pkg_name": "integration-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/httpx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+  "homepage": [
+    "https://github.com/projectdiscovery/httpx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "functional-test",
+    "httpx",
+    "integration-test",
+    "simple",
+    "speed_control"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/httpx/archive/faef63191950f116f93dc46f93e04c216703edc6.tar.gz"
+  ],
+  "tag": [
+    "bugbounty",
+    "cli",
+    "cybersecurity",
+    "hacktoberfest",
+    "http",
+    "lib",
+    "osint",
+    "pentest-tool",
+    "pipeline",
+    "ssl-certificate"
+  ],
+  "version": "HEAD-faef631-250619T105914",
+  "version_upstream": "",
+  "bsum": "ecf7f6b047075f345ddc4b1d9996c4c2704632498c9122093eac5943650e02c8",
+  "build_date": "2025-06-21T11:42:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794951279",
+  "build_id": "15794951279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/httpx/integration-test?tag=HEAD-faef631-250619T105914-riscv64-Linux&download=integration-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8607",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/httpx/integration-test?tag=HEAD-faef631-250619T105914-riscv64-Linux&download=integration-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/httpx/integration-test:HEAD-faef631-250619T105914-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/httpx/integration-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/httpx/integration-test?tag=HEAD-faef631-250619T105914-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8363ffbd8a5ebd9959eb765c9d9967685a37f35c3b0a9a87e7420b3c4b893b2",
+  "size": "40 MB",
+  "size_raw": "41084888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
