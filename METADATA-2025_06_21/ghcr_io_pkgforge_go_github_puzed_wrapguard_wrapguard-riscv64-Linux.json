@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wrapguard",
+  "pkg_family": "wrapguard",
+  "pkg_id": "wrapguard#github.com_puzed_wrapguard",
+  "pkg_name": "wrapguard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/puzed/wrapguard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Userspace WireGuard proxy for transparent network tunneling",
+  "homepage": [
+    "https://github.com/puzed/wrapguard"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "wrapguard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/puzed/wrapguard/archive/f7a85a4405dac9b067f79df9f77356c7f0df039f.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "linux",
+    "proxy",
+    "userspace",
+    "wireguard"
+  ],
+  "version": "HEAD-f7a85a4-250620T201624",
+  "version_upstream": "v1.2.1",
+  "bsum": "198e2d6f9140a3e6fdf214483907fd77b22004b1acbffb20e6341878b0d81578",
+  "build_date": "2025-06-21T12:14:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795308743",
+  "build_id": "15795308743",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/puzed/wrapguard/wrapguard?tag=HEAD-f7a85a4-250620T201624-riscv64-Linux&download=wrapguard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "72",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/puzed/wrapguard/wrapguard?tag=HEAD-f7a85a4-250620T201624-riscv64-Linux&download=wrapguard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/puzed/wrapguard/wrapguard:HEAD-f7a85a4-250620T201624-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/puzed/wrapguard/wrapguard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/puzed/wrapguard/wrapguard?tag=HEAD-f7a85a4-250620T201624-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0df096bb18557f0d2404f0d33ed74db8276a123f949ac182d2e7e672ac2a82fd",
+  "size": "3.7 MB",
+  "size_raw": "3862968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
