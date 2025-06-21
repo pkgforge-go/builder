@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "migration_generator",
+  "pkg_family": "assisted-service",
+  "pkg_id": "migration_generator#github.com_openshift_assisted_service",
+  "pkg_name": "migration_generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/assisted-service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openshift/assisted-service"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assisted-service-tools",
+    "gomock_reflect_3544310690",
+    "graphstatemachine",
+    "hack",
+    "migration_generator",
+    "webadmission"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/assisted-service/archive/a15f15f1dc9a0bc3f64b85827e8693e7f20d7608.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a15f15f-250621T030949",
+  "version_upstream": "",
+  "bsum": "f31614577a30dcf74e52ec5319806f4ea09a57e30bb03c2908681ca81a0bebbf",
+  "build_date": "2025-06-21T10:13:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794436697",
+  "build_id": "15794436697",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-service/migration_generator?tag=HEAD-a15f15f-250621T030949-aarch64-Linux&download=migration_generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "125",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-service/migration_generator?tag=HEAD-a15f15f-250621T030949-aarch64-Linux&download=migration_generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/assisted-service/migration_generator:HEAD-a15f15f-250621T030949-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/assisted-service/migration_generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-service/migration_generator?tag=HEAD-a15f15f-250621T030949-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cfa22d209401776dc718b4e9012a17f8f57f440a0c095c97cefded6ddd429671",
+  "size": "2.8 MB",
+  "size_raw": "2903064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
