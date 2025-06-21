@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "donkey",
+  "pkg_family": "kiel-live",
+  "pkg_id": "donkey#github.com_kiel_live_kiel_live",
+  "pkg_name": "donkey",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kiel-live/kiel-live",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This app allows you to view live updates of public transport.",
+  "homepage": [
+    "https://github.com/kiel-live/kiel-live"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ais",
+    "donkey",
+    "gtfs",
+    "kvg",
+    "nextbike"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kiel-live/kiel-live/archive/d75345dd33870e1ecf4d673f94b8d8cb8e80f453.tar.gz"
+  ],
+  "tag": [
+    "bus-arrivals",
+    "kiel",
+    "live",
+    "nodejs",
+    "opnv",
+    "public-transit",
+    "public-transport",
+    "public-transportation",
+    "pwa",
+    "vuejs"
+  ],
+  "version": "HEAD-d75345d-250621T031132",
+  "version_upstream": "",
+  "bsum": "fd544651f327295ef35684fdeb3861d3e32c3dde937bf2cc59f1f454bc435592",
+  "build_date": "2025-06-21T08:51:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793693158",
+  "build_id": "15793693158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/donkey?tag=HEAD-d75345d-250621T031132-aarch64-Linux&download=donkey.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/donkey?tag=HEAD-d75345d-250621T031132-aarch64-Linux&download=donkey",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kiel-live/kiel-live/donkey:HEAD-d75345d-250621T031132-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kiel-live/kiel-live/donkey",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiel-live/kiel-live/donkey?tag=HEAD-d75345d-250621T031132-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6da86d587d5d07800b93657a202cba8bc222c0cc74e156e0f30ee860e89db8c",
+  "size": "7.0 MB",
+  "size_raw": "7326528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
