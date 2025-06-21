@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "example-server",
+  "pkg_family": "go-selfupdate",
+  "pkg_id": "example-server#github.com_sanbornm_go_selfupdate",
+  "pkg_name": "example-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sanbornm/go-selfupdate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enable your Go applications to self update",
+  "homepage": [
+    "https://github.com/sanbornm/go-selfupdate"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example-server",
+    "go-selfupdate",
+    "hello-updater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sanbornm/go-selfupdate/archive/e1c03e3d6ac7f1c43cf57c51a28cac3b31041ed0.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "selfupdate"
+  ],
+  "version": "HEAD-e1c03e3-230714T055711",
+  "version_upstream": "",
+  "bsum": "c76ef45857c0949b7051c28aba5432c95d13e2ae07b1067b836f3f0c1175ea82",
+  "build_date": "2025-06-21T14:57:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796494661",
+  "build_id": "15796494661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanbornm/go-selfupdate/example-server?tag=HEAD-e1c03e3-230714T055711-x86_64-Linux&download=example-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanbornm/go-selfupdate/example-server?tag=HEAD-e1c03e3-230714T055711-x86_64-Linux&download=example-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sanbornm/go-selfupdate/example-server:HEAD-e1c03e3-230714T055711-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sanbornm/go-selfupdate/example-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sanbornm/go-selfupdate/example-server?tag=HEAD-e1c03e3-230714T055711-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bd96183ebb5de20ff497e6d1cede1110cb6f153af957badc63a9563f8fd27804",
+  "size": "6.0 MB",
+  "size_raw": "6215584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
