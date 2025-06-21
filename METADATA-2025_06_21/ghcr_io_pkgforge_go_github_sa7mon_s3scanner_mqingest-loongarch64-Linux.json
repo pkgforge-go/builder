@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mqingest",
+  "pkg_family": "S3Scanner",
+  "pkg_id": "mqingest#github.com_sa7mon_S3Scanner",
+  "pkg_name": "mqingest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sa7mon/S3Scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scan for misconfigured S3 buckets across S3-compatible APIs!",
+  "homepage": [
+    "https://github.com/sa7mon/S3Scanner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mqingest",
+    "regioncheck",
+    "s3scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sa7mon/S3Scanner/archive/b6c26d67bc2abe346555dd7010e6065889d66039.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "bugbounty",
+    "gcp",
+    "infosec",
+    "s3",
+    "s3scanner"
+  ],
+  "version": "HEAD-b6c26d6-250301T124506",
+  "version_upstream": "",
+  "bsum": "13d06cb69f37a9b8277da935466900deeb01f5f7ce262127cabfebf6fdd81148",
+  "build_date": "2025-06-21T14:47:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796450895",
+  "build_id": "15796450895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/mqingest?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&download=mqingest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2805",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/mqingest?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&download=mqingest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sa7mon/s3scanner/mqingest:HEAD-b6c26d6-250301T124506-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sa7mon/s3scanner/mqingest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/mqingest?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "461be8e92795e4e7cdf240baad80d326fd8d88f8fa634d7daa93c7918632812a",
+  "size": "5.7 MB",
+  "size_raw": "5884192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

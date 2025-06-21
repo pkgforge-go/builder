@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "s3scanner",
+  "pkg_family": "S3Scanner",
+  "pkg_id": "s3scanner#github.com_sa7mon_S3Scanner",
+  "pkg_name": "s3scanner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sa7mon/S3Scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scan for misconfigured S3 buckets across S3-compatible APIs!",
+  "homepage": [
+    "https://github.com/sa7mon/S3Scanner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mqingest",
+    "regioncheck",
+    "s3scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sa7mon/S3Scanner/archive/b6c26d67bc2abe346555dd7010e6065889d66039.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "bugbounty",
+    "gcp",
+    "infosec",
+    "s3",
+    "s3scanner"
+  ],
+  "version": "HEAD-b6c26d6-250301T124506",
+  "version_upstream": "",
+  "bsum": "87ee91973e296539f4467d9f8648581b3ae42ad712a671f7d727a406f7be9a83",
+  "build_date": "2025-06-21T14:48:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796450895",
+  "build_id": "15796450895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/s3scanner?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&download=s3scanner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2805",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/s3scanner?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&download=s3scanner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sa7mon/s3scanner/s3scanner:HEAD-b6c26d6-250301T124506-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sa7mon/s3scanner/s3scanner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/s3scanner?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90e2a2826defaf139a986f3167687fcd679bb0c1b4630d80115f9b66fc85bf0a",
+  "size": "17 MB",
+  "size_raw": "17206112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

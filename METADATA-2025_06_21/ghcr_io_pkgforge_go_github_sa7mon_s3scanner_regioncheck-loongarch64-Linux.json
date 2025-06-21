@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "regioncheck",
+  "pkg_family": "S3Scanner",
+  "pkg_id": "regioncheck#github.com_sa7mon_S3Scanner",
+  "pkg_name": "regioncheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sa7mon/S3Scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scan for misconfigured S3 buckets across S3-compatible APIs!",
+  "homepage": [
+    "https://github.com/sa7mon/S3Scanner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mqingest",
+    "regioncheck",
+    "s3scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sa7mon/S3Scanner/archive/b6c26d67bc2abe346555dd7010e6065889d66039.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "bugbounty",
+    "gcp",
+    "infosec",
+    "s3",
+    "s3scanner"
+  ],
+  "version": "HEAD-b6c26d6-250301T124506",
+  "version_upstream": "",
+  "bsum": "4219b6bb73f6b295b7a9296db15fdef6f01d72495e8d26a321add66d83c98af1",
+  "build_date": "2025-06-21T14:47:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796450895",
+  "build_id": "15796450895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/regioncheck?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&download=regioncheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2805",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/regioncheck?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&download=regioncheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sa7mon/s3scanner/regioncheck:HEAD-b6c26d6-250301T124506-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sa7mon/s3scanner/regioncheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sa7mon/s3scanner/regioncheck?tag=HEAD-b6c26d6-250301T124506-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0992f4c586fd2a0f4eea93375c949d8855a277b05c4f87c7614e2c566bc2b0d5",
+  "size": "6.7 MB",
+  "size_raw": "6991648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
