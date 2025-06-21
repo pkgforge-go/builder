@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bnd",
+  "pkg_family": "bnd",
+  "pkg_id": "bnd#github.com_carabiner_dev_bnd",
+  "pkg_name": "bnd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/carabiner-dev/bnd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sign and package attestations in sigstore bundles",
+  "homepage": [
+    "https://github.com/carabiner-dev/bnd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bnd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/carabiner-dev/bnd/archive/6a95f0d0bb158931b3f2151d352782e75ee95820.tar.gz"
+  ],
+  "tag": [
+    "attestation",
+    "attestations",
+    "intoto",
+    "signature-verification",
+    "signatures",
+    "sigstore",
+    "slsa",
+    "slsa-provenance"
+  ],
+  "version": "HEAD-6a95f0d-250621T021312",
+  "version_upstream": "",
+  "bsum": "0e134960c93f60a5bd48003f3b2418b61d77f38755feb4566c5f33226b63b45e",
+  "build_date": "2025-06-21T21:53:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799860809",
+  "build_id": "15799860809",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carabiner-dev/bnd/bnd?tag=HEAD-6a95f0d-250621T021312-loongarch64-Linux&download=bnd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carabiner-dev/bnd/bnd?tag=HEAD-6a95f0d-250621T021312-loongarch64-Linux&download=bnd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carabiner-dev/bnd/bnd:HEAD-6a95f0d-250621T021312-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/carabiner-dev/bnd/bnd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carabiner-dev/bnd/bnd?tag=HEAD-6a95f0d-250621T021312-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bf7b5c22a3b18c323d9dd4833136c829cd37effca4a88558db7bb649a45e8df",
+  "size": "25 MB",
+  "size_raw": "26096416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
