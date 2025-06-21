@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "google_metadata_script_runner",
+  "pkg_family": "guest-agent",
+  "pkg_id": "google_metadata_script_runner#github.com_GoogleCloudPlatform_guest_agent",
+  "pkg_name": "google_metadata_script_runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/guest-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/guest-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gce_workload_cert_refresh",
+    "google_authorized_keys",
+    "google_guest_agent",
+    "google_metadata_script_runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/guest-agent/archive/369a8ee7c532cd995dd1a2644bafea5ace91c395.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-369a8ee-250620T215812",
+  "version_upstream": "",
+  "bsum": "d60dfc84ec9d7a36f33af1f0606e4a3b2e3a1424dfbce1a03fad1a5f73846552",
+  "build_date": "2025-06-21T06:54:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793123823",
+  "build_id": "15793123823",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-agent/google_metadata_script_runner?tag=HEAD-369a8ee-250620T215812-riscv64-Linux&download=google_metadata_script_runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "144",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-agent/google_metadata_script_runner?tag=HEAD-369a8ee-250620T215812-riscv64-Linux&download=google_metadata_script_runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/guest-agent/google_metadata_script_runner:HEAD-369a8ee-250620T215812-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/guest-agent/google_metadata_script_runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-agent/google_metadata_script_runner?tag=HEAD-369a8ee-250620T215812-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8df7598da502ded2e9f3a71d50b5f88756b81b16d46799404ea4d8f50ae5ad5c",
+  "size": "18 MB",
+  "size_raw": "18538808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
