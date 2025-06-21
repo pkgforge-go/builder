@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "udpx",
+  "pkg_family": "udpx",
+  "pkg_id": "udpx#github.com_nullt3r_udpx",
+  "pkg_name": "udpx",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nullt3r/udpx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.",
+  "homepage": [
+    "https://github.com/nullt3r/udpx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "udpx"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nullt3r/udpx/archive/7e6ea01359d6f154f35e42bd2c44c26df86d28bc.tar.gz"
+  ],
+  "tag": [
+    "enumeration",
+    "network",
+    "port-scanner",
+    "portscanner",
+    "scanner",
+    "udp",
+    "udp-scanning",
+    "vulnerability-scanners"
+  ],
+  "version": "HEAD-7e6ea01-230423T225218",
+  "version_upstream": "",
+  "bsum": "e8adb8dd27356b344a7000404d8ebba333be2e7c0b8eb9d69b60b9f9bf291372",
+  "build_date": "2025-06-21T02:27:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790945269",
+  "build_id": "15790945269",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nullt3r/udpx/udpx?tag=HEAD-7e6ea01-230423T225218-riscv64-Linux&download=udpx.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "193",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nullt3r/udpx/udpx?tag=HEAD-7e6ea01-230423T225218-riscv64-Linux&download=udpx",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nullt3r/udpx/udpx:HEAD-7e6ea01-230423T225218-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nullt3r/udpx/udpx",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nullt3r/udpx/udpx?tag=HEAD-7e6ea01-230423T225218-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b49de44d3fcbfa8059aa5a682fa52bf3301a971fe9d0a4ae12f5c23a61cb5bcb",
+  "size": "2.6 MB",
+  "size_raw": "2648392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
