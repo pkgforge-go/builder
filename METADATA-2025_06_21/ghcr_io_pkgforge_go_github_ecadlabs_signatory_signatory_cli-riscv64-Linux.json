@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "signatory-cli",
+  "pkg_family": "signatory",
+  "pkg_id": "signatory-cli#github.com_ecadlabs_signatory",
+  "pkg_name": "signatory-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ecadlabs/signatory",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Signatory - A Tezos Remote Signer for signing block-chain operations with private keys using YubiHSM, AWS, GCP, Ledger_s or Azure Key Vault",
+  "homepage": [
+    "https://github.com/ecadlabs/signatory"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approve-list-svc",
+    "signatory",
+    "signatory-cli",
+    "signatory-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ecadlabs/signatory/archive/18283511a682b02f814185b5575c4487542bbf9d.tar.gz"
+  ],
+  "tag": [
+    "aws-kms",
+    "azure-keyvault",
+    "cryptography",
+    "gcp-kms",
+    "hsm",
+    "kms",
+    "ledger-wallet",
+    "tezos",
+    "tezos-baking",
+    "yubihsm"
+  ],
+  "version": "HEAD-1828351-250620T150828",
+  "version_upstream": "",
+  "bsum": "3410e88c2f1e23f94af23ced6d7420a1dff9f3162ce48993616440f3462594b3",
+  "build_date": "2025-06-21T07:59:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793196708",
+  "build_id": "15793196708",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ecadlabs/signatory/signatory-cli?tag=HEAD-1828351-250620T150828-riscv64-Linux&download=signatory-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ecadlabs/signatory/signatory-cli?tag=HEAD-1828351-250620T150828-riscv64-Linux&download=signatory-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ecadlabs/signatory/signatory-cli:HEAD-1828351-250620T150828-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ecadlabs/signatory/signatory-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ecadlabs/signatory/signatory-cli?tag=HEAD-1828351-250620T150828-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2286b06a296a2e4ee4e86cf0114b8242cd751c15a303aab9ca65ccfdce80df1d",
+  "size": "37 MB",
+  "size_raw": "38421304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
