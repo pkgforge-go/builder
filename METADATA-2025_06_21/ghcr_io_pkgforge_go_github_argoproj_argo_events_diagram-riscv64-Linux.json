@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "diagram",
+  "pkg_family": "argo-events",
+  "pkg_id": "diagram#github.com_argoproj_argo_events",
+  "pkg_name": "diagram",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-events",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Event-driven Automation Framework for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-events"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "argo-events-cmd",
+    "diagram",
+    "gen-openapi-spec",
+    "generator",
+    "hack",
+    "jsonschema",
+    "stress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-events/archive/672d908f9e4d81011c77f45efa9ce94677d6dad9.tar.gz"
+  ],
+  "tag": [
+    "argo",
+    "automation-framework",
+    "cloud-native",
+    "cloudevents",
+    "event-driven",
+    "event-source",
+    "eventing-framework",
+    "kubernetes",
+    "pipelines",
+    "triggers",
+    "workflow-automation",
+    "workflows"
+  ],
+  "version": "HEAD-672d908-250621T124509",
+  "version_upstream": "",
+  "bsum": "caeff57c1b48c1071fa7c5e2317fb26e06b97eea784d78115f2f74251b3d670c",
+  "build_date": "2025-06-21T21:50:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799851414",
+  "build_id": "15799851414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-events/diagram?tag=HEAD-672d908-250621T124509-riscv64-Linux&download=diagram.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2499",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-events/diagram?tag=HEAD-672d908-250621T124509-riscv64-Linux&download=diagram",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-events/diagram:HEAD-672d908-250621T124509-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-events/diagram",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-events/diagram?tag=HEAD-672d908-250621T124509-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36a024b10ef4c5ae224fd5eeaecfd29ec1d893fbf15f30cbea3275aaf4d3013c",
+  "size": "20 MB",
+  "size_raw": "20592056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
