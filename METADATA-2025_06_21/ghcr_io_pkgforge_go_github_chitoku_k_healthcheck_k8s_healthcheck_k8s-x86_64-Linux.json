@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "healthcheck-k8s",
+  "pkg_family": "healthcheck-k8s",
+  "pkg_id": "healthcheck-k8s#github.com_chitoku_k_healthcheck_k8s",
+  "pkg_name": "healthcheck-k8s",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chitoku-k/healthcheck-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Check if the specified Kubernetes node is schedulable and return as HTTP status code",
+  "homepage": [
+    "https://github.com/chitoku-k/healthcheck-k8s"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "healthcheck-k8s"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chitoku-k/healthcheck-k8s/archive/1806faa6cf1c23326670d0bd0c3e58a151eb17bf.tar.gz"
+  ],
+  "tag": [
+    "kubernetes"
+  ],
+  "version": "HEAD-1806faa-250621T172730",
+  "version_upstream": "v1.7.44",
+  "bsum": "e181d93cd3de4a5a7b2a4a71f4156eff8c0ce703659f31ceb88dd19bc1ff5bd3",
+  "build_date": "2025-06-21T21:56:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799863609",
+  "build_id": "15799863609",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chitoku-k/healthcheck-k8s/healthcheck-k8s?tag=HEAD-1806faa-250621T172730-x86_64-Linux&download=healthcheck-k8s.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chitoku-k/healthcheck-k8s/healthcheck-k8s?tag=HEAD-1806faa-250621T172730-x86_64-Linux&download=healthcheck-k8s",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chitoku-k/healthcheck-k8s/healthcheck-k8s:HEAD-1806faa-250621T172730-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chitoku-k/healthcheck-k8s/healthcheck-k8s",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chitoku-k/healthcheck-k8s/healthcheck-k8s?tag=HEAD-1806faa-250621T172730-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa590ee30ed5412be2511a416be9478c2ce30a1c451261dbd8094217e1f87ff0",
+  "size": "55 MB",
+  "size_raw": "57024992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
