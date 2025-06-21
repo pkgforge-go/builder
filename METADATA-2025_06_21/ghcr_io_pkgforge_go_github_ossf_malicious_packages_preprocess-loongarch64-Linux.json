@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "preprocess",
+  "pkg_family": "malicious-packages",
+  "pkg_id": "preprocess#github.com_ossf_malicious_packages",
+  "pkg_name": "preprocess",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ossf/malicious-packages",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability _OSV_ format.",
+  "homepage": [
+    "https://github.com/ossf/malicious-packages"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ingest",
+    "preprocess",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ossf/malicious-packages/archive/115888063c0d0938f5217d14a3e08c5781061d6b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-11588806-250620T084119",
+  "version_upstream": "",
+  "bsum": "6811d5786cfd1c992172add6b7b2ea2b17419597055556ca13af83aaf59929ad",
+  "build_date": "2025-06-21T04:27:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791473159",
+  "build_id": "15791473159",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ossf/malicious-packages/preprocess?tag=HEAD-11588806-250620T084119-loongarch64-Linux&download=preprocess.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ossf/malicious-packages/preprocess?tag=HEAD-11588806-250620T084119-loongarch64-Linux&download=preprocess",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ossf/malicious-packages/preprocess:HEAD-11588806-250620T084119-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ossf/malicious-packages/preprocess",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ossf/malicious-packages/preprocess?tag=HEAD-11588806-250620T084119-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2b4e14386480c487317bce54b78f3009c46dafe99ee70a31ae97b31f8a4fb4c",
+  "size": "3.1 MB",
+  "size_raw": "3199032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
