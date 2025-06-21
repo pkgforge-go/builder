@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "wc",
+  "pkg_family": "nucore",
+  "pkg_id": "wc#github.com_soupfoo_nucore",
+  "pkg_name": "wc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/soupfoo/nucore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "*nix coreutils",
+  "homepage": [
+    "https://github.com/soupfoo/nucore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basename",
+    "cat",
+    "echo",
+    "ls",
+    "pwd",
+    "wc",
+    "whoami"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/soupfoo/nucore/archive/5324b65d67d7a93dc9144eb9a706b7da807a28f1.tar.gz"
+  ],
+  "tag": [
+    "coreutils"
+  ],
+  "version": "HEAD-5324b65-240501T172806",
+  "version_upstream": "",
+  "bsum": "48807ed6f5996962a1e3a73974afbaf2e9486f066a6b495a3728af665d457382",
+  "build_date": "2025-06-21T23:58:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800639910",
+  "build_id": "15800639910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soupfoo/nucore/wc?tag=HEAD-5324b65-240501T172806-aarch64-Linux&download=wc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soupfoo/nucore/wc?tag=HEAD-5324b65-240501T172806-aarch64-Linux&download=wc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/soupfoo/nucore/wc:HEAD-5324b65-240501T172806-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/soupfoo/nucore/wc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soupfoo/nucore/wc?tag=HEAD-5324b65-240501T172806-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f8835c9f13b977abec3c32c61cd2ac963a490e8091c4e7333a8d891865fb9a3",
+  "size": "1.7 MB",
+  "size_raw": "1717336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
