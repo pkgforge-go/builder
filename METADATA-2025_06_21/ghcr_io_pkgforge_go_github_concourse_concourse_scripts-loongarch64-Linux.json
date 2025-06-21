@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "concourse",
+  "pkg_id": "scripts#github.com_concourse_concourse",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/concourse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Concourse is a container-based automation system written in Go.",
+  "homepage": [
+    "https://github.com/concourse/concourse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "baggageclaim",
+    "cli",
+    "concourse",
+    "fly",
+    "fs_mounter",
+    "sample",
+    "scripts",
+    "tsa"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/concourse/archive/4e1aa2bc2ac00e63a2fe5ed4902d468c42131047.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "ci-cd",
+    "concourse",
+    "containerd",
+    "containers",
+    "continuous-delivery",
+    "continuous-integration",
+    "elm",
+    "go",
+    "pipelines",
+    "runc"
+  ],
+  "version": "HEAD-4e1aa2b-250620T122546",
+  "version_upstream": "",
+  "bsum": "43d79a4b386c489c93d035a7734526ec7c394d6752149413cac0f970fe642ed8",
+  "build_date": "2025-06-21T07:48:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793167060",
+  "build_id": "15793167060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/scripts?tag=HEAD-4e1aa2b-250620T122546-loongarch64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7583",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/scripts?tag=HEAD-4e1aa2b-250620T122546-loongarch64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/concourse/scripts:HEAD-4e1aa2b-250620T122546-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/concourse/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/scripts?tag=HEAD-4e1aa2b-250620T122546-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d60a929481c778225698d88229ee2223c3cdd52002838b7b6b847f77397e907",
+  "size": "4.1 MB",
+  "size_raw": "4284256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
