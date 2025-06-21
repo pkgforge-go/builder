@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aa",
+  "pkg_family": "apparmor.d",
+  "pkg_id": "aa#github.com_roddhjav_apparmor.d",
+  "pkg_name": "aa",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/roddhjav/apparmor.d",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full set of AppArmor profiles _~ 1500 profiles_",
+  "homepage": [
+    "https://github.com/roddhjav/apparmor.d"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aa",
+    "aa-log",
+    "cmd",
+    "prebuild"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/roddhjav/apparmor.d/archive/3ffff07f3fb386e980d9bb7bc763824bef2e6c5e.tar.gz"
+  ],
+  "tag": [
+    "apparmor",
+    "apparmor-profile",
+    "apparmor-profiles",
+    "hardening",
+    "linux",
+    "mandatory-access-control",
+    "security"
+  ],
+  "version": "HEAD-3ffff07-250620T000048",
+  "version_upstream": "",
+  "bsum": "a2757839aea334220dfee9ba72be30e0684dc1d337faf783b54af2281e1a6681",
+  "build_date": "2025-06-21T14:20:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796380861",
+  "build_id": "15796380861",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa?tag=HEAD-3ffff07-250620T000048-riscv64-Linux&download=aa.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "625",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa?tag=HEAD-3ffff07-250620T000048-riscv64-Linux&download=aa",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/roddhjav/apparmor.d/aa:HEAD-3ffff07-250620T000048-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/roddhjav/apparmor.d/aa",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa?tag=HEAD-3ffff07-250620T000048-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "872aac6e2fe778f2edd1cebdc9f972d1f974b99fd75d2936bd3a2d63320e7beb",
+  "size": "3.6 MB",
+  "size_raw": "3734664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
