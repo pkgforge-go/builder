@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aws-cloud-controller-manager",
+  "pkg_family": "cloud-provider-aws",
+  "pkg_id": "aws-cloud-controller-manager#github.com_kubernetes_cloud_provider_aws",
+  "pkg_name": "aws-cloud-controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/cloud-provider-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud provider for AWS",
+  "homepage": [
+    "https://github.com/kubernetes/cloud-provider-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-cloud-controller-manager",
+    "ecr-credential-provider"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/cloud-provider-aws/archive/76a5ea085b231bc0693c6ac6553ca0d25dbb483f.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-cloud-provider"
+  ],
+  "version": "HEAD-76a5ea0-250620T143852",
+  "version_upstream": "",
+  "bsum": "5e54d1fff99e48ab9ba6264ea27f2028eee04f473361c8cb8cb290d32f2c2d20",
+  "build_date": "2025-06-21T09:00:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793721294",
+  "build_id": "15793721294",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-aws/aws-cloud-controller-manager?tag=HEAD-76a5ea0-250620T143852-x86_64-Linux&download=aws-cloud-controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "423",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-aws/aws-cloud-controller-manager?tag=HEAD-76a5ea0-250620T143852-x86_64-Linux&download=aws-cloud-controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-aws/aws-cloud-controller-manager:HEAD-76a5ea0-250620T143852-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/cloud-provider-aws/aws-cloud-controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/cloud-provider-aws/aws-cloud-controller-manager?tag=HEAD-76a5ea0-250620T143852-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "332534761558acf434b91a9ffb890892cb452ec2f12cd1d9c36dace6150344af",
+  "size": "112 MB",
+  "size_raw": "117078720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
