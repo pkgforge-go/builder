@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "weron-echo",
+  "pkg_family": "weron",
+  "pkg_id": "weron-echo#github.com_pojntfx_weron",
+  "pkg_name": "weron-echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pojntfx/weron",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Overlay networks based on WebRTC.",
+  "homepage": [
+    "https://github.com/pojntfx/weron"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "weron",
+    "weron-echo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pojntfx/weron/archive/57baceafb481671b0a60a9d3fbdf259fbea37214.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "nat",
+    "networking",
+    "overlay-network",
+    "p2p",
+    "pion",
+    "tuntap",
+    "vpn",
+    "webrtc"
+  ],
+  "version": "HEAD-57bacea-250421T171007",
+  "version_upstream": "v0.3.0",
+  "bsum": "b066c4bcedc3e5078f24f093095072913984f0d929bcfb53dd20508804b27df1",
+  "build_date": "2025-06-21T11:11:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794840163",
+  "build_id": "15794840163",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pojntfx/weron/weron-echo?tag=HEAD-57bacea-250421T171007-riscv64-Linux&download=weron-echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1888",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pojntfx/weron/weron-echo?tag=HEAD-57bacea-250421T171007-riscv64-Linux&download=weron-echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pojntfx/weron/weron-echo:HEAD-57bacea-250421T171007-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pojntfx/weron/weron-echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pojntfx/weron/weron-echo?tag=HEAD-57bacea-250421T171007-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e1f91cd0fb7f54f48d5c70e7876cf90dead9e973050ba6f056c16ceeff1f989",
+  "size": "12 MB",
+  "size_raw": "12560312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
