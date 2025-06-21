@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "karpenter-provider-azure",
+  "pkg_id": "controller#github.com_Azure_karpenter_provider_azure",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/karpenter-provider-azure",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AKS Karpenter Provider",
+  "homepage": [
+    "https://github.com/Azure/karpenter-provider-azure"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "instancetype_testdata_gen",
+    "prices_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/karpenter-provider-azure/archive/2f245bbcad73aaea3a7422fb4a800b81b02c918b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2f245bb-250620T174955",
+  "version_upstream": "v1.5.0",
+  "bsum": "9ff6a52942655edee3436785373c409e1a46d1b945d6739e52d6f68bfa0722ce",
+  "build_date": "2025-06-21T06:47:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793123257",
+  "build_id": "15793123257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/karpenter-provider-azure/controller?tag=HEAD-2f245bb-250620T174955-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "471",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/karpenter-provider-azure/controller?tag=HEAD-2f245bb-250620T174955-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/karpenter-provider-azure/controller:HEAD-2f245bb-250620T174955-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/karpenter-provider-azure/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/karpenter-provider-azure/controller?tag=HEAD-2f245bb-250620T174955-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "325d17d5f85c8228b99354be10a4a1f52b9920af4ef96fd898dea054569a4b59",
+  "size": "64 MB",
+  "size_raw": "66835488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
