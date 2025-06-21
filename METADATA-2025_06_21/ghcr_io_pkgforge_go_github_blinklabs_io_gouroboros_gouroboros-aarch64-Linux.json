@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gouroboros",
+  "pkg_family": "gouroboros",
+  "pkg_id": "gouroboros#github.com_blinklabs_io_gouroboros",
+  "pkg_name": "gouroboros",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blinklabs-io/gouroboros",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of the Cardano Ouroboros family of protocols",
+  "homepage": [
+    "https://github.com/blinklabs-io/gouroboros"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gouroboros",
+    "tx-submission"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blinklabs-io/gouroboros/archive/b275c239f4e4622e9bd38c3ef1af65a8b7a6b915.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cardano",
+    "go",
+    "golang",
+    "golang-library",
+    "library",
+    "network",
+    "ouroboros",
+    "ouroboros-network",
+    "protocol"
+  ],
+  "version": "HEAD-b275c23-250620T220251",
+  "version_upstream": "",
+  "bsum": "5776775efdbe9e0d041b138326d1d17a86d7611c668b01d21a94501bc56b5f32",
+  "build_date": "2025-06-21T07:21:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793159515",
+  "build_id": "15793159515",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blinklabs-io/gouroboros/gouroboros?tag=HEAD-b275c23-250620T220251-aarch64-Linux&download=gouroboros.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "74",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blinklabs-io/gouroboros/gouroboros?tag=HEAD-b275c23-250620T220251-aarch64-Linux&download=gouroboros",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blinklabs-io/gouroboros/gouroboros:HEAD-b275c23-250620T220251-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blinklabs-io/gouroboros/gouroboros",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blinklabs-io/gouroboros/gouroboros?tag=HEAD-b275c23-250620T220251-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "727b5d7bbf828dffddcaa72bd7c552249e47de8f70d2a20e6ad22e2d2f0a9992",
+  "size": "13 MB",
+  "size_raw": "13087520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
