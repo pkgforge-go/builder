@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "wingman",
+  "pkg_id": "client#github.com_adrianliechti_wingman",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adrianliechti/wingman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Inference Hub for AI at Scale",
+  "homepage": [
+    "https://github.com/adrianliechti/wingman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "golang",
+    "ingest",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/adrianliechti/wingman/archive/ca136881f17dad1bc479150461634045ef29610c.tar.gz"
+  ],
+  "tag": [
+    "ai-gateway",
+    "azure-openai",
+    "claude",
+    "function-calling",
+    "groq",
+    "llama",
+    "llamacpp",
+    "llm",
+    "mistral",
+    "ollama",
+    "openai",
+    "openai-api",
+    "rag"
+  ],
+  "version": "HEAD-ca13688-250621T155021",
+  "version_upstream": "",
+  "bsum": "80b5bb278687912f8304affb0789bcfebf629b8407cf5fc72cd2f6836b4a662b",
+  "build_date": "2025-06-21T21:44:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799850375",
+  "build_id": "15799850375",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/client?tag=HEAD-ca13688-250621T155021-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/client?tag=HEAD-ca13688-250621T155021-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adrianliechti/wingman/client:HEAD-ca13688-250621T155021-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adrianliechti/wingman/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/client?tag=HEAD-ca13688-250621T155021-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "756edec0b548a44e12505f4e51dd386389eb2692fa3553e1ea440de7fc3fa3ed",
+  "size": "22 MB",
+  "size_raw": "22558784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
