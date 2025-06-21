@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "naive",
+  "pkg_family": "speedtest-go",
+  "pkg_id": "naive#github.com_showwin_speedtest_go",
+  "pkg_name": "naive",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/showwin/speedtest-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI and Go API to Test Internet Speed using speedtest.net",
+  "homepage": [
+    "https://github.com/showwin/speedtest-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "multi",
+    "naive",
+    "packet_loss",
+    "speedtest-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/showwin/speedtest-go/archive/d41df68f95a47de24848b90291211f6ae55c2f4a.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "go",
+    "network",
+    "speedtest"
+  ],
+  "version": "HEAD-d41df68-250221T160745",
+  "version_upstream": "",
+  "bsum": "35a002f023d6c578d7ba9b9d9cf43d0e2e1915311ba9f844535ce6cb825a8a1b",
+  "build_date": "2025-06-21T23:20:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800263211",
+  "build_id": "15800263211",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/showwin/speedtest-go/naive?tag=HEAD-d41df68-250221T160745-x86_64-Linux&download=naive.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "656",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/showwin/speedtest-go/naive?tag=HEAD-d41df68-250221T160745-x86_64-Linux&download=naive",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/showwin/speedtest-go/naive:HEAD-d41df68-250221T160745-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/showwin/speedtest-go/naive",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/showwin/speedtest-go/naive?tag=HEAD-d41df68-250221T160745-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0819c0bb2b661a36a9fbf52ef367b9854d2cdf31c5ade4e2f6abb9f1d003e125",
+  "size": "6.5 MB",
+  "size_raw": "6772096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
