@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "neofs-node",
+  "pkg_family": "neofs-node",
+  "pkg_id": "neofs-node#github.com_nspcc_dev_neofs_node",
+  "pkg_name": "neofs-node",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nspcc-dev/neofs-node",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NeoFS is a decentralized distributed object storage integrated with the Neo blockchain",
+  "homepage": [
+    "https://github.com/nspcc-dev/neofs-node"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "neofs-adm",
+    "neofs-cli",
+    "neofs-ir",
+    "neofs-lens",
+    "neofs-node"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nspcc-dev/neofs-node/archive/1094f6cd2c99c72b5589c1335e4868c2e2d1022c.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "distributed",
+    "distributed-systems",
+    "storage"
+  ],
+  "version": "HEAD-1094f6c-250620T220318",
+  "version_upstream": "",
+  "bsum": "55e1ef9e38cc03c9b1315d7abde6a610ae0c54578043bfc5c2ad4fd3e2dc1d7d",
+  "build_date": "2025-06-21T09:36:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794160189",
+  "build_id": "15794160189",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nspcc-dev/neofs-node/neofs-node?tag=HEAD-1094f6c-250620T220318-x86_64-Linux&download=neofs-node.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nspcc-dev/neofs-node/neofs-node?tag=HEAD-1094f6c-250620T220318-x86_64-Linux&download=neofs-node",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nspcc-dev/neofs-node/neofs-node:HEAD-1094f6c-250620T220318-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nspcc-dev/neofs-node/neofs-node",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nspcc-dev/neofs-node/neofs-node?tag=HEAD-1094f6c-250620T220318-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14f79e799ea92e9235f52a9e9ef0ecc9c968d4419c1ff114093fe3670f56c57f",
+  "size": "30 MB",
+  "size_raw": "30659328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
