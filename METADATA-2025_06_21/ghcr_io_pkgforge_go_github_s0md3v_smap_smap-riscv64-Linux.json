@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "smap",
+  "pkg_family": "Smap",
+  "pkg_id": "smap#github.com_s0md3v_Smap",
+  "pkg_name": "smap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/s0md3v/Smap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a drop-in replacement for Nmap powered by shodan.io",
+  "homepage": [
+    "https://github.com/s0md3v/Smap"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "smap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/s0md3v/Smap/archive/fcf43c17f0f1aa8dbaa6600a0537b7bfae4f12b0.tar.gz"
+  ],
+  "tag": [
+    "network-scanner",
+    "network-security",
+    "nmap",
+    "nmap-alternative",
+    "port-scanner",
+    "port-scanning",
+    "scanner",
+    "scanning"
+  ],
+  "version": "HEAD-fcf43c1-250501T101942",
+  "version_upstream": "",
+  "bsum": "03c903fe022a0a68060049874d641443fd332d79df830d8283b3ec59aa15fd6b",
+  "build_date": "2025-06-21T14:44:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796446308",
+  "build_id": "15796446308",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s0md3v/smap/smap?tag=HEAD-fcf43c1-250501T101942-riscv64-Linux&download=smap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3049",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s0md3v/smap/smap?tag=HEAD-fcf43c1-250501T101942-riscv64-Linux&download=smap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/s0md3v/smap/smap:HEAD-fcf43c1-250501T101942-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/s0md3v/smap/smap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s0md3v/smap/smap?tag=HEAD-fcf43c1-250501T101942-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7059c73fb6f57770763aa6ae9c6d4892a3a5742ab03e149d1ce21843a80fc4f2",
+  "size": "16 MB",
+  "size_raw": "15840312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
