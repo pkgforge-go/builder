@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "failpoint-toolexec",
+  "pkg_family": "failpoint",
+  "pkg_id": "failpoint-toolexec#github.com_pingcap_failpoint",
+  "pkg_name": "failpoint-toolexec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/failpoint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An implementation of failpoints for Golang.",
+  "homepage": [
+    "https://github.com/pingcap/failpoint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "failpoint-ctl",
+    "failpoint-toolexec"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/failpoint/archive/b51a646c7c862d49540d5109da93c13f2d8b9264.tar.gz"
+  ],
+  "tag": [
+    "failpoint",
+    "failure-injection",
+    "fault-injection",
+    "golang"
+  ],
+  "version": "HEAD-b51a646-240528T091301",
+  "version_upstream": "",
+  "bsum": "ec7502c0ea163a472946cb39f23f31292eb82c223716ccf8d205a6b894b058f7",
+  "build_date": "2025-06-21T10:39:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794516870",
+  "build_id": "15794516870",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/failpoint/failpoint-toolexec?tag=HEAD-b51a646-240528T091301-riscv64-Linux&download=failpoint-toolexec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "850",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/failpoint/failpoint-toolexec?tag=HEAD-b51a646-240528T091301-riscv64-Linux&download=failpoint-toolexec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/failpoint/failpoint-toolexec:HEAD-b51a646-240528T091301-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/failpoint/failpoint-toolexec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/failpoint/failpoint-toolexec?tag=HEAD-b51a646-240528T091301-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ef18161bc14d5d0b90f2a86940c4299ac6b7247b124a1834f53c3da2f286689",
+  "size": "3.0 MB",
+  "size_raw": "3132968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
