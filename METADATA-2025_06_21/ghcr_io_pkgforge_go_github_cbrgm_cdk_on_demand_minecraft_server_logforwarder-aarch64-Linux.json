@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "logforwarder",
+  "pkg_family": "cdk-on-demand-minecraft-server",
+  "pkg_id": "logforwarder#github.com_cbrgm_cdk_on_demand_minecraft_server",
+  "pkg_name": "logforwarder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cbrgm/cdk-on-demand-minecraft-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "On-Demand Minecraft Server running on ECS_Fargate_ and deployed via CDK _Go_",
+  "homepage": [
+    "https://github.com/cbrgm/cdk-on-demand-minecraft-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdk",
+    "launcher",
+    "logforwarder",
+    "watchdog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cbrgm/cdk-on-demand-minecraft-server/archive/413124a50464e38547978556aba6e393dba49115.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "cdk",
+    "eks",
+    "go",
+    "minecraft",
+    "serverless"
+  ],
+  "version": "HEAD-413124a-250620T204723",
+  "version_upstream": "",
+  "bsum": "c64884173960e28bfacc9581d8a0de49ee9c8c22e73deb1038e732ec6be182e6",
+  "build_date": "2025-06-21T07:27:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793161137",
+  "build_id": "15793161137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/logforwarder?tag=HEAD-413124a-250620T204723-aarch64-Linux&download=logforwarder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/logforwarder?tag=HEAD-413124a-250620T204723-aarch64-Linux&download=logforwarder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/logforwarder:HEAD-413124a-250620T204723-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/logforwarder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cbrgm/cdk-on-demand-minecraft-server/logforwarder?tag=HEAD-413124a-250620T204723-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c9d82cad420396399039d716d616972c08accbdcd04706a33c778dab11de9a2",
+  "size": "12 MB",
+  "size_raw": "11617536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
