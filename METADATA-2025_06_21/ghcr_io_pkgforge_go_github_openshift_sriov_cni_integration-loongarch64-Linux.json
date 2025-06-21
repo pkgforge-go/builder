@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "integration",
+  "pkg_family": "sriov-cni",
+  "pkg_id": "integration#github.com_openshift_sriov_cni",
+  "pkg_name": "integration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/sriov-cni",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An SRIOV CNI plugin",
+  "homepage": [
+    "https://github.com/openshift/sriov-cni"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "integration",
+    "sriov"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/sriov-cni/archive/1a914b1e99fe20da2ece9234bce452a8a96a38c5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1a914b1-250620T080950",
+  "version_upstream": "",
+  "bsum": "b3ce0fcdc82620e753f11f4008fffaa78f60cda031fed55676ed70a2c5c4aade",
+  "build_date": "2025-06-21T03:51:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791257505",
+  "build_id": "15791257505",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-cni/integration?tag=HEAD-1a914b1-250620T080950-loongarch64-Linux&download=integration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "74",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-cni/integration?tag=HEAD-1a914b1-250620T080950-loongarch64-Linux&download=integration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/sriov-cni/integration:HEAD-1a914b1-250620T080950-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/sriov-cni/integration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/sriov-cni/integration?tag=HEAD-1a914b1-250620T080950-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "efd2fe8e9750b0c660abffd312b23e1e9d58a6296e1d47e253a687e68bbdb3e9",
+  "size": "3.8 MB",
+  "size_raw": "3904672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
