@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "application-catalog",
+  "pkg_family": "app-orch-catalog",
+  "pkg_id": "application-catalog#github.com_open_edge_platform_app_orch_catalog",
+  "pkg_name": "application-catalog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/app-orch-catalog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Facilitates catalog services for application packaging and deployment.",
+  "homepage": [
+    "https://github.com/open-edge-platform/app-orch-catalog"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application-catalog",
+    "dp-to-helm",
+    "helm-to-dp",
+    "rest-proxy",
+    "schema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/app-orch-catalog/archive/b239bbdcb91c70d858a90f66f7ca817a5230870c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b239bbd-250620T125314",
+  "version_upstream": "v0.14.8",
+  "bsum": "56ddef892a7c95de8d9445fbb8e73d96a18ae9ff90bd0f59cb233ded6726d7e1",
+  "build_date": "2025-06-21T09:51:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794432295",
+  "build_id": "15794432295",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/application-catalog?tag=HEAD-b239bbd-250620T125314-riscv64-Linux&download=application-catalog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/application-catalog?tag=HEAD-b239bbd-250620T125314-riscv64-Linux&download=application-catalog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/application-catalog:HEAD-b239bbd-250620T125314-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/application-catalog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/application-catalog?tag=HEAD-b239bbd-250620T125314-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fe3e6a3c75e5afa7f67c90e58ecbe0ff07b5c1e802024d07e575f543c893e8bf",
+  "size": "51 MB",
+  "size_raw": "52738296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
