@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sa53fw",
+  "pkg_family": "time",
+  "pkg_id": "sa53fw#github.com_facebook_time",
+  "pkg_name": "sa53fw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/facebook/time",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta_s Time libraries",
+  "homepage": [
+    "https://github.com/facebook/time"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c4u",
+    "calnex",
+    "fbclock-daemon",
+    "ntpcheck",
+    "ntpresponder",
+    "pshark",
+    "ptp4u",
+    "ptpcheck",
+    "sa53fw",
+    "sptp",
+    "sptp-exporter",
+    "testchrony"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/facebook/time/archive/0054dc74ffa6c6ade1301c1822704f7e4ba6ce0d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0054dc7-250620T135814",
+  "version_upstream": "",
+  "bsum": "c3af8d7c7b1aabdbc750677e2e5031b5a4f560689dadddfc091ed2a34f4c3915",
+  "build_date": "2025-06-21T08:12:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793267289",
+  "build_id": "15793267289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/sa53fw?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=sa53fw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/sa53fw?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=sa53fw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/facebook/time/sa53fw:HEAD-0054dc7-250620T135814-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/facebook/time/sa53fw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/sa53fw?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "651d4266e3adc317cf2eda84cd96f7d9e9c3b20db603f47a30fef6aaeac52285",
+  "size": "1.9 MB",
+  "size_raw": "1941224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

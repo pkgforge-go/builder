@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ntpresponder",
+  "pkg_family": "time",
+  "pkg_id": "ntpresponder#github.com_facebook_time",
+  "pkg_name": "ntpresponder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/facebook/time",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta_s Time libraries",
+  "homepage": [
+    "https://github.com/facebook/time"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c4u",
+    "calnex",
+    "fbclock-daemon",
+    "ntpcheck",
+    "ntpresponder",
+    "pshark",
+    "ptp4u",
+    "ptpcheck",
+    "sa53fw",
+    "sptp",
+    "sptp-exporter",
+    "testchrony"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/facebook/time/archive/0054dc74ffa6c6ade1301c1822704f7e4ba6ce0d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0054dc7-250620T135814",
+  "version_upstream": "",
+  "bsum": "533d323622ba114d041a904f212948e0e17774244cbec1178122f85d6756c0c2",
+  "build_date": "2025-06-21T08:13:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793267289",
+  "build_id": "15793267289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/ntpresponder?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=ntpresponder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/ntpresponder?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=ntpresponder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/facebook/time/ntpresponder:HEAD-0054dc7-250620T135814-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/facebook/time/ntpresponder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/ntpresponder?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ea649139b396c545ebc7b867c4ccff31bc3d36b01c33c8387445eea810247fa6",
+  "size": "6.9 MB",
+  "size_raw": "7149496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pshark",
+  "pkg_family": "time",
+  "pkg_id": "pshark#github.com_facebook_time",
+  "pkg_name": "pshark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/facebook/time",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta_s Time libraries",
+  "homepage": [
+    "https://github.com/facebook/time"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c4u",
+    "calnex",
+    "fbclock-daemon",
+    "ntpcheck",
+    "ntpresponder",
+    "pshark",
+    "ptp4u",
+    "ptpcheck",
+    "sa53fw",
+    "sptp",
+    "sptp-exporter",
+    "testchrony"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/facebook/time/archive/0054dc74ffa6c6ade1301c1822704f7e4ba6ce0d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0054dc7-250620T135814",
+  "version_upstream": "",
+  "bsum": "7ce58c8c2a126271289834f6ccf14458e0cb9da4926d9355c8e9506d9720175d",
+  "build_date": "2025-06-21T08:13:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793267289",
+  "build_id": "15793267289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/pshark?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=pshark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/pshark?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=pshark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/facebook/time/pshark:HEAD-0054dc7-250620T135814-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/facebook/time/pshark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/pshark?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a6fbca93eccc010fbf65a6ac3e1b0dfdb937f8f4b867518e71aaf68c832785b",
+  "size": "4.2 MB",
+  "size_raw": "4381160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

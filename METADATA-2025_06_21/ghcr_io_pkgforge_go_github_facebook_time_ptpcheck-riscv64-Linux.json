@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ptpcheck",
+  "pkg_family": "time",
+  "pkg_id": "ptpcheck#github.com_facebook_time",
+  "pkg_name": "ptpcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/facebook/time",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta_s Time libraries",
+  "homepage": [
+    "https://github.com/facebook/time"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c4u",
+    "calnex",
+    "fbclock-daemon",
+    "ntpcheck",
+    "ntpresponder",
+    "pshark",
+    "ptp4u",
+    "ptpcheck",
+    "sa53fw",
+    "sptp",
+    "sptp-exporter",
+    "testchrony"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/facebook/time/archive/0054dc74ffa6c6ade1301c1822704f7e4ba6ce0d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0054dc7-250620T135814",
+  "version_upstream": "",
+  "bsum": "51a096abf0495f44ae4b1cbc9766f52277fe1e7525dadbaca34ab8c2b1bbfaa2",
+  "build_date": "2025-06-21T08:13:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793267289",
+  "build_id": "15793267289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/ptpcheck?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=ptpcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/ptpcheck?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&download=ptpcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/facebook/time/ptpcheck:HEAD-0054dc7-250620T135814-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/facebook/time/ptpcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/ptpcheck?tag=HEAD-0054dc7-250620T135814-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b83a0f74df06f1eba1cc42da76b8f6f1185844a1885cf858d07fbef2d937833e",
+  "size": "13 MB",
+  "size_raw": "12980984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
