@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "functional-test",
+  "pkg_family": "dnsx",
+  "pkg_id": "functional-test#github.com_projectdiscovery_dnsx",
+  "pkg_name": "functional-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/dnsx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.",
+  "homepage": [
+    "https://github.com/projectdiscovery/dnsx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnsx",
+    "functional-test",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/dnsx/archive/d4003075936404c5baeab67162c17d10be9a914e.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "dns-bruteforcer",
+    "dns-client",
+    "dns-records",
+    "dns-resolution",
+    "wildcard-filtering"
+  ],
+  "version": "HEAD-d400307-250201T191814",
+  "version_upstream": "",
+  "bsum": "7c0e1dee58dc5bc55eace7c99958cc8d80e34c3379beb42b723589a6a3d6ecbf",
+  "build_date": "2025-06-21T11:38:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794942993",
+  "build_id": "15794942993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/dnsx/functional-test?tag=HEAD-d400307-250201T191814-loongarch64-Linux&download=functional-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2389",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/dnsx/functional-test?tag=HEAD-d400307-250201T191814-loongarch64-Linux&download=functional-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/dnsx/functional-test:HEAD-d400307-250201T191814-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/dnsx/functional-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/dnsx/functional-test?tag=HEAD-d400307-250201T191814-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b7f21fa7387031dc65d9d761ad383b4d85c464e917149aa1fc49f294835d6bb2",
+  "size": "2.1 MB",
+  "size_raw": "2129176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
