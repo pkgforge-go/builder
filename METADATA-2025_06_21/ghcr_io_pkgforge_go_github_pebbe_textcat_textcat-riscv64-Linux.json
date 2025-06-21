@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "textcat",
+  "pkg_family": "textcat",
+  "pkg_id": "textcat#github.com_pebbe_textcat",
+  "pkg_name": "textcat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pebbe/textcat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go package for n-gram based text categorization, with support for utf-8 and raw text",
+  "homepage": [
+    "https://github.com/pebbe/textcat"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "textcat",
+    "textpat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pebbe/textcat/archive/f236d69afd14e7bf1645cd56ba417db11aebf8ef.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f236d69-241206T180622",
+  "version_upstream": "v2.3.0",
+  "bsum": "32523cfe12df79ae3d01a11b509d8c6a61d0eb10ed683125234e177325e2fb8d",
+  "build_date": "2025-06-21T10:15:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794472175",
+  "build_id": "15794472175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pebbe/textcat/textcat?tag=HEAD-f236d69-241206T180622-riscv64-Linux&download=textcat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "73",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pebbe/textcat/textcat?tag=HEAD-f236d69-241206T180622-riscv64-Linux&download=textcat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pebbe/textcat/textcat:HEAD-f236d69-241206T180622-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pebbe/textcat/textcat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pebbe/textcat/textcat?tag=HEAD-f236d69-241206T180622-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "383e869dbb5a53bf6df6a19a81d50a770359791784b42bc6ffb05bfba34b2f49",
+  "size": "4.1 MB",
+  "size_raw": "4219464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
