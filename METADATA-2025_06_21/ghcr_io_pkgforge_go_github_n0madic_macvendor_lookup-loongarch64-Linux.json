@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lookup",
+  "pkg_family": "macvendor",
+  "pkg_id": "lookup#github.com_n0madic_macvendor",
+  "pkg_name": "lookup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/n0madic/macvendor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library with embedded DB for getting MAC address vendor information",
+  "homepage": [
+    "https://github.com/n0madic/macvendor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generatedb",
+    "lookup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/n0madic/macvendor/archive/2586286a2d8401e30b73c8ff549b8c8fa76a4c88.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2586286-250621T050804",
+  "version_upstream": "",
+  "bsum": "115f6877d8c837e62c2632e53ff3962c219bfdcae0d3b2dc74de211987e49080",
+  "build_date": "2025-06-21T22:29:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799986151",
+  "build_id": "15799986151",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/lookup?tag=HEAD-2586286-250621T050804-loongarch64-Linux&download=lookup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/lookup?tag=HEAD-2586286-250621T050804-loongarch64-Linux&download=lookup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/n0madic/macvendor/lookup:HEAD-2586286-250621T050804-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/n0madic/macvendor/lookup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/lookup?tag=HEAD-2586286-250621T050804-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "173938064cd350913dd05c67464bec7d4305b8af082fe24980693524a37e5436",
+  "size": "3.8 MB",
+  "size_raw": "3920896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
