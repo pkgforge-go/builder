@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "erda",
+  "pkg_id": "generate#github.com_erda_project_erda",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/erda-project/erda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An enterprise-grade Cloud-Native application platform for Kubernetes.",
+  "homepage": [
+    "https://github.com/erda-project/erda"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collect",
+    "collectevents",
+    "generate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/erda-project/erda/archive/4fbc6d7dc27ab0091305f53b34931e76bb1c4ac6.tar.gz"
+  ],
+  "tag": [
+    "apm",
+    "ci-cd",
+    "cmp",
+    "containers",
+    "devops",
+    "docker",
+    "go",
+    "golang",
+    "kubernetes",
+    "microservice"
+  ],
+  "version": "HEAD-4fbc6d7-250621T132358",
+  "version_upstream": "",
+  "bsum": "0ba94d199c6d201fa212085d2464702b02f838f94df1578294dec2abbc4ea0e2",
+  "build_date": "2025-06-21T22:10:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799887785",
+  "build_id": "15799887785",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erda-project/erda/generate?tag=HEAD-4fbc6d7-250621T132358-x86_64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2708",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erda-project/erda/generate?tag=HEAD-4fbc6d7-250621T132358-x86_64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/erda-project/erda/generate:HEAD-4fbc6d7-250621T132358-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/erda-project/erda/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erda-project/erda/generate?tag=HEAD-4fbc6d7-250621T132358-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39bd5872bfebc9ef8c1427a42a3b0eeff0b1f71e432f8ca9f85558c5f20938df",
+  "size": "1.8 MB",
+  "size_raw": "1807736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
