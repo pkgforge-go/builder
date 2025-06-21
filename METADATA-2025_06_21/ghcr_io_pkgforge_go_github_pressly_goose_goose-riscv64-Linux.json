@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goose",
+  "pkg_family": "goose",
+  "pkg_id": "goose#github.com_pressly_goose",
+  "pkg_name": "goose",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pressly/goose",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A database migration tool. Supports SQL migrations and Go functions.",
+  "homepage": [
+    "https://github.com/pressly/goose"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-migrations",
+    "goose"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pressly/goose/archive/f2b5a9d8bcd75d257ff9b484e79e2edb94dd0b8c.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "database-migrations",
+    "go",
+    "golang",
+    "migration",
+    "migrations",
+    "mysql",
+    "postgres",
+    "postgresql",
+    "schema",
+    "sql",
+    "sqlite"
+  ],
+  "version": "HEAD-f2b5a9d-250525T151709",
+  "version_upstream": "",
+  "bsum": "c40f0b8b5d03f8c50552e5798ec977d69ba5f88820e1dd84acc77ca31b7c5b53",
+  "build_date": "2025-06-21T11:25:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794872949",
+  "build_id": "15794872949",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pressly/goose/goose?tag=HEAD-f2b5a9d-250525T151709-riscv64-Linux&download=goose.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8554",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pressly/goose/goose?tag=HEAD-f2b5a9d-250525T151709-riscv64-Linux&download=goose",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pressly/goose/goose:HEAD-f2b5a9d-250525T151709-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pressly/goose/goose",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pressly/goose/goose?tag=HEAD-f2b5a9d-250525T151709-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3b14a516c35b3ace2da35fa0e621cd463ecd9e2cc787ef2f574382728244a84",
+  "size": "39 MB",
+  "size_raw": "40384248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f2b5a9d-250525T151709-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
