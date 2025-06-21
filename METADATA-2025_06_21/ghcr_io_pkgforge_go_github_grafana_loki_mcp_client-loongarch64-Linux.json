@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "loki-mcp",
+  "pkg_id": "client#github.com_grafana_loki_mcp",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/loki-mcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An MCP _ Model Context Protocol _ Server for Grafana Loki",
+  "homepage": [
+    "https://github.com/grafana/loki-mcp"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/loki-mcp/archive/247dc56b2089cf110736625780fea4c2d3310aeb.tar.gz"
+  ],
+  "tag": [
+    "agentic-ai",
+    "agentic-workflow",
+    "golang",
+    "grafana",
+    "loki",
+    "mcp",
+    "mcp-server"
+  ],
+  "version": "HEAD-247dc56-250619T134151",
+  "version_upstream": "v0.3.0",
+  "bsum": "eb6854ea745fd6e85f3e8326d451b4eba04b2ebf3236a352c744834a9fa16b3b",
+  "build_date": "2025-06-21T08:25:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793631846",
+  "build_id": "15793631846",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/loki-mcp/client?tag=HEAD-247dc56-250619T134151-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/loki-mcp/client?tag=HEAD-247dc56-250619T134151-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/loki-mcp/client:HEAD-247dc56-250619T134151-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/loki-mcp/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/loki-mcp/client?tag=HEAD-247dc56-250619T134151-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9cdfd8e0d415fe20b8d6a1fcf30709e4dc2a720226710997c09dbb4a089468d",
+  "size": "2.3 MB",
+  "size_raw": "2387032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
