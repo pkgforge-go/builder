@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gator",
+  "pkg_family": "gatekeeper",
+  "pkg_id": "gator#github.com_open_policy_agent_gatekeeper",
+  "pkg_name": "gator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-policy-agent/gatekeeper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐊 Gatekeeper - Policy Controller for Kubernetes",
+  "homepage": [
+    "https://github.com/open-policy-agent/gatekeeper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dummy-provider",
+    "fake-reader",
+    "fake-subscriber",
+    "gatekeeper",
+    "gator",
+    "helmify"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-policy-agent/gatekeeper/archive/56d0cbc12b8d3f1e76257ce2185ece55b9ee1ffa.tar.gz"
+  ],
+  "tag": [
+    "admission",
+    "cncf",
+    "gatekeeper",
+    "hacktoberfest",
+    "kubernetes",
+    "mutation",
+    "opa",
+    "policy",
+    "policy-engine",
+    "security",
+    "validation"
+  ],
+  "version": "HEAD-56d0cbc-250620T174038",
+  "version_upstream": "",
+  "bsum": "b9cae999661e066d597fc0d44f54aaec62ccef8a42ca707d1dc10ac21f088ece",
+  "build_date": "2025-06-21T09:54:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794434103",
+  "build_id": "15794434103",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/gator?tag=HEAD-56d0cbc-250620T174038-x86_64-Linux&download=gator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3915",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/gator?tag=HEAD-56d0cbc-250620T174038-x86_64-Linux&download=gator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/gator:HEAD-56d0cbc-250620T174038-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/gator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/gator?tag=HEAD-56d0cbc-250620T174038-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c0051136f441c5e5c91c4d0deffb87a441bab9eb7bc3910930070bdc8ef987e",
+  "size": "65 MB",
+  "size_raw": "67854720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
