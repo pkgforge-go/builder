@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "andromeda-house-keeping",
+  "pkg_family": "andromeda",
+  "pkg_id": "andromeda-house-keeping#github.com_sapcc_andromeda",
+  "pkg_name": "andromeda-house-keeping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/andromeda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Platform agnostic GSLB frontend with OpenStack-like API",
+  "homepage": [
+    "https://github.com/sapcc/andromeda"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "andromeda-akamai-agent",
+    "andromeda-akamai-reports",
+    "andromeda-f5-agent",
+    "andromeda-f5-status-agent",
+    "andromeda-house-keeping",
+    "andromeda-liquid-server",
+    "andromeda-migrate",
+    "andromeda-server",
+    "m31ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/andromeda/archive/4db208f388e54223390144cefe339b5caa9697ac.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "gslb",
+    "loadbalancer",
+    "openstack"
+  ],
+  "version": "HEAD-4db208f-250621T113853",
+  "version_upstream": "",
+  "bsum": "52357af104b261ebf9e218900f8f0d03d5cafb5bee02106b9b0d82d6db951e8a",
+  "build_date": "2025-06-21T15:01:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796495070",
+  "build_id": "15796495070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-house-keeping?tag=HEAD-4db208f-250621T113853-x86_64-Linux&download=andromeda-house-keeping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-house-keeping?tag=HEAD-4db208f-250621T113853-x86_64-Linux&download=andromeda-house-keeping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-house-keeping:HEAD-4db208f-250621T113853-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-house-keeping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-house-keeping?tag=HEAD-4db208f-250621T113853-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2ed84f15f59cbe30d30dcd18c3c8c4bb02485af848162e138d0b3cd947ae1f1",
+  "size": "19 MB",
+  "size_raw": "19231344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

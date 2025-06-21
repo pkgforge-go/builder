@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "andromeda-server",
+  "pkg_family": "andromeda",
+  "pkg_id": "andromeda-server#github.com_sapcc_andromeda",
+  "pkg_name": "andromeda-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/andromeda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Platform agnostic GSLB frontend with OpenStack-like API",
+  "homepage": [
+    "https://github.com/sapcc/andromeda"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "andromeda-akamai-agent",
+    "andromeda-akamai-reports",
+    "andromeda-f5-agent",
+    "andromeda-f5-status-agent",
+    "andromeda-house-keeping",
+    "andromeda-liquid-server",
+    "andromeda-migrate",
+    "andromeda-server",
+    "m31ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/andromeda/archive/4db208f388e54223390144cefe339b5caa9697ac.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "gslb",
+    "loadbalancer",
+    "openstack"
+  ],
+  "version": "HEAD-4db208f-250621T113853",
+  "version_upstream": "",
+  "bsum": "913954fd370d231b471d9396e6d698ebe9ec985341e1858dad3dcb43f264f92a",
+  "build_date": "2025-06-21T15:00:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796495070",
+  "build_id": "15796495070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-server?tag=HEAD-4db208f-250621T113853-x86_64-Linux&download=andromeda-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-server?tag=HEAD-4db208f-250621T113853-x86_64-Linux&download=andromeda-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-server:HEAD-4db208f-250621T113853-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-server?tag=HEAD-4db208f-250621T113853-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4713782e0dc41e17c00247cfec4a744d3ae238b6265259404277de5fa4393b9",
+  "size": "27 MB",
+  "size_raw": "28259088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
