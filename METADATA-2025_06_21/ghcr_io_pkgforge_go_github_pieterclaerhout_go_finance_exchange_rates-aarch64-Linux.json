@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "exchange-rates",
+  "pkg_family": "go-finance",
+  "pkg_id": "exchange-rates#github.com_pieterclaerhout_go_finance",
+  "pkg_name": "exchange-rates",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pieterclaerhout/go-finance",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Finance related Go functions _e.g. exchange rates, VAT number checking, …_",
+  "homepage": [
+    "https://github.com/pieterclaerhout/go-finance"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-iban",
+    "check-vat",
+    "exchange-rates"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pieterclaerhout/go-finance/archive/fd18f0a87fb5337e4943a6ea46b6adf7fcf89a9e.tar.gz"
+  ],
+  "tag": [
+    "exchange-rate",
+    "exchange-rates",
+    "golang",
+    "vat-number",
+    "vat-validation",
+    "vat-validator"
+  ],
+  "version": "HEAD-fd18f0a-241125T085554",
+  "version_upstream": "",
+  "bsum": "f0cb02d2548d629ffd18908b402b12c9e31e350e45fe941e7eeb25359b1b38dd",
+  "build_date": "2025-06-21T10:37:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794512061",
+  "build_id": "15794512061",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pieterclaerhout/go-finance/exchange-rates?tag=HEAD-fd18f0a-241125T085554-aarch64-Linux&download=exchange-rates.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pieterclaerhout/go-finance/exchange-rates?tag=HEAD-fd18f0a-241125T085554-aarch64-Linux&download=exchange-rates",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pieterclaerhout/go-finance/exchange-rates:HEAD-fd18f0a-241125T085554-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pieterclaerhout/go-finance/exchange-rates",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pieterclaerhout/go-finance/exchange-rates?tag=HEAD-fd18f0a-241125T085554-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ac0229f9e32736c4ed041525cfc344fec81799e6ef3988769c770031e5c224f4",
+  "size": "5.7 MB",
+  "size_raw": "5948160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
