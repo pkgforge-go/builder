@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "docgen",
+  "pkg_family": "radius",
+  "pkg_id": "docgen#github.com_radius_project_radius",
+  "pkg_name": "docgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/radius-project/radius",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",
+  "homepage": [
+    "https://github.com/radius-project/radius"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "applications-rp",
+    "controller",
+    "crd",
+    "docgen",
+    "dynamic-rp",
+    "rad",
+    "ucpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/radius-project/radius/archive/0da9286033476187cfb5dcdb1b5c7330dbda878a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0da9286-250618T140911",
+  "version_upstream": "",
+  "bsum": "ea5f7a2173b52d6c6d1b8850370d4c2d20d92b4ff84e880beaae1808142fc10f",
+  "build_date": "2025-06-21T13:12:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795905079",
+  "build_id": "15795905079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/docgen?tag=HEAD-0da9286-250618T140911-riscv64-Linux&download=docgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1581",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/docgen?tag=HEAD-0da9286-250618T140911-riscv64-Linux&download=docgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/radius-project/radius/docgen:HEAD-0da9286-250618T140911-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/radius-project/radius/docgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/docgen?tag=HEAD-0da9286-250618T140911-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "281115d2154c7f8f8770121e836cf2c03d9bb0085eca8da841f908253b485a1a",
+  "size": "126 MB",
+  "size_raw": "131362296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
