@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "zitified-ssh",
+  "pkg_family": "zssh",
+  "pkg_id": "zitified-ssh#github.com_openziti_test_kitchen_zssh",
+  "pkg_name": "zitified-ssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openziti-test-kitchen/zssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ziti SSH",
+  "homepage": [
+    "https://github.com/openziti-test-kitchen/zssh"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ssh",
+    "zitified-ssh",
+    "zscp",
+    "zssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openziti-test-kitchen/zssh/archive/8873a27819676d88a484d7b7f53e47519ba2ad37.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8873a27-241021T090347",
+  "version_upstream": "1.0.15",
+  "bsum": "fefac593309a372e4361b9f5f5dc9ddaa396b81ac139d8c1b0eeeeab789d74e7",
+  "build_date": "2025-06-21T04:04:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791277667",
+  "build_id": "15791277667",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openziti-test-kitchen/zssh/zitified-ssh?tag=HEAD-8873a27-241021T090347-loongarch64-Linux&download=zitified-ssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openziti-test-kitchen/zssh/zitified-ssh?tag=HEAD-8873a27-241021T090347-loongarch64-Linux&download=zitified-ssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openziti-test-kitchen/zssh/zitified-ssh:HEAD-8873a27-241021T090347-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openziti-test-kitchen/zssh/zitified-ssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openziti-test-kitchen/zssh/zitified-ssh?tag=HEAD-8873a27-241021T090347-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39856424a267bd4d77e8165aef7acb59597a4ef80ed18e7545308852ef4ee987",
+  "size": "16 MB",
+  "size_raw": "16679584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
