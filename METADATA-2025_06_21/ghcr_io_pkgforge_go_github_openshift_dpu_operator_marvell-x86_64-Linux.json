@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "marvell",
+  "pkg_family": "dpu-operator",
+  "pkg_id": "marvell#github.com_openshift_dpu_operator",
+  "pkg_name": "marvell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/dpu-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This operator will manage and configure data processing unit _DPUs_ to be used in accelerating/offloading k8s networking functions",
+  "homepage": [
+    "https://github.com/openshift/dpu-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cp-agent",
+    "daemon",
+    "dpu-cni",
+    "dpu-operator-cmd",
+    "example",
+    "intelvsp",
+    "marvell",
+    "nri",
+    "task"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/dpu-operator/archive/5d2ec3021e5c03a2bbd8bc2e23d725663e4313d4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5d2ec30-250621T135523",
+  "version_upstream": "",
+  "bsum": "5b37c8da52869c6f542c8df0012c9b10818a01e5e09ff3213aa71d05b25bb054",
+  "build_date": "2025-06-21T22:55:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800113849",
+  "build_id": "15800113849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/dpu-operator/marvell?tag=HEAD-5d2ec30-250621T135523-x86_64-Linux&download=marvell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/dpu-operator/marvell?tag=HEAD-5d2ec30-250621T135523-x86_64-Linux&download=marvell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/dpu-operator/marvell:HEAD-5d2ec30-250621T135523-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/dpu-operator/marvell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/dpu-operator/marvell?tag=HEAD-5d2ec30-250621T135523-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0f3b67ee281c265edd82a06f7c7dba5269f11e3bbfb83fee070d55661811a5e",
+  "size": "41 MB",
+  "size_raw": "42853440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
