@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "postgres-operator",
+  "pkg_family": "percona-postgresql-operator",
+  "pkg_id": "postgres-operator#github.com_percona_percona_postgresql_operator",
+  "pkg_name": "postgres-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-postgresql-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for PostgreSQL",
+  "homepage": [
+    "https://github.com/percona/percona-postgresql-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "extension-installer",
+    "pgbackrest",
+    "postgres-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-postgresql-operator/archive/bc63b33cf739f85f5ba648d874592a7499c46325.tar.gz"
+  ],
+  "tag": [
+    "kubernetes-operator",
+    "percona",
+    "postgresql"
+  ],
+  "version": "HEAD-bc63b33-250621T165050",
+  "version_upstream": "",
+  "bsum": "a4f7b501d7fe2610285e27fe61c304684a88d36ccfbacd3e3436d14ae17cca45",
+  "build_date": "2025-06-21T23:05:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800166138",
+  "build_id": "15800166138",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-postgresql-operator/postgres-operator?tag=HEAD-bc63b33-250621T165050-aarch64-Linux&download=postgres-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "320",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-postgresql-operator/postgres-operator?tag=HEAD-bc63b33-250621T165050-aarch64-Linux&download=postgres-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-postgresql-operator/postgres-operator:HEAD-bc63b33-250621T165050-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-postgresql-operator/postgres-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-postgresql-operator/postgres-operator?tag=HEAD-bc63b33-250621T165050-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17b33e33827283637638e054a26589b2bd61e4fc392ede9dbbc80b05fbeef0fe",
+  "size": "59 MB",
+  "size_raw": "61825000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
