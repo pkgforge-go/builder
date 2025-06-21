@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gluetun",
+  "pkg_family": "gluetun",
+  "pkg_id": "gluetun#github.com_qdm12_gluetun",
+  "pkg_name": "gluetun",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qdm12/gluetun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+  "homepage": [
+    "https://github.com/qdm12/gluetun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gluetun"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/qdm12/gluetun/archive/9933dd3ec5c88d6a6b0f08a23031674c0591248c.tar.gz"
+  ],
+  "tag": [
+    "alpine",
+    "cyberghost",
+    "dns-over-tls",
+    "docker",
+    "golang",
+    "http-proxy",
+    "mullvad",
+    "nordvpn",
+    "openvpn",
+    "pia",
+    "privado",
+    "private-internet-access",
+    "purevpn",
+    "shadowsocks",
+    "surfshark",
+    "vpn-client",
+    "vyprvpn",
+    "windscribe",
+    "wireguard"
+  ],
+  "version": "HEAD-9933dd3-250122T092710",
+  "version_upstream": "",
+  "bsum": "0013ea65ca8a4d4fadac0568aaee361aab578d78b6bc288cfd9643c9ef3d0b2b",
+  "build_date": "2025-06-21T12:17:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795326083",
+  "build_id": "15795326083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qdm12/gluetun/gluetun?tag=HEAD-9933dd3-250122T092710-riscv64-Linux&download=gluetun.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qdm12/gluetun/gluetun?tag=HEAD-9933dd3-250122T092710-riscv64-Linux&download=gluetun",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qdm12/gluetun/gluetun:HEAD-9933dd3-250122T092710-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qdm12/gluetun/gluetun",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qdm12/gluetun/gluetun?tag=HEAD-9933dd3-250122T092710-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "af62d656cef3601910cdf17cac7f9aa32d05b8f0259f56ad9fc7c5adaac17f1b",
+  "size": "23 MB",
+  "size_raw": "23489656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
