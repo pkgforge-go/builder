@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "unikorn-cluster-controller",
+  "pkg_family": "uni-kubernetes",
+  "pkg_id": "unikorn-cluster-controller#github.com_nscaledev_uni_kubernetes",
+  "pkg_name": "unikorn-cluster-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nscaledev/uni-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster API driven PaaS Orchestrator",
+  "homepage": [
+    "https://github.com/nscaledev/uni-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "install_metallb",
+    "unikorn-cluster-controller",
+    "unikorn-cluster-manager-controller",
+    "unikorn-monitor",
+    "unikorn-server",
+    "unikorn-virtualcluster-controller",
+    "validate_openapi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nscaledev/uni-kubernetes/archive/f41357ce6b69049aa07e84e0a27f3efc73beb401.tar.gz"
+  ],
+  "tag": [
+    "unikorn"
+  ],
+  "version": "HEAD-f41357c-250620T114340",
+  "version_upstream": "",
+  "bsum": "905c527b618f9710a0be2a079d2ddaf928ba43ecb8299cd01b132956c1df3ae6",
+  "build_date": "2025-06-21T02:26:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790940419",
+  "build_id": "15790940419",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-cluster-controller?tag=HEAD-f41357c-250620T114340-x86_64-Linux&download=unikorn-cluster-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-cluster-controller?tag=HEAD-f41357c-250620T114340-x86_64-Linux&download=unikorn-cluster-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-cluster-controller:HEAD-f41357c-250620T114340-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-cluster-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/unikorn-cluster-controller?tag=HEAD-f41357c-250620T114340-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e6e14fb4c84172948b5c1e9eaa52d7b19c5bee20ef15bb3949677f87346ee67",
+  "size": "49 MB",
+  "size_raw": "51270208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
