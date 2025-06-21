@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check-iban",
+  "pkg_family": "go-finance",
+  "pkg_id": "check-iban#github.com_pieterclaerhout_go_finance",
+  "pkg_name": "check-iban",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pieterclaerhout/go-finance",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Finance related Go functions _e.g. exchange rates, VAT number checking, …_",
+  "homepage": [
+    "https://github.com/pieterclaerhout/go-finance"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-iban",
+    "check-vat",
+    "exchange-rates"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pieterclaerhout/go-finance/archive/fd18f0a87fb5337e4943a6ea46b6adf7fcf89a9e.tar.gz"
+  ],
+  "tag": [
+    "exchange-rate",
+    "exchange-rates",
+    "golang",
+    "vat-number",
+    "vat-validation",
+    "vat-validator"
+  ],
+  "version": "HEAD-fd18f0a-241125T085554",
+  "version_upstream": "",
+  "bsum": "b3699ad47842b2a6b010eee77b0b5d831afe950c24ef9468cb97318e5cffbb91",
+  "build_date": "2025-06-21T10:37:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794512061",
+  "build_id": "15794512061",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pieterclaerhout/go-finance/check-iban?tag=HEAD-fd18f0a-241125T085554-riscv64-Linux&download=check-iban.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pieterclaerhout/go-finance/check-iban?tag=HEAD-fd18f0a-241125T085554-riscv64-Linux&download=check-iban",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pieterclaerhout/go-finance/check-iban:HEAD-fd18f0a-241125T085554-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pieterclaerhout/go-finance/check-iban",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pieterclaerhout/go-finance/check-iban?tag=HEAD-fd18f0a-241125T085554-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "888aaf2205999ae939bc10b3ff66adb4a05393b00a06fd2996351192e05a8a0e",
+  "size": "5.8 MB",
+  "size_raw": "5986584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
