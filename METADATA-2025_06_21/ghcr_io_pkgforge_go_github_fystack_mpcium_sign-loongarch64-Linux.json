@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sign",
+  "pkg_family": "mpcium",
+  "pkg_id": "sign#github.com_fystack_mpcium",
+  "pkg_name": "sign",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fystack/mpcium",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Effortlessly launch distributed crypto wallets with MPC technology in minutes",
+  "homepage": [
+    "https://github.com/fystack/mpcium"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "mpcium",
+    "mpcium-cli",
+    "sign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fystack/mpcium/archive/89268ee707eb7d8d25b4a34af2578869beb62d3f.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "crypto",
+    "mpc-wallet",
+    "tss",
+    "wallet"
+  ],
+  "version": "HEAD-89268ee-250517T184128",
+  "version_upstream": "",
+  "bsum": "b204c6fe431dba0b6b061a5c4b29e2ed2fa67ce8ac5db0110b6573d5be1f8785",
+  "build_date": "2025-06-21T08:17:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793539131",
+  "build_id": "15793539131",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/sign?tag=HEAD-89268ee-250517T184128-loongarch64-Linux&download=sign.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/sign?tag=HEAD-89268ee-250517T184128-loongarch64-Linux&download=sign",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fystack/mpcium/sign:HEAD-89268ee-250517T184128-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fystack/mpcium/sign",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/sign?tag=HEAD-89268ee-250517T184128-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12f836e82e5e64a203a6dbb86645971ac3c8b952b2e19a826507d443b8834aa5",
+  "size": "16 MB",
+  "size_raw": "16552192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
