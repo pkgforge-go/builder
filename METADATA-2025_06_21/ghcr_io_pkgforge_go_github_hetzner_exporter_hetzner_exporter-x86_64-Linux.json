@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hetzner_exporter",
+  "pkg_family": "hetzner_exporter",
+  "pkg_id": "hetzner_exporter#github.com_promhippie_hetzner_exporter",
+  "pkg_name": "hetzner_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/promhippie/hetzner_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for Hetzner",
+  "homepage": [
+    "https://github.com/promhippie/hetzner_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hetzner_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/promhippie/hetzner_exporter/archive/4d3d77a8b928165e63cf7f5394045050bb137ef7.tar.gz"
+  ],
+  "tag": [
+    "hetzner",
+    "metrics",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-4d3d77a-250620T170211",
+  "version_upstream": "",
+  "bsum": "9b039c31e4c3f7114f0931c5f0a36fad237cbf7ac9d6857fb71f202a97b52046",
+  "build_date": "2025-06-21T11:59:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795156075",
+  "build_id": "15795156075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hetzner/exporter/hetzner_exporter?tag=HEAD-4d3d77a-250620T170211-x86_64-Linux&download=hetzner_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hetzner/exporter/hetzner_exporter?tag=HEAD-4d3d77a-250620T170211-x86_64-Linux&download=hetzner_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hetzner/exporter/hetzner_exporter:HEAD-4d3d77a-250620T170211-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hetzner/exporter/hetzner_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hetzner/exporter/hetzner_exporter?tag=HEAD-4d3d77a-250620T170211-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76831e3e96018e39b7f0ac2c39a0115d0c38f249f80674ad9c382d260e5c8f8b",
+  "size": "14 MB",
+  "size_raw": "14299456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
