@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "csi-driver",
+  "pkg_family": "csi-driver",
+  "pkg_id": "csi-driver#github.com_hetznercloud_csi_driver",
+  "pkg_name": "csi-driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hetznercloud/csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes",
+  "homepage": [
+    "https://github.com/hetznercloud/csi-driver"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi-driver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hetznercloud/csi-driver/archive/7897f70314b57139980b93496e39b4d20cfbd60f.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "csi-driver",
+    "csi-plugin",
+    "hetzner-cloud",
+    "hetzner-cloud-volumes",
+    "kubernetes",
+    "kubernetes-volumes"
+  ],
+  "version": "HEAD-7897f70-250620T154403",
+  "version_upstream": "",
+  "bsum": "755414f1d6ec794a589d4818e5797d414ff7d2dadd876ffc2d3623fd7e8bef89",
+  "build_date": "2025-06-21T07:26:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793161600",
+  "build_id": "15793161600",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hetznercloud/csi-driver/csi-driver?tag=HEAD-7897f70-250620T154403-riscv64-Linux&download=csi-driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "696",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hetznercloud/csi-driver/csi-driver?tag=HEAD-7897f70-250620T154403-riscv64-Linux&download=csi-driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hetznercloud/csi-driver/csi-driver:HEAD-7897f70-250620T154403-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hetznercloud/csi-driver/csi-driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hetznercloud/csi-driver/csi-driver?tag=HEAD-7897f70-250620T154403-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9dc0ed58d02828319c34e8bb085ea1da1d44762b83c9583b3c95fb4ffe882894",
+  "size": "16 MB",
+  "size_raw": "16484888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
