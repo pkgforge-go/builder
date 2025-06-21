@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "speedtest-go",
+  "pkg_family": "speedtest-go",
+  "pkg_id": "speedtest-go#github.com_showwin_speedtest_go",
+  "pkg_name": "speedtest-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/showwin/speedtest-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI and Go API to Test Internet Speed using speedtest.net",
+  "homepage": [
+    "https://github.com/showwin/speedtest-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "multi",
+    "naive",
+    "packet_loss",
+    "speedtest-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/showwin/speedtest-go/archive/d41df68f95a47de24848b90291211f6ae55c2f4a.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "go",
+    "network",
+    "speedtest"
+  ],
+  "version": "HEAD-d41df68-250221T160745",
+  "version_upstream": "",
+  "bsum": "be19c39847858227c74be0625a92398404462ed40a6f48c4212efd00ba2ef2ba",
+  "build_date": "2025-06-21T23:20:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800263211",
+  "build_id": "15800263211",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/showwin/speedtest-go/speedtest-go?tag=HEAD-d41df68-250221T160745-riscv64-Linux&download=speedtest-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "656",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/showwin/speedtest-go/speedtest-go?tag=HEAD-d41df68-250221T160745-riscv64-Linux&download=speedtest-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/showwin/speedtest-go/speedtest-go:HEAD-d41df68-250221T160745-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/showwin/speedtest-go/speedtest-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/showwin/speedtest-go/speedtest-go?tag=HEAD-d41df68-250221T160745-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "982489a8130b9998dc7e5d33b96b8f875b5c50d629f7353fd02bed079f5f4c11",
+  "size": "8.4 MB",
+  "size_raw": "8806392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
