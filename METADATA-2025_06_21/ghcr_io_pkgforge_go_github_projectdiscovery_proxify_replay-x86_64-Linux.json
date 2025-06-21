@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "replay",
+  "pkg_family": "proxify",
+  "pkg_id": "replay#github.com_projectdiscovery_proxify",
+  "pkg_name": "replay",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/proxify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.",
+  "homepage": [
+    "https://github.com/projectdiscovery/proxify"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mitmrelay",
+    "proxify",
+    "replay",
+    "swaggergen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/proxify/archive/b9c62cc293f99563f04e3a958d88af7b64dd4942.tar.gz"
+  ],
+  "tag": [
+    "http-proxy",
+    "mitm",
+    "mitmproxy",
+    "socks5-proxy"
+  ],
+  "version": "HEAD-b9c62cc-241220T171518",
+  "version_upstream": "",
+  "bsum": "ec4c36a46ae702571900b8f0d1c29612d56268af930ff22aaf5ef65008143956",
+  "build_date": "2025-06-21T11:47:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794981142",
+  "build_id": "15794981142",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/proxify/replay?tag=HEAD-b9c62cc-241220T171518-x86_64-Linux&download=replay.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2866",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/proxify/replay?tag=HEAD-b9c62cc-241220T171518-x86_64-Linux&download=replay",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/proxify/replay:HEAD-b9c62cc-241220T171518-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/proxify/replay",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/proxify/replay?tag=HEAD-b9c62cc-241220T171518-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67deafde917ede93ffe67d189b69454514c503ae3d7525615e1a9c181a779c15",
+  "size": "16 MB",
+  "size_raw": "15801456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
