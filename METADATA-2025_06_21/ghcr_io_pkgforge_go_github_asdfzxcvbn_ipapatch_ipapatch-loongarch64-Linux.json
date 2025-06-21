@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ipapatch",
+  "pkg_family": "ipapatch",
+  "pkg_id": "ipapatch#github.com_asdfzxcvbn_ipapatch",
+  "pkg_name": "ipapatch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/asdfzxcvbn/ipapatch",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "cli tool to patch IPAs and their plugins, fixing problems with the share sheet, widgets, VPNs, etc",
+  "homepage": [
+    "https://github.com/asdfzxcvbn/ipapatch"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipapatch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/asdfzxcvbn/ipapatch/archive/1460ae663acd22c598a9a1cd0ee49c079607515c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1460ae6-250620T182540",
+  "version_upstream": "v1.1.4",
+  "bsum": "bbf3352f162523b24252ac0d6130eb3331386a189b76fb9aab2f2de71ffab1e4",
+  "build_date": "2025-06-21T07:12:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793150484",
+  "build_id": "15793150484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/asdfzxcvbn/ipapatch/ipapatch?tag=HEAD-1460ae6-250620T182540-loongarch64-Linux&download=ipapatch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/asdfzxcvbn/ipapatch/ipapatch?tag=HEAD-1460ae6-250620T182540-loongarch64-Linux&download=ipapatch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/asdfzxcvbn/ipapatch/ipapatch:HEAD-1460ae6-250620T182540-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/asdfzxcvbn/ipapatch/ipapatch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/asdfzxcvbn/ipapatch/ipapatch?tag=HEAD-1460ae6-250620T182540-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df5582f22477fec64782e133ae92e038a3b048606498fd2ade19520d3f1e3aab",
+  "size": "6.4 MB",
+  "size_raw": "6633920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
