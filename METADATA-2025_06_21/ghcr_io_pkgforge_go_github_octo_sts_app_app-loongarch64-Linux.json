@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "app",
+  "pkg_family": "app",
+  "pkg_id": "app#github.com_octo_sts_app",
+  "pkg_name": "app",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/octo-sts/app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A GitHub App that acts like a Security Token Service _STS_ for the Github API",
+  "homepage": [
+    "https://github.com/octo-sts/app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "negative-prober",
+    "prober",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/octo-sts/app/archive/b57af5246051de504b987c686199d5b96fde7fce.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b57af52-250620T111559",
+  "version_upstream": "",
+  "bsum": "d73acdc23e979f63dcf0c59c5a1282f9297825d38a6827be5fcb2753ba2ef908",
+  "build_date": "2025-06-21T02:40:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790964397",
+  "build_id": "15790964397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/app?tag=HEAD-b57af52-250620T111559-loongarch64-Linux&download=app.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "196",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/app?tag=HEAD-b57af52-250620T111559-loongarch64-Linux&download=app",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/octo-sts/app/app:HEAD-b57af52-250620T111559-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/octo-sts/app/app",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/app?tag=HEAD-b57af52-250620T111559-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "888aee620b60ccb8960ab7ba51eba0dfc6002ac81e495ba28fc14747b72bf8ce",
+  "size": "25 MB",
+  "size_raw": "25375520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
