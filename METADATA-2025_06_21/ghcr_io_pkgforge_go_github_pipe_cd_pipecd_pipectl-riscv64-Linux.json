@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pipectl",
+  "pkg_family": "pipecd",
+  "pkg_id": "pipectl#github.com_pipe_cd_pipecd",
+  "pkg_name": "pipectl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pipe-cd/pipecd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The One CD for All _applications, platforms, operations_",
+  "homepage": [
+    "https://github.com/pipe-cd/pipecd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helloworld",
+    "launcher",
+    "pipecd",
+    "pipecd-docs",
+    "pipectl",
+    "piped",
+    "pipedv1"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pipe-cd/pipecd/archive/c46819438c48cd610c4203ea94b30babe292c849.tar.gz"
+  ],
+  "tag": [
+    "cd",
+    "ci-cd",
+    "cicd",
+    "cloudrun",
+    "cncf",
+    "cncf-project",
+    "continuous-delivery",
+    "devops",
+    "ecs",
+    "fargate",
+    "gitops",
+    "infrastructure",
+    "istio",
+    "kubernetes",
+    "lambda",
+    "pipecd",
+    "sandbox",
+    "serverless",
+    "terraform"
+  ],
+  "version": "HEAD-c468194-250619T170135",
+  "version_upstream": "",
+  "bsum": "0dcf53f27e63e00be328900648a4371c853df89a8f3a2c992e1e7f2ba9979892",
+  "build_date": "2025-06-21T10:47:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794536466",
+  "build_id": "15794536466",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pipe-cd/pipecd/pipectl?tag=HEAD-c468194-250619T170135-riscv64-Linux&download=pipectl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1172",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pipe-cd/pipecd/pipectl?tag=HEAD-c468194-250619T170135-riscv64-Linux&download=pipectl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pipe-cd/pipecd/pipectl:HEAD-c468194-250619T170135-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pipe-cd/pipecd/pipectl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pipe-cd/pipecd/pipectl?tag=HEAD-c468194-250619T170135-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9ec3e110803827ebd0981e536c361c20b678f17a76ed307e37a5d2939a7a5e0",
+  "size": "21 MB",
+  "size_raw": "21077400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
