@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "failpoint-ctl",
+  "pkg_family": "failpoint",
+  "pkg_id": "failpoint-ctl#github.com_pingcap_failpoint",
+  "pkg_name": "failpoint-ctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/failpoint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An implementation of failpoints for Golang.",
+  "homepage": [
+    "https://github.com/pingcap/failpoint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "failpoint-ctl",
+    "failpoint-toolexec"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/failpoint/archive/b51a646c7c862d49540d5109da93c13f2d8b9264.tar.gz"
+  ],
+  "tag": [
+    "failpoint",
+    "failure-injection",
+    "fault-injection",
+    "golang"
+  ],
+  "version": "HEAD-b51a646-240528T091301",
+  "version_upstream": "",
+  "bsum": "74416f2cc6b59b336530c2d5dd13bea1b7d1e2115768838e2b3a84f9e66cf8bd",
+  "build_date": "2025-06-21T10:39:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794516870",
+  "build_id": "15794516870",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/failpoint/failpoint-ctl?tag=HEAD-b51a646-240528T091301-x86_64-Linux&download=failpoint-ctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "850",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/failpoint/failpoint-ctl?tag=HEAD-b51a646-240528T091301-x86_64-Linux&download=failpoint-ctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/failpoint/failpoint-ctl:HEAD-b51a646-240528T091301-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/failpoint/failpoint-ctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/failpoint/failpoint-ctl?tag=HEAD-b51a646-240528T091301-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "34cbfe50771cdf1a07c982dab5c0065fa2d500e86cdfce7203dcb2833e7fbb17",
+  "size": "3.0 MB",
+  "size_raw": "3134936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
