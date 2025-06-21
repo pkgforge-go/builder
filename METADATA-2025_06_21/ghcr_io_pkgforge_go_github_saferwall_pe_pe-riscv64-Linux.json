@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pe",
+  "pkg_family": "pe",
+  "pkg_id": "pe#github.com_saferwall_pe",
+  "pkg_name": "pe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/saferwall/pe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A :zap: lightweight Go package to parse, analyze and extract metadata from Portable Executable _PE_ binaries. Designed for malware analysis tasks and robust against PE malformations.",
+  "homepage": [
+    "https://github.com/saferwall/pe"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/saferwall/pe/archive/0b9f45b49710284582b261a071df75340631fdf6.tar.gz"
+  ],
+  "tag": [
+    "binary-analysis",
+    "coff",
+    "go",
+    "golang",
+    "malware",
+    "malware-analysis",
+    "parser",
+    "parsing",
+    "pe",
+    "pe-file",
+    "pe-format",
+    "pe-malformations",
+    "portable-executable",
+    "reverse-engineering"
+  ],
+  "version": "HEAD-0b9f45b-250611T183805",
+  "version_upstream": "v1.5.7",
+  "bsum": "3094d110521c147e66f87a0ed4ec64be29f1ee3e355ecc3020ee3af9d318d707",
+  "build_date": "2025-06-21T14:49:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796470916",
+  "build_id": "15796470916",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saferwall/pe/pe?tag=HEAD-0b9f45b-250611T183805-riscv64-Linux&download=pe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saferwall/pe/pe?tag=HEAD-0b9f45b-250611T183805-riscv64-Linux&download=pe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/saferwall/pe/pe:HEAD-0b9f45b-250611T183805-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/saferwall/pe/pe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saferwall/pe/pe?tag=HEAD-0b9f45b-250611T183805-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2b379e5f9bdba0e1f0deb58c92c38bfc5f17eb00df4af45d76280fcf142d788",
+  "size": "4.3 MB",
+  "size_raw": "4492600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
