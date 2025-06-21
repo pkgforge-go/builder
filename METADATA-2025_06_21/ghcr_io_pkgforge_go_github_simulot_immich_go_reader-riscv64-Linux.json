@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "reader",
+  "pkg_family": "immich-go",
+  "pkg_id": "reader#github.com_simulot_immich_go",
+  "pkg_name": "reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/simulot/immich-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative to the immich-CLI command that doesn_t depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+  "homepage": [
+    "https://github.com/simulot/immich-go"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "immich-go",
+    "reader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/simulot/immich-go/archive/70389c2cd4ad63494d91c1169f3a433efa7ddf38.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "google",
+    "immich",
+    "immich-cli",
+    "photos",
+    "takeout"
+  ],
+  "version": "HEAD-70389c2-250621T080641",
+  "version_upstream": "",
+  "bsum": "2a2c15f664aab576b52f62efdbdb08edf895981c88e7295965a067953b266658",
+  "build_date": "2025-06-21T23:28:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800314156",
+  "build_id": "15800314156",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simulot/immich-go/reader?tag=HEAD-70389c2-250621T080641-riscv64-Linux&download=reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3399",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simulot/immich-go/reader?tag=HEAD-70389c2-250621T080641-riscv64-Linux&download=reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simulot/immich-go/reader:HEAD-70389c2-250621T080641-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/simulot/immich-go/reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simulot/immich-go/reader?tag=HEAD-70389c2-250621T080641-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d289ec3b984a7f8e533a1df839e6a0bc4fc1477158200f7a85e0b126641a4b53",
+  "size": "2.5 MB",
+  "size_raw": "2619224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

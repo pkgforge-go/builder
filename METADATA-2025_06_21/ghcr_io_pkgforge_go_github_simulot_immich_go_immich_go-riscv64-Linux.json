@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "immich-go",
+  "pkg_family": "immich-go",
+  "pkg_id": "immich-go#github.com_simulot_immich_go",
+  "pkg_name": "immich-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/simulot/immich-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative to the immich-CLI command that doesn_t depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+  "homepage": [
+    "https://github.com/simulot/immich-go"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "immich-go",
+    "reader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/simulot/immich-go/archive/70389c2cd4ad63494d91c1169f3a433efa7ddf38.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "google",
+    "immich",
+    "immich-cli",
+    "photos",
+    "takeout"
+  ],
+  "version": "HEAD-70389c2-250621T080641",
+  "version_upstream": "",
+  "bsum": "3fe1474ca598ab3cd95b1fb4fe9dde4d5b80aeed198c2ef7048554fc151c60c1",
+  "build_date": "2025-06-21T23:28:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800314156",
+  "build_id": "15800314156",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simulot/immich-go/immich-go?tag=HEAD-70389c2-250621T080641-riscv64-Linux&download=immich-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3399",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simulot/immich-go/immich-go?tag=HEAD-70389c2-250621T080641-riscv64-Linux&download=immich-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simulot/immich-go/immich-go:HEAD-70389c2-250621T080641-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/simulot/immich-go/immich-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simulot/immich-go/immich-go?tag=HEAD-70389c2-250621T080641-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca9c1fce3a777f276065367a1af549da3749218f5f2c13fb6b768246408deb62",
+  "size": "9.5 MB",
+  "size_raw": "9959000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
