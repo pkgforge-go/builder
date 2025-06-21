@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "validate_openapi",
+  "pkg_family": "uni-kubernetes",
+  "pkg_id": "validate_openapi#github.com_nscaledev_uni_kubernetes",
+  "pkg_name": "validate_openapi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nscaledev/uni-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster API driven PaaS Orchestrator",
+  "homepage": [
+    "https://github.com/nscaledev/uni-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "install_metallb",
+    "unikorn-cluster-controller",
+    "unikorn-cluster-manager-controller",
+    "unikorn-monitor",
+    "unikorn-server",
+    "unikorn-virtualcluster-controller",
+    "validate_openapi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nscaledev/uni-kubernetes/archive/f41357ce6b69049aa07e84e0a27f3efc73beb401.tar.gz"
+  ],
+  "tag": [
+    "unikorn"
+  ],
+  "version": "HEAD-f41357c-250620T114340",
+  "version_upstream": "",
+  "bsum": "b7d9838334470870350ad8f54420b82fbdff213caa94036a2f26c891df7b0400",
+  "build_date": "2025-06-21T02:28:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790940419",
+  "build_id": "15790940419",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/validate_openapi?tag=HEAD-f41357c-250620T114340-riscv64-Linux&download=validate_openapi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/validate_openapi?tag=HEAD-f41357c-250620T114340-riscv64-Linux&download=validate_openapi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nscaledev/uni-kubernetes/validate_openapi:HEAD-f41357c-250620T114340-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nscaledev/uni-kubernetes/validate_openapi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nscaledev/uni-kubernetes/validate_openapi?tag=HEAD-f41357c-250620T114340-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69f2b18565a2598f3a397a6f816609ac56bfa3101296eb8f4e774cd71ccb1263",
+  "size": "7.1 MB",
+  "size_raw": "7385656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
