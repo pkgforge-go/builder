@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "self",
+  "pkg_family": "complete",
+  "pkg_id": "self#github.com_posener_complete",
+  "pkg_name": "self",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/posener/complete",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "bash completion written in go + bash completion for go command",
+  "homepage": [
+    "https://github.com/posener/complete"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gocomplete",
+    "self"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/posener/complete/archive/9a4745ac49b29530e07dc2581745a218b646b7a3.tar.gz"
+  ],
+  "tag": [
+    "bash-completion",
+    "completion",
+    "fish-completion",
+    "go",
+    "golang",
+    "shell",
+    "zsh-completion"
+  ],
+  "version": "HEAD-9a4745a-201208T065621",
+  "version_upstream": "",
+  "bsum": "77a33e8824924d6ac86a3a8f878246a3e71339c27ce0793d62721312760354cc",
+  "build_date": "2025-06-21T11:20:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794859226",
+  "build_id": "15794859226",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/posener/complete/self?tag=HEAD-9a4745a-201208T065621-aarch64-Linux&download=self.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "939",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/posener/complete/self?tag=HEAD-9a4745a-201208T065621-aarch64-Linux&download=self",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/posener/complete/self:HEAD-9a4745a-201208T065621-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/posener/complete/self",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/posener/complete/self?tag=HEAD-9a4745a-201208T065621-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b13d366645c374b4ed80f12d6267c7bb3dacd97a7afb45827d8192b60d476302",
+  "size": "3.0 MB",
+  "size_raw": "3049592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
