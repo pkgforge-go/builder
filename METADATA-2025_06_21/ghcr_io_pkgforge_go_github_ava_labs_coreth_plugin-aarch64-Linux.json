@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "plugin",
+  "pkg_family": "coreth",
+  "pkg_id": "plugin#github.com_ava_labs_coreth",
+  "pkg_name": "plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ava-labs/coreth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.",
+  "homepage": [
+    "https://github.com/ava-labs/coreth"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abigen",
+    "plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ava-labs/coreth/archive/0058a7ec6d9d5b2a5e84b5b44e2298a5faf69189.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0058a7e-250620T163936",
+  "version_upstream": "",
+  "bsum": "6b0c4d9b46f5a132a90536dfd1b4ee9fb96fb32d2ce84735d024c5427d39c368",
+  "build_date": "2025-06-21T07:16:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793150964",
+  "build_id": "15793150964",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/coreth/plugin?tag=HEAD-0058a7e-250620T163936-aarch64-Linux&download=plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "195",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/coreth/plugin?tag=HEAD-0058a7e-250620T163936-aarch64-Linux&download=plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ava-labs/coreth/plugin:HEAD-0058a7e-250620T163936-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ava-labs/coreth/plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/coreth/plugin?tag=HEAD-0058a7e-250620T163936-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67623a251919566930da4db78dd170765e819b5d74699324248902989073c060",
+  "size": "50 MB",
+  "size_raw": "52109616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
