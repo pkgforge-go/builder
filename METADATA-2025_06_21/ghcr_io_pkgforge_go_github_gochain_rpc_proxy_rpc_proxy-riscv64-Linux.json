@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rpc-proxy",
+  "pkg_family": "rpc-proxy",
+  "pkg_id": "rpc-proxy#github.com_gochain_rpc_proxy",
+  "pkg_name": "rpc-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gochain/rpc-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proxy layer to sit in front of GoChain/Ethereum JSON-RPC-API to make it more secure and resilient.",
+  "homepage": [
+    "https://github.com/gochain/rpc-proxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rpc-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gochain/rpc-proxy/archive/abdf827a6a687c3d4492a8f6d2d7e6d40ca8649f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-abdf827-250620T110314",
+  "version_upstream": "v1.0.10",
+  "bsum": "5fa2e67afe281b26a3c2acfad2f5a2288743fd4ed240ebf467af6cabfb9949e6",
+  "build_date": "2025-06-21T08:18:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793550642",
+  "build_id": "15793550642",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gochain/rpc-proxy/rpc-proxy?tag=HEAD-abdf827-250620T110314-riscv64-Linux&download=rpc-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gochain/rpc-proxy/rpc-proxy?tag=HEAD-abdf827-250620T110314-riscv64-Linux&download=rpc-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gochain/rpc-proxy/rpc-proxy:HEAD-abdf827-250620T110314-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gochain/rpc-proxy/rpc-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gochain/rpc-proxy/rpc-proxy?tag=HEAD-abdf827-250620T110314-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74b70493cd66d396907380fb94fc7fb3efc2f084cd44006dbcf024f6a968e18b",
+  "size": "18 MB",
+  "size_raw": "18677976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
