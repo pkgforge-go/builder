@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ntask",
+  "pkg_family": "nTask",
+  "pkg_id": "ntask#github.com_r4ulcl_nTask",
+  "pkg_name": "ntask",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/r4ulcl/nTask",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "nTask is a distributed task management program that allows you to distribute tasks across multiple computers using API communication and WebSockets. It handles task requests, distributes them to available workers, and stores the results in a database or sends them to a specified URL/API. Integration with other APIs or scripts is also supported.",
+  "homepage": [
+    "https://github.com/r4ulcl/nTask"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ntask"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/r4ulcl/nTask/archive/d93108cd4fe92d987f21632b2d923fe6d56d3f98.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cloud",
+    "distributed-computing",
+    "golang",
+    "swagger"
+  ],
+  "version": "HEAD-d93108c-240303T090910",
+  "version_upstream": "",
+  "bsum": "8c513f5fda8c8a63020b47a8de798d4059cadbaa8d78946de994c54fd4ba54af",
+  "build_date": "2025-06-21T12:56:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795904917",
+  "build_id": "15795904917",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/r4ulcl/ntask/ntask?tag=HEAD-d93108c-240303T090910-x86_64-Linux&download=ntask.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/r4ulcl/ntask/ntask?tag=HEAD-d93108c-240303T090910-x86_64-Linux&download=ntask",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/r4ulcl/ntask/ntask:HEAD-d93108c-240303T090910-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/r4ulcl/ntask/ntask",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/r4ulcl/ntask/ntask?tag=HEAD-d93108c-240303T090910-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44052a8c5f76c8324ee9823ef682e4c9bca2d85514a90cbe161b0c6d996adcd0",
+  "size": "22 MB",
+  "size_raw": "22960864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
