@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tpmtooldump",
+  "pkg_family": "disktools",
+  "pkg_id": "tpmtooldump#github.com_qeedquan_disktools",
+  "pkg_name": "tpmtooldump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qeedquan/disktools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Disk tools",
+  "homepage": [
+    "https://github.com/qeedquan/disktools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "diskinfo",
+    "fatimg",
+    "fdtdump",
+    "fspdump",
+    "mkpaqfs",
+    "sar",
+    "tpmtooldump",
+    "uimagedump",
+    "xilinxbootdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/qeedquan/disktools/archive/759cef86a1ee13d404c166740775c5584cabf143.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-759cef8-240117T135942",
+  "version_upstream": "",
+  "bsum": "a4659c0ff404b9d6cb625c9db23f5ab61feae47da3e6225610b39178e9a1f50a",
+  "build_date": "2025-06-21T12:18:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795326475",
+  "build_id": "15795326475",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/tpmtooldump?tag=HEAD-759cef8-240117T135942-loongarch64-Linux&download=tpmtooldump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/tpmtooldump?tag=HEAD-759cef8-240117T135942-loongarch64-Linux&download=tpmtooldump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qeedquan/disktools/tpmtooldump:HEAD-759cef8-240117T135942-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qeedquan/disktools/tpmtooldump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/tpmtooldump?tag=HEAD-759cef8-240117T135942-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02f0518e8c2d0dd73ba47a2d5375a5f08e7c8d3ba16d682e5a1f7873a676835b",
+  "size": "1.8 MB",
+  "size_raw": "1879864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
