@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "combine",
+  "pkg_family": "oss-rebuild",
+  "pkg_id": "combine#github.com_google_oss_rebuild",
+  "pkg_name": "combine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/oss-rebuild",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
+  "homepage": [
+    "https://github.com/google/oss-rebuild"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "analyzer",
+    "api",
+    "combine",
+    "ctl",
+    "flow",
+    "gateway",
+    "generate",
+    "git_cache",
+    "gsutil_writeonly",
+    "indexscan",
+    "inference",
+    "medic",
+    "oss-rebuild",
+    "proxy",
+    "pypi_rss",
+    "rebuilder",
+    "registryscan",
+    "run_local",
+    "stabilize",
+    "subscriber",
+    "timewarp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/google/oss-rebuild/archive/3290fa9668c48709a500b4b6931066782caa5aa3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3290fa9-250620T180033",
+  "version_upstream": "",
+  "bsum": "60f43248f3e41ec354b29b542341d18ad8421f32dae3e26ada0b815dc89be2db",
+  "build_date": "2025-06-21T08:29:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793576086",
+  "build_id": "15793576086",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/oss-rebuild/combine?tag=HEAD-3290fa9-250620T180033-aarch64-Linux&download=combine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/oss-rebuild/combine?tag=HEAD-3290fa9-250620T180033-aarch64-Linux&download=combine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/oss-rebuild/combine:HEAD-3290fa9-250620T180033-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/oss-rebuild/combine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/oss-rebuild/combine?tag=HEAD-3290fa9-250620T180033-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6d9fb66659690c5c21b3615073ea8f346d8efb1127137cd5134860f354a57af",
+  "size": "2.2 MB",
+  "size_raw": "2242200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
