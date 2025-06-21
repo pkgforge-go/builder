@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fdtdump",
+  "pkg_family": "disktools",
+  "pkg_id": "fdtdump#github.com_qeedquan_disktools",
+  "pkg_name": "fdtdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qeedquan/disktools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Disk tools",
+  "homepage": [
+    "https://github.com/qeedquan/disktools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "diskinfo",
+    "fatimg",
+    "fdtdump",
+    "fspdump",
+    "mkpaqfs",
+    "sar",
+    "tpmtooldump",
+    "uimagedump",
+    "xilinxbootdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/qeedquan/disktools/archive/759cef86a1ee13d404c166740775c5584cabf143.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-759cef8-240117T135942",
+  "version_upstream": "",
+  "bsum": "f646c4e64b8fcd2cee79660071961b52929987a8f7bac826c2856398471fab09",
+  "build_date": "2025-06-21T12:19:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795326475",
+  "build_id": "15795326475",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/fdtdump?tag=HEAD-759cef8-240117T135942-x86_64-Linux&download=fdtdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/fdtdump?tag=HEAD-759cef8-240117T135942-x86_64-Linux&download=fdtdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qeedquan/disktools/fdtdump:HEAD-759cef8-240117T135942-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qeedquan/disktools/fdtdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qeedquan/disktools/fdtdump?tag=HEAD-759cef8-240117T135942-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf7245fb1c0d71d33fe26a48a39ea920001c12404e3bba794b464d68f29792db",
+  "size": "1.9 MB",
+  "size_raw": "1897464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
