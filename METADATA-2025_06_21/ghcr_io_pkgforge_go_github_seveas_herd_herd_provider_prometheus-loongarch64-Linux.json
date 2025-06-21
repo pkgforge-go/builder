@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "herd-provider-prometheus",
+  "pkg_family": "herd",
+  "pkg_id": "herd-provider-prometheus#github.com_seveas_herd",
+  "pkg_name": "herd-provider-prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/seveas/herd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Massively parallel ssh client",
+  "homepage": [
+    "https://github.com/seveas/herd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "herd",
+    "herd-provider-aws",
+    "herd-provider-azure",
+    "herd-provider-consul",
+    "herd-provider-example",
+    "herd-provider-google",
+    "herd-provider-prometheus",
+    "herd-provider-puppet",
+    "herd-provider-tailscale",
+    "herd-provider-transip"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/seveas/herd/archive/65f95f8a43a143914ae4988fe2bb0c62f70b8afc.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "orchestration",
+    "sre",
+    "ssh",
+    "sysadmin",
+    "system-administration"
+  ],
+  "version": "HEAD-65f95f8-250410T001920",
+  "version_upstream": "",
+  "bsum": "fb239025d2753e6394575218f8f739710fc7b2d95d4207384e461a7de7e8c308",
+  "build_date": "2025-06-21T15:37:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796827959",
+  "build_id": "15796827959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-prometheus?tag=HEAD-65f95f8-250410T001920-loongarch64-Linux&download=herd-provider-prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-prometheus?tag=HEAD-65f95f8-250410T001920-loongarch64-Linux&download=herd-provider-prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seveas/herd/herd-provider-prometheus:HEAD-65f95f8-250410T001920-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/seveas/herd/herd-provider-prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-prometheus?tag=HEAD-65f95f8-250410T001920-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e40b54fedc221781757dd60c7c263b3a0f31cb2da302697d35ad617fe2952705",
+  "size": "16 MB",
+  "size_raw": "16168864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
