@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "set_rpc",
+  "pkg_family": "gnmic",
+  "pkg_id": "set_rpc#github.com_openconfig_gnmic",
+  "pkg_name": "set_rpc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/gnmic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gNMIc is a gNMI CLI client and collector",
+  "homepage": [
+    "https://github.com/openconfig/gnmic"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capabilities_rpc",
+    "demo",
+    "event-add-hostname",
+    "event-gnmi-get",
+    "get_rpc",
+    "gnmic",
+    "go-event-plugin",
+    "minimal",
+    "set_rpc",
+    "subscribe_rpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/gnmic/archive/5cfe70ed9cbeb8548eb0599a978bec910e1248eb.tar.gz"
+  ],
+  "tag": [
+    "gnmi",
+    "telemetry"
+  ],
+  "version": "HEAD-5cfe70e-250620T091919",
+  "version_upstream": "",
+  "bsum": "252fa3fb73337291b60a6711eb7dc2ae0c93215c8464d1d4859dd92173995257",
+  "build_date": "2025-06-21T09:57:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794435139",
+  "build_id": "15794435139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/set_rpc?tag=HEAD-5cfe70e-250620T091919-riscv64-Linux&download=set_rpc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/set_rpc?tag=HEAD-5cfe70e-250620T091919-riscv64-Linux&download=set_rpc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/gnmic/set_rpc:HEAD-5cfe70e-250620T091919-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/gnmic/set_rpc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/set_rpc?tag=HEAD-5cfe70e-250620T091919-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "34a7c8a0913178ad0b29e7f32f626eaad060316e40d0c7862fbbc7d0c3e84e0c",
+  "size": "13 MB",
+  "size_raw": "13107928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

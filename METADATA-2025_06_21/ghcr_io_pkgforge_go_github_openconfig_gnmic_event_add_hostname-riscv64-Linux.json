@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "event-add-hostname",
+  "pkg_family": "gnmic",
+  "pkg_id": "event-add-hostname#github.com_openconfig_gnmic",
+  "pkg_name": "event-add-hostname",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/gnmic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gNMIc is a gNMI CLI client and collector",
+  "homepage": [
+    "https://github.com/openconfig/gnmic"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capabilities_rpc",
+    "demo",
+    "event-add-hostname",
+    "event-gnmi-get",
+    "get_rpc",
+    "gnmic",
+    "go-event-plugin",
+    "minimal",
+    "set_rpc",
+    "subscribe_rpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/gnmic/archive/5cfe70ed9cbeb8548eb0599a978bec910e1248eb.tar.gz"
+  ],
+  "tag": [
+    "gnmi",
+    "telemetry"
+  ],
+  "version": "HEAD-5cfe70e-250620T091919",
+  "version_upstream": "",
+  "bsum": "99bac10306a0f16f194bbad9905343b709e8c9540f9e9023344892f9b83aebfe",
+  "build_date": "2025-06-21T09:57:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794435139",
+  "build_id": "15794435139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/event-add-hostname?tag=HEAD-5cfe70e-250620T091919-riscv64-Linux&download=event-add-hostname.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/event-add-hostname?tag=HEAD-5cfe70e-250620T091919-riscv64-Linux&download=event-add-hostname",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/gnmic/event-add-hostname:HEAD-5cfe70e-250620T091919-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/gnmic/event-add-hostname",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/event-add-hostname?tag=HEAD-5cfe70e-250620T091919-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b76ac2297a630b87ee098800e0928041867d72e7cd76c9b47a5d7394b7d5255f",
+  "size": "14 MB",
+  "size_raw": "13708600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
