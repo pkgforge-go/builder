@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "event-gnmi-get",
+  "pkg_family": "gnmic",
+  "pkg_id": "event-gnmi-get#github.com_openconfig_gnmic",
+  "pkg_name": "event-gnmi-get",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/gnmic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gNMIc is a gNMI CLI client and collector",
+  "homepage": [
+    "https://github.com/openconfig/gnmic"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capabilities_rpc",
+    "demo",
+    "event-add-hostname",
+    "event-gnmi-get",
+    "get_rpc",
+    "gnmic",
+    "go-event-plugin",
+    "minimal",
+    "set_rpc",
+    "subscribe_rpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/gnmic/archive/5cfe70ed9cbeb8548eb0599a978bec910e1248eb.tar.gz"
+  ],
+  "tag": [
+    "gnmi",
+    "telemetry"
+  ],
+  "version": "HEAD-5cfe70e-250620T091919",
+  "version_upstream": "",
+  "bsum": "8af701f276024a0e7a2191d98d56b125d4063722a43c7762f90794d2204c30b8",
+  "build_date": "2025-06-21T09:57:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794435139",
+  "build_id": "15794435139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/event-gnmi-get?tag=HEAD-5cfe70e-250620T091919-aarch64-Linux&download=event-gnmi-get.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/event-gnmi-get?tag=HEAD-5cfe70e-250620T091919-aarch64-Linux&download=event-gnmi-get",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/gnmic/event-gnmi-get:HEAD-5cfe70e-250620T091919-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/gnmic/event-gnmi-get",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/event-gnmi-get?tag=HEAD-5cfe70e-250620T091919-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "34885e9898e7559a7a09f7ba692f3758c62c3cab3bbe3fef29abaf62bf72ad08",
+  "size": "56 MB",
+  "size_raw": "57956800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

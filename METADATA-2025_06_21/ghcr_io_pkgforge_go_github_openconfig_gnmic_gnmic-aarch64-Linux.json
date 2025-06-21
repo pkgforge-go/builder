@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gnmic",
+  "pkg_family": "gnmic",
+  "pkg_id": "gnmic#github.com_openconfig_gnmic",
+  "pkg_name": "gnmic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/gnmic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gNMIc is a gNMI CLI client and collector",
+  "homepage": [
+    "https://github.com/openconfig/gnmic"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capabilities_rpc",
+    "demo",
+    "event-add-hostname",
+    "event-gnmi-get",
+    "get_rpc",
+    "gnmic",
+    "go-event-plugin",
+    "minimal",
+    "set_rpc",
+    "subscribe_rpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/gnmic/archive/5cfe70ed9cbeb8548eb0599a978bec910e1248eb.tar.gz"
+  ],
+  "tag": [
+    "gnmi",
+    "telemetry"
+  ],
+  "version": "HEAD-5cfe70e-250620T091919",
+  "version_upstream": "",
+  "bsum": "8ac72e3bec8e14958574e9d5560a69ee215fa1b9c09ec66515a89d9c720bff4c",
+  "build_date": "2025-06-21T09:57:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794435139",
+  "build_id": "15794435139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/gnmic?tag=HEAD-5cfe70e-250620T091919-aarch64-Linux&download=gnmic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/gnmic?tag=HEAD-5cfe70e-250620T091919-aarch64-Linux&download=gnmic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/gnmic/gnmic:HEAD-5cfe70e-250620T091919-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/gnmic/gnmic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/gnmic/gnmic?tag=HEAD-5cfe70e-250620T091919-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3da66396b35cb280f0c3f3b8cb4979ab36559c705563a0e30d6f0a6fb542df0",
+  "size": "115 MB",
+  "size_raw": "119707200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
