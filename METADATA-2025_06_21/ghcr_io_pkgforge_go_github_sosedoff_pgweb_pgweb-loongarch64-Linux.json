@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pgweb",
+  "pkg_family": "pgweb",
+  "pkg_id": "pgweb#github.com_sosedoff_pgweb",
+  "pkg_name": "pgweb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sosedoff/pgweb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform client for PostgreSQL databases",
+  "homepage": [
+    "https://github.com/sosedoff/pgweb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "connect_backend_go",
+    "pgweb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sosedoff/pgweb/archive/266a5160769e4cb25b93c924d4aee5f42c29fb62.tar.gz"
+  ],
+  "tag": [
+    "cross-platform",
+    "golang",
+    "pgweb",
+    "postgresql"
+  ],
+  "version": "HEAD-266a516-250615T123230",
+  "version_upstream": "",
+  "bsum": "d70910d033f299f2b2068e1a723d08ab7e364d9ae78996d9728f3e396b7d5836",
+  "build_date": "2025-06-21T23:56:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800634715",
+  "build_id": "15800634715",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sosedoff/pgweb/pgweb?tag=HEAD-266a516-250615T123230-loongarch64-Linux&download=pgweb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8920",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sosedoff/pgweb/pgweb?tag=HEAD-266a516-250615T123230-loongarch64-Linux&download=pgweb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sosedoff/pgweb/pgweb:HEAD-266a516-250615T123230-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sosedoff/pgweb/pgweb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sosedoff/pgweb/pgweb?tag=HEAD-266a516-250615T123230-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97ba8584bf3cf0a7dafae86b82756681bbe1f69566fd64dea0833b0878c3562a",
+  "size": "19 MB",
+  "size_raw": "19083936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

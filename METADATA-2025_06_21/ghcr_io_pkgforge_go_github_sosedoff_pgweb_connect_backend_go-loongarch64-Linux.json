@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "connect_backend_go",
+  "pkg_family": "pgweb",
+  "pkg_id": "connect_backend_go#github.com_sosedoff_pgweb",
+  "pkg_name": "connect_backend_go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sosedoff/pgweb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform client for PostgreSQL databases",
+  "homepage": [
+    "https://github.com/sosedoff/pgweb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "connect_backend_go",
+    "pgweb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sosedoff/pgweb/archive/266a5160769e4cb25b93c924d4aee5f42c29fb62.tar.gz"
+  ],
+  "tag": [
+    "cross-platform",
+    "golang",
+    "pgweb",
+    "postgresql"
+  ],
+  "version": "HEAD-266a516-250615T123230",
+  "version_upstream": "",
+  "bsum": "6f2918ebb15efe9f617b811a793a4c6b35f80d1526d240027c9fa19fdd5dc80e",
+  "build_date": "2025-06-21T23:56:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800634715",
+  "build_id": "15800634715",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sosedoff/pgweb/connect_backend_go?tag=HEAD-266a516-250615T123230-loongarch64-Linux&download=connect_backend_go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8920",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sosedoff/pgweb/connect_backend_go?tag=HEAD-266a516-250615T123230-loongarch64-Linux&download=connect_backend_go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sosedoff/pgweb/connect_backend_go:HEAD-266a516-250615T123230-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sosedoff/pgweb/connect_backend_go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sosedoff/pgweb/connect_backend_go?tag=HEAD-266a516-250615T123230-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b3e4558152c29c92364b86fef283273d7963535782e8cc70909dd8e71a7ee9d",
+  "size": "5.9 MB",
+  "size_raw": "6134208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
