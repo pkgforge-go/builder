@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "prober",
+  "pkg_family": "app",
+  "pkg_id": "prober#github.com_octo_sts_app",
+  "pkg_name": "prober",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/octo-sts/app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A GitHub App that acts like a Security Token Service _STS_ for the Github API",
+  "homepage": [
+    "https://github.com/octo-sts/app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "negative-prober",
+    "prober",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/octo-sts/app/archive/b57af5246051de504b987c686199d5b96fde7fce.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b57af52-250620T111559",
+  "version_upstream": "",
+  "bsum": "ea845378286a62cf9ab12e7d5c31116f3279081ef6df8ee01c7db4681e5aabc5",
+  "build_date": "2025-06-21T02:41:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790964397",
+  "build_id": "15790964397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/prober?tag=HEAD-b57af52-250620T111559-riscv64-Linux&download=prober.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "196",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/prober?tag=HEAD-b57af52-250620T111559-riscv64-Linux&download=prober",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/octo-sts/app/prober:HEAD-b57af52-250620T111559-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/octo-sts/app/prober",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/prober?tag=HEAD-b57af52-250620T111559-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6bf9b527c26c9c89f2c3717c28a84fe89d48f294df81ef84648b98ca46391c9f",
+  "size": "21 MB",
+  "size_raw": "21668280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

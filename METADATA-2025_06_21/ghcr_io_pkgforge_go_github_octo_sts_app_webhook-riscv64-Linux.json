@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "app",
+  "pkg_id": "webhook#github.com_octo_sts_app",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/octo-sts/app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A GitHub App that acts like a Security Token Service _STS_ for the Github API",
+  "homepage": [
+    "https://github.com/octo-sts/app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "negative-prober",
+    "prober",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/octo-sts/app/archive/b57af5246051de504b987c686199d5b96fde7fce.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b57af52-250620T111559",
+  "version_upstream": "",
+  "bsum": "7e04b703fbd32fd52d165caa9ebd10ec05ebb0fdf0fed05870b1457c261915c5",
+  "build_date": "2025-06-21T02:41:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790964397",
+  "build_id": "15790964397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/webhook?tag=HEAD-b57af52-250620T111559-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "196",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/webhook?tag=HEAD-b57af52-250620T111559-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/octo-sts/app/webhook:HEAD-b57af52-250620T111559-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/octo-sts/app/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/octo-sts/app/webhook?tag=HEAD-b57af52-250620T111559-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "803c973dd794fd83bec22c6bb78303d8784afb6a27a22695e364c16c2a165b68",
+  "size": "23 MB",
+  "size_raw": "23758808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
