@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hydra",
+  "pkg_family": "hydra",
+  "pkg_id": "hydra#github.com_ory_hydra",
+  "pkg_name": "hydra",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/hydra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",
+  "homepage": [
+    "https://github.com/ory/hydra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clidoc",
+    "hydra",
+    "mock-cb",
+    "mock-client",
+    "mock-lcp",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/hydra/archive/a0a906211bce4ced3e1f4324eb9d287ef10892a6.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "cloud",
+    "docker",
+    "federation",
+    "hacktoberfest",
+    "hydra",
+    "identity",
+    "oauth",
+    "oauth-provider",
+    "oauth2",
+    "oauth2-provider",
+    "oauth2-server",
+    "oidc",
+    "openid",
+    "openid-connect",
+    "openid-connect-provider",
+    "openid-provider",
+    "security",
+    "server",
+    "sso"
+  ],
+  "version": "HEAD-a0a9062-250620T113805",
+  "version_upstream": "",
+  "bsum": "9aa1b95640f6f955fd0ccac0556095c8e76eedf9de801eb4e7e6089d171f8395",
+  "build_date": "2025-06-21T04:19:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791351701",
+  "build_id": "15791351701",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/hydra?tag=HEAD-a0a9062-250620T113805-loongarch64-Linux&download=hydra.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16276",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/hydra?tag=HEAD-a0a9062-250620T113805-loongarch64-Linux&download=hydra",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/hydra/hydra:HEAD-a0a9062-250620T113805-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/hydra/hydra",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/hydra?tag=HEAD-a0a9062-250620T113805-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b8f5e27cf09d30dcd62a4f94a1d790fd44c9bd8c023cb8f987a0d55943d5e52",
+  "size": "43 MB",
+  "size_raw": "45044944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
