@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "shuffledns",
+  "pkg_family": "shuffledns",
+  "pkg_id": "shuffledns#github.com_projectdiscovery_shuffledns",
+  "pkg_name": "shuffledns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/shuffledns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.",
+  "homepage": [
+    "https://github.com/projectdiscovery/shuffledns"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "shuffledns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/shuffledns/archive/1e45a1b42a7910fa6af00bf6071e107af73fab48.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dns-bruteforcer",
+    "dns-resolution",
+    "dns-resolver",
+    "hacktoberfest",
+    "massdns",
+    "reconnaissance",
+    "subdomain-bruteforcing"
+  ],
+  "version": "HEAD-1e45a1b-240522T025420",
+  "version_upstream": "v1.1.0",
+  "bsum": "afcc4e1f0472a02a98e3e785597200815802be3f9cf4cb14a883356e1ce27197",
+  "build_date": "2025-06-21T11:48:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794983369",
+  "build_id": "15794983369",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/shuffledns/shuffledns?tag=HEAD-1e45a1b-240522T025420-x86_64-Linux&download=shuffledns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1448",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/shuffledns/shuffledns?tag=HEAD-1e45a1b-240522T025420-x86_64-Linux&download=shuffledns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/shuffledns/shuffledns:HEAD-1e45a1b-240522T025420-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/shuffledns/shuffledns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/shuffledns/shuffledns?tag=HEAD-1e45a1b-240522T025420-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5491c7b50c34db7388eca4a8b6461fda611c6f24ca04c5548d1c05e81a6ab4c",
+  "size": "26 MB",
+  "size_raw": "26264304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
