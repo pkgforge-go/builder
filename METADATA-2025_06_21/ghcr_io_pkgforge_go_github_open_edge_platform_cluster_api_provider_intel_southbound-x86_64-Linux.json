@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "southbound",
+  "pkg_family": "cluster-api-provider-intel",
+  "pkg_id": "southbound#github.com_open_edge_platform_cluster_api_provider_intel",
+  "pkg_name": "southbound",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/cluster-api-provider-intel",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provides Intel-specific API support for clusters.",
+  "homepage": [
+    "https://github.com/open-edge-platform/cluster-api-provider-intel"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "southbound"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/cluster-api-provider-intel/archive/a7d464b60cc06cbef772a371f5be041aa22e0198.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a7d464b-250620T154101",
+  "version_upstream": "",
+  "bsum": "da8d37f682d9d117afd8b161a56e2c6043a34983fd40fb708495c949a3025a3f",
+  "build_date": "2025-06-21T02:50:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791045540",
+  "build_id": "15791045540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-api-provider-intel/southbound?tag=HEAD-a7d464b-250620T154101-x86_64-Linux&download=southbound.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-api-provider-intel/southbound?tag=HEAD-a7d464b-250620T154101-x86_64-Linux&download=southbound",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/cluster-api-provider-intel/southbound:HEAD-a7d464b-250620T154101-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/cluster-api-provider-intel/southbound",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-api-provider-intel/southbound?tag=HEAD-a7d464b-250620T154101-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "751d1f89916a919dadada8801630542abf6625cd6e5e2ed773012bae59efb390",
+  "size": "60 MB",
+  "size_raw": "62067616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
