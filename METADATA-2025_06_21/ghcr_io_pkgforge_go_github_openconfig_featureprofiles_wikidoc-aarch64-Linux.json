@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "wikidoc",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "wikidoc#github.com_openconfig_featureprofiles",
+  "pkg_name": "wikidoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/d61261528e313f1d5af3d703029bf250e21a03f2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d612615-250620T141650",
+  "version_upstream": "",
+  "bsum": "a1dd3c0837b2b51842d37ec5159f96f813b20f3cfbcca4d7c37cfe0172a1ae66",
+  "build_date": "2025-06-21T09:57:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794434480",
+  "build_id": "15794434480",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-d612615-250620T141650-aarch64-Linux&download=wikidoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-d612615-250620T141650-aarch64-Linux&download=wikidoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/wikidoc:HEAD-d612615-250620T141650-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/wikidoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-d612615-250620T141650-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fa34e413d65f9fa0036877c9fb8f0cf8941771da8c4a5a54ef980b0e4e5daa8",
+  "size": "6.3 MB",
+  "size_raw": "6506232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
