@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tool",
+  "pkg_family": "azuredisk-csi-driver",
+  "pkg_id": "tool#github.com_kubernetes_sigs_azuredisk_csi_driver",
+  "pkg_name": "tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/azuredisk-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Disk CSI Driver",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/azuredisk-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azurediskplugin",
+    "tool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/azuredisk-csi-driver/archive/da120abfcd494357978e33b2603316bc5a2424ad.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "k8s-sig-azure",
+    "kubernetes"
+  ],
+  "version": "HEAD-da120ab-250620T170652",
+  "version_upstream": "",
+  "bsum": "903ad2b0f7fc48b2ecfc92414ec11c960f4dd1430c472e467ccd29396e2a3eaf",
+  "build_date": "2025-06-21T08:58:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793718489",
+  "build_id": "15793718489",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/azuredisk-csi-driver/tool?tag=HEAD-da120ab-250620T170652-aarch64-Linux&download=tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "159",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/azuredisk-csi-driver/tool?tag=HEAD-da120ab-250620T170652-aarch64-Linux&download=tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/azuredisk-csi-driver/tool:HEAD-da120ab-250620T170652-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/azuredisk-csi-driver/tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/azuredisk-csi-driver/tool?tag=HEAD-da120ab-250620T170652-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c6ae31d2910d6b24e4451ae1b0df3a97bdf7efbfd2f358547b818c3f8d84ff6",
+  "size": "33 MB",
+  "size_raw": "33987296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
