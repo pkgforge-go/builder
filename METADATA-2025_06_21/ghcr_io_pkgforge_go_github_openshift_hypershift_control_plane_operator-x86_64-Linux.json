@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "control-plane-operator",
+  "pkg_family": "hypershift",
+  "pkg_id": "control-plane-operator#github.com_openshift_hypershift",
+  "pkg_name": "control-plane-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/63403c2b1861a27c0f01ce0ecc0965647fce9c57.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-63403c2-250620T095851",
+  "version_upstream": "",
+  "bsum": "b5f6cc017454ed40da948b476e42ad2c4b899f4f236f97cb7b6e723cee70ce1d",
+  "build_date": "2025-06-21T03:52:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791234678",
+  "build_id": "15791234678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/control-plane-operator?tag=HEAD-63403c2-250620T095851-x86_64-Linux&download=control-plane-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "463",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/control-plane-operator?tag=HEAD-63403c2-250620T095851-x86_64-Linux&download=control-plane-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/control-plane-operator:HEAD-63403c2-250620T095851-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/control-plane-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/control-plane-operator?tag=HEAD-63403c2-250620T095851-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "808f34bf0914ef89fbfd9aadc4d6a831310ed2ab96d7c12b6f3a6152a8606b9e",
+  "size": "152 MB",
+  "size_raw": "158449600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
