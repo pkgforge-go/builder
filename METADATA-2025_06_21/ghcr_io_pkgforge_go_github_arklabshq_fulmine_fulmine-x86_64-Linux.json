@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fulmine",
+  "pkg_family": "fulmine",
+  "pkg_id": "fulmine#github.com_ArkLabsHQ_fulmine",
+  "pkg_name": "fulmine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ArkLabsHQ/fulmine",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fulmine is a Bitcoin wallet daemon that integrates Ark protocol_s batched transaction model with Lightning Network infrastructure, enabling routing nodes, service providers and payment hubs to optimize channel liquidity while minimizing on-chain fees, without compromising on self-custody.",
+  "homepage": [
+    "https://github.com/ArkLabsHQ/fulmine"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arkd",
+    "fulmine"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ArkLabsHQ/fulmine/archive/7f64d424004162e407b8f077b76de6a902ecdd6d.tar.gz"
+  ],
+  "tag": [
+    "ark",
+    "ark-labs",
+    "bitcoin",
+    "bitcoin-wallet",
+    "cln",
+    "fulmine",
+    "lightning-network",
+    "lnd",
+    "utxo",
+    "vtxo"
+  ],
+  "version": "HEAD-7f64d42-250620T173538",
+  "version_upstream": "",
+  "bsum": "e1100655b76a1ae20434d8354a34323661d5e6ce49e0ee9f245d6e7d9eedbd6b",
+  "build_date": "2025-06-21T06:46:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793123385",
+  "build_id": "15793123385",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arklabshq/fulmine/fulmine?tag=HEAD-7f64d42-250620T173538-x86_64-Linux&download=fulmine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arklabshq/fulmine/fulmine?tag=HEAD-7f64d42-250620T173538-x86_64-Linux&download=fulmine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arklabshq/fulmine/fulmine:HEAD-7f64d42-250620T173538-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arklabshq/fulmine/fulmine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arklabshq/fulmine/fulmine?tag=HEAD-7f64d42-250620T173538-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a2b5410421bce64b86cd61b6a5689591b7da56d96784c0a29c25db79f436bda",
+  "size": "6.3 MB",
+  "size_raw": "6566432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
