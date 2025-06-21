@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fake-subscriber",
+  "pkg_family": "gatekeeper",
+  "pkg_id": "fake-subscriber#github.com_open_policy_agent_gatekeeper",
+  "pkg_name": "fake-subscriber",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-policy-agent/gatekeeper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐊 Gatekeeper - Policy Controller for Kubernetes",
+  "homepage": [
+    "https://github.com/open-policy-agent/gatekeeper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dummy-provider",
+    "fake-reader",
+    "fake-subscriber",
+    "gatekeeper",
+    "gator",
+    "helmify"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-policy-agent/gatekeeper/archive/56d0cbc12b8d3f1e76257ce2185ece55b9ee1ffa.tar.gz"
+  ],
+  "tag": [
+    "admission",
+    "cncf",
+    "gatekeeper",
+    "hacktoberfest",
+    "kubernetes",
+    "mutation",
+    "opa",
+    "policy",
+    "policy-engine",
+    "security",
+    "validation"
+  ],
+  "version": "HEAD-56d0cbc-250620T174038",
+  "version_upstream": "",
+  "bsum": "52c4920a20397b41b3d0ea13740039c6dd88f46c3bcda7bdf526af01906221bc",
+  "build_date": "2025-06-21T09:55:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794434103",
+  "build_id": "15794434103",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/fake-subscriber?tag=HEAD-56d0cbc-250620T174038-aarch64-Linux&download=fake-subscriber.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3915",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/fake-subscriber?tag=HEAD-56d0cbc-250620T174038-aarch64-Linux&download=fake-subscriber",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/fake-subscriber:HEAD-56d0cbc-250620T174038-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/fake-subscriber",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/fake-subscriber?tag=HEAD-56d0cbc-250620T174038-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e49a71d5111bbbeab6910ac823d83869a4dcbf1d7aed84dde5d74f83be710d2",
+  "size": "14 MB",
+  "size_raw": "13737472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

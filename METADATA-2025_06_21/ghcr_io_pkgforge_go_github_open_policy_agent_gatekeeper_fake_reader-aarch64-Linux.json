@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fake-reader",
+  "pkg_family": "gatekeeper",
+  "pkg_id": "fake-reader#github.com_open_policy_agent_gatekeeper",
+  "pkg_name": "fake-reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-policy-agent/gatekeeper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐊 Gatekeeper - Policy Controller for Kubernetes",
+  "homepage": [
+    "https://github.com/open-policy-agent/gatekeeper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dummy-provider",
+    "fake-reader",
+    "fake-subscriber",
+    "gatekeeper",
+    "gator",
+    "helmify"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-policy-agent/gatekeeper/archive/56d0cbc12b8d3f1e76257ce2185ece55b9ee1ffa.tar.gz"
+  ],
+  "tag": [
+    "admission",
+    "cncf",
+    "gatekeeper",
+    "hacktoberfest",
+    "kubernetes",
+    "mutation",
+    "opa",
+    "policy",
+    "policy-engine",
+    "security",
+    "validation"
+  ],
+  "version": "HEAD-56d0cbc-250620T174038",
+  "version_upstream": "",
+  "bsum": "9121a53602e952d7c25b3242b37f02e0b9b38d2c70cbbfbbdc969edca16a9386",
+  "build_date": "2025-06-21T09:54:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794434103",
+  "build_id": "15794434103",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/fake-reader?tag=HEAD-56d0cbc-250620T174038-aarch64-Linux&download=fake-reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3915",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/fake-reader?tag=HEAD-56d0cbc-250620T174038-aarch64-Linux&download=fake-reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/fake-reader:HEAD-56d0cbc-250620T174038-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/fake-reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/fake-reader?tag=HEAD-56d0cbc-250620T174038-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a48b35ed2a29b849129d01d25eb07c5226a34a3edb381573b97dcde6d90270f1",
+  "size": "1.8 MB",
+  "size_raw": "1813272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
