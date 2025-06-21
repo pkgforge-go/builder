@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "ingress-controller",
+  "pkg_id": "cmd#github.com_pomerium_ingress_controller",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pomerium/ingress-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pomerium Kubernetes Ingress Controller",
+  "homepage": [
+    "https://github.com/pomerium/ingress-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pomerium/ingress-controller/archive/acfc3e2ca43be78c3ab70cb4906fda8cfa51f117.tar.gz"
+  ],
+  "tag": [
+    "ingress-controller",
+    "kubernetes",
+    "pomerium"
+  ],
+  "version": "HEAD-acfc3e2-250620T135402",
+  "version_upstream": "",
+  "bsum": "5cdc99e2d5b5c9ed2f0ba3bb3476cd4f68f931199340ac8105f41850ee351710",
+  "build_date": "2025-06-21T11:19:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794852131",
+  "build_id": "15794852131",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/ingress-controller/cmd?tag=HEAD-acfc3e2-250620T135402-loongarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/ingress-controller/cmd?tag=HEAD-acfc3e2-250620T135402-loongarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pomerium/ingress-controller/cmd:HEAD-acfc3e2-250620T135402-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pomerium/ingress-controller/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/ingress-controller/cmd?tag=HEAD-acfc3e2-250620T135402-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "408dcd8dcd89301b4788083835494e94261be505363a6ddfe2655c4e05e87d9e",
+  "size": "13 MB",
+  "size_raw": "13130336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
