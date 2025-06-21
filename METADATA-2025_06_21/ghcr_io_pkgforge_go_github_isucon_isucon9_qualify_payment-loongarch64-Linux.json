@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "payment",
+  "pkg_family": "isucon9-qualify",
+  "pkg_id": "payment#github.com_isucon_isucon9_qualify",
+  "pkg_name": "payment",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/isucon/isucon9-qualify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ISUCON9予選",
+  "homepage": [
+    "https://github.com/isucon/isucon9-qualify"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench",
+    "bench-worker",
+    "payment",
+    "shipment"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/isucon/isucon9-qualify/archive/43326f14067a96ee167d977711d5a8dca5ae859b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-43326f1-250621T152055",
+  "version_upstream": "",
+  "bsum": "af5a1a6d2962484ac6fc56097be41fd44594e1a18fcb6280aeea6d58550b3481",
+  "build_date": "2025-06-21T22:24:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799906074",
+  "build_id": "15799906074",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isucon/isucon9-qualify/payment?tag=HEAD-43326f1-250621T152055-loongarch64-Linux&download=payment.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "241",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isucon/isucon9-qualify/payment?tag=HEAD-43326f1-250621T152055-loongarch64-Linux&download=payment",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/isucon/isucon9-qualify/payment:HEAD-43326f1-250621T152055-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/isucon/isucon9-qualify/payment",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isucon/isucon9-qualify/payment?tag=HEAD-43326f1-250621T152055-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c15506ae9ec17c98c6da9b37e1e54f72e2a7c15cb71f2e5e26523b3de67652bb",
+  "size": "6.4 MB",
+  "size_raw": "6655360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
