@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nmapurls",
+  "pkg_family": "nmapurls",
+  "pkg_id": "nmapurls#github.com_sdcampbell_nmapurls",
+  "pkg_name": "nmapurls",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sdcampbell/nmapurls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nmapurls parses Nmap xml reports from either piped input or command line arg and outputs a list of http_s_ URL_s to be used in an automation pipeline.",
+  "homepage": [
+    "https://github.com/sdcampbell/nmapurls"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nmapurls"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sdcampbell/nmapurls/archive/af1952e0efad5411ce54cccce4261d78ccb7e495.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-af1952e-250615T091413",
+  "version_upstream": "",
+  "bsum": "d68435c0feeebd1cca604335f1e7f3dae1595a6a8ace543ea5383648a103f4d0",
+  "build_date": "2025-06-21T15:10:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796788471",
+  "build_id": "15796788471",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/nmapurls/nmapurls?tag=HEAD-af1952e-250615T091413-riscv64-Linux&download=nmapurls.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/nmapurls/nmapurls?tag=HEAD-af1952e-250615T091413-riscv64-Linux&download=nmapurls",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sdcampbell/nmapurls/nmapurls:HEAD-af1952e-250615T091413-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sdcampbell/nmapurls/nmapurls",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/nmapurls/nmapurls?tag=HEAD-af1952e-250615T091413-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "00cb026e4d1b91df5ca364809785b4ee7aad56af9e1f5f93f7717a3fb7cd5ee8",
+  "size": "1.9 MB",
+  "size_raw": "1889192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
