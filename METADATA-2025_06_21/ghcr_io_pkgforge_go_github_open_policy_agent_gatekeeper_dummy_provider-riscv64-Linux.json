@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dummy-provider",
+  "pkg_family": "gatekeeper",
+  "pkg_id": "dummy-provider#github.com_open_policy_agent_gatekeeper",
+  "pkg_name": "dummy-provider",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-policy-agent/gatekeeper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐊 Gatekeeper - Policy Controller for Kubernetes",
+  "homepage": [
+    "https://github.com/open-policy-agent/gatekeeper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dummy-provider",
+    "fake-reader",
+    "fake-subscriber",
+    "gatekeeper",
+    "gator",
+    "helmify"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-policy-agent/gatekeeper/archive/56d0cbc12b8d3f1e76257ce2185ece55b9ee1ffa.tar.gz"
+  ],
+  "tag": [
+    "admission",
+    "cncf",
+    "gatekeeper",
+    "hacktoberfest",
+    "kubernetes",
+    "mutation",
+    "opa",
+    "policy",
+    "policy-engine",
+    "security",
+    "validation"
+  ],
+  "version": "HEAD-56d0cbc-250620T174038",
+  "version_upstream": "",
+  "bsum": "84729801346626c7c45d0b7a1a01a2b07286b6ef9a69f3648046f946d0504aaa",
+  "build_date": "2025-06-21T09:55:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794434103",
+  "build_id": "15794434103",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/dummy-provider?tag=HEAD-56d0cbc-250620T174038-riscv64-Linux&download=dummy-provider.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3915",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/dummy-provider?tag=HEAD-56d0cbc-250620T174038-riscv64-Linux&download=dummy-provider",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/dummy-provider:HEAD-56d0cbc-250620T174038-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-policy-agent/gatekeeper/dummy-provider",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/gatekeeper/dummy-provider?tag=HEAD-56d0cbc-250620T174038-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b535a87089d62a3a2ff5f6c5699da640b2135bf9ff286110af47b7e7e3bb271",
+  "size": "13 MB",
+  "size_raw": "13297240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
