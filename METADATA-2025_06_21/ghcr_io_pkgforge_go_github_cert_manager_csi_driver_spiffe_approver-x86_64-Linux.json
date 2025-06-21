@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "approver",
+  "pkg_family": "csi-driver-spiffe",
+  "pkg_id": "approver#github.com_cert_manager_csi_driver_spiffe",
+  "pkg_name": "approver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cert-manager/csi-driver-spiffe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes CSI plugin to automatically mount SPIFFE certificates to Pods using ephemeral volumes",
+  "homepage": [
+    "https://github.com/cert-manager/csi-driver-spiffe"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approver",
+    "csi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cert-manager/csi-driver-spiffe/archive/763eda7c1c1c284d0e8a3615fd6a22f546f95842.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-763eda7-250620T163711",
+  "version_upstream": "",
+  "bsum": "80a4976b7c2475b2809b9456d5aee515b96bc3a34a17d85040cc817743bb62eb",
+  "build_date": "2025-06-21T07:28:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793161485",
+  "build_id": "15793161485",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/csi-driver-spiffe/approver?tag=HEAD-763eda7-250620T163711-x86_64-Linux&download=approver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "80",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/csi-driver-spiffe/approver?tag=HEAD-763eda7-250620T163711-x86_64-Linux&download=approver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cert-manager/csi-driver-spiffe/approver:HEAD-763eda7-250620T163711-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cert-manager/csi-driver-spiffe/approver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/csi-driver-spiffe/approver?tag=HEAD-763eda7-250620T163711-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e764beded0dc136c9ff168d1dcf03cb3ff9e2b80cd00fb714efb1a95fc9eb3f2",
+  "size": "76 MB",
+  "size_raw": "79007648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
