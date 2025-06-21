@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fico",
+  "pkg_family": "fico",
+  "pkg_id": "fico#github.com_orcastor_fico",
+  "pkg_name": "fico",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orcastor/fico",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🔬【FileICOn】从文件提取图标（支持图片[bmp/gif/jpg/jpeg/jp2/jpeg2000/png/tiff]、图标[ico/icns]、Windows可执行文件[exe/dll]、资源文件[mui/mun]、Linux可执行文件[*.desktop_*.AppImage/*.run_]、手机应用安装包[apk/ipa]、Windows文件夹图标[autorun.inf/desktop.ini]、MacOSX程序[*.app]）Extract icon from file or directory.",
+  "homepage": [
+    "https://github.com/orcastor/fico"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fico"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/orcastor/fico/archive/e3bea0a75fd195a08e8597cd342a04093e3a4114.tar.gz"
+  ],
+  "tag": [
+    "dll",
+    "exe",
+    "icns",
+    "ico",
+    "icon",
+    "icon-extractor",
+    "image",
+    "pe",
+    "png",
+    "zip"
+  ],
+  "version": "HEAD-e3bea0a-241117T230408",
+  "version_upstream": "",
+  "bsum": "ee0d800f32fbb55ea812f475ae7a8851890aba46fb30a2f7cda9d318c9fc5329",
+  "build_date": "2025-06-21T04:12:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791301061",
+  "build_id": "15791301061",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orcastor/fico/fico?tag=HEAD-e3bea0a-241117T230408-loongarch64-Linux&download=fico.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orcastor/fico/fico?tag=HEAD-e3bea0a-241117T230408-loongarch64-Linux&download=fico",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orcastor/fico/fico:HEAD-e3bea0a-241117T230408-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orcastor/fico/fico",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orcastor/fico/fico?tag=HEAD-e3bea0a-241117T230408-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66319a73272224611dd819e8130ece07f1e315a6519917136e0e18d626747e6a",
+  "size": "3.5 MB",
+  "size_raw": "3653496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
