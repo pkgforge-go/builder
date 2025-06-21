@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "viewer",
+  "pkg_family": "onnx-go",
+  "pkg_id": "viewer#github.com_oramasearch_onnx_go",
+  "pkg_name": "viewer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oramasearch/onnx-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.",
+  "homepage": [
+    "https://github.com/oramasearch/onnx-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dump",
+    "emotions",
+    "gen",
+    "gen_cmd",
+    "genapi",
+    "introduction",
+    "model_zoo_executor",
+    "samples",
+    "tiny_yolov2",
+    "utils",
+    "viewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/oramasearch/onnx-go/archive/5befeb870169e8cd10af28c1552ed14662f82390.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "gorgonia",
+    "machine-learning",
+    "neural-network",
+    "onnx",
+    "open-source",
+    "protobuf",
+    "software2"
+  ],
+  "version": "HEAD-5befeb8-240901T184544",
+  "version_upstream": "",
+  "bsum": "25b2390786c9241ae8cf53c2595825fd049366273c4e454b3d2a25bae2e6bdfb",
+  "build_date": "2025-06-21T04:12:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791291830",
+  "build_id": "15791291830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oramasearch/onnx-go/viewer?tag=HEAD-5befeb8-240901T184544-aarch64-Linux&download=viewer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "791",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oramasearch/onnx-go/viewer?tag=HEAD-5befeb8-240901T184544-aarch64-Linux&download=viewer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oramasearch/onnx-go/viewer:HEAD-5befeb8-240901T184544-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oramasearch/onnx-go/viewer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oramasearch/onnx-go/viewer?tag=HEAD-5befeb8-240901T184544-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b2d68630e9e555b247450393f85a466b3d4b115d8363661548179e8022a677d9",
+  "size": "12 MB",
+  "size_raw": "12390488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

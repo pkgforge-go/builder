@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tiny_yolov2",
+  "pkg_family": "onnx-go",
+  "pkg_id": "tiny_yolov2#github.com_oramasearch_onnx_go",
+  "pkg_name": "tiny_yolov2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oramasearch/onnx-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.",
+  "homepage": [
+    "https://github.com/oramasearch/onnx-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dump",
+    "emotions",
+    "gen",
+    "gen_cmd",
+    "genapi",
+    "introduction",
+    "model_zoo_executor",
+    "samples",
+    "tiny_yolov2",
+    "utils",
+    "viewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/oramasearch/onnx-go/archive/5befeb870169e8cd10af28c1552ed14662f82390.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "gorgonia",
+    "machine-learning",
+    "neural-network",
+    "onnx",
+    "open-source",
+    "protobuf",
+    "software2"
+  ],
+  "version": "HEAD-5befeb8-240901T184544",
+  "version_upstream": "",
+  "bsum": "b80df52420a7ac050e50eee211264c4840f12c532e31df9c66d00a09dac1db07",
+  "build_date": "2025-06-21T04:12:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791291830",
+  "build_id": "15791291830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oramasearch/onnx-go/tiny_yolov2?tag=HEAD-5befeb8-240901T184544-aarch64-Linux&download=tiny_yolov2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "791",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oramasearch/onnx-go/tiny_yolov2?tag=HEAD-5befeb8-240901T184544-aarch64-Linux&download=tiny_yolov2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oramasearch/onnx-go/tiny_yolov2:HEAD-5befeb8-240901T184544-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oramasearch/onnx-go/tiny_yolov2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oramasearch/onnx-go/tiny_yolov2?tag=HEAD-5befeb8-240901T184544-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db6e011e1e27b44a6374ca0e152c58fa4aaf91c0661efb28d4a8a0336b3167dc",
+  "size": "15 MB",
+  "size_raw": "14750200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
