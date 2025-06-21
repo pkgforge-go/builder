@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "full",
+  "pkg_family": "stfs",
+  "pkg_id": "full#github.com_pojntfx_stfs",
+  "pkg_name": "full",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pojntfx/stfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple Tape File System _STFS_, a file system for tapes and tar files.",
+  "homepage": [
+    "https://github.com/pojntfx/stfs"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "full",
+    "simple",
+    "stfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pojntfx/stfs/archive/3aff00b57e42600cc930f99c4ef1242431c37432.tar.gz"
+  ],
+  "tag": [
+    "filesystem",
+    "ltfs",
+    "sqlite",
+    "tape",
+    "tape-archive",
+    "tape-drive",
+    "tape-library",
+    "tar"
+  ],
+  "version": "HEAD-3aff00b-240730T155612",
+  "version_upstream": "v0.1.1",
+  "bsum": "78acc2d06267ae4935b72ec0d2c1c9a66098955c4cfaefad28685b0613a4a436",
+  "build_date": "2025-06-21T11:11:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794838890",
+  "build_id": "15794838890",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pojntfx/stfs/full?tag=HEAD-3aff00b-240730T155612-aarch64-Linux&download=full.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pojntfx/stfs/full?tag=HEAD-3aff00b-240730T155612-aarch64-Linux&download=full",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pojntfx/stfs/full:HEAD-3aff00b-240730T155612-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pojntfx/stfs/full",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pojntfx/stfs/full?tag=HEAD-3aff00b-240730T155612-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fb8a319b011841208f0d91ec62b858e2bbcc796ddfbffd2b76be1b0c73b194c5",
+  "size": "15 MB",
+  "size_raw": "14930560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
