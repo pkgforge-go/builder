@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nscache-server",
+  "pkg_family": "nscache",
+  "pkg_id": "nscache-server#github.com_no_src_nscache",
+  "pkg_name": "nscache-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/no-src/nscache",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go caching framework that supports multiple data source drivers",
+  "homepage": [
+    "https://github.com/no-src/nscache"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nscache-cli",
+    "nscache-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/no-src/nscache/archive/2da5ae18530ab33a784207046a4481127a169a3d.tar.gz"
+  ],
+  "tag": [
+    "cache",
+    "cachemanager",
+    "golang"
+  ],
+  "version": "HEAD-2da5ae1-250205T114448",
+  "version_upstream": "",
+  "bsum": "e072bdcafcd7a522f9c725bb714aa7e8067dfc7ed838a2cc03991f0bf9434b8a",
+  "build_date": "2025-06-21T02:12:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790916178",
+  "build_id": "15790916178",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/no-src/nscache/nscache-server?tag=HEAD-2da5ae1-250205T114448-riscv64-Linux&download=nscache-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/no-src/nscache/nscache-server?tag=HEAD-2da5ae1-250205T114448-riscv64-Linux&download=nscache-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/no-src/nscache/nscache-server:HEAD-2da5ae1-250205T114448-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/no-src/nscache/nscache-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/no-src/nscache/nscache-server?tag=HEAD-2da5ae1-250205T114448-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0d40b5c800519f7622b5cb23a02ad20c4f727c1b5588eac2a052ef2ccabb90c",
+  "size": "23 MB",
+  "size_raw": "23801944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
