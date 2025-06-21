@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tapd",
+  "pkg_family": "taproot-assets",
+  "pkg_id": "tapd#github.com_lightninglabs_taproot_assets",
+  "pkg_name": "tapd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lightninglabs/taproot-assets",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A layer 1 daemon, for the Taproot Assets Protocol specification, written in Go _golang_",
+  "homepage": [
+    "https://github.com/lightninglabs/taproot-assets"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "merge-sql-schemas",
+    "tapcli",
+    "tapd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lightninglabs/taproot-assets/archive/2f518d21fc86531536d055a79327a01d2a954580.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2f518d2-250620T182107",
+  "version_upstream": "",
+  "bsum": "d46bce44e2e7390bc04601a35f80a8946be663a705deb15577853ec2e3faa8ec",
+  "build_date": "2025-06-21T09:09:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793730579",
+  "build_id": "15793730579",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/taproot-assets/tapd?tag=HEAD-2f518d2-250620T182107-loongarch64-Linux&download=tapd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "485",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/taproot-assets/tapd?tag=HEAD-2f518d2-250620T182107-loongarch64-Linux&download=tapd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightninglabs/taproot-assets/tapd:HEAD-2f518d2-250620T182107-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightninglabs/taproot-assets/tapd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/taproot-assets/tapd?tag=HEAD-2f518d2-250620T182107-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c0efc97eac80c9c9acbb324a2c7b8ca329a5b4bdc8561f5de675882820da38f7",
+  "size": "58 MB",
+  "size_raw": "60156848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
