@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stub_generator",
+  "pkg_family": "ghostscad",
+  "pkg_id": "stub_generator#github.com_ljanyst_ghostscad",
+  "pkg_name": "stub_generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ljanyst/ghostscad",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD",
+  "homepage": [
+    "https://github.com/ljanyst/ghostscad"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-3d-shapes",
+    "02-2d-shapes-extrusion",
+    "03-booleans",
+    "04-fancy",
+    "05-anchors",
+    "bezier",
+    "bezier-surface",
+    "graph",
+    "polyline",
+    "polyline3d",
+    "sector-and-arc",
+    "stub_generator",
+    "tagged_method_generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ljanyst/ghostscad/archive/04cb15dea9b4d8060c4f9acad2b22bf040aa8c7d.tar.gz"
+  ],
+  "tag": [
+    "3d-printing",
+    "cad",
+    "go",
+    "golang",
+    "modelling"
+  ],
+  "version": "HEAD-04cb15d-250621T110501",
+  "version_upstream": "",
+  "bsum": "9c199f33edc9f583b91783c60374fb3cd1951a1318a8dc4b229ea6058964fe69",
+  "build_date": "2025-06-21T22:34:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799924176",
+  "build_id": "15799924176",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/stub_generator?tag=HEAD-04cb15d-250621T110501-x86_64-Linux&download=stub_generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "175",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/stub_generator?tag=HEAD-04cb15d-250621T110501-x86_64-Linux&download=stub_generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ljanyst/ghostscad/stub_generator:HEAD-04cb15d-250621T110501-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ljanyst/ghostscad/stub_generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ljanyst/ghostscad/stub_generator?tag=HEAD-04cb15d-250621T110501-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "033a55fbff7d729433bcf6d4d714d2a696ec7d344c3eb44dc79346c79efe28f1",
+  "size": "2.0 MB",
+  "size_raw": "2043608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
