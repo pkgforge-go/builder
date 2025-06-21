@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "payment",
+  "pkg_family": "isucon9-qualify",
+  "pkg_id": "payment#github.com_isucon_isucon9_qualify",
+  "pkg_name": "payment",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/isucon/isucon9-qualify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ISUCON9予選",
+  "homepage": [
+    "https://github.com/isucon/isucon9-qualify"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench",
+    "bench-worker",
+    "payment",
+    "shipment"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/isucon/isucon9-qualify/archive/43326f14067a96ee167d977711d5a8dca5ae859b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-43326f1-250621T152055",
+  "version_upstream": "",
+  "bsum": "a6c865752fbf45854ded6bdfe8c5e04bd9b4de0391962ea764f77a11a6f01e81",
+  "build_date": "2025-06-21T22:25:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799906074",
+  "build_id": "15799906074",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isucon/isucon9-qualify/payment?tag=HEAD-43326f1-250621T152055-riscv64-Linux&download=payment.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "241",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isucon/isucon9-qualify/payment?tag=HEAD-43326f1-250621T152055-riscv64-Linux&download=payment",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/isucon/isucon9-qualify/payment:HEAD-43326f1-250621T152055-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/isucon/isucon9-qualify/payment",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/isucon/isucon9-qualify/payment?tag=HEAD-43326f1-250621T152055-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "525db5c7ca0005f642dadfca8a79a0d3793eb75d8b62fd054b70a4a0f160afd2",
+  "size": "6.3 MB",
+  "size_raw": "6528760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
