@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cluster-operator",
+  "pkg_family": "cluster-operator",
+  "pkg_id": "cluster-operator#github.com_rabbitmq_cluster_operator",
+  "pkg_name": "cluster-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rabbitmq/cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RabbitMQ Cluster Kubernetes Operator",
+  "homepage": [
+    "https://github.com/rabbitmq/cluster-operator"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rabbitmq/cluster-operator/archive/fa41919d3590fb30c5df8c06ee152e037a0ff0bd.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "kubernetes",
+    "kubernetes-operator",
+    "rabbitmq"
+  ],
+  "version": "HEAD-fa41919-250620T152945",
+  "version_upstream": "",
+  "bsum": "5e2081adea002c50854448c478f98f95b49aefde3de6e5df409acc01fcccd7d6",
+  "build_date": "2025-06-21T12:58:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795904867",
+  "build_id": "15795904867",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator?tag=HEAD-fa41919-250620T152945-x86_64-Linux&download=cluster-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "961",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator?tag=HEAD-fa41919-250620T152945-x86_64-Linux&download=cluster-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator:HEAD-fa41919-250620T152945-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator?tag=HEAD-fa41919-250620T152945-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f5f27b7c40848c06dd63177ddbcc77b818983cd7bd4cfd925c26aab02739878",
+  "size": "54 MB",
+  "size_raw": "56271648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
