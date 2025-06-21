@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "actionlint",
+  "pkg_family": "actionlint",
+  "pkg_id": "actionlint#github.com_rhysd_actionlint",
+  "pkg_name": "actionlint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rhysd/actionlint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":octocat: Static checker for GitHub Actions workflow files",
+  "homepage": [
+    "https://github.com/rhysd/actionlint"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "actionlint",
+    "check-checks",
+    "generate-availability",
+    "generate-popular-actions",
+    "generate-webhook-events"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rhysd/actionlint/archive/2ab3a12c7848f6c15faca9a92612ef4261d0e370.tar.gz"
+  ],
+  "tag": [
+    "actions",
+    "ci",
+    "github-actions",
+    "lint",
+    "linter"
+  ],
+  "version": "HEAD-2ab3a12-250120T191311",
+  "version_upstream": "",
+  "bsum": "360b70b6a99cf116dd0448689c50e47a9226923cdee97fa849b6beda380cd4b8",
+  "build_date": "2025-06-21T13:55:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795944887",
+  "build_id": "15795944887",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/actionlint?tag=HEAD-2ab3a12-250120T191311-riscv64-Linux&download=actionlint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/actionlint?tag=HEAD-2ab3a12-250120T191311-riscv64-Linux&download=actionlint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rhysd/actionlint/actionlint:HEAD-2ab3a12-250120T191311-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rhysd/actionlint/actionlint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/actionlint?tag=HEAD-2ab3a12-250120T191311-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c727cc200626d1588d2ccbb9c8e77eeaba924d519486190c2256197c3856c5ef",
+  "size": "5.3 MB",
+  "size_raw": "5464680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
