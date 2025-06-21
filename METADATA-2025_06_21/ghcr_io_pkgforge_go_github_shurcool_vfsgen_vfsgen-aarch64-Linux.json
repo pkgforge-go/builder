@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vfsgen",
+  "pkg_family": "vfsgen",
+  "pkg_id": "vfsgen#github.com_shurcooL_vfsgen",
+  "pkg_name": "vfsgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/shurcooL/vfsgen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Takes an input http.FileSystem _likely at go generate time_ and generates Go code that statically implements it.",
+  "homepage": [
+    "https://github.com/shurcooL/vfsgen"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vfsgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/shurcooL/vfsgen/archive/0000e147ea924cc540661f1ce3fbffa1f37cf05f.tar.gz"
+  ],
+  "tag": [
+    "embed-files",
+    "go"
+  ],
+  "version": "HEAD-0000e14-230704T031429",
+  "version_upstream": "",
+  "bsum": "d96c97605b0d3cc39c9f15da9914cd03b027fc13646c2293f47f1709ecaa0935",
+  "build_date": "2025-06-21T23:22:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800286200",
+  "build_id": "15800286200",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shurcool/vfsgen/vfsgen?tag=HEAD-0000e14-230704T031429-aarch64-Linux&download=vfsgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "982",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shurcool/vfsgen/vfsgen?tag=HEAD-0000e14-230704T031429-aarch64-Linux&download=vfsgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shurcool/vfsgen/vfsgen:HEAD-0000e14-230704T031429-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shurcool/vfsgen/vfsgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shurcool/vfsgen/vfsgen?tag=HEAD-0000e14-230704T031429-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b6f4741d48ff456ab5235b2838e36da534c52aadbdbe5c948aacc3f66bebc0e",
+  "size": "4.2 MB",
+  "size_raw": "4305592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
