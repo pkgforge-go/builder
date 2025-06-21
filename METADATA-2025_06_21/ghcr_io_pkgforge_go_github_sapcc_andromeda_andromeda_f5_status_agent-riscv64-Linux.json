@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "andromeda-f5-status-agent",
+  "pkg_family": "andromeda",
+  "pkg_id": "andromeda-f5-status-agent#github.com_sapcc_andromeda",
+  "pkg_name": "andromeda-f5-status-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/andromeda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Platform agnostic GSLB frontend with OpenStack-like API",
+  "homepage": [
+    "https://github.com/sapcc/andromeda"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "andromeda-akamai-agent",
+    "andromeda-akamai-reports",
+    "andromeda-f5-agent",
+    "andromeda-f5-status-agent",
+    "andromeda-house-keeping",
+    "andromeda-liquid-server",
+    "andromeda-migrate",
+    "andromeda-server",
+    "m31ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/andromeda/archive/4db208f388e54223390144cefe339b5caa9697ac.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "gslb",
+    "loadbalancer",
+    "openstack"
+  ],
+  "version": "HEAD-4db208f-250621T113853",
+  "version_upstream": "",
+  "bsum": "73bf4fbe31c23e61ef6d32180d985727a62c5090ec98bfb7d260df72806933d8",
+  "build_date": "2025-06-21T15:01:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796495070",
+  "build_id": "15796495070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-f5-status-agent?tag=HEAD-4db208f-250621T113853-riscv64-Linux&download=andromeda-f5-status-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-f5-status-agent?tag=HEAD-4db208f-250621T113853-riscv64-Linux&download=andromeda-f5-status-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-f5-status-agent:HEAD-4db208f-250621T113853-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/andromeda/andromeda-f5-status-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/andromeda/andromeda-f5-status-agent?tag=HEAD-4db208f-250621T113853-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "627a4fe9308e7a8301533f2a37a97c5fb852d52648a27b8c0d1ace6a23c6b9ac",
+  "size": "13 MB",
+  "size_raw": "13105912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
