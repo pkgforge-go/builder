@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dispatch",
+  "pkg_family": "lal",
+  "pkg_id": "dispatch#github.com_q191201771_lal",
+  "pkg_name": "dispatch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/q191201771/lal",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP_RTP/RTCP_, HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711/OPUS, relay, cluster, record, HTTP Notify/API/UI. 直播",
+  "homepage": [
+    "https://github.com/q191201771/lal"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyseflv",
+    "benchrtmpconnect",
+    "calcrtmpdelay",
+    "customize_lalserver",
+    "dispatch",
+    "flvfile2es",
+    "lalserver",
+    "modflvfile",
+    "pullhttpflv",
+    "pullrtmp",
+    "pullrtmp2hls",
+    "pullrtmp2pushrtmp",
+    "pullrtmp2pushrtsp",
+    "pullrtsp",
+    "pullrtsp2pushrtmp",
+    "pullrtsp2pushrtsp",
+    "pushrtmp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/q191201771/lal/archive/e0a5c4dd57e92025a7c4061b8a632083860aa228.tar.gz"
+  ],
+  "tag": [
+    "aac",
+    "flash",
+    "flv",
+    "golang",
+    "golang-rtmp",
+    "h264-avc",
+    "h265-hevc",
+    "hls",
+    "http-ts",
+    "https-flv",
+    "lal",
+    "live-media-server",
+    "livestream",
+    "m3u8",
+    "mpegts",
+    "rtcp",
+    "rtmp",
+    "rtp",
+    "rtsp",
+    "video"
+  ],
+  "version": "HEAD-e0a5c4d-241023T095900",
+  "version_upstream": "",
+  "bsum": "8b94ee3d3537e29e765fcf3806b84b3d50526b6f81c41980a6a5d7cb18d04ec8",
+  "build_date": "2025-06-21T12:21:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795321054",
+  "build_id": "15795321054",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/q191201771/lal/dispatch?tag=HEAD-e0a5c4d-241023T095900-x86_64-Linux&download=dispatch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2928",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/q191201771/lal/dispatch?tag=HEAD-e0a5c4d-241023T095900-x86_64-Linux&download=dispatch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/q191201771/lal/dispatch:HEAD-e0a5c4d-241023T095900-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/q191201771/lal/dispatch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/q191201771/lal/dispatch?tag=HEAD-e0a5c4d-241023T095900-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "433b5d79b707930518102f8f9d1ffd808d3c7f6e15a2d86362b24b5cd244855c",
+  "size": "6.9 MB",
+  "size_raw": "7140800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
