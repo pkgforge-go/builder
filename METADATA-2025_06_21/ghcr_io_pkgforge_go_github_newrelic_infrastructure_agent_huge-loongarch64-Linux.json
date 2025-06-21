@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "huge",
+  "pkg_family": "infrastructure-agent",
+  "pkg_id": "huge#github.com_newrelic_infrastructure_agent",
+  "pkg_name": "huge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/infrastructure-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic Infrastructure Agent",
+  "homepage": [
+    "https://github.com/newrelic/infrastructure-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfgreq",
+    "cmdchannel_mock",
+    "cmdreq",
+    "discoverer",
+    "environment",
+    "huge",
+    "longrunning_hb",
+    "longtime",
+    "newrelic-infra-service",
+    "overflow",
+    "protocol_v4",
+    "simple",
+    "validyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/infrastructure-agent/archive/996edebc943819f040eff52c277f9d4507d2da2f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-996edeb-250617T100244",
+  "version_upstream": "",
+  "bsum": "497036b6311673beffe4e36ea0b596b2452e12ceb01e314a81c5aa83ac97fb77",
+  "build_date": "2025-06-21T00:10:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789575259",
+  "build_id": "15789575259",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/huge?tag=HEAD-996edeb-250617T100244-loongarch64-Linux&download=huge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "146",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/huge?tag=HEAD-996edeb-250617T100244-loongarch64-Linux&download=huge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/huge:HEAD-996edeb-250617T100244-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/huge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/huge?tag=HEAD-996edeb-250617T100244-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7098fe77eb9416748bd4d6cb3e69eb3cf441e19a1fb7a78e49b52cc0dd3205b",
+  "size": "1.7 MB",
+  "size_raw": "1712568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

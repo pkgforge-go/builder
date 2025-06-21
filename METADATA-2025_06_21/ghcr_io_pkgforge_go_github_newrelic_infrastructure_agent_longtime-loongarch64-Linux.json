@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "longtime",
+  "pkg_family": "infrastructure-agent",
+  "pkg_id": "longtime#github.com_newrelic_infrastructure_agent",
+  "pkg_name": "longtime",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/infrastructure-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic Infrastructure Agent",
+  "homepage": [
+    "https://github.com/newrelic/infrastructure-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfgreq",
+    "cmdchannel_mock",
+    "cmdreq",
+    "discoverer",
+    "environment",
+    "huge",
+    "longrunning_hb",
+    "longtime",
+    "newrelic-infra-service",
+    "overflow",
+    "protocol_v4",
+    "simple",
+    "validyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/infrastructure-agent/archive/996edebc943819f040eff52c277f9d4507d2da2f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-996edeb-250617T100244",
+  "version_upstream": "",
+  "bsum": "00e1491cc09c3c367ea098a3240e73cb0dd06f70cbc5100f2ff3d05dd6ed6975",
+  "build_date": "2025-06-21T00:10:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789575259",
+  "build_id": "15789575259",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/longtime?tag=HEAD-996edeb-250617T100244-loongarch64-Linux&download=longtime.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "146",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/longtime?tag=HEAD-996edeb-250617T100244-loongarch64-Linux&download=longtime",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/longtime:HEAD-996edeb-250617T100244-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/infrastructure-agent/longtime",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/infrastructure-agent/longtime?tag=HEAD-996edeb-250617T100244-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "deae28fa08abeba9539681d704c9aa77fbdec7c007bc080dafeddd4188981e31",
+  "size": "1.6 MB",
+  "size_raw": "1661112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
