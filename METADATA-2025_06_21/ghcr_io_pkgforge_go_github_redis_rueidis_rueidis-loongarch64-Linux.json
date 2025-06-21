@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rueidis",
+  "pkg_family": "rueidis",
+  "pkg_id": "rueidis#github.com_redis_rueidis",
+  "pkg_name": "rueidis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/redis/rueidis",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.",
+  "homepage": [
+    "https://github.com/redis/rueidis"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rueidis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/redis/rueidis/archive/23c9b7ea888fa7df1eb71547660c8f4761ed3823.tar.gz"
+  ],
+  "tag": [
+    "cache",
+    "client-side-caching",
+    "distributed",
+    "generics",
+    "go",
+    "golang",
+    "lock",
+    "redis",
+    "redis-client",
+    "resp3",
+    "resp3-client"
+  ],
+  "version": "HEAD-23c9b7e-250620T185301",
+  "version_upstream": "",
+  "bsum": "695de85f3e35410f9919ee53d3a4cb4ed19e53b50405c9e9775caa63af1198a3",
+  "build_date": "2025-06-21T13:25:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795910559",
+  "build_id": "15795910559",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redis/rueidis/rueidis?tag=HEAD-23c9b7e-250620T185301-loongarch64-Linux&download=rueidis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2697",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redis/rueidis/rueidis?tag=HEAD-23c9b7e-250620T185301-loongarch64-Linux&download=rueidis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redis/rueidis/rueidis:HEAD-23c9b7e-250620T185301-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redis/rueidis/rueidis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redis/rueidis/rueidis?tag=HEAD-23c9b7e-250620T185301-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b169b0f3beb58e0e3bdfb4bd2e283df5e78212d1c4e88220b43503cc34b5b999",
+  "size": "2.6 MB",
+  "size_raw": "2690008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
