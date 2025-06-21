@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "content-sources",
+  "pkg_family": "content-sources-backend",
+  "pkg_id": "content-sources#github.com_content_services_content_sources_backend",
+  "pkg_name": "content-sources",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/content-services/content-sources-backend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Backend for content sources service",
+  "homepage": [
+    "https://github.com/content-services/content-sources-backend"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candlepin",
+    "content-sources",
+    "dbmigrate",
+    "external-repos",
+    "jobs",
+    "lint_openapi",
+    "swagger2openapi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/content-services/content-sources-backend/archive/b2893c3f3400a650354a3e78d230afee673dec73.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-b2893c3-250620T115254",
+  "version_upstream": "",
+  "bsum": "55b06af3cdf43a77d0b601959cc5c8eb5364f916feaef69e69d54dcb3aa32a68",
+  "build_date": "2025-06-21T07:45:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793167391",
+  "build_id": "15793167391",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/content-services/content-sources-backend/content-sources?tag=HEAD-b2893c3-250620T115254-loongarch64-Linux&download=content-sources.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/content-services/content-sources-backend/content-sources?tag=HEAD-b2893c3-250620T115254-loongarch64-Linux&download=content-sources",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/content-services/content-sources-backend/content-sources:HEAD-b2893c3-250620T115254-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/content-services/content-sources-backend/content-sources",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/content-services/content-sources-backend/content-sources?tag=HEAD-b2893c3-250620T115254-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d36adad2c62459bb6bd7316b4be18ad10709b21c4b99fd8a6223e21007cd5287",
+  "size": "41 MB",
+  "size_raw": "42567072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
