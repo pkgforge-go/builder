@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "buildx",
+  "pkg_family": "buildx",
+  "pkg_id": "buildx#github.com_docker_buildx",
+  "pkg_name": "buildx",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/buildx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker CLI plugin for extended build capabilities with BuildKit",
+  "homepage": [
+    "https://github.com/docker/buildx"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildx",
+    "buildx-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docker/buildx/archive/c48ccdee369072979a9ca63c3b95986edca9e188.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c48ccde-250620T131118",
+  "version_upstream": "",
+  "bsum": "f8e8ad5d82fff95cf8a131af09764f439eebf7d997c9186a6196392a85d09ff9",
+  "build_date": "2025-06-21T07:56:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793192608",
+  "build_id": "15793192608",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildx/buildx?tag=HEAD-c48ccde-250620T131118-loongarch64-Linux&download=buildx.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3964",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildx/buildx?tag=HEAD-c48ccde-250620T131118-loongarch64-Linux&download=buildx",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/buildx/buildx:HEAD-c48ccde-250620T131118-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/buildx/buildx",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildx/buildx?tag=HEAD-c48ccde-250620T131118-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5d0a99e63597d04ea7af50162523fb162e778ac765514a6e017e7ac7902c4dc",
+  "size": "68 MB",
+  "size_raw": "70909152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
