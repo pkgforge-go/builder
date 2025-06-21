@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "initializer",
+  "pkg_family": "operator-registry",
+  "pkg_id": "initializer#github.com_operator_framework_operator_registry",
+  "pkg_name": "initializer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-registry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator Registry runs in a Kubernetes or OpenShift cluster to provide operator catalog data to Operator Lifecycle Manager.",
+  "homepage": [
+    "https://github.com/operator-framework/operator-registry"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmap-server",
+    "initializer",
+    "registry-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-registry/archive/53ad34f192cbe5265755ef825c18b0005bfba1a6.tar.gz"
+  ],
+  "tag": [
+    "grpc",
+    "kubernetes",
+    "kubernetes-operator"
+  ],
+  "version": "HEAD-53ad34f-250621T124350",
+  "version_upstream": "",
+  "bsum": "b9f95b64191f860334e0bb2b7713d361c95496ab736669fe24858ab4b2331ce5",
+  "build_date": "2025-06-21T23:00:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800155754",
+  "build_id": "15800155754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-registry/initializer?tag=HEAD-53ad34f-250621T124350-riscv64-Linux&download=initializer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "224",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-registry/initializer?tag=HEAD-53ad34f-250621T124350-riscv64-Linux&download=initializer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-registry/initializer:HEAD-53ad34f-250621T124350-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-registry/initializer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-registry/initializer?tag=HEAD-53ad34f-250621T124350-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3cbbaacb2b20ae4552a19a38121113a0a4965e667c1750490e9e96bea31170f",
+  "size": "33 MB",
+  "size_raw": "33841304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
