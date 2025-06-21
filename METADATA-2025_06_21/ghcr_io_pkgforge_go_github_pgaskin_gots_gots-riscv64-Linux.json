@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gots",
+  "pkg_family": "gots",
+  "pkg_id": "gots#github.com_pgaskin_gots",
+  "pkg_name": "gots",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pgaskin/gots",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure-Go bindings for the ots font converter/sanitizer library using wazero. Takes TTF/TTC/OTF/WOFF/WOFF2 fonts and outputs sanitized TTF/TTC/OTF font files.",
+  "homepage": [
+    "https://github.com/pgaskin/gots"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gots"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pgaskin/gots/archive/cf1389f6d4340d146a0ff48285e0300d36bbbb50.tar.gz"
+  ],
+  "tag": [
+    "font",
+    "go",
+    "otf",
+    "ots",
+    "ttf",
+    "wasm",
+    "wazero",
+    "webassembly",
+    "woff",
+    "woff2"
+  ],
+  "version": "HEAD-cf1389f-240526T020626",
+  "version_upstream": "v1.0.0",
+  "bsum": "f702dbd12c08db75769809ed2d38bf84eab39b98bee950e6e575ef27853b1b9f",
+  "build_date": "2025-06-21T10:26:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794488338",
+  "build_id": "15794488338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pgaskin/gots/gots?tag=HEAD-cf1389f-240526T020626-riscv64-Linux&download=gots.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pgaskin/gots/gots?tag=HEAD-cf1389f-240526T020626-riscv64-Linux&download=gots",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pgaskin/gots/gots:HEAD-cf1389f-240526T020626-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pgaskin/gots/gots",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pgaskin/gots/gots?tag=HEAD-cf1389f-240526T020626-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d9e76581b142ea314f0081ed8ea1181524defdb599a6a1f242c59045ed9fa43",
+  "size": "5.3 MB",
+  "size_raw": "5528376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
