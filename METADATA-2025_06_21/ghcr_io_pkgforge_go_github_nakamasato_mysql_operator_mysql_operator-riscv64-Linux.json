@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mysql-operator",
+  "pkg_family": "mysql-operator",
+  "pkg_id": "mysql-operator#github.com_nakamasato_mysql_operator",
+  "pkg_name": "mysql-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nakamasato/mysql-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage MySQL users, databases, schemas, etc.",
+  "homepage": [
+    "https://github.com/nakamasato/mysql-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mysql-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nakamasato/mysql-operator/archive/d82020b6bc79bad67a8962adeb4fc2f74eee1a91.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-operator",
+    "managed-by-terraform"
+  ],
+  "version": "HEAD-d82020b-250621T025456",
+  "version_upstream": "",
+  "bsum": "694527b8bdf6c147248b11287685184fdbe2de0efdebc28a9d831c7b4ebaa16b",
+  "build_date": "2025-06-21T09:28:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794146760",
+  "build_id": "15794146760",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/mysql-operator/mysql-operator?tag=HEAD-d82020b-250621T025456-riscv64-Linux&download=mysql-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/mysql-operator/mysql-operator?tag=HEAD-d82020b-250621T025456-riscv64-Linux&download=mysql-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nakamasato/mysql-operator/mysql-operator:HEAD-d82020b-250621T025456-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nakamasato/mysql-operator/mysql-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/mysql-operator/mysql-operator?tag=HEAD-d82020b-250621T025456-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70132dd9bf225437d4551e7d4a139e067671ed4af2a8610be5f472513fac50c9",
+  "size": "51 MB",
+  "size_raw": "53419704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
