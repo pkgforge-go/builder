@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ci-trigger",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "ci-trigger#github.com_openconfig_featureprofiles",
+  "pkg_name": "ci-trigger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/d61261528e313f1d5af3d703029bf250e21a03f2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d612615-250620T141650",
+  "version_upstream": "",
+  "bsum": "b916f8cd9c5cfc9a2db63d159bcd7367ec2d8bc91420a948a65bd7508102b489",
+  "build_date": "2025-06-21T09:57:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794434480",
+  "build_id": "15794434480",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/ci-trigger?tag=HEAD-d612615-250620T141650-riscv64-Linux&download=ci-trigger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/ci-trigger?tag=HEAD-d612615-250620T141650-riscv64-Linux&download=ci-trigger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/ci-trigger:HEAD-d612615-250620T141650-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/ci-trigger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/ci-trigger?tag=HEAD-d612615-250620T141650-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ea22e7f2f26616edeb91d50d6c167c73711a5977905363b94e6862a7e45e9923",
+  "size": "25 MB",
+  "size_raw": "25941272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
