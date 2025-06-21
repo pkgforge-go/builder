@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "herd-provider-consul",
+  "pkg_family": "herd",
+  "pkg_id": "herd-provider-consul#github.com_seveas_herd",
+  "pkg_name": "herd-provider-consul",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/seveas/herd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Massively parallel ssh client",
+  "homepage": [
+    "https://github.com/seveas/herd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "herd",
+    "herd-provider-aws",
+    "herd-provider-azure",
+    "herd-provider-consul",
+    "herd-provider-example",
+    "herd-provider-google",
+    "herd-provider-prometheus",
+    "herd-provider-puppet",
+    "herd-provider-tailscale",
+    "herd-provider-transip"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/seveas/herd/archive/65f95f8a43a143914ae4988fe2bb0c62f70b8afc.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "orchestration",
+    "sre",
+    "ssh",
+    "sysadmin",
+    "system-administration"
+  ],
+  "version": "HEAD-65f95f8-250410T001920",
+  "version_upstream": "",
+  "bsum": "fa9d8e60ecccdc0906bd2e512fcf4d130e67d28bf67396de791519c3305cf596",
+  "build_date": "2025-06-21T15:36:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796827959",
+  "build_id": "15796827959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-consul?tag=HEAD-65f95f8-250410T001920-aarch64-Linux&download=herd-provider-consul.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-consul?tag=HEAD-65f95f8-250410T001920-aarch64-Linux&download=herd-provider-consul",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seveas/herd/herd-provider-consul:HEAD-65f95f8-250410T001920-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/seveas/herd/herd-provider-consul",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seveas/herd/herd-provider-consul?tag=HEAD-65f95f8-250410T001920-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d3ee96246857a89b64ebae7703826b7e6f667220603fa7811466e6bb6002e75",
+  "size": "16 MB",
+  "size_raw": "16316608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
