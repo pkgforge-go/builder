@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate-availability",
+  "pkg_family": "actionlint",
+  "pkg_id": "generate-availability#github.com_rhysd_actionlint",
+  "pkg_name": "generate-availability",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rhysd/actionlint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":octocat: Static checker for GitHub Actions workflow files",
+  "homepage": [
+    "https://github.com/rhysd/actionlint"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "actionlint",
+    "check-checks",
+    "generate-availability",
+    "generate-popular-actions",
+    "generate-webhook-events"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rhysd/actionlint/archive/2ab3a12c7848f6c15faca9a92612ef4261d0e370.tar.gz"
+  ],
+  "tag": [
+    "actions",
+    "ci",
+    "github-actions",
+    "lint",
+    "linter"
+  ],
+  "version": "HEAD-2ab3a12-250120T191311",
+  "version_upstream": "",
+  "bsum": "4120e7094e17ec712d73ebb502b46f6a13df3e67d869eb375db2de40f95d5bf8",
+  "build_date": "2025-06-21T13:55:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795944887",
+  "build_id": "15795944887",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/generate-availability?tag=HEAD-2ab3a12-250120T191311-loongarch64-Linux&download=generate-availability.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/generate-availability?tag=HEAD-2ab3a12-250120T191311-loongarch64-Linux&download=generate-availability",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rhysd/actionlint/generate-availability:HEAD-2ab3a12-250120T191311-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rhysd/actionlint/generate-availability",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/generate-availability?tag=HEAD-2ab3a12-250120T191311-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "de8cec9e7e412176f6dd000c5caaa02f3f299e761efda7c580aec4e4bbad9e35",
+  "size": "7.4 MB",
+  "size_raw": "7747552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
