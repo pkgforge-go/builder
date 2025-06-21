@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "connect-controller",
+  "pkg_family": "cluster-connect-gateway",
+  "pkg_id": "connect-controller#github.com_open_edge_platform_cluster_connect_gateway",
+  "pkg_name": "connect-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/cluster-connect-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ensures access to edge clusters.",
+  "homepage": [
+    "https://github.com/open-edge-platform/cluster-connect-gateway"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "connect-agent",
+    "connect-controller",
+    "connect-gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/cluster-connect-gateway/archive/8f8f993e92bace8c2b1ff8e0577ce5e75c2a1bd5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8f8f993-250620T135509",
+  "version_upstream": "",
+  "bsum": "1fd1b8aa30efcbf86622fc59adc89ffc51a3b73dc34929b94e3d4c90c0e0fe8c",
+  "build_date": "2025-06-21T02:51:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791053605",
+  "build_id": "15791053605",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-controller?tag=HEAD-8f8f993-250620T135509-loongarch64-Linux&download=connect-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-controller?tag=HEAD-8f8f993-250620T135509-loongarch64-Linux&download=connect-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-controller:HEAD-8f8f993-250620T135509-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-controller?tag=HEAD-8f8f993-250620T135509-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10ad95f46ea2eb7c760b4047353fd6504cf154fd4d820324d3012078edc931aa",
+  "size": "54 MB",
+  "size_raw": "56449024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
