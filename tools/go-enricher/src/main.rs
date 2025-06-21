@@ -8,6 +8,7 @@ use std::path::Path;
 use std::sync::Arc;
 use std::time::Duration;
 use tokio::sync::{Mutex, Semaphore};
+use tokio::time::sleep;
 use url::Url;
 use urlencoding::encode;
 
@@ -36,6 +37,8 @@ struct Config {
     threads: usize,
     verbose: bool,
     quiet: bool,
+    max_retries: u32,
+    base_delay_ms: u64,
 }
 
 #[derive(Debug)]
@@ -44,11 +47,13 @@ struct EnrichmentResult {
     output: Result<OutputEntry, String>,
 }
 
+const DEFAULT_DESCRIPTION: &str = "No Description Provided";
+
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let rt = tokio::runtime::Builder::new_multi_thread()
         .enable_all()
         .build()?;
-    
+
     rt.block_on(async_main())
 }
 
@@ -83,7 +88,8 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
             Arg::new("user-agent")
                 .long("user-agent")
                 .value_name("STRING")
-                .default_value("go-enricher/1.0.0")
+                // https://github.com/pkgforge/devscripts/blob/main/Misc/User-Agents/ua_safari_macos_latest.txt
+                .default_value("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15")
                 .help("User agent string for HTTP requests"),
         )
         .arg(
@@ -92,7 +98,7 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
                 .long("threads")
                 .value_name("NUM")
                 .default_value("10")
-                .help("Number of concurrent threads"),
+                .help("Number of concurrent HTTP requests"),
         )
         .arg(
             Arg::new("verbose")
@@ -115,6 +121,20 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
                 .help("Single Go module source (e.g., github.com/user/repo)")
                 .conflicts_with("input"),
         )
+        .arg(
+            Arg::new("max-retries")
+                .long("max-retries")
+                .value_name("NUM")
+                .default_value("3")
+                .help("Maximum number of retry attempts for failed API requests"),
+        )
+        .arg(
+            Arg::new("base-delay")
+                .long("base-delay-ms")
+                .value_name("MS")
+                .default_value("1000")
+                .help("Base delay in milliseconds for exponential backoff"),
+        )
         .get_matches();
 
     let config = Config {
@@ -123,12 +143,21 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
         threads: matches.get_one::<String>("threads").unwrap().parse()?,
         verbose: matches.get_flag("verbose"),
         quiet: matches.get_flag("quiet"),
+        max_retries: matches.get_one::<String>("max-retries").unwrap().parse()?,
+        base_delay_ms: matches.get_one::<String>("base-delay").unwrap().parse()?,
     };
 
     if config.verbose {
-        println!("🚀 Starting go-enricher with {} threads", config.threads);
+        println!(
+            "🚀 Starting go-enricher with {} concurrent requests",
+            config.threads
+        );
         println!("📡 API URL: {}", config.api_url);
         println!("🤖 User Agent: {}", config.user_agent);
+        println!(
+            "🔄 Max retries: {}, Base delay: {}ms",
+            config.max_retries, config.base_delay_ms
+        );
     }
 
     let client = Client::builder()
@@ -145,7 +174,7 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
 
         let input_data = fs::read_to_string(input_file)
             .map_err(|e| format!("Failed to read input file '{}': {}", input_file, e))?;
-        
+
         let entries: Vec<InputEntry> = serde_json::from_str(&input_data)
             .map_err(|e| format!("Failed to parse input JSON: {}", e))?;
 
@@ -158,9 +187,14 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
         }
 
         let results = process_entries(entries, &client, &config).await?;
-        
+
+        // Validate JSON output before writing
         let output_data = serde_json::to_string_pretty(&results)
-            .map_err(|e| format!("Failed to serialize output: {}", e))?;
+            .map_err(|e| format!("Failed to serialize output to valid JSON: {}", e))?;
+
+        // Additional JSON validation
+        serde_json::from_str::<Vec<OutputEntry>>(&output_data)
+            .map_err(|e| format!("Output JSON validation failed: {}", e))?;
 
         if let Some(output_file) = matches.get_one::<String>("output") {
             // Ensure output directory exists
@@ -171,12 +205,16 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
 
             // Check for accidental overwrites
             if Path::new(output_file).exists() {
-                return Err(format!("Output file '{}' already exists. Remove it first or choose a different path.", output_file).into());
+                return Err(format!(
+                    "Output file '{}' already exists. Remove it first or choose a different path.",
+                    output_file
+                )
+                .into());
             }
 
             fs::write(output_file, &output_data)
                 .map_err(|e| format!("Failed to write output file '{}': {}", output_file, e))?;
-            
+
             if !config.quiet {
                 println!("✅ Results written to: {}", output_file);
             }
@@ -192,15 +230,20 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
         let entry = InputEntry {
             download: String::new(), // Not available in single mode
             source: source.clone(),
-            version: String::new(),  // Not available in single mode
+            version: String::new(), // Not available in single mode
         };
 
         let result = enrich_single_entry(&entry, &client, &config).await;
-        
+
         match result {
             Ok(enriched) => {
                 let json_output = serde_json::to_string_pretty(&enriched)
-                    .map_err(|e| format!("Failed to serialize output: {}", e))?;
+                    .map_err(|e| format!("Failed to serialize output to valid JSON: {}", e))?;
+
+                // Validate JSON before output
+                serde_json::from_str::<OutputEntry>(&json_output)
+                    .map_err(|e| format!("Output JSON validation failed: {}", e))?;
+
                 println!("{}", json_output);
             }
             Err(e) => {
@@ -225,7 +268,7 @@ async fn process_entries(
 ) -> Result<Vec<OutputEntry>, Box<dyn std::error::Error>> {
     let semaphore = Arc::new(Semaphore::new(config.threads));
     let results = Arc::new(Mutex::new(Vec::new()));
-    
+
     let multi_progress = if !config.quiet {
         Some(MultiProgress::new())
     } else {
@@ -257,13 +300,13 @@ async fn process_entries(
 
         let handle = tokio::spawn(async move {
             let _permit = semaphore.acquire().await.unwrap();
-            
+
             if config.verbose {
                 println!("🔄 Processing: {}", entry.source);
             }
 
             let result = enrich_single_entry(&entry, &client, &config).await;
-            
+
             let enrichment_result = EnrichmentResult {
                 input: entry.clone(),
                 output: result,
@@ -309,7 +352,11 @@ async fn process_entries(
     }
 
     if !config.quiet {
-        println!("📊 Summary: {} successful, {} failed", output_entries.len(), failed_count);
+        println!(
+            "📊 Summary: {} successful, {} failed",
+            output_entries.len(),
+            failed_count
+        );
     }
 
     if output_entries.is_empty() {
@@ -332,48 +379,122 @@ async fn enrich_single_entry(
         println!("🌐 API Request: {} -> {}", entry.source, api_url);
     }
 
-    let response = client
-        .get(&api_url)
-        .send()
-        .await
-        .map_err(|e| format!("HTTP request failed: {}", e))?;
+    // Retry logic with exponential backoff
+    let mut last_error = String::new();
+    for attempt in 0..=config.max_retries {
+        if attempt > 0 {
+            let delay = config.base_delay_ms * (2_u64.pow(attempt - 1));
+            if config.verbose {
+                println!(
+                    "⏳ Retrying {} in {}ms (attempt {}/{})",
+                    entry.source, delay, attempt, config.max_retries
+                );
+            }
+            sleep(Duration::from_millis(delay)).await;
+        }
 
-    if !response.status().is_success() {
-        return Err(format!("API returned status: {}", response.status()));
+        match make_api_request(&api_url, client).await {
+            Ok(api_data) => {
+                let enriched_data = extract_fields(&api_data)?;
+
+                return Ok(OutputEntry {
+                    description: sanitize_and_validate_description(&enriched_data.description),
+                    download: sanitize_field(&entry.download),
+                    homepage: sanitize_field(&enriched_data.homepage),
+                    license: enriched_data
+                        .license
+                        .into_iter()
+                        .map(|l| sanitize_field(&l))
+                        .collect(),
+                    stars: enriched_data
+                        .stars
+                        .map(|s| sanitize_field(&s.to_string()))
+                        .unwrap_or_default(),
+                    source: sanitize_field(&entry.source),
+                    version: sanitize_field(&entry.version),
+                });
+            }
+            Err(e) => {
+                // Don't retry 404 errors
+                if e == "RESOURCE_NOT_FOUND" {
+                    return Err(
+                        "Resource not found (404) - module does not exist in API".to_string()
+                    );
+                }
+
+                last_error = e;
+                if config.verbose && attempt < config.max_retries {
+                    println!(
+                        "🔥 Attempt {} failed for {}: {}",
+                        attempt + 1,
+                        entry.source,
+                        last_error
+                    );
+                }
+            }
+        }
     }
 
-    let api_data: Value = response
-        .json()
-        .await
-        .map_err(|e| format!("Failed to parse API response: {}", e))?;
+    Err(format!(
+        "All {} attempts failed. Last error: {}",
+        config.max_retries + 1,
+        last_error
+    ))
+}
 
-    let enriched_data = extract_fields(&api_data)?;
+async fn make_api_request(api_url: &str, client: &Client) -> Result<Value, String> {
+    let response = client.get(api_url).send().await.map_err(|e| {
+        if e.is_timeout() {
+            "Request timed out".to_string()
+        } else if e.is_connect() {
+            "Connection failed".to_string()
+        } else {
+            format!("HTTP request failed: {}", e)
+        }
+    })?;
 
-    Ok(OutputEntry {
-        description: enriched_data.description,
-        download: entry.download.clone(),
-        homepage: enriched_data.homepage,
-        license: enriched_data.license,
-        stars: enriched_data.stars.map(|s| s.to_string()).unwrap_or_default(),
-        source: entry.source.clone(),
-        version: entry.version.clone(),
-    })
+    let status = response.status();
+
+    // Handle different HTTP status codes
+    match status.as_u16() {
+        200..=299 => {
+            // Success
+            response
+                .json()
+                .await
+                .map_err(|e| format!("Failed to parse API response as JSON: {}", e))
+        }
+        429 => {
+            // Rate limited
+            Err("API rate limit exceeded".to_string())
+        }
+        500..=599 => {
+            // Server error - retryable
+            Err(format!("Server error: {}", status))
+        }
+        404 => {
+            // Not found - not retryable, return specific error
+            Err("RESOURCE_NOT_FOUND".to_string())
+        }
+        _ => {
+            // Other client errors
+            Err(format!("API returned status: {}", status))
+        }
+    }
 }
 
 fn process_source(source: &str) -> Result<String, String> {
     let source = source.trim();
-    
+
     // Handle different URL formats
     let normalized = if source.starts_with("http://") || source.starts_with("https://") {
         // Parse as full URL
-        let url = Url::parse(source)
-            .map_err(|e| format!("Invalid URL format: {}", e))?;
-        
-        let host = url.host_str()
-            .ok_or("URL missing hostname")?;
-        
+        let url = Url::parse(source).map_err(|e| format!("Invalid URL format: {}", e))?;
+
+        let host = url.host_str().ok_or("URL missing hostname")?;
+
         let path = url.path().trim_start_matches('/').trim_end_matches('/');
-        
+
         if path.is_empty() {
             host.to_string()
         } else {
@@ -405,9 +526,15 @@ fn extract_fields(data: &Value) -> Result<ExtractedFields, String> {
     let mut license = Vec::new();
     let mut stars = None;
 
-    find_fields_recursive(data, &mut description, &mut homepage, &mut license, &mut stars);
+    find_fields_recursive(
+        data,
+        &mut description,
+        &mut homepage,
+        &mut license,
+        &mut stars,
+    );
 
-    let description = description.ok_or("Required field 'description' not found in API response")?;
+    let description = description.unwrap_or_else(|| DEFAULT_DESCRIPTION.to_string());
 
     Ok(ExtractedFields {
         description,
@@ -428,34 +555,42 @@ fn find_fields_recursive(
         Value::Object(map) => {
             for (key, val) in map {
                 let key_lower = key.to_lowercase();
-                
+
                 // Check for description
                 if description.is_none() && (key_lower == "description") {
                     if let Some(desc) = val.as_str() {
-                        *description = Some(desc.to_string());
+                        let trimmed = desc.trim();
+                        if !trimmed.is_empty() {
+                            *description = Some(trimmed.to_string());
+                        }
                     }
                 }
-                
+
                 // Check for homepage
                 if homepage.is_none() && (key_lower == "homepage") {
                     if let Some(home) = val.as_str() {
-                        *homepage = Some(home.to_string());
+                        let trimmed = home.trim();
+                        if !trimmed.is_empty() {
+                            *homepage = Some(trimmed.to_string());
+                        }
                     }
                 }
-                
+
                 // Check for license
                 if key_lower == "license" {
                     match val {
                         Value::String(lic) => {
-                            if !license.contains(lic) {
-                                license.push(lic.clone());
+                            let trimmed = lic.trim().to_string();
+                            if !trimmed.is_empty() && !license.contains(&trimmed) {
+                                license.push(trimmed);
                             }
                         }
                         Value::Array(arr) => {
                             for item in arr {
                                 if let Some(lic) = item.as_str() {
-                                    if !license.contains(&lic.to_string()) {
-                                        license.push(lic.to_string());
+                                    let trimmed = lic.trim().to_string();
+                                    if !trimmed.is_empty() && !license.contains(&trimmed) {
+                                        license.push(trimmed);
                                     }
                                 }
                             }
@@ -463,14 +598,18 @@ fn find_fields_recursive(
                         _ => {}
                     }
                 }
-                
+
                 // Check for stars
-                if stars.is_none() && (key_lower == "stars" || key_lower == "starscount" || key_lower == "starscount") {
+                if stars.is_none()
+                    && (key_lower == "stars"
+                        || key_lower == "starscount"
+                        || key_lower == "stargazers_count")
+                {
                     if let Some(star_count) = val.as_u64() {
                         *stars = Some(star_count);
                     }
                 }
-                
+
                 // Recurse into nested objects and arrays
                 find_fields_recursive(val, description, homepage, license, stars);
             }
@@ -481,5 +620,86 @@ fn find_fields_recursive(
             }
         }
         _ => {}
+    }
+}
+
+/// Sanitize field by removing dangerous characters and trimming whitespace
+fn sanitize_field(input: &str) -> String {
+    input
+        .trim()
+        .chars()
+        .filter(|&c| {
+            // Allow alphanumeric, basic punctuation, spaces, but exclude dangerous shell chars
+            match c {
+                // Dangerous characters for shell injection
+                //'`' | '$' | '\\' | '|' | '&' | ';' | '>' | '<' | '(' | ')' | '{' | '}' | '[' | ']' | '*' | '?' | '!' => false,
+                '`' | '$' | '\\' => false,
+                // Control characters
+                c if c.is_control() => false,
+                // Allow everything else (letters, numbers, basic punctuation, spaces)
+                _ => true,
+            }
+        })
+        .collect::<String>()
+        .trim()
+        .to_string()
+}
+
+/// Sanitize and validate description field with additional checks
+fn sanitize_and_validate_description(input: &str) -> String {
+    let sanitized = sanitize_field(input);
+
+    // If empty after sanitization, use default
+    if sanitized.trim().is_empty() {
+        return DEFAULT_DESCRIPTION.to_string();
+    }
+
+    let mut chars: Vec<char> = sanitized.chars().collect();
+
+    // Ensure first character is alphanumeric
+    if let Some(first_char) = chars.first_mut() {
+        if !first_char.is_alphanumeric() {
+            // Find first alphanumeric character or prepend default text
+            let first_alnum_pos = chars.iter().position(|c| c.is_alphanumeric());
+            if let Some(pos) = first_alnum_pos {
+                chars.drain(0..pos);
+            } else {
+                // No alphanumeric characters found, use default
+                return DEFAULT_DESCRIPTION.to_string();
+            }
+        }
+    }
+
+    // Ensure last character is alphanumeric
+    if let Some(last_char) = chars.last_mut() {
+        if !last_char.is_alphanumeric() {
+            // Find last alphanumeric character
+            let last_alnum_pos = chars.iter().rposition(|c| c.is_alphanumeric());
+            if let Some(pos) = last_alnum_pos {
+                chars.truncate(pos + 1);
+            } else {
+                // No alphanumeric characters found, use default
+                return DEFAULT_DESCRIPTION.to_string();
+            }
+        }
+    }
+
+    let result: String = chars.into_iter().collect();
+
+    // Final check - if empty or too short, use default
+    if result.trim().len() < 2 {
+        DEFAULT_DESCRIPTION.to_string()
+    } else {
+        // Capitalize the first letter
+        capitalize_first_letter(&result)
+    }
+}
+
+/// Capitalize the first letter of a string
+fn capitalize_first_letter(s: &str) -> String {
+    let mut chars = s.chars();
+    match chars.next() {
+        None => String::new(),
+        Some(first) => first.to_uppercase().collect::<String>() + chars.as_str(),
     }
 }
