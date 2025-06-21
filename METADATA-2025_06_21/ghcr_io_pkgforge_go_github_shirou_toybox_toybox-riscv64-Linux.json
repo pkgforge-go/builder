@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "toybox",
+  "pkg_family": "toybox",
+  "pkg_id": "toybox#github.com_shirou_toybox",
+  "pkg_name": "toybox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/shirou/toybox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "golang implemenation of busybox",
+  "homepage": [
+    "https://github.com/shirou/toybox"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "toybox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/shirou/toybox/archive/528a4c1b2b060d569a22123929d5ae86ebe91674.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-528a4c1-230516T235246",
+  "version_upstream": "",
+  "bsum": "aa3faff67a874fe7ad2cefd50b156cb76ea207763bbe2afa83bf162de0972b78",
+  "build_date": "2025-06-21T23:17:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800254329",
+  "build_id": "15800254329",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shirou/toybox/toybox?tag=HEAD-528a4c1-230516T235246-riscv64-Linux&download=toybox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "92",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shirou/toybox/toybox?tag=HEAD-528a4c1-230516T235246-riscv64-Linux&download=toybox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shirou/toybox/toybox:HEAD-528a4c1-230516T235246-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shirou/toybox/toybox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shirou/toybox/toybox?tag=HEAD-528a4c1-230516T235246-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e11a051daa62f9f41d67345fc1298fd4ee6960265127cc63f03d9346481bac8e",
+  "size": "6.3 MB",
+  "size_raw": "6548760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
