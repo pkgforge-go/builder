@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "implant",
+  "pkg_family": "PurpleCommand",
+  "pkg_id": "implant#github.com_farinap5_PurpleCommand",
+  "pkg_name": "implant",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/farinap5/PurpleCommand",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reverse Shell based on SSH over websocket.",
+  "homepage": [
+    "https://github.com/farinap5/PurpleCommand"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "implant",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/farinap5/PurpleCommand/archive/20f0b55cd4351ef4562b3c7df5ad7eb8922fc4bc.tar.gz"
+  ],
+  "tag": [
+    "reverse-shell",
+    "ssh",
+    "websocket"
+  ],
+  "version": "HEAD-20f0b55-250620T234714",
+  "version_upstream": "",
+  "bsum": "45cfa3b914289ff687ed4a162a359d1d04cd737d7ccfd26102634aa083239345",
+  "build_date": "2025-06-21T08:11:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793276897",
+  "build_id": "15793276897",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/farinap5/purplecommand/implant?tag=HEAD-20f0b55-250620T234714-loongarch64-Linux&download=implant.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/farinap5/purplecommand/implant?tag=HEAD-20f0b55-250620T234714-loongarch64-Linux&download=implant",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/farinap5/purplecommand/implant:HEAD-20f0b55-250620T234714-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/farinap5/purplecommand/implant",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/farinap5/purplecommand/implant?tag=HEAD-20f0b55-250620T234714-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c012b4fc456be869cb7946ead479713b27bb44acd859a79234c46f4b4f8f5ea3",
+  "size": "6.6 MB",
+  "size_raw": "6884672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
