@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "azure-file-csi-driver-operator",
+  "pkg_family": "csi-operator",
+  "pkg_id": "azure-file-csi-driver-operator#github.com_openshift_csi_operator",
+  "pkg_name": "azure-file-csi-driver-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/csi-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for the ocp-csi bridge",
+  "homepage": [
+    "https://github.com/openshift/csi-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-ebs-csi-driver-operator",
+    "aws-efs-csi-driver-operator",
+    "azure-disk-csi-driver-operator",
+    "azure-file-csi-driver-operator",
+    "create-efs-volume",
+    "generator",
+    "openstack-cinder-csi-driver-operator",
+    "openstack-manila-csi-driver-operator",
+    "smb-csi-driver-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/csi-operator/archive/9acc59cbdad525d09651c6247c959bbd06f35ac0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9acc59c-250620T182451",
+  "version_upstream": "",
+  "bsum": "19aa5992e04f6a4b7804ee0155b41a3cfffa9143ee5a85448ae3bfdc05458856",
+  "build_date": "2025-06-21T10:19:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794447088",
+  "build_id": "15794447088",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/azure-file-csi-driver-operator?tag=HEAD-9acc59c-250620T182451-loongarch64-Linux&download=azure-file-csi-driver-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/azure-file-csi-driver-operator?tag=HEAD-9acc59c-250620T182451-loongarch64-Linux&download=azure-file-csi-driver-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/csi-operator/azure-file-csi-driver-operator:HEAD-9acc59c-250620T182451-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/csi-operator/azure-file-csi-driver-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/azure-file-csi-driver-operator?tag=HEAD-9acc59c-250620T182451-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "57576cfe56e3f319fd7f63ad7cb3e096bb65355bfea8202ed27f2af9665175d8",
+  "size": "87 MB",
+  "size_raw": "91158944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

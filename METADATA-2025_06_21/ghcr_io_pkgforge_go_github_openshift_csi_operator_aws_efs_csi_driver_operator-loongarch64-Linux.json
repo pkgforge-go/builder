@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aws-efs-csi-driver-operator",
+  "pkg_family": "csi-operator",
+  "pkg_id": "aws-efs-csi-driver-operator#github.com_openshift_csi_operator",
+  "pkg_name": "aws-efs-csi-driver-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/csi-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for the ocp-csi bridge",
+  "homepage": [
+    "https://github.com/openshift/csi-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-ebs-csi-driver-operator",
+    "aws-efs-csi-driver-operator",
+    "azure-disk-csi-driver-operator",
+    "azure-file-csi-driver-operator",
+    "create-efs-volume",
+    "generator",
+    "openstack-cinder-csi-driver-operator",
+    "openstack-manila-csi-driver-operator",
+    "smb-csi-driver-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/csi-operator/archive/9acc59cbdad525d09651c6247c959bbd06f35ac0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9acc59c-250620T182451",
+  "version_upstream": "",
+  "bsum": "e13ccf27dd4dcb1cc885511f3b86b5b8ac3cc25eb0b1f078dadf72339756ad70",
+  "build_date": "2025-06-21T10:18:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794447088",
+  "build_id": "15794447088",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/aws-efs-csi-driver-operator?tag=HEAD-9acc59c-250620T182451-loongarch64-Linux&download=aws-efs-csi-driver-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/aws-efs-csi-driver-operator?tag=HEAD-9acc59c-250620T182451-loongarch64-Linux&download=aws-efs-csi-driver-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/csi-operator/aws-efs-csi-driver-operator:HEAD-9acc59c-250620T182451-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/csi-operator/aws-efs-csi-driver-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/csi-operator/aws-efs-csi-driver-operator?tag=HEAD-9acc59c-250620T182451-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5061c486c9d0c5a058ff8f6aeb9853994045305e726deab637db44e4a3b5bc9",
+  "size": "92 MB",
+  "size_raw": "96166112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
