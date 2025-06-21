@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "monitor-api",
+  "pkg_family": "monitor",
+  "pkg_id": "monitor-api#github.com_ntppool_monitor",
+  "pkg_name": "monitor-api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ntppool/monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "monitoring agent for the NTP Pool",
+  "homepage": [
+    "https://github.com/ntppool/monitor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "monitor-api",
+    "monitor-scorer",
+    "ntppool-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ntppool/monitor/archive/b19fa88aab9dc43f5055d744f48e63ec439210b2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b19fa88-250621T055354",
+  "version_upstream": "",
+  "bsum": "4f18c3d58731831ed99e5c50282b232e5cb901033291e86c2154601ffa8f97c6",
+  "build_date": "2025-06-21T22:43:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800012472",
+  "build_id": "15800012472",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/monitor-api?tag=HEAD-b19fa88-250621T055354-aarch64-Linux&download=monitor-api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/monitor-api?tag=HEAD-b19fa88-250621T055354-aarch64-Linux&download=monitor-api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ntppool/monitor/monitor-api:HEAD-b19fa88-250621T055354-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ntppool/monitor/monitor-api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntppool/monitor/monitor-api?tag=HEAD-b19fa88-250621T055354-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "691bbd779942c3ce9957304dc01c9f42a51936cff91fad8f94f06e4270995288",
+  "size": "23 MB",
+  "size_raw": "23219456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
