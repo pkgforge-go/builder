@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "chaos",
+  "pkg_family": "chaos-client",
+  "pkg_id": "chaos#github.com_projectdiscovery_chaos_client",
+  "pkg_name": "chaos",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/chaos-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go client to communicate with Chaos DB API.",
+  "homepage": [
+    "https://github.com/projectdiscovery/chaos-client"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chaos",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/chaos-client/archive/17a19d75e790394de3b8efbafcb8157f455a5a0b.tar.gz"
+  ],
+  "tag": [
+    "cli"
+  ],
+  "version": "HEAD-17a19d7-240423T014017",
+  "version_upstream": "v0.5.2",
+  "bsum": "64731f2ff1194ffa5013739d7b666b1ae6b8ecee9d072d51c4806cdc99212bab",
+  "build_date": "2025-06-21T11:35:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794903368",
+  "build_id": "15794903368",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/chaos-client/chaos?tag=HEAD-17a19d7-240423T014017-x86_64-Linux&download=chaos.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "732",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/chaos-client/chaos?tag=HEAD-17a19d7-240423T014017-x86_64-Linux&download=chaos",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/chaos-client/chaos:HEAD-17a19d7-240423T014017-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/chaos-client/chaos",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/chaos-client/chaos?tag=HEAD-17a19d7-240423T014017-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d3a5688ad61852205030d8c3f5def4b221572d117fa3e0fd2a15ed3774086e5",
+  "size": "30 MB",
+  "size_raw": "30525776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
