@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cluster-baremetal-operator",
+  "pkg_family": "cluster-baremetal-operator",
+  "pkg_id": "cluster-baremetal-operator#github.com_openshift_cluster_baremetal_operator",
+  "pkg_name": "cluster-baremetal-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-baremetal-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository is for a new second level operator for baremetal installs. See https://github.com/openshift/enhancements/pull/212.",
+  "homepage": [
+    "https://github.com/openshift/cluster-baremetal-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-baremetal-operator",
+    "readme_inputs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-baremetal-operator/archive/01a79b7134dae82236747844f6cb5a415448c336.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-01a79b7-250620T131428",
+  "version_upstream": "",
+  "bsum": "a18ab20f2fd98845c6364e82b700aaafd637267347b33a75b4606cf26668abe8",
+  "build_date": "2025-06-21T03:31:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791233850",
+  "build_id": "15791233850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-baremetal-operator/cluster-baremetal-operator?tag=HEAD-01a79b7-250620T131428-riscv64-Linux&download=cluster-baremetal-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-baremetal-operator/cluster-baremetal-operator?tag=HEAD-01a79b7-250620T131428-riscv64-Linux&download=cluster-baremetal-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-baremetal-operator/cluster-baremetal-operator:HEAD-01a79b7-250620T131428-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-baremetal-operator/cluster-baremetal-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-baremetal-operator/cluster-baremetal-operator?tag=HEAD-01a79b7-250620T131428-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e83ff0e98ea5afb788a3c77c5321cd760d7537ec794da9d6bc1a408c384dbe8",
+  "size": "58 MB",
+  "size_raw": "60759672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
