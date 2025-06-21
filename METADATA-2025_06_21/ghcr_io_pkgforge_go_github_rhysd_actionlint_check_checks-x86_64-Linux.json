@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check-checks",
+  "pkg_family": "actionlint",
+  "pkg_id": "check-checks#github.com_rhysd_actionlint",
+  "pkg_name": "check-checks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rhysd/actionlint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":octocat: Static checker for GitHub Actions workflow files",
+  "homepage": [
+    "https://github.com/rhysd/actionlint"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "actionlint",
+    "check-checks",
+    "generate-availability",
+    "generate-popular-actions",
+    "generate-webhook-events"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rhysd/actionlint/archive/2ab3a12c7848f6c15faca9a92612ef4261d0e370.tar.gz"
+  ],
+  "tag": [
+    "actions",
+    "ci",
+    "github-actions",
+    "lint",
+    "linter"
+  ],
+  "version": "HEAD-2ab3a12-250120T191311",
+  "version_upstream": "",
+  "bsum": "ed29b01e8ea29aa7e556dc5d2ea917c770830ae0a492d2f2f8abf0d5a3678b01",
+  "build_date": "2025-06-21T13:56:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795944887",
+  "build_id": "15795944887",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/check-checks?tag=HEAD-2ab3a12-250120T191311-x86_64-Linux&download=check-checks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/check-checks?tag=HEAD-2ab3a12-250120T191311-x86_64-Linux&download=check-checks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rhysd/actionlint/check-checks:HEAD-2ab3a12-250120T191311-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rhysd/actionlint/check-checks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rhysd/actionlint/check-checks?tag=HEAD-2ab3a12-250120T191311-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99d1ddf1b0ecabcc0a2ec30e1f8f21282d122a79b5332e66efbd25d877ccc994",
+  "size": "6.0 MB",
+  "size_raw": "6192376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
