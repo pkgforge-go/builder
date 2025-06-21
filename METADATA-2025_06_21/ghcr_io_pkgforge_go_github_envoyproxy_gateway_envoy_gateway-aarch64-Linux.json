@@ -32,7 +32,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/envoyproxy/gateway/archive/db09d27b0f65a7f4bf81705bdc70dba35cd2ce38.tar.gz"
+    "https://github.com/envoyproxy/gateway/archive/3e14c491c82292aa7b7a8e3d3ccefb53b33823ae.tar.gz"
   ],
   "tag": [
     "api-gateway",
@@ -43,28 +43,30 @@
     "hacktoberfest",
     "kubernetes"
   ],
-  "version": "HEAD-db09d27-250620T190838",
+  "version": "HEAD-3e14c49-250621T161349",
   "version_upstream": "latest",
-  "bsum": "f0c34fb78aec2fbe555dc2ed01ddafbf3de0d596b25995745962778eaccda7c8",
-  "build_date": "2025-06-21T08:08:30Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793208809",
-  "build_id": "15793208809",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-db09d27-250620T190838-aarch64-Linux&download=envoy-gateway.log",
+  "bsum": "491584d61f41270560b019df315f289c242721414a0b659d7961d96ad23aa573",
+  "build_date": "2025-06-21T22:00:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799863232",
+  "build_id": "15799863232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-3e14c49-250621T161349-aarch64-Linux&download=envoy-gateway.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "1959",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-db09d27-250620T190838-aarch64-Linux&download=envoy-gateway",
+  "download_count": "1963",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-3e14c49-250621T161349-aarch64-Linux&download=envoy-gateway",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/gateway/envoy-gateway:HEAD-db09d27-250620T190838-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/gateway/envoy-gateway:HEAD-3e14c49-250621T161349-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/envoyproxy/gateway/envoy-gateway",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-db09d27-250620T190838-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-3e14c49-250621T161349-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "4598857d8185623e63d6436f71965ac5ea9e8e065c2e58a5190d7b4d536ce554",
+  "shasum": "0f983639523bf5c03abfdf76a1d581720a4b6b97e35ab6a2fa9891c6238a4438",
   "size": "181 MB",
-  "size_raw": "188931840",
+  "size_raw": "188933504",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "HEAD-db09d27-250620T190838-aarch64-Linux[latest]"
+  ],
   "trusted": "true"
 }
