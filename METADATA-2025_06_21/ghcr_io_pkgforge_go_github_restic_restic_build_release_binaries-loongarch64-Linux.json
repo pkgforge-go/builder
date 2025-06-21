@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "build-release-binaries",
+  "pkg_family": "restic",
+  "pkg_id": "build-release-binaries#github.com_restic_restic",
+  "pkg_name": "build-release-binaries",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/restic/restic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast, secure, efficient backup program",
+  "homepage": [
+    "https://github.com/restic/restic"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-release-binaries",
+    "prepare-release",
+    "restic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/restic/restic/archive/7d39b1bfe853be8102bba6c4d18f8dfa5fa3ce7d.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "dedupe",
+    "deduplication",
+    "go",
+    "restic",
+    "secure-by-default"
+  ],
+  "version": "HEAD-7d39b1b-250602T184004",
+  "version_upstream": "",
+  "bsum": "10268ab48175d3d16711622aaec9d0b87557e68d0056dc33a8859380e0f9dcab",
+  "build_date": "2025-06-21T13:49:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795942114",
+  "build_id": "15795942114",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/restic/restic/build-release-binaries?tag=HEAD-7d39b1b-250602T184004-loongarch64-Linux&download=build-release-binaries.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29045",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/restic/restic/build-release-binaries?tag=HEAD-7d39b1b-250602T184004-loongarch64-Linux&download=build-release-binaries",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/restic/restic/build-release-binaries:HEAD-7d39b1b-250602T184004-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/restic/restic/build-release-binaries",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/restic/restic/build-release-binaries?tag=HEAD-7d39b1b-250602T184004-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a8b655971c92b4fcf14f5fd0d50a4ca56fd98b5029344857a1fcb2db20471eb",
+  "size": "2.2 MB",
+  "size_raw": "2305048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
