@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gotest2junit",
+  "pkg_family": "origin",
+  "pkg_id": "gotest2junit#github.com_openshift_origin",
+  "pkg_name": "gotest2junit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/origin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Conformance test suite for OpenShift",
+  "homepage": [
+    "https://github.com/openshift/origin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "changelog",
+    "deployment",
+    "etcdhelper",
+    "gotest2junit",
+    "jsonformat",
+    "junitreport",
+    "listtests",
+    "openshift-tests",
+    "update-tls-artifacts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/origin/archive/bea636f988a7f190e5e68609f1aeea531d7987fa.tar.gz"
+  ],
+  "tag": [
+    "caas",
+    "ci-cd",
+    "containers",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "go",
+    "kubernetes",
+    "openshift",
+    "openshift-origin",
+    "paas"
+  ],
+  "version": "HEAD-bea636f-250620T115245",
+  "version_upstream": "",
+  "bsum": "7d9d81f52243c30149f33dcbfb18b487cef91041fe3e4e5cb722d401a1e88bb2",
+  "build_date": "2025-06-21T04:00:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791246040",
+  "build_id": "15791246040",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/gotest2junit?tag=HEAD-bea636f-250620T115245-x86_64-Linux&download=gotest2junit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8550",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/gotest2junit?tag=HEAD-bea636f-250620T115245-x86_64-Linux&download=gotest2junit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/origin/gotest2junit:HEAD-bea636f-250620T115245-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/origin/gotest2junit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/gotest2junit?tag=HEAD-bea636f-250620T115245-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab6dce974de9401b3211407ee66a412beebe50f9ef6352b2c4447ffd72000029",
+  "size": "2.3 MB",
+  "size_raw": "2388984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

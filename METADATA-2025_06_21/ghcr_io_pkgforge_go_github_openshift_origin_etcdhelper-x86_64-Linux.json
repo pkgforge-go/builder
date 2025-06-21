@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "etcdhelper",
+  "pkg_family": "origin",
+  "pkg_id": "etcdhelper#github.com_openshift_origin",
+  "pkg_name": "etcdhelper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/origin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Conformance test suite for OpenShift",
+  "homepage": [
+    "https://github.com/openshift/origin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "changelog",
+    "deployment",
+    "etcdhelper",
+    "gotest2junit",
+    "jsonformat",
+    "junitreport",
+    "listtests",
+    "openshift-tests",
+    "update-tls-artifacts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/origin/archive/bea636f988a7f190e5e68609f1aeea531d7987fa.tar.gz"
+  ],
+  "tag": [
+    "caas",
+    "ci-cd",
+    "containers",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "go",
+    "kubernetes",
+    "openshift",
+    "openshift-origin",
+    "paas"
+  ],
+  "version": "HEAD-bea636f-250620T115245",
+  "version_upstream": "",
+  "bsum": "699f6775f980b911d1190ed125c35f89b1a89da32a1f9a48d287b43c0a498b01",
+  "build_date": "2025-06-21T04:01:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791246040",
+  "build_id": "15791246040",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/etcdhelper?tag=HEAD-bea636f-250620T115245-x86_64-Linux&download=etcdhelper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8550",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/etcdhelper?tag=HEAD-bea636f-250620T115245-x86_64-Linux&download=etcdhelper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/origin/etcdhelper:HEAD-bea636f-250620T115245-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/origin/etcdhelper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/etcdhelper?tag=HEAD-bea636f-250620T115245-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "91698418f5e9cb8fc3ef325b817eed4d7e37cba8b7a6780c5d0d3e94e5c44d04",
+  "size": "45 MB",
+  "size_raw": "46162144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
