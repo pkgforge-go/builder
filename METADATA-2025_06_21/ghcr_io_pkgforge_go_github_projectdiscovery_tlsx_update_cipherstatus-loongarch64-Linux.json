@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "update-cipherstatus",
+  "pkg_family": "tlsx",
+  "pkg_id": "update-cipherstatus#github.com_projectdiscovery_tlsx",
+  "pkg_name": "update-cipherstatus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/tlsx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and configurable TLS grabber focused on TLS based data collection.",
+  "homepage": [
+    "https://github.com/projectdiscovery/tlsx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tlsx",
+    "tlsx-examples",
+    "update-cipherstatus",
+    "update-rootcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/tlsx/archive/dab7118c463e0525614557fad8ea038d5d5e524d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dab7118-250418T170546",
+  "version_upstream": "",
+  "bsum": "1577fb4f5c83ffdc843dbc96ec3fe39172c2560738eec886139542a5e36b8089",
+  "build_date": "2025-06-21T11:52:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795010991",
+  "build_id": "15795010991",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/tlsx/update-cipherstatus?tag=HEAD-dab7118-250418T170546-loongarch64-Linux&download=update-cipherstatus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "984",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/tlsx/update-cipherstatus?tag=HEAD-dab7118-250418T170546-loongarch64-Linux&download=update-cipherstatus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/tlsx/update-cipherstatus:HEAD-dab7118-250418T170546-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/tlsx/update-cipherstatus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/tlsx/update-cipherstatus?tag=HEAD-dab7118-250418T170546-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "07cc1f95588f65df220b5ccde62ec22c00d8652a6baeaa795c601ecb2dff3fba",
+  "size": "7.4 MB",
+  "size_raw": "7743808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
