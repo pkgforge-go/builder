@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sandbox",
+  "pkg_family": "go-seccomp-bpf",
+  "pkg_id": "sandbox#github.com_elastic_go_seccomp_bpf",
+  "pkg_name": "sandbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/go-seccomp-bpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for installing a seccomp BPF system call filter.",
+  "homepage": [
+    "https://github.com/elastic/go-seccomp-bpf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sandbox",
+    "seccomp-profiler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/go-seccomp-bpf/archive/9375c0f7fb340aa2e8715cc30cc0247be18971c9.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "seccomp",
+    "seccomp-bpf-policies"
+  ],
+  "version": "HEAD-9375c0f-250620T133841",
+  "version_upstream": "v1.6.0",
+  "bsum": "6d7ea39647ca178c2e62907da55d27a1a9e7a5f69dc5d1e25d6c2ae621c907ab",
+  "build_date": "2025-06-21T07:59:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793197711",
+  "build_id": "15793197711",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/go-seccomp-bpf/sandbox?tag=HEAD-9375c0f-250620T133841-loongarch64-Linux&download=sandbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/go-seccomp-bpf/sandbox?tag=HEAD-9375c0f-250620T133841-loongarch64-Linux&download=sandbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/go-seccomp-bpf/sandbox:HEAD-9375c0f-250620T133841-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/go-seccomp-bpf/sandbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/go-seccomp-bpf/sandbox?tag=HEAD-9375c0f-250620T133841-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ca35a29d70b6f6e315840a2de718100a022fae914b4195b251c17f1eadbcd19",
+  "size": "3.2 MB",
+  "size_raw": "3280472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
