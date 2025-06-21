@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "git-like-store",
+  "pkg_family": "diskv",
+  "pkg_id": "git-like-store#github.com_peterbourgon_diskv",
+  "pkg_name": "git-like-store",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/peterbourgon/diskv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A disk-backed key-value store.",
+  "homepage": [
+    "https://github.com/peterbourgon/diskv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced-transform",
+    "content-addressable-store",
+    "git-like-store",
+    "super-simple-store"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/peterbourgon/diskv/archive/2566386005f64f58f34e1ff32907800a64537e6a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2566386-211110T021007",
+  "version_upstream": "v3.0.1",
+  "bsum": "3fdf1805825acb6c57923fc14bd05f98078b104ab679d7b687ec5cb379958d41",
+  "build_date": "2025-06-21T10:23:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794485125",
+  "build_id": "15794485125",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peterbourgon/diskv/git-like-store?tag=HEAD-2566386-211110T021007-loongarch64-Linux&download=git-like-store.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1435",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peterbourgon/diskv/git-like-store?tag=HEAD-2566386-211110T021007-loongarch64-Linux&download=git-like-store",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/peterbourgon/diskv/git-like-store:HEAD-2566386-211110T021007-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/peterbourgon/diskv/git-like-store",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/peterbourgon/diskv/git-like-store?tag=HEAD-2566386-211110T021007-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2496c2d92670a9cd38ef9c7a5f04c395217cf650f76cbbe7d1214a9cb971838a",
+  "size": "2.2 MB",
+  "size_raw": "2262904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
