@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "basename",
+  "pkg_family": "nucore",
+  "pkg_id": "basename#github.com_soupfoo_nucore",
+  "pkg_name": "basename",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/soupfoo/nucore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "*nix coreutils",
+  "homepage": [
+    "https://github.com/soupfoo/nucore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basename",
+    "cat",
+    "echo",
+    "ls",
+    "pwd",
+    "wc",
+    "whoami"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/soupfoo/nucore/archive/5324b65d67d7a93dc9144eb9a706b7da807a28f1.tar.gz"
+  ],
+  "tag": [
+    "coreutils"
+  ],
+  "version": "HEAD-5324b65-240501T172806",
+  "version_upstream": "",
+  "bsum": "11be7dfce6c2057710816d21cd9992be951c8afa5615e46a1b3fe95fa6d6c6b7",
+  "build_date": "2025-06-21T23:58:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800639910",
+  "build_id": "15800639910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soupfoo/nucore/basename?tag=HEAD-5324b65-240501T172806-riscv64-Linux&download=basename.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soupfoo/nucore/basename?tag=HEAD-5324b65-240501T172806-riscv64-Linux&download=basename",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/soupfoo/nucore/basename:HEAD-5324b65-240501T172806-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/soupfoo/nucore/basename",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soupfoo/nucore/basename?tag=HEAD-5324b65-240501T172806-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad609859a562af6dbe53206d77a2d0526f46017904bf6cfb137496446992dee7",
+  "size": "1.6 MB",
+  "size_raw": "1662504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
