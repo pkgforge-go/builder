@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "streaming-read-benchmark",
+  "pkg_family": "sftp",
+  "pkg_id": "streaming-read-benchmark#github.com_pkg_sftp",
+  "pkg_name": "streaming-read-benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pkg/sftp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SFTP support for the go.crypto/ssh package",
+  "homepage": [
+    "https://github.com/pkg/sftp"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buffered-read-benchmark",
+    "buffered-write-benchmark",
+    "go-sftp-server",
+    "request-server",
+    "server_standalone",
+    "streaming-read-benchmark",
+    "streaming-write-benchmark"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pkg/sftp/archive/36ce9cfd5c257416ed074f58de17e3e6c2149857.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sftp"
+  ],
+  "version": "HEAD-36ce9cf-250328T214405",
+  "version_upstream": "",
+  "bsum": "e59def2820689852c2dae4234a97e32e78b83f2834b3a24dd5721935fbc34d89",
+  "build_date": "2025-06-21T10:55:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794663098",
+  "build_id": "15794663098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/streaming-read-benchmark?tag=HEAD-36ce9cf-250328T214405-loongarch64-Linux&download=streaming-read-benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1582",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/streaming-read-benchmark?tag=HEAD-36ce9cf-250328T214405-loongarch64-Linux&download=streaming-read-benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pkg/sftp/streaming-read-benchmark:HEAD-36ce9cf-250328T214405-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pkg/sftp/streaming-read-benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pkg/sftp/streaming-read-benchmark?tag=HEAD-36ce9cf-250328T214405-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e45c4c6ead788c7d57ede2595380257d7db173ef7486ef045b79f5d7b120b58b",
+  "size": "4.2 MB",
+  "size_raw": "4343008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
