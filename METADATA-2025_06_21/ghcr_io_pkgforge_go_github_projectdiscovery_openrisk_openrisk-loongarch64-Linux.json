@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "openrisk",
+  "pkg_family": "openrisk",
+  "pkg_id": "openrisk#github.com_projectdiscovery_openrisk",
+  "pkg_name": "openrisk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/openrisk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "openrisk is a tool that generates a risk score based on the results of a Nuclei scan.",
+  "homepage": [
+    "https://github.com/projectdiscovery/openrisk"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "openrisk",
+    "openrisk-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/openrisk/archive/eb07fa476b2321b96b97e9bf4ebead420a19284a.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "gpt-3",
+    "nuclei",
+    "openai",
+    "risk-score"
+  ],
+  "version": "HEAD-eb07fa4-230523T134436",
+  "version_upstream": "",
+  "bsum": "7131f14bd1a17b8c46af4d647897b81ef7c04583cb5520089837fdc2814e01ae",
+  "build_date": "2025-06-21T11:44:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794976025",
+  "build_id": "15794976025",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/openrisk/openrisk?tag=HEAD-eb07fa4-230523T134436-loongarch64-Linux&download=openrisk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "171",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/openrisk/openrisk?tag=HEAD-eb07fa4-230523T134436-loongarch64-Linux&download=openrisk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/openrisk/openrisk:HEAD-eb07fa4-230523T134436-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/openrisk/openrisk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/openrisk/openrisk?tag=HEAD-eb07fa4-230523T134436-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "55db5f4b87af3fb5f19f737d6c758f5c102817532ff540a725da3d888c048634",
+  "size": "11 MB",
+  "size_raw": "10754112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
