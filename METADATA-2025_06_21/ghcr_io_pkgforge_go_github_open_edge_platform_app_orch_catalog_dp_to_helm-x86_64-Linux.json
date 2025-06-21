@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dp-to-helm",
+  "pkg_family": "app-orch-catalog",
+  "pkg_id": "dp-to-helm#github.com_open_edge_platform_app_orch_catalog",
+  "pkg_name": "dp-to-helm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/app-orch-catalog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Facilitates catalog services for application packaging and deployment.",
+  "homepage": [
+    "https://github.com/open-edge-platform/app-orch-catalog"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application-catalog",
+    "dp-to-helm",
+    "helm-to-dp",
+    "rest-proxy",
+    "schema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/app-orch-catalog/archive/b239bbdcb91c70d858a90f66f7ca817a5230870c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b239bbd-250620T125314",
+  "version_upstream": "v0.14.8",
+  "bsum": "7081acccf378e3eba065afb21ad7d4f71fead98952663110c861b812e23a3a56",
+  "build_date": "2025-06-21T09:50:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794432295",
+  "build_id": "15794432295",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/dp-to-helm?tag=HEAD-b239bbd-250620T125314-x86_64-Linux&download=dp-to-helm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/dp-to-helm?tag=HEAD-b239bbd-250620T125314-x86_64-Linux&download=dp-to-helm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/dp-to-helm:HEAD-b239bbd-250620T125314-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/dp-to-helm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/dp-to-helm?tag=HEAD-b239bbd-250620T125314-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3d0cb464007e28016ad207bdfddcebabf9d3e7893bcaf930a152ec908555a85",
+  "size": "15 MB",
+  "size_raw": "14744800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

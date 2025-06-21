@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rest-proxy",
+  "pkg_family": "app-orch-catalog",
+  "pkg_id": "rest-proxy#github.com_open_edge_platform_app_orch_catalog",
+  "pkg_name": "rest-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/app-orch-catalog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Facilitates catalog services for application packaging and deployment.",
+  "homepage": [
+    "https://github.com/open-edge-platform/app-orch-catalog"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application-catalog",
+    "dp-to-helm",
+    "helm-to-dp",
+    "rest-proxy",
+    "schema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/app-orch-catalog/archive/b239bbdcb91c70d858a90f66f7ca817a5230870c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b239bbd-250620T125314",
+  "version_upstream": "v0.14.8",
+  "bsum": "dfde179a0385f1d1b9b37b0593cf75c9b23cca846fabd795c0d8003de2d8eeaf",
+  "build_date": "2025-06-21T09:50:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794432295",
+  "build_id": "15794432295",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/rest-proxy?tag=HEAD-b239bbd-250620T125314-x86_64-Linux&download=rest-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/rest-proxy?tag=HEAD-b239bbd-250620T125314-x86_64-Linux&download=rest-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/rest-proxy:HEAD-b239bbd-250620T125314-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/app-orch-catalog/rest-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/app-orch-catalog/rest-proxy?tag=HEAD-b239bbd-250620T125314-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1047d3ee9c58d766cc61b91bac351bdb5c8a8ff3f4b617ac0ea9941ba756e86c",
+  "size": "21 MB",
+  "size_raw": "21686976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
