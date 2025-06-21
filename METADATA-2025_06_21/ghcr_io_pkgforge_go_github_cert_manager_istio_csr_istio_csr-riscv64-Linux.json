@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "istio-csr",
+  "pkg_family": "istio-csr",
+  "pkg_id": "istio-csr#github.com_cert_manager_istio_csr",
+  "pkg_name": "istio-csr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cert-manager/istio-csr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "istio-csr is an agent that allows for Istio workload and control plane components to be secured using cert-manager.",
+  "homepage": [
+    "https://github.com/cert-manager/istio-csr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "istio-csr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cert-manager/istio-csr/archive/06625352a4f1a8a90e6ba79a098b44ff382182ff.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "istio",
+    "kubernetes",
+    "tls"
+  ],
+  "version": "HEAD-0662535-250620T163112",
+  "version_upstream": "",
+  "bsum": "86359d6c8b40326f75f34c98e80122133f51694557966410aaea389c51ccf85f",
+  "build_date": "2025-06-21T07:30:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793162104",
+  "build_id": "15793162104",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/istio-csr/istio-csr?tag=HEAD-0662535-250620T163112-riscv64-Linux&download=istio-csr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "172",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/istio-csr/istio-csr?tag=HEAD-0662535-250620T163112-riscv64-Linux&download=istio-csr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cert-manager/istio-csr/istio-csr:HEAD-0662535-250620T163112-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cert-manager/istio-csr/istio-csr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cert-manager/istio-csr/istio-csr?tag=HEAD-0662535-250620T163112-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c84bffa7716c54ba5a7958c7d4f0149ed402dc25abda1fff86f46406c718b0c",
+  "size": "123 MB",
+  "size_raw": "128873080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
