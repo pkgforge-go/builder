@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bmc",
+  "pkg_family": "eco-goinfra",
+  "pkg_id": "bmc#github.com_openshift_kni_eco_goinfra",
+  "pkg_name": "bmc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift-kni/eco-goinfra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openshift-kni/eco-goinfra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bmc",
+    "client",
+    "icsp",
+    "namespace",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift-kni/eco-goinfra/archive/ed58055793c4b4cd881ef0a546ff1b9f0ce9f073.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed58055-250620T093358",
+  "version_upstream": "",
+  "bsum": "c9bfac85039bf9f02c132e0ab27170ad67de65210f15b02f05a224b9222ebee9",
+  "build_date": "2025-06-21T03:25:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791226440",
+  "build_id": "15791226440",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-kni/eco-goinfra/bmc?tag=HEAD-ed58055-250620T093358-riscv64-Linux&download=bmc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-kni/eco-goinfra/bmc?tag=HEAD-ed58055-250620T093358-riscv64-Linux&download=bmc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift-kni/eco-goinfra/bmc:HEAD-ed58055-250620T093358-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift-kni/eco-goinfra/bmc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-kni/eco-goinfra/bmc?tag=HEAD-ed58055-250620T093358-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "563607228221361840a1a8b47613b4fab6a0c1b681da395c5f1cde468e37e78d",
+  "size": "6.8 MB",
+  "size_raw": "7058360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

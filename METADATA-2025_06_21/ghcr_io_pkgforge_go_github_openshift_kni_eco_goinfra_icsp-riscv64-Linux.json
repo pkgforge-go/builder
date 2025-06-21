@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "icsp",
+  "pkg_family": "eco-goinfra",
+  "pkg_id": "icsp#github.com_openshift_kni_eco_goinfra",
+  "pkg_name": "icsp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift-kni/eco-goinfra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openshift-kni/eco-goinfra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bmc",
+    "client",
+    "icsp",
+    "namespace",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift-kni/eco-goinfra/archive/ed58055793c4b4cd881ef0a546ff1b9f0ce9f073.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed58055-250620T093358",
+  "version_upstream": "",
+  "bsum": "be406a69befa6fb836e4e8b85faa5b473d6b7071fad142307ad3731bcb3ac293",
+  "build_date": "2025-06-21T03:25:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791226440",
+  "build_id": "15791226440",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-kni/eco-goinfra/icsp?tag=HEAD-ed58055-250620T093358-riscv64-Linux&download=icsp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-kni/eco-goinfra/icsp?tag=HEAD-ed58055-250620T093358-riscv64-Linux&download=icsp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift-kni/eco-goinfra/icsp:HEAD-ed58055-250620T093358-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift-kni/eco-goinfra/icsp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-kni/eco-goinfra/icsp?tag=HEAD-ed58055-250620T093358-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "01877f883987af39b16ddb43fb2b63c332d496ab227ae2a0231b7c7369f19281",
+  "size": "53 MB",
+  "size_raw": "55078488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
