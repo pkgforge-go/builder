@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "elf",
+  "pkg_family": "elf",
+  "pkg_id": "elf#github.com_saferwall_elf",
+  "pkg_name": "elf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/saferwall/elf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":gem: Go library to parse Executable and Linkable Format _ELF_ files.",
+  "homepage": [
+    "https://github.com/saferwall/elf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "elf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/saferwall/elf/archive/33b33db927a3e67b19495c9c3d13879433f65fe1.tar.gz"
+  ],
+  "tag": [
+    "binary-analysis",
+    "elf",
+    "elf-binaries",
+    "elf-format",
+    "elf-parser",
+    "go",
+    "golang",
+    "parser"
+  ],
+  "version": "HEAD-33b33db-240627T123616",
+  "version_upstream": "",
+  "bsum": "d2a8297cb74b203f2fa902b7a30a21c4b444dbd9e16d1f3fbe4153d8a87eee04",
+  "build_date": "2025-06-21T14:48:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796462393",
+  "build_id": "15796462393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saferwall/elf/elf?tag=HEAD-33b33db-240627T123616-riscv64-Linux&download=elf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saferwall/elf/elf?tag=HEAD-33b33db-240627T123616-riscv64-Linux&download=elf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/saferwall/elf/elf:HEAD-33b33db-240627T123616-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/saferwall/elf/elf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saferwall/elf/elf?tag=HEAD-33b33db-240627T123616-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "039acc3b11e702e1220798bb1faf60b64f396b42ba17093db17cd76870e9498d",
+  "size": "2.0 MB",
+  "size_raw": "2064040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
