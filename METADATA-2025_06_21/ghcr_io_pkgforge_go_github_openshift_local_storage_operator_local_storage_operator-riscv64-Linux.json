@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "local-storage-operator",
+  "pkg_family": "local-storage-operator",
+  "pkg_id": "local-storage-operator#github.com_openshift_local_storage_operator",
+  "pkg_name": "local-storage-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/local-storage-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for local storage",
+  "homepage": [
+    "https://github.com/openshift/local-storage-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "diskmaker-manager",
+    "local-storage-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/local-storage-operator/archive/01ea8a292e338199730d5776881e285f29d5d921.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-01ea8a2-250620T155720",
+  "version_upstream": "",
+  "bsum": "f6b16af166af69c23c03a3b7efa3e87bc19812851c29c9769bf3c5dbf4245278",
+  "build_date": "2025-06-21T10:07:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794447793",
+  "build_id": "15794447793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/local-storage-operator/local-storage-operator?tag=HEAD-01ea8a2-250620T155720-riscv64-Linux&download=local-storage-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "93",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/local-storage-operator/local-storage-operator?tag=HEAD-01ea8a2-250620T155720-riscv64-Linux&download=local-storage-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/local-storage-operator/local-storage-operator:HEAD-01ea8a2-250620T155720-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/local-storage-operator/local-storage-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/local-storage-operator/local-storage-operator?tag=HEAD-01ea8a2-250620T155720-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce7a07dd7ebbeae9e9529be2e02a443f79606c32a41f9f93cf669ea6f1d4d140",
+  "size": "61 MB",
+  "size_raw": "63629784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
