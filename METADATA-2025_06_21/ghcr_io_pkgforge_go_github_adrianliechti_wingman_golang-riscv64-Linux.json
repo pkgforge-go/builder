@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "golang",
+  "pkg_family": "wingman",
+  "pkg_id": "golang#github.com_adrianliechti_wingman",
+  "pkg_name": "golang",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adrianliechti/wingman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Inference Hub for AI at Scale",
+  "homepage": [
+    "https://github.com/adrianliechti/wingman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "golang",
+    "ingest",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/adrianliechti/wingman/archive/ca136881f17dad1bc479150461634045ef29610c.tar.gz"
+  ],
+  "tag": [
+    "ai-gateway",
+    "azure-openai",
+    "claude",
+    "function-calling",
+    "groq",
+    "llama",
+    "llamacpp",
+    "llm",
+    "mistral",
+    "ollama",
+    "openai",
+    "openai-api",
+    "rag"
+  ],
+  "version": "HEAD-ca13688-250621T155021",
+  "version_upstream": "",
+  "bsum": "9b7582654a932f718c0205d6389a5e2e68923fe8aeddf8013c429d072e1e7b32",
+  "build_date": "2025-06-21T21:43:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799850375",
+  "build_id": "15799850375",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/golang?tag=HEAD-ca13688-250621T155021-riscv64-Linux&download=golang.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/golang?tag=HEAD-ca13688-250621T155021-riscv64-Linux&download=golang",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adrianliechti/wingman/golang:HEAD-ca13688-250621T155021-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adrianliechti/wingman/golang",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adrianliechti/wingman/golang?tag=HEAD-ca13688-250621T155021-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1fb0251dcdc6417de5c322e3a15f0d6acaaa639ed0a264a90a61a94a7525bc5",
+  "size": "11 MB",
+  "size_raw": "11227320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
