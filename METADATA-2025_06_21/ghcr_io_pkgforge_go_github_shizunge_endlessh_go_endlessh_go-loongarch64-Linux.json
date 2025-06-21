@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "endlessh-go",
+  "pkg_family": "endlessh-go",
+  "pkg_id": "endlessh-go#github.com_shizunge_endlessh_go",
+  "pkg_name": "endlessh-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/shizunge/endlessh-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.",
+  "homepage": [
+    "https://github.com/shizunge/endlessh-go"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "endlessh-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/shizunge/endlessh-go/archive/93181ac5b3bd7eff523956ab11f3283fa14a4e4b.tar.gz"
+  ],
+  "tag": [
+    "grafana",
+    "grafana-dashboard",
+    "monitoring",
+    "prometheus",
+    "ssh"
+  ],
+  "version": "HEAD-93181ac-250423T101046",
+  "version_upstream": "",
+  "bsum": "75902619d3a088d13718b9ece5cb28c34b4616ea6e5caf3fc933afddaa93b932",
+  "build_date": "2025-06-21T23:17:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800257427",
+  "build_id": "15800257427",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shizunge/endlessh-go/endlessh-go?tag=HEAD-93181ac-250423T101046-loongarch64-Linux&download=endlessh-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shizunge/endlessh-go/endlessh-go?tag=HEAD-93181ac-250423T101046-loongarch64-Linux&download=endlessh-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shizunge/endlessh-go/endlessh-go:HEAD-93181ac-250423T101046-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shizunge/endlessh-go/endlessh-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shizunge/endlessh-go/endlessh-go?tag=HEAD-93181ac-250423T101046-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7fe8cf0f47614d1f41834ddf9c0f39a75941827b90c7edee4047bb2f7ac2a00",
+  "size": "9.3 MB",
+  "size_raw": "9736160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
