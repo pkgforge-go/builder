@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "kne",
+  "pkg_id": "webhook#github.com_openconfig_kne",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/kne",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openconfig/kne"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "forward",
+    "kne_cli",
+    "server",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/kne/archive/e2f5fdd427e9fe713741c106142236826b7bf2d0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e2f5fdd-250620T120419",
+  "version_upstream": "v0.2.2",
+  "bsum": "3aa17d64a3691bb1c335030551e5f88b85072d23b5bd93e5fb77d9fea7370d54",
+  "build_date": "2025-06-21T09:57:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794435438",
+  "build_id": "15794435438",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/webhook?tag=HEAD-e2f5fdd-250620T120419-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "226",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/webhook?tag=HEAD-e2f5fdd-250620T120419-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/kne/webhook:HEAD-e2f5fdd-250620T120419-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/kne/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/webhook?tag=HEAD-e2f5fdd-250620T120419-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d4c4afd968517ffc66acab9418a0efcfbfd3cfde6d82f18e256d0d5d4b13269",
+  "size": "20 MB",
+  "size_raw": "20814392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
