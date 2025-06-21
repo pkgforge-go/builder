@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "buttons",
+  "pkg_family": "tinydisplay",
+  "pkg_id": "buttons#github.com_sago35_tinydisplay",
+  "pkg_name": "buttons",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sago35/tinydisplay",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_tinydisplay_ is a tiny display for TinyGo development.",
+  "homepage": [
+    "https://github.com/sago35/tinydisplay"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "buttons",
+    "displays",
+    "pyportal_boing",
+    "tinydraw",
+    "touch_paint",
+    "unicode_font"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sago35/tinydisplay/archive/2e606deaf2383af9837801da0fd9252170551e64.tar.gz"
+  ],
+  "tag": [
+    "fyne",
+    "go",
+    "tinygo"
+  ],
+  "version": "HEAD-2e606de-250511T103616",
+  "version_upstream": "",
+  "bsum": "ad8e5b88ff5c7d21d35201159c4a51f31e48e3e8aef6c860d87f0888beede54d",
+  "build_date": "2025-06-21T14:52:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796481707",
+  "build_id": "15796481707",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sago35/tinydisplay/buttons?tag=HEAD-2e606de-250511T103616-riscv64-Linux&download=buttons.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sago35/tinydisplay/buttons?tag=HEAD-2e606de-250511T103616-riscv64-Linux&download=buttons",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sago35/tinydisplay/buttons:HEAD-2e606de-250511T103616-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sago35/tinydisplay/buttons",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sago35/tinydisplay/buttons?tag=HEAD-2e606de-250511T103616-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3518b0f5cb7ccfd0893bf7e0514e55607ecb7a2d96de076c9f82242d6992ea46",
+  "size": "4.8 MB",
+  "size_raw": "4992472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
