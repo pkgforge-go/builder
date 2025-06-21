@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "echo",
+  "pkg_family": "uquic",
+  "pkg_id": "echo#github.com_refraction_networking_uquic",
+  "pkg_name": "echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/refraction-networking/uquic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Low-level access to the QUIC Initial Packet for mimicry purposes, hard fork of quic-go.",
+  "homepage": [
+    "https://github.com/refraction-networking/uquic"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "cmd",
+    "echo",
+    "uquic",
+    "uquic-example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/refraction-networking/uquic/archive/5bbbfb8a60546a9f1cda5fd1f4e62bcc68655972.tar.gz"
+  ],
+  "tag": [
+    "anti-censorship",
+    "anticensorship",
+    "golang",
+    "parrot",
+    "quic",
+    "utls"
+  ],
+  "version": "HEAD-5bbbfb8-250522T132900",
+  "version_upstream": "",
+  "bsum": "c64552b131db1bbc1f37216da017bdeef307a28b314c081b0dfa6a7a3d1390d9",
+  "build_date": "2025-06-21T13:39:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795920149",
+  "build_id": "15795920149",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/uquic/echo?tag=HEAD-5bbbfb8-250522T132900-loongarch64-Linux&download=echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/uquic/echo?tag=HEAD-5bbbfb8-250522T132900-loongarch64-Linux&download=echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/refraction-networking/uquic/echo:HEAD-5bbbfb8-250522T132900-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/refraction-networking/uquic/echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/refraction-networking/uquic/echo?tag=HEAD-5bbbfb8-250522T132900-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27d8ca862ca50d3ecc1dd606841c507a4bdbe451274125c3af5e60db2f3b2035",
+  "size": "9.5 MB",
+  "size_raw": "9935232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
