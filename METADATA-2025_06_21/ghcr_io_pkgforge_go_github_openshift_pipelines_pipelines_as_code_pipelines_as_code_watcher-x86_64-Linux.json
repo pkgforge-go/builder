@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pipelines-as-code-watcher",
+  "pkg_family": "pipelines-as-code",
+  "pkg_id": "pipelines-as-code-watcher#github.com_openshift_pipelines_pipelines_as_code",
+  "pkg_name": "pipelines-as-code-watcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift-pipelines/pipelines-as-code",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pipelines-as-Code for Tekton",
+  "homepage": [
+    "https://github.com/openshift-pipelines/pipelines-as-code"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pipelines-as-code-controller",
+    "pipelines-as-code-watcher",
+    "pipelines-as-code-webhook",
+    "tkn-pac"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift-pipelines/pipelines-as-code/archive/f07a394ff0d32522d8432eb6cbada42fdf039511.tar.gz"
+  ],
+  "tag": [
+    "bitbucket",
+    "ci",
+    "continuous-delivery",
+    "github",
+    "gitlab",
+    "gitops",
+    "kubernetes",
+    "pipeline",
+    "pipelines-as-code",
+    "tekton",
+    "tekton-pipelines"
+  ],
+  "version": "HEAD-f07a394-250620T103549",
+  "version_upstream": "",
+  "bsum": "90605a12bdcc43dba812ec19cfe0ea8038168c9fd780d5523be3ccffe9927d41",
+  "build_date": "2025-06-21T03:34:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791233149",
+  "build_id": "15791233149",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-watcher?tag=HEAD-f07a394-250620T103549-x86_64-Linux&download=pipelines-as-code-watcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "159",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-watcher?tag=HEAD-f07a394-250620T103549-x86_64-Linux&download=pipelines-as-code-watcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-watcher:HEAD-f07a394-250620T103549-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-watcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-watcher?tag=HEAD-f07a394-250620T103549-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36479b6b23479056b0bea3e3a1484e396d6c648595ddef52eaddfe8125723931",
+  "size": "74 MB",
+  "size_raw": "76762688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

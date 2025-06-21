@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tkn-pac",
+  "pkg_family": "pipelines-as-code",
+  "pkg_id": "tkn-pac#github.com_openshift_pipelines_pipelines_as_code",
+  "pkg_name": "tkn-pac",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift-pipelines/pipelines-as-code",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pipelines-as-Code for Tekton",
+  "homepage": [
+    "https://github.com/openshift-pipelines/pipelines-as-code"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pipelines-as-code-controller",
+    "pipelines-as-code-watcher",
+    "pipelines-as-code-webhook",
+    "tkn-pac"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift-pipelines/pipelines-as-code/archive/f07a394ff0d32522d8432eb6cbada42fdf039511.tar.gz"
+  ],
+  "tag": [
+    "bitbucket",
+    "ci",
+    "continuous-delivery",
+    "github",
+    "gitlab",
+    "gitops",
+    "kubernetes",
+    "pipeline",
+    "pipelines-as-code",
+    "tekton",
+    "tekton-pipelines"
+  ],
+  "version": "HEAD-f07a394-250620T103549",
+  "version_upstream": "",
+  "bsum": "0101448bac2501696bccde1741eabf027ef4d2e5127a08eeec96b231689f8476",
+  "build_date": "2025-06-21T03:34:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791233149",
+  "build_id": "15791233149",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/tkn-pac?tag=HEAD-f07a394-250620T103549-x86_64-Linux&download=tkn-pac.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "159",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/tkn-pac?tag=HEAD-f07a394-250620T103549-x86_64-Linux&download=tkn-pac",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift-pipelines/pipelines-as-code/tkn-pac:HEAD-f07a394-250620T103549-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift-pipelines/pipelines-as-code/tkn-pac",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/tkn-pac?tag=HEAD-f07a394-250620T103549-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c237dbfaa4b7d4f00ecd7d62d447f6303530e4f9e53cc301837a3e879fd4334",
+  "size": "68 MB",
+  "size_raw": "70257376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
