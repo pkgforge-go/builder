@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "quickstart",
+  "pkg_family": "risor",
+  "pkg_id": "quickstart#github.com_risor_io_risor",
+  "pkg_name": "quickstart",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/risor-io/risor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and flexible scripting for Go developers and DevOps.",
+  "homepage": [
+    "https://github.com/risor-io/risor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "isolated_io",
+    "quickstart"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/risor-io/risor/archive/24366c16da8da1c7841f668f2c0a44cc750ef8b3.tar.gz"
+  ],
+  "tag": [
+    "developer-tools",
+    "devops",
+    "go",
+    "golang",
+    "scripting"
+  ],
+  "version": "HEAD-24366c1-250515T155618",
+  "version_upstream": "cmd/risor/v1.8.1",
+  "bsum": "b9dab53c500124e20d58c4633de321987f181531cb139a7a29e4794f458abb06",
+  "build_date": "2025-06-21T13:58:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795955026",
+  "build_id": "15795955026",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/risor-io/risor/quickstart?tag=HEAD-24366c1-250515T155618-loongarch64-Linux&download=quickstart.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "808",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/risor-io/risor/quickstart?tag=HEAD-24366c1-250515T155618-loongarch64-Linux&download=quickstart",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/risor-io/risor/quickstart:HEAD-24366c1-250515T155618-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/risor-io/risor/quickstart",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/risor-io/risor/quickstart?tag=HEAD-24366c1-250515T155618-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c6f8e77d5e78fcf882f5534c527893510921c0e7177d1d201004990496e5a66",
+  "size": "10 MB",
+  "size_raw": "10444224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
