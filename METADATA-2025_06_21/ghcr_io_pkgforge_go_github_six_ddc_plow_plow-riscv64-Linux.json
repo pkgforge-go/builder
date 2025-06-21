@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "plow",
+  "pkg_family": "plow",
+  "pkg_id": "plow#github.com_six_ddc_plow",
+  "pkg_name": "plow",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/six-ddc/plow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display",
+  "homepage": [
+    "https://github.com/six-ddc/plow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench_server",
+    "plow"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/six-ddc/plow/archive/0f4cba736bb25b0dc3da749502c94922fe74905b.tar.gz"
+  ],
+  "tag": [
+    "apachebench",
+    "cli",
+    "http",
+    "load",
+    "load-testing",
+    "performance",
+    "realtime",
+    "visualization",
+    "wrk"
+  ],
+  "version": "HEAD-0f4cba7-250402T174204",
+  "version_upstream": "",
+  "bsum": "e46e5f0bc42958a03faf10814e0167617f67d4b29ab71ef0e5e33f6c2839f26b",
+  "build_date": "2025-06-21T23:33:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800331711",
+  "build_id": "15800331711",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/six-ddc/plow/plow?tag=HEAD-0f4cba7-250402T174204-riscv64-Linux&download=plow.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4231",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/six-ddc/plow/plow?tag=HEAD-0f4cba7-250402T174204-riscv64-Linux&download=plow",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/six-ddc/plow/plow:HEAD-0f4cba7-250402T174204-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/six-ddc/plow/plow",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/six-ddc/plow/plow?tag=HEAD-0f4cba7-250402T174204-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b20e9b90d36d31672160f4df2439b7a93e2828e20964581ba3aa2c3a90634559",
+  "size": "15 MB",
+  "size_raw": "14840056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
