@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "alertmanager-webhook",
+  "pkg_family": "prometheus-operator",
+  "pkg_id": "alertmanager-webhook#github.com_nholuongut_prometheus_operator",
+  "pkg_name": "alertmanager-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nholuongut/prometheus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+  "homepage": [
+    "https://github.com/nholuongut/prometheus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alertmanager-webhook",
+    "instrumented-sample-app",
+    "po-rule-migration"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nholuongut/prometheus-operator/archive/54f1c4bca3d2f9a40198600c5bd795b4297bfe4b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-54f1c4b-250620T071055",
+  "version_upstream": "",
+  "bsum": "a222403151c5ff2c7b9a10ee65c07d64c259f0abc967e03edf057531c4be35d6",
+  "build_date": "2025-06-21T02:03:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790898724",
+  "build_id": "15790898724",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/alertmanager-webhook?tag=HEAD-54f1c4b-250620T071055-loongarch64-Linux&download=alertmanager-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/alertmanager-webhook?tag=HEAD-54f1c4b-250620T071055-loongarch64-Linux&download=alertmanager-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nholuongut/prometheus-operator/alertmanager-webhook:HEAD-54f1c4b-250620T071055-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nholuongut/prometheus-operator/alertmanager-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/alertmanager-webhook?tag=HEAD-54f1c4b-250620T071055-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e560d773c4888ad5a042085901bdd12eaa2470a29d79838c3ebcf2024b8e1c2b",
+  "size": "5.6 MB",
+  "size_raw": "5819488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
