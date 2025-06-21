@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "browser",
+  "pkg_family": "wayland",
+  "pkg_id": "browser#github.com_neurlang_wayland",
+  "pkg_name": "browser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/neurlang/wayland",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang Wayland - Go Multiplatform UI library",
+  "homepage": [
+    "https://github.com/neurlang/wayland"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "browser",
+    "editor_backend",
+    "go-wayland-imageviewer",
+    "go-wayland-simple-shm",
+    "go-wayland-smoke",
+    "go-wayland-texteditor",
+    "wayland-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/neurlang/wayland/archive/174f8c169e237670e689c1743eb95620b80e9c63.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gui",
+    "linux",
+    "wayland",
+    "wayland-client",
+    "windows"
+  ],
+  "version": "HEAD-174f8c1-241117T141446",
+  "version_upstream": "v0.2.1",
+  "bsum": "5d5824a8a6cf555515ba47f353be3bb871cea4e05150258e71c381da1a84971b",
+  "build_date": "2025-06-21T00:06:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789533062",
+  "build_id": "15789533062",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/browser?tag=HEAD-174f8c1-241117T141446-aarch64-Linux&download=browser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/browser?tag=HEAD-174f8c1-241117T141446-aarch64-Linux&download=browser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/neurlang/wayland/browser:HEAD-174f8c1-241117T141446-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/neurlang/wayland/browser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neurlang/wayland/browser?tag=HEAD-174f8c1-241117T141446-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a301a01c9b0dca6c6dfee382eb582fa2aecff65bb91bdb2f8f3c0e15ed6be4c9",
+  "size": "11 MB",
+  "size_raw": "10829664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
