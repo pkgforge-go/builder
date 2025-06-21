@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "applications-rp",
+  "pkg_family": "radius",
+  "pkg_id": "applications-rp#github.com_radius_project_radius",
+  "pkg_name": "applications-rp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/radius-project/radius",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",
+  "homepage": [
+    "https://github.com/radius-project/radius"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "applications-rp",
+    "controller",
+    "crd",
+    "docgen",
+    "dynamic-rp",
+    "rad",
+    "ucpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/radius-project/radius/archive/0da9286033476187cfb5dcdb1b5c7330dbda878a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0da9286-250618T140911",
+  "version_upstream": "",
+  "bsum": "5f541d2374b6fdd0a77f16b3302c31fee3d39593992cd14f6ddbf74682ec9a23",
+  "build_date": "2025-06-21T13:10:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795905079",
+  "build_id": "15795905079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/applications-rp?tag=HEAD-0da9286-250618T140911-loongarch64-Linux&download=applications-rp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1581",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/applications-rp?tag=HEAD-0da9286-250618T140911-loongarch64-Linux&download=applications-rp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/radius-project/radius/applications-rp:HEAD-0da9286-250618T140911-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/radius-project/radius/applications-rp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/applications-rp?tag=HEAD-0da9286-250618T140911-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "218b2eed8f0a7ef24af9ea459d3273458771ca82e2da26c865eaa1e80b9cb8b8",
+  "size": "105 MB",
+  "size_raw": "109892896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

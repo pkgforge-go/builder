@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rad",
+  "pkg_family": "radius",
+  "pkg_id": "rad#github.com_radius_project_radius",
+  "pkg_name": "rad",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/radius-project/radius",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",
+  "homepage": [
+    "https://github.com/radius-project/radius"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "applications-rp",
+    "controller",
+    "crd",
+    "docgen",
+    "dynamic-rp",
+    "rad",
+    "ucpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/radius-project/radius/archive/0da9286033476187cfb5dcdb1b5c7330dbda878a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0da9286-250618T140911",
+  "version_upstream": "",
+  "bsum": "d29d4048c7fbc87da45c263abce2236b9e6d2ed06a3c76586a497b0b2e01ea20",
+  "build_date": "2025-06-21T13:09:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795905079",
+  "build_id": "15795905079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/rad?tag=HEAD-0da9286-250618T140911-loongarch64-Linux&download=rad.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1581",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/rad?tag=HEAD-0da9286-250618T140911-loongarch64-Linux&download=rad",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/radius-project/radius/rad:HEAD-0da9286-250618T140911-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/radius-project/radius/rad",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/radius-project/radius/rad?tag=HEAD-0da9286-250618T140911-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "82f3d0c395e37bfc5b2f10d4fee1f7d5c9e8a4de725f929d18bc2c482e4ef4f3",
+  "size": "126 MB",
+  "size_raw": "131288448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
