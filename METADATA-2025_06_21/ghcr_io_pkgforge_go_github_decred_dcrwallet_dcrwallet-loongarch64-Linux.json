@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dcrwallet",
+  "pkg_family": "dcrwallet",
+  "pkg_id": "dcrwallet#github.com_decred_dcrwallet",
+  "pkg_name": "dcrwallet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decred/dcrwallet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A secure Decred wallet daemon written in Go _golang_.",
+  "homepage": [
+    "https://github.com/decred/dcrwallet"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcrwallet",
+    "grpc_example",
+    "movefunds",
+    "repaircfilters",
+    "rpc_example",
+    "sweepaccount",
+    "treasurykey"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/decred/dcrwallet/archive/2e35d09846e4f7b1770c95acfc48c8919b501278.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptocurrency",
+    "decred",
+    "golang"
+  ],
+  "version": "HEAD-2e35d09-250620T150446",
+  "version_upstream": "",
+  "bsum": "0cf5544df8b2ae3b2dacedd987e9cf65d501f9d4dbe314127008a7010a0f63c4",
+  "build_date": "2025-06-21T07:51:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793179498",
+  "build_id": "15793179498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/dcrwallet?tag=HEAD-2e35d09-250620T150446-loongarch64-Linux&download=dcrwallet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "231",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/dcrwallet?tag=HEAD-2e35d09-250620T150446-loongarch64-Linux&download=dcrwallet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decred/dcrwallet/dcrwallet:HEAD-2e35d09-250620T150446-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decred/dcrwallet/dcrwallet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/dcrwallet?tag=HEAD-2e35d09-250620T150446-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7998e716d0c041033e1cdb8b65c198c7081ba8bfa13b1675fde2de3a42cc854a",
+  "size": "21 MB",
+  "size_raw": "21999760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
