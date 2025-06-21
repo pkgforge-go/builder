@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pkg",
+  "pkg_family": "pkg",
+  "pkg_id": "pkg#github.com_minio_pkg",
+  "pkg_name": "pkg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/pkg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository to hold all the common packages imported by MinIO projects",
+  "homepage": [
+    "https://github.com/minio/pkg"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pkg"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minio/pkg/archive/fa81ca8839d6efaf5fca372fdf4f4455dab69691.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fa81ca8-250620T221930",
+  "version_upstream": "",
+  "bsum": "b4a96eda03edfd79282dcc498fe684e40e25c7a68cf35fb6c0caef17b8f2730f",
+  "build_date": "2025-06-21T22:37:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799970259",
+  "build_id": "15799970259",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/pkg/pkg?tag=HEAD-fa81ca8-250620T221930-aarch64-Linux&download=pkg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/pkg/pkg?tag=HEAD-fa81ca8-250620T221930-aarch64-Linux&download=pkg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/pkg/pkg:HEAD-fa81ca8-250620T221930-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/pkg/pkg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/pkg/pkg?tag=HEAD-fa81ca8-250620T221930-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bafba90b3ba63a01686788b9a2c6a5271f1ba3c38906427ec78c829ed83183d",
+  "size": "3.0 MB",
+  "size_raw": "3101560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
