@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "onclustertesting",
+  "pkg_family": "machine-config-operator",
+  "pkg_id": "onclustertesting#github.com_openshift_machine_config_operator",
+  "pkg_name": "onclustertesting",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/machine-config-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openshift/machine-config-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver-watcher",
+    "machine-config-daemon",
+    "machine-config-operator",
+    "machine-config-server",
+    "machine-os-builder",
+    "mcdiff",
+    "mco-builder",
+    "mco-push",
+    "onclustertesting",
+    "run-on-all-nodes",
+    "wait-for-mcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/machine-config-operator/archive/7177bf1f52fd3e6e5667a827f1060a015a8e4b71.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7177bf1-250621T130306",
+  "version_upstream": "",
+  "bsum": "00a3781145a99a38de8f26024f4b66ebd5f1bd65b5cae789cc4f5e369eb5d3c3",
+  "build_date": "2025-06-21T23:03:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800115703",
+  "build_id": "15800115703",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/onclustertesting?tag=HEAD-7177bf1-250621T130306-loongarch64-Linux&download=onclustertesting.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/onclustertesting?tag=HEAD-7177bf1-250621T130306-loongarch64-Linux&download=onclustertesting",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/machine-config-operator/onclustertesting:HEAD-7177bf1-250621T130306-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/machine-config-operator/onclustertesting",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/onclustertesting?tag=HEAD-7177bf1-250621T130306-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "031aff92238f326e539642a252f383b42acf538c438692125693829f45d67265",
+  "size": "63 MB",
+  "size_raw": "65025088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

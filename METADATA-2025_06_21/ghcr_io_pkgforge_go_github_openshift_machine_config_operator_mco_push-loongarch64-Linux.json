@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mco-push",
+  "pkg_family": "machine-config-operator",
+  "pkg_id": "mco-push#github.com_openshift_machine_config_operator",
+  "pkg_name": "mco-push",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/machine-config-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openshift/machine-config-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver-watcher",
+    "machine-config-daemon",
+    "machine-config-operator",
+    "machine-config-server",
+    "machine-os-builder",
+    "mcdiff",
+    "mco-builder",
+    "mco-push",
+    "onclustertesting",
+    "run-on-all-nodes",
+    "wait-for-mcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/machine-config-operator/archive/7177bf1f52fd3e6e5667a827f1060a015a8e4b71.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7177bf1-250621T130306",
+  "version_upstream": "",
+  "bsum": "b40139c283aece7ae82a9a335aa2759fd9ea8df9fd927f7e47cc3bb8fab2985c",
+  "build_date": "2025-06-21T23:04:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800115703",
+  "build_id": "15800115703",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/mco-push?tag=HEAD-7177bf1-250621T130306-loongarch64-Linux&download=mco-push.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/mco-push?tag=HEAD-7177bf1-250621T130306-loongarch64-Linux&download=mco-push",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/machine-config-operator/mco-push:HEAD-7177bf1-250621T130306-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/machine-config-operator/mco-push",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-config-operator/mco-push?tag=HEAD-7177bf1-250621T130306-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54ca6e3c9e2a6d472e8fc5d98967655ae673c31a6a96fc5e42ab04d156908316",
+  "size": "63 MB",
+  "size_raw": "65479120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
