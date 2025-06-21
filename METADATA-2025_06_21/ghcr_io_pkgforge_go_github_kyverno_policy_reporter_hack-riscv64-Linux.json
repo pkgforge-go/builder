@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "policy-reporter",
+  "pkg_id": "hack#github.com_kyverno_policy_reporter",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/policy-reporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.",
+  "homepage": [
+    "https://github.com/kyverno/policy-reporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alertmanager",
+    "hack",
+    "policy-reporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/policy-reporter/archive/9d441ee3c3a4bd1b2907433d2fd1664fb5011874.tar.gz"
+  ],
+  "tag": [
+    "grafana",
+    "kubernetes",
+    "kyverno",
+    "metrics",
+    "observability",
+    "prometheus-metrics"
+  ],
+  "version": "HEAD-9d441ee-250619T082516",
+  "version_upstream": "",
+  "bsum": "e07611173ea06cfda731e20355b2d1b273713f464c8864e29c0565b9785cf565",
+  "build_date": "2025-06-21T22:33:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799921856",
+  "build_id": "15799921856",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/policy-reporter/hack?tag=HEAD-9d441ee-250619T082516-riscv64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "321",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/policy-reporter/hack?tag=HEAD-9d441ee-250619T082516-riscv64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/policy-reporter/hack:HEAD-9d441ee-250619T082516-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/policy-reporter/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/policy-reporter/hack?tag=HEAD-9d441ee-250619T082516-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "309fc5bd4c3f505619e01d1662b0598a02e602407f00aaeb8f062e8341c22966",
+  "size": "40 MB",
+  "size_raw": "41084952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
