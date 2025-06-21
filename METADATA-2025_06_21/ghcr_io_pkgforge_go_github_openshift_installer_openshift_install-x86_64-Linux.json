@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "openshift-install",
+  "pkg_family": "installer",
+  "pkg_id": "openshift-install#github.com_openshift_installer",
+  "pkg_name": "openshift-install",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/installer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Install an OpenShift 4.x cluster",
+  "homepage": [
+    "https://github.com/openshift/installer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "node-joiner",
+    "openshift-install"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/installer/archive/7b227fac707c33b47852da469de6ab4be9f8eba9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7b227fa-250620T112332",
+  "version_upstream": "",
+  "bsum": "2f6fe373666be44640c841180bc7361d3d21b90839252c6ea04d2563ecbc7ad1",
+  "build_date": "2025-06-21T03:47:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791235673",
+  "build_id": "15791235673",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/openshift-install?tag=HEAD-7b227fa-250620T112332-x86_64-Linux&download=openshift-install.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1491",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/openshift-install?tag=HEAD-7b227fa-250620T112332-x86_64-Linux&download=openshift-install",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/installer/openshift-install:HEAD-7b227fa-250620T112332-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/installer/openshift-install",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/openshift-install?tag=HEAD-7b227fa-250620T112332-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb487208c15bc4d07a87489cfe6c5b6911aaa40a7d37e8e5b3fc822509ce262b",
+  "size": "432 MB",
+  "size_raw": "452210800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
