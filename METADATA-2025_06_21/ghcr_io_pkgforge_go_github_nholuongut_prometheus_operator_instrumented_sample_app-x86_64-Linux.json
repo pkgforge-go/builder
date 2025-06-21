@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "instrumented-sample-app",
+  "pkg_family": "prometheus-operator",
+  "pkg_id": "instrumented-sample-app#github.com_nholuongut_prometheus_operator",
+  "pkg_name": "instrumented-sample-app",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nholuongut/prometheus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+  "homepage": [
+    "https://github.com/nholuongut/prometheus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alertmanager-webhook",
+    "instrumented-sample-app",
+    "po-rule-migration"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nholuongut/prometheus-operator/archive/54f1c4bca3d2f9a40198600c5bd795b4297bfe4b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-54f1c4b-250620T071055",
+  "version_upstream": "",
+  "bsum": "c5495c0bb95fdcb0a841180ffc1c93a23063e335a912d4fe977e01db40626719",
+  "build_date": "2025-06-21T02:03:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790898724",
+  "build_id": "15790898724",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/instrumented-sample-app?tag=HEAD-54f1c4b-250620T071055-x86_64-Linux&download=instrumented-sample-app.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/instrumented-sample-app?tag=HEAD-54f1c4b-250620T071055-x86_64-Linux&download=instrumented-sample-app",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nholuongut/prometheus-operator/instrumented-sample-app:HEAD-54f1c4b-250620T071055-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nholuongut/prometheus-operator/instrumented-sample-app",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nholuongut/prometheus-operator/instrumented-sample-app?tag=HEAD-54f1c4b-250620T071055-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b19055619998b128b19ddad042508ed6dd161e97e39b18c1304f8fcdea177af",
+  "size": "9.2 MB",
+  "size_raw": "9640896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
