@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "closure",
+  "pkg_family": "perkeep",
+  "pkg_id": "closure#github.com_perkeep_perkeep",
+  "pkg_name": "closure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perkeep/perkeep",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Perkeep _née Camlistore_ is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+  "homepage": [
+    "https://github.com/perkeep/perkeep"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closure",
+    "dev",
+    "devcam",
+    "docker",
+    "envvardoc",
+    "genclosuredeps",
+    "hello",
+    "pk-devimport",
+    "pk-get",
+    "pk-mount",
+    "pk-web",
+    "publisher",
+    "release",
+    "scancab",
+    "scanningcabinet",
+    "synology"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/perkeep/perkeep/archive/56726780f66b5654c1d7c01dc85b0e686ddbffd2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5672678-250527T140155",
+  "version_upstream": "",
+  "bsum": "a093975cd58fa2590a4a33162a8f740b7f07adecf983a2039e522779ae8e7e10",
+  "build_date": "2025-06-21T10:29:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794483740",
+  "build_id": "15794483740",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/closure?tag=HEAD-5672678-250527T140155-loongarch64-Linux&download=closure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6634",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/closure?tag=HEAD-5672678-250527T140155-loongarch64-Linux&download=closure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perkeep/perkeep/closure:HEAD-5672678-250527T140155-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perkeep/perkeep/closure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/closure?tag=HEAD-5672678-250527T140155-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "25d5ec8609d5bf5ee1e6a714b084c866e443330cb3e9b8b4a00976dfe701a480",
+  "size": "4.0 MB",
+  "size_raw": "4128960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
