@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pidproxy",
+  "pkg_family": "supervisord",
+  "pkg_id": "pidproxy#github.com_ochinchina_supervisord",
+  "pkg_name": "pidproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ochinchina/supervisord",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a go-lang supervisor implementation",
+  "homepage": [
+    "https://github.com/ochinchina/supervisord"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pidproxy",
+    "supervisord"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ochinchina/supervisord/archive/16cb640325b3a4962b2ba17d68fb5c2b1e1b6b3c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-16cb640-250610T150102",
+  "version_upstream": "",
+  "bsum": "567f6999b0fae81077a48972d1f900334a310e090b1fa93c7a3b89cb29244f6f",
+  "build_date": "2025-06-21T02:38:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790961431",
+  "build_id": "15790961431",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ochinchina/supervisord/pidproxy?tag=HEAD-16cb640-250610T150102-x86_64-Linux&download=pidproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4127",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ochinchina/supervisord/pidproxy?tag=HEAD-16cb640-250610T150102-x86_64-Linux&download=pidproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ochinchina/supervisord/pidproxy:HEAD-16cb640-250610T150102-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ochinchina/supervisord/pidproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ochinchina/supervisord/pidproxy?tag=HEAD-16cb640-250610T150102-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e232da884890bfbe6d22808556c820ee008bc417d47bdcfb95cdb12feb62e760",
+  "size": "2.0 MB",
+  "size_raw": "2087096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
