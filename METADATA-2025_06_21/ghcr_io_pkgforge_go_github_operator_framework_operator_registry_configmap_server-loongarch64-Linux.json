@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "configmap-server",
+  "pkg_family": "operator-registry",
+  "pkg_id": "configmap-server#github.com_operator_framework_operator_registry",
+  "pkg_name": "configmap-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-registry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator Registry runs in a Kubernetes or OpenShift cluster to provide operator catalog data to Operator Lifecycle Manager.",
+  "homepage": [
+    "https://github.com/operator-framework/operator-registry"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmap-server",
+    "initializer",
+    "registry-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-registry/archive/53ad34f192cbe5265755ef825c18b0005bfba1a6.tar.gz"
+  ],
+  "tag": [
+    "grpc",
+    "kubernetes",
+    "kubernetes-operator"
+  ],
+  "version": "HEAD-53ad34f-250621T124350",
+  "version_upstream": "",
+  "bsum": "d35a27dea34df1a8b5c107c71e4be360f7995c8959baff6a32a825ade524eabb",
+  "build_date": "2025-06-21T22:58:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800155754",
+  "build_id": "15800155754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-registry/configmap-server?tag=HEAD-53ad34f-250621T124350-loongarch64-Linux&download=configmap-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "224",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-registry/configmap-server?tag=HEAD-53ad34f-250621T124350-loongarch64-Linux&download=configmap-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-registry/configmap-server:HEAD-53ad34f-250621T124350-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-registry/configmap-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-registry/configmap-server?tag=HEAD-53ad34f-250621T124350-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "443e2793b9bd152976dc49e60145ecb71c99aa3f8fd9af6228bd4c8982b2db2d",
+  "size": "58 MB",
+  "size_raw": "60373320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
