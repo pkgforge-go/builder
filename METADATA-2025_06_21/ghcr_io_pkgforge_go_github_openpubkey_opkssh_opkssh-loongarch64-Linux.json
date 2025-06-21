@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "opkssh",
+  "pkg_family": "opkssh",
+  "pkg_id": "opkssh#github.com_openpubkey_opkssh",
+  "pkg_name": "opkssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openpubkey/opkssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "opkssh _OpenPubkey SSH_",
+  "homepage": [
+    "https://github.com/openpubkey/opkssh"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "opkssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openpubkey/opkssh/archive/b7b1f302b7b93f44bd9a4e413ea03e8ecc4646d8.tar.gz"
+  ],
+  "tag": [
+    "oidc",
+    "openid-connect",
+    "ssh",
+    "ssh-keys"
+  ],
+  "version": "HEAD-b7b1f30-250620T152728",
+  "version_upstream": "",
+  "bsum": "3076a394881ce5d1c876ed48791b9ed1278dd0801f79d730a63d849ed3a3d6eb",
+  "build_date": "2025-06-21T09:57:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794436166",
+  "build_id": "15794436166",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openpubkey/opkssh/opkssh?tag=HEAD-b7b1f30-250620T152728-loongarch64-Linux&download=opkssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1537",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openpubkey/opkssh/opkssh?tag=HEAD-b7b1f30-250620T152728-loongarch64-Linux&download=opkssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openpubkey/opkssh/opkssh:HEAD-b7b1f30-250620T152728-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openpubkey/opkssh/opkssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openpubkey/opkssh/opkssh?tag=HEAD-b7b1f30-250620T152728-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "92aec6d4e2518f08cf1c58f677d1ce905fcafcb5382eabbab3d4d1e6e76cbf80",
+  "size": "14 MB",
+  "size_raw": "13929440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
