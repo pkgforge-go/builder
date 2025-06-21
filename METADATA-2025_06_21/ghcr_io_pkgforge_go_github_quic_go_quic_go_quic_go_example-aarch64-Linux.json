@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "quic-go-example",
+  "pkg_family": "quic-go",
+  "pkg_id": "quic-go-example#github.com_quic_go_quic_go",
+  "pkg_name": "quic-go-example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quic-go/quic-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A QUIC implementation in pure Go",
+  "homepage": [
+    "https://github.com/quic-go/quic-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "cmd",
+    "echo",
+    "quic-go-example",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quic-go/quic-go/archive/b9d934ff8be7f55330a62ff87851f00609acd875.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "http3",
+    "protocol",
+    "quic",
+    "quic-client",
+    "quic-server"
+  ],
+  "version": "HEAD-b9d934f-250620T095511",
+  "version_upstream": "",
+  "bsum": "f96f154edd0d625887e92b3669167825bbb7f8de761b17a32fcc65713411ef20",
+  "build_date": "2025-06-21T12:27:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795368635",
+  "build_id": "15795368635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quic-go/quic-go/quic-go-example?tag=HEAD-b9d934f-250620T095511-aarch64-Linux&download=quic-go-example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10744",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quic-go/quic-go/quic-go-example?tag=HEAD-b9d934f-250620T095511-aarch64-Linux&download=quic-go-example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quic-go/quic-go/quic-go-example:HEAD-b9d934f-250620T095511-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quic-go/quic-go/quic-go-example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quic-go/quic-go/quic-go-example?tag=HEAD-b9d934f-250620T095511-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aad0d3c28a7b7dacd31f31489cfb213e2ecf1cbe45e75287d0248ce4189ee733",
+  "size": "8.6 MB",
+  "size_raw": "8981216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
