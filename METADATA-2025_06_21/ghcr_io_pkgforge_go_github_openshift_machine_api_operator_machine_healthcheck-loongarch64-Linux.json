@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "machine-healthcheck",
+  "pkg_family": "machine-api-operator",
+  "pkg_id": "machine-healthcheck#github.com_openshift_machine_api_operator",
+  "pkg_name": "machine-healthcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/machine-api-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Machine API operator",
+  "homepage": [
+    "https://github.com/openshift/machine-api-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "machine-api-operator",
+    "machine-api-tests-ext",
+    "machine-healthcheck",
+    "machineset",
+    "nodelink-controller",
+    "vsphere"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/machine-api-operator/archive/b9b1512b4263bf6e36c7b6a81d155f0fb944b3c2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b9b1512-250620T063553",
+  "version_upstream": "",
+  "bsum": "bed456a2dcfe0d29ff5a2037c7c8ac7ad5c890f3c644fdbd096427924e12bb91",
+  "build_date": "2025-06-21T03:45:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791241405",
+  "build_id": "15791241405",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-healthcheck?tag=HEAD-b9b1512-250620T063553-loongarch64-Linux&download=machine-healthcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "177",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-healthcheck?tag=HEAD-b9b1512-250620T063553-loongarch64-Linux&download=machine-healthcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/machine-api-operator/machine-healthcheck:HEAD-b9b1512-250620T063553-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/machine-api-operator/machine-healthcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-healthcheck?tag=HEAD-b9b1512-250620T063553-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b391cf59fabc70a350f4721e5be4f963cbbed246a07561ce3bd8cc13c55f146b",
+  "size": "45 MB",
+  "size_raw": "46375936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

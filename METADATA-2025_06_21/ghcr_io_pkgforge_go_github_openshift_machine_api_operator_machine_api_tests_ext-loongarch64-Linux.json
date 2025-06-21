@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "machine-api-tests-ext",
+  "pkg_family": "machine-api-operator",
+  "pkg_id": "machine-api-tests-ext#github.com_openshift_machine_api_operator",
+  "pkg_name": "machine-api-tests-ext",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/machine-api-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Machine API operator",
+  "homepage": [
+    "https://github.com/openshift/machine-api-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "machine-api-operator",
+    "machine-api-tests-ext",
+    "machine-healthcheck",
+    "machineset",
+    "nodelink-controller",
+    "vsphere"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/machine-api-operator/archive/b9b1512b4263bf6e36c7b6a81d155f0fb944b3c2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b9b1512-250620T063553",
+  "version_upstream": "",
+  "bsum": "3f3575183f345caee0552769809c2d71cb8fb2cad452b33462d029e92c623e6b",
+  "build_date": "2025-06-21T03:46:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791241405",
+  "build_id": "15791241405",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext?tag=HEAD-b9b1512-250620T063553-loongarch64-Linux&download=machine-api-tests-ext.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "177",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext?tag=HEAD-b9b1512-250620T063553-loongarch64-Linux&download=machine-api-tests-ext",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext:HEAD-b9b1512-250620T063553-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/machine-api-operator/machine-api-tests-ext?tag=HEAD-b9b1512-250620T063553-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c10b3815744d4672517c5d8434af1f04f4d849dd08b4d9d577f48fbf8baca15d",
+  "size": "144 MB",
+  "size_raw": "150759936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
