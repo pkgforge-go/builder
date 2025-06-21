@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "regbot",
+  "pkg_family": "regclient",
+  "pkg_id": "regbot#github.com_regclient_regclient",
+  "pkg_name": "regbot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/regclient/regclient",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker and OCI Registry Client in Go and tooling using those libraries.",
+  "homepage": [
+    "https://github.com/regclient/regclient"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "regbot",
+    "regctl",
+    "regsync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/regclient/regclient/archive/4223ee4a28c8351a01ead8edec6630ebd1f39b5f.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "hacktoberfest",
+    "registry"
+  ],
+  "version": "HEAD-4223ee4-250615T155812",
+  "version_upstream": "",
+  "bsum": "39ebbe1227a0a9ad7bdaa1b799ec21c1398a442150ad08e0a97edf314f4c594b",
+  "build_date": "2025-06-21T13:40:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795920958",
+  "build_id": "15795920958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regbot?tag=HEAD-4223ee4-250615T155812-aarch64-Linux&download=regbot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1549",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regbot?tag=HEAD-4223ee4-250615T155812-aarch64-Linux&download=regbot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/regclient/regclient/regbot:HEAD-4223ee4-250615T155812-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/regclient/regclient/regbot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regbot?tag=HEAD-4223ee4-250615T155812-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef81031c1b9e313a871e32945f6ba1426362e499b4ab83805c5dac2f37fc0cea",
+  "size": "13 MB",
+  "size_raw": "13043744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
