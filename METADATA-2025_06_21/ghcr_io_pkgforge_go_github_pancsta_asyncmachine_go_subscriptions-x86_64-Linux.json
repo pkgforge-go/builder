@@ -1,0 +1,101 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "subscriptions",
+  "pkg_family": "asyncmachine-go",
+  "pkg_id": "subscriptions#github.com_pancsta_asyncmachine_go",
+  "pkg_name": "subscriptions",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pancsta/asyncmachine-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Batteries-included graph control flow library _AOP, actor model, state-machine_",
+  "homepage": [
+    "https://github.com/pancsta/asyncmachine-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "am-dbg",
+    "am-dbg-ssh",
+    "am-dbg-video",
+    "am-dbg-worker",
+    "am-gen",
+    "arpc",
+    "client",
+    "compact_number",
+    "dag_dependency_graph",
+    "extract_mermaid",
+    "fan_out_in",
+    "gen_jsonschema",
+    "gen_states",
+    "mach_template",
+    "pipes",
+    "raw_strings",
+    "relations_playground",
+    "repl",
+    "server",
+    "subscriptions",
+    "tree_state_source",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pancsta/asyncmachine-go/archive/1b5aa7adca646af6f0693e3f2edbca4fb242c2c4.tar.gz"
+  ],
+  "tag": [
+    "actor-model",
+    "aop",
+    "aspect-oriented-programming",
+    "background-jobs",
+    "consensus",
+    "control-flow",
+    "declarative",
+    "distributed",
+    "golang",
+    "graph",
+    "libp2p-pubsub",
+    "orchestrator",
+    "pubsub",
+    "state-machine",
+    "workers",
+    "workflow-engine",
+    "workflows"
+  ],
+  "version": "HEAD-1b5aa7a-250621T141458",
+  "version_upstream": "",
+  "bsum": "daa2ea40409f7e58426427aca6e88255a8288c6cbc5105dcd0843221a8c384c8",
+  "build_date": "2025-06-21T23:04:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800159069",
+  "build_id": "15800159069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pancsta/asyncmachine-go/subscriptions?tag=HEAD-1b5aa7a-250621T141458-x86_64-Linux&download=subscriptions.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "143",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pancsta/asyncmachine-go/subscriptions?tag=HEAD-1b5aa7a-250621T141458-x86_64-Linux&download=subscriptions",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pancsta/asyncmachine-go/subscriptions:HEAD-1b5aa7a-250621T141458-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pancsta/asyncmachine-go/subscriptions",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pancsta/asyncmachine-go/subscriptions?tag=HEAD-1b5aa7a-250621T141458-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e3adfdf9a9f87ef2470d25409d38ec10236e2d099c9949c7d00734dc3882520",
+  "size": "13 MB",
+  "size_raw": "13454528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
