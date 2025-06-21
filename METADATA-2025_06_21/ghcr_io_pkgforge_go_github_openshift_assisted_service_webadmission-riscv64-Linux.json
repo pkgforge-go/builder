@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webadmission",
+  "pkg_family": "assisted-service",
+  "pkg_id": "webadmission#github.com_openshift_assisted_service",
+  "pkg_name": "webadmission",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/assisted-service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openshift/assisted-service"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assisted-service-tools",
+    "gomock_reflect_3544310690",
+    "graphstatemachine",
+    "hack",
+    "migration_generator",
+    "webadmission"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/assisted-service/archive/a15f15f1dc9a0bc3f64b85827e8693e7f20d7608.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a15f15f-250621T030949",
+  "version_upstream": "",
+  "bsum": "1f0ff92530397c177599d40d3dacf8f9c276a59cd9b0b55c85b92d94df9ffb31",
+  "build_date": "2025-06-21T10:13:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794436697",
+  "build_id": "15794436697",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-service/webadmission?tag=HEAD-a15f15f-250621T030949-riscv64-Linux&download=webadmission.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "125",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-service/webadmission?tag=HEAD-a15f15f-250621T030949-riscv64-Linux&download=webadmission",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/assisted-service/webadmission:HEAD-a15f15f-250621T030949-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/assisted-service/webadmission",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-service/webadmission?tag=HEAD-a15f15f-250621T030949-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "82908fd8e5011085efb28bc6a56b670c4c4b87424e30e8a3b6685589b0df7616",
+  "size": "73 MB",
+  "size_raw": "76325624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
