@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fpcli",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "fpcli#github.com_openconfig_featureprofiles",
+  "pkg_name": "fpcli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/d61261528e313f1d5af3d703029bf250e21a03f2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d612615-250620T141650",
+  "version_upstream": "",
+  "bsum": "a963fb0aa670b3d3b2ff74153798935f6687dfb6a7813f99c38c0cd139aa42df",
+  "build_date": "2025-06-21T09:57:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794434480",
+  "build_id": "15794434480",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/fpcli?tag=HEAD-d612615-250620T141650-x86_64-Linux&download=fpcli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/fpcli?tag=HEAD-d612615-250620T141650-x86_64-Linux&download=fpcli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/fpcli:HEAD-d612615-250620T141650-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/fpcli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/fpcli?tag=HEAD-d612615-250620T141650-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c475adb759e16747ce66adeaec2b8e05f4a7dd0f6f2144a7a02848634db2430",
+  "size": "10 MB",
+  "size_raw": "10477760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
