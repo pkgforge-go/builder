@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "regsync",
+  "pkg_family": "regclient",
+  "pkg_id": "regsync#github.com_regclient_regclient",
+  "pkg_name": "regsync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/regclient/regclient",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker and OCI Registry Client in Go and tooling using those libraries.",
+  "homepage": [
+    "https://github.com/regclient/regclient"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "regbot",
+    "regctl",
+    "regsync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/regclient/regclient/archive/4223ee4a28c8351a01ead8edec6630ebd1f39b5f.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "hacktoberfest",
+    "registry"
+  ],
+  "version": "HEAD-4223ee4-250615T155812",
+  "version_upstream": "",
+  "bsum": "5c2461e9089505cdc016765fcb4f126d4e04217834734fd504c661669bbbe25d",
+  "build_date": "2025-06-21T13:40:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795920958",
+  "build_id": "15795920958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regsync?tag=HEAD-4223ee4-250615T155812-x86_64-Linux&download=regsync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1549",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regsync?tag=HEAD-4223ee4-250615T155812-x86_64-Linux&download=regsync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/regclient/regclient/regsync:HEAD-4223ee4-250615T155812-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/regclient/regclient/regsync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regsync?tag=HEAD-4223ee4-250615T155812-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "55bad818b521e399427a4f4460adaa899ad34908a710b9c33eb28d03318287f1",
+  "size": "13 MB",
+  "size_raw": "12584288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
