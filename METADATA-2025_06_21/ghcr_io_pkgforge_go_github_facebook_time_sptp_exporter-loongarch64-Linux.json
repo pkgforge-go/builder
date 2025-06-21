@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sptp-exporter",
+  "pkg_family": "time",
+  "pkg_id": "sptp-exporter#github.com_facebook_time",
+  "pkg_name": "sptp-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/facebook/time",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta_s Time libraries",
+  "homepage": [
+    "https://github.com/facebook/time"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c4u",
+    "calnex",
+    "fbclock-daemon",
+    "ntpcheck",
+    "ntpresponder",
+    "pshark",
+    "ptp4u",
+    "ptpcheck",
+    "sptp",
+    "sptp-exporter",
+    "testchrony"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/facebook/time/archive/0054dc74ffa6c6ade1301c1822704f7e4ba6ce0d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0054dc7-250620T135814",
+  "version_upstream": "",
+  "bsum": "170fd117f9f58ae6ef2acc9f510104e2979bf1ed9b3ee4392c29c20f237b2a04",
+  "build_date": "2025-06-21T08:12:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793267289",
+  "build_id": "15793267289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/sptp-exporter?tag=HEAD-0054dc7-250620T135814-loongarch64-Linux&download=sptp-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/sptp-exporter?tag=HEAD-0054dc7-250620T135814-loongarch64-Linux&download=sptp-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/facebook/time/sptp-exporter:HEAD-0054dc7-250620T135814-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/facebook/time/sptp-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebook/time/sptp-exporter?tag=HEAD-0054dc7-250620T135814-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cac9b775654921bc064a4808b3d8eb8cb2b1c6b079a71ab6b6b4d102a2d947eb",
+  "size": "9.8 MB",
+  "size_raw": "10183264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
