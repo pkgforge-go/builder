@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pipelines-as-code-controller",
+  "pkg_family": "pipelines-as-code",
+  "pkg_id": "pipelines-as-code-controller#github.com_openshift_pipelines_pipelines_as_code",
+  "pkg_name": "pipelines-as-code-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift-pipelines/pipelines-as-code",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pipelines-as-Code for Tekton",
+  "homepage": [
+    "https://github.com/openshift-pipelines/pipelines-as-code"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pipelines-as-code-controller",
+    "pipelines-as-code-watcher",
+    "pipelines-as-code-webhook",
+    "tkn-pac"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift-pipelines/pipelines-as-code/archive/f07a394ff0d32522d8432eb6cbada42fdf039511.tar.gz"
+  ],
+  "tag": [
+    "bitbucket",
+    "ci",
+    "continuous-delivery",
+    "github",
+    "gitlab",
+    "gitops",
+    "kubernetes",
+    "pipeline",
+    "pipelines-as-code",
+    "tekton",
+    "tekton-pipelines"
+  ],
+  "version": "HEAD-f07a394-250620T103549",
+  "version_upstream": "",
+  "bsum": "a0d107ec5797c06368db965392b69a6db672a8da0ab80ee288dcdeba3945479e",
+  "build_date": "2025-06-21T03:33:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791233149",
+  "build_id": "15791233149",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-controller?tag=HEAD-f07a394-250620T103549-loongarch64-Linux&download=pipelines-as-code-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "159",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-controller?tag=HEAD-f07a394-250620T103549-loongarch64-Linux&download=pipelines-as-code-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-controller:HEAD-f07a394-250620T103549-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift-pipelines/pipelines-as-code/pipelines-as-code-controller?tag=HEAD-f07a394-250620T103549-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f702fbd26484fa0f0fae6cfe6536f2d4ed3f4f91f1f41317e8608803cae355b",
+  "size": "75 MB",
+  "size_raw": "78457024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
