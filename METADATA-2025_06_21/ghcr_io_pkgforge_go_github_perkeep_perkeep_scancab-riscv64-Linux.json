@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scancab",
+  "pkg_family": "perkeep",
+  "pkg_id": "scancab#github.com_perkeep_perkeep",
+  "pkg_name": "scancab",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perkeep/perkeep",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Perkeep _née Camlistore_ is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+  "homepage": [
+    "https://github.com/perkeep/perkeep"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closure",
+    "dev",
+    "devcam",
+    "docker",
+    "envvardoc",
+    "genclosuredeps",
+    "hello",
+    "perkeepd",
+    "pk",
+    "pk-devimport",
+    "pk-get",
+    "pk-mount",
+    "pk-put",
+    "pk-web",
+    "publisher",
+    "release",
+    "scancab",
+    "scanningcabinet",
+    "synology"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/perkeep/perkeep/archive/56726780f66b5654c1d7c01dc85b0e686ddbffd2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5672678-250527T140155",
+  "version_upstream": "",
+  "bsum": "0ab5b5f51c2b00b23eb68132102c9b3d07d05e38c52665cf6cb63440356570ea",
+  "build_date": "2025-06-21T10:31:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794483740",
+  "build_id": "15794483740",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/scancab?tag=HEAD-5672678-250527T140155-riscv64-Linux&download=scancab.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6634",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/scancab?tag=HEAD-5672678-250527T140155-riscv64-Linux&download=scancab",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perkeep/perkeep/scancab:HEAD-5672678-250527T140155-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perkeep/perkeep/scancab",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/scancab?tag=HEAD-5672678-250527T140155-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5d9a89ec2db5d0b0ee0a1167c442ba319f441613dbcfcd5a5bb1079f7961ac1",
+  "size": "6.7 MB",
+  "size_raw": "6967640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "synology",
+  "pkg_family": "perkeep",
+  "pkg_id": "synology#github.com_perkeep_perkeep",
+  "pkg_name": "synology",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perkeep/perkeep",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Perkeep _née Camlistore_ is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+  "homepage": [
+    "https://github.com/perkeep/perkeep"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closure",
+    "dev",
+    "devcam",
+    "docker",
+    "envvardoc",
+    "genclosuredeps",
+    "hello",
+    "perkeepd",
+    "pk",
+    "pk-devimport",
+    "pk-get",
+    "pk-mount",
+    "pk-put",
+    "pk-web",
+    "publisher",
+    "release",
+    "scancab",
+    "scanningcabinet",
+    "synology"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/perkeep/perkeep/archive/56726780f66b5654c1d7c01dc85b0e686ddbffd2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5672678-250527T140155",
+  "version_upstream": "",
+  "bsum": "bbef63dbc54e9ef86169757a030554e576d7b3d571d9189fa3b77dfdfa9e6e56",
+  "build_date": "2025-06-21T10:30:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794483740",
+  "build_id": "15794483740",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/synology?tag=HEAD-5672678-250527T140155-riscv64-Linux&download=synology.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6634",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/synology?tag=HEAD-5672678-250527T140155-riscv64-Linux&download=synology",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perkeep/perkeep/synology:HEAD-5672678-250527T140155-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perkeep/perkeep/synology",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perkeep/perkeep/synology?tag=HEAD-5672678-250527T140155-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6a7429c08e1435b6d6ae7808bab37fc54ad7541c8a2613e9efbe0a8fa51852a",
+  "size": "1.9 MB",
+  "size_raw": "1989096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
