@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "probe-cli",
+  "pkg_id": "generator#github.com_ooni_probe_cli",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ooni/probe-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OONI Probe Engine and CLI",
+  "homepage": [
+    "https://github.com/ooni/probe-cli"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildtool",
+    "chapter13",
+    "e2epostprocess",
+    "generator",
+    "generrno",
+    "getresources",
+    "ghgen",
+    "libooniengine",
+    "printversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ooni/probe-cli/archive/c86a79b29e2b2abee36a591141945d9a0af048b3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c86a79b-250613T123845",
+  "version_upstream": "",
+  "bsum": "4c0eda960bfdfdddc295b0748c2643dabf8632bb8e49c8551facbc7880b4efc6",
+  "build_date": "2025-06-21T03:03:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790998396",
+  "build_id": "15790998396",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ooni/probe-cli/generator?tag=HEAD-c86a79b-250613T123845-loongarch64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ooni/probe-cli/generator?tag=HEAD-c86a79b-250613T123845-loongarch64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ooni/probe-cli/generator:HEAD-c86a79b-250613T123845-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ooni/probe-cli/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ooni/probe-cli/generator?tag=HEAD-c86a79b-250613T123845-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4709f488d2e020a21a5f340ba36694d0f421c3d0caa49bda4c4cc7a63af5db4",
+  "size": "1.7 MB",
+  "size_raw": "1738008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
