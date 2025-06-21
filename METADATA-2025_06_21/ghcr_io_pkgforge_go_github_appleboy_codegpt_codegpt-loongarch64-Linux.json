@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "codegpt",
+  "pkg_family": "CodeGPT",
+  "pkg_id": "codegpt#github.com_appleboy_CodeGPT",
+  "pkg_name": "codegpt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/appleboy/CodeGPT",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI _gpt-4.1, gpt-4o model_ and automatically installs a git prepare-commit-msg hook.",
+  "homepage": [
+    "https://github.com/appleboy/CodeGPT"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegpt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/appleboy/CodeGPT/archive/8caa57ccf80978bb91f62fd08f226b81f5eff528.tar.gz"
+  ],
+  "tag": [
+    "chatgpt",
+    "chatgpt-api",
+    "git",
+    "git-hook",
+    "golang",
+    "openai",
+    "openai-api"
+  ],
+  "version": "HEAD-8caa57c-250621T120954",
+  "version_upstream": "",
+  "bsum": "ad58f1bfcffa35266dee4e2b106accd42b5ff215b78ba30be78dd5acc6dd79c7",
+  "build_date": "2025-06-21T21:43:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15799850820",
+  "build_id": "15799850820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/codegpt/codegpt?tag=HEAD-8caa57c-250621T120954-loongarch64-Linux&download=codegpt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1431",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/codegpt/codegpt?tag=HEAD-8caa57c-250621T120954-loongarch64-Linux&download=codegpt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/appleboy/codegpt/codegpt:HEAD-8caa57c-250621T120954-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/appleboy/codegpt/codegpt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/appleboy/codegpt/codegpt?tag=HEAD-8caa57c-250621T120954-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fbdad6033bd4fa118537959a7aa8f9383022ebffff71143c21d4cd33950706b2",
+  "size": "20 MB",
+  "size_raw": "20075584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
