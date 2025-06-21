@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubernetes-static",
+  "pkg_family": "nri-kubernetes",
+  "pkg_id": "kubernetes-static#github.com_newrelic_nri_kubernetes",
+  "pkg_name": "kubernetes-static",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic integration for Kubernetes",
+  "homepage": [
+    "https://github.com/newrelic/nri-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubernetes-static",
+    "nri-kubernetes"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-kubernetes/archive/09e2021929cd16537855afddb4c418ff7f89b746.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "monitoring"
+  ],
+  "version": "HEAD-09e2021-250619T142902",
+  "version_upstream": "",
+  "bsum": "05970c294c41204cc034bfb9fb1f115dcd0047e974b1b9b7eae3008dc4075bc8",
+  "build_date": "2025-06-21T09:33:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794152330",
+  "build_id": "15794152330",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-kubernetes/kubernetes-static?tag=HEAD-09e2021-250619T142902-x86_64-Linux&download=kubernetes-static.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-kubernetes/kubernetes-static?tag=HEAD-09e2021-250619T142902-x86_64-Linux&download=kubernetes-static",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-kubernetes/kubernetes-static:HEAD-09e2021-250619T142902-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-kubernetes/kubernetes-static",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-kubernetes/kubernetes-static?tag=HEAD-09e2021-250619T142902-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "408e31e0dc060793080654725376565701845f2d42ba729c671c9aefcc02684f",
+  "size": "85 MB",
+  "size_raw": "88936112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
