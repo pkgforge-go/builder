@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ssh",
+  "pkg_family": "zssh",
+  "pkg_id": "ssh#github.com_openziti_test_kitchen_zssh",
+  "pkg_name": "ssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openziti-test-kitchen/zssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ziti SSH",
+  "homepage": [
+    "https://github.com/openziti-test-kitchen/zssh"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ssh",
+    "zitified-ssh",
+    "zscp",
+    "zssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openziti-test-kitchen/zssh/archive/8873a27819676d88a484d7b7f53e47519ba2ad37.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8873a27-241021T090347",
+  "version_upstream": "1.0.15",
+  "bsum": "7431f5c5955a5c06587b703f7224e44e0f5e0ec58a7b5e4c0974a5cc5578d2f6",
+  "build_date": "2025-06-21T04:04:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791277667",
+  "build_id": "15791277667",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openziti-test-kitchen/zssh/ssh?tag=HEAD-8873a27-241021T090347-aarch64-Linux&download=ssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openziti-test-kitchen/zssh/ssh?tag=HEAD-8873a27-241021T090347-aarch64-Linux&download=ssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openziti-test-kitchen/zssh/ssh:HEAD-8873a27-241021T090347-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openziti-test-kitchen/zssh/ssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openziti-test-kitchen/zssh/ssh?tag=HEAD-8873a27-241021T090347-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0abbaf9184b870fde770d24a24ef3ba54d0f31e434feda72d8adf25e99cef8d1",
+  "size": "4.1 MB",
+  "size_raw": "4267424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
