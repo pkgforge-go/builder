@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "supervisord",
+  "pkg_family": "supervisord",
+  "pkg_id": "supervisord#github.com_ochinchina_supervisord",
+  "pkg_name": "supervisord",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ochinchina/supervisord",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a go-lang supervisor implementation",
+  "homepage": [
+    "https://github.com/ochinchina/supervisord"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pidproxy",
+    "supervisord"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ochinchina/supervisord/archive/16cb640325b3a4962b2ba17d68fb5c2b1e1b6b3c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-16cb640-250610T150102",
+  "version_upstream": "",
+  "bsum": "2b089fec602e71d7b9d401075a03ad45a75a1b9f53dbcd8b241a4e49875a5873",
+  "build_date": "2025-06-21T02:37:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790961431",
+  "build_id": "15790961431",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ochinchina/supervisord/supervisord?tag=HEAD-16cb640-250610T150102-riscv64-Linux&download=supervisord.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4127",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ochinchina/supervisord/supervisord?tag=HEAD-16cb640-250610T150102-riscv64-Linux&download=supervisord",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ochinchina/supervisord/supervisord:HEAD-16cb640-250610T150102-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ochinchina/supervisord/supervisord",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ochinchina/supervisord/supervisord?tag=HEAD-16cb640-250610T150102-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6551de84540aa76c60a4a6de36f305f0a1b56c7c48efc10edbc0401215ec35a4",
+  "size": "13 MB",
+  "size_raw": "13011992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
