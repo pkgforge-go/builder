@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "install",
+  "pkg_family": "amazon-cloudwatch-agent-test",
+  "pkg_id": "install#github.com_aws_amazon_cloudwatch_agent_test",
+  "pkg_name": "install",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-cloudwatch-agent-test",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/aws/amazon-cloudwatch-agent-test"
+  ],
+  "license": [
+    "MIT-0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "emf-generator",
+    "generator",
+    "install",
+    "log-generator",
+    "msiversion",
+    "resources",
+    "statsd-generator",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-cloudwatch-agent-test/archive/d5e515a46cb51265e155f183ad1b60612a12c1f2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d5e515a-250620T164648",
+  "version_upstream": "",
+  "bsum": "529c80b4bacbb8ed48760accb9d5c9a0de6b59b5f7f947fe6d9c65dd7106f050",
+  "build_date": "2025-06-21T07:16:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793151704",
+  "build_id": "15793151704",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent-test/install?tag=HEAD-d5e515a-250620T164648-riscv64-Linux&download=install.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent-test/install?tag=HEAD-d5e515a-250620T164648-riscv64-Linux&download=install",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent-test/install:HEAD-d5e515a-250620T164648-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent-test/install",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent-test/install?tag=HEAD-d5e515a-250620T164648-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f8806f21c3c10a084e02d6de4d627701027bafd1ce01a5098ef26f71f8c53cb",
+  "size": "1.9 MB",
+  "size_raw": "1916456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
