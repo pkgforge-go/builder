@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nixos-cli-doc",
+  "pkg_family": "nixos-cli",
+  "pkg_id": "nixos-cli-doc#github.com_nix_community_nixos_cli",
+  "pkg_name": "nixos-cli-doc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nix-community/nixos-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks]",
+  "homepage": [
+    "https://github.com/nix-community/nixos-cli"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nixos-cli",
+    "nixos-cli-doc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nix-community/nixos-cli/archive/a68272bb0ffcab8716c97d4d956448123b5e9900.tar.gz"
+  ],
+  "tag": [
+    "nixos"
+  ],
+  "version": "HEAD-a68272b-250616T014113",
+  "version_upstream": "",
+  "bsum": "67e68b5626a3463852e879cad3572f22b5da8ee2d23a8a9e94e1c67d96063095",
+  "build_date": "2025-06-21T02:07:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15790900256",
+  "build_id": "15790900256",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nix-community/nixos-cli/nixos-cli-doc?tag=HEAD-a68272b-250616T014113-x86_64-Linux&download=nixos-cli-doc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "287",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nix-community/nixos-cli/nixos-cli-doc?tag=HEAD-a68272b-250616T014113-x86_64-Linux&download=nixos-cli-doc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nix-community/nixos-cli/nixos-cli-doc:HEAD-a68272b-250616T014113-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nix-community/nixos-cli/nixos-cli-doc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nix-community/nixos-cli/nixos-cli-doc?tag=HEAD-a68272b-250616T014113-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3d0ff3c1335f57f8ba05ec08a4e7f3b3303d1eb6b69d8484d9c2e4633105687",
+  "size": "2.8 MB",
+  "size_raw": "2875224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
