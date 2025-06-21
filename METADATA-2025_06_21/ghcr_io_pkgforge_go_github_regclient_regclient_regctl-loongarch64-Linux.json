@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "regctl",
+  "pkg_family": "regclient",
+  "pkg_id": "regctl#github.com_regclient_regclient",
+  "pkg_name": "regctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/regclient/regclient",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker and OCI Registry Client in Go and tooling using those libraries.",
+  "homepage": [
+    "https://github.com/regclient/regclient"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "regbot",
+    "regctl",
+    "regsync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/regclient/regclient/archive/4223ee4a28c8351a01ead8edec6630ebd1f39b5f.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "hacktoberfest",
+    "registry"
+  ],
+  "version": "HEAD-4223ee4-250615T155812",
+  "version_upstream": "",
+  "bsum": "a14f208e992c724925ee34a4743fc5ce0c828090a54c1d574689beed072f7317",
+  "build_date": "2025-06-21T13:40:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795920958",
+  "build_id": "15795920958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regctl?tag=HEAD-4223ee4-250615T155812-loongarch64-Linux&download=regctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1549",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regctl?tag=HEAD-4223ee4-250615T155812-loongarch64-Linux&download=regctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/regclient/regclient/regctl:HEAD-4223ee4-250615T155812-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/regclient/regclient/regctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/regclient/regclient/regctl?tag=HEAD-4223ee4-250615T155812-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "de4f18e37355f79715f427b05f24344b63477ebd13380ded9606cfbc4881570c",
+  "size": "12 MB",
+  "size_raw": "12184672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
