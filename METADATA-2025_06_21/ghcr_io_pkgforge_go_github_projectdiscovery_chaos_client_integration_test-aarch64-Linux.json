@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "integration-test",
+  "pkg_family": "chaos-client",
+  "pkg_id": "integration-test#github.com_projectdiscovery_chaos_client",
+  "pkg_name": "integration-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/chaos-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go client to communicate with Chaos DB API.",
+  "homepage": [
+    "https://github.com/projectdiscovery/chaos-client"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chaos",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/chaos-client/archive/17a19d75e790394de3b8efbafcb8157f455a5a0b.tar.gz"
+  ],
+  "tag": [
+    "cli"
+  ],
+  "version": "HEAD-17a19d7-240423T014017",
+  "version_upstream": "v0.5.2",
+  "bsum": "676a86b6dd01c121c60e35b5cd4778de6e0ca672b3aa024d47576f8c2ae4b590",
+  "build_date": "2025-06-21T11:35:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794903368",
+  "build_id": "15794903368",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/chaos-client/integration-test?tag=HEAD-17a19d7-240423T014017-aarch64-Linux&download=integration-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "732",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/chaos-client/integration-test?tag=HEAD-17a19d7-240423T014017-aarch64-Linux&download=integration-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/chaos-client/integration-test:HEAD-17a19d7-240423T014017-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/chaos-client/integration-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/chaos-client/integration-test?tag=HEAD-17a19d7-240423T014017-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0acfb1f40a78d9d0d8f4bfbae996de9997fc652a75b99b6e58a6d121bddfc92d",
+  "size": "27 MB",
+  "size_raw": "27867616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
