@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "osbuild-upload-oci",
+  "pkg_family": "osbuild-composer",
+  "pkg_id": "osbuild-upload-oci#github.com_osbuild_osbuild_composer",
+  "pkg_name": "osbuild-upload-oci",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/osbuild-composer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An HTTP service for building bootable OS images.",
+  "homepage": [
+    "https://github.com/osbuild/osbuild-composer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock-dnf-json",
+    "osbuild-jobsite-builder",
+    "osbuild-jobsite-manager",
+    "osbuild-mock-openid-provider",
+    "osbuild-service-maintenance",
+    "osbuild-upload-aws",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci",
+    "osbuild-upload-pulp-ostree",
+    "osbuild-worker-executor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/osbuild-composer/archive/c4430ffa7a9b24bc74014d6033d71803db6af65c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c4430ff-250620T125517",
+  "version_upstream": "",
+  "bsum": "f4f715bbf5d7b1a0dcc55533114d0b4ae12d5270ce09d5924132ac3cca56a0e3",
+  "build_date": "2025-06-21T04:36:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791375669",
+  "build_id": "15791375669",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-oci?tag=HEAD-c4430ff-250620T125517-x86_64-Linux&download=osbuild-upload-oci.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "182",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-oci?tag=HEAD-c4430ff-250620T125517-x86_64-Linux&download=osbuild-upload-oci",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-oci:HEAD-c4430ff-250620T125517-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-oci",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/osbuild-upload-oci?tag=HEAD-c4430ff-250620T125517-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12e81ee4a94cd32e7cd30a902716262770af53c7eac4dc37603244b6cf789215",
+  "size": "8.6 MB",
+  "size_raw": "8947712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
