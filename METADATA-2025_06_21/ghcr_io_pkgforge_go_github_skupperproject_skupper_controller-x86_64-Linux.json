@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "skupper",
+  "pkg_id": "controller#github.com_skupperproject_skupper",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/skupperproject/skupper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.",
+  "homepage": [
+    "https://github.com/skupperproject/skupper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "generate-doc",
+    "kube-adaptor",
+    "network-observer",
+    "skupper",
+    "system-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/skupperproject/skupper/archive/6a81e6f62c06217642aa5172b7a4b6408d208aa4.tar.gz"
+  ],
+  "tag": [
+    "skupper"
+  ],
+  "version": "HEAD-6a81e6f-250618T114000",
+  "version_upstream": "",
+  "bsum": "ae8b2ed746d69acf4211f0821a55bc8f850c158a8f82928369d8a01bef754310",
+  "build_date": "2025-06-21T23:44:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800503460",
+  "build_id": "15800503460",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/controller?tag=HEAD-6a81e6f-250618T114000-x86_64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "638",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/controller?tag=HEAD-6a81e6f-250618T114000-x86_64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skupperproject/skupper/controller:HEAD-6a81e6f-250618T114000-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skupperproject/skupper/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/controller?tag=HEAD-6a81e6f-250618T114000-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df6d77e2f879af0bea16462bbe9def49f92e246423a15e8f226cbb0c7ba0babc",
+  "size": "52 MB",
+  "size_raw": "53705216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

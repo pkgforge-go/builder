@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate-doc",
+  "pkg_family": "skupper",
+  "pkg_id": "generate-doc#github.com_skupperproject_skupper",
+  "pkg_name": "generate-doc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/skupperproject/skupper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Skupper is an implementation of a Virtual Application Network, enabling rich hybrid cloud communication.",
+  "homepage": [
+    "https://github.com/skupperproject/skupper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "generate-doc",
+    "kube-adaptor",
+    "network-observer",
+    "skupper",
+    "system-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/skupperproject/skupper/archive/6a81e6f62c06217642aa5172b7a4b6408d208aa4.tar.gz"
+  ],
+  "tag": [
+    "skupper"
+  ],
+  "version": "HEAD-6a81e6f-250618T114000",
+  "version_upstream": "",
+  "bsum": "5a2e2a3296097f2772c76e3b497b78e7fe47f487198a33bfe540b28bef60df2d",
+  "build_date": "2025-06-21T23:44:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800503460",
+  "build_id": "15800503460",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/generate-doc?tag=HEAD-6a81e6f-250618T114000-x86_64-Linux&download=generate-doc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "638",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/generate-doc?tag=HEAD-6a81e6f-250618T114000-x86_64-Linux&download=generate-doc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skupperproject/skupper/generate-doc:HEAD-6a81e6f-250618T114000-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skupperproject/skupper/generate-doc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skupperproject/skupper/generate-doc?tag=HEAD-6a81e6f-250618T114000-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4ed284d2ae0eda04ccfef69c435417444eafe5fe6a132de16982d5ea5b26b04",
+  "size": "57 MB",
+  "size_raw": "58873280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
