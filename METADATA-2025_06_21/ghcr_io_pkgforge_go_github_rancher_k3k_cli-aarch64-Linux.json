@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "k3k",
+  "pkg_id": "cli#github.com_rancher_k3k",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/k3k",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes in Kubernetes",
+  "homepage": [
+    "https://github.com/rancher/k3k"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "k3k",
+    "k3k-cli",
+    "k3k-kubelet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/k3k/archive/f5d2e981ab1ab566ed3d86f3d1c02929e0693916.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f5d2e98-250620T181910",
+  "version_upstream": "chart-0.3.3-r3",
+  "bsum": "2dd21e30b4d8b91c38279c25a09cd0444fe12d036d8c1f4666afb015d2c10a4b",
+  "build_date": "2025-06-21T13:11:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15795906421",
+  "build_id": "15795906421",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/cli?tag=HEAD-f5d2e98-250620T181910-aarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "335",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/cli?tag=HEAD-f5d2e98-250620T181910-aarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/k3k/cli:HEAD-f5d2e98-250620T181910-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/k3k/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/cli?tag=HEAD-f5d2e98-250620T181910-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a5b86376c40e733f2f441f5c58eb1b432bd6868fa8064f62c2b6c04ecfbf1b58",
+  "size": "41 MB",
+  "size_raw": "42435776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
