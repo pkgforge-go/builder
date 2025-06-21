@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "apitodoc",
+  "pkg_family": "flowlogs-pipeline",
+  "pkg_id": "apitodoc#github.com_netobserv_flowlogs_pipeline",
+  "pkg_name": "apitodoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/netobserv/flowlogs-pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Transform flow logs into metrics",
+  "homepage": [
+    "https://github.com/netobserv/flowlogs-pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitodoc",
+    "confgenerator",
+    "ipfix-collector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/netobserv/flowlogs-pipeline/archive/7f03781160f49f6373f797e2c612fcfb7cf947e8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7f03781-250620T145308",
+  "version_upstream": "",
+  "bsum": "f593d461a68c8e676e484adb2fc792118a43fc18ffd226c03eb8d07582de0cb7",
+  "build_date": "2025-06-21T00:04:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15789454996",
+  "build_id": "15789454996",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netobserv/flowlogs-pipeline/apitodoc?tag=HEAD-7f03781-250620T145308-riscv64-Linux&download=apitodoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netobserv/flowlogs-pipeline/apitodoc?tag=HEAD-7f03781-250620T145308-riscv64-Linux&download=apitodoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netobserv/flowlogs-pipeline/apitodoc:HEAD-7f03781-250620T145308-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netobserv/flowlogs-pipeline/apitodoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netobserv/flowlogs-pipeline/apitodoc?tag=HEAD-7f03781-250620T145308-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae31e94d6a2c4ef1dd6a435d646b2fab95d7003ba2a0896fad372de22fb53300",
+  "size": "9.7 MB",
+  "size_raw": "10103672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
