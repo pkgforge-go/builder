@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pocketd",
+  "pkg_family": "poktroll",
+  "pkg_id": "pocketd#github.com_pokt_network_poktroll",
+  "pkg_name": "pocketd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pokt-network/poktroll",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The official Shannon upgrade implementation of the Pocket Network Protocol implemented using the Cosmos SDK",
+  "homepage": [
+    "https://github.com/pokt-network/poktroll"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "docusaurus",
+    "goimports",
+    "pocketd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pokt-network/poktroll/archive/d2b3418ff22ccef4606b81773df7ffec258dbc54.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d2b3418-250620T200736",
+  "version_upstream": "v0.1.22-rc2",
+  "bsum": "2051db776be74b4abdaef8345c1bc2b6569b13a5d2e44d402fb2eec0c4adffb4",
+  "build_date": "2025-06-21T11:21:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794844198",
+  "build_id": "15794844198",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pokt-network/poktroll/pocketd?tag=HEAD-d2b3418-250620T200736-aarch64-Linux&download=pocketd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pokt-network/poktroll/pocketd?tag=HEAD-d2b3418-250620T200736-aarch64-Linux&download=pocketd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pokt-network/poktroll/pocketd:HEAD-d2b3418-250620T200736-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pokt-network/poktroll/pocketd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pokt-network/poktroll/pocketd?tag=HEAD-d2b3418-250620T200736-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0569d6896db31e0825d1af38dc351138881589517622ce1fb273ed81b1c12140",
+  "size": "120 MB",
+  "size_raw": "125755360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
