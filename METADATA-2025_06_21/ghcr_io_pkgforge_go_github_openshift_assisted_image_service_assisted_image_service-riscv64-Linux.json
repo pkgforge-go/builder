@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "assisted-image-service",
+  "pkg_family": "assisted-image-service",
+  "pkg_id": "assisted-image-service#github.com_openshift_assisted_image_service",
+  "pkg_name": "assisted-image-service",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/assisted-image-service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provide RHCOS image customization and serving for assisted-installer",
+  "homepage": [
+    "https://github.com/openshift/assisted-image-service"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assisted-image-service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/assisted-image-service/archive/0128a587cae2550a2a02d0b4156eb2347d4b9ae0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0128a58-250621T070117",
+  "version_upstream": "",
+  "bsum": "d2ed464920fa4c5aca635ff659322f16822fc992267ff3c6615b99d5c0481578",
+  "build_date": "2025-06-21T22:46:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800084215",
+  "build_id": "15800084215",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-image-service/assisted-image-service?tag=HEAD-0128a58-250621T070117-riscv64-Linux&download=assisted-image-service.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-image-service/assisted-image-service?tag=HEAD-0128a58-250621T070117-riscv64-Linux&download=assisted-image-service",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/assisted-image-service/assisted-image-service:HEAD-0128a58-250621T070117-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/assisted-image-service/assisted-image-service",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/assisted-image-service/assisted-image-service?tag=HEAD-0128a58-250621T070117-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8cb68a52829c1d4cbb4d33de4bd4ae827ede01325732bfa2ba6ec5f279e422e7",
+  "size": "11 MB",
+  "size_raw": "10750712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
