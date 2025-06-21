@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tester",
+  "pkg_family": "otto",
+  "pkg_id": "tester#github.com_robertkrimen_otto",
+  "pkg_name": "tester",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/robertkrimen/otto",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A JavaScript interpreter in Go _golang_",
+  "homepage": [
+    "https://github.com/robertkrimen/otto"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-jscore",
+    "gen-tokens",
+    "otto",
+    "tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/robertkrimen/otto/archive/3ca729876b8973d2faeb6f25d1c8e7dd6580063a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3ca7298-250613T170831",
+  "version_upstream": "",
+  "bsum": "41475c713982ef28631b2c3371400ee973b7428138f501aa39cb136ec95b291b",
+  "build_date": "2025-06-21T14:15:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796325124",
+  "build_id": "15796325124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robertkrimen/otto/tester?tag=HEAD-3ca7298-250613T170831-loongarch64-Linux&download=tester.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8319",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robertkrimen/otto/tester?tag=HEAD-3ca7298-250613T170831-loongarch64-Linux&download=tester",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/robertkrimen/otto/tester:HEAD-3ca7298-250613T170831-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/robertkrimen/otto/tester",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robertkrimen/otto/tester?tag=HEAD-3ca7298-250613T170831-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e990c0a220c9d4ccf0572ee9a79e7bd609b5f38dde647d55e75eeb8cdf841d0",
+  "size": "9.3 MB",
+  "size_raw": "9712448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
