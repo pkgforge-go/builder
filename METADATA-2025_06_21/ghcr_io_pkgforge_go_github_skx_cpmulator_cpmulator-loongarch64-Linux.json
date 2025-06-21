@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cpmulator",
+  "pkg_family": "cpmulator",
+  "pkg_id": "cpmulator#github.com_skx_cpmulator",
+  "pkg_name": "cpmulator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/skx/cpmulator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Z80-based CP/M emulator, in golang.  Happily runs Zork, Microsoft BASIC, Turbo Pascal, Wordstar, etc.",
+  "homepage": [
+    "https://github.com/skx/cpmulator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cpmulator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/skx/cpmulator/archive/f5d8bd6f62566470386e59de140875afb98f010e.tar.gz"
+  ],
+  "tag": [
+    "cpm",
+    "emulation",
+    "golang",
+    "golang-application",
+    "z80",
+    "zork"
+  ],
+  "version": "HEAD-f5d8bd6-250617T225640",
+  "version_upstream": "",
+  "bsum": "34b1de72872be04a5a5540b5ca88983dad5109baa38f5dc677dc67e52f8e3ab0",
+  "build_date": "2025-06-21T23:37:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800515865",
+  "build_id": "15800515865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skx/cpmulator/cpmulator?tag=HEAD-f5d8bd6-250617T225640-loongarch64-Linux&download=cpmulator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skx/cpmulator/cpmulator?tag=HEAD-f5d8bd6-250617T225640-loongarch64-Linux&download=cpmulator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skx/cpmulator/cpmulator:HEAD-f5d8bd6-250617T225640-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skx/cpmulator/cpmulator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skx/cpmulator/cpmulator?tag=HEAD-f5d8bd6-250617T225640-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b71aad07fc7080c750894a5569f742bcf978528070399945c64344fa53750355",
+  "size": "3.3 MB",
+  "size_raw": "3386232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
