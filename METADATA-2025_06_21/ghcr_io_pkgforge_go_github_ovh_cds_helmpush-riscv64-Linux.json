@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "helmpush",
+  "pkg_family": "cds",
+  "pkg_id": "helmpush#github.com_ovh_cds",
+  "pkg_name": "helmpush",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ovh/cds",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-Grade Continuous Delivery _ DevOps Automation Open Source Platform",
+  "homepage": [
+    "https://github.com/ovh/cds"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrunresult",
+    "arsenal-deployment-plugin",
+    "artifactorypromote",
+    "artifactoryrelease",
+    "cache",
+    "cacherestore",
+    "cachesave",
+    "checkout",
+    "debianpush",
+    "debpacker",
+    "deployarsenal",
+    "dockerpush",
+    "downloadartifact",
+    "engine",
+    "example",
+    "hello-deployment-plugin",
+    "hello-sdk",
+    "helmpush",
+    "itscwrkflw15",
+    "junit",
+    "keyinstall",
+    "plugin-arsenal-delete-alternative",
+    "plugin-kubernetes-deployment",
+    "pythonpush",
+    "script",
+    "uploadartifact",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ovh/cds/archive/e716c2dd7b2af39399a64a86c45bb1b40ee2109f.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "devops-workflow",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-e716c2d-250620T135931",
+  "version_upstream": "",
+  "bsum": "b5b18771c24343e6a94c54d3a81e975fd64f4d67794050992d3c60c59e7e02db",
+  "build_date": "2025-06-21T04:51:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791586943",
+  "build_id": "15791586943",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/helmpush?tag=HEAD-e716c2d-250620T135931-riscv64-Linux&download=helmpush.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4721",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/helmpush?tag=HEAD-e716c2d-250620T135931-riscv64-Linux&download=helmpush",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ovh/cds/helmpush:HEAD-e716c2d-250620T135931-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ovh/cds/helmpush",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/helmpush?tag=HEAD-e716c2d-250620T135931-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c0891720bd29670491ada92847429a7b9edf07accee07d34fb0139ee7ca8a81",
+  "size": "67 MB",
+  "size_raw": "69863896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
