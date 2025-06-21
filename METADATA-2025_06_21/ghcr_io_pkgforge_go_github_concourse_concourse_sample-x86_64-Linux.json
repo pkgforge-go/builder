@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sample",
+  "pkg_family": "concourse",
+  "pkg_id": "sample#github.com_concourse_concourse",
+  "pkg_name": "sample",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/concourse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Concourse is a container-based automation system written in Go.",
+  "homepage": [
+    "https://github.com/concourse/concourse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "baggageclaim",
+    "cli",
+    "concourse",
+    "fly",
+    "fs_mounter",
+    "sample",
+    "scripts",
+    "tsa"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/concourse/archive/4e1aa2bc2ac00e63a2fe5ed4902d468c42131047.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "ci-cd",
+    "concourse",
+    "containerd",
+    "containers",
+    "continuous-delivery",
+    "continuous-integration",
+    "elm",
+    "go",
+    "pipelines",
+    "runc"
+  ],
+  "version": "HEAD-4e1aa2b-250620T122546",
+  "version_upstream": "",
+  "bsum": "c07810495c624bf6143fc644a40537afdf4dafb5ca86a96f2a1ec780fb75a87b",
+  "build_date": "2025-06-21T07:48:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793167060",
+  "build_id": "15793167060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/sample?tag=HEAD-4e1aa2b-250620T122546-x86_64-Linux&download=sample.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7583",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/sample?tag=HEAD-4e1aa2b-250620T122546-x86_64-Linux&download=sample",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/concourse/sample:HEAD-4e1aa2b-250620T122546-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/concourse/sample",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/sample?tag=HEAD-4e1aa2b-250620T122546-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a4b4b939a8060c3bb48424f5482ca3702596d6fca8c532ecb31eb6a8bbbd6f0",
+  "size": "6.0 MB",
+  "size_raw": "6261312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

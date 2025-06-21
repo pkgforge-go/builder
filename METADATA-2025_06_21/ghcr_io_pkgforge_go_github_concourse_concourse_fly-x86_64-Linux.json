@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fly",
+  "pkg_family": "concourse",
+  "pkg_id": "fly#github.com_concourse_concourse",
+  "pkg_name": "fly",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/concourse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Concourse is a container-based automation system written in Go.",
+  "homepage": [
+    "https://github.com/concourse/concourse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "baggageclaim",
+    "cli",
+    "concourse",
+    "fly",
+    "fs_mounter",
+    "sample",
+    "scripts",
+    "tsa"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/concourse/archive/4e1aa2bc2ac00e63a2fe5ed4902d468c42131047.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "ci-cd",
+    "concourse",
+    "containerd",
+    "containers",
+    "continuous-delivery",
+    "continuous-integration",
+    "elm",
+    "go",
+    "pipelines",
+    "runc"
+  ],
+  "version": "HEAD-4e1aa2b-250620T122546",
+  "version_upstream": "",
+  "bsum": "5987fa4bc409cd3b7fa59230408343e51b6b45528467b6d2f5360fe337cdf5c4",
+  "build_date": "2025-06-21T07:48:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793167060",
+  "build_id": "15793167060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/fly?tag=HEAD-4e1aa2b-250620T122546-x86_64-Linux&download=fly.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7583",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/fly?tag=HEAD-4e1aa2b-250620T122546-x86_64-Linux&download=fly",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/concourse/fly:HEAD-4e1aa2b-250620T122546-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/concourse/fly",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/fly?tag=HEAD-4e1aa2b-250620T122546-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bef81de51ba31a82608d0c90345ab7c639c424b156922ff6faddd455aa58965",
+  "size": "73 MB",
+  "size_raw": "76422192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
