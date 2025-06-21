@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mock-dnf-json",
+  "pkg_family": "osbuild-composer",
+  "pkg_id": "mock-dnf-json#github.com_osbuild_osbuild_composer",
+  "pkg_name": "mock-dnf-json",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/osbuild-composer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An HTTP service for building bootable OS images.",
+  "homepage": [
+    "https://github.com/osbuild/osbuild-composer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock-dnf-json",
+    "osbuild-jobsite-builder",
+    "osbuild-jobsite-manager",
+    "osbuild-mock-openid-provider",
+    "osbuild-service-maintenance",
+    "osbuild-upload-aws",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci",
+    "osbuild-upload-pulp-ostree",
+    "osbuild-worker-executor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/osbuild-composer/archive/c4430ffa7a9b24bc74014d6033d71803db6af65c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c4430ff-250620T125517",
+  "version_upstream": "",
+  "bsum": "5b0c50e541591e2b473a13774111708f7074b367f1e41bbc946733d371f36570",
+  "build_date": "2025-06-21T04:37:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791375669",
+  "build_id": "15791375669",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/mock-dnf-json?tag=HEAD-c4430ff-250620T125517-riscv64-Linux&download=mock-dnf-json.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "182",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/mock-dnf-json?tag=HEAD-c4430ff-250620T125517-riscv64-Linux&download=mock-dnf-json",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/mock-dnf-json:HEAD-c4430ff-250620T125517-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/osbuild-composer/mock-dnf-json",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/osbuild-composer/mock-dnf-json?tag=HEAD-c4430ff-250620T125517-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "86459c1345016dcce0188543fc598f9270fdd4dcc3e679b89e4da91edc4ed550",
+  "size": "2.4 MB",
+  "size_raw": "2493976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
