@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "typelinter",
+  "pkg_family": "api",
+  "pkg_id": "typelinter#github.com_openshift_api",
+  "pkg_name": "typelinter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/api",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Canonical location of the OpenShift API definition.",
+  "homepage": [
+    "https://github.com/openshift/api"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "models-schema",
+    "render",
+    "typelinter",
+    "write-available-featuresets"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/api/archive/a8cbc218cd2ce740bad87e5e16d92ef598f19107.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a8cbc21-250620T092249",
+  "version_upstream": "",
+  "bsum": "21bfb830d192e2f147918153b6094a7dd82aa1c97b47212c27f7155ac2bd74df",
+  "build_date": "2025-06-21T03:32:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791233744",
+  "build_id": "15791233744",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/api/typelinter?tag=HEAD-a8cbc21-250620T092249-x86_64-Linux&download=typelinter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "100",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/api/typelinter?tag=HEAD-a8cbc21-250620T092249-x86_64-Linux&download=typelinter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/api/typelinter:HEAD-a8cbc21-250620T092249-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/api/typelinter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/api/typelinter?tag=HEAD-a8cbc21-250620T092249-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c30ba32221ac4e27867b8a7b81334fd8b8b6fa747dd1658dc1dbc4d9c0daac7a",
+  "size": "5.1 MB",
+  "size_raw": "5332320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a8cbc21-250620T092249-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
