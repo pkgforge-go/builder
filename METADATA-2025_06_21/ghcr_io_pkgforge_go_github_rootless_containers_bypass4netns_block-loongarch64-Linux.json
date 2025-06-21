@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "block",
+  "pkg_family": "bypass4netns",
+  "pkg_id": "block#github.com_rootless_containers_bypass4netns",
+  "pkg_name": "block",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rootless-containers/bypass4netns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[Experimental] Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD. As fast as _--net=host_.",
+  "homepage": [
+    "https://github.com/rootless-containers/bypass4netns"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "block",
+    "bypass4netnsd",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rootless-containers/bypass4netns/archive/aa04bd3dcc48c6dae6d7327ba219bda8fe2a4634.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa04bd3-250121T095404",
+  "version_upstream": "v0.4.2",
+  "bsum": "97d6e30ca4c9377e35f15e96240376b437aea360e57715666227f4c0c57f1e8f",
+  "build_date": "2025-06-21T14:24:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15796398284",
+  "build_id": "15796398284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rootless-containers/bypass4netns/block?tag=HEAD-aa04bd3-250121T095404-loongarch64-Linux&download=block.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "157",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rootless-containers/bypass4netns/block?tag=HEAD-aa04bd3-250121T095404-loongarch64-Linux&download=block",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rootless-containers/bypass4netns/block:HEAD-aa04bd3-250121T095404-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rootless-containers/bypass4netns/block",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rootless-containers/bypass4netns/block?tag=HEAD-aa04bd3-250121T095404-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9587fb7d397f9b14fc74a84206f77702acbc8cffa2659fc55d9949ead8f012f",
+  "size": "5.9 MB",
+  "size_raw": "6168992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
