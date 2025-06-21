@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "integration-test",
+  "pkg_family": "dnsx",
+  "pkg_id": "integration-test#github.com_projectdiscovery_dnsx",
+  "pkg_name": "integration-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/dnsx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.",
+  "homepage": [
+    "https://github.com/projectdiscovery/dnsx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnsx",
+    "functional-test",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/dnsx/archive/d4003075936404c5baeab67162c17d10be9a914e.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "dns-bruteforcer",
+    "dns-client",
+    "dns-records",
+    "dns-resolution",
+    "wildcard-filtering"
+  ],
+  "version": "HEAD-d400307-250201T191814",
+  "version_upstream": "",
+  "bsum": "2b58a55b451dc8c0007d4dafb48eaa2e2f0f7d19e1e9541baa044401a7b97d29",
+  "build_date": "2025-06-21T11:38:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15794942993",
+  "build_id": "15794942993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/dnsx/integration-test?tag=HEAD-d400307-250201T191814-x86_64-Linux&download=integration-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2389",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/dnsx/integration-test?tag=HEAD-d400307-250201T191814-x86_64-Linux&download=integration-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/dnsx/integration-test:HEAD-d400307-250201T191814-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/dnsx/integration-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/dnsx/integration-test?tag=HEAD-d400307-250201T191814-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "05c5b63fffe51af17e726a7635449a1ad1737265fdc75012159319dc6b97b53e",
+  "size": "5.8 MB",
+  "size_raw": "6029376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
