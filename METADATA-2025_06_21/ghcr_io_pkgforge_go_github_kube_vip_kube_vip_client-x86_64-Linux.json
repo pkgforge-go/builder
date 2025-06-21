@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "kube-vip",
+  "pkg_id": "client#github.com_kube_vip_kube_vip",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kube-vip/kube-vip",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Control Plane Virtual IP and Load-Balancer",
+  "homepage": [
+    "https://github.com/kube-vip/kube-vip"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "kube-vip",
+    "services"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kube-vip/kube-vip/archive/a5108a69aa1ba39480778be1db3e07b1efe3e2b8.tar.gz"
+  ],
+  "tag": [
+    "bgp",
+    "control-plane",
+    "edge",
+    "egress",
+    "kube-vip",
+    "kubernetes",
+    "kubernetes-cluster",
+    "kubernetes-services",
+    "load-balancer",
+    "raspberry-pi",
+    "service-loadbalancer",
+    "vip"
+  ],
+  "version": "HEAD-a5108a6-250620T175300",
+  "version_upstream": "",
+  "bsum": "52ea9bf20f7270653506fc95b75fc6da8aa1f0af4bd0ee26531efb4ade76605f",
+  "build_date": "2025-06-21T08:56:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793715227",
+  "build_id": "15793715227",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kube-vip/kube-vip/client?tag=HEAD-a5108a6-250620T175300-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2433",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kube-vip/kube-vip/client?tag=HEAD-a5108a6-250620T175300-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kube-vip/kube-vip/client:HEAD-a5108a6-250620T175300-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kube-vip/kube-vip/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kube-vip/kube-vip/client?tag=HEAD-a5108a6-250620T175300-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e625a741008dde2f3edc0989c28f8ca04f6fb306a447cd2b4e4929f5059c6cb",
+  "size": "2.4 MB",
+  "size_raw": "2438008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
