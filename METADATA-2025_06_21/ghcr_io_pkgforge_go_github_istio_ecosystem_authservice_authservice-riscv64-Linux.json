@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "authservice",
+  "pkg_family": "authservice",
+  "pkg_id": "authservice#github.com_istio_ecosystem_authservice",
+  "pkg_name": "authservice",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/istio-ecosystem/authservice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Move OIDC token acquisition out of your app code and into the Istio mesh",
+  "homepage": [
+    "https://github.com/istio-ecosystem/authservice"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authservice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/istio-ecosystem/authservice/archive/586c42be5211f6f4b406122aa985936f108c48a5.tar.gz"
+  ],
+  "tag": [
+    "auth",
+    "authz",
+    "istio",
+    "oidc",
+    "security"
+  ],
+  "version": "HEAD-586c42b-250620T131310",
+  "version_upstream": "",
+  "bsum": "f421dc670d6b60e9f3bccc8dbc132add70ba64f2efffee99684ecc08803189e1",
+  "build_date": "2025-06-21T08:42:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15793659700",
+  "build_id": "15793659700",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio-ecosystem/authservice/authservice?tag=HEAD-586c42b-250620T131310-riscv64-Linux&download=authservice.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "231",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio-ecosystem/authservice/authservice?tag=HEAD-586c42b-250620T131310-riscv64-Linux&download=authservice",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/istio-ecosystem/authservice/authservice:HEAD-586c42b-250620T131310-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/istio-ecosystem/authservice/authservice",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio-ecosystem/authservice/authservice?tag=HEAD-586c42b-250620T131310-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "625a0379654fc5f6b3456ad0a895da53df81e4ded93e388a4a25df837f38981a",
+  "size": "52 MB",
+  "size_raw": "53562520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
