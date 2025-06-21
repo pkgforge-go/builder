@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "connect-agent",
+  "pkg_family": "cluster-connect-gateway",
+  "pkg_id": "connect-agent#github.com_open_edge_platform_cluster_connect_gateway",
+  "pkg_name": "connect-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/cluster-connect-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ensures access to edge clusters.",
+  "homepage": [
+    "https://github.com/open-edge-platform/cluster-connect-gateway"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "connect-agent",
+    "connect-controller",
+    "connect-gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/cluster-connect-gateway/archive/8f8f993e92bace8c2b1ff8e0577ce5e75c2a1bd5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8f8f993-250620T135509",
+  "version_upstream": "",
+  "bsum": "0b21b1c086f402590bfff21a6451947cb5c55af438f4b047ea4569d453b326b1",
+  "build_date": "2025-06-21T02:51:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791053605",
+  "build_id": "15791053605",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-agent?tag=HEAD-8f8f993-250620T135509-aarch64-Linux&download=connect-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-agent?tag=HEAD-8f8f993-250620T135509-aarch64-Linux&download=connect-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-agent:HEAD-8f8f993-250620T135509-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/cluster-connect-gateway/connect-agent?tag=HEAD-8f8f993-250620T135509-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f85c6766d62034aa11e8809aef8472982231769f74ceacdb5b59c9c35714185f",
+  "size": "8.3 MB",
+  "size_raw": "8642784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
