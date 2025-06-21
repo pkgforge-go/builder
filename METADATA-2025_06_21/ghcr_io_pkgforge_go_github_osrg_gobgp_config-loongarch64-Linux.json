@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "config",
+  "pkg_family": "gobgp",
+  "pkg_id": "config#github.com_osrg_gobgp",
+  "pkg_name": "config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osrg/gobgp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BGP implemented in the Go Programming Language",
+  "homepage": [
+    "https://github.com/osrg/gobgp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "gobgp",
+    "gobgpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osrg/gobgp/archive/14029e1614a4cca95e9bf36af32a4a8c23b06eff.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-14029e1-250617T102229",
+  "version_upstream": "",
+  "bsum": "308b3ce89e2bce5f7cc574f3a67198679046b49665b84512fe61facb9311edad",
+  "build_date": "2025-06-21T04:24:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15791392081",
+  "build_id": "15791392081",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/config?tag=HEAD-14029e1-250617T102229-loongarch64-Linux&download=config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3814",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/config?tag=HEAD-14029e1-250617T102229-loongarch64-Linux&download=config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osrg/gobgp/config:HEAD-14029e1-250617T102229-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osrg/gobgp/config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/config?tag=HEAD-14029e1-250617T102229-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a97efeb0366c0f8cf539d9ae0c0387c12c7c0726a57f8b6b863943360e6d77b",
+  "size": "14 MB",
+  "size_raw": "13764000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
