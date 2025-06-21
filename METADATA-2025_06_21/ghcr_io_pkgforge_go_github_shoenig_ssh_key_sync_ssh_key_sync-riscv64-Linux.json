@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ssh-key-sync",
+  "pkg_family": "ssh-key-sync",
+  "pkg_id": "ssh-key-sync#github.com_shoenig_ssh_key_sync",
+  "pkg_name": "ssh-key-sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/shoenig/ssh-key-sync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool for synchronizing your GitHub SSH keys onto servers authorized_keys files",
+  "homepage": [
+    "https://github.com/shoenig/ssh-key-sync"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ssh-key-sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/shoenig/ssh-key-sync/archive/d158af6f146af0a17c85b87a719a9d67c8902830.tar.gz"
+  ],
+  "tag": [
+    "github",
+    "go",
+    "golang",
+    "ssh",
+    "ssh-key",
+    "ssh-key-manager",
+    "sync"
+  ],
+  "version": "HEAD-d158af6-241019T093848",
+  "version_upstream": "v1.7.3",
+  "bsum": "a98d9d9327c48df502d24df105f87d62fde4c083290ef1938168a4d3b51a64bc",
+  "build_date": "2025-06-21T23:17:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800257965",
+  "build_id": "15800257965",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shoenig/ssh-key-sync/ssh-key-sync?tag=HEAD-d158af6-241019T093848-riscv64-Linux&download=ssh-key-sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "56",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shoenig/ssh-key-sync/ssh-key-sync?tag=HEAD-d158af6-241019T093848-riscv64-Linux&download=ssh-key-sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shoenig/ssh-key-sync/ssh-key-sync:HEAD-d158af6-241019T093848-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shoenig/ssh-key-sync/ssh-key-sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shoenig/ssh-key-sync/ssh-key-sync?tag=HEAD-d158af6-241019T093848-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f9e6a1c2cc60e89f1e9b3bdb5e1270a1d6b42499d77b54a46a431be0c13d706",
+  "size": "6.0 MB",
+  "size_raw": "6288984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
