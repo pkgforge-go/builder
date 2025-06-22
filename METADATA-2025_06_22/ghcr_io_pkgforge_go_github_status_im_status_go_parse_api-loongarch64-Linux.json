@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "parse-api",
+  "pkg_family": "status-go",
+  "pkg_id": "parse-api#github.com_status_im_status_go",
+  "pkg_name": "parse-api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/status-im/status-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The _backend_ library for Status Apps",
+  "homepage": [
+    "https://github.com/status-im/status-go"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate_handlers",
+    "library",
+    "lint-panics",
+    "parse-api",
+    "test-coverage-utils"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/status-im/status-go/archive/2a8f142fbe91d7445ff75859431a3c656dde564e.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptocurrency",
+    "ethereum",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-2a8f142-250620T100452",
+  "version_upstream": "",
+  "bsum": "66a711e2d3946264366ccc0a1df15ae9b0104539f6590fbc41411bc5838c0b6a",
+  "build_date": "2025-06-22T16:50:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808453273",
+  "build_id": "15808453273",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/status-im/status-go/parse-api?tag=HEAD-2a8f142-250620T100452-loongarch64-Linux&download=parse-api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "744",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/status-im/status-go/parse-api?tag=HEAD-2a8f142-250620T100452-loongarch64-Linux&download=parse-api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/status-im/status-go/parse-api:HEAD-2a8f142-250620T100452-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/status-im/status-go/parse-api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/status-im/status-go/parse-api?tag=HEAD-2a8f142-250620T100452-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db8d1211ce175aba380c83705724d74345b3a7af95eacfbf3bb21714fb1bbe0f",
+  "size": "3.1 MB",
+  "size_raw": "3204984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
