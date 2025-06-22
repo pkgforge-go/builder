@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pgsql-mcp-server",
+  "pkg_family": "pgsql-mcp-server",
+  "pkg_id": "pgsql-mcp-server#github.com_leixiaotian1_pgsql_mcp_server",
+  "pkg_name": "pgsql-mcp-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/leixiaotian1/pgsql-mcp-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一款用golang实现的操作pg数据库的mcp server，支持创建表、查询表、插入数据，查看数据，分析sql语句等功能，欢迎共建！！！",
+  "homepage": [
+    "https://github.com/leixiaotian1/pgsql-mcp-server"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgsql-mcp-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/leixiaotian1/pgsql-mcp-server/archive/3bc82a6f23e3dc7747f3c9f6ba5a754a619ef44b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3bc82a6-250622T111623",
+  "version_upstream": "",
+  "bsum": "148bf4fcd47b35eea4b01d560ea6fe5663be285584f768ffe611b0fed38ee43b",
+  "build_date": "2025-06-22T14:04:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806996976",
+  "build_id": "15806996976",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leixiaotian1/pgsql-mcp-server/pgsql-mcp-server?tag=HEAD-3bc82a6-250622T111623-aarch64-Linux&download=pgsql-mcp-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leixiaotian1/pgsql-mcp-server/pgsql-mcp-server?tag=HEAD-3bc82a6-250622T111623-aarch64-Linux&download=pgsql-mcp-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leixiaotian1/pgsql-mcp-server/pgsql-mcp-server:HEAD-3bc82a6-250622T111623-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leixiaotian1/pgsql-mcp-server/pgsql-mcp-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leixiaotian1/pgsql-mcp-server/pgsql-mcp-server?tag=HEAD-3bc82a6-250622T111623-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f12eefc495bf9ff0c5303168f84da482b38f6e7f93678aad5ef6777ddbc9a2e",
+  "size": "6.1 MB",
+  "size_raw": "6373760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
