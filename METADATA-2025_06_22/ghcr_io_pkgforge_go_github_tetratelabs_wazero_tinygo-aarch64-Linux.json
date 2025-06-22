@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tinygo",
+  "pkg_family": "wazero",
+  "pkg_id": "tinygo#github.com_tetratelabs_wazero",
+  "pkg_name": "tinygo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tetratelabs/wazero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "wazero: the zero dependency WebAssembly runtime for Go developers",
+  "homepage": [
+    "https://github.com/tetratelabs/wazero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "concurrent-instantiation",
+    "example",
+    "import-go",
+    "multiple-results",
+    "multiple-runtimes",
+    "rust",
+    "tinygo",
+    "wazero",
+    "zig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tetratelabs/wazero/archive/0dea5d7ee1de12d2817d6ac8548a4d36aaf59aea.tar.gz"
+  ],
+  "tag": [
+    "ahead-of-time",
+    "compiler",
+    "go",
+    "golang",
+    "runtime",
+    "vm",
+    "wasi",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-0dea5d7-250414T073203",
+  "version_upstream": "",
+  "bsum": "6597a457cebb9a51a88f1488927e137ed1a6a51749d93e2c016cbfb44b0e3aba",
+  "build_date": "2025-06-22T17:30:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808665635",
+  "build_id": "15808665635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/tinygo?tag=HEAD-0dea5d7-250414T073203-aarch64-Linux&download=tinygo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/tinygo?tag=HEAD-0dea5d7-250414T073203-aarch64-Linux&download=tinygo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tetratelabs/wazero/tinygo:HEAD-0dea5d7-250414T073203-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tetratelabs/wazero/tinygo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/tinygo?tag=HEAD-0dea5d7-250414T073203-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b8635b9fd044863036f82661dc4b3cd08bbbc0fa23b42ae3261f015f8b2540d3",
+  "size": "5.5 MB",
+  "size_raw": "5749984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
