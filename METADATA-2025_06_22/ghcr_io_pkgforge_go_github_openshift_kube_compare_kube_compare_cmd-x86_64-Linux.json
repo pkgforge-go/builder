@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kube-compare-cmd",
+  "pkg_family": "kube-compare",
+  "pkg_id": "kube-compare-cmd#github.com_openshift_kube_compare",
+  "pkg_name": "kube-compare-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/kube-compare",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubectl plugin to allow to compare a known valid reference configuration and a set of specific cluster configuration CRs.",
+  "homepage": [
+    "https://github.com/openshift/kube-compare"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helm-convert",
+    "kube-compare-cmd",
+    "report-creator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/kube-compare/archive/5c2f6a34af47d62ee9ccccd12164d80d47156ce7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5c2f6a3-250621T190329",
+  "version_upstream": "",
+  "bsum": "3aa0b4b3fb7f9b27f095d5eb024c94012e5835389714dfe59ff34257a5149257",
+  "build_date": "2025-06-22T14:20:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807199577",
+  "build_id": "15807199577",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/kube-compare/kube-compare-cmd?tag=HEAD-5c2f6a3-250621T190329-x86_64-Linux&download=kube-compare-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/kube-compare/kube-compare-cmd?tag=HEAD-5c2f6a3-250621T190329-x86_64-Linux&download=kube-compare-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/kube-compare/kube-compare-cmd:HEAD-5c2f6a3-250621T190329-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/kube-compare/kube-compare-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/kube-compare/kube-compare-cmd?tag=HEAD-5c2f6a3-250621T190329-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0d0157545a8fe6e5edda7efd998980dd7f4df9530f7d6e290f48bee359c3fd7",
+  "size": "71 MB",
+  "size_raw": "74070992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
