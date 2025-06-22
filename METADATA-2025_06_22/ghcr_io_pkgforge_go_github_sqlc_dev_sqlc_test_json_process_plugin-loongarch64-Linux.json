@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test-json-process-plugin",
+  "pkg_family": "sqlc",
+  "pkg_id": "test-json-process-plugin#github.com_sqlc_dev_sqlc",
+  "pkg_name": "test-json-process-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sqlc-dev/sqlc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate type-safe code from SQL",
+  "homepage": [
+    "https://github.com/sqlc-dev/sqlc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "bump-version",
+    "cleanup-test-dbs",
+    "mirror-go-plugin",
+    "scripts",
+    "sqlc",
+    "sqlc-gen-json",
+    "sqlc-pg-gen",
+    "test-json-process-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sqlc-dev/sqlc/archive/3da0b82d6c723c0e54e70f2d6ca9bca999e6b734.tar.gz"
+  ],
+  "tag": [
+    "code-generator",
+    "go",
+    "kotlin",
+    "mysql",
+    "orm",
+    "postgresql",
+    "python",
+    "sql",
+    "sqlite"
+  ],
+  "version": "HEAD-3da0b82-250612T225143",
+  "version_upstream": "",
+  "bsum": "84cc2f4d3aff40e58df0989175e6b2f61827dbaf5f81b6dbd687d7f687b16cbb",
+  "build_date": "2025-06-22T14:45:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807318971",
+  "build_id": "15807318971",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sqlc-dev/sqlc/test-json-process-plugin?tag=HEAD-3da0b82-250612T225143-loongarch64-Linux&download=test-json-process-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15347",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sqlc-dev/sqlc/test-json-process-plugin?tag=HEAD-3da0b82-250612T225143-loongarch64-Linux&download=test-json-process-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sqlc-dev/sqlc/test-json-process-plugin:HEAD-3da0b82-250612T225143-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sqlc-dev/sqlc/test-json-process-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sqlc-dev/sqlc/test-json-process-plugin?tag=HEAD-3da0b82-250612T225143-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d66091ef3afe0075c49275191690427b587d7ec406133db81656b3334a363fc",
+  "size": "2.0 MB",
+  "size_raw": "2024536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3da0b82-250612T225143-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
