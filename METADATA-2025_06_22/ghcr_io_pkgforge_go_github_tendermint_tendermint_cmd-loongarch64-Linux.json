@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "tendermint",
+  "pkg_id": "cmd#github.com_tendermint_tendermint",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tendermint/tendermint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⟁ Tendermint Core _BFT Consensus_ in Go",
+  "homepage": [
+    "https://github.com/tendermint/tendermint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abci-cli",
+    "app",
+    "cmd",
+    "contract_tests",
+    "generator",
+    "init-corpus",
+    "json2wal",
+    "load",
+    "maverick",
+    "node",
+    "parallel",
+    "priv_val_server",
+    "report",
+    "runner",
+    "simple",
+    "tendermint",
+    "test",
+    "test_app",
+    "tm-signer-harness",
+    "wal2json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tendermint/tendermint/archive/9d1be86031365f6f56668d2f5f0e7312eb8fef62.tar.gz"
+  ],
+  "tag": [
+    "bft",
+    "blockchain",
+    "consensus",
+    "consistency",
+    "cryptocurrency",
+    "cryptography",
+    "db",
+    "distributed-systems",
+    "go"
+  ],
+  "version": "HEAD-9d1be86-250306T124312",
+  "version_upstream": "",
+  "bsum": "6908a7b03fce9a742143d2ec10254331b51456ef76156f959432add414584f14",
+  "build_date": "2025-06-22T17:28:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808643476",
+  "build_id": "15808643476",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tendermint/tendermint/cmd?tag=HEAD-9d1be86-250306T124312-loongarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5808",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tendermint/tendermint/cmd?tag=HEAD-9d1be86-250306T124312-loongarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tendermint/tendermint/cmd:HEAD-9d1be86-250306T124312-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tendermint/tendermint/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tendermint/tendermint/cmd?tag=HEAD-9d1be86-250306T124312-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c1cd048c206ebcb69ac0408c4dab707fd5961c948d08198fdf33a41a792f53d",
+  "size": "2.4 MB",
+  "size_raw": "2489760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
