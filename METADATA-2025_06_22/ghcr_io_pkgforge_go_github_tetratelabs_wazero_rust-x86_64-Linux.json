@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rust",
+  "pkg_family": "wazero",
+  "pkg_id": "rust#github.com_tetratelabs_wazero",
+  "pkg_name": "rust",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tetratelabs/wazero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "wazero: the zero dependency WebAssembly runtime for Go developers",
+  "homepage": [
+    "https://github.com/tetratelabs/wazero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "concurrent-instantiation",
+    "example",
+    "import-go",
+    "multiple-results",
+    "multiple-runtimes",
+    "rust",
+    "tinygo",
+    "wazero",
+    "zig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tetratelabs/wazero/archive/0dea5d7ee1de12d2817d6ac8548a4d36aaf59aea.tar.gz"
+  ],
+  "tag": [
+    "ahead-of-time",
+    "compiler",
+    "go",
+    "golang",
+    "runtime",
+    "vm",
+    "wasi",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-0dea5d7-250414T073203",
+  "version_upstream": "",
+  "bsum": "6c1036220c011d1650f9fb3e8f68aebc839abf926df9d027253a5ed01ae05ade",
+  "build_date": "2025-06-22T17:30:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808665635",
+  "build_id": "15808665635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/rust?tag=HEAD-0dea5d7-250414T073203-x86_64-Linux&download=rust.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/rust?tag=HEAD-0dea5d7-250414T073203-x86_64-Linux&download=rust",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tetratelabs/wazero/rust:HEAD-0dea5d7-250414T073203-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tetratelabs/wazero/rust",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/rust?tag=HEAD-0dea5d7-250414T073203-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6343049b88cc3c41770665d3d7c150a0fd64ea459fc72ad4e82948e56f8a6020",
+  "size": "5.1 MB",
+  "size_raw": "5284864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
