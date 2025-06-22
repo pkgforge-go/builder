@@ -18,7 +18,7 @@ pushd "${TMPDIR}" &>/dev/null
 #Get Repo Tags
  META_REPO_URL="https://github.com/pkgforge-go/builder.git"
  META_BRANCH="metadata"
- CUTOFF_DATE="$(date --utc -d '7 days ago' '+%Y-%m-%d' | tr -d '[:space:]')" ; unset META_TAGS
+ CUTOFF_DATE="$(date --utc -d '30 days ago' '+%Y-%m-%d' | tr -d '[:space:]')" ; unset META_TAGS
  export META_REPO_URL META_BRANCH CUTOFF_DATE
  #Clone
   cd "${TMPDIR}/repo" &&\

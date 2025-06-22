@@ -61,7 +61,17 @@ jobs:
           HOST_TRIPLETS=("aarch64-Linux" "loongarch64-Linux" "riscv64-Linux" "x86_64-Linux")
           for HOST_TRIPLET in "${HOST_TRIPLETS[@]}"; do
             if [[ -s "${SYSTMP}/${HOST_TRIPLET}.json" && $(stat -c%s "${SYSTMP}/${HOST_TRIPLET}.json") -gt 1024 ]]; then
-              cp -fv "${SYSTMP}/${HOST_TRIPLET}.json" "${O_D}/${HOST_TRIPLET}.json"
+              jq -s \
+                 '
+                  (.[1] // []) as $old |
+                  (.[0] // []) as $new |
+                  ($old | map({(.pkg_id): .}) | add) as $old_by_pkg_id |
+                  ($new | map({(.pkg_id): .}) | add) as $new_by_pkg_id |
+                  ($old_by_pkg_id + $new_by_pkg_id) | to_entries | map(.value) | unique_by(.pkg_id) | sort_by(.pkg_id)
+                 ' "${SYSTMP}/${HOST_TRIPLET}.json" "${O_D}/${HOST_TRIPLET}.json" | jq . > "${SYSTMP}/${HOST_TRIPLET}_merged.json"
+              if [[ "$(jq -r '.[] | .pkg_id' "${SYSTMP}/${HOST_TRIPLET}_merged.json" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 1000 ]]; then
+                cp -fv "${SYSTMP}/${HOST_TRIPLET}_merged.json" "${O_D}/${HOST_TRIPLET}.json"
+              fi
             fi
           done
           ##Create/Update
