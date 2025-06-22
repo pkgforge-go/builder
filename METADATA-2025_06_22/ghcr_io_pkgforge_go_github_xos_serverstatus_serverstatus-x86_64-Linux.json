@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "serverstatus",
+  "pkg_family": "ServerStatus",
+  "pkg_id": "serverstatus#github.com_xOS_ServerStatus",
+  "pkg_name": "serverstatus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xOS/ServerStatus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "服务器探针",
+  "homepage": [
+    "https://github.com/xOS/ServerStatus"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "serverstatus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xOS/ServerStatus/archive/057fefeac825657e3f043d0f16289b7a36074ed4.tar.gz"
+  ],
+  "tag": [
+    "probe",
+    "server",
+    "uptime"
+  ],
+  "version": "HEAD-057fefe-250621T234211",
+  "version_upstream": "v1.2.9",
+  "bsum": "801efb63456302fd0c52d0e43c701bac6d9f95e2f435dae014b83b87c2493656",
+  "build_date": "2025-06-22T20:47:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810470433",
+  "build_id": "15810470433",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xos/serverstatus/serverstatus?tag=HEAD-057fefe-250621T234211-x86_64-Linux&download=serverstatus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "69",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xos/serverstatus/serverstatus?tag=HEAD-057fefe-250621T234211-x86_64-Linux&download=serverstatus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xos/serverstatus/serverstatus:HEAD-057fefe-250621T234211-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xos/serverstatus/serverstatus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xos/serverstatus/serverstatus?tag=HEAD-057fefe-250621T234211-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba339cff476bf4e7e3699dd768341ef8427bd3e174b52670bb1c9394743a1ca8",
+  "size": "30 MB",
+  "size_raw": "30607968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
