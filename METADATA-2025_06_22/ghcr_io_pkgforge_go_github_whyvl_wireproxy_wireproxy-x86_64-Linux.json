@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wireproxy",
+  "pkg_family": "wireproxy",
+  "pkg_id": "wireproxy#github.com_whyvl_wireproxy",
+  "pkg_name": "wireproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/whyvl/wireproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Wireguard client that exposes itself as a socks5 proxy",
+  "homepage": [
+    "https://github.com/whyvl/wireproxy"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "wireproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/whyvl/wireproxy/archive/9dad356beeb3abad48434d5ec9272ad17af5b957.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "network",
+    "proxy",
+    "socks5",
+    "socks5-proxy",
+    "vpn",
+    "wireguard",
+    "wireguard-tunnel"
+  ],
+  "version": "HEAD-9dad356-250219T172117",
+  "version_upstream": "v1.0.10",
+  "bsum": "e122ac510ead30191a09b9140a415572611b2731fbcda6e52f392980e5f525b9",
+  "build_date": "2025-06-22T20:29:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810178983",
+  "build_id": "15810178983",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whyvl/wireproxy/wireproxy?tag=HEAD-9dad356-250219T172117-x86_64-Linux&download=wireproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5001",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whyvl/wireproxy/wireproxy?tag=HEAD-9dad356-250219T172117-x86_64-Linux&download=wireproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/whyvl/wireproxy/wireproxy:HEAD-9dad356-250219T172117-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/whyvl/wireproxy/wireproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whyvl/wireproxy/wireproxy?tag=HEAD-9dad356-250219T172117-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5bfbb6a92592cba53fd6b80515594dc64c59351baadcc264b7988189c8ddf1e",
+  "size": "11 MB",
+  "size_raw": "10563200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
