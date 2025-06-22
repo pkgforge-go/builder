@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "metrics_exporter",
+  "pkg_family": "clickhouse-operator",
+  "pkg_id": "metrics_exporter#github.com_Altinity_clickhouse_operator",
+  "pkg_name": "metrics_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Altinity/clickhouse-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes",
+  "homepage": [
+    "https://github.com/Altinity/clickhouse-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "metrics_exporter",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Altinity/clickhouse-operator/archive/a0ac641e788a2d3d5269aaade8b155435082d88d.tar.gz"
+  ],
+  "tag": [
+    "clickhouse",
+    "clickhouse-operator",
+    "kubernetes",
+    "kubernetes-operator"
+  ],
+  "version": "HEAD-a0ac641-250526T113019",
+  "version_upstream": "",
+  "bsum": "2d3bbd054f2d3b4008ecedf802d670c4c5ca46a42947d30a2b8ca981aed200d9",
+  "build_date": "2025-06-22T15:42:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808210580",
+  "build_id": "15808210580",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter?tag=HEAD-a0ac641-250526T113019-loongarch64-Linux&download=metrics_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2129",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter?tag=HEAD-a0ac641-250526T113019-loongarch64-Linux&download=metrics_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter:HEAD-a0ac641-250526T113019-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter?tag=HEAD-a0ac641-250526T113019-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77d55dd3a4063b8d84a94ab7d31a5e53774a363ef5c0f777396b4d6ba54678d7",
+  "size": "42 MB",
+  "size_raw": "43287552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
