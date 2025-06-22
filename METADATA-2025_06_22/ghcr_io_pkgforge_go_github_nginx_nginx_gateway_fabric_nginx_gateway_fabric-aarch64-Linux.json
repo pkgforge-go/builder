@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nginx-gateway-fabric",
+  "pkg_family": "nginx-gateway-fabric",
+  "pkg_id": "nginx-gateway-fabric#github.com_nginx_nginx_gateway_fabric",
+  "pkg_name": "nginx-gateway-fabric",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nginx/nginx-gateway-fabric",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.",
+  "homepage": [
+    "https://github.com/nginx/nginx-gateway-fabric"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nginx-gateway-fabric"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nginx/nginx-gateway-fabric/archive/f8f5fb71d14114688d32195a08869870f994777f.tar.gz"
+  ],
+  "tag": [
+    "gateway-api",
+    "k8s",
+    "kubernetes",
+    "nginx"
+  ],
+  "version": "HEAD-f8f5fb7-250619T110951",
+  "version_upstream": "",
+  "bsum": "e0bddba66821f24fe0e248882361f84b11a666eeaa38e1d436863a03192b3fc0",
+  "build_date": "2025-06-22T16:31:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808291239",
+  "build_id": "15808291239",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nginx/nginx-gateway-fabric/nginx-gateway-fabric?tag=HEAD-f8f5fb7-250619T110951-aarch64-Linux&download=nginx-gateway-fabric.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "629",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nginx/nginx-gateway-fabric/nginx-gateway-fabric?tag=HEAD-f8f5fb7-250619T110951-aarch64-Linux&download=nginx-gateway-fabric",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nginx/nginx-gateway-fabric/nginx-gateway-fabric:HEAD-f8f5fb7-250619T110951-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nginx/nginx-gateway-fabric/nginx-gateway-fabric",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nginx/nginx-gateway-fabric/nginx-gateway-fabric?tag=HEAD-f8f5fb7-250619T110951-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f0cc8e9d37d42299dc7614db7f65fb7fdb441796e4337187b6bc160764a1e7c",
+  "size": "50 MB",
+  "size_raw": "52355136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
