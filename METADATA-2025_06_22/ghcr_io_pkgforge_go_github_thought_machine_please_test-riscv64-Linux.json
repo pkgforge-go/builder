@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "please",
+  "pkg_id": "test#github.com_thought_machine_please",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thought-machine/please",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance extensible build system for reproducible multi-language builds.",
+  "homepage": [
+    "https://github.com/thought-machine/please"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "build_langserver",
+    "codelabs",
+    "config_templater",
+    "grammar_templater",
+    "http_cache",
+    "lexicon_templater",
+    "main",
+    "please-src",
+    "please_shim",
+    "plugin_config_tool",
+    "plugin_templater",
+    "release_signer",
+    "templater",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/thought-machine/please/archive/e9b4f3aa10095ae08642918e13daae374cf772d0.tar.gz"
+  ],
+  "tag": [
+    "bazel",
+    "buck",
+    "build",
+    "build-system",
+    "build-tool",
+    "monorepo",
+    "multi-language",
+    "pants",
+    "please-build"
+  ],
+  "version": "HEAD-e9b4f3a-250611T120204",
+  "version_upstream": "",
+  "bsum": "954c339be5c23d3a0842190a8ce7c1bdd46ae468a98d9753e0151a23f5ecc058",
+  "build_date": "2025-06-22T17:47:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808730245",
+  "build_id": "15808730245",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/test?tag=HEAD-e9b4f3a-250611T120204-riscv64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2518",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/test?tag=HEAD-e9b4f3a-250611T120204-riscv64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thought-machine/please/test:HEAD-e9b4f3a-250611T120204-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thought-machine/please/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/test?tag=HEAD-e9b4f3a-250611T120204-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21eddd8c39b3b754605c0a9c44ef20e24f4130376cb494b97224f2be0a1225ef",
+  "size": "1.3 MB",
+  "size_raw": "1338032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
