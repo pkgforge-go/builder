@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sojudb",
+  "pkg_family": "soju",
+  "pkg_id": "sojudb#github.com_emersion_soju",
+  "pkg_name": "sojudb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/emersion/soju",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IRC bouncer _mirror_",
+  "homepage": [
+    "https://github.com/emersion/soju"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "migrate-db",
+    "migrate-logs",
+    "soju",
+    "sojuctl",
+    "sojudb",
+    "znc-import"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/emersion/soju/archive/4e42ca85e0714f48b6996aa632135fdf3dad1e25.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4e42ca8-250622T143633",
+  "version_upstream": "",
+  "bsum": "c03b683a9e9cbfcbcc7ad106e14b30529d3689276764b9f504a2870ccd969543",
+  "build_date": "2025-06-22T16:07:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808245280",
+  "build_id": "15808245280",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/sojudb?tag=HEAD-4e42ca8-250622T143633-loongarch64-Linux&download=sojudb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/sojudb?tag=HEAD-4e42ca8-250622T143633-loongarch64-Linux&download=sojudb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/emersion/soju/sojudb:HEAD-4e42ca8-250622T143633-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/emersion/soju/sojudb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/sojudb?tag=HEAD-4e42ca8-250622T143633-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "531c5db7cc8587228104bc5c348dc32920073fd3b4bd1092d088bbfa65f01bc1",
+  "size": "11 MB",
+  "size_raw": "10495208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
