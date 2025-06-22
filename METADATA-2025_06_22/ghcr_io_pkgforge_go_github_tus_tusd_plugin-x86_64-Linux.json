@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "plugin",
+  "pkg_family": "tusd",
+  "pkg_id": "plugin#github.com_tus_tusd",
+  "pkg_name": "plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tus/tusd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference server implementation in Go of tus: the open protocol for resumable file uploads",
+  "homepage": [
+    "https://github.com/tus/tusd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "plugin",
+    "server",
+    "tusd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tus/tusd/archive/13d9e0a98e48f46c60da5e6743911aebe8493a10.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-13d9e0a-250610T091552",
+  "version_upstream": "",
+  "bsum": "73e548b8d0f0811882485753f5be475a0b9968b4939b014761c16dd0bf425e9b",
+  "build_date": "2025-06-22T19:00:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809721050",
+  "build_id": "15809721050",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tus/tusd/plugin?tag=HEAD-13d9e0a-250610T091552-x86_64-Linux&download=plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3326",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tus/tusd/plugin?tag=HEAD-13d9e0a-250610T091552-x86_64-Linux&download=plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tus/tusd/plugin:HEAD-13d9e0a-250610T091552-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tus/tusd/plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tus/tusd/plugin?tag=HEAD-13d9e0a-250610T091552-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7132dc0f3bceff6679c2aa16e2adac373fa6ebafe7e264406d2c47f551fa37f",
+  "size": "14 MB",
+  "size_raw": "14359936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
