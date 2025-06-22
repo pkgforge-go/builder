@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "polynode",
+  "pkg_family": "PolyNode",
+  "pkg_id": "polynode#github.com_sionpixley_PolyNode",
+  "pkg_name": "polynode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sionpixley/PolyNode",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PolyNode is a Node.js version manager that does not require sudo/admin privileges and is installed on a per-user basis. Works on AIX, Linux, macOS, and Windows.",
+  "homepage": [
+    "https://github.com/sionpixley/PolyNode"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "polynode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sionpixley/PolyNode/archive/2787eed8de880973afc94f4dbf91b77c8c4df305.tar.gz"
+  ],
+  "tag": [
+    "aix",
+    "cli",
+    "cli-tool",
+    "cross-platform",
+    "environment-setup",
+    "go",
+    "golang",
+    "linux",
+    "macos",
+    "nodejs",
+    "nodejs-tools",
+    "shell",
+    "terminal",
+    "version-manager",
+    "version-switcher",
+    "windows"
+  ],
+  "version": "HEAD-2787eed-250622T002654",
+  "version_upstream": "",
+  "bsum": "ef831603069a0e35668177b62df8f4f6c8b0b6c75a1fd9e5c583d7d0c020a19c",
+  "build_date": "2025-06-22T16:44:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808358486",
+  "build_id": "15808358486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sionpixley/polynode/polynode?tag=HEAD-2787eed-250622T002654-riscv64-Linux&download=polynode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sionpixley/polynode/polynode?tag=HEAD-2787eed-250622T002654-riscv64-Linux&download=polynode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sionpixley/polynode/polynode:HEAD-2787eed-250622T002654-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sionpixley/polynode/polynode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sionpixley/polynode/polynode?tag=HEAD-2787eed-250622T002654-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1759e845250a552968453df79b47167bce2318e6b0ee012431e335dfb959c50a",
+  "size": "6.0 MB",
+  "size_raw": "6259864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
