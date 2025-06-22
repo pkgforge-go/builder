@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "martini",
+  "pkg_family": "permissions",
+  "pkg_id": "martini#github.com_xyproto_permissions",
+  "pkg_name": "martini",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xyproto/permissions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":closed_lock_with_key: Middleware for keeping track of users, login states and permissions",
+  "homepage": [
+    "https://github.com/xyproto/permissions"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chi",
+    "email",
+    "getdb",
+    "goji",
+    "http",
+    "martini",
+    "negroni"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xyproto/permissions/archive/eda0159156388e02480b416203a0c32322d33ea1.tar.gz"
+  ],
+  "tag": [
+    "bcrypt",
+    "middleware",
+    "permissions",
+    "redis",
+    "sessions",
+    "user-auth"
+  ],
+  "version": "HEAD-eda0159-241201T171355",
+  "version_upstream": "",
+  "bsum": "ca0ee6b4a2c0a225132c3b9b64e36df2ce10ce7f460b65ecc7a18ca5993b4ac0",
+  "build_date": "2025-06-22T21:48:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811037545",
+  "build_id": "15811037545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/martini?tag=HEAD-eda0159-241201T171355-x86_64-Linux&download=martini.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/martini?tag=HEAD-eda0159-241201T171355-x86_64-Linux&download=martini",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xyproto/permissions/martini:HEAD-eda0159-241201T171355-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xyproto/permissions/martini",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/martini?tag=HEAD-eda0159-241201T171355-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "43c155e2d3e11f3a80ae76853ba3a9b71261bc0c8279eb1cb8dcc0da788a288d",
+  "size": "6.5 MB",
+  "size_raw": "6723264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
