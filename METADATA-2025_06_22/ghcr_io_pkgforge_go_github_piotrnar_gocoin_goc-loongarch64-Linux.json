@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "goc",
+  "pkg_family": "gocoin",
+  "pkg_id": "goc#github.com_piotrnar_gocoin",
+  "pkg_name": "goc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piotrnar/gocoin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full bitcoin solution written in Go _golang_",
+  "homepage": [
+    "https://github.com/piotrnar/gocoin"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balio",
+    "base58",
+    "bdb",
+    "bip39wal",
+    "blockinfo",
+    "bootdat_qt",
+    "btcversig",
+    "fetchblock",
+    "fetchtx",
+    "getfees",
+    "goc",
+    "hdwal",
+    "importblocks",
+    "mkmulti",
+    "tap2old",
+    "trumpic",
+    "txaddsig",
+    "txmod",
+    "txoutset",
+    "type2determ",
+    "type2next",
+    "unspent4_to_utxo",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/piotrnar/gocoin/archive/44bc9d201ade25f39ef3d1671da6322ffb1b2041.tar.gz"
+  ],
+  "tag": [
+    "bitcoin",
+    "gocoin",
+    "golang",
+    "node",
+    "wallet"
+  ],
+  "version": "HEAD-44bc9d2-250622T104408",
+  "version_upstream": "",
+  "bsum": "0f8ada08c38f0d1d907ec2257bdc9969c6481cc45b8d57f273f3dedba96d1bb6",
+  "build_date": "2025-06-22T16:37:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808316775",
+  "build_id": "15808316775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/goc?tag=HEAD-44bc9d2-250622T104408-loongarch64-Linux&download=goc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "992",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/goc?tag=HEAD-44bc9d2-250622T104408-loongarch64-Linux&download=goc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piotrnar/gocoin/goc:HEAD-44bc9d2-250622T104408-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piotrnar/gocoin/goc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/goc?tag=HEAD-44bc9d2-250622T104408-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fcd30cff3f1e9187133cb2faa4649e11bf96cff0e2d78bc12b577f0cb4ed0cb",
+  "size": "6.1 MB",
+  "size_raw": "6303872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
