@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "osx-data",
+  "pkg_family": "bitmask-vpn",
+  "pkg_id": "osx-data#github.com_leapcode_bitmask_vpn",
+  "pkg_name": "osx-data",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/leapcode/bitmask-vpn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A white-label, brandable VPN Desktop Application by LEAP",
+  "homepage": [
+    "https://github.com/leapcode/bitmask-vpn"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitmask-helper",
+    "motd-cli",
+    "osx-data",
+    "vercheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/leapcode/bitmask-vpn/archive/7da33f442edda968566f0cf50c294b54960bf97d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7da33f4-250621T171503",
+  "version_upstream": "",
+  "bsum": "c94721ef29f278c8db400a8367d0f44d31c65a7734a39654269b44a90f9c6699",
+  "build_date": "2025-06-22T14:04:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806996812",
+  "build_id": "15806996812",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/osx-data?tag=HEAD-7da33f4-250621T171503-loongarch64-Linux&download=osx-data.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/osx-data?tag=HEAD-7da33f4-250621T171503-loongarch64-Linux&download=osx-data",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leapcode/bitmask-vpn/osx-data:HEAD-7da33f4-250621T171503-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leapcode/bitmask-vpn/osx-data",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/osx-data?tag=HEAD-7da33f4-250621T171503-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3adf6f14c7dfff562dd9a87aab5097d88d6f2058b17998a0275f3e8439c8e11c",
+  "size": "3.1 MB",
+  "size_raw": "3147384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
