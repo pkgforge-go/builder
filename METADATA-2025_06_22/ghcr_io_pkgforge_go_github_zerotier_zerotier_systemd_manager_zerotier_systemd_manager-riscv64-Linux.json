@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "zerotier-systemd-manager",
+  "pkg_family": "zerotier-systemd-manager",
+  "pkg_id": "zerotier-systemd-manager#github.com_zerotier_zerotier_systemd_manager",
+  "pkg_name": "zerotier-systemd-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zerotier/zerotier-systemd-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manages systemd per-interface DNS resolution for zeronsd",
+  "homepage": [
+    "https://github.com/zerotier/zerotier-systemd-manager"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zerotier-systemd-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zerotier/zerotier-systemd-manager/archive/4e309818eb949ba95890cc5f9a31d5653901d111.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "zeronsd",
+    "zerotier"
+  ],
+  "version": "HEAD-4e30981-241009T104812",
+  "version_upstream": "",
+  "bsum": "b8ffc685c40af1a0b00980592d0673e281740817a678c342ca206413d14b46f8",
+  "build_date": "2025-06-22T22:11:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811070517",
+  "build_id": "15811070517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zerotier/zerotier-systemd-manager/zerotier-systemd-manager?tag=HEAD-4e30981-241009T104812-riscv64-Linux&download=zerotier-systemd-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zerotier/zerotier-systemd-manager/zerotier-systemd-manager?tag=HEAD-4e30981-241009T104812-riscv64-Linux&download=zerotier-systemd-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zerotier/zerotier-systemd-manager/zerotier-systemd-manager:HEAD-4e30981-241009T104812-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zerotier/zerotier-systemd-manager/zerotier-systemd-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zerotier/zerotier-systemd-manager/zerotier-systemd-manager?tag=HEAD-4e30981-241009T104812-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9cc69991785fd99ff595e585e5edd9444430ae470e5d285f32122f185e757136",
+  "size": "8.0 MB",
+  "size_raw": "8302392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
