@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "magnet2torrent",
+  "pkg_id": "client#github.com_webtor_io_magnet2torrent",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/webtor-io/magnet2torrent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Magnet-uri to torrent converter as GRPC-service",
+  "homepage": [
+    "https://github.com/webtor-io/magnet2torrent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/webtor-io/magnet2torrent/archive/e9d6ab19d74841f1fea82329cef83ecfb1c923c4.tar.gz"
+  ],
+  "tag": [
+    "grpc",
+    "magnet",
+    "magnet-link",
+    "torrent"
+  ],
+  "version": "HEAD-e9d6ab1-250321T193804",
+  "version_upstream": "v1.0.0",
+  "bsum": "7295b94801014e06c035e405a185c1dceee97d7d7adc2d806d9c4d4706447111",
+  "build_date": "2025-06-22T20:19:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810149617",
+  "build_id": "15810149617",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/magnet2torrent/client?tag=HEAD-e9d6ab1-250321T193804-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/magnet2torrent/client?tag=HEAD-e9d6ab1-250321T193804-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/webtor-io/magnet2torrent/client:HEAD-e9d6ab1-250321T193804-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/webtor-io/magnet2torrent/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/magnet2torrent/client?tag=HEAD-e9d6ab1-250321T193804-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e949a8285801435b044e058fd6f3735c3dd416d2365f2d180974424a60f7c050",
+  "size": "12 MB",
+  "size_raw": "11935520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
