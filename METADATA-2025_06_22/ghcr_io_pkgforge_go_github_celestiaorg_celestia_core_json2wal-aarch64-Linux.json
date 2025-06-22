@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "json2wal",
+  "pkg_family": "celestia-core",
+  "pkg_id": "json2wal#github.com_celestiaorg_celestia_core",
+  "pkg_name": "json2wal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celestiaorg/celestia-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fork of CometBFT",
+  "homepage": [
+    "https://github.com/celestiaorg/celestia-core"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abci-cli",
+    "app",
+    "cmd",
+    "cometbft",
+    "contract_tests",
+    "generator",
+    "json2wal",
+    "load",
+    "metricsdiff",
+    "metricsgen",
+    "node",
+    "parallel",
+    "priv_val_server",
+    "report",
+    "runner",
+    "simple",
+    "test",
+    "wal2json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celestiaorg/celestia-core/archive/68617134758715d9a66c8bf27f15e465e3d3037e.tar.gz"
+  ],
+  "tag": [
+    "celestia",
+    "data-availability",
+    "data-availability-sampling",
+    "lazyledger",
+    "tendermint"
+  ],
+  "version": "HEAD-6861713-250618T134629",
+  "version_upstream": "",
+  "bsum": "c95263486f6b5b88ab3f2ee22c0a4de5b71a41ce44de9d86f678907fba2d6220",
+  "build_date": "2025-06-22T13:26:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806823181",
+  "build_id": "15806823181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-core/json2wal?tag=HEAD-6861713-250618T134629-aarch64-Linux&download=json2wal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "527",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-core/json2wal?tag=HEAD-6861713-250618T134629-aarch64-Linux&download=json2wal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celestiaorg/celestia-core/json2wal:HEAD-6861713-250618T134629-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celestiaorg/celestia-core/json2wal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-core/json2wal?tag=HEAD-6861713-250618T134629-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4dd0907ecb6dbb2c610e54c3bc84bb2498ad61e66d6b82247328185039f7018f",
+  "size": "19 MB",
+  "size_raw": "19532288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
