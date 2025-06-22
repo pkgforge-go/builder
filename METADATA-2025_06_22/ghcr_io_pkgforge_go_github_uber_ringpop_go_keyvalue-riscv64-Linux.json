@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "keyvalue",
+  "pkg_family": "ringpop-go",
+  "pkg_id": "keyvalue#github.com_uber_ringpop_go",
+  "pkg_name": "keyvalue",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/ringpop-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable, fault-tolerant application-layer sharding for Go applications",
+  "homepage": [
+    "https://github.com/uber/ringpop-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keyvalue",
+    "ping-json",
+    "ping-thrift",
+    "ping-thrift-gen",
+    "role-labels",
+    "testpop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/ringpop-go/archive/dc480c0aeadc0ae3dfe1c10b47024250014b6aa9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dc480c0-220723T004512",
+  "version_upstream": "v0.10.0",
+  "bsum": "bdf28e24bd250937a45bcd1263a144e41a2a897347bd2abda9f37abf5153aeeb",
+  "build_date": "2025-06-22T19:09:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730553",
+  "build_id": "15809730553",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/keyvalue?tag=HEAD-dc480c0-220723T004512-riscv64-Linux&download=keyvalue.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "849",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/keyvalue?tag=HEAD-dc480c0-220723T004512-riscv64-Linux&download=keyvalue",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/ringpop-go/keyvalue:HEAD-dc480c0-220723T004512-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/ringpop-go/keyvalue",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/keyvalue?tag=HEAD-dc480c0-220723T004512-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a22cf72c1869e6563910acfdbfea90de845492b5ed8c039c309b13b255a138e2",
+  "size": "5.8 MB",
+  "size_raw": "5987032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
