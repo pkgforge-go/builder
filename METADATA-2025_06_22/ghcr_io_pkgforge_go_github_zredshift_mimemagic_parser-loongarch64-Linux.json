@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "parser",
+  "pkg_family": "mimemagic",
+  "pkg_id": "parser#github.com_zRedShift_mimemagic",
+  "pkg_name": "parser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zRedShift/mimemagic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful and versatile MIME sniffing package using pre-compiled glob patterns, magic number signatures, XML document namespaces, and tree magic for mounted volumes, generated from the XDG shared-mime-info database.",
+  "homepage": [
+    "https://github.com/zRedShift/mimemagic"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mimemagic",
+    "parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zRedShift/mimemagic/archive/5028b726e7cdb453d7bccb8c660ab9f75c488c79.tar.gz"
+  ],
+  "tag": [
+    "detection",
+    "extension",
+    "filetype",
+    "freedesktop",
+    "go",
+    "golang",
+    "magic-numbers",
+    "mime",
+    "mime-database",
+    "mime-types",
+    "sniffing",
+    "xdg"
+  ],
+  "version": "HEAD-5028b72-230227T141055",
+  "version_upstream": "",
+  "bsum": "93a6c0e2e894107a58012099364bea8ffac4c8950cfa481fcc67febe85c8b295",
+  "build_date": "2025-06-22T22:05:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811068473",
+  "build_id": "15811068473",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zredshift/mimemagic/parser?tag=HEAD-5028b72-230227T141055-loongarch64-Linux&download=parser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "99",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zredshift/mimemagic/parser?tag=HEAD-5028b72-230227T141055-loongarch64-Linux&download=parser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zredshift/mimemagic/parser:HEAD-5028b72-230227T141055-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zredshift/mimemagic/parser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zredshift/mimemagic/parser?tag=HEAD-5028b72-230227T141055-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "60a5d152a5b56a5b6c0f7fc9751794d2a5fdf12aa67b96673ab1877b2fca9234",
+  "size": "3.2 MB",
+  "size_raw": "3328664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
