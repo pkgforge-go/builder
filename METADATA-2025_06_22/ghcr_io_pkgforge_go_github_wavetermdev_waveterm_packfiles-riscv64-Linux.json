@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "packfiles",
+  "pkg_family": "waveterm",
+  "pkg_id": "packfiles#github.com_wavetermdev_waveterm",
+  "pkg_name": "packfiles",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wavetermdev/waveterm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open-source, cross-platform terminal for seamless workflows",
+  "homepage": [
+    "https://github.com/wavetermdev/waveterm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generatego",
+    "generateschema",
+    "generatets",
+    "packfiles",
+    "server",
+    "test",
+    "wsh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wavetermdev/waveterm/archive/0d339afc746df7b85bdce0ff04e9709aea18e50e.tar.gz"
+  ],
+  "tag": [
+    "command-line",
+    "developer-tools",
+    "linux",
+    "macos",
+    "productivity",
+    "terminal",
+    "terminal-emulators",
+    "windows"
+  ],
+  "version": "HEAD-0d339af-250505T173914",
+  "version_upstream": "v0.11.3",
+  "bsum": "2234780c5f686bd1951831c04a106693790b4862477f5751ba39602e18faa122",
+  "build_date": "2025-06-22T20:17:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810142778",
+  "build_id": "15810142778",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavetermdev/waveterm/packfiles?tag=HEAD-0d339af-250505T173914-riscv64-Linux&download=packfiles.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10453",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavetermdev/waveterm/packfiles?tag=HEAD-0d339af-250505T173914-riscv64-Linux&download=packfiles",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wavetermdev/waveterm/packfiles:HEAD-0d339af-250505T173914-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wavetermdev/waveterm/packfiles",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavetermdev/waveterm/packfiles?tag=HEAD-0d339af-250505T173914-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "01598956b826928dfb291b2efba8147a2812d511eee8d2d56029451ed89223ee",
+  "size": "1.7 MB",
+  "size_raw": "1719720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
