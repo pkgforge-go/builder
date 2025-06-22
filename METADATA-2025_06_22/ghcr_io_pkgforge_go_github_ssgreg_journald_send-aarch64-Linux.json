@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "send",
+  "pkg_family": "journald",
+  "pkg_id": "send#github.com_ssgreg_journald",
+  "pkg_name": "send",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ssgreg/journald",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of systemd Journal_s native API for logging",
+  "homepage": [
+    "https://github.com/ssgreg/journald"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "print",
+    "send"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ssgreg/journald/archive/acf944d4c13d9c8751bd5f7931bbb8dc1b80ace4.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "logging",
+    "systemd",
+    "systemd-journald"
+  ],
+  "version": "HEAD-acf944d-210305T213346",
+  "version_upstream": "",
+  "bsum": "b36d94cdb713dc261e37253bde2ddb13b579f618dc694fe1a09c32ee6e8dac0a",
+  "build_date": "2025-06-22T14:50:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807353972",
+  "build_id": "15807353972",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ssgreg/journald/send?tag=HEAD-acf944d-210305T213346-aarch64-Linux&download=send.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ssgreg/journald/send?tag=HEAD-acf944d-210305T213346-aarch64-Linux&download=send",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ssgreg/journald/send:HEAD-acf944d-210305T213346-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ssgreg/journald/send",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ssgreg/journald/send?tag=HEAD-acf944d-210305T213346-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca9aa5f26b50c0196a775fc6257257975d198f16471e7881b0c9c0fe7462af1e",
+  "size": "1.9 MB",
+  "size_raw": "1988472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
