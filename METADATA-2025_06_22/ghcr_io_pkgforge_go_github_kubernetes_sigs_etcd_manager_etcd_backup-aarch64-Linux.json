@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "etcd-backup",
+  "pkg_family": "etcd-manager",
+  "pkg_id": "etcd-backup#github.com_kubernetes_sigs_etcd_manager",
+  "pkg_name": "etcd-backup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/etcd-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/etcd-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "etcd-backup",
+    "etcd-backup-ctl",
+    "etcd-dump",
+    "etcd-manager",
+    "etcd-manager-ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/etcd-manager/archive/1e88ae115fb15b99475d203699e38d3dcaa96d7e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1e88ae1-250621T074252",
+  "version_upstream": "",
+  "bsum": "360a3a423ba15b76a118cfa1f697ae09c2b143aaa506c54ee427a6403369d76a",
+  "build_date": "2025-06-22T14:01:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806937692",
+  "build_id": "15806937692",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-backup?tag=HEAD-1e88ae1-250621T074252-aarch64-Linux&download=etcd-backup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-backup?tag=HEAD-1e88ae1-250621T074252-aarch64-Linux&download=etcd-backup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-backup:HEAD-1e88ae1-250621T074252-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-backup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-backup?tag=HEAD-1e88ae1-250621T074252-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd728900ea2a44650353c8b90069546d952115f49a689bc3dad2cbc89ee3923b",
+  "size": "29 MB",
+  "size_raw": "30381248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

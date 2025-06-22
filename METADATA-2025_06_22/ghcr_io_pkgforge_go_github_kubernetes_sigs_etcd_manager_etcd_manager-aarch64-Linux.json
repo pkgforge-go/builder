@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "etcd-manager",
+  "pkg_family": "etcd-manager",
+  "pkg_id": "etcd-manager#github.com_kubernetes_sigs_etcd_manager",
+  "pkg_name": "etcd-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/etcd-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/etcd-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "etcd-backup",
+    "etcd-backup-ctl",
+    "etcd-dump",
+    "etcd-manager",
+    "etcd-manager-ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/etcd-manager/archive/1e88ae115fb15b99475d203699e38d3dcaa96d7e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1e88ae1-250621T074252",
+  "version_upstream": "",
+  "bsum": "a0b52e53d7e879038f0a508ced0dc1ee5ee6b2e76ffaef4663d53f4e7736d960",
+  "build_date": "2025-06-22T14:01:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806937692",
+  "build_id": "15806937692",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-manager?tag=HEAD-1e88ae1-250621T074252-aarch64-Linux&download=etcd-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-manager?tag=HEAD-1e88ae1-250621T074252-aarch64-Linux&download=etcd-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-manager:HEAD-1e88ae1-250621T074252-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/etcd-manager/etcd-manager?tag=HEAD-1e88ae1-250621T074252-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8de50ba9c9c9dac02c0856850066a4f3447e8d09a4133cae6d073570cd7d0959",
+  "size": "66 MB",
+  "size_raw": "68903232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
