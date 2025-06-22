@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "coverage",
+  "pkg_family": "go-sdl3",
+  "pkg_id": "coverage#github.com_Zyko0_go_sdl3",
+  "pkg_name": "coverage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Zyko0/go-sdl3",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDL3 bindings for Go",
+  "homepage": [
+    "https://github.com/Zyko0/go-sdl3"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-clear",
+    "01-joystick-polling",
+    "02-joystick-events",
+    "02-primitives",
+    "03-lines",
+    "04-points",
+    "05-rectangles",
+    "06-textures",
+    "07-streaming-textures",
+    "08-rotating-textures",
+    "09-scaling-textures",
+    "10-geometry",
+    "11-color-mods",
+    "14-viewport",
+    "15-cliprect",
+    "17-read-pixels",
+    "18-debug-text",
+    "coverage",
+    "docgen",
+    "ffi2go",
+    "helloworld",
+    "jsgen",
+    "methodgen",
+    "wasmsdl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Zyko0/go-sdl3/archive/1502b32efcdfd56950b4e4298b1bcd0bccfb5c35.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1502b32-250622T104340",
+  "version_upstream": "",
+  "bsum": "14f698c1d548a9939d3147145aedd4eaead24aeecab4aa3ff2709be66be5c5fa",
+  "build_date": "2025-06-22T15:55:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808211940",
+  "build_id": "15808211940",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zyko0/go-sdl3/coverage?tag=HEAD-1502b32-250622T104340-aarch64-Linux&download=coverage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "37",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zyko0/go-sdl3/coverage?tag=HEAD-1502b32-250622T104340-aarch64-Linux&download=coverage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zyko0/go-sdl3/coverage:HEAD-1502b32-250622T104340-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zyko0/go-sdl3/coverage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zyko0/go-sdl3/coverage?tag=HEAD-1502b32-250622T104340-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d4c7431d5b3cabfe9f0b863dad3e084f04d2a8c780fe2c4528f5d207eca124f",
+  "size": "6.1 MB",
+  "size_raw": "6386528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
