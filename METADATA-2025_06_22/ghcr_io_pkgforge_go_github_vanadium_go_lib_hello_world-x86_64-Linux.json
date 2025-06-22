@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hello_world",
+  "pkg_family": "go.lib",
+  "pkg_id": "hello_world#github.com_vanadium_go.lib",
+  "pkg_name": "hello_world",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vanadium/go.lib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "General purpose libraries used by Vanadium.",
+  "homepage": [
+    "https://github.com/vanadium/go.lib"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gendoc",
+    "gosh_example",
+    "gosh_example_client",
+    "gosh_example_server",
+    "hello_world",
+    "linewrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vanadium/go.lib/archive/b5c761ad3f5a29afa073cfa1d48c5c8d00d6fa7e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b5c761a-241007T094822",
+  "version_upstream": "v0.1.21",
+  "bsum": "ac737ced0219435458c7e344de2a98781498126bf3d6a4765b250a4477996e29",
+  "build_date": "2025-06-22T19:39:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809773400",
+  "build_id": "15809773400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vanadium/go.lib/hello_world?tag=HEAD-b5c761a-241007T094822-x86_64-Linux&download=hello_world.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vanadium/go.lib/hello_world?tag=HEAD-b5c761a-241007T094822-x86_64-Linux&download=hello_world",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vanadium/go.lib/hello_world:HEAD-b5c761a-241007T094822-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vanadium/go.lib/hello_world",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vanadium/go.lib/hello_world?tag=HEAD-b5c761a-241007T094822-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d0952acb6532b52f5a85b9074d224608f29de74cf9eb1e88d0672248d3ee1f8",
+  "size": "1.9 MB",
+  "size_raw": "1976600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
