@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "04_usbcdc-echo",
+  "pkg_family": "workshop",
+  "pkg_id": "04_usbcdc-echo#github.com_tinygo_keeb_workshop",
+  "pkg_name": "04_usbcdc-echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinygo-keeb/workshop",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TinyGo Keeb Tour の workshop 用のリポジトリ",
+  "homepage": [
+    "https://github.com/tinygo-keeb/workshop"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "03_usbcdc-serial",
+    "04_usbcdc-echo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tinygo-keeb/workshop/archive/990a3be68922558a988ba6823afb04654636106e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-990a3be-250613T091507",
+  "version_upstream": "",
+  "bsum": "197d6a7fd19fedd5a1e5584b54131e2d9777488a7492e1e160bc6e419d2e6c0d",
+  "build_date": "2025-06-22T17:54:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808774850",
+  "build_id": "15808774850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinygo-keeb/workshop/04_usbcdc-echo?tag=HEAD-990a3be-250613T091507-loongarch64-Linux&download=04_usbcdc-echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinygo-keeb/workshop/04_usbcdc-echo?tag=HEAD-990a3be-250613T091507-loongarch64-Linux&download=04_usbcdc-echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinygo-keeb/workshop/04_usbcdc-echo:HEAD-990a3be-250613T091507-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinygo-keeb/workshop/04_usbcdc-echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinygo-keeb/workshop/04_usbcdc-echo?tag=HEAD-990a3be-250613T091507-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f931619fef9201b7b8a617db03329fe1d0725dd6ba719c75f9610964f1e155d",
+  "size": "1.6 MB",
+  "size_raw": "1660600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
