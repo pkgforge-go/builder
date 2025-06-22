@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testpop",
+  "pkg_family": "ringpop-go",
+  "pkg_id": "testpop#github.com_uber_ringpop_go",
+  "pkg_name": "testpop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/ringpop-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable, fault-tolerant application-layer sharding for Go applications",
+  "homepage": [
+    "https://github.com/uber/ringpop-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keyvalue",
+    "ping-json",
+    "ping-thrift",
+    "ping-thrift-gen",
+    "role-labels",
+    "testpop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/ringpop-go/archive/dc480c0aeadc0ae3dfe1c10b47024250014b6aa9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dc480c0-220723T004512",
+  "version_upstream": "v0.10.0",
+  "bsum": "f7beaf16eeea0c78db6d6864cd281de98ebc5518b78ff39afc3d6db8c5a90c1a",
+  "build_date": "2025-06-22T19:09:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730553",
+  "build_id": "15809730553",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/testpop?tag=HEAD-dc480c0-220723T004512-aarch64-Linux&download=testpop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "849",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/testpop?tag=HEAD-dc480c0-220723T004512-aarch64-Linux&download=testpop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/ringpop-go/testpop:HEAD-dc480c0-220723T004512-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/ringpop-go/testpop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/testpop?tag=HEAD-dc480c0-220723T004512-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3c308a51862db53267e1d3efd2a28ae1ed1ab7ece3afe4f3790b6dfb46f1ec7",
+  "size": "5.7 MB",
+  "size_raw": "5886304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
