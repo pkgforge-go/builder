@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sowerd",
+  "pkg_family": "sower",
+  "pkg_id": "sowerd#github.com_sower_proxy_sower",
+  "pkg_name": "sowerd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sower-proxy/sower",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sower is a cross-platform intelligent transparent proxy solution.",
+  "homepage": [
+    "https://github.com/sower-proxy/sower"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sower",
+    "sowerd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sower-proxy/sower/archive/c347e15fe213815b28eeff5725f539ce58756c4b.tar.gz"
+  ],
+  "tag": [
+    "cross-platform",
+    "dns",
+    "proxy",
+    "router",
+    "sock5",
+    "sower",
+    "trojan"
+  ],
+  "version": "HEAD-c347e15-250514T131718",
+  "version_upstream": "v1.3.1",
+  "bsum": "cf3cb03de6af22f845ea794105b7d3905cc5c4ffc8c5ad4e5ad40a329a0352d4",
+  "build_date": "2025-06-22T00:00:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800654815",
+  "build_id": "15800654815",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sower-proxy/sower/sowerd?tag=HEAD-c347e15-250514T131718-riscv64-Linux&download=sowerd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "442",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sower-proxy/sower/sowerd?tag=HEAD-c347e15-250514T131718-riscv64-Linux&download=sowerd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sower-proxy/sower/sowerd:HEAD-c347e15-250514T131718-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sower-proxy/sower/sowerd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sower-proxy/sower/sowerd?tag=HEAD-c347e15-250514T131718-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a537eb8cd50dc687f42fd4de1aa517608721afd211e39e09876282fa2e76926",
+  "size": "7.6 MB",
+  "size_raw": "7902392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
