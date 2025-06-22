@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sys-agent",
+  "pkg_family": "sys-agent",
+  "pkg_id": "sys-agent#github.com_umputun_sys_agent",
+  "pkg_name": "sys-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/umputun/sys-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "System agent. Reports server status via HTTP API",
+  "homepage": [
+    "https://github.com/umputun/sys-agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sys-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/umputun/sys-agent/archive/d642fac07c0ffbc09f847074d434251df6313c8f.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "monitoring",
+    "system"
+  ],
+  "version": "HEAD-d642fac-250414T224840",
+  "version_upstream": "",
+  "bsum": "82fa1f763717c711e4a7b5b94ae358d40179cdd01f592c337e7e02b36d99c743",
+  "build_date": "2025-06-22T19:15:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809741250",
+  "build_id": "15809741250",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/umputun/sys-agent/sys-agent?tag=HEAD-d642fac-250414T224840-aarch64-Linux&download=sys-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/umputun/sys-agent/sys-agent?tag=HEAD-d642fac-250414T224840-aarch64-Linux&download=sys-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/umputun/sys-agent/sys-agent:HEAD-d642fac-250414T224840-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/umputun/sys-agent/sys-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/umputun/sys-agent/sys-agent?tag=HEAD-d642fac-250414T224840-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "017fbfaee4757d3fc55a745698be0bd033ac03cdf1f55d4bb1431dd3e9440ca9",
+  "size": "14 MB",
+  "size_raw": "13819072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
