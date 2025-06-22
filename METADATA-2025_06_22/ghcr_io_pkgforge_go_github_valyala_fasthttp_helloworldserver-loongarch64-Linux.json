@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "helloworldserver",
+  "pkg_family": "fasthttp",
+  "pkg_id": "helloworldserver#github.com_valyala_fasthttp",
+  "pkg_name": "helloworldserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/valyala/fasthttp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+  "homepage": [
+    "https://github.com/valyala/fasthttp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "fileserver",
+    "helloworldserver",
+    "host_client",
+    "letsencrypt",
+    "multidomain"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/valyala/fasthttp/archive/d356cacd848d92e7f25f06ec64c29f43e033e369.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d356cac-250619T085925",
+  "version_upstream": "",
+  "bsum": "4c8e0c1baae64f3fbf2dfa542ec9caa98ea5dba9749e44b94fd6a382a1ed273b",
+  "build_date": "2025-06-22T19:37:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809770523",
+  "build_id": "15809770523",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/fasthttp/helloworldserver?tag=HEAD-d356cac-250619T085925-loongarch64-Linux&download=helloworldserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22659",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/fasthttp/helloworldserver?tag=HEAD-d356cac-250619T085925-loongarch64-Linux&download=helloworldserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/valyala/fasthttp/helloworldserver:HEAD-d356cac-250619T085925-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/valyala/fasthttp/helloworldserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/fasthttp/helloworldserver?tag=HEAD-d356cac-250619T085925-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88d0edfce2e056174656ab8308c921253a4c639bdb028843bf535f68d2c613e0",
+  "size": "6.0 MB",
+  "size_raw": "6248336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
