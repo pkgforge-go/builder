@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bootcmd",
+  "pkg_family": "matchbox",
+  "pkg_id": "bootcmd#github.com_poseidon_matchbox",
+  "pkg_name": "bootcmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/poseidon/matchbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network boot and provision Fedora CoreOS and Flatcar Linux clusters",
+  "homepage": [
+    "https://github.com/poseidon/matchbox"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootcmd",
+    "matchbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/poseidon/matchbox/archive/39d4d0521d37922cef393f8ebfd08c40b35054b1.tar.gz"
+  ],
+  "tag": [
+    "bare-metal",
+    "fedora-coreos",
+    "flatcar-linux",
+    "protobuf",
+    "pxe"
+  ],
+  "version": "HEAD-39d4d05-250622T014157",
+  "version_upstream": "",
+  "bsum": "af578cb778c356f290f39fbaf0179b1cc11c8d8e50acd7b194be706fa7ba0fcc",
+  "build_date": "2025-06-22T14:24:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807230932",
+  "build_id": "15807230932",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/bootcmd?tag=HEAD-39d4d05-250622T014157-riscv64-Linux&download=bootcmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1348",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/bootcmd?tag=HEAD-39d4d05-250622T014157-riscv64-Linux&download=bootcmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/poseidon/matchbox/bootcmd:HEAD-39d4d05-250622T014157-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/poseidon/matchbox/bootcmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/bootcmd?tag=HEAD-39d4d05-250622T014157-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d94cc7610be1b40380a4848a55f116b6dd1239838f18560d9f2fcdc802da8c4",
+  "size": "13 MB",
+  "size_raw": "12834936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
