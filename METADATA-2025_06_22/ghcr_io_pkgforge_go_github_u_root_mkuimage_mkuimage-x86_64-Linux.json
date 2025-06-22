@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mkuimage",
+  "pkg_family": "mkuimage",
+  "pkg_id": "mkuimage#github.com_u_root_mkuimage",
+  "pkg_name": "mkuimage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/u-root/mkuimage",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Create small Go-based root file systems -- with support for CPIOs and _TBD_ Docker images",
+  "homepage": [
+    "https://github.com/u-root/mkuimage"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gentpldeps",
+    "mkuimage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/u-root/mkuimage/archive/62f0448bbe27d0f1dfa971653a1bc32f963dabe3.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "initramfs",
+    "kernel",
+    "linux",
+    "linuxboot",
+    "system"
+  ],
+  "version": "HEAD-62f0448-250320T101346",
+  "version_upstream": "",
+  "bsum": "401c4477189be3020db4d97931b85a3037c8b3dcb2c722c94d317ab09401af4a",
+  "build_date": "2025-06-22T19:06:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809725658",
+  "build_id": "15809725658",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/mkuimage/mkuimage?tag=HEAD-62f0448-250320T101346-x86_64-Linux&download=mkuimage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/mkuimage/mkuimage?tag=HEAD-62f0448-250320T101346-x86_64-Linux&download=mkuimage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/u-root/mkuimage/mkuimage:HEAD-62f0448-250320T101346-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/u-root/mkuimage/mkuimage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/mkuimage/mkuimage?tag=HEAD-62f0448-250320T101346-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85ec13736a16dc252a08f6b74de4d9ab3eb22d0445211fb805a119dc397ada8e",
+  "size": "7.7 MB",
+  "size_raw": "7988416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

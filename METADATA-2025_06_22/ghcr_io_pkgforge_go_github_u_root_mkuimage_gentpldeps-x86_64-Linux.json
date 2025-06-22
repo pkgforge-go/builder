@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gentpldeps",
+  "pkg_family": "mkuimage",
+  "pkg_id": "gentpldeps#github.com_u_root_mkuimage",
+  "pkg_name": "gentpldeps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/u-root/mkuimage",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Create small Go-based root file systems -- with support for CPIOs and _TBD_ Docker images",
+  "homepage": [
+    "https://github.com/u-root/mkuimage"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gentpldeps",
+    "mkuimage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/u-root/mkuimage/archive/62f0448bbe27d0f1dfa971653a1bc32f963dabe3.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "initramfs",
+    "kernel",
+    "linux",
+    "linuxboot",
+    "system"
+  ],
+  "version": "HEAD-62f0448-250320T101346",
+  "version_upstream": "",
+  "bsum": "14200d60ced416fc7e7b1df6b1ce5b60a9baf8aa3fc3dd12804df60ec8206619",
+  "build_date": "2025-06-22T19:06:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809725658",
+  "build_id": "15809725658",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/mkuimage/gentpldeps?tag=HEAD-62f0448-250320T101346-x86_64-Linux&download=gentpldeps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/mkuimage/gentpldeps?tag=HEAD-62f0448-250320T101346-x86_64-Linux&download=gentpldeps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/u-root/mkuimage/gentpldeps:HEAD-62f0448-250320T101346-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/u-root/mkuimage/gentpldeps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/mkuimage/gentpldeps?tag=HEAD-62f0448-250320T101346-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64319e8191a2a1319c143580be53f5a82150d21017ea9611243579ee2c7857e2",
+  "size": "8.9 MB",
+  "size_raw": "9265088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
