@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "scheduler-plugins",
+  "pkg_id": "controller#github.com_kubernetes_sigs_scheduler_plugins",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/scheduler-plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for out-of-tree scheduler plugins based on scheduler framework.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/scheduler-plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/scheduler-plugins/archive/9f441058651164d406d6ac7ec751f0dadecd162a.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-scheduling"
+  ],
+  "version": "HEAD-9f44105-250621T112655",
+  "version_upstream": "",
+  "bsum": "573c87e5aa2ce46da16c49bffcbdf0eb03d5d1005391af95fa5081fb586d6609",
+  "build_date": "2025-06-22T14:00:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806941800",
+  "build_id": "15806941800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/controller?tag=HEAD-9f44105-250621T112655-loongarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1210",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/controller?tag=HEAD-9f44105-250621T112655-loongarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/controller:HEAD-9f44105-250621T112655-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/controller?tag=HEAD-9f44105-250621T112655-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fff231bf1b9809d3a94200eabec377ebaecb90dd900e9b001c3443bc29fc7abf",
+  "size": "49 MB",
+  "size_raw": "51026144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
