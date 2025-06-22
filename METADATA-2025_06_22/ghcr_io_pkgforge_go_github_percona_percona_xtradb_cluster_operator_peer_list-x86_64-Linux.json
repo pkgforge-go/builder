@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "peer-list",
+  "pkg_family": "percona-xtradb-cluster-operator",
+  "pkg_id": "peer-list#github.com_percona_percona_xtradb_cluster_operator",
+  "pkg_name": "peer-list",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-xtradb-cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for MySQL based on Percona XtraDB Cluster",
+  "homepage": [
+    "https://github.com/percona/percona-xtradb-cluster-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "mysql-state-monitor",
+    "peer-list",
+    "pitr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-xtradb-cluster-operator/archive/a0de23330e47edbd602b7ab20c873e023475b862.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "k8spxc",
+    "kubernetes-operator"
+  ],
+  "version": "HEAD-a0de233-250621T170316",
+  "version_upstream": "",
+  "bsum": "82af3ebd0e303876c4ef5eab568ce3212d204e07935f9d5f1e0a4f25c412cccd",
+  "build_date": "2025-06-22T14:25:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807229395",
+  "build_id": "15807229395",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-xtradb-cluster-operator/peer-list?tag=HEAD-a0de233-250621T170316-x86_64-Linux&download=peer-list.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "574",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-xtradb-cluster-operator/peer-list?tag=HEAD-a0de233-250621T170316-x86_64-Linux&download=peer-list",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-xtradb-cluster-operator/peer-list:HEAD-a0de233-250621T170316-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-xtradb-cluster-operator/peer-list",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-xtradb-cluster-operator/peer-list?tag=HEAD-a0de233-250621T170316-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54258a89c871ddaf7af51a0473a27b9a1315734881dcd583ec7eff383c7f40b1",
+  "size": "2.9 MB",
+  "size_raw": "2993944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

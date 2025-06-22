@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pitr",
+  "pkg_family": "percona-xtradb-cluster-operator",
+  "pkg_id": "pitr#github.com_percona_percona_xtradb_cluster_operator",
+  "pkg_name": "pitr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-xtradb-cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for MySQL based on Percona XtraDB Cluster",
+  "homepage": [
+    "https://github.com/percona/percona-xtradb-cluster-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "mysql-state-monitor",
+    "peer-list",
+    "pitr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-xtradb-cluster-operator/archive/a0de23330e47edbd602b7ab20c873e023475b862.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "k8spxc",
+    "kubernetes-operator"
+  ],
+  "version": "HEAD-a0de233-250621T170316",
+  "version_upstream": "",
+  "bsum": "b9a601e1034f14f0346f474ec2b9bf98b6f9a6c1ac1509c35c86c9545d9afb4f",
+  "build_date": "2025-06-22T14:25:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807229395",
+  "build_id": "15807229395",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-xtradb-cluster-operator/pitr?tag=HEAD-a0de233-250621T170316-x86_64-Linux&download=pitr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "574",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-xtradb-cluster-operator/pitr?tag=HEAD-a0de233-250621T170316-x86_64-Linux&download=pitr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-xtradb-cluster-operator/pitr:HEAD-a0de233-250621T170316-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-xtradb-cluster-operator/pitr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-xtradb-cluster-operator/pitr?tag=HEAD-a0de233-250621T170316-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "95b991bb4fbf44cbf0ac53f3074d67425b2cd048cc0e2a2697922eee05719d5e",
+  "size": "43 MB",
+  "size_raw": "44813520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
