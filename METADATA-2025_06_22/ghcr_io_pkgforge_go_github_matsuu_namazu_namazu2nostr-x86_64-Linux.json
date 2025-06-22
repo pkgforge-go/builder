@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "namazu2nostr",
+  "pkg_family": "namazu",
+  "pkg_id": "namazu2nostr#github.com_matsuu_namazu",
+  "pkg_name": "namazu2nostr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matsuu/namazu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "緊急地震速報（予報）を受け取ってSNSに投げるプログラム一式",
+  "homepage": [
+    "https://github.com/matsuu/namazu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "namazu",
+    "namazu2bluesky",
+    "namazu2mastodon",
+    "namazu2mixi2",
+    "namazu2nostr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matsuu/namazu/archive/1a75b7270ffea3a6b358389d76ba9776887e4bee.tar.gz"
+  ],
+  "tag": [
+    "earthquake",
+    "eew",
+    "forecasting",
+    "mastodon",
+    "nostr"
+  ],
+  "version": "HEAD-1a75b72-250622T130210",
+  "version_upstream": "",
+  "bsum": "fcc6a688c4981ba9aa43dc0b73eba43a613708427d3053e3949a2d15f8db39de",
+  "build_date": "2025-06-22T16:26:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808289634",
+  "build_id": "15808289634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2nostr?tag=HEAD-1a75b72-250622T130210-x86_64-Linux&download=namazu2nostr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2nostr?tag=HEAD-1a75b72-250622T130210-x86_64-Linux&download=namazu2nostr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2nostr:HEAD-1a75b72-250622T130210-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2nostr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2nostr?tag=HEAD-1a75b72-250622T130210-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a84f5c60d010ca0213955cb8717f8c4cb867603918d9b4734d55d3c8d23786b9",
+  "size": "8.6 MB",
+  "size_raw": "9013152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

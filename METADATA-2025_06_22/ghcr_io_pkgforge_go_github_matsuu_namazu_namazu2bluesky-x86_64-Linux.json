@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "namazu2bluesky",
+  "pkg_family": "namazu",
+  "pkg_id": "namazu2bluesky#github.com_matsuu_namazu",
+  "pkg_name": "namazu2bluesky",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matsuu/namazu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "緊急地震速報（予報）を受け取ってSNSに投げるプログラム一式",
+  "homepage": [
+    "https://github.com/matsuu/namazu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "namazu",
+    "namazu2bluesky",
+    "namazu2mastodon",
+    "namazu2mixi2",
+    "namazu2nostr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matsuu/namazu/archive/1a75b7270ffea3a6b358389d76ba9776887e4bee.tar.gz"
+  ],
+  "tag": [
+    "earthquake",
+    "eew",
+    "forecasting",
+    "mastodon",
+    "nostr"
+  ],
+  "version": "HEAD-1a75b72-250622T130210",
+  "version_upstream": "",
+  "bsum": "6585e78a07bebde0a96be2fe86e2d29bea1320374f0f57667b9a87e1388286a1",
+  "build_date": "2025-06-22T16:26:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808289634",
+  "build_id": "15808289634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2bluesky?tag=HEAD-1a75b72-250622T130210-x86_64-Linux&download=namazu2bluesky.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2bluesky?tag=HEAD-1a75b72-250622T130210-x86_64-Linux&download=namazu2bluesky",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2bluesky:HEAD-1a75b72-250622T130210-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2bluesky",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2bluesky?tag=HEAD-1a75b72-250622T130210-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aacbc9aecfbd731967243789466b4cf1385b0b5b152affef26dd87dc2260f9f4",
+  "size": "10 MB",
+  "size_raw": "10397376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
