@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "git",
+  "pkg_family": "build",
+  "pkg_id": "git#github.com_shipwright_io_build",
+  "pkg_name": "git",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/shipwright-io/build",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shipwright - a framework for building container images on Kubernetes",
+  "homepage": [
+    "https://github.com/shipwright-io/build"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bundle",
+    "git",
+    "image-processing",
+    "shipwright-build-controller",
+    "shipwright-build-webhook",
+    "waiter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/shipwright-io/build/archive/fd509af7592e0e6d3ddcb8a5a87c293d99c898e9.tar.gz"
+  ],
+  "tag": [
+    "cicd",
+    "containers",
+    "kubernetes"
+  ],
+  "version": "HEAD-fd509af-250621T192528",
+  "version_upstream": "",
+  "bsum": "3b39a35f1d2469783a1cb3cdf8cae46edbe8f122a89b2d0b755d55536ccafd4a",
+  "build_date": "2025-06-22T14:40:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807295680",
+  "build_id": "15807295680",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shipwright-io/build/git?tag=HEAD-fd509af-250621T192528-x86_64-Linux&download=git.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "715",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shipwright-io/build/git?tag=HEAD-fd509af-250621T192528-x86_64-Linux&download=git",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shipwright-io/build/git:HEAD-fd509af-250621T192528-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shipwright-io/build/git",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shipwright-io/build/git?tag=HEAD-fd509af-250621T192528-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e12237304a127cacd5036799d84a785f3b4704f13feb975492f4c5b4fe880b6",
+  "size": "6.7 MB",
+  "size_raw": "6948064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
