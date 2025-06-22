@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "spicy",
+  "pkg_family": "torchwood",
+  "pkg_id": "spicy#github.com_FiloSottile_torchwood",
+  "pkg_name": "spicy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FiloSottile/torchwood",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collection of open source tlog tooling.",
+  "homepage": [
+    "https://github.com/FiloSottile/torchwood"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "litebastion",
+    "litewitness",
+    "spicy",
+    "sumdb-warmup",
+    "witnessctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FiloSottile/torchwood/archive/3195373f7620fde5e62977689fbaabd0e43e255d.tar.gz"
+  ],
+  "tag": [
+    "sigsum",
+    "transparency-log"
+  ],
+  "version": "HEAD-3195373-250622T125740",
+  "version_upstream": "",
+  "bsum": "90d872680eeb72d77b9e50e1f8d32b1c7ab12a3d6e04d9976c1c6de98d85db4e",
+  "build_date": "2025-06-22T15:44:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808210804",
+  "build_id": "15808210804",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/torchwood/spicy?tag=HEAD-3195373-250622T125740-aarch64-Linux&download=spicy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/torchwood/spicy?tag=HEAD-3195373-250622T125740-aarch64-Linux&download=spicy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filosottile/torchwood/spicy:HEAD-3195373-250622T125740-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filosottile/torchwood/spicy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/torchwood/spicy?tag=HEAD-3195373-250622T125740-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bea577eaa2047578b570beae706b63a721eb789cddd3b780f62c7a52af7589ac",
+  "size": "3.5 MB",
+  "size_raw": "3604256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
