@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "printenv",
+  "pkg_family": "simpleutils",
+  "pkg_id": "printenv#github.com_whouishere_simpleutils",
+  "pkg_name": "printenv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/whouishere/simpleutils",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "small alternative coreutils package. mirror from https://codeberg.org/whou/simpleutils",
+  "homepage": [
+    "https://github.com/whouishere/simpleutils"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cat",
+    "cp",
+    "dirname",
+    "false",
+    "ln",
+    "mkdir",
+    "mv",
+    "printenv",
+    "pwd",
+    "rm",
+    "rmdir",
+    "touch",
+    "true",
+    "whoami"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/whouishere/simpleutils/archive/918cf015481555126b53297761dceddb39b67601.tar.gz"
+  ],
+  "tag": [
+    "command-line-utility",
+    "coreutils",
+    "cross-platform",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-918cf01-241211T204946",
+  "version_upstream": "",
+  "bsum": "6c08c9980072976b519d6d2c5250bedbf959bf8754e9cdbd9e4f413748a4eb70",
+  "build_date": "2025-06-22T20:31:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810178295",
+  "build_id": "15810178295",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whouishere/simpleutils/printenv?tag=HEAD-918cf01-241211T204946-aarch64-Linux&download=printenv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whouishere/simpleutils/printenv?tag=HEAD-918cf01-241211T204946-aarch64-Linux&download=printenv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/whouishere/simpleutils/printenv:HEAD-918cf01-241211T204946-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/whouishere/simpleutils/printenv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whouishere/simpleutils/printenv?tag=HEAD-918cf01-241211T204946-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "926560774d7910a6a204822485aa176306b17c66b7b5f1bd663b96bfc11e71d4",
+  "size": "1.9 MB",
+  "size_raw": "1933720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
