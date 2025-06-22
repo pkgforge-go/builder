@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "trzsz-ssh",
+  "pkg_family": "trzsz-ssh",
+  "pkg_id": "trzsz-ssh#github.com_trzsz_trzsz_ssh",
+  "pkg_name": "trzsz-ssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trzsz/trzsz-ssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "trzsz-ssh _ tssh _ is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem_rz/sz_, udp mode like mosh, etc.",
+  "homepage": [
+    "https://github.com/trzsz/trzsz-ssh"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "trzsz-ssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trzsz/trzsz-ssh/archive/7fd3d0d6801bb24de4f33fe540919afdb46f365c.tar.gz"
+  ],
+  "tag": [
+    "openssh",
+    "openssh-client",
+    "rz",
+    "ssh",
+    "ssh-client",
+    "sz",
+    "tmux",
+    "trz",
+    "trzsz",
+    "tsz",
+    "zmodem"
+  ],
+  "version": "HEAD-7fd3d0d-250504T203907",
+  "version_upstream": "",
+  "bsum": "8a3ff323155dc438c379ac0ce7883864ba99a99a267fad572e331a24a8cada82",
+  "build_date": "2025-06-22T18:54:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809720271",
+  "build_id": "15809720271",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trzsz/trzsz-ssh/trzsz-ssh?tag=HEAD-7fd3d0d-250504T203907-riscv64-Linux&download=trzsz-ssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2134",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trzsz/trzsz-ssh/trzsz-ssh?tag=HEAD-7fd3d0d-250504T203907-riscv64-Linux&download=trzsz-ssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trzsz/trzsz-ssh/trzsz-ssh:HEAD-7fd3d0d-250504T203907-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trzsz/trzsz-ssh/trzsz-ssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trzsz/trzsz-ssh/trzsz-ssh?tag=HEAD-7fd3d0d-250504T203907-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6afddb65714ac42e727fcf72326e059676f62b01f493d0610b7660790cd440c2",
+  "size": "15 MB",
+  "size_raw": "14999992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
