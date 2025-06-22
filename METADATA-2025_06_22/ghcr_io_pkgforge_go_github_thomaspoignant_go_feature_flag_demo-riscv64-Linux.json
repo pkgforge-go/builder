@@ -1,0 +1,103 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "demo",
+  "pkg_family": "go-feature-flag",
+  "pkg_id": "demo#github.com_thomaspoignant_go_feature_flag",
+  "pkg_name": "demo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thomaspoignant/go-feature-flag",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
+  "homepage": [
+    "https://github.com/thomaspoignant/go-feature-flag"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "data_export_file",
+    "data_export_googlecloudstorage",
+    "data_export_kafka",
+    "data_export_kinesis",
+    "data_export_s3",
+    "demo",
+    "editor",
+    "jsonschema-generator",
+    "lint",
+    "relayproxy",
+    "retriever_configmap",
+    "retriever_file",
+    "retriever_github",
+    "retriever_http",
+    "retriever_mongodb",
+    "retriever_multiple_config_files",
+    "retriever_s3",
+    "rollout_experimentation",
+    "rollout_progressive",
+    "rollout_scheduled",
+    "wasm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/thomaspoignant/go-feature-flag/archive/3fc575f0eb0c00475fd7b2f33184e71fb9f8231b.tar.gz"
+  ],
+  "tag": [
+    "beginner-friendly",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-testing",
+    "devops",
+    "experimentation",
+    "experiments",
+    "feature-flag",
+    "feature-flags",
+    "feature-toggle",
+    "feature-toggles",
+    "feature-toggling",
+    "go",
+    "go-feature-flag",
+    "golang",
+    "golang-library",
+    "help-wanted",
+    "toggles",
+    "variants"
+  ],
+  "version": "HEAD-3fc575f-250620T093718",
+  "version_upstream": "",
+  "bsum": "07f1bd5118231e5c686fc54437a7c47cb1ac823546ac4d884f2774faa6613d08",
+  "build_date": "2025-06-22T17:52:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808717280",
+  "build_id": "15808717280",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomaspoignant/go-feature-flag/demo?tag=HEAD-3fc575f-250620T093718-riscv64-Linux&download=demo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1676",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomaspoignant/go-feature-flag/demo?tag=HEAD-3fc575f-250620T093718-riscv64-Linux&download=demo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thomaspoignant/go-feature-flag/demo:HEAD-3fc575f-250620T093718-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thomaspoignant/go-feature-flag/demo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomaspoignant/go-feature-flag/demo?tag=HEAD-3fc575f-250620T093718-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9953ac0ad51e6cff48e654d16baaa24f25adacbd22ee2a1f051098a6c335e5d",
+  "size": "13 MB",
+  "size_raw": "12968536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
