@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "usage",
+  "pkg_family": "endly",
+  "pkg_id": "usage#github.com_viant_endly",
+  "pkg_name": "usage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viant/endly",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "End to end functional test and automation framework",
+  "homepage": [
+    "https://github.com/viant/endly"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "codegen",
+    "endly",
+    "lambda",
+    "push",
+    "sns",
+    "sqs",
+    "usage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viant/endly/archive/bcf9b18b05732c41c6a325c6834f3464f61444a6.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "end-to-end-testing",
+    "functional-testing",
+    "integration-testing",
+    "orchestration-framework",
+    "system-testing",
+    "testing",
+    "workflow"
+  ],
+  "version": "HEAD-bcf9b18-250428T143906",
+  "version_upstream": "v0.79.0",
+  "bsum": "8c9aa65dba610735b3312a0a8458ff1c2f60fec1f7f4bbdbc0e407e353331756",
+  "build_date": "2025-06-22T19:53:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809798615",
+  "build_id": "15809798615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viant/endly/usage?tag=HEAD-bcf9b18-250428T143906-riscv64-Linux&download=usage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "267",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viant/endly/usage?tag=HEAD-bcf9b18-250428T143906-riscv64-Linux&download=usage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viant/endly/usage:HEAD-bcf9b18-250428T143906-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viant/endly/usage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viant/endly/usage?tag=HEAD-bcf9b18-250428T143906-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "175bb59348cf0d3b0037c2e9779879101387a86e07ef171857f2e249296ae3ea",
+  "size": "7.8 MB",
+  "size_raw": "8173496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
