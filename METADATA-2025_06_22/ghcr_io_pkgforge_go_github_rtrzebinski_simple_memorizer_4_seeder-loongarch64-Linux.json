@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "seeder",
+  "pkg_family": "simple-memorizer-4",
+  "pkg_id": "seeder#github.com_rtrzebinski_simple_memorizer_4",
+  "pkg_name": "seeder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rtrzebinski/simple-memorizer-4",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A spaced repetition learning tool built with Go.",
+  "homepage": [
+    "https://github.com/rtrzebinski/simple-memorizer-4"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "pubsub",
+    "seeder",
+    "web",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rtrzebinski/simple-memorizer-4/archive/79b196020675f59af64193261fbe66399fa6109f.tar.gz"
+  ],
+  "tag": [
+    "distributed-systems",
+    "go"
+  ],
+  "version": "HEAD-79b1960-250622T161846",
+  "version_upstream": "",
+  "bsum": "7e5c455e6badb781ea3c396ca278ccf78025f46d46485f84fe8e0ac640079d71",
+  "build_date": "2025-06-22T16:41:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808349733",
+  "build_id": "15808349733",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtrzebinski/simple-memorizer-4/seeder?tag=HEAD-79b1960-250622T161846-loongarch64-Linux&download=seeder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtrzebinski/simple-memorizer-4/seeder?tag=HEAD-79b1960-250622T161846-loongarch64-Linux&download=seeder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtrzebinski/simple-memorizer-4/seeder:HEAD-79b1960-250622T161846-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtrzebinski/simple-memorizer-4/seeder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtrzebinski/simple-memorizer-4/seeder?tag=HEAD-79b1960-250622T161846-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "959af16390e61e448e324ca163429e87f97c72c7a25b42b55e0ecc39d37efdb9",
+  "size": "7.6 MB",
+  "size_raw": "7947232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

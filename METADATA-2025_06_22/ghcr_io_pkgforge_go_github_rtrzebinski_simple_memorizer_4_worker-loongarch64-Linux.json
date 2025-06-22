@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "simple-memorizer-4",
+  "pkg_id": "worker#github.com_rtrzebinski_simple_memorizer_4",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rtrzebinski/simple-memorizer-4",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A spaced repetition learning tool built with Go.",
+  "homepage": [
+    "https://github.com/rtrzebinski/simple-memorizer-4"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "pubsub",
+    "seeder",
+    "web",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rtrzebinski/simple-memorizer-4/archive/79b196020675f59af64193261fbe66399fa6109f.tar.gz"
+  ],
+  "tag": [
+    "distributed-systems",
+    "go"
+  ],
+  "version": "HEAD-79b1960-250622T161846",
+  "version_upstream": "",
+  "bsum": "81c3b63d24cf6372fabca1d4f294759bba1f0ae0beb75a04cc8e165c774b86a3",
+  "build_date": "2025-06-22T16:41:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808349733",
+  "build_id": "15808349733",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtrzebinski/simple-memorizer-4/worker?tag=HEAD-79b1960-250622T161846-loongarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtrzebinski/simple-memorizer-4/worker?tag=HEAD-79b1960-250622T161846-loongarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtrzebinski/simple-memorizer-4/worker:HEAD-79b1960-250622T161846-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtrzebinski/simple-memorizer-4/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtrzebinski/simple-memorizer-4/worker?tag=HEAD-79b1960-250622T161846-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81548a35fbe7ea01763af35d6fb3335ad025c37ce9b1d58e51018729f27d7f85",
+  "size": "19 MB",
+  "size_raw": "19824576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
