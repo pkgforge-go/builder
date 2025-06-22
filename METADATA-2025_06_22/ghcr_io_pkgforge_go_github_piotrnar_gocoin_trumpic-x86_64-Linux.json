@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "trumpic",
+  "pkg_family": "gocoin",
+  "pkg_id": "trumpic#github.com_piotrnar_gocoin",
+  "pkg_name": "trumpic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piotrnar/gocoin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full bitcoin solution written in Go _golang_",
+  "homepage": [
+    "https://github.com/piotrnar/gocoin"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balio",
+    "base58",
+    "bdb",
+    "bip39wal",
+    "blockinfo",
+    "bootdat_qt",
+    "btcversig",
+    "client",
+    "fetchblock",
+    "fetchtx",
+    "getfees",
+    "goc",
+    "hdwal",
+    "importblocks",
+    "mkmulti",
+    "peers",
+    "tap2old",
+    "trumpic",
+    "txaddsig",
+    "txmod",
+    "txoutset",
+    "type2determ",
+    "type2next",
+    "unspent4_to_utxo",
+    "utxo",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/piotrnar/gocoin/archive/44bc9d201ade25f39ef3d1671da6322ffb1b2041.tar.gz"
+  ],
+  "tag": [
+    "bitcoin",
+    "gocoin",
+    "golang",
+    "node",
+    "wallet"
+  ],
+  "version": "HEAD-44bc9d2-250622T104408",
+  "version_upstream": "",
+  "bsum": "742b2045c2d220c9c9989f33c90f541dde850b245aa05b6cb994e116ec52cdd0",
+  "build_date": "2025-06-22T16:39:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808316775",
+  "build_id": "15808316775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/trumpic?tag=HEAD-44bc9d2-250622T104408-x86_64-Linux&download=trumpic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "992",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/trumpic?tag=HEAD-44bc9d2-250622T104408-x86_64-Linux&download=trumpic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piotrnar/gocoin/trumpic:HEAD-44bc9d2-250622T104408-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piotrnar/gocoin/trumpic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/trumpic?tag=HEAD-44bc9d2-250622T104408-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b40d64b56ae42facf63dc93a722be107006dd74eda898bccd39902d474711d7",
+  "size": "6.3 MB",
+  "size_raw": "6513920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
