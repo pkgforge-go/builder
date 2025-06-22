@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "thinevent_webhook_handler",
+  "pkg_family": "stripe-go",
+  "pkg_id": "thinevent_webhook_handler#github.com_stripe_stripe_go",
+  "pkg_name": "thinevent_webhook_handler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stripe/stripe-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the Stripe API.",
+  "homepage": [
+    "https://github.com/stripe/stripe-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "meter_event_stream",
+    "test_with_stripe_mock",
+    "thinevent_webhook_handler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stripe/stripe-go/archive/3a1f3c299a466eb9d81a27f526980267723f97c4.tar.gz"
+  ],
+  "tag": [
+    "stripe",
+    "stripe-sdk"
+  ],
+  "version": "HEAD-3a1f3c2-250612T070416",
+  "version_upstream": "",
+  "bsum": "2fcef9a3a6aaea650bb60529d22d1664f478f92309c675cb10c3452956cb4556",
+  "build_date": "2025-06-22T15:07:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807549775",
+  "build_id": "15807549775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/stripe-go/thinevent_webhook_handler?tag=HEAD-3a1f3c2-250612T070416-x86_64-Linux&download=thinevent_webhook_handler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2333",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/stripe-go/thinevent_webhook_handler?tag=HEAD-3a1f3c2-250612T070416-x86_64-Linux&download=thinevent_webhook_handler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stripe/stripe-go/thinevent_webhook_handler:HEAD-3a1f3c2-250612T070416-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stripe/stripe-go/thinevent_webhook_handler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/stripe-go/thinevent_webhook_handler?tag=HEAD-3a1f3c2-250612T070416-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12c4b09412b47ffd645703b523dacf5be85cac61f3f4d661ac684197bbee1cc9",
+  "size": "8.3 MB",
+  "size_raw": "8647424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
