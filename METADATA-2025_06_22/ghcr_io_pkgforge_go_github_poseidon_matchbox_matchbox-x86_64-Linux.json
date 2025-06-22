@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "matchbox",
+  "pkg_family": "matchbox",
+  "pkg_id": "matchbox#github.com_poseidon_matchbox",
+  "pkg_name": "matchbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/poseidon/matchbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network boot and provision Fedora CoreOS and Flatcar Linux clusters",
+  "homepage": [
+    "https://github.com/poseidon/matchbox"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootcmd",
+    "matchbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/poseidon/matchbox/archive/39d4d0521d37922cef393f8ebfd08c40b35054b1.tar.gz"
+  ],
+  "tag": [
+    "bare-metal",
+    "fedora-coreos",
+    "flatcar-linux",
+    "protobuf",
+    "pxe"
+  ],
+  "version": "HEAD-39d4d05-250622T014157",
+  "version_upstream": "",
+  "bsum": "4786f81c23932435af9776052dd8f4c830130e461e8d5f0c6469f34af4cabe13",
+  "build_date": "2025-06-22T14:23:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807230932",
+  "build_id": "15807230932",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/matchbox?tag=HEAD-39d4d05-250622T014157-x86_64-Linux&download=matchbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1348",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/matchbox?tag=HEAD-39d4d05-250622T014157-x86_64-Linux&download=matchbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/poseidon/matchbox/matchbox:HEAD-39d4d05-250622T014157-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/poseidon/matchbox/matchbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/matchbox?tag=HEAD-39d4d05-250622T014157-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d6ec0e964b5201e3de5e5d757fe8727d7bea5eea3fb71569848759bee949e69",
+  "size": "18 MB",
+  "size_raw": "18097536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
