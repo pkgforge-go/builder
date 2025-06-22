@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "pipeline-backend",
+  "pkg_id": "worker#github.com_instill_ai_pipeline_backend",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/instill-ai/pipeline-backend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⇋ A REST/gRPC server for Instill VDP API service",
+  "homepage": [
+    "https://github.com/instill-ai/pipeline-backend"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "init",
+    "main",
+    "migration",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/instill-ai/pipeline-backend/archive/b306708cf7ca794a58ae5c97ed3c0051f037c8d0.tar.gz"
+  ],
+  "tag": [
+    "api-first",
+    "data-connector",
+    "go",
+    "golang",
+    "grpc",
+    "integration",
+    "low-code",
+    "rest",
+    "structured-data",
+    "unstructured-data"
+  ],
+  "version": "HEAD-b306708-250621T222519",
+  "version_upstream": "",
+  "bsum": "7e5baf9d395a69b4d4215904956808caacb9261d96a3b5053ce4b733a7e00a72",
+  "build_date": "2025-06-22T13:54:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806875023",
+  "build_id": "15806875023",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/pipeline-backend/worker?tag=HEAD-b306708-250621T222519-aarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/pipeline-backend/worker?tag=HEAD-b306708-250621T222519-aarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/instill-ai/pipeline-backend/worker:HEAD-b306708-250621T222519-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/instill-ai/pipeline-backend/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/pipeline-backend/worker?tag=HEAD-b306708-250621T222519-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be896020ffaef463a6f4c7b3338ede8c20659f2100e9be73a0726fde8c76546d",
+  "size": "125 MB",
+  "size_raw": "130392736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
