@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "filediver-cli",
+  "pkg_family": "filediver",
+  "pkg_id": "filediver-cli#github.com_xypwn_filediver",
+  "pkg_name": "filediver-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xypwn/filediver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Extract Helldivers 2_s 3D models, audio, video, textures and more.",
+  "homepage": [
+    "https://github.com/xypwn/filediver"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "animation-name-dumper",
+    "combine",
+    "crossref-checker",
+    "filediver-cli",
+    "hash-tool",
+    "hd2grep",
+    "physics-name-dumper",
+    "wwise_streams"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xypwn/filediver/archive/21a4951582c5684e212278b566002741113ae3fe.tar.gz"
+  ],
+  "tag": [
+    "extractor",
+    "game-files",
+    "go",
+    "golang",
+    "helldivers-2",
+    "helldivers2",
+    "stingray",
+    "stingray-engine"
+  ],
+  "version": "HEAD-21a4951-250622T134338",
+  "version_upstream": "v0.6.6",
+  "bsum": "5de52afe861f4c6c332ee70262832e819a5e6515aa491c7b0af0e4436e822b3e",
+  "build_date": "2025-06-22T21:51:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811037945",
+  "build_id": "15811037945",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/filediver-cli?tag=HEAD-21a4951-250622T134338-riscv64-Linux&download=filediver-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "64",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/filediver-cli?tag=HEAD-21a4951-250622T134338-riscv64-Linux&download=filediver-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xypwn/filediver/filediver-cli:HEAD-21a4951-250622T134338-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xypwn/filediver/filediver-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/filediver-cli?tag=HEAD-21a4951-250622T134338-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "26f30dd27bd1ea02dd8b9ac97c66340ae670ce425ef55607412d3766652bd99f",
+  "size": "7.3 MB",
+  "size_raw": "7590784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
