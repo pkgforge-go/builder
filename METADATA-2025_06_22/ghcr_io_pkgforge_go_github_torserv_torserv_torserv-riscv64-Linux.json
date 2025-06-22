@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "torserv",
+  "pkg_family": "torserv",
+  "pkg_id": "torserv#github.com_torserv_torserv",
+  "pkg_name": "torserv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/torserv/torserv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hardened zero-config static web server that automatically launches as a Tor hidden service. Ideal for anonymous publishing in hostile environments.",
+  "homepage": [
+    "https://github.com/torserv/torserv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "torserv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/torserv/torserv/archive/c915c9451d807e6376848219f6af1103d5570d60.tar.gz"
+  ],
+  "tag": [
+    "darkweb",
+    "ffoss",
+    "hidden-service",
+    "privacy",
+    "raspberry-pi",
+    "static-site",
+    "tor",
+    "webserver",
+    "zero-config"
+  ],
+  "version": "HEAD-c915c94-250621T073626",
+  "version_upstream": "0.2.5",
+  "bsum": "f70d798cccefe270c18940896a20eacc8f866af538fce46567afe24240a49be3",
+  "build_date": "2025-06-22T18:13:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809203476",
+  "build_id": "15809203476",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/torserv/torserv/torserv?tag=HEAD-c915c94-250621T073626-riscv64-Linux&download=torserv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/torserv/torserv/torserv?tag=HEAD-c915c94-250621T073626-riscv64-Linux&download=torserv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/torserv/torserv/torserv:HEAD-c915c94-250621T073626-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/torserv/torserv/torserv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/torserv/torserv/torserv?tag=HEAD-c915c94-250621T073626-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b7bec78120bbd77d79dcee6d5c0377c2ceccebc0aed6f13adce3becfcaf73c8b",
+  "size": "4.6 MB",
+  "size_raw": "4794968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
