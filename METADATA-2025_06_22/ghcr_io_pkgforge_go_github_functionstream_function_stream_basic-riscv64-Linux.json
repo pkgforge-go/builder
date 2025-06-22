@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "basic",
+  "pkg_family": "function-stream",
+  "pkg_id": "basic#github.com_FunctionStream_function_stream",
+  "pkg_name": "basic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FunctionStream/function-stream",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Function Stream - Event-streaming function platform based on Apache Pulsar and WebAssembly",
+  "homepage": [
+    "https://github.com/FunctionStream/function-stream"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "function-stream-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FunctionStream/function-stream/archive/929ca3717ef1fe0422f1529ed0258e24c5076f52.tar.gz"
+  ],
+  "tag": [
+    "apache-pulsar",
+    "event-driven",
+    "event-streaming",
+    "pulsar-functions",
+    "wasm",
+    "wazero"
+  ],
+  "version": "HEAD-929ca37-250622T181053",
+  "version_upstream": "",
+  "bsum": "a550906917fad5f06b6c9bcd1d2ddafd2e8e865bdcd18d4ec430dcca10355f06",
+  "build_date": "2025-06-22T15:44:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808210726",
+  "build_id": "15808210726",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/functionstream/function-stream/basic?tag=HEAD-929ca37-250622T181053-riscv64-Linux&download=basic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/functionstream/function-stream/basic?tag=HEAD-929ca37-250622T181053-riscv64-Linux&download=basic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/functionstream/function-stream/basic:HEAD-929ca37-250622T181053-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/functionstream/function-stream/basic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/functionstream/function-stream/basic?tag=HEAD-929ca37-250622T181053-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5742f140aa95d3185e25637cfa05f41396293c2887276a625c5f17114d5fc0aa",
+  "size": "11 MB",
+  "size_raw": "10573880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
