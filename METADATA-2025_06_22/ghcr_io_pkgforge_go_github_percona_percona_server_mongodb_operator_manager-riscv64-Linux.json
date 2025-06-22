@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "percona-server-mongodb-operator",
+  "pkg_id": "manager#github.com_percona_percona_server_mongodb_operator",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-server-mongodb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for MongoDB",
+  "homepage": [
+    "https://github.com/percona/percona-server-mongodb-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "mongodb-healthcheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-server-mongodb-operator/archive/64a30c39939dd91f0822dd48732e127930c5d829.tar.gz"
+  ],
+  "tag": [
+    "k8spsmdb",
+    "kubernetes-operator",
+    "mongodb-operator"
+  ],
+  "version": "HEAD-64a30c3-250621T172151",
+  "version_upstream": "",
+  "bsum": "17fbf188e0e4827530c3ec0726a5afe9dc957509dcc6f8c5ae77d1658b8032b6",
+  "build_date": "2025-06-22T14:26:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807228918",
+  "build_id": "15807228918",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mongodb-operator/manager?tag=HEAD-64a30c3-250621T172151-riscv64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "382",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mongodb-operator/manager?tag=HEAD-64a30c3-250621T172151-riscv64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-server-mongodb-operator/manager:HEAD-64a30c3-250621T172151-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-server-mongodb-operator/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mongodb-operator/manager?tag=HEAD-64a30c3-250621T172151-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3445a5492d7e2964e8c172e9d257192dd0248a4238f735cd791d043c9d06e5c",
+  "size": "61 MB",
+  "size_raw": "63056952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
