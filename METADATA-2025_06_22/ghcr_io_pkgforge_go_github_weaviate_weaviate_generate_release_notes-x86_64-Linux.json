@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate_release_notes",
+  "pkg_family": "weaviate",
+  "pkg_id": "generate_release_notes#github.com_weaviate_weaviate",
+  "pkg_name": "generate_release_notes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/weaviate/weaviate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+  "homepage": [
+    "https://github.com/weaviate/weaviate"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "generate_release_notes",
+    "license_headers",
+    "mockoidc",
+    "mockoidchelper",
+    "release_template",
+    "swagger_custom_code",
+    "weaviate-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/weaviate/weaviate/archive/1b34fac7b0a46322cb94b7e34228941ee207bc04.tar.gz"
+  ],
+  "tag": [
+    "approximate-nearest-neighbor-search",
+    "generative-search",
+    "grpc",
+    "hnsw",
+    "hybrid-search",
+    "image-search",
+    "information-retrieval",
+    "mlops",
+    "nearest-neighbor-search",
+    "neural-search",
+    "recommender-system",
+    "search-engine",
+    "semantic-search",
+    "semantic-search-engine",
+    "similarity-search",
+    "vector-database",
+    "vector-search",
+    "vector-search-engine",
+    "vectors",
+    "weaviate"
+  ],
+  "version": "HEAD-1b34fac-250620T122802",
+  "version_upstream": "",
+  "bsum": "b3188e6cd0ea5a625c863b5546815ad72cdeba167a72184d45efdddf37595d33",
+  "build_date": "2025-06-22T20:15:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810143357",
+  "build_id": "15810143357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/weaviate/weaviate/generate_release_notes?tag=HEAD-1b34fac-250620T122802-x86_64-Linux&download=generate_release_notes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13699",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/weaviate/weaviate/generate_release_notes?tag=HEAD-1b34fac-250620T122802-x86_64-Linux&download=generate_release_notes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/weaviate/weaviate/generate_release_notes:HEAD-1b34fac-250620T122802-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/weaviate/weaviate/generate_release_notes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/weaviate/weaviate/generate_release_notes?tag=HEAD-1b34fac-250620T122802-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c624a984608e8378f6d9323e23fd93e5ca4a61474125111bc723dd54ad9f56a",
+  "size": "6.3 MB",
+  "size_raw": "6595072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
