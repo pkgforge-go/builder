@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server-pdp",
+  "pkg_family": "permguard",
+  "pkg_id": "server-pdp#github.com_permguard_permguard",
+  "pkg_name": "server-pdp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/permguard/permguard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Permguard is an Open Source Multi-Zone, Multi-Tenant, ZTAuth* Provider",
+  "homepage": [
+    "https://github.com/permguard/permguard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "provisioner-db-sqlite",
+    "server-all-in-one",
+    "server-pap",
+    "server-pdp",
+    "server-pip",
+    "server-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/permguard/permguard/archive/e749c4ebad201f80447c79bd08e066e7405cda5f.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "authz",
+    "cloudnative",
+    "permissions",
+    "policy-as-code",
+    "security"
+  ],
+  "version": "HEAD-e749c4e-250622T112546",
+  "version_upstream": "",
+  "bsum": "91464a26ce1937c093eb762b6e999e724f666910b1392412126b482ab6b349fa",
+  "build_date": "2025-06-22T16:37:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808298197",
+  "build_id": "15808298197",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-pdp?tag=HEAD-e749c4e-250622T112546-riscv64-Linux&download=server-pdp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-pdp?tag=HEAD-e749c4e-250622T112546-riscv64-Linux&download=server-pdp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/permguard/permguard/server-pdp:HEAD-e749c4e-250622T112546-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/permguard/permguard/server-pdp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-pdp?tag=HEAD-e749c4e-250622T112546-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e9874787f9c7c2928d9c28b316c4c777527e76c610b6b0ac6171565b22e3c374",
+  "size": "18 MB",
+  "size_raw": "18269624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
