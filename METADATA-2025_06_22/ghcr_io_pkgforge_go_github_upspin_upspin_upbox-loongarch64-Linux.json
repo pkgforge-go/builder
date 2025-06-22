@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "upbox",
+  "pkg_family": "upspin",
+  "pkg_id": "upbox#github.com_upspin_upspin",
+  "pkg_name": "upbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/upspin/upspin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Upspin: A framework for naming everyone_s everything.",
+  "homepage": [
+    "https://github.com/upspin/upspin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cacheserver",
+    "dirserver",
+    "frontend",
+    "keyserver",
+    "storeserver",
+    "upbox",
+    "upspin",
+    "upspin-audit",
+    "upspin-setupstorage",
+    "upspinfs",
+    "upspinserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/upspin/upspin/archive/891166a946f54c3b9dc107c3d8d68ad1c4adcd41.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "fuse",
+    "golang",
+    "sharing",
+    "storage",
+    "upspin"
+  ],
+  "version": "HEAD-891166a-250211T090839",
+  "version_upstream": "",
+  "bsum": "859b820f0f9c093b9927c39e0e2904059ee9ad41a672eb3611ab694a2865219a",
+  "build_date": "2025-06-22T19:30:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809747235",
+  "build_id": "15809747235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upbox?tag=HEAD-891166a-250211T090839-loongarch64-Linux&download=upbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upbox?tag=HEAD-891166a-250211T090839-loongarch64-Linux&download=upbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/upspin/upspin/upbox:HEAD-891166a-250211T090839-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/upspin/upspin/upbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upbox?tag=HEAD-891166a-250211T090839-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44b11a7f4c3527d3ea16dbfbbcfa7b3e3970b39d6bde799a233363eeb67edd43",
+  "size": "7.3 MB",
+  "size_raw": "7589824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

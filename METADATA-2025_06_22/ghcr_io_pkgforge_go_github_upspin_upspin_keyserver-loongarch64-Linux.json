@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "keyserver",
+  "pkg_family": "upspin",
+  "pkg_id": "keyserver#github.com_upspin_upspin",
+  "pkg_name": "keyserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/upspin/upspin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Upspin: A framework for naming everyone_s everything.",
+  "homepage": [
+    "https://github.com/upspin/upspin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cacheserver",
+    "dirserver",
+    "frontend",
+    "keyserver",
+    "storeserver",
+    "upbox",
+    "upspin",
+    "upspin-audit",
+    "upspin-setupstorage",
+    "upspinfs",
+    "upspinserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/upspin/upspin/archive/891166a946f54c3b9dc107c3d8d68ad1c4adcd41.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "fuse",
+    "golang",
+    "sharing",
+    "storage",
+    "upspin"
+  ],
+  "version": "HEAD-891166a-250211T090839",
+  "version_upstream": "",
+  "bsum": "056247e177435001a9713852895b6bc8087137c2cf2724f0cd31b3fb244532a6",
+  "build_date": "2025-06-22T19:30:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809747235",
+  "build_id": "15809747235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/keyserver?tag=HEAD-891166a-250211T090839-loongarch64-Linux&download=keyserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/keyserver?tag=HEAD-891166a-250211T090839-loongarch64-Linux&download=keyserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/upspin/upspin/keyserver:HEAD-891166a-250211T090839-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/upspin/upspin/keyserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/keyserver?tag=HEAD-891166a-250211T090839-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ec05c9e8595b5c5cb9f11d424414a7072bb0c566dc5bbeef85698321f7e38c6",
+  "size": "12 MB",
+  "size_raw": "11619232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
