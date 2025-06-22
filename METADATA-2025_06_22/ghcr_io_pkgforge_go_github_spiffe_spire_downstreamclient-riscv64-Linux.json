@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "downstreamclient",
+  "pkg_family": "spire",
+  "pkg_id": "downstreamclient#github.com_spiffe_spire",
+  "pkg_name": "downstreamclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/76299f86f377aa357aab9396367f670b192b63d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-76299f8-250619T171403",
+  "version_upstream": "",
+  "bsum": "3d2675496dd7ecbd7a6aa2c28a75cb46ab23dfe7b91e03b63f41bb4a55eadf33",
+  "build_date": "2025-06-22T14:45:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807303063",
+  "build_id": "15807303063",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/downstreamclient?tag=HEAD-76299f8-250619T171403-riscv64-Linux&download=downstreamclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/downstreamclient?tag=HEAD-76299f8-250619T171403-riscv64-Linux&download=downstreamclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/downstreamclient:HEAD-76299f8-250619T171403-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/downstreamclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/downstreamclient?tag=HEAD-76299f8-250619T171403-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b87f8b41db54dada7feab3a6391e3f19bea139aac5fce49d5a3496d3012287e",
+  "size": "13 MB",
+  "size_raw": "12949144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
