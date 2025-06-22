@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "service",
+  "pkg_family": "rlxos",
+  "pkg_id": "service#github.com_itsManjeet_rlxos",
+  "pkg_name": "service",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capsule",
+    "console",
+    "debug",
+    "display",
+    "genkeycodes",
+    "init",
+    "service",
+    "udevd",
+    "welcome"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/95b27573bfda9d7af8dd42cf26cd2ea04b184480.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-95b2757-250621T144346",
+  "version_upstream": "",
+  "bsum": "40df906dfee6b74afc958be4c2d555e733a52c9e165020ad60c485dee9692cc2",
+  "build_date": "2025-06-22T13:46:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806876801",
+  "build_id": "15806876801",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/service?tag=HEAD-95b2757-250621T144346-x86_64-Linux&download=service.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/service?tag=HEAD-95b2757-250621T144346-x86_64-Linux&download=service",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/service:HEAD-95b2757-250621T144346-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/service",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/service?tag=HEAD-95b2757-250621T144346-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfa473405c43dafe052e86bcc469d818b22a5d23fd796220860f6c4c42f1ae61",
+  "size": "2.5 MB",
+  "size_raw": "2575288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

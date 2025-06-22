@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "capsule",
+  "pkg_family": "rlxos",
+  "pkg_id": "capsule#github.com_itsManjeet_rlxos",
+  "pkg_name": "capsule",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capsule",
+    "console",
+    "debug",
+    "display",
+    "genkeycodes",
+    "init",
+    "service",
+    "udevd",
+    "welcome"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/95b27573bfda9d7af8dd42cf26cd2ea04b184480.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-95b2757-250621T144346",
+  "version_upstream": "",
+  "bsum": "f74632a7322aa591555a7fa840ab94f81ca65bec7cda52a31d746c4bcf1ef6e4",
+  "build_date": "2025-06-22T13:46:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806876801",
+  "build_id": "15806876801",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/capsule?tag=HEAD-95b2757-250621T144346-x86_64-Linux&download=capsule.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/capsule?tag=HEAD-95b2757-250621T144346-x86_64-Linux&download=capsule",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/capsule:HEAD-95b2757-250621T144346-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/capsule",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/capsule?tag=HEAD-95b2757-250621T144346-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61b7b93d9dba237c76b958ed55c212b5cfb0edde14149625511d2a8441c9224e",
+  "size": "2.7 MB",
+  "size_raw": "2826104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
