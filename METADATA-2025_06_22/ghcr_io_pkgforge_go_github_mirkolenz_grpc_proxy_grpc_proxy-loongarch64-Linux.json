@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "grpc-proxy",
+  "pkg_family": "grpc-proxy",
+  "pkg_id": "grpc-proxy#github.com_mirkolenz_grpc_proxy",
+  "pkg_name": "grpc-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mirkolenz/grpc-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proxy server built on envoy providing a REST gateway and the ability to translate gRPC-Web and/or Connect requests requests into regular gRPC requests.",
+  "homepage": [
+    "https://github.com/mirkolenz/grpc-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mirkolenz/grpc-proxy/archive/522974b78bbf2630e5f7ff706800db6474866c80.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "envoy",
+    "grpc",
+    "http",
+    "protobuf",
+    "proxy"
+  ],
+  "version": "HEAD-522974b-250622T001047",
+  "version_upstream": "",
+  "bsum": "63a0ef73e9cb5459392e4e9afcd9371d20124f28a8704350ecc4099551d5538b",
+  "build_date": "2025-06-22T14:09:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807130434",
+  "build_id": "15807130434",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirkolenz/grpc-proxy/grpc-proxy?tag=HEAD-522974b-250622T001047-loongarch64-Linux&download=grpc-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirkolenz/grpc-proxy/grpc-proxy?tag=HEAD-522974b-250622T001047-loongarch64-Linux&download=grpc-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mirkolenz/grpc-proxy/grpc-proxy:HEAD-522974b-250622T001047-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mirkolenz/grpc-proxy/grpc-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mirkolenz/grpc-proxy/grpc-proxy?tag=HEAD-522974b-250622T001047-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46abbaf3aabbe59f136cb794e89b52cbfb84a7fa3bafa82eb65691de00efad26",
+  "size": "4.1 MB",
+  "size_raw": "4255416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
