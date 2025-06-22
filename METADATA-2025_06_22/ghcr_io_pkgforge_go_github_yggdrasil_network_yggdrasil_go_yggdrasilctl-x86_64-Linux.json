@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "yggdrasilctl",
+  "pkg_family": "yggdrasil-go",
+  "pkg_id": "yggdrasilctl#github.com_yggdrasil_network_yggdrasil_go",
+  "pkg_name": "yggdrasilctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yggdrasil-network/yggdrasil-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An experiment in scalable routing as an encrypted IPv6 overlay network",
+  "homepage": [
+    "https://github.com/yggdrasil-network/yggdrasil-go"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ansible",
+    "genkeys",
+    "yggdrasil",
+    "yggdrasilctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/yggdrasil-network/yggdrasil-go/archive/81543e9cc03fc87cd3493efaee969a7ee00716fd.tar.gz"
+  ],
+  "tag": [
+    "decentralized",
+    "e2e-encryption",
+    "ipv6",
+    "mesh",
+    "mesh-networks",
+    "routing-algorithm",
+    "routing-mesh",
+    "spanning-tree"
+  ],
+  "version": "HEAD-81543e9-250621T200912",
+  "version_upstream": "",
+  "bsum": "e2b5aa84a94a1d372f41927f2c8ab01ec8bdb2527b67750f68d6f1f7bb79594f",
+  "build_date": "2025-06-22T21:57:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811053334",
+  "build_id": "15811053334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yggdrasil-network/yggdrasil-go/yggdrasilctl?tag=HEAD-81543e9-250621T200912-x86_64-Linux&download=yggdrasilctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4020",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yggdrasil-network/yggdrasil-go/yggdrasilctl?tag=HEAD-81543e9-250621T200912-x86_64-Linux&download=yggdrasilctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yggdrasil-network/yggdrasil-go/yggdrasilctl:HEAD-81543e9-250621T200912-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yggdrasil-network/yggdrasil-go/yggdrasilctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yggdrasil-network/yggdrasil-go/yggdrasilctl?tag=HEAD-81543e9-250621T200912-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ac6e1d5f87d11e5bbbfa920e1d542ec76ead271723cfa543aae70215bff56cc",
+  "size": "7.6 MB",
+  "size_raw": "7919776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
