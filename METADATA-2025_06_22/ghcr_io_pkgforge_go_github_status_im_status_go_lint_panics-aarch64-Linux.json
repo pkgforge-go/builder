@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "lint-panics",
+  "pkg_family": "status-go",
+  "pkg_id": "lint-panics#github.com_status_im_status_go",
+  "pkg_name": "lint-panics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/status-im/status-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The _backend_ library for Status Apps",
+  "homepage": [
+    "https://github.com/status-im/status-go"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate_handlers",
+    "library",
+    "lint-panics",
+    "parse-api",
+    "test-coverage-utils"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/status-im/status-go/archive/2a8f142fbe91d7445ff75859431a3c656dde564e.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptocurrency",
+    "ethereum",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-2a8f142-250620T100452",
+  "version_upstream": "",
+  "bsum": "4f6e4cb6b5ecbde50685ac80d73e60563d690d17ca0ac91c8a5a07c1ff657ad7",
+  "build_date": "2025-06-22T16:51:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808453273",
+  "build_id": "15808453273",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/status-im/status-go/lint-panics?tag=HEAD-2a8f142-250620T100452-aarch64-Linux&download=lint-panics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "744",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/status-im/status-go/lint-panics?tag=HEAD-2a8f142-250620T100452-aarch64-Linux&download=lint-panics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/status-im/status-go/lint-panics:HEAD-2a8f142-250620T100452-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/status-im/status-go/lint-panics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/status-im/status-go/lint-panics?tag=HEAD-2a8f142-250620T100452-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d0dbbd42b0f4bd0ed0b0f123dafcacac8039088f3a7179cb60881a176ef977ee",
+  "size": "8.8 MB",
+  "size_raw": "9190208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
