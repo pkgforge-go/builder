@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "nixery",
+  "pkg_id": "server#github.com_tazjin_nixery",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tazjin/nixery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery",
+  "homepage": [
+    "https://github.com/tazjin/nixery"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "popcount",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tazjin/nixery/archive/c6d4692b1b6eb105c9abce0411d2ef4b8708a6e1.tar.gz"
+  ],
+  "tag": [
+    "broccoli",
+    "container-images",
+    "container-registry",
+    "docker",
+    "kubernetes",
+    "nix",
+    "nixos"
+  ],
+  "version": "HEAD-c6d4692-250420T114653",
+  "version_upstream": "",
+  "bsum": "71ac4f9f4758b974e05a1b7aaa0af2aa2c430f9ffb582ba6bf8d5b86a7bdb9d2",
+  "build_date": "2025-06-22T17:00:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808575891",
+  "build_id": "15808575891",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tazjin/nixery/server?tag=HEAD-c6d4692-250420T114653-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1887",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tazjin/nixery/server?tag=HEAD-c6d4692-250420T114653-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tazjin/nixery/server:HEAD-c6d4692-250420T114653-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tazjin/nixery/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tazjin/nixery/server?tag=HEAD-c6d4692-250420T114653-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e17e2164b32ade89d468e42923e903a48469e990960cf9ad7e2bd919bf52794",
+  "size": "18 MB",
+  "size_raw": "18175576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
