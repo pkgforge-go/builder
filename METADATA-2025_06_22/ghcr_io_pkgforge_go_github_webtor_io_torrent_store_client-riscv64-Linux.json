@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "torrent-store",
+  "pkg_id": "client#github.com_webtor_io_torrent_store",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/webtor-io/torrent-store",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Torrent storage with multiple backends and GRPC access",
+  "homepage": [
+    "https://github.com/webtor-io/torrent-store"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "torrent-store"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/webtor-io/torrent-store/archive/d356785ea126285dc8de4f18736f7a8982d35082.tar.gz"
+  ],
+  "tag": [
+    "grpc",
+    "torrent"
+  ],
+  "version": "HEAD-d356785-250128T200027",
+  "version_upstream": "v1.0.0",
+  "bsum": "1b4576db577a962317aea614e963e00cd1c95e495aa7815d226f7157721c4025",
+  "build_date": "2025-06-22T20:21:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810160966",
+  "build_id": "15810160966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/torrent-store/client?tag=HEAD-d356785-250128T200027-riscv64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/torrent-store/client?tag=HEAD-d356785-250128T200027-riscv64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/webtor-io/torrent-store/client:HEAD-d356785-250128T200027-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/webtor-io/torrent-store/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/torrent-store/client?tag=HEAD-d356785-250128T200027-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41b81c048a1a7adc2afb497ea9cc6d0e22f0223562348c6680fd93f2bbd575c9",
+  "size": "11 MB",
+  "size_raw": "11311960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
