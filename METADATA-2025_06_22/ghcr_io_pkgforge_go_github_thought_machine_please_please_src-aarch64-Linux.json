@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "please-src",
+  "pkg_family": "please",
+  "pkg_id": "please-src#github.com_thought_machine_please",
+  "pkg_name": "please-src",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thought-machine/please",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance extensible build system for reproducible multi-language builds.",
+  "homepage": [
+    "https://github.com/thought-machine/please"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "build_langserver",
+    "codelabs",
+    "config_templater",
+    "grammar_templater",
+    "http_cache",
+    "lexicon_templater",
+    "main",
+    "please-src",
+    "please_shim",
+    "plugin_config_tool",
+    "plugin_templater",
+    "release_signer",
+    "templater",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/thought-machine/please/archive/e9b4f3aa10095ae08642918e13daae374cf772d0.tar.gz"
+  ],
+  "tag": [
+    "bazel",
+    "buck",
+    "build",
+    "build-system",
+    "build-tool",
+    "monorepo",
+    "multi-language",
+    "pants",
+    "please-build"
+  ],
+  "version": "HEAD-e9b4f3a-250611T120204",
+  "version_upstream": "",
+  "bsum": "02a631d55c6fe0028fa22695515f350a8340293c99ffd0dfe47330fa0a9ded13",
+  "build_date": "2025-06-22T17:47:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808730245",
+  "build_id": "15808730245",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/please-src?tag=HEAD-e9b4f3a-250611T120204-aarch64-Linux&download=please-src.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2518",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/please-src?tag=HEAD-e9b4f3a-250611T120204-aarch64-Linux&download=please-src",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thought-machine/please/please-src:HEAD-e9b4f3a-250611T120204-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thought-machine/please/please-src",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/please-src?tag=HEAD-e9b4f3a-250611T120204-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d2491467fc0609883b3a2929d1e1b5b3f6fed85f03937a2dd81b7b6978ffb6d",
+  "size": "21 MB",
+  "size_raw": "21723904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
