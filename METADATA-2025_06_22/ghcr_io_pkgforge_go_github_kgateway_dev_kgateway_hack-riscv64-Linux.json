@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "kgateway",
+  "pkg_id": "hack#github.com_kgateway_dev_kgateway",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kgateway-dev/kgateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Cloud-Native API Gateway and AI Gateway",
+  "homepage": [
+    "https://github.com/kgateway-dev/kgateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "hack",
+    "kgateway",
+    "modelschema",
+    "oss_compliance",
+    "plugin",
+    "sds"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kgateway-dev/kgateway/archive/6be1ac99d9b5501b28e0884b1f3da1ea6403f571.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "api-management",
+    "cloud-native",
+    "envoy",
+    "envoy-proxy",
+    "grpc",
+    "hybrid-apps",
+    "kubernetes",
+    "kubernetes-ingress-controller",
+    "legacy-apps",
+    "microservices",
+    "serverless"
+  ],
+  "version": "HEAD-6be1ac9-250621T145232",
+  "version_upstream": "",
+  "bsum": "41c8cf1dd914535ab2fc82ac1f501d952a4908132b74973e7af8115e76d98f8e",
+  "build_date": "2025-06-22T14:03:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806909672",
+  "build_id": "15806909672",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kgateway-dev/kgateway/hack?tag=HEAD-6be1ac9-250621T145232-riscv64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4579",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kgateway-dev/kgateway/hack?tag=HEAD-6be1ac9-250621T145232-riscv64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kgateway-dev/kgateway/hack:HEAD-6be1ac9-250621T145232-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kgateway-dev/kgateway/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kgateway-dev/kgateway/hack?tag=HEAD-6be1ac9-250621T145232-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3dfc33927571f62639b40106c859cbcea3a5cf91a0fbbc5f2042a0c13d126815",
+  "size": "1.1 MB",
+  "size_raw": "1061488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
