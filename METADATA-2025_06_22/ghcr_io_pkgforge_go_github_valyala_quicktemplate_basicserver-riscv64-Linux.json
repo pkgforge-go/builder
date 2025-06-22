@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "basicserver",
+  "pkg_family": "quicktemplate",
+  "pkg_id": "basicserver#github.com_valyala_quicktemplate",
+  "pkg_name": "basicserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/valyala/quicktemplate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template",
+  "homepage": [
+    "https://github.com/valyala/quicktemplate"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basicserver",
+    "qtc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/valyala/quicktemplate/archive/4d619e27ca723c29dcecf9844b193ee20df2322a.tar.gz"
+  ],
+  "tag": [
+    "fast",
+    "golang",
+    "template-engine"
+  ],
+  "version": "HEAD-4d619e2-240705T005238",
+  "version_upstream": "v1.8.0",
+  "bsum": "c2263b4eca7cba5c7d59fff748757f0b258e770728530866f5b9e2f42174ba1d",
+  "build_date": "2025-06-22T19:37:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809770846",
+  "build_id": "15809770846",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/quicktemplate/basicserver?tag=HEAD-4d619e2-240705T005238-riscv64-Linux&download=basicserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3226",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/quicktemplate/basicserver?tag=HEAD-4d619e2-240705T005238-riscv64-Linux&download=basicserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/valyala/quicktemplate/basicserver:HEAD-4d619e2-240705T005238-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/valyala/quicktemplate/basicserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/quicktemplate/basicserver?tag=HEAD-4d619e2-240705T005238-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd6f6add9430de55a3f605078ac80c541efcbd85195ad5ab1905233e8805ba0a",
+  "size": "5.4 MB",
+  "size_raw": "5599544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
