@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "go-flarum",
+  "pkg_id": "server#github.com_corvofeng_go_flarum",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/corvofeng/go-flarum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A golang version flarum",
+  "homepage": [
+    "https://github.com/corvofeng/go-flarum"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checker",
+    "migration",
+    "server",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/corvofeng/go-flarum/archive/233e389c682eb752831f12a9b87021c9e0f91310.tar.gz"
+  ],
+  "tag": [
+    "flarum",
+    "golang"
+  ],
+  "version": "HEAD-233e389-250622T122212",
+  "version_upstream": "v20250622",
+  "bsum": "c19b57c93f0361b3cc7dc5338a657967771c24f14bb25750035b2e0c292ca879",
+  "build_date": "2025-06-22T15:58:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808237427",
+  "build_id": "15808237427",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corvofeng/go-flarum/server?tag=HEAD-233e389-250622T122212-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corvofeng/go-flarum/server?tag=HEAD-233e389-250622T122212-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/corvofeng/go-flarum/server:HEAD-233e389-250622T122212-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/corvofeng/go-flarum/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corvofeng/go-flarum/server?tag=HEAD-233e389-250622T122212-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "479060c4b933db13e31511ab3e52cfa95990a47c8e8097dd44ab84d362db342a",
+  "size": "23 MB",
+  "size_raw": "23625264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
