@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "initdb",
+  "pkg_family": "toughradius",
+  "pkg_id": "initdb#github.com_talkincode_toughradius",
+  "pkg_name": "initdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/talkincode/toughradius",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "toughradius provides radius server, tr069 acs",
+  "homepage": [
+    "https://github.com/talkincode/toughradius"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "initdb",
+    "initdevcfg",
+    "inittest",
+    "toughradius"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/talkincode/toughradius/archive/dfd7c8b956303b807afcf99b7bbabd66fb22e42e.tar.gz"
+  ],
+  "tag": [
+    "aaa",
+    "authentication",
+    "chap",
+    "cwmp",
+    "eap-md5",
+    "eap-mschapv2",
+    "eap-otp",
+    "freeradius",
+    "freeradius-rest",
+    "mikrotik",
+    "mschap",
+    "pap",
+    "radius",
+    "radius-protocol",
+    "radsec",
+    "radsec-server",
+    "routeros",
+    "toughradius",
+    "tr069",
+    "wlan"
+  ],
+  "version": "HEAD-dfd7c8b-250622T212050",
+  "version_upstream": "",
+  "bsum": "772461252e7282512ab97d4983fdac55e8e02af11d8486d0f82668c20be3a464",
+  "build_date": "2025-06-22T16:56:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808525975",
+  "build_id": "15808525975",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/talkincode/toughradius/initdb?tag=HEAD-dfd7c8b-250622T212050-riscv64-Linux&download=initdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "605",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/talkincode/toughradius/initdb?tag=HEAD-dfd7c8b-250622T212050-riscv64-Linux&download=initdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/talkincode/toughradius/initdb:HEAD-dfd7c8b-250622T212050-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/talkincode/toughradius/initdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/talkincode/toughradius/initdb?tag=HEAD-dfd7c8b-250622T212050-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ff6839d44363e00c738f650b2109b43711bd2d2c26200d5e577ce9771c883a2",
+  "size": "20 MB",
+  "size_raw": "19998296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
