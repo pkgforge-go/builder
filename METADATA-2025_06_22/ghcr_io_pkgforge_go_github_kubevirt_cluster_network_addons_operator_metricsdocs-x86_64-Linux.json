@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "metricsdocs",
+  "pkg_family": "cluster-network-addons-operator",
+  "pkg_id": "metricsdocs#github.com_kubevirt_cluster_network_addons_operator",
+  "pkg_name": "metricsdocs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/cluster-network-addons-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy additional networking components on top of your Kubernetes cluster",
+  "homepage": [
+    "https://github.com/kubevirt/cluster-network-addons-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bumper",
+    "manager",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/cluster-network-addons-operator/archive/cd88e4b1b86424f168ac5303d30ef9f14388a5fb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cd88e4b-250622T105442",
+  "version_upstream": "",
+  "bsum": "2ad18516da081ede155dd9bcd8bed0d29701fe6f158de7405dbcfb9722fd1488",
+  "build_date": "2025-06-22T16:24:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808268123",
+  "build_id": "15808268123",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/metricsdocs?tag=HEAD-cd88e4b-250622T105442-x86_64-Linux&download=metricsdocs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "80",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/metricsdocs?tag=HEAD-cd88e4b-250622T105442-x86_64-Linux&download=metricsdocs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/metricsdocs:HEAD-cd88e4b-250622T105442-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/metricsdocs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/metricsdocs?tag=HEAD-cd88e4b-250622T105442-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d2c3e15b41f01d1749e4e27ae93514f20e8d69f871c558b5610e807f66e88893",
+  "size": "37 MB",
+  "size_raw": "37867936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

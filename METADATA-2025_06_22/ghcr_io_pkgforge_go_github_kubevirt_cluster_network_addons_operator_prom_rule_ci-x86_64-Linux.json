@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prom-rule-ci",
+  "pkg_family": "cluster-network-addons-operator",
+  "pkg_id": "prom-rule-ci#github.com_kubevirt_cluster_network_addons_operator",
+  "pkg_name": "prom-rule-ci",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/cluster-network-addons-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy additional networking components on top of your Kubernetes cluster",
+  "homepage": [
+    "https://github.com/kubevirt/cluster-network-addons-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bumper",
+    "manager",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/cluster-network-addons-operator/archive/cd88e4b1b86424f168ac5303d30ef9f14388a5fb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cd88e4b-250622T105442",
+  "version_upstream": "",
+  "bsum": "6bf42809c9fb8673b9e0674999071ac9ecf8812c931efb90c4581c263f9834c3",
+  "build_date": "2025-06-22T16:23:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808268123",
+  "build_id": "15808268123",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-rule-ci?tag=HEAD-cd88e4b-250622T105442-x86_64-Linux&download=prom-rule-ci.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "80",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-rule-ci?tag=HEAD-cd88e4b-250622T105442-x86_64-Linux&download=prom-rule-ci",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-rule-ci:HEAD-cd88e4b-250622T105442-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-rule-ci",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-rule-ci?tag=HEAD-cd88e4b-250622T105442-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7e03785ff500516422d037bf0f0902c82f92ea44fdd090c36f305f92c2e97d7",
+  "size": "19 MB",
+  "size_raw": "19113248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
