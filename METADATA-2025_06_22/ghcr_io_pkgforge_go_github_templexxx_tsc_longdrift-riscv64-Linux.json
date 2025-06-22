@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "longdrift",
+  "pkg_family": "tsc",
+  "pkg_id": "longdrift#github.com_templexxx_tsc",
+  "pkg_name": "longdrift",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/templexxx/tsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Get unix time _nanoseconds_ in 8ns, 10x faster than stdlib",
+  "homepage": [
+    "https://github.com/templexxx/tsc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "longdrift",
+    "tsc-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/templexxx/tsc/archive/7dae29e837db405315c2a3972fd5a909b549fa92.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7dae29e-250504T005004",
+  "version_upstream": "v1.3.0",
+  "bsum": "55737d7deab45165da6d87e8ad6c995f8a658deb427d2b69bd0ce03dfcd516b7",
+  "build_date": "2025-06-22T17:20:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808642657",
+  "build_id": "15808642657",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templexxx/tsc/longdrift?tag=HEAD-7dae29e-250504T005004-riscv64-Linux&download=longdrift.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "139",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templexxx/tsc/longdrift?tag=HEAD-7dae29e-250504T005004-riscv64-Linux&download=longdrift",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/templexxx/tsc/longdrift:HEAD-7dae29e-250504T005004-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/templexxx/tsc/longdrift",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templexxx/tsc/longdrift?tag=HEAD-7dae29e-250504T005004-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b0bfbea9e6c5a541447211e90db4bd2a586e7ce3c0af6bbed55acf2f8b0bb184",
+  "size": "9.5 MB",
+  "size_raw": "9904056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
