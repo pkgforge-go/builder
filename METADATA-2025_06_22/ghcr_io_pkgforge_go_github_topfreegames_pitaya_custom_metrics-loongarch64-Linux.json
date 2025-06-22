@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "custom_metrics",
+  "pkg_family": "pitaya",
+  "pkg_id": "custom_metrics#github.com_topfreegames_pitaya",
+  "pkg_name": "custom_metrics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topfreegames/pitaya",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
+  "homepage": [
+    "https://github.com/topfreegames/pitaya"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chat",
+    "cluster",
+    "cluster_grpc",
+    "custom_metrics",
+    "pipeline",
+    "pitaya",
+    "rate_limiting",
+    "testing",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topfreegames/pitaya/archive/08d34a00bfc535b4e280cf74fd1092562375402d.tar.gz"
+  ],
+  "tag": [
+    "android",
+    "game",
+    "game-framework",
+    "game-server",
+    "golang-application",
+    "ios"
+  ],
+  "version": "HEAD-08d34a0-250428T082213",
+  "version_upstream": "v3.0.0-beta.6",
+  "bsum": "11223329722432f4174884102a1034cd8713f69dbf2aa7b8ee6d0197ef202acb",
+  "build_date": "2025-06-22T18:15:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809193488",
+  "build_id": "15809193488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topfreegames/pitaya/custom_metrics?tag=HEAD-08d34a0-250428T082213-loongarch64-Linux&download=custom_metrics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2559",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topfreegames/pitaya/custom_metrics?tag=HEAD-08d34a0-250428T082213-loongarch64-Linux&download=custom_metrics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topfreegames/pitaya/custom_metrics:HEAD-08d34a0-250428T082213-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topfreegames/pitaya/custom_metrics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topfreegames/pitaya/custom_metrics?tag=HEAD-08d34a0-250428T082213-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40415d542b7afaf0ac64d96d943b7e2c1d6b9bcab270a4ddb35aee77ee254595",
+  "size": "22 MB",
+  "size_raw": "22170688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
