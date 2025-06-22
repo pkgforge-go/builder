@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "podinfo",
+  "pkg_family": "podinfo",
+  "pkg_id": "podinfo#github.com_stefanprodan_podinfo",
+  "pkg_name": "podinfo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stefanprodan/podinfo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go microservice template for Kubernetes",
+  "homepage": [
+    "https://github.com/stefanprodan/podinfo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "podcli",
+    "podinfo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stefanprodan/podinfo/archive/c23d57a4e998016075ad67f4ad0e6c607e012fc8.tar.gz"
+  ],
+  "tag": [
+    "cuelang",
+    "e2e-testing",
+    "gitops",
+    "golang",
+    "helm",
+    "kubernetes",
+    "kustomize",
+    "microservice"
+  ],
+  "version": "HEAD-c23d57a-250616T094156",
+  "version_upstream": "",
+  "bsum": "a3ed63ec3910314430d8a0737b5e14047cfae06b8630cf22122cb8599f46a635",
+  "build_date": "2025-06-22T14:58:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807426352",
+  "build_id": "15807426352",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stefanprodan/podinfo/podinfo?tag=HEAD-c23d57a-250616T094156-riscv64-Linux&download=podinfo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5624",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stefanprodan/podinfo/podinfo?tag=HEAD-c23d57a-250616T094156-riscv64-Linux&download=podinfo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stefanprodan/podinfo/podinfo:HEAD-c23d57a-250616T094156-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stefanprodan/podinfo/podinfo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stefanprodan/podinfo/podinfo?tag=HEAD-c23d57a-250616T094156-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d9e6810a0b1d461ddf0230079d1b3ee9bbd8d9afcb68c61165540a81b144f49",
+  "size": "29 MB",
+  "size_raw": "30024056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
