@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "webhook-server",
+  "pkg_family": "kernel-module-management",
+  "pkg_id": "webhook-server#github.com_kubernetes_sigs_kernel_module_management",
+  "pkg_name": "webhook-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/kernel-module-management",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The kernel module management operator builds, signs and loads kernel modules in Kubernetes clusters.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/kernel-module-management"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "manager-hub",
+    "webhook-server",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/kernel-module-management/archive/8fcf28240d78d072679f6200d75010ec4042eff5.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "kernel",
+    "kernel-modules",
+    "kmm",
+    "kubernetes"
+  ],
+  "version": "HEAD-8fcf282-250622T033652",
+  "version_upstream": "",
+  "bsum": "4b9654cb6dc814c97b08ce2ad14ca344b42a8264e0deff4b0a9bfc88a7bf4265",
+  "build_date": "2025-06-22T16:22:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808267740",
+  "build_id": "15808267740",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kernel-module-management/webhook-server?tag=HEAD-8fcf282-250622T033652-x86_64-Linux&download=webhook-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "104",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kernel-module-management/webhook-server?tag=HEAD-8fcf282-250622T033652-x86_64-Linux&download=webhook-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kernel-module-management/webhook-server:HEAD-8fcf282-250622T033652-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kernel-module-management/webhook-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kernel-module-management/webhook-server?tag=HEAD-8fcf282-250622T033652-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb5f77ee61adf729f3b9378f1858dfc464721d2e17f608fe5bc104b0e61d8dfc",
+  "size": "53 MB",
+  "size_raw": "54982144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
