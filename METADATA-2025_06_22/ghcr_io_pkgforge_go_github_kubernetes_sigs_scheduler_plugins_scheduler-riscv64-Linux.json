@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "scheduler-plugins",
+  "pkg_id": "scheduler#github.com_kubernetes_sigs_scheduler_plugins",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/scheduler-plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for out-of-tree scheduler plugins based on scheduler framework.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/scheduler-plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/scheduler-plugins/archive/9f441058651164d406d6ac7ec751f0dadecd162a.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-scheduling"
+  ],
+  "version": "HEAD-9f44105-250621T112655",
+  "version_upstream": "",
+  "bsum": "d161fdaddfb68e3607f2e9c93cc1a8a2d1aeaa69fe75eb75c8a933a0f43e07a9",
+  "build_date": "2025-06-22T14:01:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806941800",
+  "build_id": "15806941800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/scheduler?tag=HEAD-9f44105-250621T112655-riscv64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1210",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/scheduler?tag=HEAD-9f44105-250621T112655-riscv64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/scheduler:HEAD-9f44105-250621T112655-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/scheduler-plugins/scheduler?tag=HEAD-9f44105-250621T112655-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36ba3bc5b58ddf279e3f53ec0b10d68e16edf0a88993ca43a137f47763981b4e",
+  "size": "73 MB",
+  "size_raw": "75752472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
