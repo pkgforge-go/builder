@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "x509pop",
+  "pkg_family": "spire",
+  "pkg_id": "x509pop#github.com_spiffe_spire",
+  "pkg_name": "x509pop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/76299f86f377aa357aab9396367f670b192b63d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-76299f8-250619T171403",
+  "version_upstream": "",
+  "bsum": "4564f1464b1578df0d4516f727d504e76c01828cdd682203ff764e233277b886",
+  "build_date": "2025-06-22T14:46:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807303063",
+  "build_id": "15807303063",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/x509pop?tag=HEAD-76299f8-250619T171403-x86_64-Linux&download=x509pop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/x509pop?tag=HEAD-76299f8-250619T171403-x86_64-Linux&download=x509pop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/x509pop:HEAD-76299f8-250619T171403-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/x509pop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/x509pop?tag=HEAD-76299f8-250619T171403-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "346a10216eb5f24aab9a38c0b81aabea2064bd04215f9e67e7eca9f0b73f2a30",
+  "size": "3.4 MB",
+  "size_raw": "3543968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
