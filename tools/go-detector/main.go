@@ -17,6 +17,7 @@ import (
 	//"regexp"
 	//"strconv"
 	"strings"
+	"sync"
 	"time"
 )
 
@@ -28,6 +29,38 @@ const (
 	ExitError   = 3  // Error occurred
 )
 
+//TEMP Dirs
+var tempDirs []string
+var tempFiles []string
+var tempDirsMutex sync.Mutex
+var tempMutex sync.Mutex
+
+func registerTempDir(dir string) {
+    tempMutex.Lock()
+    defer tempMutex.Unlock()
+    tempDirs = append(tempDirs, dir)
+}
+
+func registerTempFile(file string) {
+    tempMutex.Lock()
+    defer tempMutex.Unlock()
+    tempFiles = append(tempFiles, file)
+}
+
+func cleanupTempResources() {
+    tempMutex.Lock()
+    defer tempMutex.Unlock()
+    
+    for _, file := range tempFiles {
+        os.Remove(file)
+    }
+    
+    for _, dir := range tempDirs {
+        os.RemoveAll(dir)
+    }
+}
+
+//Project
 type ProjectType int
 
 const (
@@ -133,6 +166,7 @@ var (
 
 func main() {
 	flag.Parse()
+	defer cleanupTempResources()
 	
 	// Count non-empty flags
 	flagCount := 0
@@ -213,7 +247,9 @@ func main() {
 	} else if !*quiet {
 		printHumanReadable(analysis)
 	}
-
+    if isRemote {
+      cleanupTempResources()
+    }
 	os.Exit(analysis.ExitCode)
 }
 
@@ -230,8 +266,7 @@ func analyzeRemoteProject(source, remoteSource string) (*ProjectAnalysis, error)
 	if err != nil {
 		return nil, fmt.Errorf("failed to download/extract: %v", err)
 	}
-	
-	defer os.RemoveAll(tempDir)
+
 	
 	analysis, err := analyzeProject(tempDir)
 	if err != nil {
@@ -279,7 +314,7 @@ func downloadGoModule(modulePath string) (string, error) {
 	if err != nil {
 		return "", err
 	}
-	defer os.Remove(tempFile.Name())
+	registerTempFile(tempFile.Name())
 	defer tempFile.Close()
 	
 	if _, err := io.Copy(tempFile, zipResp.Body); err != nil {
@@ -291,6 +326,7 @@ func downloadGoModule(modulePath string) (string, error) {
 	if err != nil {
 		return "", err
 	}
+	registerTempDir(tempDir)
 	
 	if err := extractZip(tempFile.Name(), tempDir); err != nil {
 		os.RemoveAll(tempDir)
@@ -323,7 +359,8 @@ func downloadAndExtract(url string) (string, error) {
 	if err != nil {
 		return "", err
 	}
-	defer os.Remove(tempFile.Name())
+	registerTempFile(tempFile.Name())
+
 	defer tempFile.Close()
 	
 	if _, err := io.Copy(tempFile, resp.Body); err != nil {
@@ -335,7 +372,8 @@ func downloadAndExtract(url string) (string, error) {
 	if err != nil {
 		return "", err
 	}
-	
+	registerTempDir(tempDir)
+
 	// Determine file type and extract
 	if strings.HasSuffix(url, ".zip") {
 		err = extractZip(tempFile.Name(), tempDir)
@@ -571,10 +609,19 @@ func analyzeProject(projectPath string) (*ProjectAnalysis, error) {
 		if info.IsDir() {
 			name := info.Name()
 			// Skip common directories but note important ones
-			if name == "vendor" || name == ".git" || name == "node_modules" || 
-			   (strings.HasPrefix(name, ".") && name != ".") {
-				return filepath.SkipDir
-			}
+			var skipDirs = map[string]bool{
+	          ".git":         true,
+	          "example":      true,
+			  "examples":     true,
+			  "test":         true,
+			  "tests":        true,
+	          "vendor":       true,
+            }
+
+            if name == "." {
+            } else if strings.HasPrefix(name, ".") || skipDirs[name] {
+            	return filepath.SkipDir
+            }
 			
 			// Calculate package depth
 			relPath, _ := filepath.Rel(absPath, path)
@@ -991,14 +1038,14 @@ func (a *ProjectAnalysis) analyzeImports(node *ast.File, filePath string) {
 			
 			// CLI framework detection
 			cliFrameworks := map[string]float64{
-				"github.com/spf13/cobra":         0.98,
-				"github.com/urfave/cli":          0.97,
-				"github.com/urfave/cli/v2":       0.97,
-				"github.com/alecthomas/kingpin":  0.92,
-				"github.com/alecthomas/kingpin/v2": 0.92,
-				"github.com/jessevdk/go-flags":   0.88,
-				"github.com/docopt/docopt-go":    0.85,
-				"flag":                           0.75,
+				"alecthomas/kingpin":  0.92,
+				"alecthomas/kingpin/v2": 0.92,
+				"docopt/docopt-go":    0.85,
+				"flag":                0.75,
+				"jessevdk/go-flags":   0.88,
+				"spf13/cobra":         0.98,
+				"urfave/cli":          0.97,
+				"urfave/cli/v2":       0.97,
 			}
 			
 			if weight, isCLI := cliFrameworks[path]; isCLI {
@@ -1019,10 +1066,10 @@ func (a *ProjectAnalysis) analyzeImports(node *ast.File, filePath string) {
 			
 			// Testing and documentation frameworks (library indicators)
 			testFrameworks := map[string]float64{
-				"github.com/stretchr/testify":    0.7,
-				"github.com/onsi/ginkgo":         0.7,
-				"github.com/onsi/gomega":         0.7,
-				"gopkg.in/check.v1":              0.6,
+				"stretchr/testify":    0.7,
+				"onsi/ginkgo":         0.7,
+				"onsi/gomega":         0.7,
+				"gopkg.in/check.v1":   0.6,
 			}
 			
 			if weight, isTest := testFrameworks[path]; isTest {
@@ -1031,10 +1078,10 @@ func (a *ProjectAnalysis) analyzeImports(node *ast.File, filePath string) {
 			
 			// Web frameworks (library indicators)
 			webFrameworks := []string{
-				"github.com/gin-gonic/gin",
-				"github.com/gorilla/mux",
-				"github.com/labstack/echo",
-				"github.com/go-chi/chi",
+				"gin-gonic/gin",
+				"gorilla/mux",
+				"labstack/echo",
+				"go-chi/chi",
 				"net/http",
 			}
 			
@@ -1051,9 +1098,9 @@ func (a *ProjectAnalysis) analyzeImports(node *ast.File, filePath string) {
 			// Database libraries (often library indicators)
 			dbLibraries := []string{
 				"database/sql",
-				"github.com/jinzhu/gorm",
+				"jinzhu/gorm",
 				"gorm.io/gorm",
-				"github.com/jmoiron/sqlx",
+				"jmoiron/sqlx",
 			}
 			
 			for _, db := range dbLibraries {
