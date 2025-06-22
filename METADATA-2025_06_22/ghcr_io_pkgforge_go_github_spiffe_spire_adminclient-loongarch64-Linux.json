@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "adminclient",
+  "pkg_family": "spire",
+  "pkg_id": "adminclient#github.com_spiffe_spire",
+  "pkg_name": "adminclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/76299f86f377aa357aab9396367f670b192b63d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-76299f8-250619T171403",
+  "version_upstream": "",
+  "bsum": "3110dd9882b8b177f9ef3cdb768c2e5a5f1bf5a65e386450203ff70da8305190",
+  "build_date": "2025-06-22T14:46:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807303063",
+  "build_id": "15807303063",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/adminclient?tag=HEAD-76299f8-250619T171403-loongarch64-Linux&download=adminclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/adminclient?tag=HEAD-76299f8-250619T171403-loongarch64-Linux&download=adminclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/adminclient:HEAD-76299f8-250619T171403-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/adminclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/adminclient?tag=HEAD-76299f8-250619T171403-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d76cfb86cc27761040542710e57b051e0295506da30ee3ba590b7b242acc61b",
+  "size": "13 MB",
+  "size_raw": "13228832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
