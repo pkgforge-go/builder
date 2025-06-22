@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "browsertunnel",
+  "pkg_family": "browsertunnel",
+  "pkg_id": "browsertunnel#github.com_veggiedefender_browsertunnel",
+  "pkg_name": "browsertunnel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/veggiedefender/browsertunnel",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Surreptitiously exfiltrate data from the browser over DNS",
+  "homepage": [
+    "https://github.com/veggiedefender/browsertunnel"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "browsertunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/veggiedefender/browsertunnel/archive/c97b8ff7e3a943afbdb7a2391d540ae1d8495ac4.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dns-tunneling"
+  ],
+  "version": "HEAD-c97b8ff-200719T104018",
+  "version_upstream": "",
+  "bsum": "0316ae031b661437f9307d98220667312ffb1361f8fbb46f93ddd82e3ff06836",
+  "build_date": "2025-06-22T19:44:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809790416",
+  "build_id": "15809790416",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veggiedefender/browsertunnel/browsertunnel?tag=HEAD-c97b8ff-200719T104018-riscv64-Linux&download=browsertunnel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "417",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veggiedefender/browsertunnel/browsertunnel?tag=HEAD-c97b8ff-200719T104018-riscv64-Linux&download=browsertunnel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/veggiedefender/browsertunnel/browsertunnel:HEAD-c97b8ff-200719T104018-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/veggiedefender/browsertunnel/browsertunnel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veggiedefender/browsertunnel/browsertunnel?tag=HEAD-c97b8ff-200719T104018-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "962a645d589c671cf7e93109f71ec96eda362d1e83f1835042c578019b16378b",
+  "size": "5.2 MB",
+  "size_raw": "5398424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
