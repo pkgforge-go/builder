@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dtofuver",
+  "pkg_family": "tenv",
+  "pkg_id": "dtofuver#github.com_tofuutils_tenv",
+  "pkg_name": "dtofuver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tofuutils/tenv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTofu / Terraform / Terragrunt and Atmos version manager",
+  "homepage": [
+    "https://github.com/tofuutils/tenv"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atmos",
+    "dtofuver",
+    "ltfver",
+    "tenv",
+    "terraform",
+    "terragrunt",
+    "terramate",
+    "tf",
+    "tofu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tofuutils/tenv/archive/ebee6df9b96ccbfe83b16a766b5b123369e6e7d9.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "hacktoberfest",
+    "hacktoberfest2024",
+    "hashicorp",
+    "hashicorp-terraform",
+    "iac",
+    "opentofu",
+    "tenv",
+    "terraform",
+    "tfenv",
+    "tofu",
+    "tofuenv"
+  ],
+  "version": "HEAD-ebee6df-250622T144317",
+  "version_upstream": "",
+  "bsum": "0f903b273c1666c430a0ff69351887058ed8c40af9da7f0ee122bd21874f6535",
+  "build_date": "2025-06-22T18:04:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809141403",
+  "build_id": "15809141403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/dtofuver?tag=HEAD-ebee6df-250622T144317-riscv64-Linux&download=dtofuver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1094",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/dtofuver?tag=HEAD-ebee6df-250622T144317-riscv64-Linux&download=dtofuver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tofuutils/tenv/dtofuver:HEAD-ebee6df-250622T144317-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tofuutils/tenv/dtofuver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/dtofuver?tag=HEAD-ebee6df-250622T144317-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79420dcbe8136b9e8a8684b65957189368a370903353f043ed2c83137ecefe75",
+  "size": "13 MB",
+  "size_raw": "13456376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
