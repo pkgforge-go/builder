@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "chezmoi",
+  "pkg_family": "chezmoi",
+  "pkg_id": "chezmoi#github.com_twpayne_chezmoi",
+  "pkg_name": "chezmoi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/twpayne/chezmoi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage your dotfiles across multiple diverse machines, securely.",
+  "homepage": [
+    "https://github.com/twpayne/chezmoi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chezmoi",
+    "execute-template",
+    "generate-commit",
+    "generate-helps",
+    "generate-install.sh",
+    "generate-license",
+    "lint-commit-messages",
+    "lint-txtar",
+    "lint-whitespace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/twpayne/chezmoi/archive/22ffc1db93c7ea849ebbf8ec5163d52edb1027d6.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "dotfile",
+    "dotfile-management",
+    "dotfile-manager",
+    "dotfile-managers",
+    "dotfile-syncer",
+    "dotfiles",
+    "dotfiles-manager",
+    "linux",
+    "macos",
+    "multiple-machines",
+    "security",
+    "windows"
+  ],
+  "version": "HEAD-22ffc1d-250621T174419",
+  "version_upstream": "",
+  "bsum": "de1fd99a86a29a7390b64028166faa3369afadc7df51cf98beb994827f0dc1b2",
+  "build_date": "2025-06-22T19:01:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809721723",
+  "build_id": "15809721723",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/chezmoi?tag=HEAD-22ffc1d-250621T174419-aarch64-Linux&download=chezmoi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15233",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/chezmoi?tag=HEAD-22ffc1d-250621T174419-aarch64-Linux&download=chezmoi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/twpayne/chezmoi/chezmoi:HEAD-22ffc1d-250621T174419-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/twpayne/chezmoi/chezmoi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/chezmoi?tag=HEAD-22ffc1d-250621T174419-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8351327e61f82536e9485914d6c74e4141524f28f86d4c473371935aa9f24627",
+  "size": "35 MB",
+  "size_raw": "36332064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
