@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "wazero",
+  "pkg_id": "example#github.com_tetratelabs_wazero",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tetratelabs/wazero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "wazero: the zero dependency WebAssembly runtime for Go developers",
+  "homepage": [
+    "https://github.com/tetratelabs/wazero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "concurrent-instantiation",
+    "example",
+    "import-go",
+    "multiple-results",
+    "multiple-runtimes",
+    "rust",
+    "tinygo",
+    "wazero",
+    "zig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tetratelabs/wazero/archive/0dea5d7ee1de12d2817d6ac8548a4d36aaf59aea.tar.gz"
+  ],
+  "tag": [
+    "ahead-of-time",
+    "compiler",
+    "go",
+    "golang",
+    "runtime",
+    "vm",
+    "wasi",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-0dea5d7-250414T073203",
+  "version_upstream": "",
+  "bsum": "d05a4c3c0df9847def0dafb9f625bdf7f1d4916aa7e13c314aa1595964949fb5",
+  "build_date": "2025-06-22T17:30:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808665635",
+  "build_id": "15808665635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/example?tag=HEAD-0dea5d7-250414T073203-riscv64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/example?tag=HEAD-0dea5d7-250414T073203-riscv64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tetratelabs/wazero/example:HEAD-0dea5d7-250414T073203-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tetratelabs/wazero/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/example?tag=HEAD-0dea5d7-250414T073203-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "261dba113878406402c94025a3f26bf6e8c5cfe22accaf2b12d0c4af7d58da60",
+  "size": "4.2 MB",
+  "size_raw": "4330968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
