@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "smaps",
+  "pkg_family": "smaps",
+  "pkg_id": "smaps#github.com_grandecola_smaps",
+  "pkg_name": "smaps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grandecola/smaps",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Script and a library to compute memory usage of a process due to mmap",
+  "homepage": [
+    "https://github.com/grandecola/smaps"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "smaps"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grandecola/smaps/archive/1fc80ed63f59f1c992e2f3eb2bdac9c42a788ac9.tar.gz"
+  ],
+  "tag": [
+    "mmap",
+    "smaps"
+  ],
+  "version": "HEAD-1fc80ed-250621T235521",
+  "version_upstream": "v0.2.0",
+  "bsum": "fb55660b162a7478ae21fce9811e434319704e74f359451d5579b9a96444b982",
+  "build_date": "2025-06-22T13:39:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806855166",
+  "build_id": "15806855166",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grandecola/smaps/smaps?tag=HEAD-1fc80ed-250621T235521-x86_64-Linux&download=smaps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grandecola/smaps/smaps?tag=HEAD-1fc80ed-250621T235521-x86_64-Linux&download=smaps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grandecola/smaps/smaps:HEAD-1fc80ed-250621T235521-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grandecola/smaps/smaps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grandecola/smaps/smaps?tag=HEAD-1fc80ed-250621T235521-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12949de162cb068240de8a4852f67b78d447549f6b8f17e6c15c939c6e4637bd",
+  "size": "2.1 MB",
+  "size_raw": "2201464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
