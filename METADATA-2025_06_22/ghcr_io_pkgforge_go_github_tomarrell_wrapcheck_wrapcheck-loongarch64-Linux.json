@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "wrapcheck",
+  "pkg_family": "wrapcheck",
+  "pkg_id": "wrapcheck#github.com_tomarrell_wrapcheck",
+  "pkg_name": "wrapcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tomarrell/wrapcheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go linter to check that errors from external packages are wrapped",
+  "homepage": [
+    "https://github.com/tomarrell/wrapcheck"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "wrapcheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tomarrell/wrapcheck/archive/486d5bbebfef0d94d5ff15b57e01821f6407bb52.tar.gz"
+  ],
+  "tag": [
+    "check",
+    "error",
+    "go",
+    "go-linter",
+    "hacktoberfest",
+    "linter"
+  ],
+  "version": "HEAD-486d5bb-250311T180954",
+  "version_upstream": "v2.11.0",
+  "bsum": "43fd645aa1d898168e2340f877b8f1da6f25425aec42a0fdc5fdea929f27adf7",
+  "build_date": "2025-06-22T18:02:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809143427",
+  "build_id": "15809143427",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tomarrell/wrapcheck/wrapcheck?tag=HEAD-486d5bb-250311T180954-loongarch64-Linux&download=wrapcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "337",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tomarrell/wrapcheck/wrapcheck?tag=HEAD-486d5bb-250311T180954-loongarch64-Linux&download=wrapcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tomarrell/wrapcheck/wrapcheck:HEAD-486d5bb-250311T180954-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tomarrell/wrapcheck/wrapcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tomarrell/wrapcheck/wrapcheck?tag=HEAD-486d5bb-250311T180954-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7bc2c77a6ce4d74e3736f50d931d2e5f9647b1ae4aacc75b4cc3cc47192ec06d",
+  "size": "9.0 MB",
+  "size_raw": "9429504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
