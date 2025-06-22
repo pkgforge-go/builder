@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "torrent-client",
+  "pkg_family": "torrent-client",
+  "pkg_id": "torrent-client#github.com_veggiedefender_torrent_client",
+  "pkg_name": "torrent-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/veggiedefender/torrent-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tiny BitTorrent client written in Go",
+  "homepage": [
+    "https://github.com/veggiedefender/torrent-client"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "torrent-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/veggiedefender/torrent-client/archive/e0f58e0b16e4a9d1bd889f8cb61d835b8ec13385.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "bittorrent-client",
+    "golang"
+  ],
+  "version": "HEAD-e0f58e0-230215T151203",
+  "version_upstream": "",
+  "bsum": "c10470488cdb2a80d5be9ea098edc41afb3f0b5abd882001b6e85c1fe9d76941",
+  "build_date": "2025-06-22T19:44:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809791745",
+  "build_id": "15809791745",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veggiedefender/torrent-client/torrent-client?tag=HEAD-e0f58e0-230215T151203-riscv64-Linux&download=torrent-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1949",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veggiedefender/torrent-client/torrent-client?tag=HEAD-e0f58e0-230215T151203-riscv64-Linux&download=torrent-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/veggiedefender/torrent-client/torrent-client:HEAD-e0f58e0-230215T151203-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/veggiedefender/torrent-client/torrent-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veggiedefender/torrent-client/torrent-client?tag=HEAD-e0f58e0-230215T151203-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca3ffc821a29b9f4f7fe78100a7ae3757b9c62e28359ac287b45c4fc74b470fe",
+  "size": "5.7 MB",
+  "size_raw": "5921880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
