@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "multiple-runtimes",
+  "pkg_family": "wazero",
+  "pkg_id": "multiple-runtimes#github.com_tetratelabs_wazero",
+  "pkg_name": "multiple-runtimes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tetratelabs/wazero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "wazero: the zero dependency WebAssembly runtime for Go developers",
+  "homepage": [
+    "https://github.com/tetratelabs/wazero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "concurrent-instantiation",
+    "example",
+    "import-go",
+    "multiple-results",
+    "multiple-runtimes",
+    "rust",
+    "tinygo",
+    "wazero",
+    "zig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tetratelabs/wazero/archive/0dea5d7ee1de12d2817d6ac8548a4d36aaf59aea.tar.gz"
+  ],
+  "tag": [
+    "ahead-of-time",
+    "compiler",
+    "go",
+    "golang",
+    "runtime",
+    "vm",
+    "wasi",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-0dea5d7-250414T073203",
+  "version_upstream": "",
+  "bsum": "4f72813b27e94a8efd9a03595c1b57ced95abffde701b4c2d90ef081d88a4fdf",
+  "build_date": "2025-06-22T17:29:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808665635",
+  "build_id": "15808665635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/multiple-runtimes?tag=HEAD-0dea5d7-250414T073203-loongarch64-Linux&download=multiple-runtimes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/multiple-runtimes?tag=HEAD-0dea5d7-250414T073203-loongarch64-Linux&download=multiple-runtimes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tetratelabs/wazero/multiple-runtimes:HEAD-0dea5d7-250414T073203-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tetratelabs/wazero/multiple-runtimes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/multiple-runtimes?tag=HEAD-0dea5d7-250414T073203-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e89e078849822243adbcbfa8d64adfd97d0bd95c957cbe80c19a92bde7ba50f1",
+  "size": "3.8 MB",
+  "size_raw": "3934560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
