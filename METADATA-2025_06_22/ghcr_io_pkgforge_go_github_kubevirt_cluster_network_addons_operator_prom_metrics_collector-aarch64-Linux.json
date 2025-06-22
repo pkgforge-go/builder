@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "prom-metrics-collector",
+  "pkg_family": "cluster-network-addons-operator",
+  "pkg_id": "prom-metrics-collector#github.com_kubevirt_cluster_network_addons_operator",
+  "pkg_name": "prom-metrics-collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/cluster-network-addons-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy additional networking components on top of your Kubernetes cluster",
+  "homepage": [
+    "https://github.com/kubevirt/cluster-network-addons-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bumper",
+    "manager",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/cluster-network-addons-operator/archive/cd88e4b1b86424f168ac5303d30ef9f14388a5fb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cd88e4b-250622T105442",
+  "version_upstream": "",
+  "bsum": "f862579872d63df70bf50d1502536d92c499f2c6a37ecc3489b2b2195a5f4aa8",
+  "build_date": "2025-06-22T16:23:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808268123",
+  "build_id": "15808268123",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-metrics-collector?tag=HEAD-cd88e4b-250622T105442-aarch64-Linux&download=prom-metrics-collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "80",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-metrics-collector?tag=HEAD-cd88e4b-250622T105442-aarch64-Linux&download=prom-metrics-collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-metrics-collector:HEAD-cd88e4b-250622T105442-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-metrics-collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/prom-metrics-collector?tag=HEAD-cd88e4b-250622T105442-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "437ca42277160c50d9a76b4e1766f88ff51802b12603b9c356ccff40299d8b51",
+  "size": "35 MB",
+  "size_raw": "35997824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bumper",
+  "pkg_family": "cluster-network-addons-operator",
+  "pkg_id": "bumper#github.com_kubevirt_cluster_network_addons_operator",
+  "pkg_name": "bumper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/cluster-network-addons-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy additional networking components on top of your Kubernetes cluster",
+  "homepage": [
+    "https://github.com/kubevirt/cluster-network-addons-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bumper",
+    "manager",
+    "manifest-templator",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "prom-rule-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/cluster-network-addons-operator/archive/cd88e4b1b86424f168ac5303d30ef9f14388a5fb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cd88e4b-250622T105442",
+  "version_upstream": "",
+  "bsum": "416454ba141c8a5f5b673a0c1e8b2f9ab5a111771b4437a9d2f8c958614fdcba",
+  "build_date": "2025-06-22T16:22:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808268123",
+  "build_id": "15808268123",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/bumper?tag=HEAD-cd88e4b-250622T105442-aarch64-Linux&download=bumper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "80",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/bumper?tag=HEAD-cd88e4b-250622T105442-aarch64-Linux&download=bumper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/bumper:HEAD-cd88e4b-250622T105442-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/cluster-network-addons-operator/bumper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/cluster-network-addons-operator/bumper?tag=HEAD-cd88e4b-250622T105442-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4193d0ecfc378625d86eb7df5658de6874dd31aafb0930119f146bf5cfd198d4",
+  "size": "11 MB",
+  "size_raw": "10766368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
