@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "internal",
+  "pkg_family": "tau",
+  "pkg_id": "internal#github.com_taubyte_tau",
+  "pkg_name": "internal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/taubyte/tau",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source distributed Platform as a Service _PaaS_. A self-hosted Vercel / Netlify / Cloudflare alternative.",
+  "homepage": [
+    "https://github.com/taubyte/tau"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dream",
+    "example",
+    "generate",
+    "handler",
+    "hello_world",
+    "internal",
+    "mock",
+    "plugin",
+    "service",
+    "tau",
+    "taucorder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/taubyte/tau/archive/58728d758253b27e6f832f04dc63a36a10f73088.tar.gz"
+  ],
+  "tag": [
+    "5g",
+    "ai",
+    "cdn",
+    "cloud-computing",
+    "cloud-native",
+    "distributed-systems",
+    "p2p",
+    "paas",
+    "serverless",
+    "webassembly"
+  ],
+  "version": "HEAD-58728d7-250501T102545",
+  "version_upstream": "v1.1.8",
+  "bsum": "252868b899b23a0174a744e0696d8a96dfa92a85ea28028331f671f9242ffb35",
+  "build_date": "2025-06-22T17:15:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808575582",
+  "build_id": "15808575582",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taubyte/tau/internal?tag=HEAD-58728d7-250501T102545-riscv64-Linux&download=internal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4025",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taubyte/tau/internal?tag=HEAD-58728d7-250501T102545-riscv64-Linux&download=internal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/taubyte/tau/internal:HEAD-58728d7-250501T102545-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/taubyte/tau/internal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taubyte/tau/internal?tag=HEAD-58728d7-250501T102545-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4181d7fcc2c8581d4b3798f22016a03f4d08fc53e724b84b5a3292ddeb21a0c",
+  "size": "48 MB",
+  "size_raw": "49629560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
