@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gxz",
+  "pkg_family": "xz",
+  "pkg_id": "gxz#github.com_ulikunitz_xz",
+  "pkg_name": "gxz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ulikunitz/xz",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure golang package for reading and writing xz-compressed files",
+  "homepage": [
+    "https://github.com/ulikunitz/xz"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gxz",
+    "xb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ulikunitz/xz/archive/4f11dce79b9977ec2976a978d6c594ea1c23cf29.tar.gz"
+  ],
+  "tag": [
+    "compression",
+    "decompression",
+    "go",
+    "xz"
+  ],
+  "version": "HEAD-4f11dce-240403T205035",
+  "version_upstream": "v0.5.12",
+  "bsum": "ec8931170d70da7d82d68d145a1affae44a21b6c4f8b29e3cefbc94f2e8e4901",
+  "build_date": "2025-06-22T19:12:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809735422",
+  "build_id": "15809735422",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ulikunitz/xz/gxz?tag=HEAD-4f11dce-240403T205035-x86_64-Linux&download=gxz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "515",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ulikunitz/xz/gxz?tag=HEAD-4f11dce-240403T205035-x86_64-Linux&download=gxz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ulikunitz/xz/gxz:HEAD-4f11dce-240403T205035-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ulikunitz/xz/gxz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ulikunitz/xz/gxz?tag=HEAD-4f11dce-240403T205035-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b1330cf4980470a3ee1a4a262f422318556ae7209979c5db9823c6c6fce8b033",
+  "size": "3.6 MB",
+  "size_raw": "3744640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
