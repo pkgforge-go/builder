@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "kcptun",
+  "pkg_id": "server#github.com_xtaci_kcptun",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xtaci/kcptun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.",
+  "homepage": [
+    "https://github.com/xtaci/kcptun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xtaci/kcptun/archive/46705b69fe22f3c1b160e208b2053808835420e0.tar.gz"
+  ],
+  "tag": [
+    "forward-error-correction",
+    "multiplex-networks",
+    "network-acceleration",
+    "quantum-permutation-pad",
+    "quantum-resistant-cryptosystems",
+    "reed-solomon-codes",
+    "reliable-udp",
+    "secure-tunnel",
+    "shannon-coding"
+  ],
+  "version": "HEAD-46705b6-250620T134204",
+  "version_upstream": "",
+  "bsum": "492c7217e40575e296891fe255c3b2f8eaf8e55f4590dae08e71805d96c896c1",
+  "build_date": "2025-06-22T21:38:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811036364",
+  "build_id": "15811036364",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xtaci/kcptun/server?tag=HEAD-46705b6-250620T134204-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xtaci/kcptun/server?tag=HEAD-46705b6-250620T134204-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xtaci/kcptun/server:HEAD-46705b6-250620T134204-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xtaci/kcptun/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xtaci/kcptun/server?tag=HEAD-46705b6-250620T134204-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "581e8608018466dcca3828a0ad44762eca7a7ae05687806183f592ea5fca886a",
+  "size": "13 MB",
+  "size_raw": "12772272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
