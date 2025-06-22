@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gstack",
+  "pkg_family": "ydb-go-sdk",
+  "pkg_id": "gstack#github.com_ydb_platform_ydb_go_sdk",
+  "pkg_name": "gstack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ydb-platform/ydb-go-sdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pure Go native and database/sql driver for YDB",
+  "homepage": [
+    "https://github.com/ydb-platform/ydb-go-sdk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gstack",
+    "gtrace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ydb-platform/ydb-go-sdk/archive/3510af897320d3e4a5894183ddb374227891132f.tar.gz"
+  ],
+  "tag": [
+    "database-sql",
+    "golang",
+    "ydb",
+    "ydb-go-sdk",
+    "ydb-platform",
+    "ydb-sdk"
+  ],
+  "version": "HEAD-3510af8-250617T185334",
+  "version_upstream": "",
+  "bsum": "03e5f8d93d3adcdcc9fb1c2cc0afcc4b11bad9897d6c7d16946cb2acd4870c0a",
+  "build_date": "2025-06-22T21:54:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811041698",
+  "build_id": "15811041698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ydb-platform/ydb-go-sdk/gstack?tag=HEAD-3510af8-250617T185334-aarch64-Linux&download=gstack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "163",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ydb-platform/ydb-go-sdk/gstack?tag=HEAD-3510af8-250617T185334-aarch64-Linux&download=gstack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ydb-platform/ydb-go-sdk/gstack:HEAD-3510af8-250617T185334-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ydb-platform/ydb-go-sdk/gstack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ydb-platform/ydb-go-sdk/gstack?tag=HEAD-3510af8-250617T185334-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cee7befc799181d7701e25fe82f3d1fb78c1c563dea8f6fe90546505a6370032",
+  "size": "4.7 MB",
+  "size_raw": "4897536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
