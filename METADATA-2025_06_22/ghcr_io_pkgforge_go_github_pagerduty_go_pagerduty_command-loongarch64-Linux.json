@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "command",
+  "pkg_family": "go-pagerduty",
+  "pkg_id": "command#github.com_PagerDuty_go_pagerduty",
+  "pkg_name": "command",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/PagerDuty/go-pagerduty",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "go client library for PagerDuty v2 API",
+  "homepage": [
+    "https://github.com/PagerDuty/go-pagerduty"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "command",
+    "go-pagerduty-examples",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/PagerDuty/go-pagerduty/archive/4abe829df96874bccf27fa7b3de2eb359dff2560.tar.gz"
+  ],
+  "tag": [
+    "renovate-enabled"
+  ],
+  "version": "HEAD-4abe829-250621T175354",
+  "version_upstream": "",
+  "bsum": "608752986941e33caad0622a161c214ea051cbd3226b768174bc79df3a65d2e5",
+  "build_date": "2025-06-22T13:08:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806812488",
+  "build_id": "15806812488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pagerduty/go-pagerduty/command?tag=HEAD-4abe829-250621T175354-loongarch64-Linux&download=command.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pagerduty/go-pagerduty/command?tag=HEAD-4abe829-250621T175354-loongarch64-Linux&download=command",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pagerduty/go-pagerduty/command:HEAD-4abe829-250621T175354-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pagerduty/go-pagerduty/command",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pagerduty/go-pagerduty/command?tag=HEAD-4abe829-250621T175354-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4fd06d0a75bad7f1f7a6abe11d38fc01940172529c3f0ecb88fee73326c868c1",
+  "size": "11 MB",
+  "size_raw": "10581984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhooks",
+  "pkg_family": "go-pagerduty",
+  "pkg_id": "webhooks#github.com_PagerDuty_go_pagerduty",
+  "pkg_name": "webhooks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/PagerDuty/go-pagerduty",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "go client library for PagerDuty v2 API",
+  "homepage": [
+    "https://github.com/PagerDuty/go-pagerduty"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "command",
+    "go-pagerduty-examples",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/PagerDuty/go-pagerduty/archive/4abe829df96874bccf27fa7b3de2eb359dff2560.tar.gz"
+  ],
+  "tag": [
+    "renovate-enabled"
+  ],
+  "version": "HEAD-4abe829-250621T175354",
+  "version_upstream": "",
+  "bsum": "ba2da7522807585d8718c14f8c0f006a1de6a0123e1f65afbdf73ffb4921a748",
+  "build_date": "2025-06-22T13:08:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806812488",
+  "build_id": "15806812488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pagerduty/go-pagerduty/webhooks?tag=HEAD-4abe829-250621T175354-loongarch64-Linux&download=webhooks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pagerduty/go-pagerduty/webhooks?tag=HEAD-4abe829-250621T175354-loongarch64-Linux&download=webhooks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pagerduty/go-pagerduty/webhooks:HEAD-4abe829-250621T175354-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pagerduty/go-pagerduty/webhooks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pagerduty/go-pagerduty/webhooks?tag=HEAD-4abe829-250621T175354-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "564f59cf992e54536505b3cd6bc06083a7f9032540198c7f47d44ebcc9115c28",
+  "size": "5.7 MB",
+  "size_raw": "5872352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
