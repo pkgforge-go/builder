@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pitaya",
+  "pkg_family": "pitaya",
+  "pkg_id": "pitaya#github.com_topfreegames_pitaya",
+  "pkg_name": "pitaya",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topfreegames/pitaya",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
+  "homepage": [
+    "https://github.com/topfreegames/pitaya"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chat",
+    "cluster",
+    "cluster_grpc",
+    "custom_metrics",
+    "pipeline",
+    "pitaya",
+    "rate_limiting",
+    "testing",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topfreegames/pitaya/archive/08d34a00bfc535b4e280cf74fd1092562375402d.tar.gz"
+  ],
+  "tag": [
+    "android",
+    "game",
+    "game-framework",
+    "game-server",
+    "golang-application",
+    "ios"
+  ],
+  "version": "HEAD-08d34a0-250428T082213",
+  "version_upstream": "v3.0.0-beta.6",
+  "bsum": "2aa4a1a4fc3d4e19afec3f583039b3b14c43f313946a5dab96e61e4823c30c11",
+  "build_date": "2025-06-22T18:15:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809193488",
+  "build_id": "15809193488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topfreegames/pitaya/pitaya?tag=HEAD-08d34a0-250428T082213-loongarch64-Linux&download=pitaya.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2559",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topfreegames/pitaya/pitaya?tag=HEAD-08d34a0-250428T082213-loongarch64-Linux&download=pitaya",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topfreegames/pitaya/pitaya:HEAD-08d34a0-250428T082213-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topfreegames/pitaya/pitaya",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topfreegames/pitaya/pitaya?tag=HEAD-08d34a0-250428T082213-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b0fa0d38d103823be9db77eb430b63c531248492006e03a891fcffa98aa3b16",
+  "size": "20 MB",
+  "size_raw": "20712192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
