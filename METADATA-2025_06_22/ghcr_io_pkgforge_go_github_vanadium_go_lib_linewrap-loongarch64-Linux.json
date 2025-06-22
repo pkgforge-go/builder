@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "linewrap",
+  "pkg_family": "go.lib",
+  "pkg_id": "linewrap#github.com_vanadium_go.lib",
+  "pkg_name": "linewrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vanadium/go.lib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "General purpose libraries used by Vanadium.",
+  "homepage": [
+    "https://github.com/vanadium/go.lib"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gendoc",
+    "gosh_example",
+    "gosh_example_client",
+    "gosh_example_server",
+    "hello_world",
+    "linewrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vanadium/go.lib/archive/b5c761ad3f5a29afa073cfa1d48c5c8d00d6fa7e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b5c761a-241007T094822",
+  "version_upstream": "v0.1.21",
+  "bsum": "a62fcd35c2f6398b373f5aa8e685f35ee675d3f57b415a06acb1bd639d32dec2",
+  "build_date": "2025-06-22T19:40:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809773400",
+  "build_id": "15809773400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vanadium/go.lib/linewrap?tag=HEAD-b5c761a-241007T094822-loongarch64-Linux&download=linewrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vanadium/go.lib/linewrap?tag=HEAD-b5c761a-241007T094822-loongarch64-Linux&download=linewrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vanadium/go.lib/linewrap:HEAD-b5c761a-241007T094822-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vanadium/go.lib/linewrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vanadium/go.lib/linewrap?tag=HEAD-b5c761a-241007T094822-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "522e27b7841a9cdad3488757b1dcb999adfb6b2bfd131ec493fe8b32a8565792",
+  "size": "2.9 MB",
+  "size_raw": "2971096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
