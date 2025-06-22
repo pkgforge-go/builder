@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "decode",
+  "pkg_family": "rdb",
+  "pkg_id": "decode#github.com_HDT3213_rdb",
+  "pkg_name": "decode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/HDT3213/rdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implemented  Redis RDB parser for secondary development and memory analysis",
+  "homepage": [
+    "https://github.com/HDT3213/rdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decode",
+    "encode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/HDT3213/rdb/archive/1ceef5a355b35502cd5a11b531cd03364b6a64af.tar.gz"
+  ],
+  "tag": [
+    "analyzer",
+    "go",
+    "parser",
+    "rdb",
+    "redis"
+  ],
+  "version": "HEAD-1ceef5a-250317T213959",
+  "version_upstream": "v1.1.0",
+  "bsum": "bacedbc110d9e0974e5b3fb646c7e9f2953510b7f6413c114f0b1638f4628163",
+  "build_date": "2025-06-22T22:02:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811057119",
+  "build_id": "15811057119",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/decode?tag=HEAD-1ceef5a-250317T213959-loongarch64-Linux&download=decode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "542",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/decode?tag=HEAD-1ceef5a-250317T213959-loongarch64-Linux&download=decode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hdt3213/rdb/decode:HEAD-1ceef5a-250317T213959-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hdt3213/rdb/decode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/decode?tag=HEAD-1ceef5a-250317T213959-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78c60ea31a185135540ed7c590e8cf24a7b14d42ca49e734951669963b4279ff",
+  "size": "1.9 MB",
+  "size_raw": "1936184",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ceef5a-250317T213959-loongarch64-Linux[v1.1.0]"
+  ],
+  "trusted": "true"
+}
