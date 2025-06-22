@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "motd-cli",
+  "pkg_family": "bitmask-vpn",
+  "pkg_id": "motd-cli#github.com_leapcode_bitmask_vpn",
+  "pkg_name": "motd-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/leapcode/bitmask-vpn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A white-label, brandable VPN Desktop Application by LEAP",
+  "homepage": [
+    "https://github.com/leapcode/bitmask-vpn"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitmask-helper",
+    "bitmaskd",
+    "motd-cli",
+    "osx-data",
+    "snowflake-client",
+    "vercheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/leapcode/bitmask-vpn/archive/7da33f442edda968566f0cf50c294b54960bf97d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7da33f4-250621T171503",
+  "version_upstream": "",
+  "bsum": "4a84cf5d8aae2d3a1e2f663d6afeabc1a32718fa9ff7ce7d2228360f0329d97d",
+  "build_date": "2025-06-22T14:07:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806996812",
+  "build_id": "15806996812",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/motd-cli?tag=HEAD-7da33f4-250621T171503-x86_64-Linux&download=motd-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/motd-cli?tag=HEAD-7da33f4-250621T171503-x86_64-Linux&download=motd-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leapcode/bitmask-vpn/motd-cli:HEAD-7da33f4-250621T171503-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leapcode/bitmask-vpn/motd-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/motd-cli?tag=HEAD-7da33f4-250621T171503-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49652c6feb98faeec35bac2754b36ca00e11ae3258d932c1e3bbe5dd5aaaeb61",
+  "size": "6.3 MB",
+  "size_raw": "6593664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bitmaskd",
+  "pkg_family": "bitmask-vpn",
+  "pkg_id": "bitmaskd#github.com_leapcode_bitmask_vpn",
+  "pkg_name": "bitmaskd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/leapcode/bitmask-vpn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A white-label, brandable VPN Desktop Application by LEAP",
+  "homepage": [
+    "https://github.com/leapcode/bitmask-vpn"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitmask-helper",
+    "bitmaskd",
+    "motd-cli",
+    "osx-data",
+    "snowflake-client",
+    "vercheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/leapcode/bitmask-vpn/archive/7da33f442edda968566f0cf50c294b54960bf97d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7da33f4-250621T171503",
+  "version_upstream": "",
+  "bsum": "46b06733aa982d7294e737726a6cc1acf32c23fc18deb0df0df38ef0626876a3",
+  "build_date": "2025-06-22T14:06:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806996812",
+  "build_id": "15806996812",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/bitmaskd?tag=HEAD-7da33f4-250621T171503-x86_64-Linux&download=bitmaskd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/bitmaskd?tag=HEAD-7da33f4-250621T171503-x86_64-Linux&download=bitmaskd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leapcode/bitmask-vpn/bitmaskd:HEAD-7da33f4-250621T171503-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leapcode/bitmask-vpn/bitmaskd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leapcode/bitmask-vpn/bitmaskd?tag=HEAD-7da33f4-250621T171503-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6297f40ce47d01641fc317e97cf93d5caeb6b02791eee4121cff0502a618ca73",
+  "size": "22 MB",
+  "size_raw": "22292064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
