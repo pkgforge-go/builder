@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "spike",
+  "pkg_id": "test#github.com_spiffe_spike",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spike",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead.",
+  "homepage": [
+    "https://github.com/spiffe/spike"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spike/archive/16208d30a16b8479a4e9f2a8bf3d78864371f5d5.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "devops",
+    "devsecops",
+    "identity-management",
+    "infrastructure",
+    "infrastructure-security",
+    "secrets-management",
+    "secrets-manager",
+    "secrets-store",
+    "security",
+    "spiffe",
+    "spire",
+    "zero-trust"
+  ],
+  "version": "HEAD-16208d3-250621T191050",
+  "version_upstream": "",
+  "bsum": "a427373fd75c2f5e1bd93f1462b2dc9ab22d04475f0bcbab82be8836f0cda894",
+  "build_date": "2025-06-22T14:38:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807301561",
+  "build_id": "15807301561",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spike/test?tag=HEAD-16208d3-250621T191050-riscv64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spike/test?tag=HEAD-16208d3-250621T191050-riscv64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spike/test:HEAD-16208d3-250621T191050-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spike/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spike/test?tag=HEAD-16208d3-250621T191050-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ffa64f7bae5eb3b01a62543c080c97a2bbc179c20f86e5ce07aea2da7e8ac24",
+  "size": "5.1 MB",
+  "size_raw": "5265720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
