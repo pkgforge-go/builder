@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "manager-hub",
+  "pkg_family": "kernel-module-management",
+  "pkg_id": "manager-hub#github.com_kubernetes_sigs_kernel_module_management",
+  "pkg_name": "manager-hub",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/kernel-module-management",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The kernel module management operator builds, signs and loads kernel modules in Kubernetes clusters.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/kernel-module-management"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "manager-hub",
+    "webhook-server",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/kernel-module-management/archive/8fcf28240d78d072679f6200d75010ec4042eff5.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "kernel",
+    "kernel-modules",
+    "kmm",
+    "kubernetes"
+  ],
+  "version": "HEAD-8fcf282-250622T033652",
+  "version_upstream": "",
+  "bsum": "fdc542141cc12579b36c1e5a59938a87e5971113f79c0989ffe50c92818b7506",
+  "build_date": "2025-06-22T16:21:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808267740",
+  "build_id": "15808267740",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kernel-module-management/manager-hub?tag=HEAD-8fcf282-250622T033652-aarch64-Linux&download=manager-hub.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "104",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kernel-module-management/manager-hub?tag=HEAD-8fcf282-250622T033652-aarch64-Linux&download=manager-hub",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kernel-module-management/manager-hub:HEAD-8fcf282-250622T033652-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kernel-module-management/manager-hub",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kernel-module-management/manager-hub?tag=HEAD-8fcf282-250622T033652-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5690bda54cb8e5f4590cf2b0d85a3ea0cf0834fc3b851ec720d2126629431b33",
+  "size": "52 MB",
+  "size_raw": "54225216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
