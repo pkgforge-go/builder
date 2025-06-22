@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "email",
+  "pkg_family": "permissions",
+  "pkg_id": "email#github.com_xyproto_permissions",
+  "pkg_name": "email",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xyproto/permissions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":closed_lock_with_key: Middleware for keeping track of users, login states and permissions",
+  "homepage": [
+    "https://github.com/xyproto/permissions"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chi",
+    "email",
+    "getdb",
+    "goji",
+    "http",
+    "martini",
+    "negroni"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xyproto/permissions/archive/eda0159156388e02480b416203a0c32322d33ea1.tar.gz"
+  ],
+  "tag": [
+    "bcrypt",
+    "middleware",
+    "permissions",
+    "redis",
+    "sessions",
+    "user-auth"
+  ],
+  "version": "HEAD-eda0159-241201T171355",
+  "version_upstream": "",
+  "bsum": "391ddd1a1ddf307dccbe13ad61f1df383a4aabd15e67c48d9981d1592f1d856d",
+  "build_date": "2025-06-22T21:48:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811037545",
+  "build_id": "15811037545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/email?tag=HEAD-eda0159-241201T171355-riscv64-Linux&download=email.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/email?tag=HEAD-eda0159-241201T171355-riscv64-Linux&download=email",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xyproto/permissions/email:HEAD-eda0159-241201T171355-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xyproto/permissions/email",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/email?tag=HEAD-eda0159-241201T171355-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27f207f6236ade3ccb5b3e663549c6b541e0b0a03f61932a35fa9ea27115b708",
+  "size": "5.1 MB",
+  "size_raw": "5247576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
