@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ping-json",
+  "pkg_family": "ringpop-go",
+  "pkg_id": "ping-json#github.com_uber_ringpop_go",
+  "pkg_name": "ping-json",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/ringpop-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable, fault-tolerant application-layer sharding for Go applications",
+  "homepage": [
+    "https://github.com/uber/ringpop-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keyvalue",
+    "ping-json",
+    "ping-thrift",
+    "ping-thrift-gen",
+    "role-labels",
+    "testpop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/ringpop-go/archive/dc480c0aeadc0ae3dfe1c10b47024250014b6aa9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dc480c0-220723T004512",
+  "version_upstream": "v0.10.0",
+  "bsum": "a22e94f9532fec0ba57d03acf31905e60c067f66c536d976e8d88149c1cdea17",
+  "build_date": "2025-06-22T19:09:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730553",
+  "build_id": "15809730553",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/ping-json?tag=HEAD-dc480c0-220723T004512-loongarch64-Linux&download=ping-json.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "849",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/ping-json?tag=HEAD-dc480c0-220723T004512-loongarch64-Linux&download=ping-json",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/ringpop-go/ping-json:HEAD-dc480c0-220723T004512-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/ringpop-go/ping-json",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/ping-json?tag=HEAD-dc480c0-220723T004512-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "627f3c312094ddbc069db3d8c2bb510b0fb160463ef0ddf3e6c00db69152ddc1",
+  "size": "5.7 MB",
+  "size_raw": "5927968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ping-thrift",
+  "pkg_family": "ringpop-go",
+  "pkg_id": "ping-thrift#github.com_uber_ringpop_go",
+  "pkg_name": "ping-thrift",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/ringpop-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable, fault-tolerant application-layer sharding for Go applications",
+  "homepage": [
+    "https://github.com/uber/ringpop-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keyvalue",
+    "ping-json",
+    "ping-thrift",
+    "ping-thrift-gen",
+    "role-labels",
+    "testpop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/ringpop-go/archive/dc480c0aeadc0ae3dfe1c10b47024250014b6aa9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dc480c0-220723T004512",
+  "version_upstream": "v0.10.0",
+  "bsum": "6660960813d00905356f2ee288872b2fb7584e3803d42bb3ae89308b4a1fc6ea",
+  "build_date": "2025-06-22T19:09:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730553",
+  "build_id": "15809730553",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/ping-thrift?tag=HEAD-dc480c0-220723T004512-loongarch64-Linux&download=ping-thrift.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "849",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/ping-thrift?tag=HEAD-dc480c0-220723T004512-loongarch64-Linux&download=ping-thrift",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/ringpop-go/ping-thrift:HEAD-dc480c0-220723T004512-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/ringpop-go/ping-thrift",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/ringpop-go/ping-thrift?tag=HEAD-dc480c0-220723T004512-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fdb55c1c85635b5e020428c55f77e10066d3d94210430b6f90f5171b059b6f46",
+  "size": "5.9 MB",
+  "size_raw": "6112384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
