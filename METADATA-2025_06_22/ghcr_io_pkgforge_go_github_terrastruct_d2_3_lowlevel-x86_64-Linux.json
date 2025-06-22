@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "3-lowlevel",
+  "pkg_family": "d2",
+  "pkg_id": "3-lowlevel#github.com_terrastruct_d2",
+  "pkg_name": "3-lowlevel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terrastruct/d2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+  "homepage": [
+    "https://github.com/terrastruct/d2"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "1-d2lib",
+    "2-d2oracle",
+    "3-lowlevel",
+    "d2",
+    "d2plugin-dagre",
+    "report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terrastruct/d2/archive/1274029cafd589db89e4acaf2252936025557f09.tar.gz"
+  ],
+  "tag": [
+    "developer-tools",
+    "diagramming",
+    "diagrams",
+    "go",
+    "golang",
+    "software-architecture",
+    "text-to-diagram"
+  ],
+  "version": "HEAD-1274029-250622T063533",
+  "version_upstream": "",
+  "bsum": "79fa3d33d6c80d77a3238a21a2dfcfce39c68f35e35c7ef6bd97a52db68e9388",
+  "build_date": "2025-06-22T17:29:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808659708",
+  "build_id": "15808659708",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/3-lowlevel?tag=HEAD-1274029-250622T063533-x86_64-Linux&download=3-lowlevel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20768",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/3-lowlevel?tag=HEAD-1274029-250622T063533-x86_64-Linux&download=3-lowlevel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terrastruct/d2/3-lowlevel:HEAD-1274029-250622T063533-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terrastruct/d2/3-lowlevel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/3-lowlevel?tag=HEAD-1274029-250622T063533-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "090a1e937d77e8ced4fb8cee1139bd1cc1e43258f9d891fa741ac973f8aa9fe5",
+  "size": "26 MB",
+  "size_raw": "27067472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
