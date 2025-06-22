@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "memdb",
+  "pkg_family": "unitdb",
+  "pkg_id": "memdb#github.com_unit_io_unitdb",
+  "pkg_name": "memdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/unit-io/unitdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast specialized time-series database for IoT, real-time internet connected devices and AI analytics.",
+  "homepage": [
+    "https://github.com/unit-io/unitdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "memdb",
+    "sample",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/unit-io/unitdb/archive/2a4e641b8a6b68abbd43ad36a13c1605a1da2c4b.tar.gz"
+  ],
+  "tag": [
+    "analytics",
+    "database",
+    "db",
+    "iot",
+    "timeseries",
+    "timeseries-database",
+    "trie",
+    "wal"
+  ],
+  "version": "HEAD-2a4e641-211028T160002",
+  "version_upstream": "",
+  "bsum": "f5eb4d51fb424b16970a9d87d68d130a9e742b3184e4c54feaba22fa2ac84083",
+  "build_date": "2025-06-22T19:22:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809745042",
+  "build_id": "15809745042",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unit-io/unitdb/memdb?tag=HEAD-2a4e641-211028T160002-loongarch64-Linux&download=memdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "123",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unit-io/unitdb/memdb?tag=HEAD-2a4e641-211028T160002-loongarch64-Linux&download=memdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/unit-io/unitdb/memdb:HEAD-2a4e641-211028T160002-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/unit-io/unitdb/memdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unit-io/unitdb/memdb?tag=HEAD-2a4e641-211028T160002-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7475c84ee377851d125547567d4a216e8d4bd307a52c39e05f106be2400532bf",
+  "size": "3.8 MB",
+  "size_raw": "3941088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
