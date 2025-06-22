@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pping",
+  "pkg_family": "pping",
+  "pkg_id": "pping#github.com_wzv5_pping",
+  "pkg_name": "pping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wzv5/pping",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.",
+  "homepage": [
+    "https://github.com/wzv5/pping"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pping"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wzv5/pping/archive/6ff8434062645df9c09dafb8e0f033c898bf5248.tar.gz"
+  ],
+  "tag": [
+    "dns-ping",
+    "go",
+    "http-ping",
+    "icmp-ping",
+    "ping",
+    "quic-ping",
+    "tcp-ping",
+    "tls-ping"
+  ],
+  "version": "HEAD-6ff8434-250321T213601",
+  "version_upstream": "v0.8.6",
+  "bsum": "2141c5cdb1d02156c010fb04a528d34afa652e0e2cd7c25f9b318696d325b180",
+  "build_date": "2025-06-22T20:43:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810277300",
+  "build_id": "15810277300",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wzv5/pping/pping?tag=HEAD-6ff8434-250321T213601-loongarch64-Linux&download=pping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "62",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wzv5/pping/pping?tag=HEAD-6ff8434-250321T213601-loongarch64-Linux&download=pping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wzv5/pping/pping:HEAD-6ff8434-250321T213601-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wzv5/pping/pping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wzv5/pping/pping?tag=HEAD-6ff8434-250321T213601-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b69bf3f534af045b2b31dc3cd4e85602a0c8161348ddc875e90af89d9b14aaac",
+  "size": "8.9 MB",
+  "size_raw": "9295904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
