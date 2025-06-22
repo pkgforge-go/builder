@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "negroni",
+  "pkg_family": "permissions",
+  "pkg_id": "negroni#github.com_xyproto_permissions",
+  "pkg_name": "negroni",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xyproto/permissions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":closed_lock_with_key: Middleware for keeping track of users, login states and permissions",
+  "homepage": [
+    "https://github.com/xyproto/permissions"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chi",
+    "email",
+    "getdb",
+    "goji",
+    "http",
+    "martini",
+    "negroni"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xyproto/permissions/archive/eda0159156388e02480b416203a0c32322d33ea1.tar.gz"
+  ],
+  "tag": [
+    "bcrypt",
+    "middleware",
+    "permissions",
+    "redis",
+    "sessions",
+    "user-auth"
+  ],
+  "version": "HEAD-eda0159-241201T171355",
+  "version_upstream": "",
+  "bsum": "6f5ff1c10398efe04afbb5985b65e0ae06ee8d03119365fbd52b073eb1734389",
+  "build_date": "2025-06-22T21:47:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811037545",
+  "build_id": "15811037545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/negroni?tag=HEAD-eda0159-241201T171355-loongarch64-Linux&download=negroni.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/negroni?tag=HEAD-eda0159-241201T171355-loongarch64-Linux&download=negroni",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xyproto/permissions/negroni:HEAD-eda0159-241201T171355-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xyproto/permissions/negroni",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/negroni?tag=HEAD-eda0159-241201T171355-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fb2310188375a1f2a744b044e98b29441bcf863bb14428d7ed04c9b6149c02cc",
+  "size": "8.0 MB",
+  "size_raw": "8336480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

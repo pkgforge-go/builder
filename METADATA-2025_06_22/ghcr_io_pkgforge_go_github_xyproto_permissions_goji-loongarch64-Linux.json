@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "goji",
+  "pkg_family": "permissions",
+  "pkg_id": "goji#github.com_xyproto_permissions",
+  "pkg_name": "goji",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xyproto/permissions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":closed_lock_with_key: Middleware for keeping track of users, login states and permissions",
+  "homepage": [
+    "https://github.com/xyproto/permissions"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chi",
+    "email",
+    "getdb",
+    "goji",
+    "http",
+    "martini",
+    "negroni"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xyproto/permissions/archive/eda0159156388e02480b416203a0c32322d33ea1.tar.gz"
+  ],
+  "tag": [
+    "bcrypt",
+    "middleware",
+    "permissions",
+    "redis",
+    "sessions",
+    "user-auth"
+  ],
+  "version": "HEAD-eda0159-241201T171355",
+  "version_upstream": "",
+  "bsum": "3ad0bf1dca71674987d57e475ee2e528b140b9522f84b1ffde54c9596883e05b",
+  "build_date": "2025-06-22T21:48:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811037545",
+  "build_id": "15811037545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/goji?tag=HEAD-eda0159-241201T171355-loongarch64-Linux&download=goji.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/goji?tag=HEAD-eda0159-241201T171355-loongarch64-Linux&download=goji",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xyproto/permissions/goji:HEAD-eda0159-241201T171355-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xyproto/permissions/goji",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/permissions/goji?tag=HEAD-eda0159-241201T171355-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7cb4467afaccf3871c492744d4f1556f35cba2be8cf50619830a4061aa06ac3",
+  "size": "6.3 MB",
+  "size_raw": "6560448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
