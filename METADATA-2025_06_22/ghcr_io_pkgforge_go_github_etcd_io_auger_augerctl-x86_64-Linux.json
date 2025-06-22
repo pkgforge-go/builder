@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "augerctl",
+  "pkg_family": "auger",
+  "pkg_id": "augerctl#github.com_etcd_io_auger",
+  "pkg_name": "augerctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/etcd-io/auger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Directly access data objects stored in etcd by Kubernetes.",
+  "homepage": [
+    "https://github.com/etcd-io/auger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auger",
+    "augerctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/etcd-io/auger/archive/87612a2df12712a3bfab009c7f1e05729cd69690.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-etcd"
+  ],
+  "version": "HEAD-87612a2-250622T104840",
+  "version_upstream": "",
+  "bsum": "42e585d4f1a1194ef0e90ffeca86f1c69f6ec98a9dd6c18cfb1bb422788de404",
+  "build_date": "2025-06-22T13:37:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806853379",
+  "build_id": "15806853379",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/auger/augerctl?tag=HEAD-87612a2-250622T104840-x86_64-Linux&download=augerctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/auger/augerctl?tag=HEAD-87612a2-250622T104840-x86_64-Linux&download=augerctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/auger/augerctl:HEAD-87612a2-250622T104840-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/auger/augerctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/auger/augerctl?tag=HEAD-87612a2-250622T104840-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "512ef92f62a15501eb802ef8c6d5c7de62118a97fb883449700dbe40d544431c",
+  "size": "36 MB",
+  "size_raw": "37569888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
