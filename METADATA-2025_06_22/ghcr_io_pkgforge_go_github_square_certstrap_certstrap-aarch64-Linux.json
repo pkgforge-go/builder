@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "certstrap",
+  "pkg_family": "certstrap",
+  "pkg_id": "certstrap#github.com_square_certstrap",
+  "pkg_name": "certstrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/square/certstrap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools to bootstrap CAs, certificate requests, and signed certificates.",
+  "homepage": [
+    "https://github.com/square/certstrap"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certstrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/square/certstrap/archive/762223eda04d77ee4e2fc9cf9518b7b457af687b.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "certificate",
+    "certificate-authority",
+    "crypto",
+    "csr",
+    "golang",
+    "ssl",
+    "tls"
+  ],
+  "version": "HEAD-762223e-230512T151044",
+  "version_upstream": "",
+  "bsum": "1b48d427e536825325bbc1e79d172ba2099d4bd1fe0d42cf0856305ce47e6d63",
+  "build_date": "2025-06-22T14:48:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807335629",
+  "build_id": "15807335629",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certstrap/certstrap?tag=HEAD-762223e-230512T151044-aarch64-Linux&download=certstrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2378",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certstrap/certstrap?tag=HEAD-762223e-230512T151044-aarch64-Linux&download=certstrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/square/certstrap/certstrap:HEAD-762223e-230512T151044-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/square/certstrap/certstrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certstrap/certstrap?tag=HEAD-762223e-230512T151044-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3add3b5c179d7781ff0eb01fdc8777d4a61504e1f2e0c86d415046f2da2227e7",
+  "size": "6.0 MB",
+  "size_raw": "6189824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
