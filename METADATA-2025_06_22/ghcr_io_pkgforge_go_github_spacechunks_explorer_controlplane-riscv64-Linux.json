@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controlplane",
+  "pkg_family": "explorer",
+  "pkg_id": "controlplane#github.com_spacechunks_explorer",
+  "pkg_name": "controlplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spacechunks/explorer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Host and explore Minecraft minigames",
+  "homepage": [
+    "https://github.com/spacechunks/explorer"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conncheck",
+    "controlplane",
+    "netglue",
+    "platformd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spacechunks/explorer/archive/95e25a81b4e29d3d41dedb051462f97624dade0a.tar.gz"
+  ],
+  "tag": [
+    "checkpoint-restore",
+    "minecraft"
+  ],
+  "version": "HEAD-95e25a8-250622T150314",
+  "version_upstream": "",
+  "bsum": "bc8f371265b42eafc6edf2b7576af4a36e0f00a05f70dfb53bd722b0c9671eec",
+  "build_date": "2025-06-22T16:49:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808430460",
+  "build_id": "15808430460",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/controlplane?tag=HEAD-95e25a8-250622T150314-riscv64-Linux&download=controlplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/controlplane?tag=HEAD-95e25a8-250622T150314-riscv64-Linux&download=controlplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spacechunks/explorer/controlplane:HEAD-95e25a8-250622T150314-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spacechunks/explorer/controlplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/controlplane?tag=HEAD-95e25a8-250622T150314-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf82f4426e0c2e449dcc3b98cebcddbfa7fd6ef4585779fd7eaa7934b2277c2e",
+  "size": "21 MB",
+  "size_raw": "21352728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
