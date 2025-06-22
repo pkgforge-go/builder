@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "migrate-logs",
+  "pkg_family": "soju",
+  "pkg_id": "migrate-logs#github.com_emersion_soju",
+  "pkg_name": "migrate-logs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/emersion/soju",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IRC bouncer _mirror_",
+  "homepage": [
+    "https://github.com/emersion/soju"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "migrate-db",
+    "migrate-logs",
+    "soju",
+    "sojuctl",
+    "sojudb",
+    "znc-import"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/emersion/soju/archive/4e42ca85e0714f48b6996aa632135fdf3dad1e25.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4e42ca8-250622T143633",
+  "version_upstream": "",
+  "bsum": "ae533ca2b860e144f03caf63191d89aa072eca42551d9d7051a0e77990693624",
+  "build_date": "2025-06-22T16:08:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808245280",
+  "build_id": "15808245280",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/migrate-logs?tag=HEAD-4e42ca8-250622T143633-aarch64-Linux&download=migrate-logs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/migrate-logs?tag=HEAD-4e42ca8-250622T143633-aarch64-Linux&download=migrate-logs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/emersion/soju/migrate-logs:HEAD-4e42ca8-250622T143633-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/emersion/soju/migrate-logs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/migrate-logs?tag=HEAD-4e42ca8-250622T143633-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bbb2734abe5f760a7087500d4fc37c0041064b580df7481a2a104225b42c2700",
+  "size": "9.6 MB",
+  "size_raw": "10058016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
