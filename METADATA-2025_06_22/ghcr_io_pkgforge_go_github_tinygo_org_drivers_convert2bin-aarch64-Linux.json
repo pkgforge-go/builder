@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "convert2bin",
+  "pkg_family": "drivers",
+  "pkg_id": "convert2bin#github.com_tinygo_org_drivers",
+  "pkg_name": "convert2bin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinygo-org/drivers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.",
+  "homepage": [
+    "https://github.com/tinygo-org/drivers"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic-demo",
+    "convert2bin",
+    "gen_defines",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tinygo-org/drivers/archive/c4ff8242a7726cb0d281d7c583d124e8d52bca00.tar.gz"
+  ],
+  "tag": [
+    "adxl345",
+    "apa102",
+    "blinkm",
+    "bmp180",
+    "dotstar",
+    "ds3231",
+    "embedded",
+    "esp8266",
+    "gpio",
+    "hacktoberfest",
+    "i2c",
+    "lorawan",
+    "mag3110",
+    "mma8653",
+    "mpu6050",
+    "neopixels",
+    "sensors",
+    "spi",
+    "tinygo",
+    "ws2812"
+  ],
+  "version": "HEAD-c4ff824-250615T223634",
+  "version_upstream": "v0.32.0",
+  "bsum": "da6166abc00de34fe9bd843495e45f51047a2d9a9766f61ba362fcb50b922c0f",
+  "build_date": "2025-06-22T17:56:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808776385",
+  "build_id": "15808776385",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinygo-org/drivers/convert2bin?tag=HEAD-c4ff824-250615T223634-aarch64-Linux&download=convert2bin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "669",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinygo-org/drivers/convert2bin?tag=HEAD-c4ff824-250615T223634-aarch64-Linux&download=convert2bin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinygo-org/drivers/convert2bin:HEAD-c4ff824-250615T223634-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinygo-org/drivers/convert2bin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinygo-org/drivers/convert2bin?tag=HEAD-c4ff824-250615T223634-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "05d503847c387a68e7d04dd75d937a2ad58bdf5f1960a92b984c312925e8b6e4",
+  "size": "1.7 MB",
+  "size_raw": "1767864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
