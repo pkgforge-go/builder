@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sqlboiler-mysql",
+  "pkg_family": "sqlboiler",
+  "pkg_id": "sqlboiler-mysql#github.com_volatiletech_sqlboiler",
+  "pkg_name": "sqlboiler-mysql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/volatiletech/sqlboiler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate a Go ORM tailored to your database schema.",
+  "homepage": [
+    "https://github.com/volatiletech/sqlboiler"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sqlboiler",
+    "sqlboiler-mssql",
+    "sqlboiler-mysql",
+    "sqlboiler-psql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/volatiletech/sqlboiler/archive/2f74a48ad31620ba62e2b560c2c8471ebb6696de.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "go",
+    "golang",
+    "mssql",
+    "mysql",
+    "orm",
+    "postgres",
+    "postgresql",
+    "sqlboiler",
+    "sqlite3"
+  ],
+  "version": "HEAD-2f74a48-250603T231922",
+  "version_upstream": "",
+  "bsum": "b43b7bb9ceab5ae03f5bc61623d804edde4179831ecf8bb21c3fbd67d088bc7f",
+  "build_date": "2025-06-22T19:59:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810051942",
+  "build_id": "15810051942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volatiletech/sqlboiler/sqlboiler-mysql?tag=HEAD-2f74a48-250603T231922-loongarch64-Linux&download=sqlboiler-mysql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6886",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volatiletech/sqlboiler/sqlboiler-mysql?tag=HEAD-2f74a48-250603T231922-loongarch64-Linux&download=sqlboiler-mysql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/volatiletech/sqlboiler/sqlboiler-mysql:HEAD-2f74a48-250603T231922-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/volatiletech/sqlboiler/sqlboiler-mysql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volatiletech/sqlboiler/sqlboiler-mysql?tag=HEAD-2f74a48-250603T231922-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "56587dc882ca06def0aa68b89cf5265e98c9f276d2bc1ff450113489e130ee81",
+  "size": "5.8 MB",
+  "size_raw": "6020928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
