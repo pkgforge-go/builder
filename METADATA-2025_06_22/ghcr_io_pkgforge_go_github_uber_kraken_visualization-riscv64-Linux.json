@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "visualization",
+  "pkg_family": "kraken",
+  "pkg_id": "visualization#github.com_uber_kraken",
+  "pkg_name": "visualization",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/kraken",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+  "homepage": [
+    "https://github.com/uber/kraken"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "puller",
+    "reload",
+    "testfs",
+    "tracker",
+    "visualization"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/kraken/archive/604194a25ea5a4b79678ff5ba62515a0f7062e4c.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "container",
+    "containerd",
+    "docker",
+    "docker-image",
+    "docker-registry",
+    "p2p"
+  ],
+  "version": "HEAD-604194a-250512T160801",
+  "version_upstream": "",
+  "bsum": "6616c0c1b4d6710a9b6074949110c2ca9c42b76e978f8a3aa8b621ba55562d79",
+  "build_date": "2025-06-22T19:11:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730068",
+  "build_id": "15809730068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/visualization?tag=HEAD-604194a-250512T160801-riscv64-Linux&download=visualization.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/visualization?tag=HEAD-604194a-250512T160801-riscv64-Linux&download=visualization",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/kraken/visualization:HEAD-604194a-250512T160801-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/kraken/visualization",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/visualization?tag=HEAD-604194a-250512T160801-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ca05cd9ef1efed10d6401613dbd08ad40e34350826dc8fffd3cba498aeea5df",
+  "size": "8.7 MB",
+  "size_raw": "9085528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-604194a-250512T160801-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
