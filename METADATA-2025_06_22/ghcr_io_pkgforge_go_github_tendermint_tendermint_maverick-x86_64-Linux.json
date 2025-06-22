@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "maverick",
+  "pkg_family": "tendermint",
+  "pkg_id": "maverick#github.com_tendermint_tendermint",
+  "pkg_name": "maverick",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tendermint/tendermint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⟁ Tendermint Core _BFT Consensus_ in Go",
+  "homepage": [
+    "https://github.com/tendermint/tendermint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abci-cli",
+    "app",
+    "cmd",
+    "contract_tests",
+    "generator",
+    "init-corpus",
+    "json2wal",
+    "load",
+    "maverick",
+    "node",
+    "parallel",
+    "priv_val_server",
+    "report",
+    "runner",
+    "simple",
+    "tendermint",
+    "test",
+    "test_app",
+    "tm-signer-harness",
+    "wal2json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tendermint/tendermint/archive/9d1be86031365f6f56668d2f5f0e7312eb8fef62.tar.gz"
+  ],
+  "tag": [
+    "bft",
+    "blockchain",
+    "consensus",
+    "consistency",
+    "cryptocurrency",
+    "cryptography",
+    "db",
+    "distributed-systems",
+    "go"
+  ],
+  "version": "HEAD-9d1be86-250306T124312",
+  "version_upstream": "",
+  "bsum": "54c44b3e5d98b1e00681c85fbb88d964014e63a21b3fc428dbb579ff19a22972",
+  "build_date": "2025-06-22T17:30:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808643476",
+  "build_id": "15808643476",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tendermint/tendermint/maverick?tag=HEAD-9d1be86-250306T124312-x86_64-Linux&download=maverick.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5808",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tendermint/tendermint/maverick?tag=HEAD-9d1be86-250306T124312-x86_64-Linux&download=maverick",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tendermint/tendermint/maverick:HEAD-9d1be86-250306T124312-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tendermint/tendermint/maverick",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tendermint/tendermint/maverick?tag=HEAD-9d1be86-250306T124312-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc1aae6b64dddf6d66d14ebc35a02f2b16e0d2285ba0098900e36c23479a089f",
+  "size": "27 MB",
+  "size_raw": "27326784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
