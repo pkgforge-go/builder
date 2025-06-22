@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "qtc",
+  "pkg_family": "quicktemplate",
+  "pkg_id": "qtc#github.com_valyala_quicktemplate",
+  "pkg_name": "qtc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/valyala/quicktemplate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template",
+  "homepage": [
+    "https://github.com/valyala/quicktemplate"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basicserver",
+    "qtc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/valyala/quicktemplate/archive/4d619e27ca723c29dcecf9844b193ee20df2322a.tar.gz"
+  ],
+  "tag": [
+    "fast",
+    "golang",
+    "template-engine"
+  ],
+  "version": "HEAD-4d619e2-240705T005238",
+  "version_upstream": "v1.8.0",
+  "bsum": "921a56005c46e9aba6cd6c72b280f8936c4090387e8c4ae70c902b1fbe472ed6",
+  "build_date": "2025-06-22T19:38:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809770846",
+  "build_id": "15809770846",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/quicktemplate/qtc?tag=HEAD-4d619e2-240705T005238-aarch64-Linux&download=qtc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3226",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/quicktemplate/qtc?tag=HEAD-4d619e2-240705T005238-aarch64-Linux&download=qtc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/valyala/quicktemplate/qtc:HEAD-4d619e2-240705T005238-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/valyala/quicktemplate/qtc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/quicktemplate/qtc?tag=HEAD-4d619e2-240705T005238-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f04b5a0c3897502be0216742f3ee8894e99e42f3fc1af2f8165c4c7ec2d01f01",
+  "size": "2.8 MB",
+  "size_raw": "2916920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
