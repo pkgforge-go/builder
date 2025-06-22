@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "reload",
+  "pkg_family": "kraken",
+  "pkg_id": "reload#github.com_uber_kraken",
+  "pkg_name": "reload",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/kraken",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+  "homepage": [
+    "https://github.com/uber/kraken"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "reload",
+    "testfs",
+    "tracker",
+    "visualization"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/kraken/archive/604194a25ea5a4b79678ff5ba62515a0f7062e4c.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "container",
+    "containerd",
+    "docker",
+    "docker-image",
+    "docker-registry",
+    "p2p"
+  ],
+  "version": "HEAD-604194a-250512T160801",
+  "version_upstream": "",
+  "bsum": "24a32164c889edd2c27254461806bdef9e96f1ae039b62b6806a653a73f6e723",
+  "build_date": "2025-06-22T19:10:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730068",
+  "build_id": "15809730068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/reload?tag=HEAD-604194a-250512T160801-loongarch64-Linux&download=reload.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/reload?tag=HEAD-604194a-250512T160801-loongarch64-Linux&download=reload",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/kraken/reload:HEAD-604194a-250512T160801-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/kraken/reload",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/reload?tag=HEAD-604194a-250512T160801-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f907eb81943d540f0188b85d41809c0f6a5fff1314efd1c71e7590b15b69f45a",
+  "size": "9.8 MB",
+  "size_raw": "10266464",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-604194a-250512T160801-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
