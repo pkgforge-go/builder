@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "concurrent-instantiation",
+  "pkg_family": "wazero",
+  "pkg_id": "concurrent-instantiation#github.com_tetratelabs_wazero",
+  "pkg_name": "concurrent-instantiation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tetratelabs/wazero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "wazero: the zero dependency WebAssembly runtime for Go developers",
+  "homepage": [
+    "https://github.com/tetratelabs/wazero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "concurrent-instantiation",
+    "example",
+    "import-go",
+    "multiple-results",
+    "multiple-runtimes",
+    "rust",
+    "tinygo",
+    "wazero",
+    "zig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tetratelabs/wazero/archive/0dea5d7ee1de12d2817d6ac8548a4d36aaf59aea.tar.gz"
+  ],
+  "tag": [
+    "ahead-of-time",
+    "compiler",
+    "go",
+    "golang",
+    "runtime",
+    "vm",
+    "wasi",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-0dea5d7-250414T073203",
+  "version_upstream": "",
+  "bsum": "fd9545cb8a48b37f6f674830d7c1e803c515545ab10aa62b4ed6a41d12b854b8",
+  "build_date": "2025-06-22T17:30:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808665635",
+  "build_id": "15808665635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/concurrent-instantiation?tag=HEAD-0dea5d7-250414T073203-loongarch64-Linux&download=concurrent-instantiation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/concurrent-instantiation?tag=HEAD-0dea5d7-250414T073203-loongarch64-Linux&download=concurrent-instantiation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tetratelabs/wazero/concurrent-instantiation:HEAD-0dea5d7-250414T073203-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tetratelabs/wazero/concurrent-instantiation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tetratelabs/wazero/concurrent-instantiation?tag=HEAD-0dea5d7-250414T073203-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2721648760050724ca46853cde075c3ae292618423974712525a9bf586f232b0",
+  "size": "3.7 MB",
+  "size_raw": "3818368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
