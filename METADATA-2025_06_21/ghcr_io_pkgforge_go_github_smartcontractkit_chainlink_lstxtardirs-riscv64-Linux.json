@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lstxtardirs",
+  "pkg_family": "chainlink",
+  "pkg_id": "lstxtardirs#github.com_smartcontractkit_chainlink",
+  "pkg_name": "lstxtardirs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chainlink-medianpoc",
+    "fetchtrueusd",
+    "gen",
+    "gomod-local-update",
+    "log-event-trigger",
+    "lstxtardirs",
+    "operator_ui",
+    "plugout",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink/archive/d62f55f098b0909be014eb0b2634466ffd84b8ec.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "chainlink",
+    "ethereum",
+    "golang",
+    "oracle",
+    "solidity"
+  ],
+  "version": "HEAD-d62f55f-250620T210233",
+  "version_upstream": "",
+  "bsum": "ce5601377e5deee4d081b4957bea51732637978c07616d27afc5a1d245a4cd08",
+  "build_date": "2025-06-22T00:03:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800609495",
+  "build_id": "15800609495",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/lstxtardirs?tag=HEAD-d62f55f-250620T210233-riscv64-Linux&download=lstxtardirs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7374",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/lstxtardirs?tag=HEAD-d62f55f-250620T210233-riscv64-Linux&download=lstxtardirs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/lstxtardirs:HEAD-d62f55f-250620T210233-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/lstxtardirs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/lstxtardirs?tag=HEAD-d62f55f-250620T210233-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0067a6a40eecc2074cc00d15e605ae7a73f1c3a44d1d70fdb0ceab6d6d217c8a",
+  "size": "1.8 MB",
+  "size_raw": "1842952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

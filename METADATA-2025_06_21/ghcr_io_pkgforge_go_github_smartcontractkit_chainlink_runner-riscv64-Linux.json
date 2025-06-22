@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "runner",
+  "pkg_family": "chainlink",
+  "pkg_id": "runner#github.com_smartcontractkit_chainlink",
+  "pkg_name": "runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chainlink-medianpoc",
+    "fetchtrueusd",
+    "gen",
+    "gomod-local-update",
+    "log-event-trigger",
+    "lstxtardirs",
+    "operator_ui",
+    "plugout",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink/archive/d62f55f098b0909be014eb0b2634466ffd84b8ec.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "chainlink",
+    "ethereum",
+    "golang",
+    "oracle",
+    "solidity"
+  ],
+  "version": "HEAD-d62f55f-250620T210233",
+  "version_upstream": "",
+  "bsum": "62d142c5bb6cf3732421845165d9e38f61742826307e69367fe74d9f34f7333e",
+  "build_date": "2025-06-22T00:03:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800609495",
+  "build_id": "15800609495",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/runner?tag=HEAD-d62f55f-250620T210233-riscv64-Linux&download=runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7374",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/runner?tag=HEAD-d62f55f-250620T210233-riscv64-Linux&download=runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/runner:HEAD-d62f55f-250620T210233-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/runner?tag=HEAD-d62f55f-250620T210233-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae034c895bac744815f5057472e6b8a2d2a8ce2565c04b44a81704a8f44e3325",
+  "size": "6.3 MB",
+  "size_raw": "6551288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
