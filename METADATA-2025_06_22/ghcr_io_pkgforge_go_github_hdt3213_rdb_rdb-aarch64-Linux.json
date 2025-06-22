@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rdb",
+  "pkg_family": "rdb",
+  "pkg_id": "rdb#github.com_HDT3213_rdb",
+  "pkg_name": "rdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/HDT3213/rdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implemented  Redis RDB parser for secondary development and memory analysis",
+  "homepage": [
+    "https://github.com/HDT3213/rdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decode",
+    "encode",
+    "rdb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/HDT3213/rdb/archive/1ceef5a355b35502cd5a11b531cd03364b6a64af.tar.gz"
+  ],
+  "tag": [
+    "analyzer",
+    "go",
+    "parser",
+    "rdb",
+    "redis"
+  ],
+  "version": "HEAD-1ceef5a-250317T213959",
+  "version_upstream": "v1.1.0",
+  "bsum": "008307f88487e055c87ea139cd5faacee34279e97a9d03f148789f46012aca29",
+  "build_date": "2025-06-22T22:02:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811057119",
+  "build_id": "15811057119",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/rdb?tag=HEAD-1ceef5a-250317T213959-aarch64-Linux&download=rdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "542",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/rdb?tag=HEAD-1ceef5a-250317T213959-aarch64-Linux&download=rdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hdt3213/rdb/rdb:HEAD-1ceef5a-250317T213959-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hdt3213/rdb/rdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/rdb?tag=HEAD-1ceef5a-250317T213959-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc742e0bbcb75bd176e82ab1d47774a6134169588990e9ebc6973b63896cb793",
+  "size": "8.9 MB",
+  "size_raw": "9316928",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ceef5a-250317T213959-aarch64-Linux[v1.1.0]"
+  ],
+  "trusted": "true"
+}
