@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "namazu2mixi2",
+  "pkg_family": "namazu",
+  "pkg_id": "namazu2mixi2#github.com_matsuu_namazu",
+  "pkg_name": "namazu2mixi2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matsuu/namazu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "緊急地震速報（予報）を受け取ってSNSに投げるプログラム一式",
+  "homepage": [
+    "https://github.com/matsuu/namazu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "namazu",
+    "namazu2bluesky",
+    "namazu2mastodon",
+    "namazu2mixi2",
+    "namazu2nostr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matsuu/namazu/archive/1a75b7270ffea3a6b358389d76ba9776887e4bee.tar.gz"
+  ],
+  "tag": [
+    "earthquake",
+    "eew",
+    "forecasting",
+    "mastodon",
+    "nostr"
+  ],
+  "version": "HEAD-1a75b72-250622T130210",
+  "version_upstream": "",
+  "bsum": "b32cec927b02b121b4bad88e5b40fc2b81d082a703edc1a0a63eb4cdac742d6c",
+  "build_date": "2025-06-22T16:26:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808289634",
+  "build_id": "15808289634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2mixi2?tag=HEAD-1a75b72-250622T130210-riscv64-Linux&download=namazu2mixi2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2mixi2?tag=HEAD-1a75b72-250622T130210-riscv64-Linux&download=namazu2mixi2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2mixi2:HEAD-1a75b72-250622T130210-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2mixi2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2mixi2?tag=HEAD-1a75b72-250622T130210-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c761192f92930c0d699ec47367f888802f9e22e03b586736322b7acdd48f447d",
+  "size": "9.9 MB",
+  "size_raw": "10372376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
