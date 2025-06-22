@@ -6,7 +6,7 @@ concurrency:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * *" #@every 1hrs
+    - cron: "0 */2 * * *" #@every 2hrs
 #------------------------------------------------------------------------------------#
 jobs:
     sync-list:

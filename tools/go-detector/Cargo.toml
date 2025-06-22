@@ -1,0 +1,18 @@
+[package]
+name = "go-detector"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "go-detector"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1.0"
+clap = { version = "4.0", features = ["derive"] }
+indicatif = "0.17"
+regex = "1.10"
+reqwest = { version = "0.11", features = ["stream"] }
+serde_json = "1.0"
+tempfile = "3.8"
+tokio = { version = "1.0", features = ["full"] }

@@ -17,13 +17,14 @@ Options:
   -o, --output <FILE>              Output file path (stdout if not specified)
       --api-url <URL>              Base API URL for deps.dev [default: https://api.deps.dev/v3/projects/]
       --user-agent <STRING>        User agent string for HTTP requests [default: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"]
-  -t, --threads <NUM>              Number of concurrent HTTP requests [default: 20]
+  -t, --threads <NUM>              Number of concurrent HTTP requests [default: 30]
   -v, --verbose                    Enable verbose output
   -q, --quiet                      Suppress progress output
       --max-retries <NUM>          Maximum number of retry attempts for failed API requests [default: 2]
       --base-delay-ms <MS>         Base delay in milliseconds for exponential backoff [default: 250]
       --request-timeout <SECONDS>  Request timeout in seconds [default: 10]
       --fast-fail-threshold <NUM>  Stop retrying after this many consecutive failures [default: 10]
+  -f, --force                      Force overwrite existing output files
   -h, --help                       Print help
   -V, --version                    Print version
 
