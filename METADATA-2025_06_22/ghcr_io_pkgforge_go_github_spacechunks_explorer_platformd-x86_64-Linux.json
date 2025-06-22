@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "platformd",
+  "pkg_family": "explorer",
+  "pkg_id": "platformd#github.com_spacechunks_explorer",
+  "pkg_name": "platformd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spacechunks/explorer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Host and explore Minecraft minigames",
+  "homepage": [
+    "https://github.com/spacechunks/explorer"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conncheck",
+    "controlplane",
+    "netglue",
+    "platformd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spacechunks/explorer/archive/95e25a81b4e29d3d41dedb051462f97624dade0a.tar.gz"
+  ],
+  "tag": [
+    "checkpoint-restore",
+    "minecraft"
+  ],
+  "version": "HEAD-95e25a8-250622T150314",
+  "version_upstream": "",
+  "bsum": "814d19d9896cb0148daf26810f1e4c07c251b9f9cb4ecd4cd5e56ecc2ccfd5e6",
+  "build_date": "2025-06-22T16:48:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808430460",
+  "build_id": "15808430460",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/platformd?tag=HEAD-95e25a8-250622T150314-x86_64-Linux&download=platformd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/platformd?tag=HEAD-95e25a8-250622T150314-x86_64-Linux&download=platformd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spacechunks/explorer/platformd:HEAD-95e25a8-250622T150314-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spacechunks/explorer/platformd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/platformd?tag=HEAD-95e25a8-250622T150314-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "89296c4900eb1801141c56b7579a6917594cdfcc628590a9bbbc4e7b09dfd9e8",
+  "size": "36 MB",
+  "size_raw": "37219032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

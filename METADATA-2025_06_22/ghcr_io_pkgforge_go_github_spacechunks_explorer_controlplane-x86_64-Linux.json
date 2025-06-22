@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "controlplane",
+  "pkg_family": "explorer",
+  "pkg_id": "controlplane#github.com_spacechunks_explorer",
+  "pkg_name": "controlplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spacechunks/explorer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Host and explore Minecraft minigames",
+  "homepage": [
+    "https://github.com/spacechunks/explorer"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conncheck",
+    "controlplane",
+    "netglue",
+    "platformd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spacechunks/explorer/archive/95e25a81b4e29d3d41dedb051462f97624dade0a.tar.gz"
+  ],
+  "tag": [
+    "checkpoint-restore",
+    "minecraft"
+  ],
+  "version": "HEAD-95e25a8-250622T150314",
+  "version_upstream": "",
+  "bsum": "688596377b2cf4806b898ea47d7ff06e896fd196b356667a66ae6c3ef87cc9ed",
+  "build_date": "2025-06-22T16:48:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808430460",
+  "build_id": "15808430460",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/controlplane?tag=HEAD-95e25a8-250622T150314-x86_64-Linux&download=controlplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/controlplane?tag=HEAD-95e25a8-250622T150314-x86_64-Linux&download=controlplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spacechunks/explorer/controlplane:HEAD-95e25a8-250622T150314-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spacechunks/explorer/controlplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/controlplane?tag=HEAD-95e25a8-250622T150314-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b1aa701ab2c874467739d555bb2152449185719910806389150a85c756e4cd80",
+  "size": "22 MB",
+  "size_raw": "22461440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
