@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "operator_ui",
+  "pkg_family": "chainlink",
+  "pkg_id": "operator_ui#github.com_smartcontractkit_chainlink",
+  "pkg_name": "operator_ui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chainlink-medianpoc",
+    "fetchtrueusd",
+    "gen",
+    "gomod-local-update",
+    "log-event-trigger",
+    "lstxtardirs",
+    "operator_ui",
+    "plugout",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink/archive/d62f55f098b0909be014eb0b2634466ffd84b8ec.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "chainlink",
+    "ethereum",
+    "golang",
+    "oracle",
+    "solidity"
+  ],
+  "version": "HEAD-d62f55f-250620T210233",
+  "version_upstream": "",
+  "bsum": "0b41be1733305a153c63896d9bac64468e04bc8a1f3e2542fbfeaf9da21d0848",
+  "build_date": "2025-06-22T00:02:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800609495",
+  "build_id": "15800609495",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/operator_ui?tag=HEAD-d62f55f-250620T210233-loongarch64-Linux&download=operator_ui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7374",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/operator_ui?tag=HEAD-d62f55f-250620T210233-loongarch64-Linux&download=operator_ui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/operator_ui:HEAD-d62f55f-250620T210233-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/operator_ui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/operator_ui?tag=HEAD-d62f55f-250620T210233-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5d1ecd29d3eccad1d7a52a40e0f111ce7761f63ed952e4eab6a2e73525dfe24",
+  "size": "5.8 MB",
+  "size_raw": "6043072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
