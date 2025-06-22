@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "popcount",
+  "pkg_family": "nixery",
+  "pkg_id": "popcount#github.com_tazjin_nixery",
+  "pkg_name": "popcount",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tazjin/nixery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery",
+  "homepage": [
+    "https://github.com/tazjin/nixery"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "popcount",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tazjin/nixery/archive/c6d4692b1b6eb105c9abce0411d2ef4b8708a6e1.tar.gz"
+  ],
+  "tag": [
+    "broccoli",
+    "container-images",
+    "container-registry",
+    "docker",
+    "kubernetes",
+    "nix",
+    "nixos"
+  ],
+  "version": "HEAD-c6d4692-250420T114653",
+  "version_upstream": "",
+  "bsum": "a0adc8b4f0a57a9b060c55221319d9ddcb30111a5ffb14d2ff5a53ddaa12dfde",
+  "build_date": "2025-06-22T16:59:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808575891",
+  "build_id": "15808575891",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tazjin/nixery/popcount?tag=HEAD-c6d4692-250420T114653-aarch64-Linux&download=popcount.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1887",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tazjin/nixery/popcount?tag=HEAD-c6d4692-250420T114653-aarch64-Linux&download=popcount",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tazjin/nixery/popcount:HEAD-c6d4692-250420T114653-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tazjin/nixery/popcount",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tazjin/nixery/popcount?tag=HEAD-c6d4692-250420T114653-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff85a75e2d7c9e881d9a59950d308395fa9ffe9eadb3a4cd6f235c74acc48679",
+  "size": "6.1 MB",
+  "size_raw": "6344736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
