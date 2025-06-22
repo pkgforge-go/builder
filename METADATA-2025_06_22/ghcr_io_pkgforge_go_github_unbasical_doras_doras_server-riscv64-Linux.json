@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "doras-server",
+  "pkg_family": "doras",
+  "pkg_id": "doras-server#github.com_unbasical_doras",
+  "pkg_name": "doras-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/unbasical/doras",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Delta updates based on OCI registries.",
+  "homepage": [
+    "https://github.com/unbasical/doras"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doras-cli",
+    "doras-client",
+    "doras-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/unbasical/doras/archive/01ab38bcc8ac551414380c617b566a14ab687aa9.tar.gz"
+  ],
+  "tag": [
+    "delta",
+    "differential-update",
+    "oci",
+    "updater"
+  ],
+  "version": "HEAD-01ab38b-250617T121208",
+  "version_upstream": "v0.19.7",
+  "bsum": "d99b817a9e62ba76d52a7fb8a8bd26aed4c3b485c3a9cfeaf625720ed20db17f",
+  "build_date": "2025-06-22T19:17:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809741498",
+  "build_id": "15809741498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unbasical/doras/doras-server?tag=HEAD-01ab38b-250617T121208-riscv64-Linux&download=doras-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unbasical/doras/doras-server?tag=HEAD-01ab38b-250617T121208-riscv64-Linux&download=doras-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/unbasical/doras/doras-server:HEAD-01ab38b-250617T121208-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/unbasical/doras/doras-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unbasical/doras/doras-server?tag=HEAD-01ab38b-250617T121208-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a6900f737d5330c89349bfbcdb3bb16f2e8c2853ed658bf1735b0794406e9061",
+  "size": "19 MB",
+  "size_raw": "19754688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
