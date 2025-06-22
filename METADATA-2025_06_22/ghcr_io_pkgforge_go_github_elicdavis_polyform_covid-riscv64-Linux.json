@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "covid",
+  "pkg_family": "polyform",
+  "pkg_id": "covid#github.com_EliCDavis_polyform",
+  "pkg_name": "covid",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EliCDavis/polyform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Immutable mesh processing library",
+  "homepage": [
+    "https://github.com/EliCDavis/polyform"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candle",
+    "chill",
+    "colmap-utils",
+    "covid",
+    "csg",
+    "flowers",
+    "gopher",
+    "inflate",
+    "mesh-util",
+    "mort-shuffle",
+    "oreo",
+    "pc-render",
+    "plumbob",
+    "ply-utils",
+    "polyform",
+    "polywasm",
+    "potree-utils",
+    "ray",
+    "render",
+    "spz-utils",
+    "terrain",
+    "text",
+    "voxelize"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EliCDavis/polyform/archive/b953e807f630a8b1c528f68b40e288475763fc74.tar.gz"
+  ],
+  "tag": [
+    "3d",
+    "gaussian-splatting",
+    "generative-art",
+    "geometry",
+    "geometry-processing",
+    "gltf",
+    "mesh",
+    "mesh-processing",
+    "obj",
+    "ply",
+    "procedural-generation"
+  ],
+  "version": "HEAD-b953e80-250621T194447",
+  "version_upstream": "",
+  "bsum": "abf600f6d2c5f72b09165c1dc9645de9f26f5052f2e7ef8b2c077eb756b8dce0",
+  "build_date": "2025-06-22T13:18:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806811397",
+  "build_id": "15806811397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/covid?tag=HEAD-b953e80-250621T194447-riscv64-Linux&download=covid.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/covid?tag=HEAD-b953e80-250621T194447-riscv64-Linux&download=covid",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elicdavis/polyform/covid:HEAD-b953e80-250621T194447-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elicdavis/polyform/covid",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/covid?tag=HEAD-b953e80-250621T194447-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "89ce1d4dabc33c61b517fe97e9d1d2c7f141924002e4f3fef640dc41fb85cf6c",
+  "size": "4.9 MB",
+  "size_raw": "5101912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
