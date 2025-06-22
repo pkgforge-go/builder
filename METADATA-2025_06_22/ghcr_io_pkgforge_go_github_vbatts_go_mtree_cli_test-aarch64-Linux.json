@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cli-test",
+  "pkg_family": "go-mtree",
+  "pkg_id": "cli-test#github.com_vbatts_go_mtree",
+  "pkg_name": "cli-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vbatts/go-mtree",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "File systems verification utility and library, in likeness of mtree_8_",
+  "homepage": [
+    "https://github.com/vbatts/go-mtree"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli-test",
+    "gomtree",
+    "realpath"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vbatts/go-mtree/archive/12e242c268e0dfcd3df0d3aec734bb4a6f792b65.tar.gz"
+  ],
+  "tag": [
+    "filesystem",
+    "mtree",
+    "tar",
+    "verification"
+  ],
+  "version": "HEAD-12e242c-241101T083352",
+  "version_upstream": "",
+  "bsum": "8bbfae7a281bf0758b465dbc1dc3fceb409167ff4d678c826a8bc6135edfcb43",
+  "build_date": "2025-06-22T19:41:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809788482",
+  "build_id": "15809788482",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vbatts/go-mtree/cli-test?tag=HEAD-12e242c-241101T083352-aarch64-Linux&download=cli-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vbatts/go-mtree/cli-test?tag=HEAD-12e242c-241101T083352-aarch64-Linux&download=cli-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vbatts/go-mtree/cli-test:HEAD-12e242c-241101T083352-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vbatts/go-mtree/cli-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vbatts/go-mtree/cli-test?tag=HEAD-12e242c-241101T083352-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf9879fe94fbd8fb76795d6152f247510188d3a91650225003cbe54656f473f8",
+  "size": "2.0 MB",
+  "size_raw": "2015672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
