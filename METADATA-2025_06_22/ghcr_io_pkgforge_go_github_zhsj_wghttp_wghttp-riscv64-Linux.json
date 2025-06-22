@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wghttp",
+  "pkg_family": "wghttp",
+  "pkg_id": "wghttp#github.com_zhsj_wghttp",
+  "pkg_name": "wghttp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zhsj/wghttp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Turn WireGuard to HTTP _ SOCKS5 proxies",
+  "homepage": [
+    "https://github.com/zhsj/wghttp"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "wghttp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zhsj/wghttp/archive/93788461953f74cbc4e548d19b1d50be65dfa003.tar.gz"
+  ],
+  "tag": [
+    "dns-over-https",
+    "dns-over-tls",
+    "http-proxy",
+    "socks5-proxy",
+    "userspace",
+    "wireguard"
+  ],
+  "version": "HEAD-9378846-240515T211524",
+  "version_upstream": "v0.3.3",
+  "bsum": "9bb12f22205284384b16307af2b89e3378e99db31781a282d753a6d016371dd0",
+  "build_date": "2025-06-22T22:11:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811071267",
+  "build_id": "15811071267",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zhsj/wghttp/wghttp?tag=HEAD-9378846-240515T211524-riscv64-Linux&download=wghttp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "169",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zhsj/wghttp/wghttp?tag=HEAD-9378846-240515T211524-riscv64-Linux&download=wghttp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zhsj/wghttp/wghttp:HEAD-9378846-240515T211524-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zhsj/wghttp/wghttp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zhsj/wghttp/wghttp?tag=HEAD-9378846-240515T211524-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b48d24e1bd80d3e212918760be917acbebab518f150ddbc9bf25019e45abc79b",
+  "size": "9.8 MB",
+  "size_raw": "10201848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
