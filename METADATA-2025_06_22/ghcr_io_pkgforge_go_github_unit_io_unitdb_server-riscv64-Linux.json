@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "unitdb",
+  "pkg_id": "server#github.com_unit_io_unitdb",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/unit-io/unitdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast specialized time-series database for IoT, real-time internet connected devices and AI analytics.",
+  "homepage": [
+    "https://github.com/unit-io/unitdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "memdb",
+    "sample",
+    "server",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/unit-io/unitdb/archive/2a4e641b8a6b68abbd43ad36a13c1605a1da2c4b.tar.gz"
+  ],
+  "tag": [
+    "analytics",
+    "database",
+    "db",
+    "iot",
+    "timeseries",
+    "timeseries-database",
+    "trie",
+    "wal"
+  ],
+  "version": "HEAD-2a4e641-211028T160002",
+  "version_upstream": "",
+  "bsum": "a2a72f258a4ec2a4adee789c5943d872bd4626adfdf85287ad69293e668f8cc5",
+  "build_date": "2025-06-22T19:21:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809745042",
+  "build_id": "15809745042",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unit-io/unitdb/server?tag=HEAD-2a4e641-211028T160002-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "123",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unit-io/unitdb/server?tag=HEAD-2a4e641-211028T160002-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/unit-io/unitdb/server:HEAD-2a4e641-211028T160002-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/unit-io/unitdb/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unit-io/unitdb/server?tag=HEAD-2a4e641-211028T160002-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6cc2c530e801fa0537bffb26ebc7c2c1b3b52a0ff97f5952ee35273dd287e10a",
+  "size": "14 MB",
+  "size_raw": "13665496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
