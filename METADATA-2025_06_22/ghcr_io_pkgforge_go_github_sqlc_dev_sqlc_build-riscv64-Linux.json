@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "build",
+  "pkg_family": "sqlc",
+  "pkg_id": "build#github.com_sqlc_dev_sqlc",
+  "pkg_name": "build",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sqlc-dev/sqlc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate type-safe code from SQL",
+  "homepage": [
+    "https://github.com/sqlc-dev/sqlc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "bump-version",
+    "cleanup-test-dbs",
+    "mirror-go-plugin",
+    "scripts",
+    "sqlc",
+    "sqlc-gen-json",
+    "sqlc-pg-gen",
+    "test-json-process-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sqlc-dev/sqlc/archive/3da0b82d6c723c0e54e70f2d6ca9bca999e6b734.tar.gz"
+  ],
+  "tag": [
+    "code-generator",
+    "go",
+    "kotlin",
+    "mysql",
+    "orm",
+    "postgresql",
+    "python",
+    "sql",
+    "sqlite"
+  ],
+  "version": "HEAD-3da0b82-250612T225143",
+  "version_upstream": "",
+  "bsum": "70703b2f1280072078e35187ad59e1095e5352b919675926f3f0fea5fb62ba92",
+  "build_date": "2025-06-22T14:46:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807318971",
+  "build_id": "15807318971",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sqlc-dev/sqlc/build?tag=HEAD-3da0b82-250612T225143-riscv64-Linux&download=build.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15347",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sqlc-dev/sqlc/build?tag=HEAD-3da0b82-250612T225143-riscv64-Linux&download=build",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sqlc-dev/sqlc/build:HEAD-3da0b82-250612T225143-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sqlc-dev/sqlc/build",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sqlc-dev/sqlc/build?tag=HEAD-3da0b82-250612T225143-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "95f3e0a96f464c9d681fed38c07c746637baacd29714b76f1fe315ae8bcd5ae8",
+  "size": "1.9 MB",
+  "size_raw": "1919496",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3da0b82-250612T225143-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
