@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cpuns",
+  "pkg_family": "cpu",
+  "pkg_id": "cpuns#github.com_u_root_cpu",
+  "pkg_name": "cpuns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/u-root/cpu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "cpu command in Go, inspired by the Plan 9 cpu command",
+  "homepage": [
+    "https://github.com/u-root/cpu"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cpu",
+    "cpud",
+    "cpuns",
+    "decpu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/u-root/cpu/archive/264e2f37c69fee1e8681251a08f238078e44dcfd.tar.gz"
+  ],
+  "tag": [
+    "cpu",
+    "golang",
+    "plan9"
+  ],
+  "version": "HEAD-264e2f3-250417T143014",
+  "version_upstream": "",
+  "bsum": "73df50739ee43b3a0a7ff5dd02183b68e43aab01af8ee66f2a23cb8c217afc60",
+  "build_date": "2025-06-22T19:04:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809725071",
+  "build_id": "15809725071",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/cpu/cpuns?tag=HEAD-264e2f3-250417T143014-x86_64-Linux&download=cpuns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "255",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/cpu/cpuns?tag=HEAD-264e2f3-250417T143014-x86_64-Linux&download=cpuns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/u-root/cpu/cpuns:HEAD-264e2f3-250417T143014-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/u-root/cpu/cpuns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/cpu/cpuns?tag=HEAD-264e2f3-250417T143014-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae1f0b641a6fa03c5e847b0877a5ae81c29ffd3422ddef11b0100246886b56a0",
+  "size": "2.7 MB",
+  "size_raw": "2758680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cpu",
+  "pkg_family": "cpu",
+  "pkg_id": "cpu#github.com_u_root_cpu",
+  "pkg_name": "cpu",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/u-root/cpu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "cpu command in Go, inspired by the Plan 9 cpu command",
+  "homepage": [
+    "https://github.com/u-root/cpu"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cpu",
+    "cpud",
+    "cpuns",
+    "decpu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/u-root/cpu/archive/264e2f37c69fee1e8681251a08f238078e44dcfd.tar.gz"
+  ],
+  "tag": [
+    "cpu",
+    "golang",
+    "plan9"
+  ],
+  "version": "HEAD-264e2f3-250417T143014",
+  "version_upstream": "",
+  "bsum": "bdc74887ac711f9a40dec6f7a561f3e4743cf47c869e0ae5ab3d416ecd49e348",
+  "build_date": "2025-06-22T19:04:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809725071",
+  "build_id": "15809725071",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/cpu/cpu?tag=HEAD-264e2f3-250417T143014-x86_64-Linux&download=cpu.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "255",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/cpu/cpu?tag=HEAD-264e2f3-250417T143014-x86_64-Linux&download=cpu",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/u-root/cpu/cpu:HEAD-264e2f3-250417T143014-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/u-root/cpu/cpu",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/u-root/cpu/cpu?tag=HEAD-264e2f3-250417T143014-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ddd301a651125e1c1c5f12036bb692fcfd7736eee0f8317b7fb12d1935e68dd",
+  "size": "6.3 MB",
+  "size_raw": "6569632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
