@@ -8,7 +8,7 @@ use std::path::Path;
 use std::sync::Arc;
 use std::time::Duration;
 use tokio::sync::{Mutex, Semaphore};
-use tokio::time::sleep;
+use tokio::time::{sleep, timeout};
 use url::Url;
 use urlencoding::encode;
 
@@ -39,6 +39,9 @@ struct Config {
     quiet: bool,
     max_retries: u32,
     base_delay_ms: u64,
+    request_timeout_secs: u64,
+    fast_fail_threshold: u32,
+    force_overwrite: bool,
 }
 
 #[derive(Debug)]
@@ -97,7 +100,7 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
                 .short('t')
                 .long("threads")
                 .value_name("NUM")
-                .default_value("10")
+                .default_value("30")
                 .help("Number of concurrent HTTP requests"),
         )
         .arg(
@@ -125,15 +128,36 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
             Arg::new("max-retries")
                 .long("max-retries")
                 .value_name("NUM")
-                .default_value("3")
+                .default_value("2")
                 .help("Maximum number of retry attempts for failed API requests"),
         )
         .arg(
             Arg::new("base-delay")
                 .long("base-delay-ms")
                 .value_name("MS")
-                .default_value("1000")
+                .default_value("250")
                 .help("Base delay in milliseconds for exponential backoff"),
+        )
+        .arg(
+            Arg::new("request-timeout")
+                .long("request-timeout")
+                .value_name("SECONDS")
+                .default_value("10")
+                .help("Request timeout in seconds"),
+        )
+        .arg(
+            Arg::new("fast-fail")
+                .long("fast-fail-threshold")
+                .value_name("NUM")
+                .default_value("10")
+                .help("Stop retrying after this many consecutive failures"),
+        )
+        .arg(
+            Arg::new("force")
+                .short('f')
+                .long("force")
+                .action(clap::ArgAction::SetTrue)
+                .help("Force overwrite existing output files"),
         )
         .get_matches();
 
@@ -145,6 +169,9 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
         quiet: matches.get_flag("quiet"),
         max_retries: matches.get_one::<String>("max-retries").unwrap().parse()?,
         base_delay_ms: matches.get_one::<String>("base-delay").unwrap().parse()?,
+        request_timeout_secs: matches.get_one::<String>("request-timeout").unwrap().parse()?,
+        fast_fail_threshold: matches.get_one::<String>("fast-fail").unwrap().parse()?,
+        force_overwrite: matches.get_flag("force"),
     };
 
     if config.verbose {
@@ -155,14 +182,16 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
         println!("📡 API URL: {}", config.api_url);
         println!("🤖 User Agent: {}", config.user_agent);
         println!(
-            "🔄 Max retries: {}, Base delay: {}ms",
-            config.max_retries, config.base_delay_ms
+            "🔄 Max retries: {}, Base delay: {}ms, Timeout: {}s",
+            config.max_retries, config.base_delay_ms, config.request_timeout_secs
         );
     }
 
     let client = Client::builder()
         .user_agent(&config.user_agent)
-        .timeout(Duration::from_secs(30))
+        .timeout(Duration::from_secs(config.request_timeout_secs))
+        .pool_idle_timeout(Duration::from_secs(30))
+        .pool_max_idle_per_host(config.threads)
         .build()?;
 
     // Determine input mode
@@ -203,10 +232,10 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
                     .map_err(|e| format!("Failed to create output directory: {}", e))?;
             }
 
-            // Check for accidental overwrites
-            if Path::new(output_file).exists() {
+            // Check for accidental overwrites (unless force is enabled)
+            if Path::new(output_file).exists() && !config.force_overwrite {
                 return Err(format!(
-                    "Output file '{}' already exists. Remove it first or choose a different path.",
+                    "Output file '{}' already exists. Use --force to overwrite or choose a different path.",
                     output_file
                 )
                 .into());
@@ -228,9 +257,9 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
         }
 
         let entry = InputEntry {
-            download: String::new(), // Not available in single mode
+            download: String::new(),
             source: source.clone(),
-            version: String::new(), // Not available in single mode
+            version: String::new(),
         };
 
         let result = enrich_single_entry(&entry, &client, &config).await;
@@ -240,7 +269,6 @@ async fn async_main() -> Result<(), Box<dyn std::error::Error>> {
                 let json_output = serde_json::to_string_pretty(&enriched)
                     .map_err(|e| format!("Failed to serialize output to valid JSON: {}", e))?;
 
-                // Validate JSON before output
                 serde_json::from_str::<OutputEntry>(&json_output)
                     .map_err(|e| format!("Output JSON validation failed: {}", e))?;
 
@@ -268,6 +296,7 @@ async fn process_entries(
 ) -> Result<Vec<OutputEntry>, Box<dyn std::error::Error>> {
     let semaphore = Arc::new(Semaphore::new(config.threads));
     let results = Arc::new(Mutex::new(Vec::new()));
+    let failure_count = Arc::new(Mutex::new(0u32));
 
     let multi_progress = if !config.quiet {
         Some(MultiProgress::new())
@@ -297,6 +326,7 @@ async fn process_entries(
         let config = config.clone();
         let results = results.clone();
         let main_pb = main_pb.clone();
+        let failure_count = failure_count.clone();
 
         let handle = tokio::spawn(async move {
             let _permit = semaphore.acquire().await.unwrap();
@@ -312,12 +342,30 @@ async fn process_entries(
                 output: result,
             };
 
+            // Update failure counter
+            let mut consecutive_failures = failure_count.lock().await;
+            match &enrichment_result.output {
+                Ok(_) => {
+                    *consecutive_failures = 0; // Reset on success
+                    if let Some(ref pb) = main_pb {
+                        pb.set_message(format!("✅ {}", entry.source));
+                    }
+                }
+                Err(e) => {
+                    *consecutive_failures += 1;
+                    if let Some(ref pb) = main_pb {
+                        pb.set_message(format!("❌ {} ({})", entry.source, e));
+                    }
+                    
+                    // Optional: Log persistent failures
+                    if *consecutive_failures >= config.fast_fail_threshold && config.verbose {
+                        eprintln!("⚠️  {} consecutive failures reached", consecutive_failures);
+                    }
+                }
+            }
+
             if let Some(ref pb) = main_pb {
                 pb.inc(1);
-                match &enrichment_result.output {
-                    Ok(_) => pb.set_message(format!("✅ Completed: {}", entry.source)),
-                    Err(e) => pb.set_message(format!("❌ Failed: {} ({})", entry.source, e)),
-                }
             }
 
             results.lock().await.push(enrichment_result);
@@ -379,10 +427,11 @@ async fn enrich_single_entry(
         println!("🌐 API Request: {} -> {}", entry.source, api_url);
     }
 
-    // Retry logic with exponential backoff
+    // Retry logic with optimized exponential backoff
     let mut last_error = String::new();
     for attempt in 0..=config.max_retries {
         if attempt > 0 {
+            // More conservative backoff: 250ms, 500ms, 1000ms instead of 1s, 2s, 4s
             let delay = config.base_delay_ms * (2_u64.pow(attempt - 1));
             if config.verbose {
                 println!(
@@ -393,7 +442,7 @@ async fn enrich_single_entry(
             sleep(Duration::from_millis(delay)).await;
         }
 
-        match make_api_request(&api_url, client).await {
+        match make_api_request(&api_url, client, config).await {
             Ok(api_data) => {
                 let enriched_data = extract_fields(&api_data)?;
 
@@ -415,11 +464,21 @@ async fn enrich_single_entry(
                 });
             }
             Err(e) => {
-                // Don't retry 404 errors
-                if e == "RESOURCE_NOT_FOUND" {
-                    return Err(
-                        "Resource not found (404) - module does not exist in API".to_string()
-                    );
+                // Fast fail on certain errors
+                match e.as_str() {
+                    "RESOURCE_NOT_FOUND" => {
+                        return Err("Resource not found (404)".to_string());
+                    }
+                    "BAD_REQUEST" => {
+                        return Err("Bad request (400) - invalid source format".to_string());
+                    }
+                    "RATE_LIMITED" => {
+                        // For rate limiting, wait longer but still retry
+                        if attempt < config.max_retries {
+                            sleep(Duration::from_millis(config.base_delay_ms * 4)).await;
+                        }
+                    }
+                    _ => {}
                 }
 
                 last_error = e;
@@ -442,8 +501,17 @@ async fn enrich_single_entry(
     ))
 }
 
-async fn make_api_request(api_url: &str, client: &Client) -> Result<Value, String> {
-    let response = client.get(api_url).send().await.map_err(|e| {
+async fn make_api_request(api_url: &str, client: &Client, config: &Config) -> Result<Value, String> {
+    // Add timeout wrapper for extra safety
+    let request_future = client.get(api_url).send();
+    
+    let response = timeout(
+        Duration::from_secs(config.request_timeout_secs),
+        request_future
+    )
+    .await
+    .map_err(|_| "Request timeout".to_string())?
+    .map_err(|e| {
         if e.is_timeout() {
             "Request timed out".to_string()
         } else if e.is_connect() {
@@ -459,25 +527,30 @@ async fn make_api_request(api_url: &str, client: &Client) -> Result<Value, Strin
     match status.as_u16() {
         200..=299 => {
             // Success
-            response
-                .json()
+            let json_future = response.json();
+            timeout(Duration::from_secs(5), json_future)
                 .await
+                .map_err(|_| "JSON parsing timeout".to_string())?
                 .map_err(|e| format!("Failed to parse API response as JSON: {}", e))
         }
+        400 => {
+            // Bad request - don't retry
+            Err("BAD_REQUEST".to_string())
+        }
+        404 => {
+            // Not found - don't retry
+            Err("RESOURCE_NOT_FOUND".to_string())
+        }
         429 => {
-            // Rate limited
-            Err("API rate limit exceeded".to_string())
+            // Rate limited - retry with backoff
+            Err("RATE_LIMITED".to_string())
         }
         500..=599 => {
             // Server error - retryable
             Err(format!("Server error: {}", status))
         }
-        404 => {
-            // Not found - not retryable, return specific error
-            Err("RESOURCE_NOT_FOUND".to_string())
-        }
         _ => {
-            // Other client errors
+            // Other client errors - don't retry
             Err(format!("API returned status: {}", status))
         }
     }
