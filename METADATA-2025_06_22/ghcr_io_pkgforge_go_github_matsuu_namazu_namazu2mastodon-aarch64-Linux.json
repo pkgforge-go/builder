@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "namazu2mastodon",
+  "pkg_family": "namazu",
+  "pkg_id": "namazu2mastodon#github.com_matsuu_namazu",
+  "pkg_name": "namazu2mastodon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matsuu/namazu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "緊急地震速報（予報）を受け取ってSNSに投げるプログラム一式",
+  "homepage": [
+    "https://github.com/matsuu/namazu"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "namazu",
+    "namazu2bluesky",
+    "namazu2mastodon",
+    "namazu2mixi2",
+    "namazu2nostr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matsuu/namazu/archive/1a75b7270ffea3a6b358389d76ba9776887e4bee.tar.gz"
+  ],
+  "tag": [
+    "earthquake",
+    "eew",
+    "forecasting",
+    "mastodon",
+    "nostr"
+  ],
+  "version": "HEAD-1a75b72-250622T130210",
+  "version_upstream": "",
+  "bsum": "de6d43bea29ae1eff5300e5cbcf656bc348923f0b7e149fb2561520f880da733",
+  "build_date": "2025-06-22T16:26:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808289634",
+  "build_id": "15808289634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2mastodon?tag=HEAD-1a75b72-250622T130210-aarch64-Linux&download=namazu2mastodon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2mastodon?tag=HEAD-1a75b72-250622T130210-aarch64-Linux&download=namazu2mastodon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2mastodon:HEAD-1a75b72-250622T130210-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matsuu/namazu/namazu2mastodon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matsuu/namazu/namazu2mastodon?tag=HEAD-1a75b72-250622T130210-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2db0b5b7d2bf00356b4739fbd7a0577dc67a967901b8d4dbf68087ba7d26a4d8",
+  "size": "7.8 MB",
+  "size_raw": "8142720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
