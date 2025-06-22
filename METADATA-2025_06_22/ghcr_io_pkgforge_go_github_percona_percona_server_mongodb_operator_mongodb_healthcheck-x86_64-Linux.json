@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mongodb-healthcheck",
+  "pkg_family": "percona-server-mongodb-operator",
+  "pkg_id": "mongodb-healthcheck#github.com_percona_percona_server_mongodb_operator",
+  "pkg_name": "mongodb-healthcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-server-mongodb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for MongoDB",
+  "homepage": [
+    "https://github.com/percona/percona-server-mongodb-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "mongodb-healthcheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-server-mongodb-operator/archive/64a30c39939dd91f0822dd48732e127930c5d829.tar.gz"
+  ],
+  "tag": [
+    "k8spsmdb",
+    "kubernetes-operator",
+    "mongodb-operator"
+  ],
+  "version": "HEAD-64a30c3-250621T172151",
+  "version_upstream": "",
+  "bsum": "72a33eb30bfeae18487277365d4b4c44ef4c0bb559f6dd23818c62c1eeed8aaa",
+  "build_date": "2025-06-22T14:24:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807228918",
+  "build_id": "15807228918",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mongodb-operator/mongodb-healthcheck?tag=HEAD-64a30c3-250621T172151-x86_64-Linux&download=mongodb-healthcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "382",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mongodb-operator/mongodb-healthcheck?tag=HEAD-64a30c3-250621T172151-x86_64-Linux&download=mongodb-healthcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-server-mongodb-operator/mongodb-healthcheck:HEAD-64a30c3-250621T172151-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-server-mongodb-operator/mongodb-healthcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mongodb-operator/mongodb-healthcheck?tag=HEAD-64a30c3-250621T172151-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8625e698da4c90977a05745082c1cff423e8014d9828fd43ad6a2448f53b3474",
+  "size": "40 MB",
+  "size_raw": "41879904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
