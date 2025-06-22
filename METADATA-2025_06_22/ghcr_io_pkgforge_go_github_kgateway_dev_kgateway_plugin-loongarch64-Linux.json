@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "plugin",
+  "pkg_family": "kgateway",
+  "pkg_id": "plugin#github.com_kgateway_dev_kgateway",
+  "pkg_name": "plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kgateway-dev/kgateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Cloud-Native API Gateway and AI Gateway",
+  "homepage": [
+    "https://github.com/kgateway-dev/kgateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "hack",
+    "kgateway",
+    "modelschema",
+    "oss_compliance",
+    "plugin",
+    "sds"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kgateway-dev/kgateway/archive/6be1ac99d9b5501b28e0884b1f3da1ea6403f571.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "api-management",
+    "cloud-native",
+    "envoy",
+    "envoy-proxy",
+    "grpc",
+    "hybrid-apps",
+    "kubernetes",
+    "kubernetes-ingress-controller",
+    "legacy-apps",
+    "microservices",
+    "serverless"
+  ],
+  "version": "HEAD-6be1ac9-250621T145232",
+  "version_upstream": "",
+  "bsum": "5ee468a3fc539dc55713e163c739c64d469efaf395cd311feb444a89704f3dd1",
+  "build_date": "2025-06-22T14:03:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806909672",
+  "build_id": "15806909672",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kgateway-dev/kgateway/plugin?tag=HEAD-6be1ac9-250621T145232-loongarch64-Linux&download=plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4579",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kgateway-dev/kgateway/plugin?tag=HEAD-6be1ac9-250621T145232-loongarch64-Linux&download=plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kgateway-dev/kgateway/plugin:HEAD-6be1ac9-250621T145232-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kgateway-dev/kgateway/plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kgateway-dev/kgateway/plugin?tag=HEAD-6be1ac9-250621T145232-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb16911159d1c5608ae6271ab1d53f5cf82c8d1215f640e9cfb2918964826a5a",
+  "size": "151 MB",
+  "size_raw": "158166848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
