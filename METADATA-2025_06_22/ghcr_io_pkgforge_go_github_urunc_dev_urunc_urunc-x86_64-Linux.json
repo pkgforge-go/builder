@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "urunc",
+  "pkg_family": "urunc",
+  "pkg_id": "urunc#github.com_urunc_dev_urunc",
+  "pkg_name": "urunc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/urunc-dev/urunc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a simple container runtime that aspires to become _runc_ for unikernels",
+  "homepage": [
+    "https://github.com/urunc-dev/urunc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "containerd-shim-urunc-v2",
+    "urunc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/urunc-dev/urunc/archive/efbd251b12d824d0264c8dff3b21c4b46bbe58df.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "oci",
+    "unikernels"
+  ],
+  "version": "HEAD-efbd251-250612T134633",
+  "version_upstream": "",
+  "bsum": "5eadb8c23a7eca4da8b3d23f93615ccb27b28fe02584170d6b46c1bfa774f13b",
+  "build_date": "2025-06-22T19:30:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809752907",
+  "build_id": "15809752907",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/urunc-dev/urunc/urunc?tag=HEAD-efbd251-250612T134633-x86_64-Linux&download=urunc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/urunc-dev/urunc/urunc?tag=HEAD-efbd251-250612T134633-x86_64-Linux&download=urunc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/urunc-dev/urunc/urunc:HEAD-efbd251-250612T134633-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/urunc-dev/urunc/urunc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/urunc-dev/urunc/urunc?tag=HEAD-efbd251-250612T134633-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03afad93886904db88b6e88312aa71b343913c75c330338142415afb4090c20e",
+  "size": "8.7 MB",
+  "size_raw": "9060944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
