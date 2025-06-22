@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "plugin_templater",
+  "pkg_family": "please",
+  "pkg_id": "plugin_templater#github.com_thought_machine_please",
+  "pkg_name": "plugin_templater",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thought-machine/please",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance extensible build system for reproducible multi-language builds.",
+  "homepage": [
+    "https://github.com/thought-machine/please"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "build_langserver",
+    "codelabs",
+    "config_templater",
+    "grammar_templater",
+    "http_cache",
+    "lexicon_templater",
+    "main",
+    "please-src",
+    "please_shim",
+    "plugin_config_tool",
+    "plugin_templater",
+    "release_signer",
+    "templater",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/thought-machine/please/archive/e9b4f3aa10095ae08642918e13daae374cf772d0.tar.gz"
+  ],
+  "tag": [
+    "bazel",
+    "buck",
+    "build",
+    "build-system",
+    "build-tool",
+    "monorepo",
+    "multi-language",
+    "pants",
+    "please-build"
+  ],
+  "version": "HEAD-e9b4f3a-250611T120204",
+  "version_upstream": "",
+  "bsum": "c3161753504aa5daa8c264c70a93a29c6772b53678a717157c66be47d1230dab",
+  "build_date": "2025-06-22T17:42:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808730245",
+  "build_id": "15808730245",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/plugin_templater?tag=HEAD-e9b4f3a-250611T120204-x86_64-Linux&download=plugin_templater.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2518",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/plugin_templater?tag=HEAD-e9b4f3a-250611T120204-x86_64-Linux&download=plugin_templater",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thought-machine/please/plugin_templater:HEAD-e9b4f3a-250611T120204-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thought-machine/please/plugin_templater",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thought-machine/please/plugin_templater?tag=HEAD-e9b4f3a-250611T120204-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "192fcb42bcf9b00d86edae504e6304190dc4a8f077f265bd14523108d2b4f6fa",
+  "size": "3.9 MB",
+  "size_raw": "4020888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
