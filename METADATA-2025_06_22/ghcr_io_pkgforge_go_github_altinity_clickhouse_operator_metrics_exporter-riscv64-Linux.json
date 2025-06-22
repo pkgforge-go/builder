@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "metrics_exporter",
+  "pkg_family": "clickhouse-operator",
+  "pkg_id": "metrics_exporter#github.com_Altinity_clickhouse_operator",
+  "pkg_name": "metrics_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Altinity/clickhouse-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes",
+  "homepage": [
+    "https://github.com/Altinity/clickhouse-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "metrics_exporter",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Altinity/clickhouse-operator/archive/a0ac641e788a2d3d5269aaade8b155435082d88d.tar.gz"
+  ],
+  "tag": [
+    "clickhouse",
+    "clickhouse-operator",
+    "kubernetes",
+    "kubernetes-operator"
+  ],
+  "version": "HEAD-a0ac641-250526T113019",
+  "version_upstream": "",
+  "bsum": "c9b02516e695750318dfb9b6b500c10f05f509dffb4db7d396409579d80ef0ba",
+  "build_date": "2025-06-22T15:44:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808210580",
+  "build_id": "15808210580",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter?tag=HEAD-a0ac641-250526T113019-riscv64-Linux&download=metrics_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2129",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter?tag=HEAD-a0ac641-250526T113019-riscv64-Linux&download=metrics_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter:HEAD-a0ac641-250526T113019-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/altinity/clickhouse-operator/metrics_exporter?tag=HEAD-a0ac641-250526T113019-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad2401c03574dd20ea29616e2a0a29a50d3c66ca895b0d015578757650268853",
+  "size": "41 MB",
+  "size_raw": "42608888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
