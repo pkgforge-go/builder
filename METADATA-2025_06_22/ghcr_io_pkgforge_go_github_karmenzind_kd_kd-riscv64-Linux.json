@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kd",
+  "pkg_family": "kd",
+  "pkg_id": "kd#github.com_Karmenzind_kd",
+  "pkg_name": "kd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Karmenzind/kd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "跨平台命令行词典 a command-line dictionary supported Linux/Win/Mac",
+  "homepage": [
+    "https://github.com/Karmenzind/kd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kd",
+    "ttstest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Karmenzind/kd/archive/b87c8b26d38a219a002d26e3f1052115c16694fa.tar.gz"
+  ],
+  "tag": [
+    "dict",
+    "dictionary",
+    "terminal",
+    "translate",
+    "wudao",
+    "youdao"
+  ],
+  "version": "HEAD-b87c8b2-250622T145511",
+  "version_upstream": "",
+  "bsum": "b1f728e7606848bed23871d86b885647088e409b0d97d908b43a9439d00bacd6",
+  "build_date": "2025-06-22T15:40:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808210693",
+  "build_id": "15808210693",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmenzind/kd/kd?tag=HEAD-b87c8b2-250622T145511-riscv64-Linux&download=kd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "177",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmenzind/kd/kd?tag=HEAD-b87c8b2-250622T145511-riscv64-Linux&download=kd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/karmenzind/kd/kd:HEAD-b87c8b2-250622T145511-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/karmenzind/kd/kd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/karmenzind/kd/kd?tag=HEAD-b87c8b2-250622T145511-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "679aba6090961108c21d0955ec5063e5adc3194db52fa19bf8e2bb8bffe6b4d8",
+  "size": "13 MB",
+  "size_raw": "13090872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
