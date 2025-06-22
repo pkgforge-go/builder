@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "getorgdeviceactivity",
+  "pkg_family": "terraform-provider-axm",
+  "pkg_id": "getorgdeviceactivity#github.com_neilmartin83_terraform_provider_axm",
+  "pkg_name": "getorgdeviceactivity",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/neilmartin83/terraform-provider-axm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Provider for the Apple Business/School Manager API",
+  "homepage": [
+    "https://github.com/neilmartin83/terraform-provider-axm"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign",
+    "getdevicemanagementservices",
+    "getdevicemanagementserviceserialnumbers",
+    "getjwtassertationandtoken",
+    "getorgdevice",
+    "getorgdeviceactivity",
+    "getorgdeviceassignedserver",
+    "getorgdeviceassignedserverid",
+    "getorgdevices",
+    "terraform-provider-axm",
+    "unassign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/neilmartin83/terraform-provider-axm/archive/43ca1c7bb0df70de9026eba7eba941ba00f449d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-43ca1c7-250621T163813",
+  "version_upstream": "",
+  "bsum": "e6dd42d54ffb407aafb3575247425fc245c1cd93f9c70a425139b38e679f3bfd",
+  "build_date": "2025-06-22T14:16:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807140240",
+  "build_id": "15807140240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neilmartin83/terraform-provider-axm/getorgdeviceactivity?tag=HEAD-43ca1c7-250621T163813-riscv64-Linux&download=getorgdeviceactivity.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neilmartin83/terraform-provider-axm/getorgdeviceactivity?tag=HEAD-43ca1c7-250621T163813-riscv64-Linux&download=getorgdeviceactivity",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/neilmartin83/terraform-provider-axm/getorgdeviceactivity:HEAD-43ca1c7-250621T163813-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/neilmartin83/terraform-provider-axm/getorgdeviceactivity",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neilmartin83/terraform-provider-axm/getorgdeviceactivity?tag=HEAD-43ca1c7-250621T163813-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "298b813b840d20f631895ed8a2b9a967e5d606c6808701cbe02c65863ea414a8",
+  "size": "6.1 MB",
+  "size_raw": "6322008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
