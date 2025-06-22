@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "zoekt-mirror-gerrit",
+  "pkg_family": "zoekt",
+  "pkg_id": "zoekt-mirror-gerrit#github.com_sourcegraph_zoekt",
+  "pkg_name": "zoekt-mirror-gerrit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sourcegraph/zoekt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast trigram based code search",
+  "homepage": [
+    "https://github.com/sourcegraph/zoekt"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zoekt",
+    "zoekt-archive-index",
+    "zoekt-dynamic-indexserver",
+    "zoekt-git-clone",
+    "zoekt-git-index",
+    "zoekt-index",
+    "zoekt-indexserver",
+    "zoekt-merge-index",
+    "zoekt-mirror-bitbucket-server",
+    "zoekt-mirror-gerrit",
+    "zoekt-mirror-gitea",
+    "zoekt-mirror-github",
+    "zoekt-mirror-gitiles",
+    "zoekt-mirror-gitlab",
+    "zoekt-repo-index",
+    "zoekt-sourcegraph-indexserver",
+    "zoekt-test",
+    "zoekt-webserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sourcegraph/zoekt/archive/fd39c591438fbce188ed9dd0211aefc56bc7322a.tar.gz"
+  ],
+  "tag": [
+    "repo-type-backend"
+  ],
+  "version": "HEAD-fd39c59-250604T143347",
+  "version_upstream": "",
+  "bsum": "1fe35e331ae2d2705963b6cb7312c3057826e2db4654f9464eac3658500b3949",
+  "build_date": "2025-06-22T00:07:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15800642961",
+  "build_id": "15800642961",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gerrit?tag=HEAD-fd39c59-250604T143347-aarch64-Linux&download=zoekt-mirror-gerrit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "981",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gerrit?tag=HEAD-fd39c59-250604T143347-aarch64-Linux&download=zoekt-mirror-gerrit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gerrit:HEAD-fd39c59-250604T143347-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gerrit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gerrit?tag=HEAD-fd39c59-250604T143347-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c6644c1c47cbd17646c73b723dc29155f16594b24e2c0b8a52094ede081ddf1a",
+  "size": "28 MB",
+  "size_raw": "29130208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
