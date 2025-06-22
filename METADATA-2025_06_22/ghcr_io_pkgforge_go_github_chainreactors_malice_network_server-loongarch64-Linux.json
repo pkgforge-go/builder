@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "malice-network",
+  "pkg_id": "server#github.com_chainreactors_malice_network",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chainreactors/malice-network",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Next Generation C2 Framework",
+  "homepage": [
+    "https://github.com/chainreactors/malice-network"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "genhelp",
+    "genlua",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chainreactors/malice-network/archive/3da95bef6545ec6f2ce4ca62976fd176d4db6649.tar.gz"
+  ],
+  "tag": [
+    "c2",
+    "security"
+  ],
+  "version": "HEAD-3da95be-250622T143705",
+  "version_upstream": "",
+  "bsum": "16cda2012b2e0f5ccbfe351f282400c8e3b51e0bea0cface86cb7de4a541649b",
+  "build_date": "2025-06-22T15:58:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808228907",
+  "build_id": "15808228907",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainreactors/malice-network/server?tag=HEAD-3da95be-250622T143705-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "310",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainreactors/malice-network/server?tag=HEAD-3da95be-250622T143705-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainreactors/malice-network/server:HEAD-3da95be-250622T143705-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainreactors/malice-network/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainreactors/malice-network/server?tag=HEAD-3da95be-250622T143705-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49d9d4b906898cf60e1bdf25e0a567d4a50197ef287efc4af1ef5b2eba9ee602",
+  "size": "29 MB",
+  "size_raw": "29911032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
