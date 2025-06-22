@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "visualization",
+  "pkg_family": "kraken",
+  "pkg_id": "visualization#github.com_uber_kraken",
+  "pkg_name": "visualization",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/kraken",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+  "homepage": [
+    "https://github.com/uber/kraken"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "proxy",
+    "puller",
+    "reload",
+    "testfs",
+    "tracker",
+    "visualization"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/kraken/archive/604194a25ea5a4b79678ff5ba62515a0f7062e4c.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "container",
+    "containerd",
+    "docker",
+    "docker-image",
+    "docker-registry",
+    "p2p"
+  ],
+  "version": "HEAD-604194a-250512T160801",
+  "version_upstream": "",
+  "bsum": "9b234ed875f25186df10cf2ea91fe8f9997e9b2525fc3c4fff2e15238d0edef1",
+  "build_date": "2025-06-22T19:12:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730068",
+  "build_id": "15809730068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/visualization?tag=HEAD-604194a-250512T160801-aarch64-Linux&download=visualization.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/visualization?tag=HEAD-604194a-250512T160801-aarch64-Linux&download=visualization",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/kraken/visualization:HEAD-604194a-250512T160801-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/kraken/visualization",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/visualization?tag=HEAD-604194a-250512T160801-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d2502827b07be49d625d4059fb27abcc7628f95e9839c06ae2c9f30ee9c4905f",
+  "size": "8.7 MB",
+  "size_raw": "9069760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-604194a-250512T160801-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

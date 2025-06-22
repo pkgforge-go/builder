@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "kraken",
+  "pkg_id": "agent#github.com_uber_kraken",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uber/kraken",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+  "homepage": [
+    "https://github.com/uber/kraken"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "proxy",
+    "puller",
+    "reload",
+    "testfs",
+    "tracker",
+    "visualization"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uber/kraken/archive/604194a25ea5a4b79678ff5ba62515a0f7062e4c.tar.gz"
+  ],
+  "tag": [
+    "bittorrent",
+    "container",
+    "containerd",
+    "docker",
+    "docker-image",
+    "docker-registry",
+    "p2p"
+  ],
+  "version": "HEAD-604194a-250512T160801",
+  "version_upstream": "",
+  "bsum": "d73d003e99d52ccf0fc66922ac689b4b5feab887a6251edf2984d8c5ceb43905",
+  "build_date": "2025-06-22T19:12:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809730068",
+  "build_id": "15809730068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/agent?tag=HEAD-604194a-250512T160801-aarch64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/agent?tag=HEAD-604194a-250512T160801-aarch64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uber/kraken/agent:HEAD-604194a-250512T160801-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uber/kraken/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uber/kraken/agent?tag=HEAD-604194a-250512T160801-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "279acfebc0db288c38177e4a95a4aa789f8a38de647fc799e6acc89484b79e8e",
+  "size": "22 MB",
+  "size_raw": "22867936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-604194a-250512T160801-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
