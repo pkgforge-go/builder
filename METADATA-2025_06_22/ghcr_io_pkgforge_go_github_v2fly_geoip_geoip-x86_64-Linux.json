@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "geoip",
+  "pkg_family": "geoip",
+  "pkg_id": "geoip#github.com_v2fly_geoip",
+  "pkg_name": "geoip",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/v2fly/geoip",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GeoIP for V2Ray. Generate and release GeoIP files such as geoip.dat and geoip-only-cn-private.dat for V2Ray automatically monthly.",
+  "homepage": [
+    "https://github.com/v2fly/geoip"
+  ],
+  "license": [
+    "CC-BY-SA-4.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "geoip"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/v2fly/geoip/archive/7cba21fc3b1e63eb847f1e0f353d0e7ec37f7016.tar.gz"
+  ],
+  "tag": [
+    "geoip",
+    "geolite2",
+    "geolite2-country",
+    "ipv4",
+    "ipv6",
+    "maxmind",
+    "routing",
+    "v2fly",
+    "v2ray",
+    "v2ray-core"
+  ],
+  "version": "HEAD-7cba21f-250328T222103",
+  "version_upstream": "202503281421",
+  "bsum": "5d2cceb8d6e691875495922ca75bf206df8606ef529e79b4a32cf06b65ccb137",
+  "build_date": "2025-06-22T19:33:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809758433",
+  "build_id": "15809758433",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v2fly/geoip/geoip?tag=HEAD-7cba21f-250328T222103-x86_64-Linux&download=geoip.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "741",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v2fly/geoip/geoip?tag=HEAD-7cba21f-250328T222103-x86_64-Linux&download=geoip",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/v2fly/geoip/geoip:HEAD-7cba21f-250328T222103-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/v2fly/geoip/geoip",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v2fly/geoip/geoip?tag=HEAD-7cba21f-250328T222103-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f7c1d12331d1baa0c9ce12b3439af3bf737371170aa3f6bb150671cc91e52b7",
+  "size": "8.6 MB",
+  "size_raw": "8920096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
