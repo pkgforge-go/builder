@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tar-split",
+  "pkg_family": "tar-split",
+  "pkg_id": "tar-split#github.com_vbatts_tar_split",
+  "pkg_name": "tar-split",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vbatts/tar-split",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "checksum-reproducible tar archives _utility/library_",
+  "homepage": [
+    "https://github.com/vbatts/tar-split"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tar-split"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vbatts/tar-split/archive/ced2b07a57dc67e1f3d620ec6a0daad5109aba63.tar.gz"
+  ],
+  "tag": [
+    "checksum",
+    "disassembly",
+    "golang",
+    "payload",
+    "tar-archive"
+  ],
+  "version": "HEAD-ced2b07-250130T145854",
+  "version_upstream": "v0.12.1",
+  "bsum": "26e5a582c303377e161d0e880bfb50221242a116144c4a28c5433294852cebc2",
+  "build_date": "2025-06-22T19:41:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809789109",
+  "build_id": "15809789109",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vbatts/tar-split/tar-split?tag=HEAD-ced2b07-250130T145854-loongarch64-Linux&download=tar-split.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "103",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vbatts/tar-split/tar-split?tag=HEAD-ced2b07-250130T145854-loongarch64-Linux&download=tar-split",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vbatts/tar-split/tar-split:HEAD-ced2b07-250130T145854-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vbatts/tar-split/tar-split",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vbatts/tar-split/tar-split?tag=HEAD-ced2b07-250130T145854-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd9e8e6554a4e302c01766d30543833764ebd23ac41da0b6248044b770600f05",
+  "size": "4.6 MB",
+  "size_raw": "4745064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
