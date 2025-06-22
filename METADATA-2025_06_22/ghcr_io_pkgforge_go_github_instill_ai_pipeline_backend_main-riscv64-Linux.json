@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "pipeline-backend",
+  "pkg_id": "main#github.com_instill_ai_pipeline_backend",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/instill-ai/pipeline-backend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⇋ A REST/gRPC server for Instill VDP API service",
+  "homepage": [
+    "https://github.com/instill-ai/pipeline-backend"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "init",
+    "main",
+    "migration",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/instill-ai/pipeline-backend/archive/b306708cf7ca794a58ae5c97ed3c0051f037c8d0.tar.gz"
+  ],
+  "tag": [
+    "api-first",
+    "data-connector",
+    "go",
+    "golang",
+    "grpc",
+    "integration",
+    "low-code",
+    "rest",
+    "structured-data",
+    "unstructured-data"
+  ],
+  "version": "HEAD-b306708-250621T222519",
+  "version_upstream": "",
+  "bsum": "f990cb3705ed0b66e5de1443217bc7d8b6d6178632e54f4feb3fed16c39853fc",
+  "build_date": "2025-06-22T13:56:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806875023",
+  "build_id": "15806875023",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/pipeline-backend/main?tag=HEAD-b306708-250621T222519-riscv64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/pipeline-backend/main?tag=HEAD-b306708-250621T222519-riscv64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/instill-ai/pipeline-backend/main:HEAD-b306708-250621T222519-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/instill-ai/pipeline-backend/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/pipeline-backend/main?tag=HEAD-b306708-250621T222519-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c6b83a1a099cd78856cdb5beb7c0a87b2f253099aa1f0e3ecd18cd906b5cacc6",
+  "size": "124 MB",
+  "size_raw": "128995320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
