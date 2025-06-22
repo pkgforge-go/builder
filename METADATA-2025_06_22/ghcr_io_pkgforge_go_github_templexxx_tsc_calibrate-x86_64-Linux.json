@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "calibrate",
+  "pkg_family": "tsc",
+  "pkg_id": "calibrate#github.com_templexxx_tsc",
+  "pkg_name": "calibrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/templexxx/tsc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Get unix time _nanoseconds_ in 8ns, 10x faster than stdlib",
+  "homepage": [
+    "https://github.com/templexxx/tsc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "calibrate",
+    "longdrift",
+    "tsc-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/templexxx/tsc/archive/7dae29e837db405315c2a3972fd5a909b549fa92.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7dae29e-250504T005004",
+  "version_upstream": "v1.3.0",
+  "bsum": "966d5b8514b524c163c462d3790d6d1b6e6318d9db4bc6372cf0d3d6f78ea2d3",
+  "build_date": "2025-06-22T17:19:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808642657",
+  "build_id": "15808642657",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templexxx/tsc/calibrate?tag=HEAD-7dae29e-250504T005004-x86_64-Linux&download=calibrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "139",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templexxx/tsc/calibrate?tag=HEAD-7dae29e-250504T005004-x86_64-Linux&download=calibrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/templexxx/tsc/calibrate:HEAD-7dae29e-250504T005004-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/templexxx/tsc/calibrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templexxx/tsc/calibrate?tag=HEAD-7dae29e-250504T005004-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2be7f2f9a36fe8a816d4e9801608ed7e384975c765393ffbab64664122c27fdb",
+  "size": "1.9 MB",
+  "size_raw": "1927352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
