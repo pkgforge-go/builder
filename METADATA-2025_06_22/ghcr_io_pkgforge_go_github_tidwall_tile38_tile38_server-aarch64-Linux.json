@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tile38-server",
+  "pkg_family": "tile38",
+  "pkg_id": "tile38-server#github.com_tidwall_tile38",
+  "pkg_name": "tile38-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tidwall/tile38",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real-time Geospatial and Geofencing",
+  "homepage": [
+    "https://github.com/tidwall/tile38"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "107",
+    "616",
+    "tile38-benchmark",
+    "tile38-cli",
+    "tile38-luamemtest",
+    "tile38-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tidwall/tile38/archive/30f6a676b18349dcbecab4016455829de0dd087c.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "geo",
+    "geofences",
+    "geospatial",
+    "index",
+    "location",
+    "spatial"
+  ],
+  "version": "HEAD-30f6a67-250616T203456",
+  "version_upstream": "1.35.0",
+  "bsum": "60e6693d7e5ecd5ba1e0eea00f13308ed134841fd056af0dac096e2c713ea2b3",
+  "build_date": "2025-06-22T17:50:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808735826",
+  "build_id": "15808735826",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tidwall/tile38/tile38-server?tag=HEAD-30f6a67-250616T203456-aarch64-Linux&download=tile38-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9356",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tidwall/tile38/tile38-server?tag=HEAD-30f6a67-250616T203456-aarch64-Linux&download=tile38-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tidwall/tile38/tile38-server:HEAD-30f6a67-250616T203456-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tidwall/tile38/tile38-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tidwall/tile38/tile38-server?tag=HEAD-30f6a67-250616T203456-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5e50e87020ba62871902d09fc318e955135e6ad4855ceaa58bf78d1bee3b258",
+  "size": "29 MB",
+  "size_raw": "30028512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
