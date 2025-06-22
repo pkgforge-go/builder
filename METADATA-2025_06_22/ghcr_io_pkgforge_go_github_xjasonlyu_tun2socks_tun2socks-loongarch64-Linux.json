@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tun2socks",
+  "pkg_family": "tun2socks",
+  "pkg_id": "tun2socks#github.com_xjasonlyu_tun2socks",
+  "pkg_name": "tun2socks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xjasonlyu/tun2socks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tun2socks - powered by gVisor TCP/IP stack",
+  "homepage": [
+    "https://github.com/xjasonlyu/tun2socks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tun2socks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xjasonlyu/tun2socks/archive/4127937ea7c450a5230b273f406c9410acec2be7.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gvisor",
+    "http-proxy",
+    "nat",
+    "proxifier",
+    "proxy",
+    "shadowsocks",
+    "socks4",
+    "socks5",
+    "ssh",
+    "ssh-tunnel",
+    "tcpip-stack",
+    "tor",
+    "tun-device",
+    "tun2socks",
+    "udp",
+    "wireguard"
+  ],
+  "version": "HEAD-4127937-250526T052228",
+  "version_upstream": "v2.6.0",
+  "bsum": "d8dbc62a586184b3c5ae7445a96ad6e0730d1a3f0daa2b03be8c3d71e8ce4f4f",
+  "build_date": "2025-06-22T20:54:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810537399",
+  "build_id": "15810537399",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks?tag=HEAD-4127937-250526T052228-loongarch64-Linux&download=tun2socks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3928",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks?tag=HEAD-4127937-250526T052228-loongarch64-Linux&download=tun2socks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks:HEAD-4127937-250526T052228-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks?tag=HEAD-4127937-250526T052228-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae40d2806181a28c87b1172a359ccb78726940a2bff71715cead2cb25bbae20b",
+  "size": "12 MB",
+  "size_raw": "11641248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
