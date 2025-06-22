@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "upspinfs",
+  "pkg_family": "upspin",
+  "pkg_id": "upspinfs#github.com_upspin_upspin",
+  "pkg_name": "upspinfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/upspin/upspin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Upspin: A framework for naming everyone_s everything.",
+  "homepage": [
+    "https://github.com/upspin/upspin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cacheserver",
+    "dirserver",
+    "frontend",
+    "keyserver",
+    "storeserver",
+    "upbox",
+    "upspin",
+    "upspin-audit",
+    "upspin-setupstorage",
+    "upspinfs",
+    "upspinserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/upspin/upspin/archive/891166a946f54c3b9dc107c3d8d68ad1c4adcd41.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "fuse",
+    "golang",
+    "sharing",
+    "storage",
+    "upspin"
+  ],
+  "version": "HEAD-891166a-250211T090839",
+  "version_upstream": "",
+  "bsum": "0d272b1cf91517bc630ad42c8a835d454cf4f65949a05e53652980c64bc1d894",
+  "build_date": "2025-06-22T19:29:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809747235",
+  "build_id": "15809747235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upspinfs?tag=HEAD-891166a-250211T090839-x86_64-Linux&download=upspinfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upspinfs?tag=HEAD-891166a-250211T090839-x86_64-Linux&download=upspinfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/upspin/upspin/upspinfs:HEAD-891166a-250211T090839-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/upspin/upspin/upspinfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upspinfs?tag=HEAD-891166a-250211T090839-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dff5d00971aabc39c94e916c4fe22beadfe7b7f9ee2a35af435f61a1a1cfc0f7",
+  "size": "11 MB",
+  "size_raw": "11363872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

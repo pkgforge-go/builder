@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "upspin",
+  "pkg_family": "upspin",
+  "pkg_id": "upspin#github.com_upspin_upspin",
+  "pkg_name": "upspin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/upspin/upspin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Upspin: A framework for naming everyone_s everything.",
+  "homepage": [
+    "https://github.com/upspin/upspin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cacheserver",
+    "dirserver",
+    "frontend",
+    "keyserver",
+    "storeserver",
+    "upbox",
+    "upspin",
+    "upspin-audit",
+    "upspin-setupstorage",
+    "upspinfs",
+    "upspinserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/upspin/upspin/archive/891166a946f54c3b9dc107c3d8d68ad1c4adcd41.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "fuse",
+    "golang",
+    "sharing",
+    "storage",
+    "upspin"
+  ],
+  "version": "HEAD-891166a-250211T090839",
+  "version_upstream": "",
+  "bsum": "cd828dbde532f34b785759bcc0316d0107b0b48048d7a7ae3e0f965054e32ebf",
+  "build_date": "2025-06-22T19:30:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809747235",
+  "build_id": "15809747235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upspin?tag=HEAD-891166a-250211T090839-x86_64-Linux&download=upspin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upspin?tag=HEAD-891166a-250211T090839-x86_64-Linux&download=upspin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/upspin/upspin/upspin:HEAD-891166a-250211T090839-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/upspin/upspin/upspin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/upspin/upspin/upspin?tag=HEAD-891166a-250211T090839-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ef0fb7e6a40c2221928ffa84bc719dc77134fec067b679734164e5355f8bca1",
+  "size": "13 MB",
+  "size_raw": "12764960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
