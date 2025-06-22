@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "device",
+  "pkg_family": "oidc",
+  "pkg_id": "device#github.com_zitadel_oidc",
+  "pkg_name": "device",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zitadel/oidc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation",
+  "homepage": [
+    "https://github.com/zitadel/oidc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "app",
+    "device",
+    "dynamic",
+    "gen",
+    "github",
+    "server",
+    "service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zitadel/oidc/archive/d6e37fa74115f3f19fa4cd3e42a9dd1d5b1a9944.tar.gz"
+  ],
+  "tag": [
+    "certified",
+    "client",
+    "code-flow",
+    "code-flow-pkce",
+    "discovery",
+    "go",
+    "golang",
+    "jwt",
+    "library",
+    "oauth",
+    "oauth2",
+    "oidc",
+    "openid-connect",
+    "openidconnect",
+    "pkce",
+    "refresh-token",
+    "relying-party",
+    "server",
+    "standard"
+  ],
+  "version": "HEAD-d6e37fa-250617T143255",
+  "version_upstream": "",
+  "bsum": "be63d3e3b9f6f36123c1f97ebb17f05eb751d96f6f158e53ba08cfedd935d97b",
+  "build_date": "2025-06-22T22:17:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811075190",
+  "build_id": "15811075190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zitadel/oidc/device?tag=HEAD-d6e37fa-250617T143255-loongarch64-Linux&download=device.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1585",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zitadel/oidc/device?tag=HEAD-d6e37fa-250617T143255-loongarch64-Linux&download=device",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zitadel/oidc/device:HEAD-d6e37fa-250617T143255-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zitadel/oidc/device",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zitadel/oidc/device?tag=HEAD-d6e37fa-250617T143255-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b8e86287cf78fe1f9cd9dcbcf2eeb946797d0f2bea9667ff25f5ce1edb0b49e",
+  "size": "7.1 MB",
+  "size_raw": "7363520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
