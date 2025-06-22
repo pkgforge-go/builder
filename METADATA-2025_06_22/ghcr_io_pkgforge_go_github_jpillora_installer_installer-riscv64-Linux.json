@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "installer",
+  "pkg_family": "installer",
+  "pkg_id": "installer#github.com_jpillora_installer",
+  "pkg_name": "installer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jpillora/installer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "One-liner for installing binaries from Github releases",
+  "homepage": [
+    "https://github.com/jpillora/installer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "installer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jpillora/installer/archive/746f746bbec861f901f99a992c18b65de50f3eb8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-746f746-250303T124049",
+  "version_upstream": "v0.6.4",
+  "bsum": "c323d4fa52e83910985d89bc806eb5efda8d9c61079fc36d8a93d6cf3c0bb1f0",
+  "build_date": "2025-06-22T14:55:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807398453",
+  "build_id": "15807398453",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jpillora/installer/installer?tag=HEAD-746f746-250303T124049-riscv64-Linux&download=installer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "236",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jpillora/installer/installer?tag=HEAD-746f746-250303T124049-riscv64-Linux&download=installer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jpillora/installer/installer:HEAD-746f746-250303T124049-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jpillora/installer/installer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jpillora/installer/installer?tag=HEAD-746f746-250303T124049-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "124f196986a764a86b7174cdaa3547c1f89e53a0a052bf39c7ca8e43d0df3a1f",
+  "size": "8.6 MB",
+  "size_raw": "8982328",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-746f746-250303T124049-riscv64-Linux[v0.6.4]"
+  ],
+  "trusted": "true"
+}
