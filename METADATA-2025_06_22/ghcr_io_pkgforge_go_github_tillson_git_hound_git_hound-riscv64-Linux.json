@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "git-hound",
+  "pkg_family": "git-hound",
+  "pkg_id": "git-hound#github.com_tillson_git_hound",
+  "pkg_name": "git-hound",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tillson/git-hound",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GitHub recon tool leveraging Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs. Support for GitHub dorks.",
+  "homepage": [
+    "https://github.com/tillson/git-hound"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "git-hound"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tillson/git-hound/archive/946cdde69fc6a00491d660fedb3556e901f64b27.tar.gz"
+  ],
+  "tag": [
+    "bugbounty",
+    "git",
+    "github",
+    "leaks",
+    "osint",
+    "recon",
+    "secrets",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-946cdde-250618T184712",
+  "version_upstream": "",
+  "bsum": "af2934475147edb4c7bbf481265b446f2478d9d6226b8d6b233fab8eb61b902e",
+  "build_date": "2025-06-22T17:48:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808740513",
+  "build_id": "15808740513",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tillson/git-hound/git-hound?tag=HEAD-946cdde-250618T184712-riscv64-Linux&download=git-hound.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tillson/git-hound/git-hound?tag=HEAD-946cdde-250618T184712-riscv64-Linux&download=git-hound",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tillson/git-hound/git-hound:HEAD-946cdde-250618T184712-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tillson/git-hound/git-hound",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tillson/git-hound/git-hound?tag=HEAD-946cdde-250618T184712-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d843c9959e0e3556ba8f3dfc2314c7dad508b90001b2db2b6c97bea52f919501",
+  "size": "19 MB",
+  "size_raw": "19453528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
