@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pwd",
+  "pkg_family": "simpleutils",
+  "pkg_id": "pwd#github.com_whouishere_simpleutils",
+  "pkg_name": "pwd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/whouishere/simpleutils",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "small alternative coreutils package. mirror from https://codeberg.org/whou/simpleutils",
+  "homepage": [
+    "https://github.com/whouishere/simpleutils"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cat",
+    "cp",
+    "dirname",
+    "false",
+    "ln",
+    "mkdir",
+    "mv",
+    "printenv",
+    "pwd",
+    "rm",
+    "rmdir",
+    "touch",
+    "true",
+    "whoami"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/whouishere/simpleutils/archive/918cf015481555126b53297761dceddb39b67601.tar.gz"
+  ],
+  "tag": [
+    "command-line-utility",
+    "coreutils",
+    "cross-platform",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-918cf01-241211T204946",
+  "version_upstream": "",
+  "bsum": "adfbad2f937d57b910655c7a8cd789664a036bb803b1824f3527882d81fe12af",
+  "build_date": "2025-06-22T20:30:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810178295",
+  "build_id": "15810178295",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whouishere/simpleutils/pwd?tag=HEAD-918cf01-241211T204946-aarch64-Linux&download=pwd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whouishere/simpleutils/pwd?tag=HEAD-918cf01-241211T204946-aarch64-Linux&download=pwd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/whouishere/simpleutils/pwd:HEAD-918cf01-241211T204946-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/whouishere/simpleutils/pwd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whouishere/simpleutils/pwd?tag=HEAD-918cf01-241211T204946-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "578a63b9c055abd26a5b13027a9f9278fc2d109c1108261160299ff52277fd61",
+  "size": "2.0 MB",
+  "size_raw": "2048696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
