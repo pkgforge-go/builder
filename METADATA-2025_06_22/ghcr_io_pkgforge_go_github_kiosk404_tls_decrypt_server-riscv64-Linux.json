@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "tls-decrypt",
+  "pkg_id": "server#github.com_kiosk404_tls_decrypt",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kiosk404/tls-decrypt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tls decrypt for golang",
+  "homepage": [
+    "https://github.com/kiosk404/tls-decrypt"
+  ],
+  "license": [
+    "Unlicense"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kiosk404/tls-decrypt/archive/cea00ee848be43b653e894cd4f39b47dc243dbd0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cea00ee-250622T120306",
+  "version_upstream": "",
+  "bsum": "a74413edd29d2e48b30a08dd1887aca7d279ef8b3e07c936f87e77347144150e",
+  "build_date": "2025-06-22T16:15:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808267223",
+  "build_id": "15808267223",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiosk404/tls-decrypt/server?tag=HEAD-cea00ee-250622T120306-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiosk404/tls-decrypt/server?tag=HEAD-cea00ee-250622T120306-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kiosk404/tls-decrypt/server:HEAD-cea00ee-250622T120306-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kiosk404/tls-decrypt/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kiosk404/tls-decrypt/server?tag=HEAD-cea00ee-250622T120306-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "199109312617f282a689210245454cf1ac9dbce695ead032e41d01f3652cd6cc",
+  "size": "4.7 MB",
+  "size_raw": "4884600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
