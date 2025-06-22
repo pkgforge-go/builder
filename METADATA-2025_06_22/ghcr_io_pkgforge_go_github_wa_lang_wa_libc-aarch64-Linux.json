@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "libc",
+  "pkg_family": "wa",
+  "pkg_id": "libc#github.com_wa_lang_wa",
+  "pkg_name": "libc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wa-lang/wa",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Wa Programming Language",
+  "homepage": [
+    "https://github.com/wa-lang/wa"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "buildtest",
+    "example",
+    "fib",
+    "gentypes",
+    "libc",
+    "mockserver",
+    "wa",
+    "wca"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wa-lang/wa/archive/d2cedfc670b1f2c65449fa4705d37793d6949911.tar.gz"
+  ],
+  "tag": [
+    "compiler",
+    "explore",
+    "game",
+    "game-development",
+    "gamedev",
+    "language",
+    "p5",
+    "processing",
+    "programming-language",
+    "wa",
+    "wa-lang",
+    "wasm",
+    "wasm-4",
+    "wasm4",
+    "webassembly"
+  ],
+  "version": "HEAD-d2cedfc-250621T105059",
+  "version_upstream": "",
+  "bsum": "2ed55bf697d45c03774e46e7a8d1dc3772007fb158dd42c0ad4dd25330f5a04b",
+  "build_date": "2025-06-22T20:07:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810103367",
+  "build_id": "15810103367",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wa-lang/wa/libc?tag=HEAD-d2cedfc-250621T105059-aarch64-Linux&download=libc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1584",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wa-lang/wa/libc?tag=HEAD-d2cedfc-250621T105059-aarch64-Linux&download=libc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wa-lang/wa/libc:HEAD-d2cedfc-250621T105059-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wa-lang/wa/libc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wa-lang/wa/libc?tag=HEAD-d2cedfc-250621T105059-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "765977aae49940150280dec7bf1a02feaffdacfd45290dd701d7513113469019",
+  "size": "1.6 MB",
+  "size_raw": "1598184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
