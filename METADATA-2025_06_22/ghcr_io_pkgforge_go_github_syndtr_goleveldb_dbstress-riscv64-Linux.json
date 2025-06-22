@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dbstress",
+  "pkg_family": "goleveldb",
+  "pkg_id": "dbstress#github.com_syndtr_goleveldb",
+  "pkg_name": "dbstress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/syndtr/goleveldb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "LevelDB key/value database in Go.",
+  "homepage": [
+    "https://github.com/syndtr/goleveldb"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbstress",
+    "filelock"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/syndtr/goleveldb/archive/126854af5e6d8295ef8e8bee3040dd8380ae72e8.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "go",
+    "leveldb"
+  ],
+  "version": "HEAD-126854a-220721T100215",
+  "version_upstream": "",
+  "bsum": "228b4ec798ffcb45f3e7a8096a3b8e8bfedf45dfa392b5432b266d424cabcd00",
+  "build_date": "2025-06-22T15:10:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807853482",
+  "build_id": "15807853482",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syndtr/goleveldb/dbstress?tag=HEAD-126854a-220721T100215-riscv64-Linux&download=dbstress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6277",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syndtr/goleveldb/dbstress?tag=HEAD-126854a-220721T100215-riscv64-Linux&download=dbstress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/syndtr/goleveldb/dbstress:HEAD-126854a-220721T100215-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/syndtr/goleveldb/dbstress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syndtr/goleveldb/dbstress?tag=HEAD-126854a-220721T100215-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "850cd72ddf4903ac0d2b533dba5429a7a7767ffeb14e8ac86b20a06d934c2801",
+  "size": "7.0 MB",
+  "size_raw": "7288280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "filelock",
+  "pkg_family": "goleveldb",
+  "pkg_id": "filelock#github.com_syndtr_goleveldb",
+  "pkg_name": "filelock",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/syndtr/goleveldb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "LevelDB key/value database in Go.",
+  "homepage": [
+    "https://github.com/syndtr/goleveldb"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbstress",
+    "filelock"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/syndtr/goleveldb/archive/126854af5e6d8295ef8e8bee3040dd8380ae72e8.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "go",
+    "leveldb"
+  ],
+  "version": "HEAD-126854a-220721T100215",
+  "version_upstream": "",
+  "bsum": "d0b3c460facb9eb92b1e7db526ce649061a71839f020d31e337752486cc1dd5d",
+  "build_date": "2025-06-22T15:10:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807853482",
+  "build_id": "15807853482",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syndtr/goleveldb/filelock?tag=HEAD-126854a-220721T100215-riscv64-Linux&download=filelock.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6277",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syndtr/goleveldb/filelock?tag=HEAD-126854a-220721T100215-riscv64-Linux&download=filelock",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/syndtr/goleveldb/filelock:HEAD-126854a-220721T100215-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/syndtr/goleveldb/filelock",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syndtr/goleveldb/filelock?tag=HEAD-126854a-220721T100215-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bafc93cfd52d0e3a10cbd4006ab454af852c867d893d54c6782a6438e8101967",
+  "size": "2.0 MB",
+  "size_raw": "2006888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
