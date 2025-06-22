@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "encode",
+  "pkg_family": "rdb",
+  "pkg_id": "encode#github.com_HDT3213_rdb",
+  "pkg_name": "encode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/HDT3213/rdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implemented  Redis RDB parser for secondary development and memory analysis",
+  "homepage": [
+    "https://github.com/HDT3213/rdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decode",
+    "encode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/HDT3213/rdb/archive/1ceef5a355b35502cd5a11b531cd03364b6a64af.tar.gz"
+  ],
+  "tag": [
+    "analyzer",
+    "go",
+    "parser",
+    "rdb",
+    "redis"
+  ],
+  "version": "HEAD-1ceef5a-250317T213959",
+  "version_upstream": "v1.1.0",
+  "bsum": "3b010b9011650b610bf01517750ff9d2d3f745fc68f47f71790a44c04be8ef02",
+  "build_date": "2025-06-22T22:02:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15811057119",
+  "build_id": "15811057119",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/encode?tag=HEAD-1ceef5a-250317T213959-riscv64-Linux&download=encode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "542",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/encode?tag=HEAD-1ceef5a-250317T213959-riscv64-Linux&download=encode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hdt3213/rdb/encode:HEAD-1ceef5a-250317T213959-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hdt3213/rdb/encode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/encode?tag=HEAD-1ceef5a-250317T213959-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21446cdd5c5a183d7fdff73d86d961fca3eea3b4308024fc9ebc79be25a5f8d8",
+  "size": "1.7 MB",
+  "size_raw": "1702056",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ceef5a-250317T213959-riscv64-Linux[v1.1.0]"
+  ],
+  "trusted": "true"
+}
