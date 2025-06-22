@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "torrent-web-seeder",
+  "pkg_id": "server#github.com_webtor_io_torrent_web_seeder",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/webtor-io/torrent-web-seeder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Wrapper around BitTorrent-client",
+  "homepage": [
+    "https://github.com/webtor-io/torrent-web-seeder"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/webtor-io/torrent-web-seeder/archive/80061338932be6891d761d57a554bb49a913e44f.tar.gz"
+  ],
+  "tag": [
+    "streaming",
+    "torrent",
+    "torrent-stream"
+  ],
+  "version": "HEAD-8006133-250605T101527",
+  "version_upstream": "",
+  "bsum": "6482e263f6d4c88520a66bbc5353f8462ba6e7bdc7051a8f5f4804514b6520b6",
+  "build_date": "2025-06-22T20:24:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810161682",
+  "build_id": "15810161682",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/torrent-web-seeder/server?tag=HEAD-8006133-250605T101527-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "67",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/torrent-web-seeder/server?tag=HEAD-8006133-250605T101527-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/webtor-io/torrent-web-seeder/server:HEAD-8006133-250605T101527-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/webtor-io/torrent-web-seeder/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/webtor-io/torrent-web-seeder/server?tag=HEAD-8006133-250605T101527-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9dada7dce6ef8b5c1fad5b4ba36cc7873caff97349a1390fc3d939cce3ac6dd8",
+  "size": "31 MB",
+  "size_raw": "31627576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
