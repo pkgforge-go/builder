@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gate",
+  "pkg_family": "goworld",
+  "pkg_id": "gate#github.com_xiaonanln_goworld",
+  "pkg_name": "gate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xiaonanln/goworld",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable Distributed Game Server Engine with Hot Swapping in Golang",
+  "homepage": [
+    "https://github.com/xiaonanln/goworld"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chatroom_demo",
+    "dispatcher",
+    "gate",
+    "goworld",
+    "nil_game",
+    "test_client",
+    "test_game",
+    "unity_demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xiaonanln/goworld/archive/71ff877f1b92ea1df9d2e1b10d19b2da242a1df2.tar.gz"
+  ],
+  "tag": [
+    "entities",
+    "entity-framework",
+    "game-server",
+    "golang",
+    "packets",
+    "rpc"
+  ],
+  "version": "HEAD-71ff877-220814T005107",
+  "version_upstream": "",
+  "bsum": "a96667da48fe7cd28a0ac278d113018b816cf130e74be081d7c674701382de2c",
+  "build_date": "2025-06-22T20:56:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810536663",
+  "build_id": "15810536663",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xiaonanln/goworld/gate?tag=HEAD-71ff877-220814T005107-loongarch64-Linux&download=gate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2653",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xiaonanln/goworld/gate?tag=HEAD-71ff877-220814T005107-loongarch64-Linux&download=gate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xiaonanln/goworld/gate:HEAD-71ff877-220814T005107-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xiaonanln/goworld/gate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xiaonanln/goworld/gate?tag=HEAD-71ff877-220814T005107-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3ca586d1239afdb7bd0b50827ebcdced66ed7b92a7edea42c6c3f3185aaad09",
+  "size": "8.5 MB",
+  "size_raw": "8843392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
