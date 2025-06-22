@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "go-judge-init",
+  "pkg_family": "go-judge",
+  "pkg_id": "go-judge-init#github.com_criyle_go_judge",
+  "pkg_name": "go-judge-init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/criyle/go-judge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sandbox service built on Linux container technologies with simple REST and gRPC API",
+  "homepage": [
+    "https://github.com/criyle/go-judge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-judge",
+    "go-judge-ffi",
+    "go-judge-grpc-proxy",
+    "go-judge-init",
+    "go-judge-shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/criyle/go-judge/archive/6bf9f2e224fe542004c6064128655c6027214fef.tar.gz"
+  ],
+  "tag": [
+    "cgroup",
+    "cgroup-v2",
+    "cgroup2",
+    "container",
+    "docker",
+    "envexec",
+    "executor-service",
+    "go",
+    "golang",
+    "jobobject",
+    "oj",
+    "online-judge",
+    "sandbox",
+    "vfork"
+  ],
+  "version": "HEAD-6bf9f2e-250621T171959",
+  "version_upstream": "",
+  "bsum": "4931d1efdf191babc7d50e1b7ef7a7045cf82eaf362541e4012467d5f45c92a8",
+  "build_date": "2025-06-22T13:29:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806832163",
+  "build_id": "15806832163",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/criyle/go-judge/go-judge-init?tag=HEAD-6bf9f2e-250621T171959-x86_64-Linux&download=go-judge-init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "506",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/criyle/go-judge/go-judge-init?tag=HEAD-6bf9f2e-250621T171959-x86_64-Linux&download=go-judge-init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/criyle/go-judge/go-judge-init:HEAD-6bf9f2e-250621T171959-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/criyle/go-judge/go-judge-init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/criyle/go-judge/go-judge-init?tag=HEAD-6bf9f2e-250621T171959-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c89f88f47fee6aab51ddc9f289dfad6c564332b383f20048edc70f970e533e2f",
+  "size": "2.8 MB",
+  "size_raw": "2861848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
