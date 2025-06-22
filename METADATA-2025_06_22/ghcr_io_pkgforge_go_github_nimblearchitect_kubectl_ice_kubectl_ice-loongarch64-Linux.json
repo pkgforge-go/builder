@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubectl-ice",
+  "pkg_family": "kubectl-ice",
+  "pkg_id": "kubectl-ice#github.com_NimbleArchitect_kubectl_ice",
+  "pkg_name": "kubectl-ice",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NimbleArchitect/kubectl-ice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubectl-ice is an open-source tool for Kubernetes users to monitor and optimize container resource usage. Features include usage breakdowns for pods and containers, making scaling and optimization easier. The tool is compatible with major cloud providers and is actively developed by a community of contributors",
+  "homepage": [
+    "https://github.com/NimbleArchitect/kubectl-ice"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-ice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NimbleArchitect/kubectl-ice/archive/7905985f4d264507cb0d6fae323a1b2d293b742f.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "golang",
+    "krew",
+    "krew-plugin",
+    "kubectl",
+    "kubectl-plugin",
+    "kubectl-plugins",
+    "kubernetes",
+    "multi-container",
+    "sidecar-container"
+  ],
+  "version": "HEAD-7905985-250622T103333",
+  "version_upstream": "v0.2.13",
+  "bsum": "4b880d96c2617fabc9b55ee2660c13e22149cb5e0e17a332560477afa1f41ade",
+  "build_date": "2025-06-22T15:46:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808211204",
+  "build_id": "15808211204",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nimblearchitect/kubectl-ice/kubectl-ice?tag=HEAD-7905985-250622T103333-loongarch64-Linux&download=kubectl-ice.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "252",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nimblearchitect/kubectl-ice/kubectl-ice?tag=HEAD-7905985-250622T103333-loongarch64-Linux&download=kubectl-ice",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nimblearchitect/kubectl-ice/kubectl-ice:HEAD-7905985-250622T103333-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nimblearchitect/kubectl-ice/kubectl-ice",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nimblearchitect/kubectl-ice/kubectl-ice?tag=HEAD-7905985-250622T103333-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "760f776a293436dcb1e3f1f080c87785571aa2220d8065d941b639cf5ea1913a",
+  "size": "55 MB",
+  "size_raw": "56926592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
