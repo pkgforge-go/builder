@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tun2socks",
+  "pkg_family": "tun2socks",
+  "pkg_id": "tun2socks#github.com_xjasonlyu_tun2socks",
+  "pkg_name": "tun2socks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xjasonlyu/tun2socks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tun2socks - powered by gVisor TCP/IP stack",
+  "homepage": [
+    "https://github.com/xjasonlyu/tun2socks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tun2socks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xjasonlyu/tun2socks/archive/4127937ea7c450a5230b273f406c9410acec2be7.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "gvisor",
+    "http-proxy",
+    "nat",
+    "proxifier",
+    "proxy",
+    "shadowsocks",
+    "socks4",
+    "socks5",
+    "ssh",
+    "ssh-tunnel",
+    "tcpip-stack",
+    "tor",
+    "tun-device",
+    "tun2socks",
+    "udp",
+    "wireguard"
+  ],
+  "version": "HEAD-4127937-250526T052228",
+  "version_upstream": "v2.6.0",
+  "bsum": "75321310d26190974a16afcde0083793948d39a0bbb5ec845d800ef501e5906f",
+  "build_date": "2025-06-22T20:56:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15810537399",
+  "build_id": "15810537399",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks?tag=HEAD-4127937-250526T052228-riscv64-Linux&download=tun2socks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3928",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks?tag=HEAD-4127937-250526T052228-riscv64-Linux&download=tun2socks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks:HEAD-4127937-250526T052228-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xjasonlyu/tun2socks/tun2socks?tag=HEAD-4127937-250526T052228-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed7ba94f0105e243a4ec787bb420efa79133b30aaa05368f00ee07295d916917",
+  "size": "11 MB",
+  "size_raw": "11488376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
