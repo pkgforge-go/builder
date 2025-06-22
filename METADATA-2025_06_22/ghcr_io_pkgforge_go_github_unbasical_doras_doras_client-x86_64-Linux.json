@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "doras-client",
+  "pkg_family": "doras",
+  "pkg_id": "doras-client#github.com_unbasical_doras",
+  "pkg_name": "doras-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/unbasical/doras",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Delta updates based on OCI registries.",
+  "homepage": [
+    "https://github.com/unbasical/doras"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doras-cli",
+    "doras-client",
+    "doras-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/unbasical/doras/archive/01ab38bcc8ac551414380c617b566a14ab687aa9.tar.gz"
+  ],
+  "tag": [
+    "delta",
+    "differential-update",
+    "oci",
+    "updater"
+  ],
+  "version": "HEAD-01ab38b-250617T121208",
+  "version_upstream": "v0.19.7",
+  "bsum": "a0f0516b96e348e4c5022fc82129c0b45f96c7fcbfcad9247416e313455ea521",
+  "build_date": "2025-06-22T19:16:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15809741498",
+  "build_id": "15809741498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unbasical/doras/doras-client?tag=HEAD-01ab38b-250617T121208-x86_64-Linux&download=doras-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unbasical/doras/doras-client?tag=HEAD-01ab38b-250617T121208-x86_64-Linux&download=doras-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/unbasical/doras/doras-client:HEAD-01ab38b-250617T121208-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/unbasical/doras/doras-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unbasical/doras/doras-client?tag=HEAD-01ab38b-250617T121208-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4f120e6d849d60aba3aebef4beba67e8c1ce67e8ad9dd33b690ae9c48fb522a",
+  "size": "1.1 MB",
+  "size_raw": "1140248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
