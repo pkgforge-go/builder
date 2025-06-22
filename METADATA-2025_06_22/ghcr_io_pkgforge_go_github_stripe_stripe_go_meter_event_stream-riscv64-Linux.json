@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "meter_event_stream",
+  "pkg_family": "stripe-go",
+  "pkg_id": "meter_event_stream#github.com_stripe_stripe_go",
+  "pkg_name": "meter_event_stream",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stripe/stripe-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the Stripe API.",
+  "homepage": [
+    "https://github.com/stripe/stripe-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "meter_event_stream",
+    "test_with_stripe_mock",
+    "thinevent_webhook_handler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stripe/stripe-go/archive/3a1f3c299a466eb9d81a27f526980267723f97c4.tar.gz"
+  ],
+  "tag": [
+    "stripe",
+    "stripe-sdk"
+  ],
+  "version": "HEAD-3a1f3c2-250612T070416",
+  "version_upstream": "",
+  "bsum": "bd0708b9d879914140c37d8a44a2c57625afee841ccb6e2a051f9d2f657783f4",
+  "build_date": "2025-06-22T15:06:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15807549775",
+  "build_id": "15807549775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/stripe-go/meter_event_stream?tag=HEAD-3a1f3c2-250612T070416-riscv64-Linux&download=meter_event_stream.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2333",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/stripe-go/meter_event_stream?tag=HEAD-3a1f3c2-250612T070416-riscv64-Linux&download=meter_event_stream",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stripe/stripe-go/meter_event_stream:HEAD-3a1f3c2-250612T070416-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stripe/stripe-go/meter_event_stream",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/stripe-go/meter_event_stream?tag=HEAD-3a1f3c2-250612T070416-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "baabcdb504e8c17b59176123ef898968f904033ba22370acb2dbfcb1f946baf0",
+  "size": "7.4 MB",
+  "size_raw": "7661240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
