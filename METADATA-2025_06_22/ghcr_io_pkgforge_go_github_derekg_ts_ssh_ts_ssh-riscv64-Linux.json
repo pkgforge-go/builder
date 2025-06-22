@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ts-ssh",
+  "pkg_family": "ts-ssh",
+  "pkg_id": "ts-ssh#github.com_derekg_ts_ssh",
+  "pkg_name": "ts-ssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/derekg/ts-ssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go-based SSH and SCP client with userspace Tailscale connectivity. Secure shell access and file transfers over Tailnet without requiring a full Tailscale daemon.",
+  "homepage": [
+    "https://github.com/derekg/ts-ssh"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ts-ssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/derekg/ts-ssh/archive/38b5e9f2bece800bf71632e7d12dfa6cadb9a126.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-38b5e9f-250622T021508",
+  "version_upstream": "",
+  "bsum": "51c0cab24be20f18cb1778b05d2eb3c3f1478d1ee852e5acd391e089088fa980",
+  "build_date": "2025-06-22T13:29:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15806839268",
+  "build_id": "15806839268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/derekg/ts-ssh/ts-ssh?tag=HEAD-38b5e9f-250622T021508-riscv64-Linux&download=ts-ssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "177",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/derekg/ts-ssh/ts-ssh?tag=HEAD-38b5e9f-250622T021508-riscv64-Linux&download=ts-ssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/derekg/ts-ssh/ts-ssh:HEAD-38b5e9f-250622T021508-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/derekg/ts-ssh/ts-ssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/derekg/ts-ssh/ts-ssh?tag=HEAD-38b5e9f-250622T021508-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f11e685162f38d0e2ec99c02273dcc8c86529f25b45e5612c6df507d0c168f5e",
+  "size": "24 MB",
+  "size_raw": "24189400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
