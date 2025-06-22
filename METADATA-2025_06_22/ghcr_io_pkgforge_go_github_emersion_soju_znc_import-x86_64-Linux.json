@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "znc-import",
+  "pkg_family": "soju",
+  "pkg_id": "znc-import#github.com_emersion_soju",
+  "pkg_name": "znc-import",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/emersion/soju",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IRC bouncer _mirror_",
+  "homepage": [
+    "https://github.com/emersion/soju"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "migrate-db",
+    "migrate-logs",
+    "soju",
+    "sojuctl",
+    "sojudb",
+    "znc-import"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/emersion/soju/archive/4e42ca85e0714f48b6996aa632135fdf3dad1e25.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4e42ca8-250622T143633",
+  "version_upstream": "",
+  "bsum": "3d58a3ce594243fa43089feb32a6c620327cc3fd87e330def6ad58a8533ed230",
+  "build_date": "2025-06-22T16:07:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15808245280",
+  "build_id": "15808245280",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/znc-import?tag=HEAD-4e42ca8-250622T143633-x86_64-Linux&download=znc-import.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/znc-import?tag=HEAD-4e42ca8-250622T143633-x86_64-Linux&download=znc-import",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/emersion/soju/znc-import:HEAD-4e42ca8-250622T143633-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/emersion/soju/znc-import",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/emersion/soju/znc-import?tag=HEAD-4e42ca8-250622T143633-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "248fc58a1a8fe8efa5280c07240a9cc0188ee2cf16cf00e9bdecf57b1ece98be",
+  "size": "11 MB",
+  "size_raw": "10739120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
