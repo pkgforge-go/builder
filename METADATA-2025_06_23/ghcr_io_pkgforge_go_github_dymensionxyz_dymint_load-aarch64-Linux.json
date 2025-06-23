@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "load",
+  "pkg_family": "dymint",
+  "pkg_id": "load#github.com_dymensionxyz_dymint",
+  "pkg_name": "load",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dymensionxyz/dymint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sequencing Engine for Dymension RollApps",
+  "homepage": [
+    "https://github.com/dymensionxyz/dymint"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "dymint",
+    "load",
+    "report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dymensionxyz/dymint/archive/20271b10e7ec11b1107adbfa834c5381970c28c0.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "go",
+    "networking",
+    "rollapps",
+    "sequencer"
+  ],
+  "version": "HEAD-20271b1-250622T110415",
+  "version_upstream": "",
+  "bsum": "f741eabf0da323a579d97535feeba45a2f70047a317711ad583cb39e135c61a1",
+  "build_date": "2025-06-23T03:20:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813768525",
+  "build_id": "15813768525",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/load?tag=HEAD-20271b1-250622T110415-aarch64-Linux&download=load.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/load?tag=HEAD-20271b1-250622T110415-aarch64-Linux&download=load",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dymensionxyz/dymint/load:HEAD-20271b1-250622T110415-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dymensionxyz/dymint/load",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/load?tag=HEAD-20271b1-250622T110415-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e09195d424f891c1704fd1fe759aeb5d2642a1901f77165006703dbd5c69361",
+  "size": "13 MB",
+  "size_raw": "13510080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f740637-250619T085346-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
