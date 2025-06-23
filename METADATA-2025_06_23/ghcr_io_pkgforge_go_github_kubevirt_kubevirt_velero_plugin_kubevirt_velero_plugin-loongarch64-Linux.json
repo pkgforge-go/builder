@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubevirt-velero-plugin",
+  "pkg_family": "kubevirt-velero-plugin",
+  "pkg_id": "kubevirt-velero-plugin#github.com_kubevirt_kubevirt_velero_plugin",
+  "pkg_name": "kubevirt-velero-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/kubevirt-velero-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugin to Velero which automates backing up and restoring KubeVirt/CDI objects",
+  "homepage": [
+    "https://github.com/kubevirt/kubevirt-velero-plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubevirt-velero-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/kubevirt-velero-plugin/archive/936f1dd5d6e51b5439c4a313adc61959868fec73.tar.gz"
+  ],
+  "tag": [
+    "velero-plugin"
+  ],
+  "version": "HEAD-936f1dd-250623T140844",
+  "version_upstream": "",
+  "bsum": "7acc97e899c8d665518f633dfcfe5c321b869a4ffe0facb177bcab44a4e000c0",
+  "build_date": "2025-06-23T18:58:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830779805",
+  "build_id": "15830779805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-velero-plugin/kubevirt-velero-plugin?tag=HEAD-936f1dd-250623T140844-loongarch64-Linux&download=kubevirt-velero-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-velero-plugin/kubevirt-velero-plugin?tag=HEAD-936f1dd-250623T140844-loongarch64-Linux&download=kubevirt-velero-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/kubevirt-velero-plugin/kubevirt-velero-plugin:HEAD-936f1dd-250623T140844-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/kubevirt-velero-plugin/kubevirt-velero-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-velero-plugin/kubevirt-velero-plugin?tag=HEAD-936f1dd-250623T140844-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "897d0bda083ef9a8eee39c30d6fd57f7ca6dfe76cbe444ad59edf143a8e57499",
+  "size": "57 MB",
+  "size_raw": "59452480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
