@@ -1,0 +1,26 @@
+[package]
+name = "filter-urls"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+authors = ["Azathothas@pkgforge.dev", "QaidVoid@pkgforge.dev"]
+description = "Remove URLs from files based on HTTP status codes"
+
+[dependencies]
+chrono = { version = "0.4", features = ["serde"] }
+clap = { version = "4.0", features = ["derive"] }
+openssl = { version = "0.10", features = ["vendored"] }
+reqwest = { version = "0.11", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.0", features = ["full"] }
+url = "2.0"
+
+[profile.release]
+codegen-units = 1
+debug = false
+lto = true
+opt-level = 3
+panic = "abort"
+strip = true

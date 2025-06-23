@@ -3,7 +3,9 @@ package main
 import (
 	"archive/tar"
 	"archive/zip"
+	"bufio"
 	"compress/gzip"
+	"context"
 	"encoding/json"
 	"flag"
 	"fmt"
@@ -15,6 +17,7 @@ import (
 	"os"
 	"path/filepath"
 	//"regexp"
+	"runtime"
 	//"strconv"
 	"strings"
 	"sync"
@@ -155,18 +158,32 @@ type GoProxyInfo struct {
 }
 
 var (
-	jsonOutput = flag.Bool("json", false, "Output in JSON format")
-	verbose    = flag.Bool("v", false, "Verbose output (ignored in JSON mode)")
-	quiet      = flag.Bool("q", false, "Quiet mode - only exit codes")
-	local      = flag.String("local", "", "Analyze local project path")
-	remote     = flag.String("remote", "", "Download and analyze remote archive (zip/tar.gz)")
 	goproxy    = flag.String("goproxy", "", "Download and analyze Go module from proxy")
+	inputFile  = flag.String("input", "", "File containing list of URLs/modules to process (one per line)")
+	jsonOutput = flag.Bool("json", false, "Output in JSON format")
+    local      = flag.String("local", "", "Analyze local project path")
 	proxyURL   = flag.String("proxy-url", "https://proxy.golang.org", "Go proxy URL")
+	quiet      = flag.Bool("q", false, "Quiet mode - only exit codes")
+	remote     = flag.String("remote", "", "Download and analyze remote archive (zip/tar.gz)")
+	verbose    = flag.Bool("v", false, "Verbose output (ignored in JSON mode)")
+	workers    = flag.Int("workers", runtime.GOMAXPROCS(0), "Number of parallel workers")
 )
 
 func main() {
 	flag.Parse()
 	defer cleanupTempResources()
+
+	// Handle input file mode
+    if *inputFile != "" {
+    	if err := processInputFile(*inputFile); err != nil {
+    		if !*quiet {
+    			fmt.Fprintf(os.Stderr, "Error processing input file: %v\n", err)
+    		}
+    		os.Exit(ExitError)
+    	}
+    	return
+    }
+
 	
 	// Count non-empty flags
 	flagCount := 0
@@ -194,13 +211,14 @@ func main() {
 	// Check if exactly one flag is provided
 	if flagCount != 1 {
 		if !*quiet {
-			fmt.Fprintf(os.Stderr, "Usage: %s [flags] --local <path> | --remote <url> | --goproxy <module>\n", os.Args[0])
+			fmt.Fprintf(os.Stderr, "Usage: %s [flags] --local <path> | --remote <url> | --goproxy <module> | --input <file>\n", os.Args[0])
 			fmt.Fprintf(os.Stderr, "Flags:\n")
 			flag.PrintDefaults()
 			fmt.Fprintf(os.Stderr, "\nExamples:\n")
 			fmt.Fprintf(os.Stderr, "  %s --local .\n", os.Args[0])
 			fmt.Fprintf(os.Stderr, "  %s --remote https://github.com/user/repo/archive/main.zip\n", os.Args[0])
 			fmt.Fprintf(os.Stderr, "  %s --goproxy github.com/spf13/cobra\n", os.Args[0])
+			fmt.Fprintf(os.Stderr, "  %s --input urls.txt --workers 4\n", os.Args[0])
 			fmt.Fprintf(os.Stderr, "\nExit codes:\n")
 			fmt.Fprintf(os.Stderr, "  0: CLI application detected\n")
 			fmt.Fprintf(os.Stderr, "  1: Library/module detected\n")
@@ -253,20 +271,223 @@ func main() {
 	os.Exit(analysis.ExitCode)
 }
 
+type InputItem struct {
+	URL        string
+	IsGoProxy  bool
+	LineNumber int
+}
+
+type ProcessResult struct {
+	Item     InputItem
+	Analysis *ProjectAnalysis
+	Error    error
+}
+
+func processInputFile(filename string) error {
+	file, err := os.Open(filename)
+	if err != nil {
+		return fmt.Errorf("failed to open input file: %v", err)
+	}
+	defer file.Close()
+
+	// Parse input file
+	var items []InputItem
+	scanner := bufio.NewScanner(file)
+	lineNum := 1
+	for scanner.Scan() {
+		line := strings.TrimSpace(scanner.Text())
+		if line == "" || strings.HasPrefix(line, "#") {
+			lineNum++
+			continue
+		}
+		
+		item := InputItem{
+			URL:        line,
+			LineNumber: lineNum,
+		}
+		
+		// Determine if it's a Go proxy module (no http/https prefix)
+		if !strings.HasPrefix(line, "http://") && !strings.HasPrefix(line, "https://") {
+			item.IsGoProxy = true
+		}
+		
+		items = append(items, item)
+		lineNum++
+	}
+	
+	if err := scanner.Err(); err != nil {
+		return fmt.Errorf("error reading input file: %v", err)
+	}
+	
+	if len(items) == 0 {
+		if !*quiet {
+			fmt.Fprintf(os.Stderr, "No valid items found in input file\n")
+		}
+		return nil
+	}
+	
+	return processItemsInParallel(items)
+}
+
+func processItemsInParallel(items []InputItem) error {
+	ctx, cancel := context.WithCancel(context.Background())
+	defer cancel()
+	
+	// Create channels
+	itemChan := make(chan InputItem, len(items))
+	resultChan := make(chan ProcessResult, len(items))
+	
+	// Start workers
+	var wg sync.WaitGroup
+	for i := 0; i < *workers; i++ {
+		wg.Add(1)
+		go worker(ctx, &wg, itemChan, resultChan)
+	}
+	
+	// Send items to workers
+	go func() {
+		defer close(itemChan)
+		for _, item := range items {
+			select {
+			case itemChan <- item:
+			case <-ctx.Done():
+				return
+			}
+		}
+	}()
+	
+	// Collect results
+	go func() {
+		wg.Wait()
+		close(resultChan)
+	}()
+	
+	// Process results
+	successCount := 0
+	errorCount := 0
+	
+	for result := range resultChan {
+		if result.Error != nil {
+			errorCount++
+			if !*quiet {
+				fmt.Fprintf(os.Stderr, "Error processing line %d (%s): %v\n", 
+					result.Item.LineNumber, result.Item.URL, result.Error)
+			}
+			continue
+		}
+		
+		successCount++
+		
+		// Set exit code based on type
+		switch result.Analysis.Type {
+		case CLI:
+			result.Analysis.ExitCode = ExitCLI
+		case Library:
+			result.Analysis.ExitCode = ExitLibrary
+		default:
+			result.Analysis.ExitCode = ExitUnclear
+		}
+		
+		if *jsonOutput {
+			output, err := json.MarshalIndent(result.Analysis, "", "  ")
+			if err != nil {
+				fmt.Fprintf(os.Stderr, "Error marshaling JSON for %s: %v\n", result.Item.URL, err)
+				continue
+			}
+			fmt.Println(string(output))
+		} else if !*quiet {
+			fmt.Fprintf(os.Stderr, "\n=== Line %d: %s ===\n", result.Item.LineNumber, result.Item.URL)
+			printHumanReadable(result.Analysis)
+		}
+	}
+	
+	if !*quiet && !*jsonOutput {
+		fmt.Fprintf(os.Stderr, "\n=== SUMMARY ===\n")
+		fmt.Fprintf(os.Stderr, "Processed: %d successful, %d errors\n", successCount, errorCount)
+	}
+
+	return nil
+}
+
+func worker(ctx context.Context, wg *sync.WaitGroup, itemChan <-chan InputItem, resultChan chan<- ProcessResult) {
+	defer wg.Done()
+	
+	for {
+		select {
+		case item, ok := <-itemChan:
+			if !ok {
+				return
+			}
+			
+			var analysis *ProjectAnalysis
+			var err error
+			var remoteSource string
+			
+			if item.IsGoProxy {
+				remoteSource = fmt.Sprintf("%s/%s", *proxyURL, item.URL)
+				analysis, err = analyzeRemoteProject(item.URL, remoteSource)
+			} else {
+				remoteSource = item.URL
+				analysis, err = analyzeRemoteProject(item.URL, remoteSource)
+			}
+			
+			resultChan <- ProcessResult{
+				Item:     item,
+				Analysis: analysis,
+				Error:    err,
+			}
+
+            cleanupTempResources()
+			
+		case <-ctx.Done():
+			return
+		}
+	}
+}
+
+func isNotFoundError(err error) bool {
+	if err == nil {
+		return false
+	}
+	errStr := err.Error()
+	return strings.Contains(errStr, "status: 404") ||
+		strings.Contains(errStr, "(status: 404)")
+}
+
 func analyzeRemoteProject(source, remoteSource string) (*ProjectAnalysis, error) {
 	var tempDir string
 	var err error
 	
-	if *goproxy != "" {
-		tempDir, err = downloadGoModule(source)
-	} else {
-		tempDir, err = downloadAndExtract(source)
-	}
+	maxRetries := 3
+	baseDelay := time.Second
 	
-	if err != nil {
-		return nil, fmt.Errorf("failed to download/extract: %v", err)
+	for attempt := 0; attempt <= maxRetries; attempt++ {
+		if *goproxy != "" {
+			tempDir, err = downloadGoModule(source)
+		} else {
+			tempDir, err = downloadAndExtract(source)
+		}
+		
+		if err == nil {
+			if attempt > 0 {
+				fmt.Fprintf(os.Stderr, "[%s] Download succeeded on attempt %d\n", source, attempt+1)
+			}
+			break
+		}
+		
+		if isNotFoundError(err) {
+			return nil, fmt.Errorf("[%s] resource not found (404): %v", source, err)
+		}
+		
+		if attempt == maxRetries {
+			return nil, fmt.Errorf("[%s] failed to download/extract after %d attempts: %v", source, maxRetries+1, err)
+		}
+		
+		delay := time.Duration(1<<attempt) * baseDelay
+		fmt.Fprintf(os.Stderr, "[%s] Download attempt %d failed, retrying in %v: %v\n", source, attempt+1, delay, err)
+		
+		time.Sleep(delay)
 	}
-
 	
 	analysis, err := analyzeProject(tempDir)
 	if err != nil {
