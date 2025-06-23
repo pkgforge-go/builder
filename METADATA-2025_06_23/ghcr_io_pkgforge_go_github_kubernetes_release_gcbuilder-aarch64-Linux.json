@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gcbuilder",
+  "pkg_family": "release",
+  "pkg_id": "gcbuilder#github.com_kubernetes_release",
+  "pkg_name": "gcbuilder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/release",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Release infrastructure for Kubernetes and related components",
+  "homepage": [
+    "https://github.com/kubernetes/release"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci-reporter",
+    "gcbuilder",
+    "krel",
+    "publish-release",
+    "release-notes",
+    "schedule-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/release/archive/6990ddbf43688ce54225420a276c3c903966fbdb.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "release-infrastructure"
+  ],
+  "version": "HEAD-6990ddb-250622T180052",
+  "version_upstream": "",
+  "bsum": "431c3263ac87a82b316ead5c937e7449ba3b115ba3e3376c3f9c8e5d3c4c6647",
+  "build_date": "2025-06-23T08:19:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818050092",
+  "build_id": "15818050092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/gcbuilder?tag=HEAD-6990ddb-250622T180052-aarch64-Linux&download=gcbuilder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/gcbuilder?tag=HEAD-6990ddb-250622T180052-aarch64-Linux&download=gcbuilder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/release/gcbuilder:HEAD-6990ddb-250622T180052-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/release/gcbuilder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/gcbuilder?tag=HEAD-6990ddb-250622T180052-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b0ed9d04d6595d151d2d78c41521a7ebafb7dae802049bd46ed797701553e6d",
+  "size": "68 MB",
+  "size_raw": "70479552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
