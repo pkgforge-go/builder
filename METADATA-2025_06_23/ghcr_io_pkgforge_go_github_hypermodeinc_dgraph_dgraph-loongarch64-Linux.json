@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dgraph",
+  "pkg_family": "dgraph",
+  "pkg_id": "dgraph#github.com_hypermodeinc_dgraph",
+  "pkg_name": "dgraph",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hypermodeinc/dgraph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "high-performance graph database for real-time use cases",
+  "homepage": [
+    "https://github.com/hypermodeinc/dgraph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "compose",
+    "dgraph",
+    "jepsen",
+    "posting-list-benchmark",
+    "t"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hypermodeinc/dgraph/archive/9c09e15a01e39a797f6df793542f2c2b8e02f6aa.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "distributed",
+    "go",
+    "knowledge-graph"
+  ],
+  "version": "HEAD-9c09e15-250621T002049",
+  "version_upstream": "",
+  "bsum": "7a233a869f163cb148c46c1563ed1bcc01472312ad6a10265c35a31868801172",
+  "build_date": "2025-06-23T03:47:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813778072",
+  "build_id": "15813778072",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/dgraph?tag=HEAD-9c09e15-250621T002049-loongarch64-Linux&download=dgraph.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20954",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/dgraph?tag=HEAD-9c09e15-250621T002049-loongarch64-Linux&download=dgraph",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hypermodeinc/dgraph/dgraph:HEAD-9c09e15-250621T002049-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hypermodeinc/dgraph/dgraph",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/dgraph?tag=HEAD-9c09e15-250621T002049-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b17ddc9568d9a70fef7c4e620844d0153ba9162f774a692d43dd05b69cec87ce",
+  "size": "57 MB",
+  "size_raw": "59218160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d93989f-250618T060725-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
