@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "annotations",
+  "pkg_family": "ingress-nginx",
+  "pkg_id": "annotations#github.com_kubernetes_ingress_nginx",
+  "pkg_name": "annotations",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/ingress-nginx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ingress NGINX Controller for Kubernetes",
+  "homepage": [
+    "https://github.com/kubernetes/ingress-nginx"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotations",
+    "dataplane",
+    "dbg",
+    "nginx",
+    "plugin",
+    "waitshutdown"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/ingress-nginx/archive/b299406898b1ded8e4a8682df774dc64d25f797f.tar.gz"
+  ],
+  "tag": [
+    "ingress-controller",
+    "kubernetes",
+    "nginx"
+  ],
+  "version": "HEAD-b299406-250623T025853",
+  "version_upstream": "",
+  "bsum": "12c1e3e92b880a7f4cb26e43e92aaa88a356c8f7e73a2ca08e6077fed751514b",
+  "build_date": "2025-06-23T18:56:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830683807",
+  "build_id": "15830683807",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-nginx/annotations?tag=HEAD-b299406-250623T025853-x86_64-Linux&download=annotations.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18660",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-nginx/annotations?tag=HEAD-b299406-250623T025853-x86_64-Linux&download=annotations",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/ingress-nginx/annotations:HEAD-b299406-250623T025853-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/ingress-nginx/annotations",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-nginx/annotations?tag=HEAD-b299406-250623T025853-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "962b269e9d8c6f65a3ce021585f264d9ff35f352471f47015764d75739e3fd0d",
+  "size": "36 MB",
+  "size_raw": "36998656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
