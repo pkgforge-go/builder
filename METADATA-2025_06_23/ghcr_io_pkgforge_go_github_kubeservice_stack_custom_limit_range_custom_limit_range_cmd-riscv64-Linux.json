@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "custom-limit-range-cmd",
+  "pkg_family": "custom-limit-range",
+  "pkg_id": "custom-limit-range-cmd#github.com_kubeservice_stack_custom_limit_range",
+  "pkg_name": "custom-limit-range-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeservice-stack/custom-limit-range",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "kubernetes  pod bandwidth rate limiting, setting bandwidth quota _ custom-limitrange",
+  "homepage": [
+    "https://github.com/kubeservice-stack/custom-limit-range"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "custom-limit-range-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeservice-stack/custom-limit-range/archive/06dce7bff2e5babeb9cfa7955342c2d8210f2ce5.tar.gz"
+  ],
+  "tag": [
+    "addons",
+    "controller-manager",
+    "kubernetes",
+    "webhook"
+  ],
+  "version": "HEAD-06dce7b-250623T185350",
+  "version_upstream": "",
+  "bsum": "293028a1b590e88913a59b3eb1a1a88ea74df5c46a4e7d8fd170f0437b19249e",
+  "build_date": "2025-06-23T18:55:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830722157",
+  "build_id": "15830722157",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeservice-stack/custom-limit-range/custom-limit-range-cmd?tag=HEAD-06dce7b-250623T185350-riscv64-Linux&download=custom-limit-range-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeservice-stack/custom-limit-range/custom-limit-range-cmd?tag=HEAD-06dce7b-250623T185350-riscv64-Linux&download=custom-limit-range-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeservice-stack/custom-limit-range/custom-limit-range-cmd:HEAD-06dce7b-250623T185350-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeservice-stack/custom-limit-range/custom-limit-range-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeservice-stack/custom-limit-range/custom-limit-range-cmd?tag=HEAD-06dce7b-250623T185350-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2aca886f7e28a84327788c623e70043a51b31b69408fc1065837c95be130e97",
+  "size": "42 MB",
+  "size_raw": "43422904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
