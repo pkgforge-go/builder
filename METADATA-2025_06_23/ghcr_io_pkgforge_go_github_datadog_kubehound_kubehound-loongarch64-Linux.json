@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubehound",
+  "pkg_family": "KubeHound",
+  "pkg_id": "kubehound#github.com_DataDog_KubeHound",
+  "pkg_name": "kubehound",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DataDog/KubeHound",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tool for building Kubernetes attack paths",
+  "homepage": [
+    "https://github.com/DataDog/KubeHound"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "kubehound"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DataDog/KubeHound/archive/fa1078207eb7addea06952feeeace26ba454a698.tar.gz"
+  ],
+  "tag": [
+    "adversary-emulation",
+    "attack-graph",
+    "attack-paths",
+    "cloud-native-security",
+    "exploit",
+    "kubernetes",
+    "kubernetes-security",
+    "mitre-attack",
+    "purple-team",
+    "red-team",
+    "security-audit",
+    "security-automation",
+    "security-tools"
+  ],
+  "version": "HEAD-fa10782-250619T135041",
+  "version_upstream": "",
+  "bsum": "e116cec7a43599ad25ff5651fd8a35cbb13349cce8293b69ad5efd8b22c91d77",
+  "build_date": "2025-06-23T04:46:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815207119",
+  "build_id": "15815207119",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/kubehound/kubehound?tag=HEAD-fa10782-250619T135041-loongarch64-Linux&download=kubehound.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "886",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/kubehound/kubehound?tag=HEAD-fa10782-250619T135041-loongarch64-Linux&download=kubehound",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datadog/kubehound/kubehound:HEAD-fa10782-250619T135041-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datadog/kubehound/kubehound",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/kubehound/kubehound?tag=HEAD-fa10782-250619T135041-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7929463a37d588f706f719f29bd6b75bd1512f3fcdccab049af6837a418bc135",
+  "size": "100 MB",
+  "size_raw": "104331840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-67655af-250505T113428-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
