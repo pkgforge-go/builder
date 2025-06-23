@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "dymint",
+  "pkg_id": "cmd#github.com_dymensionxyz_dymint",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dymensionxyz/dymint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sequencing Engine for Dymension RollApps",
+  "homepage": [
+    "https://github.com/dymensionxyz/dymint"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "dymint",
+    "load",
+    "report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dymensionxyz/dymint/archive/20271b10e7ec11b1107adbfa834c5381970c28c0.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "go",
+    "networking",
+    "rollapps",
+    "sequencer"
+  ],
+  "version": "HEAD-20271b1-250622T110415",
+  "version_upstream": "",
+  "bsum": "ff8bd6a9d6943996423ca31e575f4c8fc6ac4e5bee43baba510fa2c8db6c444a",
+  "build_date": "2025-06-23T03:21:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813768525",
+  "build_id": "15813768525",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/cmd?tag=HEAD-20271b1-250622T110415-loongarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/cmd?tag=HEAD-20271b1-250622T110415-loongarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dymensionxyz/dymint/cmd:HEAD-20271b1-250622T110415-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dymensionxyz/dymint/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/cmd?tag=HEAD-20271b1-250622T110415-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d638d14fd19fede206d20296d87fe7234af095f8d00c9b493a8f47437eb5c64a",
+  "size": "28 MB",
+  "size_raw": "28850976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f740637-250619T085346-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
