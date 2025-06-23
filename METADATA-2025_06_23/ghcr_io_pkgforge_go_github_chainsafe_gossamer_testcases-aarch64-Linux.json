@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testcases",
+  "pkg_family": "gossamer",
+  "pkg_id": "testcases#github.com_ChainSafe_gossamer",
+  "pkg_name": "testcases",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ChainSafe/gossamer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🕸️ Go Implementation of the Polkadot Host",
+  "homepage": [
+    "https://github.com/ChainSafe/gossamer"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gossamer",
+    "retrieve_block",
+    "retrieve_state",
+    "testcases"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ChainSafe/gossamer/archive/3e2c0a005dc914192014f4e8d0f34b6a6650f24b.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "p2p",
+    "polkadot",
+    "wasm"
+  ],
+  "version": "HEAD-3e2c0a0-250621T143555",
+  "version_upstream": "",
+  "bsum": "4bfd64d765c94dcc5a977c49648b9376b055a8da5d65fbd89da93255b3732959",
+  "build_date": "2025-06-23T04:49:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815210213",
+  "build_id": "15815210213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/testcases?tag=HEAD-3e2c0a0-250621T143555-aarch64-Linux&download=testcases.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "451",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/testcases?tag=HEAD-3e2c0a0-250621T143555-aarch64-Linux&download=testcases",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainsafe/gossamer/testcases:HEAD-3e2c0a0-250621T143555-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainsafe/gossamer/testcases",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/testcases?tag=HEAD-3e2c0a0-250621T143555-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f1fbd494ffad7897e292ba98119b22e241dee3cab9e192e62802e01ed3e962e3",
+  "size": "2.0 MB",
+  "size_raw": "2088184",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-617f5a2-250617T120024-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
