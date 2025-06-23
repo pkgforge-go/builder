@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "e2e-api",
+  "pkg_family": "numaflow",
+  "pkg_id": "e2e-api#github.com_numaproj_numaflow",
+  "pkg_name": "e2e-api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/numaproj/numaflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-native platform to run massively parallel data/streaming jobs",
+  "homepage": [
+    "https://github.com/numaproj/numaflow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdgen",
+    "e2e-api",
+    "gen-openapi-spec",
+    "json-schema",
+    "numaflow-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/numaproj/numaflow/archive/29eb00f70100bd34679a5e6351a7d3cf69eb5957.tar.gz"
+  ],
+  "tag": [
+    "data-processing",
+    "hacktoberfest",
+    "k8s",
+    "kubernetes",
+    "map-reduce",
+    "pipeline",
+    "stream-processing"
+  ],
+  "version": "HEAD-29eb00f-250623T112113",
+  "version_upstream": "",
+  "bsum": "c3b48fdfad493d197d720f1b7ae0fb22c85394bef9620112c3d1a5c0c3337f7e",
+  "build_date": "2025-06-23T23:36:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835898245",
+  "build_id": "15835898245",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/e2e-api?tag=HEAD-29eb00f-250623T112113-aarch64-Linux&download=e2e-api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1880",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/e2e-api?tag=HEAD-29eb00f-250623T112113-aarch64-Linux&download=e2e-api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/numaproj/numaflow/e2e-api:HEAD-29eb00f-250623T112113-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/numaproj/numaflow/e2e-api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/e2e-api?tag=HEAD-29eb00f-250623T112113-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "11ba2d09936dc456decb000388905691dedaeb14e59ec6f8359a31729d43b8ce",
+  "size": "44 MB",
+  "size_raw": "45965888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c4fecf3-250621T021905-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
