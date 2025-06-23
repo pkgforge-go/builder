@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "helm-deployer-controller",
+  "pkg_family": "landscaper",
+  "pkg_id": "helm-deployer-controller#github.com_gardener_landscaper",
+  "pkg_name": "helm-deployer-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/landscaper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Development of Landscaper - A deployer for K8S workloads with integrated data flow engine.",
+  "homepage": [
+    "https://github.com/gardener/landscaper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "container-deployer-controller",
+    "container-deployer-init",
+    "container-deployer-wait",
+    "helm-deployer-controller",
+    "landscaper-controller",
+    "landscaper-webhooks-server",
+    "manifest-deployer-controller",
+    "mock-deployer-controller",
+    "target-sync-controller",
+    "testcluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/landscaper/archive/fc4b4e73e8e210f335184a265a359ff6ded6b37f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fc4b4e7-250623T153752",
+  "version_upstream": "",
+  "bsum": "ed8cf7afec389735c9f673f9fc8ecebb55a506cc17076a5b8affc275fc25733b",
+  "build_date": "2025-06-23T17:55:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829933820",
+  "build_id": "15829933820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/helm-deployer-controller?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&download=helm-deployer-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "57",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/helm-deployer-controller?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&download=helm-deployer-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/landscaper/helm-deployer-controller:HEAD-fc4b4e7-250623T153752-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/landscaper/helm-deployer-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/helm-deployer-controller?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d998490305ad7b18e596befd2153b65c586fe5882f08644b7d79e16048d9c5a5",
+  "size": "157 MB",
+  "size_raw": "164327120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

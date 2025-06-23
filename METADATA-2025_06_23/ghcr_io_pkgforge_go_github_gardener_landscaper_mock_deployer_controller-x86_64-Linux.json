@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mock-deployer-controller",
+  "pkg_family": "landscaper",
+  "pkg_id": "mock-deployer-controller#github.com_gardener_landscaper",
+  "pkg_name": "mock-deployer-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/landscaper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Development of Landscaper - A deployer for K8S workloads with integrated data flow engine.",
+  "homepage": [
+    "https://github.com/gardener/landscaper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "container-deployer-controller",
+    "container-deployer-init",
+    "container-deployer-wait",
+    "helm-deployer-controller",
+    "landscaper-controller",
+    "landscaper-webhooks-server",
+    "manifest-deployer-controller",
+    "mock-deployer-controller",
+    "target-sync-controller",
+    "testcluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/landscaper/archive/fc4b4e73e8e210f335184a265a359ff6ded6b37f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fc4b4e7-250623T153752",
+  "version_upstream": "",
+  "bsum": "3e62595d82f073812e49b3d2a569a58909ea84499e91dd995d7d7af5a6bb017d",
+  "build_date": "2025-06-23T17:55:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829933820",
+  "build_id": "15829933820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/mock-deployer-controller?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&download=mock-deployer-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "57",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/mock-deployer-controller?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&download=mock-deployer-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/landscaper/mock-deployer-controller:HEAD-fc4b4e7-250623T153752-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/landscaper/mock-deployer-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/mock-deployer-controller?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5bf3d900aca96553f5acc22c3906325212fb1b084aee992b04cdbf2bcf0c12d2",
+  "size": "150 MB",
+  "size_raw": "156783216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

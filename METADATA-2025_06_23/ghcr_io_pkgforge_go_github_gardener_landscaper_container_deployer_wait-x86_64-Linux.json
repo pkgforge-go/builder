@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "container-deployer-wait",
+  "pkg_family": "landscaper",
+  "pkg_id": "container-deployer-wait#github.com_gardener_landscaper",
+  "pkg_name": "container-deployer-wait",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/landscaper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Development of Landscaper - A deployer for K8S workloads with integrated data flow engine.",
+  "homepage": [
+    "https://github.com/gardener/landscaper"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "container-deployer-controller",
+    "container-deployer-init",
+    "container-deployer-wait",
+    "helm-deployer-controller",
+    "landscaper-controller",
+    "landscaper-webhooks-server",
+    "manifest-deployer-controller",
+    "mock-deployer-controller",
+    "target-sync-controller",
+    "testcluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/landscaper/archive/fc4b4e73e8e210f335184a265a359ff6ded6b37f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fc4b4e7-250623T153752",
+  "version_upstream": "",
+  "bsum": "c0ab669285153af1aa657419f97efec1fbffe0afb2a5e83e44d7221676156fc1",
+  "build_date": "2025-06-23T17:56:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829933820",
+  "build_id": "15829933820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/container-deployer-wait?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&download=container-deployer-wait.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "57",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/container-deployer-wait?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&download=container-deployer-wait",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/landscaper/container-deployer-wait:HEAD-fc4b4e7-250623T153752-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/landscaper/container-deployer-wait",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/landscaper/container-deployer-wait?tag=HEAD-fc4b4e7-250623T153752-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "35d03e4d3015cdbce936ef9578f0826bacdd068d56b660982c676391fcd95578",
+  "size": "134 MB",
+  "size_raw": "140263920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
