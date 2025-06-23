@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "release-changelog",
+  "pkg_family": "direnv",
+  "pkg_id": "release-changelog#github.com_direnv_direnv",
+  "pkg_name": "release-changelog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/direnv/direnv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "unclutter your .profile",
+  "homepage": [
+    "https://github.com/direnv/direnv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "direnv",
+    "issue-command",
+    "release-changelog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/direnv/direnv/archive/fb313b11146d02eebaba59e5585adf6686e3d6cc.tar.gz"
+  ],
+  "tag": [
+    "bash",
+    "buildbot-numtide",
+    "direnv",
+    "environment",
+    "fish",
+    "shell",
+    "shell-extension",
+    "tcsh",
+    "zsh"
+  ],
+  "version": "HEAD-fb313b1-250620T201132",
+  "version_upstream": "",
+  "bsum": "ff2186b7139df535a6b2c8e1deb7a93d184196a7fb330262ce02bc903e168cbe",
+  "build_date": "2025-06-23T02:39:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813725359",
+  "build_id": "15813725359",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/direnv/direnv/release-changelog?tag=HEAD-fb313b1-250620T201132-x86_64-Linux&download=release-changelog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13660",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/direnv/direnv/release-changelog?tag=HEAD-fb313b1-250620T201132-x86_64-Linux&download=release-changelog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/direnv/direnv/release-changelog:HEAD-fb313b1-250620T201132-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/direnv/direnv/release-changelog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/direnv/direnv/release-changelog?tag=HEAD-fb313b1-250620T201132-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a74d3f15a006a585e533615f67ebe0d97a987e9bdbc1945de73b256bca2a0021",
+  "size": "1.4 MB",
+  "size_raw": "1415256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a86b7e9-250617T223822-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
