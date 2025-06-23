@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kafka-consumer",
+  "pkg_family": "eventing-kafka-broker",
+  "pkg_id": "kafka-consumer#github.com_knative_extensions_eventing_kafka_broker",
+  "pkg_name": "kafka-consumer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/eventing-kafka-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Alternate Kafka Broker implementation.",
+  "homepage": [
+    "https://github.com/knative-extensions/eventing-kafka-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "committed-offset",
+    "consumer-group-lag-provider-test",
+    "kafka-consumer",
+    "kafka-controller",
+    "kafka-source-controller",
+    "logs-exporter",
+    "post-install",
+    "watch-cm",
+    "webhook-kafka"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-kafka-broker/archive/c02d467becd65b92ad463dfaf3bd5ff7fb4170b3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c02d467-250623T135503",
+  "version_upstream": "",
+  "bsum": "ad2adb61a79e54bbf537e79b7577a6b600f592c62e87a96cbdb54413a81d24aa",
+  "build_date": "2025-06-23T18:37:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830578754",
+  "build_id": "15830578754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/kafka-consumer?tag=HEAD-c02d467-250623T135503-loongarch64-Linux&download=kafka-consumer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "196",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/kafka-consumer?tag=HEAD-c02d467-250623T135503-loongarch64-Linux&download=kafka-consumer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/kafka-consumer:HEAD-c02d467-250623T135503-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/kafka-consumer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/kafka-consumer?tag=HEAD-c02d467-250623T135503-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "711a33ffa9321640d898495be2c9e5aaf24cfedcb7627e928adbe46937bd1a86",
+  "size": "62 MB",
+  "size_raw": "64027520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
