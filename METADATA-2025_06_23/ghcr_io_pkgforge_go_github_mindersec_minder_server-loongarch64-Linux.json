@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "minder",
+  "pkg_id": "server#github.com_mindersec_minder",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mindersec/minder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Software Supply Chain Security Platform",
+  "homepage": [
+    "https://github.com/mindersec/minder"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "dev",
+    "reminder",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mindersec/minder/archive/6c2d2ce883451e67dc933676a7b274ad754713fc.tar.gz"
+  ],
+  "tag": [
+    "security",
+    "software-supply-chain",
+    "software-supply-chain-security",
+    "supply-chain"
+  ],
+  "version": "HEAD-6c2d2ce-250622T201438",
+  "version_upstream": "",
+  "bsum": "ead4be1a6a5c50e4cc759f10cd12d1ee71be0c8204705e63e607aded502f70aa",
+  "build_date": "2025-06-23T08:39:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818315085",
+  "build_id": "15818315085",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/server?tag=HEAD-6c2d2ce-250622T201438-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "338",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/server?tag=HEAD-6c2d2ce-250622T201438-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mindersec/minder/server:HEAD-6c2d2ce-250622T201438-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mindersec/minder/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/server?tag=HEAD-6c2d2ce-250622T201438-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f2903aad90461158425f780314906ff5a3bb695aade4cc7d23b2dc225d1dedd",
+  "size": "95 MB",
+  "size_raw": "98596088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
