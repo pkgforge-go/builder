@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sysinfo",
+  "pkg_family": "incus",
+  "pkg_id": "sysinfo#github.com_lxc_incus",
+  "pkg_name": "sysinfo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lxc/incus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/lxc/incus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev_incus-client",
+    "generate-config",
+    "generate-database",
+    "incus",
+    "incus-benchmark",
+    "incus-migrate",
+    "incus-simplestreams",
+    "lxd-to-incus",
+    "mini-oidc",
+    "sysinfo",
+    "tls2jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lxc/incus/archive/f5f24e33946e8a89759d69531991a2163a09ee9f.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "containers",
+    "hacktoberfest",
+    "virtual-machines"
+  ],
+  "version": "HEAD-f5f24e3-250622T192220",
+  "version_upstream": "",
+  "bsum": "0b296616335dc802c3e63242922492ba725079f4933b9c2cd2516cfa3f0f1338",
+  "build_date": "2025-06-23T14:25:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825239020",
+  "build_id": "15825239020",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/sysinfo?tag=HEAD-f5f24e3-250622T192220-aarch64-Linux&download=sysinfo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3660",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/sysinfo?tag=HEAD-f5f24e3-250622T192220-aarch64-Linux&download=sysinfo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxc/incus/sysinfo:HEAD-f5f24e3-250622T192220-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxc/incus/sysinfo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/sysinfo?tag=HEAD-f5f24e3-250622T192220-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c746c68520b2f3bed225b481e3136e544961c76ec31c3692884897f1bb0f156e",
+  "size": "1.7 MB",
+  "size_raw": "1700952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-28452f9-250621T051047-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
