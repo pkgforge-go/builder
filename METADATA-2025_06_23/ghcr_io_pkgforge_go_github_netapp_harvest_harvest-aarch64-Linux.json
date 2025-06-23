@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "harvest",
+  "pkg_family": "harvest",
+  "pkg_id": "harvest#github.com_NetApp_harvest",
+  "pkg_name": "harvest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/harvest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-metrics endpoint for ONTAP and StorageGRID",
+  "homepage": [
+    "https://github.com/NetApp/harvest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "harvest",
+    "main",
+    "poller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/harvest/archive/9bb1ee6dfc6f2f02779d37cfa81d091efe26cba5.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "grafana-dashboard",
+    "monitoring",
+    "netapp-public",
+    "observability",
+    "prometheus",
+    "storagegrid"
+  ],
+  "version": "HEAD-9bb1ee6-250623T173316",
+  "version_upstream": "nightly",
+  "bsum": "06c92faecd4ad566660c3178a8a4b114945f7848ac437fcfcba36881239eb7af",
+  "build_date": "2025-06-23T21:52:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835778571",
+  "build_id": "15835778571",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/harvest?tag=HEAD-9bb1ee6-250623T173316-aarch64-Linux&download=harvest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/harvest?tag=HEAD-9bb1ee6-250623T173316-aarch64-Linux&download=harvest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/harvest/harvest:HEAD-9bb1ee6-250623T173316-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/harvest/harvest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/harvest?tag=HEAD-9bb1ee6-250623T173316-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd203163e261034877ebb1f27b62a38512dc5731fdee343a82f307a4074445de",
+  "size": "14 MB",
+  "size_raw": "14111552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-66be280-250619T135739-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
