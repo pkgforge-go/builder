@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "release-ip",
+  "pkg_family": "uk8s-cni-vpc",
+  "pkg_id": "release-ip#github.com_ucloud_uk8s_cni_vpc",
+  "pkg_name": "release-ip",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ucloud/uk8s-cni-vpc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The underlay container networking plugin for UK8S based on UVPC.",
+  "homepage": [
+    "https://github.com/ucloud/uk8s-cni-vpc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cnivpctl",
+    "release-ip",
+    "vip-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ucloud/uk8s-cni-vpc/archive/7995ce7e8ed25c523850a31eeb5374b4e7a5a3e0.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "kubernetes"
+  ],
+  "version": "HEAD-7995ce7-250623T102031",
+  "version_upstream": "v1.3.5",
+  "bsum": "bb53ec9824c2c37eeafe7ea29264576db48b65bb505ed2e35f0f4c7f0d626600",
+  "build_date": "2025-06-23T09:39:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819689040",
+  "build_id": "15819689040",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ucloud/uk8s-cni-vpc/release-ip?tag=HEAD-7995ce7-250623T102031-riscv64-Linux&download=release-ip.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ucloud/uk8s-cni-vpc/release-ip?tag=HEAD-7995ce7-250623T102031-riscv64-Linux&download=release-ip",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ucloud/uk8s-cni-vpc/release-ip:HEAD-7995ce7-250623T102031-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ucloud/uk8s-cni-vpc/release-ip",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ucloud/uk8s-cni-vpc/release-ip?tag=HEAD-7995ce7-250623T102031-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd13c6782f6bb2be28622da1914697cd6f7dda411efb725280190d79ad4fbfe4",
+  "size": "6.5 MB",
+  "size_raw": "6788856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
