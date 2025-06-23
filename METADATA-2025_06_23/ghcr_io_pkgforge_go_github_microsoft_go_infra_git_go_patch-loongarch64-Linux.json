@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "git-go-patch",
+  "pkg_family": "go-infra",
+  "pkg_id": "git-go-patch#github.com_microsoft_go_infra",
+  "pkg_name": "git-go-patch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/go-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Infrastructure supporting the use of Go in Microsoft",
+  "homepage": [
+    "https://github.com/microsoft/go-infra"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dockerupdate",
+    "dockerupdatepr",
+    "fuzzcrypto",
+    "getmingw",
+    "git-go-patch",
+    "json2junit",
+    "releaseagent",
+    "releasego",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/go-infra/archive/a44feb7cc5d5ef1a77ae4afdc88c4a4cc9b56e36.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a44feb7-250623T114747",
+  "version_upstream": "",
+  "bsum": "39b43bf0fec130112cf91d353a30569e39764847aa2f5246ce01bc6aed0a7027",
+  "build_date": "2025-06-23T08:31:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818312272",
+  "build_id": "15818312272",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/git-go-patch?tag=HEAD-a44feb7-250623T114747-loongarch64-Linux&download=git-go-patch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/git-go-patch?tag=HEAD-a44feb7-250623T114747-loongarch64-Linux&download=git-go-patch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/go-infra/git-go-patch:HEAD-a44feb7-250623T114747-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/go-infra/git-go-patch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/git-go-patch?tag=HEAD-a44feb7-250623T114747-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e32a3a1b46cef88999a31646c2eb0da0f6128c31f2b6cb82eb92052978c5db7e",
+  "size": "2.5 MB",
+  "size_raw": "2592184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
