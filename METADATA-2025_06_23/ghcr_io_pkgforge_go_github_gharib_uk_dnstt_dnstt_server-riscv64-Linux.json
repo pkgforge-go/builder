@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dnstt-server",
+  "pkg_family": "dnstt",
+  "pkg_id": "dnstt-server#github.com_gharib_uk_dnstt",
+  "pkg_name": "dnstt-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gharib-uk/dnstt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dnstt project gives you this power to tunnel over UDP-DNS/DOH/DOT. A mirror to https://www.bamsoftware.com/software/dnstt/",
+  "homepage": [
+    "https://github.com/gharib-uk/dnstt"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnstt-client",
+    "dnstt-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gharib-uk/dnstt/archive/89d242cfb71a30b60aec6fc1f78cdcb51b3c4a07.tar.gz"
+  ],
+  "tag": [
+    "censorship-circumvention",
+    "dns-tunnel",
+    "doh",
+    "doh-tunnel",
+    "dot",
+    "dot-tunnel",
+    "tunnel-client",
+    "tunnel-server"
+  ],
+  "version": "HEAD-89d242c-250623T141029",
+  "version_upstream": "",
+  "bsum": "f7be8242e5aaaa62c15455e92c7f73bfe595553105caf461fb311d1208f585e0",
+  "build_date": "2025-06-23T17:18:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830038755",
+  "build_id": "15830038755",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gharib-uk/dnstt/dnstt-server?tag=HEAD-89d242c-250623T141029-riscv64-Linux&download=dnstt-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gharib-uk/dnstt/dnstt-server?tag=HEAD-89d242c-250623T141029-riscv64-Linux&download=dnstt-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gharib-uk/dnstt/dnstt-server:HEAD-89d242c-250623T141029-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gharib-uk/dnstt/dnstt-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gharib-uk/dnstt/dnstt-server?tag=HEAD-89d242c-250623T141029-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e31e6ca44d6473f8b828195ccfb9344b39909adf240fed5bf156e72e6e0e0975",
+  "size": "3.8 MB",
+  "size_raw": "3902424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
