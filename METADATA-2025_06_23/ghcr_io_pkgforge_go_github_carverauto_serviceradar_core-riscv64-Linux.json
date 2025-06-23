@@ -26,6 +26,7 @@
     "agent",
     "cli",
     "core",
+    "db-event-writer",
     "device",
     "dusk",
     "faker",
@@ -43,7 +44,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/carverauto/serviceradar/archive/5801ebc828eab7b91c8f46790c33b39f82200714.tar.gz"
+    "https://github.com/carverauto/serviceradar/archive/ccee17821c6d6918f774adde98fdfdb135899249.tar.gz"
   ],
   "tag": [
     "distributed",
@@ -55,30 +56,31 @@
     "network-scanning",
     "ubiquiti"
   ],
-  "version": "HEAD-5801ebc-250622T001603",
+  "version": "HEAD-ccee178-250622T224418",
   "version_upstream": "",
-  "bsum": "4ae17e71ce8276e800646f67252aa724ac47506a3ea73376e1b06c360cbd59ca",
-  "build_date": "2025-06-23T02:51:23Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813671607",
-  "build_id": "15813671607",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/core?tag=HEAD-5801ebc-250622T001603-riscv64-Linux&download=core.log",
+  "bsum": "4d0c00fe3454d3bc0d900bfb1c1522d090a12c6bef32fe8a87590f505301172a",
+  "build_date": "2025-06-23T13:36:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071484",
+  "build_id": "15825071484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/core?tag=HEAD-ccee178-250622T224418-riscv64-Linux&download=core.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "186",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/core?tag=HEAD-5801ebc-250622T001603-riscv64-Linux&download=core",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/core?tag=HEAD-ccee178-250622T224418-riscv64-Linux&download=core",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/core:HEAD-5801ebc-250622T001603-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/core:HEAD-ccee178-250622T224418-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/core",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/core?tag=HEAD-5801ebc-250622T001603-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/core?tag=HEAD-ccee178-250622T224418-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "504a345da4fafe43e5f1170981873f55f5a972577c48ee670e790f61c8091255",
+  "shasum": "7fce6523d1e71747cff7005177485a984e997a4dd0ad516abca873732e66c31a",
   "size": "29 MB",
-  "size_raw": "29722424",
+  "size_raw": "29723320",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-1a5aa35-250619T221913-riscv64-Linux[1.0.44-pre6]"
+    "HEAD-1a5aa35-250619T221913-riscv64-Linux[1.0.44-pre6]",
+    "HEAD-5801ebc-250622T001603-riscv64-Linux"
   ],
   "trusted": "true"
 }
