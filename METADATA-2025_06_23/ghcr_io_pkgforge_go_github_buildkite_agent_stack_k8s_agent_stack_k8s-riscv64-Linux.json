@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "agent-stack-k8s",
+  "pkg_family": "agent-stack-k8s",
+  "pkg_id": "agent-stack-k8s#github.com_buildkite_agent_stack_k8s",
+  "pkg_name": "agent-stack-k8s",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buildkite/agent-stack-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Spin up an autoscaling stack of Buildkite Agents on Kubernetes",
+  "homepage": [
+    "https://github.com/buildkite/agent-stack-k8s"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-stack-k8s"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buildkite/agent-stack-k8s/archive/d749f9061ef31eb4ae258e456dddb2d61a0b3f89.tar.gz"
+  ],
+  "tag": [
+    "kubernetes"
+  ],
+  "version": "HEAD-d749f90-250623T135709",
+  "version_upstream": "v0.29.1",
+  "bsum": "43bd48f44fc6c0e2a1b73cd36a4c6fff5acb577b9b391c518ba1b13324e91e5b",
+  "build_date": "2025-06-23T07:19:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817413606",
+  "build_id": "15817413606",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent-stack-k8s/agent-stack-k8s?tag=HEAD-d749f90-250623T135709-riscv64-Linux&download=agent-stack-k8s.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "91",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent-stack-k8s/agent-stack-k8s?tag=HEAD-d749f90-250623T135709-riscv64-Linux&download=agent-stack-k8s",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildkite/agent-stack-k8s/agent-stack-k8s:HEAD-d749f90-250623T135709-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildkite/agent-stack-k8s/agent-stack-k8s",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent-stack-k8s/agent-stack-k8s?tag=HEAD-d749f90-250623T135709-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a954f8952d236ec5ca69c3a4ed1470b3f7f00049ac2fa3ef2f2d18b406a52d75",
+  "size": "86 MB",
+  "size_raw": "89227800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
