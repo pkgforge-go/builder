@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "convert-keys",
+  "pkg_family": "prysm",
+  "pkg_id": "convert-keys#github.com_OffchainLabs_prysm",
+  "pkg_name": "convert-keys",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/667aaf15648346a72aff5b24d425cf6a18802a42.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-667aaf1-250622T215544",
+  "version_upstream": "",
+  "bsum": "e8062b8ba64c88bc10df6640c5a2cffa473ec3e0f5e7e148455c94e991e64be5",
+  "build_date": "2025-06-23T13:37:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825065836",
+  "build_id": "15825065836",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/convert-keys?tag=HEAD-667aaf1-250622T215544-aarch64-Linux&download=convert-keys.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/convert-keys?tag=HEAD-667aaf1-250622T215544-aarch64-Linux&download=convert-keys",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/convert-keys:HEAD-667aaf1-250622T215544-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/convert-keys",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/convert-keys?tag=HEAD-667aaf1-250622T215544-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d070cc1c1af21cf55a91758bcae1c2ecfe86520f24ba7acf10e7d8583ed9a199",
+  "size": "12 MB",
+  "size_raw": "12061472",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
