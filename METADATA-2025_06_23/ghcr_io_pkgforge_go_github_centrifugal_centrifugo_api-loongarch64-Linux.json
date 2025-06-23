@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "api",
+  "pkg_family": "centrifugo",
+  "pkg_id": "api#github.com_centrifugal_centrifugo",
+  "pkg_name": "api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/centrifugal/centrifugo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.",
+  "homepage": [
+    "https://github.com/centrifugal/centrifugo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "centrifugo",
+    "configdoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/centrifugal/centrifugo/archive/7aa831e71d8494602fa465fc14dd7dfe42c1119c.tar.gz"
+  ],
+  "tag": [
+    "eventsource",
+    "grpc",
+    "http-streaming",
+    "http3",
+    "messaging",
+    "pubsub",
+    "real-time",
+    "redis",
+    "scalability",
+    "server-sent-events",
+    "sse",
+    "streaming",
+    "websocket",
+    "websockets",
+    "webtransport"
+  ],
+  "version": "HEAD-7aa831e-250622T222236",
+  "version_upstream": "",
+  "bsum": "fdcb100293bed90ccb72b8b51694a8a0fd719d22245ccf24b5c36a36943bf6f1",
+  "build_date": "2025-06-23T13:35:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825072224",
+  "build_id": "15825072224",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/centrifugal/centrifugo/api?tag=HEAD-7aa831e-250622T222236-loongarch64-Linux&download=api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9045",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/centrifugal/centrifugo/api?tag=HEAD-7aa831e-250622T222236-loongarch64-Linux&download=api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/centrifugal/centrifugo/api:HEAD-7aa831e-250622T222236-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/centrifugal/centrifugo/api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/centrifugal/centrifugo/api?tag=HEAD-7aa831e-250622T222236-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab3ab2fa3ce86d741df04adaeb7652df573355da6ecee2823cb5b1bc9212ea19",
+  "size": "3.1 MB",
+  "size_raw": "3216504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-68595fb-250614T112944-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
