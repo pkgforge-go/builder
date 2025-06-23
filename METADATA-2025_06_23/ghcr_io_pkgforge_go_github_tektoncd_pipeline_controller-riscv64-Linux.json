@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "pipeline",
+  "pkg_id": "controller#github.com_tektoncd_pipeline",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud-native Pipeline resource.",
+  "homepage": [
+    "https://github.com/tektoncd/pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "demoresolver",
+    "entrypoint",
+    "events",
+    "gohelloworld",
+    "nop",
+    "resolver",
+    "resolvers",
+    "sidecarlogresults",
+    "spec-gen",
+    "webhook",
+    "workingdirinit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/pipeline/archive/87e29d848980a437335121702a4939158538cbaf.tar.gz"
+  ],
+  "tag": [
+    "cdf",
+    "hacktoberfest",
+    "kubernetes",
+    "pipeline",
+    "tekton"
+  ],
+  "version": "HEAD-87e29d8-250623T150154",
+  "version_upstream": "",
+  "bsum": "732183069da79d52e8ef1783449c20de5373a8986bc0d44f09bca976621c2cfd",
+  "build_date": "2025-06-23T20:52:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833505467",
+  "build_id": "15833505467",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/controller?tag=HEAD-87e29d8-250623T150154-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8683",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/controller?tag=HEAD-87e29d8-250623T150154-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/pipeline/controller:HEAD-87e29d8-250623T150154-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/pipeline/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/controller?tag=HEAD-87e29d8-250623T150154-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "074773408ffb7a042960a11c0e4b44b8936b6a85b0e3d847f7cdcc150bd99516",
+  "size": "78 MB",
+  "size_raw": "81397528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
