@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "cap-operator",
+  "pkg_id": "controller#github.com_SAP_cap_operator",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SAP/cap-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CAP Operator manages and automates the lifecycle of multi-tenant SAP Cloud Application Programming Model _CAP_ based applications on Kubernetes.",
+  "homepage": [
+    "https://github.com/SAP/cap-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "server",
+    "web-hooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SAP/cap-operator/archive/36eee7dca087130907e122ff76198cb6815c5039.tar.gz"
+  ],
+  "tag": [
+    "cap-operator",
+    "k8s-operator",
+    "sap-cns"
+  ],
+  "version": "HEAD-36eee7d-250623T131059",
+  "version_upstream": "",
+  "bsum": "9ee07171fc2ea5bbc7490c52bfbf6ecc604d2b0a3c8a38e7f4eb75708fb3358e",
+  "build_date": "2025-06-23T15:59:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828901977",
+  "build_id": "15828901977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/controller?tag=HEAD-36eee7d-250623T131059-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/controller?tag=HEAD-36eee7d-250623T131059-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/cap-operator/controller:HEAD-36eee7d-250623T131059-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/cap-operator/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/controller?tag=HEAD-36eee7d-250623T131059-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14e8e9945a0a977190733808f316885bae49547463ba5687ef619fef1ff1a043",
+  "size": "62 MB",
+  "size_raw": "64068672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
