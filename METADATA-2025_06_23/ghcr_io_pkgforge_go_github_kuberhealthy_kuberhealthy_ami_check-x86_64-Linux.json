@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ami-check",
+  "pkg_family": "kuberhealthy",
+  "pkg_id": "ami-check#github.com_kuberhealthy_kuberhealthy",
+  "pkg_name": "ami-check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kuberhealthy/kuberhealthy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
+  "homepage": [
+    "https://github.com/kuberhealthy/kuberhealthy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ami-check",
+    "cronjob-checker",
+    "daemonset-check",
+    "deployment-check",
+    "dns-resolution-check",
+    "http-check",
+    "http-content-check",
+    "kiam-check",
+    "kuberhealthy",
+    "namespace-pod-check",
+    "network-connection-check",
+    "pod-restarts-check",
+    "pod-status-check",
+    "resource-quota-check",
+    "scripts",
+    "ssl-expiry-check",
+    "ssl-handshake-check",
+    "test-check"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kuberhealthy/kuberhealthy/archive/6ebdb23ec1091ab709675b0080c6945fbb547334.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "health",
+    "kubernetes",
+    "monitoring",
+    "synthetic"
+  ],
+  "version": "HEAD-6ebdb23-250320T170346",
+  "version_upstream": "",
+  "bsum": "4f90da0a8f75b86a165465ca6d5a6ab6d447fa5726a6a299670381b1499a50c3",
+  "build_date": "2025-06-23T08:20:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817990037",
+  "build_id": "15817990037",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuberhealthy/kuberhealthy/ami-check?tag=HEAD-6ebdb23-250320T170346-x86_64-Linux&download=ami-check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuberhealthy/kuberhealthy/ami-check?tag=HEAD-6ebdb23-250320T170346-x86_64-Linux&download=ami-check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kuberhealthy/kuberhealthy/ami-check:HEAD-6ebdb23-250320T170346-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kuberhealthy/kuberhealthy/ami-check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuberhealthy/kuberhealthy/ami-check?tag=HEAD-6ebdb23-250320T170346-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99916bdb149037371597150db09ccd02eecf78ca450e9a4ebc0428ff80549d33",
+  "size": "44 MB",
+  "size_raw": "45438144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

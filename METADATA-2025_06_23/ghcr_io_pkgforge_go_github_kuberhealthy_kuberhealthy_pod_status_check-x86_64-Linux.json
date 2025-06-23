@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pod-status-check",
+  "pkg_family": "kuberhealthy",
+  "pkg_id": "pod-status-check#github.com_kuberhealthy_kuberhealthy",
+  "pkg_name": "pod-status-check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kuberhealthy/kuberhealthy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
+  "homepage": [
+    "https://github.com/kuberhealthy/kuberhealthy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ami-check",
+    "cronjob-checker",
+    "daemonset-check",
+    "deployment-check",
+    "dns-resolution-check",
+    "http-check",
+    "http-content-check",
+    "kiam-check",
+    "kuberhealthy",
+    "namespace-pod-check",
+    "network-connection-check",
+    "pod-restarts-check",
+    "pod-status-check",
+    "resource-quota-check",
+    "scripts",
+    "ssl-expiry-check",
+    "ssl-handshake-check",
+    "test-check"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kuberhealthy/kuberhealthy/archive/6ebdb23ec1091ab709675b0080c6945fbb547334.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "health",
+    "kubernetes",
+    "monitoring",
+    "synthetic"
+  ],
+  "version": "HEAD-6ebdb23-250320T170346",
+  "version_upstream": "",
+  "bsum": "6b1b8d3acfaa2d0a00759c0bc0d6b3ad2be65c3a039bd915c0844101ed5a5d97",
+  "build_date": "2025-06-23T08:20:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817990037",
+  "build_id": "15817990037",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuberhealthy/kuberhealthy/pod-status-check?tag=HEAD-6ebdb23-250320T170346-x86_64-Linux&download=pod-status-check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuberhealthy/kuberhealthy/pod-status-check?tag=HEAD-6ebdb23-250320T170346-x86_64-Linux&download=pod-status-check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kuberhealthy/kuberhealthy/pod-status-check:HEAD-6ebdb23-250320T170346-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kuberhealthy/kuberhealthy/pod-status-check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuberhealthy/kuberhealthy/pod-status-check?tag=HEAD-6ebdb23-250320T170346-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f1c73767bb5e3bc0988d8fb6bf36c37befd8517dd42054e32df210439e7f4ca",
+  "size": "38 MB",
+  "size_raw": "39557056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
