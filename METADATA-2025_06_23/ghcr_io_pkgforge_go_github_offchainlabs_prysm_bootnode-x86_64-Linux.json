@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bootnode",
+  "pkg_family": "prysm",
+  "pkg_id": "bootnode#github.com_OffchainLabs_prysm",
+  "pkg_name": "bootnode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/667aaf15648346a72aff5b24d425cf6a18802a42.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-667aaf1-250622T215544",
+  "version_upstream": "",
+  "bsum": "44a5f2672486a7ffac2dd396e8d4782262622792186d8f118e65333fdbfdb2a7",
+  "build_date": "2025-06-23T13:36:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825065836",
+  "build_id": "15825065836",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/bootnode?tag=HEAD-667aaf1-250622T215544-x86_64-Linux&download=bootnode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/bootnode?tag=HEAD-667aaf1-250622T215544-x86_64-Linux&download=bootnode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/bootnode:HEAD-667aaf1-250622T215544-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/bootnode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/bootnode?tag=HEAD-667aaf1-250622T215544-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b8e64e64c5d69426c11629266ad6cd044b237fa48f54b9e3c3bb5179d58fcfcf",
+  "size": "24 MB",
+  "size_raw": "25134360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

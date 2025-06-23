@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "beacon-fuzz",
+  "pkg_family": "prysm",
+  "pkg_id": "beacon-fuzz#github.com_OffchainLabs_prysm",
+  "pkg_name": "beacon-fuzz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/667aaf15648346a72aff5b24d425cf6a18802a42.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-667aaf1-250622T215544",
+  "version_upstream": "",
+  "bsum": "8aba7432cff6205d9de74f4e111433e64fa97f651ececa6e84832733551528f1",
+  "build_date": "2025-06-23T13:33:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825065836",
+  "build_id": "15825065836",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/beacon-fuzz?tag=HEAD-667aaf1-250622T215544-x86_64-Linux&download=beacon-fuzz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/beacon-fuzz?tag=HEAD-667aaf1-250622T215544-x86_64-Linux&download=beacon-fuzz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/beacon-fuzz:HEAD-667aaf1-250622T215544-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/beacon-fuzz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/beacon-fuzz?tag=HEAD-667aaf1-250622T215544-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "84ec0820835a906420d9b082eb3cc54a8409a1b118330fb4ff141589ffca3877",
+  "size": "13 MB",
+  "size_raw": "12966448",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
