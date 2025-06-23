@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nsx-operator-cmd",
+  "pkg_family": "nsx-operator",
+  "pkg_id": "nsx-operator-cmd#github.com_vmware_tanzu_nsx_operator",
+  "pkg_name": "nsx-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware-tanzu/nsx-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for managing NSX network resources",
+  "homepage": [
+    "https://github.com/vmware-tanzu/nsx-operator"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd_clean",
+    "nsx-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware-tanzu/nsx-operator/archive/f9bfe847edb6483ea544e928090f8c9e2354382c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f9bfe84-250623T112915",
+  "version_upstream": "",
+  "bsum": "b1763631bd3a78fbd7a567723f0fd588a20994844ac0a0164aeb54458d3af2e6",
+  "build_date": "2025-06-23T09:54:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15820912554",
+  "build_id": "15820912554",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/nsx-operator/nsx-operator-cmd?tag=HEAD-f9bfe84-250623T112915-x86_64-Linux&download=nsx-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/nsx-operator/nsx-operator-cmd?tag=HEAD-f9bfe84-250623T112915-x86_64-Linux&download=nsx-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware-tanzu/nsx-operator/nsx-operator-cmd:HEAD-f9bfe84-250623T112915-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware-tanzu/nsx-operator/nsx-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/nsx-operator/nsx-operator-cmd?tag=HEAD-f9bfe84-250623T112915-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48f0451075793ac98ed604b2e2e8e0f3f8b8721846ed6b0bffe06a13dc94c896",
+  "size": "66 MB",
+  "size_raw": "68882656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
