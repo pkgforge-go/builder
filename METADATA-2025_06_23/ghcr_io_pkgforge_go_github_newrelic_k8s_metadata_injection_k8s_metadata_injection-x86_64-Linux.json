@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "k8s-metadata-injection",
+  "pkg_family": "k8s-metadata-injection",
+  "pkg_id": "k8s-metadata-injection#github.com_newrelic_k8s_metadata_injection",
+  "pkg_name": "k8s-metadata-injection",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/k8s-metadata-injection",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes metadata injection for New Relic APM to make a linkage between APM and Infrastructure data.",
+  "homepage": [
+    "https://github.com/newrelic/k8s-metadata-injection"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s-metadata-injection"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/k8s-metadata-injection/archive/755046fb25c210a072a493f926729df33765d5de.tar.gz"
+  ],
+  "tag": [
+    "admission-webhook",
+    "apm",
+    "fsi",
+    "k8s",
+    "kubernetes",
+    "linked-data",
+    "newrelic"
+  ],
+  "version": "HEAD-755046f-250623T050803",
+  "version_upstream": "nri-metadata-injection-4.26.3",
+  "bsum": "1d11e22a87a4b98016ed7b0306a34b9965e40e63ce44d33122982b7edda0362e",
+  "build_date": "2025-06-23T19:37:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15831925044",
+  "build_id": "15831925044",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/k8s-metadata-injection/k8s-metadata-injection?tag=HEAD-755046f-250623T050803-x86_64-Linux&download=k8s-metadata-injection.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/k8s-metadata-injection/k8s-metadata-injection?tag=HEAD-755046f-250623T050803-x86_64-Linux&download=k8s-metadata-injection",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/k8s-metadata-injection/k8s-metadata-injection:HEAD-755046f-250623T050803-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/k8s-metadata-injection/k8s-metadata-injection",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/k8s-metadata-injection/k8s-metadata-injection?tag=HEAD-755046f-250623T050803-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e497ee1a497f592f463537a80b878e21e1e9e8b4f48d615fabedd0b13fd3b640",
+  "size": "15 MB",
+  "size_raw": "14727584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
