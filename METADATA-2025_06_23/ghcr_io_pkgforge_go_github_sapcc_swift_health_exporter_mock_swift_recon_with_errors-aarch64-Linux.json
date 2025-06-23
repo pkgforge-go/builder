@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mock-swift-recon-with-errors",
+  "pkg_family": "swift-health-exporter",
+  "pkg_id": "mock-swift-recon-with-errors#github.com_sapcc_swift_health_exporter",
+  "pkg_name": "mock-swift-recon-with-errors",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/swift-health-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for OpenStack Swift cluster health",
+  "homepage": [
+    "https://github.com/sapcc/swift-health-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock-swift-dispersion-report",
+    "mock-swift-dispersion-report-with-errors",
+    "mock-swift-recon",
+    "mock-swift-recon-with-errors",
+    "swift-health-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/swift-health-exporter/archive/d8edfef5bd65d1a47e723472ff29f8edd83a1d14.tar.gz"
+  ],
+  "tag": [
+    "openstack",
+    "openstack-swift",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-d8edfef-250623T113315",
+  "version_upstream": "",
+  "bsum": "8e3e3ab10b1f0000c595243ddae74678e8c06224dff2faf626354fb78d8074b9",
+  "build_date": "2025-06-23T20:05:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833338357",
+  "build_id": "15833338357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-recon-with-errors?tag=HEAD-d8edfef-250623T113315-aarch64-Linux&download=mock-swift-recon-with-errors.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-recon-with-errors?tag=HEAD-d8edfef-250623T113315-aarch64-Linux&download=mock-swift-recon-with-errors",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-recon-with-errors:HEAD-d8edfef-250623T113315-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-recon-with-errors",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-recon-with-errors?tag=HEAD-d8edfef-250623T113315-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c12118772062bcc49e8e6b937746b1cf1aa48d337f576bf9c49ba07d45e6cf4",
+  "size": "1.9 MB",
+  "size_raw": "1935608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
