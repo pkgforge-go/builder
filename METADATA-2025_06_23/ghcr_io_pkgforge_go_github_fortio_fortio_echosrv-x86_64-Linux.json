@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "echosrv",
+  "pkg_family": "fortio",
+  "pkg_id": "echosrv#github.com_fortio_fortio",
+  "pkg_name": "echosrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fortio/fortio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go _golang_. Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+  "homepage": [
+    "https://github.com/fortio/fortio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "echosrv",
+    "fcurl",
+    "fortio",
+    "histogram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fortio/fortio/archive/46081d8bdc2eb436fd2dce2ab3720bf92df6ca1d.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "golang-application",
+    "golang-library",
+    "grpc",
+    "http",
+    "performance",
+    "performance-testing",
+    "performance-visualization",
+    "proxy"
+  ],
+  "version": "HEAD-46081d8-250622T201920",
+  "version_upstream": "",
+  "bsum": "acb8bf5fad313dbaa5b5667feb181ae6965b5e6786bfd9249933fbfd7a736f43",
+  "build_date": "2025-06-23T13:50:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825119880",
+  "build_id": "15825119880",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/fortio/echosrv?tag=HEAD-46081d8-250622T201920-x86_64-Linux&download=echosrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3544",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/fortio/echosrv?tag=HEAD-46081d8-250622T201920-x86_64-Linux&download=echosrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fortio/fortio/echosrv:HEAD-46081d8-250622T201920-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fortio/fortio/echosrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fortio/fortio/echosrv?tag=HEAD-46081d8-250622T201920-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc4d711170ba67da28d1c74ccef825b1793d1ee31b45394279d67fbda4edbf94",
+  "size": "8.6 MB",
+  "size_raw": "8968880",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6b8dbd3-250602T072340-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
