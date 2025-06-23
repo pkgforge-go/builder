@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "variables",
+  "pkg_family": "ebpf",
+  "pkg_id": "variables#github.com_cilium_ebpf",
+  "pkg_name": "variables",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/51ab2a455de272c9e1c6cf461cc12a9d7b71a031.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-51ab2a4-250620T082030",
+  "version_upstream": "",
+  "bsum": "5a56bc978e19ad96843859a14f6aa36fc5d7fe55a2b611fa0a299ec162a94eca",
+  "build_date": "2025-06-23T13:30:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071093",
+  "build_id": "15825071093",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/variables?tag=HEAD-51ab2a4-250620T082030-aarch64-Linux&download=variables.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6920",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/variables?tag=HEAD-51ab2a4-250620T082030-aarch64-Linux&download=variables",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/variables:HEAD-51ab2a4-250620T082030-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/variables",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/variables?tag=HEAD-51ab2a4-250620T082030-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b4b1f980c4bffb6fd15686917b80979aa51b23f5ab8d2eeb61bf5dd7d4aae28",
+  "size": "3.4 MB",
+  "size_raw": "3481536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0bef90d-250619T111026-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
