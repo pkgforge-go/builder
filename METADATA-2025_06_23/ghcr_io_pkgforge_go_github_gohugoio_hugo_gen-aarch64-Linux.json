@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "hugo",
+  "pkg_id": "gen#github.com_gohugoio_hugo",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gohugoio/hugo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The world’s fastest framework for building websites.",
+  "homepage": [
+    "https://github.com/gohugoio/hugo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fork_go_templates",
+    "gen",
+    "hugo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gohugoio/hugo/archive/6a4a3ab8f8d867eaa2ed832c2e10d75b334538c3.tar.gz"
+  ],
+  "tag": [
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "go",
+    "hugo",
+    "static-site-generator"
+  ],
+  "version": "HEAD-6a4a3ab-250622T165543",
+  "version_upstream": "",
+  "bsum": "aff393c2d7792ff4456160c29d98b6e0caccfcdeebe47c8f8a64b969609af322",
+  "build_date": "2025-06-23T05:19:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815417427",
+  "build_id": "15815417427",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-6a4a3ab-250622T165543-aarch64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81691",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-6a4a3ab-250622T165543-aarch64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gohugoio/hugo/gen:HEAD-6a4a3ab-250622T165543-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gohugoio/hugo/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-6a4a3ab-250622T165543-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fed47ebeb701a756309a64a0c68753fe65ac12357a117499d79ba375c6c4352a",
+  "size": "9.9 MB",
+  "size_raw": "10318240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b6c8dfa-250617T073514-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
