@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "file_sizes",
+  "pkg_family": "mogo",
+  "pkg_id": "file_sizes#github.com_grokify_mogo",
+  "pkg_name": "file_sizes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grokify/mogo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collection of small DRY Go utilities to make life easier. DRY = Don_t Repeat Yourself.",
+  "homepage": [
+    "https://github.com/grokify/mogo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "areacode_distance",
+    "build_constants",
+    "build_currency_codes",
+    "cli_webp2jpeg",
+    "cp",
+    "crypto_pkcs12",
+    "dateadddays",
+    "diff_days",
+    "dotenv2json",
+    "file_sizes",
+    "gitremoteaddupstream",
+    "gitremovehistory",
+    "httpreq",
+    "httpsversioncheck",
+    "language",
+    "nestedstruct2pointer",
+    "read_har",
+    "resize_jpeg",
+    "sql",
+    "subdirs",
+    "time_custom",
+    "timezone",
+    "uptime"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grokify/mogo/archive/f72161f75acace7aca22308b51f91300b9117cdd.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "utilities",
+    "utility-library"
+  ],
+  "version": "HEAD-f72161f-250622T031146",
+  "version_upstream": "v0.70.9",
+  "bsum": "542c378a98b96753994d13e8fdf4d602917dcec2c32a892af7edf7dff46f098a",
+  "build_date": "2025-06-23T03:33:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813773559",
+  "build_id": "15813773559",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/mogo/file_sizes?tag=HEAD-f72161f-250622T031146-loongarch64-Linux&download=file_sizes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "68",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/mogo/file_sizes?tag=HEAD-f72161f-250622T031146-loongarch64-Linux&download=file_sizes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grokify/mogo/file_sizes:HEAD-f72161f-250622T031146-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grokify/mogo/file_sizes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/mogo/file_sizes?tag=HEAD-f72161f-250622T031146-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "59295f05da4e26e13f3107c8fa422409f344193da9a0a70a968fd5cc44d57992",
+  "size": "4.4 MB",
+  "size_raw": "4552576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e4cc38-250615T075130-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
