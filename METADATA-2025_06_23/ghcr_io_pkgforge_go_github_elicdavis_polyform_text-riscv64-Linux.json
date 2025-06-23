@@ -1,0 +1,98 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "text",
+  "pkg_family": "polyform",
+  "pkg_id": "text#github.com_EliCDavis_polyform",
+  "pkg_name": "text",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EliCDavis/polyform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Immutable mesh processing library",
+  "homepage": [
+    "https://github.com/EliCDavis/polyform"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candle",
+    "chill",
+    "colmap-utils",
+    "covid",
+    "csg",
+    "flowers",
+    "gopher",
+    "inflate",
+    "mesh-util",
+    "mort-shuffle",
+    "oreo",
+    "pc-render",
+    "plumbob",
+    "ply-utils",
+    "polyform",
+    "polywasm",
+    "potree-utils",
+    "ray",
+    "render",
+    "spz-utils",
+    "terrain",
+    "text",
+    "voxelize"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EliCDavis/polyform/archive/b7571d5feecba278c70ff1cc20ba5c77624ba194.tar.gz"
+  ],
+  "tag": [
+    "3d",
+    "gaussian-splatting",
+    "generative-art",
+    "geometry",
+    "geometry-processing",
+    "gltf",
+    "mesh",
+    "mesh-processing",
+    "obj",
+    "ply",
+    "procedural-generation"
+  ],
+  "version": "HEAD-b7571d5-250622T035511",
+  "version_upstream": "",
+  "bsum": "044fd8f94607a4787b4d3a20c63c8f815c7e9d4c0a9287f658e15c3223b98b58",
+  "build_date": "2025-06-23T02:26:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813635532",
+  "build_id": "15813635532",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/text?tag=HEAD-b7571d5-250622T035511-riscv64-Linux&download=text.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/text?tag=HEAD-b7571d5-250622T035511-riscv64-Linux&download=text",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elicdavis/polyform/text:HEAD-b7571d5-250622T035511-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elicdavis/polyform/text",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/text?tag=HEAD-b7571d5-250622T035511-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31db114e5349aca397e206a4690558a265f9ef130b286437de0c5f2abe76a44c",
+  "size": "4.7 MB",
+  "size_raw": "4895320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b953e80-250621T194447-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
