@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "c2w-net",
+  "pkg_family": "container2wasm",
+  "pkg_id": "c2w-net#github.com_container2wasm_container2wasm",
+  "pkg_name": "c2w-net",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/container2wasm/container2wasm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container to WASM converter",
+  "homepage": [
+    "https://github.com/container2wasm/container2wasm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2w",
+    "c2w-net",
+    "create-spec",
+    "get-qemu-state",
+    "httphello",
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/container2wasm/container2wasm/archive/b8f9f4ab1a012f0fc81179b66381fa8756d95532.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-b8f9f4a-250622T100354",
+  "version_upstream": "",
+  "bsum": "534304a17c9b5bac595606f826dc1f9a8f4bd1d17ede30dc42887523efbafd60",
+  "build_date": "2025-06-23T03:01:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813689910",
+  "build_id": "15813689910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/container2wasm/container2wasm/c2w-net?tag=HEAD-b8f9f4a-250622T100354-x86_64-Linux&download=c2w-net.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2335",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/container2wasm/container2wasm/c2w-net?tag=HEAD-b8f9f4a-250622T100354-x86_64-Linux&download=c2w-net",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/container2wasm/container2wasm/c2w-net:HEAD-b8f9f4a-250622T100354-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/container2wasm/container2wasm/c2w-net",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/container2wasm/container2wasm/c2w-net?tag=HEAD-b8f9f4a-250622T100354-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ac0571af3268e4a534214943dd585f56f568235d3c0a186db0f3559f812e764e",
+  "size": "13 MB",
+  "size_raw": "13331072",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9e849b8-250616T130618-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
