@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dnspyre",
+  "pkg_family": "dnspyre",
+  "pkg_id": "dnspyre#github.com_Tantalor93_dnspyre",
+  "pkg_name": "dnspyre",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Tantalor93/dnspyre",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for a high QPS DNS benchmark",
+  "homepage": [
+    "https://github.com/Tantalor93/dnspyre"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnspyre"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Tantalor93/dnspyre/archive/4458638013969422cddd8fe91cbd69196ed50ba8.tar.gz"
+  ],
+  "tag": [
+    "benchmark",
+    "cli",
+    "concurrency",
+    "dns",
+    "dns-over-https",
+    "dns-over-tcp",
+    "dns-over-tls",
+    "dns-over-udp",
+    "doh",
+    "doq",
+    "go"
+  ],
+  "version": "HEAD-4458638-250622T205717",
+  "version_upstream": "v3.5.2",
+  "bsum": "e735a940041053253f583182c21949ceb3b7673466bb4ceab17c85b77710543b",
+  "build_date": "2025-06-23T13:07:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825065105",
+  "build_id": "15825065105",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tantalor93/dnspyre/dnspyre?tag=HEAD-4458638-250622T205717-loongarch64-Linux&download=dnspyre.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "182",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tantalor93/dnspyre/dnspyre?tag=HEAD-4458638-250622T205717-loongarch64-Linux&download=dnspyre",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tantalor93/dnspyre/dnspyre:HEAD-4458638-250622T205717-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tantalor93/dnspyre/dnspyre",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tantalor93/dnspyre/dnspyre?tag=HEAD-4458638-250622T205717-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8aa6b8883b030d4752824d61dfc66b6080e2bd50f4f1687264ee1833f3663700",
+  "size": "23 MB",
+  "size_raw": "23108128",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0cde337-250522T161203-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
