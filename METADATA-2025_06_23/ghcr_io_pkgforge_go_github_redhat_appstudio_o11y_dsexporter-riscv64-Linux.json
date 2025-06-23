@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dsexporter",
+  "pkg_family": "o11y",
+  "pkg_id": "dsexporter#github.com_redhat_appstudio_o11y",
+  "pkg_name": "dsexporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/redhat-appstudio/o11y",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Konflux observability",
+  "homepage": [
+    "https://github.com/redhat-appstudio/o11y"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dsexporter",
+    "kanaryexporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/redhat-appstudio/o11y/archive/92d1cfd813f4d57ce510079a3f00fb140c284567.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-92d1cfd-250623T133914",
+  "version_upstream": "",
+  "bsum": "f17770c70d0cf4dbcbd1b72f96a93b857ffa6b4dfbfb226acf109356b7b96caf",
+  "build_date": "2025-06-23T19:58:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833139539",
+  "build_id": "15833139539",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-appstudio/o11y/dsexporter?tag=HEAD-92d1cfd-250623T133914-riscv64-Linux&download=dsexporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-appstudio/o11y/dsexporter?tag=HEAD-92d1cfd-250623T133914-riscv64-Linux&download=dsexporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redhat-appstudio/o11y/dsexporter:HEAD-92d1cfd-250623T133914-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redhat-appstudio/o11y/dsexporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-appstudio/o11y/dsexporter?tag=HEAD-92d1cfd-250623T133914-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b37b0231af0b212faad316558ae638d069b272cfeaa4f8111a90ff2c249dfe7",
+  "size": "35 MB",
+  "size_raw": "36288248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
