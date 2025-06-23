@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "q",
+  "pkg_family": "q",
+  "pkg_id": "q#github.com_natesales_q",
+  "pkg_name": "q",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/natesales/q",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.",
+  "homepage": [
+    "https://github.com/natesales/q"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "q"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/natesales/q/archive/1b91301edc9b8efd3cdd0dd69fd5e7ada91f8daf.tar.gz"
+  ],
+  "tag": [
+    "dns-client",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "doh",
+    "oblivious-dns-over-https"
+  ],
+  "version": "HEAD-1b91301-250620T003700",
+  "version_upstream": "",
+  "bsum": "b27c5416cf0651a68195a23c911c9170dde05c23872277b11b7c26eeba18c632",
+  "build_date": "2025-06-23T09:09:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819043086",
+  "build_id": "15819043086",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/natesales/q/q?tag=HEAD-1b91301-250620T003700-loongarch64-Linux&download=q.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1967",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/natesales/q/q?tag=HEAD-1b91301-250620T003700-loongarch64-Linux&download=q",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/natesales/q/q:HEAD-1b91301-250620T003700-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/natesales/q/q",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/natesales/q/q?tag=HEAD-1b91301-250620T003700-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27a205bad3410fd991d904030f6acaeca330536fc8f5e52dbad1b5838e40a5bf",
+  "size": "11 MB",
+  "size_raw": "10846432",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f592838-250114T225542-loongarch64-Linux",
+    "HEAD-1b91301-250620T003700-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
