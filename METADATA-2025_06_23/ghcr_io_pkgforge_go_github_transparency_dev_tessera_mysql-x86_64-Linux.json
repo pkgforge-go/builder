@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mysql",
+  "pkg_family": "tessera",
+  "pkg_id": "mysql#github.com_transparency_dev_tessera",
+  "pkg_name": "mysql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transparency-dev/tessera",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for building tile-based transparency logs _tlogs_",
+  "homepage": [
+    "https://github.com/transparency-dev/tessera"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "fsck",
+    "gcp",
+    "hammer",
+    "mysql",
+    "posix",
+    "posix-oneshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transparency-dev/tessera/archive/34f80cb0ab2ecd896d0dcad4d6f74588d7f91e45.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34f80cb-250623T124311",
+  "version_upstream": "",
+  "bsum": "9c245f7f52cfb76218a88a4c5670bfab5513a9c9bc2adeb5e91847ae183a02f2",
+  "build_date": "2025-06-23T20:54:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833531217",
+  "build_id": "15833531217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/mysql?tag=HEAD-34f80cb-250623T124311-x86_64-Linux&download=mysql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "72",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/mysql?tag=HEAD-34f80cb-250623T124311-x86_64-Linux&download=mysql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transparency-dev/tessera/mysql:HEAD-34f80cb-250623T124311-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transparency-dev/tessera/mysql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/mysql?tag=HEAD-34f80cb-250623T124311-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0527ee22f5135939229f02fe810867da58acaea36c2e7220e563cdb57d55177b",
+  "size": "7.4 MB",
+  "size_raw": "7714336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
