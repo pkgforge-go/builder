@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "benchmark",
+  "pkg_family": "dgraph",
+  "pkg_id": "benchmark#github.com_hypermodeinc_dgraph",
+  "pkg_name": "benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hypermodeinc/dgraph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "high-performance graph database for real-time use cases",
+  "homepage": [
+    "https://github.com/hypermodeinc/dgraph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "compose",
+    "dgraph",
+    "jepsen",
+    "posting-list-benchmark",
+    "t"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hypermodeinc/dgraph/archive/9c09e15a01e39a797f6df793542f2c2b8e02f6aa.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "distributed",
+    "go",
+    "knowledge-graph"
+  ],
+  "version": "HEAD-9c09e15-250621T002049",
+  "version_upstream": "",
+  "bsum": "6aa4f2677eddbd7a1d5b742b0bd1ca74278b901e18e32fece0953d6cb58ec013",
+  "build_date": "2025-06-23T03:49:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813778072",
+  "build_id": "15813778072",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/benchmark?tag=HEAD-9c09e15-250621T002049-x86_64-Linux&download=benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20954",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/benchmark?tag=HEAD-9c09e15-250621T002049-x86_64-Linux&download=benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hypermodeinc/dgraph/benchmark:HEAD-9c09e15-250621T002049-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hypermodeinc/dgraph/benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/benchmark?tag=HEAD-9c09e15-250621T002049-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5eb0a58dc229e66bbf47dae0ba42d08687f614692aa27a21f1e4263e35f8be7",
+  "size": "19 MB",
+  "size_raw": "19228112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d93989f-250618T060725-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
