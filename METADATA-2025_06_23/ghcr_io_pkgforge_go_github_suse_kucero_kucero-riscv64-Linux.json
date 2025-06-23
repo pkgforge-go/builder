@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kucero",
+  "pkg_family": "kucero",
+  "pkg_id": "kucero#github.com_SUSE_kucero",
+  "pkg_name": "kucero",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SUSE/kucero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KUbernetes CErtificate ROtation",
+  "homepage": [
+    "https://github.com/SUSE/kucero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kucero"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SUSE/kucero/archive/1023a853afc02da70f53a60f58e67e5ade7b8a29.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "kubeadm",
+    "kubelet",
+    "kubernetes"
+  ],
+  "version": "HEAD-1023a85-250623T205809",
+  "version_upstream": "",
+  "bsum": "587b43ff9f09c318d07479e72e9dc2039b05281c65c07b0a8ad0fb0f19cc04b4",
+  "build_date": "2025-06-23T15:59:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828903241",
+  "build_id": "15828903241",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/kucero/kucero?tag=HEAD-1023a85-250623T205809-riscv64-Linux&download=kucero.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/kucero/kucero?tag=HEAD-1023a85-250623T205809-riscv64-Linux&download=kucero",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/suse/kucero/kucero:HEAD-1023a85-250623T205809-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/suse/kucero/kucero",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/kucero/kucero?tag=HEAD-1023a85-250623T205809-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3cdd7af595097043f2dd31a04de40a2365e0fcd53df06d9c71cf54a5b38aeb0c",
+  "size": "73 MB",
+  "size_raw": "76026136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
