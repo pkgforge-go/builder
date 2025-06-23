@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cfggen",
+  "pkg_family": "thanos",
+  "pkg_id": "cfggen#github.com_thanos_io_thanos",
+  "pkg_name": "cfggen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thanos-io/thanos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+  "homepage": [
+    "https://github.com/thanos-io/thanos"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cfggen",
+    "copyright",
+    "thanos"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/thanos-io/thanos/archive/9c955d21df19e82735b7d3c2906a61a0429825aa.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "go",
+    "google-cloud-storage",
+    "hacktoberfest",
+    "high-availability",
+    "metrics",
+    "monitoring",
+    "observability",
+    "prometheus",
+    "prometheus-ha-pairs",
+    "prometheus-setup",
+    "s3",
+    "storage",
+    "thanos"
+  ],
+  "version": "HEAD-9c955d2-250623T102707",
+  "version_upstream": "",
+  "bsum": "88a45c82f96690b4281422bfdd18e4dec714130db85a0230a4c732ac97654628",
+  "build_date": "2025-06-23T20:47:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833510984",
+  "build_id": "15833510984",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thanos-io/thanos/cfggen?tag=HEAD-9c955d2-250623T102707-loongarch64-Linux&download=cfggen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13583",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thanos-io/thanos/cfggen?tag=HEAD-9c955d2-250623T102707-loongarch64-Linux&download=cfggen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thanos-io/thanos/cfggen:HEAD-9c955d2-250623T102707-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thanos-io/thanos/cfggen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thanos-io/thanos/cfggen?tag=HEAD-9c955d2-250623T102707-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "826ccb25872855ecabab23c3cff05d4082f5c5708235b88d23e81f7c99a6d4aa",
+  "size": "38 MB",
+  "size_raw": "39430160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
