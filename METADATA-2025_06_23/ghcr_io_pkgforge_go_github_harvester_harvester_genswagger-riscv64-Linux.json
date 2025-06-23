@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "genswagger",
+  "pkg_family": "harvester",
+  "pkg_id": "genswagger#github.com_harvester_harvester",
+  "pkg_name": "genswagger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "harvester",
+    "upgradehelper",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/07ffa034c997e0cbd6757573be31d60e02ddaca7.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-07ffa03-250623T102940",
+  "version_upstream": "",
+  "bsum": "216ce36e13bfca35caedb50cd2e7795589bfca13312f8b8a88d8854ffbae525a",
+  "build_date": "2025-06-23T14:10:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825136168",
+  "build_id": "15825136168",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/genswagger?tag=HEAD-07ffa03-250623T102940-riscv64-Linux&download=genswagger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4476",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/genswagger?tag=HEAD-07ffa03-250623T102940-riscv64-Linux&download=genswagger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/genswagger:HEAD-07ffa03-250623T102940-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/genswagger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/genswagger?tag=HEAD-07ffa03-250623T102940-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c13acc8e0c983074b53470a356bc9e1ff630d3d46563ab130d23032224c18ed",
+  "size": "39 MB",
+  "size_raw": "39915544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a930b01-250620T092130-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
