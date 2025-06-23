@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "graphite-clickhouse",
+  "pkg_family": "graphite-clickhouse",
+  "pkg_id": "graphite-clickhouse#github.com_go_graphite_graphite_clickhouse",
+  "pkg_name": "graphite-clickhouse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-graphite/graphite-clickhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Graphite cluster backend with ClickHouse support",
+  "homepage": [
+    "https://github.com/go-graphite/graphite-clickhouse"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e-test",
+    "graphite-clickhouse",
+    "graphite-clickhouse-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-graphite/graphite-clickhouse/archive/f1c1419290c76c8864b57157d68a0042a07ac954.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f1c1419-250623T151624",
+  "version_upstream": "",
+  "bsum": "e5752e1a89309432ac607b6d2bf2af5b372407407bd2c9b0a4b887464b376cbd",
+  "build_date": "2025-06-23T17:40:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830116422",
+  "build_id": "15830116422",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse?tag=HEAD-f1c1419-250623T151624-riscv64-Linux&download=graphite-clickhouse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "216",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse?tag=HEAD-f1c1419-250623T151624-riscv64-Linux&download=graphite-clickhouse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse:HEAD-f1c1419-250623T151624-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse?tag=HEAD-f1c1419-250623T151624-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "567288073f164f2295a77060e0851661ad3f6daa568b0b8d3354f8b0a32ad091",
+  "size": "36 MB",
+  "size_raw": "37233176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
