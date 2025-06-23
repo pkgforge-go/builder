@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mapcidr",
+  "pkg_family": "mapcidr",
+  "pkg_id": "mapcidr#github.com_projectdiscovery_mapcidr",
+  "pkg_name": "mapcidr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/mapcidr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Utility program to perform multiple operations for a given subnet/CIDR ranges.",
+  "homepage": [
+    "https://github.com/projectdiscovery/mapcidr"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "integration-test",
+    "mapcidr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/mapcidr/archive/bebd78588bec07bf7ab803818db1b0959c0d17b0.tar.gz"
+  ],
+  "tag": [
+    "cidr",
+    "cidr-ranges",
+    "subnetting",
+    "subnetwork"
+  ],
+  "version": "HEAD-bebd785-250622T235600",
+  "version_upstream": "",
+  "bsum": "c102ebc03adc04488ced5f283727633d65fea06aff7352b6b33be4c6070da4b2",
+  "build_date": "2025-06-23T14:37:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825292846",
+  "build_id": "15825292846",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/mapcidr/mapcidr?tag=HEAD-bebd785-250622T235600-loongarch64-Linux&download=mapcidr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1111",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/mapcidr/mapcidr?tag=HEAD-bebd785-250622T235600-loongarch64-Linux&download=mapcidr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/mapcidr/mapcidr:HEAD-bebd785-250622T235600-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/mapcidr/mapcidr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/mapcidr/mapcidr?tag=HEAD-bebd785-250622T235600-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3135560099baa252d5f9a1b47f8a094ac89aca3307d9d9713831cdbf9020bd37",
+  "size": "26 MB",
+  "size_raw": "26972336",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-06df229-250615T235558-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
