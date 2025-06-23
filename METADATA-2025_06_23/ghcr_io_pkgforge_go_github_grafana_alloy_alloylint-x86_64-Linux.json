@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "alloylint",
+  "pkg_family": "alloy",
+  "pkg_id": "alloylint#github.com_grafana_alloy",
+  "pkg_name": "alloylint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/alloy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTelemetry Collector distribution with programmable pipelines",
+  "homepage": [
+    "https://github.com/grafana/alloy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alloy",
+    "alloylint",
+    "docs",
+    "integration-tests",
+    "kafka",
+    "listcomponents",
+    "otel-gen",
+    "prom-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/alloy/archive/841df78b818fdbf2e765609ba51f9c9055984b4c.tar.gz"
+  ],
+  "tag": [
+    "collector",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "version": "HEAD-841df78-250620T182002",
+  "version_upstream": "",
+  "bsum": "3da0a8e822d584e41bf34d6149f0c69784b69d9aeef25fe74d4f9a028cdb8db9",
+  "build_date": "2025-06-23T03:56:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813772914",
+  "build_id": "15813772914",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/alloylint?tag=HEAD-841df78-250620T182002-x86_64-Linux&download=alloylint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2174",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/alloylint?tag=HEAD-841df78-250620T182002-x86_64-Linux&download=alloylint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/alloylint:HEAD-841df78-250620T182002-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/alloy/alloylint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/alloylint?tag=HEAD-841df78-250620T182002-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cddc628aa86719b5d492ec06ba20c000328025fde2596b4f516bd37abaea9d30",
+  "size": "6.9 MB",
+  "size_raw": "7215392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-062df5d-250619T095440-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
