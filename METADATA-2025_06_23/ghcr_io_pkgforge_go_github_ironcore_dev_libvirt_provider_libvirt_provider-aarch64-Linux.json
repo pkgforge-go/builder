@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "libvirt-provider",
+  "pkg_family": "libvirt-provider",
+  "pkg_id": "libvirt-provider#github.com_ironcore_dev_libvirt_provider",
+  "pkg_name": "libvirt-provider",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ironcore-dev/libvirt-provider",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Libvirt provider implementation of the IronCore compute interface",
+  "homepage": [
+    "https://github.com/ironcore-dev/libvirt-provider"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "libvirt-provider"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ironcore-dev/libvirt-provider/archive/a17470ed41b298aca2e9e88501a79173d7bf7ad9.tar.gz"
+  ],
+  "tag": [
+    "compute",
+    "kubernetes",
+    "libvirt"
+  ],
+  "version": "HEAD-a17470e-250623T105329",
+  "version_upstream": "",
+  "bsum": "e9b799de74f887046c2635ed1d8096aa3a7a041e1be00ff1aceb7764c97ac7ab",
+  "build_date": "2025-06-23T18:07:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830403109",
+  "build_id": "15830403109",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/libvirt-provider/libvirt-provider?tag=HEAD-a17470e-250623T105329-aarch64-Linux&download=libvirt-provider.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/libvirt-provider/libvirt-provider?tag=HEAD-a17470e-250623T105329-aarch64-Linux&download=libvirt-provider",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ironcore-dev/libvirt-provider/libvirt-provider:HEAD-a17470e-250623T105329-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ironcore-dev/libvirt-provider/libvirt-provider",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ironcore-dev/libvirt-provider/libvirt-provider?tag=HEAD-a17470e-250623T105329-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "52efa5ee8accb40fc2d692e1bb7d406abb08909c023f22289bf16719f0890f63",
+  "size": "47 MB",
+  "size_raw": "48971712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
