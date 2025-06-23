@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "execute-template",
+  "pkg_family": "chezmoi",
+  "pkg_id": "execute-template#github.com_twpayne_chezmoi",
+  "pkg_name": "execute-template",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/twpayne/chezmoi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage your dotfiles across multiple diverse machines, securely.",
+  "homepage": [
+    "https://github.com/twpayne/chezmoi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chezmoi",
+    "execute-template",
+    "generate-commit",
+    "generate-helps",
+    "generate-install.sh",
+    "generate-license",
+    "lint-commit-messages",
+    "lint-txtar",
+    "lint-whitespace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/twpayne/chezmoi/archive/6384ea3f6b8059bfc554181aa3f5f461c7610024.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "dotfile",
+    "dotfile-management",
+    "dotfile-manager",
+    "dotfile-managers",
+    "dotfile-syncer",
+    "dotfiles",
+    "dotfiles-manager",
+    "linux",
+    "macos",
+    "multiple-machines",
+    "security",
+    "windows"
+  ],
+  "version": "HEAD-6384ea3-250622T161837",
+  "version_upstream": "v2.62.7",
+  "bsum": "02f16a0bee885c3350d673fdee882f2281269c3d868ab695c77789d1a7a64fe6",
+  "build_date": "2025-06-23T14:50:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825336170",
+  "build_id": "15825336170",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/execute-template?tag=HEAD-6384ea3-250622T161837-x86_64-Linux&download=execute-template.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15239",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/execute-template?tag=HEAD-6384ea3-250622T161837-x86_64-Linux&download=execute-template",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/twpayne/chezmoi/execute-template:HEAD-6384ea3-250622T161837-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/twpayne/chezmoi/execute-template",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/execute-template?tag=HEAD-6384ea3-250622T161837-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3360ed7e83147c6fe540923726bebb6c644beab4779845598d8e4460fb9cf80",
+  "size": "12 MB",
+  "size_raw": "12152000",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-22ffc1d-250621T174419-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
