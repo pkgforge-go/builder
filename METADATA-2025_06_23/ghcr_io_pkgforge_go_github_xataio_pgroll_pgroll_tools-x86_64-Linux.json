@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pgroll-tools",
+  "pkg_family": "pgroll",
+  "pkg_id": "pgroll-tools#github.com_xataio_pgroll",
+  "pkg_name": "pgroll-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xataio/pgroll",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL zero-downtime migrations made easy",
+  "homepage": [
+    "https://github.com/xataio/pgroll"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgroll",
+    "pgroll-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xataio/pgroll/archive/b11758295d4921ef787b9d0a24824ea5681ceb15.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "migrations",
+    "postgres",
+    "postgresql",
+    "schema",
+    "zero-downtime"
+  ],
+  "version": "HEAD-b117582-250623T152607",
+  "version_upstream": "",
+  "bsum": "e485eac67acb02aa05d0af7d16eaca312e1b23c07beba1a858ed5ed9e83b9216",
+  "build_date": "2025-06-23T21:04:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833666952",
+  "build_id": "15833666952",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgroll/pgroll-tools?tag=HEAD-b117582-250623T152607-x86_64-Linux&download=pgroll-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5058",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgroll/pgroll-tools?tag=HEAD-b117582-250623T152607-x86_64-Linux&download=pgroll-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgroll/pgroll-tools:HEAD-b117582-250623T152607-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgroll/pgroll-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgroll/pgroll-tools?tag=HEAD-b117582-250623T152607-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64454b921b25b5a98b2a983969debaa9d42ba41c0df04b2e76727bcded0796a8",
+  "size": "18 MB",
+  "size_raw": "18855976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
