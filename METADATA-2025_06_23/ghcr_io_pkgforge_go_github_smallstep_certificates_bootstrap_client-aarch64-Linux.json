@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bootstrap-client",
+  "pkg_family": "certificates",
+  "pkg_id": "bootstrap-client#github.com_smallstep_certificates",
+  "pkg_name": "bootstrap-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smallstep/certificates",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🛡️ A private certificate authority _X.509 _ SSH_ _ ACME server for secure automated certificate management, so you can use TLS everywhere _ SSO for SSH.",
+  "homepage": [
+    "https://github.com/smallstep/certificates"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "badger-migration",
+    "basic-client",
+    "bootstrap-client",
+    "bootstrap-mtls-server",
+    "bootstrap-tls-server",
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smallstep/certificates/archive/c6902d1a091c1bdab867391ee41bac517a557894.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "acme-server",
+    "ca",
+    "certificate-authority",
+    "certificates",
+    "go",
+    "pki",
+    "security",
+    "security-tools",
+    "ssh",
+    "tls",
+    "x509"
+  ],
+  "version": "HEAD-c6902d1-250623T072158",
+  "version_upstream": "",
+  "bsum": "574b5e515a7960dfd1ce9ea30b15870d8c5edee7a7fa429381e60204060ede9f",
+  "build_date": "2025-06-23T20:28:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833423588",
+  "build_id": "15833423588",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/bootstrap-client?tag=HEAD-c6902d1-250623T072158-aarch64-Linux&download=bootstrap-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7372",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/bootstrap-client?tag=HEAD-c6902d1-250623T072158-aarch64-Linux&download=bootstrap-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smallstep/certificates/bootstrap-client:HEAD-c6902d1-250623T072158-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smallstep/certificates/bootstrap-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/bootstrap-client?tag=HEAD-c6902d1-250623T072158-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2e52e8d44f1d391467617e465c3a188dde05cb53c9e1efa575c193bd91eef1c",
+  "size": "22 MB",
+  "size_raw": "22428128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
