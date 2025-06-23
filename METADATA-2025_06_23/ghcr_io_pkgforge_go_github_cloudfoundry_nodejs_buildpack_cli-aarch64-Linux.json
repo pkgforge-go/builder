@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "nodejs-buildpack",
+  "pkg_id": "cli#github.com_cloudfoundry_nodejs_buildpack",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/nodejs-buildpack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry buildpack for Node.js",
+  "homepage": [
+    "https://github.com/cloudfoundry/nodejs-buildpack"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/nodejs-buildpack/archive/e5aa0fe1027db7367a4d5eeb2b155ffcf7831447.tar.gz"
+  ],
+  "tag": [
+    "v2b"
+  ],
+  "version": "HEAD-e5aa0fe-250623T072121",
+  "version_upstream": "",
+  "bsum": "1672ada723b4552a7e44cc9d870fa1318c34fbfae262d4ea2854f3a4d794c568",
+  "build_date": "2025-06-23T16:36:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829039458",
+  "build_id": "15829039458",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/nodejs-buildpack/cli?tag=HEAD-e5aa0fe-250623T072121-aarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/nodejs-buildpack/cli?tag=HEAD-e5aa0fe-250623T072121-aarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/nodejs-buildpack/cli:HEAD-e5aa0fe-250623T072121-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/nodejs-buildpack/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/nodejs-buildpack/cli?tag=HEAD-e5aa0fe-250623T072121-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f04def2920f6334779bc1426da16d1883f77310f65fa2ed3e4468be662a57ba4",
+  "size": "7.0 MB",
+  "size_raw": "7246304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
