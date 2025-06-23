@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "prom-gen",
+  "pkg_family": "telescope",
+  "pkg_id": "prom-gen#github.com_blockopsnetwork_telescope",
+  "pkg_name": "prom-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/b120d1253b82395767418e5805d3bd22fa59406f.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-b120d12-250623T050932",
+  "version_upstream": "",
+  "bsum": "6a11390871a03247c612f94b8a6377ed836c592a6a97df102566fc2dba9bc0a2",
+  "build_date": "2025-06-23T16:40:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828961208",
+  "build_id": "15828961208",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/prom-gen?tag=HEAD-b120d12-250623T050932-riscv64-Linux&download=prom-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/prom-gen?tag=HEAD-b120d12-250623T050932-riscv64-Linux&download=prom-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/prom-gen:HEAD-b120d12-250623T050932-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/prom-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/prom-gen?tag=HEAD-b120d12-250623T050932-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47f02f20da93d90228c6fd934eb0299159daed5564d85cb789a826f49d8b71da",
+  "size": "8.4 MB",
+  "size_raw": "8733496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
