@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubectl-kyverno",
+  "pkg_family": "kyverno",
+  "pkg_id": "kubectl-kyverno#github.com_kyverno_kyverno",
+  "pkg_name": "kubectl-kyverno",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/9684ef6c4ce8f14dc9449106ea52ca1927125d62.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-9684ef6-250623T130110",
+  "version_upstream": "",
+  "bsum": "f86a5600d7f240c56dd5c113451b83d48e4da88b2ddf48e5dddb607455d5a075",
+  "build_date": "2025-06-23T23:33:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835877303",
+  "build_id": "15835877303",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/kubectl-kyverno?tag=HEAD-9684ef6-250623T130110-x86_64-Linux&download=kubectl-kyverno.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6449",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/kubectl-kyverno?tag=HEAD-9684ef6-250623T130110-x86_64-Linux&download=kubectl-kyverno",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/kubectl-kyverno:HEAD-9684ef6-250623T130110-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/kubectl-kyverno",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/kubectl-kyverno?tag=HEAD-9684ef6-250623T130110-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6bc9e785f3d8546298293d0f57c883e3ec4c582a559b5b9e62e03d56bb4ff256",
+  "size": "262 MB",
+  "size_raw": "274348288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-467bcb5-250620T115123-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
