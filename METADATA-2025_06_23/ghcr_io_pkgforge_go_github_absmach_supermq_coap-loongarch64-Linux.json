@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "coap",
+  "pkg_family": "supermq",
+  "pkg_id": "coap#github.com_absmach_supermq",
+  "pkg_name": "coap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/absmach/supermq",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Event-driven Infrastructure for Modern Cloud",
+  "homepage": [
+    "https://github.com/absmach/supermq"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "certs",
+    "channels",
+    "cli",
+    "clients",
+    "coap",
+    "domains",
+    "groups",
+    "http",
+    "journal",
+    "mqtt",
+    "users",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/absmach/supermq/archive/d8e895970c4098111ba45958084ac0e5cc979ac0.tar.gz"
+  ],
+  "tag": [
+    "coap",
+    "distributed-systems",
+    "edge",
+    "edge-computing",
+    "golang",
+    "iiot",
+    "internet-of-things",
+    "iot",
+    "iot-cloud",
+    "iot-gateway",
+    "iot-platform",
+    "lora",
+    "lorawan",
+    "lwm2m",
+    "message-broker",
+    "messaging",
+    "mqtt",
+    "opc-ua",
+    "telecom",
+    "web-socket"
+  ],
+  "version": "HEAD-d8e8959-250623T115828",
+  "version_upstream": "",
+  "bsum": "9085d7eaa6da2e7bbde547e2227a570d9468289b60b2d66be40e209a7a248f4c",
+  "build_date": "2025-06-23T21:59:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835778915",
+  "build_id": "15835778915",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/supermq/coap?tag=HEAD-d8e8959-250623T115828-loongarch64-Linux&download=coap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2516",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/supermq/coap?tag=HEAD-d8e8959-250623T115828-loongarch64-Linux&download=coap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/absmach/supermq/coap:HEAD-d8e8959-250623T115828-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/absmach/supermq/coap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/supermq/coap?tag=HEAD-d8e8959-250623T115828-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e9485c06d5594dad882e9708e058dc7433d1a357ac0964a07e192440d6902ea2",
+  "size": "28 MB",
+  "size_raw": "29198464",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8d04e7a-250620T161109-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
