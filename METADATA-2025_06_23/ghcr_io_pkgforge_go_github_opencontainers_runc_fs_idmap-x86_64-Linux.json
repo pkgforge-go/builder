@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fs-idmap",
+  "pkg_family": "runc",
+  "pkg_id": "fs-idmap#github.com_opencontainers_runc",
+  "pkg_name": "fs-idmap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/opencontainers/runc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for spawning and running containers according to the OCI specification",
+  "homepage": [
+    "https://github.com/opencontainers/runc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fs-idmap",
+    "key_label",
+    "memfd-bind",
+    "pidfd-kill",
+    "recvtty",
+    "remap-rootfs",
+    "runc",
+    "sd-helper",
+    "seccompagent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/opencontainers/runc/archive/b1722d790214952e8a20d4ddd6a83451b9b665a1.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "oci"
+  ],
+  "version": "HEAD-b1722d7-250620T113046",
+  "version_upstream": "",
+  "bsum": "518d4b3fd9c8f77c21144cd71e47ea5c61d4cee89463818b2a49b52a7b02a8e0",
+  "build_date": "2025-06-23T05:54:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815572334",
+  "build_id": "15815572334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/fs-idmap?tag=HEAD-b1722d7-250620T113046-x86_64-Linux&download=fs-idmap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12460",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/fs-idmap?tag=HEAD-b1722d7-250620T113046-x86_64-Linux&download=fs-idmap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opencontainers/runc/fs-idmap:HEAD-b1722d7-250620T113046-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opencontainers/runc/fs-idmap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/fs-idmap?tag=HEAD-b1722d7-250620T113046-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff93ba80bf30cc78e938f59cae508e821695f46b6530a3ee8d692a7d0c2de1c5",
+  "size": "2.0 MB",
+  "size_raw": "1993880",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-94dc2be-250620T165921-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
