@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "configmaptocrs",
+  "pkg_family": "metallb",
+  "pkg_id": "configmaptocrs#github.com_metallb_metallb",
+  "pkg_name": "configmaptocrs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metallb/metallb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+  "homepage": [
+    "https://github.com/metallb/metallb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaptocrs",
+    "controller",
+    "cp-tool",
+    "metrics",
+    "speaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metallb/metallb/archive/bacee32c11930b29a0cfae1f8a6410026625fab0.tar.gz"
+  ],
+  "tag": [
+    "arp",
+    "bare-metal",
+    "bgp",
+    "frr",
+    "hacktoberfest",
+    "keepalived",
+    "kubernetes",
+    "load-balancer",
+    "vrrp"
+  ],
+  "version": "HEAD-bacee32-250622T234743",
+  "version_upstream": "",
+  "bsum": "eac8a99ded83c692576ded1026362bc99c14593e7092f274dd142a1ed1bb876a",
+  "build_date": "2025-06-23T08:33:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818310716",
+  "build_id": "15818310716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/configmaptocrs?tag=HEAD-bacee32-250622T234743-x86_64-Linux&download=configmaptocrs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7594",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/configmaptocrs?tag=HEAD-bacee32-250622T234743-x86_64-Linux&download=configmaptocrs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metallb/metallb/configmaptocrs:HEAD-bacee32-250622T234743-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metallb/metallb/configmaptocrs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/configmaptocrs?tag=HEAD-bacee32-250622T234743-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "131f0e081ea8b321385a1272ec04daf2b2183bdc5036282a7ac2940799be48f1",
+  "size": "35 MB",
+  "size_raw": "36566336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
