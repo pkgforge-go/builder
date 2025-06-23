@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "retina-cli",
+  "pkg_family": "retina",
+  "pkg_id": "retina-cli#github.com_microsoft_retina",
+  "pkg_name": "retina-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "captureworkload",
+    "enricher",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "retina-cli",
+    "utsummary"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/bdd0b28284a29a4e196e098df50cd074dfc25615.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-bdd0b28-250623T090413",
+  "version_upstream": "",
+  "bsum": "fd16eaa2fb35542246d83c0dd091dee567507acc2b6712b299df82d3c191d5e2",
+  "build_date": "2025-06-23T23:40:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835882543",
+  "build_id": "15835882543",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/retina-cli?tag=HEAD-bdd0b28-250623T090413-riscv64-Linux&download=retina-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2982",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/retina-cli?tag=HEAD-bdd0b28-250623T090413-riscv64-Linux&download=retina-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/retina-cli:HEAD-bdd0b28-250623T090413-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/retina-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/retina-cli?tag=HEAD-bdd0b28-250623T090413-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64a43a527bf1c8e2d7e47185e4755e828997e9b51c950d45e071c38c527c9a1a",
+  "size": "76 MB",
+  "size_raw": "79560568",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-586a3a6-250619T115102-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
