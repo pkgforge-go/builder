@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dataprotection",
+  "pkg_family": "kubeblocks",
+  "pkg_id": "dataprotection#github.com_apecloud_kubeblocks",
+  "pkg_name": "dataprotection",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apecloud/kubeblocks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.",
+  "homepage": [
+    "https://github.com/apecloud/kubeblocks"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dataprotection",
+    "kbagent",
+    "manager",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apecloud/kubeblocks/archive/b08317f71407316b7f4b9c7e03d0ac6f8ace728a.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "dbaas",
+    "dbpaas",
+    "kafka",
+    "kubernetes",
+    "mongodb",
+    "mysql",
+    "operator",
+    "postgresql",
+    "redis"
+  ],
+  "version": "HEAD-b08317f-250620T114352",
+  "version_upstream": "",
+  "bsum": "e854d4744d497ff2aaaf70add96ace9a582322d153d71640d941c957982a7aef",
+  "build_date": "2025-06-23T02:37:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813637982",
+  "build_id": "15813637982",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apecloud/kubeblocks/dataprotection?tag=HEAD-b08317f-250620T114352-riscv64-Linux&download=dataprotection.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2742",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apecloud/kubeblocks/dataprotection?tag=HEAD-b08317f-250620T114352-riscv64-Linux&download=dataprotection",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apecloud/kubeblocks/dataprotection:HEAD-b08317f-250620T114352-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apecloud/kubeblocks/dataprotection",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apecloud/kubeblocks/dataprotection?tag=HEAD-b08317f-250620T114352-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5147c7773890e750f2c0b8e5a3fdc6984dbb8720796b00dc143584472aa62da3",
+  "size": "76 MB",
+  "size_raw": "79116600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8e34326-250616T111821-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
