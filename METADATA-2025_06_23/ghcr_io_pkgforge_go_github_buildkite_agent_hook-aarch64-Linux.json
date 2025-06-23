@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hook",
+  "pkg_family": "agent",
+  "pkg_id": "hook#github.com_buildkite_agent",
+  "pkg_name": "hook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buildkite/agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network",
+  "homepage": [
+    "https://github.com/buildkite/agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "hook",
+    "test-binary-hook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buildkite/agent/archive/aa94a0071a47d8d902ea2d644d836a7e9ff11d34.tar.gz"
+  ],
+  "tag": [
+    "buildkite",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "docker",
+    "go",
+    "llamas"
+  ],
+  "version": "HEAD-aa94a00-250623T112622",
+  "version_upstream": "v3.100.0",
+  "bsum": "bfbe28f5d9002cfcf7bb7ee88738ae8cd0fe0c09896bca57982bf6942ac8903a",
+  "build_date": "2025-06-23T13:37:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825073136",
+  "build_id": "15825073136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/hook?tag=HEAD-aa94a00-250623T112622-aarch64-Linux&download=hook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "851",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/hook?tag=HEAD-aa94a00-250623T112622-aarch64-Linux&download=hook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildkite/agent/hook:HEAD-aa94a00-250623T112622-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildkite/agent/hook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/hook?tag=HEAD-aa94a00-250623T112622-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f10b32944a7385c56d2b9c41c97ec2151489b9c741b730e4dfbc4b8da9cc6cb6",
+  "size": "1.1 MB",
+  "size_raw": "1130720",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6813364-250619T172052-aarch64-Linux",
+    "HEAD-8792019-250620T170018-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
