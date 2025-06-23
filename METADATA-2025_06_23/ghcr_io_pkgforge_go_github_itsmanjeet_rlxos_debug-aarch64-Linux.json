@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "debug",
+  "pkg_family": "rlxos",
+  "pkg_id": "debug#github.com_itsManjeet_rlxos",
+  "pkg_name": "debug",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capsule",
+    "debug",
+    "genkeycodes",
+    "init",
+    "service",
+    "udevd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/80c2a1b12d7964b6b94aded730393e258dde61ac.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-80c2a1b-250622T223945",
+  "version_upstream": "",
+  "bsum": "db1fd10bac447ccdd323f7ab4a5dae09cb1f921ba9235175d12600b68e834bf5",
+  "build_date": "2025-06-23T14:10:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825148039",
+  "build_id": "15825148039",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/debug?tag=HEAD-80c2a1b-250622T223945-aarch64-Linux&download=debug.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/debug?tag=HEAD-80c2a1b-250622T223945-aarch64-Linux&download=debug",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/debug:HEAD-80c2a1b-250622T223945-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/debug",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/debug?tag=HEAD-80c2a1b-250622T223945-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4326370b3f387c10129290b911b2ddd33d0a8a0cdd5766355a85552a3041747b",
+  "size": "2.4 MB",
+  "size_raw": "2452024",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95b2757-250621T144346-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
