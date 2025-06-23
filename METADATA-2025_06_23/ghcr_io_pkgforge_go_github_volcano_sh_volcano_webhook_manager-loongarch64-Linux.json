@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook-manager",
+  "pkg_family": "volcano",
+  "pkg_id": "webhook-manager#github.com_volcano_sh_volcano",
+  "pkg_name": "webhook-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/volcano-sh/volcano",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Batch System _Project under CNCF_",
+  "homepage": [
+    "https://github.com/volcano-sh/volcano"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "controller-manager",
+    "extender",
+    "network-qos",
+    "scheduler",
+    "scripts",
+    "vcancel",
+    "vjobs",
+    "vqueues",
+    "vresume",
+    "vsub",
+    "vsuspend",
+    "webhook-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/volcano-sh/volcano/archive/068b7bc3d8ecfc8274a82e4f458bbb84fac883bf.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "batch-systems",
+    "bigdata",
+    "gene",
+    "golang",
+    "hpc",
+    "kubernetes",
+    "machine-learning",
+    "serving",
+    "training"
+  ],
+  "version": "HEAD-068b7bc-250623T200713",
+  "version_upstream": "",
+  "bsum": "89bf402631333de0950a61d6d5ca94de3b8e8e1b0befd630965f59f1f01d0ca8",
+  "build_date": "2025-06-23T21:13:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833545397",
+  "build_id": "15833545397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/webhook-manager?tag=HEAD-068b7bc-250623T200713-loongarch64-Linux&download=webhook-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4767",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/webhook-manager?tag=HEAD-068b7bc-250623T200713-loongarch64-Linux&download=webhook-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/volcano-sh/volcano/webhook-manager:HEAD-068b7bc-250623T200713-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/volcano-sh/volcano/webhook-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/webhook-manager?tag=HEAD-068b7bc-250623T200713-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b2d0b4ffb67fda87724fc6e1eec2af4c2470bdbdfa9031db8f251f56e96285ec",
+  "size": "65 MB",
+  "size_raw": "67150880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

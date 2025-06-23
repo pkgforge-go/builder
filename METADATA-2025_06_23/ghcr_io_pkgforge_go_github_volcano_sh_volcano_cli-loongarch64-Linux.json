@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "volcano",
+  "pkg_id": "cli#github.com_volcano_sh_volcano",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/volcano-sh/volcano",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Batch System _Project under CNCF_",
+  "homepage": [
+    "https://github.com/volcano-sh/volcano"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "controller-manager",
+    "extender",
+    "network-qos",
+    "scheduler",
+    "scripts",
+    "vcancel",
+    "vjobs",
+    "vqueues",
+    "vresume",
+    "vsub",
+    "vsuspend",
+    "webhook-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/volcano-sh/volcano/archive/068b7bc3d8ecfc8274a82e4f458bbb84fac883bf.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "batch-systems",
+    "bigdata",
+    "gene",
+    "golang",
+    "hpc",
+    "kubernetes",
+    "machine-learning",
+    "serving",
+    "training"
+  ],
+  "version": "HEAD-068b7bc-250623T200713",
+  "version_upstream": "",
+  "bsum": "06a3ae0b5d448a3a9c237af7a83867b428eb9a49c19ad320cd3cbead53c5e3b2",
+  "build_date": "2025-06-23T21:13:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833545397",
+  "build_id": "15833545397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/cli?tag=HEAD-068b7bc-250623T200713-loongarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4767",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/cli?tag=HEAD-068b7bc-250623T200713-loongarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/volcano-sh/volcano/cli:HEAD-068b7bc-250623T200713-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/volcano-sh/volcano/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/cli?tag=HEAD-068b7bc-250623T200713-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5f0fcb525ee29afe9590ce116b90d3494b5683cfd3d8f417dc7961589ff9dd4",
+  "size": "40 MB",
+  "size_raw": "40966304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
