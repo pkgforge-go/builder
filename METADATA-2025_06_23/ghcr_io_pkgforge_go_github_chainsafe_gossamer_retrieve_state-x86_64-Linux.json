@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "retrieve_state",
+  "pkg_family": "gossamer",
+  "pkg_id": "retrieve_state#github.com_ChainSafe_gossamer",
+  "pkg_name": "retrieve_state",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ChainSafe/gossamer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🕸️ Go Implementation of the Polkadot Host",
+  "homepage": [
+    "https://github.com/ChainSafe/gossamer"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gossamer",
+    "retrieve_block",
+    "retrieve_state",
+    "testcases"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ChainSafe/gossamer/archive/3e2c0a005dc914192014f4e8d0f34b6a6650f24b.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "p2p",
+    "polkadot",
+    "wasm"
+  ],
+  "version": "HEAD-3e2c0a0-250621T143555",
+  "version_upstream": "",
+  "bsum": "ffc33d629d87cd6fdcde039aee22e39bff080923a8f2be913f7887cd842c2a54",
+  "build_date": "2025-06-23T04:48:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815210213",
+  "build_id": "15815210213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/retrieve_state?tag=HEAD-3e2c0a0-250621T143555-x86_64-Linux&download=retrieve_state.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "451",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/retrieve_state?tag=HEAD-3e2c0a0-250621T143555-x86_64-Linux&download=retrieve_state",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainsafe/gossamer/retrieve_state:HEAD-3e2c0a0-250621T143555-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainsafe/gossamer/retrieve_state",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainsafe/gossamer/retrieve_state?tag=HEAD-3e2c0a0-250621T143555-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2be147647fd372070516bdebde79e1063c956c38c487d18ed94c354c99283de",
+  "size": "40 MB",
+  "size_raw": "41941784",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-617f5a2-250617T120024-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
