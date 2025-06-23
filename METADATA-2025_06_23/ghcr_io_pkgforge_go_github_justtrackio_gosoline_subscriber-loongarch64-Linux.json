@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "subscriber",
+  "pkg_family": "gosoline",
+  "pkg_id": "subscriber#github.com_justtrackio_gosoline",
+  "pkg_name": "subscriber",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/justtrackio/gosoline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gosoline is our framework which fuels all of our Golang applications",
+  "homepage": [
+    "https://github.com/justtrackio/gosoline"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application",
+    "cfg",
+    "complex-logger",
+    "config-logger",
+    "consumer",
+    "create-a-consumer",
+    "create-a-money-exchange-app",
+    "create-an-application",
+    "create-an-http-server",
+    "from-env",
+    "from-file",
+    "from-map",
+    "from-settings",
+    "getters",
+    "grpcserver",
+    "health-check",
+    "kernel",
+    "log",
+    "log-context",
+    "log-handler",
+    "middleware",
+    "minimal-logger",
+    "module",
+    "output",
+    "prometheus",
+    "publisher",
+    "simple-handlers",
+    "static",
+    "stream-consumer",
+    "subscriber",
+    "write-crud-sql-app"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/justtrackio/gosoline/archive/8ca2fac4e5d0c391f280cb99ddddc32113eacc56.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8ca2fac-250623T110938",
+  "version_upstream": "v0.41.0",
+  "bsum": "ba83aee077070a748b4b656748065fac971fb40cc77366c892e2b8e3e009a703",
+  "build_date": "2025-06-23T18:33:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830496063",
+  "build_id": "15830496063",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/subscriber?tag=HEAD-8ca2fac-250623T110938-loongarch64-Linux&download=subscriber.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/subscriber?tag=HEAD-8ca2fac-250623T110938-loongarch64-Linux&download=subscriber",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/justtrackio/gosoline/subscriber:HEAD-8ca2fac-250623T110938-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/justtrackio/gosoline/subscriber",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/subscriber?tag=HEAD-8ca2fac-250623T110938-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9447bcb0dbfc452168fa638d0ee237b9b4f187e54812e212f61a0340e057cad1",
+  "size": "55 MB",
+  "size_raw": "57106720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
