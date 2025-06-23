@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "volcano",
+  "pkg_id": "scheduler#github.com_volcano_sh_volcano",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/volcano-sh/volcano",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Batch System _Project under CNCF_",
+  "homepage": [
+    "https://github.com/volcano-sh/volcano"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "controller-manager",
+    "extender",
+    "network-qos",
+    "scheduler",
+    "scripts",
+    "vcancel",
+    "vjobs",
+    "vqueues",
+    "vresume",
+    "vsub",
+    "vsuspend",
+    "webhook-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/volcano-sh/volcano/archive/068b7bc3d8ecfc8274a82e4f458bbb84fac883bf.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "batch-systems",
+    "bigdata",
+    "gene",
+    "golang",
+    "hpc",
+    "kubernetes",
+    "machine-learning",
+    "serving",
+    "training"
+  ],
+  "version": "HEAD-068b7bc-250623T200713",
+  "version_upstream": "",
+  "bsum": "557ccd43d601e91c028f3b061415a51698e9fce0318fac3de9cb6f174eaed3eb",
+  "build_date": "2025-06-23T21:14:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833545397",
+  "build_id": "15833545397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/scheduler?tag=HEAD-068b7bc-250623T200713-x86_64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4767",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/scheduler?tag=HEAD-068b7bc-250623T200713-x86_64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/volcano-sh/volcano/scheduler:HEAD-068b7bc-250623T200713-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/volcano-sh/volcano/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/scheduler?tag=HEAD-068b7bc-250623T200713-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e8298eea15e9d3d8686f55280a9a40ac50ace4323f02b3b8e7e41d0717a8b68d",
+  "size": "97 MB",
+  "size_raw": "101581280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
