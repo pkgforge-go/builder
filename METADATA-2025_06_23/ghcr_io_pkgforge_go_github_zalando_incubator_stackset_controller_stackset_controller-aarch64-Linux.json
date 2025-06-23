@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stackset-controller",
+  "pkg_family": "stackset-controller",
+  "pkg_id": "stackset-controller#github.com_zalando_incubator_stackset_controller",
+  "pkg_name": "stackset-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalando-incubator/stackset-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Opinionated StackSet resource for managing application life cycle and traffic switching in Kubernetes",
+  "homepage": [
+    "https://github.com/zalando-incubator/stackset-controller"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd",
+    "stackset-controller",
+    "traffic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zalando-incubator/stackset-controller/archive/d54e82918de0f9b8648f5aa4e59eca7938abe007.tar.gz"
+  ],
+  "tag": [
+    "blue-green",
+    "cloud",
+    "crd",
+    "kubernetes",
+    "stack",
+    "stackset",
+    "stackset-controller",
+    "traffic-switching",
+    "zalando"
+  ],
+  "version": "HEAD-d54e829-250623T131243",
+  "version_upstream": "v1.4.103",
+  "bsum": "1973ab7e3c871f88ab5a15146c071faadf1c7fa1b5ab23f8eef41a2798511968",
+  "build_date": "2025-06-23T21:15:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15834367008",
+  "build_id": "15834367008",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalando-incubator/stackset-controller/stackset-controller?tag=HEAD-d54e829-250623T131243-aarch64-Linux&download=stackset-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalando-incubator/stackset-controller/stackset-controller?tag=HEAD-d54e829-250623T131243-aarch64-Linux&download=stackset-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalando-incubator/stackset-controller/stackset-controller:HEAD-d54e829-250623T131243-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalando-incubator/stackset-controller/stackset-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalando-incubator/stackset-controller/stackset-controller?tag=HEAD-d54e829-250623T131243-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2dc9a57d35c4d37f3301be93358eb522bf970dfb5fc2450897cc09aee64a4c85",
+  "size": "47 MB",
+  "size_raw": "48773120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
