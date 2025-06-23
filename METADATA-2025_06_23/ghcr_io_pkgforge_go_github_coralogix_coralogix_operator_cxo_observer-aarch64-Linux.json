@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cxo-observer",
+  "pkg_family": "coralogix-operator",
+  "pkg_id": "cxo-observer#github.com_coralogix_coralogix_operator",
+  "pkg_name": "cxo-observer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coralogix/coralogix-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Coralogix Operator for integration with Kubernetes clusters.",
+  "homepage": [
+    "https://github.com/coralogix/coralogix-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coralogix-operator-cmd",
+    "cxo-observer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coralogix/coralogix-operator/archive/8e3a640c7ad24c2da3be940271a1d51b996705ea.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "coralogix",
+    "kubernetes",
+    "logging",
+    "metrics",
+    "observability",
+    "operator",
+    "prometheus"
+  ],
+  "version": "HEAD-8e3a640-250623T163821",
+  "version_upstream": "",
+  "bsum": "5a22cf2436622bcb35d2051dab9f426d1d8b9a42e18ba455ea2882a53f91f4fb",
+  "build_date": "2025-06-23T16:52:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829062374",
+  "build_id": "15829062374",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coralogix/coralogix-operator/cxo-observer?tag=HEAD-8e3a640-250623T163821-aarch64-Linux&download=cxo-observer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coralogix/coralogix-operator/cxo-observer?tag=HEAD-8e3a640-250623T163821-aarch64-Linux&download=cxo-observer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coralogix/coralogix-operator/cxo-observer:HEAD-8e3a640-250623T163821-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coralogix/coralogix-operator/cxo-observer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coralogix/coralogix-operator/cxo-observer?tag=HEAD-8e3a640-250623T163821-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "342a5fc4e125d901e36bbfa0999e5e78ebb1bd1a128c7f4907c3a047eff9a262",
+  "size": "49 MB",
+  "size_raw": "51033056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
