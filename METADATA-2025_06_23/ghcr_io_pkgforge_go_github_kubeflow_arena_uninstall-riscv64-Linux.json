@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "uninstall",
+  "pkg_family": "arena",
+  "pkg_id": "uninstall#github.com_kubeflow_arena",
+  "pkg_name": "uninstall",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeflow/arena",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI for Kubeflow.",
+  "homepage": [
+    "https://github.com/kubeflow/arena"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arena",
+    "custom-serving",
+    "etjob",
+    "hack",
+    "job-monitor",
+    "mpijob",
+    "pytorchjob",
+    "tfjob",
+    "uninstall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeflow/arena/archive/c9d5653de3c0adad3a49f74dd423a89330989d19.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "docker",
+    "kubeflow",
+    "kubernetes",
+    "tensorflow"
+  ],
+  "version": "HEAD-c9d5653-250623T130113",
+  "version_upstream": "",
+  "bsum": "73f2f17f17222fea923355b12cdf1e7c88aced5b26ede99e731310ddeee793d8",
+  "build_date": "2025-06-23T18:51:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830608213",
+  "build_id": "15830608213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/uninstall?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&download=uninstall.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "782",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/uninstall?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&download=uninstall",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeflow/arena/uninstall:HEAD-c9d5653-250623T130113-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeflow/arena/uninstall",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/uninstall?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b7856684e0ae1f82458283c211eaa1ddf86724f9e06155585152f9d4ff487e6",
+  "size": "2.5 MB",
+  "size_raw": "2588200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

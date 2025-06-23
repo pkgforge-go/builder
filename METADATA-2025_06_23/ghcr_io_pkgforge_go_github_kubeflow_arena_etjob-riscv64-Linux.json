@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "etjob",
+  "pkg_family": "arena",
+  "pkg_id": "etjob#github.com_kubeflow_arena",
+  "pkg_name": "etjob",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeflow/arena",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI for Kubeflow.",
+  "homepage": [
+    "https://github.com/kubeflow/arena"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arena",
+    "custom-serving",
+    "etjob",
+    "hack",
+    "job-monitor",
+    "mpijob",
+    "pytorchjob",
+    "tfjob",
+    "uninstall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeflow/arena/archive/c9d5653de3c0adad3a49f74dd423a89330989d19.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "docker",
+    "kubeflow",
+    "kubernetes",
+    "tensorflow"
+  ],
+  "version": "HEAD-c9d5653-250623T130113",
+  "version_upstream": "",
+  "bsum": "7183c73c39d3768ee610b48e76f282ea5f856ccf34b2aeb2e9f20a306b8f0971",
+  "build_date": "2025-06-23T18:50:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830608213",
+  "build_id": "15830608213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/etjob?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&download=etjob.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "782",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/etjob?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&download=etjob",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeflow/arena/etjob:HEAD-c9d5653-250623T130113-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeflow/arena/etjob",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/etjob?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c3c8249c077f0d27065d671f04320c7f769c09bca41e4db2e95fc644af89292",
+  "size": "86 MB",
+  "size_raw": "89696120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

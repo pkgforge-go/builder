@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tfjob",
+  "pkg_family": "arena",
+  "pkg_id": "tfjob#github.com_kubeflow_arena",
+  "pkg_name": "tfjob",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeflow/arena",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI for Kubeflow.",
+  "homepage": [
+    "https://github.com/kubeflow/arena"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arena",
+    "custom-serving",
+    "etjob",
+    "hack",
+    "job-monitor",
+    "mpijob",
+    "pytorchjob",
+    "tfjob",
+    "uninstall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeflow/arena/archive/c9d5653de3c0adad3a49f74dd423a89330989d19.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "docker",
+    "kubeflow",
+    "kubernetes",
+    "tensorflow"
+  ],
+  "version": "HEAD-c9d5653-250623T130113",
+  "version_upstream": "",
+  "bsum": "90dfa2d203c5580181c6563cfa2094cece5fe7d15cffdff03a63c7463d4b92dc",
+  "build_date": "2025-06-23T18:51:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830608213",
+  "build_id": "15830608213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/tfjob?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&download=tfjob.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "782",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/tfjob?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&download=tfjob",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeflow/arena/tfjob:HEAD-c9d5653-250623T130113-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeflow/arena/tfjob",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/tfjob?tag=HEAD-c9d5653-250623T130113-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7e1ea6a4d201cc41142fc3e6fa8492432acd49e57a8dc7b66489cc3c721a9765",
+  "size": "86 MB",
+  "size_raw": "89738648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
