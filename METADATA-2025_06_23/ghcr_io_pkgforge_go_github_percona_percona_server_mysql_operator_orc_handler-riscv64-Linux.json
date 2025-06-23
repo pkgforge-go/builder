@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "orc-handler",
+  "pkg_family": "percona-server-mysql-operator",
+  "pkg_id": "orc-handler#github.com_percona_percona_server_mysql_operator",
+  "pkg_name": "orc-handler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-server-mysql-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for MySQL",
+  "homepage": [
+    "https://github.com/percona/percona-server-mysql-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "healthcheck",
+    "manager",
+    "mysql-state-monitor",
+    "orc-handler",
+    "peer-list",
+    "sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-server-mysql-operator/archive/7b1bad5dd19ee907b5fe0bb8c41535a80bdb724c.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes",
+    "mysql"
+  ],
+  "version": "HEAD-7b1bad5-250622T185444",
+  "version_upstream": "",
+  "bsum": "712eb695fd4631b3f52b6162938fced272e451cf02f86b659bea1caed1e4d22b",
+  "build_date": "2025-06-23T08:58:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818548463",
+  "build_id": "15818548463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/orc-handler?tag=HEAD-7b1bad5-250622T185444-riscv64-Linux&download=orc-handler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "183",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/orc-handler?tag=HEAD-7b1bad5-250622T185444-riscv64-Linux&download=orc-handler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-server-mysql-operator/orc-handler:HEAD-7b1bad5-250622T185444-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-server-mysql-operator/orc-handler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/orc-handler?tag=HEAD-7b1bad5-250622T185444-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45f34a29212fabb3f7e27cc2792445000d4fa1630e59cd27d14ae1b39e9c190a",
+  "size": "40 MB",
+  "size_raw": "41735768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
