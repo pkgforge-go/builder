@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "integration-tests",
+  "pkg_family": "telescope",
+  "pkg_id": "integration-tests#github.com_blockopsnetwork_telescope",
+  "pkg_name": "integration-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/b120d1253b82395767418e5805d3bd22fa59406f.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-b120d12-250623T050932",
+  "version_upstream": "",
+  "bsum": "761184fdb7e6537015ef8a912be61006d843ac57a7a5988e8391ca421fad8c6c",
+  "build_date": "2025-06-23T16:38:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828961208",
+  "build_id": "15828961208",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/integration-tests?tag=HEAD-b120d12-250623T050932-x86_64-Linux&download=integration-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/integration-tests?tag=HEAD-b120d12-250623T050932-x86_64-Linux&download=integration-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/integration-tests:HEAD-b120d12-250623T050932-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/integration-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/integration-tests?tag=HEAD-b120d12-250623T050932-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ea2ae9bf161a5de2397ba003df46787df2930bd0d49b49ba16eaa029dc68f59a",
+  "size": "4.3 MB",
+  "size_raw": "4427512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

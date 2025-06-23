@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rivereval",
+  "pkg_family": "telescope",
+  "pkg_id": "rivereval#github.com_blockopsnetwork_telescope",
+  "pkg_name": "rivereval",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/b120d1253b82395767418e5805d3bd22fa59406f.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-b120d12-250623T050932",
+  "version_upstream": "",
+  "bsum": "5ac9d18c027b83b4881be04f236554af5694af3f3536831405a52adaaf4261d0",
+  "build_date": "2025-06-23T16:38:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828961208",
+  "build_id": "15828961208",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/rivereval?tag=HEAD-b120d12-250623T050932-x86_64-Linux&download=rivereval.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/rivereval?tag=HEAD-b120d12-250623T050932-x86_64-Linux&download=rivereval",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/rivereval:HEAD-b120d12-250623T050932-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/rivereval",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/rivereval?tag=HEAD-b120d12-250623T050932-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "775fdd14ce24326b682f4837371d66f2e275234642f05a2e92e870de52979b0a",
+  "size": "3.6 MB",
+  "size_raw": "3703480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
