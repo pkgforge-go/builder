@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pgroll",
+  "pkg_family": "pgroll",
+  "pkg_id": "pgroll#github.com_xataio_pgroll",
+  "pkg_name": "pgroll",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xataio/pgroll",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL zero-downtime migrations made easy",
+  "homepage": [
+    "https://github.com/xataio/pgroll"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgroll",
+    "pgroll-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xataio/pgroll/archive/b11758295d4921ef787b9d0a24824ea5681ceb15.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "migrations",
+    "postgres",
+    "postgresql",
+    "schema",
+    "zero-downtime"
+  ],
+  "version": "HEAD-b117582-250623T152607",
+  "version_upstream": "",
+  "bsum": "07370ed44ad1aa97f9696f122b79a8480ce608fb05f78558494778e87d98ae02",
+  "build_date": "2025-06-23T21:04:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833666952",
+  "build_id": "15833666952",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgroll/pgroll?tag=HEAD-b117582-250623T152607-riscv64-Linux&download=pgroll.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5058",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgroll/pgroll?tag=HEAD-b117582-250623T152607-riscv64-Linux&download=pgroll",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgroll/pgroll:HEAD-b117582-250623T152607-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgroll/pgroll",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgroll/pgroll?tag=HEAD-b117582-250623T152607-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5b0f0dfe738d7219b10dbbfbc91bfd6b810cb8cafd1cbe12cf7e5325ee026a8",
+  "size": "18 MB",
+  "size_raw": "17867104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
