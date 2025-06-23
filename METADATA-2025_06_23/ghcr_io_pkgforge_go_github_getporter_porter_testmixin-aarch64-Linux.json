@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testmixin",
+  "pkg_family": "porter",
+  "pkg_id": "testmixin#github.com_getporter_porter",
+  "pkg_name": "testmixin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getporter/porter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
+  "homepage": [
+    "https://github.com/getporter/porter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "exec",
+    "porter",
+    "testmixin",
+    "testplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getporter/porter/archive/8000b913b4c067e342ce733a02b87c2fff0c8f78.tar.gz"
+  ],
+  "tag": [
+    "cnab",
+    "cncf",
+    "hacktoberfest",
+    "porter"
+  ],
+  "version": "HEAD-8000b91-250622T212350",
+  "version_upstream": "canary",
+  "bsum": "12cb4d58ad4007cbc45d9d0d3b59a8324918af503bbc125e0dd8e6722680814d",
+  "build_date": "2025-06-23T13:52:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825121915",
+  "build_id": "15825121915",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testmixin?tag=HEAD-8000b91-250622T212350-aarch64-Linux&download=testmixin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1319",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testmixin?tag=HEAD-8000b91-250622T212350-aarch64-Linux&download=testmixin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getporter/porter/testmixin:HEAD-8000b91-250622T212350-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getporter/porter/testmixin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testmixin?tag=HEAD-8000b91-250622T212350-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8bf62594892e1a9421a7127c1e3ea664e7ff78e7e488b2f7acbe008966371457",
+  "size": "1.6 MB",
+  "size_raw": "1626104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8a0e0b3-250616T194727-aarch64-Linux[canary]"
+  ],
+  "trusted": "true"
+}
