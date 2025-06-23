@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "schedule-builder",
+  "pkg_family": "release",
+  "pkg_id": "schedule-builder#github.com_kubernetes_release",
+  "pkg_name": "schedule-builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/release",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Release infrastructure for Kubernetes and related components",
+  "homepage": [
+    "https://github.com/kubernetes/release"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci-reporter",
+    "schedule-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/release/archive/6990ddbf43688ce54225420a276c3c903966fbdb.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "release-infrastructure"
+  ],
+  "version": "HEAD-6990ddb-250622T180052",
+  "version_upstream": "",
+  "bsum": "a2a1364834b69f92b9c3f392d607d57bc8152d4fb59c5c407d223c416e5586ac",
+  "build_date": "2025-06-23T08:05:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818050092",
+  "build_id": "15818050092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/schedule-builder?tag=HEAD-6990ddb-250622T180052-loongarch64-Linux&download=schedule-builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/schedule-builder?tag=HEAD-6990ddb-250622T180052-loongarch64-Linux&download=schedule-builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/release/schedule-builder:HEAD-6990ddb-250622T180052-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/release/schedule-builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/schedule-builder?tag=HEAD-6990ddb-250622T180052-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3cf8436a23dc4b39fd3d56075742e78545501b4ead17690c1a10ea21b86eb0d9",
+  "size": "5.8 MB",
+  "size_raw": "6001976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
