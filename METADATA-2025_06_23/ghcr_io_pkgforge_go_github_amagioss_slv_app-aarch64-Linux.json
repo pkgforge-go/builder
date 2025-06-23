@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "app",
+  "pkg_family": "slv",
+  "pkg_id": "app#github.com_amagioss_slv",
+  "pkg_name": "app",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/amagioss/slv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Securely store, share, and access secrets alongside the codebase.",
+  "homepage": [
+    "https://github.com/amagioss/slv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "cmd",
+    "sharedlib"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/amagioss/slv/archive/acca08a8d1c41c2293dcba1e84b8983b5da713b6.tar.gz"
+  ],
+  "tag": [
+    "post-quantum-cryptography",
+    "secret-management",
+    "secret-manager",
+    "secrets",
+    "secrets-management",
+    "secrets-manager",
+    "secure-local-vault",
+    "slv"
+  ],
+  "version": "HEAD-acca08a-250623T160004",
+  "version_upstream": "v0",
+  "bsum": "e57b57fb11622ce696b9d7a7d7bf4421872f4ebd7cb08506f0ce5cd52da8a08f",
+  "build_date": "2025-06-23T16:11:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828908088",
+  "build_id": "15828908088",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amagioss/slv/app?tag=HEAD-acca08a-250623T160004-aarch64-Linux&download=app.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "37",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amagioss/slv/app?tag=HEAD-acca08a-250623T160004-aarch64-Linux&download=app",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/amagioss/slv/app:HEAD-acca08a-250623T160004-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/amagioss/slv/app",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amagioss/slv/app?tag=HEAD-acca08a-250623T160004-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b64e9a559326fdff18085e62a8e7f2d484c1d4717e60b2cb95fa7d03f1bec14",
+  "size": "68 MB",
+  "size_raw": "70971872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
