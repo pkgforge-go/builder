@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cleanup",
+  "pkg_family": "vm-dhcp-controller",
+  "pkg_id": "cleanup#github.com_harvester_vm_dhcp_controller",
+  "pkg_name": "cleanup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/vm-dhcp-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A managed DHCP service for virtual machines running on Harvester _fork of https://github.com/joeyloman/kubevirt-ip-helper_",
+  "homepage": [
+    "https://github.com/harvester/vm-dhcp-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "bindata",
+    "cleanup",
+    "codegen",
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/vm-dhcp-controller/archive/161bdefdc219172a7d3c80a05185a1c360087838.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-161bdef-250623T114823",
+  "version_upstream": "",
+  "bsum": "943b20f51eb8bca3cbd35ad5704e0a4f9f3a6237050537c9f0ac91c42d2e1d6f",
+  "build_date": "2025-06-23T07:52:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817558261",
+  "build_id": "15817558261",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/cleanup?tag=HEAD-161bdef-250623T114823-loongarch64-Linux&download=cleanup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/cleanup?tag=HEAD-161bdef-250623T114823-loongarch64-Linux&download=cleanup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/cleanup:HEAD-161bdef-250623T114823-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/cleanup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/cleanup?tag=HEAD-161bdef-250623T114823-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d43dab00143c98d843694fc606aa1ebb7533823684a835cb0e80bc6e89b5f60",
+  "size": "1.9 MB",
+  "size_raw": "1937464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

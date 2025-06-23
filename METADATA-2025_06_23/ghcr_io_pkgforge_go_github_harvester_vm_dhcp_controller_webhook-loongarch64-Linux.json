@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "vm-dhcp-controller",
+  "pkg_id": "webhook#github.com_harvester_vm_dhcp_controller",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/vm-dhcp-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A managed DHCP service for virtual machines running on Harvester _fork of https://github.com/joeyloman/kubevirt-ip-helper_",
+  "homepage": [
+    "https://github.com/harvester/vm-dhcp-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "bindata",
+    "cleanup",
+    "codegen",
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/vm-dhcp-controller/archive/161bdefdc219172a7d3c80a05185a1c360087838.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-161bdef-250623T114823",
+  "version_upstream": "",
+  "bsum": "9a55a0e6f2f1189976f5db8a230f052c4217489822f230e76e9c9f08ab781bb4",
+  "build_date": "2025-06-23T07:52:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817558261",
+  "build_id": "15817558261",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/webhook?tag=HEAD-161bdef-250623T114823-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/webhook?tag=HEAD-161bdef-250623T114823-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/webhook:HEAD-161bdef-250623T114823-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/webhook?tag=HEAD-161bdef-250623T114823-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "00927560fd96fa4b14c252b4c2e168bea41e42ec6695814e5352a894ae201533",
+  "size": "51 MB",
+  "size_raw": "52867296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
