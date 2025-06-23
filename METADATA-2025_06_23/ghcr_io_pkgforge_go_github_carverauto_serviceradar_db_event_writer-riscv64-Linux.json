@@ -44,7 +44,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/carverauto/serviceradar/archive/ccee17821c6d6918f774adde98fdfdb135899249.tar.gz"
+    "https://github.com/carverauto/serviceradar/archive/a10bc18a568427764785c200edb44bb86d4dd27d.tar.gz"
   ],
   "tag": [
     "distributed",
@@ -56,28 +56,30 @@
     "network-scanning",
     "ubiquiti"
   ],
-  "version": "HEAD-ccee178-250622T224418",
-  "version_upstream": "",
-  "bsum": "1379f249a49eace915f4d5ea4d969eedd31c8451d4b7732b227475847482ae12",
-  "build_date": "2025-06-23T13:37:37Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071484",
-  "build_id": "15825071484",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/db-event-writer?tag=HEAD-ccee178-250622T224418-riscv64-Linux&download=db-event-writer.log",
+  "version": "HEAD-a10bc18-250623T085417",
+  "version_upstream": "1.0.44-pre10",
+  "bsum": "b1192b05fb46d5fe44cb90bc92d0968886772881d933e98d88641b7c2526cb06",
+  "build_date": "2025-06-23T22:14:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835782985",
+  "build_id": "15835782985",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/db-event-writer?tag=HEAD-a10bc18-250623T085417-riscv64-Linux&download=db-event-writer.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "186",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/db-event-writer?tag=HEAD-ccee178-250622T224418-riscv64-Linux&download=db-event-writer",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/db-event-writer?tag=HEAD-a10bc18-250623T085417-riscv64-Linux&download=db-event-writer",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/db-event-writer:HEAD-ccee178-250622T224418-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/db-event-writer:HEAD-a10bc18-250623T085417-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/db-event-writer",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/db-event-writer?tag=HEAD-ccee178-250622T224418-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/db-event-writer?tag=HEAD-a10bc18-250623T085417-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "8afbb0b57c2b0036125e379be38a36d27de50dce99caf919f4863c44db562017",
+  "shasum": "8b657ae223f7c9ce565891a5eacb30848049f6e2a595ad40f6773e79e1df67fe",
   "size": "16 MB",
   "size_raw": "16535032",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "HEAD-ccee178-250622T224418-riscv64-Linux"
+  ],
   "trusted": "true"
 }
