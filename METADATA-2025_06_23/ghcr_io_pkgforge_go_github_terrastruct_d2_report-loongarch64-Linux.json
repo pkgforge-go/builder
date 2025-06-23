@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "report",
+  "pkg_family": "d2",
+  "pkg_id": "report#github.com_terrastruct_d2",
+  "pkg_name": "report",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terrastruct/d2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+  "homepage": [
+    "https://github.com/terrastruct/d2"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "1-d2lib",
+    "2-d2oracle",
+    "3-lowlevel",
+    "d2",
+    "d2plugin-dagre",
+    "report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terrastruct/d2/archive/be13d108db82c08f39c606ebbfe2dd4fe1b75d89.tar.gz"
+  ],
+  "tag": [
+    "developer-tools",
+    "diagramming",
+    "diagrams",
+    "go",
+    "golang",
+    "software-architecture",
+    "text-to-diagram"
+  ],
+  "version": "HEAD-be13d10-250622T221139",
+  "version_upstream": "",
+  "bsum": "5d53200292ceac546534d8a755f034f938c89a4acd39be4ca3e6234ce9827332",
+  "build_date": "2025-06-23T14:47:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825299035",
+  "build_id": "15825299035",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/report?tag=HEAD-be13d10-250622T221139-loongarch64-Linux&download=report.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20769",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/report?tag=HEAD-be13d10-250622T221139-loongarch64-Linux&download=report",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terrastruct/d2/report:HEAD-be13d10-250622T221139-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terrastruct/d2/report",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/report?tag=HEAD-be13d10-250622T221139-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb6eb9505506f007bad5ac214d16f1cfef2fd1b02dcbb3a35349b25590650ac5",
+  "size": "3.7 MB",
+  "size_raw": "3832984",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1274029-250622T063533-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
