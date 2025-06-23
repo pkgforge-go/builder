@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mtchannel_broker",
+  "pkg_family": "eventing",
+  "pkg_id": "mtchannel_broker#github.com_knative_eventing",
+  "pkg_name": "mtchannel_broker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/eventing",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Event-driven application platform for Kubernetes",
+  "homepage": [
+    "https://github.com/knative/eventing"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver_receive_adapter",
+    "appender",
+    "channel_controller",
+    "channel_dispatcher",
+    "controller",
+    "event-sender",
+    "event_display",
+    "filter",
+    "heartbeats",
+    "heartbeats_receiver",
+    "ingress",
+    "jobsink",
+    "mqttsource",
+    "mtchannel_broker",
+    "mtping",
+    "pong",
+    "print",
+    "recordevents",
+    "request-sender",
+    "schema",
+    "version_check",
+    "wathola-fetcher",
+    "wathola-forwarder",
+    "wathola-receiver",
+    "wathola-sender",
+    "webhook",
+    "websocketsource"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/eventing/archive/e25bccd256ff907aefa25b081a15bf4444c1646b.tar.gz"
+  ],
+  "tag": [
+    "binding",
+    "cloudevents",
+    "developer-productivity",
+    "event-driven",
+    "eventing",
+    "events",
+    "knative",
+    "kubernetes"
+  ],
+  "version": "HEAD-e25bccd-250623T130404",
+  "version_upstream": "",
+  "bsum": "e973aa6891a7cbcdd7cd25f3251e288a2c3c87a75a5645bc6ad0439aee7f22a7",
+  "build_date": "2025-06-23T18:53:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830579011",
+  "build_id": "15830579011",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/eventing/mtchannel_broker?tag=HEAD-e25bccd-250623T130404-riscv64-Linux&download=mtchannel_broker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1469",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/eventing/mtchannel_broker?tag=HEAD-e25bccd-250623T130404-riscv64-Linux&download=mtchannel_broker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/eventing/mtchannel_broker:HEAD-e25bccd-250623T130404-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/eventing/mtchannel_broker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/eventing/mtchannel_broker?tag=HEAD-e25bccd-250623T130404-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9b377ceb4865a5631d3495c81c75986b02d42fcba416d1b1c11d4e31f5868d9",
+  "size": "60 MB",
+  "size_raw": "62397208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
