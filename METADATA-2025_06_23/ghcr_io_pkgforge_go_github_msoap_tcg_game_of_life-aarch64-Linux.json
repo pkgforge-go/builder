@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "game_of_life",
+  "pkg_family": "tcg",
+  "pkg_id": "game_of_life#github.com_msoap_tcg",
+  "pkg_name": "game_of_life",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/msoap/tcg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal cell graphics library",
+  "homepage": [
+    "https://github.com/msoap/tcg"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fractal-demo",
+    "game_of_life",
+    "manual_snake",
+    "pbm_view",
+    "random_pixels"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/msoap/tcg/archive/4f8967876f0dc0efcf383ef21d9dc00ad4142a77.tar.gz"
+  ],
+  "tag": [
+    "1bit",
+    "ascii-art",
+    "game",
+    "golang",
+    "golang-library",
+    "graphics",
+    "pixel-art",
+    "terminal",
+    "terminal-graphics"
+  ],
+  "version": "HEAD-4f89678-250623T001608",
+  "version_upstream": "",
+  "bsum": "0c7c05ea360fa58a3bba260b90a6617f3b89a46997fa931e8754f7d92684d438",
+  "build_date": "2025-06-23T08:36:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818385613",
+  "build_id": "15818385613",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/game_of_life?tag=HEAD-4f89678-250623T001608-aarch64-Linux&download=game_of_life.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/game_of_life?tag=HEAD-4f89678-250623T001608-aarch64-Linux&download=game_of_life",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/msoap/tcg/game_of_life:HEAD-4f89678-250623T001608-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/msoap/tcg/game_of_life",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/game_of_life?tag=HEAD-4f89678-250623T001608-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1a251a3a5df2feceeb4525fe6a3d1b6c04e7915633be4368b4e1dee10505bd3",
+  "size": "3.1 MB",
+  "size_raw": "3202808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
