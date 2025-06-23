@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cl-operator",
+  "pkg_family": "clusterlink",
+  "pkg_id": "cl-operator#github.com_clusterlink_net_clusterlink",
+  "pkg_name": "cl-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clusterlink-net/clusterlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Gateway for connecting application services in different domains, networks, and cloud infrastructures",
+  "homepage": [
+    "https://github.com/clusterlink-net/clusterlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cl-controlplane",
+    "cl-dataplane",
+    "cl-go-dataplane",
+    "cl-operator",
+    "clusterlink"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clusterlink-net/clusterlink/archive/4f91646aff92429c28b00f62504866cd4efc0424.tar.gz"
+  ],
+  "tag": [
+    "gateway",
+    "multicluster",
+    "networking"
+  ],
+  "version": "HEAD-4f91646-250623T151927",
+  "version_upstream": "",
+  "bsum": "f195a40555e40fa1b2e2e2253aa86dbaeadc19eb14466515b767e21a804aaddf",
+  "build_date": "2025-06-23T16:44:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829047255",
+  "build_id": "15829047255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-operator?tag=HEAD-4f91646-250623T151927-x86_64-Linux&download=cl-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-operator?tag=HEAD-4f91646-250623T151927-x86_64-Linux&download=cl-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clusterlink-net/clusterlink/cl-operator:HEAD-4f91646-250623T151927-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clusterlink-net/clusterlink/cl-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-operator?tag=HEAD-4f91646-250623T151927-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb20673bb01fde9cd405ca846205952fcda5a208a0dab16fc74cbbb45ac45408",
+  "size": "52 MB",
+  "size_raw": "54330272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
