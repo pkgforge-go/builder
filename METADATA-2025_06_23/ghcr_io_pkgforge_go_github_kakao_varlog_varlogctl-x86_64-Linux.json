@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "varlogctl",
+  "pkg_family": "varlog",
+  "pkg_id": "varlogctl#github.com_kakao_varlog",
+  "pkg_name": "varlogctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakao/varlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable distributed log storage for strong consistency, total order, and high availability",
+  "homepage": [
+    "https://github.com/kakao/varlog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "mrtool",
+    "varlogadm",
+    "varlogcli",
+    "varlogctl",
+    "varlogmr",
+    "varlogsn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kakao/varlog/archive/ad3516878828fc548e10b0ec27358b4b33942502.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ad35168-250622T224054",
+  "version_upstream": "v0.28.1",
+  "bsum": "6cd4809f97a6635d57493a6d4932c2a35b4ac5c3532884bfba2398a7c35e1c07",
+  "build_date": "2025-06-23T04:03:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813779703",
+  "build_id": "15813779703",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/varlogctl?tag=HEAD-ad35168-250622T224054-x86_64-Linux&download=varlogctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/varlogctl?tag=HEAD-ad35168-250622T224054-x86_64-Linux&download=varlogctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakao/varlog/varlogctl:HEAD-ad35168-250622T224054-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakao/varlog/varlogctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/varlogctl?tag=HEAD-ad35168-250622T224054-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "07bce8b15903bf1d40fecc793ab9fbae3df8f53ca7100c2ee7784dfd20751803",
+  "size": "25 MB",
+  "size_raw": "25331184",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6f3bfef-250620T123113-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
