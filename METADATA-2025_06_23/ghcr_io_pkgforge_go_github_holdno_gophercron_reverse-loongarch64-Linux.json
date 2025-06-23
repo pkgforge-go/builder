@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "reverse",
+  "pkg_family": "gopherCron",
+  "pkg_id": "reverse#github.com_holdno_gopherCron",
+  "pkg_name": "reverse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/holdno/gopherCron",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "golang 开箱即用的秒级分布式定时任务系统",
+  "homepage": [
+    "https://github.com/holdno/gopherCron"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gophercron-cmd",
+    "reverse",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/holdno/gopherCron/archive/9705b9aef15f445e539fbd08bdf1d71780dd7a26.tar.gz"
+  ],
+  "tag": [
+    "crontab",
+    "golang"
+  ],
+  "version": "HEAD-9705b9a-250622T231446",
+  "version_upstream": "",
+  "bsum": "04448243373bc00dd81150a63f1b4cbbb3eeca171e7d1d920c50fdf0276b9acb",
+  "build_date": "2025-06-23T07:56:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817600065",
+  "build_id": "15817600065",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/holdno/gophercron/reverse?tag=HEAD-9705b9a-250622T231446-loongarch64-Linux&download=reverse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "572",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/holdno/gophercron/reverse?tag=HEAD-9705b9a-250622T231446-loongarch64-Linux&download=reverse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/holdno/gophercron/reverse:HEAD-9705b9a-250622T231446-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/holdno/gophercron/reverse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/holdno/gophercron/reverse?tag=HEAD-9705b9a-250622T231446-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d859b99114b64cb31d5b9ef57ffb1c35ea108dc6cdaf84c3403e0082351b3081",
+  "size": "11 MB",
+  "size_raw": "10938432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
