@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dockerhub_exporter",
+  "pkg_family": "dockerhub_exporter",
+  "pkg_id": "dockerhub_exporter#github.com_promhippie_dockerhub_exporter",
+  "pkg_name": "dockerhub_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/promhippie/dockerhub_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for DockerHub",
+  "homepage": [
+    "https://github.com/promhippie/dockerhub_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dockerhub_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/promhippie/dockerhub_exporter/archive/59e508461da94f96fc3c9e7ba9fa85bb0428b4e4.tar.gz"
+  ],
+  "tag": [
+    "dockerhub",
+    "metrics",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-59e5084-250623T082136",
+  "version_upstream": "",
+  "bsum": "4f9ee487b1478c77d58f399e058cfcf5e70996c0162e179ab7fe014f120fcc56",
+  "build_date": "2025-06-23T19:49:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833023184",
+  "build_id": "15833023184",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dockerhub/exporter/dockerhub_exporter?tag=HEAD-59e5084-250623T082136-riscv64-Linux&download=dockerhub_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dockerhub/exporter/dockerhub_exporter?tag=HEAD-59e5084-250623T082136-riscv64-Linux&download=dockerhub_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dockerhub/exporter/dockerhub_exporter:HEAD-59e5084-250623T082136-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dockerhub/exporter/dockerhub_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dockerhub/exporter/dockerhub_exporter?tag=HEAD-59e5084-250623T082136-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97512af4c950a8fcf51a4ebb068c1c8135bea91a4168516043185b18e8c93a1e",
+  "size": "13 MB",
+  "size_raw": "13581912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
