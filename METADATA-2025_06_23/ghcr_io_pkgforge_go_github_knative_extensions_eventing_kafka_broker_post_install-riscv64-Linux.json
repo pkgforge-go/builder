@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "post-install",
+  "pkg_family": "eventing-kafka-broker",
+  "pkg_id": "post-install#github.com_knative_extensions_eventing_kafka_broker",
+  "pkg_name": "post-install",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/eventing-kafka-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Alternate Kafka Broker implementation.",
+  "homepage": [
+    "https://github.com/knative-extensions/eventing-kafka-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "committed-offset",
+    "consumer-group-lag-provider-test",
+    "kafka-consumer",
+    "kafka-controller",
+    "kafka-source-controller",
+    "logs-exporter",
+    "post-install",
+    "watch-cm",
+    "webhook-kafka"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-kafka-broker/archive/c02d467becd65b92ad463dfaf3bd5ff7fb4170b3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c02d467-250623T135503",
+  "version_upstream": "",
+  "bsum": "4d8368b7aebca7c7665ae86570d609754e654f2125ec668d0e99177e1d09420e",
+  "build_date": "2025-06-23T18:38:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830578754",
+  "build_id": "15830578754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/post-install?tag=HEAD-c02d467-250623T135503-riscv64-Linux&download=post-install.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "196",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/post-install?tag=HEAD-c02d467-250623T135503-riscv64-Linux&download=post-install",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/post-install:HEAD-c02d467-250623T135503-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/post-install",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/post-install?tag=HEAD-c02d467-250623T135503-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90a6ff26cfc623ba4ee7614c60978b9317648a29329913fe5ff1dd958fcce171",
+  "size": "1.1 MB",
+  "size_raw": "1061424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

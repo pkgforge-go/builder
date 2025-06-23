@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "consumer-group-lag-provider-test",
+  "pkg_family": "eventing-kafka-broker",
+  "pkg_id": "consumer-group-lag-provider-test#github.com_knative_extensions_eventing_kafka_broker",
+  "pkg_name": "consumer-group-lag-provider-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/eventing-kafka-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Alternate Kafka Broker implementation.",
+  "homepage": [
+    "https://github.com/knative-extensions/eventing-kafka-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "committed-offset",
+    "consumer-group-lag-provider-test",
+    "kafka-consumer",
+    "kafka-controller",
+    "kafka-source-controller",
+    "logs-exporter",
+    "post-install",
+    "watch-cm",
+    "webhook-kafka"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-kafka-broker/archive/c02d467becd65b92ad463dfaf3bd5ff7fb4170b3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c02d467-250623T135503",
+  "version_upstream": "",
+  "bsum": "a158664eddfe6be625d301c2d58ad6855076b4f281e911ba5473cea556f84903",
+  "build_date": "2025-06-23T18:37:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830578754",
+  "build_id": "15830578754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/consumer-group-lag-provider-test?tag=HEAD-c02d467-250623T135503-riscv64-Linux&download=consumer-group-lag-provider-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "196",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/consumer-group-lag-provider-test?tag=HEAD-c02d467-250623T135503-riscv64-Linux&download=consumer-group-lag-provider-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/consumer-group-lag-provider-test:HEAD-c02d467-250623T135503-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/consumer-group-lag-provider-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/consumer-group-lag-provider-test?tag=HEAD-c02d467-250623T135503-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49b8bd65946e1130b9789da9c705bfcc62bc5603cdd2e9d7e7e44e383ff364e6",
+  "size": "60 MB",
+  "size_raw": "62460536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
