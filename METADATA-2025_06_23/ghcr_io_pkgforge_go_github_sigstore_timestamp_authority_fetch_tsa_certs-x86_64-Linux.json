@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fetch-tsa-certs",
+  "pkg_family": "timestamp-authority",
+  "pkg_id": "fetch-tsa-certs#github.com_sigstore_timestamp_authority",
+  "pkg_name": "fetch-tsa-certs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/timestamp-authority",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RFC3161 Timestamp Authority",
+  "homepage": [
+    "https://github.com/sigstore/timestamp-authority"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fetch-tsa-certs",
+    "timestamp-cli",
+    "timestamp-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/timestamp-authority/archive/bb9d07d236d17ac1be03ac3c90e4f2ff8ff490d3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bb9d07d-250623T150711",
+  "version_upstream": "",
+  "bsum": "022e49518f66fb21ac965cd6efcdf9105f5ca2202d60ab2e1cc8b1ac5e3079a9",
+  "build_date": "2025-06-23T20:15:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833365665",
+  "build_id": "15833365665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/fetch-tsa-certs?tag=HEAD-bb9d07d-250623T150711-x86_64-Linux&download=fetch-tsa-certs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "92",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/fetch-tsa-certs?tag=HEAD-bb9d07d-250623T150711-x86_64-Linux&download=fetch-tsa-certs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/timestamp-authority/fetch-tsa-certs:HEAD-bb9d07d-250623T150711-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/timestamp-authority/fetch-tsa-certs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/fetch-tsa-certs?tag=HEAD-bb9d07d-250623T150711-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81c8c54da5c2024d1bba0221171d51b30915c52b36dc2ab3162bf5e75daa3a5d",
+  "size": "34 MB",
+  "size_raw": "35481568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "timestamp-cli",
+  "pkg_family": "timestamp-authority",
+  "pkg_id": "timestamp-cli#github.com_sigstore_timestamp_authority",
+  "pkg_name": "timestamp-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/timestamp-authority",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RFC3161 Timestamp Authority",
+  "homepage": [
+    "https://github.com/sigstore/timestamp-authority"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fetch-tsa-certs",
+    "timestamp-cli",
+    "timestamp-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/timestamp-authority/archive/bb9d07d236d17ac1be03ac3c90e4f2ff8ff490d3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bb9d07d-250623T150711",
+  "version_upstream": "",
+  "bsum": "ec80ac1afe4dde6b8059314974a415053a910eefa9f364dfe72449ac8f292d0b",
+  "build_date": "2025-06-23T20:15:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833365665",
+  "build_id": "15833365665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/timestamp-cli?tag=HEAD-bb9d07d-250623T150711-x86_64-Linux&download=timestamp-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "92",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/timestamp-cli?tag=HEAD-bb9d07d-250623T150711-x86_64-Linux&download=timestamp-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/timestamp-authority/timestamp-cli:HEAD-bb9d07d-250623T150711-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/timestamp-authority/timestamp-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/timestamp-cli?tag=HEAD-bb9d07d-250623T150711-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ac792a7ab880557a403c8372b8179853cb986afb8159519a644b927400434375",
+  "size": "15 MB",
+  "size_raw": "14814816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
