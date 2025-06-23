@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "translations",
+  "pkg_family": "AdGuardHome",
+  "pkg_id": "translations#github.com_AdguardTeam_AdGuardHome",
+  "pkg_name": "translations",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AdguardTeam/AdGuardHome",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network-wide ads _ trackers blocking DNS server",
+  "homepage": [
+    "https://github.com/AdguardTeam/AdGuardHome"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adguardhome",
+    "blocked-services",
+    "translations",
+    "vetted-filters"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AdguardTeam/AdGuardHome/archive/b05d0fdb9387e39a714dad7c2ddbc0e29d5cf8a9.tar.gz"
+  ],
+  "tag": [
+    "adblock",
+    "adguard",
+    "dns",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "dnscrypt",
+    "golang",
+    "open-source",
+    "privacy"
+  ],
+  "version": "HEAD-b05d0fd-250623T105239",
+  "version_upstream": "",
+  "bsum": "6056c453333b7c6b7bdf4389b7600b05218b2f6fc706c96756c911533c08abf3",
+  "build_date": "2025-06-23T21:50:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835777121",
+  "build_id": "15835777121",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/translations?tag=HEAD-b05d0fd-250623T105239-aarch64-Linux&download=translations.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28863",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/translations?tag=HEAD-b05d0fd-250623T105239-aarch64-Linux&download=translations",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adguardteam/adguardhome/translations:HEAD-b05d0fd-250623T105239-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adguardteam/adguardhome/translations",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/translations?tag=HEAD-b05d0fd-250623T105239-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e59873917acb1883eff3234c508b06edb6016050a2dc74258e18e3a7742efc6e",
+  "size": "6.2 MB",
+  "size_raw": "6440512",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16fda88-250610T165845-aarch64-Linux[v0.108.0-b.71]"
+  ],
+  "trusted": "true"
+}
