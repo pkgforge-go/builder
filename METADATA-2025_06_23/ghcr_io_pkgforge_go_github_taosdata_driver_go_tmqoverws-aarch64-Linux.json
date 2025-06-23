@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tmqoverws",
+  "pkg_family": "driver-go",
+  "pkg_id": "tmqoverws#github.com_taosdata_driver_go",
+  "pkg_name": "tmqoverws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/taosdata/driver-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "taos go driver",
+  "homepage": [
+    "https://github.com/taosdata/driver-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exec",
+    "platform",
+    "query",
+    "restful",
+    "stmtoverws",
+    "taosws",
+    "tmqoverws",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/taosdata/driver-go/archive/64813bd0c6fb2c70636376b4342e4f749c30aaa2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-64813bd-250623T164008",
+  "version_upstream": "",
+  "bsum": "3aa2eb6fa6332fd06407edcd55dc5d9495de67d265491647e51dd280e033cda0",
+  "build_date": "2025-06-23T20:45:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833478349",
+  "build_id": "15833478349",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taosdata/driver-go/tmqoverws?tag=HEAD-64813bd-250623T164008-aarch64-Linux&download=tmqoverws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taosdata/driver-go/tmqoverws?tag=HEAD-64813bd-250623T164008-aarch64-Linux&download=tmqoverws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/taosdata/driver-go/tmqoverws:HEAD-64813bd-250623T164008-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/taosdata/driver-go/tmqoverws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taosdata/driver-go/tmqoverws?tag=HEAD-64813bd-250623T164008-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4694b94a1e8db0d7aa34ed22becc050779c1711dcff87630571d3d696745ad4c",
+  "size": "7.2 MB",
+  "size_raw": "7475840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
