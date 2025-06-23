@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "recvtty",
+  "pkg_family": "runc",
+  "pkg_id": "recvtty#github.com_opencontainers_runc",
+  "pkg_name": "recvtty",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/opencontainers/runc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for spawning and running containers according to the OCI specification",
+  "homepage": [
+    "https://github.com/opencontainers/runc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fs-idmap",
+    "key_label",
+    "memfd-bind",
+    "pidfd-kill",
+    "recvtty",
+    "remap-rootfs",
+    "runc",
+    "sd-helper",
+    "seccompagent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/opencontainers/runc/archive/b1722d790214952e8a20d4ddd6a83451b9b665a1.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "oci"
+  ],
+  "version": "HEAD-b1722d7-250620T113046",
+  "version_upstream": "",
+  "bsum": "bf4155d46d1db09340cf5c56d849c902cc07416ded6143a89fed09d731ebb228",
+  "build_date": "2025-06-23T05:53:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815572334",
+  "build_id": "15815572334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/recvtty?tag=HEAD-b1722d7-250620T113046-loongarch64-Linux&download=recvtty.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12460",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/recvtty?tag=HEAD-b1722d7-250620T113046-loongarch64-Linux&download=recvtty",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opencontainers/runc/recvtty:HEAD-b1722d7-250620T113046-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opencontainers/runc/recvtty",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/recvtty?tag=HEAD-b1722d7-250620T113046-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23e46c60510dd2bf33964bd87b3b60f8df6265cce3b7762134aa5e2e730b332c",
+  "size": "4.9 MB",
+  "size_raw": "5071016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-94dc2be-250620T165921-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

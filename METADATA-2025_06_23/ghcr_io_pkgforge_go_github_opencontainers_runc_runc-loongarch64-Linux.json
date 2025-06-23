@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "runc",
+  "pkg_family": "runc",
+  "pkg_id": "runc#github.com_opencontainers_runc",
+  "pkg_name": "runc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/opencontainers/runc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for spawning and running containers according to the OCI specification",
+  "homepage": [
+    "https://github.com/opencontainers/runc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fs-idmap",
+    "key_label",
+    "memfd-bind",
+    "pidfd-kill",
+    "recvtty",
+    "remap-rootfs",
+    "runc",
+    "sd-helper",
+    "seccompagent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/opencontainers/runc/archive/b1722d790214952e8a20d4ddd6a83451b9b665a1.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "oci"
+  ],
+  "version": "HEAD-b1722d7-250620T113046",
+  "version_upstream": "",
+  "bsum": "4232b1dca55de634a360ca58bd0040dbee8f94be0160132b7109e0299cab157f",
+  "build_date": "2025-06-23T05:54:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815572334",
+  "build_id": "15815572334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/runc?tag=HEAD-b1722d7-250620T113046-loongarch64-Linux&download=runc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12460",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/runc?tag=HEAD-b1722d7-250620T113046-loongarch64-Linux&download=runc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opencontainers/runc/runc:HEAD-b1722d7-250620T113046-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opencontainers/runc/runc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/runc?tag=HEAD-b1722d7-250620T113046-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4cafbb131385919083e3c9ac823ac8307ef217a8852404624fd772a498c90ef0",
+  "size": "12 MB",
+  "size_raw": "12061744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-94dc2be-250620T165921-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
