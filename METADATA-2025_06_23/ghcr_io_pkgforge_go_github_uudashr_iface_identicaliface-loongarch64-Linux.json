@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "identicaliface",
+  "pkg_family": "iface",
+  "pkg_id": "identicaliface#github.com_uudashr_iface",
+  "pkg_name": "identicaliface",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uudashr/iface",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linter to identify the incorrect use of interfaces in Go code AKA _Interface Pollution_",
+  "homepage": [
+    "https://github.com/uudashr/iface"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "identicaliface",
+    "ifacecheck",
+    "opaqueiface",
+    "unexportediface",
+    "unusediface"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uudashr/iface/archive/408e0dd715228e07b53ac9e3930f859fb6e6308d.tar.gz"
+  ],
+  "tag": [
+    "anti-pattern",
+    "golang",
+    "linter"
+  ],
+  "version": "HEAD-408e0dd-250622T225441",
+  "version_upstream": "",
+  "bsum": "e517dd9c24ad942b7f1b6d60987c793cc278b53a6a4c550913da26bd4791b72b",
+  "build_date": "2025-06-23T09:38:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819719848",
+  "build_id": "15819719848",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/identicaliface?tag=HEAD-408e0dd-250622T225441-loongarch64-Linux&download=identicaliface.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/identicaliface?tag=HEAD-408e0dd-250622T225441-loongarch64-Linux&download=identicaliface",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uudashr/iface/identicaliface:HEAD-408e0dd-250622T225441-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uudashr/iface/identicaliface",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/identicaliface?tag=HEAD-408e0dd-250622T225441-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6a8e0f6ef3f4e55946fc5d5c72a6bb298853759e3d15109c8d7d14cfdf0e679",
+  "size": "6.6 MB",
+  "size_raw": "6857280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

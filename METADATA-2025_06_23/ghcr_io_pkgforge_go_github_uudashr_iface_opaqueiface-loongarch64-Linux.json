@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "opaqueiface",
+  "pkg_family": "iface",
+  "pkg_id": "opaqueiface#github.com_uudashr_iface",
+  "pkg_name": "opaqueiface",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uudashr/iface",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linter to identify the incorrect use of interfaces in Go code AKA _Interface Pollution_",
+  "homepage": [
+    "https://github.com/uudashr/iface"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "identicaliface",
+    "ifacecheck",
+    "opaqueiface",
+    "unexportediface",
+    "unusediface"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uudashr/iface/archive/408e0dd715228e07b53ac9e3930f859fb6e6308d.tar.gz"
+  ],
+  "tag": [
+    "anti-pattern",
+    "golang",
+    "linter"
+  ],
+  "version": "HEAD-408e0dd-250622T225441",
+  "version_upstream": "",
+  "bsum": "4c768541eb039f5124fdc8397fd1be6eefb791f1cee982d28723fa1f4c9e702d",
+  "build_date": "2025-06-23T09:39:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819719848",
+  "build_id": "15819719848",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/opaqueiface?tag=HEAD-408e0dd-250622T225441-loongarch64-Linux&download=opaqueiface.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/opaqueiface?tag=HEAD-408e0dd-250622T225441-loongarch64-Linux&download=opaqueiface",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uudashr/iface/opaqueiface:HEAD-408e0dd-250622T225441-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uudashr/iface/opaqueiface",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/opaqueiface?tag=HEAD-408e0dd-250622T225441-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b457ebc6063b874501ea3575d8b14b376e46655a0d4dbc5af72ebe4ebb50cb8",
+  "size": "6.6 MB",
+  "size_raw": "6864928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
