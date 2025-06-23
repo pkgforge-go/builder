@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "convert",
+  "pkg_family": "blocklist",
+  "pkg_id": "convert#github.com_missdeer_blocklist",
+  "pkg_name": "convert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/missdeer/blocklist",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A big domain block list - 200000+ lines",
+  "homepage": [
+    "https://github.com/missdeer/blocklist"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blocklist",
+    "convert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/missdeer/blocklist/archive/346c54c23c68615eeb540a92a0b30678a0a3c925.tar.gz"
+  ],
+  "tag": [
+    "blacklist",
+    "domain-name"
+  ],
+  "version": "HEAD-346c54c-250622T043834",
+  "version_upstream": "",
+  "bsum": "dc166fec389ef7561f6df30d51426453dfa06a5ad6b4d6048f9147992fe18f7b",
+  "build_date": "2025-06-23T04:09:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813789045",
+  "build_id": "15813789045",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/convert?tag=HEAD-346c54c-250622T043834-x86_64-Linux&download=convert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/convert?tag=HEAD-346c54c-250622T043834-x86_64-Linux&download=convert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/missdeer/blocklist/convert:HEAD-346c54c-250622T043834-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/missdeer/blocklist/convert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/convert?tag=HEAD-346c54c-250622T043834-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ba23aa4e95db9d2f0946e33a3e047ee780c9a864da1c8ec464730af7c74ce1a",
+  "size": "6.3 MB",
+  "size_raw": "6585984",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-99f92da-250621T043357-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
