@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate-config",
+  "pkg_family": "incus",
+  "pkg_id": "generate-config#github.com_lxc_incus",
+  "pkg_name": "generate-config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lxc/incus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/lxc/incus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev_incus-client",
+    "generate-config",
+    "generate-database",
+    "incus",
+    "incus-benchmark",
+    "incus-migrate",
+    "incus-simplestreams",
+    "lxd-to-incus",
+    "mini-oidc",
+    "sysinfo",
+    "tls2jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lxc/incus/archive/f5f24e33946e8a89759d69531991a2163a09ee9f.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "containers",
+    "hacktoberfest",
+    "virtual-machines"
+  ],
+  "version": "HEAD-f5f24e3-250622T192220",
+  "version_upstream": "",
+  "bsum": "77802969a4b4a4cbfbfeba90c76c602e85dd1f5f94edfb56123db35a02386efc",
+  "build_date": "2025-06-23T14:25:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825239020",
+  "build_id": "15825239020",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/generate-config?tag=HEAD-f5f24e3-250622T192220-x86_64-Linux&download=generate-config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3660",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/generate-config?tag=HEAD-f5f24e3-250622T192220-x86_64-Linux&download=generate-config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxc/incus/generate-config:HEAD-f5f24e3-250622T192220-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxc/incus/generate-config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/generate-config?tag=HEAD-f5f24e3-250622T192220-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b46083b17de723144266e49b9604065b5d8898e4d82a677ae7324d64dfc8549",
+  "size": "3.3 MB",
+  "size_raw": "3456408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-28452f9-250621T051047-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
