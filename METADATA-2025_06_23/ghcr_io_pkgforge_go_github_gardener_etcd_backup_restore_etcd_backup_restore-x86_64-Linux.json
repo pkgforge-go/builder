@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "etcd-backup-restore",
+  "pkg_family": "etcd-backup-restore",
+  "pkg_id": "etcd-backup-restore#github.com_gardener_etcd_backup_restore",
+  "pkg_name": "etcd-backup-restore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/etcd-backup-restore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of components to backup and restore the etcd of a Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/gardener/etcd-backup-restore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "etcd-backup-restore"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/etcd-backup-restore/archive/462d9bc867a18b22a4a8b8f17f3ca7400713e071.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "backup",
+    "backup-restore",
+    "etcd",
+    "etcd-backup-restore",
+    "gcp",
+    "kubernetes",
+    "openstack-swift",
+    "restore"
+  ],
+  "version": "HEAD-462d9bc-250623T191058",
+  "version_upstream": "",
+  "bsum": "5339d8310be3d6990116db8ffec84afec8fc96cc8c8df72738ffaab5aab78152",
+  "build_date": "2025-06-23T17:29:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829761745",
+  "build_id": "15829761745",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/etcd-backup-restore/etcd-backup-restore?tag=HEAD-462d9bc-250623T191058-x86_64-Linux&download=etcd-backup-restore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "305",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/etcd-backup-restore/etcd-backup-restore?tag=HEAD-462d9bc-250623T191058-x86_64-Linux&download=etcd-backup-restore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/etcd-backup-restore/etcd-backup-restore:HEAD-462d9bc-250623T191058-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/etcd-backup-restore/etcd-backup-restore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/etcd-backup-restore/etcd-backup-restore?tag=HEAD-462d9bc-250623T191058-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "50e73befe876131977d4b9371f2c2bcc02e5187c99da991cd8aea22a0cd74e19",
+  "size": "80 MB",
+  "size_raw": "83693312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
