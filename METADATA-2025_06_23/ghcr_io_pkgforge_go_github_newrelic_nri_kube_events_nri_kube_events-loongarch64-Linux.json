@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nri-kube-events",
+  "pkg_family": "nri-kube-events",
+  "pkg_id": "nri-kube-events#github.com_newrelic_nri_kube_events",
+  "pkg_name": "nri-kube-events",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-kube-events",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic integration that forwards Kubernetes events to New Relic",
+  "homepage": [
+    "https://github.com/newrelic/nri-kube-events"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nri-kube-events"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-kube-events/archive/51e9704ac1f14a486ef448bd0a2e5a46da4e1465.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-51e9704-250623T051606",
+  "version_upstream": "nri-kube-events-3.13.2",
+  "bsum": "24d10886fd1cb64836ff16a7967e707f754909c81b5bec006e3540f590ee3b89",
+  "build_date": "2025-06-23T19:40:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15832032177",
+  "build_id": "15832032177",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-kube-events/nri-kube-events?tag=HEAD-51e9704-250623T051606-loongarch64-Linux&download=nri-kube-events.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-kube-events/nri-kube-events?tag=HEAD-51e9704-250623T051606-loongarch64-Linux&download=nri-kube-events",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-kube-events/nri-kube-events:HEAD-51e9704-250623T051606-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-kube-events/nri-kube-events",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-kube-events/nri-kube-events?tag=HEAD-51e9704-250623T051606-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1e0ad8d6792a5375ed03c2b243dbdcb1e3cbc4674e462d3375d1af0f85d1dc3",
+  "size": "68 MB",
+  "size_raw": "71155136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
