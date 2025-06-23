@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gpu_plugin",
+  "pkg_family": "intel-device-plugins-for-kubernetes",
+  "pkg_id": "gpu_plugin#github.com_intel_intel_device_plugins_for_kubernetes",
+  "pkg_name": "gpu_plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/intel-device-plugins-for-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of Intel device plugins for Kubernetes",
+  "homepage": [
+    "https://github.com/intel/intel-device-plugins-for-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dlb_plugin",
+    "dsa_plugin",
+    "fpga_admissionwebhook",
+    "fpga_crihook",
+    "fpga_plugin",
+    "fpga_tool",
+    "gpu_fakedev",
+    "gpu_nfdhook",
+    "gpu_plugin",
+    "iaa_plugin",
+    "operator",
+    "qat_plugin",
+    "sgx_admissionwebhook",
+    "sgx_epchook",
+    "sgx_plugin",
+    "xpumanager_sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/intel-device-plugins-for-kubernetes/archive/1b11b609afd2fe0941a1afb51f40f3b15d02fdbd.tar.gz"
+  ],
+  "tag": [
+    "5g",
+    "cloud",
+    "cloud-computing",
+    "edge-computing",
+    "kubernetes",
+    "plug-ins",
+    "swrepo"
+  ],
+  "version": "HEAD-1b11b60-250619T122727",
+  "version_upstream": "",
+  "bsum": "1645fd8c47e21621034db96740d9d09fead4f9440b23f804c9a393dbb577b337",
+  "build_date": "2025-06-23T08:06:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817698631",
+  "build_id": "15817698631",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-device-plugins-for-kubernetes/gpu_plugin?tag=HEAD-1b11b60-250619T122727-riscv64-Linux&download=gpu_plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "91",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-device-plugins-for-kubernetes/gpu_plugin?tag=HEAD-1b11b60-250619T122727-riscv64-Linux&download=gpu_plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/intel-device-plugins-for-kubernetes/gpu_plugin:HEAD-1b11b60-250619T122727-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/intel-device-plugins-for-kubernetes/gpu_plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-device-plugins-for-kubernetes/gpu_plugin?tag=HEAD-1b11b60-250619T122727-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "880cd0d1b08b824d9dc667c0ccf7a62974c55196bf4a19d3a382dc21b25fe4cf",
+  "size": "51 MB",
+  "size_raw": "52443288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
