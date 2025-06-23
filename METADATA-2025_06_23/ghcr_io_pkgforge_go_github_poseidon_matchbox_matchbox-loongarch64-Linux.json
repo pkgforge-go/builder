@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "matchbox",
+  "pkg_family": "matchbox",
+  "pkg_id": "matchbox#github.com_poseidon_matchbox",
+  "pkg_name": "matchbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/poseidon/matchbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network boot and provision Fedora CoreOS and Flatcar Linux clusters",
+  "homepage": [
+    "https://github.com/poseidon/matchbox"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootcmd",
+    "matchbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/poseidon/matchbox/archive/538b881fcf40b6b4445e3456a32d7218327ecda7.tar.gz"
+  ],
+  "tag": [
+    "bare-metal",
+    "fedora-coreos",
+    "flatcar-linux",
+    "protobuf",
+    "pxe"
+  ],
+  "version": "HEAD-538b881-250622T060200",
+  "version_upstream": "",
+  "bsum": "afd67dba8b379a0f065f8f3fb05f7bf58b90462005e869e945e29beb2ac28df8",
+  "build_date": "2025-06-23T04:24:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813832799",
+  "build_id": "15813832799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/matchbox?tag=HEAD-538b881-250622T060200-loongarch64-Linux&download=matchbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1348",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/matchbox?tag=HEAD-538b881-250622T060200-loongarch64-Linux&download=matchbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/poseidon/matchbox/matchbox:HEAD-538b881-250622T060200-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/poseidon/matchbox/matchbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/poseidon/matchbox/matchbox?tag=HEAD-538b881-250622T060200-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd6f4a7917524158cc9ff9f7fcb2fa916d3dbe94c38f5c820891311ed413a861",
+  "size": "17 MB",
+  "size_raw": "17119392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-39d4d05-250622T014157-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
