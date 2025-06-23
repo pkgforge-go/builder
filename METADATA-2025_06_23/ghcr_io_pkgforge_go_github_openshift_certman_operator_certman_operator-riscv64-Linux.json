@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "certman-operator",
+  "pkg_family": "certman-operator",
+  "pkg_id": "certman-operator#github.com_openshift_certman_operator",
+  "pkg_name": "certman-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/certman-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to Manage Let_s Encrypt certificates for OpenShift Clusters",
+  "homepage": [
+    "https://github.com/openshift/certman-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certman-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/certman-operator/archive/e67c9bbe5f1cf93176223b3148dd0682dbc5ffa0.tar.gz"
+  ],
+  "tag": [
+    "osdv4"
+  ],
+  "version": "HEAD-e67c9bb-250623T021247",
+  "version_upstream": "",
+  "bsum": "8c47bd9c6b835dfd5aa73766c208273e6570a77c06636c614d0aea009cc4843c",
+  "build_date": "2025-06-23T08:50:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818512762",
+  "build_id": "15818512762",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/certman-operator/certman-operator?tag=HEAD-e67c9bb-250623T021247-riscv64-Linux&download=certman-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/certman-operator/certman-operator?tag=HEAD-e67c9bb-250623T021247-riscv64-Linux&download=certman-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/certman-operator/certman-operator:HEAD-e67c9bb-250623T021247-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/certman-operator/certman-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/certman-operator/certman-operator?tag=HEAD-e67c9bb-250623T021247-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93fa2ca00bc0385ef30e8f3b69ba897ba33d682a8700160e95e390c8b3f9a013",
+  "size": "54 MB",
+  "size_raw": "56514776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
