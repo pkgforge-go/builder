@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "timestamp-server",
+  "pkg_family": "timestamp-authority",
+  "pkg_id": "timestamp-server#github.com_sigstore_timestamp_authority",
+  "pkg_name": "timestamp-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/timestamp-authority",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RFC3161 Timestamp Authority",
+  "homepage": [
+    "https://github.com/sigstore/timestamp-authority"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fetch-tsa-certs",
+    "timestamp-cli",
+    "timestamp-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/timestamp-authority/archive/bb9d07d236d17ac1be03ac3c90e4f2ff8ff490d3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bb9d07d-250623T150711",
+  "version_upstream": "",
+  "bsum": "7d73accbad80191279f77540be8601f2e13968c59d255e815dd3285d95be3ef1",
+  "build_date": "2025-06-23T20:15:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833365665",
+  "build_id": "15833365665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/timestamp-server?tag=HEAD-bb9d07d-250623T150711-riscv64-Linux&download=timestamp-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "92",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/timestamp-server?tag=HEAD-bb9d07d-250623T150711-riscv64-Linux&download=timestamp-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/timestamp-authority/timestamp-server:HEAD-bb9d07d-250623T150711-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/timestamp-authority/timestamp-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/timestamp-authority/timestamp-server?tag=HEAD-bb9d07d-250623T150711-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "005d2cd6d19caece9148f03e963a2932848a531924da5d1d8ac3d94e398a672c",
+  "size": "38 MB",
+  "size_raw": "39532376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
