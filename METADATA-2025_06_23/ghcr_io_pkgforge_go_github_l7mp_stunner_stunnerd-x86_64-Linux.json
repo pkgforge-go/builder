@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stunnerd",
+  "pkg_family": "stunner",
+  "pkg_id": "stunnerd#github.com_l7mp_stunner",
+  "pkg_name": "stunnerd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/l7mp/stunner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes media gateway for WebRTC. Contact: info@l7mp.io",
+  "homepage": [
+    "https://github.com/l7mp/stunner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "icetester",
+    "stunnerctl",
+    "stunnerd",
+    "turncat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/l7mp/stunner/archive/f3faaddbb5d99d8105f680309dcb561bb83de84b.tar.gz"
+  ],
+  "tag": [
+    "gateway",
+    "kubernetes",
+    "webrtc"
+  ],
+  "version": "HEAD-f3faadd-250623T142955",
+  "version_upstream": "",
+  "bsum": "ac005516c483c2f3b95b41fd95d405a19c3cafe6ad4fee13b5ed09391852f200",
+  "build_date": "2025-06-23T19:03:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830864917",
+  "build_id": "15830864917",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/l7mp/stunner/stunnerd?tag=HEAD-f3faadd-250623T142955-x86_64-Linux&download=stunnerd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "864",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/l7mp/stunner/stunnerd?tag=HEAD-f3faadd-250623T142955-x86_64-Linux&download=stunnerd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/l7mp/stunner/stunnerd:HEAD-f3faadd-250623T142955-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/l7mp/stunner/stunnerd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/l7mp/stunner/stunnerd?tag=HEAD-f3faadd-250623T142955-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "957b45eb9f424d003155e8f92afdb3cc5d94ef9baff4292b02dabdb0e9bfdc79",
+  "size": "71 MB",
+  "size_raw": "74117184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
