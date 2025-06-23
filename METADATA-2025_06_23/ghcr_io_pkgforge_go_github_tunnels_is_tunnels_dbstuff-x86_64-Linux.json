@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dbstuff",
+  "pkg_family": "tunnels",
+  "pkg_id": "dbstuff#github.com_tunnels_is_tunnels",
+  "pkg_name": "dbstuff",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tunnels-is/tunnels",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_ANU_ Advanced Networking Utility + Full GUI _ VPN, Zero Trust Network, NAT, Routing, DNS Server + filtering_",
+  "homepage": [
+    "https://github.com/tunnels-is/tunnels"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arch",
+    "build-parser",
+    "curve",
+    "dbstuff",
+    "deferloop",
+    "dns",
+    "encrypt",
+    "filescanner",
+    "ipforward",
+    "json",
+    "logging",
+    "main",
+    "min",
+    "nat",
+    "network",
+    "new-mapping",
+    "raw",
+    "server",
+    "sharding",
+    "signing",
+    "slice",
+    "slicevslock",
+    "structures"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tunnels-is/tunnels/archive/b448db22cfe8f8cd71f58ee7cd9b6e15356a7f4b.tar.gz"
+  ],
+  "tag": [
+    "devops",
+    "dns",
+    "nat",
+    "networking",
+    "routing"
+  ],
+  "version": "HEAD-b448db2-250622T105534",
+  "version_upstream": "v2.0.2",
+  "bsum": "0dab296e633be45a34a964b51712b78ef5b55d98e1017db76d8044ee1de19bee",
+  "build_date": "2025-06-23T09:40:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819687954",
+  "build_id": "15819687954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/dbstuff?tag=HEAD-b448db2-250622T105534-x86_64-Linux&download=dbstuff.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/dbstuff?tag=HEAD-b448db2-250622T105534-x86_64-Linux&download=dbstuff",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tunnels-is/tunnels/dbstuff:HEAD-b448db2-250622T105534-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tunnels-is/tunnels/dbstuff",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/dbstuff?tag=HEAD-b448db2-250622T105534-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6cabb89cd4c1809a232c1aa00eb14f92c1ece99bc70a67d8eaee5e83ee4160a",
+  "size": "2.1 MB",
+  "size_raw": "2159328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
