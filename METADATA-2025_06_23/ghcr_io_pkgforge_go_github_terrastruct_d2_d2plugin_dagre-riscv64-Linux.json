@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "d2plugin-dagre",
+  "pkg_family": "d2",
+  "pkg_id": "d2plugin-dagre#github.com_terrastruct_d2",
+  "pkg_name": "d2plugin-dagre",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terrastruct/d2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+  "homepage": [
+    "https://github.com/terrastruct/d2"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "1-d2lib",
+    "2-d2oracle",
+    "3-lowlevel",
+    "d2",
+    "d2plugin-dagre",
+    "report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terrastruct/d2/archive/be13d108db82c08f39c606ebbfe2dd4fe1b75d89.tar.gz"
+  ],
+  "tag": [
+    "developer-tools",
+    "diagramming",
+    "diagrams",
+    "go",
+    "golang",
+    "software-architecture",
+    "text-to-diagram"
+  ],
+  "version": "HEAD-be13d10-250622T221139",
+  "version_upstream": "",
+  "bsum": "7df6c608496c6e5c1e25ca59d6cf5f6a60c019eebe1b035872953eedab04c83f",
+  "build_date": "2025-06-23T14:49:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825299035",
+  "build_id": "15825299035",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/d2plugin-dagre?tag=HEAD-be13d10-250622T221139-riscv64-Linux&download=d2plugin-dagre.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20769",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/d2plugin-dagre?tag=HEAD-be13d10-250622T221139-riscv64-Linux&download=d2plugin-dagre",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terrastruct/d2/d2plugin-dagre:HEAD-be13d10-250622T221139-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terrastruct/d2/d2plugin-dagre",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/d2plugin-dagre?tag=HEAD-be13d10-250622T221139-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7519b08fe9cc44f5b19cf3f8cb843815222179af6426c6e8450fa1640174a117",
+  "size": "25 MB",
+  "size_raw": "25945912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1274029-250622T063533-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
