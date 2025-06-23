@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "certificates",
+  "pkg_id": "server#github.com_smallstep_certificates",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smallstep/certificates",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🛡️ A private certificate authority _X.509 _ SSH_ _ ACME server for secure automated certificate management, so you can use TLS everywhere _ SSO for SSH.",
+  "homepage": [
+    "https://github.com/smallstep/certificates"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "badger-migration",
+    "basic-client",
+    "bootstrap-client",
+    "bootstrap-mtls-server",
+    "bootstrap-tls-server",
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smallstep/certificates/archive/c6902d1a091c1bdab867391ee41bac517a557894.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "acme-server",
+    "ca",
+    "certificate-authority",
+    "certificates",
+    "go",
+    "pki",
+    "security",
+    "security-tools",
+    "ssh",
+    "tls",
+    "x509"
+  ],
+  "version": "HEAD-c6902d1-250623T072158",
+  "version_upstream": "",
+  "bsum": "31e901f56201c64ea17aafcb02afdfe14878819b61da44b3bd496859e65926ba",
+  "build_date": "2025-06-23T20:28:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833423588",
+  "build_id": "15833423588",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/server?tag=HEAD-c6902d1-250623T072158-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7372",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/server?tag=HEAD-c6902d1-250623T072158-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smallstep/certificates/server:HEAD-c6902d1-250623T072158-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smallstep/certificates/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/server?tag=HEAD-c6902d1-250623T072158-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7d68dc6e927ddd45d2442a887a94f9f198765716735a51f3a21f6745a31ac8a1",
+  "size": "22 MB",
+  "size_raw": "22374904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
