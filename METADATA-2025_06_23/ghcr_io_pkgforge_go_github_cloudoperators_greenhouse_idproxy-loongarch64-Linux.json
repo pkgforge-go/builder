@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "idproxy",
+  "pkg_family": "greenhouse",
+  "pkg_id": "idproxy#github.com_cloudoperators_greenhouse",
+  "pkg_name": "idproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudoperators/greenhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud operations platform",
+  "homepage": [
+    "https://github.com/cloudoperators/greenhouse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cors-proxy",
+    "greenhouse",
+    "greenhousectl",
+    "hack",
+    "idproxy",
+    "service-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudoperators/greenhouse/archive/5f76ed5b9747fa076e5dabddaf40d947313126b5.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "compliance",
+    "juno",
+    "k8s",
+    "kubebuilder",
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "operations",
+    "prometheus",
+    "reactjs",
+    "security"
+  ],
+  "version": "HEAD-5f76ed5-250623T160457",
+  "version_upstream": "",
+  "bsum": "8218602c489c9dcf983d6fcb07b0e8bcbd8e46d16a352b79921574b231343ef7",
+  "build_date": "2025-06-23T22:32:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835818818",
+  "build_id": "15835818818",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/idproxy?tag=HEAD-5f76ed5-250623T160457-loongarch64-Linux&download=idproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/idproxy?tag=HEAD-5f76ed5-250623T160457-loongarch64-Linux&download=idproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudoperators/greenhouse/idproxy:HEAD-5f76ed5-250623T160457-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudoperators/greenhouse/idproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/idproxy?tag=HEAD-5f76ed5-250623T160457-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4935c98ac53b7bffb7b4c7221d6858854c248f17809d578d578ab22e82410bd4",
+  "size": "68 MB",
+  "size_raw": "70407976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-218c760-250619T101321-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
