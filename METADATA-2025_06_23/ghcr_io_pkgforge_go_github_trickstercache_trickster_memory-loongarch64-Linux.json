@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "memory",
+  "pkg_family": "trickster",
+  "pkg_id": "memory#github.com_trickstercache_trickster",
+  "pkg_name": "memory",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trickstercache/trickster",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator",
+  "homepage": [
+    "https://github.com/trickstercache/trickster"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbolt",
+    "memory",
+    "trickster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trickstercache/trickster/archive/753d85ef8a73ce54cc15819b81e55076911c2e2b.tar.gz"
+  ],
+  "tag": [
+    "accelerator",
+    "caching",
+    "clickhouse",
+    "dashboards",
+    "golang",
+    "http-proxy",
+    "influxdb",
+    "performance",
+    "prometheus",
+    "reverse-proxy",
+    "tsdb"
+  ],
+  "version": "HEAD-753d85e-250622T193738",
+  "version_upstream": "",
+  "bsum": "75bd1db75ca28c50c733b29638c69143412a328fdd4a0412bff84e12ee41475a",
+  "build_date": "2025-06-23T14:48:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825309890",
+  "build_id": "15825309890",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trickstercache/trickster/memory?tag=HEAD-753d85e-250622T193738-loongarch64-Linux&download=memory.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2031",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trickstercache/trickster/memory?tag=HEAD-753d85e-250622T193738-loongarch64-Linux&download=memory",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trickstercache/trickster/memory:HEAD-753d85e-250622T193738-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trickstercache/trickster/memory",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trickstercache/trickster/memory?tag=HEAD-753d85e-250622T193738-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "af5f7a4ee19340275f919dae116176e3fb2a1ced05df2f87aa7cff18408e2d1f",
+  "size": "2.0 MB",
+  "size_raw": "2021976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4c4b384-250620T121819-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
