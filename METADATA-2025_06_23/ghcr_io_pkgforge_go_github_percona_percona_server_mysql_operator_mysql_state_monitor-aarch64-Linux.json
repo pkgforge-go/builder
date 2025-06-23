@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mysql-state-monitor",
+  "pkg_family": "percona-server-mysql-operator",
+  "pkg_id": "mysql-state-monitor#github.com_percona_percona_server_mysql_operator",
+  "pkg_name": "mysql-state-monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-server-mysql-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for MySQL",
+  "homepage": [
+    "https://github.com/percona/percona-server-mysql-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "healthcheck",
+    "manager",
+    "mysql-state-monitor",
+    "orc-handler",
+    "peer-list",
+    "sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-server-mysql-operator/archive/7b1bad5dd19ee907b5fe0bb8c41535a80bdb724c.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes",
+    "mysql"
+  ],
+  "version": "HEAD-7b1bad5-250622T185444",
+  "version_upstream": "",
+  "bsum": "eac352101055c57c9340d27cea586d9e54b27db6007de840690f14a8d056544f",
+  "build_date": "2025-06-23T08:58:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818548463",
+  "build_id": "15818548463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/mysql-state-monitor?tag=HEAD-7b1bad5-250622T185444-aarch64-Linux&download=mysql-state-monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "183",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/mysql-state-monitor?tag=HEAD-7b1bad5-250622T185444-aarch64-Linux&download=mysql-state-monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-server-mysql-operator/mysql-state-monitor:HEAD-7b1bad5-250622T185444-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-server-mysql-operator/mysql-state-monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/mysql-state-monitor?tag=HEAD-7b1bad5-250622T185444-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd3b74c340839f0c5cfc073f36092d95c37a22a4ea580423ad007f841b7752cc",
+  "size": "2.0 MB",
+  "size_raw": "2031096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
