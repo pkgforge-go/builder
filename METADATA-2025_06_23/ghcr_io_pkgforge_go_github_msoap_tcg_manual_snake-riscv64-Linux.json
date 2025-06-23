@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "manual_snake",
+  "pkg_family": "tcg",
+  "pkg_id": "manual_snake#github.com_msoap_tcg",
+  "pkg_name": "manual_snake",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/msoap/tcg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal cell graphics library",
+  "homepage": [
+    "https://github.com/msoap/tcg"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fractal-demo",
+    "game_of_life",
+    "manual_snake",
+    "pbm_view",
+    "random_pixels"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/msoap/tcg/archive/4f8967876f0dc0efcf383ef21d9dc00ad4142a77.tar.gz"
+  ],
+  "tag": [
+    "1bit",
+    "ascii-art",
+    "game",
+    "golang",
+    "golang-library",
+    "graphics",
+    "pixel-art",
+    "terminal",
+    "terminal-graphics"
+  ],
+  "version": "HEAD-4f89678-250623T001608",
+  "version_upstream": "",
+  "bsum": "6249905ebfbce51fccb8b755ce6ee413226713a5e940b3b0269299ea8404da7f",
+  "build_date": "2025-06-23T08:36:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818385613",
+  "build_id": "15818385613",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/manual_snake?tag=HEAD-4f89678-250623T001608-riscv64-Linux&download=manual_snake.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/manual_snake?tag=HEAD-4f89678-250623T001608-riscv64-Linux&download=manual_snake",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/msoap/tcg/manual_snake:HEAD-4f89678-250623T001608-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/msoap/tcg/manual_snake",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/manual_snake?tag=HEAD-4f89678-250623T001608-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5de8942812cf9fe88cb22130cadfc895902bae0de05a1c5edfd3a14872447f5e",
+  "size": "2.9 MB",
+  "size_raw": "2938952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

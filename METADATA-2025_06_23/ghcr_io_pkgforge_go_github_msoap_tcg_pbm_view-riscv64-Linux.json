@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pbm_view",
+  "pkg_family": "tcg",
+  "pkg_id": "pbm_view#github.com_msoap_tcg",
+  "pkg_name": "pbm_view",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/msoap/tcg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal cell graphics library",
+  "homepage": [
+    "https://github.com/msoap/tcg"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fractal-demo",
+    "game_of_life",
+    "manual_snake",
+    "pbm_view",
+    "random_pixels"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/msoap/tcg/archive/4f8967876f0dc0efcf383ef21d9dc00ad4142a77.tar.gz"
+  ],
+  "tag": [
+    "1bit",
+    "ascii-art",
+    "game",
+    "golang",
+    "golang-library",
+    "graphics",
+    "pixel-art",
+    "terminal",
+    "terminal-graphics"
+  ],
+  "version": "HEAD-4f89678-250623T001608",
+  "version_upstream": "",
+  "bsum": "4707057ec0705fadefb645d139b56c568dcceab1e261fc044c04cff604006baa",
+  "build_date": "2025-06-23T08:36:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818385613",
+  "build_id": "15818385613",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/pbm_view?tag=HEAD-4f89678-250623T001608-riscv64-Linux&download=pbm_view.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/pbm_view?tag=HEAD-4f89678-250623T001608-riscv64-Linux&download=pbm_view",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/msoap/tcg/pbm_view:HEAD-4f89678-250623T001608-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/msoap/tcg/pbm_view",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/msoap/tcg/pbm_view?tag=HEAD-4f89678-250623T001608-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e81b00efc11f03df198f9d97bf18f1a464407f71e89d181d9abc69e1cebb0f34",
+  "size": "2.4 MB",
+  "size_raw": "2433416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
