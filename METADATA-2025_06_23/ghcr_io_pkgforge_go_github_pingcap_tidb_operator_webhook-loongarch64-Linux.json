@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "tidb-operator",
+  "pkg_id": "webhook#github.com_pingcap_tidb_operator",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tidb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TiDB operator creates and manages TiDB clusters running in Kubernetes.",
+  "homepage": [
+    "https://github.com/pingcap/tidb-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "backup-manager",
+    "blockwriter",
+    "br-federation-manager",
+    "controller-manager",
+    "discovery",
+    "ebs-warmup",
+    "fault-trigger",
+    "scheduler",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tidb-operator/archive/3aaf3e378abcdba2b40111adc0910dcf7260ac88.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "operator",
+    "tidb"
+  ],
+  "version": "HEAD-3aaf3e3-250623T111334",
+  "version_upstream": "",
+  "bsum": "7155103f28d8cd13f0be73da4c10b9ff0106ad5031cf572a12956ad0528baac1",
+  "build_date": "2025-06-23T09:05:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818569265",
+  "build_id": "15818569265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/webhook?tag=HEAD-3aaf3e3-250623T111334-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/webhook?tag=HEAD-3aaf3e3-250623T111334-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tidb-operator/webhook:HEAD-3aaf3e3-250623T111334-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tidb-operator/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/webhook?tag=HEAD-3aaf3e3-250623T111334-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67e6e140f2d6e5742273149fdce9631452c2b2321a1d321e5baced350c2b3b49",
+  "size": "41 MB",
+  "size_raw": "42709632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
