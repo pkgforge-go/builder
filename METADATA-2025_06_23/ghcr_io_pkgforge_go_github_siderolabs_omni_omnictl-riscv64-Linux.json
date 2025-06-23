@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "omnictl",
+  "pkg_family": "omni",
+  "pkg_id": "omnictl#github.com_siderolabs_omni",
+  "pkg_name": "omnictl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/siderolabs/omni",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SaaS-simple deployment of Kubernetes - on your own hardware.",
+  "homepage": [
+    "https://github.com/siderolabs/omni"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-certs",
+    "make-cookies",
+    "omni",
+    "omnictl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/siderolabs/omni/archive/9e4f8198cdd06aa016ace155072b2283511cdcf8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e4f819-250623T025442",
+  "version_upstream": "",
+  "bsum": "4481d855ef0415bbd84c657ccccf8edc6257d4adfb3d5fe08417be4deae04c18",
+  "build_date": "2025-06-23T20:13:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833352944",
+  "build_id": "15833352944",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/omnictl?tag=HEAD-9e4f819-250623T025442-riscv64-Linux&download=omnictl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "739",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/omnictl?tag=HEAD-9e4f819-250623T025442-riscv64-Linux&download=omnictl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/siderolabs/omni/omnictl:HEAD-9e4f819-250623T025442-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/siderolabs/omni/omnictl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/omnictl?tag=HEAD-9e4f819-250623T025442-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04cf9a8a7cf7e370f870e37e026052d186982e91dadfe499b8a9b43e574a00b3",
+  "size": "41 MB",
+  "size_raw": "42015448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
