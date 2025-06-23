@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "chorus",
+  "pkg_id": "worker#github.com_clyso_chorus",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clyso/chorus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "s3 multi provider data lifecycle management",
+  "homepage": [
+    "https://github.com/clyso/chorus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "chorus",
+    "proxy",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clyso/chorus/archive/4c7dbccd8963d584e4a1093f11bea4be3dcad751.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "go",
+    "migration",
+    "rclone",
+    "replication",
+    "s3",
+    "s3-storage"
+  ],
+  "version": "HEAD-4c7dbcc-250623T114205",
+  "version_upstream": "",
+  "bsum": "b8ba50f258389a26e5df138f88c6796bfe0457b5c63766a196e721cb51e0fffb",
+  "build_date": "2025-06-23T16:45:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829050068",
+  "build_id": "15829050068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clyso/chorus/worker?tag=HEAD-4c7dbcc-250623T114205-aarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "93",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clyso/chorus/worker?tag=HEAD-4c7dbcc-250623T114205-aarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clyso/chorus/worker:HEAD-4c7dbcc-250623T114205-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clyso/chorus/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clyso/chorus/worker?tag=HEAD-4c7dbcc-250623T114205-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "94ffa55c40bdc326dd47b03225bbd7071452ce4496e5169a8e498fb64757ccc7",
+  "size": "49 MB",
+  "size_raw": "50773152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
