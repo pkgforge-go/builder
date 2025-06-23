@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "router",
+  "pkg_family": "router",
+  "pkg_id": "router#github.com_alphagov_router",
+  "pkg_name": "router",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alphagov/router",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HTTP router in front of GOV.UK to proxy to backend servers on a single domain.",
+  "homepage": [
+    "https://github.com/alphagov/router"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "router"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/alphagov/router/archive/9bc767b468e2bb8a7c13158590d657923357b324.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "govuk"
+  ],
+  "version": "HEAD-9bc767b-250623T112458",
+  "version_upstream": "v139",
+  "bsum": "1feeb92e4dfe7422f69d3ecba0d5751b0cdb455677d7aeb05c5aeda61a0324ed",
+  "build_date": "2025-06-23T16:06:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828908021",
+  "build_id": "15828908021",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alphagov/router/router?tag=HEAD-9bc767b-250623T112458-x86_64-Linux&download=router.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alphagov/router/router?tag=HEAD-9bc767b-250623T112458-x86_64-Linux&download=router",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alphagov/router/router:HEAD-9bc767b-250623T112458-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alphagov/router/router",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alphagov/router/router?tag=HEAD-9bc767b-250623T112458-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a47efd658ad63b3ae80632985843923123a10c5b41f34872f6f2f062b969f73d",
+  "size": "15 MB",
+  "size_raw": "15339616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
