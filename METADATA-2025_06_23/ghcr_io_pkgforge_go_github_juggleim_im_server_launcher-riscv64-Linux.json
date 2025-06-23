@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "launcher",
+  "pkg_family": "im-server",
+  "pkg_id": "launcher#github.com_juggleim_im_server",
+  "pkg_name": "launcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juggleim/im-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A high-performance IM server.",
+  "homepage": [
+    "https://github.com/juggleim/im-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "launcher",
+    "simulator",
+    "testmain"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juggleim/im-server/archive/fd91147bae69b4c409a5dcc77b198adfe01bb047.tar.gz"
+  ],
+  "tag": [
+    "chat",
+    "golang",
+    "im",
+    "imserver",
+    "messenger",
+    "sdk"
+  ],
+  "version": "HEAD-fd91147-250623T165854",
+  "version_upstream": "",
+  "bsum": "1802ec1035f4c71ff852b1e843a81bc388f5f6b659dc9ca8fd206ea66635a43d",
+  "build_date": "2025-06-23T18:15:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830482892",
+  "build_id": "15830482892",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juggleim/im-server/launcher?tag=HEAD-fd91147-250623T165854-riscv64-Linux&download=launcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2484",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juggleim/im-server/launcher?tag=HEAD-fd91147-250623T165854-riscv64-Linux&download=launcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juggleim/im-server/launcher:HEAD-fd91147-250623T165854-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juggleim/im-server/launcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juggleim/im-server/launcher?tag=HEAD-fd91147-250623T165854-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41c277a4196e6785549dbd9f934b8c5fa4ac303c5ed3845572a2df00f7107c21",
+  "size": "46 MB",
+  "size_raw": "48156376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
