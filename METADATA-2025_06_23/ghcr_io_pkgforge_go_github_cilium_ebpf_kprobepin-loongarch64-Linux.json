@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kprobepin",
+  "pkg_family": "ebpf",
+  "pkg_id": "kprobepin#github.com_cilium_ebpf",
+  "pkg_name": "kprobepin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/51ab2a455de272c9e1c6cf461cc12a9d7b71a031.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-51ab2a4-250620T082030",
+  "version_upstream": "",
+  "bsum": "255783b672e188873855eca677eb66cf1329c191c805738d24fd641f50771cdb",
+  "build_date": "2025-06-23T13:30:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071093",
+  "build_id": "15825071093",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/kprobepin?tag=HEAD-51ab2a4-250620T082030-loongarch64-Linux&download=kprobepin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6920",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/kprobepin?tag=HEAD-51ab2a4-250620T082030-loongarch64-Linux&download=kprobepin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/kprobepin:HEAD-51ab2a4-250620T082030-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/kprobepin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/kprobepin?tag=HEAD-51ab2a4-250620T082030-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69c0c112006ab5c5fa475ab3c72e45afdb766ed22debe899e7499c60b682b473",
+  "size": "3.5 MB",
+  "size_raw": "3614296",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0bef90d-250619T111026-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
