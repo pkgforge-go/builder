@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dataplane",
+  "pkg_family": "ingress-nginx",
+  "pkg_id": "dataplane#github.com_kubernetes_ingress_nginx",
+  "pkg_name": "dataplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/ingress-nginx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ingress NGINX Controller for Kubernetes",
+  "homepage": [
+    "https://github.com/kubernetes/ingress-nginx"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotations",
+    "dataplane",
+    "dbg",
+    "nginx",
+    "waitshutdown"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/ingress-nginx/archive/b299406898b1ded8e4a8682df774dc64d25f797f.tar.gz"
+  ],
+  "tag": [
+    "ingress-controller",
+    "kubernetes",
+    "nginx"
+  ],
+  "version": "HEAD-b299406-250623T025853",
+  "version_upstream": "",
+  "bsum": "cada247421dd0c3fae88b6f31498fa2183a67865d3fc537c4e122a1f8bf8af7e",
+  "build_date": "2025-06-23T18:54:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830683807",
+  "build_id": "15830683807",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-nginx/dataplane?tag=HEAD-b299406-250623T025853-aarch64-Linux&download=dataplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18660",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-nginx/dataplane?tag=HEAD-b299406-250623T025853-aarch64-Linux&download=dataplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/ingress-nginx/dataplane:HEAD-b299406-250623T025853-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/ingress-nginx/dataplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-nginx/dataplane?tag=HEAD-b299406-250623T025853-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e5b1aae8d3d820b6df9671db625ccfcabceb1c50f78a9832054f72132d5dea5",
+  "size": "48 MB",
+  "size_raw": "50021056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
