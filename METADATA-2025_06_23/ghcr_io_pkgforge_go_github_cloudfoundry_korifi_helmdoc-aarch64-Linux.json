@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "helmdoc",
+  "pkg_family": "korifi",
+  "pkg_id": "helmdoc#github.com_cloudfoundry_korifi",
+  "pkg_name": "helmdoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/korifi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry on Kubernetes",
+  "homepage": [
+    "https://github.com/cloudfoundry/korifi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controllers",
+    "helmdoc",
+    "job-task-runner",
+    "korifi-api",
+    "kpack-image-builder",
+    "migration",
+    "statefulset-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/korifi/archive/e358e5e523151b155dc9e4769412f5e391d65305.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e358e5e-250623T122509",
+  "version_upstream": "",
+  "bsum": "a08df4bf6c0dfea5725929a96d78e19f3e7e076a644d75b0ee34fa9de5b07305",
+  "build_date": "2025-06-23T22:30:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835816799",
+  "build_id": "15835816799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/helmdoc?tag=HEAD-e358e5e-250623T122509-aarch64-Linux&download=helmdoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "369",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/helmdoc?tag=HEAD-e358e5e-250623T122509-aarch64-Linux&download=helmdoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/korifi/helmdoc:HEAD-e358e5e-250623T122509-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/korifi/helmdoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/helmdoc?tag=HEAD-e358e5e-250623T122509-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "25c0c18063075bfed56967e6e9d6e62b00868a7c435d6dbdf7977a6b1c9b663a",
+  "size": "2.4 MB",
+  "size_raw": "2455736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b751985-250619T142427-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "migration",
+  "pkg_family": "korifi",
+  "pkg_id": "migration#github.com_cloudfoundry_korifi",
+  "pkg_name": "migration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/korifi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry on Kubernetes",
+  "homepage": [
+    "https://github.com/cloudfoundry/korifi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controllers",
+    "helmdoc",
+    "job-task-runner",
+    "korifi-api",
+    "kpack-image-builder",
+    "migration",
+    "statefulset-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/korifi/archive/e358e5e523151b155dc9e4769412f5e391d65305.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e358e5e-250623T122509",
+  "version_upstream": "",
+  "bsum": "6037e9ff9bf3b0228adf90986c9db33dba05cde76ca6d5c644c293df776f783e",
+  "build_date": "2025-06-23T22:31:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835816799",
+  "build_id": "15835816799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/migration?tag=HEAD-e358e5e-250623T122509-aarch64-Linux&download=migration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "369",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/migration?tag=HEAD-e358e5e-250623T122509-aarch64-Linux&download=migration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/korifi/migration:HEAD-e358e5e-250623T122509-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/korifi/migration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/migration?tag=HEAD-e358e5e-250623T122509-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06e7969e26d48fa57825c8ac743e26f0551980ee40118ccfa6d565c4cbf6574d",
+  "size": "39 MB",
+  "size_raw": "40366112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b751985-250619T142427-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
