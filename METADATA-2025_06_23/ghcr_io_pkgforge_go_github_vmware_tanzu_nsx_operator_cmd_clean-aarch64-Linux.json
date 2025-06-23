@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cmd_clean",
+  "pkg_family": "nsx-operator",
+  "pkg_id": "cmd_clean#github.com_vmware_tanzu_nsx_operator",
+  "pkg_name": "cmd_clean",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware-tanzu/nsx-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for managing NSX network resources",
+  "homepage": [
+    "https://github.com/vmware-tanzu/nsx-operator"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd_clean",
+    "nsx-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware-tanzu/nsx-operator/archive/f9bfe847edb6483ea544e928090f8c9e2354382c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f9bfe84-250623T112915",
+  "version_upstream": "",
+  "bsum": "3517faa9e51f1e80f481576deb2d83f068d49cee9c6a1cf47d0a5504b467c9b7",
+  "build_date": "2025-06-23T09:54:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15820912554",
+  "build_id": "15820912554",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/nsx-operator/cmd_clean?tag=HEAD-f9bfe84-250623T112915-aarch64-Linux&download=cmd_clean.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/nsx-operator/cmd_clean?tag=HEAD-f9bfe84-250623T112915-aarch64-Linux&download=cmd_clean",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware-tanzu/nsx-operator/cmd_clean:HEAD-f9bfe84-250623T112915-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware-tanzu/nsx-operator/cmd_clean",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/nsx-operator/cmd_clean?tag=HEAD-f9bfe84-250623T112915-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f388ff8d6929dd2e326a9aee1868ce8345a2cb333a245ed9f91a8e9abebd16fc",
+  "size": "56 MB",
+  "size_raw": "58087840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
