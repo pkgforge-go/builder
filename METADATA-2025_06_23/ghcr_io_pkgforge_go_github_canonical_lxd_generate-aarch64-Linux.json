@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "lxd",
+  "pkg_id": "generate#github.com_canonical_lxd",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/lxd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/canonical/lxd"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devlxd-client",
+    "freshschema",
+    "generate",
+    "lxc",
+    "lxd-benchmark",
+    "lxd-metadata",
+    "lxd-user",
+    "mini-oidc",
+    "sysinfo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/lxd/archive/5ee6dd84be50155c15c69ede6f84abb03d5aa807.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "criu",
+    "go",
+    "hacktoberfest",
+    "lxc",
+    "lxd"
+  ],
+  "version": "HEAD-5ee6dd8-250621T220730",
+  "version_upstream": "",
+  "bsum": "19a7ee42b649b7fc346598d54de1f6090d608bd526a6b44522399b3ced96d0dc",
+  "build_date": "2025-06-23T02:59:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813670745",
+  "build_id": "15813670745",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/generate?tag=HEAD-5ee6dd8-250621T220730-aarch64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4516",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/generate?tag=HEAD-5ee6dd8-250621T220730-aarch64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/lxd/generate:HEAD-5ee6dd8-250621T220730-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/lxd/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/generate?tag=HEAD-5ee6dd8-250621T220730-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "43fb58e01d7c9437973a35f2bb10eb88b390288003d8a4414b6bf6a3384e6478",
+  "size": "9.6 MB",
+  "size_raw": "10032032",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5290649-250619T134116-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
