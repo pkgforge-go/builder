@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "graphite-clickhouse-client",
+  "pkg_family": "graphite-clickhouse",
+  "pkg_id": "graphite-clickhouse-client#github.com_go_graphite_graphite_clickhouse",
+  "pkg_name": "graphite-clickhouse-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-graphite/graphite-clickhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Graphite cluster backend with ClickHouse support",
+  "homepage": [
+    "https://github.com/go-graphite/graphite-clickhouse"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e-test",
+    "graphite-clickhouse",
+    "graphite-clickhouse-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-graphite/graphite-clickhouse/archive/f1c1419290c76c8864b57157d68a0042a07ac954.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f1c1419-250623T151624",
+  "version_upstream": "",
+  "bsum": "6205cc363109556722c4a687f1e7b35b3c13b075d1d53e73afbfa75e271994c6",
+  "build_date": "2025-06-23T17:38:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830116422",
+  "build_id": "15830116422",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse-client?tag=HEAD-f1c1419-250623T151624-aarch64-Linux&download=graphite-clickhouse-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "216",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse-client?tag=HEAD-f1c1419-250623T151624-aarch64-Linux&download=graphite-clickhouse-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse-client:HEAD-f1c1419-250623T151624-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-graphite/graphite-clickhouse/graphite-clickhouse-client?tag=HEAD-f1c1419-250623T151624-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2f383cede3e903666d41925ffccb7755b13dea7b062a44834605d1a475cea25",
+  "size": "7.1 MB",
+  "size_raw": "7403424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
