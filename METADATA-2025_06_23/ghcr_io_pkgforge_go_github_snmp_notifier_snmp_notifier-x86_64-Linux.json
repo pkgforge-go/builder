@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "snmp_notifier",
+  "pkg_family": "snmp_notifier",
+  "pkg_id": "snmp_notifier#github.com_maxwo_snmp_notifier",
+  "pkg_name": "snmp_notifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maxwo/snmp_notifier",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A webhook to relay Prometheus alerts as SNMP traps, because sometimes, you have to deal with legacy",
+  "homepage": [
+    "https://github.com/maxwo/snmp_notifier"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "snmp_notifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/maxwo/snmp_notifier/archive/19a96aae92dced38997d588325a8f59d4e2030ba.tar.gz"
+  ],
+  "tag": [
+    "alert",
+    "alerting",
+    "alertmanager",
+    "centreon",
+    "golang",
+    "nagios",
+    "notification",
+    "prometheus",
+    "snmp",
+    "snmpv2",
+    "snmpv3",
+    "trap",
+    "webhook"
+  ],
+  "version": "HEAD-19a96aa-250623T111928",
+  "version_upstream": "",
+  "bsum": "6ba9295ee9499703df572a7a2d3f6603e37232d4c3bf0f6b77299d20800580d9",
+  "build_date": "2025-06-23T19:29:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15831484257",
+  "build_id": "15831484257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snmp/notifier/snmp_notifier?tag=HEAD-19a96aa-250623T111928-x86_64-Linux&download=snmp_notifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snmp/notifier/snmp_notifier?tag=HEAD-19a96aa-250623T111928-x86_64-Linux&download=snmp_notifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snmp/notifier/snmp_notifier:HEAD-19a96aa-250623T111928-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snmp/notifier/snmp_notifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snmp/notifier/snmp_notifier?tag=HEAD-19a96aa-250623T111928-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10da0986b2dd3c20575543b76b797d56e0374ac8ec0c292a2480c1171a8c13ac",
+  "size": "15 MB",
+  "size_raw": "14780032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
