@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "measure",
+  "pkg_family": "cfac",
+  "pkg_id": "measure#github.com_stv0g_cfac",
+  "pkg_name": "measure",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stv0g/cfac",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Code for Aachen - A Go API for accessing real-time information in the city of Aachen",
+  "homepage": [
+    "https://github.com/stv0g/cfac"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autobahn_livestream_playlist",
+    "measure",
+    "scraper_amqp",
+    "scraper_oparl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stv0g/cfac/archive/ae1c6ee7c91893f1ed205de737de3d6ac0605b0a.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "real-time",
+    "smart-city"
+  ],
+  "version": "HEAD-ae1c6ee-250623T020153",
+  "version_upstream": "",
+  "bsum": "daaa166078d5dde5a25a72c55deaedbe44d39baf94b70d53c8da7c93d0e58cde",
+  "build_date": "2025-06-23T09:23:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819481823",
+  "build_id": "15819481823",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stv0g/cfac/measure?tag=HEAD-ae1c6ee-250623T020153-x86_64-Linux&download=measure.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stv0g/cfac/measure?tag=HEAD-ae1c6ee-250623T020153-x86_64-Linux&download=measure",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stv0g/cfac/measure:HEAD-ae1c6ee-250623T020153-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stv0g/cfac/measure",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stv0g/cfac/measure?tag=HEAD-ae1c6ee-250623T020153-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79662b2fb83775477ff856f3355a68018cf078e51b040da3c1988c15b3cc8fa5",
+  "size": "13 MB",
+  "size_raw": "13099392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
