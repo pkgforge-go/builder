@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "coralogix-operator-cmd",
+  "pkg_family": "coralogix-operator",
+  "pkg_id": "coralogix-operator-cmd#github.com_coralogix_coralogix_operator",
+  "pkg_name": "coralogix-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coralogix/coralogix-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Coralogix Operator for integration with Kubernetes clusters.",
+  "homepage": [
+    "https://github.com/coralogix/coralogix-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coralogix-operator-cmd",
+    "cxo-observer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coralogix/coralogix-operator/archive/8e3a640c7ad24c2da3be940271a1d51b996705ea.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "coralogix",
+    "kubernetes",
+    "logging",
+    "metrics",
+    "observability",
+    "operator",
+    "prometheus"
+  ],
+  "version": "HEAD-8e3a640-250623T163821",
+  "version_upstream": "",
+  "bsum": "98c30741b1ad25dbc386ebad9b393343ea88dae0e0aa29135deb3edb75a35001",
+  "build_date": "2025-06-23T16:58:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829062374",
+  "build_id": "15829062374",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coralogix/coralogix-operator/coralogix-operator-cmd?tag=HEAD-8e3a640-250623T163821-loongarch64-Linux&download=coralogix-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coralogix/coralogix-operator/coralogix-operator-cmd?tag=HEAD-8e3a640-250623T163821-loongarch64-Linux&download=coralogix-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coralogix/coralogix-operator/coralogix-operator-cmd:HEAD-8e3a640-250623T163821-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coralogix/coralogix-operator/coralogix-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coralogix/coralogix-operator/coralogix-operator-cmd?tag=HEAD-8e3a640-250623T163821-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0360d54f9899af98d74648e8eaf0873acdd2a827cc02d5ab914713a2df0470d7",
+  "size": "62 MB",
+  "size_raw": "64349024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
