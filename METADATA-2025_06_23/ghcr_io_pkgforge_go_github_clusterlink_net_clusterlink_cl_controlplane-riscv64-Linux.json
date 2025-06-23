@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cl-controlplane",
+  "pkg_family": "clusterlink",
+  "pkg_id": "cl-controlplane#github.com_clusterlink_net_clusterlink",
+  "pkg_name": "cl-controlplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clusterlink-net/clusterlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Gateway for connecting application services in different domains, networks, and cloud infrastructures",
+  "homepage": [
+    "https://github.com/clusterlink-net/clusterlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cl-controlplane",
+    "cl-dataplane",
+    "cl-go-dataplane",
+    "cl-operator",
+    "clusterlink"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clusterlink-net/clusterlink/archive/4f91646aff92429c28b00f62504866cd4efc0424.tar.gz"
+  ],
+  "tag": [
+    "gateway",
+    "multicluster",
+    "networking"
+  ],
+  "version": "HEAD-4f91646-250623T151927",
+  "version_upstream": "",
+  "bsum": "b17843b04019d71e125feed3e837319a70ff2266d9e0749dc8f6548c984a1c7d",
+  "build_date": "2025-06-23T16:44:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829047255",
+  "build_id": "15829047255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-controlplane?tag=HEAD-4f91646-250623T151927-riscv64-Linux&download=cl-controlplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-controlplane?tag=HEAD-4f91646-250623T151927-riscv64-Linux&download=cl-controlplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clusterlink-net/clusterlink/cl-controlplane:HEAD-4f91646-250623T151927-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clusterlink-net/clusterlink/cl-controlplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-controlplane?tag=HEAD-4f91646-250623T151927-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7d6e7b2a7102fb77b07a87d033eb3a1da6ee260e1e227ec4269b48ab5aa429ae",
+  "size": "51 MB",
+  "size_raw": "52916344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
