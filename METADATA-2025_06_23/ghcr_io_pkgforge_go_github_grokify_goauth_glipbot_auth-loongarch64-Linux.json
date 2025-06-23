@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "glipbot_auth",
+  "pkg_family": "goauth",
+  "pkg_id": "glipbot_auth#github.com_grokify_goauth",
+  "pkg_name": "glipbot_auth",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grokify/goauth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Utility libraries for Go _aka Golang_ API auth including OAuth 2, JWT, TLS Client Authentication and Basic Auth.",
+  "homepage": [
+    "https://github.com/grokify/goauth"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-code-pkce",
+    "get_account",
+    "get_contacts",
+    "get_me",
+    "get_token",
+    "glipbot_auth",
+    "goauth",
+    "interface_function",
+    "jwt",
+    "jwt_deprecated",
+    "query_card",
+    "salesforce_versions",
+    "scim_user",
+    "scim_user_credentials",
+    "send_ics",
+    "send_one",
+    "server",
+    "server2server_oauth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grokify/goauth/archive/011fed9f06c9ae8a7462dfa34296abe6e3389d40.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "oauth2",
+    "utilities"
+  ],
+  "version": "HEAD-011fed9-250622T203312",
+  "version_upstream": "v0.23.15",
+  "bsum": "17a32b9211dc74d5293df258c735732e60ec67357006d857ca8c870e3e5523e7",
+  "build_date": "2025-06-23T07:52:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817539938",
+  "build_id": "15817539938",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/goauth/glipbot_auth?tag=HEAD-011fed9-250622T203312-loongarch64-Linux&download=glipbot_auth.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/goauth/glipbot_auth?tag=HEAD-011fed9-250622T203312-loongarch64-Linux&download=glipbot_auth",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grokify/goauth/glipbot_auth:HEAD-011fed9-250622T203312-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grokify/goauth/glipbot_auth",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/goauth/glipbot_auth?tag=HEAD-011fed9-250622T203312-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "25367aef108c26841cad34646c151ddb694ec7678ac56ce31a6e450048570bcd",
+  "size": "16 MB",
+  "size_raw": "16275840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
