@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "udevd",
+  "pkg_family": "rlxos",
+  "pkg_id": "udevd#github.com_itsManjeet_rlxos",
+  "pkg_name": "udevd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capsule",
+    "console",
+    "debug",
+    "display",
+    "genkeycodes",
+    "init",
+    "service",
+    "udevd",
+    "welcome"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/80c2a1b12d7964b6b94aded730393e258dde61ac.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-80c2a1b-250622T223945",
+  "version_upstream": "",
+  "bsum": "03e343b46d2584c59bcc06e8d83454f7b4c508fbc298300bebdeeafca4c5b961",
+  "build_date": "2025-06-23T14:10:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825148039",
+  "build_id": "15825148039",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/udevd?tag=HEAD-80c2a1b-250622T223945-x86_64-Linux&download=udevd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/udevd?tag=HEAD-80c2a1b-250622T223945-x86_64-Linux&download=udevd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/udevd:HEAD-80c2a1b-250622T223945-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/udevd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/udevd?tag=HEAD-80c2a1b-250622T223945-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b91bbda9e776b58b17704c1082788e5551c4dce5a42f94b64ff98f0cdf4f2d54",
+  "size": "2.0 MB",
+  "size_raw": "2096536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95b2757-250621T144346-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
