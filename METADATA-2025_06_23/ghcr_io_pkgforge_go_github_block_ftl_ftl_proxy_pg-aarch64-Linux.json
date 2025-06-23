@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ftl-proxy-pg",
+  "pkg_family": "ftl",
+  "pkg_id": "ftl-proxy-pg#github.com_block_ftl",
+  "pkg_name": "ftl-proxy-pg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/block/ftl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FTL is a platform for building distributed systems that are safe to operate, easy to reason about, and fast to iterate and develop on.",
+  "homepage": [
+    "https://github.com/block/ftl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ftl",
+    "ftl-admin",
+    "ftl-console",
+    "ftl-cron",
+    "ftl-gen-lsp",
+    "ftl-http-ingress",
+    "ftl-language-go",
+    "ftl-language-java",
+    "ftl-language-kotlin",
+    "ftl-lease",
+    "ftl-provisioner",
+    "ftl-provisioner-cloudformation",
+    "ftl-provisioner-sandbox",
+    "ftl-proxy-pg",
+    "ftl-runner",
+    "ftl-schema",
+    "ftl-schema-mirror",
+    "ftl-timeline",
+    "go2proto",
+    "raft-tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/block/ftl/archive/9e71a4f1fa3899429614fceab920d0d3e3458ebf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e71a4f-250623T022625",
+  "version_upstream": "",
+  "bsum": "4390a2e3781ba27266e531e3594f071130739a00688c90cbf764f2d05fc23484",
+  "build_date": "2025-06-23T07:31:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817399425",
+  "build_id": "15817399425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-proxy-pg?tag=HEAD-9e71a4f-250623T022625-aarch64-Linux&download=ftl-proxy-pg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-proxy-pg?tag=HEAD-9e71a4f-250623T022625-aarch64-Linux&download=ftl-proxy-pg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/block/ftl/ftl-proxy-pg:HEAD-9e71a4f-250623T022625-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/block/ftl/ftl-proxy-pg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-proxy-pg?tag=HEAD-9e71a4f-250623T022625-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "089acdf7873b2bb14e208b39a495b3c346bd625ef36a1ef568f1dfde113d46e3",
+  "size": "17 MB",
+  "size_raw": "16902528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
