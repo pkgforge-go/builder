@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "log",
+  "pkg_family": "mcube",
+  "pkg_id": "log#github.com_infraboard_mcube",
+  "pkg_name": "log",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/infraboard/mcube",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "微服务工具箱",
+  "homepage": [
+    "https://github.com/infraboard/mcube"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "client",
+    "datasource",
+    "http_gin",
+    "http_go_restful",
+    "ip2region",
+    "kafka",
+    "lock",
+    "log",
+    "mcube",
+    "mongo",
+    "project",
+    "redis",
+    "server",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/infraboard/mcube/archive/32e32ab0f895fa506b886be0df2e8ccf4efc88ba.tar.gz"
+  ],
+  "tag": [
+    "ddd-architecture",
+    "http-framework",
+    "http-router",
+    "middlewares",
+    "mircoservices",
+    "restful-webservices"
+  ],
+  "version": "HEAD-32e32ab-250623T085900",
+  "version_upstream": "",
+  "bsum": "4b2bb8c936e11de6cb6fe3781639d866730e437c69e3b35da60b6276cd4ef7ad",
+  "build_date": "2025-06-23T08:02:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817698267",
+  "build_id": "15817698267",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/log?tag=HEAD-32e32ab-250623T085900-aarch64-Linux&download=log.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/log?tag=HEAD-32e32ab-250623T085900-aarch64-Linux&download=log",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/infraboard/mcube/log:HEAD-32e32ab-250623T085900-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/infraboard/mcube/log",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/log?tag=HEAD-32e32ab-250623T085900-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4b3c79cb212d5fbb7753e8c5bab9bb72dc25729f2b1499301be4d945489cc3e",
+  "size": "3.7 MB",
+  "size_raw": "3863232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
