@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sev",
+  "pkg_family": "sev",
+  "pkg_id": "sev#github.com_winebarrel_sev",
+  "pkg_name": "sev",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/winebarrel/sev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool that retrieves AWS Secrets Manager secret values, sets them to environment variables, and executes commands.",
+  "homepage": [
+    "https://github.com/winebarrel/sev"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sev"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/winebarrel/sev/archive/fb09ad35a37a0734d4d5e7316a8291e219eefa1c.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "golang",
+    "secretsmanager"
+  ],
+  "version": "HEAD-fb09ad3-250623T032001",
+  "version_upstream": "",
+  "bsum": "36f472488549cbc686847bdb8b8f5584eca62bd95088fbb85c8a3cc1f661e988",
+  "build_date": "2025-06-23T09:48:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15820912440",
+  "build_id": "15820912440",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/winebarrel/sev/sev?tag=HEAD-fb09ad3-250623T032001-aarch64-Linux&download=sev.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/winebarrel/sev/sev?tag=HEAD-fb09ad3-250623T032001-aarch64-Linux&download=sev",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/winebarrel/sev/sev:HEAD-fb09ad3-250623T032001-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/winebarrel/sev/sev",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/winebarrel/sev/sev?tag=HEAD-fb09ad3-250623T032001-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b29587fa150d6bfcd5316247afc4c63854d06c814a43f32bc951e18d7eb8c67",
+  "size": "18 MB",
+  "size_raw": "18288544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
