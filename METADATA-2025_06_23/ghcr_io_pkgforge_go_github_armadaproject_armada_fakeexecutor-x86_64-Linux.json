@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fakeexecutor",
+  "pkg_family": "armada",
+  "pkg_id": "fakeexecutor#github.com_armadaproject_armada",
+  "pkg_name": "fakeexecutor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/armadaproject/armada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
+  "homepage": [
+    "https://github.com/armadaproject/armada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "armada-load-tester",
+    "armadactl",
+    "binoculars",
+    "dbloadtester",
+    "eventingester",
+    "executor",
+    "fakeexecutor",
+    "generate",
+    "lookout",
+    "lookoutingester",
+    "merge_swagger",
+    "protoc-gen-armada",
+    "scheduler",
+    "scheduleringester",
+    "server",
+    "simulator",
+    "testsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/armadaproject/armada/archive/1ac8ff74ddd6932474f71bdbc936a291a206ef8a.tar.gz"
+  ],
+  "tag": [
+    "gr-oss",
+    "kubernetes"
+  ],
+  "version": "HEAD-1ac8ff7-250623T105918",
+  "version_upstream": "",
+  "bsum": "821304af160fd38965fe81e82e56af700d6603cdf2e50486dd32d0b84f483443",
+  "build_date": "2025-06-23T22:27:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835780549",
+  "build_id": "15835780549",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/fakeexecutor?tag=HEAD-1ac8ff7-250623T105918-x86_64-Linux&download=fakeexecutor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/fakeexecutor?tag=HEAD-1ac8ff7-250623T105918-x86_64-Linux&download=fakeexecutor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/armadaproject/armada/fakeexecutor:HEAD-1ac8ff7-250623T105918-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/armadaproject/armada/fakeexecutor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/fakeexecutor?tag=HEAD-1ac8ff7-250623T105918-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16dcde85d0aa50a6e75fcf4c8d51b5423d8519fa8c5127cc5018f2d50e8e5156",
+  "size": "76 MB",
+  "size_raw": "78862816",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3288cb7-250619T131152-x86_64-Linux[v0.19.7]"
+  ],
+  "trusted": "true"
+}
