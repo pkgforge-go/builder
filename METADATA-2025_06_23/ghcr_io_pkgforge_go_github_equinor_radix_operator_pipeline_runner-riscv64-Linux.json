@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pipeline-runner",
+  "pkg_family": "radix-operator",
+  "pkg_id": "pipeline-runner#github.com_equinor_radix_operator",
+  "pkg_name": "pipeline-runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/equinor/radix-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The operator for the Radix platform",
+  "homepage": [
+    "https://github.com/equinor/radix-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pipeline-runner",
+    "radix-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/equinor/radix-operator/archive/9ca0724adfe51bc25583606029bc4bd6ae8de414.tar.gz"
+  ],
+  "tag": [
+    "continuous-deployment",
+    "continuous-integration",
+    "docker",
+    "kubernetes",
+    "omnia-radix"
+  ],
+  "version": "HEAD-9ca0724-250623T145940",
+  "version_upstream": "",
+  "bsum": "dc8334a04dc7185b2ae617d29a178a7a97b18107d60c4e99837bc1e25d7aeca9",
+  "build_date": "2025-06-23T17:19:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829352884",
+  "build_id": "15829352884",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/equinor/radix-operator/pipeline-runner?tag=HEAD-9ca0724-250623T145940-riscv64-Linux&download=pipeline-runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/equinor/radix-operator/pipeline-runner?tag=HEAD-9ca0724-250623T145940-riscv64-Linux&download=pipeline-runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/equinor/radix-operator/pipeline-runner:HEAD-9ca0724-250623T145940-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/equinor/radix-operator/pipeline-runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/equinor/radix-operator/pipeline-runner?tag=HEAD-9ca0724-250623T145940-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d189d5059473842d6b91d6786d8d9228b3695c36f88072d49373ec62e0a0782",
+  "size": "69 MB",
+  "size_raw": "71672088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

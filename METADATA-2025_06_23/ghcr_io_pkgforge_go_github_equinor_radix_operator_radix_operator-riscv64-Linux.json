@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "radix-operator",
+  "pkg_family": "radix-operator",
+  "pkg_id": "radix-operator#github.com_equinor_radix_operator",
+  "pkg_name": "radix-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/equinor/radix-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The operator for the Radix platform",
+  "homepage": [
+    "https://github.com/equinor/radix-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pipeline-runner",
+    "radix-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/equinor/radix-operator/archive/9ca0724adfe51bc25583606029bc4bd6ae8de414.tar.gz"
+  ],
+  "tag": [
+    "continuous-deployment",
+    "continuous-integration",
+    "docker",
+    "kubernetes",
+    "omnia-radix"
+  ],
+  "version": "HEAD-9ca0724-250623T145940",
+  "version_upstream": "",
+  "bsum": "5db0bc6f116de8eea3b3e9d891e58a2f7c4bc529d15d571cc16c282eae0a22ef",
+  "build_date": "2025-06-23T17:18:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829352884",
+  "build_id": "15829352884",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/equinor/radix-operator/radix-operator?tag=HEAD-9ca0724-250623T145940-riscv64-Linux&download=radix-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/equinor/radix-operator/radix-operator?tag=HEAD-9ca0724-250623T145940-riscv64-Linux&download=radix-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/equinor/radix-operator/radix-operator:HEAD-9ca0724-250623T145940-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/equinor/radix-operator/radix-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/equinor/radix-operator/radix-operator?tag=HEAD-9ca0724-250623T145940-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ccbc0a53079c8d1c4149b31ee52bc88c259ece2821254b0983754735874ee91",
+  "size": "67 MB",
+  "size_raw": "70145784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
