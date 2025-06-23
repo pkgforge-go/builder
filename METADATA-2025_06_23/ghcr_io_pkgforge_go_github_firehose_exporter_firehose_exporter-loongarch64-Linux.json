@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "firehose_exporter",
+  "pkg_family": "firehose_exporter",
+  "pkg_id": "firehose_exporter#github.com_cloudfoundry_firehose_exporter",
+  "pkg_name": "firehose_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/firehose_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry Firehose Prometheus exporter",
+  "homepage": [
+    "https://github.com/cloudfoundry/firehose_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "firehose_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/firehose_exporter/archive/eefcddf1ed1ad832f20616ddcbc8e09b90198faf.tar.gz"
+  ],
+  "tag": [
+    "cloud-foundry",
+    "firehose",
+    "metrics",
+    "prometheus"
+  ],
+  "version": "HEAD-eefcddf-250623T053844",
+  "version_upstream": "",
+  "bsum": "04e8aca34bc9cc59fb7b8e12c016ff1a62ebf8868e26e1e0e6936b05f1567a09",
+  "build_date": "2025-06-23T07:21:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817422457",
+  "build_id": "15817422457",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/firehose/exporter/firehose_exporter?tag=HEAD-eefcddf-250623T053844-loongarch64-Linux&download=firehose_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/firehose/exporter/firehose_exporter?tag=HEAD-eefcddf-250623T053844-loongarch64-Linux&download=firehose_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/firehose/exporter/firehose_exporter:HEAD-eefcddf-250623T053844-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/firehose/exporter/firehose_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/firehose/exporter/firehose_exporter?tag=HEAD-eefcddf-250623T053844-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "766c5caee8e711e399a5f58ee99f4d1638986de579c1f00b8d323991c6e3429d",
+  "size": "15 MB",
+  "size_raw": "14680960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
