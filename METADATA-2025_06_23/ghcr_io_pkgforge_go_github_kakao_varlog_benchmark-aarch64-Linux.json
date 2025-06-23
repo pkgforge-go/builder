@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "benchmark",
+  "pkg_family": "varlog",
+  "pkg_id": "benchmark#github.com_kakao_varlog",
+  "pkg_name": "benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakao/varlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable distributed log storage for strong consistency, total order, and high availability",
+  "homepage": [
+    "https://github.com/kakao/varlog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "mrtool",
+    "varlogadm",
+    "varlogcli",
+    "varlogctl",
+    "varlogmr",
+    "varlogsn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kakao/varlog/archive/ad3516878828fc548e10b0ec27358b4b33942502.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ad35168-250622T224054",
+  "version_upstream": "v0.28.1",
+  "bsum": "4e6063c832fa1e99b7541aa96bf4c9ecd017442ab6c8846acc15ffe0a2871a5e",
+  "build_date": "2025-06-23T04:05:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813779703",
+  "build_id": "15813779703",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-ad35168-250622T224054-aarch64-Linux&download=benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-ad35168-250622T224054-aarch64-Linux&download=benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakao/varlog/benchmark:HEAD-ad35168-250622T224054-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakao/varlog/benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-ad35168-250622T224054-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d73b22af5b46c55aab8260c022f20bcbc881bbfa514e9a8eca5f17e5c62f56c2",
+  "size": "26 MB",
+  "size_raw": "26475712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6f3bfef-250620T123113-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
