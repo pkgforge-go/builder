@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "management",
+  "pkg_family": "netbird",
+  "pkg_id": "management#github.com_netbirdio_netbird",
+  "pkg_name": "management",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/netbirdio/netbird",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+  "homepage": [
+    "https://github.com/netbirdio/netbird"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "example",
+    "management",
+    "relay",
+    "signal",
+    "testec2",
+    "upload-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/netbirdio/netbird/archive/870e29db63e118ca8273cabc39107365611eef55.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "mesh",
+    "mesh-networks",
+    "nat-traversal",
+    "netbird",
+    "vpn",
+    "wireguard",
+    "wireguard-vpn",
+    "wiretrustee",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-870e29d-250622T134425",
+  "version_upstream": "",
+  "bsum": "477916bd9df545be6ac25812333c700ac1c1d597a761343b2762ffedc57d8b05",
+  "build_date": "2025-06-23T04:16:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813808412",
+  "build_id": "15813808412",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/management?tag=HEAD-870e29d-250622T134425-loongarch64-Linux&download=management.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16194",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/management?tag=HEAD-870e29d-250622T134425-loongarch64-Linux&download=management",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netbirdio/netbird/management:HEAD-870e29d-250622T134425-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netbirdio/netbird/management",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/management?tag=HEAD-870e29d-250622T134425-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22302945b0b51b9a31c574d5469c5b7c4a4e310f8b9801d001cbd8adf935134f",
+  "size": "47 MB",
+  "size_raw": "49185864",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-83457f8-250620T121324-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
