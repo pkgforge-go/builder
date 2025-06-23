@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "xmtpd",
+  "pkg_id": "cli#github.com_xmtp_xmtpd",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xmtp/xmtpd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "XMTP node implementation.",
+  "homepage": [
+    "https://github.com/xmtp/xmtpd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "docs",
+    "prune",
+    "replication",
+    "xmtpd-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xmtp/xmtpd/archive/89aab20e12309371e4c72b98fa2fa194418f4b5c.tar.gz"
+  ],
+  "tag": [
+    "messaging",
+    "web3"
+  ],
+  "version": "HEAD-89aab20-250623T114123",
+  "version_upstream": "",
+  "bsum": "f2ca31d23233cf8bb019aae4cce7b1c03d0d8d144604c33634dd9d6ad22ae5ba",
+  "build_date": "2025-06-23T21:07:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833952796",
+  "build_id": "15833952796",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/cli?tag=HEAD-89aab20-250623T114123-aarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/cli?tag=HEAD-89aab20-250623T114123-aarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xmtp/xmtpd/cli:HEAD-89aab20-250623T114123-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xmtp/xmtpd/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/cli?tag=HEAD-89aab20-250623T114123-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02da19cd6fc9c6e16996e29bf71d427ac050dae726050c3f50b7a1992a78d803",
+  "size": "31 MB",
+  "size_raw": "31584608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
