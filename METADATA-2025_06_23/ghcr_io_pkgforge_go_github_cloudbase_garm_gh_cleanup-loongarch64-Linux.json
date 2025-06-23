@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gh_cleanup",
+  "pkg_family": "garm",
+  "pkg_id": "gh_cleanup#github.com_cloudbase_garm",
+  "pkg_name": "gh_cleanup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudbase/garm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GitHub Actions Runner Manager",
+  "homepage": [
+    "https://github.com/cloudbase/garm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "garm",
+    "garm-cli",
+    "gh_cleanup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudbase/garm/archive/42839917f33e81e21ff79a3cfdfdfe0e2355a2aa.tar.gz"
+  ],
+  "tag": [
+    "autoscaling",
+    "autoscaller",
+    "aws",
+    "azure",
+    "ec2",
+    "equinix",
+    "gcp",
+    "gitea",
+    "github",
+    "incus",
+    "k8s",
+    "kubernetes",
+    "lxd",
+    "openstack",
+    "runner",
+    "self-hosted"
+  ],
+  "version": "HEAD-4283991-250621T205403",
+  "version_upstream": "",
+  "bsum": "60d071311590dad7c59d34d5695b28572fead79efa8a29f6945cb8020da38472",
+  "build_date": "2025-06-23T05:03:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815368224",
+  "build_id": "15815368224",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/gh_cleanup?tag=HEAD-4283991-250621T205403-loongarch64-Linux&download=gh_cleanup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "193",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/gh_cleanup?tag=HEAD-4283991-250621T205403-loongarch64-Linux&download=gh_cleanup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudbase/garm/gh_cleanup:HEAD-4283991-250621T205403-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudbase/garm/gh_cleanup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/gh_cleanup?tag=HEAD-4283991-250621T205403-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f0cd61b81793cb2afe5a744cc3f0ac722d0c6e43287883c6246f32cbe733d7c",
+  "size": "6.9 MB",
+  "size_raw": "7147296",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-43a2343-250619T003456-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
