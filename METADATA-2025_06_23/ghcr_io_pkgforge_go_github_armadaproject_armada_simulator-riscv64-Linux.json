@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "simulator",
+  "pkg_family": "armada",
+  "pkg_id": "simulator#github.com_armadaproject_armada",
+  "pkg_name": "simulator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/armadaproject/armada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
+  "homepage": [
+    "https://github.com/armadaproject/armada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "armada-load-tester",
+    "armadactl",
+    "binoculars",
+    "dbloadtester",
+    "eventingester",
+    "executor",
+    "fakeexecutor",
+    "generate",
+    "lookout",
+    "lookoutingester",
+    "merge_swagger",
+    "protoc-gen-armada",
+    "scheduler",
+    "scheduleringester",
+    "server",
+    "simulator",
+    "testsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/armadaproject/armada/archive/1ac8ff74ddd6932474f71bdbc936a291a206ef8a.tar.gz"
+  ],
+  "tag": [
+    "gr-oss",
+    "kubernetes"
+  ],
+  "version": "HEAD-1ac8ff7-250623T105918",
+  "version_upstream": "",
+  "bsum": "fe91715d326685d8d24847c338c004c61ed18a3de2abee0dff03ff2f39c569be",
+  "build_date": "2025-06-23T22:28:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835780549",
+  "build_id": "15835780549",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/simulator?tag=HEAD-1ac8ff7-250623T105918-riscv64-Linux&download=simulator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/simulator?tag=HEAD-1ac8ff7-250623T105918-riscv64-Linux&download=simulator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/armadaproject/armada/simulator:HEAD-1ac8ff7-250623T105918-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/armadaproject/armada/simulator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/simulator?tag=HEAD-1ac8ff7-250623T105918-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e2fd8273cda25415a8e85cac79d97ffc3fe937da58a9370f2bdc262b426662f",
+  "size": "53 MB",
+  "size_raw": "54739544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3288cb7-250619T131152-riscv64-Linux[v0.19.7]"
+  ],
+  "trusted": "true"
+}

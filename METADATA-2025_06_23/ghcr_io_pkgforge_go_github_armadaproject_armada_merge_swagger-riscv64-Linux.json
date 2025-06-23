@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "merge_swagger",
+  "pkg_family": "armada",
+  "pkg_id": "merge_swagger#github.com_armadaproject_armada",
+  "pkg_name": "merge_swagger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/armadaproject/armada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
+  "homepage": [
+    "https://github.com/armadaproject/armada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "armada-load-tester",
+    "armadactl",
+    "binoculars",
+    "dbloadtester",
+    "eventingester",
+    "executor",
+    "fakeexecutor",
+    "generate",
+    "lookout",
+    "lookoutingester",
+    "merge_swagger",
+    "protoc-gen-armada",
+    "scheduler",
+    "scheduleringester",
+    "server",
+    "simulator",
+    "testsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/armadaproject/armada/archive/1ac8ff74ddd6932474f71bdbc936a291a206ef8a.tar.gz"
+  ],
+  "tag": [
+    "gr-oss",
+    "kubernetes"
+  ],
+  "version": "HEAD-1ac8ff7-250623T105918",
+  "version_upstream": "",
+  "bsum": "174dc18352ed13670fd9c663a0a7b13d7ecc68f48c5e5e7575d7eca1993e547a",
+  "build_date": "2025-06-23T22:27:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835780549",
+  "build_id": "15835780549",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/merge_swagger?tag=HEAD-1ac8ff7-250623T105918-riscv64-Linux&download=merge_swagger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/merge_swagger?tag=HEAD-1ac8ff7-250623T105918-riscv64-Linux&download=merge_swagger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/armadaproject/armada/merge_swagger:HEAD-1ac8ff7-250623T105918-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/armadaproject/armada/merge_swagger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/merge_swagger?tag=HEAD-1ac8ff7-250623T105918-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67794f704ef4e5982468b9d306f6b54286016fe4e05cdd7e2f2beee28e796091",
+  "size": "7.9 MB",
+  "size_raw": "8181624",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3288cb7-250619T131152-riscv64-Linux[v0.19.7]"
+  ],
+  "trusted": "true"
+}
