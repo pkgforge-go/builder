@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rxtls",
+  "pkg_family": "rxtls",
+  "pkg_id": "rxtls#github.com_x_stp_rxtls",
+  "pkg_name": "rxtls",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/x-stp/rxtls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "rxtls is a hyper-optimized, per-core Certificate Transparency _CT_ log processor built for one purpose: to extract and process 100,000+ X.509 certificates per second from the global CT ecosystem with zero GC, zero blocking, and total CPU saturation.",
+  "homepage": [
+    "https://github.com/x-stp/rxtls"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rxtls"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/x-stp/rxtls/archive/4701cacae2bb36212f12c19833ec6bc77de0fa90.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4701cac-250519T224109",
+  "version_upstream": "",
+  "bsum": "ee003f7b5981645513acd885c58893a086ddb8fbcf3427bd49c9df2542ebdcab",
+  "build_date": "2025-06-23T09:51:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15820912718",
+  "build_id": "15820912718",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/x-stp/rxtls/rxtls?tag=HEAD-4701cac-250519T224109-loongarch64-Linux&download=rxtls.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/x-stp/rxtls/rxtls?tag=HEAD-4701cac-250519T224109-loongarch64-Linux&download=rxtls",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/x-stp/rxtls/rxtls:HEAD-4701cac-250519T224109-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/x-stp/rxtls/rxtls",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/x-stp/rxtls/rxtls?tag=HEAD-4701cac-250519T224109-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c3e8078d03282e4fb6eddfe4e8e02391a222563302f181bfbe46c659e503fb0",
+  "size": "9.7 MB",
+  "size_raw": "10104288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
