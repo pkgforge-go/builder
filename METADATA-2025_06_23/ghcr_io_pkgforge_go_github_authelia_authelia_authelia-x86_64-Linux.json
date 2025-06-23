@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "authelia",
+  "pkg_family": "authelia",
+  "pkg_id": "authelia#github.com_authelia_authelia",
+  "pkg_name": "authelia",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/authelia/authelia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+  "homepage": [
+    "https://github.com/authelia/authelia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authelia",
+    "authelia-gen",
+    "authelia-scripts",
+    "authelia-suites"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/authelia/authelia/archive/7e132879d239715594bd79c4fc0fc506498c85e6.tar.gz"
+  ],
+  "tag": [
+    "2fa",
+    "authentication",
+    "docker",
+    "golang",
+    "kubernetes",
+    "ldap",
+    "mfa",
+    "multifactor",
+    "oauth2",
+    "openid-connect",
+    "passkeys",
+    "push-notifications",
+    "security",
+    "sso",
+    "sso-authentication",
+    "totp",
+    "two-factor",
+    "two-factor-authentication",
+    "webauthn",
+    "yubikey"
+  ],
+  "version": "HEAD-7e13287-250622T003450",
+  "version_upstream": "",
+  "bsum": "2ac892d23acf405c3945d31227f9f4fb441fa88bca735de8ec1fd487b1327a57",
+  "build_date": "2025-06-23T02:47:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813640030",
+  "build_id": "15813640030",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authelia/authelia/authelia?tag=HEAD-7e13287-250622T003450-x86_64-Linux&download=authelia.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24207",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authelia/authelia/authelia?tag=HEAD-7e13287-250622T003450-x86_64-Linux&download=authelia",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/authelia/authelia/authelia:HEAD-7e13287-250622T003450-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/authelia/authelia/authelia",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authelia/authelia/authelia?tag=HEAD-7e13287-250622T003450-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff54a5463d939e3c22d222dc1a4364a4cafe93f2a90e24b590480bebd955f9b3",
+  "size": "51 MB",
+  "size_raw": "52983264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7dba12d-250617T134130-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
