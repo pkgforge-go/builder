@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ftl-provisioner-sandbox",
+  "pkg_family": "ftl",
+  "pkg_id": "ftl-provisioner-sandbox#github.com_block_ftl",
+  "pkg_name": "ftl-provisioner-sandbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/block/ftl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FTL is a platform for building distributed systems that are safe to operate, easy to reason about, and fast to iterate and develop on.",
+  "homepage": [
+    "https://github.com/block/ftl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ftl-admin",
+    "ftl-console",
+    "ftl-gen-lsp",
+    "ftl-http-ingress",
+    "ftl-language-go",
+    "ftl-language-java",
+    "ftl-language-kotlin",
+    "ftl-lease",
+    "ftl-provisioner",
+    "ftl-provisioner-cloudformation",
+    "ftl-provisioner-sandbox",
+    "ftl-proxy-pg",
+    "ftl-runner",
+    "ftl-schema-mirror",
+    "ftl-timeline",
+    "go2proto"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/block/ftl/archive/9e71a4f1fa3899429614fceab920d0d3e3458ebf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e71a4f-250623T022625",
+  "version_upstream": "",
+  "bsum": "87e2a3fcc9b8b610759066781dc46204ea639951236def3cfc75c16aa5b07de9",
+  "build_date": "2025-06-23T07:27:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817399425",
+  "build_id": "15817399425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-provisioner-sandbox?tag=HEAD-9e71a4f-250623T022625-loongarch64-Linux&download=ftl-provisioner-sandbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-provisioner-sandbox?tag=HEAD-9e71a4f-250623T022625-loongarch64-Linux&download=ftl-provisioner-sandbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/block/ftl/ftl-provisioner-sandbox:HEAD-9e71a4f-250623T022625-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/block/ftl/ftl-provisioner-sandbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-provisioner-sandbox?tag=HEAD-9e71a4f-250623T022625-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c54e3810469d17e76b8eea4d8ca61befe52cfaacd03306fb714b1ee9f4f42842",
+  "size": "32 MB",
+  "size_raw": "32858912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
