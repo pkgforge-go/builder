@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "aws",
+  "pkg_family": "tessera",
+  "pkg_id": "aws#github.com_transparency_dev_tessera",
+  "pkg_name": "aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transparency-dev/tessera",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for building tile-based transparency logs _tlogs_",
+  "homepage": [
+    "https://github.com/transparency-dev/tessera"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "fsck",
+    "gcp",
+    "hammer",
+    "mysql",
+    "posix",
+    "posix-oneshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transparency-dev/tessera/archive/34f80cb0ab2ecd896d0dcad4d6f74588d7f91e45.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34f80cb-250623T124311",
+  "version_upstream": "",
+  "bsum": "dc07ee6017447910a067af918b56105a57f88461960aa2c09efd2b2d8ca09cfa",
+  "build_date": "2025-06-23T20:53:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833531217",
+  "build_id": "15833531217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/aws?tag=HEAD-34f80cb-250623T124311-aarch64-Linux&download=aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "72",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/aws?tag=HEAD-34f80cb-250623T124311-aarch64-Linux&download=aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transparency-dev/tessera/aws:HEAD-34f80cb-250623T124311-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transparency-dev/tessera/aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/aws?tag=HEAD-34f80cb-250623T124311-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1f61b42f1fd9f260d1a83ba0974e6eea1a551017ed41b762882ba2f9e76ea8f",
+  "size": "18 MB",
+  "size_raw": "18315040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
