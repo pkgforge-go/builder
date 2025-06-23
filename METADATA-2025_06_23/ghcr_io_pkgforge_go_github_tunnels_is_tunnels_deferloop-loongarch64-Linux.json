@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "deferloop",
+  "pkg_family": "tunnels",
+  "pkg_id": "deferloop#github.com_tunnels_is_tunnels",
+  "pkg_name": "deferloop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tunnels-is/tunnels",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_ANU_ Advanced Networking Utility + Full GUI _ VPN, Zero Trust Network, NAT, Routing, DNS Server + filtering_",
+  "homepage": [
+    "https://github.com/tunnels-is/tunnels"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arch",
+    "build-parser",
+    "curve",
+    "dbstuff",
+    "deferloop",
+    "dns",
+    "encrypt",
+    "filescanner",
+    "ipforward",
+    "json",
+    "logging",
+    "main",
+    "min",
+    "nat",
+    "network",
+    "new-mapping",
+    "raw",
+    "server",
+    "sharding",
+    "signing",
+    "slice",
+    "slicevslock",
+    "structures"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tunnels-is/tunnels/archive/b448db22cfe8f8cd71f58ee7cd9b6e15356a7f4b.tar.gz"
+  ],
+  "tag": [
+    "devops",
+    "dns",
+    "nat",
+    "networking",
+    "routing"
+  ],
+  "version": "HEAD-b448db2-250622T105534",
+  "version_upstream": "v2.0.2",
+  "bsum": "487ac246d81963c70b9e25745ee09673f9d29e21a461a04b19f50f27eb2b03b6",
+  "build_date": "2025-06-23T09:40:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819687954",
+  "build_id": "15819687954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/deferloop?tag=HEAD-b448db2-250622T105534-loongarch64-Linux&download=deferloop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/deferloop?tag=HEAD-b448db2-250622T105534-loongarch64-Linux&download=deferloop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tunnels-is/tunnels/deferloop:HEAD-b448db2-250622T105534-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tunnels-is/tunnels/deferloop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/deferloop?tag=HEAD-b448db2-250622T105534-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b0816a18d89d846ffda4b14c351a61a300ff374bbc0258566b312d72f3cd8a73",
+  "size": "1.6 MB",
+  "size_raw": "1644504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
