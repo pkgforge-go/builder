@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "releasego",
+  "pkg_family": "go-infra",
+  "pkg_id": "releasego#github.com_microsoft_go_infra",
+  "pkg_name": "releasego",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/go-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Infrastructure supporting the use of Go in Microsoft",
+  "homepage": [
+    "https://github.com/microsoft/go-infra"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dockerupdate",
+    "dockerupdatepr",
+    "fuzzcrypto",
+    "getmingw",
+    "git-go-patch",
+    "json2junit",
+    "releaseagent",
+    "releasego",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/go-infra/archive/a44feb7cc5d5ef1a77ae4afdc88c4a4cc9b56e36.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a44feb7-250623T114747",
+  "version_upstream": "",
+  "bsum": "6717b321d20365e004adf5ea7e1ffa8e38d98e44a829d0325d72ef196e3c5246",
+  "build_date": "2025-06-23T08:31:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818312272",
+  "build_id": "15818312272",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/releasego?tag=HEAD-a44feb7-250623T114747-riscv64-Linux&download=releasego.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/releasego?tag=HEAD-a44feb7-250623T114747-riscv64-Linux&download=releasego",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/go-infra/releasego:HEAD-a44feb7-250623T114747-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/go-infra/releasego",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/releasego?tag=HEAD-a44feb7-250623T114747-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c850d1f4d2e3d706222ea37187ad9e565e260bb09f27bd329798a426f162c61c",
+  "size": "14 MB",
+  "size_raw": "13707192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
