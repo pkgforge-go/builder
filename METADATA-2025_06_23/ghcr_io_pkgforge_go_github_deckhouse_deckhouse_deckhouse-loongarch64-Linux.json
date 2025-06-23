@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "deckhouse",
+  "pkg_family": "deckhouse",
+  "pkg_id": "deckhouse#github.com_deckhouse_deckhouse",
+  "pkg_name": "deckhouse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/deckhouse/deckhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes platform from Flant",
+  "homepage": [
+    "https://github.com/deckhouse/deckhouse"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "deckhouse"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/deckhouse/deckhouse/archive/cffacbc8564211ea2d11379efffa3fb7c51b8fc3.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-distribution",
+    "kubernetes-platform"
+  ],
+  "version": "HEAD-cffacbc-250623T172001",
+  "version_upstream": "",
+  "bsum": "59f7b9d08f99a38c0cc57226b5fb26cfc66918750a31b11f29726dd1f3b3345d",
+  "build_date": "2025-06-23T22:37:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835822854",
+  "build_id": "15835822854",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/deckhouse/deckhouse?tag=HEAD-cffacbc-250623T172001-loongarch64-Linux&download=deckhouse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/deckhouse/deckhouse?tag=HEAD-cffacbc-250623T172001-loongarch64-Linux&download=deckhouse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/deckhouse/deckhouse/deckhouse:HEAD-cffacbc-250623T172001-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/deckhouse/deckhouse/deckhouse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/deckhouse/deckhouse?tag=HEAD-cffacbc-250623T172001-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f968e05cea6860286862e06f746844402dfa85cb38d6201210ee2b1cf89794aa",
+  "size": "142 MB",
+  "size_raw": "148349608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-baf6e71-250619T155817-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
