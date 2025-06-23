@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kcp-operator",
+  "pkg_family": "kcp-operator",
+  "pkg_id": "kcp-operator#github.com_kcp_dev_kcp_operator",
+  "pkg_name": "kcp-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kcp-dev/kcp-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator to deploy and manage kcp instances.",
+  "homepage": [
+    "https://github.com/kcp-dev/kcp-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kcp-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kcp-dev/kcp-operator/archive/5e2a3936706c56a09b8986a51fb2d17ded9725fb.tar.gz"
+  ],
+  "tag": [
+    "kcp",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-5e2a393-250623T142129",
+  "version_upstream": "",
+  "bsum": "3610374c9208a56d09837d3341e2de940d1ae9bff11e83348635118b3a17ef4a",
+  "build_date": "2025-06-23T18:19:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830568877",
+  "build_id": "15830568877",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp-operator/kcp-operator?tag=HEAD-5e2a393-250623T142129-riscv64-Linux&download=kcp-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp-operator/kcp-operator?tag=HEAD-5e2a393-250623T142129-riscv64-Linux&download=kcp-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kcp-dev/kcp-operator/kcp-operator:HEAD-5e2a393-250623T142129-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kcp-dev/kcp-operator/kcp-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kcp-dev/kcp-operator/kcp-operator?tag=HEAD-5e2a393-250623T142129-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "50fdb7bde08c9669cb65448d5fa416e786b3141bd28d5f0f640f095db9823dda",
+  "size": "51 MB",
+  "size_raw": "53083128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
