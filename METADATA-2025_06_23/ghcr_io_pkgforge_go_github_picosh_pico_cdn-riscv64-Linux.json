@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cdn",
+  "pkg_family": "pico",
+  "pkg_id": "cdn#github.com_picosh_pico",
+  "pkg_name": "cdn",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/picosh/pico",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The ultimate ssh powered services for developers",
+  "homepage": [
+    "https://github.com/picosh/pico"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analytics",
+    "cdn",
+    "clean-analytics",
+    "dates",
+    "fetch",
+    "file-size-sync",
+    "migrate",
+    "pico-plus",
+    "secret",
+    "shasum",
+    "ssh",
+    "tags",
+    "web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/picosh/pico/archive/e28e5d47c74a673890d4e3aef17a1db1867204e2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e28e5d4-250622T145304",
+  "version_upstream": "",
+  "bsum": "6be8d310d0c77f39f1cec5866f90a6189f31a4ef7c088701ca1904e154a11c73",
+  "build_date": "2025-06-23T14:46:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825288859",
+  "build_id": "15825288859",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picosh/pico/cdn?tag=HEAD-e28e5d4-250622T145304-riscv64-Linux&download=cdn.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1156",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picosh/pico/cdn?tag=HEAD-e28e5d4-250622T145304-riscv64-Linux&download=cdn",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/picosh/pico/cdn:HEAD-e28e5d4-250622T145304-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/picosh/pico/cdn",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picosh/pico/cdn?tag=HEAD-e28e5d4-250622T145304-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b69c51cc391dafc23803d02dc37c1cab4004a5b46a95c913bf485fe4aa27ac5",
+  "size": "93 MB",
+  "size_raw": "97258680",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cda5bd5-250620T145712-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
