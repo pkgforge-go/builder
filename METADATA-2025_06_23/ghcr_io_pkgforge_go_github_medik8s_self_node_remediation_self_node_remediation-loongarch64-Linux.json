@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "self-node-remediation",
+  "pkg_family": "self-node-remediation",
+  "pkg_id": "self-node-remediation#github.com_medik8s_self_node_remediation",
+  "pkg_name": "self-node-remediation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/medik8s/self-node-remediation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatic repair for unhealthy Kubernetes nodes",
+  "homepage": [
+    "https://github.com/medik8s/self-node-remediation"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "self-node-remediation"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/medik8s/self-node-remediation/archive/c960b00b7671d2b9f67134d18a73c08bde6be30c.tar.gz"
+  ],
+  "tag": [
+    "availability",
+    "k8s",
+    "kubernetes",
+    "kubernetes-node",
+    "kubernetes-operator",
+    "maintenance",
+    "operator",
+    "remediation"
+  ],
+  "version": "HEAD-c960b00-250622T174942",
+  "version_upstream": "",
+  "bsum": "bcf8742c1e539ac00fd7dd5804435fdf59811bc8591088e14c8c43b381a73c6a",
+  "build_date": "2025-06-23T08:29:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818304780",
+  "build_id": "15818304780",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/medik8s/self-node-remediation/self-node-remediation?tag=HEAD-c960b00-250622T174942-loongarch64-Linux&download=self-node-remediation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/medik8s/self-node-remediation/self-node-remediation?tag=HEAD-c960b00-250622T174942-loongarch64-Linux&download=self-node-remediation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/medik8s/self-node-remediation/self-node-remediation:HEAD-c960b00-250622T174942-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/medik8s/self-node-remediation/self-node-remediation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/medik8s/self-node-remediation/self-node-remediation?tag=HEAD-c960b00-250622T174942-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5f3687c4a9ed6deb4b6fead85398b54490619c95001ba0b9021d3e700c5436b",
+  "size": "41 MB",
+  "size_raw": "42674688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
