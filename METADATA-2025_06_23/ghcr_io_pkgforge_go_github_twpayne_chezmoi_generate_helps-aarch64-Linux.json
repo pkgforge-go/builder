@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate-helps",
+  "pkg_family": "chezmoi",
+  "pkg_id": "generate-helps#github.com_twpayne_chezmoi",
+  "pkg_name": "generate-helps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/twpayne/chezmoi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage your dotfiles across multiple diverse machines, securely.",
+  "homepage": [
+    "https://github.com/twpayne/chezmoi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chezmoi",
+    "execute-template",
+    "generate-commit",
+    "generate-helps",
+    "generate-install.sh",
+    "generate-license",
+    "lint-commit-messages",
+    "lint-txtar",
+    "lint-whitespace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/twpayne/chezmoi/archive/6384ea3f6b8059bfc554181aa3f5f461c7610024.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "dotfile",
+    "dotfile-management",
+    "dotfile-manager",
+    "dotfile-managers",
+    "dotfile-syncer",
+    "dotfiles",
+    "dotfiles-manager",
+    "linux",
+    "macos",
+    "multiple-machines",
+    "security",
+    "windows"
+  ],
+  "version": "HEAD-6384ea3-250622T161837",
+  "version_upstream": "v2.62.7",
+  "bsum": "914fda9248e39179fb16825ed71e04352187961e806500bc623773cb07087c06",
+  "build_date": "2025-06-23T14:49:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825336170",
+  "build_id": "15825336170",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/generate-helps?tag=HEAD-6384ea3-250622T161837-aarch64-Linux&download=generate-helps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15239",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/generate-helps?tag=HEAD-6384ea3-250622T161837-aarch64-Linux&download=generate-helps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/twpayne/chezmoi/generate-helps:HEAD-6384ea3-250622T161837-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/twpayne/chezmoi/generate-helps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/generate-helps?tag=HEAD-6384ea3-250622T161837-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "081c0a72ae89a5de01f808c43e2ba5f66b1a9a19e9b2f8a5f949dd586c8e24db",
+  "size": "11 MB",
+  "size_raw": "11225592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-22ffc1d-250621T174419-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
