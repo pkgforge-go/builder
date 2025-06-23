@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mock-swift-dispersion-report-with-errors",
+  "pkg_family": "swift-health-exporter",
+  "pkg_id": "mock-swift-dispersion-report-with-errors#github.com_sapcc_swift_health_exporter",
+  "pkg_name": "mock-swift-dispersion-report-with-errors",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/swift-health-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for OpenStack Swift cluster health",
+  "homepage": [
+    "https://github.com/sapcc/swift-health-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock-swift-dispersion-report",
+    "mock-swift-dispersion-report-with-errors",
+    "mock-swift-recon",
+    "mock-swift-recon-with-errors",
+    "swift-health-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/swift-health-exporter/archive/d8edfef5bd65d1a47e723472ff29f8edd83a1d14.tar.gz"
+  ],
+  "tag": [
+    "openstack",
+    "openstack-swift",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-d8edfef-250623T113315",
+  "version_upstream": "",
+  "bsum": "4a95566a9afb057cec81c53ea97782b7d5aed5d4206c4ab7511eef35b23d4ef3",
+  "build_date": "2025-06-23T20:06:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833338357",
+  "build_id": "15833338357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-dispersion-report-with-errors?tag=HEAD-d8edfef-250623T113315-loongarch64-Linux&download=mock-swift-dispersion-report-with-errors.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-dispersion-report-with-errors?tag=HEAD-d8edfef-250623T113315-loongarch64-Linux&download=mock-swift-dispersion-report-with-errors",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-dispersion-report-with-errors:HEAD-d8edfef-250623T113315-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-dispersion-report-with-errors",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/swift-health-exporter/mock-swift-dispersion-report-with-errors?tag=HEAD-d8edfef-250623T113315-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0614a03cd9804b490934fd5a11568798b2347d06352267afef7333183358f60",
+  "size": "1.9 MB",
+  "size_raw": "1933112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
