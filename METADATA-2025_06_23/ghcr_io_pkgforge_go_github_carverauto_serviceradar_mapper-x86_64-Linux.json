@@ -26,6 +26,7 @@
     "agent",
     "cli",
     "core",
+    "db-event-writer",
     "device",
     "dusk",
     "faker",
@@ -43,7 +44,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/carverauto/serviceradar/archive/5801ebc828eab7b91c8f46790c33b39f82200714.tar.gz"
+    "https://github.com/carverauto/serviceradar/archive/ccee17821c6d6918f774adde98fdfdb135899249.tar.gz"
   ],
   "tag": [
     "distributed",
@@ -55,22 +56,22 @@
     "network-scanning",
     "ubiquiti"
   ],
-  "version": "HEAD-5801ebc-250622T001603",
+  "version": "HEAD-ccee178-250622T224418",
   "version_upstream": "",
   "bsum": "1a18101749c8d7b0a24931b7df0c7b0dbaeb62a1957318a28dddd9b9ebe7cf41",
-  "build_date": "2025-06-23T02:53:21Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813671607",
-  "build_id": "15813671607",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-5801ebc-250622T001603-x86_64-Linux&download=mapper.log",
+  "build_date": "2025-06-23T13:37:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071484",
+  "build_id": "15825071484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-ccee178-250622T224418-x86_64-Linux&download=mapper.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "186",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-5801ebc-250622T001603-x86_64-Linux&download=mapper",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-ccee178-250622T224418-x86_64-Linux&download=mapper",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/mapper:HEAD-5801ebc-250622T001603-x86_64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/mapper:HEAD-ccee178-250622T224418-x86_64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/mapper",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-5801ebc-250622T001603-x86_64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-ccee178-250622T224418-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "26b7d8f7a3b37e5a4ead2b8520c4ca1266ebb3ede4de50a2bc735b9827ec271f",
@@ -78,7 +79,8 @@
   "size_raw": "16571104",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-1a5aa35-250619T221913-x86_64-Linux[1.0.44-pre6]"
+    "HEAD-1a5aa35-250619T221913-x86_64-Linux[1.0.44-pre6]",
+    "HEAD-5801ebc-250622T001603-x86_64-Linux"
   ],
   "trusted": "true"
 }

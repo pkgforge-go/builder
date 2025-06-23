@@ -26,6 +26,7 @@
     "agent",
     "cli",
     "core",
+    "db-event-writer",
     "device",
     "dusk",
     "faker",
@@ -43,7 +44,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/carverauto/serviceradar/archive/5801ebc828eab7b91c8f46790c33b39f82200714.tar.gz"
+    "https://github.com/carverauto/serviceradar/archive/ccee17821c6d6918f774adde98fdfdb135899249.tar.gz"
   ],
   "tag": [
     "distributed",
@@ -55,30 +56,31 @@
     "network-scanning",
     "ubiquiti"
   ],
-  "version": "HEAD-5801ebc-250622T001603",
+  "version": "HEAD-ccee178-250622T224418",
   "version_upstream": "",
-  "bsum": "040be34dca360706fb65d026f068a0564b34551adbc78228d978e8df2bd789fa",
-  "build_date": "2025-06-23T02:52:35Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813671607",
-  "build_id": "15813671607",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-5801ebc-250622T001603-x86_64-Linux&download=device.log",
+  "bsum": "92dad3c26f005cbf4c2449cce6f22ecc7357c954df82ae3b0d00db12dff29e76",
+  "build_date": "2025-06-23T13:37:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071484",
+  "build_id": "15825071484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-ccee178-250622T224418-x86_64-Linux&download=device.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "186",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-5801ebc-250622T001603-x86_64-Linux&download=device",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-ccee178-250622T224418-x86_64-Linux&download=device",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/device:HEAD-5801ebc-250622T001603-x86_64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/device:HEAD-ccee178-250622T224418-x86_64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/device",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-5801ebc-250622T001603-x86_64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-ccee178-250622T224418-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "cf4fcc31e6ec73b0d05f29b428196be6aa5769901e4179c8076e499edb3e8352",
+  "shasum": "4db00ca27d912efb91098c194c7d5be1d861a1d3724c6b9bc968912c85c986bd",
   "size": "17 MB",
-  "size_raw": "17342848",
+  "size_raw": "17414432",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-1a5aa35-250619T221913-x86_64-Linux[1.0.44-pre6]"
+    "HEAD-1a5aa35-250619T221913-x86_64-Linux[1.0.44-pre6]",
+    "HEAD-5801ebc-250622T001603-x86_64-Linux"
   ],
   "trusted": "true"
 }
