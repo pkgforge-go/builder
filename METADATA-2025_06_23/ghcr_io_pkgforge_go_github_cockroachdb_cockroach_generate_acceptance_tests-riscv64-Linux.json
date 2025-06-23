@@ -36,7 +36,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/cockroachdb/cockroach/archive/077785765e3ae1ca03b7667883325cd43b2a5025.tar.gz"
+    "https://github.com/cockroachdb/cockroach/archive/8917e45cf3b4aaa1c32d4ddf6b3e63361b59a9b8.tar.gz"
   ],
   "tag": [
     "cockroachdb",
@@ -46,31 +46,32 @@
     "hacktoberfest",
     "sql"
   ],
-  "version": "HEAD-0777857-250622T184341",
+  "version": "HEAD-8917e45-250623T131322",
   "version_upstream": "",
-  "bsum": "cad3ca99f05e65c738772e3f704094b95a2f32010ab5df87d15e5ad9b919e5b7",
-  "build_date": "2025-06-23T13:40:46Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825075768",
-  "build_id": "15825075768",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-0777857-250622T184341-riscv64-Linux&download=generate-acceptance-tests.log",
+  "bsum": "80b45b27e3d9664b8977b7c7af4ae8b46854160a278a43b083b815aa5d538293",
+  "build_date": "2025-06-23T22:31:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835820230",
+  "build_id": "15835820230",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-8917e45-250623T131322-riscv64-Linux&download=generate-acceptance-tests.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "31015",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-0777857-250622T184341-riscv64-Linux&download=generate-acceptance-tests",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-8917e45-250623T131322-riscv64-Linux&download=generate-acceptance-tests",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests:HEAD-0777857-250622T184341-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests:HEAD-8917e45-250623T131322-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-0777857-250622T184341-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-8917e45-250623T131322-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "d573f1a92d0c79f9d00265d1ef9052b9fd52c3ddd409b6a91c53c3ea932a4b20",
+  "shasum": "039acbdf7dc9a50ab65f532782a05739f1f9832bf11ab053037aa6a5ac5a6a45",
   "size": "2.1 MB",
   "size_raw": "2101672",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-603ca22-250619T082719-riscv64-Linux",
-    "HEAD-a138fbd-250621T215846-riscv64-Linux"
+    "HEAD-a138fbd-250621T215846-riscv64-Linux",
+    "HEAD-0777857-250622T184341-riscv64-Linux"
   ],
   "trusted": "true"
 }
