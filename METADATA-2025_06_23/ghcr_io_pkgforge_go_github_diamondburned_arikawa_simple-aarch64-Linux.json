@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "simple",
+  "pkg_family": "arikawa",
+  "pkg_id": "simple#github.com_diamondburned_arikawa",
+  "pkg_name": "simple",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/diamondburned/arikawa",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Golang library and framework for the Discord API.",
+  "homepage": [
+    "https://github.com/diamondburned/arikawa"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autocomplete",
+    "buttons",
+    "commands",
+    "commands-hybrid",
+    "commands-minimal",
+    "genevent",
+    "gensnowflake",
+    "sharded",
+    "simple",
+    "undeleter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/diamondburned/arikawa/archive/9d8f454bf68f096c6dc10ed61ce94ee17a15c00c.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordbot",
+    "framework",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-9d8f454-250620T012652",
+  "version_upstream": "",
+  "bsum": "96ec69b1d6dc6d3f2281bd1c25b34145520211f7d4f5ff536ae626419826c5d0",
+  "build_date": "2025-06-23T03:13:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813722888",
+  "build_id": "15813722888",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/diamondburned/arikawa/simple?tag=HEAD-9d8f454-250620T012652-aarch64-Linux&download=simple.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "525",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/diamondburned/arikawa/simple?tag=HEAD-9d8f454-250620T012652-aarch64-Linux&download=simple",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/diamondburned/arikawa/simple:HEAD-9d8f454-250620T012652-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/diamondburned/arikawa/simple",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/diamondburned/arikawa/simple?tag=HEAD-9d8f454-250620T012652-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "441c77851d0b569ccc405b939dc953c933628c882919111ef79aa503c8993423",
+  "size": "6.8 MB",
+  "size_raw": "7107136",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7824d15-250515T103823-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
