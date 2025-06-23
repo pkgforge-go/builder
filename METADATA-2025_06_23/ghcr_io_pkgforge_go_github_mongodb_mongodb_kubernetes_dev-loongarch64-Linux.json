@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dev",
+  "pkg_family": "mongodb-kubernetes",
+  "pkg_id": "dev#github.com_mongodb_mongodb_kubernetes",
+  "pkg_name": "dev",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mongodb/mongodb-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MongoDB Controllers for Kubernetes translate the human knowledge of creating a MongoDB instance into a scalable, repeatable, and standardized method.",
+  "homepage": [
+    "https://github.com/mongodb/mongodb-kubernetes"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev",
+    "mongodb-kubernetes",
+    "readiness",
+    "versionhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mongodb/mongodb-kubernetes/archive/36da1eb0568d9be7ba3334fe7d02d2c7608ffd13.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-36da1eb-250623T151525",
+  "version_upstream": "",
+  "bsum": "e72f0efa4f3ef23a4e0d4440dfa3cb37f32c726f5b5b3cb28b5c7f498250cc73",
+  "build_date": "2025-06-23T19:35:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15831722547",
+  "build_id": "15831722547",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-kubernetes/dev?tag=HEAD-36da1eb-250623T151525-loongarch64-Linux&download=dev.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-kubernetes/dev?tag=HEAD-36da1eb-250623T151525-loongarch64-Linux&download=dev",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mongodb/mongodb-kubernetes/dev:HEAD-36da1eb-250623T151525-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mongodb/mongodb-kubernetes/dev",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-kubernetes/dev?tag=HEAD-36da1eb-250623T151525-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b718c87304c0060058ccd23429cce550053ecc69920c31ea3ab699c43554925",
+  "size": "35 MB",
+  "size_raw": "36443488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

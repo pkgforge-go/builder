@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "versionhook",
+  "pkg_family": "mongodb-kubernetes",
+  "pkg_id": "versionhook#github.com_mongodb_mongodb_kubernetes",
+  "pkg_name": "versionhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mongodb/mongodb-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MongoDB Controllers for Kubernetes translate the human knowledge of creating a MongoDB instance into a scalable, repeatable, and standardized method.",
+  "homepage": [
+    "https://github.com/mongodb/mongodb-kubernetes"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev",
+    "mongodb-kubernetes",
+    "readiness",
+    "versionhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mongodb/mongodb-kubernetes/archive/36da1eb0568d9be7ba3334fe7d02d2c7608ffd13.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-36da1eb-250623T151525",
+  "version_upstream": "",
+  "bsum": "50a8949a8d9e93514ef68744b047c56dda7275ba698ce92e5455d6dab0742552",
+  "build_date": "2025-06-23T19:35:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15831722547",
+  "build_id": "15831722547",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-kubernetes/versionhook?tag=HEAD-36da1eb-250623T151525-loongarch64-Linux&download=versionhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-kubernetes/versionhook?tag=HEAD-36da1eb-250623T151525-loongarch64-Linux&download=versionhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mongodb/mongodb-kubernetes/versionhook:HEAD-36da1eb-250623T151525-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mongodb/mongodb-kubernetes/versionhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mongodb/mongodb-kubernetes/versionhook?tag=HEAD-36da1eb-250623T151525-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a7ca36c897482068896c9eb86bdccf5497bc9078b37124c2906ed7b1a1ffd73",
+  "size": "34 MB",
+  "size_raw": "35318208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
