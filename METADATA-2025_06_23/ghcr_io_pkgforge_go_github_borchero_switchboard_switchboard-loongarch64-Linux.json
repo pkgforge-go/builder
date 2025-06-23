@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "switchboard",
+  "pkg_family": "switchboard",
+  "pkg_id": "switchboard#github.com_borchero_switchboard",
+  "pkg_name": "switchboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/borchero/switchboard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for Automatically Issuing DNS Records and TLS Certificates for Traefik Ingress Routes.",
+  "homepage": [
+    "https://github.com/borchero/switchboard"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "switchboard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/borchero/switchboard/archive/160469a9f67691801dffad0609d3a1093bebab7b.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "kubernetes",
+    "kubernetes-crd",
+    "kubernetes-operator",
+    "networking"
+  ],
+  "version": "HEAD-160469a-250622T211622",
+  "version_upstream": "v0.7.1",
+  "bsum": "b1ac337e227164fcc41a8ecc079a7c0508b3cb685c8d0205b2eb5efd9b3aac9f",
+  "build_date": "2025-06-23T07:16:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817402959",
+  "build_id": "15817402959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/borchero/switchboard/switchboard?tag=HEAD-160469a-250622T211622-loongarch64-Linux&download=switchboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "159",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/borchero/switchboard/switchboard?tag=HEAD-160469a-250622T211622-loongarch64-Linux&download=switchboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/borchero/switchboard/switchboard:HEAD-160469a-250622T211622-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/borchero/switchboard/switchboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/borchero/switchboard/switchboard?tag=HEAD-160469a-250622T211622-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7e5490d7e0204218a7a7ac633aff40d3824f751cb74f4a5d4b6deac6b4cfebe5",
+  "size": "49 MB",
+  "size_raw": "51189760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
