@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cloudflare-ip-speedtest",
+  "pkg_family": "Cloudflare-IP-SpeedTest",
+  "pkg_id": "cloudflare-ip-speedtest#github.com_badafans_Cloudflare_IP_SpeedTest",
+  "pkg_name": "cloudflare-ip-speedtest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/badafans/Cloudflare-IP-SpeedTest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloudflare IP 测速器是一个使用 Golang 编写的小工具，用于测试一些 Cloudflare 的 IP 地址的位置信息、延迟和下载速度，并将结果输出到 CSV 文件中。",
+  "homepage": [
+    "https://github.com/badafans/Cloudflare-IP-SpeedTest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudflare-ip-speedtest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/badafans/Cloudflare-IP-SpeedTest/archive/2763a60531e559ab93bfa7ae5a1e91a08f92ae75.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2763a60-250623T101518",
+  "version_upstream": "v1.0",
+  "bsum": "d4eef088652654f5474a8fae7ad4013b77e438d1e7d815513ef499891e476eca",
+  "build_date": "2025-06-23T07:08:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817371202",
+  "build_id": "15817371202",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/badafans/cloudflare-ip-speedtest/cloudflare-ip-speedtest?tag=HEAD-2763a60-250623T101518-riscv64-Linux&download=cloudflare-ip-speedtest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "275",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/badafans/cloudflare-ip-speedtest/cloudflare-ip-speedtest?tag=HEAD-2763a60-250623T101518-riscv64-Linux&download=cloudflare-ip-speedtest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/badafans/cloudflare-ip-speedtest/cloudflare-ip-speedtest:HEAD-2763a60-250623T101518-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/badafans/cloudflare-ip-speedtest/cloudflare-ip-speedtest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/badafans/cloudflare-ip-speedtest/cloudflare-ip-speedtest?tag=HEAD-2763a60-250623T101518-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0638bc91430d79cfc7bb76e6f8df6bcee010a9a1fbc6fc82dc3bc0e441461ddf",
+  "size": "6.3 MB",
+  "size_raw": "6532120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
