@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "web-hooks",
+  "pkg_family": "cap-operator",
+  "pkg_id": "web-hooks#github.com_SAP_cap_operator",
+  "pkg_name": "web-hooks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SAP/cap-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CAP Operator manages and automates the lifecycle of multi-tenant SAP Cloud Application Programming Model _CAP_ based applications on Kubernetes.",
+  "homepage": [
+    "https://github.com/SAP/cap-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "server",
+    "web-hooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SAP/cap-operator/archive/36eee7dca087130907e122ff76198cb6815c5039.tar.gz"
+  ],
+  "tag": [
+    "cap-operator",
+    "k8s-operator",
+    "sap-cns"
+  ],
+  "version": "HEAD-36eee7d-250623T131059",
+  "version_upstream": "",
+  "bsum": "a4d227cbd89c648b01f5477262606b1b84146d6135dc00d25e9f60335ace64e9",
+  "build_date": "2025-06-23T15:59:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828901977",
+  "build_id": "15828901977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/web-hooks?tag=HEAD-36eee7d-250623T131059-aarch64-Linux&download=web-hooks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/web-hooks?tag=HEAD-36eee7d-250623T131059-aarch64-Linux&download=web-hooks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/cap-operator/web-hooks:HEAD-36eee7d-250623T131059-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/cap-operator/web-hooks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/web-hooks?tag=HEAD-36eee7d-250623T131059-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8325b5f2b9d5e06126978e6a486c99a0f0c3b5f318b27217f45bc7328702f3bf",
+  "size": "38 MB",
+  "size_raw": "39567872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
