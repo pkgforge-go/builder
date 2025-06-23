@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "backend",
+  "pkg_family": "gnark",
+  "pkg_id": "backend#github.com_Consensys_gnark",
+  "pkg_name": "backend",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Consensys/gnark",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license",
+  "homepage": [
+    "https://github.com/Consensys/gnark"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backend",
+    "test_vectors"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Consensys/gnark/archive/c881f4583cf55c23a3520deb2cc62e5a39b4108e.tar.gz"
+  ],
+  "tag": [
+    "gnark",
+    "golang",
+    "plonk",
+    "r1cs",
+    "zk-rollup",
+    "zk-snarks",
+    "zkevm",
+    "zkp",
+    "zksnark"
+  ],
+  "version": "HEAD-c881f45-250623T102945",
+  "version_upstream": "",
+  "bsum": "f26a50e787ce8f5f9e9aed616b677e04c301f491cf617475cbb233de29a1784a",
+  "build_date": "2025-06-23T21:45:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835776985",
+  "build_id": "15835776985",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consensys/gnark/backend?tag=HEAD-c881f45-250623T102945-aarch64-Linux&download=backend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consensys/gnark/backend?tag=HEAD-c881f45-250623T102945-aarch64-Linux&download=backend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/consensys/gnark/backend:HEAD-c881f45-250623T102945-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/consensys/gnark/backend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consensys/gnark/backend?tag=HEAD-c881f45-250623T102945-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eaab55b132a35c39c8bb0d5b114d7636619bf26a35cdcae56f543be6131f6f62",
+  "size": "6.1 MB",
+  "size_raw": "6389464",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-085f592-250619T211230-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
