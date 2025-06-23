@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dnsman2",
+  "pkg_family": "external-dns-management",
+  "pkg_id": "dnsman2#github.com_gardener_external_dns_management",
+  "pkg_name": "dnsman2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/external-dns-management",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Environment to manage external DNS entries for a kubernetes cluster",
+  "homepage": [
+    "https://github.com/gardener/external-dns-management"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compound",
+    "dnsman2",
+    "loadtest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/external-dns-management/archive/11e86079181da95c1b0d9dd666319f2b726f554b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-11e8607-250623T115825",
+  "version_upstream": "",
+  "bsum": "acce911e5b8cd11ce16cbd0e93108927af68618ba5765c232c29d9aa36d3b0e1",
+  "build_date": "2025-06-23T17:33:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829869320",
+  "build_id": "15829869320",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/external-dns-management/dnsman2?tag=HEAD-11e8607-250623T115825-loongarch64-Linux&download=dnsman2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/external-dns-management/dnsman2?tag=HEAD-11e8607-250623T115825-loongarch64-Linux&download=dnsman2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/external-dns-management/dnsman2:HEAD-11e8607-250623T115825-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/external-dns-management/dnsman2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/external-dns-management/dnsman2?tag=HEAD-11e8607-250623T115825-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48c981acb882c8bef3c16ed629c8ef5213583529ad2a219bd00af27f25b58c11",
+  "size": "58 MB",
+  "size_raw": "60062496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
