@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ftl-language-kotlin",
+  "pkg_family": "ftl",
+  "pkg_id": "ftl-language-kotlin#github.com_block_ftl",
+  "pkg_name": "ftl-language-kotlin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/block/ftl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FTL is a platform for building distributed systems that are safe to operate, easy to reason about, and fast to iterate and develop on.",
+  "homepage": [
+    "https://github.com/block/ftl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ftl-admin",
+    "ftl-console",
+    "ftl-gen-lsp",
+    "ftl-http-ingress",
+    "ftl-language-go",
+    "ftl-language-java",
+    "ftl-language-kotlin",
+    "ftl-lease",
+    "ftl-provisioner",
+    "ftl-provisioner-cloudformation",
+    "ftl-provisioner-sandbox",
+    "ftl-proxy-pg",
+    "ftl-runner",
+    "ftl-schema-mirror",
+    "ftl-timeline",
+    "go2proto"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/block/ftl/archive/9e71a4f1fa3899429614fceab920d0d3e3458ebf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e71a4f-250623T022625",
+  "version_upstream": "",
+  "bsum": "45fd73a94539db6af2a5ef8360ca52696014fc9c1a218cd5c15f09f2e26991d2",
+  "build_date": "2025-06-23T07:29:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817399425",
+  "build_id": "15817399425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-language-kotlin?tag=HEAD-9e71a4f-250623T022625-riscv64-Linux&download=ftl-language-kotlin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-language-kotlin?tag=HEAD-9e71a4f-250623T022625-riscv64-Linux&download=ftl-language-kotlin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/block/ftl/ftl-language-kotlin:HEAD-9e71a4f-250623T022625-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/block/ftl/ftl-language-kotlin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/block/ftl/ftl-language-kotlin?tag=HEAD-9e71a4f-250623T022625-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "afe5999521fbccf390a74593b481a902f6f48c98b7c2c48b9876c9b01a68f194",
+  "size": "19 MB",
+  "size_raw": "19811704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
