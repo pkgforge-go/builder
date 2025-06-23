@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "yawol-controller",
+  "pkg_family": "yawol",
+  "pkg_id": "yawol-controller#github.com_stackitcloud_yawol",
+  "pkg_name": "yawol-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stackitcloud/yawol",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "yawol is a Load Balancer solution for OpenStack, based on the Kubernetes controller pattern.",
+  "homepage": [
+    "https://github.com/stackitcloud/yawol"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "yawol-cloud-controller",
+    "yawol-controller",
+    "yawollet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stackitcloud/yawol/archive/89f529ca5ea458cbdf47f146a49cb542db97ceee.tar.gz"
+  ],
+  "tag": [
+    "kubebuilder",
+    "kubernetes",
+    "load-balancer",
+    "loadbalancer",
+    "openstack",
+    "ske"
+  ],
+  "version": "HEAD-89f529c-250623T091713",
+  "version_upstream": "",
+  "bsum": "ef2a5879da62bcfdeef0d8a0c4fc49564577a523b11aaaef0999345578017117",
+  "build_date": "2025-06-23T20:31:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833444516",
+  "build_id": "15833444516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/yawol/yawol-controller?tag=HEAD-89f529c-250623T091713-loongarch64-Linux&download=yawol-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/yawol/yawol-controller?tag=HEAD-89f529c-250623T091713-loongarch64-Linux&download=yawol-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stackitcloud/yawol/yawol-controller:HEAD-89f529c-250623T091713-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stackitcloud/yawol/yawol-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/yawol/yawol-controller?tag=HEAD-89f529c-250623T091713-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1f7b010ad0caef68805c90cb2157794b586648d98109070b5dca6ece79969516",
+  "size": "54 MB",
+  "size_raw": "55699232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
