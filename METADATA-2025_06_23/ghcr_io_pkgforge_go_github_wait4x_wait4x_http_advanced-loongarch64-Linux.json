@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "http_advanced",
+  "pkg_family": "wait4x",
+  "pkg_id": "http_advanced#github.com_wait4x_wait4x",
+  "pkg_name": "http_advanced",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wait4x/wait4x",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Wait4X allows you to wait for a port or a service to enter the requested state.",
+  "homepage": [
+    "https://github.com/wait4x/wait4x"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "custom_checker",
+    "http_advanced",
+    "parallel_services",
+    "reverse_checking",
+    "tcp_basic",
+    "wait4x"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wait4x/wait4x/archive/90066fa41cb3d329cbe9c7bf3970517d84e544da.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "dns",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "http",
+    "influxdata",
+    "influxdb",
+    "linux",
+    "mariadb",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "rabbitmq",
+    "redis",
+    "tcp",
+    "tool",
+    "wait-for-it",
+    "wait4x"
+  ],
+  "version": "HEAD-90066fa-250623T010213",
+  "version_upstream": "",
+  "bsum": "a52cc66f060719cacc5290825bf9de6e96dda7d99e5ff3a30265f90a44aed38c",
+  "build_date": "2025-06-23T14:52:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825343238",
+  "build_id": "15825343238",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wait4x/wait4x/http_advanced?tag=HEAD-90066fa-250623T010213-loongarch64-Linux&download=http_advanced.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "614",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wait4x/wait4x/http_advanced?tag=HEAD-90066fa-250623T010213-loongarch64-Linux&download=http_advanced",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wait4x/wait4x/http_advanced:HEAD-90066fa-250623T010213-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wait4x/wait4x/http_advanced",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wait4x/wait4x/http_advanced?tag=HEAD-90066fa-250623T010213-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "073d295bc4545ee6d38170b06a1e13271944047fe930031e72867dd475d27886",
+  "size": "7.3 MB",
+  "size_raw": "7647936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-14ab0f2-250621T150607-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
