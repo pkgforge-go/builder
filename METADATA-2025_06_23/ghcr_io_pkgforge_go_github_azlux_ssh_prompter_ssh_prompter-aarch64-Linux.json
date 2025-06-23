@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ssh-prompter",
+  "pkg_family": "ssh-prompter",
+  "pkg_id": "ssh-prompter#github.com_azlux_ssh_prompter",
+  "pkg_name": "ssh-prompter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/azlux/ssh-prompter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🔐 Simple TUI to instantly search and SSH into servers from your ssh_config file",
+  "homepage": [
+    "https://github.com/azlux/ssh-prompter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ssh-prompter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/azlux/ssh-prompter/archive/2184305d5f16dae9a5b7122b42f555e1e31bc805.tar.gz"
+  ],
+  "tag": [
+    "listview",
+    "ssh-config",
+    "ssh-server",
+    "tmux",
+    "tui"
+  ],
+  "version": "HEAD-2184305-250623T153427",
+  "version_upstream": "",
+  "bsum": "c618cafa8c2e85eac19b9cbf0f10995fc8e39d9ffeff4abf69d92c1296474b5c",
+  "build_date": "2025-06-23T16:18:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828955762",
+  "build_id": "15828955762",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azlux/ssh-prompter/ssh-prompter?tag=HEAD-2184305-250623T153427-aarch64-Linux&download=ssh-prompter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azlux/ssh-prompter/ssh-prompter?tag=HEAD-2184305-250623T153427-aarch64-Linux&download=ssh-prompter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azlux/ssh-prompter/ssh-prompter:HEAD-2184305-250623T153427-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azlux/ssh-prompter/ssh-prompter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azlux/ssh-prompter/ssh-prompter?tag=HEAD-2184305-250623T153427-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2d7bebede7dd4f8cf20cb70332891cccc35f68fc1ff5fe6dd140ab5a7c940c0",
+  "size": "3.9 MB",
+  "size_raw": "4049400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
