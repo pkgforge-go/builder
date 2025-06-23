@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vlogsgenerator",
+  "pkg_family": "VictoriaMetrics",
+  "pkg_id": "vlogsgenerator#github.com_VictoriaMetrics_VictoriaMetrics",
+  "pkg_name": "vlogsgenerator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+  "homepage": [
+    "https://github.com/VictoriaMetrics/VictoriaMetrics"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "victoria-logs",
+    "victoria-metrics",
+    "vlogscli",
+    "vlogsgenerator",
+    "vmagent",
+    "vmalert",
+    "vmalert-tool",
+    "vmauth",
+    "vmbackup",
+    "vmctl",
+    "vmrestore"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VictoriaMetrics/VictoriaMetrics/archive/1e3791cbf6d85188f82dccb90f8aaf2a9c9366d4.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "database",
+    "grafana",
+    "graphite",
+    "influxdb",
+    "k8s",
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "opentsdb",
+    "prometheus",
+    "promql",
+    "scalability",
+    "thanos",
+    "tsdb"
+  ],
+  "version": "HEAD-1e3791c-250621T122722",
+  "version_upstream": "",
+  "bsum": "ae928aa5048ae6a8e19e1493b73ab9651ac77e5f66ba2c6da1a15bf92f46b1e2",
+  "build_date": "2025-06-23T04:50:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815207929",
+  "build_id": "15815207929",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vlogsgenerator?tag=HEAD-1e3791c-250621T122722-aarch64-Linux&download=vlogsgenerator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14362",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vlogsgenerator?tag=HEAD-1e3791c-250621T122722-aarch64-Linux&download=vlogsgenerator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/victoriametrics/victoriametrics/vlogsgenerator:HEAD-1e3791c-250621T122722-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/victoriametrics/victoriametrics/vlogsgenerator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vlogsgenerator?tag=HEAD-1e3791c-250621T122722-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "783275a442ddde78d0132870419d92e4f21fc164b8cde99e5dcbea4666e61200",
+  "size": "6.5 MB",
+  "size_raw": "6727840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-27f1c1a-250619T011045-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
