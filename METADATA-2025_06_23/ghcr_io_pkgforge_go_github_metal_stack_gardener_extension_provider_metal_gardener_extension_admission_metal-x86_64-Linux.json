@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-admission-metal",
+  "pkg_family": "gardener-extension-provider-metal",
+  "pkg_id": "gardener-extension-admission-metal#github.com_metal_stack_gardener_extension_provider_metal",
+  "pkg_name": "gardener-extension-admission-metal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metal-stack/gardener-extension-provider-metal",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Implementation of the gardener-extension-controller for metal-stack",
+  "homepage": [
+    "https://github.com/metal-stack/gardener-extension-provider-metal"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-metal",
+    "gardener-extension-metal-hyper",
+    "gardener-extension-provider-metal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metal-stack/gardener-extension-provider-metal/archive/c977504358d056b675910b6c2f197e81152e6465.tar.gz"
+  ],
+  "tag": [
+    "bare-metal",
+    "gardener",
+    "gardener-extension",
+    "kubernetes-controller"
+  ],
+  "version": "HEAD-c977504-250623T150520",
+  "version_upstream": "",
+  "bsum": "b24c151b672859aedfcc43c52e0e8d33ae3b07d26b70c687d7e40107c0975b1f",
+  "build_date": "2025-06-23T19:34:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15831540244",
+  "build_id": "15831540244",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/gardener-extension-provider-metal/gardener-extension-admission-metal?tag=HEAD-c977504-250623T150520-x86_64-Linux&download=gardener-extension-admission-metal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/gardener-extension-provider-metal/gardener-extension-admission-metal?tag=HEAD-c977504-250623T150520-x86_64-Linux&download=gardener-extension-admission-metal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metal-stack/gardener-extension-provider-metal/gardener-extension-admission-metal:HEAD-c977504-250623T150520-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metal-stack/gardener-extension-provider-metal/gardener-extension-admission-metal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/gardener-extension-provider-metal/gardener-extension-admission-metal?tag=HEAD-c977504-250623T150520-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2032bf717f1c394b8c790c9fb15a96e4afdd81f5e6886aa33cb2537226cb49f6",
+  "size": "60 MB",
+  "size_raw": "62032448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
