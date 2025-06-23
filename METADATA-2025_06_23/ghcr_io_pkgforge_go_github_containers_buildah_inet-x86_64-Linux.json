@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "inet",
+  "pkg_family": "buildah",
+  "pkg_id": "inet#github.com_containers_buildah",
+  "pkg_name": "inet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/buildah",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool that facilitates building OCI images.",
+  "homepage": [
+    "https://github.com/containers/buildah"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dumpspec",
+    "inet",
+    "serve",
+    "testreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/buildah/archive/dc1a1f5b3b4d0ae0f7ab20aa22d9490507067d0e.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "container-image",
+    "containers",
+    "docker",
+    "oci",
+    "oci-image",
+    "podman"
+  ],
+  "version": "HEAD-dc1a1f5-250620T151837",
+  "version_upstream": "",
+  "bsum": "98ec4c134f6146e3e76d9c71884c33fa7b4e7d57ecf61f7139f27cc6e398294e",
+  "build_date": "2025-06-23T03:07:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813701984",
+  "build_id": "15813701984",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/inet?tag=HEAD-dc1a1f5-250620T151837-x86_64-Linux&download=inet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7981",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/inet?tag=HEAD-dc1a1f5-250620T151837-x86_64-Linux&download=inet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/buildah/inet:HEAD-dc1a1f5-250620T151837-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/buildah/inet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/inet?tag=HEAD-dc1a1f5-250620T151837-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "813a5d691ae382372d30ad316b6c98730108ba95cd2364c6f59b373e8c23c542",
+  "size": "2.4 MB",
+  "size_raw": "2492952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0b3a01c-250618T124933-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
