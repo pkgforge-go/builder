@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "taosws",
+  "pkg_family": "driver-go",
+  "pkg_id": "taosws#github.com_taosdata_driver_go",
+  "pkg_name": "taosws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/taosdata/driver-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "taos go driver",
+  "homepage": [
+    "https://github.com/taosdata/driver-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exec",
+    "platform",
+    "query",
+    "restful",
+    "stmtoverws",
+    "taosws",
+    "tmqoverws",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/taosdata/driver-go/archive/64813bd0c6fb2c70636376b4342e4f749c30aaa2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-64813bd-250623T164008",
+  "version_upstream": "",
+  "bsum": "54344573832aedb711c27e7a9befd5bd959d92f80ef67aa4b8c5892d781744da",
+  "build_date": "2025-06-23T20:45:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833478349",
+  "build_id": "15833478349",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taosdata/driver-go/taosws?tag=HEAD-64813bd-250623T164008-loongarch64-Linux&download=taosws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taosdata/driver-go/taosws?tag=HEAD-64813bd-250623T164008-loongarch64-Linux&download=taosws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/taosdata/driver-go/taosws:HEAD-64813bd-250623T164008-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/taosdata/driver-go/taosws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taosdata/driver-go/taosws?tag=HEAD-64813bd-250623T164008-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3bf2e9a031198cdf916a151401c3e17c86bb22320fb0b434f03e0579995ec8ea",
+  "size": "6.8 MB",
+  "size_raw": "7037344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
