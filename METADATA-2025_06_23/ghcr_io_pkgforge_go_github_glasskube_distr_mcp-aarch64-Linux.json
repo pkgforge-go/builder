@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mcp",
+  "pkg_family": "distr",
+  "pkg_id": "mcp#github.com_glasskube_distr",
+  "pkg_name": "mcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glasskube/distr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+  "homepage": [
+    "https://github.com/glasskube/distr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker",
+    "hub",
+    "mcp",
+    "status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/glasskube/distr/archive/9c508790403e7564d1f440e6d41f1bdaa37fdbe2.tar.gz"
+  ],
+  "tag": [
+    "angular",
+    "cloud",
+    "distr",
+    "docker-compose",
+    "glasskube",
+    "go",
+    "golang",
+    "kubernetes",
+    "on-prem",
+    "on-premises",
+    "software-distribution"
+  ],
+  "version": "HEAD-9c50879-250621T143122",
+  "version_upstream": "",
+  "bsum": "b04d536c8b03ac4c717f7597cee99d348f6ebfec423a64bac432322b956cb7c2",
+  "build_date": "2025-06-23T03:26:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813771865",
+  "build_id": "15813771865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/mcp?tag=HEAD-9c50879-250621T143122-aarch64-Linux&download=mcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "614",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/mcp?tag=HEAD-9c50879-250621T143122-aarch64-Linux&download=mcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glasskube/distr/mcp:HEAD-9c50879-250621T143122-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glasskube/distr/mcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/mcp?tag=HEAD-9c50879-250621T143122-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9b1807e462c828bbd6dde03df0049bf12e5aff655d6d99e99b1aa48766d17c7",
+  "size": "8.5 MB",
+  "size_raw": "8839488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bc799ba-250620T030952-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
