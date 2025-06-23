@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "cap-operator",
+  "pkg_id": "server#github.com_SAP_cap_operator",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SAP/cap-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CAP Operator manages and automates the lifecycle of multi-tenant SAP Cloud Application Programming Model _CAP_ based applications on Kubernetes.",
+  "homepage": [
+    "https://github.com/SAP/cap-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "server",
+    "web-hooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SAP/cap-operator/archive/36eee7dca087130907e122ff76198cb6815c5039.tar.gz"
+  ],
+  "tag": [
+    "cap-operator",
+    "k8s-operator",
+    "sap-cns"
+  ],
+  "version": "HEAD-36eee7d-250623T131059",
+  "version_upstream": "",
+  "bsum": "26c554ac42c0c64dd7a26fee57bc4c12517949bce1f5ebf395f17f127f2ba7cb",
+  "build_date": "2025-06-23T15:58:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828901977",
+  "build_id": "15828901977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/server?tag=HEAD-36eee7d-250623T131059-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/server?tag=HEAD-36eee7d-250623T131059-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/cap-operator/server:HEAD-36eee7d-250623T131059-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/cap-operator/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cap-operator/server?tag=HEAD-36eee7d-250623T131059-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48529e99643c8d39726e40480ed4748ae8b0283ca175a7f490504cacb2b95745",
+  "size": "49 MB",
+  "size_raw": "51042624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
