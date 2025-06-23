@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "slack-mcp-client",
+  "pkg_family": "slack-mcp-client",
+  "pkg_id": "slack-mcp-client#github.com_tuannvm_slack_mcp_client",
+  "pkg_name": "slack-mcp-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tuannvm/slack-mcp-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Slack bot and MCP client acts as a bridge between Slack and Model Context Protocol _MCP_ servers. Using Slack as the interface, it enables large language models _LLMs_ to connect and interact with various MCP servers through standardized MCP tools.",
+  "homepage": [
+    "https://github.com/tuannvm/slack-mcp-client"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "slack-mcp-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tuannvm/slack-mcp-client/archive/8e65ac3cdef9134b9a908af40525f26f16b330b6.tar.gz"
+  ],
+  "tag": [
+    "mcp",
+    "mcp-client",
+    "slack"
+  ],
+  "version": "HEAD-8e65ac3-250622T094936",
+  "version_upstream": "v1.7.0",
+  "bsum": "1d4722162c199d4bf4e01f70bb79d9249d79ee7c7cc89055f1940c3fd32d86ec",
+  "build_date": "2025-06-23T09:34:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819687260",
+  "build_id": "15819687260",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tuannvm/slack-mcp-client/slack-mcp-client?tag=HEAD-8e65ac3-250622T094936-riscv64-Linux&download=slack-mcp-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tuannvm/slack-mcp-client/slack-mcp-client?tag=HEAD-8e65ac3-250622T094936-riscv64-Linux&download=slack-mcp-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tuannvm/slack-mcp-client/slack-mcp-client:HEAD-8e65ac3-250622T094936-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tuannvm/slack-mcp-client/slack-mcp-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tuannvm/slack-mcp-client/slack-mcp-client?tag=HEAD-8e65ac3-250622T094936-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b846d9d43429adce7c5ce6b8653599c2be36cccbbc4d60e33ff8472bfc791f92",
+  "size": "7.9 MB",
+  "size_raw": "8217816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
