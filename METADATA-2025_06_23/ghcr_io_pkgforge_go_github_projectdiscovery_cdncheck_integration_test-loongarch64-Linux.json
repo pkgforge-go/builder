@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "integration-test",
+  "pkg_family": "cdncheck",
+  "pkg_id": "integration-test#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "integration-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/cdncheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address.",
+  "homepage": [
+    "https://github.com/projectdiscovery/cdncheck"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/cdncheck/archive/0443e5b0122e45e48e7d04e236f70ed8eca9d18c.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cdn",
+    "cli",
+    "cname",
+    "detection",
+    "lib",
+    "technology"
+  ],
+  "version": "HEAD-0443e5b-250622T001220",
+  "version_upstream": "v1.1.24",
+  "bsum": "c8ba2af0ff02d51836ace0a4628d3bf44a988394cb160832f6ebc68e243297ec",
+  "build_date": "2025-06-23T04:24:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813833165",
+  "build_id": "15813833165",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=HEAD-0443e5b-250622T001220-loongarch64-Linux&download=integration-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "843",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=HEAD-0443e5b-250622T001220-loongarch64-Linux&download=integration-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/integration-test:HEAD-0443e5b-250622T001220-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/integration-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=HEAD-0443e5b-250622T001220-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6571d3644c00fe9719fa4bad1e0623ea4c3a546e4d212f120caf26700b2703f",
+  "size": "7.1 MB",
+  "size_raw": "7399672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-loongarch64-Linux[v1.1.23]"
+  ],
+  "trusted": "true"
+}
