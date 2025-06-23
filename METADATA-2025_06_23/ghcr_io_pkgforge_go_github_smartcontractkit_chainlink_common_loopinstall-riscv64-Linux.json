@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "loopinstall",
+  "pkg_family": "chainlink-common",
+  "pkg_id": "loopinstall#github.com_smartcontractkit_chainlink_common",
+  "pkg_name": "loopinstall",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink-common",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDK for building Chainlink Services and Plugins",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink-common"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "example-relay",
+    "gen",
+    "generate-types",
+    "generate-user-types",
+    "loopinstall",
+    "protoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink-common/archive/9cb7ec4a4def677580561176cf6e6609ca13aea2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9cb7ec4-250623T140116",
+  "version_upstream": "",
+  "bsum": "e4dc5030aff730a2e8e9df120d2ccf40bb8f248d6c7b6aee6b2708cd81149c6c",
+  "build_date": "2025-06-23T20:24:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833426688",
+  "build_id": "15833426688",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink-common/loopinstall?tag=HEAD-9cb7ec4-250623T140116-riscv64-Linux&download=loopinstall.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink-common/loopinstall?tag=HEAD-9cb7ec4-250623T140116-riscv64-Linux&download=loopinstall",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink-common/loopinstall:HEAD-9cb7ec4-250623T140116-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink-common/loopinstall",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink-common/loopinstall?tag=HEAD-9cb7ec4-250623T140116-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0bf0a0fe7536adcf13967e983ac925aa43d533e4fd290455bb90edc895720f68",
+  "size": "2.8 MB",
+  "size_raw": "2890248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
