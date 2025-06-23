@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ratify-gatekeeper-provider",
+  "pkg_family": "ratify",
+  "pkg_id": "ratify-gatekeeper-provider#github.com_notaryproject_ratify",
+  "pkg_name": "ratify-gatekeeper-provider",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/notaryproject/ratify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Artifact Ratification Framework _CNCF Sandbox_",
+  "homepage": [
+    "https://github.com/notaryproject/ratify"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "licensechecker",
+    "ratify-gatekeeper-provider",
+    "sample",
+    "sbom",
+    "schemavalidator",
+    "vulnerabilityreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/notaryproject/ratify/archive/2f06ef21c43feb03715ad345f21e6f0879503023.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "secure-supply-chain"
+  ],
+  "version": "HEAD-2f06ef2-250623T101202",
+  "version_upstream": "",
+  "bsum": "37cb003c298d33b9f9e96df7a4588d81705d2e4089b2b4900c8c795a1e9c038e",
+  "build_date": "2025-06-23T08:46:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818452720",
+  "build_id": "15818452720",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/ratify-gatekeeper-provider?tag=HEAD-2f06ef2-250623T101202-x86_64-Linux&download=ratify-gatekeeper-provider.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "267",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/ratify-gatekeeper-provider?tag=HEAD-2f06ef2-250623T101202-x86_64-Linux&download=ratify-gatekeeper-provider",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/notaryproject/ratify/ratify-gatekeeper-provider:HEAD-2f06ef2-250623T101202-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/notaryproject/ratify/ratify-gatekeeper-provider",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/ratify-gatekeeper-provider?tag=HEAD-2f06ef2-250623T101202-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec5008adef7e8a3f536ac03f401c8fb7360a29a28154b0825497752e91dfbeec",
+  "size": "48 MB",
+  "size_raw": "49740320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "licensechecker",
+  "pkg_family": "ratify",
+  "pkg_id": "licensechecker#github.com_notaryproject_ratify",
+  "pkg_name": "licensechecker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/notaryproject/ratify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Artifact Ratification Framework _CNCF Sandbox_",
+  "homepage": [
+    "https://github.com/notaryproject/ratify"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "licensechecker",
+    "ratify-gatekeeper-provider",
+    "sample",
+    "sbom",
+    "schemavalidator",
+    "vulnerabilityreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/notaryproject/ratify/archive/2f06ef21c43feb03715ad345f21e6f0879503023.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "secure-supply-chain"
+  ],
+  "version": "HEAD-2f06ef2-250623T101202",
+  "version_upstream": "",
+  "bsum": "e8acbd3dca58c99d0948d95cf0d6829f04da9c910dcf1bd4a78db00693c8cc69",
+  "build_date": "2025-06-23T08:46:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818452720",
+  "build_id": "15818452720",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/licensechecker?tag=HEAD-2f06ef2-250623T101202-x86_64-Linux&download=licensechecker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "267",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/licensechecker?tag=HEAD-2f06ef2-250623T101202-x86_64-Linux&download=licensechecker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/notaryproject/ratify/licensechecker:HEAD-2f06ef2-250623T101202-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/notaryproject/ratify/licensechecker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/licensechecker?tag=HEAD-2f06ef2-250623T101202-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "891704533ec762d9d75d119e014dbf0a0120ada65888b9b1e04e4698386cf796",
+  "size": "52 MB",
+  "size_raw": "53952000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
