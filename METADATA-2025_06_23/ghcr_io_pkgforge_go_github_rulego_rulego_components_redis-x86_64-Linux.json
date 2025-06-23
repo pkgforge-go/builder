@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "redis",
+  "pkg_family": "rulego-components",
+  "pkg_id": "redis#github.com_rulego_rulego_components",
+  "pkg_name": "redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rulego/rulego-components",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "rulego-components is a rule engine extension component library for RuleGo",
+  "homepage": [
+    "https://github.com/rulego/rulego-components"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kafka",
+    "redis",
+    "wukongim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rulego/rulego-components/archive/2517a2e778306807a5f08987911e783536565c32.tar.gz"
+  ],
+  "tag": [
+    "rule-engine",
+    "rule-engine-components",
+    "rulego",
+    "workflow",
+    "workflow-engine"
+  ],
+  "version": "HEAD-2517a2e-250623T185450",
+  "version_upstream": "",
+  "bsum": "295c1e97623cd0325a4b862f671167c1fda77e92b61c9d60a2c902714ad17fc6",
+  "build_date": "2025-06-23T19:58:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833292195",
+  "build_id": "15833292195",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rulego/rulego-components/redis?tag=HEAD-2517a2e-250623T185450-x86_64-Linux&download=redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rulego/rulego-components/redis?tag=HEAD-2517a2e-250623T185450-x86_64-Linux&download=redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rulego/rulego-components/redis:HEAD-2517a2e-250623T185450-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rulego/rulego-components/redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rulego/rulego-components/redis?tag=HEAD-2517a2e-250623T185450-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c55a0cb8d1d358983200b20caeb8aeba0c2199fe660637b99bac7bda0528ae67",
+  "size": "31 MB",
+  "size_raw": "32323104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
