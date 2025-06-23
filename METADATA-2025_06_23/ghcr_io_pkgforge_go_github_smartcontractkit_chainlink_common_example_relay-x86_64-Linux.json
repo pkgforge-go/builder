@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "example-relay",
+  "pkg_family": "chainlink-common",
+  "pkg_id": "example-relay#github.com_smartcontractkit_chainlink_common",
+  "pkg_name": "example-relay",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink-common",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDK for building Chainlink Services and Plugins",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink-common"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "example-relay",
+    "gen",
+    "generate-types",
+    "generate-user-types",
+    "loopinstall",
+    "protoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink-common/archive/9cb7ec4a4def677580561176cf6e6609ca13aea2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9cb7ec4-250623T140116",
+  "version_upstream": "",
+  "bsum": "a61937f84616e554458bfd0d97f92b2c6e07c6123378903623ea6bb38b247eef",
+  "build_date": "2025-06-23T20:24:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833426688",
+  "build_id": "15833426688",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink-common/example-relay?tag=HEAD-9cb7ec4-250623T140116-x86_64-Linux&download=example-relay.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink-common/example-relay?tag=HEAD-9cb7ec4-250623T140116-x86_64-Linux&download=example-relay",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink-common/example-relay:HEAD-9cb7ec4-250623T140116-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink-common/example-relay",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink-common/example-relay?tag=HEAD-9cb7ec4-250623T140116-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d2f9a309a5f2e8869cf89bd85889782eb43b746f4f2c98408eba44394ccc26e",
+  "size": "32 MB",
+  "size_raw": "32548736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
