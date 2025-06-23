@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "containerd-stress",
+  "pkg_family": "containerd",
+  "pkg_id": "containerd-stress#github.com_containerd_containerd",
+  "pkg_name": "containerd-stress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/containerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open and reliable container runtime",
+  "homepage": [
+    "https://github.com/containerd/containerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkpoint",
+    "cmd",
+    "cni-bridge-fp",
+    "containerd",
+    "containerd-shim-runc-fp-v1",
+    "containerd-shim-runc-v2",
+    "containerd-stress",
+    "ctr",
+    "gen-manpages",
+    "go-buildtag",
+    "loopback-v2",
+    "protoc-gen-go-fieldpath",
+    "runc-fp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/containerd/archive/9300d03899283ac9c8a88d451fb12aadb42fd77f.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "containerd",
+    "containers",
+    "cri",
+    "docker",
+    "hacktoberfest",
+    "kubernetes",
+    "oci"
+  ],
+  "version": "HEAD-9300d03-250622T010009",
+  "version_upstream": "",
+  "bsum": "be325cf230b03f466de6bcb74c8c1c2ca94f50749113172986cf1b282e07bf66",
+  "build_date": "2025-06-23T03:06:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813695877",
+  "build_id": "15813695877",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd-stress?tag=HEAD-9300d03-250622T010009-riscv64-Linux&download=containerd-stress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd-stress?tag=HEAD-9300d03-250622T010009-riscv64-Linux&download=containerd-stress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/containerd/containerd-stress:HEAD-9300d03-250622T010009-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/containerd/containerd-stress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd-stress?tag=HEAD-9300d03-250622T010009-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8fddb00db438113974e46022610387db6fa3ae2644bd5eff19f9bff0adf85894",
+  "size": "21 MB",
+  "size_raw": "21996824",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7d394c9-250619T220346-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
