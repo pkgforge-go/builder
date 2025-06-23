@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "openadp",
+  "pkg_family": "openadp",
+  "pkg_id": "openadp#github.com_OpenADP_openadp",
+  "pkg_name": "openadp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OpenADP/openadp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source Advanced Data Protection for everyone",
+  "homepage": [
+    "https://github.com/OpenADP/openadp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "openadp",
+    "openadp-cli",
+    "openadp-decrypt",
+    "openadp-demo",
+    "openadp-encrypt",
+    "openadp-keygen",
+    "openadp-server",
+    "run-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OpenADP/openadp/archive/01c58ae4d7414f1f81814680a1c21ea218c1ae4c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-01c58ae-250622T210502",
+  "version_upstream": "",
+  "bsum": "ff41569de46cd20afa3de66e32cd1bfbff174840cc5ae0c6d572d195dca8079f",
+  "build_date": "2025-06-23T04:48:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815253506",
+  "build_id": "15815253506",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp?tag=HEAD-01c58ae-250622T210502-riscv64-Linux&download=openadp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp?tag=HEAD-01c58ae-250622T210502-riscv64-Linux&download=openadp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openadp/openadp/openadp:HEAD-01c58ae-250622T210502-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openadp/openadp/openadp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp?tag=HEAD-01c58ae-250622T210502-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b68d69b25ae52f23268889cdf39d255d5e536fc93270d372d531c34590d38494",
+  "size": "6.0 MB",
+  "size_raw": "6259672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-97506f8-250618T162703-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
