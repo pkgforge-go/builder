@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kube-router",
+  "pkg_family": "kube-router",
+  "pkg_id": "kube-router#github.com_cloudnativelabs_kube_router",
+  "pkg_name": "kube-router",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudnativelabs/kube-router",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kube-router, a turnkey solution for Kubernetes networking.",
+  "homepage": [
+    "https://github.com/cloudnativelabs/kube-router"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kube-router"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudnativelabs/kube-router/archive/d7e14f73e7417c1521af73d46f3ee1ce78fd5ffc.tar.gz"
+  ],
+  "tag": [
+    "bgp",
+    "docker",
+    "gobgp",
+    "iptables",
+    "ipvs",
+    "kubernetes",
+    "kubernetes-networking",
+    "kubernetes-service"
+  ],
+  "version": "HEAD-d7e14f7-250623T011153",
+  "version_upstream": "",
+  "bsum": "a91f32b9ce98f2378df671b0901ab97fd440b8adaba8fc95419537386353d214",
+  "build_date": "2025-06-23T07:25:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817425400",
+  "build_id": "15817425400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudnativelabs/kube-router/kube-router?tag=HEAD-d7e14f7-250623T011153-x86_64-Linux&download=kube-router.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2400",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudnativelabs/kube-router/kube-router?tag=HEAD-d7e14f7-250623T011153-x86_64-Linux&download=kube-router",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudnativelabs/kube-router/kube-router:HEAD-d7e14f7-250623T011153-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudnativelabs/kube-router/kube-router",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudnativelabs/kube-router/kube-router?tag=HEAD-d7e14f7-250623T011153-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36fa0c9fa4f92628886d7c04a8fc17fcb23c8a5f27b23eb6089a9656f57e06d9",
+  "size": "66 MB",
+  "size_raw": "68934656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
