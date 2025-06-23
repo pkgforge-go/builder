@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "prune",
+  "pkg_family": "xmtpd",
+  "pkg_id": "prune#github.com_xmtp_xmtpd",
+  "pkg_name": "prune",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xmtp/xmtpd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "XMTP node implementation.",
+  "homepage": [
+    "https://github.com/xmtp/xmtpd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "docs",
+    "prune",
+    "replication",
+    "xmtpd-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xmtp/xmtpd/archive/89aab20e12309371e4c72b98fa2fa194418f4b5c.tar.gz"
+  ],
+  "tag": [
+    "messaging",
+    "web3"
+  ],
+  "version": "HEAD-89aab20-250623T114123",
+  "version_upstream": "",
+  "bsum": "c340794b0b0679825ea975065fb6fe2fdcdaee7dca3cc1da2add42ea55073594",
+  "build_date": "2025-06-23T21:07:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833952796",
+  "build_id": "15833952796",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/prune?tag=HEAD-89aab20-250623T114123-riscv64-Linux&download=prune.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/prune?tag=HEAD-89aab20-250623T114123-riscv64-Linux&download=prune",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xmtp/xmtpd/prune:HEAD-89aab20-250623T114123-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xmtp/xmtpd/prune",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/prune?tag=HEAD-89aab20-250623T114123-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "063866617fa04997d52fa0e9251c16461f4b6985bc92cd376d189bbf6cbeb823",
+  "size": "20 MB",
+  "size_raw": "20370104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
