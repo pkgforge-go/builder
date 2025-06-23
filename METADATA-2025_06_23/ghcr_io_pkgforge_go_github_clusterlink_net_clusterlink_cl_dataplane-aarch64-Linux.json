@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cl-dataplane",
+  "pkg_family": "clusterlink",
+  "pkg_id": "cl-dataplane#github.com_clusterlink_net_clusterlink",
+  "pkg_name": "cl-dataplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clusterlink-net/clusterlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Gateway for connecting application services in different domains, networks, and cloud infrastructures",
+  "homepage": [
+    "https://github.com/clusterlink-net/clusterlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cl-controlplane",
+    "cl-dataplane",
+    "cl-go-dataplane",
+    "cl-operator",
+    "clusterlink"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clusterlink-net/clusterlink/archive/4f91646aff92429c28b00f62504866cd4efc0424.tar.gz"
+  ],
+  "tag": [
+    "gateway",
+    "multicluster",
+    "networking"
+  ],
+  "version": "HEAD-4f91646-250623T151927",
+  "version_upstream": "",
+  "bsum": "30f5985e9a39730de70855fed08983355754b8b8092666082bcc65cd9c45dde2",
+  "build_date": "2025-06-23T16:44:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829047255",
+  "build_id": "15829047255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-dataplane?tag=HEAD-4f91646-250623T151927-aarch64-Linux&download=cl-dataplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-dataplane?tag=HEAD-4f91646-250623T151927-aarch64-Linux&download=cl-dataplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clusterlink-net/clusterlink/cl-dataplane:HEAD-4f91646-250623T151927-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clusterlink-net/clusterlink/cl-dataplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusterlink-net/clusterlink/cl-dataplane?tag=HEAD-4f91646-250623T151927-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f34754ab902a4d3b015d38dccb024be3d6cb413c8a85e34df3ea6cfebd17a3b4",
+  "size": "14 MB",
+  "size_raw": "14043680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
