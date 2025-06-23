@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "KubeHound",
+  "pkg_id": "generator#github.com_DataDog_KubeHound",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DataDog/KubeHound",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tool for building Kubernetes attack paths",
+  "homepage": [
+    "https://github.com/DataDog/KubeHound"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "kubehound"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DataDog/KubeHound/archive/fa1078207eb7addea06952feeeace26ba454a698.tar.gz"
+  ],
+  "tag": [
+    "adversary-emulation",
+    "attack-graph",
+    "attack-paths",
+    "cloud-native-security",
+    "exploit",
+    "kubernetes",
+    "kubernetes-security",
+    "mitre-attack",
+    "purple-team",
+    "red-team",
+    "security-audit",
+    "security-automation",
+    "security-tools"
+  ],
+  "version": "HEAD-fa10782-250619T135041",
+  "version_upstream": "",
+  "bsum": "a01955f2443a0c7945b20f53630a49c9701694843b59d6cb30748fc1913d8286",
+  "build_date": "2025-06-23T04:47:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815207119",
+  "build_id": "15815207119",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/kubehound/generator?tag=HEAD-fa10782-250619T135041-riscv64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "886",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/kubehound/generator?tag=HEAD-fa10782-250619T135041-riscv64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datadog/kubehound/generator:HEAD-fa10782-250619T135041-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datadog/kubehound/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datadog/kubehound/generator?tag=HEAD-fa10782-250619T135041-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d27ac1f694cebc71014dcc9435302d37b118c3267f3a20ef587e05e22d5cc06",
+  "size": "38 MB",
+  "size_raw": "39432856",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-67655af-250505T113428-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
