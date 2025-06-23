@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "releaseprocessor",
+  "pkg_family": "modules",
+  "pkg_id": "releaseprocessor#github.com_bufbuild_modules",
+  "pkg_name": "releaseprocessor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/modules",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of third-party modules managed and synced by Buf.",
+  "homepage": [
+    "https://github.com/bufbuild/modules"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "casdiff",
+    "modprocessor",
+    "release",
+    "releaseprocessor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/modules/archive/a314f06b8ff6e80ddaab442f0c02eef8de29557e.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-a314f06-250623T082357",
+  "version_upstream": "",
+  "bsum": "28a341cf8f35743d6ebdca864a4d891036b3fe888e569ad1c5edb5b342a7ce7e",
+  "build_date": "2025-06-23T16:28:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829008254",
+  "build_id": "15829008254",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/releaseprocessor?tag=HEAD-a314f06-250623T082357-aarch64-Linux&download=releaseprocessor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/releaseprocessor?tag=HEAD-a314f06-250623T082357-aarch64-Linux&download=releaseprocessor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/modules/releaseprocessor:HEAD-a314f06-250623T082357-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/modules/releaseprocessor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/releaseprocessor?tag=HEAD-a314f06-250623T082357-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be1402e0991f662b880b70d3569091979650cafd0e001b710e0490aab11bdf9f",
+  "size": "14 MB",
+  "size_raw": "14513824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
