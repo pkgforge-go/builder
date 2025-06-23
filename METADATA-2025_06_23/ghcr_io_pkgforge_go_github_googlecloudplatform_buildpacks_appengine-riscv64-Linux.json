@@ -1,0 +1,108 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "appengine",
+  "pkg_family": "buildpacks",
+  "pkg_id": "appengine#github.com_GoogleCloudPlatform_buildpacks",
+  "pkg_name": "appengine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/buildpacks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Builders and buildpacks designed to run on Google Cloud_s container platforms",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/buildpacks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "appengine_gopath",
+    "appengine_main",
+    "appengine_validation",
+    "archive_source",
+    "bundle",
+    "checktools",
+    "clear_source",
+    "cloudfunctions",
+    "cmd",
+    "compile",
+    "entrypoint",
+    "exploded_jar",
+    "firebaseangular",
+    "firebasebundle",
+    "firebasenextjs",
+    "firebasenx",
+    "flex",
+    "flex_entrypoint",
+    "flex_gomod",
+    "functions_framework",
+    "get_package",
+    "graalvm",
+    "gradle",
+    "label",
+    "legacy_worker",
+    "maven",
+    "native_image",
+    "npm",
+    "pnpm",
+    "preparer",
+    "pub",
+    "publisher",
+    "rails",
+    "rubygems",
+    "yarn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/buildpacks/archive/ddf501aa3257139a7ef6971aa87bdda1d02652b2.tar.gz"
+  ],
+  "tag": [
+    "buildpacks",
+    "buildpacksv3",
+    "container-image",
+    "golang",
+    "java",
+    "nodejs",
+    "oci-image",
+    "python"
+  ],
+  "version": "HEAD-ddf501a-250623T045824",
+  "version_upstream": "",
+  "bsum": "132a345919e7ab584d0f2bb5bab1d04994754ef3fb99f059a538825caba9f91b",
+  "build_date": "2025-06-23T22:01:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835776832",
+  "build_id": "15835776832",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/appengine?tag=HEAD-ddf501a-250623T045824-riscv64-Linux&download=appengine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1045",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/appengine?tag=HEAD-ddf501a-250623T045824-riscv64-Linux&download=appengine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/buildpacks/appengine:HEAD-ddf501a-250623T045824-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/buildpacks/appengine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/appengine?tag=HEAD-ddf501a-250623T045824-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d6c12a7cec2e9608b37a67282773bc74204d473bd5d9a2d228d5639e2a772d41",
+  "size": "4.6 MB",
+  "size_raw": "4803736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-69e55ed-250620T020310-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
