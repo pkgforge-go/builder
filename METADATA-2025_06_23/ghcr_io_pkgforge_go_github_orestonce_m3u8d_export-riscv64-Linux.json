@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "export",
+  "pkg_family": "m3u8d",
+  "pkg_id": "export#github.com_orestonce_m3u8d",
+  "pkg_name": "export",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orestonce/m3u8d",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4",
+  "homepage": [
+    "https://github.com/orestonce/m3u8d"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "export",
+    "m3u8d-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/orestonce/m3u8d/archive/49acd9db7a9834855292f116a2119a9e0eadfe70.tar.gz"
+  ],
+  "tag": [
+    "downloader",
+    "m3u8",
+    "mp4",
+    "video-downloader"
+  ],
+  "version": "HEAD-49acd9d-250623T075805",
+  "version_upstream": "",
+  "bsum": "bf1495f9538b4b9d5f1046b22b901b440bdf2bebffb604004ae328e237f7c997",
+  "build_date": "2025-06-23T08:51:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818517733",
+  "build_id": "15818517733",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orestonce/m3u8d/export?tag=HEAD-49acd9d-250623T075805-riscv64-Linux&download=export.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "865",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orestonce/m3u8d/export?tag=HEAD-49acd9d-250623T075805-riscv64-Linux&download=export",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orestonce/m3u8d/export:HEAD-49acd9d-250623T075805-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orestonce/m3u8d/export",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orestonce/m3u8d/export?tag=HEAD-49acd9d-250623T075805-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f5a916bc1e31681813c4668bc1f98783fe45be6d8f9d7c71c813b9668a1ce8a",
+  "size": "7.1 MB",
+  "size_raw": "7383640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
