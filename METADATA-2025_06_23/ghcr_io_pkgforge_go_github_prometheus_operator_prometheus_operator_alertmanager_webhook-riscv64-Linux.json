@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "alertmanager-webhook",
+  "pkg_family": "prometheus-operator",
+  "pkg_id": "alertmanager-webhook#github.com_prometheus_operator_prometheus_operator",
+  "pkg_name": "alertmanager-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus-operator/prometheus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+  "homepage": [
+    "https://github.com/prometheus-operator/prometheus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "alertmanager-webhook",
+    "instrumented-sample-app",
+    "operator",
+    "po-docgen",
+    "po-rule-migration",
+    "prometheus-config-reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus-operator/prometheus-operator/archive/c0183411bbcc51da6498a18ff56815712ecdc92c.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-c018341-250623T163219",
+  "version_upstream": "",
+  "bsum": "72f820bb81ad367846e3f632eadafcaa5e718c06a4d35af306d1d54922d663d8",
+  "build_date": "2025-06-23T19:49:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15832942943",
+  "build_id": "15832942943",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus-operator/prometheus-operator/alertmanager-webhook?tag=HEAD-c018341-250623T163219-riscv64-Linux&download=alertmanager-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9516",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus-operator/prometheus-operator/alertmanager-webhook?tag=HEAD-c018341-250623T163219-riscv64-Linux&download=alertmanager-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus-operator/prometheus-operator/alertmanager-webhook:HEAD-c018341-250623T163219-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus-operator/prometheus-operator/alertmanager-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus-operator/prometheus-operator/alertmanager-webhook?tag=HEAD-c018341-250623T163219-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81404628fba6c96b7f2aced6eab7614cff206e21a96b6b8f5fb9c5c427548c78",
+  "size": "5.5 MB",
+  "size_raw": "5699192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
