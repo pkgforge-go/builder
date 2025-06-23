@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "echoserver",
+  "pkg_family": "echoserver",
+  "pkg_id": "echoserver#github.com_ricoberger_echoserver",
+  "pkg_name": "echoserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ricoberger/echoserver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple echoserver, which dumps HTTP requests",
+  "homepage": [
+    "https://github.com/ricoberger/echoserver"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "echoserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ricoberger/echoserver/archive/7f0f16e0bba3ef652df519e532fc81d4935d186c.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "echoserver",
+    "go",
+    "golang",
+    "kubernetes"
+  ],
+  "version": "HEAD-7f0f16e-250623T151856",
+  "version_upstream": "",
+  "bsum": "27392f6459aa55535b6cfb8feccea14886abac33cecc57fff60fc2f8f4a03bbe",
+  "build_date": "2025-06-23T19:58:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833141110",
+  "build_id": "15833141110",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ricoberger/echoserver/echoserver?tag=HEAD-7f0f16e-250623T151856-x86_64-Linux&download=echoserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ricoberger/echoserver/echoserver?tag=HEAD-7f0f16e-250623T151856-x86_64-Linux&download=echoserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ricoberger/echoserver/echoserver:HEAD-7f0f16e-250623T151856-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ricoberger/echoserver/echoserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ricoberger/echoserver/echoserver?tag=HEAD-7f0f16e-250623T151856-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ae0ac253997685212ab82f4adeba6b3c7b7c339eb455b6d83f33b5f07afd072",
+  "size": "18 MB",
+  "size_raw": "18217664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
