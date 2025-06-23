@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "trickster",
+  "pkg_family": "trickster",
+  "pkg_id": "trickster#github.com_trickstercache_trickster",
+  "pkg_name": "trickster",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trickstercache/trickster",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator",
+  "homepage": [
+    "https://github.com/trickstercache/trickster"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbolt",
+    "memory",
+    "trickster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trickstercache/trickster/archive/753d85ef8a73ce54cc15819b81e55076911c2e2b.tar.gz"
+  ],
+  "tag": [
+    "accelerator",
+    "caching",
+    "clickhouse",
+    "dashboards",
+    "golang",
+    "http-proxy",
+    "influxdb",
+    "performance",
+    "prometheus",
+    "reverse-proxy",
+    "tsdb"
+  ],
+  "version": "HEAD-753d85e-250622T193738",
+  "version_upstream": "",
+  "bsum": "0df9fe3f700b1efe05dd74f3d967e4aae29309cba9bbd74a2d321d00792183bf",
+  "build_date": "2025-06-23T14:48:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825309890",
+  "build_id": "15825309890",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trickstercache/trickster/trickster?tag=HEAD-753d85e-250622T193738-x86_64-Linux&download=trickster.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2031",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trickstercache/trickster/trickster?tag=HEAD-753d85e-250622T193738-x86_64-Linux&download=trickster",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trickstercache/trickster/trickster:HEAD-753d85e-250622T193738-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trickstercache/trickster/trickster",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trickstercache/trickster/trickster?tag=HEAD-753d85e-250622T193738-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17e74c5d35d7519d0bdfb9a0dd49160914b5c540f8b340f2aeadd3ff2f135c09",
+  "size": "29 MB",
+  "size_raw": "29637952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4c4b384-250620T121819-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
