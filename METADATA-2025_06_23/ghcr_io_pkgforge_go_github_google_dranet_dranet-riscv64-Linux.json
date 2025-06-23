@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dranet",
+  "pkg_family": "dranet",
+  "pkg_id": "dranet#github.com_google_dranet",
+  "pkg_name": "dranet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/dranet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DraNet is a Kubernetes Network Driver that uses Dynamic Resource Allocation _DRA_ to deliver high-performance networking for demanding applications in Kubernetes.",
+  "homepage": [
+    "https://github.com/google/dranet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dranet",
+    "dranetctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/google/dranet/archive/43d56579162989c2bc11f1dbf99eda1d10fbd3af.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "dra",
+    "kubernetes",
+    "networking",
+    "performance"
+  ],
+  "version": "HEAD-43d5657-250623T150607",
+  "version_upstream": "",
+  "bsum": "38e9d614e6bde5134af02786a6ea3599d9df524d0ff4061c50eddcdd61b33c5f",
+  "build_date": "2025-06-23T17:43:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830183856",
+  "build_id": "15830183856",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranet?tag=HEAD-43d5657-250623T150607-riscv64-Linux&download=dranet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "84",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranet?tag=HEAD-43d5657-250623T150607-riscv64-Linux&download=dranet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/dranet/dranet:HEAD-43d5657-250623T150607-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/dranet/dranet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranet?tag=HEAD-43d5657-250623T150607-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef97c257b605db4196afd25170e357bdf8e98ba680afbc17e09350a45df828ce",
+  "size": "61 MB",
+  "size_raw": "63540600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
