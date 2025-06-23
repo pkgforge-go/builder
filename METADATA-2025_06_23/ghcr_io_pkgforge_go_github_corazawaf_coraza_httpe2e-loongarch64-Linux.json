@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "httpe2e",
+  "pkg_family": "coraza",
+  "pkg_id": "httpe2e#github.com_corazawaf_coraza",
+  "pkg_name": "httpe2e",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/corazawaf/coraza",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OWASP Coraza WAF is a golang modsecurity compatible web application firewall library",
+  "homepage": [
+    "https://github.com/corazawaf/coraza"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "httpe2e"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/corazawaf/coraza/archive/30a06bac28c64a3cb0894e19cf40a0236faaeba5.tar.gz"
+  ],
+  "tag": [
+    "coraza",
+    "coraza-waf",
+    "coreruleset",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "http",
+    "modsecurity",
+    "owasp",
+    "owasp-crs",
+    "waf",
+    "web-application-firewall"
+  ],
+  "version": "HEAD-30a06ba-250621T020318",
+  "version_upstream": "",
+  "bsum": "603bbb0c2e1a4a296b0f38dcfac6e516c012f183f4d38f5af594b128cc0071e1",
+  "build_date": "2025-06-23T05:06:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815370331",
+  "build_id": "15815370331",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/httpe2e?tag=HEAD-30a06ba-250621T020318-loongarch64-Linux&download=httpe2e.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2709",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/httpe2e?tag=HEAD-30a06ba-250621T020318-loongarch64-Linux&download=httpe2e",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/corazawaf/coraza/httpe2e:HEAD-30a06ba-250621T020318-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/corazawaf/coraza/httpe2e",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/httpe2e?tag=HEAD-30a06ba-250621T020318-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6752e589da975bb8497b6e4cdc6b3833ed32540c45890aa12f141b3f28b8d0b0",
+  "size": "5.8 MB",
+  "size_raw": "6007776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-04c2209-250617T190326-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
