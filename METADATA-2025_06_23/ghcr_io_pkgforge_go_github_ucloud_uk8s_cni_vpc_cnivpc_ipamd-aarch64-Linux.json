@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cnivpc-ipamd",
+  "pkg_family": "uk8s-cni-vpc",
+  "pkg_id": "cnivpc-ipamd#github.com_ucloud_uk8s_cni_vpc",
+  "pkg_name": "cnivpc-ipamd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ucloud/uk8s-cni-vpc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The underlay container networking plugin for UK8S based on UVPC.",
+  "homepage": [
+    "https://github.com/ucloud/uk8s-cni-vpc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cnivpc",
+    "cnivpc-ipamd",
+    "cnivpctl",
+    "release-ip",
+    "vip-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ucloud/uk8s-cni-vpc/archive/7995ce7e8ed25c523850a31eeb5374b4e7a5a3e0.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "kubernetes"
+  ],
+  "version": "HEAD-7995ce7-250623T102031",
+  "version_upstream": "v1.3.5",
+  "bsum": "9a18c8fc4405362f7344ccdfb49bfb5a1d942a392301f825d76c558f0246f19d",
+  "build_date": "2025-06-23T09:39:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819689040",
+  "build_id": "15819689040",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ucloud/uk8s-cni-vpc/cnivpc-ipamd?tag=HEAD-7995ce7-250623T102031-aarch64-Linux&download=cnivpc-ipamd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ucloud/uk8s-cni-vpc/cnivpc-ipamd?tag=HEAD-7995ce7-250623T102031-aarch64-Linux&download=cnivpc-ipamd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ucloud/uk8s-cni-vpc/cnivpc-ipamd:HEAD-7995ce7-250623T102031-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ucloud/uk8s-cni-vpc/cnivpc-ipamd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ucloud/uk8s-cni-vpc/cnivpc-ipamd?tag=HEAD-7995ce7-250623T102031-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5901997643e7bd5c468aa62ed2b518e47c9f2df98e54b47c838a4c8423ffa90a",
+  "size": "43 MB",
+  "size_raw": "44302912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
