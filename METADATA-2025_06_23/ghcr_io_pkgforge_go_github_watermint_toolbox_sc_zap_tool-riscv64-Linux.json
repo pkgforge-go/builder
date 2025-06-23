@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sc_zap_tool",
+  "pkg_family": "toolbox",
+  "pkg_id": "sc_zap_tool#github.com_watermint_toolbox",
+  "pkg_name": "sc_zap_tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/watermint/toolbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.",
+  "homepage": [
+    "https://github.com/watermint/toolbox"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sc_zap_tool",
+    "toolbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/watermint/toolbox/archive/9c55f5b0643c5b6c5ac9ab6e4e6b81da900c9806.tar.gz"
+  ],
+  "tag": [
+    "dropbox",
+    "dropbox-business",
+    "figma",
+    "figma-export",
+    "github"
+  ],
+  "version": "HEAD-9c55f5b-250617T211051",
+  "version_upstream": "142.8.328",
+  "bsum": "7d25595444a4d03862d705e9b089ccd4bee217d5bffb5cfd0216320b5a2fec4d",
+  "build_date": "2025-06-23T09:10:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819070973",
+  "build_id": "15819070973",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/watermint/toolbox/sc_zap_tool?tag=HEAD-9c55f5b-250617T211051-riscv64-Linux&download=sc_zap_tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "84",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/watermint/toolbox/sc_zap_tool?tag=HEAD-9c55f5b-250617T211051-riscv64-Linux&download=sc_zap_tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/watermint/toolbox/sc_zap_tool:HEAD-9c55f5b-250617T211051-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/watermint/toolbox/sc_zap_tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/watermint/toolbox/sc_zap_tool?tag=HEAD-9c55f5b-250617T211051-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "221eecc28e32597ec4748d88045ce788d29113714a5cef52db39790685834df6",
+  "size": "12 MB",
+  "size_raw": "12551192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9c55f5b-250617T211051-riscv64-Linux[142.8.328]"
+  ],
+  "trusted": "true"
+}
