@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cdncheck",
+  "pkg_family": "cdncheck",
+  "pkg_id": "cdncheck#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "cdncheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/cdncheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address.",
+  "homepage": [
+    "https://github.com/projectdiscovery/cdncheck"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/cdncheck/archive/0443e5b0122e45e48e7d04e236f70ed8eca9d18c.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cdn",
+    "cli",
+    "cname",
+    "detection",
+    "lib",
+    "technology"
+  ],
+  "version": "HEAD-0443e5b-250622T001220",
+  "version_upstream": "v1.1.24",
+  "bsum": "8a795b104695d696b3756b4450597ec8a63d129976c43d262bbabf2068c738cf",
+  "build_date": "2025-06-23T04:25:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813833165",
+  "build_id": "15813833165",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck?tag=HEAD-0443e5b-250622T001220-x86_64-Linux&download=cdncheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "843",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck?tag=HEAD-0443e5b-250622T001220-x86_64-Linux&download=cdncheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck:HEAD-0443e5b-250622T001220-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck?tag=HEAD-0443e5b-250622T001220-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2cadfa53792d686c300a008166afbc7a5c5e9f17bc369d7653e4f4d603ecdcd",
+  "size": "24 MB",
+  "size_raw": "24645624",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-x86_64-Linux[v1.1.23]"
+  ],
+  "trusted": "true"
+}
