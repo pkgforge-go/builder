@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "streaming",
+  "pkg_family": "example-webrtc-applications",
+  "pkg_id": "streaming#github.com_pion_example_webrtc_applications",
+  "pkg_name": "streaming",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pion/example-webrtc-applications",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Examples of WebRTC applications that are large, or use 3rd party libraries",
+  "homepage": [
+    "https://github.com/pion/example-webrtc-applications"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example-webrtc-applications",
+    "play-from-disk-h264",
+    "play-from-disk-mkv",
+    "rtmp-to-webrtc",
+    "save-to-webm",
+    "sfu-ws",
+    "sip-over-websocket-to-webrtc",
+    "sip-to-webrtc",
+    "snapshot",
+    "streaming",
+    "twitch",
+    "unreal-pixel-streaming"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pion/example-webrtc-applications/archive/f4006142a1705cfd8f2c6f5d36549ffe1da0c1b8.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "pion"
+  ],
+  "version": "HEAD-f400614-250623T033233",
+  "version_upstream": "",
+  "bsum": "4680ce66ddfd884cda3503b2ceb75641eb6a5040e414dd1699838b0d3497107e",
+  "build_date": "2025-06-23T09:01:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818684858",
+  "build_id": "15818684858",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/example-webrtc-applications/streaming?tag=HEAD-f400614-250623T033233-loongarch64-Linux&download=streaming.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1162",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/example-webrtc-applications/streaming?tag=HEAD-f400614-250623T033233-loongarch64-Linux&download=streaming",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pion/example-webrtc-applications/streaming:HEAD-f400614-250623T033233-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pion/example-webrtc-applications/streaming",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/example-webrtc-applications/streaming?tag=HEAD-f400614-250623T033233-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "381d632f04c0f484afb76a9ec6099f76b1d2dab5a1462a095df463e329a5bea7",
+  "size": "9.4 MB",
+  "size_raw": "9760352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
