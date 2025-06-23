@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "singularity",
+  "pkg_id": "scripts#github.com_sylabs_singularity",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sylabs/singularity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.",
+  "homepage": [
+    "https://github.com/sylabs/singularity"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "checks",
+    "confgen",
+    "scripts",
+    "standalone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sylabs/singularity/archive/9d769865488238c27d5b24ec51b7acc7f029cf34.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "hpc",
+    "linux"
+  ],
+  "version": "HEAD-9d76986-250620T161213",
+  "version_upstream": "",
+  "bsum": "7c3b034696df898c7e9a4bd640946a0caceea21d36efd338461cd7e6e0721a5d",
+  "build_date": "2025-06-23T04:42:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15814003805",
+  "build_id": "15814003805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/scripts?tag=HEAD-9d76986-250620T161213-aarch64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "857",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/scripts?tag=HEAD-9d76986-250620T161213-aarch64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sylabs/singularity/scripts:HEAD-9d76986-250620T161213-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sylabs/singularity/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/scripts?tag=HEAD-9d76986-250620T161213-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23d9b9175cc1ebc1f269706e870e48120bf481793194bc110185f1218754d705",
+  "size": "1.6 MB",
+  "size_raw": "1671384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-08da20f-250619T150451-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
