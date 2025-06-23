@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "certs",
+  "pkg_family": "custom-limit-range",
+  "pkg_id": "certs#github.com_kubeservice_stack_custom_limit_range",
+  "pkg_name": "certs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeservice-stack/custom-limit-range",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "kubernetes  pod bandwidth rate limiting, setting bandwidth quota _ custom-limitrange",
+  "homepage": [
+    "https://github.com/kubeservice-stack/custom-limit-range"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "custom-limit-range-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeservice-stack/custom-limit-range/archive/06dce7bff2e5babeb9cfa7955342c2d8210f2ce5.tar.gz"
+  ],
+  "tag": [
+    "addons",
+    "controller-manager",
+    "kubernetes",
+    "webhook"
+  ],
+  "version": "HEAD-06dce7b-250623T185350",
+  "version_upstream": "",
+  "bsum": "ae2f0cbe0be1d2ee854f2b27ab1e27f40c578053e1449d985e5adb3adc6c60df",
+  "build_date": "2025-06-23T18:56:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830722157",
+  "build_id": "15830722157",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeservice-stack/custom-limit-range/certs?tag=HEAD-06dce7b-250623T185350-aarch64-Linux&download=certs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeservice-stack/custom-limit-range/certs?tag=HEAD-06dce7b-250623T185350-aarch64-Linux&download=certs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeservice-stack/custom-limit-range/certs:HEAD-06dce7b-250623T185350-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeservice-stack/custom-limit-range/certs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeservice-stack/custom-limit-range/certs?tag=HEAD-06dce7b-250623T185350-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6552437e771b92c7fdb59cf3a31510da33b8aa9eb0b3bfaa24c2e5831557ea32",
+  "size": "3.3 MB",
+  "size_raw": "3415264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
