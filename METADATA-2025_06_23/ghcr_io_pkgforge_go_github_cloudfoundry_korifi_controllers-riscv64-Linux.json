@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controllers",
+  "pkg_family": "korifi",
+  "pkg_id": "controllers#github.com_cloudfoundry_korifi",
+  "pkg_name": "controllers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/korifi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry on Kubernetes",
+  "homepage": [
+    "https://github.com/cloudfoundry/korifi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controllers",
+    "helmdoc",
+    "job-task-runner",
+    "korifi-api",
+    "kpack-image-builder",
+    "migration",
+    "statefulset-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/korifi/archive/e358e5e523151b155dc9e4769412f5e391d65305.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e358e5e-250623T122509",
+  "version_upstream": "",
+  "bsum": "56bf892aec19c79b8894900f784186eb2c0277d5061b013d726ad4259802ced5",
+  "build_date": "2025-06-23T22:32:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835816799",
+  "build_id": "15835816799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/controllers?tag=HEAD-e358e5e-250623T122509-riscv64-Linux&download=controllers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "369",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/controllers?tag=HEAD-e358e5e-250623T122509-riscv64-Linux&download=controllers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/korifi/controllers:HEAD-e358e5e-250623T122509-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/korifi/controllers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/korifi/controllers?tag=HEAD-e358e5e-250623T122509-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40985efcb488497d4fe3a7e8dc4a01ce1dc1742f24d259c9c47fa6ce0ea448fd",
+  "size": "61 MB",
+  "size_raw": "63961624",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b751985-250619T142427-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
