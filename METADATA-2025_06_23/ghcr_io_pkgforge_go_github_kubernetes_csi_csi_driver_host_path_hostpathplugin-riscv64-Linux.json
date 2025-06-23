@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hostpathplugin",
+  "pkg_family": "csi-driver-host-path",
+  "pkg_id": "hostpathplugin#github.com_kubernetes_csi_csi_driver_host_path",
+  "pkg_name": "hostpathplugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-csi/csi-driver-host-path",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A sample _non-production_ CSI Driver that creates a local directory as a volume on a single node",
+  "homepage": [
+    "https://github.com/kubernetes-csi/csi-driver-host-path"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hostpathplugin",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-csi/csi-driver-host-path/archive/59e0261a80f55fb0e0991527ae00e957e441c2c0.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-storage"
+  ],
+  "version": "HEAD-59e0261-250622T200459",
+  "version_upstream": "",
+  "bsum": "6341370490374d7875b282e96358b808eb9e8dc4699551bc77926c3cc3763fcf",
+  "build_date": "2025-06-23T08:08:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818001785",
+  "build_id": "15818001785",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/hostpathplugin?tag=HEAD-59e0261-250622T200459-riscv64-Linux&download=hostpathplugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "354",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/hostpathplugin?tag=HEAD-59e0261-250622T200459-riscv64-Linux&download=hostpathplugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/hostpathplugin:HEAD-59e0261-250622T200459-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/hostpathplugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/hostpathplugin?tag=HEAD-59e0261-250622T200459-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "344a1a39d74d240fd43d12cb996b88a3d208b3be075910189ca92526f0ddde8d",
+  "size": "15 MB",
+  "size_raw": "15176728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
