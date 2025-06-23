@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate-smart-binds",
+  "pkg_family": "snet-daemon",
+  "pkg_id": "generate-smart-binds#github.com_singnet_snet_daemon",
+  "pkg_name": "generate-smart-binds",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/singnet/snet-daemon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Service Daemon exposes an AI application as an API that is accessible through the SingularityNET Network. It handles all interaction with the blockchain for authorization and payment using AGI tokens and passes through API calls to the AI application.",
+  "homepage": [
+    "https://github.com/singnet/snet-daemon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-smart-binds"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/singnet/snet-daemon/archive/6d8ea7f18d65ca505bd4c263072fefff31d2593f.tar.gz"
+  ],
+  "tag": [
+    "snet-platform"
+  ],
+  "version": "HEAD-6d8ea7f-250623T162712",
+  "version_upstream": "",
+  "bsum": "47e435c84fbce240491fe4694929804bb2d9e7140d74c2e0112d2f12198f7810",
+  "build_date": "2025-06-23T20:20:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833404238",
+  "build_id": "15833404238",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/singnet/snet-daemon/generate-smart-binds?tag=HEAD-6d8ea7f-250623T162712-aarch64-Linux&download=generate-smart-binds.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "52",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/singnet/snet-daemon/generate-smart-binds?tag=HEAD-6d8ea7f-250623T162712-aarch64-Linux&download=generate-smart-binds",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/singnet/snet-daemon/generate-smart-binds:HEAD-6d8ea7f-250623T162712-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/singnet/snet-daemon/generate-smart-binds",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/singnet/snet-daemon/generate-smart-binds?tag=HEAD-6d8ea7f-250623T162712-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6447b59d94fcedcc97793967a97f0b35a4d854d40ba82059c4b725c0862a05ec",
+  "size": "6.7 MB",
+  "size_raw": "7015296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
