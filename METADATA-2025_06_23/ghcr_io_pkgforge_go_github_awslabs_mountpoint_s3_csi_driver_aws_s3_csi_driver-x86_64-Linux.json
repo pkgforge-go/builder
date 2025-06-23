@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aws-s3-csi-driver",
+  "pkg_family": "mountpoint-s3-csi-driver",
+  "pkg_id": "aws-s3-csi-driver#github.com_awslabs_mountpoint_s3_csi_driver",
+  "pkg_name": "aws-s3-csi-driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/awslabs/mountpoint-s3-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Built on Mountpoint for Amazon S3, the Mountpoint CSI driver presents an Amazon S3 bucket as a storage volume accessible by containers in your Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/awslabs/mountpoint-s3-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-s3-csi-controller",
+    "aws-s3-csi-driver",
+    "aws-s3-csi-mounter",
+    "install-mp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/awslabs/mountpoint-s3-csi-driver/archive/6233bd48c3515e5bdb500dfb9d194069cb0a2070.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "csi-driver",
+    "filesystem",
+    "fuse",
+    "kubernetes",
+    "s3"
+  ],
+  "version": "HEAD-6233bd4-250623T102839",
+  "version_upstream": "",
+  "bsum": "3e49191f81663e951e99cd1d608ffffa73b04fda30514854b15208206837f2b8",
+  "build_date": "2025-06-23T16:18:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828953056",
+  "build_id": "15828953056",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/mountpoint-s3-csi-driver/aws-s3-csi-driver?tag=HEAD-6233bd4-250623T102839-x86_64-Linux&download=aws-s3-csi-driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "306",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/mountpoint-s3-csi-driver/aws-s3-csi-driver?tag=HEAD-6233bd4-250623T102839-x86_64-Linux&download=aws-s3-csi-driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/awslabs/mountpoint-s3-csi-driver/aws-s3-csi-driver:HEAD-6233bd4-250623T102839-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/awslabs/mountpoint-s3-csi-driver/aws-s3-csi-driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/mountpoint-s3-csi-driver/aws-s3-csi-driver?tag=HEAD-6233bd4-250623T102839-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a2c0d471eb2cf811e6399a3bbba59c118d6e5ab9a86274ad92e184ebba212f0",
+  "size": "54 MB",
+  "size_raw": "56377568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
