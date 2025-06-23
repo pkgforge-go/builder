@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "promtool",
+  "pkg_family": "prometheus",
+  "pkg_id": "promtool#github.com_prometheus_prometheus",
+  "pkg_name": "promtool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Prometheus monitoring system and time series database.",
+  "homepage": [
+    "https://github.com/prometheus/prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/prometheus/archive/8ed37d3c0939767e3071c549e1a58cefaf142228.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+  ],
+  "version": "HEAD-8ed37d3-250623T005608",
+  "version_upstream": "",
+  "bsum": "f3b418f2f5e87c10ae2eb941a4796313453883ad4cc88dc25759f85dbac70160",
+  "build_date": "2025-06-23T04:30:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813834723",
+  "build_id": "15813834723",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-8ed37d3-250623T005608-x86_64-Linux&download=promtool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59090",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-8ed37d3-250623T005608-x86_64-Linux&download=promtool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool:HEAD-8ed37d3-250623T005608-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-8ed37d3-250623T005608-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17eeb76866ae04b00554070cc232d7fbce69ff9e2a12eb6974e149bca5865552",
+  "size": "111 MB",
+  "size_raw": "116267424",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c701636-250620T130902-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
