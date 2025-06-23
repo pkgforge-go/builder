@@ -26,6 +26,7 @@
     "agent",
     "cli",
     "core",
+    "db-event-writer",
     "device",
     "dusk",
     "faker",
@@ -43,7 +44,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/carverauto/serviceradar/archive/5801ebc828eab7b91c8f46790c33b39f82200714.tar.gz"
+    "https://github.com/carverauto/serviceradar/archive/ccee17821c6d6918f774adde98fdfdb135899249.tar.gz"
   ],
   "tag": [
     "distributed",
@@ -55,30 +56,31 @@
     "network-scanning",
     "ubiquiti"
   ],
-  "version": "HEAD-5801ebc-250622T001603",
+  "version": "HEAD-ccee178-250622T224418",
   "version_upstream": "",
-  "bsum": "714457720539e7657fc3f70ee40bd8000f5e1791b046d8ad8ea3a0ba1e688056",
-  "build_date": "2025-06-23T02:53:31Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813671607",
-  "build_id": "15813671607",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-5801ebc-250622T001603-loongarch64-Linux&download=device.log",
+  "bsum": "5eb4794d6098978e1523e4a1e2b1bf28f95f8615e3c8236a73b7add3ff68739b",
+  "build_date": "2025-06-23T13:37:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071484",
+  "build_id": "15825071484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-ccee178-250622T224418-loongarch64-Linux&download=device.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "186",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-5801ebc-250622T001603-loongarch64-Linux&download=device",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-ccee178-250622T224418-loongarch64-Linux&download=device",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/device:HEAD-5801ebc-250622T001603-loongarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/device:HEAD-ccee178-250622T224418-loongarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/device",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-5801ebc-250622T001603-loongarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/device?tag=HEAD-ccee178-250622T224418-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "00e7c13d40dba64b73c42e18e27b2f6e4afcb0193763984cdd1be076262cf0b9",
-  "size": "16 MB",
-  "size_raw": "16737280",
+  "shasum": "589b91813c2d7566830b11ab535d16316169c6a2f5f8a5424c129cf90ab69bd8",
+  "size": "17 MB",
+  "size_raw": "16809152",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-1a5aa35-250619T221913-loongarch64-Linux[1.0.44-pre6]"
+    "HEAD-1a5aa35-250619T221913-loongarch64-Linux[1.0.44-pre6]",
+    "HEAD-5801ebc-250622T001603-loongarch64-Linux"
   ],
   "trusted": "true"
 }
