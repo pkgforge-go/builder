@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "freeze-checkpoint",
+  "pkg_family": "rekor-tiles",
+  "pkg_id": "freeze-checkpoint#github.com_sigstore_rekor_tiles",
+  "pkg_name": "freeze-checkpoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor-tiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Signature Transparency Log designed for ease of use, low cost, and minimal maintenance",
+  "homepage": [
+    "https://github.com/sigstore/rekor-tiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "freeze-checkpoint",
+    "rekor-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor-tiles/archive/ce192a6904a882d7cc4087057c29d8ebe8d1f165.tar.gz"
+  ],
+  "tag": [
+    "provenance",
+    "security",
+    "supply-chain",
+    "transparency-log"
+  ],
+  "version": "HEAD-ce192a6-250623T114818",
+  "version_upstream": "",
+  "bsum": "2d1d6e0e196b3075405e94bfa63ed166f3dbaafa9b3121b2ae3147ba8fa32b62",
+  "build_date": "2025-06-23T20:19:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833363799",
+  "build_id": "15833363799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-tiles/freeze-checkpoint?tag=HEAD-ce192a6-250623T114818-loongarch64-Linux&download=freeze-checkpoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-tiles/freeze-checkpoint?tag=HEAD-ce192a6-250623T114818-loongarch64-Linux&download=freeze-checkpoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor-tiles/freeze-checkpoint:HEAD-ce192a6-250623T114818-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor-tiles/freeze-checkpoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-tiles/freeze-checkpoint?tag=HEAD-ce192a6-250623T114818-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "55d691dddb6e8aa80d6c6b4892a72cf1b6cf21b4b618abd7648f9db8d73f1fc7",
+  "size": "49 MB",
+  "size_raw": "51214144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

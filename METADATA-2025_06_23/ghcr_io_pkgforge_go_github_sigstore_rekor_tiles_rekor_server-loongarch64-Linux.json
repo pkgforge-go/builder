@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rekor-server",
+  "pkg_family": "rekor-tiles",
+  "pkg_id": "rekor-server#github.com_sigstore_rekor_tiles",
+  "pkg_name": "rekor-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor-tiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Signature Transparency Log designed for ease of use, low cost, and minimal maintenance",
+  "homepage": [
+    "https://github.com/sigstore/rekor-tiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "freeze-checkpoint",
+    "rekor-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor-tiles/archive/ce192a6904a882d7cc4087057c29d8ebe8d1f165.tar.gz"
+  ],
+  "tag": [
+    "provenance",
+    "security",
+    "supply-chain",
+    "transparency-log"
+  ],
+  "version": "HEAD-ce192a6-250623T114818",
+  "version_upstream": "",
+  "bsum": "51022c5ec2e90245e5e00161aa5a0184c1a3a0fef977eae8a63428cad6cbfed9",
+  "build_date": "2025-06-23T20:19:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833363799",
+  "build_id": "15833363799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-tiles/rekor-server?tag=HEAD-ce192a6-250623T114818-loongarch64-Linux&download=rekor-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-tiles/rekor-server?tag=HEAD-ce192a6-250623T114818-loongarch64-Linux&download=rekor-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor-tiles/rekor-server:HEAD-ce192a6-250623T114818-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor-tiles/rekor-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-tiles/rekor-server?tag=HEAD-ce192a6-250623T114818-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4084b5615172b8be407c69c0c1a6b20ce6a6e5dc3aebc8305b7270a2a2ba9fa9",
+  "size": "55 MB",
+  "size_raw": "57262944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
