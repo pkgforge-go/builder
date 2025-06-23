@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testreport",
+  "pkg_family": "buildah",
+  "pkg_id": "testreport#github.com_containers_buildah",
+  "pkg_name": "testreport",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/buildah",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool that facilitates building OCI images.",
+  "homepage": [
+    "https://github.com/containers/buildah"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dumpspec",
+    "inet",
+    "serve",
+    "testreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/buildah/archive/dc1a1f5b3b4d0ae0f7ab20aa22d9490507067d0e.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "container-image",
+    "containers",
+    "docker",
+    "oci",
+    "oci-image",
+    "podman"
+  ],
+  "version": "HEAD-dc1a1f5-250620T151837",
+  "version_upstream": "",
+  "bsum": "1e93f12548e5ba283c7fbe98b802597f028c9062267de34b1d1c9858367e855a",
+  "build_date": "2025-06-23T03:07:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813701984",
+  "build_id": "15813701984",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/testreport?tag=HEAD-dc1a1f5-250620T151837-aarch64-Linux&download=testreport.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7981",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/testreport?tag=HEAD-dc1a1f5-250620T151837-aarch64-Linux&download=testreport",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/buildah/testreport:HEAD-dc1a1f5-250620T151837-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/buildah/testreport",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/testreport?tag=HEAD-dc1a1f5-250620T151837-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b617a54c5a3757cdd18d9c5e5ecae3d9f24c2ca797f5f32608cc319b5a5b4836",
+  "size": "2.3 MB",
+  "size_raw": "2341912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0b3a01c-250618T124933-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
