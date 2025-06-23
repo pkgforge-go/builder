@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "arch",
+  "pkg_family": "tunnels",
+  "pkg_id": "arch#github.com_tunnels_is_tunnels",
+  "pkg_name": "arch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tunnels-is/tunnels",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_ANU_ Advanced Networking Utility + Full GUI _ VPN, Zero Trust Network, NAT, Routing, DNS Server + filtering_",
+  "homepage": [
+    "https://github.com/tunnels-is/tunnels"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arch",
+    "build-parser",
+    "curve",
+    "dbstuff",
+    "deferloop",
+    "dns",
+    "encrypt",
+    "filescanner",
+    "ipforward",
+    "json",
+    "logging",
+    "main",
+    "min",
+    "nat",
+    "network",
+    "new-mapping",
+    "raw",
+    "server",
+    "sharding",
+    "signing",
+    "slice",
+    "slicevslock",
+    "structures"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tunnels-is/tunnels/archive/b448db22cfe8f8cd71f58ee7cd9b6e15356a7f4b.tar.gz"
+  ],
+  "tag": [
+    "devops",
+    "dns",
+    "nat",
+    "networking",
+    "routing"
+  ],
+  "version": "HEAD-b448db2-250622T105534",
+  "version_upstream": "v2.0.2",
+  "bsum": "aed0e2bf1eb3ab73587ea51e7e293ffec4cf7125660b77fbfafcde5bf19acaa0",
+  "build_date": "2025-06-23T09:40:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819687954",
+  "build_id": "15819687954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/arch?tag=HEAD-b448db2-250622T105534-riscv64-Linux&download=arch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/arch?tag=HEAD-b448db2-250622T105534-riscv64-Linux&download=arch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tunnels-is/tunnels/arch:HEAD-b448db2-250622T105534-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tunnels-is/tunnels/arch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tunnels-is/tunnels/arch?tag=HEAD-b448db2-250622T105534-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "57e497e6140bf879352ae104590cf0729642fb7b73150333938c689ea5d95c36",
+  "size": "1.5 MB",
+  "size_raw": "1569288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
