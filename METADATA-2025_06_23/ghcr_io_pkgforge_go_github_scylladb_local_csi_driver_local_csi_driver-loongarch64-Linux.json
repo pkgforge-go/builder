@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "local-csi-driver",
+  "pkg_family": "local-csi-driver",
+  "pkg_id": "local-csi-driver#github.com_scylladb_local_csi_driver",
+  "pkg_name": "local-csi-driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/scylladb/local-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ScyllaDB local volume provisioner for Kubernetes based on CSI",
+  "homepage": [
+    "https://github.com/scylladb/local-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "local-csi-driver",
+    "local-csi-driver-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/scylladb/local-csi-driver/archive/491f32c7bd3cbea1b816aa820aa7aedcff4f11f7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-491f32c-250623T130616",
+  "version_upstream": "",
+  "bsum": "0592c5721dddd4777d0227367352d4bf5e8e1d163d738d9b20f1aabd3b6e8177",
+  "build_date": "2025-06-23T20:11:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833350244",
+  "build_id": "15833350244",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scylladb/local-csi-driver/local-csi-driver?tag=HEAD-491f32c-250623T130616-loongarch64-Linux&download=local-csi-driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scylladb/local-csi-driver/local-csi-driver?tag=HEAD-491f32c-250623T130616-loongarch64-Linux&download=local-csi-driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/scylladb/local-csi-driver/local-csi-driver:HEAD-491f32c-250623T130616-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/scylladb/local-csi-driver/local-csi-driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scylladb/local-csi-driver/local-csi-driver?tag=HEAD-491f32c-250623T130616-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "68b67f19c4d4ff4b8f80b36d18a9f5e635537f718e2f474368ace4224e4159bc",
+  "size": "19 MB",
+  "size_raw": "19232448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
