@@ -44,7 +44,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/carverauto/serviceradar/archive/ccee17821c6d6918f774adde98fdfdb135899249.tar.gz"
+    "https://github.com/carverauto/serviceradar/archive/a10bc18a568427764785c200edb44bb86d4dd27d.tar.gz"
   ],
   "tag": [
     "distributed",
@@ -56,31 +56,32 @@
     "network-scanning",
     "ubiquiti"
   ],
-  "version": "HEAD-ccee178-250622T224418",
-  "version_upstream": "",
-  "bsum": "3b7e1937b89aaa47e8f0f1018c03358a5492e53825dad5b225ffbe793350eef0",
-  "build_date": "2025-06-23T13:36:41Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071484",
-  "build_id": "15825071484",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/netflow?tag=HEAD-ccee178-250622T224418-x86_64-Linux&download=netflow.log",
+  "version": "HEAD-a10bc18-250623T085417",
+  "version_upstream": "1.0.44-pre10",
+  "bsum": "0d63f9ff4528a02aa24e70ced8941ce1355cfda5906581ed08149342652f988a",
+  "build_date": "2025-06-23T22:13:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835782985",
+  "build_id": "15835782985",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/netflow?tag=HEAD-a10bc18-250623T085417-x86_64-Linux&download=netflow.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "186",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/netflow?tag=HEAD-ccee178-250622T224418-x86_64-Linux&download=netflow",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/netflow?tag=HEAD-a10bc18-250623T085417-x86_64-Linux&download=netflow",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/netflow:HEAD-ccee178-250622T224418-x86_64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/netflow:HEAD-a10bc18-250623T085417-x86_64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/netflow",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/netflow?tag=HEAD-ccee178-250622T224418-x86_64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/netflow?tag=HEAD-a10bc18-250623T085417-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "2a3d811bfcf3536d92ea052ca216b36bc13aa8e3188057862051e66f90acfbc7",
+  "shasum": "1ba85dbe58f416ab8ee6d42d50f75242a12b79a24bd68a92746d10b5f8117ce9",
   "size": "17 MB",
   "size_raw": "17427936",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-1a5aa35-250619T221913-x86_64-Linux[1.0.44-pre6]",
-    "HEAD-5801ebc-250622T001603-x86_64-Linux"
+    "HEAD-5801ebc-250622T001603-x86_64-Linux",
+    "HEAD-ccee178-250622T224418-x86_64-Linux"
   ],
   "trusted": "true"
 }
