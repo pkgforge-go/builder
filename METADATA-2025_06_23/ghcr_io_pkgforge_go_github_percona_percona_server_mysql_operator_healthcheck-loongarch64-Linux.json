@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "healthcheck",
+  "pkg_family": "percona-server-mysql-operator",
+  "pkg_id": "healthcheck#github.com_percona_percona_server_mysql_operator",
+  "pkg_name": "healthcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-server-mysql-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Operator for MySQL",
+  "homepage": [
+    "https://github.com/percona/percona-server-mysql-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "healthcheck",
+    "manager",
+    "mysql-state-monitor",
+    "orc-handler",
+    "peer-list",
+    "sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-server-mysql-operator/archive/7b1bad5dd19ee907b5fe0bb8c41535a80bdb724c.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes",
+    "mysql"
+  ],
+  "version": "HEAD-7b1bad5-250622T185444",
+  "version_upstream": "",
+  "bsum": "6ea0587d15eb07671bec08bb2fbd300573e0a275a0193cef1df3d91ed704e441",
+  "build_date": "2025-06-23T08:58:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818548463",
+  "build_id": "15818548463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/healthcheck?tag=HEAD-7b1bad5-250622T185444-loongarch64-Linux&download=healthcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "183",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/healthcheck?tag=HEAD-7b1bad5-250622T185444-loongarch64-Linux&download=healthcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-server-mysql-operator/healthcheck:HEAD-7b1bad5-250622T185444-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-server-mysql-operator/healthcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-server-mysql-operator/healthcheck?tag=HEAD-7b1bad5-250622T185444-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "515d3a9a2e4a97ba6e277e49c7e60d3fe3f45ce4eb854eb10841486c9536f531",
+  "size": "37 MB",
+  "size_raw": "38416992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
