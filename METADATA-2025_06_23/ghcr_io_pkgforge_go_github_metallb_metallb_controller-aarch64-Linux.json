@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "metallb",
+  "pkg_id": "controller#github.com_metallb_metallb",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metallb/metallb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+  "homepage": [
+    "https://github.com/metallb/metallb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaptocrs",
+    "controller",
+    "cp-tool",
+    "metrics",
+    "speaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metallb/metallb/archive/bacee32c11930b29a0cfae1f8a6410026625fab0.tar.gz"
+  ],
+  "tag": [
+    "arp",
+    "bare-metal",
+    "bgp",
+    "frr",
+    "hacktoberfest",
+    "keepalived",
+    "kubernetes",
+    "load-balancer",
+    "vrrp"
+  ],
+  "version": "HEAD-bacee32-250622T234743",
+  "version_upstream": "",
+  "bsum": "2a39453843e516be5849d0ecba18500d183f12737af7e9c908592bbef40a5101",
+  "build_date": "2025-06-23T08:34:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818310716",
+  "build_id": "15818310716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/controller?tag=HEAD-bacee32-250622T234743-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7594",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/controller?tag=HEAD-bacee32-250622T234743-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metallb/metallb/controller:HEAD-bacee32-250622T234743-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metallb/metallb/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/controller?tag=HEAD-bacee32-250622T234743-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14aa47288d267de8c12614b060c0bebac6d52a27462400ac00886c145e395530",
+  "size": "52 MB",
+  "size_raw": "54289888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

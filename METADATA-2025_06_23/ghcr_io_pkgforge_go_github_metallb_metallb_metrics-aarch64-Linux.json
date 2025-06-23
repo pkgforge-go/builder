@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "metrics",
+  "pkg_family": "metallb",
+  "pkg_id": "metrics#github.com_metallb_metallb",
+  "pkg_name": "metrics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metallb/metallb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+  "homepage": [
+    "https://github.com/metallb/metallb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaptocrs",
+    "controller",
+    "cp-tool",
+    "metrics",
+    "speaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metallb/metallb/archive/bacee32c11930b29a0cfae1f8a6410026625fab0.tar.gz"
+  ],
+  "tag": [
+    "arp",
+    "bare-metal",
+    "bgp",
+    "frr",
+    "hacktoberfest",
+    "keepalived",
+    "kubernetes",
+    "load-balancer",
+    "vrrp"
+  ],
+  "version": "HEAD-bacee32-250622T234743",
+  "version_upstream": "",
+  "bsum": "88b777b96d9b47cdb7539cf0f1595db80bbcfcd674c98f13f3e0a7832a04eb9c",
+  "build_date": "2025-06-23T08:34:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818310716",
+  "build_id": "15818310716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/metrics?tag=HEAD-bacee32-250622T234743-aarch64-Linux&download=metrics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7594",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/metrics?tag=HEAD-bacee32-250622T234743-aarch64-Linux&download=metrics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metallb/metallb/metrics:HEAD-bacee32-250622T234743-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metallb/metallb/metrics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/metrics?tag=HEAD-bacee32-250622T234743-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30b8d3ee497507dcb638b89ccbf247c71c687d05b9c5140370249e36e5f85abe",
+  "size": "38 MB",
+  "size_raw": "39039360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
