@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "basic",
+  "pkg_family": "go-plugin",
+  "pkg_id": "basic#github.com_hashicorp_go_plugin",
+  "pkg_name": "basic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/go-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang plugin system over RPC.",
+  "homepage": [
+    "https://github.com/hashicorp/go-plugin"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "bidirectional",
+    "grpc",
+    "negotiated",
+    "plugin",
+    "plugin-go",
+    "plugin-go-grpc",
+    "plugin-go-netrpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/go-plugin/archive/f4acdfe4f62c0daa216fc951a525ae578daadcae.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f4acdfe-250617T101721",
+  "version_upstream": "",
+  "bsum": "38786c8c26aef2d7bc3bd048b7229a70c2f5d93e7814ceb7d1f16f2b66478153",
+  "build_date": "2025-06-23T07:53:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817559684",
+  "build_id": "15817559684",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-plugin/basic?tag=HEAD-f4acdfe-250617T101721-x86_64-Linux&download=basic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5555",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-plugin/basic?tag=HEAD-f4acdfe-250617T101721-x86_64-Linux&download=basic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/go-plugin/basic:HEAD-f4acdfe-250617T101721-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/go-plugin/basic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-plugin/basic?tag=HEAD-f4acdfe-250617T101721-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d1e78cc3909c4c0b5a352ed17e5d84bd3a9850d2e8a5e9ab55bddd9d287776bc",
+  "size": "14 MB",
+  "size_raw": "13940664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
