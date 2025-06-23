@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "git-remote-gittuf",
+  "pkg_family": "gittuf",
+  "pkg_id": "git-remote-gittuf#github.com_gittuf_gittuf",
+  "pkg_name": "git-remote-gittuf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gittuf/gittuf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A security layer for Git repositories",
+  "homepage": [
+    "https://github.com/gittuf/gittuf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "git-remote-gittuf",
+    "gittuf",
+    "sandbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gittuf/gittuf/archive/0ecd4c729ec0cf7322b51c21abff4229b33d9ede.tar.gz"
+  ],
+  "tag": [
+    "access-control",
+    "git",
+    "git-security",
+    "gittuf",
+    "tuf"
+  ],
+  "version": "HEAD-0ecd4c7-250622T150451",
+  "version_upstream": "",
+  "bsum": "55ffd26c87b91856e343d6350b7388e3061f7490af6888b7d9326ce0d4df3064",
+  "build_date": "2025-06-23T13:55:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825122121",
+  "build_id": "15825122121",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/git-remote-gittuf?tag=HEAD-0ecd4c7-250622T150451-x86_64-Linux&download=git-remote-gittuf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "533",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/git-remote-gittuf?tag=HEAD-0ecd4c7-250622T150451-x86_64-Linux&download=git-remote-gittuf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gittuf/gittuf/git-remote-gittuf:HEAD-0ecd4c7-250622T150451-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gittuf/gittuf/git-remote-gittuf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/git-remote-gittuf?tag=HEAD-0ecd4c7-250622T150451-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5bb12268d6bf3406dbd902425ba37426d489047169a4d66f626b27a2b46cfd5c",
+  "size": "29 MB",
+  "size_raw": "30350784",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4ab04ee-250616T131646-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

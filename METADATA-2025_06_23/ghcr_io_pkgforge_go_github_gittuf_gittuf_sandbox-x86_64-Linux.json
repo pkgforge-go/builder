@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sandbox",
+  "pkg_family": "gittuf",
+  "pkg_id": "sandbox#github.com_gittuf_gittuf",
+  "pkg_name": "sandbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gittuf/gittuf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A security layer for Git repositories",
+  "homepage": [
+    "https://github.com/gittuf/gittuf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "git-remote-gittuf",
+    "gittuf",
+    "sandbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gittuf/gittuf/archive/0ecd4c729ec0cf7322b51c21abff4229b33d9ede.tar.gz"
+  ],
+  "tag": [
+    "access-control",
+    "git",
+    "git-security",
+    "gittuf",
+    "tuf"
+  ],
+  "version": "HEAD-0ecd4c7-250622T150451",
+  "version_upstream": "",
+  "bsum": "294c0c3f60102ff5decb2fe3ebf30ffc43b0522a4489fad972582bb4b181dab7",
+  "build_date": "2025-06-23T13:56:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825122121",
+  "build_id": "15825122121",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/sandbox?tag=HEAD-0ecd4c7-250622T150451-x86_64-Linux&download=sandbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "533",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/sandbox?tag=HEAD-0ecd4c7-250622T150451-x86_64-Linux&download=sandbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gittuf/gittuf/sandbox:HEAD-0ecd4c7-250622T150451-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gittuf/gittuf/sandbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/sandbox?tag=HEAD-0ecd4c7-250622T150451-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e9c9ec992716c991c3d088484e2ad209e089fc9f14be3ade41b8ad07c3a691b4",
+  "size": "25 MB",
+  "size_raw": "25862720",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4ab04ee-250616T131646-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
