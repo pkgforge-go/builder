@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "lnd",
+  "pkg_family": "lnd",
+  "pkg_id": "lnd#github.com_lightningnetwork_lnd",
+  "pkg_name": "lnd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lightningnetwork/lnd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lightning Network Daemon ⚡️",
+  "homepage": [
+    "https://github.com/lightningnetwork/lnd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lncli",
+    "lnd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lightningnetwork/lnd/archive/faa68a220ee3bcdf0b31c6ddea1d8253662a5c6e.tar.gz"
+  ],
+  "tag": [
+    "bitcoin",
+    "blockchain",
+    "cryptocurrency",
+    "cryptography",
+    "lightning",
+    "lightning-network",
+    "micropayments",
+    "payments",
+    "peer-to-peer",
+    "protocol"
+  ],
+  "version": "HEAD-faa68a2-250620T152624",
+  "version_upstream": "",
+  "bsum": "b077d0b270b563f39d4dd6a6b365f2de9f151d33eb177e1d32130989b20ef34f",
+  "build_date": "2025-06-23T05:34:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815470618",
+  "build_id": "15815470618",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-faa68a2-250620T152624-aarch64-Linux&download=lnd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7953",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-faa68a2-250620T152624-aarch64-Linux&download=lnd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lnd:HEAD-faa68a2-250620T152624-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lnd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-faa68a2-250620T152624-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c8a5a4e1f60af501f23fc329a18f4a52fd4a559d624d277786c7fb9695abcbf3",
+  "size": "60 MB",
+  "size_raw": "62413568",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7857d2c-250620T134741-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
