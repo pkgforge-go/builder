@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "nextcloud-spreed-signaling",
+  "pkg_id": "server#github.com_strukturag_nextcloud_spreed_signaling",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/strukturag/nextcloud-spreed-signaling",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Standalone signaling server for Nextcloud Talk.",
+  "homepage": [
+    "https://github.com/strukturag/nextcloud-spreed-signaling"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "proxy",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/strukturag/nextcloud-spreed-signaling/archive/10ca42102695cfb9fa3e22d22fa2366bdf56e46a.tar.gz"
+  ],
+  "tag": [
+    "call",
+    "clustering",
+    "etcd",
+    "go",
+    "golang",
+    "grpc",
+    "nextcloud",
+    "open-source",
+    "screensharing",
+    "spreed",
+    "talk",
+    "video",
+    "webrtc"
+  ],
+  "version": "HEAD-10ca421-250623T135108",
+  "version_upstream": "",
+  "bsum": "d2e1501601337680e8dadef86fd3e550a6703c59c8ed42f47d3fb7ee783a87ae",
+  "build_date": "2025-06-23T20:35:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833468671",
+  "build_id": "15833468671",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/strukturag/nextcloud-spreed-signaling/server?tag=HEAD-10ca421-250623T135108-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "443",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/strukturag/nextcloud-spreed-signaling/server?tag=HEAD-10ca421-250623T135108-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/strukturag/nextcloud-spreed-signaling/server:HEAD-10ca421-250623T135108-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/strukturag/nextcloud-spreed-signaling/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/strukturag/nextcloud-spreed-signaling/server?tag=HEAD-10ca421-250623T135108-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a705a1afc8d534c18680da23495b6902003423f0a0e0a6fd7c92bc8b40e95e5a",
+  "size": "25 MB",
+  "size_raw": "25769184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
