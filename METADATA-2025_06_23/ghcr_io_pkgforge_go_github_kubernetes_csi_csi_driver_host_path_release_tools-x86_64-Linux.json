@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "release-tools",
+  "pkg_family": "csi-driver-host-path",
+  "pkg_id": "release-tools#github.com_kubernetes_csi_csi_driver_host_path",
+  "pkg_name": "release-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-csi/csi-driver-host-path",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A sample _non-production_ CSI Driver that creates a local directory as a volume on a single node",
+  "homepage": [
+    "https://github.com/kubernetes-csi/csi-driver-host-path"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hostpathplugin",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-csi/csi-driver-host-path/archive/59e0261a80f55fb0e0991527ae00e957e441c2c0.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-storage"
+  ],
+  "version": "HEAD-59e0261-250622T200459",
+  "version_upstream": "",
+  "bsum": "39a8eac59c9f77f72bd8111f160d6033a8194d629ed74d20a8c1992f0f5e2dd1",
+  "build_date": "2025-06-23T08:08:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818001785",
+  "build_id": "15818001785",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/release-tools?tag=HEAD-59e0261-250622T200459-x86_64-Linux&download=release-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "354",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/release-tools?tag=HEAD-59e0261-250622T200459-x86_64-Linux&download=release-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/release-tools:HEAD-59e0261-250622T200459-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/release-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-host-path/release-tools?tag=HEAD-59e0261-250622T200459-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f1cbbba4426bedafd782d88ad5757479453e864890215c1d6389830f2823da4",
+  "size": "2.4 MB",
+  "size_raw": "2450520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
