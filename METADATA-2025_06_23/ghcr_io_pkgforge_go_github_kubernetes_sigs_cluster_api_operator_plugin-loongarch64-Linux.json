@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "plugin",
+  "pkg_family": "cluster-api-operator",
+  "pkg_id": "plugin#github.com_kubernetes_sigs_cluster_api_operator",
+  "pkg_name": "plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/cluster-api-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Home for Cluster API Operator, a subproject of sig-cluster-lifecycle",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/cluster-api-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-api-operator-cmd",
+    "plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/cluster-api-operator/archive/7d3bc72de052fb9d15df15219316531afe238b3b.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-cluster-lifecycle"
+  ],
+  "version": "HEAD-7d3bc72-250623T032054",
+  "version_upstream": "",
+  "bsum": "d7b2f44bed1fa8a2501abdcc17849e047b85400a6045c68963059a787f45032b",
+  "build_date": "2025-06-23T18:44:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830614062",
+  "build_id": "15830614062",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-operator/plugin?tag=HEAD-7d3bc72-250623T032054-loongarch64-Linux&download=plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "213",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-operator/plugin?tag=HEAD-7d3bc72-250623T032054-loongarch64-Linux&download=plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-operator/plugin:HEAD-7d3bc72-250623T032054-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-operator/plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-operator/plugin?tag=HEAD-7d3bc72-250623T032054-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38105e1f420cf45b1b47c49d493ca1f120dfb9e8deb628d51c59bae6745b4676",
+  "size": "59 MB",
+  "size_raw": "60937824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
