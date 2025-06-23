@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dex",
+  "pkg_family": "dex",
+  "pkg_id": "dex#github.com_dexidp_dex",
+  "pkg_name": "dex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dexidp/dex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenID Connect _OIDC_ identity and OAuth 2.0 provider with pluggable connectors",
+  "homepage": [
+    "https://github.com/dexidp/dex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dex",
+    "docker-entrypoint"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dexidp/dex/archive/72087470721b3af3707715beda0e7d46e5f5320d.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "identity-provider",
+    "idp",
+    "kubernetes",
+    "oidc"
+  ],
+  "version": "HEAD-7208747-250621T120811",
+  "version_upstream": "",
+  "bsum": "e4b841eb991b72932216ebd95f09eb64860dfdf687a37fb5f4a31df7efd858b0",
+  "build_date": "2025-06-23T03:11:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813721487",
+  "build_id": "15813721487",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dexidp/dex/dex?tag=HEAD-7208747-250621T120811-x86_64-Linux&download=dex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9957",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dexidp/dex/dex?tag=HEAD-7208747-250621T120811-x86_64-Linux&download=dex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dexidp/dex/dex:HEAD-7208747-250621T120811-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dexidp/dex/dex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dexidp/dex/dex?tag=HEAD-7208747-250621T120811-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "963e04a79d339817aca86fa8f85cc19f733f7e55260780d546a9335fc03fb764",
+  "size": "38 MB",
+  "size_raw": "39491536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-56cca05-250619T203700-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
