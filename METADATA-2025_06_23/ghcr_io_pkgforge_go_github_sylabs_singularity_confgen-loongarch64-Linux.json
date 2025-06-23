@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "confgen",
+  "pkg_family": "singularity",
+  "pkg_id": "confgen#github.com_sylabs_singularity",
+  "pkg_name": "confgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sylabs/singularity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.",
+  "homepage": [
+    "https://github.com/sylabs/singularity"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "checks",
+    "confgen",
+    "scripts",
+    "standalone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sylabs/singularity/archive/9d769865488238c27d5b24ec51b7acc7f029cf34.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "hpc",
+    "linux"
+  ],
+  "version": "HEAD-9d76986-250620T161213",
+  "version_upstream": "",
+  "bsum": "dae8269bd5ccdeb40958d7ad722fc57287d0a011e74ebcb98c1e04fb0ba6e83b",
+  "build_date": "2025-06-23T04:42:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15814003805",
+  "build_id": "15814003805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/confgen?tag=HEAD-9d76986-250620T161213-loongarch64-Linux&download=confgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "857",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/confgen?tag=HEAD-9d76986-250620T161213-loongarch64-Linux&download=confgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sylabs/singularity/confgen:HEAD-9d76986-250620T161213-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sylabs/singularity/confgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/confgen?tag=HEAD-9d76986-250620T161213-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75df3cd9c915b8c147c71dc6fe9c74ec8670c6b057df84e47301577375a4ab0b",
+  "size": "3.1 MB",
+  "size_raw": "3210936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-08da20f-250619T150451-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
