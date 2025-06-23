@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dms",
+  "pkg_family": "dms",
+  "pkg_id": "dms#github.com_anacrolix_dms",
+  "pkg_name": "dms",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/dms",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A UPnP DLNA Digital Media Server that includes basic video transcoding. Tested on a Panasonic Viera television, several Android UPnP apps, and Chromecast.",
+  "homepage": [
+    "https://github.com/anacrolix/dms"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dms",
+    "termsig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/dms/archive/0f6368a0753f70532e4e9facbba84a806acd98f7.tar.gz"
+  ],
+  "tag": [
+    "dlna",
+    "ffmpeg",
+    "go",
+    "upnp",
+    "upnp-av"
+  ],
+  "version": "HEAD-0f6368a-250621T131827",
+  "version_upstream": "",
+  "bsum": "703f884468fd0c6732ef70a853fe4f65399d9d789fdd9c66a41be2b77f6eccb6",
+  "build_date": "2025-06-23T02:32:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813637902",
+  "build_id": "15813637902",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/dms/dms?tag=HEAD-0f6368a-250621T131827-x86_64-Linux&download=dms.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "684",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/dms/dms?tag=HEAD-0f6368a-250621T131827-x86_64-Linux&download=dms",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/dms/dms:HEAD-0f6368a-250621T131827-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/dms/dms",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/dms/dms?tag=HEAD-0f6368a-250621T131827-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9294ea4b0af36513162cb29934f62fa307c3255cdd8439441741c1040c2404a",
+  "size": "11 MB",
+  "size_raw": "11303872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4f28a5e-250520T122011-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
