@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "telegraf",
+  "pkg_family": "telegraf",
+  "pkg_id": "telegraf#github.com_influxdata_telegraf",
+  "pkg_name": "telegraf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/influxdata/telegraf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+  "homepage": [
+    "https://github.com/influxdata/telegraf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config_includer",
+    "custom_builder",
+    "examples",
+    "license_checker",
+    "package_incus_test",
+    "readme_config_includer",
+    "readme_linter",
+    "stress_test_write",
+    "telegraf",
+    "testcases",
+    "thrift_serialize",
+    "update_goversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/influxdata/telegraf/archive/450e4c4122a2842d3d71d6aab4e29ce18625fe37.tar.gz"
+  ],
+  "tag": [
+    "gnmi",
+    "golang",
+    "influxdb",
+    "json",
+    "kafka",
+    "logs",
+    "metrics",
+    "modbus",
+    "monitoring",
+    "mqtt",
+    "opcua",
+    "telegraf",
+    "time-series",
+    "windows-eventlog",
+    "windows-management-instrumentation",
+    "xpath"
+  ],
+  "version": "HEAD-450e4c4-250623T084150",
+  "version_upstream": "",
+  "bsum": "715cef4aa9f705d9c1f29f5ab75942787d7dd4f1a37241e2b13539beaa32a572",
+  "build_date": "2025-06-23T23:11:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835853335",
+  "build_id": "15835853335",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/telegraf/telegraf?tag=HEAD-450e4c4-250623T084150-loongarch64-Linux&download=telegraf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15696",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/telegraf/telegraf?tag=HEAD-450e4c4-250623T084150-loongarch64-Linux&download=telegraf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/influxdata/telegraf/telegraf:HEAD-450e4c4-250623T084150-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/influxdata/telegraf/telegraf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/telegraf/telegraf?tag=HEAD-450e4c4-250623T084150-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70ece5d315287bde1e80e15c58e134e2a2a77e63bb1042e1a9cf502051b5d132",
+  "size": "287 MB",
+  "size_raw": "300008400",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-92baaf8-250618T201455-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
