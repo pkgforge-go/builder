@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "create-spec",
+  "pkg_family": "container2wasm",
+  "pkg_id": "create-spec#github.com_container2wasm_container2wasm",
+  "pkg_name": "create-spec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/container2wasm/container2wasm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container to WASM converter",
+  "homepage": [
+    "https://github.com/container2wasm/container2wasm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2w",
+    "c2w-net",
+    "create-spec",
+    "get-qemu-state",
+    "httphello",
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/container2wasm/container2wasm/archive/b8f9f4ab1a012f0fc81179b66381fa8756d95532.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "wasm",
+    "webassembly"
+  ],
+  "version": "HEAD-b8f9f4a-250622T100354",
+  "version_upstream": "",
+  "bsum": "4a8ea97100debb18180b7c38a7ffcc2e40641f18e9638b3dc376f9e890f2eb13",
+  "build_date": "2025-06-23T03:00:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813689910",
+  "build_id": "15813689910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/container2wasm/container2wasm/create-spec?tag=HEAD-b8f9f4a-250622T100354-riscv64-Linux&download=create-spec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2335",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/container2wasm/container2wasm/create-spec?tag=HEAD-b8f9f4a-250622T100354-riscv64-Linux&download=create-spec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/container2wasm/container2wasm/create-spec:HEAD-b8f9f4a-250622T100354-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/container2wasm/container2wasm/create-spec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/container2wasm/container2wasm/create-spec?tag=HEAD-b8f9f4a-250622T100354-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3189d12ae83cf0c23caa4bac10b2d8e2d08bf0826852913e7642b6cf535cca2",
+  "size": "6.1 MB",
+  "size_raw": "6343416",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9e849b8-250616T130618-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
