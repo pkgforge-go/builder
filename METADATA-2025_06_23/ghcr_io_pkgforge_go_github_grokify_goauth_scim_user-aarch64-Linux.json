@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scim_user",
+  "pkg_family": "goauth",
+  "pkg_id": "scim_user#github.com_grokify_goauth",
+  "pkg_name": "scim_user",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grokify/goauth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Utility libraries for Go _aka Golang_ API auth including OAuth 2, JWT, TLS Client Authentication and Basic Auth.",
+  "homepage": [
+    "https://github.com/grokify/goauth"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-code-pkce",
+    "get_account",
+    "get_contacts",
+    "get_me",
+    "get_token",
+    "glipbot_auth",
+    "goauth",
+    "interface_function",
+    "jwt",
+    "jwt_deprecated",
+    "query_card",
+    "salesforce_versions",
+    "scim_user",
+    "scim_user_credentials",
+    "send_ics",
+    "send_one",
+    "server",
+    "server2server_oauth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grokify/goauth/archive/011fed9f06c9ae8a7462dfa34296abe6e3389d40.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "oauth2",
+    "utilities"
+  ],
+  "version": "HEAD-011fed9-250622T203312",
+  "version_upstream": "v0.23.15",
+  "bsum": "fbc1127aeceb9ae819e9cdf2ebabdc154694c56e8b7b095d8680abd723a2bf98",
+  "build_date": "2025-06-23T07:53:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817539938",
+  "build_id": "15817539938",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/goauth/scim_user?tag=HEAD-011fed9-250622T203312-aarch64-Linux&download=scim_user.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/goauth/scim_user?tag=HEAD-011fed9-250622T203312-aarch64-Linux&download=scim_user",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grokify/goauth/scim_user:HEAD-011fed9-250622T203312-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grokify/goauth/scim_user",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/goauth/scim_user?tag=HEAD-011fed9-250622T203312-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c87fae48776292673e25a1a9674e03bcfcd7a9c3f6743e7cb3208bc5e23496e",
+  "size": "15 MB",
+  "size_raw": "15297536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
