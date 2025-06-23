@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "k8s-cleaner",
+  "pkg_family": "k8s-cleaner",
+  "pkg_id": "k8s-cleaner#github.com_gianlucam76_k8s_cleaner",
+  "pkg_name": "k8s-cleaner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gianlucam76/k8s-cleaner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations.",
+  "homepage": [
+    "https://github.com/gianlucam76/k8s-cleaner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s-cleaner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gianlucam76/k8s-cleaner/archive/92af1aeef3cdc3e90da5faadfb829467315fa250.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "kubernetes",
+    "kubernetes-operator",
+    "lua",
+    "notifications",
+    "orphaned-resources",
+    "slack",
+    "stale-resources",
+    "unused-resources",
+    "webex"
+  ],
+  "version": "HEAD-92af1ae-250622T183255",
+  "version_upstream": "",
+  "bsum": "13dd78813ea481b280d6edcdfd30f145aaedff28421fe54efde8143d36f1ea00",
+  "build_date": "2025-06-23T07:44:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817515093",
+  "build_id": "15817515093",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gianlucam76/k8s-cleaner/k8s-cleaner?tag=HEAD-92af1ae-250622T183255-aarch64-Linux&download=k8s-cleaner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "503",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gianlucam76/k8s-cleaner/k8s-cleaner?tag=HEAD-92af1ae-250622T183255-aarch64-Linux&download=k8s-cleaner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gianlucam76/k8s-cleaner/k8s-cleaner:HEAD-92af1ae-250622T183255-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gianlucam76/k8s-cleaner/k8s-cleaner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gianlucam76/k8s-cleaner/k8s-cleaner?tag=HEAD-92af1ae-250622T183255-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce8beb72c7b154e3b6e2f96b56ab948d347c71709266ab5df39ff7e80d6e7c74",
+  "size": "60 MB",
+  "size_raw": "61948608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
