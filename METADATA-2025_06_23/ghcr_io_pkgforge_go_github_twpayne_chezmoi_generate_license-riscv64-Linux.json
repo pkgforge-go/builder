@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate-license",
+  "pkg_family": "chezmoi",
+  "pkg_id": "generate-license#github.com_twpayne_chezmoi",
+  "pkg_name": "generate-license",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/twpayne/chezmoi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage your dotfiles across multiple diverse machines, securely.",
+  "homepage": [
+    "https://github.com/twpayne/chezmoi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chezmoi",
+    "execute-template",
+    "generate-commit",
+    "generate-helps",
+    "generate-install.sh",
+    "generate-license",
+    "lint-commit-messages",
+    "lint-txtar",
+    "lint-whitespace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/twpayne/chezmoi/archive/6384ea3f6b8059bfc554181aa3f5f461c7610024.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "dotfile",
+    "dotfile-management",
+    "dotfile-manager",
+    "dotfile-managers",
+    "dotfile-syncer",
+    "dotfiles",
+    "dotfiles-manager",
+    "linux",
+    "macos",
+    "multiple-machines",
+    "security",
+    "windows"
+  ],
+  "version": "HEAD-6384ea3-250622T161837",
+  "version_upstream": "v2.62.7",
+  "bsum": "e3ed12e99a009588e973bf28d5e60e93f4d1308131b3ff42a21e64a1365a04cf",
+  "build_date": "2025-06-23T14:51:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825336170",
+  "build_id": "15825336170",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/generate-license?tag=HEAD-6384ea3-250622T161837-riscv64-Linux&download=generate-license.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15239",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/generate-license?tag=HEAD-6384ea3-250622T161837-riscv64-Linux&download=generate-license",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/twpayne/chezmoi/generate-license:HEAD-6384ea3-250622T161837-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/twpayne/chezmoi/generate-license",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twpayne/chezmoi/generate-license?tag=HEAD-6384ea3-250622T161837-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22b5d27325cad86e98fb7a5ea81b6e186edddca64e630f7ae5542f75ec77efa0",
+  "size": "11 MB",
+  "size_raw": "11024104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-22ffc1d-250621T174419-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
