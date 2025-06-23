@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bumpmonitoring",
+  "pkg_family": "test-infra",
+  "pkg_id": "bumpmonitoring#github.com_kubernetes_test_infra",
+  "pkg_name": "bumpmonitoring",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/test-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test infrastructure for the Kubernetes project.",
+  "homepage": [
+    "https://github.com/kubernetes/test-infra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyze",
+    "benchmarkjunit",
+    "builder",
+    "bumpmonitoring",
+    "ci-janitor",
+    "cluster-migration",
+    "cluster-upgrader",
+    "clustersecretbackup",
+    "cmd",
+    "commenter",
+    "config-forker",
+    "config-rotator",
+    "configmap",
+    "configurator",
+    "coverage",
+    "csv",
+    "gcsreader",
+    "gcsweb",
+    "gen-prow-documented",
+    "gencred",
+    "gerrit-onboarder",
+    "gopherage",
+    "issue-creator",
+    "kubetest",
+    "label_sync",
+    "manual-trigger",
+    "pr-creator",
+    "pr-labeler",
+    "prowimagebuilder",
+    "prowjob-report",
+    "prowlog",
+    "service-account-creator",
+    "ts-rollup",
+    "update-hook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/test-infra/archive/a2531bf552f792fcdb614df3a4a948d5df97e81b.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-testing"
+  ],
+  "version": "HEAD-a2531bf-250623T072755",
+  "version_upstream": "",
+  "bsum": "e22019cd1d8ca9d730ceed998446af7376fb4b204bc910b56f8e40ec8fabe07c",
+  "build_date": "2025-06-23T17:58:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829991590",
+  "build_id": "15829991590",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/bumpmonitoring?tag=HEAD-a2531bf-250623T072755-loongarch64-Linux&download=bumpmonitoring.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/bumpmonitoring?tag=HEAD-a2531bf-250623T072755-loongarch64-Linux&download=bumpmonitoring",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/test-infra/bumpmonitoring:HEAD-a2531bf-250623T072755-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/test-infra/bumpmonitoring",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/bumpmonitoring?tag=HEAD-a2531bf-250623T072755-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d7c1322f3183b9a2e855e8eeaa25bb1cdf880faad55fe075581d6a2d9e7d308",
+  "size": "15 MB",
+  "size_raw": "14966752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fcb58c3-250620T062052-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

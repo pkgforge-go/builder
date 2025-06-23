@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "issue-creator",
+  "pkg_family": "test-infra",
+  "pkg_id": "issue-creator#github.com_kubernetes_test_infra",
+  "pkg_name": "issue-creator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/test-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test infrastructure for the Kubernetes project.",
+  "homepage": [
+    "https://github.com/kubernetes/test-infra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyze",
+    "benchmarkjunit",
+    "builder",
+    "bumpmonitoring",
+    "ci-janitor",
+    "cluster-migration",
+    "cluster-upgrader",
+    "clustersecretbackup",
+    "cmd",
+    "commenter",
+    "config-forker",
+    "config-rotator",
+    "configmap",
+    "configurator",
+    "coverage",
+    "csv",
+    "gcsreader",
+    "gcsweb",
+    "gen-prow-documented",
+    "gencred",
+    "gerrit-onboarder",
+    "gopherage",
+    "issue-creator",
+    "kubetest",
+    "label_sync",
+    "manual-trigger",
+    "pr-creator",
+    "pr-labeler",
+    "prowimagebuilder",
+    "prowjob-report",
+    "prowlog",
+    "service-account-creator",
+    "ts-rollup",
+    "update-hook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/test-infra/archive/a2531bf552f792fcdb614df3a4a948d5df97e81b.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-testing"
+  ],
+  "version": "HEAD-a2531bf-250623T072755",
+  "version_upstream": "",
+  "bsum": "d022c0819bc4110cbe4850e74bb3249c028db4868e62e3f9eb443bb03a9f73da",
+  "build_date": "2025-06-23T17:58:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829991590",
+  "build_id": "15829991590",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/issue-creator?tag=HEAD-a2531bf-250623T072755-loongarch64-Linux&download=issue-creator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/issue-creator?tag=HEAD-a2531bf-250623T072755-loongarch64-Linux&download=issue-creator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/test-infra/issue-creator:HEAD-a2531bf-250623T072755-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/test-infra/issue-creator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/test-infra/issue-creator?tag=HEAD-a2531bf-250623T072755-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1f51157e3ef7e3ccb90273d0cd9109445860591659885129a3b8ff7b5da2f939",
+  "size": "6.9 MB",
+  "size_raw": "7213792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fcb58c3-250620T062052-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
