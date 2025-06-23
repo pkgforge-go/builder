@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "start-envtest",
+  "pkg_family": "etcd-druid",
+  "pkg_id": "start-envtest#github.com_gardener_etcd_druid",
+  "pkg_name": "start-envtest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/etcd-druid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An etcd operator to configure, provision, reconcile and monitor etcd clusters.",
+  "homepage": [
+    "https://github.com/gardener/etcd-druid"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "etcd-druid-cmd",
+    "start-envtest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/etcd-druid/archive/6425891c0a66e239ec604a3fc843fc0ac806db7f.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "backup-restore",
+    "cloud-native",
+    "controller",
+    "disaster-recovery",
+    "disater-recovery",
+    "etcd",
+    "etcd-backup-restore",
+    "etcd-operator",
+    "gardener",
+    "hosted-controlplanes",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "operator",
+    "snapshot-backup"
+  ],
+  "version": "HEAD-6425891-250623T191113",
+  "version_upstream": "",
+  "bsum": "5f928f62809a07629f8fc8168d25b0373c5f5f59667cbe32fb4380b23c62b1c5",
+  "build_date": "2025-06-23T17:28:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829777155",
+  "build_id": "15829777155",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/etcd-druid/start-envtest?tag=HEAD-6425891-250623T191113-riscv64-Linux&download=start-envtest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/etcd-druid/start-envtest?tag=HEAD-6425891-250623T191113-riscv64-Linux&download=start-envtest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/etcd-druid/start-envtest:HEAD-6425891-250623T191113-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/etcd-druid/start-envtest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/etcd-druid/start-envtest?tag=HEAD-6425891-250623T191113-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab7c69339fed14362b176db13b57bb08a71a6a92ca3ec0e072afb447dccb454b",
+  "size": "43 MB",
+  "size_raw": "44844888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
