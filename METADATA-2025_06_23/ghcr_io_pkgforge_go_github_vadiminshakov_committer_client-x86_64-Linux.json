@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "committer",
+  "pkg_id": "client#github.com_vadiminshakov_committer",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vadiminshakov/committer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Two-phase _2PC_ and three-phase _3PC_ protocols implementaion in Golang",
+  "homepage": [
+    "https://github.com/vadiminshakov/committer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "committer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vadiminshakov/committer/archive/ecb996930574bd1a2145e905da3a512bdf7aa2ec.tar.gz"
+  ],
+  "tag": [
+    "2pc",
+    "3pc",
+    "distributed-systems",
+    "three-phase-commit",
+    "two-phase-commit"
+  ],
+  "version": "HEAD-ecb9969-250622T224051",
+  "version_upstream": "",
+  "bsum": "378e854d2b841d375d75823411caee63c1b3dc07560ea92f18d59db29f965b99",
+  "build_date": "2025-06-23T14:50:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825338899",
+  "build_id": "15825338899",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vadiminshakov/committer/client?tag=HEAD-ecb9969-250622T224051-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vadiminshakov/committer/client?tag=HEAD-ecb9969-250622T224051-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vadiminshakov/committer/client:HEAD-ecb9969-250622T224051-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vadiminshakov/committer/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vadiminshakov/committer/client?tag=HEAD-ecb9969-250622T224051-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7112984f5ab2d5703d7a972ad44badd5acc8fafa06cc4e5f034764706fc32e33",
+  "size": "11 MB",
+  "size_raw": "11416096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c9053d1-250622T024531-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
