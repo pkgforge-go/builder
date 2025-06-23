@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mapper",
+  "pkg_family": "serviceradar",
+  "pkg_id": "mapper#github.com_carverauto_serviceradar",
+  "pkg_name": "mapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/carverauto/serviceradar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "simple golang-based distributed network monitoring",
+  "homepage": [
+    "https://github.com/carverauto/serviceradar"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "core",
+    "device",
+    "dusk",
+    "faker",
+    "kv",
+    "mapper",
+    "netflow",
+    "poller",
+    "snmp",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/carverauto/serviceradar/archive/5801ebc828eab7b91c8f46790c33b39f82200714.tar.gz"
+  ],
+  "tag": [
+    "distributed",
+    "dusk",
+    "golang",
+    "homelab",
+    "monitoring-tool",
+    "network-monitoring-tool",
+    "network-scanning",
+    "ubiquiti"
+  ],
+  "version": "HEAD-5801ebc-250622T001603",
+  "version_upstream": "",
+  "bsum": "32e85184a37aa63eb4d33b114bc78c82dbd538d98d7125fbd64102bd4c5e1465",
+  "build_date": "2025-06-23T02:54:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813671607",
+  "build_id": "15813671607",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-5801ebc-250622T001603-loongarch64-Linux&download=mapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "186",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-5801ebc-250622T001603-loongarch64-Linux&download=mapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/mapper:HEAD-5801ebc-250622T001603-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/mapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/mapper?tag=HEAD-5801ebc-250622T001603-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71d4d978db87a5c2d04fd32b2fa8204c9655b1cc257a4d4bb72cf1880c531618",
+  "size": "16 MB",
+  "size_raw": "16013952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a5aa35-250619T221913-loongarch64-Linux[1.0.44-pre6]"
+  ],
+  "trusted": "true"
+}
