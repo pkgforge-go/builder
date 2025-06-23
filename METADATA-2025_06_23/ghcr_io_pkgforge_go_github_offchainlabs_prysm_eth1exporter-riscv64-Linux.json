@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "eth1exporter",
+  "pkg_family": "prysm",
+  "pkg_id": "eth1exporter#github.com_OffchainLabs_prysm",
+  "pkg_name": "eth1exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eth1exporter",
+    "gocovmerge",
+    "nogo_config",
+    "replay-http"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/667aaf15648346a72aff5b24d425cf6a18802a42.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-667aaf1-250622T215544",
+  "version_upstream": "",
+  "bsum": "192446562aa7703041649abff6d00662a82159068f86420a20b7a21f7d2d8362",
+  "build_date": "2025-06-23T13:30:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825065836",
+  "build_id": "15825065836",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/eth1exporter?tag=HEAD-667aaf1-250622T215544-riscv64-Linux&download=eth1exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/eth1exporter?tag=HEAD-667aaf1-250622T215544-riscv64-Linux&download=eth1exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/eth1exporter:HEAD-667aaf1-250622T215544-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/eth1exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/eth1exporter?tag=HEAD-667aaf1-250622T215544-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "307e5285477ece229aabddaee4e7b61e958becb7e9f472eb48780aaf1bc4459e",
+  "size": "9.6 MB",
+  "size_raw": "10059288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
