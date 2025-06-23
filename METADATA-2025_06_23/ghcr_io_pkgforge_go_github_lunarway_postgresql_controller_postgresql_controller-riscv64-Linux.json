@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "postgresql-controller",
+  "pkg_family": "postgresql-controller",
+  "pkg_id": "postgresql-controller#github.com_lunarway_postgresql_controller",
+  "pkg_name": "postgresql-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lunarway/postgresql-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL controller for managing database user access through kubernetes custom resources",
+  "homepage": [
+    "https://github.com/lunarway/postgresql-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "postgresql-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lunarway/postgresql-controller/archive/4df25c1bb50b69892af0ecbfcdbca3c204bb4f6e.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "operator",
+    "operator-sdk",
+    "postgresql"
+  ],
+  "version": "HEAD-4df25c1-250623T101216",
+  "version_upstream": "v0.10.1",
+  "bsum": "7eb5ec9ee537bf78c34be39181557a7fed0596e439f3eb9b1a0322cc8fac08af",
+  "build_date": "2025-06-23T19:27:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15831164293",
+  "build_id": "15831164293",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lunarway/postgresql-controller/postgresql-controller?tag=HEAD-4df25c1-250623T101216-riscv64-Linux&download=postgresql-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lunarway/postgresql-controller/postgresql-controller?tag=HEAD-4df25c1-250623T101216-riscv64-Linux&download=postgresql-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lunarway/postgresql-controller/postgresql-controller:HEAD-4df25c1-250623T101216-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lunarway/postgresql-controller/postgresql-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lunarway/postgresql-controller/postgresql-controller?tag=HEAD-4df25c1-250623T101216-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9059db0ac152dadf9501105a4c946a3ae886b395d355af2f4368e77efbfc6f8e",
+  "size": "44 MB",
+  "size_raw": "45710328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
