@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "credhub_exporter",
+  "pkg_family": "credhub_exporter",
+  "pkg_id": "credhub_exporter#github.com_orange_cloudfoundry_credhub_exporter",
+  "pkg_name": "credhub_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orange-cloudfoundry/credhub_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A prometheus exporter for credhub that monitors credential age and certificate expiration",
+  "homepage": [
+    "https://github.com/orange-cloudfoundry/credhub_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "credhub_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/orange-cloudfoundry/credhub_exporter/archive/d1e1e2386bd329f7471e62bdf822c3ca8db0d41e.tar.gz"
+  ],
+  "tag": [
+    "credhub",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-d1e1e23-250623T033017",
+  "version_upstream": "v0.65.0",
+  "bsum": "ba58f1c9bee89d17ed90c43e0337d835a004dd9dd5a4dce4d2d0923abe2a41e7",
+  "build_date": "2025-06-23T08:50:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818515888",
+  "build_id": "15818515888",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/credhub/exporter/credhub_exporter?tag=HEAD-d1e1e23-250623T033017-loongarch64-Linux&download=credhub_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/credhub/exporter/credhub_exporter?tag=HEAD-d1e1e23-250623T033017-loongarch64-Linux&download=credhub_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/credhub/exporter/credhub_exporter:HEAD-d1e1e23-250623T033017-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/credhub/exporter/credhub_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/credhub/exporter/credhub_exporter?tag=HEAD-d1e1e23-250623T033017-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "971a1612da9e27a02b93375ae5d401d8b100a4d47ea382f4d6368f427ddc4683",
+  "size": "13 MB",
+  "size_raw": "12971744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
