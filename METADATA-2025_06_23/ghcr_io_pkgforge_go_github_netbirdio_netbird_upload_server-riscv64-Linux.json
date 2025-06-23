@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "upload-server",
+  "pkg_family": "netbird",
+  "pkg_id": "upload-server#github.com_netbirdio_netbird",
+  "pkg_name": "upload-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/netbirdio/netbird",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+  "homepage": [
+    "https://github.com/netbirdio/netbird"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "example",
+    "management",
+    "relay",
+    "signal",
+    "testec2",
+    "upload-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/netbirdio/netbird/archive/870e29db63e118ca8273cabc39107365611eef55.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "mesh",
+    "mesh-networks",
+    "nat-traversal",
+    "netbird",
+    "vpn",
+    "wireguard",
+    "wireguard-vpn",
+    "wiretrustee",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-870e29d-250622T134425",
+  "version_upstream": "",
+  "bsum": "c0b11150920f08543382acd53645891a072b2652fcd3e17cfda0efb3a0e83a47",
+  "build_date": "2025-06-23T04:18:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813808412",
+  "build_id": "15813808412",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/upload-server?tag=HEAD-870e29d-250622T134425-riscv64-Linux&download=upload-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16194",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/upload-server?tag=HEAD-870e29d-250622T134425-riscv64-Linux&download=upload-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netbirdio/netbird/upload-server:HEAD-870e29d-250622T134425-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netbirdio/netbird/upload-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/upload-server?tag=HEAD-870e29d-250622T134425-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8475a5a6f457cd65b2b2b2ae507931b3bcc6d9903bc328cbed52c568ed085823",
+  "size": "10 MB",
+  "size_raw": "10420792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-83457f8-250620T121324-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
