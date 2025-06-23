@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "eskip",
+  "pkg_family": "skipper",
+  "pkg_id": "eskip#github.com_zalando_skipper",
+  "pkg_name": "eskip",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalando/skipper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress",
+  "homepage": [
+    "https://github.com/zalando/skipper"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eskip",
+    "routesrv",
+    "skipper",
+    "version",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zalando/skipper/archive/10c8b67f6336389c6fce9694f5daa0c9f503367e.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "eskip",
+    "etcd",
+    "go",
+    "http-proxy",
+    "ingress-controller",
+    "kubernetes",
+    "kubernetes-controller",
+    "kubernetes-ingress",
+    "mosaic",
+    "proxy",
+    "router",
+    "skipper"
+  ],
+  "version": "HEAD-10c8b67-250623T163050",
+  "version_upstream": "v0.22.54",
+  "bsum": "88921ab3a54a2962191b15f206d1c7d7adaafb3fb50e9c5f878ffc8c64755c9e",
+  "build_date": "2025-06-23T21:15:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15834402190",
+  "build_id": "15834402190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalando/skipper/eskip?tag=HEAD-10c8b67-250623T163050-riscv64-Linux&download=eskip.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3193",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalando/skipper/eskip?tag=HEAD-10c8b67-250623T163050-riscv64-Linux&download=eskip",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalando/skipper/eskip:HEAD-10c8b67-250623T163050-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalando/skipper/eskip",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalando/skipper/eskip?tag=HEAD-10c8b67-250623T163050-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4432f77a969ec9e46884d5367dda64c3d8416716902a3b1e95f42da6b9f58238",
+  "size": "9.2 MB",
+  "size_raw": "9550072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
