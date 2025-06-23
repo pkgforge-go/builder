@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "clouditor",
+  "pkg_id": "cli#github.com_clouditor_clouditor",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clouditor/clouditor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.",
+  "homepage": [
+    "https://github.com/clouditor/clouditor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assessment",
+    "cli",
+    "discovery",
+    "engine",
+    "evaluation",
+    "evidence_store",
+    "orchestrator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clouditor/clouditor/archive/63b02d9e402b7b98bd3ed4b57cac01da79acaeb0.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "bsic5",
+    "ccm",
+    "cloud",
+    "compliance",
+    "eucs",
+    "golang",
+    "security"
+  ],
+  "version": "HEAD-63b02d9-250623T084151",
+  "version_upstream": "",
+  "bsum": "fb1d88e5f05445db8696d086db999c0e78600ec75dfbf62510df2c36a93680bc",
+  "build_date": "2025-06-23T22:30:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835818689",
+  "build_id": "15835818689",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/cli?tag=HEAD-63b02d9-250623T084151-riscv64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/cli?tag=HEAD-63b02d9-250623T084151-riscv64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clouditor/clouditor/cli:HEAD-63b02d9-250623T084151-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clouditor/clouditor/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/cli?tag=HEAD-63b02d9-250623T084151-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fb00faaf7157b2d0aeb0f4e3c9398bf60c42dcaecbf24a3beda7fc29e0fb1a60",
+  "size": "23 MB",
+  "size_raw": "23889400",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2ac11f8-250604T173245-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

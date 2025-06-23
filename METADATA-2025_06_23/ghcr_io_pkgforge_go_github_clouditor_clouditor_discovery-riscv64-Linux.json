@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "discovery",
+  "pkg_family": "clouditor",
+  "pkg_id": "discovery#github.com_clouditor_clouditor",
+  "pkg_name": "discovery",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clouditor/clouditor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.",
+  "homepage": [
+    "https://github.com/clouditor/clouditor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assessment",
+    "cli",
+    "discovery",
+    "engine",
+    "evaluation",
+    "evidence_store",
+    "orchestrator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clouditor/clouditor/archive/63b02d9e402b7b98bd3ed4b57cac01da79acaeb0.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "bsic5",
+    "ccm",
+    "cloud",
+    "compliance",
+    "eucs",
+    "golang",
+    "security"
+  ],
+  "version": "HEAD-63b02d9-250623T084151",
+  "version_upstream": "",
+  "bsum": "ceec2d6e45e8322b58db98fe2baa0dcfd2afeed63d9650ffeb4374df704d4ce7",
+  "build_date": "2025-06-23T22:30:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835818689",
+  "build_id": "15835818689",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/discovery?tag=HEAD-63b02d9-250623T084151-riscv64-Linux&download=discovery.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/discovery?tag=HEAD-63b02d9-250623T084151-riscv64-Linux&download=discovery",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clouditor/clouditor/discovery:HEAD-63b02d9-250623T084151-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clouditor/clouditor/discovery",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/discovery?tag=HEAD-63b02d9-250623T084151-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5253c6704373ecbeda8ae0290b19e2a6bf294af171cdcd606ab7de98e5ed1675",
+  "size": "120 MB",
+  "size_raw": "125370200",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2ac11f8-250604T173245-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
