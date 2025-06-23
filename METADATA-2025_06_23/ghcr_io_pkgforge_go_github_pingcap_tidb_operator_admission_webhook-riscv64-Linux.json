@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "admission-webhook",
+  "pkg_family": "tidb-operator",
+  "pkg_id": "admission-webhook#github.com_pingcap_tidb_operator",
+  "pkg_name": "admission-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tidb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TiDB operator creates and manages TiDB clusters running in Kubernetes.",
+  "homepage": [
+    "https://github.com/pingcap/tidb-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "backup-manager",
+    "blockwriter",
+    "br-federation-manager",
+    "controller-manager",
+    "discovery",
+    "ebs-warmup",
+    "fault-trigger",
+    "scheduler",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tidb-operator/archive/3aaf3e378abcdba2b40111adc0910dcf7260ac88.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "operator",
+    "tidb"
+  ],
+  "version": "HEAD-3aaf3e3-250623T111334",
+  "version_upstream": "",
+  "bsum": "75e08b40477c2390b60bfda4bd36dbb4a9454d1d219504a1a3de7cb52a59a79f",
+  "build_date": "2025-06-23T09:05:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818569265",
+  "build_id": "15818569265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/admission-webhook?tag=HEAD-3aaf3e3-250623T111334-riscv64-Linux&download=admission-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/admission-webhook?tag=HEAD-3aaf3e3-250623T111334-riscv64-Linux&download=admission-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tidb-operator/admission-webhook:HEAD-3aaf3e3-250623T111334-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tidb-operator/admission-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/admission-webhook?tag=HEAD-3aaf3e3-250623T111334-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e09fbd807a01f32de69dec9f24c77b4198bc378c6e3a5ce03f1e665b02856910",
+  "size": "67 MB",
+  "size_raw": "69275288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

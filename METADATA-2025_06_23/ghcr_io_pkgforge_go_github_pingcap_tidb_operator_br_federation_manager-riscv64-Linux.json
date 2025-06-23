@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "br-federation-manager",
+  "pkg_family": "tidb-operator",
+  "pkg_id": "br-federation-manager#github.com_pingcap_tidb_operator",
+  "pkg_name": "br-federation-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tidb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TiDB operator creates and manages TiDB clusters running in Kubernetes.",
+  "homepage": [
+    "https://github.com/pingcap/tidb-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "backup-manager",
+    "blockwriter",
+    "br-federation-manager",
+    "controller-manager",
+    "discovery",
+    "ebs-warmup",
+    "fault-trigger",
+    "scheduler",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tidb-operator/archive/3aaf3e378abcdba2b40111adc0910dcf7260ac88.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "operator",
+    "tidb"
+  ],
+  "version": "HEAD-3aaf3e3-250623T111334",
+  "version_upstream": "",
+  "bsum": "f50b243fd25849e8048a01ff5ff448bb1efe6e52426441ef2f9210741666fb8b",
+  "build_date": "2025-06-23T09:05:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818569265",
+  "build_id": "15818569265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/br-federation-manager?tag=HEAD-3aaf3e3-250623T111334-riscv64-Linux&download=br-federation-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/br-federation-manager?tag=HEAD-3aaf3e3-250623T111334-riscv64-Linux&download=br-federation-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tidb-operator/br-federation-manager:HEAD-3aaf3e3-250623T111334-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tidb-operator/br-federation-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/br-federation-manager?tag=HEAD-3aaf3e3-250623T111334-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f24e5d848628ad26e12c093a53911215afad437a03e1b7a6cacc75e8c259ec7",
+  "size": "52 MB",
+  "size_raw": "54478552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
