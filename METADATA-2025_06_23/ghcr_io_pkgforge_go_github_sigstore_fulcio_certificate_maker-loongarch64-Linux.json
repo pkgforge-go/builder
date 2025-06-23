@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "certificate_maker",
+  "pkg_family": "fulcio",
+  "pkg_id": "certificate_maker#github.com_sigstore_fulcio",
+  "pkg_name": "certificate_maker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/fulcio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sigstore OIDC PKI",
+  "homepage": [
+    "https://github.com/sigstore/fulcio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certificate_maker",
+    "create_tink_keyset",
+    "fetch_ca_cert",
+    "fulcio",
+    "prometheus",
+    "request-certificate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/fulcio/archive/4c29d1ae7a2914a4e3d8dd29519cac78aa60e8f7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4c29d1a-250623T115434",
+  "version_upstream": "",
+  "bsum": "45ce1cf78aaafecdd4ef034d79cb5396ff2cfc8b157b96bbaf60f1e06498c0b3",
+  "build_date": "2025-06-23T20:13:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833357934",
+  "build_id": "15833357934",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/fulcio/certificate_maker?tag=HEAD-4c29d1a-250623T115434-loongarch64-Linux&download=certificate_maker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "731",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/fulcio/certificate_maker?tag=HEAD-4c29d1a-250623T115434-loongarch64-Linux&download=certificate_maker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/fulcio/certificate_maker:HEAD-4c29d1a-250623T115434-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/fulcio/certificate_maker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/fulcio/certificate_maker?tag=HEAD-4c29d1a-250623T115434-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d62fa9dc13ee43090d1f4cbb440797f119490e45b7c7950ea71215b8efe3daf1",
+  "size": "28 MB",
+  "size_raw": "28849152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
