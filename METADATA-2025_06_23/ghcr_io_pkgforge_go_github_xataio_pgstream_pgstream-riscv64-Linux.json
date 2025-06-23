@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pgstream",
+  "pkg_family": "pgstream",
+  "pkg_id": "pgstream#github.com_xataio_pgstream",
+  "pkg_name": "pgstream",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xataio/pgstream",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "https://github.com/xataio/pgstream"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xataio/pgstream/archive/438b44ab16384a017597cb4e3dfa233eebad12d9.tar.gz"
+  ],
+  "tag": [
+    "ddl",
+    "elasticsearch",
+    "golang",
+    "opensearch",
+    "postgresql",
+    "replication",
+    "schema",
+    "webhooks"
+  ],
+  "version": "HEAD-438b44a-250620T131309",
+  "version_upstream": "v0.7.1",
+  "bsum": "5db87e8d941d5a17a35ea5147c5076e96b81256f137032d1b7d24d363c9a7259",
+  "build_date": "2025-06-23T21:07:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833689445",
+  "build_id": "15833689445",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream?tag=HEAD-438b44a-250620T131309-riscv64-Linux&download=pgstream.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "592",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream?tag=HEAD-438b44a-250620T131309-riscv64-Linux&download=pgstream",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream:HEAD-438b44a-250620T131309-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream?tag=HEAD-438b44a-250620T131309-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c13163236185a571c57d40736bb6801306b8ca4ac6ee6fddff0e9cc7a9ff2815",
+  "size": "151 MB",
+  "size_raw": "157743320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
