@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "vm-dhcp-controller",
+  "pkg_id": "controller#github.com_harvester_vm_dhcp_controller",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/vm-dhcp-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A managed DHCP service for virtual machines running on Harvester _fork of https://github.com/joeyloman/kubevirt-ip-helper_",
+  "homepage": [
+    "https://github.com/harvester/vm-dhcp-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "bindata",
+    "cleanup",
+    "codegen",
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/vm-dhcp-controller/archive/161bdefdc219172a7d3c80a05185a1c360087838.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-161bdef-250623T114823",
+  "version_upstream": "",
+  "bsum": "76ca0299be572b8da96b8b81404c53272dd1635818683e87c402b09da72749ae",
+  "build_date": "2025-06-23T07:54:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817558261",
+  "build_id": "15817558261",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/controller?tag=HEAD-161bdef-250623T114823-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/controller?tag=HEAD-161bdef-250623T114823-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/controller:HEAD-161bdef-250623T114823-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/controller?tag=HEAD-161bdef-250623T114823-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d90e78120946d9a6465c0688623da360f2cb9dcfa62a3bdc9be1b6c98659b08",
+  "size": "50 MB",
+  "size_raw": "51878368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
