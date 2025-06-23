@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "hypershift",
+  "pkg_id": "test#github.com_openshift_hypershift",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/892474ca2fd481eeab741da377d017051256914a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-892474c-250620T194511",
+  "version_upstream": "",
+  "bsum": "9aecb4d208c501840ca1d47893af29092b6626e000b6f30e896689de40ce1da2",
+  "build_date": "2025-06-23T14:47:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825283245",
+  "build_id": "15825283245",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/test?tag=HEAD-892474c-250620T194511-x86_64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/test?tag=HEAD-892474c-250620T194511-x86_64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/test:HEAD-892474c-250620T194511-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/test?tag=HEAD-892474c-250620T194511-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4ab7987250ea665c712e3ce288b1778087254502b436ab87e4f66d5a5dbf282",
+  "size": "39 MB",
+  "size_raw": "40648256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-63403c2-250620T095851-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
