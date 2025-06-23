@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "casskop",
+  "pkg_family": "casskop",
+  "pkg_id": "casskop#github.com_cscetbon_casskop",
+  "pkg_name": "casskop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cscetbon/casskop",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This Kubernetes operator automates Cassandra operations such as deploying rack aware clusters, scaling up and down, configuring C* and its JVM, upgrading JVM and C*, backup/restores and many more...",
+  "homepage": [
+    "https://github.com/cscetbon/casskop"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "casskop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cscetbon/casskop/archive/ef69806c752e47bb5ae9a404e099d6e8f2155486.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ef69806-250621T110456",
+  "version_upstream": "",
+  "bsum": "ded5f16a41b37a0a56c911a925ac9907546f04a84dce561aaebfb348a14ca2cb",
+  "build_date": "2025-06-23T03:04:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813718957",
+  "build_id": "15813718957",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cscetbon/casskop/casskop?tag=HEAD-ef69806-250621T110456-riscv64-Linux&download=casskop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cscetbon/casskop/casskop?tag=HEAD-ef69806-250621T110456-riscv64-Linux&download=casskop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cscetbon/casskop/casskop:HEAD-ef69806-250621T110456-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cscetbon/casskop/casskop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cscetbon/casskop/casskop?tag=HEAD-ef69806-250621T110456-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1273e861cfc3ee30a7b9fae32afd42e3440b24feb6d44c29740c0110ff374d0",
+  "size": "42 MB",
+  "size_raw": "43782968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9064033-250619T094245-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
