@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "yawol-cloud-controller",
+  "pkg_family": "yawol",
+  "pkg_id": "yawol-cloud-controller#github.com_stackitcloud_yawol",
+  "pkg_name": "yawol-cloud-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stackitcloud/yawol",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "yawol is a Load Balancer solution for OpenStack, based on the Kubernetes controller pattern.",
+  "homepage": [
+    "https://github.com/stackitcloud/yawol"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "yawol-cloud-controller",
+    "yawol-controller",
+    "yawollet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stackitcloud/yawol/archive/89f529ca5ea458cbdf47f146a49cb542db97ceee.tar.gz"
+  ],
+  "tag": [
+    "kubebuilder",
+    "kubernetes",
+    "load-balancer",
+    "loadbalancer",
+    "openstack",
+    "ske"
+  ],
+  "version": "HEAD-89f529c-250623T091713",
+  "version_upstream": "",
+  "bsum": "05ebb666e3ef47c9785ca779db9694ea0c99af3fea1dd3e5e66f60722bd0d0e1",
+  "build_date": "2025-06-23T20:31:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833444516",
+  "build_id": "15833444516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/yawol/yawol-cloud-controller?tag=HEAD-89f529c-250623T091713-x86_64-Linux&download=yawol-cloud-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/yawol/yawol-cloud-controller?tag=HEAD-89f529c-250623T091713-x86_64-Linux&download=yawol-cloud-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stackitcloud/yawol/yawol-cloud-controller:HEAD-89f529c-250623T091713-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stackitcloud/yawol/yawol-cloud-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/yawol/yawol-cloud-controller?tag=HEAD-89f529c-250623T091713-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bab82300e817c8d093c50544855f5a47222145e8321d57f6be43560ef70e7568",
+  "size": "54 MB",
+  "size_raw": "56529056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
