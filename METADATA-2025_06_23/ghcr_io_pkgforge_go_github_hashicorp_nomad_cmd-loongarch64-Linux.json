@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "nomad",
+  "pkg_id": "cmd#github.com_hashicorp_nomad",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/nomad",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+  "homepage": [
+    "https://github.com/hashicorp/nomad"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "cmd",
+    "launcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/nomad/archive/cdde082362bb34d5fe4a76f5f5011a9fec0c2d21.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cdde082-250620T171633",
+  "version_upstream": "",
+  "bsum": "ad8661f0dccd5d66d17d4c972660bc2a56727cb8e5533ae60603437c187c6b4c",
+  "build_date": "2025-06-23T14:01:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825138676",
+  "build_id": "15825138676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad/cmd?tag=HEAD-cdde082-250620T171633-loongarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15549",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad/cmd?tag=HEAD-cdde082-250620T171633-loongarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/nomad/cmd:HEAD-cdde082-250620T171633-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/nomad/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad/cmd?tag=HEAD-cdde082-250620T171633-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eff3b01ff9f20e1709c77f03c8346639083bcd059164c9211651deb98ee61552",
+  "size": "21 MB",
+  "size_raw": "21340960",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c8dcd3c-250619T134806-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
