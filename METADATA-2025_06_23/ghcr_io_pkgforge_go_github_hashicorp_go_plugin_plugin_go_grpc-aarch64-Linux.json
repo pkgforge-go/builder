@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "plugin-go-grpc",
+  "pkg_family": "go-plugin",
+  "pkg_id": "plugin-go-grpc#github.com_hashicorp_go_plugin",
+  "pkg_name": "plugin-go-grpc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/go-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang plugin system over RPC.",
+  "homepage": [
+    "https://github.com/hashicorp/go-plugin"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "bidirectional",
+    "grpc",
+    "negotiated",
+    "plugin",
+    "plugin-go",
+    "plugin-go-grpc",
+    "plugin-go-netrpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/go-plugin/archive/f4acdfe4f62c0daa216fc951a525ae578daadcae.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f4acdfe-250617T101721",
+  "version_upstream": "",
+  "bsum": "3213562ae455bf80ef0773a7032815c5aae15b4c0d471c69150fd2a21059165a",
+  "build_date": "2025-06-23T07:55:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817559684",
+  "build_id": "15817559684",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-plugin/plugin-go-grpc?tag=HEAD-f4acdfe-250617T101721-aarch64-Linux&download=plugin-go-grpc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5555",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-plugin/plugin-go-grpc?tag=HEAD-f4acdfe-250617T101721-aarch64-Linux&download=plugin-go-grpc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/go-plugin/plugin-go-grpc:HEAD-f4acdfe-250617T101721-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/go-plugin/plugin-go-grpc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/go-plugin/plugin-go-grpc?tag=HEAD-f4acdfe-250617T101721-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c995800544a353067823895ae61a5afee3069bf6691385fd718f33a1f499445",
+  "size": "13 MB",
+  "size_raw": "12974048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
