@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "omni",
+  "pkg_family": "omni",
+  "pkg_id": "omni#github.com_siderolabs_omni",
+  "pkg_name": "omni",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/siderolabs/omni",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SaaS-simple deployment of Kubernetes - on your own hardware.",
+  "homepage": [
+    "https://github.com/siderolabs/omni"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-certs",
+    "make-cookies",
+    "omni",
+    "omnictl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/siderolabs/omni/archive/9e4f8198cdd06aa016ace155072b2283511cdcf8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9e4f819-250623T025442",
+  "version_upstream": "",
+  "bsum": "83e882c90920465fc479931a3e38c5fe25fb503d783de281aa131bef7e32c91f",
+  "build_date": "2025-06-23T20:14:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833352944",
+  "build_id": "15833352944",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/omni?tag=HEAD-9e4f819-250623T025442-aarch64-Linux&download=omni.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "739",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/omni?tag=HEAD-9e4f819-250623T025442-aarch64-Linux&download=omni",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/siderolabs/omni/omni:HEAD-9e4f819-250623T025442-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/siderolabs/omni/omni",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/omni?tag=HEAD-9e4f819-250623T025442-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f2d9a647a31beeb3905b17716fa2cf6d9972b9b27a9670f0c36c01b3b4fbce73",
+  "size": "111 MB",
+  "size_raw": "116374336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
