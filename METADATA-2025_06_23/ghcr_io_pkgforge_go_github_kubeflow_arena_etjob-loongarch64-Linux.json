@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "etjob",
+  "pkg_family": "arena",
+  "pkg_id": "etjob#github.com_kubeflow_arena",
+  "pkg_name": "etjob",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeflow/arena",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI for Kubeflow.",
+  "homepage": [
+    "https://github.com/kubeflow/arena"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arena",
+    "custom-serving",
+    "etjob",
+    "hack",
+    "job-monitor",
+    "mpijob",
+    "pytorchjob",
+    "tfjob",
+    "uninstall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeflow/arena/archive/c9d5653de3c0adad3a49f74dd423a89330989d19.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "docker",
+    "kubeflow",
+    "kubernetes",
+    "tensorflow"
+  ],
+  "version": "HEAD-c9d5653-250623T130113",
+  "version_upstream": "",
+  "bsum": "1086b5ee8885b8d67d04797ffd23963bc30e1a1185c7f3f4608a9107aaedb1d6",
+  "build_date": "2025-06-23T18:49:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830608213",
+  "build_id": "15830608213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/etjob?tag=HEAD-c9d5653-250623T130113-loongarch64-Linux&download=etjob.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "782",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/etjob?tag=HEAD-c9d5653-250623T130113-loongarch64-Linux&download=etjob",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeflow/arena/etjob:HEAD-c9d5653-250623T130113-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeflow/arena/etjob",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/etjob?tag=HEAD-c9d5653-250623T130113-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71054fde3ea00c03757af9ebe71a6ca9cb544a9236f60adac0d5f9ff31fdc3d9",
+  "size": "86 MB",
+  "size_raw": "89959936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

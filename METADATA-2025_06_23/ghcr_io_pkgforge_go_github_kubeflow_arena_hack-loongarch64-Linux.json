@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "arena",
+  "pkg_id": "hack#github.com_kubeflow_arena",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeflow/arena",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI for Kubeflow.",
+  "homepage": [
+    "https://github.com/kubeflow/arena"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arena",
+    "custom-serving",
+    "etjob",
+    "hack",
+    "job-monitor",
+    "mpijob",
+    "pytorchjob",
+    "tfjob",
+    "uninstall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeflow/arena/archive/c9d5653de3c0adad3a49f74dd423a89330989d19.tar.gz"
+  ],
+  "tag": [
+    "deep-learning",
+    "docker",
+    "kubeflow",
+    "kubernetes",
+    "tensorflow"
+  ],
+  "version": "HEAD-c9d5653-250623T130113",
+  "version_upstream": "",
+  "bsum": "5f80fee0fa4b44d9721313b95d34d4fa3ed1c2651275d96ead5ed1d596a54280",
+  "build_date": "2025-06-23T18:49:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830608213",
+  "build_id": "15830608213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/hack?tag=HEAD-c9d5653-250623T130113-loongarch64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "782",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/hack?tag=HEAD-c9d5653-250623T130113-loongarch64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeflow/arena/hack:HEAD-c9d5653-250623T130113-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeflow/arena/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/arena/hack?tag=HEAD-c9d5653-250623T130113-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "56df84fa5e931ecab5e80eea4b7c80f867e9551af155e982e3550202cc04404e",
+  "size": "88 MB",
+  "size_raw": "91633728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
