@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mailpit",
+  "pkg_family": "mailpit",
+  "pkg_id": "mailpit#github.com_axllent_mailpit",
+  "pkg_name": "mailpit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/axllent/mailpit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An email and SMTP testing tool with API for developers",
+  "homepage": [
+    "https://github.com/axllent/mailpit"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mailpit",
+    "sendmail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/axllent/mailpit/archive/cc5991c0387ecdd51f731015bfaced5a56fb4218.tar.gz"
+  ],
+  "tag": [
+    "email-testing",
+    "go",
+    "golang",
+    "mailpit",
+    "pop3-server",
+    "smtp-relay",
+    "smtp-server",
+    "smtp-testing"
+  ],
+  "version": "HEAD-cc5991c-250622T152522",
+  "version_upstream": "",
+  "bsum": "c32a492a4c574e569ecc1f3ff99adfdb5dbd75207117c346eb6ee55090e9dbfe",
+  "build_date": "2025-06-23T04:55:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815349092",
+  "build_id": "15815349092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/mailpit?tag=HEAD-cc5991c-250622T152522-loongarch64-Linux&download=mailpit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7248",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/mailpit?tag=HEAD-cc5991c-250622T152522-loongarch64-Linux&download=mailpit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/axllent/mailpit/mailpit:HEAD-cc5991c-250622T152522-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/axllent/mailpit/mailpit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/mailpit?tag=HEAD-cc5991c-250622T152522-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d100824dac5cd5113ea0024b5eca15cdd89ef98d33476960766d137335c4baf",
+  "size": "23 MB",
+  "size_raw": "23763856",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3aae06f-250618T170407-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
