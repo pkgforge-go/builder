@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "docker-entrypoint",
+  "pkg_family": "dex",
+  "pkg_id": "docker-entrypoint#github.com_dexidp_dex",
+  "pkg_name": "docker-entrypoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dexidp/dex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenID Connect _OIDC_ identity and OAuth 2.0 provider with pluggable connectors",
+  "homepage": [
+    "https://github.com/dexidp/dex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dex",
+    "docker-entrypoint"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dexidp/dex/archive/72087470721b3af3707715beda0e7d46e5f5320d.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "identity-provider",
+    "idp",
+    "kubernetes",
+    "oidc"
+  ],
+  "version": "HEAD-7208747-250621T120811",
+  "version_upstream": "",
+  "bsum": "d990fa19483511ce72fccd49a812a05952fd1b91fe3571e8a149b518379e07d4",
+  "build_date": "2025-06-23T03:11:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813721487",
+  "build_id": "15813721487",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dexidp/dex/docker-entrypoint?tag=HEAD-7208747-250621T120811-loongarch64-Linux&download=docker-entrypoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9957",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dexidp/dex/docker-entrypoint?tag=HEAD-7208747-250621T120811-loongarch64-Linux&download=docker-entrypoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dexidp/dex/docker-entrypoint:HEAD-7208747-250621T120811-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dexidp/dex/docker-entrypoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dexidp/dex/docker-entrypoint?tag=HEAD-7208747-250621T120811-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77798c05d471351770e254ad4a1b5aa42f751b1b680e6b7ec8d82297c6f80ce9",
+  "size": "2.0 MB",
+  "size_raw": "1997880",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-56cca05-250619T203700-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
