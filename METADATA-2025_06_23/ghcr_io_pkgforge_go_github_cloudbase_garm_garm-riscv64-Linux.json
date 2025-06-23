@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "garm",
+  "pkg_family": "garm",
+  "pkg_id": "garm#github.com_cloudbase_garm",
+  "pkg_name": "garm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudbase/garm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GitHub Actions Runner Manager",
+  "homepage": [
+    "https://github.com/cloudbase/garm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "garm",
+    "garm-cli",
+    "gh_cleanup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudbase/garm/archive/42839917f33e81e21ff79a3cfdfdfe0e2355a2aa.tar.gz"
+  ],
+  "tag": [
+    "autoscaling",
+    "autoscaller",
+    "aws",
+    "azure",
+    "ec2",
+    "equinix",
+    "gcp",
+    "gitea",
+    "github",
+    "incus",
+    "k8s",
+    "kubernetes",
+    "lxd",
+    "openstack",
+    "runner",
+    "self-hosted"
+  ],
+  "version": "HEAD-4283991-250621T205403",
+  "version_upstream": "",
+  "bsum": "a777e4545f416a544fa4098eea590b624ff1924b231402e60e16d3249c1e5f00",
+  "build_date": "2025-06-23T05:03:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815368224",
+  "build_id": "15815368224",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/garm?tag=HEAD-4283991-250621T205403-riscv64-Linux&download=garm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "193",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/garm?tag=HEAD-4283991-250621T205403-riscv64-Linux&download=garm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudbase/garm/garm:HEAD-4283991-250621T205403-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudbase/garm/garm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/garm?tag=HEAD-4283991-250621T205403-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04c73592145eb1f4b4e9a25c1df2cf4ae19ccaa13fbb918a06b153a2e32c174a",
+  "size": "23 MB",
+  "size_raw": "23215992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-43a2343-250619T003456-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

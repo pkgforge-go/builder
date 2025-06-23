@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gh_cleanup",
+  "pkg_family": "garm",
+  "pkg_id": "gh_cleanup#github.com_cloudbase_garm",
+  "pkg_name": "gh_cleanup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudbase/garm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GitHub Actions Runner Manager",
+  "homepage": [
+    "https://github.com/cloudbase/garm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "garm",
+    "garm-cli",
+    "gh_cleanup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudbase/garm/archive/42839917f33e81e21ff79a3cfdfdfe0e2355a2aa.tar.gz"
+  ],
+  "tag": [
+    "autoscaling",
+    "autoscaller",
+    "aws",
+    "azure",
+    "ec2",
+    "equinix",
+    "gcp",
+    "gitea",
+    "github",
+    "incus",
+    "k8s",
+    "kubernetes",
+    "lxd",
+    "openstack",
+    "runner",
+    "self-hosted"
+  ],
+  "version": "HEAD-4283991-250621T205403",
+  "version_upstream": "",
+  "bsum": "43f7df5cd7dcb30116f887a7e0b2838bb246bdfad5f54725036cd53af37a5374",
+  "build_date": "2025-06-23T05:03:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815368224",
+  "build_id": "15815368224",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/gh_cleanup?tag=HEAD-4283991-250621T205403-riscv64-Linux&download=gh_cleanup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "193",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/gh_cleanup?tag=HEAD-4283991-250621T205403-riscv64-Linux&download=gh_cleanup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudbase/garm/gh_cleanup:HEAD-4283991-250621T205403-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudbase/garm/gh_cleanup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudbase/garm/gh_cleanup?tag=HEAD-4283991-250621T205403-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "68b73f3a8863f9e12ee8ab1f790afd2d2f7fe17e015dc0f7a19119d88c3f150d",
+  "size": "6.7 MB",
+  "size_raw": "7011448",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-43a2343-250619T003456-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
