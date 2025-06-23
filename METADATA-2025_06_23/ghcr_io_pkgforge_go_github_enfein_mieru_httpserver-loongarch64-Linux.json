@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "httpserver",
+  "pkg_family": "mieru",
+  "pkg_id": "httpserver#github.com_enfein_mieru",
+  "pkg_name": "httpserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfein/mieru",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
+  "homepage": [
+    "https://github.com/enfein/mieru"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exampleapiclient",
+    "httpserver",
+    "mieru",
+    "mita",
+    "sockshttpclient",
+    "socksudpclient",
+    "udpserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfein/mieru/archive/ff07eee002261b43c400d5d875d8470038f19b7a.tar.gz"
+  ],
+  "tag": [
+    "anti-censorship",
+    "clash",
+    "gfw",
+    "network",
+    "proxy",
+    "socks5",
+    "tunnel"
+  ],
+  "version": "HEAD-ff07eee-250620T013645",
+  "version_upstream": "",
+  "bsum": "6234c14e9035ce35455674b250111ffa85809d24b7e3011155599452c917b0c3",
+  "build_date": "2025-06-23T05:11:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815393314",
+  "build_id": "15815393314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/httpserver?tag=HEAD-ff07eee-250620T013645-loongarch64-Linux&download=httpserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/httpserver?tag=HEAD-ff07eee-250620T013645-loongarch64-Linux&download=httpserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfein/mieru/httpserver:HEAD-ff07eee-250620T013645-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfein/mieru/httpserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/httpserver?tag=HEAD-ff07eee-250620T013645-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d36b308afc894419019a917c529732ca2b40709cb336a870acb19ec78c606f59",
+  "size": "5.8 MB",
+  "size_raw": "5981216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-babaa69-250609T221257-loongarch64-Linux[v3.16.0]"
+  ],
+  "trusted": "true"
+}

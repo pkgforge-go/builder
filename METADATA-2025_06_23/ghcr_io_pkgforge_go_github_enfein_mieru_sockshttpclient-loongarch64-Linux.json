@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sockshttpclient",
+  "pkg_family": "mieru",
+  "pkg_id": "sockshttpclient#github.com_enfein_mieru",
+  "pkg_name": "sockshttpclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfein/mieru",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
+  "homepage": [
+    "https://github.com/enfein/mieru"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exampleapiclient",
+    "httpserver",
+    "mieru",
+    "mita",
+    "sockshttpclient",
+    "socksudpclient",
+    "udpserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfein/mieru/archive/ff07eee002261b43c400d5d875d8470038f19b7a.tar.gz"
+  ],
+  "tag": [
+    "anti-censorship",
+    "clash",
+    "gfw",
+    "network",
+    "proxy",
+    "socks5",
+    "tunnel"
+  ],
+  "version": "HEAD-ff07eee-250620T013645",
+  "version_upstream": "",
+  "bsum": "cadfd69233c2c50341e1367f3b59e8a1659921261044b59f52aedd28ad1b11e4",
+  "build_date": "2025-06-23T05:11:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815393314",
+  "build_id": "15815393314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/sockshttpclient?tag=HEAD-ff07eee-250620T013645-loongarch64-Linux&download=sockshttpclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/sockshttpclient?tag=HEAD-ff07eee-250620T013645-loongarch64-Linux&download=sockshttpclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfein/mieru/sockshttpclient:HEAD-ff07eee-250620T013645-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfein/mieru/sockshttpclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/sockshttpclient?tag=HEAD-ff07eee-250620T013645-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ac8291883352aa0f210e34f24abab93c9c3c3d0047c05db508d3bbb066f10400",
+  "size": "7.7 MB",
+  "size_raw": "8061792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-babaa69-250609T221257-loongarch64-Linux[v3.16.0]"
+  ],
+  "trusted": "true"
+}
