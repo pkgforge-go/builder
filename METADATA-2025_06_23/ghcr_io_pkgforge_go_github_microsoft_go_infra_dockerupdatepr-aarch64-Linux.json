@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dockerupdatepr",
+  "pkg_family": "go-infra",
+  "pkg_id": "dockerupdatepr#github.com_microsoft_go_infra",
+  "pkg_name": "dockerupdatepr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/go-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Infrastructure supporting the use of Go in Microsoft",
+  "homepage": [
+    "https://github.com/microsoft/go-infra"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dockerupdate",
+    "dockerupdatepr",
+    "fuzzcrypto",
+    "getmingw",
+    "git-go-patch",
+    "json2junit",
+    "releaseagent",
+    "releasego",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/go-infra/archive/a44feb7cc5d5ef1a77ae4afdc88c4a4cc9b56e36.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a44feb7-250623T114747",
+  "version_upstream": "",
+  "bsum": "6bc00d631a63a8144d102f9ed9d5d270036f4426187f754dcf5b0631122c060b",
+  "build_date": "2025-06-23T08:31:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818312272",
+  "build_id": "15818312272",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/dockerupdatepr?tag=HEAD-a44feb7-250623T114747-aarch64-Linux&download=dockerupdatepr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/dockerupdatepr?tag=HEAD-a44feb7-250623T114747-aarch64-Linux&download=dockerupdatepr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/go-infra/dockerupdatepr:HEAD-a44feb7-250623T114747-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/go-infra/dockerupdatepr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-infra/dockerupdatepr?tag=HEAD-a44feb7-250623T114747-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e6f96f965c192cf9cc571a06a01d0aeccec9bc94f6d72f325f7c90276a5bab7",
+  "size": "7.0 MB",
+  "size_raw": "7267648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
