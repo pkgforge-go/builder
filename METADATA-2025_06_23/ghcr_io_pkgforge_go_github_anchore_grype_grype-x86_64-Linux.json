@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "grype",
+  "pkg_family": "grype",
+  "pkg_id": "grype#github.com_anchore_grype",
+  "pkg_name": "grype",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/grype",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A vulnerability scanner for container images and filesystems",
+  "homepage": [
+    "https://github.com/anchore/grype"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "grype",
+    "jsonschema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anchore/grype/archive/327e3520fc53913939c5b73f55f9bb5dbf4fdb40.tar.gz"
+  ],
+  "tag": [
+    "container-image",
+    "containers",
+    "cyclonedx",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "oci",
+    "openvex",
+    "security",
+    "static-analysis",
+    "tool",
+    "vex",
+    "vulnerabilities",
+    "vulnerability"
+  ],
+  "version": "HEAD-327e352-250619T160209",
+  "version_upstream": "",
+  "bsum": "b799f950dbb83dc962643aff73f53d7782ec7d9328d42e80c0c7931a51391d2b",
+  "build_date": "2025-06-23T04:58:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815266037",
+  "build_id": "15815266037",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/grype?tag=HEAD-327e352-250619T160209-x86_64-Linux&download=grype.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10035",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/grype?tag=HEAD-327e352-250619T160209-x86_64-Linux&download=grype",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/grype/grype:HEAD-327e352-250619T160209-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/grype/grype",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/grype?tag=HEAD-327e352-250619T160209-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f277a6f4ebeb0ee45d965dcc91719a2bb26926669d3ea636d55ee6167b1d104c",
+  "size": "102 MB",
+  "size_raw": "106590904",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-34304db-250617T114826-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
