@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "credhub_exporter",
+  "pkg_family": "credhub_exporter",
+  "pkg_id": "credhub_exporter#github.com_orange_cloudfoundry_credhub_exporter",
+  "pkg_name": "credhub_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orange-cloudfoundry/credhub_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A prometheus exporter for credhub that monitors credential age and certificate expiration",
+  "homepage": [
+    "https://github.com/orange-cloudfoundry/credhub_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "credhub_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/orange-cloudfoundry/credhub_exporter/archive/d1e1e2386bd329f7471e62bdf822c3ca8db0d41e.tar.gz"
+  ],
+  "tag": [
+    "credhub",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-d1e1e23-250623T033017",
+  "version_upstream": "v0.65.0",
+  "bsum": "f171e65a201f5e768f243dbb4ed39eca5ef0cfbcdf7f8e99ff5089cd35fe6b45",
+  "build_date": "2025-06-23T08:51:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818515888",
+  "build_id": "15818515888",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/credhub/exporter/credhub_exporter?tag=HEAD-d1e1e23-250623T033017-x86_64-Linux&download=credhub_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/credhub/exporter/credhub_exporter?tag=HEAD-d1e1e23-250623T033017-x86_64-Linux&download=credhub_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/credhub/exporter/credhub_exporter:HEAD-d1e1e23-250623T033017-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/credhub/exporter/credhub_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/credhub/exporter/credhub_exporter?tag=HEAD-d1e1e23-250623T033017-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0a9b210c85ae938c44a4ee487701ba5eeeeaa8425af55abaa16eba0ff97aa5f",
+  "size": "13 MB",
+  "size_raw": "13450368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
