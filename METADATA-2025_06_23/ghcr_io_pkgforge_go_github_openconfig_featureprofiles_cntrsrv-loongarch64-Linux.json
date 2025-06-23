@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cntrsrv",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "cntrsrv#github.com_openconfig_featureprofiles",
+  "pkg_name": "cntrsrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/abdf9593cfb3d960244c1ba2c519abeba62a6fa2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-abdf959-250623T164926",
+  "version_upstream": "",
+  "bsum": "7757342f7e7648ef850d047557a037b8d4c896e430aceb780039d5c3e16a46e9",
+  "build_date": "2025-06-23T23:44:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835899976",
+  "build_id": "15835899976",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/cntrsrv?tag=HEAD-abdf959-250623T164926-loongarch64-Linux&download=cntrsrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/cntrsrv?tag=HEAD-abdf959-250623T164926-loongarch64-Linux&download=cntrsrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/cntrsrv:HEAD-abdf959-250623T164926-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/cntrsrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/cntrsrv?tag=HEAD-abdf959-250623T164926-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e17cec70737d33c152c205cdce6a36b1e5f164a4a64172932f165d6ce3937198",
+  "size": "13 MB",
+  "size_raw": "13253568",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

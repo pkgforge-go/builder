@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "addrundata",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "addrundata#github.com_openconfig_featureprofiles",
+  "pkg_name": "addrundata",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/abdf9593cfb3d960244c1ba2c519abeba62a6fa2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-abdf959-250623T164926",
+  "version_upstream": "",
+  "bsum": "9cf7e138fec1efc3144c90d351033d7e5780bb542fef11323cdad074c3abe407",
+  "build_date": "2025-06-23T23:44:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835899976",
+  "build_id": "15835899976",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/addrundata?tag=HEAD-abdf959-250623T164926-loongarch64-Linux&download=addrundata.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/addrundata?tag=HEAD-abdf959-250623T164926-loongarch64-Linux&download=addrundata",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/addrundata:HEAD-abdf959-250623T164926-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/addrundata",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/addrundata?tag=HEAD-abdf959-250623T164926-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5396b723015d5f72fd7db56e10856f9c9fe6630dff54646fbf4314f710445444",
+  "size": "5.4 MB",
+  "size_raw": "5649728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
