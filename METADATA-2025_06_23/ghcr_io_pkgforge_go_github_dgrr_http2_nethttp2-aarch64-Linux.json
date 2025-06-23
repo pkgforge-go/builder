@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nethttp2",
+  "pkg_family": "http2",
+  "pkg_id": "nethttp2#github.com_dgrr_http2",
+  "pkg_name": "nethttp2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dgrr/http2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HTTP/2 implementation for fasthttp",
+  "homepage": [
+    "https://github.com/dgrr/http2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nethttp2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dgrr/http2/archive/d3758a581904d549662d9b42126bccca16a10bea.tar.gz"
+  ],
+  "tag": [
+    "fasthttp",
+    "golang",
+    "http2"
+  ],
+  "version": "HEAD-d3758a5-250622T181438",
+  "version_upstream": "",
+  "bsum": "0fbe072bc3114e878f615eaf37080504d8cb2748081fb63f1a83c7c0ba05703b",
+  "build_date": "2025-06-23T07:36:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817463296",
+  "build_id": "15817463296",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dgrr/http2/nethttp2?tag=HEAD-d3758a5-250622T181438-aarch64-Linux&download=nethttp2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "221",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dgrr/http2/nethttp2?tag=HEAD-d3758a5-250622T181438-aarch64-Linux&download=nethttp2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dgrr/http2/nethttp2:HEAD-d3758a5-250622T181438-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dgrr/http2/nethttp2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dgrr/http2/nethttp2?tag=HEAD-d3758a5-250622T181438-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c30634031d7042a542156702ff457a2d3f275a7c9499673e0c4d91ed1c87f910",
+  "size": "6.2 MB",
+  "size_raw": "6463520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
