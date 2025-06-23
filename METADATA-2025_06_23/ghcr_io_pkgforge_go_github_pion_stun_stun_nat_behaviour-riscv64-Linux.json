@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stun-nat-behaviour",
+  "pkg_family": "stun",
+  "pkg_id": "stun-nat-behaviour#github.com_pion_stun",
+  "pkg_name": "stun-nat-behaviour",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pion/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of STUN",
+  "homepage": [
+    "https://github.com/pion/stun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-nat-behaviour",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pion/stun/archive/ab7d8d3d783ebf5befbb3ae2f5bdf5ddb9e4b63b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "ice",
+    "networking",
+    "peer-to-peer",
+    "pion",
+    "sip",
+    "streaming",
+    "stun",
+    "voip",
+    "webrtc"
+  ],
+  "version": "HEAD-ab7d8d3-250618T074526",
+  "version_upstream": "",
+  "bsum": "694e3bb5918ce92a85f2eaa3eb42c172c6a6bd3e7448db67a91c320d6b823134",
+  "build_date": "2025-06-23T09:03:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818687048",
+  "build_id": "15818687048",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-nat-behaviour?tag=HEAD-ab7d8d3-250618T074526-riscv64-Linux&download=stun-nat-behaviour.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "735",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-nat-behaviour?tag=HEAD-ab7d8d3-250618T074526-riscv64-Linux&download=stun-nat-behaviour",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pion/stun/stun-nat-behaviour:HEAD-ab7d8d3-250618T074526-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pion/stun/stun-nat-behaviour",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-nat-behaviour?tag=HEAD-ab7d8d3-250618T074526-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fed4d2b4d3f303d99a5260932963e9222f8bc1f706204fee745f45b0ab3a0d0a",
+  "size": "3.2 MB",
+  "size_raw": "3316664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

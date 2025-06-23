@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stun-decode",
+  "pkg_family": "stun",
+  "pkg_id": "stun-decode#github.com_pion_stun",
+  "pkg_name": "stun-decode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pion/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of STUN",
+  "homepage": [
+    "https://github.com/pion/stun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-nat-behaviour",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pion/stun/archive/ab7d8d3d783ebf5befbb3ae2f5bdf5ddb9e4b63b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "ice",
+    "networking",
+    "peer-to-peer",
+    "pion",
+    "sip",
+    "streaming",
+    "stun",
+    "voip",
+    "webrtc"
+  ],
+  "version": "HEAD-ab7d8d3-250618T074526",
+  "version_upstream": "",
+  "bsum": "cc0fcfe3e6a952dd2e42684edc504d8d6250185a45658fce1bae391cd7617173",
+  "build_date": "2025-06-23T09:02:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818687048",
+  "build_id": "15818687048",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-decode?tag=HEAD-ab7d8d3-250618T074526-riscv64-Linux&download=stun-decode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "735",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-decode?tag=HEAD-ab7d8d3-250618T074526-riscv64-Linux&download=stun-decode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pion/stun/stun-decode:HEAD-ab7d8d3-250618T074526-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pion/stun/stun-decode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-decode?tag=HEAD-ab7d8d3-250618T074526-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3f206d0d91fbcab165f8f682088b94d6c8aeca6f2c78626f9f287c21e6d9bd6",
+  "size": "2.7 MB",
+  "size_raw": "2786936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
