@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "posix",
+  "pkg_family": "tessera",
+  "pkg_id": "posix#github.com_transparency_dev_tessera",
+  "pkg_name": "posix",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transparency-dev/tessera",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for building tile-based transparency logs _tlogs_",
+  "homepage": [
+    "https://github.com/transparency-dev/tessera"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "fsck",
+    "gcp",
+    "hammer",
+    "mysql",
+    "posix",
+    "posix-oneshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transparency-dev/tessera/archive/34f80cb0ab2ecd896d0dcad4d6f74588d7f91e45.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34f80cb-250623T124311",
+  "version_upstream": "",
+  "bsum": "8957ae2b482a9a3988b82185d2c34bb4a9709bd7960ca154480b2a888f4b9fc7",
+  "build_date": "2025-06-23T20:53:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833531217",
+  "build_id": "15833531217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/posix?tag=HEAD-34f80cb-250623T124311-riscv64-Linux&download=posix.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "72",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/posix?tag=HEAD-34f80cb-250623T124311-riscv64-Linux&download=posix",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transparency-dev/tessera/posix:HEAD-34f80cb-250623T124311-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transparency-dev/tessera/posix",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/tessera/posix?tag=HEAD-34f80cb-250623T124311-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3c5809371750b6d92b1f3063a98a7973618987ff4772baf9f8a7d4ca44b203d",
+  "size": "6.3 MB",
+  "size_raw": "6533368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
