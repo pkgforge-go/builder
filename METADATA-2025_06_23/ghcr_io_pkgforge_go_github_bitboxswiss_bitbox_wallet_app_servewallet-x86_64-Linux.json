@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "servewallet",
+  "pkg_family": "bitbox-wallet-app",
+  "pkg_id": "servewallet#github.com_BitBoxSwiss_bitbox_wallet_app",
+  "pkg_name": "servewallet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/BitBoxSwiss/bitbox-wallet-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The BitBoxApp for desktop and mobile.",
+  "homepage": [
+    "https://github.com/BitBoxSwiss/bitbox-wallet-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "server",
+    "servewallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/BitBoxSwiss/bitbox-wallet-app/archive/040bc84d5914bb87a5a24dc9dad43367c6abd3b8.tar.gz"
+  ],
+  "tag": [
+    "bech32",
+    "bitcoin",
+    "hardware-wallet",
+    "litecoin",
+    "segwit",
+    "wallet"
+  ],
+  "version": "HEAD-040bc84-250623T131956",
+  "version_upstream": "",
+  "bsum": "524850dca38a469c20a8fbb12a732eb0dec0fd870d270284c63e843052673484",
+  "build_date": "2025-06-23T15:52:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828899104",
+  "build_id": "15828899104",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/servewallet?tag=HEAD-040bc84-250623T131956-x86_64-Linux&download=servewallet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "280",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/servewallet?tag=HEAD-040bc84-250623T131956-x86_64-Linux&download=servewallet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/servewallet:HEAD-040bc84-250623T131956-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/servewallet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/servewallet?tag=HEAD-040bc84-250623T131956-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "63bc422b23472e7787d7fb019a3f159cc50573c23bfeda9833465779d4b056cf",
+  "size": "22 MB",
+  "size_raw": "22530424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
