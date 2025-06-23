@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "loop",
+  "pkg_family": "loop",
+  "pkg_id": "loop#github.com_lightninglabs_loop",
+  "pkg_name": "loop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lightninglabs/loop",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lightning Loop: A Non-Custodial Off/On Chain Bridge",
+  "homepage": [
+    "https://github.com/lightninglabs/loop"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "loop",
+    "loopd",
+    "stateparser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lightninglabs/loop/archive/e145963f2ede013571f54686d2815a15e5b55c32.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e145963-250623T111725",
+  "version_upstream": "",
+  "bsum": "a0827ef4db4022a2375eee0086b06c836ca9c30d3163cbc32cb52d423bb077bb",
+  "build_date": "2025-06-23T19:23:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830975363",
+  "build_id": "15830975363",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/loop/loop?tag=HEAD-e145963-250623T111725-loongarch64-Linux&download=loop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "575",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/loop/loop?tag=HEAD-e145963-250623T111725-loongarch64-Linux&download=loop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightninglabs/loop/loop:HEAD-e145963-250623T111725-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightninglabs/loop/loop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/loop/loop?tag=HEAD-e145963-250623T111725-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b485673562b8700a196312b4a1180125c6e22bc42b4a652b49a77ba975e1f18e",
+  "size": "46 MB",
+  "size_raw": "48018160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
