@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gentypes",
+  "pkg_family": "ebpf",
+  "pkg_id": "gentypes#github.com_cilium_ebpf",
+  "pkg_name": "gentypes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "uretprobe",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/51ab2a455de272c9e1c6cf461cc12a9d7b71a031.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-51ab2a4-250620T082030",
+  "version_upstream": "",
+  "bsum": "d0c2731fa8f3bed8277984f7499808c69d3fa77b851b301e9369e17c4f6e9cf4",
+  "build_date": "2025-06-23T13:29:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825071093",
+  "build_id": "15825071093",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/gentypes?tag=HEAD-51ab2a4-250620T082030-x86_64-Linux&download=gentypes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6920",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/gentypes?tag=HEAD-51ab2a4-250620T082030-x86_64-Linux&download=gentypes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/gentypes:HEAD-51ab2a4-250620T082030-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/gentypes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/gentypes?tag=HEAD-51ab2a4-250620T082030-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aaf764b4b6f48e21b50710872db5e0c4a776d0fec6f20dc035a387480a95ce55",
+  "size": "4.0 MB",
+  "size_raw": "4109888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0bef90d-250619T111026-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
