@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "libc",
+  "pkg_family": "purego",
+  "pkg_id": "libc#github.com_ebitengine_purego",
+  "pkg_name": "libc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ebitengine/purego",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/ebitengine/purego"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildtest",
+    "libc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ebitengine/purego/archive/469dacd313f8a72e784701d5efd2f8f7f95ed66b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-469dacd-250621T170347",
+  "version_upstream": "",
+  "bsum": "471071b1be18c7c8f553560aaa8f0f20aa085b7226773441143f34a057d8b0f2",
+  "build_date": "2025-06-23T03:17:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813768672",
+  "build_id": "15813768672",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ebitengine/purego/libc?tag=HEAD-469dacd-250621T170347-riscv64-Linux&download=libc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2780",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ebitengine/purego/libc?tag=HEAD-469dacd-250621T170347-riscv64-Linux&download=libc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ebitengine/purego/libc:HEAD-469dacd-250621T170347-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ebitengine/purego/libc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ebitengine/purego/libc?tag=HEAD-469dacd-250621T170347-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa4b8c2ac3fa91231883f0c06ef3b93e267ac34004fc401a5022b34bb9b70983",
+  "size": "1.5 MB",
+  "size_raw": "1476824",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a51bed-250608T141804-riscv64-Linux[v0.9.0-alpha.7]"
+  ],
+  "trusted": "true"
+}
