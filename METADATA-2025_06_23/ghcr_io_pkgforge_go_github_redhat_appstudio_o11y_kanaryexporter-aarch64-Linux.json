@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kanaryexporter",
+  "pkg_family": "o11y",
+  "pkg_id": "kanaryexporter#github.com_redhat_appstudio_o11y",
+  "pkg_name": "kanaryexporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/redhat-appstudio/o11y",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Konflux observability",
+  "homepage": [
+    "https://github.com/redhat-appstudio/o11y"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dsexporter",
+    "kanaryexporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/redhat-appstudio/o11y/archive/92d1cfd813f4d57ce510079a3f00fb140c284567.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-92d1cfd-250623T133914",
+  "version_upstream": "",
+  "bsum": "41cc6f5630ee0bebf99b85931acbd8e80831bccae6003c6ea5e95753df0f2811",
+  "build_date": "2025-06-23T19:56:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833139539",
+  "build_id": "15833139539",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-appstudio/o11y/kanaryexporter?tag=HEAD-92d1cfd-250623T133914-aarch64-Linux&download=kanaryexporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-appstudio/o11y/kanaryexporter?tag=HEAD-92d1cfd-250623T133914-aarch64-Linux&download=kanaryexporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redhat-appstudio/o11y/kanaryexporter:HEAD-92d1cfd-250623T133914-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redhat-appstudio/o11y/kanaryexporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-appstudio/o11y/kanaryexporter?tag=HEAD-92d1cfd-250623T133914-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f21bd8b4e588f1498093bdc691c7e0898c4c0bf8799712ea47c157a0f197e4e4",
+  "size": "8.8 MB",
+  "size_raw": "9204224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
