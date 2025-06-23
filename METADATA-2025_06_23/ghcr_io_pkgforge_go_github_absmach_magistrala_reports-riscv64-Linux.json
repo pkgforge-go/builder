@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "reports",
+  "pkg_family": "magistrala",
+  "pkg_id": "reports#github.com_absmach_magistrala",
+  "pkg_name": "reports",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/absmach/magistrala",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Industrial IoT Messaging and Device Management Platform",
+  "homepage": [
+    "https://github.com/absmach/magistrala"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "bootstrap",
+    "cli",
+    "cmd",
+    "postgres-reader",
+    "postgres-writer",
+    "provision",
+    "re",
+    "reports",
+    "timescale-reader",
+    "timescale-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/absmach/magistrala/archive/2c9c5941005ebc1a99f0f5c0966eec14c7ea69d7.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "authorization",
+    "certificates-generator",
+    "coap",
+    "configuration-management",
+    "devices",
+    "edge",
+    "edge-computing",
+    "go",
+    "golang",
+    "iot",
+    "iot-gateway",
+    "iot-platform",
+    "messaging",
+    "mqtt",
+    "web-sockets"
+  ],
+  "version": "HEAD-2c9c594-250623T162918",
+  "version_upstream": "",
+  "bsum": "f0715d0f83a73696462c392dce54e1cceb974ea669bde21d49df5b9b25b054f5",
+  "build_date": "2025-06-23T22:04:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835779212",
+  "build_id": "15835779212",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/reports?tag=HEAD-2c9c594-250623T162918-riscv64-Linux&download=reports.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "96",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/reports?tag=HEAD-2c9c594-250623T162918-riscv64-Linux&download=reports",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/absmach/magistrala/reports:HEAD-2c9c594-250623T162918-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/absmach/magistrala/reports",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/magistrala/reports?tag=HEAD-2c9c594-250623T162918-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa9d15e9920961f8d75fc5008cee90630d113b004f0364546e09293e15d469c7",
+  "size": "23 MB",
+  "size_raw": "23983576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbb030c-250618T130139-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
