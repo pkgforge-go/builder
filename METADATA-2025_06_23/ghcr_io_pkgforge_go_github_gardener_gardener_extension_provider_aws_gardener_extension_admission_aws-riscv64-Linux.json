@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-admission-aws",
+  "pkg_family": "gardener-extension-provider-aws",
+  "pkg_id": "gardener-extension-admission-aws#github.com_gardener_gardener_extension_provider_aws",
+  "pkg_name": "gardener-extension-admission-aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the AWS cloud provider _https://aws.amazon.com_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-aws",
+    "gardener-extension-provider-aws",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-aws/archive/ebf2da64c1ef2fed9e047966bf4eae47de552667.tar.gz"
+  ],
+  "tag": [
+    "amazon-web-services",
+    "aws",
+    "extension",
+    "gardener",
+    "kubernetes"
+  ],
+  "version": "HEAD-ebf2da6-250623T161904",
+  "version_upstream": "",
+  "bsum": "65122352a5bf69f4d6e5b1a22565fd39de170c4c327c47978aa74c5fda6742b2",
+  "build_date": "2025-06-23T17:36:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829910495",
+  "build_id": "15829910495",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-admission-aws?tag=HEAD-ebf2da6-250623T161904-riscv64-Linux&download=gardener-extension-admission-aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-admission-aws?tag=HEAD-ebf2da6-250623T161904-riscv64-Linux&download=gardener-extension-admission-aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-admission-aws:HEAD-ebf2da6-250623T161904-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-admission-aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-admission-aws?tag=HEAD-ebf2da6-250623T161904-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dcb91b07fda7cff0e3938d101696a21e079bbda40cdfd649e285af78ea9cb0bc",
+  "size": "58 MB",
+  "size_raw": "60134584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-provider-aws",
+  "pkg_family": "gardener-extension-provider-aws",
+  "pkg_id": "gardener-extension-provider-aws#github.com_gardener_gardener_extension_provider_aws",
+  "pkg_name": "gardener-extension-provider-aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-provider-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the AWS cloud provider _https://aws.amazon.com_.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-provider-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-aws",
+    "gardener-extension-provider-aws",
+    "tm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-provider-aws/archive/ebf2da64c1ef2fed9e047966bf4eae47de552667.tar.gz"
+  ],
+  "tag": [
+    "amazon-web-services",
+    "aws",
+    "extension",
+    "gardener",
+    "kubernetes"
+  ],
+  "version": "HEAD-ebf2da6-250623T161904",
+  "version_upstream": "",
+  "bsum": "388505afaeb1c92be72ed8a182377752892477137ead0db3b9565ee27d7aab50",
+  "build_date": "2025-06-23T17:36:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829910495",
+  "build_id": "15829910495",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-provider-aws?tag=HEAD-ebf2da6-250623T161904-riscv64-Linux&download=gardener-extension-provider-aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-provider-aws?tag=HEAD-ebf2da6-250623T161904-riscv64-Linux&download=gardener-extension-provider-aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-provider-aws:HEAD-ebf2da6-250623T161904-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-provider-aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-provider-aws/gardener-extension-provider-aws?tag=HEAD-ebf2da6-250623T161904-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "abcc635b6bf4dfb2115fcf4b020e810d9c7b36b0cfce29f727d549e7555460ab",
+  "size": "112 MB",
+  "size_raw": "117243992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
