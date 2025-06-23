@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "genbzl",
+  "pkg_family": "cockroach",
+  "pkg_id": "genbzl#github.com_cockroachdb_cockroach",
+  "pkg_name": "genbzl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cockroachdb/cockroach",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+  "homepage": [
+    "https://github.com/cockroachdb/cockroach"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "allkeywords",
+    "genbzl",
+    "generate-acceptance-tests",
+    "tinystringer",
+    "whereis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cockroachdb/cockroach/archive/a138fbd2d18556cf0854aa626a5c68fb22b4c657.tar.gz"
+  ],
+  "tag": [
+    "cockroachdb",
+    "database",
+    "distributed-database",
+    "go",
+    "hacktoberfest",
+    "sql"
+  ],
+  "version": "HEAD-a138fbd-250621T215846",
+  "version_upstream": "",
+  "bsum": "1966f3348b8b48fbd344780147a81c37198a4f0ad9d3c00879b29a45ecf5732b",
+  "build_date": "2025-06-23T03:01:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813688473",
+  "build_id": "15813688473",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/genbzl?tag=HEAD-a138fbd-250621T215846-x86_64-Linux&download=genbzl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31014",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/genbzl?tag=HEAD-a138fbd-250621T215846-x86_64-Linux&download=genbzl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cockroachdb/cockroach/genbzl:HEAD-a138fbd-250621T215846-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cockroachdb/cockroach/genbzl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/genbzl?tag=HEAD-a138fbd-250621T215846-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "43b823a4c0820b61d42c914811a28631a2b082b5c90c96448d8232793ce24f6d",
+  "size": "3.1 MB",
+  "size_raw": "3192248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-603ca22-250619T082719-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
