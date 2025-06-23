@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sbom",
+  "pkg_family": "ratify",
+  "pkg_id": "sbom#github.com_notaryproject_ratify",
+  "pkg_name": "sbom",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/notaryproject/ratify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Artifact Ratification Framework _CNCF Sandbox_",
+  "homepage": [
+    "https://github.com/notaryproject/ratify"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "licensechecker",
+    "ratify-gatekeeper-provider",
+    "sample",
+    "sbom",
+    "schemavalidator",
+    "vulnerabilityreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/notaryproject/ratify/archive/2f06ef21c43feb03715ad345f21e6f0879503023.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "secure-supply-chain"
+  ],
+  "version": "HEAD-2f06ef2-250623T101202",
+  "version_upstream": "",
+  "bsum": "512ca6a60e815d8cdc8e85ae8605939c285cf40e11d4b13298c4a65ef1d437cc",
+  "build_date": "2025-06-23T08:45:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818452720",
+  "build_id": "15818452720",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/sbom?tag=HEAD-2f06ef2-250623T101202-loongarch64-Linux&download=sbom.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "267",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/sbom?tag=HEAD-2f06ef2-250623T101202-loongarch64-Linux&download=sbom",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/notaryproject/ratify/sbom:HEAD-2f06ef2-250623T101202-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/notaryproject/ratify/sbom",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/sbom?tag=HEAD-2f06ef2-250623T101202-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e934989460a8fc967a9cd204062ba3d88142a57000813772ec0b8c01e7968636",
+  "size": "50 MB",
+  "size_raw": "52075008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
