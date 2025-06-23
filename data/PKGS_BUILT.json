@@ -7029,6 +7029,7 @@
     "name": "api",
     "pkg_id": "api#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -7755,6 +7756,7 @@
     "name": "app",
     "pkg_id": "app#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -33038,6 +33040,7 @@
     "name": "device",
     "pkg_id": "device#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -36706,6 +36709,7 @@
     "name": "dynamic",
     "pkg_id": "dynamic#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -37882,6 +37886,32 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-f2685fc-250620T142449"
+  },
+  {
+    "description": "Easily install prebuilt binaries from GitHub.",
+    "name": "eget",
+    "pkg_id": "eget#github.com_zyedidia_eget",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-0983dea-240708T230238"
+  },
+  {
+    "description": "Easily install prebuilt binaries from GitHub.",
+    "name": "eget-tools",
+    "pkg_id": "eget-tools#github.com_zyedidia_eget",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-0983dea-240708T230238"
   },
   {
     "description": "Emulador Genérico do Gabriel",
@@ -47225,6 +47255,7 @@
     "name": "gen",
     "pkg_id": "gen#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -52532,6 +52563,7 @@
     "name": "github",
     "pkg_id": "github#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -79809,8 +79841,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-20",
-    "version": "HEAD-5eddf5b-250526T220714"
+    "updated_at": "2025-06-22",
+    "version": "HEAD-97b5e35-250620T210025"
   },
   {
     "description": "ACH implements a reader, writer, and validator for Automated Clearing House _ACH_ files. The HTTP server is available in a Docker image and the Go package is available.",
@@ -91210,6 +91242,19 @@
     "version": "HEAD-266a516-250615T123230"
   },
   {
+    "description": "The AppImage Manager that Linux always deserved.",
+    "name": "pho",
+    "pkg_id": "pho#github.com_zyrouge_pho",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-700085d-241012T140859"
+  },
+  {
     "description": "📦 Produce secure packages and containers with declarative configurations",
     "name": "phony",
     "pkg_id": "phony#github.com_Azure_dalec",
@@ -98350,7 +98395,8 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
-      "riscv64-Linux"
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-dbf03dd-250622T101509"
@@ -108089,12 +108135,26 @@
     "name": "server",
     "pkg_id": "server#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-d6e37fa-250617T143255"
+  },
+  {
+    "description": "Draw with codes, for kids and coders~",
+    "name": "server",
+    "pkg_id": "server#github.com_zrcoder_ndor",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-4373f49-250425T153005"
   },
   {
     "description": "Permguard is an Open Source Multi-Zone, Multi-Tenant, ZTAuth* Provider",
@@ -108318,6 +108378,7 @@
     "name": "service",
     "pkg_id": "service#github.com_zitadel_oidc",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -116814,6 +116875,19 @@
     "version": "HEAD-04cb15d-250621T110501"
   },
   {
+    "description": "Tagify produces a set of tags from a given source. Source can be either an HTML page, a Markdown document or a plain text. Supports English, Russian, Chinese, Hindi, Spanish, Arabic, Japanese, German, Hebrew, French and Korean languages.",
+    "name": "tagify",
+    "pkg_id": "tagify#github.com_zoomio_tagify",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-3d6a68c-240718T154841"
+  },
+  {
     "description": "The ultimate ssh powered services for developers",
     "name": "tags",
     "pkg_id": "tags#github.com_picosh_pico",
@@ -116838,6 +116912,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0597615-241110T105825"
+  },
+  {
+    "description": "TaierSpeed CLI",
+    "name": "taierspeed-cli",
+    "pkg_id": "taierspeed-cli#github.com_ztelliot_taierspeed_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-bf5fbe2-240809T233605"
   },
   {
     "description": "🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.",
@@ -119482,6 +119569,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-0d339af-250505T173914"
+  },
+  {
+    "description": "Easily install prebuilt binaries from GitHub.",
+    "name": "test",
+    "pkg_id": "test#github.com_zyedidia_eget",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-0983dea-240708T230238"
   },
   {
     "description": "The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network",
@@ -135950,6 +136050,30 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-adac21c-250522T155234"
+  },
+  {
+    "description": "Absolutely minimal static site generator in Go _powers https://zserge.com_",
+    "name": "zs",
+    "pkg_id": "zs#github.com_zserge_zs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-4900afa-200324T071937"
+  },
+  {
+    "description": "Zscan a scan blasting tool set",
+    "name": "zscan",
+    "pkg_id": "zscan#github.com_zyylhn_zscan",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-06-22",
+    "version": "HEAD-d639c46-231205T180558"
   },
   {
     "description": "Ziti SSH",
