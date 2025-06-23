@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dashboard",
+  "pkg_family": "es-node",
+  "pkg_id": "dashboard#github.com_ethstorage_es_node",
+  "pkg_name": "dashboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethstorage/es-node",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implementation of the EthStorage node.",
+  "homepage": [
+    "https://github.com/ethstorage/es-node"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dashboard",
+    "es-utils",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethstorage/es-node/archive/d1ac95929a519016d1d6166b10bbc3253bdb9e9f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d1ac959-250616T101251",
+  "version_upstream": "",
+  "bsum": "a8e123953b86c89fe1c57d447e3a5c48674a2d6ba37bb9c78da50ba5609075f4",
+  "build_date": "2025-06-23T17:24:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15829425083",
+  "build_id": "15829425083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethstorage/es-node/dashboard?tag=HEAD-d1ac959-250616T101251-riscv64-Linux&download=dashboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "798",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethstorage/es-node/dashboard?tag=HEAD-d1ac959-250616T101251-riscv64-Linux&download=dashboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethstorage/es-node/dashboard:HEAD-d1ac959-250616T101251-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethstorage/es-node/dashboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethstorage/es-node/dashboard?tag=HEAD-d1ac959-250616T101251-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3da9d956ab56d75c33bbf18dd5c2da59763d24821d180e9ee9fdf1fbb51bf50",
+  "size": "17 MB",
+  "size_raw": "17662392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
