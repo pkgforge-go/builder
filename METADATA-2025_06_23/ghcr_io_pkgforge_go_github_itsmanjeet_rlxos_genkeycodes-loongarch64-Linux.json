@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "genkeycodes",
+  "pkg_family": "rlxos",
+  "pkg_id": "genkeycodes#github.com_itsManjeet_rlxos",
+  "pkg_name": "genkeycodes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capsule",
+    "debug",
+    "genkeycodes",
+    "init",
+    "service",
+    "udevd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/80c2a1b12d7964b6b94aded730393e258dde61ac.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-80c2a1b-250622T223945",
+  "version_upstream": "",
+  "bsum": "a30a3f607af6655a78df62c76a731b6aac315c4d42a5ed0b18b6da7b1a1f581f",
+  "build_date": "2025-06-23T14:10:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825148039",
+  "build_id": "15825148039",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-80c2a1b-250622T223945-loongarch64-Linux&download=genkeycodes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-80c2a1b-250622T223945-loongarch64-Linux&download=genkeycodes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes:HEAD-80c2a1b-250622T223945-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-80c2a1b-250622T223945-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d0f43198db5f406002a052b186101c1065bf135760835a3f8fe469cb1170ba32",
+  "size": "2.0 MB",
+  "size_raw": "2036344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95b2757-250621T144346-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
