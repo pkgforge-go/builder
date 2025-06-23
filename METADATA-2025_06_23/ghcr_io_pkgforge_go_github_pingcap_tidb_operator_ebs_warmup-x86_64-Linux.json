@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ebs-warmup",
+  "pkg_family": "tidb-operator",
+  "pkg_id": "ebs-warmup#github.com_pingcap_tidb_operator",
+  "pkg_name": "ebs-warmup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tidb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TiDB operator creates and manages TiDB clusters running in Kubernetes.",
+  "homepage": [
+    "https://github.com/pingcap/tidb-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "backup-manager",
+    "blockwriter",
+    "br-federation-manager",
+    "controller-manager",
+    "discovery",
+    "ebs-warmup",
+    "fault-trigger",
+    "scheduler",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tidb-operator/archive/3aaf3e378abcdba2b40111adc0910dcf7260ac88.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "operator",
+    "tidb"
+  ],
+  "version": "HEAD-3aaf3e3-250623T111334",
+  "version_upstream": "",
+  "bsum": "7115d2dfd04e315830c7b73bed0c41612ff53c22da3feeacea74b7357b02657b",
+  "build_date": "2025-06-23T09:05:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818569265",
+  "build_id": "15818569265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/ebs-warmup?tag=HEAD-3aaf3e3-250623T111334-x86_64-Linux&download=ebs-warmup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/ebs-warmup?tag=HEAD-3aaf3e3-250623T111334-x86_64-Linux&download=ebs-warmup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tidb-operator/ebs-warmup:HEAD-3aaf3e3-250623T111334-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tidb-operator/ebs-warmup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/ebs-warmup?tag=HEAD-3aaf3e3-250623T111334-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0bdc2b66a1bc012659fd27c9f7cf195f2acad655970977bc7d282210885195de",
+  "size": "2.8 MB",
+  "size_raw": "2871480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "backup-manager",
+  "pkg_family": "tidb-operator",
+  "pkg_id": "backup-manager#github.com_pingcap_tidb_operator",
+  "pkg_name": "backup-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tidb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TiDB operator creates and manages TiDB clusters running in Kubernetes.",
+  "homepage": [
+    "https://github.com/pingcap/tidb-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "backup-manager",
+    "blockwriter",
+    "br-federation-manager",
+    "controller-manager",
+    "discovery",
+    "ebs-warmup",
+    "fault-trigger",
+    "scheduler",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tidb-operator/archive/3aaf3e378abcdba2b40111adc0910dcf7260ac88.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "operator",
+    "tidb"
+  ],
+  "version": "HEAD-3aaf3e3-250623T111334",
+  "version_upstream": "",
+  "bsum": "b1b6145530b3005473cba3f7cb6318900dc9de9d6ae0aa91303683ac2fbeadc1",
+  "build_date": "2025-06-23T09:05:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818569265",
+  "build_id": "15818569265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/backup-manager?tag=HEAD-3aaf3e3-250623T111334-x86_64-Linux&download=backup-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/backup-manager?tag=HEAD-3aaf3e3-250623T111334-x86_64-Linux&download=backup-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tidb-operator/backup-manager:HEAD-3aaf3e3-250623T111334-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tidb-operator/backup-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tidb-operator/backup-manager?tag=HEAD-3aaf3e3-250623T111334-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4ee0770bb42608d3805fb586d54b5109c37dff61ece0b7068fc5c77fa136339",
+  "size": "110 MB",
+  "size_raw": "114785536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
