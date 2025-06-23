@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "binoculars",
+  "pkg_family": "armada",
+  "pkg_id": "binoculars#github.com_armadaproject_armada",
+  "pkg_name": "binoculars",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/armadaproject/armada",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
+  "homepage": [
+    "https://github.com/armadaproject/armada"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "armada-load-tester",
+    "armadactl",
+    "binoculars",
+    "dbloadtester",
+    "eventingester",
+    "executor",
+    "fakeexecutor",
+    "generate",
+    "lookout",
+    "lookoutingester",
+    "merge_swagger",
+    "protoc-gen-armada",
+    "scheduler",
+    "scheduleringester",
+    "server",
+    "simulator",
+    "testsuite"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/armadaproject/armada/archive/1ac8ff74ddd6932474f71bdbc936a291a206ef8a.tar.gz"
+  ],
+  "tag": [
+    "gr-oss",
+    "kubernetes"
+  ],
+  "version": "HEAD-1ac8ff7-250623T105918",
+  "version_upstream": "",
+  "bsum": "25b2a6fcd505f79d0cb202e0e822c53e2f6d85e63a5f91b7f9f91dd469f69695",
+  "build_date": "2025-06-23T22:24:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835780549",
+  "build_id": "15835780549",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/binoculars?tag=HEAD-1ac8ff7-250623T105918-loongarch64-Linux&download=binoculars.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/binoculars?tag=HEAD-1ac8ff7-250623T105918-loongarch64-Linux&download=binoculars",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/armadaproject/armada/binoculars:HEAD-1ac8ff7-250623T105918-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/armadaproject/armada/binoculars",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armadaproject/armada/binoculars?tag=HEAD-1ac8ff7-250623T105918-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9c91393f582cd66a15ffa1884062eb4ac17d0fb786b0a44843fe6a553c34bfb",
+  "size": "53 MB",
+  "size_raw": "55243488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3288cb7-250619T131152-loongarch64-Linux[v0.19.7]"
+  ],
+  "trusted": "true"
+}
