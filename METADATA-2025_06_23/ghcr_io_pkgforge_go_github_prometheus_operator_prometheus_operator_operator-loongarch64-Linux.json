@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "prometheus-operator",
+  "pkg_id": "operator#github.com_prometheus_operator_prometheus_operator",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus-operator/prometheus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+  "homepage": [
+    "https://github.com/prometheus-operator/prometheus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook",
+    "alertmanager-webhook",
+    "instrumented-sample-app",
+    "operator",
+    "po-docgen",
+    "po-rule-migration",
+    "prometheus-config-reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus-operator/prometheus-operator/archive/c0183411bbcc51da6498a18ff56815712ecdc92c.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-c018341-250623T163219",
+  "version_upstream": "",
+  "bsum": "4fd3d8324ea3bd66a509c2d00f42b2928911f8857efaed4663189fa94d582c55",
+  "build_date": "2025-06-23T19:49:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15832942943",
+  "build_id": "15832942943",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus-operator/prometheus-operator/operator?tag=HEAD-c018341-250623T163219-loongarch64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9516",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus-operator/prometheus-operator/operator?tag=HEAD-c018341-250623T163219-loongarch64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus-operator/prometheus-operator/operator:HEAD-c018341-250623T163219-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus-operator/prometheus-operator/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus-operator/prometheus-operator/operator?tag=HEAD-c018341-250623T163219-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e51d0cc322675283e40a2ae2947fa498f1d3eaca219711b3048909c0108cce72",
+  "size": "66 MB",
+  "size_raw": "69171744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
