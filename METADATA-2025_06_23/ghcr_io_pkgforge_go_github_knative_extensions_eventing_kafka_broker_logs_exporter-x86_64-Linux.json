@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "logs-exporter",
+  "pkg_family": "eventing-kafka-broker",
+  "pkg_id": "logs-exporter#github.com_knative_extensions_eventing_kafka_broker",
+  "pkg_name": "logs-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/eventing-kafka-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Alternate Kafka Broker implementation.",
+  "homepage": [
+    "https://github.com/knative-extensions/eventing-kafka-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "committed-offset",
+    "consumer-group-lag-provider-test",
+    "kafka-consumer",
+    "kafka-controller",
+    "kafka-source-controller",
+    "logs-exporter",
+    "post-install",
+    "watch-cm",
+    "webhook-kafka"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/eventing-kafka-broker/archive/c02d467becd65b92ad463dfaf3bd5ff7fb4170b3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c02d467-250623T135503",
+  "version_upstream": "",
+  "bsum": "2ec7cc79cd3b609185236baf0e7c885d02533e49a7f3d6d9ada50807aacd3dfe",
+  "build_date": "2025-06-23T18:35:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830578754",
+  "build_id": "15830578754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/logs-exporter?tag=HEAD-c02d467-250623T135503-x86_64-Linux&download=logs-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "196",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/logs-exporter?tag=HEAD-c02d467-250623T135503-x86_64-Linux&download=logs-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/logs-exporter:HEAD-c02d467-250623T135503-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/eventing-kafka-broker/logs-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/eventing-kafka-broker/logs-exporter?tag=HEAD-c02d467-250623T135503-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3990a176e6a246bebbb2bc37526bf4edf3ddfd77fec55523dfa08aedd1e7cb3d",
+  "size": "59 MB",
+  "size_raw": "61287744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
