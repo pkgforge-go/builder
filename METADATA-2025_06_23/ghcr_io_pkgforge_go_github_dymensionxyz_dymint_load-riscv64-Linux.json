@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "load",
+  "pkg_family": "dymint",
+  "pkg_id": "load#github.com_dymensionxyz_dymint",
+  "pkg_name": "load",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dymensionxyz/dymint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sequencing Engine for Dymension RollApps",
+  "homepage": [
+    "https://github.com/dymensionxyz/dymint"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "dymint",
+    "load",
+    "report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dymensionxyz/dymint/archive/20271b10e7ec11b1107adbfa834c5381970c28c0.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "go",
+    "networking",
+    "rollapps",
+    "sequencer"
+  ],
+  "version": "HEAD-20271b1-250622T110415",
+  "version_upstream": "",
+  "bsum": "fadca9dde4418b5f715bb74903fc8b3640b0acdca14e924b2dffedc077048aaf",
+  "build_date": "2025-06-23T03:20:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813768525",
+  "build_id": "15813768525",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/load?tag=HEAD-20271b1-250622T110415-riscv64-Linux&download=load.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/load?tag=HEAD-20271b1-250622T110415-riscv64-Linux&download=load",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dymensionxyz/dymint/load:HEAD-20271b1-250622T110415-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dymensionxyz/dymint/load",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dymensionxyz/dymint/load?tag=HEAD-20271b1-250622T110415-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7cad319428781c6c743809fd85daa8151d627200ccec9d6eb257ccb49e921db",
+  "size": "13 MB",
+  "size_raw": "13525688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f740637-250619T085346-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
