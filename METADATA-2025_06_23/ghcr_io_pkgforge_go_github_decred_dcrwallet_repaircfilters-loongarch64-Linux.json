@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "repaircfilters",
+  "pkg_family": "dcrwallet",
+  "pkg_id": "repaircfilters#github.com_decred_dcrwallet",
+  "pkg_name": "repaircfilters",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decred/dcrwallet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A secure Decred wallet daemon written in Go _golang_.",
+  "homepage": [
+    "https://github.com/decred/dcrwallet"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcrwallet",
+    "grpc_example",
+    "movefunds",
+    "repaircfilters",
+    "rpc_example",
+    "sweepaccount",
+    "treasurykey"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/decred/dcrwallet/archive/1fe6682c672933897d1eec42aeb48098c4f9da26.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptocurrency",
+    "decred",
+    "golang"
+  ],
+  "version": "HEAD-1fe6682-250623T090801",
+  "version_upstream": "",
+  "bsum": "b13455f36e83ed0fa5af9f020780c202280f8521e9320d48e9e43c38c832ee13",
+  "build_date": "2025-06-23T22:41:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835824414",
+  "build_id": "15835824414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/repaircfilters?tag=HEAD-1fe6682-250623T090801-loongarch64-Linux&download=repaircfilters.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "231",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/repaircfilters?tag=HEAD-1fe6682-250623T090801-loongarch64-Linux&download=repaircfilters",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decred/dcrwallet/repaircfilters:HEAD-1fe6682-250623T090801-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decred/dcrwallet/repaircfilters",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/repaircfilters?tag=HEAD-1fe6682-250623T090801-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff9e5c57a28ff14aa659d84c0268cd465e8c60f604f13ded6c4e18c9fd122b57",
+  "size": "7.2 MB",
+  "size_raw": "7464944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2e35d09-250620T150446-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

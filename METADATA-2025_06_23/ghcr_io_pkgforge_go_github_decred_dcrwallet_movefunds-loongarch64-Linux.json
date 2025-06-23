@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "movefunds",
+  "pkg_family": "dcrwallet",
+  "pkg_id": "movefunds#github.com_decred_dcrwallet",
+  "pkg_name": "movefunds",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decred/dcrwallet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A secure Decred wallet daemon written in Go _golang_.",
+  "homepage": [
+    "https://github.com/decred/dcrwallet"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcrwallet",
+    "grpc_example",
+    "movefunds",
+    "repaircfilters",
+    "rpc_example",
+    "sweepaccount",
+    "treasurykey"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/decred/dcrwallet/archive/1fe6682c672933897d1eec42aeb48098c4f9da26.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptocurrency",
+    "decred",
+    "golang"
+  ],
+  "version": "HEAD-1fe6682-250623T090801",
+  "version_upstream": "",
+  "bsum": "394294a83bc2bed62dcf4f72db6b73b699aa3e262825951ee5d9b5d17bf850d8",
+  "build_date": "2025-06-23T22:40:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835824414",
+  "build_id": "15835824414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/movefunds?tag=HEAD-1fe6682-250623T090801-loongarch64-Linux&download=movefunds.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "231",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/movefunds?tag=HEAD-1fe6682-250623T090801-loongarch64-Linux&download=movefunds",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decred/dcrwallet/movefunds:HEAD-1fe6682-250623T090801-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decred/dcrwallet/movefunds",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrwallet/movefunds?tag=HEAD-1fe6682-250623T090801-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be276887236cf79d50b2ec39c0237942287b5191cbf87f38aaf3d6eeb85b4a2f",
+  "size": "4.5 MB",
+  "size_raw": "4665072",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2e35d09-250620T150446-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
