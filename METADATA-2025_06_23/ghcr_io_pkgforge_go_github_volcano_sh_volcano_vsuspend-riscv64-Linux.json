@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vsuspend",
+  "pkg_family": "volcano",
+  "pkg_id": "vsuspend#github.com_volcano_sh_volcano",
+  "pkg_name": "vsuspend",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/volcano-sh/volcano",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Batch System _Project under CNCF_",
+  "homepage": [
+    "https://github.com/volcano-sh/volcano"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "controller-manager",
+    "extender",
+    "network-qos",
+    "scheduler",
+    "scripts",
+    "vcancel",
+    "vjobs",
+    "vqueues",
+    "vresume",
+    "vsub",
+    "vsuspend",
+    "webhook-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/volcano-sh/volcano/archive/068b7bc3d8ecfc8274a82e4f458bbb84fac883bf.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "batch-systems",
+    "bigdata",
+    "gene",
+    "golang",
+    "hpc",
+    "kubernetes",
+    "machine-learning",
+    "serving",
+    "training"
+  ],
+  "version": "HEAD-068b7bc-250623T200713",
+  "version_upstream": "",
+  "bsum": "f74f97e7bac25f43b30bc80a4341928caa56169ce4da3cd7b06ff8a15996c396",
+  "build_date": "2025-06-23T21:15:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833545397",
+  "build_id": "15833545397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/vsuspend?tag=HEAD-068b7bc-250623T200713-riscv64-Linux&download=vsuspend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4767",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/vsuspend?tag=HEAD-068b7bc-250623T200713-riscv64-Linux&download=vsuspend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/volcano-sh/volcano/vsuspend:HEAD-068b7bc-250623T200713-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/volcano-sh/volcano/vsuspend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/vsuspend?tag=HEAD-068b7bc-250623T200713-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a780e24e2e2fc844e267047cea9bccf3c99a8da1b2a8bdbcea68504198c7d48",
+  "size": "37 MB",
+  "size_raw": "37987128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

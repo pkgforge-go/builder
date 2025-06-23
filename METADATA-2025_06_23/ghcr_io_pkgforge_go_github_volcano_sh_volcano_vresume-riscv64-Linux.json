@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vresume",
+  "pkg_family": "volcano",
+  "pkg_id": "vresume#github.com_volcano_sh_volcano",
+  "pkg_name": "vresume",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/volcano-sh/volcano",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Batch System _Project under CNCF_",
+  "homepage": [
+    "https://github.com/volcano-sh/volcano"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "controller-manager",
+    "extender",
+    "network-qos",
+    "scheduler",
+    "scripts",
+    "vcancel",
+    "vjobs",
+    "vqueues",
+    "vresume",
+    "vsub",
+    "vsuspend",
+    "webhook-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/volcano-sh/volcano/archive/068b7bc3d8ecfc8274a82e4f458bbb84fac883bf.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "batch-systems",
+    "bigdata",
+    "gene",
+    "golang",
+    "hpc",
+    "kubernetes",
+    "machine-learning",
+    "serving",
+    "training"
+  ],
+  "version": "HEAD-068b7bc-250623T200713",
+  "version_upstream": "",
+  "bsum": "e3fbf3b522da520e91a00b98a961869582ceab8d3bfbec2c178f4ee9f009cd48",
+  "build_date": "2025-06-23T21:15:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833545397",
+  "build_id": "15833545397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/vresume?tag=HEAD-068b7bc-250623T200713-riscv64-Linux&download=vresume.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4767",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/vresume?tag=HEAD-068b7bc-250623T200713-riscv64-Linux&download=vresume",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/volcano-sh/volcano/vresume:HEAD-068b7bc-250623T200713-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/volcano-sh/volcano/vresume",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano/vresume?tag=HEAD-068b7bc-250623T200713-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a64916dc66a5706fb5de097a243411ead279446fb174e4dbef593d48f30a0247",
+  "size": "37 MB",
+  "size_raw": "37987128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
