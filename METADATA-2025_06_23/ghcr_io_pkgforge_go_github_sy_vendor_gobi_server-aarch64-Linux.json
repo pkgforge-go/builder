@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "Gobi",
+  "pkg_id": "server#github.com_sy_vendor_Gobi",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sy-vendor/Gobi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gobi 是一个用 Go 编写的轻量级嵌入式报表和 BI 引擎，专为中小型项目设计，支持图表展示、数据导出和多数据源，一键嵌入系统，快速上线业务洞察功能。",
+  "homepage": [
+    "https://github.com/sy-vendor/Gobi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sy-vendor/Gobi/archive/64137c719aeb4f1bda4125229e5f3da42edd6fca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-64137c7-250623T114558",
+  "version_upstream": "",
+  "bsum": "04cc88390d9601612049fe4ced64c0b1d53a5ab5c234eafc494070739b41df5e",
+  "build_date": "2025-06-23T09:25:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819551703",
+  "build_id": "15819551703",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sy-vendor/gobi/server?tag=HEAD-64137c7-250623T114558-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sy-vendor/gobi/server?tag=HEAD-64137c7-250623T114558-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sy-vendor/gobi/server:HEAD-64137c7-250623T114558-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sy-vendor/gobi/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sy-vendor/gobi/server?tag=HEAD-64137c7-250623T114558-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23f5d8db3db4fde4e922595fd2a88f32b46232ae2e484b101f0d3dce2f1d3105",
+  "size": "26 MB",
+  "size_raw": "26857664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
