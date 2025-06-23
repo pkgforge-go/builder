@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "asbackup",
+  "pkg_family": "backup-go",
+  "pkg_id": "asbackup#github.com_aerospike_backup_go",
+  "pkg_name": "asbackup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aerospike/backup-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library for Aerospike backup and restore",
+  "homepage": [
+    "https://github.com/aerospike/backup-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asbackup",
+    "asrestore",
+    "blob",
+    "readme",
+    "s3",
+    "storage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aerospike/backup-go/archive/68825d7dad585544d06c5ca4009861811e6102d5.tar.gz"
+  ],
+  "tag": [
+    "aerospike",
+    "backup",
+    "backup-restore",
+    "backup-tools",
+    "golang",
+    "restore"
+  ],
+  "version": "HEAD-68825d7-250623T134352",
+  "version_upstream": "",
+  "bsum": "1e5b0876bd4aed75422d40129223e56fbf7686cf675f2bde4d8ee6cf02d59c5f",
+  "build_date": "2025-06-23T16:09:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828906165",
+  "build_id": "15828906165",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/backup-go/asbackup?tag=HEAD-68825d7-250623T134352-loongarch64-Linux&download=asbackup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/backup-go/asbackup?tag=HEAD-68825d7-250623T134352-loongarch64-Linux&download=asbackup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aerospike/backup-go/asbackup:HEAD-68825d7-250623T134352-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aerospike/backup-go/asbackup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/backup-go/asbackup?tag=HEAD-68825d7-250623T134352-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b1dff4254fc1b2c93cc6a206f2f0bb0a96ccb6c4efb4d6891d9941da4728fb82",
+  "size": "48 MB",
+  "size_raw": "49929152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
