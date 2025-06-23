@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "unexportediface",
+  "pkg_family": "iface",
+  "pkg_id": "unexportediface#github.com_uudashr_iface",
+  "pkg_name": "unexportediface",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uudashr/iface",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linter to identify the incorrect use of interfaces in Go code AKA _Interface Pollution_",
+  "homepage": [
+    "https://github.com/uudashr/iface"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "identicaliface",
+    "ifacecheck",
+    "opaqueiface",
+    "unexportediface",
+    "unusediface"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uudashr/iface/archive/408e0dd715228e07b53ac9e3930f859fb6e6308d.tar.gz"
+  ],
+  "tag": [
+    "anti-pattern",
+    "golang",
+    "linter"
+  ],
+  "version": "HEAD-408e0dd-250622T225441",
+  "version_upstream": "",
+  "bsum": "496d08a8d835dd4f9b620c7fcd939083906f25042dbb1809a436710d0d930000",
+  "build_date": "2025-06-23T09:38:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819719848",
+  "build_id": "15819719848",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/unexportediface?tag=HEAD-408e0dd-250622T225441-riscv64-Linux&download=unexportediface.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/unexportediface?tag=HEAD-408e0dd-250622T225441-riscv64-Linux&download=unexportediface",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uudashr/iface/unexportediface:HEAD-408e0dd-250622T225441-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uudashr/iface/unexportediface",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/unexportediface?tag=HEAD-408e0dd-250622T225441-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "879e2a75aadb5a8dfb2ef137d1ccb2653c6216e07ef08313a23849d346eabe78",
+  "size": "6.4 MB",
+  "size_raw": "6695640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
