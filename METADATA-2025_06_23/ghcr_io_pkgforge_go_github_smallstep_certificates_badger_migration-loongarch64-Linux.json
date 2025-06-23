@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "badger-migration",
+  "pkg_family": "certificates",
+  "pkg_id": "badger-migration#github.com_smallstep_certificates",
+  "pkg_name": "badger-migration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smallstep/certificates",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🛡️ A private certificate authority _X.509 _ SSH_ _ ACME server for secure automated certificate management, so you can use TLS everywhere _ SSO for SSH.",
+  "homepage": [
+    "https://github.com/smallstep/certificates"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "badger-migration",
+    "basic-client",
+    "bootstrap-client",
+    "bootstrap-mtls-server",
+    "bootstrap-tls-server",
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smallstep/certificates/archive/c6902d1a091c1bdab867391ee41bac517a557894.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "acme-server",
+    "ca",
+    "certificate-authority",
+    "certificates",
+    "go",
+    "pki",
+    "security",
+    "security-tools",
+    "ssh",
+    "tls",
+    "x509"
+  ],
+  "version": "HEAD-c6902d1-250623T072158",
+  "version_upstream": "",
+  "bsum": "f26471dc559e2945d8a7f0570b40432bba4217225e5cede995ca16a66bf2a21a",
+  "build_date": "2025-06-23T20:28:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15833423588",
+  "build_id": "15833423588",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/badger-migration?tag=HEAD-c6902d1-250623T072158-loongarch64-Linux&download=badger-migration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7372",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/badger-migration?tag=HEAD-c6902d1-250623T072158-loongarch64-Linux&download=badger-migration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smallstep/certificates/badger-migration:HEAD-c6902d1-250623T072158-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smallstep/certificates/badger-migration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/badger-migration?tag=HEAD-c6902d1-250623T072158-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6bc90ab928f2c942089a41302cb6f0f270b46c4009d74c51670691706ec1e4a7",
+  "size": "18 MB",
+  "size_raw": "17933504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
