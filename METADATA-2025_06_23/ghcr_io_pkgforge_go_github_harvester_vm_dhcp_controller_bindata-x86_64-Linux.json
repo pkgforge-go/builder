@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bindata",
+  "pkg_family": "vm-dhcp-controller",
+  "pkg_id": "bindata#github.com_harvester_vm_dhcp_controller",
+  "pkg_name": "bindata",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/vm-dhcp-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A managed DHCP service for virtual machines running on Harvester _fork of https://github.com/joeyloman/kubevirt-ip-helper_",
+  "homepage": [
+    "https://github.com/harvester/vm-dhcp-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "bindata",
+    "cleanup",
+    "codegen",
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/vm-dhcp-controller/archive/161bdefdc219172a7d3c80a05185a1c360087838.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-161bdef-250623T114823",
+  "version_upstream": "",
+  "bsum": "1a2a54ac1495b87ccffa8f8e94fc88ce826b5a7c2085725419d9e07bdce6a15e",
+  "build_date": "2025-06-23T07:52:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817558261",
+  "build_id": "15817558261",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/bindata?tag=HEAD-161bdef-250623T114823-x86_64-Linux&download=bindata.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/bindata?tag=HEAD-161bdef-250623T114823-x86_64-Linux&download=bindata",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/bindata:HEAD-161bdef-250623T114823-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/vm-dhcp-controller/bindata",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/vm-dhcp-controller/bindata?tag=HEAD-161bdef-250623T114823-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0cd616987729b8bd81e3a0588e90083b17d9c31406e4ddbf87286bc43f9c5f45",
+  "size": "2.3 MB",
+  "size_raw": "2327992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
