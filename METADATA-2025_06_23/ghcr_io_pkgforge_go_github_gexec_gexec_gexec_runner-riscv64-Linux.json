@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gexec-runner",
+  "pkg_family": "gexec",
+  "pkg_id": "gexec-runner#github.com_gexec_gexec",
+  "pkg_name": "gexec-runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gexec/gexec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generic execution platform for Ansible/OpenTofu/Terraform",
+  "homepage": [
+    "https://github.com/gexec/gexec"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gexec-client",
+    "gexec-runner",
+    "gexec-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gexec/gexec/archive/fe6a08cc2f1f47475beb71d79befa886e7b31ad0.tar.gz"
+  ],
+  "tag": [
+    "ansible",
+    "gexec",
+    "opentofu",
+    "terraform"
+  ],
+  "version": "HEAD-fe6a08c-250623T031952",
+  "version_upstream": "",
+  "bsum": "4e74e3d0c0cc5675ca51b964f2d394348e3dd0c52ab1c9351736398e656a1905",
+  "build_date": "2025-06-23T05:20:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815417296",
+  "build_id": "15815417296",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gexec/gexec/gexec-runner?tag=HEAD-fe6a08c-250623T031952-riscv64-Linux&download=gexec-runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gexec/gexec/gexec-runner?tag=HEAD-fe6a08c-250623T031952-riscv64-Linux&download=gexec-runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gexec/gexec/gexec-runner:HEAD-fe6a08c-250623T031952-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gexec/gexec/gexec-runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gexec/gexec/gexec-runner?tag=HEAD-fe6a08c-250623T031952-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a2ecda8fc46fa257e528e595d6d96c3ec76bb9ac47337900d52db4b8cbc0db3",
+  "size": "21 MB",
+  "size_raw": "21634456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b05d46b-250619T102103-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
