@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "unusediface",
+  "pkg_family": "iface",
+  "pkg_id": "unusediface#github.com_uudashr_iface",
+  "pkg_name": "unusediface",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uudashr/iface",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linter to identify the incorrect use of interfaces in Go code AKA _Interface Pollution_",
+  "homepage": [
+    "https://github.com/uudashr/iface"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "identicaliface",
+    "ifacecheck",
+    "opaqueiface",
+    "unexportediface",
+    "unusediface"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uudashr/iface/archive/408e0dd715228e07b53ac9e3930f859fb6e6308d.tar.gz"
+  ],
+  "tag": [
+    "anti-pattern",
+    "golang",
+    "linter"
+  ],
+  "version": "HEAD-408e0dd-250622T225441",
+  "version_upstream": "",
+  "bsum": "a07476b33befff0bb4b30c2c5323f14e7e23903168edb09fa59f95996987b9ff",
+  "build_date": "2025-06-23T09:36:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15819719848",
+  "build_id": "15819719848",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/unusediface?tag=HEAD-408e0dd-250622T225441-aarch64-Linux&download=unusediface.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/unusediface?tag=HEAD-408e0dd-250622T225441-aarch64-Linux&download=unusediface",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uudashr/iface/unusediface:HEAD-408e0dd-250622T225441-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uudashr/iface/unusediface",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uudashr/iface/unusediface?tag=HEAD-408e0dd-250622T225441-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed922a6b3b705c84e1b726caef71bba71fc765852d694ebfa64f8b84f3e6bdfc",
+  "size": "6.6 MB",
+  "size_raw": "6821984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
