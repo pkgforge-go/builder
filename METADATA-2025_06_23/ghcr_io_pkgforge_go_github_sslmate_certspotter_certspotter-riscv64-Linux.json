@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "certspotter",
+  "pkg_family": "certspotter",
+  "pkg_id": "certspotter#github.com_SSLMate_certspotter",
+  "pkg_name": "certspotter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SSLMate/certspotter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Certificate Transparency Log Monitor",
+  "homepage": [
+    "https://github.com/SSLMate/certspotter"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certspotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SSLMate/certspotter/archive/8ab03b4cf8f05c75dd9037f1d6374dd6f5218824.tar.gz"
+  ],
+  "tag": [
+    "certificate-transparency",
+    "pki",
+    "security",
+    "x509"
+  ],
+  "version": "HEAD-8ab03b4-250619T183003",
+  "version_upstream": "v0.20.1",
+  "bsum": "3ebfb4f56af61e1497d9ebb5b81c08b298c4f5a10a07b82c9082cfe3871fe0aa",
+  "build_date": "2025-06-23T02:27:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813636934",
+  "build_id": "15813636934",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sslmate/certspotter/certspotter?tag=HEAD-8ab03b4-250619T183003-riscv64-Linux&download=certspotter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1064",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sslmate/certspotter/certspotter?tag=HEAD-8ab03b4-250619T183003-riscv64-Linux&download=certspotter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sslmate/certspotter/certspotter:HEAD-8ab03b4-250619T183003-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sslmate/certspotter/certspotter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sslmate/certspotter/certspotter?tag=HEAD-8ab03b4-250619T183003-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d24bbeb5b6d72928a0a66c8e661a516b72f6a917872bf6fb48d732048180162",
+  "size": "6.5 MB",
+  "size_raw": "6798072",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bcbd4e6-250617T140345-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
