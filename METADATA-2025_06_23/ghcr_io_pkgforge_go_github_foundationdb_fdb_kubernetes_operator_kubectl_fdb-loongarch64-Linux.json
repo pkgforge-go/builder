@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubectl-fdb",
+  "pkg_family": "fdb-kubernetes-operator",
+  "pkg_id": "kubectl-fdb#github.com_FoundationDB_fdb_kubernetes_operator",
+  "pkg_name": "kubectl-fdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FoundationDB/fdb-kubernetes-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A kubernetes operator for FoundationDB",
+  "homepage": [
+    "https://github.com/FoundationDB/fdb-kubernetes-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "kubectl-fdb",
+    "po-docgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FoundationDB/fdb-kubernetes-operator/archive/2f5f007fb52b0f6c7a6644a11965d32812d89733.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2f5f007-250623T133714",
+  "version_upstream": "",
+  "bsum": "37a260f11421490805cd97301667ac5d71a5215ca2cc102d33d2c69ecd7c4c5a",
+  "build_date": "2025-06-23T15:52:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828899006",
+  "build_id": "15828899006",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundationdb/fdb-kubernetes-operator/kubectl-fdb?tag=HEAD-2f5f007-250623T133714-loongarch64-Linux&download=kubectl-fdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "273",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundationdb/fdb-kubernetes-operator/kubectl-fdb?tag=HEAD-2f5f007-250623T133714-loongarch64-Linux&download=kubectl-fdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foundationdb/fdb-kubernetes-operator/kubectl-fdb:HEAD-2f5f007-250623T133714-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foundationdb/fdb-kubernetes-operator/kubectl-fdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundationdb/fdb-kubernetes-operator/kubectl-fdb?tag=HEAD-2f5f007-250623T133714-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec76529629d09dd3fdda7bce42d7419a2d7a51f275306877b8b570a7562ef122",
+  "size": "63 MB",
+  "size_raw": "66037296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
