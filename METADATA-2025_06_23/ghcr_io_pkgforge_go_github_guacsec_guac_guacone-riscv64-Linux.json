@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "guacone",
+  "pkg_family": "guac",
+  "pkg_id": "guacone#github.com_guacsec_guac",
+  "pkg_name": "guacone",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/guacsec/guac",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+  "homepage": [
+    "https://github.com/guacsec/guac"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "cmd",
+    "collect",
+    "guaccollect",
+    "guaccsub",
+    "guacgql",
+    "guacingest",
+    "guacone",
+    "guacrest",
+    "ingest",
+    "pubsub_test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/guacsec/guac/archive/6629f3f130eaceee46305b3285cec315f2e26cc6.tar.gz"
+  ],
+  "tag": [
+    "attestations",
+    "cyclonedx",
+    "cyclonedx-sbom",
+    "graph",
+    "in-toto",
+    "sbom",
+    "security",
+    "slsa",
+    "software-supply-chain",
+    "software-supply-chain-security",
+    "spdx",
+    "spdx-sbom",
+    "supply-chain",
+    "supply-chain-analytics",
+    "supply-chain-security",
+    "supply-chain-visibility",
+    "vex",
+    "vulnerability",
+    "vulnerability-management"
+  ],
+  "version": "HEAD-6629f3f-250621T171349",
+  "version_upstream": "",
+  "bsum": "b62958cda31d343032e2dfb772c5a3b9b26da6ad8a4357f08fc6d91450efb4b2",
+  "build_date": "2025-06-23T03:45:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813773800",
+  "build_id": "15813773800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guacsec/guac/guacone?tag=HEAD-6629f3f-250621T171349-riscv64-Linux&download=guacone.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guacsec/guac/guacone?tag=HEAD-6629f3f-250621T171349-riscv64-Linux&download=guacone",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guacsec/guac/guacone:HEAD-6629f3f-250621T171349-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guacsec/guac/guacone",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guacsec/guac/guacone?tag=HEAD-6629f3f-250621T171349-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0552e18390dad9f1c140896b36828a56bdf589b65f0c95b579857e3849f9952b",
+  "size": "124 MB",
+  "size_raw": "129044216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-01d41a6-250618T210806-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
