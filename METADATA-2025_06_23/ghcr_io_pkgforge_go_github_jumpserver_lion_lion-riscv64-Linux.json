@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lion",
+  "pkg_family": "lion",
+  "pkg_id": "lion#github.com_jumpserver_lion",
+  "pkg_name": "lion",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jumpserver/lion",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lion is a connector of JumpServer for connections using graphical protocols, supporting RDP, VNC",
+  "homepage": [
+    "https://github.com/jumpserver/lion"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jumpserver/lion/archive/649be023ccac2d351c52d7dde9ff275f33eedcc1.tar.gz"
+  ],
+  "tag": [
+    "guacamole",
+    "rdp",
+    "vnc"
+  ],
+  "version": "HEAD-649be02-250623T180805",
+  "version_upstream": "",
+  "bsum": "5f06cfa352c4cc518f6b15e71830cc65bc45688187ee43a71b12e0885eb180e5",
+  "build_date": "2025-06-23T18:14:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830493749",
+  "build_id": "15830493749",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jumpserver/lion/lion?tag=HEAD-649be02-250623T180805-riscv64-Linux&download=lion.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jumpserver/lion/lion?tag=HEAD-649be02-250623T180805-riscv64-Linux&download=lion",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jumpserver/lion/lion:HEAD-649be02-250623T180805-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jumpserver/lion/lion",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jumpserver/lion/lion?tag=HEAD-649be02-250623T180805-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10df935e8b1f626c886018ef48899a282863b109e17a4c73f9e0610bccbd84d6",
+  "size": "25 MB",
+  "size_raw": "25229592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
