@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "httpe2e",
+  "pkg_family": "coraza",
+  "pkg_id": "httpe2e#github.com_corazawaf_coraza",
+  "pkg_name": "httpe2e",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/corazawaf/coraza",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OWASP Coraza WAF is a golang modsecurity compatible web application firewall library",
+  "homepage": [
+    "https://github.com/corazawaf/coraza"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "httpe2e"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/corazawaf/coraza/archive/30a06bac28c64a3cb0894e19cf40a0236faaeba5.tar.gz"
+  ],
+  "tag": [
+    "coraza",
+    "coraza-waf",
+    "coreruleset",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "http",
+    "modsecurity",
+    "owasp",
+    "owasp-crs",
+    "waf",
+    "web-application-firewall"
+  ],
+  "version": "HEAD-30a06ba-250621T020318",
+  "version_upstream": "",
+  "bsum": "c2ce63dc93d3b60b7e6e784ae633d16ebf89058525976d1acba34f7d715dc0a8",
+  "build_date": "2025-06-23T05:06:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815370331",
+  "build_id": "15815370331",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/httpe2e?tag=HEAD-30a06ba-250621T020318-riscv64-Linux&download=httpe2e.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2709",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/httpe2e?tag=HEAD-30a06ba-250621T020318-riscv64-Linux&download=httpe2e",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/corazawaf/coraza/httpe2e:HEAD-30a06ba-250621T020318-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/corazawaf/coraza/httpe2e",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/httpe2e?tag=HEAD-30a06ba-250621T020318-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b0ebbe6ff66c7a5da5cba7442078786d12444b058f5b621cb3c8d8eecfa6a412",
+  "size": "5.7 MB",
+  "size_raw": "5880408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-04c2209-250617T190326-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
