@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "doc-generator",
+  "pkg_family": "cortex",
+  "pkg_id": "doc-generator#github.com_cortexproject_cortex",
+  "pkg_name": "doc-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cortexproject/cortex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+  "homepage": [
+    "https://github.com/cortexproject/cortex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cortexproject/cortex/archive/bf88f67feb4fab9cb56da7d36049d221da948d4a.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-bf88f67-250621T233300",
+  "version_upstream": "",
+  "bsum": "de89fdb2759172420d5b26f52349454e412b95470e72fa87b5ae8c38f4a7fedd",
+  "build_date": "2025-06-23T03:10:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813716313",
+  "build_id": "15813716313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/doc-generator?tag=HEAD-bf88f67-250621T233300-aarch64-Linux&download=doc-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5613",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/doc-generator?tag=HEAD-bf88f67-250621T233300-aarch64-Linux&download=doc-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/doc-generator:HEAD-bf88f67-250621T233300-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/doc-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/doc-generator?tag=HEAD-bf88f67-250621T233300-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad34e21202264bc87c9d73825fac5c2463b627c5036e1838f8453778452f226e",
+  "size": "43 MB",
+  "size_raw": "44312160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
