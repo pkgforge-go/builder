@@ -35,7 +35,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/prometheus/prometheus/archive/d6683826080b96bc0d4c9592dba24e23f2e76be7.tar.gz"
+    "https://github.com/prometheus/prometheus/archive/8ed37d3c0939767e3071c549e1a58cefaf142228.tar.gz"
   ],
   "tag": [
     "alerting",
@@ -46,30 +46,31 @@
     "prometheus",
     "time-series"
   ],
-  "version": "HEAD-d668382-250621T094907",
+  "version": "HEAD-8ed37d3-250623T005608",
   "version_upstream": "",
-  "bsum": "50f904fbbcd11d7ec48fc21afc568b6c9c666ea14ed8c5366d2e4d65e9c4819b",
-  "build_date": "2025-06-23T04:30:22Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15813834723",
-  "build_id": "15813834723",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-d668382-250621T094907-loongarch64-Linux&download=promtool.log",
+  "bsum": "4fadd6bc78d7df184dfb6983ed8c1c230f58cb01fd8df07282addf09f5abe5a1",
+  "build_date": "2025-06-23T06:03:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815592353",
+  "build_id": "15815592353",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-8ed37d3-250623T005608-loongarch64-Linux&download=promtool.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "59079",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-d668382-250621T094907-loongarch64-Linux&download=promtool",
+  "download_count": "59090",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-8ed37d3-250623T005608-loongarch64-Linux&download=promtool",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool:HEAD-d668382-250621T094907-loongarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool:HEAD-8ed37d3-250623T005608-loongarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-d668382-250621T094907-loongarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-8ed37d3-250623T005608-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "0c5c0434bdea7661f9c779ddacc2f34734acd1f4120838cd2ec62a78003e468f",
+  "shasum": "b9c975130b158d8fb337e6053823c43cb3ea863a6bd66c78f8c9ed4e58617325",
   "size": "108 MB",
   "size_raw": "112928288",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-c701636-250620T130902-loongarch64-Linux"
+    "HEAD-c701636-250620T130902-loongarch64-Linux",
+    "HEAD-d668382-250621T094907-loongarch64-Linux"
   ],
   "trusted": "true"
 }
