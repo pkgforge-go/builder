@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "operating-system-manager",
+  "pkg_id": "webhook#github.com_kubermatic_operating_system_manager",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubermatic/operating-system-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operating System Manager is responsible for creating and managing the configuration that are needed to configure worker nodes",
+  "homepage": [
+    "https://github.com/kubermatic/operating-system-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "osm-controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubermatic/operating-system-manager/archive/14433331271354122961ced665d70064b7cfb6d6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1443333-250623T120340",
+  "version_upstream": "v1.7.0",
+  "bsum": "42e3b9be42b70d70115a0119fb4f30481ece10a16f1db529a7de6977cad282a6",
+  "build_date": "2025-06-23T18:44:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830613667",
+  "build_id": "15830613667",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/operating-system-manager/webhook?tag=HEAD-1443333-250623T120340-x86_64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/operating-system-manager/webhook?tag=HEAD-1443333-250623T120340-x86_64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubermatic/operating-system-manager/webhook:HEAD-1443333-250623T120340-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubermatic/operating-system-manager/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/operating-system-manager/webhook?tag=HEAD-1443333-250623T120340-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0806f709368bdf261ec8e196bb0861397f0a10c137b383f6486b7f564a3d28d0",
+  "size": "44 MB",
+  "size_raw": "45300032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

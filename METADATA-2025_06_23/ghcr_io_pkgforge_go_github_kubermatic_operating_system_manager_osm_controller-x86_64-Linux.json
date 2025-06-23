@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "osm-controller",
+  "pkg_family": "operating-system-manager",
+  "pkg_id": "osm-controller#github.com_kubermatic_operating_system_manager",
+  "pkg_name": "osm-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubermatic/operating-system-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operating System Manager is responsible for creating and managing the configuration that are needed to configure worker nodes",
+  "homepage": [
+    "https://github.com/kubermatic/operating-system-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "osm-controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubermatic/operating-system-manager/archive/14433331271354122961ced665d70064b7cfb6d6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1443333-250623T120340",
+  "version_upstream": "v1.7.0",
+  "bsum": "a76c7301ce984191468af19bf7d9c10d6bd1e2dfc480b8e9ee6df4c3b7a5c493",
+  "build_date": "2025-06-23T18:44:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15830613667",
+  "build_id": "15830613667",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/operating-system-manager/osm-controller?tag=HEAD-1443333-250623T120340-x86_64-Linux&download=osm-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/operating-system-manager/osm-controller?tag=HEAD-1443333-250623T120340-x86_64-Linux&download=osm-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubermatic/operating-system-manager/osm-controller:HEAD-1443333-250623T120340-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubermatic/operating-system-manager/osm-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/operating-system-manager/osm-controller?tag=HEAD-1443333-250623T120340-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b9ec30ddb26de19e55103f0578b053753d6d0fbce0d97c5384fe59d09074bd3",
+  "size": "45 MB",
+  "size_raw": "47100832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
