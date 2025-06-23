@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "bitbox-wallet-app",
+  "pkg_id": "server#github.com_BitBoxSwiss_bitbox_wallet_app",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/BitBoxSwiss/bitbox-wallet-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The BitBoxApp for desktop and mobile.",
+  "homepage": [
+    "https://github.com/BitBoxSwiss/bitbox-wallet-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "server",
+    "servewallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/BitBoxSwiss/bitbox-wallet-app/archive/040bc84d5914bb87a5a24dc9dad43367c6abd3b8.tar.gz"
+  ],
+  "tag": [
+    "bech32",
+    "bitcoin",
+    "hardware-wallet",
+    "litecoin",
+    "segwit",
+    "wallet"
+  ],
+  "version": "HEAD-040bc84-250623T131956",
+  "version_upstream": "",
+  "bsum": "cfaf911b025b2a2d1e979b30d97c5b027044141d800c66395936cc38f7c3c72d",
+  "build_date": "2025-06-23T15:52:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828899104",
+  "build_id": "15828899104",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/server?tag=HEAD-040bc84-250623T131956-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "280",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/server?tag=HEAD-040bc84-250623T131956-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/server:HEAD-040bc84-250623T131956-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitboxswiss/bitbox-wallet-app/server?tag=HEAD-040bc84-250623T131956-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fee30fb62efdd75528879fd2c91791d50f970f44715d8ea265e2b26cdc15a296",
+  "size": "21 MB",
+  "size_raw": "21101720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
