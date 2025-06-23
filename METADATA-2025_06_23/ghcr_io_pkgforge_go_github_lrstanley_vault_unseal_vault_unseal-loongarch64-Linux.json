@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "vault-unseal",
+  "pkg_family": "vault-unseal",
+  "pkg_id": "vault-unseal#github.com_lrstanley_vault_unseal",
+  "pkg_name": "vault-unseal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lrstanley/vault-unseal",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "auto-unseal utility for Hashicorp Vault",
+  "homepage": [
+    "https://github.com/lrstanley/vault-unseal"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vault-unseal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lrstanley/vault-unseal/archive/c382f8c961d2d56cf004da31bead24d2e6fbef35.tar.gz"
+  ],
+  "tag": [
+    "auto-unseal",
+    "cli",
+    "go",
+    "golang",
+    "hashicorp",
+    "unseal",
+    "unseals-vault-servers",
+    "vault",
+    "vault-api",
+    "vault-unseal"
+  ],
+  "version": "HEAD-c382f8c-250623T030339",
+  "version_upstream": "",
+  "bsum": "e4a64e44567697a2e9cca14be485ab21c4f87ba5f24a0816dc7ee2ab189b3ecc",
+  "build_date": "2025-06-23T08:21:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818176130",
+  "build_id": "15818176130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lrstanley/vault-unseal/vault-unseal?tag=HEAD-c382f8c-250623T030339-loongarch64-Linux&download=vault-unseal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "264",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lrstanley/vault-unseal/vault-unseal?tag=HEAD-c382f8c-250623T030339-loongarch64-Linux&download=vault-unseal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lrstanley/vault-unseal/vault-unseal:HEAD-c382f8c-250623T030339-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lrstanley/vault-unseal/vault-unseal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lrstanley/vault-unseal/vault-unseal?tag=HEAD-c382f8c-250623T030339-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bae15c39131b208845ee0ab5e9b7f66ccb47959ae513a894c7ff77368a3b3b34",
+  "size": "7.8 MB",
+  "size_raw": "8146784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
