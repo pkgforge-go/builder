@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "s3",
+  "pkg_family": "backup-go",
+  "pkg_id": "s3#github.com_aerospike_backup_go",
+  "pkg_name": "s3",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aerospike/backup-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library for Aerospike backup and restore",
+  "homepage": [
+    "https://github.com/aerospike/backup-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asbackup",
+    "asrestore",
+    "blob",
+    "readme",
+    "s3",
+    "storage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aerospike/backup-go/archive/68825d7dad585544d06c5ca4009861811e6102d5.tar.gz"
+  ],
+  "tag": [
+    "aerospike",
+    "backup",
+    "backup-restore",
+    "backup-tools",
+    "golang",
+    "restore"
+  ],
+  "version": "HEAD-68825d7-250623T134352",
+  "version_upstream": "",
+  "bsum": "9c400ae32da0408250028f6cd257657095ca84e1211bbc5db50f6ae702044953",
+  "build_date": "2025-06-23T16:10:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15828906165",
+  "build_id": "15828906165",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/backup-go/s3?tag=HEAD-68825d7-250623T134352-aarch64-Linux&download=s3.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/backup-go/s3?tag=HEAD-68825d7-250623T134352-aarch64-Linux&download=s3",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aerospike/backup-go/s3:HEAD-68825d7-250623T134352-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aerospike/backup-go/s3",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerospike/backup-go/s3?tag=HEAD-68825d7-250623T134352-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76b40875f1e60e1549acb902ac9da9869117ac6a7c26ffe4b239030717b765de",
+  "size": "14 MB",
+  "size_raw": "14643072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
