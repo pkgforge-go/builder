@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pidfd-kill",
+  "pkg_family": "runc",
+  "pkg_id": "pidfd-kill#github.com_opencontainers_runc",
+  "pkg_name": "pidfd-kill",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/opencontainers/runc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for spawning and running containers according to the OCI specification",
+  "homepage": [
+    "https://github.com/opencontainers/runc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fs-idmap",
+    "key_label",
+    "memfd-bind",
+    "pidfd-kill",
+    "recvtty",
+    "remap-rootfs",
+    "runc",
+    "sd-helper",
+    "seccompagent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/opencontainers/runc/archive/b1722d790214952e8a20d4ddd6a83451b9b665a1.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "oci"
+  ],
+  "version": "HEAD-b1722d7-250620T113046",
+  "version_upstream": "",
+  "bsum": "662c1f1f27b28cbe4dea80ef45edeb0c87431f5e4e4a486d4aac566443ae2c8a",
+  "build_date": "2025-06-23T05:53:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15815572334",
+  "build_id": "15815572334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/pidfd-kill?tag=HEAD-b1722d7-250620T113046-riscv64-Linux&download=pidfd-kill.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12460",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/pidfd-kill?tag=HEAD-b1722d7-250620T113046-riscv64-Linux&download=pidfd-kill",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opencontainers/runc/pidfd-kill:HEAD-b1722d7-250620T113046-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opencontainers/runc/pidfd-kill",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencontainers/runc/pidfd-kill?tag=HEAD-b1722d7-250620T113046-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9550f0a8f80dfdb02422cf796afef338c403f6429686112e00420aa2236bff5e",
+  "size": "4.8 MB",
+  "size_raw": "4934088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-94dc2be-250620T165921-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
