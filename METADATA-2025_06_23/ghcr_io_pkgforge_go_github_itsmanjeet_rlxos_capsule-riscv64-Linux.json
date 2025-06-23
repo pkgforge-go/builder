@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "capsule",
+  "pkg_family": "rlxos",
+  "pkg_id": "capsule#github.com_itsManjeet_rlxos",
+  "pkg_name": "capsule",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capsule",
+    "debug",
+    "genkeycodes",
+    "init",
+    "service",
+    "udevd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/80c2a1b12d7964b6b94aded730393e258dde61ac.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-80c2a1b-250622T223945",
+  "version_upstream": "",
+  "bsum": "335349b6302d8166f454ccf637f978d555ec53536e202c47660b79a81de71284",
+  "build_date": "2025-06-23T14:10:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15825148039",
+  "build_id": "15825148039",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/capsule?tag=HEAD-80c2a1b-250622T223945-riscv64-Linux&download=capsule.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/capsule?tag=HEAD-80c2a1b-250622T223945-riscv64-Linux&download=capsule",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/capsule:HEAD-80c2a1b-250622T223945-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/capsule",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/capsule?tag=HEAD-80c2a1b-250622T223945-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c16efb0134b8f60a4979b6d5bdc3e16cffd21302afe3cf325236ad7a812c19e4",
+  "size": "2.6 MB",
+  "size_raw": "2702600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95b2757-250621T144346-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
