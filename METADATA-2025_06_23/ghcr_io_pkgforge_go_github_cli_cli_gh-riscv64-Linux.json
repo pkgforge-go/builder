@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gh",
+  "pkg_family": "cli",
+  "pkg_id": "gh#github.com_cli_cli",
+  "pkg_name": "gh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cli/cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GitHub’s official command line tool",
+  "homepage": [
+    "https://github.com/cli/cli"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-docs",
+    "gh",
+    "script"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cli/cli/archive/d4efe0bd0a443a16b3d44eecdb064ba3d57b007e.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "git",
+    "github-api-v4",
+    "golang"
+  ],
+  "version": "HEAD-d4efe0b-250620T155544",
+  "version_upstream": "",
+  "bsum": "b2eba88e2d0915d3a93597f71c7a8e90ad01ba9d4d8196f1b8bd20d05d481954",
+  "build_date": "2025-06-23T08:45:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15818481484",
+  "build_id": "15818481484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gh?tag=HEAD-d4efe0b-250620T155544-riscv64-Linux&download=gh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39505",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gh?tag=HEAD-d4efe0b-250620T155544-riscv64-Linux&download=gh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cli/cli/gh:HEAD-d4efe0b-250620T155544-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cli/cli/gh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gh?tag=HEAD-d4efe0b-250620T155544-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "853a34e442f5dda66d7f838111fadfe9e7243ddddd439502c16ce2e40109317d",
+  "size": "39 MB",
+  "size_raw": "40390264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dc7b22b-250619T113149-riscv64-Linux",
+    "HEAD-d4efe0b-250620T155544-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
