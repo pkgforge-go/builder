@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "adapter-usage",
+  "pkg_family": "prompp",
+  "pkg_id": "adapter-usage#github.com_deckhouse_prompp",
+  "pkg_name": "adapter-usage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/deckhouse/prompp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deckhouse Prom++ – high-performance fork of Prometheus, designed to significantly reduce memory consumption",
+  "homepage": [
+    "https://github.com/deckhouse/prompp"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/deckhouse/prompp/archive/c5adceb4dffab99701298e80f59f3253671efea2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c5adceb-250623T164013",
+  "version_upstream": "",
+  "bsum": "9241bea55d0059bc205280853e7ea09b9125f01edc2665d684c5ab29bbec3db0",
+  "build_date": "2025-06-23T22:40:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835824102",
+  "build_id": "15835824102",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/prompp/adapter-usage?tag=HEAD-c5adceb-250623T164013-aarch64-Linux&download=adapter-usage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "291",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/prompp/adapter-usage?tag=HEAD-c5adceb-250623T164013-aarch64-Linux&download=adapter-usage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/deckhouse/prompp/adapter-usage:HEAD-c5adceb-250623T164013-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/deckhouse/prompp/adapter-usage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/prompp/adapter-usage?tag=HEAD-c5adceb-250623T164013-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12bd03d71aa5b5a77fe5069db097ca0fb36c281ecc7b1858d23c8d7929f522ca",
+  "size": "11 MB",
+  "size_raw": "11275264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-aed44b5-250619T154348-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
