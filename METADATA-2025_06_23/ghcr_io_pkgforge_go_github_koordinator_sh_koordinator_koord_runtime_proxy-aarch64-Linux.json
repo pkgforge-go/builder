@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "koord-runtime-proxy",
+  "pkg_family": "koordinator",
+  "pkg_id": "koord-runtime-proxy#github.com_koordinator_sh_koordinator",
+  "pkg_name": "koord-runtime-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/koordinator-sh/koordinator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.",
+  "homepage": [
+    "https://github.com/koordinator-sh/koordinator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "koord-descheduler",
+    "koord-manager",
+    "koord-runtime-proxy",
+    "koord-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/koordinator-sh/koordinator/archive/803b4965a1c9498989142cdb2ec1db108d2509a1.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "colocation",
+    "cost-optimization",
+    "kubernetes",
+    "scheduling"
+  ],
+  "version": "HEAD-803b496-250623T033421",
+  "version_upstream": "",
+  "bsum": "1d41fdf3c60892215e91a9100da080000be1202db5ead9ee4a639cea7447b4a4",
+  "build_date": "2025-06-23T08:13:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817987942",
+  "build_id": "15817987942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koordinator-sh/koordinator/koord-runtime-proxy?tag=HEAD-803b496-250623T033421-aarch64-Linux&download=koord-runtime-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1533",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koordinator-sh/koordinator/koord-runtime-proxy?tag=HEAD-803b496-250623T033421-aarch64-Linux&download=koord-runtime-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/koordinator-sh/koordinator/koord-runtime-proxy:HEAD-803b496-250623T033421-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/koordinator-sh/koordinator/koord-runtime-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koordinator-sh/koordinator/koord-runtime-proxy?tag=HEAD-803b496-250623T033421-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "229cfa2cbb1f71d4bb3d0957d212ce3e9d57227585c8fbb67967b9535991be32",
+  "size": "48 MB",
+  "size_raw": "50256832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "koord-descheduler",
+  "pkg_family": "koordinator",
+  "pkg_id": "koord-descheduler#github.com_koordinator_sh_koordinator",
+  "pkg_name": "koord-descheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/koordinator-sh/koordinator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.",
+  "homepage": [
+    "https://github.com/koordinator-sh/koordinator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "koord-descheduler",
+    "koord-manager",
+    "koord-runtime-proxy",
+    "koord-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/koordinator-sh/koordinator/archive/803b4965a1c9498989142cdb2ec1db108d2509a1.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "colocation",
+    "cost-optimization",
+    "kubernetes",
+    "scheduling"
+  ],
+  "version": "HEAD-803b496-250623T033421",
+  "version_upstream": "",
+  "bsum": "7dcf27f45fe8192e7b99e96d4fd497f3d23bf29faf83f5856ef861e7fbb738df",
+  "build_date": "2025-06-23T08:13:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15817987942",
+  "build_id": "15817987942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koordinator-sh/koordinator/koord-descheduler?tag=HEAD-803b496-250623T033421-aarch64-Linux&download=koord-descheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1533",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koordinator-sh/koordinator/koord-descheduler?tag=HEAD-803b496-250623T033421-aarch64-Linux&download=koord-descheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/koordinator-sh/koordinator/koord-descheduler:HEAD-803b496-250623T033421-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/koordinator-sh/koordinator/koord-descheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koordinator-sh/koordinator/koord-descheduler?tag=HEAD-803b496-250623T033421-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4b40c63fca0d8fb049f66d4520704938a132c6aa84c1b3e6c056bfd7da91fe4",
+  "size": "60 MB",
+  "size_raw": "62257504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
