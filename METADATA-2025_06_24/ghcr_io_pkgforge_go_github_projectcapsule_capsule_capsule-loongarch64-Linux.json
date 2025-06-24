@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "capsule",
+  "pkg_family": "capsule",
+  "pkg_id": "capsule#github.com_projectcapsule_capsule",
+  "pkg_name": "capsule",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectcapsule/capsule",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Multi-tenancy and policy-based framework for Kubernetes.",
+  "homepage": [
+    "https://github.com/projectcapsule/capsule"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "capsule"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectcapsule/capsule/archive/db709d56f7183c01c69013b24ae93fffad940718.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-namespaces",
+    "kubernetes-operator",
+    "multi-tenancy",
+    "multi-tenant-operator",
+    "namespaces",
+    "operator",
+    "tenant"
+  ],
+  "version": "HEAD-db709d5-250618T143829",
+  "version_upstream": "",
+  "bsum": "82b22deec26d9b3b5e30ee903556da5b363d4f438020e0f4be3871b25004d2c8",
+  "build_date": "2025-06-24T09:23:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845714623",
+  "build_id": "15845714623",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcapsule/capsule/capsule?tag=HEAD-db709d5-250618T143829-loongarch64-Linux&download=capsule.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1884",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcapsule/capsule/capsule?tag=HEAD-db709d5-250618T143829-loongarch64-Linux&download=capsule",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectcapsule/capsule/capsule:HEAD-db709d5-250618T143829-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectcapsule/capsule/capsule",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcapsule/capsule/capsule?tag=HEAD-db709d5-250618T143829-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71e6df8c0e9985cbd4e81c7a85021f2622e62edbae199b635611d80058efb6bb",
+  "size": "46 MB",
+  "size_raw": "48035488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
