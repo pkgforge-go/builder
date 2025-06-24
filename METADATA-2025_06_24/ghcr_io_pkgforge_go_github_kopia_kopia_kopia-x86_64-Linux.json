@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kopia",
+  "pkg_family": "kopia",
+  "pkg_id": "kopia#github.com_kopia_kopia",
+  "pkg_name": "kopia",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kopia/kopia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform backup tool for Windows, macOS _ Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+  "homepage": [
+    "https://github.com/kopia/kopia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigmapbench",
+    "cli2md",
+    "gettool",
+    "kopia",
+    "perf_benchmark",
+    "testingaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kopia/kopia/archive/1ead4a4ff8130ae667894e858bd35ce2dc141829.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "cloud",
+    "deduplication",
+    "encryption",
+    "google-cloud-storage",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-1ead4a4-250624T012609",
+  "version_upstream": "",
+  "bsum": "cd003b35871a9e51239e30b2078f3ec79639a6c9a01a7e4d85240ecbe22e7a95",
+  "build_date": "2025-06-24T15:08:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851611315",
+  "build_id": "15851611315",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/kopia?tag=HEAD-1ead4a4-250624T012609-x86_64-Linux&download=kopia.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9915",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/kopia?tag=HEAD-1ead4a4-250624T012609-x86_64-Linux&download=kopia",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kopia/kopia/kopia:HEAD-1ead4a4-250624T012609-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kopia/kopia/kopia",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/kopia?tag=HEAD-1ead4a4-250624T012609-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a89ba26b5899572230eca689053fa689d8cfde3b61a1788b1b7248a9acdfe4c1",
+  "size": "56 MB",
+  "size_raw": "57832080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-126395f-250619T212502-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
