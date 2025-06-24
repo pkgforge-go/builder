@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "trezor-common",
+  "pkg_family": "blockbook",
+  "pkg_id": "trezor-common#github.com_trezor_blockbook",
+  "pkg_name": "trezor-common",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trezor/blockbook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":blue_book: Trezor address/account balance backend",
+  "homepage": [
+    "https://github.com/trezor/blockbook"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "templates",
+    "trezor-common"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trezor/blockbook/archive/ca17fc5a956a8202730c91696ed75fd1a1e49138.tar.gz"
+  ],
+  "tag": [
+    "backend",
+    "bitcoin",
+    "trezor"
+  ],
+  "version": "HEAD-ca17fc5-250624T120158",
+  "version_upstream": "",
+  "bsum": "db19df3bc72dee3dd045e2fc9c20dae06d0fe7d56cb53dddd3274c856c98db7e",
+  "build_date": "2025-06-24T20:03:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859663101",
+  "build_id": "15859663101",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trezor/blockbook/trezor-common?tag=HEAD-ca17fc5-250624T120158-riscv64-Linux&download=trezor-common.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "724",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trezor/blockbook/trezor-common?tag=HEAD-ca17fc5-250624T120158-riscv64-Linux&download=trezor-common",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trezor/blockbook/trezor-common:HEAD-ca17fc5-250624T120158-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trezor/blockbook/trezor-common",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trezor/blockbook/trezor-common?tag=HEAD-ca17fc5-250624T120158-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8eeb5f38073d427973cc64f6678fa1c3979a51d113912f196500934a7b12996b",
+  "size": "5.9 MB",
+  "size_raw": "6123416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
