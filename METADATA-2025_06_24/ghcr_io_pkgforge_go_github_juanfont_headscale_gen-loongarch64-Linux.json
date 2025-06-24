@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "headscale",
+  "pkg_id": "gen#github.com_juanfont_headscale",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juanfont/headscale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source, self-hosted implementation of the Tailscale control server",
+  "homepage": [
+    "https://github.com/juanfont/headscale"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen",
+    "headscale",
+    "hi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juanfont/headscale/archive/afc11e1f0c1cbdc06716f221380710d92ce75a94.tar.gz"
+  ],
+  "tag": [
+    "tailscale",
+    "tailscale-control-server",
+    "tailscale-server",
+    "wireguard"
+  ],
+  "version": "HEAD-afc11e1-250623T134314",
+  "version_upstream": "",
+  "bsum": "a0528148cd2013edd24ffc65542ac9f38c022c1936c981375ea8c4c5843f2e16",
+  "build_date": "2025-06-24T03:01:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839583327",
+  "build_id": "15839583327",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-afc11e1-250623T134314-loongarch64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29285",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-afc11e1-250623T134314-loongarch64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juanfont/headscale/gen:HEAD-afc11e1-250623T134314-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juanfont/headscale/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-afc11e1-250623T134314-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c86ac2be3bb9aa8af36af937c1b59fe6faca922414c58475674e18851b362331",
+  "size": "6.3 MB",
+  "size_raw": "6591968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ea7376f-250618T112215-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
