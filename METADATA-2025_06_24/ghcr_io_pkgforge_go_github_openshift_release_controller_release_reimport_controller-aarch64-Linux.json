@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "release-reimport-controller",
+  "pkg_family": "release-controller",
+  "pkg_id": "release-reimport-controller#github.com_openshift_release_controller",
+  "pkg_name": "release-reimport-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/release-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The release controller assembles OpenShift releases from CI inputs",
+  "homepage": [
+    "https://github.com/openshift/release-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "release-controller",
+    "release-controller-api",
+    "release-mirror-cleanup-controller",
+    "release-payload-controller",
+    "release-reimport-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/release-controller/archive/aa4e059d0e7dfb5654a6ccdef5745418dc66e1bc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa4e059-250623T185927",
+  "version_upstream": "",
+  "bsum": "6c7e12273fde62695b5886be98a562dfa544d72d58c1468c041d4ef9d0023cf4",
+  "build_date": "2025-06-24T09:20:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845110276",
+  "build_id": "15845110276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/release-controller/release-reimport-controller?tag=HEAD-aa4e059-250623T185927-aarch64-Linux&download=release-reimport-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/release-controller/release-reimport-controller?tag=HEAD-aa4e059-250623T185927-aarch64-Linux&download=release-reimport-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/release-controller/release-reimport-controller:HEAD-aa4e059-250623T185927-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/release-controller/release-reimport-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/release-controller/release-reimport-controller?tag=HEAD-aa4e059-250623T185927-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "35bc00719f2a514a3fda88dd728f37faef1ddae0671b5976feec06d6d55c26ea",
+  "size": "79 MB",
+  "size_raw": "82557056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
