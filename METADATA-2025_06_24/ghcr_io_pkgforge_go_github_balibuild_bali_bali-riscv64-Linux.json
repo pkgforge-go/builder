@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bali",
+  "pkg_family": "bali",
+  "pkg_id": "bali#github.com_balibuild_bali",
+  "pkg_name": "bali",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/balibuild/bali",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bali -  Minimalist Golang build and packaging tool",
+  "homepage": [
+    "https://github.com/balibuild/bali"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "args",
+    "bali",
+    "ico",
+    "rpmsimple",
+    "xz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/balibuild/bali/archive/c42ccb6986a90a17213895c38be56880f415d86e.tar.gz"
+  ],
+  "tag": [
+    "build",
+    "darwin",
+    "golang",
+    "installer",
+    "interesting",
+    "linux",
+    "package",
+    "posix",
+    "windows"
+  ],
+  "version": "HEAD-c42ccb6-250624T172433",
+  "version_upstream": "",
+  "bsum": "53a7bf00f9183d637e4101ffdee830b8825151b3c09c7265d9d97a8d773873f0",
+  "build_date": "2025-06-24T22:13:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862193602",
+  "build_id": "15862193602",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/bali?tag=HEAD-c42ccb6-250624T172433-riscv64-Linux&download=bali.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "67",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/bali?tag=HEAD-c42ccb6-250624T172433-riscv64-Linux&download=bali",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/balibuild/bali/bali:HEAD-c42ccb6-250624T172433-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/balibuild/bali/bali",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/bali?tag=HEAD-c42ccb6-250624T172433-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aaf549075774e6cfdc0482daf579f5acd197548b0ed95b7840bb0e717498c8a6",
+  "size": "15 MB",
+  "size_raw": "15477048",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3c75fb5-250615T134456-riscv64-Linux[v3.1.1]"
+  ],
+  "trusted": "true"
+}
