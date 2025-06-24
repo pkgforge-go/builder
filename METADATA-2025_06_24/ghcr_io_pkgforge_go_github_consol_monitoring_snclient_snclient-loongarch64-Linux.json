@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "snclient",
+  "pkg_family": "snclient",
+  "pkg_id": "snclient#github.com_ConSol_Monitoring_snclient",
+  "pkg_name": "snclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ConSol-Monitoring/snclient",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SNClient - Cross platform monitoring agent",
+  "homepage": [
+    "https://github.com/ConSol-Monitoring/snclient"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "snclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ConSol-Monitoring/snclient/archive/b2d961e2f5abd3a7818ec77b0c75a05d95724b74.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "icinga",
+    "linux",
+    "monitoring",
+    "naemon",
+    "nagios",
+    "osx",
+    "prometheus",
+    "windows"
+  ],
+  "version": "HEAD-b2d961e-250624T135354",
+  "version_upstream": "",
+  "bsum": "dfe494e13080aaa46e5c62a922808e8413fd94be8f6b0b08d921f3474591152e",
+  "build_date": "2025-06-24T16:21:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855382112",
+  "build_id": "15855382112",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/snclient/snclient?tag=HEAD-b2d961e-250624T135354-loongarch64-Linux&download=snclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "62",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/snclient/snclient?tag=HEAD-b2d961e-250624T135354-loongarch64-Linux&download=snclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/consol-monitoring/snclient/snclient:HEAD-b2d961e-250624T135354-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/consol-monitoring/snclient/snclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/snclient/snclient?tag=HEAD-b2d961e-250624T135354-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38e4e58da192993e55792ed608dc96aaa9742841cbb75bd80120b98212d3ae60",
+  "size": "20 MB",
+  "size_raw": "20879408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
