@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "statusetat",
+  "pkg_family": "statusetat",
+  "pkg_id": "statusetat#github.com_orange_cloudfoundry_statusetat",
+  "pkg_name": "statusetat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orange-cloudfoundry/statusetat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "status page with very HA in mind and notifier",
+  "homepage": [
+    "https://github.com/orange-cloudfoundry/statusetat"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "statusetat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/orange-cloudfoundry/statusetat/archive/cf222c91982718f90f2fcf57ee1ab4a18c4f3117.tar.gz"
+  ],
+  "tag": [
+    "high-availability",
+    "notifications",
+    "status-page"
+  ],
+  "version": "HEAD-cf222c9-250623T190227",
+  "version_upstream": "v2.6.0",
+  "bsum": "919670442a47c3946f37e81b2d926796e4064bc7cb4e1f74d44a214bfecb30ed",
+  "build_date": "2025-06-24T09:13:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845126427",
+  "build_id": "15845126427",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/statusetat/statusetat?tag=HEAD-cf222c9-250623T190227-x86_64-Linux&download=statusetat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/statusetat/statusetat?tag=HEAD-cf222c9-250623T190227-x86_64-Linux&download=statusetat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orange-cloudfoundry/statusetat/statusetat:HEAD-cf222c9-250623T190227-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orange-cloudfoundry/statusetat/statusetat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/statusetat/statusetat?tag=HEAD-cf222c9-250623T190227-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bed900a58328d579a66d398d25b7059cd4cf40f02fe8d95c6dfdf0f55ae6f3cb",
+  "size": "39 MB",
+  "size_raw": "40808704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
