@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stargztest",
+  "pkg_family": "soci-snapshotter",
+  "pkg_id": "stargztest#github.com_awslabs_soci_snapshotter",
+  "pkg_name": "stargztest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/awslabs/soci-snapshotter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.",
+  "homepage": [
+    "https://github.com/awslabs/soci-snapshotter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "comparisontest",
+    "parser",
+    "performancetest",
+    "stargztest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/awslabs/soci-snapshotter/archive/63e5cf953dd1e5c680d81af21e2702ad84db3314.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-63e5cf9-250623T132624",
+  "version_upstream": "",
+  "bsum": "04d53f02c3ca8e567d807cddbe4fe6f871080fee2a5ec699a5c1fb011c4a7fd1",
+  "build_date": "2025-06-24T07:41:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843565755",
+  "build_id": "15843565755",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/soci-snapshotter/stargztest?tag=HEAD-63e5cf9-250623T132624-x86_64-Linux&download=stargztest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "595",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/soci-snapshotter/stargztest?tag=HEAD-63e5cf9-250623T132624-x86_64-Linux&download=stargztest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/awslabs/soci-snapshotter/stargztest:HEAD-63e5cf9-250623T132624-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/awslabs/soci-snapshotter/stargztest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/soci-snapshotter/stargztest?tag=HEAD-63e5cf9-250623T132624-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "023b790647ff3f6125050a456e8bd55a517e04232ffbb1787a349811def26e87",
+  "size": "24 MB",
+  "size_raw": "25017760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
