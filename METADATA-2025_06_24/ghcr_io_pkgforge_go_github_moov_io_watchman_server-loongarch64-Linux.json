@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "watchman",
+  "pkg_id": "server#github.com_moov_io_watchman",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/moov-io/watchman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AML/CTF/KYC/OFAC Search of global watchlist and sanctions",
+  "homepage": [
+    "https://github.com/moov-io/watchman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "postal-server",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/moov-io/watchman/archive/0e151e6e076a5c9c5c2438e322c7909fbdb864c9.tar.gz"
+  ],
+  "tag": [
+    "aml",
+    "bis",
+    "bis-denied-persons",
+    "cip",
+    "csl",
+    "ctf",
+    "dpl",
+    "hacktoberfest",
+    "kyc",
+    "ofac",
+    "sanction-lists",
+    "sanctions",
+    "sectoral-sanctions-identifications"
+  ],
+  "version": "HEAD-0e151e6-250623T150902",
+  "version_upstream": "v0.53.0",
+  "bsum": "e376e204ba431558f39a68fd135ad785ccb977a3b614798727650ec7436de19d",
+  "build_date": "2025-06-24T08:33:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844823874",
+  "build_id": "15844823874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/watchman/server?tag=HEAD-0e151e6-250623T150902-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/watchman/server?tag=HEAD-0e151e6-250623T150902-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/moov-io/watchman/server:HEAD-0e151e6-250623T150902-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/moov-io/watchman/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/watchman/server?tag=HEAD-0e151e6-250623T150902-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5dbc72d7985a821946555fb912c5868a01b5d63d0aa91ae27447fd0114c132b2",
+  "size": "48 MB",
+  "size_raw": "49598912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
