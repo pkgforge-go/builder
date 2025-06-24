@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "docker",
+  "pkg_family": "newspaper-curation-app",
+  "pkg_id": "docker#github.com_uoregon_libraries_newspaper_curation_app",
+  "pkg_name": "docker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uoregon-libraries/newspaper-curation-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Suite of front- and back-end tools for the curation of digitized newspaper materials",
+  "homepage": [
+    "https://github.com/uoregon-libraries/newspaper-curation-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-test",
+    "bulk-issue-queue",
+    "complete-jobs",
+    "delete-live-done-issues",
+    "docker",
+    "migrate-database",
+    "page-review-issue-fixer",
+    "queue-batches",
+    "remove-dead-issues",
+    "run-jobs",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uoregon-libraries/newspaper-curation-app/archive/4664b248b38d07dc832c8f4120a857f6161b2a8c.tar.gz"
+  ],
+  "tag": [
+    "newspaper-curation",
+    "uolib-odnp"
+  ],
+  "version": "HEAD-4664b24-250624T083515",
+  "version_upstream": "",
+  "bsum": "b8b09dc8a798b9d827299a44c197a944acaea300477b9dfd22160add92cd0c32",
+  "build_date": "2025-06-24T20:09:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859693585",
+  "build_id": "15859693585",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/docker?tag=HEAD-4664b24-250624T083515-aarch64-Linux&download=docker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/docker?tag=HEAD-4664b24-250624T083515-aarch64-Linux&download=docker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/docker:HEAD-4664b24-250624T083515-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/docker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/docker?tag=HEAD-4664b24-250624T083515-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "344eb6f0d3c1c720374f214f50c1a9b9d4fad62cec9ce6608d31028e65bc15aa",
+  "size": "1.9 MB",
+  "size_raw": "1937720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
