@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "serverless-log",
+  "pkg_id": "client#github.com_transparency_dev_serverless_log",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transparency-dev/serverless-log",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Serverless transparency log",
+  "homepage": [
+    "https://github.com/transparency-dev/serverless-log"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "generate_keys",
+    "hammer",
+    "integrate",
+    "sequence"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transparency-dev/serverless-log/archive/a487437fb707180451756fb2865b8929994cf0db.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a487437-250624T123256",
+  "version_upstream": "",
+  "bsum": "19f21b2b51b52d3dac8846373dbe2f96f397061af1311d78be19b87c5575cd38",
+  "build_date": "2025-06-24T20:01:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859641950",
+  "build_id": "15859641950",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/serverless-log/client?tag=HEAD-a487437-250624T123256-riscv64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/serverless-log/client?tag=HEAD-a487437-250624T123256-riscv64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transparency-dev/serverless-log/client:HEAD-a487437-250624T123256-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transparency-dev/serverless-log/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transparency-dev/serverless-log/client?tag=HEAD-a487437-250624T123256-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "636b8eeff9738d763ebefef7c1e45d7232e3ae571a3798268377f8617ba5e28a",
+  "size": "6.1 MB",
+  "size_raw": "6349272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
