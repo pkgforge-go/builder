@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sync",
+  "pkg_family": "trafficcontrol",
+  "pkg_id": "sync#github.com_apache_trafficcontrol",
+  "pkg_name": "sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/trafficcontrol",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Traffic Control is an Open Source implementation of a Content Delivery Network",
+  "homepage": [
+    "https://github.com/apache/trafficcontrol"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "client",
+    "convert_profile",
+    "create",
+    "db",
+    "dnssecrefresh",
+    "fakeorigin",
+    "reencrypt",
+    "server",
+    "simpleserver",
+    "swaggerspec-server",
+    "sync",
+    "testcaches",
+    "testorigin",
+    "trafficcontrol-tools",
+    "update-to-client",
+    "varnish"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/trafficcontrol/archive/eee90c1a3845b8945de4bbbc24bb34432f20bc9d.tar.gz"
+  ],
+  "tag": [
+    "apache",
+    "cdn",
+    "contentdelivery",
+    "hacktoberfest",
+    "trafficcontrol"
+  ],
+  "version": "HEAD-eee90c1-250623T141711",
+  "version_upstream": "",
+  "bsum": "3e576e3b594ec6d5a42cfa2efa0a8626a91caa81812d6d999e1ca1c4d37a3faf",
+  "build_date": "2025-06-24T07:30:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843554900",
+  "build_id": "15843554900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/sync?tag=HEAD-eee90c1-250623T141711-riscv64-Linux&download=sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1140",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/sync?tag=HEAD-eee90c1-250623T141711-riscv64-Linux&download=sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/trafficcontrol/sync:HEAD-eee90c1-250623T141711-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/trafficcontrol/sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/sync?tag=HEAD-eee90c1-250623T141711-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fe860ce539e7eeb27d094d41043f7477e3025a0b2d8b6d2f013d6053989155f",
+  "size": "6.0 MB",
+  "size_raw": "6278808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
