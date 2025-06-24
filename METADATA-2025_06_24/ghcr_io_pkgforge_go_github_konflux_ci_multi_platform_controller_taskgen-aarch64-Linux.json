@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "taskgen",
+  "pkg_family": "multi-platform-controller",
+  "pkg_id": "taskgen#github.com_konflux_ci_multi_platform_controller",
+  "pkg_name": "taskgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/konflux-ci/multi-platform-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A controller to orchestrate building multi architecture images on remote VMs",
+  "homepage": [
+    "https://github.com/konflux-ci/multi-platform-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "otp",
+    "taskgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/konflux-ci/multi-platform-controller/archive/d783ea4f416f1a39bf151245525b80094bef3b82.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d783ea4-250624T134324",
+  "version_upstream": "",
+  "bsum": "d17885d064435bc6f5027bbf954f937dbd878e7d1568a1d6f34423e3ed5d874c",
+  "build_date": "2025-06-24T17:59:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857082464",
+  "build_id": "15857082464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konflux-ci/multi-platform-controller/taskgen?tag=HEAD-d783ea4-250624T134324-aarch64-Linux&download=taskgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konflux-ci/multi-platform-controller/taskgen?tag=HEAD-d783ea4-250624T134324-aarch64-Linux&download=taskgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/konflux-ci/multi-platform-controller/taskgen:HEAD-d783ea4-250624T134324-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/konflux-ci/multi-platform-controller/taskgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konflux-ci/multi-platform-controller/taskgen?tag=HEAD-d783ea4-250624T134324-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a936d3fb5226cf9dcfebefe28eb8187520c24397ee96376f7bc6f921c5485a92",
+  "size": "31 MB",
+  "size_raw": "32099776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "otp",
+  "pkg_family": "multi-platform-controller",
+  "pkg_id": "otp#github.com_konflux_ci_multi_platform_controller",
+  "pkg_name": "otp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/konflux-ci/multi-platform-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A controller to orchestrate building multi architecture images on remote VMs",
+  "homepage": [
+    "https://github.com/konflux-ci/multi-platform-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "otp",
+    "taskgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/konflux-ci/multi-platform-controller/archive/d783ea4f416f1a39bf151245525b80094bef3b82.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d783ea4-250624T134324",
+  "version_upstream": "",
+  "bsum": "21ed9c04f1cfd4b672171c46e8d93ac4598b253d03aba89ee0215d11afedcdf2",
+  "build_date": "2025-06-24T17:59:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857082464",
+  "build_id": "15857082464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konflux-ci/multi-platform-controller/otp?tag=HEAD-d783ea4-250624T134324-aarch64-Linux&download=otp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konflux-ci/multi-platform-controller/otp?tag=HEAD-d783ea4-250624T134324-aarch64-Linux&download=otp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/konflux-ci/multi-platform-controller/otp:HEAD-d783ea4-250624T134324-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/konflux-ci/multi-platform-controller/otp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konflux-ci/multi-platform-controller/otp?tag=HEAD-d783ea4-250624T134324-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ceffe7ee6a0963764e43de6c913e97d5d5c1a443adcb887f2035de1e6883afb2",
+  "size": "9.1 MB",
+  "size_raw": "9503424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
