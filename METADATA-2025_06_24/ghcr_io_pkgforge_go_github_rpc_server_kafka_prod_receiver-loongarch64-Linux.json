@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kafka_prod_receiver",
+  "pkg_family": "pgwatch3_rpc_server",
+  "pkg_id": "kafka_prod_receiver#github.com_destrex271_pgwatch3_rpc_server",
+  "pkg_name": "kafka_prod_receiver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/destrex271/pgwatch3_rpc_server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RPC Server Implementation for pgwatch3",
+  "homepage": [
+    "https://github.com/destrex271/pgwatch3_rpc_server"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clickhouse_receiver",
+    "csv_receiver",
+    "kafka_prod_receiver",
+    "llama_receiver",
+    "parquet_receiver",
+    "pinot_receiver",
+    "s3_receiver",
+    "text_receiver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/destrex271/pgwatch3_rpc_server/archive/fb0ede4b2dcce4a895a2e9c91a112ac01228d708.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fb0ede4-250624T175302",
+  "version_upstream": "",
+  "bsum": "9ae597638ef66280487db1b75838735837f37a42b1a443ef5ef2d479a45e6cab",
+  "build_date": "2025-06-24T17:24:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855853060",
+  "build_id": "15855853060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rpc/server/kafka_prod_receiver?tag=HEAD-fb0ede4-250624T175302-loongarch64-Linux&download=kafka_prod_receiver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rpc/server/kafka_prod_receiver?tag=HEAD-fb0ede4-250624T175302-loongarch64-Linux&download=kafka_prod_receiver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rpc/server/kafka_prod_receiver:HEAD-fb0ede4-250624T175302-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rpc/server/kafka_prod_receiver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rpc/server/kafka_prod_receiver?tag=HEAD-fb0ede4-250624T175302-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37eb05def13ca923d6a4674f501f690517ed70838aee1fe85eba4a0982b211c3",
+  "size": "21 MB",
+  "size_raw": "21036704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
