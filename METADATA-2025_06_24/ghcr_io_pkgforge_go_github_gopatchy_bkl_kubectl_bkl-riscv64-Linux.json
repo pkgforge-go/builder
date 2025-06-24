@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kubectl-bkl",
+  "pkg_family": "bkl",
+  "pkg_id": "kubectl-bkl#github.com_gopatchy_bkl",
+  "pkg_name": "kubectl-bkl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gopatchy/bkl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Layered Configuration Language",
+  "homepage": [
+    "https://github.com/gopatchy/bkl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bkl",
+    "bklb",
+    "bkld",
+    "bkli",
+    "bklr",
+    "kubectl-bkl",
+    "mcp-test-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gopatchy/bkl/archive/7f738c247fe7399d3de66fafc2455bb199805c0a.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "deployment",
+    "devops",
+    "json",
+    "k8s",
+    "kubernetes",
+    "sre",
+    "toml",
+    "yaml"
+  ],
+  "version": "HEAD-7f738c2-250623T203905",
+  "version_upstream": "",
+  "bsum": "5093dfa0b3c2e9547447b05a84b60748f0e85a9eef4ea55f03ce72709d58a76a",
+  "build_date": "2025-06-24T14:33:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851540152",
+  "build_id": "15851540152",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/kubectl-bkl?tag=HEAD-7f738c2-250623T203905-riscv64-Linux&download=kubectl-bkl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/kubectl-bkl?tag=HEAD-7f738c2-250623T203905-riscv64-Linux&download=kubectl-bkl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopatchy/bkl/kubectl-bkl:HEAD-7f738c2-250623T203905-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopatchy/bkl/kubectl-bkl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/kubectl-bkl?tag=HEAD-7f738c2-250623T203905-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7c36392d32a216115971263057fdc917e1899985eba8c1203566413d60da188",
+  "size": "3.3 MB",
+  "size_raw": "3432632",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0d7305b-250620T001905-riscv64-Linux",
+    "HEAD-77a43a1-250621T235940-riscv64-Linux",
+    "HEAD-d01f478-250622T211058-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
