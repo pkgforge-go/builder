@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "overpush",
+  "pkg_family": "overpush",
+  "pkg_id": "overpush#github.com_mrusme_overpush",
+  "pkg_name": "overpush",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mrusme/overpush",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A self-hosted, drop-in replacement for Pushover that can use XMPP, as well as a wide variety of other services as the delivery method while maintaining full compatibility with the Pushover API and also offering a flexible HTTP webhooks endpoint.",
+  "homepage": [
+    "https://github.com/mrusme/overpush"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "overpush"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mrusme/overpush/archive/775717e1bf47637f193d4b6201175f5fe39eea37.tar.gz"
+  ],
+  "tag": [
+    "apprise",
+    "notification-service",
+    "notifications",
+    "pushover",
+    "pushover-api",
+    "pushover-notifications",
+    "webhook",
+    "webhooks",
+    "xmpp",
+    "xmpp-bot"
+  ],
+  "version": "HEAD-775717e-250624T082943",
+  "version_upstream": "",
+  "bsum": "a05dc93277056ec73d2370b30275988a328d7bfe5987aabfd77619151f760329",
+  "build_date": "2025-06-24T18:25:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857278414",
+  "build_id": "15857278414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mrusme/overpush/overpush?tag=HEAD-775717e-250624T082943-loongarch64-Linux&download=overpush.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mrusme/overpush/overpush?tag=HEAD-775717e-250624T082943-loongarch64-Linux&download=overpush",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mrusme/overpush/overpush:HEAD-775717e-250624T082943-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mrusme/overpush/overpush",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mrusme/overpush/overpush?tag=HEAD-775717e-250624T082943-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e8b6e83d155996ca5ab29c5446829939428fc48af2fc7597c09f027aaf494fd",
+  "size": "32 MB",
+  "size_raw": "33117968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
