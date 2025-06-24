@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gosecutil",
+  "pkg_family": "gosec",
+  "pkg_id": "gosecutil#github.com_securego_gosec",
+  "pkg_name": "gosecutil",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/securego/gosec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go security checker",
+  "homepage": [
+    "https://github.com/securego/gosec"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gosec",
+    "gosecutil",
+    "tlsconfig"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/securego/gosec/archive/2d1ed95a0be84f9468a177e96285ab901051819c.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "security",
+    "security-automation",
+    "security-tools",
+    "static-analysis",
+    "static-code-analysis"
+  ],
+  "version": "HEAD-2d1ed95-250623T113500",
+  "version_upstream": "",
+  "bsum": "2eaf0c3ebd6cc8045dbe2cda5de64a33ae96b5bf937b9dc682d028d4f5cc3134",
+  "build_date": "2025-06-24T03:33:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839739207",
+  "build_id": "15839739207",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/securego/gosec/gosecutil?tag=HEAD-2d1ed95-250623T113500-x86_64-Linux&download=gosecutil.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8306",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/securego/gosec/gosecutil?tag=HEAD-2d1ed95-250623T113500-x86_64-Linux&download=gosecutil",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/securego/gosec/gosecutil:HEAD-2d1ed95-250623T113500-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/securego/gosec/gosecutil",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/securego/gosec/gosecutil?tag=HEAD-2d1ed95-250623T113500-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8be0dba74560bb8d74760a82b0bf6ea06f3f4de02e4c27a4b2220dda749530e7",
+  "size": "5.0 MB",
+  "size_raw": "5150656",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4a8cb46-250616T143438-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
