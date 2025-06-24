@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "linstor-csi",
+  "pkg_family": "linstor-csi",
+  "pkg_id": "linstor-csi#github.com_piraeusdatastore_linstor_csi",
+  "pkg_name": "linstor-csi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piraeusdatastore/linstor-csi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CSI plugin for LINSTOR",
+  "homepage": [
+    "https://github.com/piraeusdatastore/linstor-csi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "linstor-csi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/piraeusdatastore/linstor-csi/archive/d9935f613be794cd16d6fe2fe4f10839cc6f2d01.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "kubernetes",
+    "linstor",
+    "persistent-storage",
+    "sds"
+  ],
+  "version": "HEAD-d9935f6-250624T165007",
+  "version_upstream": "v1.8.1",
+  "bsum": "9f8e86eea2ec1815f25b5df0e16fcd70ea1f541d92bf58f20f7c74aabc5c4eba",
+  "build_date": "2025-06-24T18:58:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858153902",
+  "build_id": "15858153902",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/linstor-csi/linstor-csi?tag=HEAD-d9935f6-250624T165007-riscv64-Linux&download=linstor-csi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/linstor-csi/linstor-csi?tag=HEAD-d9935f6-250624T165007-riscv64-Linux&download=linstor-csi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piraeusdatastore/linstor-csi/linstor-csi:HEAD-d9935f6-250624T165007-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piraeusdatastore/linstor-csi/linstor-csi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/linstor-csi/linstor-csi?tag=HEAD-d9935f6-250624T165007-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c0162a4d9f736adc357325b184357220d45d5813c55887617525de1e3377817",
+  "size": "50 MB",
+  "size_raw": "51701208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
