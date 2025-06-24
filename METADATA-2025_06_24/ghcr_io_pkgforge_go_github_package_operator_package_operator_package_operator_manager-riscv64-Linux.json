@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "package-operator-manager",
+  "pkg_family": "package-operator",
+  "pkg_id": "package-operator-manager#github.com_package_operator_package_operator",
+  "pkg_name": "package-operator-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/package-operator/package-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for packaging and managing a collection of arbitrary Kubernetes objects to install software on one or multiple clusters.",
+  "homepage": [
+    "https://github.com/package-operator/package-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "kubectl-package",
+    "package-operator-manager",
+    "package-operator-webhook",
+    "remote-phase-manager",
+    "test-stub"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/package-operator/package-operator/archive/bc1372518088a95d23a8c255c9599d3a033dabe7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bc13725-250624T122951",
+  "version_upstream": "",
+  "bsum": "29438b181970f467cc30706dd3218a79a209ea3fb89119ec565d3497ffba4b31",
+  "build_date": "2025-06-24T18:50:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857564681",
+  "build_id": "15857564681",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/package-operator/package-operator/package-operator-manager?tag=HEAD-bc13725-250624T122951-riscv64-Linux&download=package-operator-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/package-operator/package-operator/package-operator-manager?tag=HEAD-bc13725-250624T122951-riscv64-Linux&download=package-operator-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/package-operator/package-operator/package-operator-manager:HEAD-bc13725-250624T122951-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/package-operator/package-operator/package-operator-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/package-operator/package-operator/package-operator-manager?tag=HEAD-bc13725-250624T122951-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79e6f97cbc4fc5d6a9b5e0adcc870a473622ee7076df180e18e80dcbf3750095",
+  "size": "59 MB",
+  "size_raw": "60966168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
