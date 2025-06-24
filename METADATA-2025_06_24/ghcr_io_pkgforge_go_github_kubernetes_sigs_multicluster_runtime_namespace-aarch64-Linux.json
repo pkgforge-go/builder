@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "namespace",
+  "pkg_family": "multicluster-runtime",
+  "pkg_id": "namespace#github.com_kubernetes_sigs_multicluster_runtime",
+  "pkg_name": "namespace",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/multicluster-runtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Experiment for Multi cluster controllers with controller-runtime",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/multicluster-runtime"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gomodcheck",
+    "namespace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/multicluster-runtime/archive/24b5565d51c47f6f17fc796ae3e5c36f680760f7.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "controller",
+    "controller-runtime",
+    "kcp",
+    "kubernetes",
+    "reconciler"
+  ],
+  "version": "HEAD-24b5565-250624T024428",
+  "version_upstream": "",
+  "bsum": "a07170d8e7a8f4baf07e4629971271f626199f92a56169bed93bab3a30f15c48",
+  "build_date": "2025-06-24T18:04:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857110244",
+  "build_id": "15857110244",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/namespace?tag=HEAD-24b5565-250624T024428-aarch64-Linux&download=namespace.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/namespace?tag=HEAD-24b5565-250624T024428-aarch64-Linux&download=namespace",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/namespace:HEAD-24b5565-250624T024428-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/namespace",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/namespace?tag=HEAD-24b5565-250624T024428-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "305092af6fe5de81440384e8dad2f2dd49db7261862b96df7d7557db0253ffeb",
+  "size": "44 MB",
+  "size_raw": "45597792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
