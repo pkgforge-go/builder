@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "netflow-collector",
+  "pkg_family": "netflow-collector",
+  "pkg_id": "netflow-collector#github.com_rkosegi_netflow_collector",
+  "pkg_name": "netflow-collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rkosegi/netflow-collector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple Netflow V5 exporter for prometheus",
+  "homepage": [
+    "https://github.com/rkosegi/netflow-collector"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "netflow-collector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rkosegi/netflow-collector/archive/8e51650593c8d9c2bcb53ffae85b6af27f631f24.tar.gz"
+  ],
+  "tag": [
+    "netflow-collector",
+    "netflow-v5",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-8e51650-250624T161512",
+  "version_upstream": "",
+  "bsum": "b4aa60eec8103c4d8e917491aab49a222a17ca322ca4455510152d3f64f200e9",
+  "build_date": "2025-06-24T19:23:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858478748",
+  "build_id": "15858478748",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rkosegi/netflow-collector/netflow-collector?tag=HEAD-8e51650-250624T161512-aarch64-Linux&download=netflow-collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rkosegi/netflow-collector/netflow-collector?tag=HEAD-8e51650-250624T161512-aarch64-Linux&download=netflow-collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rkosegi/netflow-collector/netflow-collector:HEAD-8e51650-250624T161512-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rkosegi/netflow-collector/netflow-collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rkosegi/netflow-collector/netflow-collector?tag=HEAD-8e51650-250624T161512-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7a5d661644a6f0ac77d314e7822bfb5930cedf1934d4e0fe9f19b9615724a16",
+  "size": "13 MB",
+  "size_raw": "12761984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
