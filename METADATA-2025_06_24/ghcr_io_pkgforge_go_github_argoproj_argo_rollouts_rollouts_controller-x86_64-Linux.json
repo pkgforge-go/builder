@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rollouts-controller",
+  "pkg_family": "argo-rollouts",
+  "pkg_id": "rollouts-controller#github.com_argoproj_argo_rollouts",
+  "pkg_name": "rollouts-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-rollouts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Progressive Delivery for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-rollouts"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-crd-spec",
+    "gen-docs",
+    "kubectl-argo-rollouts",
+    "metrics-plugin-sample",
+    "rollouts-controller",
+    "step-plugin-e2e",
+    "step-plugin-sample",
+    "trafficrouter-plugin-sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-rollouts/archive/e2cdaf5f11d4974f5abd9ff73cb84e7e521efc7d.tar.gz"
+  ],
+  "tag": [
+    "argo-rollouts",
+    "argoproj",
+    "bluegreen",
+    "canary",
+    "deployments",
+    "experiments",
+    "gitops",
+    "hacktoberfest",
+    "kubernetes",
+    "progressive-delivery"
+  ],
+  "version": "HEAD-e2cdaf5-250623T131126",
+  "version_upstream": "",
+  "bsum": "9f1f91b7931f9ca01298c7d04df76c668a809e32fe885ee7dc14acb133e948c2",
+  "build_date": "2025-06-24T07:41:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843560533",
+  "build_id": "15843560533",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/rollouts-controller?tag=HEAD-e2cdaf5-250623T131126-x86_64-Linux&download=rollouts-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3060",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/rollouts-controller?tag=HEAD-e2cdaf5-250623T131126-x86_64-Linux&download=rollouts-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/rollouts-controller:HEAD-e2cdaf5-250623T131126-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/rollouts-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/rollouts-controller?tag=HEAD-e2cdaf5-250623T131126-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d3b2a9c2ec00754144bddc840b0f36113918e228911f31aea05aa8a793da3b9",
+  "size": "119 MB",
+  "size_raw": "124716416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
