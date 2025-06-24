@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "netcat",
+  "pkg_family": "zinc",
+  "pkg_id": "netcat#github.com_zincium_zinc",
+  "pkg_name": "netcat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zincium/zinc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The whims and realizations of Git hosting services",
+  "homepage": [
+    "https://github.com/zincium/zinc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balance-update",
+    "h3",
+    "netcat",
+    "post-receive",
+    "pre-receive",
+    "silver-sshd",
+    "update",
+    "zinc",
+    "zinc-balanced",
+    "zinc-sshd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zincium/zinc/archive/77909b81dfc4b4c284f7b572769d6c58cc2e259a.tar.gz"
+  ],
+  "tag": [
+    "git"
+  ],
+  "version": "HEAD-77909b8-250624T203255",
+  "version_upstream": "",
+  "bsum": "19c0a1bf01d3a5e707b9752d8603adb34ebb7483b18c66430574bd0846d749ec",
+  "build_date": "2025-06-24T20:23:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859761154",
+  "build_id": "15859761154",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/netcat?tag=HEAD-77909b8-250624T203255-riscv64-Linux&download=netcat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/netcat?tag=HEAD-77909b8-250624T203255-riscv64-Linux&download=netcat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zincium/zinc/netcat:HEAD-77909b8-250624T203255-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zincium/zinc/netcat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/netcat?tag=HEAD-77909b8-250624T203255-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "986880ac67df05b167eb424134f6a8cfe0e6afaf171b81abdfab63cad1b713d2",
+  "size": "5.7 MB",
+  "size_raw": "5945784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
