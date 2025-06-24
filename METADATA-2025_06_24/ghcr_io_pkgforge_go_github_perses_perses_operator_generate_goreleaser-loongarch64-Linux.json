@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate-goreleaser",
+  "pkg_family": "perses-operator",
+  "pkg_id": "generate-goreleaser#github.com_perses_perses_operator",
+  "pkg_name": "generate-goreleaser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perses/perses-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Perses Operator - Manage Perses on Kubernetes - Deploy dashboard as CR",
+  "homepage": [
+    "https://github.com/perses/perses-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-changelog",
+    "generate-goreleaser",
+    "perses-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/perses/perses-operator/archive/3631d460b7cc94681f90d2ad2e948ec488ebdb5b.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "perses"
+  ],
+  "version": "HEAD-3631d46-250624T101407",
+  "version_upstream": "",
+  "bsum": "71c7cef0405a00f47ccf158dcc8f9dd6354650ed5c0e62f406280beac2fc856a",
+  "build_date": "2025-06-24T18:53:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857711516",
+  "build_id": "15857711516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/perses-operator/generate-goreleaser?tag=HEAD-3631d46-250624T101407-loongarch64-Linux&download=generate-goreleaser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/perses-operator/generate-goreleaser?tag=HEAD-3631d46-250624T101407-loongarch64-Linux&download=generate-goreleaser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perses/perses-operator/generate-goreleaser:HEAD-3631d46-250624T101407-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perses/perses-operator/generate-goreleaser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/perses-operator/generate-goreleaser?tag=HEAD-3631d46-250624T101407-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2639f562f6ce1e28b6c9708a7986ce5472847ea8b4cd128f1e8aa1f41f9ef576",
+  "size": "8.4 MB",
+  "size_raw": "8744352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
