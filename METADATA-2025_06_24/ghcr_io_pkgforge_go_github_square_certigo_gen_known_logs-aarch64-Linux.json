@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gen-known-logs",
+  "pkg_family": "certigo",
+  "pkg_id": "gen-known-logs#github.com_square_certigo",
+  "pkg_name": "gen-known-logs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/square/certigo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to examine and validate certificates in a variety of formats",
+  "homepage": [
+    "https://github.com/square/certigo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certigo",
+    "gen-known-logs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/square/certigo/archive/ba52fa48621ea4498fab5facdc49282a7025cec6.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "cli",
+    "command-line-app",
+    "crypto",
+    "jceks",
+    "keystore",
+    "pem",
+    "pkcs12",
+    "pkcs7",
+    "ssl",
+    "tls",
+    "x509"
+  ],
+  "version": "HEAD-ba52fa4-250623T174546",
+  "version_upstream": "",
+  "bsum": "dd0564d0b6a8977aa7461f593b987878b2d5e779f010750c9d7f18efc243e4bc",
+  "build_date": "2025-06-24T09:38:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846026893",
+  "build_id": "15846026893",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certigo/gen-known-logs?tag=HEAD-ba52fa4-250623T174546-aarch64-Linux&download=gen-known-logs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "978",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certigo/gen-known-logs?tag=HEAD-ba52fa4-250623T174546-aarch64-Linux&download=gen-known-logs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/square/certigo/gen-known-logs:HEAD-ba52fa4-250623T174546-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/square/certigo/gen-known-logs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certigo/gen-known-logs?tag=HEAD-ba52fa4-250623T174546-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2fde501abfd7062dd3fc3434fc7b14442c2ffb78404ce2b6200e54aefeff9bf4",
+  "size": "5.9 MB",
+  "size_raw": "6103008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
