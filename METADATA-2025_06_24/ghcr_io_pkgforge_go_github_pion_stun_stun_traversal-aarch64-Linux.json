@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stun-traversal",
+  "pkg_family": "stun",
+  "pkg_id": "stun-traversal#github.com_pion_stun",
+  "pkg_name": "stun-traversal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pion/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of STUN",
+  "homepage": [
+    "https://github.com/pion/stun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-nat-behaviour",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pion/stun/archive/496c3ef28b7552b7f68337281065fe0471e5b057.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "ice",
+    "networking",
+    "peer-to-peer",
+    "pion",
+    "sip",
+    "streaming",
+    "stun",
+    "voip",
+    "webrtc"
+  ],
+  "version": "HEAD-496c3ef-250623T083136",
+  "version_upstream": "",
+  "bsum": "4f8d1e7ad4bc6f9c9d048614e74e4d26ade4d4850914a0a9584ca616b0156070",
+  "build_date": "2025-06-24T03:26:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839640895",
+  "build_id": "15839640895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-traversal?tag=HEAD-496c3ef-250623T083136-aarch64-Linux&download=stun-traversal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "735",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-traversal?tag=HEAD-496c3ef-250623T083136-aarch64-Linux&download=stun-traversal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pion/stun/stun-traversal:HEAD-496c3ef-250623T083136-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pion/stun/stun-traversal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-traversal?tag=HEAD-496c3ef-250623T083136-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9794e99c5e97349d449e53c6f53d1e8a01b784af7857f777f41e6c5294223e8d",
+  "size": "3.2 MB",
+  "size_raw": "3278240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ab7d8d3-250618T074526-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
