@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "v1",
+  "pkg_family": "velero",
+  "pkg_id": "v1#github.com_vmware_tanzu_velero",
+  "pkg_name": "v1",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware-tanzu/velero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+  "homepage": [
+    "https://github.com/vmware-tanzu/velero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "issue-template-gen",
+    "release-tools",
+    "v1",
+    "velero",
+    "velero-helper",
+    "velero-restore-helper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware-tanzu/velero/archive/95cd0a184a63a4df00b279dcb2c7e77f09942c6a.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "disaster-recovery",
+    "hacktoberfest",
+    "kubernetes",
+    "velero"
+  ],
+  "version": "HEAD-95cd0a1-250624T113349",
+  "version_upstream": "",
+  "bsum": "e182e2645c5dc4fd41390e2c3759a658bb94a2b707dfa184c057aeb84424942f",
+  "build_date": "2025-06-24T10:13:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847425768",
+  "build_id": "15847425768",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/velero/v1?tag=HEAD-95cd0a1-250624T113349-aarch64-Linux&download=v1.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9259",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/velero/v1?tag=HEAD-95cd0a1-250624T113349-aarch64-Linux&download=v1",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware-tanzu/velero/v1:HEAD-95cd0a1-250624T113349-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware-tanzu/velero/v1",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/velero/v1?tag=HEAD-95cd0a1-250624T113349-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b0d0cd7a5f2e0816566cfa45e1adab740742f99380c7944275bd5a7bd9677911",
+  "size": "2.9 MB",
+  "size_raw": "2987992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
