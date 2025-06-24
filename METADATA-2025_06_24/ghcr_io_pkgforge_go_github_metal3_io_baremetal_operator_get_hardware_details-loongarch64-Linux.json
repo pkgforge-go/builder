@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "get-hardware-details",
+  "pkg_family": "baremetal-operator",
+  "pkg_id": "get-hardware-details#github.com_metal3_io_baremetal_operator",
+  "pkg_name": "get-hardware-details",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metal3-io/baremetal-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bare metal host provisioning integration for Kubernetes",
+  "homepage": [
+    "https://github.com/metal3-io/baremetal-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "baremetal-operator",
+    "get-hardware-details",
+    "make-bm-worker",
+    "make-virt-host"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metal3-io/baremetal-operator/archive/e50cc48e5263b5fa49ca8f47d29eb603cbdb0502.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e50cc48-250623T224852",
+  "version_upstream": "",
+  "bsum": "17d7bce90c4510482403b2ac28171a0077198c73d50b799bfd322b3e62ef681f",
+  "build_date": "2025-06-24T08:55:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844779113",
+  "build_id": "15844779113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal3-io/baremetal-operator/get-hardware-details?tag=HEAD-e50cc48-250623T224852-loongarch64-Linux&download=get-hardware-details.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "656",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal3-io/baremetal-operator/get-hardware-details?tag=HEAD-e50cc48-250623T224852-loongarch64-Linux&download=get-hardware-details",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metal3-io/baremetal-operator/get-hardware-details:HEAD-e50cc48-250623T224852-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metal3-io/baremetal-operator/get-hardware-details",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal3-io/baremetal-operator/get-hardware-details?tag=HEAD-e50cc48-250623T224852-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d47358b2ace16f639070e01d99f2c9bf00b53cb663ce8f758eaedd92d79554bd",
+  "size": "11 MB",
+  "size_raw": "10654656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
