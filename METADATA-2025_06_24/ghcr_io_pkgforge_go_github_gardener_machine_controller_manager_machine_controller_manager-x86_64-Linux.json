@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "machine-controller-manager",
+  "pkg_family": "machine-controller-manager",
+  "pkg_id": "machine-controller-manager#github.com_gardener_machine_controller_manager",
+  "pkg_name": "machine-controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/machine-controller-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Declarative way of managing machines for Kubernetes cluster",
+  "homepage": [
+    "https://github.com/gardener/machine-controller-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "machine-controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/machine-controller-manager/archive/0607d52499983487c863787cadaed69e29ce49bb.tar.gz"
+  ],
+  "tag": [
+    "alicloud",
+    "aws",
+    "azure",
+    "cluster-autoscaler",
+    "gardener",
+    "gcp",
+    "kubernetes",
+    "openstack",
+    "packet"
+  ],
+  "version": "HEAD-0607d52-250624T140215",
+  "version_upstream": "",
+  "bsum": "6217be0c94303fe95efaff56bacee35c5c8ad70ed0d789a9ec109a50cabac7fa",
+  "build_date": "2025-06-24T17:33:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856343549",
+  "build_id": "15856343549",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/machine-controller-manager/machine-controller-manager?tag=HEAD-0607d52-250624T140215-x86_64-Linux&download=machine-controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "273",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/machine-controller-manager/machine-controller-manager?tag=HEAD-0607d52-250624T140215-x86_64-Linux&download=machine-controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/machine-controller-manager/machine-controller-manager:HEAD-0607d52-250624T140215-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/machine-controller-manager/machine-controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/machine-controller-manager/machine-controller-manager?tag=HEAD-0607d52-250624T140215-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "398829afe5166cfe5a4d32936cc6433372fe6decd869bef8a280829f9c286c85",
+  "size": "51 MB",
+  "size_raw": "53359936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
