@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "synthetic-monitoring-proto",
+  "pkg_family": "synthetic-monitoring-agent",
+  "pkg_id": "synthetic-monitoring-proto#github.com_grafana_synthetic_monitoring_agent",
+  "pkg_name": "synthetic-monitoring-proto",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/synthetic-monitoring-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Synthetic Monitoring agent",
+  "homepage": [
+    "https://github.com/grafana/synthetic-monitoring-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "synthetic-monitoring-agent",
+    "synthetic-monitoring-proto",
+    "test-api",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/synthetic-monitoring-agent/archive/965f4cf2fc6509dbbba91013f7dc7496a4bfa5e5.tar.gz"
+  ],
+  "tag": [
+    "blackbox-exporter",
+    "golang",
+    "grafana",
+    "grafana-synthetic-monitoring",
+    "hacktoberfest",
+    "k6",
+    "monitoring",
+    "prometheus",
+    "synthetic-monitoring"
+  ],
+  "version": "HEAD-965f4cf-250624T082111",
+  "version_upstream": "v0.38.1",
+  "bsum": "f535c6bcc3e3879eec40df397fee596cdbd11072c729098918bdb24a491d66cc",
+  "build_date": "2025-06-24T17:38:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856865747",
+  "build_id": "15856865747",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/synthetic-monitoring-agent/synthetic-monitoring-proto?tag=HEAD-965f4cf-250624T082111-loongarch64-Linux&download=synthetic-monitoring-proto.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "184",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/synthetic-monitoring-agent/synthetic-monitoring-proto?tag=HEAD-965f4cf-250624T082111-loongarch64-Linux&download=synthetic-monitoring-proto",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/synthetic-monitoring-agent/synthetic-monitoring-proto:HEAD-965f4cf-250624T082111-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/synthetic-monitoring-agent/synthetic-monitoring-proto",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/synthetic-monitoring-agent/synthetic-monitoring-proto?tag=HEAD-965f4cf-250624T082111-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "986c5a76c6d9b904d7ec95a538d836db33dfe238053914b9debb85866e62248f",
+  "size": "12 MB",
+  "size_raw": "12494560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
