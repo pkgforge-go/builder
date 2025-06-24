@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "frandread",
+  "pkg_family": "aistore",
+  "pkg_id": "frandread#github.com_NVIDIA_aistore",
+  "pkg_name": "frandread",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/aistore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AIStore: scalable storage for AI applications",
+  "homepage": [
+    "https://github.com/NVIDIA/aistore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aisinit",
+    "compare",
+    "frandread",
+    "hrw",
+    "map"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/aistore/archive/0affbd75430d5bc15d9d4eb6858c2fb1cbd9c9f1.tar.gz"
+  ],
+  "tag": [
+    "batch-jobs",
+    "distributed-shuffle",
+    "erasure-coding",
+    "etl-offload",
+    "kubernetes",
+    "linear-scalability",
+    "multiple-backends",
+    "network-of-clusters",
+    "object-storage",
+    "sds",
+    "software-defined"
+  ],
+  "version": "HEAD-0affbd7-250623T132449",
+  "version_upstream": "",
+  "bsum": "025774e004175b09b17aa8cf9c4fd0023a202360108036e624d6dd35b5b33bc7",
+  "build_date": "2025-06-24T13:18:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851338628",
+  "build_id": "15851338628",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/frandread?tag=HEAD-0affbd7-250623T132449-loongarch64-Linux&download=frandread.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1533",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/frandread?tag=HEAD-0affbd7-250623T132449-loongarch64-Linux&download=frandread",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/aistore/frandread:HEAD-0affbd7-250623T132449-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/aistore/frandread",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/frandread?tag=HEAD-0affbd7-250623T132449-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21494d392f52ed8dd1513e5a01ef52baa71e8de6cdb04e431e5ea8d87181ecf2",
+  "size": "4.2 MB",
+  "size_raw": "4395488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e423d65-250618T185547-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
