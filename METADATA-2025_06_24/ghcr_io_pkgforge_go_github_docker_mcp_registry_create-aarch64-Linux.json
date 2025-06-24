@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "create",
+  "pkg_family": "mcp-registry",
+  "pkg_id": "create#github.com_docker_mcp_registry",
+  "pkg_name": "create",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/mcp-registry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Official Docker MCP registry",
+  "homepage": [
+    "https://github.com/docker/mcp-registry"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "catalog",
+    "create"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docker/mcp-registry/archive/01e8369c759cf2d84eaac22fb8bbb7f6062b82f5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-01e8369-250624T141913",
+  "version_upstream": "",
+  "bsum": "0d22fa48b66d7f5fcd6fce851608db447d0c04513361b5ddbc477e3a0307800a",
+  "build_date": "2025-06-24T17:22:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855861417",
+  "build_id": "15855861417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-registry/create?tag=HEAD-01e8369-250624T141913-aarch64-Linux&download=create.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-registry/create?tag=HEAD-01e8369-250624T141913-aarch64-Linux&download=create",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/mcp-registry/create:HEAD-01e8369-250624T141913-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/mcp-registry/create",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-registry/create?tag=HEAD-01e8369-250624T141913-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "017fb8f22eec67a10e93b57b2e5253386210fbfdff8041a52baa35a9119010a1",
+  "size": "7.3 MB",
+  "size_raw": "7645344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
