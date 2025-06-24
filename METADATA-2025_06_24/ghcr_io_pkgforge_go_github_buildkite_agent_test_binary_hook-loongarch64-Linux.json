@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test-binary-hook",
+  "pkg_family": "agent",
+  "pkg_id": "test-binary-hook#github.com_buildkite_agent",
+  "pkg_name": "test-binary-hook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buildkite/agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network",
+  "homepage": [
+    "https://github.com/buildkite/agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "hook",
+    "test-binary-hook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buildkite/agent/archive/bad20152da558277faa5628742f70972c60d29bf.tar.gz"
+  ],
+  "tag": [
+    "buildkite",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "docker",
+    "go",
+    "llamas"
+  ],
+  "version": "HEAD-bad2015-250624T124354",
+  "version_upstream": "",
+  "bsum": "aee7d3876f460ef553467706cad51410f5487f84792f32636a0ae68240d02b16",
+  "build_date": "2025-06-24T13:30:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851344678",
+  "build_id": "15851344678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/test-binary-hook?tag=HEAD-bad2015-250624T124354-loongarch64-Linux&download=test-binary-hook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "851",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/test-binary-hook?tag=HEAD-bad2015-250624T124354-loongarch64-Linux&download=test-binary-hook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildkite/agent/test-binary-hook:HEAD-bad2015-250624T124354-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildkite/agent/test-binary-hook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/test-binary-hook?tag=HEAD-bad2015-250624T124354-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8161305c992e45668810686099d2dfb66fe74130e229222b9e538fb7c100792c",
+  "size": "25 MB",
+  "size_raw": "25488288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6813364-250619T172052-loongarch64-Linux",
+    "HEAD-8792019-250620T170018-loongarch64-Linux",
+    "HEAD-aa94a00-250623T112622-loongarch64-Linux[v3.100.0]"
+  ],
+  "trusted": "true"
+}
