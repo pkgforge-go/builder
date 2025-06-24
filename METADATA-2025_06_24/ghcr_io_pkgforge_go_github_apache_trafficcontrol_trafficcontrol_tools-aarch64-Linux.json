@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "trafficcontrol-tools",
+  "pkg_family": "trafficcontrol",
+  "pkg_id": "trafficcontrol-tools#github.com_apache_trafficcontrol",
+  "pkg_name": "trafficcontrol-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/trafficcontrol",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Traffic Control is an Open Source implementation of a Content Delivery Network",
+  "homepage": [
+    "https://github.com/apache/trafficcontrol"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "client",
+    "convert_profile",
+    "create",
+    "db",
+    "dnssecrefresh",
+    "fakeorigin",
+    "reencrypt",
+    "server",
+    "simpleserver",
+    "swaggerspec-server",
+    "sync",
+    "testcaches",
+    "testorigin",
+    "trafficcontrol-tools",
+    "update-to-client",
+    "varnish"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/trafficcontrol/archive/eee90c1a3845b8945de4bbbc24bb34432f20bc9d.tar.gz"
+  ],
+  "tag": [
+    "apache",
+    "cdn",
+    "contentdelivery",
+    "hacktoberfest",
+    "trafficcontrol"
+  ],
+  "version": "HEAD-eee90c1-250623T141711",
+  "version_upstream": "",
+  "bsum": "0d0f7b208f1f0a1468ad338afa9e725889febe0d28faeac6848f4436c2302035",
+  "build_date": "2025-06-24T07:30:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843554900",
+  "build_id": "15843554900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/trafficcontrol-tools?tag=HEAD-eee90c1-250623T141711-aarch64-Linux&download=trafficcontrol-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1140",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/trafficcontrol-tools?tag=HEAD-eee90c1-250623T141711-aarch64-Linux&download=trafficcontrol-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/trafficcontrol/trafficcontrol-tools:HEAD-eee90c1-250623T141711-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/trafficcontrol/trafficcontrol-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/trafficcontrol-tools?tag=HEAD-eee90c1-250623T141711-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "336405e9e0f8eab79582ada5733fa1d5e58b0a525aad167a554890ee3b63d583",
+  "size": "6.9 MB",
+  "size_raw": "7173088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

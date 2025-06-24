@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "reencrypt",
+  "pkg_family": "trafficcontrol",
+  "pkg_id": "reencrypt#github.com_apache_trafficcontrol",
+  "pkg_name": "reencrypt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/trafficcontrol",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Traffic Control is an Open Source implementation of a Content Delivery Network",
+  "homepage": [
+    "https://github.com/apache/trafficcontrol"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "client",
+    "convert_profile",
+    "create",
+    "db",
+    "dnssecrefresh",
+    "fakeorigin",
+    "reencrypt",
+    "server",
+    "simpleserver",
+    "swaggerspec-server",
+    "sync",
+    "testcaches",
+    "testorigin",
+    "trafficcontrol-tools",
+    "update-to-client",
+    "varnish"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/trafficcontrol/archive/eee90c1a3845b8945de4bbbc24bb34432f20bc9d.tar.gz"
+  ],
+  "tag": [
+    "apache",
+    "cdn",
+    "contentdelivery",
+    "hacktoberfest",
+    "trafficcontrol"
+  ],
+  "version": "HEAD-eee90c1-250623T141711",
+  "version_upstream": "",
+  "bsum": "e3a581d73220928bd0c2c5e27ad4846ed87496ed0d83113a8995e57a5642f7bb",
+  "build_date": "2025-06-24T07:29:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843554900",
+  "build_id": "15843554900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/reencrypt?tag=HEAD-eee90c1-250623T141711-aarch64-Linux&download=reencrypt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1140",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/reencrypt?tag=HEAD-eee90c1-250623T141711-aarch64-Linux&download=reencrypt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/trafficcontrol/reencrypt:HEAD-eee90c1-250623T141711-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/trafficcontrol/reencrypt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/trafficcontrol/reencrypt?tag=HEAD-eee90c1-250623T141711-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0110641efe6f6f28fea03c2daaeb5e260ae51ff0a500741c0c2d7cb28339c34",
+  "size": "6.0 MB",
+  "size_raw": "6189728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
