@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "doc-gen",
+  "pkg_family": "fluent-operator",
+  "pkg_id": "doc-gen#github.com_fluent_fluent_operator",
+  "pkg_name": "doc-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fluent/fluent-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator",
+  "homepage": [
+    "https://github.com/fluent/fluent-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc-gen",
+    "fluent-manager",
+    "fluentbit",
+    "fluentd",
+    "forwarding-logs-via-http"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fluent/fluent-operator/archive/59ac9ea36308bbb383af6f811a15709269501a17.tar.gz"
+  ],
+  "tag": [
+    "fluentbit",
+    "fluentd",
+    "kubernetes",
+    "kubesphere",
+    "logging",
+    "operator"
+  ],
+  "version": "HEAD-59ac9ea-250618T113904",
+  "version_upstream": "",
+  "bsum": "3382e3f4080e79506cb6ed504cf9a5b84b49e7f32fd6e16fd8a7114eac3c4a2a",
+  "build_date": "2025-06-24T08:07:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843894331",
+  "build_id": "15843894331",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/doc-gen?tag=HEAD-59ac9ea-250618T113904-x86_64-Linux&download=doc-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "626",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/doc-gen?tag=HEAD-59ac9ea-250618T113904-x86_64-Linux&download=doc-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fluent/fluent-operator/doc-gen:HEAD-59ac9ea-250618T113904-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fluent/fluent-operator/doc-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/doc-gen?tag=HEAD-59ac9ea-250618T113904-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "644f8b3d6d9da5dd9a609dd2ee5998bdf085bb4524a79309d670514af8241306",
+  "size": "2.6 MB",
+  "size_raw": "2690392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

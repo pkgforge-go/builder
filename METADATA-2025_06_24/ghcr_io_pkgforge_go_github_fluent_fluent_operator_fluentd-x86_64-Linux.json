@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fluentd",
+  "pkg_family": "fluent-operator",
+  "pkg_id": "fluentd#github.com_fluent_fluent_operator",
+  "pkg_name": "fluentd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fluent/fluent-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator",
+  "homepage": [
+    "https://github.com/fluent/fluent-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc-gen",
+    "fluent-manager",
+    "fluentbit",
+    "fluentd",
+    "forwarding-logs-via-http"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fluent/fluent-operator/archive/59ac9ea36308bbb383af6f811a15709269501a17.tar.gz"
+  ],
+  "tag": [
+    "fluentbit",
+    "fluentd",
+    "kubernetes",
+    "kubesphere",
+    "logging",
+    "operator"
+  ],
+  "version": "HEAD-59ac9ea-250618T113904",
+  "version_upstream": "",
+  "bsum": "739f3b3a5a125eac6844f00a338e00442c42d988d569d0323702cd4418c6afc8",
+  "build_date": "2025-06-24T08:08:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843894331",
+  "build_id": "15843894331",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/fluentd?tag=HEAD-59ac9ea-250618T113904-x86_64-Linux&download=fluentd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "626",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/fluentd?tag=HEAD-59ac9ea-250618T113904-x86_64-Linux&download=fluentd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fluent/fluent-operator/fluentd:HEAD-59ac9ea-250618T113904-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fluent/fluent-operator/fluentd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/fluentd?tag=HEAD-59ac9ea-250618T113904-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a1228eb5ff22a272ca5ea87079079cf4dab545226b6a8f9a611f5895297c930",
+  "size": "2.5 MB",
+  "size_raw": "2548184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
