@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "algorand-indexer",
+  "pkg_family": "indexer",
+  "pkg_id": "algorand-indexer#github.com_algorand_indexer",
+  "pkg_name": "algorand-indexer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/indexer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "searchable history and current state",
+  "homepage": [
+    "https://github.com/algorand/indexer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "algorand-indexer",
+    "e2equeries",
+    "idbtest",
+    "misc",
+    "texttosource",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/algorand/indexer/archive/29afdc2c4aa543c19f8cac0937e4356174ad2452.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-29afdc2-250624T104431",
+  "version_upstream": "",
+  "bsum": "ab0b550b0a27a86d9b2d467f93d695cbb4b41940a8ed4b5822d9b375921745a5",
+  "build_date": "2025-06-24T16:47:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855684958",
+  "build_id": "15855684958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/algorand-indexer?tag=HEAD-29afdc2-250624T104431-riscv64-Linux&download=algorand-indexer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/algorand-indexer?tag=HEAD-29afdc2-250624T104431-riscv64-Linux&download=algorand-indexer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/indexer/algorand-indexer:HEAD-29afdc2-250624T104431-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/indexer/algorand-indexer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/algorand-indexer?tag=HEAD-29afdc2-250624T104431-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ea563a1c1a609991887a91558565d59f2cebc2853dbe4f86ecfbd5db31213f6",
+  "size": "21 MB",
+  "size_raw": "21488152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
