@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "healthcheck",
+  "pkg_family": "aws-otel-collector",
+  "pkg_id": "healthcheck#github.com_aws_observability_aws_otel_collector",
+  "pkg_name": "healthcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws-observability/aws-otel-collector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AWS Distro for OpenTelemetry Collector _see ADOT Roadmap at https://github.com/orgs/aws-observability/projects/4_",
+  "homepage": [
+    "https://github.com/aws-observability/aws-otel-collector"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "awscollector",
+    "healthcheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws-observability/aws-otel-collector/archive/da33050ac4398c4b341d0d08bbfe910d48a53bf9.tar.gz"
+  ],
+  "tag": [
+    "observability",
+    "opensource",
+    "opentelemetry",
+    "opentelemetry-collector"
+  ],
+  "version": "HEAD-da33050-250623T125131",
+  "version_upstream": "",
+  "bsum": "50bf82693c8f707a877c8c18230ee46adce808c90c5df9a0452a715a03d571ff",
+  "build_date": "2025-06-24T07:38:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843563100",
+  "build_id": "15843563100",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws-observability/aws-otel-collector/healthcheck?tag=HEAD-da33050-250623T125131-aarch64-Linux&download=healthcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "656",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws-observability/aws-otel-collector/healthcheck?tag=HEAD-da33050-250623T125131-aarch64-Linux&download=healthcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws-observability/aws-otel-collector/healthcheck:HEAD-da33050-250623T125131-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws-observability/aws-otel-collector/healthcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws-observability/aws-otel-collector/healthcheck?tag=HEAD-da33050-250623T125131-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e835b9e5c16ccfe0a91756f0d664e778f7b08e891232e16e6e05665e409c9df6",
+  "size": "5.6 MB",
+  "size_raw": "5825344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
