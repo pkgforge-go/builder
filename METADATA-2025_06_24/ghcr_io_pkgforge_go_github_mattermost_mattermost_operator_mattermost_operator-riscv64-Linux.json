@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mattermost-operator",
+  "pkg_family": "mattermost-operator",
+  "pkg_id": "mattermost-operator#github.com_mattermost_mattermost_operator",
+  "pkg_name": "mattermost-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mattermost/mattermost-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mattermost Operator for Kubernetes",
+  "homepage": [
+    "https://github.com/mattermost/mattermost-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mattermost-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mattermost/mattermost-operator/archive/030800a24754dc3f0cf0ef4d5b5dfb5446b6bd63.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "mattermost"
+  ],
+  "version": "HEAD-030800a-250623T150055",
+  "version_upstream": "",
+  "bsum": "bf418ce854307ecc0c8ac7393276b26771bbe553dc6688724fe60f5c4fb3bb71",
+  "build_date": "2025-06-24T08:54:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844765916",
+  "build_id": "15844765916",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattermost/mattermost-operator/mattermost-operator?tag=HEAD-030800a-250623T150055-riscv64-Linux&download=mattermost-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "123",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattermost/mattermost-operator/mattermost-operator?tag=HEAD-030800a-250623T150055-riscv64-Linux&download=mattermost-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mattermost/mattermost-operator/mattermost-operator:HEAD-030800a-250623T150055-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mattermost/mattermost-operator/mattermost-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattermost/mattermost-operator/mattermost-operator?tag=HEAD-030800a-250623T150055-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4b7c0b6335846ca769385592334752156d23ce981110d1adb53ed7719c84152",
+  "size": "43 MB",
+  "size_raw": "44410808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
