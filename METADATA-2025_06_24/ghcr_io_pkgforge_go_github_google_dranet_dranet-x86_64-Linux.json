@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dranet",
+  "pkg_family": "dranet",
+  "pkg_id": "dranet#github.com_google_dranet",
+  "pkg_name": "dranet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/dranet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DraNet is a Kubernetes Network Driver that uses Dynamic Resource Allocation _DRA_ to deliver high-performance networking for demanding applications in Kubernetes.",
+  "homepage": [
+    "https://github.com/google/dranet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dranet",
+    "dranetctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/google/dranet/archive/66de5dddfa34a59416321f174398263a7566c182.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "dra",
+    "kubernetes",
+    "networking",
+    "performance"
+  ],
+  "version": "HEAD-66de5dd-250624T104409",
+  "version_upstream": "",
+  "bsum": "864961eb3a4da7fe9cd54e1bc154662cb678e3c92ee738630884a11cb2743a11",
+  "build_date": "2025-06-24T22:58:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862329337",
+  "build_id": "15862329337",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranet?tag=HEAD-66de5dd-250624T104409-x86_64-Linux&download=dranet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "85",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranet?tag=HEAD-66de5dd-250624T104409-x86_64-Linux&download=dranet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/dranet/dranet:HEAD-66de5dd-250624T104409-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/dranet/dranet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranet?tag=HEAD-66de5dd-250624T104409-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab8d736b7b92db3ec1e8f55269e30d51506394a975b0416b4289a7be186fc581",
+  "size": "64 MB",
+  "size_raw": "66407968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-43d5657-250623T150607-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
