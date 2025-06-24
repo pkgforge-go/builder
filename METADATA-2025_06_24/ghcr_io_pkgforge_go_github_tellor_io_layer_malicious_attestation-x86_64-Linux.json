@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "malicious-attestation",
+  "pkg_family": "layer",
+  "pkg_id": "malicious-attestation#github.com_tellor_io_layer",
+  "pkg_name": "malicious-attestation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tellor-io/layer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tellor chain - a cosmos sdk chain for reporting and validating arbitrary data",
+  "homepage": [
+    "https://github.com/tellor-io/layer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "layerd",
+    "malicious-attestation",
+    "malicious-valset",
+    "monitors",
+    "setup",
+    "spam-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tellor-io/layer/archive/ac8b4e2037c3e9cdd02e42f253f962ca479da025.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ac8b4e2-250624T104058",
+  "version_upstream": "v5.1.0",
+  "bsum": "400205ca905761dbec5d802046659b601ac81e5f5e0526a6ff08c684e2dd766e",
+  "build_date": "2025-06-24T19:52:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859569464",
+  "build_id": "15859569464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/malicious-attestation?tag=HEAD-ac8b4e2-250624T104058-x86_64-Linux&download=malicious-attestation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/malicious-attestation?tag=HEAD-ac8b4e2-250624T104058-x86_64-Linux&download=malicious-attestation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tellor-io/layer/malicious-attestation:HEAD-ac8b4e2-250624T104058-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tellor-io/layer/malicious-attestation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/malicious-attestation?tag=HEAD-ac8b4e2-250624T104058-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67eb2115bda6411e80624f398f56ccb9eb6893457d44faddc2c3e02e9814df0e",
+  "size": "3.2 MB",
+  "size_raw": "3284096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
