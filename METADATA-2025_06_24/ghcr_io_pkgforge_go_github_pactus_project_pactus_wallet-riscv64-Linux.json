@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wallet",
+  "pkg_family": "pactus",
+  "pkg_id": "wallet#github.com_pactus_project_pactus",
+  "pkg_name": "wallet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pactus-project/pactus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pactus blockchain",
+  "homepage": [
+    "https://github.com/pactus-project/pactus"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "daemon",
+    "shell",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pactus-project/pactus/archive/980d9a727a8bce78b90c72035d085f0b65cd6536.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-980d9a7-250618T210730",
+  "version_upstream": "",
+  "bsum": "c473948490a9b03c9f9576a01562bbbe87e79686e6f01b3e3c411c4b3acac834",
+  "build_date": "2025-06-24T18:52:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857581695",
+  "build_id": "15857581695",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pactus-project/pactus/wallet?tag=HEAD-980d9a7-250618T210730-riscv64-Linux&download=wallet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "237",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pactus-project/pactus/wallet?tag=HEAD-980d9a7-250618T210730-riscv64-Linux&download=wallet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pactus-project/pactus/wallet:HEAD-980d9a7-250618T210730-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pactus-project/pactus/wallet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pactus-project/pactus/wallet?tag=HEAD-980d9a7-250618T210730-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0657b7c401ccde0084e1b7eeeae6d66a9c8b12f1248ea598eb19013d44c2b7d1",
+  "size": "32 MB",
+  "size_raw": "33358744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
