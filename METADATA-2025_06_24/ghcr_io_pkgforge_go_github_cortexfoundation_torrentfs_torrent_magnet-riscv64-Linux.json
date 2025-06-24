@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "torrent-magnet",
+  "pkg_family": "torrentfs",
+  "pkg_id": "torrent-magnet#github.com_CortexFoundation_torrentfs",
+  "pkg_name": "torrent-magnet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CortexFoundation/torrentfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A p2p file system for https://github.com/CortexFoundation/CortexTheseus with pure Golang",
+  "homepage": [
+    "https://github.com/CortexFoundation/torrentfs"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pack-blocklist",
+    "seeding",
+    "server",
+    "torrent",
+    "torrent-create",
+    "torrent-magnet",
+    "torrentfs",
+    "tracker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CortexFoundation/torrentfs/archive/3907c8c961de8cc1a39588145352803ce326ad8e.tar.gz"
+  ],
+  "tag": [
+    "cortex",
+    "dht-network",
+    "file-system",
+    "storage"
+  ],
+  "version": "HEAD-3907c8c-250624T210554",
+  "version_upstream": "",
+  "bsum": "d9b9553908d6704fa4bea00b92393c59b62d549b402dd47d6e12ce1aabced694",
+  "build_date": "2025-06-24T16:26:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855379396",
+  "build_id": "15855379396",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/torrent-magnet?tag=HEAD-3907c8c-250624T210554-riscv64-Linux&download=torrent-magnet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/torrent-magnet?tag=HEAD-3907c8c-250624T210554-riscv64-Linux&download=torrent-magnet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexfoundation/torrentfs/torrent-magnet:HEAD-3907c8c-250624T210554-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexfoundation/torrentfs/torrent-magnet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/torrent-magnet?tag=HEAD-3907c8c-250624T210554-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8cf7cfa06ce857aff7ad3315466ba22caa876c709b935dafb8e12ad4084bf964",
+  "size": "4.6 MB",
+  "size_raw": "4735736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
