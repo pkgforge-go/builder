@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "local-path-provisioner",
+  "pkg_family": "local-path-provisioner",
+  "pkg_id": "local-path-provisioner#github.com_rancher_local_path_provisioner",
+  "pkg_name": "local-path-provisioner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/local-path-provisioner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dynamically provisioning persistent local storage with Kubernetes",
+  "homepage": [
+    "https://github.com/rancher/local-path-provisioner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "local-path-provisioner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/local-path-provisioner/archive/d4f71b4b03a321e9f54be00808e9de42b8bfd35a.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-storage"
+  ],
+  "version": "HEAD-d4f71b4-250624T185347",
+  "version_upstream": "",
+  "bsum": "b0c0fc66fd0c03459cc419d275c90f0d2c66a133579502b375f46941c85dadf3",
+  "build_date": "2025-06-24T19:17:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858416757",
+  "build_id": "15858416757",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/local-path-provisioner/local-path-provisioner?tag=HEAD-d4f71b4-250624T185347-aarch64-Linux&download=local-path-provisioner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2516",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/local-path-provisioner/local-path-provisioner?tag=HEAD-d4f71b4-250624T185347-aarch64-Linux&download=local-path-provisioner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/local-path-provisioner/local-path-provisioner:HEAD-d4f71b4-250624T185347-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/local-path-provisioner/local-path-provisioner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/local-path-provisioner/local-path-provisioner?tag=HEAD-d4f71b4-250624T185347-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8838b8741af2e7752f4646ecbf0771855308bcf22d7870000aa10a7600736a76",
+  "size": "50 MB",
+  "size_raw": "52261184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
