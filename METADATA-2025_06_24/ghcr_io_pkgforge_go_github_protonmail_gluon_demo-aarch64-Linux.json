@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "demo",
+  "pkg_family": "gluon",
+  "pkg_id": "demo#github.com_ProtonMail_gluon",
+  "pkg_name": "demo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ProtonMail/gluon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IMAP server library written in Go",
+  "homepage": [
+    "https://github.com/ProtonMail/gluon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "demo",
+    "gluon_bench",
+    "imap_append",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ProtonMail/gluon/archive/37666f3f37a55b0b097275830aa92367297bfa09.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "imap",
+    "imap-server",
+    "imap4",
+    "imaplib",
+    "proton",
+    "protonmail"
+  ],
+  "version": "HEAD-37666f3-250623T174646",
+  "version_upstream": "",
+  "bsum": "9831b252f9f881bd4fef0ef54692e9f4e826cc9611ae762ae5f937e3348af42f",
+  "build_date": "2025-06-24T13:14:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851338569",
+  "build_id": "15851338569",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/gluon/demo?tag=HEAD-37666f3-250623T174646-aarch64-Linux&download=demo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "499",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/gluon/demo?tag=HEAD-37666f3-250623T174646-aarch64-Linux&download=demo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/protonmail/gluon/demo:HEAD-37666f3-250623T174646-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/protonmail/gluon/demo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/gluon/demo?tag=HEAD-37666f3-250623T174646-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21c4e26490e01e7c5712af197f11616d545cb50aa1566e6647460b99be15612d",
+  "size": "11 MB",
+  "size_raw": "10828000",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-05167d4-250611T140816-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
