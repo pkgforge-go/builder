@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "seed_db",
+  "pkg_family": "jimm",
+  "pkg_id": "seed_db#github.com_canonical_jimm",
+  "pkg_name": "seed_db",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/jimm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Juju intelligent model manager web service",
+  "homepage": [
+    "https://github.com/canonical/jimm"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jaas",
+    "jimmsrv",
+    "seed_db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/jimm/archive/75f2073342174510c779856660e7b5998c584c50.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-75f2073-250624T151859",
+  "version_upstream": "",
+  "bsum": "2ca193ae26bf10aab91c28d820f46d0abe477b736379cbe141fc000e796b065d",
+  "build_date": "2025-06-24T17:17:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855839911",
+  "build_id": "15855839911",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/seed_db?tag=HEAD-75f2073-250624T151859-riscv64-Linux&download=seed_db.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/seed_db?tag=HEAD-75f2073-250624T151859-riscv64-Linux&download=seed_db",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/jimm/seed_db:HEAD-75f2073-250624T151859-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/jimm/seed_db",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/seed_db?tag=HEAD-75f2073-250624T151859-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78991ccd24256d39d6b3a8d53a9e439a4a9d961c7735002d41b48e6e126867cd",
+  "size": "42 MB",
+  "size_raw": "44024952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
