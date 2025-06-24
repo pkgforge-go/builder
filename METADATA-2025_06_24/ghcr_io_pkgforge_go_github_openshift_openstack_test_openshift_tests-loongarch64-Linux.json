@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "openshift-tests",
+  "pkg_family": "openstack-test",
+  "pkg_id": "openshift-tests#github.com_openshift_openstack_test",
+  "pkg_name": "openshift-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/openstack-test",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenStack-specific tests for OpenShift",
+  "homepage": [
+    "https://github.com/openshift/openstack-test"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "openshift-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/openstack-test/archive/007218fdebaa7fd5e626baf853508c018086bb09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-007218f-250624T100619",
+  "version_upstream": "",
+  "bsum": "b3471deffccd6ac9458d4f3d0a82b2d6acb1654d6c43a29a32282b310c2d0681",
+  "build_date": "2025-06-24T18:54:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857469366",
+  "build_id": "15857469366",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/openstack-test/openshift-tests?tag=HEAD-007218f-250624T100619-loongarch64-Linux&download=openshift-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/openstack-test/openshift-tests?tag=HEAD-007218f-250624T100619-loongarch64-Linux&download=openshift-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/openstack-test/openshift-tests:HEAD-007218f-250624T100619-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/openstack-test/openshift-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/openstack-test/openshift-tests?tag=HEAD-007218f-250624T100619-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2e434cc3b58d09433889bcf453501796aaf7a109f977554d224585b89e460d11",
+  "size": "227 MB",
+  "size_raw": "237796896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
