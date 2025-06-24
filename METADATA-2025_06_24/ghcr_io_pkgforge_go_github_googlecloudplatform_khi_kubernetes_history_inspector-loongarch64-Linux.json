@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubernetes-history-inspector",
+  "pkg_family": "khi",
+  "pkg_id": "kubernetes-history-inspector#github.com_GoogleCloudPlatform_khi",
+  "pkg_name": "kubernetes-history-inspector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/khi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A log viewer for Kubernetes troubleshooting",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/khi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "frontend-codegen",
+    "kubernetes-history-inspector",
+    "reference-generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/khi/archive/0383acfc2f2d4cf45d73f0d0153f3251112eaf81.tar.gz"
+  ],
+  "tag": [
+    "google-cloud-platform",
+    "kubernetes",
+    "logging",
+    "observability",
+    "troubleshooting",
+    "visualizer"
+  ],
+  "version": "HEAD-0383acf-250623T181407",
+  "version_upstream": "v0.47.3-beta-3",
+  "bsum": "9c068db3a38166d214504f40346f98e615511a07f27c8b1b31b4004e3feff1c7",
+  "build_date": "2025-06-24T02:14:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839490211",
+  "build_id": "15839490211",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/khi/kubernetes-history-inspector?tag=HEAD-0383acf-250623T181407-loongarch64-Linux&download=kubernetes-history-inspector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1854",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/khi/kubernetes-history-inspector?tag=HEAD-0383acf-250623T181407-loongarch64-Linux&download=kubernetes-history-inspector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/khi/kubernetes-history-inspector:HEAD-0383acf-250623T181407-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/khi/kubernetes-history-inspector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/khi/kubernetes-history-inspector?tag=HEAD-0383acf-250623T181407-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67e1d295855212886e1ad3de526d1fd38f69941c000bbec8d176abbae9051eee",
+  "size": "34 MB",
+  "size_raw": "34696512",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bc8d4c8-250619T201956-loongarch64-Linux",
+    "HEAD-30df0ce-250622T194421-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

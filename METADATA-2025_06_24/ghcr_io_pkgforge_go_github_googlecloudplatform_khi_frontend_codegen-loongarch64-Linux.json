@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "frontend-codegen",
+  "pkg_family": "khi",
+  "pkg_id": "frontend-codegen#github.com_GoogleCloudPlatform_khi",
+  "pkg_name": "frontend-codegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/khi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A log viewer for Kubernetes troubleshooting",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/khi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "frontend-codegen",
+    "kubernetes-history-inspector",
+    "reference-generator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/khi/archive/0383acfc2f2d4cf45d73f0d0153f3251112eaf81.tar.gz"
+  ],
+  "tag": [
+    "google-cloud-platform",
+    "kubernetes",
+    "logging",
+    "observability",
+    "troubleshooting",
+    "visualizer"
+  ],
+  "version": "HEAD-0383acf-250623T181407",
+  "version_upstream": "v0.47.3-beta-3",
+  "bsum": "07900b94a3978c44e22a5f46cb5229763af18393459a9cf425a22a1c8127a8b9",
+  "build_date": "2025-06-24T02:14:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839490211",
+  "build_id": "15839490211",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/khi/frontend-codegen?tag=HEAD-0383acf-250623T181407-loongarch64-Linux&download=frontend-codegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1854",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/khi/frontend-codegen?tag=HEAD-0383acf-250623T181407-loongarch64-Linux&download=frontend-codegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/khi/frontend-codegen:HEAD-0383acf-250623T181407-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/khi/frontend-codegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/khi/frontend-codegen?tag=HEAD-0383acf-250623T181407-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6060a091897b07904c6e19e97eec7028f7af52caf3d7af8bd6ef3973f246c318",
+  "size": "2.9 MB",
+  "size_raw": "2979960",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bc8d4c8-250619T201956-loongarch64-Linux",
+    "HEAD-30df0ce-250622T194421-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
