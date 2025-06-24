@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "maxpods",
+  "pkg_family": "terway",
+  "pkg_id": "maxpods#github.com_AliyunContainerService_terway",
+  "pkg_name": "maxpods",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AliyunContainerService/terway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNI plugin for Alibaba Cloud VPC/ENI",
+  "homepage": [
+    "https://github.com/AliyunContainerService/terway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "maxpods",
+    "terway",
+    "terway-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AliyunContainerService/terway/archive/302dc86678713e3d1b564b4b35fa560f84e5b8a1.tar.gz"
+  ],
+  "tag": [
+    "cni",
+    "eni",
+    "vpc"
+  ],
+  "version": "HEAD-302dc86-250624T101836",
+  "version_upstream": "",
+  "bsum": "c1fc554f56577e8f596c3dfd914cf834664501797152eba6cdac8c1e48227e14",
+  "build_date": "2025-06-24T07:08:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843503357",
+  "build_id": "15843503357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/maxpods?tag=HEAD-302dc86-250624T101836-x86_64-Linux&download=maxpods.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "574",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/maxpods?tag=HEAD-302dc86-250624T101836-x86_64-Linux&download=maxpods",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aliyuncontainerservice/terway/maxpods:HEAD-302dc86-250624T101836-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aliyuncontainerservice/terway/maxpods",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/maxpods?tag=HEAD-302dc86-250624T101836-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aaf4d644266d1b1b5b787ae9eab5c448c82944233d01b039ed8506ecbd18d2ab",
+  "size": "58 MB",
+  "size_raw": "60198944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
