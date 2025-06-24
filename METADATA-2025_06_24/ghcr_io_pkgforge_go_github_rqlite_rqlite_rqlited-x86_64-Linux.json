@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rqlited",
+  "pkg_family": "rqlite",
+  "pkg_id": "rqlited#github.com_rqlite_rqlite",
+  "pkg_name": "rqlited",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rqlite/rqlite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The lightweight, user-friendly, distributed relational database built on SQLite.",
+  "homepage": [
+    "https://github.com/rqlite/rqlite"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rqbench",
+    "rqlite",
+    "rqlited",
+    "walr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rqlite/rqlite/archive/e39abac7a5f2b6521216455e76b3c29071657634.tar.gz"
+  ],
+  "tag": [
+    "consensus",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "go",
+    "raft",
+    "relational-database",
+    "sql",
+    "sqlite"
+  ],
+  "version": "HEAD-e39abac-250623T104458",
+  "version_upstream": "",
+  "bsum": "eb53343102448de6f59f16479d810fa64a9d7e8739a5e54d7ef77593a40a9113",
+  "build_date": "2025-06-24T03:30:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839712540",
+  "build_id": "15839712540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rqlite/rqlite/rqlited?tag=HEAD-e39abac-250623T104458-x86_64-Linux&download=rqlited.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16691",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rqlite/rqlite/rqlited?tag=HEAD-e39abac-250623T104458-x86_64-Linux&download=rqlited",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rqlite/rqlite/rqlited:HEAD-e39abac-250623T104458-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rqlite/rqlite/rqlited",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rqlite/rqlite/rqlited?tag=HEAD-e39abac-250623T104458-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5758c5ec7420948fe5936dfc3779e6eaa6044f66a49f601c1d194763c7deaa46",
+  "size": "35 MB",
+  "size_raw": "35902624",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ac4df5e-250620T101553-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
