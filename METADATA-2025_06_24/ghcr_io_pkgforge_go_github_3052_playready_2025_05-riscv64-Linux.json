@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "2025-05",
+  "pkg_family": "playReady",
+  "pkg_id": "2025-05#github.com_3052_playReady",
+  "pkg_name": "2025-05",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/3052/playReady",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "playReady implementation",
+  "homepage": [
+    "https://github.com/3052/playReady"
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "2025-05",
+    "cbc",
+    "ecb",
+    "ecb-brute"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/3052/playReady/archive/21b118811f4b1d232050393428a7fbe9d1963b6f.tar.gz"
+  ],
+  "tag": [
+    "drm",
+    "microsoft"
+  ],
+  "version": "HEAD-21b1188-250623T071208",
+  "version_upstream": "",
+  "bsum": "0bfe66544a1a6e03a276e3605aca366ed5d77478f151df0d9d8fee9a4e6fbc9f",
+  "build_date": "2025-06-24T02:12:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839490270",
+  "build_id": "15839490270",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/2025-05?tag=HEAD-21b1188-250623T071208-riscv64-Linux&download=2025-05.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/2025-05?tag=HEAD-21b1188-250623T071208-riscv64-Linux&download=2025-05",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/3052/playready/2025-05:HEAD-21b1188-250623T071208-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/3052/playready/2025-05",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/2025-05?tag=HEAD-21b1188-250623T071208-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b1b382f57145d82b5c6f63a433f6ecbdbfd306e40bcd349faff72414588e5af",
+  "size": "1.8 MB",
+  "size_raw": "1856696",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e216d0c-250618T200058-riscv64-Linux",
+    "HEAD-7b4c18a-250622T001501-riscv64-Linux",
+    "HEAD-13b5d35-250622T224754-riscv64-Linux",
+    "HEAD-21b1188-250623T071208-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
