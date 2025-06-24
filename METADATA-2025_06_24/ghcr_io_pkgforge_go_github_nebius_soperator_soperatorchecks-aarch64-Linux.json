@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "soperatorchecks",
+  "pkg_family": "soperator",
+  "pkg_id": "soperatorchecks#github.com_nebius_soperator",
+  "pkg_name": "soperatorchecks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/fb200a5f6b464d3eb3221b5fc5dc88ba300c6b2b.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-fb200a5-250623T143705",
+  "version_upstream": "",
+  "bsum": "db006244af718499183460fd7fefbcf76d17aa3c2614d8ffecb88485d558eb33",
+  "build_date": "2025-06-24T03:25:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839599327",
+  "build_id": "15839599327",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperatorchecks?tag=HEAD-fb200a5-250623T143705-aarch64-Linux&download=soperatorchecks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "237",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperatorchecks?tag=HEAD-fb200a5-250623T143705-aarch64-Linux&download=soperatorchecks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/soperatorchecks:HEAD-fb200a5-250623T143705-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/soperatorchecks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperatorchecks?tag=HEAD-fb200a5-250623T143705-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3ba40ac7f403aebe29e8af9d1e08ed9ecf950c2983cda44132d327caa57eb687",
+  "size": "47 MB",
+  "size_raw": "48665152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bd328a2-250620T101949-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
