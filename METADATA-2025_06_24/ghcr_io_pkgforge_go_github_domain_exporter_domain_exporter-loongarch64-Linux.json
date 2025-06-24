@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "domain_exporter",
+  "pkg_family": "domain_exporter",
+  "pkg_id": "domain_exporter#github.com_caarlos0_domain_exporter",
+  "pkg_name": "domain_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/caarlos0/domain_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Exports the expiration time of your domains as prometheus metrics.",
+  "homepage": [
+    "https://github.com/caarlos0/domain_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "domain_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/caarlos0/domain_exporter/archive/a301f53c18538bee1a31ce313e74b4a3d2cb7917.tar.gz"
+  ],
+  "tag": [
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-a301f53-250624T084103",
+  "version_upstream": "",
+  "bsum": "d9c0e8dd9b95970522df5b5967e69cc15de52ae28ff5270541852097784b6057",
+  "build_date": "2025-06-24T17:03:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855838706",
+  "build_id": "15855838706",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/domain/exporter/domain_exporter?tag=HEAD-a301f53-250624T084103-loongarch64-Linux&download=domain_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "302",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/domain/exporter/domain_exporter?tag=HEAD-a301f53-250624T084103-loongarch64-Linux&download=domain_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/domain/exporter/domain_exporter:HEAD-a301f53-250624T084103-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/domain/exporter/domain_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/domain/exporter/domain_exporter?tag=HEAD-a301f53-250624T084103-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bdafc20ce4c921d79960a79954bfa4ab64ad725c91258a1725d49278dde38666",
+  "size": "20 MB",
+  "size_raw": "20244488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
