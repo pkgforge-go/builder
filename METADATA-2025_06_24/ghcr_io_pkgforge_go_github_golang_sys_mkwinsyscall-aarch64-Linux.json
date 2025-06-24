@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mkwinsyscall",
+  "pkg_family": "sys",
+  "pkg_id": "mkwinsyscall#github.com_golang_sys",
+  "pkg_name": "mkwinsyscall",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/sys",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go packages for low-level interaction with the operating system",
+  "homepage": [
+    "https://github.com/golang/sys"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mkmerge",
+    "mkwinsyscall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/sys/archive/751c3c6ac2a644645976e8e7f3db0b75c87d32c6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-751c3c6-250617T103538",
+  "version_upstream": "",
+  "bsum": "9b785f47f7a7c9bc4bf0eac4c44ca381f995f74f92d207b0504f3955c2afbc07",
+  "build_date": "2025-06-24T18:22:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857194690",
+  "build_id": "15857194690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/sys/mkwinsyscall?tag=HEAD-751c3c6-250617T103538-aarch64-Linux&download=mkwinsyscall.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1312",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/sys/mkwinsyscall?tag=HEAD-751c3c6-250617T103538-aarch64-Linux&download=mkwinsyscall",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/sys/mkwinsyscall:HEAD-751c3c6-250617T103538-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/sys/mkwinsyscall",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/sys/mkwinsyscall?tag=HEAD-751c3c6-250617T103538-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d4e6a2ae818fd269bef1c289592a406b35c6ec5d081e566ec25ade1d47e21c4",
+  "size": "3.6 MB",
+  "size_raw": "3693080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-751c3c6-250617T103538-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
