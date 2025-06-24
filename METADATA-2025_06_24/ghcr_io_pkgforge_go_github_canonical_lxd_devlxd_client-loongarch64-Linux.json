@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "devlxd-client",
+  "pkg_family": "lxd",
+  "pkg_id": "devlxd-client#github.com_canonical_lxd",
+  "pkg_name": "devlxd-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/lxd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/canonical/lxd"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devlxd-client",
+    "freshschema",
+    "generate",
+    "lxc",
+    "lxd-benchmark",
+    "lxd-metadata",
+    "lxd-user",
+    "mini-oidc",
+    "sysinfo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/lxd/archive/b5483fc53ed02a3e5c9166de8a8dde0d404207f5.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "criu",
+    "go",
+    "hacktoberfest",
+    "lxc",
+    "lxd"
+  ],
+  "version": "HEAD-b5483fc-250623T144539",
+  "version_upstream": "",
+  "bsum": "46409426459da12de358446eefb75f373a644ebdb0e175245d8fc65dfbeba297",
+  "build_date": "2025-06-24T02:38:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839494092",
+  "build_id": "15839494092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/devlxd-client?tag=HEAD-b5483fc-250623T144539-loongarch64-Linux&download=devlxd-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4519",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/devlxd-client?tag=HEAD-b5483fc-250623T144539-loongarch64-Linux&download=devlxd-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/lxd/devlxd-client:HEAD-b5483fc-250623T144539-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/lxd/devlxd-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/devlxd-client?tag=HEAD-b5483fc-250623T144539-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6976aeda13417cd3df57d7d0003fc5700cde5dfdcaacb97ae5643a6720bd4c7f",
+  "size": "9.6 MB",
+  "size_raw": "10033728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5290649-250619T134116-loongarch64-Linux",
+    "HEAD-5ee6dd8-250621T220730-loongarch64-Linux",
+    "HEAD-a8d328a-250622T215306-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
