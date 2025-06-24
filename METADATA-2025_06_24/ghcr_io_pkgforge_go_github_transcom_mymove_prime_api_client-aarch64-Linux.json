@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "prime-api-client",
+  "pkg_family": "mymove",
+  "pkg_id": "prime-api-client#github.com_transcom_mymove",
+  "pkg_name": "prime-api-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/5c66fc5b1eccc63e6ad93665565f03c5144e35b2.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-5c66fc5-250623T170730",
+  "version_upstream": "",
+  "bsum": "3ee35b5f19168f9968c32861efc7a4f0900606c43bcefa8bf45216de2cbd2c6f",
+  "build_date": "2025-06-24T10:22:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847420863",
+  "build_id": "15847420863",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/prime-api-client?tag=HEAD-5c66fc5-250623T170730-aarch64-Linux&download=prime-api-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/prime-api-client?tag=HEAD-5c66fc5-250623T170730-aarch64-Linux&download=prime-api-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/prime-api-client:HEAD-5c66fc5-250623T170730-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/prime-api-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/prime-api-client?tag=HEAD-5c66fc5-250623T170730-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b1418da791d76eb8afe82d2f6f1647a280f87d71e6075898766a67ebd224bee",
+  "size": "26 MB",
+  "size_raw": "26615104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
