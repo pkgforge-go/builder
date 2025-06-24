@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "operator-manifest-tools",
+  "pkg_family": "operator-manifest-tools",
+  "pkg_id": "operator-manifest-tools#github.com_operator_framework_operator_manifest_tools",
+  "pkg_name": "operator-manifest-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-manifest-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tooling that enables software release pipelines for operator manifests",
+  "homepage": [
+    "https://github.com/operator-framework/operator-manifest-tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs",
+    "operator-manifest-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-manifest-tools/archive/aefeb417d58e481adaa3337fb1a929c064ffb025.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aefeb41-250623T135222",
+  "version_upstream": "v0.10.0",
+  "bsum": "6b412fbe3ce9ba3a134da8c079741433e4fffb47577a08df64c44f2a8676a8e6",
+  "build_date": "2025-06-24T09:11:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845125099",
+  "build_id": "15845125099",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-manifest-tools/operator-manifest-tools?tag=HEAD-aefeb41-250623T135222-loongarch64-Linux&download=operator-manifest-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-manifest-tools/operator-manifest-tools?tag=HEAD-aefeb41-250623T135222-loongarch64-Linux&download=operator-manifest-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-manifest-tools/operator-manifest-tools:HEAD-aefeb41-250623T135222-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-manifest-tools/operator-manifest-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-manifest-tools/operator-manifest-tools?tag=HEAD-aefeb41-250623T135222-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "229fce0ca1bd620f3964b954f36ef627ea24c2f13d94cdb839133e3852823209",
+  "size": "15 MB",
+  "size_raw": "14830752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
