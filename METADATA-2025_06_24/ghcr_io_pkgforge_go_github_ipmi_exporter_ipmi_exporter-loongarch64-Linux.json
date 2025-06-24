@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ipmi_exporter",
+  "pkg_family": "ipmi_exporter",
+  "pkg_id": "ipmi_exporter#github.com_prometheus_community_ipmi_exporter",
+  "pkg_name": "ipmi_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus-community/ipmi_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Remote IPMI exporter for Prometheus",
+  "homepage": [
+    "https://github.com/prometheus-community/ipmi_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipmi_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus-community/ipmi_exporter/archive/d0329652967ec7421b11a69a1d2b9d44a4f35abd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d032965-250624T105405",
+  "version_upstream": "",
+  "bsum": "e563b70b85e1d178195b52d3c14b0d2318a4dda94cdb3bd37a581a489b9e1664",
+  "build_date": "2025-06-24T19:02:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858315704",
+  "build_id": "15858315704",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipmi/exporter/ipmi_exporter?tag=HEAD-d032965-250624T105405-loongarch64-Linux&download=ipmi_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "530",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipmi/exporter/ipmi_exporter?tag=HEAD-d032965-250624T105405-loongarch64-Linux&download=ipmi_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipmi/exporter/ipmi_exporter:HEAD-d032965-250624T105405-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipmi/exporter/ipmi_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipmi/exporter/ipmi_exporter?tag=HEAD-d032965-250624T105405-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "312220b199d652e813e75d072b75fd061c56f7d24f0a8e1a89e9b6202687bce5",
+  "size": "14 MB",
+  "size_raw": "13807840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
