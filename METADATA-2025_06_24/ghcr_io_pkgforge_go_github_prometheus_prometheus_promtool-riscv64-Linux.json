@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "promtool",
+  "pkg_family": "prometheus",
+  "pkg_id": "promtool#github.com_prometheus_prometheus",
+  "pkg_name": "promtool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Prometheus monitoring system and time series database.",
+  "homepage": [
+    "https://github.com/prometheus/prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/prometheus/archive/bdada2330cffd67957173cc14193bf8a847cf0ed.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+  ],
+  "version": "HEAD-bdada23-250624T122006",
+  "version_upstream": "",
+  "bsum": "de6fd368138f9b437719d86df0f458a30fbcd6257b16b2bd515446b19996daae",
+  "build_date": "2025-06-24T15:51:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851819596",
+  "build_id": "15851819596",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-bdada23-250624T122006-riscv64-Linux&download=promtool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-bdada23-250624T122006-riscv64-Linux&download=promtool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool:HEAD-bdada23-250624T122006-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-bdada23-250624T122006-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "de4d2e4601b7233c054d0dd3e8b58778fa5f621678b4dd7fc02a22e464bf541c",
+  "size": "110 MB",
+  "size_raw": "114466328",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c701636-250620T130902-riscv64-Linux",
+    "HEAD-8ed37d3-250623T005608-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
