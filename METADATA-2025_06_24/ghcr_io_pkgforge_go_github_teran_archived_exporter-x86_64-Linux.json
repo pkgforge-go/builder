@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "exporter",
+  "pkg_family": "archived",
+  "pkg_id": "exporter#github.com_teran_archived",
+  "pkg_name": "exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/teran/archived",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud native service to store versioned data in space-efficient manner",
+  "homepage": [
+    "https://github.com/teran/archived"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "gc",
+    "migrator",
+    "publisher",
+    "seeder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/teran/archived/archive/29fa7df30849db35dc6af252a12fb7fec27e0f48.tar.gz"
+  ],
+  "tag": [
+    "apt",
+    "aptitude",
+    "cas",
+    "dnf",
+    "package-mirror",
+    "package-repository",
+    "rpm",
+    "s3",
+    "yum"
+  ],
+  "version": "HEAD-29fa7df-250623T225154",
+  "version_upstream": "",
+  "bsum": "f9aa818a5cab7656a890a0e49dab36b3a27aff19bbc3ffbb0663ee8b8c4af53b",
+  "build_date": "2025-06-24T09:55:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846143165",
+  "build_id": "15846143165",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/teran/archived/exporter?tag=HEAD-29fa7df-250623T225154-x86_64-Linux&download=exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/teran/archived/exporter?tag=HEAD-29fa7df-250623T225154-x86_64-Linux&download=exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/teran/archived/exporter:HEAD-29fa7df-250623T225154-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/teran/archived/exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/teran/archived/exporter?tag=HEAD-29fa7df-250623T225154-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3fda1c3a5f636943a14aa8836d80f4c474faaa78e1a886e974b6cd52e411202b",
+  "size": "11 MB",
+  "size_raw": "11155040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
