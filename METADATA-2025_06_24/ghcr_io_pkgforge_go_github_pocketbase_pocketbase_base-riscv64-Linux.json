@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "base",
+  "pkg_family": "pocketbase",
+  "pkg_id": "base#github.com_pocketbase_pocketbase",
+  "pkg_name": "base",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pocketbase/pocketbase",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source realtime backend in 1 file",
+  "homepage": [
+    "https://github.com/pocketbase/pocketbase"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base",
+    "types"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pocketbase/pocketbase/archive/3f3b77dcd43cf497a53e248ce32296bff1380115.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "backend",
+    "golang",
+    "realtime"
+  ],
+  "version": "HEAD-3f3b77d-250624T085653",
+  "version_upstream": "",
+  "bsum": "85096078dc2f333a01535a480823f5a4736be801dc6de2fc12219b9666549c1c",
+  "build_date": "2025-06-24T23:18:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862495629",
+  "build_id": "15862495629",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pocketbase/pocketbase/base?tag=HEAD-3f3b77d-250624T085653-riscv64-Linux&download=base.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47943",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pocketbase/pocketbase/base?tag=HEAD-3f3b77d-250624T085653-riscv64-Linux&download=base",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pocketbase/pocketbase/base:HEAD-3f3b77d-250624T085653-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pocketbase/pocketbase/base",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pocketbase/pocketbase/base?tag=HEAD-3f3b77d-250624T085653-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f55f243c21f1b7bf84831803c58ac20f10e4a93af4dcf4f3935b49822fe8deb",
+  "size": "33 MB",
+  "size_raw": "33988152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0a66e5a-250609T204958-riscv64-Linux[v0.28.3]",
+    "HEAD-db679f9-250621T105152-riscv64-Linux[v0.28.4]"
+  ],
+  "trusted": "true"
+}
