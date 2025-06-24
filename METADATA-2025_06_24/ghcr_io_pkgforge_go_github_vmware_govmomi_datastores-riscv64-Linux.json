@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "datastores",
+  "pkg_family": "govmomi",
+  "pkg_id": "datastores#github.com_vmware_govmomi",
+  "pkg_name": "datastores",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware/govmomi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the VMware vSphere API",
+  "homepage": [
+    "https://github.com/vmware/govmomi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi/archive/06d4a3f15d1e0d7839d293ae9b03ab14270c545f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sdk",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-06d4a3f-250623T114907",
+  "version_upstream": "",
+  "bsum": "099c958b793accc369afe18b902080ff242c97a6cb72b683c43a30f04582c419",
+  "build_date": "2025-06-24T10:16:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847428355",
+  "build_id": "15847428355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/datastores?tag=HEAD-06d4a3f-250623T114907-riscv64-Linux&download=datastores.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2383",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/datastores?tag=HEAD-06d4a3f-250623T114907-riscv64-Linux&download=datastores",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi/datastores:HEAD-06d4a3f-250623T114907-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi/datastores",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/datastores?tag=HEAD-06d4a3f-250623T114907-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42e497209db790b59d8d926ad36dcc079a47c1c101b6fcbf8b230e30a09e789c",
+  "size": "27 MB",
+  "size_raw": "27588312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
