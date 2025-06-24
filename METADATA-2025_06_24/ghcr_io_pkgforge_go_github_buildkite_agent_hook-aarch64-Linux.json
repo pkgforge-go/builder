@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hook",
+  "pkg_family": "agent",
+  "pkg_id": "hook#github.com_buildkite_agent",
+  "pkg_name": "hook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buildkite/agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network",
+  "homepage": [
+    "https://github.com/buildkite/agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "hook",
+    "test-binary-hook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buildkite/agent/archive/bad20152da558277faa5628742f70972c60d29bf.tar.gz"
+  ],
+  "tag": [
+    "buildkite",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "docker",
+    "go",
+    "llamas"
+  ],
+  "version": "HEAD-bad2015-250624T124354",
+  "version_upstream": "",
+  "bsum": "1dd483cc75e3d411d223bbebf9588ed8e09b31beb43ac6f8fbd8a0e40639b803",
+  "build_date": "2025-06-24T13:30:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851344678",
+  "build_id": "15851344678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/hook?tag=HEAD-bad2015-250624T124354-aarch64-Linux&download=hook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "851",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/hook?tag=HEAD-bad2015-250624T124354-aarch64-Linux&download=hook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildkite/agent/hook:HEAD-bad2015-250624T124354-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildkite/agent/hook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/agent/hook?tag=HEAD-bad2015-250624T124354-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7e8c2835f31f193634be65d9c3c073d491ae4c64c36987d2b3d35ce1dc51c1e2",
+  "size": "1.1 MB",
+  "size_raw": "1130720",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6813364-250619T172052-aarch64-Linux",
+    "HEAD-8792019-250620T170018-aarch64-Linux",
+    "HEAD-aa94a00-250623T112622-aarch64-Linux[v3.100.0]"
+  ],
+  "trusted": "true"
+}
