@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "go-ten",
+  "pkg_id": "cmd#github.com_ten_protocol_go_ten",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ten-protocol/go-ten",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Official Golang implementation of the TEN protocol",
+  "homepage": [
+    "https://github.com/ten-protocol/go-ten"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "accountgen",
+    "cmd",
+    "main"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ten-protocol/go-ten/archive/6241af81d62897f359b6c62ec6e44730050964ce.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "confidential-computing",
+    "crypto",
+    "encryption",
+    "ethereum",
+    "evm",
+    "l2",
+    "layer2",
+    "tee",
+    "web3"
+  ],
+  "version": "HEAD-6241af8-250624T120537",
+  "version_upstream": "",
+  "bsum": "ee8c873ed0accd3591df0763202153cae640cf3f7604073701d461f2068af4ea",
+  "build_date": "2025-06-24T20:08:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859576716",
+  "build_id": "15859576716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ten-protocol/go-ten/cmd?tag=HEAD-6241af8-250624T120537-riscv64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "62",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ten-protocol/go-ten/cmd?tag=HEAD-6241af8-250624T120537-riscv64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ten-protocol/go-ten/cmd:HEAD-6241af8-250624T120537-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ten-protocol/go-ten/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ten-protocol/go-ten/cmd?tag=HEAD-6241af8-250624T120537-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a9945bfe566144df5d3eee6f5d0d546cb7f96caf14a90e9e00537f0654b45542",
+  "size": "26 MB",
+  "size_raw": "26898680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
