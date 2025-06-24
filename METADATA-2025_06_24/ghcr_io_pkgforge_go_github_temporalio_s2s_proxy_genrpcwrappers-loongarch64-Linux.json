@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "genrpcwrappers",
+  "pkg_family": "s2s-proxy",
+  "pkg_id": "genrpcwrappers#github.com_temporalio_s2s_proxy",
+  "pkg_name": "genrpcwrappers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/temporalio/s2s-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "s2s-proxy is a service that intercepts and forwards requests between two Temporal servers.",
+  "homepage": [
+    "https://github.com/temporalio/s2s-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genrpcwrappers",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/temporalio/s2s-proxy/archive/d2e238d01ca1d2cc0c6363a5625137066631488f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "multi-clusters",
+    "proxy",
+    "temporal"
+  ],
+  "version": "HEAD-d2e238d-250623T165618",
+  "version_upstream": "",
+  "bsum": "32f5db240e0154274b1e723259dc8f392f60ecd671c51ca618a52f3138798a98",
+  "build_date": "2025-06-24T09:52:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846125830",
+  "build_id": "15846125830",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/s2s-proxy/genrpcwrappers?tag=HEAD-d2e238d-250623T165618-loongarch64-Linux&download=genrpcwrappers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/s2s-proxy/genrpcwrappers?tag=HEAD-d2e238d-250623T165618-loongarch64-Linux&download=genrpcwrappers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/temporalio/s2s-proxy/genrpcwrappers:HEAD-d2e238d-250623T165618-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/temporalio/s2s-proxy/genrpcwrappers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/s2s-proxy/genrpcwrappers?tag=HEAD-d2e238d-250623T165618-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8e9c975b6eca17c8207ddb3933535f027e9dd2c1f02f26c878d73a12b7af630",
+  "size": "17 MB",
+  "size_raw": "17723968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
