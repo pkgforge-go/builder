@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "get_labels",
+  "pkg_family": "ops-agent",
+  "pkg_id": "get_labels#github.com_GoogleCloudPlatform_ops_agent",
+  "pkg_name": "get_labels",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/ops-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/ops-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent_wrapper",
+    "dockerfiles",
+    "generate_expected_metrics",
+    "get_labels",
+    "google_cloud_ops_agent_engine",
+    "ops_agent_uap_plugin",
+    "run_resource_detector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/ops-agent/archive/d71f7e64c6ec2c630f2c61481afaf7da1ffcbc5b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d71f7e6-250624T092848",
+  "version_upstream": "",
+  "bsum": "f3d24570ee66f7455da8917595e50e9e2ffe6349f42401901773b33c95b1d5c0",
+  "build_date": "2025-06-24T16:32:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855429313",
+  "build_id": "15855429313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/get_labels?tag=HEAD-d71f7e6-250624T092848-x86_64-Linux&download=get_labels.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "155",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/get_labels?tag=HEAD-d71f7e6-250624T092848-x86_64-Linux&download=get_labels",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/ops-agent/get_labels:HEAD-d71f7e6-250624T092848-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/ops-agent/get_labels",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/get_labels?tag=HEAD-d71f7e6-250624T092848-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "05560f34005bf95ef7613fcd4b602e1853201b4fddf3b33b6536929a41367432",
+  "size": "6.3 MB",
+  "size_raw": "6529984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
