@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-go-helpers",
+  "pkg_family": "api-go",
+  "pkg_id": "protoc-gen-go-helpers#github.com_temporalio_api_go",
+  "pkg_name": "protoc-gen-go-helpers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/temporalio/api-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Temporal gRPC API and proto files compiled for Go",
+  "homepage": [
+    "https://github.com/temporalio/api-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "encode-openapi-spec",
+    "mockgen-fix",
+    "protoc-gen-go-helpers",
+    "protogen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/temporalio/api-go/archive/4bd288b098bb027df1cd5bc1666cc428a2b8dfe4.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "grpc",
+    "grpc-go",
+    "protobuf"
+  ],
+  "version": "HEAD-4bd288b-250623T152711",
+  "version_upstream": "",
+  "bsum": "0a7c32a5c9311c69105627bd86bdf18cf7f3854da574f307714ec633c9e0c5cc",
+  "build_date": "2025-06-24T09:51:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846118094",
+  "build_id": "15846118094",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/api-go/protoc-gen-go-helpers?tag=HEAD-4bd288b-250623T152711-x86_64-Linux&download=protoc-gen-go-helpers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/api-go/protoc-gen-go-helpers?tag=HEAD-4bd288b-250623T152711-x86_64-Linux&download=protoc-gen-go-helpers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/temporalio/api-go/protoc-gen-go-helpers:HEAD-4bd288b-250623T152711-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/temporalio/api-go/protoc-gen-go-helpers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/api-go/protoc-gen-go-helpers?tag=HEAD-4bd288b-250623T152711-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6109aed5b50a68ec730ec034d3f118ebb0e8969d835e63775f2838f4d6cc0dbb",
+  "size": "7.7 MB",
+  "size_raw": "8000088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
