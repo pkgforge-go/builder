@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kafkactl",
+  "pkg_family": "kafkactl",
+  "pkg_id": "kafkactl#github.com_deviceinsight_kafkactl",
+  "pkg_name": "kafkactl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/deviceinsight/kafkactl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Command Line Tool for managing Apache Kafka",
+  "homepage": [
+    "https://github.com/deviceinsight/kafkactl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kafkactl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/deviceinsight/kafkactl/archive/b34dd7e8853383e85f333e5dd5e25517fecf099d.tar.gz"
+  ],
+  "tag": [
+    "apache-kafka",
+    "avro",
+    "cli",
+    "fish",
+    "golang",
+    "kafka",
+    "zsh"
+  ],
+  "version": "HEAD-b34dd7e-250624T124257",
+  "version_upstream": "v5.10.0",
+  "bsum": "617dcafbc11be5b3327406121e65385c4ff6ba4a029ee8159b1ff69b4c172c96",
+  "build_date": "2025-06-24T17:21:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855852716",
+  "build_id": "15855852716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deviceinsight/kafkactl/kafkactl?tag=HEAD-b34dd7e-250624T124257-x86_64-Linux&download=kafkactl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "922",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deviceinsight/kafkactl/kafkactl?tag=HEAD-b34dd7e-250624T124257-x86_64-Linux&download=kafkactl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/deviceinsight/kafkactl/kafkactl:HEAD-b34dd7e-250624T124257-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/deviceinsight/kafkactl/kafkactl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deviceinsight/kafkactl/kafkactl?tag=HEAD-b34dd7e-250624T124257-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7b4a53fe6a8ad5ae6fca08f3e4efb41abbe1be3b38c122748148a51e34d52a89",
+  "size": "24 MB",
+  "size_raw": "24793936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
