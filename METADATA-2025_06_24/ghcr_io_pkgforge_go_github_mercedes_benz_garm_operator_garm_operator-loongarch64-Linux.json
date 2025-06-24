@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "garm-operator",
+  "pkg_family": "garm-operator",
+  "pkg_id": "garm-operator#github.com_mercedes_benz_garm_operator",
+  "pkg_name": "garm-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mercedes-benz/garm-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a k8s operator to run garm",
+  "homepage": [
+    "https://github.com/mercedes-benz/garm-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "garm-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mercedes-benz/garm-operator/archive/fd730a45516ab8658a8078c49ab432869257aff2.tar.gz"
+  ],
+  "tag": [
+    "garm",
+    "github-actions",
+    "kubebuilder",
+    "kubernetes"
+  ],
+  "version": "HEAD-fd730a4-250624T120930",
+  "version_upstream": "",
+  "bsum": "adc666b35c6079707ccdc5640f4ab7516ca4ab36fb0e6716c2d096a1f8aafd30",
+  "build_date": "2025-06-24T18:20:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857190312",
+  "build_id": "15857190312",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercedes-benz/garm-operator/garm-operator?tag=HEAD-fd730a4-250624T120930-loongarch64-Linux&download=garm-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercedes-benz/garm-operator/garm-operator?tag=HEAD-fd730a4-250624T120930-loongarch64-Linux&download=garm-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mercedes-benz/garm-operator/garm-operator:HEAD-fd730a4-250624T120930-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mercedes-benz/garm-operator/garm-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mercedes-benz/garm-operator/garm-operator?tag=HEAD-fd730a4-250624T120930-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2e84b3a3db5ce524b4cbcc26b708f3994e0d42f81e56bdd61718c420b07a1a24",
+  "size": "48 MB",
+  "size_raw": "49297888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
