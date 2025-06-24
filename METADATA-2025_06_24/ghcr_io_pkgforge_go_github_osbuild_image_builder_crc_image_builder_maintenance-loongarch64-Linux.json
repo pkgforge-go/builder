@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "image-builder-maintenance",
+  "pkg_family": "image-builder-crc",
+  "pkg_id": "image-builder-maintenance#github.com_osbuild_image_builder_crc",
+  "pkg_name": "image-builder-maintenance",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/image-builder-crc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Middleware service for console.redhat.com, between osbuild/image-builder-frontend and osbuild/osbuild-composer.",
+  "homepage": [
+    "https://github.com/osbuild/image-builder-crc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "image-builder",
+    "image-builder-maintenance",
+    "image-builder-migrate-db-tern",
+    "oscap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/image-builder-crc/archive/1c8c8bbec4e8820a1cb8c7871910983162186f48.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1c8c8bb-250624T160758",
+  "version_upstream": "",
+  "bsum": "c291747ac4059721de69b3e417d635e7cdc9d3ab59682eccb46528a0648ff646",
+  "build_date": "2025-06-24T18:43:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857556732",
+  "build_id": "15857556732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/image-builder-crc/image-builder-maintenance?tag=HEAD-1c8c8bb-250624T160758-loongarch64-Linux&download=image-builder-maintenance.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/image-builder-crc/image-builder-maintenance?tag=HEAD-1c8c8bb-250624T160758-loongarch64-Linux&download=image-builder-maintenance",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/image-builder-crc/image-builder-maintenance:HEAD-1c8c8bb-250624T160758-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/image-builder-crc/image-builder-maintenance",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/image-builder-crc/image-builder-maintenance?tag=HEAD-1c8c8bb-250624T160758-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "73979b075dc0f8924013f9ef00fadc982f134f55bcf9b350fd7e3c589a31c4d0",
+  "size": "13 MB",
+  "size_raw": "12708960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
