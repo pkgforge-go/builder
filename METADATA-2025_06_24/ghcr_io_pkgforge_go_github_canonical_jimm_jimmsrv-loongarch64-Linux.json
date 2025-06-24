@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jimmsrv",
+  "pkg_family": "jimm",
+  "pkg_id": "jimmsrv#github.com_canonical_jimm",
+  "pkg_name": "jimmsrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/jimm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Juju intelligent model manager web service",
+  "homepage": [
+    "https://github.com/canonical/jimm"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jaas",
+    "jimmsrv",
+    "seed_db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/jimm/archive/75f2073342174510c779856660e7b5998c584c50.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-75f2073-250624T151859",
+  "version_upstream": "",
+  "bsum": "59c1ad9a932e04406b49c831ff752f84aaf14128043eca407ac2900abe669b22",
+  "build_date": "2025-06-24T17:18:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855839911",
+  "build_id": "15855839911",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/jimmsrv?tag=HEAD-75f2073-250624T151859-loongarch64-Linux&download=jimmsrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/jimmsrv?tag=HEAD-75f2073-250624T151859-loongarch64-Linux&download=jimmsrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/jimm/jimmsrv:HEAD-75f2073-250624T151859-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/jimm/jimmsrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/jimmsrv?tag=HEAD-75f2073-250624T151859-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "889b41cf8b669f4310b4100ff76d9f6c937360fa4188e0e86f38fa9a52cec4bd",
+  "size": "72 MB",
+  "size_raw": "74515552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
