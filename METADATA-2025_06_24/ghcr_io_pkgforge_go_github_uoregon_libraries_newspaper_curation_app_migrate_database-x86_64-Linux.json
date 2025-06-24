@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "migrate-database",
+  "pkg_family": "newspaper-curation-app",
+  "pkg_id": "migrate-database#github.com_uoregon_libraries_newspaper_curation_app",
+  "pkg_name": "migrate-database",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uoregon-libraries/newspaper-curation-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Suite of front- and back-end tools for the curation of digitized newspaper materials",
+  "homepage": [
+    "https://github.com/uoregon-libraries/newspaper-curation-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-test",
+    "bulk-issue-queue",
+    "complete-jobs",
+    "delete-live-done-issues",
+    "docker",
+    "migrate-database",
+    "page-review-issue-fixer",
+    "queue-batches",
+    "remove-dead-issues",
+    "run-jobs",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uoregon-libraries/newspaper-curation-app/archive/4664b248b38d07dc832c8f4120a857f6161b2a8c.tar.gz"
+  ],
+  "tag": [
+    "newspaper-curation",
+    "uolib-odnp"
+  ],
+  "version": "HEAD-4664b24-250624T083515",
+  "version_upstream": "",
+  "bsum": "a2d58ad86f868e2394b2492f3b493caeacd5c4cffb201e8bbafda15289d4b8d9",
+  "build_date": "2025-06-24T20:06:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859693585",
+  "build_id": "15859693585",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/migrate-database?tag=HEAD-4664b24-250624T083515-x86_64-Linux&download=migrate-database.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/migrate-database?tag=HEAD-4664b24-250624T083515-x86_64-Linux&download=migrate-database",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/migrate-database:HEAD-4664b24-250624T083515-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/migrate-database",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/migrate-database?tag=HEAD-4664b24-250624T083515-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f16625d1827ba042858976f2ecb78a8af13c5d1b1a3bd5b71697a967f5e5812",
+  "size": "8.7 MB",
+  "size_raw": "9115712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
