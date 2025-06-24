@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "plugincheck2",
+  "pkg_family": "plugin-validator",
+  "pkg_id": "plugincheck2#github.com_grafana_plugin_validator",
+  "pkg_name": "plugincheck2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/plugin-validator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tool for validating Grafana community plugins",
+  "homepage": [
+    "https://github.com/grafana/plugin-validator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "plugincheck",
+    "plugincheck2",
+    "sourcemapdiff"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/plugin-validator/archive/a1a241b95781bf2ccd8fb1709651a8d000821ae8.tar.gz"
+  ],
+  "tag": [
+    "plugins-platform"
+  ],
+  "version": "HEAD-a1a241b-250624T135056",
+  "version_upstream": "",
+  "bsum": "dc119d0d4a388a84f4edc521ce71a76db8147e9b4899c37b6a2692da6bf01cf7",
+  "build_date": "2025-06-24T17:38:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856709723",
+  "build_id": "15856709723",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/plugin-validator/plugincheck2?tag=HEAD-a1a241b-250624T135056-loongarch64-Linux&download=plugincheck2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/plugin-validator/plugincheck2?tag=HEAD-a1a241b-250624T135056-loongarch64-Linux&download=plugincheck2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/plugin-validator/plugincheck2:HEAD-a1a241b-250624T135056-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/plugin-validator/plugincheck2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/plugin-validator/plugincheck2?tag=HEAD-a1a241b-250624T135056-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d94a2a7fae09c72f1c79a1254bcb5ca6588fb689684f186dc5b570f8fb890fb2",
+  "size": "38 MB",
+  "size_raw": "38938736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
