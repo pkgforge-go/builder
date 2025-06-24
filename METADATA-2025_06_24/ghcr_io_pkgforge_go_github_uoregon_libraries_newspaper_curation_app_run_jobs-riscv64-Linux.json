@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "run-jobs",
+  "pkg_family": "newspaper-curation-app",
+  "pkg_id": "run-jobs#github.com_uoregon_libraries_newspaper_curation_app",
+  "pkg_name": "run-jobs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uoregon-libraries/newspaper-curation-app",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Suite of front- and back-end tools for the curation of digitized newspaper materials",
+  "homepage": [
+    "https://github.com/uoregon-libraries/newspaper-curation-app"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-test",
+    "bulk-issue-queue",
+    "complete-jobs",
+    "delete-live-done-issues",
+    "docker",
+    "migrate-database",
+    "page-review-issue-fixer",
+    "queue-batches",
+    "remove-dead-issues",
+    "run-jobs",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/uoregon-libraries/newspaper-curation-app/archive/4664b248b38d07dc832c8f4120a857f6161b2a8c.tar.gz"
+  ],
+  "tag": [
+    "newspaper-curation",
+    "uolib-odnp"
+  ],
+  "version": "HEAD-4664b24-250624T083515",
+  "version_upstream": "",
+  "bsum": "c3d46cf8d725a9ead81a21268819088c31ecabac2ad21d55d3d9384a03918bd0",
+  "build_date": "2025-06-24T20:06:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859693585",
+  "build_id": "15859693585",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/run-jobs?tag=HEAD-4664b24-250624T083515-riscv64-Linux&download=run-jobs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/run-jobs?tag=HEAD-4664b24-250624T083515-riscv64-Linux&download=run-jobs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/run-jobs:HEAD-4664b24-250624T083515-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/run-jobs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uoregon-libraries/newspaper-curation-app/run-jobs?tag=HEAD-4664b24-250624T083515-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd1b6a5a78d14621ef7b4574e0167c9abc3bda5557a77745836a480e6ef9d7d4",
+  "size": "11 MB",
+  "size_raw": "11170968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
