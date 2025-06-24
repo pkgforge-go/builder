@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "gittuf",
+  "pkg_id": "cli#github.com_gittuf_gittuf",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gittuf/gittuf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A security layer for Git repositories",
+  "homepage": [
+    "https://github.com/gittuf/gittuf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "git-remote-gittuf",
+    "gittuf",
+    "sandbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gittuf/gittuf/archive/d82a808edda4a72f6d0d595ebc2c255ad74050e2.tar.gz"
+  ],
+  "tag": [
+    "access-control",
+    "git",
+    "git-security",
+    "gittuf",
+    "tuf"
+  ],
+  "version": "HEAD-d82a808-250623T215836",
+  "version_upstream": "",
+  "bsum": "7a51173379564c7b968e5a30b0d9ac460bc3806b1f3e51386ed983aa1d26c5c3",
+  "build_date": "2025-06-24T14:28:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851525174",
+  "build_id": "15851525174",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/cli?tag=HEAD-d82a808-250623T215836-loongarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "534",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/cli?tag=HEAD-d82a808-250623T215836-loongarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gittuf/gittuf/cli:HEAD-d82a808-250623T215836-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gittuf/gittuf/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gittuf/gittuf/cli?tag=HEAD-d82a808-250623T215836-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4bda0bea78cd3a1a25ad8bbfe43c43495c24e34dc38f2a72884b6211c61bb26d",
+  "size": "32 MB",
+  "size_raw": "33128608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4ab04ee-250616T131646-loongarch64-Linux",
+    "HEAD-0ecd4c7-250622T150451-loongarch64-Linux",
+    "HEAD-3e399fd-250623T102705-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
