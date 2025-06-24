@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tools",
+  "pkg_family": "karpenter",
+  "pkg_id": "tools#github.com_kubernetes_sigs_karpenter",
+  "pkg_name": "tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/karpenter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/karpenter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kwok",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/karpenter/archive/05cb650357af8a5023b007d25f9f9528e506e924.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-05cb650-250623T174827",
+  "version_upstream": "",
+  "bsum": "f9ddde01ecd5795e0030a7073e95a43e9a20f91942776409e995762a1605ee44",
+  "build_date": "2025-06-24T08:37:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844609376",
+  "build_id": "15844609376",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/karpenter/tools?tag=HEAD-05cb650-250623T174827-aarch64-Linux&download=tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1079",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/karpenter/tools?tag=HEAD-05cb650-250623T174827-aarch64-Linux&download=tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/karpenter/tools:HEAD-05cb650-250623T174827-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/karpenter/tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/karpenter/tools?tag=HEAD-05cb650-250623T174827-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bd49165138c0e9e6c0cbb78800109f75f906affcbbf1345c2e2a3aa2fec73c30",
+  "size": "37 MB",
+  "size_raw": "38605504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
