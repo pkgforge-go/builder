@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "run",
+  "pkg_family": "nginx",
+  "pkg_id": "run#github.com_paketo_buildpacks_nginx",
+  "pkg_name": "run",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/nginx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/nginx"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configure",
+    "run"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paketo-buildpacks/nginx/archive/9f4238e05027027fd829a4b61da939d2ff9a8606.tar.gz"
+  ],
+  "tag": [
+    "cnb"
+  ],
+  "version": "HEAD-9f4238e-250623T233823",
+  "version_upstream": "v0.17.31",
+  "bsum": "4fbd270b4df882384619259dcdd0cd1a288df111748bd0d879b0bcd7dc13cf03",
+  "build_date": "2025-06-24T09:16:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845417752",
+  "build_id": "15845417752",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/nginx/run?tag=HEAD-9f4238e-250623T233823-loongarch64-Linux&download=run.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/nginx/run?tag=HEAD-9f4238e-250623T233823-loongarch64-Linux&download=run",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/nginx/run:HEAD-9f4238e-250623T233823-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/nginx/run",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/nginx/run?tag=HEAD-9f4238e-250623T233823-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5fcdf70df39dd9462cd2f5b1607c7f47b99d169af4a9e85fc3ab9ce50dd95165",
+  "size": "35 MB",
+  "size_raw": "35803800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
