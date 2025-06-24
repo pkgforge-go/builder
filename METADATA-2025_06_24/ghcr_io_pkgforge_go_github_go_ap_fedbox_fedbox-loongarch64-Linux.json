@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fedbox",
+  "pkg_family": "fedbox",
+  "pkg_id": "fedbox#github.com_go_ap_fedbox",
+  "pkg_name": "fedbox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-ap/fedbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference implementation of an ActivityPub service using go-ap packages _mirror repository_",
+  "homepage": [
+    "https://github.com/go-ap/fedbox"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "control",
+    "fedbox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-ap/fedbox/archive/277063e11098c99b224e43934e227f13d6101648.tar.gz"
+  ],
+  "tag": [
+    "activitypub"
+  ],
+  "version": "HEAD-277063e-250624T162115",
+  "version_upstream": "",
+  "bsum": "348da1925f0ccef3c274d34fdb7a48a3d58fa3aeb3d011d085d7661158887a4f",
+  "build_date": "2025-06-24T17:34:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856348591",
+  "build_id": "15856348591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-ap/fedbox/fedbox?tag=HEAD-277063e-250624T162115-loongarch64-Linux&download=fedbox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "148",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-ap/fedbox/fedbox?tag=HEAD-277063e-250624T162115-loongarch64-Linux&download=fedbox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-ap/fedbox/fedbox:HEAD-277063e-250624T162115-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-ap/fedbox/fedbox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-ap/fedbox/fedbox?tag=HEAD-277063e-250624T162115-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "32bc1084a944333eb9c113723f730f4046ca696cb2dc08aacd97561f5c56a2bb",
+  "size": "21 MB",
+  "size_raw": "21950008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
