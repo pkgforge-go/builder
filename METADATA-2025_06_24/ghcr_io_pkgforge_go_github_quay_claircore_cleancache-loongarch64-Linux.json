@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cleancache",
+  "pkg_family": "claircore",
+  "pkg_id": "cleancache#github.com_quay_claircore",
+  "pkg_name": "cleancache",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quay/claircore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "foundation modules for scanning container packages and reporting vulnerabilities",
+  "homepage": [
+    "https://github.com/quay/claircore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bisect",
+    "cleancache",
+    "fetch-container-rpm-manifest",
+    "mdbook-godoc",
+    "mdbook-injecturls",
+    "mdbook-make_target",
+    "mdbook-mermaid",
+    "ovaldebug"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quay/claircore/archive/d31fad5f2994834606d2561336ea52a5607cac66.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "static-analysis"
+  ],
+  "version": "HEAD-d31fad5-250621T140120",
+  "version_upstream": "",
+  "bsum": "5ad1d52eaf3e813c65181b4a13b5504afda6da6311c6d0c1239704ff40e9d823",
+  "build_date": "2025-06-24T09:31:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845898662",
+  "build_id": "15845898662",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/cleancache?tag=HEAD-d31fad5-250621T140120-loongarch64-Linux&download=cleancache.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "147",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/cleancache?tag=HEAD-d31fad5-250621T140120-loongarch64-Linux&download=cleancache",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quay/claircore/cleancache:HEAD-d31fad5-250621T140120-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quay/claircore/cleancache",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/cleancache?tag=HEAD-d31fad5-250621T140120-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c2bd27fb8d0ef35a981d9b4cd11b0d6b40c7c3bfff612ed41d8a7da123071f3",
+  "size": "2.2 MB",
+  "size_raw": "2294328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
