@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "trino-operator",
+  "pkg_family": "trino-operator",
+  "pkg_id": "trino-operator#github.com_zncdatadev_trino_operator",
+  "pkg_name": "trino-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zncdatadev/trino-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for Trino, the distributed SQL query engine for big data",
+  "homepage": [
+    "https://github.com/zncdatadev/trino-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "trino-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zncdatadev/trino-operator/archive/efa013487981bb5a596fdaafdf13db499a5e8b8b.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "kubernetes",
+    "trino"
+  ],
+  "version": "HEAD-efa0134-250624T185356",
+  "version_upstream": "",
+  "bsum": "b65704d9f6ecd2ffd24936d7ca7c9d63a2645bafe26cac9453b2822a2335b194",
+  "build_date": "2025-06-24T20:22:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859762811",
+  "build_id": "15859762811",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zncdatadev/trino-operator/trino-operator?tag=HEAD-efa0134-250624T185356-x86_64-Linux&download=trino-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zncdatadev/trino-operator/trino-operator?tag=HEAD-efa0134-250624T185356-x86_64-Linux&download=trino-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zncdatadev/trino-operator/trino-operator:HEAD-efa0134-250624T185356-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zncdatadev/trino-operator/trino-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zncdatadev/trino-operator/trino-operator?tag=HEAD-efa0134-250624T185356-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6478c72c91c1e3d1ab2a3c6af68fed573ec55f1b8cb895763d5b00388e5569d",
+  "size": "46 MB",
+  "size_raw": "47503616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
