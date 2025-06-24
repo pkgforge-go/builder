@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "varlogadm",
+  "pkg_family": "varlog",
+  "pkg_id": "varlogadm#github.com_kakao_varlog",
+  "pkg_name": "varlogadm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakao/varlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable distributed log storage for strong consistency, total order, and high availability",
+  "homepage": [
+    "https://github.com/kakao/varlog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "mrtool",
+    "varlogadm",
+    "varlogcli",
+    "varlogctl",
+    "varlogmr",
+    "varlogsn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kakao/varlog/archive/da50100cc06113212117dad5d2c1b00341c8505f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-da50100-250624T073302",
+  "version_upstream": "",
+  "bsum": "c5da540b08391f6e5b366c37f04d581c2fb9d0831a1a655b20f76476cc97dd15",
+  "build_date": "2025-06-24T15:04:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851583658",
+  "build_id": "15851583658",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/varlogadm?tag=HEAD-da50100-250624T073302-riscv64-Linux&download=varlogadm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/varlogadm?tag=HEAD-da50100-250624T073302-riscv64-Linux&download=varlogadm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakao/varlog/varlogadm:HEAD-da50100-250624T073302-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakao/varlog/varlogadm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/varlogadm?tag=HEAD-da50100-250624T073302-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4c55c8680710c207632ae31a012017778f5b0c0285bd76db001d2ecbec6d465",
+  "size": "20 MB",
+  "size_raw": "20154488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6f3bfef-250620T123113-riscv64-Linux",
+    "HEAD-ad35168-250622T224054-riscv64-Linux[v0.28.1]"
+  ],
+  "trusted": "true"
+}
