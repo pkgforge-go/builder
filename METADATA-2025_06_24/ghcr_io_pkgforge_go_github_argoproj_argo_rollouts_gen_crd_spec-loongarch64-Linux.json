@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gen-crd-spec",
+  "pkg_family": "argo-rollouts",
+  "pkg_id": "gen-crd-spec#github.com_argoproj_argo_rollouts",
+  "pkg_name": "gen-crd-spec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-rollouts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Progressive Delivery for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-rollouts"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-crd-spec",
+    "gen-docs",
+    "kubectl-argo-rollouts",
+    "metrics-plugin-sample",
+    "rollouts-controller",
+    "step-plugin-e2e",
+    "step-plugin-sample",
+    "trafficrouter-plugin-sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-rollouts/archive/e2cdaf5f11d4974f5abd9ff73cb84e7e521efc7d.tar.gz"
+  ],
+  "tag": [
+    "argo-rollouts",
+    "argoproj",
+    "bluegreen",
+    "canary",
+    "deployments",
+    "experiments",
+    "gitops",
+    "hacktoberfest",
+    "kubernetes",
+    "progressive-delivery"
+  ],
+  "version": "HEAD-e2cdaf5-250623T131126",
+  "version_upstream": "",
+  "bsum": "b155b172340f03cd440a045cbc8441e7eca7d4c6d504db5ff2de0724dff61630",
+  "build_date": "2025-06-24T07:38:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843560533",
+  "build_id": "15843560533",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/gen-crd-spec?tag=HEAD-e2cdaf5-250623T131126-loongarch64-Linux&download=gen-crd-spec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3060",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/gen-crd-spec?tag=HEAD-e2cdaf5-250623T131126-loongarch64-Linux&download=gen-crd-spec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/gen-crd-spec:HEAD-e2cdaf5-250623T131126-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/gen-crd-spec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/gen-crd-spec?tag=HEAD-e2cdaf5-250623T131126-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "810f1f1a2a2ab50e225663d5db98557330da3dae60e3d23add8ef3371e22a5aa",
+  "size": "23 MB",
+  "size_raw": "23218720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
