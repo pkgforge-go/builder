@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gateway",
+  "pkg_family": "anyproxy",
+  "pkg_id": "gateway#github.com_buhuipao_anyproxy",
+  "pkg_name": "gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buhuipao/anyproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Expose your local network and services to public safely",
+  "homepage": [
+    "https://github.com/buhuipao/anyproxy"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buhuipao/anyproxy/archive/b13350680961ae3fe1bf2ce37d243131e5b8ca4d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b133506-250624T163936",
+  "version_upstream": "v1.0.12",
+  "bsum": "8031826b076f48492fc574aaa874fa147f1a1b5add8456be5474d1e1f8de4d5b",
+  "build_date": "2025-06-24T22:18:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862194498",
+  "build_id": "15862194498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buhuipao/anyproxy/gateway?tag=HEAD-b133506-250624T163936-aarch64-Linux&download=gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "62",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buhuipao/anyproxy/gateway?tag=HEAD-b133506-250624T163936-aarch64-Linux&download=gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buhuipao/anyproxy/gateway:HEAD-b133506-250624T163936-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buhuipao/anyproxy/gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buhuipao/anyproxy/gateway?tag=HEAD-b133506-250624T163936-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ed4df41a61d4a502e0f39f70d432be5200a908241295d4610a5a95583a3b3bc",
+  "size": "15 MB",
+  "size_raw": "14960640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d615ca7-250623T172414-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
