@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "configschema",
+  "pkg_family": "kubecolor",
+  "pkg_id": "configschema#github.com_kubecolor_kubecolor",
+  "pkg_name": "configschema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubecolor/kubecolor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Colorize your kubectl output",
+  "homepage": [
+    "https://github.com/kubecolor/kubecolor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configdoc",
+    "configschema",
+    "imagegen",
+    "kubecolor",
+    "testcorpus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubecolor/kubecolor/archive/38acb1950355f8f220ebc5a65dabd9336666907f.tar.gz"
+  ],
+  "tag": [
+    "bash",
+    "cli",
+    "kubectl",
+    "kubectl-plugins",
+    "kubernetes"
+  ],
+  "version": "HEAD-38acb19-250624T014037",
+  "version_upstream": "",
+  "bsum": "d7a97b6e6261f45840b85607fb852a8e5b416bc1c28fd4bb7ffcb41d88e33950",
+  "build_date": "2025-06-24T08:32:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844595969",
+  "build_id": "15844595969",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubecolor/kubecolor/configschema?tag=HEAD-38acb19-250624T014037-riscv64-Linux&download=configschema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1048",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubecolor/kubecolor/configschema?tag=HEAD-38acb19-250624T014037-riscv64-Linux&download=configschema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubecolor/kubecolor/configschema:HEAD-38acb19-250624T014037-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubecolor/kubecolor/configschema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubecolor/kubecolor/configschema?tag=HEAD-38acb19-250624T014037-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e54b91dd898a9758b86b096317a3447b9403d29d8776e9f5689bb211f33e3577",
+  "size": "4.9 MB",
+  "size_raw": "5057048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
