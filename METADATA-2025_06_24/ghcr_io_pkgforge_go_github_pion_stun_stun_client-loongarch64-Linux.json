@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "stun-client",
+  "pkg_family": "stun",
+  "pkg_id": "stun-client#github.com_pion_stun",
+  "pkg_name": "stun-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pion/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of STUN",
+  "homepage": [
+    "https://github.com/pion/stun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-nat-behaviour",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pion/stun/archive/496c3ef28b7552b7f68337281065fe0471e5b057.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "ice",
+    "networking",
+    "peer-to-peer",
+    "pion",
+    "sip",
+    "streaming",
+    "stun",
+    "voip",
+    "webrtc"
+  ],
+  "version": "HEAD-496c3ef-250623T083136",
+  "version_upstream": "",
+  "bsum": "ab322b994cfc38c3f8ce2c440682a6e5aab9cad1f467009b9c9dee2e054b837f",
+  "build_date": "2025-06-24T03:25:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839640895",
+  "build_id": "15839640895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-client?tag=HEAD-496c3ef-250623T083136-loongarch64-Linux&download=stun-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "735",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-client?tag=HEAD-496c3ef-250623T083136-loongarch64-Linux&download=stun-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pion/stun/stun-client:HEAD-496c3ef-250623T083136-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pion/stun/stun-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-client?tag=HEAD-496c3ef-250623T083136-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0cb7e80bcb19a78a2fad044307525cc4d382f8d7edcf3936cbcf82e323ac81d4",
+  "size": "5.5 MB",
+  "size_raw": "5683712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ab7d8d3-250618T074526-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

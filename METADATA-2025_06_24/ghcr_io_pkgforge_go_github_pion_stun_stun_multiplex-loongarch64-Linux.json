@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "stun-multiplex",
+  "pkg_family": "stun",
+  "pkg_id": "stun-multiplex#github.com_pion_stun",
+  "pkg_name": "stun-multiplex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pion/stun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go implementation of STUN",
+  "homepage": [
+    "https://github.com/pion/stun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e",
+    "stun-bench",
+    "stun-client",
+    "stun-decode",
+    "stun-multiplex",
+    "stun-nat-behaviour",
+    "stun-traversal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pion/stun/archive/496c3ef28b7552b7f68337281065fe0471e5b057.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "ice",
+    "networking",
+    "peer-to-peer",
+    "pion",
+    "sip",
+    "streaming",
+    "stun",
+    "voip",
+    "webrtc"
+  ],
+  "version": "HEAD-496c3ef-250623T083136",
+  "version_upstream": "",
+  "bsum": "6239901b667a3ffa3dff111a9fbd9e09d298db3f2bb4242e5560e79ae797211e",
+  "build_date": "2025-06-24T03:25:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839640895",
+  "build_id": "15839640895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-multiplex?tag=HEAD-496c3ef-250623T083136-loongarch64-Linux&download=stun-multiplex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "735",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-multiplex?tag=HEAD-496c3ef-250623T083136-loongarch64-Linux&download=stun-multiplex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pion/stun/stun-multiplex:HEAD-496c3ef-250623T083136-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pion/stun/stun-multiplex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pion/stun/stun-multiplex?tag=HEAD-496c3ef-250623T083136-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3090ab3234a201e24e7320669532ca507825f89fec743bc85da6d753301dee03",
+  "size": "3.4 MB",
+  "size_raw": "3470912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ab7d8d3-250618T074526-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
