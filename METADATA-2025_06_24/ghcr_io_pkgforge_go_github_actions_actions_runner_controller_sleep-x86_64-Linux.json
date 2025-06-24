@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sleep",
+  "pkg_family": "actions-runner-controller",
+  "pkg_id": "sleep#github.com_actions_actions_runner_controller",
+  "pkg_name": "sleep",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/actions/actions-runner-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+  "homepage": [
+    "https://github.com/actions/actions-runner-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "actions-runner-controller",
+    "actionsmetricsserver",
+    "cmd",
+    "ghalistener",
+    "githubwebhookserver",
+    "sleep"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/actions/actions-runner-controller/archive/e6e621a50a8bbc0d4f4aaee69c789731d847b911.tar.gz"
+  ],
+  "tag": [
+    "github-actions",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-e6e621a-250624T112620",
+  "version_upstream": "",
+  "bsum": "76c09f0a2fb57fe5daff22e1c569f6da38746da5399d6106dc7537a6de4c341e",
+  "build_date": "2025-06-24T16:53:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855678954",
+  "build_id": "15855678954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actions/actions-runner-controller/sleep?tag=HEAD-e6e621a-250624T112620-x86_64-Linux&download=sleep.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actions/actions-runner-controller/sleep?tag=HEAD-e6e621a-250624T112620-x86_64-Linux&download=sleep",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/actions/actions-runner-controller/sleep:HEAD-e6e621a-250624T112620-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/actions/actions-runner-controller/sleep",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actions/actions-runner-controller/sleep?tag=HEAD-e6e621a-250624T112620-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee99c790714444462c96b6bb8cbeb285763a7ef03b8c8b3b25b1b2032f88a061",
+  "size": "1.7 MB",
+  "size_raw": "1740728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
