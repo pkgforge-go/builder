@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "base",
+  "pkg_family": "pocketbase",
+  "pkg_id": "base#github.com_pocketbase_pocketbase",
+  "pkg_name": "base",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pocketbase/pocketbase",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source realtime backend in 1 file",
+  "homepage": [
+    "https://github.com/pocketbase/pocketbase"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base",
+    "types"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pocketbase/pocketbase/archive/3f3b77dcd43cf497a53e248ce32296bff1380115.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "backend",
+    "golang",
+    "realtime"
+  ],
+  "version": "HEAD-3f3b77d-250624T085653",
+  "version_upstream": "",
+  "bsum": "771ee8e567e9539f389995f04163b7ed69cda8de973866392daba2ac0f997586",
+  "build_date": "2025-06-24T23:19:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862495629",
+  "build_id": "15862495629",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pocketbase/pocketbase/base?tag=HEAD-3f3b77d-250624T085653-aarch64-Linux&download=base.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47943",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pocketbase/pocketbase/base?tag=HEAD-3f3b77d-250624T085653-aarch64-Linux&download=base",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pocketbase/pocketbase/base:HEAD-3f3b77d-250624T085653-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pocketbase/pocketbase/base",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pocketbase/pocketbase/base?tag=HEAD-3f3b77d-250624T085653-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a904aa1d7bff5c3463e522d580897f4233ae228192282b210399a06fa5a3122",
+  "size": "33 MB",
+  "size_raw": "33808160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0a66e5a-250609T204958-aarch64-Linux[v0.28.3]",
+    "HEAD-db679f9-250621T105152-aarch64-Linux[v0.28.4]"
+  ],
+  "trusted": "true"
+}
