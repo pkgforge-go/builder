@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lambda",
+  "pkg_family": "buildkite-agent-scaler",
+  "pkg_id": "lambda#github.com_buildkite_buildkite_agent_scaler",
+  "pkg_name": "lambda",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buildkite/buildkite-agent-scaler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📈A lambda for scaling an AutoScalingGroup based on Buildkite metrics",
+  "homepage": [
+    "https://github.com/buildkite/buildkite-agent-scaler"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildkite-agent-scaler",
+    "lambda"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buildkite/buildkite-agent-scaler/archive/56c811effb0d7eff5d5d5b28d1ea43f6b2ee8eea.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "buildkite",
+    "lambda"
+  ],
+  "version": "HEAD-56c811e-250624T135124",
+  "version_upstream": "v1.9.5",
+  "bsum": "7f7d1e3d70a0574f4e5b91dccc52b979b4e5db092d8a42af7117321279ff39c0",
+  "build_date": "2025-06-24T17:03:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855836007",
+  "build_id": "15855836007",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/buildkite-agent-scaler/lambda?tag=HEAD-56c811e-250624T135124-x86_64-Linux&download=lambda.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/buildkite-agent-scaler/lambda?tag=HEAD-56c811e-250624T135124-x86_64-Linux&download=lambda",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildkite/buildkite-agent-scaler/lambda:HEAD-56c811e-250624T135124-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildkite/buildkite-agent-scaler/lambda",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/buildkite-agent-scaler/lambda?tag=HEAD-56c811e-250624T135124-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb247a265b12e1ce35ccaa8a2f8c74f93bdc777da1c3816194c3b1b1c119e1cb",
+  "size": "14 MB",
+  "size_raw": "13995392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
