@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dockerfiles",
+  "pkg_family": "ops-agent",
+  "pkg_id": "dockerfiles#github.com_GoogleCloudPlatform_ops_agent",
+  "pkg_name": "dockerfiles",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/ops-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/ops-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent_wrapper",
+    "dockerfiles",
+    "generate_expected_metrics",
+    "get_labels",
+    "google_cloud_ops_agent_engine",
+    "ops_agent_uap_plugin",
+    "run_resource_detector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/ops-agent/archive/d71f7e64c6ec2c630f2c61481afaf7da1ffcbc5b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d71f7e6-250624T092848",
+  "version_upstream": "",
+  "bsum": "5fdd963cd29f86914f4544c35f76b07edf28e80d4a2cbc583ddaf8d3f534cedc",
+  "build_date": "2025-06-24T16:32:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855429313",
+  "build_id": "15855429313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/dockerfiles?tag=HEAD-d71f7e6-250624T092848-riscv64-Linux&download=dockerfiles.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "155",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/dockerfiles?tag=HEAD-d71f7e6-250624T092848-riscv64-Linux&download=dockerfiles",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/ops-agent/dockerfiles:HEAD-d71f7e6-250624T092848-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/ops-agent/dockerfiles",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/dockerfiles?tag=HEAD-d71f7e6-250624T092848-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fa146278e80138a64d07eaa028548dbc23951a26c94bb90b7148076c2ce5a8b",
+  "size": "1.6 MB",
+  "size_raw": "1615784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
