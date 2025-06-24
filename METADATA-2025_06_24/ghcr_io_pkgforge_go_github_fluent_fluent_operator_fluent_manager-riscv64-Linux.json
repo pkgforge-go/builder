@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fluent-manager",
+  "pkg_family": "fluent-operator",
+  "pkg_id": "fluent-manager#github.com_fluent_fluent_operator",
+  "pkg_name": "fluent-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fluent/fluent-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator",
+  "homepage": [
+    "https://github.com/fluent/fluent-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc-gen",
+    "fluent-manager",
+    "fluentbit",
+    "fluentd",
+    "forwarding-logs-via-http"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fluent/fluent-operator/archive/59ac9ea36308bbb383af6f811a15709269501a17.tar.gz"
+  ],
+  "tag": [
+    "fluentbit",
+    "fluentd",
+    "kubernetes",
+    "kubesphere",
+    "logging",
+    "operator"
+  ],
+  "version": "HEAD-59ac9ea-250618T113904",
+  "version_upstream": "",
+  "bsum": "9a9161761d94d730e3bfd50a7e97da7e2f752cc1ff98ab67500fd7a7c12d91de",
+  "build_date": "2025-06-24T08:08:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843894331",
+  "build_id": "15843894331",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/fluent-manager?tag=HEAD-59ac9ea-250618T113904-riscv64-Linux&download=fluent-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "626",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/fluent-manager?tag=HEAD-59ac9ea-250618T113904-riscv64-Linux&download=fluent-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fluent/fluent-operator/fluent-manager:HEAD-59ac9ea-250618T113904-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fluent/fluent-operator/fluent-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/fluent-manager?tag=HEAD-59ac9ea-250618T113904-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df81aed8f35221dcf08f74433e748315e21f399f3e0a1fb493b41b134bf74767",
+  "size": "41 MB",
+  "size_raw": "42283288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
