@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "check_prometheus",
+  "pkg_family": "check_prometheus",
+  "pkg_id": "check_prometheus#github.com_NETWAYS_check_prometheus",
+  "pkg_name": "check_prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NETWAYS/check_prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Icinga check plugin to check Prometheus",
+  "homepage": [
+    "https://github.com/NETWAYS/check_prometheus"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_prometheus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NETWAYS/check_prometheus/archive/78aa5ad3de6016b266dfc747fcc1a2e609ea78c6.tar.gz"
+  ],
+  "tag": [
+    "icinga",
+    "monitoring",
+    "plugin",
+    "prometheus"
+  ],
+  "version": "HEAD-78aa5ad-250623T215649",
+  "version_upstream": "",
+  "bsum": "005842fd7ffdc6eed78d425b98ea4c4dae3fd8c53a27168f3566269e32cba6c4",
+  "build_date": "2025-06-24T07:10:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843506420",
+  "build_id": "15843506420",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/check/prometheus/check_prometheus?tag=HEAD-78aa5ad-250623T215649-loongarch64-Linux&download=check_prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/check/prometheus/check_prometheus?tag=HEAD-78aa5ad-250623T215649-loongarch64-Linux&download=check_prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/check/prometheus/check_prometheus:HEAD-78aa5ad-250623T215649-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/check/prometheus/check_prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/check/prometheus/check_prometheus?tag=HEAD-78aa5ad-250623T215649-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e67bcb76a901068ee78297734d5c83c6f3a14de68e696e8192a36998739b26c",
+  "size": "13 MB",
+  "size_raw": "12971936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
