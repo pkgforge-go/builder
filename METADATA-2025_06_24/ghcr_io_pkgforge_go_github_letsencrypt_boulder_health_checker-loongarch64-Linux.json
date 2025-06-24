@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "health-checker",
+  "pkg_family": "boulder",
+  "pkg_id": "health-checker#github.com_letsencrypt_boulder",
+  "pkg_name": "health-checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/letsencrypt/boulder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An ACME-based certificate authority, written in Go.",
+  "homepage": [
+    "https://github.com/letsencrypt/boulder"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "aia-test-srv",
+    "akamai-test-srv",
+    "boulder",
+    "ceremony",
+    "certs",
+    "chall-test-srv",
+    "checkari",
+    "checkocsp",
+    "ct-test-srv",
+    "flushredis",
+    "health-checker",
+    "list-features",
+    "load-generator",
+    "mail-test-srv",
+    "nameid",
+    "ocsp_forever",
+    "pardot-test-srv",
+    "s3-test-srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/letsencrypt/boulder/archive/5ddd5acf990db7d632398c767537038e42b810a0.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "boulder",
+    "ca",
+    "certificate-authority",
+    "go",
+    "lets-encrypt",
+    "pki",
+    "rfc8555",
+    "tls"
+  ],
+  "version": "HEAD-5ddd5ac-250623T173606",
+  "version_upstream": "release-2025-06-23",
+  "bsum": "4d60d382ea36fa76681279274e50ee4f7e30c5fb65f4ade0cc1b8e4185e90f7a",
+  "build_date": "2025-06-24T08:49:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844646584",
+  "build_id": "15844646584",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/health-checker?tag=HEAD-5ddd5ac-250623T173606-loongarch64-Linux&download=health-checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5460",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/health-checker?tag=HEAD-5ddd5ac-250623T173606-loongarch64-Linux&download=health-checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/letsencrypt/boulder/health-checker:HEAD-5ddd5ac-250623T173606-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/letsencrypt/boulder/health-checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/health-checker?tag=HEAD-5ddd5ac-250623T173606-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f5f3f360f22b817acff6438cb1cd72634abaeb87577f28a8ae55eba5cc65106c",
+  "size": "18 MB",
+  "size_raw": "18474664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
