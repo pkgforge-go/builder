@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "torrentfs",
+  "pkg_id": "server#github.com_CortexFoundation_torrentfs",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CortexFoundation/torrentfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A p2p file system for https://github.com/CortexFoundation/CortexTheseus with pure Golang",
+  "homepage": [
+    "https://github.com/CortexFoundation/torrentfs"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pack-blocklist",
+    "seeding",
+    "server",
+    "torrent",
+    "torrent-create",
+    "torrent-magnet",
+    "torrentfs",
+    "tracker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CortexFoundation/torrentfs/archive/3907c8c961de8cc1a39588145352803ce326ad8e.tar.gz"
+  ],
+  "tag": [
+    "cortex",
+    "dht-network",
+    "file-system",
+    "storage"
+  ],
+  "version": "HEAD-3907c8c-250624T210554",
+  "version_upstream": "",
+  "bsum": "99cceb151bae5b2f4ef88cddd444f03e56b3c4e35bf22f786d05e8ca5883465d",
+  "build_date": "2025-06-24T16:26:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855379396",
+  "build_id": "15855379396",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/server?tag=HEAD-3907c8c-250624T210554-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/server?tag=HEAD-3907c8c-250624T210554-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexfoundation/torrentfs/server:HEAD-3907c8c-250624T210554-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexfoundation/torrentfs/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/server?tag=HEAD-3907c8c-250624T210554-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb1ea8a0955cc43a2f860acce9c2c215d70d013b6176a95044464e1e18956e47",
+  "size": "38 MB",
+  "size_raw": "39375048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
