@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "run_resource_detector",
+  "pkg_family": "ops-agent",
+  "pkg_id": "run_resource_detector#github.com_GoogleCloudPlatform_ops_agent",
+  "pkg_name": "run_resource_detector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/ops-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/ops-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent_wrapper",
+    "dockerfiles",
+    "generate_expected_metrics",
+    "get_labels",
+    "google_cloud_ops_agent_engine",
+    "ops_agent_uap_plugin",
+    "run_resource_detector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/ops-agent/archive/d71f7e64c6ec2c630f2c61481afaf7da1ffcbc5b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d71f7e6-250624T092848",
+  "version_upstream": "",
+  "bsum": "6cd9f766b78b299ef5b57a9323fd549be88c067d329a1011d122f632c483baec",
+  "build_date": "2025-06-24T16:31:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855429313",
+  "build_id": "15855429313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/run_resource_detector?tag=HEAD-d71f7e6-250624T092848-aarch64-Linux&download=run_resource_detector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "155",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/run_resource_detector?tag=HEAD-d71f7e6-250624T092848-aarch64-Linux&download=run_resource_detector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/ops-agent/run_resource_detector:HEAD-d71f7e6-250624T092848-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/ops-agent/run_resource_detector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/ops-agent/run_resource_detector?tag=HEAD-d71f7e6-250624T092848-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b34fdcf66c74d4b50ad1ca5ae1c1b8f56a952e4b4abfedd5dd64f1b1f2c9831",
+  "size": "8.1 MB",
+  "size_raw": "8452192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
