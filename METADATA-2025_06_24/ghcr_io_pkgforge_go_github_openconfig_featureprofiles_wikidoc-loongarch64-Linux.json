@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "wikidoc",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "wikidoc#github.com_openconfig_featureprofiles",
+  "pkg_name": "wikidoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/4f694cfd1725b94f3da7419f3704b63bbd8b004b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4f694cf-250624T142533",
+  "version_upstream": "",
+  "bsum": "d0a229f32d57b5416bc4e7bfc0e2f62ae89748e3a98f7fd6175d9ba5b05c0886",
+  "build_date": "2025-06-24T15:36:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851704900",
+  "build_id": "15851704900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-4f694cf-250624T142533-loongarch64-Linux&download=wikidoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-4f694cf-250624T142533-loongarch64-Linux&download=wikidoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/wikidoc:HEAD-4f694cf-250624T142533-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/wikidoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-4f694cf-250624T142533-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d0bab28b039afcf7ed9a82f759742941c6d28624e791bf4414019cac2deee0e",
+  "size": "6.3 MB",
+  "size_raw": "6569528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-loongarch64-Linux",
+    "HEAD-abdf959-250623T164926-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
