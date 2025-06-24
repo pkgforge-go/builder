@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nfd-topology-updater",
+  "pkg_family": "node-feature-discovery",
+  "pkg_id": "nfd-topology-updater#github.com_kubernetes_sigs_node_feature_discovery",
+  "pkg_name": "nfd-topology-updater",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/node-feature-discovery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node feature discovery for Kubernetes",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/node-feature-discovery"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-nfd",
+    "nfd",
+    "nfd-gc",
+    "nfd-master",
+    "nfd-topology-updater",
+    "nfd-worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/node-feature-discovery/archive/553b2699fdda487b50be51461b44031573f2c6f6.tar.gz"
+  ],
+  "tag": [
+    "cpuid",
+    "feature-detection",
+    "hacktoberfest",
+    "hardware",
+    "k8s-sig-node",
+    "kubernetes",
+    "node-labels",
+    "rdt"
+  ],
+  "version": "HEAD-553b269-250624T053229",
+  "version_upstream": "",
+  "bsum": "dd580ebe120889a06dfe87f88925f4b6bad1c37b479653bf83e9534f64a83cca",
+  "build_date": "2025-06-24T18:09:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857119279",
+  "build_id": "15857119279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-topology-updater?tag=HEAD-553b269-250624T053229-x86_64-Linux&download=nfd-topology-updater.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-topology-updater?tag=HEAD-553b269-250624T053229-x86_64-Linux&download=nfd-topology-updater",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-topology-updater:HEAD-553b269-250624T053229-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-topology-updater",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-topology-updater?tag=HEAD-553b269-250624T053229-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71aa350d993d499ce96734ec16e8b451aa685353fa2293ec17c147d37766948c",
+  "size": "68 MB",
+  "size_raw": "70896480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
