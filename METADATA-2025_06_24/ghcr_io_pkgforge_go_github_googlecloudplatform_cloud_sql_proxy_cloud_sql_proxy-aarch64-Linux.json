@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cloud-sql-proxy",
+  "pkg_family": "cloud-sql-proxy",
+  "pkg_id": "cloud-sql-proxy#github.com_GoogleCloudPlatform_cloud_sql_proxy",
+  "pkg_name": "cloud-sql-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/cloud-sql-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility for connecting securely to your Cloud SQL instances",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/cloud-sql-proxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloud-sql-proxy",
+    "gendocs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/cloud-sql-proxy/archive/05b0d6067c178fdcd70267ccc2cd78614a292d5b.tar.gz"
+  ],
+  "tag": [
+    "cloud-sql",
+    "cloud-sql-proxy",
+    "gcp",
+    "google-cloud",
+    "google-cloud-platform",
+    "libraries"
+  ],
+  "version": "HEAD-05b0d60-250623T124021",
+  "version_upstream": "",
+  "bsum": "4d1813ecea317b9039256557f8e8a81b658b2b5f7ef49b1093fe11276aa71ee3",
+  "build_date": "2025-06-24T07:07:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843504989",
+  "build_id": "15843504989",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-sql-proxy/cloud-sql-proxy?tag=HEAD-05b0d60-250623T124021-aarch64-Linux&download=cloud-sql-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1342",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-sql-proxy/cloud-sql-proxy?tag=HEAD-05b0d60-250623T124021-aarch64-Linux&download=cloud-sql-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-sql-proxy/cloud-sql-proxy:HEAD-05b0d60-250623T124021-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-sql-proxy/cloud-sql-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-sql-proxy/cloud-sql-proxy?tag=HEAD-05b0d60-250623T124021-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18b389595a2a3603b30725040ef456eae0b4b53687eb0aa66f1a1a19734307b4",
+  "size": "25 MB",
+  "size_raw": "26188160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
