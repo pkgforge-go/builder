@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test-exporter",
+  "pkg_family": "cortex",
+  "pkg_id": "test-exporter#github.com_cortexproject_cortex",
+  "pkg_name": "test-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cortexproject/cortex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+  "homepage": [
+    "https://github.com/cortexproject/cortex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cortexproject/cortex/archive/f9fc11c923d349614d224a6bc1cb49202657fd23.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-f9fc11c-250623T105316",
+  "version_upstream": "",
+  "bsum": "3ec8fa61594199e283b48a9ca333a71903b8071d95b839756c6394e52148a869",
+  "build_date": "2025-06-24T14:02:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851488418",
+  "build_id": "15851488418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/test-exporter?tag=HEAD-f9fc11c-250623T105316-loongarch64-Linux&download=test-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5614",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/test-exporter?tag=HEAD-f9fc11c-250623T105316-loongarch64-Linux&download=test-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/test-exporter:HEAD-f9fc11c-250623T105316-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/test-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/test-exporter?tag=HEAD-f9fc11c-250623T105316-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "703adf044b5569e33d9eea2130860b2177f11656f6f4736f83410f125ea9f8b7",
+  "size": "20 MB",
+  "size_raw": "20307168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-loongarch64-Linux",
+    "HEAD-bf88f67-250621T233300-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
