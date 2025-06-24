@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "go-proton-api",
+  "pkg_id": "server#github.com_ProtonMail_go_proton_api",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ProtonMail/go-proton-api",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proton API library used by Go-based clients and tools",
+  "homepage": [
+    "https://github.com/ProtonMail/go-proton-api"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ProtonMail/go-proton-api/archive/de1611bf40e0b5c0b1a49dc39f4274ab0ef4a0a7.tar.gz"
+  ],
+  "tag": [
+    "client",
+    "go",
+    "golang",
+    "proton",
+    "protonmail",
+    "rest-api"
+  ],
+  "version": "HEAD-de1611b-250624T120533",
+  "version_upstream": "",
+  "bsum": "a4ded7f77048e3f4d7aa07e40878691a8b5b8c17cde32b238f5297db2ac2b322",
+  "build_date": "2025-06-24T16:39:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855457635",
+  "build_id": "15855457635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/go-proton-api/server?tag=HEAD-de1611b-250624T120533-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "161",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/go-proton-api/server?tag=HEAD-de1611b-250624T120533-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/protonmail/go-proton-api/server:HEAD-de1611b-250624T120533-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/protonmail/go-proton-api/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/go-proton-api/server?tag=HEAD-de1611b-250624T120533-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75956680148bc80310af128b97fbec4afacbfc0987c65c50ce840a346eca9477",
+  "size": "20 MB",
+  "size_raw": "20773568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
