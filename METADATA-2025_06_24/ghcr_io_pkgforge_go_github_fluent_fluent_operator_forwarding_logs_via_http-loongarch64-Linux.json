@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "forwarding-logs-via-http",
+  "pkg_family": "fluent-operator",
+  "pkg_id": "forwarding-logs-via-http#github.com_fluent_fluent_operator",
+  "pkg_name": "forwarding-logs-via-http",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fluent/fluent-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator",
+  "homepage": [
+    "https://github.com/fluent/fluent-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc-gen",
+    "fluent-manager",
+    "fluentbit",
+    "fluentd",
+    "forwarding-logs-via-http"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fluent/fluent-operator/archive/59ac9ea36308bbb383af6f811a15709269501a17.tar.gz"
+  ],
+  "tag": [
+    "fluentbit",
+    "fluentd",
+    "kubernetes",
+    "kubesphere",
+    "logging",
+    "operator"
+  ],
+  "version": "HEAD-59ac9ea-250618T113904",
+  "version_upstream": "",
+  "bsum": "9a024b4984bff2ce4929b8b76caafc0c7f299802604f33fb32f407846c8260b3",
+  "build_date": "2025-06-24T08:10:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843894331",
+  "build_id": "15843894331",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/forwarding-logs-via-http?tag=HEAD-59ac9ea-250618T113904-loongarch64-Linux&download=forwarding-logs-via-http.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "626",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/forwarding-logs-via-http?tag=HEAD-59ac9ea-250618T113904-loongarch64-Linux&download=forwarding-logs-via-http",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fluent/fluent-operator/forwarding-logs-via-http:HEAD-59ac9ea-250618T113904-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fluent/fluent-operator/forwarding-logs-via-http",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fluent/fluent-operator/forwarding-logs-via-http?tag=HEAD-59ac9ea-250618T113904-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5644f25e077720dd5222e54738e30ae94e629332da7004d582501b36035e770e",
+  "size": "5.9 MB",
+  "size_raw": "6123552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
