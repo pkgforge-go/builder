@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jenkins_exporter",
+  "pkg_family": "jenkins_exporter",
+  "pkg_id": "jenkins_exporter#github.com_promhippie_jenkins_exporter",
+  "pkg_name": "jenkins_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/promhippie/jenkins_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for Jenkins",
+  "homepage": [
+    "https://github.com/promhippie/jenkins_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jenkins_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/promhippie/jenkins_exporter/archive/61df14810b720d7e55ac01b2b134ec51e60a958a.tar.gz"
+  ],
+  "tag": [
+    "jenkins",
+    "metrics",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-61df148-250623T083005",
+  "version_upstream": "",
+  "bsum": "360f04bc2c612ae5acc4aaa966259f14a6ce144711ac0dc2c7bf9ca587f99c7c",
+  "build_date": "2025-06-24T03:28:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839696752",
+  "build_id": "15839696752",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenkins/exporter/jenkins_exporter?tag=HEAD-61df148-250623T083005-loongarch64-Linux&download=jenkins_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenkins/exporter/jenkins_exporter?tag=HEAD-61df148-250623T083005-loongarch64-Linux&download=jenkins_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jenkins/exporter/jenkins_exporter:HEAD-61df148-250623T083005-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jenkins/exporter/jenkins_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenkins/exporter/jenkins_exporter?tag=HEAD-61df148-250623T083005-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21b61a6c0fa60d7e1c544d030e0a556efb911e3ad9217a6fb409796eb3f87192",
+  "size": "14 MB",
+  "size_raw": "13713920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-74351a2-250620T163652-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
