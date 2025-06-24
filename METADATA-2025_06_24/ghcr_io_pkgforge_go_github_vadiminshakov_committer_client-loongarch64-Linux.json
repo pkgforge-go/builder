@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "committer",
+  "pkg_id": "client#github.com_vadiminshakov_committer",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vadiminshakov/committer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Two-phase _2PC_ and three-phase _3PC_ protocols implementaion in Golang",
+  "homepage": [
+    "https://github.com/vadiminshakov/committer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "committer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vadiminshakov/committer/archive/62ba2a6ca7b2ca33d35dd1fc31e7749621a4963d.tar.gz"
+  ],
+  "tag": [
+    "2pc",
+    "3pc",
+    "distributed-systems",
+    "three-phase-commit",
+    "two-phase-commit"
+  ],
+  "version": "HEAD-62ba2a6-250624T004300",
+  "version_upstream": "",
+  "bsum": "f9d615ebb73c2c22691a65c409bd5d6731258be0e57bc432b7c838adef245b07",
+  "build_date": "2025-06-24T16:14:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15852675624",
+  "build_id": "15852675624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vadiminshakov/committer/client?tag=HEAD-62ba2a6-250624T004300-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vadiminshakov/committer/client?tag=HEAD-62ba2a6-250624T004300-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vadiminshakov/committer/client:HEAD-62ba2a6-250624T004300-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vadiminshakov/committer/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vadiminshakov/committer/client?tag=HEAD-62ba2a6-250624T004300-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fb83b91f8a28d8f3e364dac0ddd9142da7be6ab5ed0b188abb2b4e8e8cb398c2",
+  "size": "11 MB",
+  "size_raw": "11017088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c9053d1-250622T024531-loongarch64-Linux",
+    "HEAD-ecb9969-250622T224051-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
