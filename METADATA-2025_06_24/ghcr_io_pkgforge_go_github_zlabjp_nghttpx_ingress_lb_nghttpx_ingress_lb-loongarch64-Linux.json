@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nghttpx-ingress-lb",
+  "pkg_family": "nghttpx-ingress-lb",
+  "pkg_id": "nghttpx-ingress-lb#github.com_zlabjp_nghttpx_ingress_lb",
+  "pkg_name": "nghttpx-ingress-lb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zlabjp/nghttpx-ingress-lb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "nghttpx ingress controller for Kubernetes",
+  "homepage": [
+    "https://github.com/zlabjp/nghttpx-ingress-lb"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nghttpx-ingress-lb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zlabjp/nghttpx-ingress-lb/archive/9ea9bce6e3f16cecea5e01d58cc6f13f7bcb058d.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "gateway-api",
+    "go",
+    "http3",
+    "ingress",
+    "ingress-controller",
+    "k8s",
+    "kubernetes",
+    "loadbalancer",
+    "nghttpx",
+    "quic",
+    "websocket"
+  ],
+  "version": "HEAD-9ea9bce-250624T110903",
+  "version_upstream": "",
+  "bsum": "1f945d16af91abf0751c58c1aad6d0822415a6d9707e7162795c671efb6e32a2",
+  "build_date": "2025-06-24T10:29:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847482119",
+  "build_id": "15847482119",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zlabjp/nghttpx-ingress-lb/nghttpx-ingress-lb?tag=HEAD-9ea9bce-250624T110903-loongarch64-Linux&download=nghttpx-ingress-lb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "140",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zlabjp/nghttpx-ingress-lb/nghttpx-ingress-lb?tag=HEAD-9ea9bce-250624T110903-loongarch64-Linux&download=nghttpx-ingress-lb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zlabjp/nghttpx-ingress-lb/nghttpx-ingress-lb:HEAD-9ea9bce-250624T110903-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zlabjp/nghttpx-ingress-lb/nghttpx-ingress-lb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zlabjp/nghttpx-ingress-lb/nghttpx-ingress-lb?tag=HEAD-9ea9bce-250624T110903-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d6bc568a60c207544b449de86d4c493e8256cb683e78c422ab857bd8d4a5275",
+  "size": "56 MB",
+  "size_raw": "58082976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
