@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cert-controller-manager",
+  "pkg_family": "cert-management",
+  "pkg_id": "cert-controller-manager#github.com_gardener_cert_management",
+  "pkg_name": "cert-controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/cert-management",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manages TLS certificates in Kubernetes clusters using custom resources",
+  "homepage": [
+    "https://github.com/gardener/cert-management"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cert-controller-manager",
+    "certman2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/cert-management/archive/2040d1f4b972557bae36cd1927646ad8559a4410.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2040d1f-250624T115026",
+  "version_upstream": "",
+  "bsum": "7cc5a02ff7384a620032a1b57125644a22b1f8bc2a785e6fa0c54be8eb7de916",
+  "build_date": "2025-06-24T17:33:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856343185",
+  "build_id": "15856343185",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/cert-management/cert-controller-manager?tag=HEAD-2040d1f-250624T115026-riscv64-Linux&download=cert-controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/cert-management/cert-controller-manager?tag=HEAD-2040d1f-250624T115026-riscv64-Linux&download=cert-controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/cert-management/cert-controller-manager:HEAD-2040d1f-250624T115026-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/cert-management/cert-controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/cert-management/cert-controller-manager?tag=HEAD-2040d1f-250624T115026-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4968fcedc03e03b4cdb5e7d3e495c3a9af217ddc958225cd1389e96bd593acd",
+  "size": "53 MB",
+  "size_raw": "55039096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
