@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "checks",
+  "pkg_family": "singularity",
+  "pkg_id": "checks#github.com_sylabs_singularity",
+  "pkg_name": "checks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sylabs/singularity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.",
+  "homepage": [
+    "https://github.com/sylabs/singularity"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "checks",
+    "confgen",
+    "scripts",
+    "standalone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sylabs/singularity/archive/7325e1f280087d356f77e81f8c4f74574f8651ea.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "hpc",
+    "linux"
+  ],
+  "version": "HEAD-7325e1f-250623T102351",
+  "version_upstream": "",
+  "bsum": "9e1b364b877cdfac0d5756fe3b061b22a7f84b6fd7d1f2bcd4822dbdcfcfb4e2",
+  "build_date": "2025-06-24T00:10:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835933668",
+  "build_id": "15835933668",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/checks?tag=HEAD-7325e1f-250623T102351-x86_64-Linux&download=checks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "857",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/checks?tag=HEAD-7325e1f-250623T102351-x86_64-Linux&download=checks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sylabs/singularity/checks:HEAD-7325e1f-250623T102351-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sylabs/singularity/checks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/checks?tag=HEAD-7325e1f-250623T102351-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b757ad4b69864576f4381d3d3bbbb47d6c480872ebee992cd17f8b65fcde2637",
+  "size": "2.0 MB",
+  "size_raw": "2010200",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-08da20f-250619T150451-x86_64-Linux",
+    "HEAD-9d76986-250620T161213-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
