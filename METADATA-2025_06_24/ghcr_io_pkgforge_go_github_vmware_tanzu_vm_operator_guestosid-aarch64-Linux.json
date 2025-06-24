@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "guestosid",
+  "pkg_family": "vm-operator",
+  "pkg_id": "guestosid#github.com_vmware_tanzu_vm_operator",
+  "pkg_name": "guestosid",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware-tanzu/vm-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Self-service manage your virtual infrastructure...",
+  "homepage": [
+    "https://github.com/vmware-tanzu/vm-operator"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "guestosid",
+    "vm-operator",
+    "web-console-validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware-tanzu/vm-operator/archive/d78e41d9aed5d784eeaeb8cfc92d799840ee65b9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d78e41d-250623T171957",
+  "version_upstream": "",
+  "bsum": "b46c21956481152858b651844b295d51e9b3e165ae5ea50ff561603d4cd15bee",
+  "build_date": "2025-06-24T10:13:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847427921",
+  "build_id": "15847427921",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/vm-operator/guestosid?tag=HEAD-d78e41d-250623T171957-aarch64-Linux&download=guestosid.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/vm-operator/guestosid?tag=HEAD-d78e41d-250623T171957-aarch64-Linux&download=guestosid",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware-tanzu/vm-operator/guestosid:HEAD-d78e41d-250623T171957-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware-tanzu/vm-operator/guestosid",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/vm-operator/guestosid?tag=HEAD-d78e41d-250623T171957-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "221e9b24524e48578ed638c823d6321cf545a01ee3c863e9b4281aa31f4e9e9f",
+  "size": "11 MB",
+  "size_raw": "10671552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
