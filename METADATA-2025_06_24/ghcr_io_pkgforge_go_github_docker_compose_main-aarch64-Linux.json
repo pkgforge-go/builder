@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "compose",
+  "pkg_id": "main#github.com_docker_compose",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/compose",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Define and run multi-container applications with Docker",
+  "homepage": [
+    "https://github.com/docker/compose"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compose-cmd",
+    "examples",
+    "main"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docker/compose/archive/c97e40e2b8e52979993a62ca24b0fae1f3925813.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "docker-compose",
+    "go",
+    "golang",
+    "orchestration"
+  ],
+  "version": "HEAD-c97e40e-250623T210538",
+  "version_upstream": "",
+  "bsum": "f51bfe75b4f7775ce141a535fae60ff373f186c13646986dbac6af5b7e15d03c",
+  "build_date": "2025-06-24T14:13:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851494965",
+  "build_id": "15851494965",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/main?tag=HEAD-c97e40e-250623T210538-aarch64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35657",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/main?tag=HEAD-c97e40e-250623T210538-aarch64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/compose/main:HEAD-c97e40e-250623T210538-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/compose/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/main?tag=HEAD-c97e40e-250623T210538-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "95db24e0ba3949051449c5f45c57911fdfced486d8bfea3ddbfc292245d17842",
+  "size": "62 MB",
+  "size_raw": "64531424",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f7825a5-250620T151651-aarch64-Linux[v2.37.2]",
+    "HEAD-2dde5fa-250622T074438-aarch64-Linux",
+    "HEAD-22e23bd-250622T205035-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
