@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "seeding",
+  "pkg_family": "torrentfs",
+  "pkg_id": "seeding#github.com_CortexFoundation_torrentfs",
+  "pkg_name": "seeding",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CortexFoundation/torrentfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A p2p file system for https://github.com/CortexFoundation/CortexTheseus with pure Golang",
+  "homepage": [
+    "https://github.com/CortexFoundation/torrentfs"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pack-blocklist",
+    "seeding",
+    "server",
+    "torrent",
+    "torrent-create",
+    "torrent-magnet",
+    "torrentfs",
+    "tracker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CortexFoundation/torrentfs/archive/3907c8c961de8cc1a39588145352803ce326ad8e.tar.gz"
+  ],
+  "tag": [
+    "cortex",
+    "dht-network",
+    "file-system",
+    "storage"
+  ],
+  "version": "HEAD-3907c8c-250624T210554",
+  "version_upstream": "",
+  "bsum": "a6159e062db9a36feca0bcb7295c2a97e298a85fff1ae814c9962bf685961ccf",
+  "build_date": "2025-06-24T16:26:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855379396",
+  "build_id": "15855379396",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/seeding?tag=HEAD-3907c8c-250624T210554-loongarch64-Linux&download=seeding.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/seeding?tag=HEAD-3907c8c-250624T210554-loongarch64-Linux&download=seeding",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexfoundation/torrentfs/seeding:HEAD-3907c8c-250624T210554-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexfoundation/torrentfs/seeding",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/torrentfs/seeding?tag=HEAD-3907c8c-250624T210554-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f899af8adba2c79f2581bcde160d086b3834295b520547b7b5593dc633eb1b6",
+  "size": "17 MB",
+  "size_raw": "17485736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
