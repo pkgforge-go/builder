@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "confgen",
+  "pkg_family": "singularity",
+  "pkg_id": "confgen#github.com_sylabs_singularity",
+  "pkg_name": "confgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sylabs/singularity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.",
+  "homepage": [
+    "https://github.com/sylabs/singularity"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "checks",
+    "confgen",
+    "scripts",
+    "standalone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sylabs/singularity/archive/7325e1f280087d356f77e81f8c4f74574f8651ea.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "hpc",
+    "linux"
+  ],
+  "version": "HEAD-7325e1f-250623T102351",
+  "version_upstream": "",
+  "bsum": "125b5cf19e2c1042c9e4a8c7a7c3c01575efea346d4b19508d35ef3c94b3aecd",
+  "build_date": "2025-06-24T00:09:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835933668",
+  "build_id": "15835933668",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/confgen?tag=HEAD-7325e1f-250623T102351-riscv64-Linux&download=confgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "857",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/confgen?tag=HEAD-7325e1f-250623T102351-riscv64-Linux&download=confgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sylabs/singularity/confgen:HEAD-7325e1f-250623T102351-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sylabs/singularity/confgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sylabs/singularity/confgen?tag=HEAD-7325e1f-250623T102351-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03115826dbbe85a225f9381955e86abedfdbcf165e873f21caa8dd1b1c08267a",
+  "size": "3.0 MB",
+  "size_raw": "3103176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-08da20f-250619T150451-riscv64-Linux",
+    "HEAD-9d76986-250620T161213-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
