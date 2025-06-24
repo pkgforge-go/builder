@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "tanjun",
+  "pkg_id": "scheduler#github.com_shyim_tanjun",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/shyim/tanjun",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dockerized Deployment",
+  "homepage": [
+    "https://github.com/shyim/tanjun"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "scheduler",
+    "schema-generator",
+    "tanjun"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/shyim/tanjun/archive/02a709df430cabf65417e2f46cb6940961fea661.tar.gz"
+  ],
+  "tag": [
+    "docker"
+  ],
+  "version": "HEAD-02a709d-250623T214935",
+  "version_upstream": "",
+  "bsum": "5b6a800bdc1f54bbc5ed1096ea5ef48f324ebf87cfeac1ebf034858f3e5ce7a3",
+  "build_date": "2025-06-24T09:37:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845940022",
+  "build_id": "15845940022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shyim/tanjun/scheduler?tag=HEAD-02a709d-250623T214935-aarch64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shyim/tanjun/scheduler?tag=HEAD-02a709d-250623T214935-aarch64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shyim/tanjun/scheduler:HEAD-02a709d-250623T214935-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shyim/tanjun/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shyim/tanjun/scheduler?tag=HEAD-02a709d-250623T214935-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c01aaf48a2fb3b28c114242f3cacfd22f4b9a4854a11914d170bb634fa02e27",
+  "size": "13 MB",
+  "size_raw": "12672160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
