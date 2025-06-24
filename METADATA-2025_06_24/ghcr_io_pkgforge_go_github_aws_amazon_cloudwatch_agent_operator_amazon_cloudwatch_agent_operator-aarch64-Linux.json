@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "amazon-cloudwatch-agent-operator",
+  "pkg_family": "amazon-cloudwatch-agent-operator",
+  "pkg_id": "amazon-cloudwatch-agent-operator#github.com_aws_amazon_cloudwatch_agent_operator",
+  "pkg_name": "amazon-cloudwatch-agent-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-cloudwatch-agent-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Amazon CloudWatch Agent Operator is software developed to manage the CloudWatch Agent on kubernetes.",
+  "homepage": [
+    "https://github.com/aws/amazon-cloudwatch-agent-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amazon-cloudwatch-agent-operator",
+    "amazon-cloudwatch-agent-target-allocator",
+    "cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/amazon-cloudwatch-agent-operator/archive/9453da1a1e9a09d159277148c822af638a1c140d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9453da1-250623T150229",
+  "version_upstream": "",
+  "bsum": "f942de0537b4ae301d7ca1824ff58eb7c73d1511acc694a7df25985982f09354",
+  "build_date": "2025-06-24T07:38:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843562802",
+  "build_id": "15843562802",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent-operator/amazon-cloudwatch-agent-operator?tag=HEAD-9453da1-250623T150229-aarch64-Linux&download=amazon-cloudwatch-agent-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent-operator/amazon-cloudwatch-agent-operator?tag=HEAD-9453da1-250623T150229-aarch64-Linux&download=amazon-cloudwatch-agent-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent-operator/amazon-cloudwatch-agent-operator:HEAD-9453da1-250623T150229-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent-operator/amazon-cloudwatch-agent-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent-operator/amazon-cloudwatch-agent-operator?tag=HEAD-9453da1-250623T150229-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9bf860d8bf8843b037c9e25c4f328ec2b8205c50534adacd178311c5837de207",
+  "size": "100 MB",
+  "size_raw": "103957472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
