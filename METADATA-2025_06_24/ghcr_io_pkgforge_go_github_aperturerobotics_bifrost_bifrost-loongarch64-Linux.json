@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bifrost",
+  "pkg_family": "bifrost",
+  "pkg_id": "bifrost#github.com_aperturerobotics_bifrost",
+  "pkg_name": "bifrost",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aperturerobotics/bifrost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modular networking for Go with pluggable transports, RPC, WebRTC, WebAssembly support.",
+  "homepage": [
+    "https://github.com/aperturerobotics/bifrost"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bifrost",
+    "browser",
+    "nats-host",
+    "nats-single",
+    "server",
+    "udp-link"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aperturerobotics/bifrost/archive/eef11aa908fa7171d099a254c8f4e2632f295206.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "nats",
+    "peer-to-peer",
+    "rpc",
+    "webassembly",
+    "websocket"
+  ],
+  "version": "HEAD-eef11aa-250623T135232",
+  "version_upstream": "",
+  "bsum": "a0dc6c3bb538e64d476e0563c1f854d981b9f42787264ee31d2b4f74263657b6",
+  "build_date": "2025-06-24T07:30:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843557183",
+  "build_id": "15843557183",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/bifrost?tag=HEAD-eef11aa-250623T135232-loongarch64-Linux&download=bifrost.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "552",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/bifrost?tag=HEAD-eef11aa-250623T135232-loongarch64-Linux&download=bifrost",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aperturerobotics/bifrost/bifrost:HEAD-eef11aa-250623T135232-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aperturerobotics/bifrost/bifrost",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/bifrost?tag=HEAD-eef11aa-250623T135232-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8032c28cfbd6005b165a97ef16d71f98897fb58a7a8bd4233e88392e4ed2419",
+  "size": "23 MB",
+  "size_raw": "23331328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
