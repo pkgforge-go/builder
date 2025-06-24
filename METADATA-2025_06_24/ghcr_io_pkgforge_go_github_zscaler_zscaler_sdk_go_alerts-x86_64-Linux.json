@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "alerts",
+  "pkg_family": "zscaler-sdk-go",
+  "pkg_id": "alerts#github.com_zscaler_zscaler_sdk_go",
+  "pkg_name": "alerts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zscaler/zscaler-sdk-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Zscaler SDK for Golang _ZPA/ZIA/ZDX/ZCC APIs_",
+  "homepage": [
+    "https://github.com/zscaler/zscaler-sdk-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "activation_cli",
+    "active_geo",
+    "administration",
+    "alerts",
+    "application_metrics",
+    "application_score",
+    "applications",
+    "cloudpath_probes",
+    "deep_trace_session",
+    "deep_trace_start",
+    "device_events",
+    "devices_list",
+    "health_metrics",
+    "inventory",
+    "top_processes",
+    "web_probe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zscaler/zscaler-sdk-go/archive/604696a28d039391e14ffae5437b0a3536bd51b8.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "zero-trust",
+    "zero-trust-security",
+    "zia",
+    "zpa",
+    "zscaler"
+  ],
+  "version": "HEAD-604696a-250623T110434",
+  "version_upstream": "v3.5.1",
+  "bsum": "b6a587debb1df65bf24f909a395d51048eac7c4230e322a84662b6d5be9a2a9a",
+  "build_date": "2025-06-24T10:35:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847505152",
+  "build_id": "15847505152",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zscaler/zscaler-sdk-go/alerts?tag=HEAD-604696a-250623T110434-x86_64-Linux&download=alerts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zscaler/zscaler-sdk-go/alerts?tag=HEAD-604696a-250623T110434-x86_64-Linux&download=alerts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zscaler/zscaler-sdk-go/alerts:HEAD-604696a-250623T110434-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zscaler/zscaler-sdk-go/alerts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zscaler/zscaler-sdk-go/alerts?tag=HEAD-604696a-250623T110434-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79fc417b66ac7ce37d15e7effa4fd12ed667d49c1a935d2fa87a8f55914ef359",
+  "size": "8.1 MB",
+  "size_raw": "8475648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
