@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sample",
+  "pkg_family": "concourse",
+  "pkg_id": "sample#github.com_concourse_concourse",
+  "pkg_name": "sample",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/concourse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Concourse is a container-based automation system written in Go.",
+  "homepage": [
+    "https://github.com/concourse/concourse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "baggageclaim",
+    "cli",
+    "concourse",
+    "fly",
+    "fs_mounter",
+    "sample",
+    "scripts",
+    "tsa"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/concourse/archive/fba8c8696938010a749660583ffb925cdfb478a1.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "ci-cd",
+    "concourse",
+    "containerd",
+    "containers",
+    "continuous-delivery",
+    "continuous-integration",
+    "elm",
+    "go",
+    "pipelines",
+    "runc"
+  ],
+  "version": "HEAD-fba8c86-250623T181115",
+  "version_upstream": "",
+  "bsum": "0d379f75f54231895d6b6d9b52dfba6fc7da24369989b030f83806755e030f52",
+  "build_date": "2025-06-24T13:58:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851485472",
+  "build_id": "15851485472",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/sample?tag=HEAD-fba8c86-250623T181115-riscv64-Linux&download=sample.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7586",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/sample?tag=HEAD-fba8c86-250623T181115-riscv64-Linux&download=sample",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/concourse/sample:HEAD-fba8c86-250623T181115-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/concourse/sample",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/sample?tag=HEAD-fba8c86-250623T181115-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "569a8405413212c5317dbe1d6dec02f296fc6a64dcdcbede5e6b51c4898073f6",
+  "size": "5.7 MB",
+  "size_raw": "5885272",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4e1aa2b-250620T122546-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
