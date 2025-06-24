@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "templater",
+  "pkg_family": "eks-anywhere-prow-jobs",
+  "pkg_id": "templater#github.com_aws_eks_anywhere_prow_jobs",
+  "pkg_name": "templater",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/eks-anywhere-prow-jobs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository contains Prowjob configurations for Amazon EKS Anywhere. You can view the jobs at https://prow.eks.amazonaws.com.",
+  "homepage": [
+    "https://github.com/aws/eks-anywhere-prow-jobs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lint_prowjobs",
+    "templater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/eks-anywhere-prow-jobs/archive/30ab92e771ffe99480b5e855f21a7feaa5b67a8a.tar.gz"
+  ],
+  "tag": [
+    "cicd",
+    "eks",
+    "kubernetes",
+    "prow"
+  ],
+  "version": "HEAD-30ab92e-250624T050932",
+  "version_upstream": "",
+  "bsum": "9dff3d6b5c93948a86d7fb919ffde4a0c292e14eb2e0b5e9295c3982d7f3cb56",
+  "build_date": "2025-06-24T07:37:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843563568",
+  "build_id": "15843563568",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere-prow-jobs/templater?tag=HEAD-30ab92e-250624T050932-loongarch64-Linux&download=templater.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere-prow-jobs/templater?tag=HEAD-30ab92e-250624T050932-loongarch64-Linux&download=templater",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-anywhere-prow-jobs/templater:HEAD-30ab92e-250624T050932-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-anywhere-prow-jobs/templater",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-anywhere-prow-jobs/templater?tag=HEAD-30ab92e-250624T050932-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "65a1da5b5800d06657bc7ee6f3f379afbe7679d9d1472772b422aec0d064d2a4",
+  "size": "3.8 MB",
+  "size_raw": "3925048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
