@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "node-disk-manager-webhook",
+  "pkg_family": "node-disk-manager",
+  "pkg_id": "node-disk-manager-webhook#github.com_harvester_node_disk_manager",
+  "pkg_name": "node-disk-manager-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/node-disk-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage physical disks in Harvester",
+  "homepage": [
+    "https://github.com/harvester/node-disk-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "node-disk-manager",
+    "node-disk-manager-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/node-disk-manager/archive/f22a404d19fd45b25fef4111943521506e1c5fda.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f22a404-250624T170927",
+  "version_upstream": "",
+  "bsum": "13df6d68709ed1f485f97068776c66dc00f608251e865e2a272722d1f5d76c4b",
+  "build_date": "2025-06-24T17:43:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856872718",
+  "build_id": "15856872718",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager-webhook?tag=HEAD-f22a404-250624T170927-loongarch64-Linux&download=node-disk-manager-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager-webhook?tag=HEAD-f22a404-250624T170927-loongarch64-Linux&download=node-disk-manager-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager-webhook:HEAD-f22a404-250624T170927-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager-webhook?tag=HEAD-f22a404-250624T170927-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a79bd7c227be449dc0a67dc05bf1b9535ce102195ced00bbc91cb65845bd183",
+  "size": "45 MB",
+  "size_raw": "47048880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

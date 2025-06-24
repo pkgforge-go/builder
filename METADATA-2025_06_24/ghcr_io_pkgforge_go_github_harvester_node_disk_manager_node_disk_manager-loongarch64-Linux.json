@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "node-disk-manager",
+  "pkg_family": "node-disk-manager",
+  "pkg_id": "node-disk-manager#github.com_harvester_node_disk_manager",
+  "pkg_name": "node-disk-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/node-disk-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage physical disks in Harvester",
+  "homepage": [
+    "https://github.com/harvester/node-disk-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "node-disk-manager",
+    "node-disk-manager-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/node-disk-manager/archive/f22a404d19fd45b25fef4111943521506e1c5fda.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f22a404-250624T170927",
+  "version_upstream": "",
+  "bsum": "83e71faff6a36f5765eb6432b7f774c01716ee06400bdd7633c0286d8c3a4b0f",
+  "build_date": "2025-06-24T17:43:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856872718",
+  "build_id": "15856872718",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager?tag=HEAD-f22a404-250624T170927-loongarch64-Linux&download=node-disk-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager?tag=HEAD-f22a404-250624T170927-loongarch64-Linux&download=node-disk-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager:HEAD-f22a404-250624T170927-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/node-disk-manager/node-disk-manager?tag=HEAD-f22a404-250624T170927-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b642fece26110d0af5d91f2d316abfd8b3318556ce268b807c7e4df31a9644d6",
+  "size": "38 MB",
+  "size_raw": "39737936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
