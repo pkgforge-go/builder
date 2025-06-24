@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "genconfig",
+  "pkg_family": "flashlight",
+  "pkg_id": "genconfig#github.com_getlantern_flashlight",
+  "pkg_name": "genconfig",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getlantern/flashlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Core proxying component of the Lantern censorship circumvention tool.",
+  "homepage": [
+    "https://github.com/getlantern/flashlight"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configchecker",
+    "defaultbrowser",
+    "genconfig",
+    "hellocap",
+    "tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getlantern/flashlight/archive/dfaf6f54d9aa1d97d9d73eab0463dfdc16a522df.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dfaf6f5-250623T153910",
+  "version_upstream": "v7.6.233",
+  "bsum": "5629ac344d6a41314e279a118d091ef1441b3e101b2a810c3a32a192e1742c97",
+  "build_date": "2025-06-24T14:26:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851526842",
+  "build_id": "15851526842",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/genconfig?tag=HEAD-dfaf6f5-250623T153910-aarch64-Linux&download=genconfig.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/genconfig?tag=HEAD-dfaf6f5-250623T153910-aarch64-Linux&download=genconfig",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getlantern/flashlight/genconfig:HEAD-dfaf6f5-250623T153910-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getlantern/flashlight/genconfig",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/genconfig?tag=HEAD-dfaf6f5-250623T153910-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "87c04c159bb8a4cca7e89940cb7dc68f3ac81762a227767def8337c4f383167d",
+  "size": "28 MB",
+  "size_raw": "28926600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8ca6cb6-250619T121246-aarch64-Linux",
+    "HEAD-f16c716-250622T003510-aarch64-Linux",
+    "HEAD-7f80ae4-250623T003416-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
