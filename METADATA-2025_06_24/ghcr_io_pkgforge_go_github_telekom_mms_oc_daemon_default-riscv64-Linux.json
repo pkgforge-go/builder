@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "default",
+  "pkg_family": "oc-daemon",
+  "pkg_id": "default#github.com_telekom_mms_oc_daemon",
+  "pkg_name": "default",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/telekom-mms/oc-daemon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A daemon wrapping the openconnect VPN client to provide enhanced functionality for corporate Linux clients",
+  "homepage": [
+    "https://github.com/telekom-mms/oc-daemon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbusclient",
+    "default",
+    "devmon",
+    "dnsproxy",
+    "oc-client",
+    "oc-daemon",
+    "oc-daemon-vpncscript",
+    "ocrunner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/telekom-mms/oc-daemon/archive/af9df41b95354f94d3606676f71799fd8df2f21c.tar.gz"
+  ],
+  "tag": [
+    "linux"
+  ],
+  "version": "HEAD-af9df41-250624T144755",
+  "version_upstream": "",
+  "bsum": "c041829226cd855b5ab92d58ea5b35962ba39cbacf1007f3f8c18eacec7d6851",
+  "build_date": "2025-06-24T19:49:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859559442",
+  "build_id": "15859559442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom-mms/oc-daemon/default?tag=HEAD-af9df41-250624T144755-riscv64-Linux&download=default.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom-mms/oc-daemon/default?tag=HEAD-af9df41-250624T144755-riscv64-Linux&download=default",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/telekom-mms/oc-daemon/default:HEAD-af9df41-250624T144755-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/telekom-mms/oc-daemon/default",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom-mms/oc-daemon/default?tag=HEAD-af9df41-250624T144755-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad475266ab2aa0ae6aaeba992d258c919062ce57e085966a24feb3287fa695eb",
+  "size": "4.2 MB",
+  "size_raw": "4327832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
