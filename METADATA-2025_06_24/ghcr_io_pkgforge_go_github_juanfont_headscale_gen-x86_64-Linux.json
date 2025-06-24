@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "headscale",
+  "pkg_id": "gen#github.com_juanfont_headscale",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juanfont/headscale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source, self-hosted implementation of the Tailscale control server",
+  "homepage": [
+    "https://github.com/juanfont/headscale"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen",
+    "headscale",
+    "hi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juanfont/headscale/archive/afc11e1f0c1cbdc06716f221380710d92ce75a94.tar.gz"
+  ],
+  "tag": [
+    "tailscale",
+    "tailscale-control-server",
+    "tailscale-server",
+    "wireguard"
+  ],
+  "version": "HEAD-afc11e1-250623T134314",
+  "version_upstream": "",
+  "bsum": "82be9f97644a0017979502525856576d7acf7413e11c86a78fb8c620ecf2bb0c",
+  "build_date": "2025-06-24T03:01:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839583327",
+  "build_id": "15839583327",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-afc11e1-250623T134314-x86_64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29285",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-afc11e1-250623T134314-x86_64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juanfont/headscale/gen:HEAD-afc11e1-250623T134314-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juanfont/headscale/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juanfont/headscale/gen?tag=HEAD-afc11e1-250623T134314-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39a4b9d0201ccc1acac2d5cf7ab8b8b8ce4523040b17a6d762696d269c6a67e1",
+  "size": "6.6 MB",
+  "size_raw": "6915744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ea7376f-250618T112215-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
