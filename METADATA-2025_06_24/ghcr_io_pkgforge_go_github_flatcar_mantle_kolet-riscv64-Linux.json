@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kolet",
+  "pkg_family": "mantle",
+  "pkg_id": "kolet#github.com_flatcar_mantle",
+  "pkg_name": "kolet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flatcar/mantle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Utilities for gluing together Flatcar Container Linux",
+  "homepage": [
+    "https://github.com/flatcar/mantle"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cork",
+    "gangue",
+    "kola",
+    "kolet",
+    "ore",
+    "plume"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flatcar/mantle/archive/69464deb432b46a9c013076893f0ed8cfcc38f83.tar.gz"
+  ],
+  "tag": [
+    "flatcar",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-69464de-250624T142804",
+  "version_upstream": "",
+  "bsum": "b76b07e6483a8f1ed25e568a9ace4cef02df134cfa3c10a5f4a3eecffd03b1c9",
+  "build_date": "2025-06-24T17:34:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856117358",
+  "build_id": "15856117358",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flatcar/mantle/kolet?tag=HEAD-69464de-250624T142804-riscv64-Linux&download=kolet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flatcar/mantle/kolet?tag=HEAD-69464de-250624T142804-riscv64-Linux&download=kolet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flatcar/mantle/kolet:HEAD-69464de-250624T142804-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flatcar/mantle/kolet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flatcar/mantle/kolet?tag=HEAD-69464de-250624T142804-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64794b48e9c30372803e418f9f3d22ded84127d3ff4c27fd47af841db778fbe6",
+  "size": "41 MB",
+  "size_raw": "42527448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
