@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sync",
+  "pkg_family": "sync",
+  "pkg_id": "sync#github.com_retail_ai_inc_sync",
+  "pkg_name": "sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/retail-ai-inc/sync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sync your production database _PII proof_ to a secondary database instance for data scientists, data synthesization, data partitioning or other purposes. Supports MongoDB, MySQL, PostgreSQL, Redis with real-time sync. #hot-storage #cold-storage",
+  "homepage": [
+    "https://github.com/retail-ai-inc/sync"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/retail-ai-inc/sync/archive/f99b6eff32a35529007453eac99ad0638e0ec68a.tar.gz"
+  ],
+  "tag": [
+    "change-streams",
+    "cold-storage",
+    "data-migration",
+    "database-sync",
+    "database-synchronization",
+    "golang",
+    "hot-storage",
+    "mongodb",
+    "mongodb-sync",
+    "mysql",
+    "postgresql",
+    "real-time",
+    "redis",
+    "sync"
+  ],
+  "version": "HEAD-f99b6ef-250624T095014",
+  "version_upstream": "",
+  "bsum": "0d6b6687af23127525ef8f9ad601160aa1b2a71164f38701aefbd53139e8fb3a",
+  "build_date": "2025-06-24T09:19:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845928136",
+  "build_id": "15845928136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/retail-ai-inc/sync/sync?tag=HEAD-f99b6ef-250624T095014-riscv64-Linux&download=sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/retail-ai-inc/sync/sync?tag=HEAD-f99b6ef-250624T095014-riscv64-Linux&download=sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/retail-ai-inc/sync/sync:HEAD-f99b6ef-250624T095014-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/retail-ai-inc/sync/sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/retail-ai-inc/sync/sync?tag=HEAD-f99b6ef-250624T095014-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e80a69162b28a2a318eb13bf6a076d5086fe8a28d21b53796e0ccd0e3fdb4bef",
+  "size": "31 MB",
+  "size_raw": "31571928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
