@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cloudflared",
+  "pkg_family": "cloudflared",
+  "pkg_id": "cloudflared#github.com_cloudflare_cloudflared",
+  "pkg_name": "cloudflared",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/cloudflared",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloudflare Tunnel client _formerly Argo Tunnel_",
+  "homepage": [
+    "https://github.com/cloudflare/cloudflared"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudflared"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/cloudflared/archive/b4a98b13fe9141ee30702e15f076c3a4a345c497.tar.gz"
+  ],
+  "tag": [
+    "argo-tunnel",
+    "cloudflare",
+    "cloudflare-tunnel",
+    "reverse-proxy",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-b4a98b1-250623T180115",
+  "version_upstream": "",
+  "bsum": "c0c779fc2086aacfc6df93d5d3a65709b6640d78c765d6009e78a11260bb7388",
+  "build_date": "2025-06-24T13:42:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851475562",
+  "build_id": "15851475562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cloudflared/cloudflared?tag=HEAD-b4a98b1-250623T180115-riscv64-Linux&download=cloudflared.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10871",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cloudflared/cloudflared?tag=HEAD-b4a98b1-250623T180115-riscv64-Linux&download=cloudflared",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/cloudflared/cloudflared:HEAD-b4a98b1-250623T180115-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/cloudflared/cloudflared",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cloudflared/cloudflared?tag=HEAD-b4a98b1-250623T180115-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c71fe59969302c981715ea5271540826b5b7c3e81ddf15a62944c0f60a200afa",
+  "size": "28 MB",
+  "size_raw": "29198072",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-64fdc52-250617T104218-riscv64-Linux[2025.6.1]"
+  ],
+  "trusted": "true"
+}
