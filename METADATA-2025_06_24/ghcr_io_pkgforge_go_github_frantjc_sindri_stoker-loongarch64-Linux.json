@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "stoker",
+  "pkg_family": "sindri",
+  "pkg_id": "stoker#github.com_frantjc_sindri",
+  "pkg_name": "stoker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/frantjc/sindri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Turn Steamapp servers into container images.",
+  "homepage": [
+    "https://github.com/frantjc/sindri"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boiler",
+    "kubectl-approve_steamapps",
+    "mist",
+    "stoker",
+    "valheimw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/frantjc/sindri/archive/cf4e0ad4d106a1c49309872d0dfa649052d7e603.tar.gz"
+  ],
+  "tag": [
+    "bepinex",
+    "container",
+    "container-registry",
+    "containerization",
+    "containers",
+    "corekeeper",
+    "go",
+    "golang",
+    "steam",
+    "steamcmd",
+    "thunderstore",
+    "valheim",
+    "valheim-mod"
+  ],
+  "version": "HEAD-cf4e0ad-250623T184959",
+  "version_upstream": "",
+  "bsum": "fe48dc4ba4ebb42344461daaf5b7aafa7c86f42b7130dbe3e18512ca1f116441",
+  "build_date": "2025-06-24T14:27:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851522591",
+  "build_id": "15851522591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/frantjc/sindri/stoker?tag=HEAD-cf4e0ad-250623T184959-loongarch64-Linux&download=stoker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/frantjc/sindri/stoker?tag=HEAD-cf4e0ad-250623T184959-loongarch64-Linux&download=stoker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/frantjc/sindri/stoker:HEAD-cf4e0ad-250623T184959-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/frantjc/sindri/stoker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/frantjc/sindri/stoker?tag=HEAD-cf4e0ad-250623T184959-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6b34fa4bdf6b529844e746e3287b36e836c1b30d8858fc35057b98c88a6ca8f",
+  "size": "105 MB",
+  "size_raw": "109364256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3dfe865-250619T195429-loongarch64-Linux",
+    "HEAD-29aefc5-250621T113248-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
