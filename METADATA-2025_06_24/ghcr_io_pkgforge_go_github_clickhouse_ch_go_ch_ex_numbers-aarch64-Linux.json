@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ch-ex-numbers",
+  "pkg_family": "ch-go",
+  "pkg_id": "ch-ex-numbers#github.com_ClickHouse_ch_go",
+  "pkg_name": "ch-ex-numbers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ClickHouse/ch-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Low-level Go Client for ClickHouse",
+  "homepage": [
+    "https://github.com/ClickHouse/ch-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ch-bench-numbers",
+    "ch-bench-numbers-concurrent",
+    "ch-bench-rnd",
+    "ch-bench-server",
+    "ch-bench-str",
+    "ch-bench-trace-id",
+    "ch-compression",
+    "ch-ex-numbers",
+    "ch-gen-col",
+    "ch-insert-lag",
+    "ch-low-cord",
+    "ch-native-dump",
+    "ch-version",
+    "insert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ClickHouse/ch-go/archive/caa667fcac1a7860df0fd43251bd9bf8dccfae9c.tar.gz"
+  ],
+  "tag": [
+    "binary",
+    "clickhouse",
+    "driver",
+    "go",
+    "golang",
+    "protocol"
+  ],
+  "version": "HEAD-caa667f-250623T185724",
+  "version_upstream": "v0.66.1",
+  "bsum": "20dbc2a3f3b42c6a4307f85d1be56d1ef8bf5432e05e07ffad29d2bb97eeeba2",
+  "build_date": "2025-06-24T07:02:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843503060",
+  "build_id": "15843503060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/ch-go/ch-ex-numbers?tag=HEAD-caa667f-250623T185724-aarch64-Linux&download=ch-ex-numbers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "353",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/ch-go/ch-ex-numbers?tag=HEAD-caa667f-250623T185724-aarch64-Linux&download=ch-ex-numbers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clickhouse/ch-go/ch-ex-numbers:HEAD-caa667f-250623T185724-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clickhouse/ch-go/ch-ex-numbers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/ch-go/ch-ex-numbers?tag=HEAD-caa667f-250623T185724-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a446fdcec761b1ab164c91c399e367a552adcbd51103b782d429b8e6ee7f864c",
+  "size": "9.2 MB",
+  "size_raw": "9550336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
