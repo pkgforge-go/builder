@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "k8smaintainer",
+  "pkg_family": "operator-framework-operator-controller",
+  "pkg_id": "k8smaintainer#github.com_openshift_operator_framework_operator_controller",
+  "pkg_name": "k8smaintainer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/operator-framework-operator-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The central component of Operator Lifecycle Manager _OLM_ v1, which extends kubernetes with an API through which users can install Operators",
+  "homepage": [
+    "https://github.com/openshift/operator-framework-operator-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "k8smaintainer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/operator-framework-operator-controller/archive/4f83d9d3857a22bc0cc6ebe976640cf88d85e932.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4f83d9d-250623T234029",
+  "version_upstream": "",
+  "bsum": "a322a62ecd6afe385531f39279b431f50d643dc6a819f06b74e6344db2b9bf87",
+  "build_date": "2025-06-24T09:15:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845109954",
+  "build_id": "15845109954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-operator-controller/k8smaintainer?tag=HEAD-4f83d9d-250623T234029-aarch64-Linux&download=k8smaintainer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-operator-controller/k8smaintainer?tag=HEAD-4f83d9d-250623T234029-aarch64-Linux&download=k8smaintainer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/operator-framework-operator-controller/k8smaintainer:HEAD-4f83d9d-250623T234029-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/operator-framework-operator-controller/k8smaintainer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-operator-controller/k8smaintainer?tag=HEAD-4f83d9d-250623T234029-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17fca8c33665d2de68050fbc4068131451337123527ddba41eaecf5f98596a6c",
+  "size": "2.7 MB",
+  "size_raw": "2826488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
