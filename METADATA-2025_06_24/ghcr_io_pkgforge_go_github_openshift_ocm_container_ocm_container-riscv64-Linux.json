@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ocm-container",
+  "pkg_family": "ocm-container",
+  "pkg_id": "ocm-container#github.com_openshift_ocm_container",
+  "pkg_name": "ocm-container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/ocm-container",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Containerized environment for accessing OpenShift v4 clusters, packing necessary tools/scripts",
+  "homepage": [
+    "https://github.com/openshift/ocm-container"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ocm-container"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/ocm-container/archive/9c1630a435eb125329e9864b3718f68b242de1d6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9c1630a-250623T212700",
+  "version_upstream": "",
+  "bsum": "a55a5329bef0772a25a79ccaa34d0345cce1a1d66570865684e831d6cf6dfeef",
+  "build_date": "2025-06-24T09:09:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845060436",
+  "build_id": "15845060436",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/ocm-container/ocm-container?tag=HEAD-9c1630a-250623T212700-riscv64-Linux&download=ocm-container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/ocm-container/ocm-container?tag=HEAD-9c1630a-250623T212700-riscv64-Linux&download=ocm-container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/ocm-container/ocm-container:HEAD-9c1630a-250623T212700-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/ocm-container/ocm-container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/ocm-container/ocm-container?tag=HEAD-9c1630a-250623T212700-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ceb8f5e6a05fe29545336b2d2d8fa4f0952c75e9f9a6900585493fdd106c45a",
+  "size": "72 MB",
+  "size_raw": "74758904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
