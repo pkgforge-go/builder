@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "zeta-serve",
+  "pkg_family": "hugescm",
+  "pkg_id": "zeta-serve#github.com_antgroup_hugescm",
+  "pkg_name": "zeta-serve",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antgroup/hugescm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HugeSCM - A next generation cloud-based version control system",
+  "homepage": [
+    "https://github.com/antgroup/hugescm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bar2",
+    "diff2",
+    "lcs",
+    "setv",
+    "term",
+    "zeta",
+    "zeta-mc",
+    "zeta-serve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antgroup/hugescm/archive/bfd32d7a2e34236e86e3a02771e1f750eb161594.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "git",
+    "hugescm",
+    "monorepo",
+    "vcs"
+  ],
+  "version": "HEAD-bfd32d7-250624T172242",
+  "version_upstream": "v0.18.1",
+  "bsum": "a597cb3a3f011b42cd554365efeab1ee0cceddeb17732b1ffc1ba16d646d75f3",
+  "build_date": "2025-06-24T22:05:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862192768",
+  "build_id": "15862192768",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/zeta-serve?tag=HEAD-bfd32d7-250624T172242-aarch64-Linux&download=zeta-serve.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "104",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/zeta-serve?tag=HEAD-bfd32d7-250624T172242-aarch64-Linux&download=zeta-serve",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antgroup/hugescm/zeta-serve:HEAD-bfd32d7-250624T172242-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antgroup/hugescm/zeta-serve",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/zeta-serve?tag=HEAD-bfd32d7-250624T172242-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "59768aa31a0e14138cd84f829d82d03293e443ac018cc2bb3977f8cec14f8964",
+  "size": "14 MB",
+  "size_raw": "14296096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7ae9d3-250619T200645-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
