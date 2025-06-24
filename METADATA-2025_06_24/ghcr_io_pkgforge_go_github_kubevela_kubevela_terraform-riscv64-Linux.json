@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "terraform",
+  "pkg_family": "kubevela",
+  "pkg_id": "terraform#github.com_kubevela_kubevela",
+  "pkg_name": "terraform",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevela/kubevela",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Modern Application Platform.",
+  "homepage": [
+    "https://github.com/kubevela/kubevela"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "collect-translation",
+    "core",
+    "def",
+    "dispatch",
+    "mock",
+    "plugin",
+    "terraform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevela/kubevela/archive/b601d28afddcef2828e9d665cc763879c524312b.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "cloudnative",
+    "cncf",
+    "continuous-delivery",
+    "control-plane",
+    "cue",
+    "helm",
+    "hybridcloud",
+    "kubernetes",
+    "microservices",
+    "multicloud",
+    "multicluster",
+    "oam",
+    "paas",
+    "serverless",
+    "trait",
+    "workloads"
+  ],
+  "version": "HEAD-b601d28-250623T212545",
+  "version_upstream": "",
+  "bsum": "fe0bbeb43cf98fb85c20e8cea2fc87fcbea953229129dd584e00467199887d6c",
+  "build_date": "2025-06-24T23:37:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862354837",
+  "build_id": "15862354837",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kubevela/terraform?tag=HEAD-b601d28-250623T212545-riscv64-Linux&download=terraform.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6736",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kubevela/terraform?tag=HEAD-b601d28-250623T212545-riscv64-Linux&download=terraform",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevela/kubevela/terraform:HEAD-b601d28-250623T212545-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevela/kubevela/terraform",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kubevela/terraform?tag=HEAD-b601d28-250623T212545-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bbe24edc2a18c1a3bf4e9b7c26661240cbc4445bea2e62c66bd7b775bf1eb67e",
+  "size": "108 MB",
+  "size_raw": "112548696",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7d72fa9-250617T102559-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
