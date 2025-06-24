@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "seeder",
+  "pkg_family": "archived",
+  "pkg_id": "seeder#github.com_teran_archived",
+  "pkg_name": "seeder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/teran/archived",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud native service to store versioned data in space-efficient manner",
+  "homepage": [
+    "https://github.com/teran/archived"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "gc",
+    "migrator",
+    "publisher",
+    "seeder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/teran/archived/archive/29fa7df30849db35dc6af252a12fb7fec27e0f48.tar.gz"
+  ],
+  "tag": [
+    "apt",
+    "aptitude",
+    "cas",
+    "dnf",
+    "package-mirror",
+    "package-repository",
+    "rpm",
+    "s3",
+    "yum"
+  ],
+  "version": "HEAD-29fa7df-250623T225154",
+  "version_upstream": "",
+  "bsum": "ec176b4fdbadcd16ca57e84e3f7b4579d0feeccdc9f969c78216fe9a4d007a5c",
+  "build_date": "2025-06-24T09:55:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846143165",
+  "build_id": "15846143165",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/teran/archived/seeder?tag=HEAD-29fa7df-250623T225154-loongarch64-Linux&download=seeder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/teran/archived/seeder?tag=HEAD-29fa7df-250623T225154-loongarch64-Linux&download=seeder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/teran/archived/seeder:HEAD-29fa7df-250623T225154-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/teran/archived/seeder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/teran/archived/seeder?tag=HEAD-29fa7df-250623T225154-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f9188087f2122ecd0f5d858d2f93f660426b2f3033c3d66c1ab00acb5fdaa18",
+  "size": "14 MB",
+  "size_raw": "14529312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
