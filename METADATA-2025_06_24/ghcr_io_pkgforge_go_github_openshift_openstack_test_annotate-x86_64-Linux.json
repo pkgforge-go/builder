@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "annotate",
+  "pkg_family": "openstack-test",
+  "pkg_id": "annotate#github.com_openshift_openstack_test",
+  "pkg_name": "annotate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/openstack-test",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenStack-specific tests for OpenShift",
+  "homepage": [
+    "https://github.com/openshift/openstack-test"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotate",
+    "openshift-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/openstack-test/archive/007218fdebaa7fd5e626baf853508c018086bb09.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-007218f-250624T100619",
+  "version_upstream": "",
+  "bsum": "5d46c1ef55ddee9622955282f5f9d5665c71071970212a2982f6341ffd0cebb8",
+  "build_date": "2025-06-24T18:53:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857469366",
+  "build_id": "15857469366",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/openstack-test/annotate?tag=HEAD-007218f-250624T100619-x86_64-Linux&download=annotate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/openstack-test/annotate?tag=HEAD-007218f-250624T100619-x86_64-Linux&download=annotate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/openstack-test/annotate:HEAD-007218f-250624T100619-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/openstack-test/annotate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/openstack-test/annotate?tag=HEAD-007218f-250624T100619-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "081c98149c1b092a36a18ca36a3ba535a4705a1d567d1a4896116c8501afc8f5",
+  "size": "161 MB",
+  "size_raw": "167929184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
