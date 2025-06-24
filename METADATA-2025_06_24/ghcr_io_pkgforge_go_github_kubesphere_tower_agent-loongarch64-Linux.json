@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "tower",
+  "pkg_id": "agent#github.com_kubesphere_tower",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubesphere/tower",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proxy for multiple Kubernetes cluster communication",
+  "homepage": [
+    "https://github.com/kubesphere/tower"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubesphere/tower/archive/d1cb14ad122dc151aa5a1c5585dcad17ae05daa1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d1cb14a-250624T111000",
+  "version_upstream": "",
+  "bsum": "afc1dd6010a88906f99286d41ab68212cd6105be92bee1220d1efbdd1672f6cf",
+  "build_date": "2025-06-24T08:39:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844629099",
+  "build_id": "15844629099",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/tower/agent?tag=HEAD-d1cb14a-250624T111000-loongarch64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/tower/agent?tag=HEAD-d1cb14a-250624T111000-loongarch64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubesphere/tower/agent:HEAD-d1cb14a-250624T111000-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubesphere/tower/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/tower/agent?tag=HEAD-d1cb14a-250624T111000-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eaec35f064f2d4efcf3a01a5e21fe604e10a7cba12e6711f0f6bb59de7728bed",
+  "size": "21 MB",
+  "size_raw": "21767648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
