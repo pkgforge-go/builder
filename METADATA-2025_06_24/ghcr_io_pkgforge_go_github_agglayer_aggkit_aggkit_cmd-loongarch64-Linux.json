@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aggkit-cmd",
+  "pkg_family": "aggkit",
+  "pkg_id": "aggkit-cmd#github.com_agglayer_aggkit",
+  "pkg_name": "aggkit-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/agglayer/aggkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect any chain to the AggLayer",
+  "homepage": [
+    "https://github.com/agglayer/aggkit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggkit-cmd",
+    "aggsender_find_imported_bridge",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/agglayer/aggkit/archive/8e95e8bbf107ff952f049111a20b22055fa2711e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8e95e8b-250624T111736",
+  "version_upstream": "",
+  "bsum": "78a2d97b8bdc5461629c4a91b88ea4ad1233bb87fee7246eb8862a9253c03b0c",
+  "build_date": "2025-06-24T22:09:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862192935",
+  "build_id": "15862192935",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agglayer/aggkit/aggkit-cmd?tag=HEAD-8e95e8b-250624T111736-loongarch64-Linux&download=aggkit-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agglayer/aggkit/aggkit-cmd?tag=HEAD-8e95e8b-250624T111736-loongarch64-Linux&download=aggkit-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/agglayer/aggkit/aggkit-cmd:HEAD-8e95e8b-250624T111736-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/agglayer/aggkit/aggkit-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agglayer/aggkit/aggkit-cmd?tag=HEAD-8e95e8b-250624T111736-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e688d5fb2f160a806568ec986eb42f4c73597292e89a2fd48de96c02c3a4100",
+  "size": "50 MB",
+  "size_raw": "51611352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c27a853-250619T161457-loongarch64-Linux",
+    "HEAD-cd21818-250623T144142-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
