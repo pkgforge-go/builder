@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "prom-metrics-collector",
+  "pkg_family": "ssp-operator",
+  "pkg_id": "prom-metrics-collector#github.com_kubevirt_ssp_operator",
+  "pkg_name": "prom-metrics-collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/ssp-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator that deploys additional KubeVirt resources",
+  "homepage": [
+    "https://github.com/kubevirt/ssp-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "ssp-operator",
+    "template-validator",
+    "test-rules-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/ssp-operator/archive/646513338c1b25a00b34b9edabdb5fc662a948e1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6465133-250623T234643",
+  "version_upstream": "",
+  "bsum": "900b94096c1248e66a1ec2f6343a96f290ff2bce0ea2f8639ba8ca42c944e61e",
+  "build_date": "2025-06-24T08:43:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844641021",
+  "build_id": "15844641021",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/prom-metrics-collector?tag=HEAD-6465133-250623T234643-loongarch64-Linux&download=prom-metrics-collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/prom-metrics-collector?tag=HEAD-6465133-250623T234643-loongarch64-Linux&download=prom-metrics-collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/prom-metrics-collector:HEAD-6465133-250623T234643-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/prom-metrics-collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/prom-metrics-collector?tag=HEAD-6465133-250623T234643-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8d24ac71e0cead000a591a60d5203aadfefdf287e71786249e90edcfd54cfab",
+  "size": "36 MB",
+  "size_raw": "36977856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

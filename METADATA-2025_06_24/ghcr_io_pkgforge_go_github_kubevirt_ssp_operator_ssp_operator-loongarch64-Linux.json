@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ssp-operator",
+  "pkg_family": "ssp-operator",
+  "pkg_id": "ssp-operator#github.com_kubevirt_ssp_operator",
+  "pkg_name": "ssp-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/ssp-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator that deploys additional KubeVirt resources",
+  "homepage": [
+    "https://github.com/kubevirt/ssp-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "ssp-operator",
+    "template-validator",
+    "test-rules-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/ssp-operator/archive/646513338c1b25a00b34b9edabdb5fc662a948e1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6465133-250623T234643",
+  "version_upstream": "",
+  "bsum": "6b6b4982694493f337787fcfeac610ea2f39cf97d39c26905aff910ba0c0c653",
+  "build_date": "2025-06-24T08:43:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844641021",
+  "build_id": "15844641021",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/ssp-operator?tag=HEAD-6465133-250623T234643-loongarch64-Linux&download=ssp-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/ssp-operator?tag=HEAD-6465133-250623T234643-loongarch64-Linux&download=ssp-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/ssp-operator:HEAD-6465133-250623T234643-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/ssp-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/ssp-operator?tag=HEAD-6465133-250623T234643-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02dc10994e0ffe2d3d5c7b1e1868012be0e458ce0244dc87f486c781b7622b22",
+  "size": "46 MB",
+  "size_raw": "48081216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

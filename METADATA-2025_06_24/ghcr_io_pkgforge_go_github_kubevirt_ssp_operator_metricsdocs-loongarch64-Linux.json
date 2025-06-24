@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "metricsdocs",
+  "pkg_family": "ssp-operator",
+  "pkg_id": "metricsdocs#github.com_kubevirt_ssp_operator",
+  "pkg_name": "metricsdocs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/ssp-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator that deploys additional KubeVirt resources",
+  "homepage": [
+    "https://github.com/kubevirt/ssp-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "ssp-operator",
+    "template-validator",
+    "test-rules-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/ssp-operator/archive/646513338c1b25a00b34b9edabdb5fc662a948e1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6465133-250623T234643",
+  "version_upstream": "",
+  "bsum": "1831e41a88914f1b6a6552c7ca5c80558715a4758729a281622aa98f26893dad",
+  "build_date": "2025-06-24T08:43:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844641021",
+  "build_id": "15844641021",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/metricsdocs?tag=HEAD-6465133-250623T234643-loongarch64-Linux&download=metricsdocs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/metricsdocs?tag=HEAD-6465133-250623T234643-loongarch64-Linux&download=metricsdocs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/metricsdocs:HEAD-6465133-250623T234643-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/metricsdocs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/metricsdocs?tag=HEAD-6465133-250623T234643-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a9a1b53c5ea17576528b27f147238c594eac5b1beac83176d0ea4a6d44299d9a",
+  "size": "36 MB",
+  "size_raw": "37272512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
