@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dice",
+  "pkg_family": "dice",
+  "pkg_id": "dice#github.com_DiceDB_dice",
+  "pkg_name": "dice",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DiceDB/dice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+  "homepage": [
+    "https://github.com/DiceDB/dice"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dice",
+    "generate-docs",
+    "test-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DiceDB/dice/archive/dd14872cc1c92e7ac96d328f55a6f1ccf050d00f.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "golang",
+    "hacktoberfest",
+    "storage-engine"
+  ],
+  "version": "HEAD-dd14872-250623T190333",
+  "version_upstream": "",
+  "bsum": "fa5e6ea3dbe75e25ff185d05161ddcd7e0acbb38de12f63810474a6fc70b3ddf",
+  "build_date": "2025-06-24T02:17:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839490426",
+  "build_id": "15839490426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/dice?tag=HEAD-dd14872-250623T190333-aarch64-Linux&download=dice.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10562",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/dice?tag=HEAD-dd14872-250623T190333-aarch64-Linux&download=dice",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dicedb/dice/dice:HEAD-dd14872-250623T190333-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dicedb/dice/dice",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/dice?tag=HEAD-dd14872-250623T190333-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22b038fb51a0a763d166027f1ce058608db4d621b87c29b75c7a59ab72125167",
+  "size": "8.4 MB",
+  "size_raw": "8710752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ebad5d9-250531T232426-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
