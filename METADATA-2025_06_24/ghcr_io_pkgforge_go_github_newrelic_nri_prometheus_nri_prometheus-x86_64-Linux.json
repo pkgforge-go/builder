@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nri-prometheus",
+  "pkg_family": "nri-prometheus",
+  "pkg_id": "nri-prometheus#github.com_newrelic_nri_prometheus",
+  "pkg_name": "nri-prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fetch metrics in the Prometheus metrics inside or outside Kubernetes and send them to the New Relic Metrics platform.",
+  "homepage": [
+    "https://github.com/newrelic/nri-prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s-target-retriever",
+    "mockexporter",
+    "nri-prometheus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-prometheus/archive/ca0262e63a3223dc887b3ffb3de9a2ad155001ca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca0262e-250624T153139",
+  "version_upstream": "nri-prometheus-2.1.21",
+  "bsum": "7d1839278e37bfcde02543ecf0d2757805a534cd0bfe7bcae6dd6a4c34866e37",
+  "build_date": "2025-06-24T18:29:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857297044",
+  "build_id": "15857297044",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/nri-prometheus?tag=HEAD-ca0262e-250624T153139-x86_64-Linux&download=nri-prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/nri-prometheus?tag=HEAD-ca0262e-250624T153139-x86_64-Linux&download=nri-prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-prometheus/nri-prometheus:HEAD-ca0262e-250624T153139-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-prometheus/nri-prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/nri-prometheus?tag=HEAD-ca0262e-250624T153139-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8fac48bdc3a25f08b325c2d6d02c5a2e7b6d370bea78b53e40407e9b9016912c",
+  "size": "48 MB",
+  "size_raw": "49486848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

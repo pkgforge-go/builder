@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "k8s-target-retriever",
+  "pkg_family": "nri-prometheus",
+  "pkg_id": "k8s-target-retriever#github.com_newrelic_nri_prometheus",
+  "pkg_name": "k8s-target-retriever",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fetch metrics in the Prometheus metrics inside or outside Kubernetes and send them to the New Relic Metrics platform.",
+  "homepage": [
+    "https://github.com/newrelic/nri-prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s-target-retriever",
+    "mockexporter",
+    "nri-prometheus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-prometheus/archive/ca0262e63a3223dc887b3ffb3de9a2ad155001ca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca0262e-250624T153139",
+  "version_upstream": "nri-prometheus-2.1.21",
+  "bsum": "bda5b47e60cc09fa9b167921069a44f49482999f78722465238b68fe22739d0d",
+  "build_date": "2025-06-24T18:29:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857297044",
+  "build_id": "15857297044",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/k8s-target-retriever?tag=HEAD-ca0262e-250624T153139-x86_64-Linux&download=k8s-target-retriever.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/k8s-target-retriever?tag=HEAD-ca0262e-250624T153139-x86_64-Linux&download=k8s-target-retriever",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-prometheus/k8s-target-retriever:HEAD-ca0262e-250624T153139-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-prometheus/k8s-target-retriever",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/k8s-target-retriever?tag=HEAD-ca0262e-250624T153139-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "56ce1139f3e2f08b16a6875fb11364ec5f52111d4e98542ea67a1be3eaec87a0",
+  "size": "45 MB",
+  "size_raw": "46783168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
