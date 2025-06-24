@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "benchmark",
+  "pkg_family": "varlog",
+  "pkg_id": "benchmark#github.com_kakao_varlog",
+  "pkg_name": "benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakao/varlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scalable distributed log storage for strong consistency, total order, and high availability",
+  "homepage": [
+    "https://github.com/kakao/varlog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "mrtool",
+    "varlogadm",
+    "varlogcli",
+    "varlogctl",
+    "varlogmr",
+    "varlogsn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kakao/varlog/archive/da50100cc06113212117dad5d2c1b00341c8505f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-da50100-250624T073302",
+  "version_upstream": "",
+  "bsum": "5850ee3d92c45e0871b2202cf221dd1d8f14618f6b4b24e6e0a20cb5288dd773",
+  "build_date": "2025-06-24T15:04:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851583658",
+  "build_id": "15851583658",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-da50100-250624T073302-aarch64-Linux&download=benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-da50100-250624T073302-aarch64-Linux&download=benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakao/varlog/benchmark:HEAD-da50100-250624T073302-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakao/varlog/benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakao/varlog/benchmark?tag=HEAD-da50100-250624T073302-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "006fad4140387a212b9a9fc53ca94625a4c3c0020a381c5df05cec2f870e82d9",
+  "size": "26 MB",
+  "size_raw": "26475712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6f3bfef-250620T123113-aarch64-Linux",
+    "HEAD-ad35168-250622T224054-aarch64-Linux[v0.28.1]"
+  ],
+  "trusted": "true"
+}
