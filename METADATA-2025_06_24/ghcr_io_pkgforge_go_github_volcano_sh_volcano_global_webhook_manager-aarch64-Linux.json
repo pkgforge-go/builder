@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook-manager",
+  "pkg_family": "volcano-global",
+  "pkg_id": "webhook-manager#github.com_volcano_sh_volcano_global",
+  "pkg_name": "webhook-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/volcano-sh/volcano-global",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A federation scheduler for multi-cluster",
+  "homepage": [
+    "https://github.com/volcano-sh/volcano-global"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller-manager",
+    "webhook-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/volcano-sh/volcano-global/archive/04d1afc71d43f4931dbcf3d3a573a0124c5fb95d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-04d1afc-250624T104316",
+  "version_upstream": "",
+  "bsum": "248517f47484a5b8372aceed7a79b714592100a7bc86e1e6f3af6e2d3153d9e1",
+  "build_date": "2025-06-24T10:13:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847428225",
+  "build_id": "15847428225",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano-global/webhook-manager?tag=HEAD-04d1afc-250624T104316-aarch64-Linux&download=webhook-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano-global/webhook-manager?tag=HEAD-04d1afc-250624T104316-aarch64-Linux&download=webhook-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/volcano-sh/volcano-global/webhook-manager:HEAD-04d1afc-250624T104316-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/volcano-sh/volcano-global/webhook-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/volcano-sh/volcano-global/webhook-manager?tag=HEAD-04d1afc-250624T104316-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "220f315efc823eb9be7fc98972bbf0e89776200250af7788af9715ad7d3afe4f",
+  "size": "49 MB",
+  "size_raw": "51152448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
