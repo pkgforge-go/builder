@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "database-validator",
+  "pkg_family": "OpenSift",
+  "pkg_id": "database-validator#github.com_HUSTSeclab_OpenSift",
+  "pkg_name": "database-validator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/HUSTSeclab/OpenSift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Criticality Score calculated by our metrics",
+  "homepage": [
+    "https://github.com/HUSTSeclab/OpenSift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "database-migrator",
+    "database-validator",
+    "dist-packages-collector",
+    "download-collecter",
+    "downloaded-git-repos-counter",
+    "fetch-releases",
+    "git-metadata-collector",
+    "git-metrics-fixer",
+    "git-metrics-sync",
+    "git-platforms-enumerator",
+    "git-relationship-generator",
+    "githubmetrics",
+    "lang-ecosystem-collector",
+    "llm-invoker",
+    "package_calculator",
+    "parse-deps",
+    "scores-caculator",
+    "workflow-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/HUSTSeclab/OpenSift/archive/ea17b42c558c5f5a563fb5e24affe0590454c287.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ea17b42-250624T204427",
+  "version_upstream": "",
+  "bsum": "76ed90ea058d325ac5d8fbf445e53bd1950825613ea9c07b6e290c6f6988bb22",
+  "build_date": "2025-06-24T16:47:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855432726",
+  "build_id": "15855432726",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/database-validator?tag=HEAD-ea17b42-250624T204427-loongarch64-Linux&download=database-validator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/database-validator?tag=HEAD-ea17b42-250624T204427-loongarch64-Linux&download=database-validator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hustseclab/opensift/database-validator:HEAD-ea17b42-250624T204427-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hustseclab/opensift/database-validator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/database-validator?tag=HEAD-ea17b42-250624T204427-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c57d3a2c1469cb252365687ad61dc919bd46d29bb9e87d78e2d1458ae6644f3e",
+  "size": "14 MB",
+  "size_raw": "14150112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

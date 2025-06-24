@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "workflow-runner",
+  "pkg_family": "OpenSift",
+  "pkg_id": "workflow-runner#github.com_HUSTSeclab_OpenSift",
+  "pkg_name": "workflow-runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/HUSTSeclab/OpenSift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Criticality Score calculated by our metrics",
+  "homepage": [
+    "https://github.com/HUSTSeclab/OpenSift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "database-migrator",
+    "database-validator",
+    "dist-packages-collector",
+    "download-collecter",
+    "downloaded-git-repos-counter",
+    "fetch-releases",
+    "git-metadata-collector",
+    "git-metrics-fixer",
+    "git-metrics-sync",
+    "git-platforms-enumerator",
+    "git-relationship-generator",
+    "githubmetrics",
+    "lang-ecosystem-collector",
+    "llm-invoker",
+    "package_calculator",
+    "parse-deps",
+    "scores-caculator",
+    "workflow-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/HUSTSeclab/OpenSift/archive/ea17b42c558c5f5a563fb5e24affe0590454c287.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ea17b42-250624T204427",
+  "version_upstream": "",
+  "bsum": "f904f598cb7b8e25567cd332925a0499fddc5c2c1ded1cfa9b49f177431351f9",
+  "build_date": "2025-06-24T16:47:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855432726",
+  "build_id": "15855432726",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/workflow-runner?tag=HEAD-ea17b42-250624T204427-loongarch64-Linux&download=workflow-runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/workflow-runner?tag=HEAD-ea17b42-250624T204427-loongarch64-Linux&download=workflow-runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hustseclab/opensift/workflow-runner:HEAD-ea17b42-250624T204427-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hustseclab/opensift/workflow-runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/workflow-runner?tag=HEAD-ea17b42-250624T204427-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09fe7ae44d86608c108141ad11962d028cd0861c2dc109cb9e4426e022a38559",
+  "size": "26 MB",
+  "size_raw": "26922440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
