@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "contour-authserver",
+  "pkg_family": "contour-authserver",
+  "pkg_id": "contour-authserver#github.com_projectcontour_contour_authserver",
+  "pkg_name": "contour-authserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectcontour/contour-authserver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An Envoy-compatible authorization server.",
+  "homepage": [
+    "https://github.com/projectcontour/contour-authserver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "contour-authserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectcontour/contour-authserver/archive/b68fda186b5551bb78152d2a34500b173f9e530a.tar.gz"
+  ],
+  "tag": [
+    "authorization-backends",
+    "contour",
+    "envoy"
+  ],
+  "version": "HEAD-b68fda1-250623T214953",
+  "version_upstream": "",
+  "bsum": "c2e51102c0d1e5125dbc63f5afa898091470d1edf594be57bfa6b0570dfe2814",
+  "build_date": "2025-06-24T09:24:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845778630",
+  "build_id": "15845778630",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcontour/contour-authserver/contour-authserver?tag=HEAD-b68fda1-250623T214953-loongarch64-Linux&download=contour-authserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcontour/contour-authserver/contour-authserver?tag=HEAD-b68fda1-250623T214953-loongarch64-Linux&download=contour-authserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectcontour/contour-authserver/contour-authserver:HEAD-b68fda1-250623T214953-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectcontour/contour-authserver/contour-authserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcontour/contour-authserver/contour-authserver?tag=HEAD-b68fda1-250623T214953-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "95298a83427877d467631cac29b698ca8d7589371a288867abb1da96ba99c42c",
+  "size": "50 MB",
+  "size_raw": "52404512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
