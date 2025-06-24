@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pmm",
+  "pkg_family": "pmm",
+  "pkg_id": "pmm#github.com_percona_pmm",
+  "pkg_name": "pmm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/pmm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
+  "homepage": [
+    "https://github.com/percona/pmm"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "pmm",
+    "pmm-admin",
+    "pmm-agent-entrypoint",
+    "pmm-managed-init",
+    "pmm-managed-starlark",
+    "qan-api2",
+    "update",
+    "vmproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/pmm/archive/b0ed5c248c0b390c76ccf1f2970c22f6e1fe6a68.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "database-management",
+    "hacktoberfest",
+    "monitoring",
+    "monitoring-server",
+    "observability",
+    "pmm"
+  ],
+  "version": "HEAD-b0ed5c2-250623T235723",
+  "version_upstream": "",
+  "bsum": "4b7ed1af214eaeabaf4acb1d90b9d8f404ee0757b0f5c3efe0302f38fc79d330",
+  "build_date": "2025-06-24T09:24:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845510061",
+  "build_id": "15845510061",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm?tag=HEAD-b0ed5c2-250623T235723-aarch64-Linux&download=pmm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "790",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm?tag=HEAD-b0ed5c2-250623T235723-aarch64-Linux&download=pmm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/pmm/pmm:HEAD-b0ed5c2-250623T235723-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/pmm/pmm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm?tag=HEAD-b0ed5c2-250623T235723-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1fdd19ab19431919b21a01300928ebae8c16d6f1133e5ee5ff6f957fa3a7f13c",
+  "size": "19 MB",
+  "size_raw": "19807104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

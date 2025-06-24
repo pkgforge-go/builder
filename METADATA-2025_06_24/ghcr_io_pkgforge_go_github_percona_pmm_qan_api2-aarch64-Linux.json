@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "qan-api2",
+  "pkg_family": "pmm",
+  "pkg_id": "qan-api2#github.com_percona_pmm",
+  "pkg_name": "qan-api2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/pmm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
+  "homepage": [
+    "https://github.com/percona/pmm"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "pmm",
+    "pmm-admin",
+    "pmm-agent-entrypoint",
+    "pmm-managed-init",
+    "pmm-managed-starlark",
+    "qan-api2",
+    "update",
+    "vmproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/pmm/archive/b0ed5c248c0b390c76ccf1f2970c22f6e1fe6a68.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "database-management",
+    "hacktoberfest",
+    "monitoring",
+    "monitoring-server",
+    "observability",
+    "pmm"
+  ],
+  "version": "HEAD-b0ed5c2-250623T235723",
+  "version_upstream": "",
+  "bsum": "a87d545b5ccb988695ccd1b91ace4424ec278348a2d92dc66ebc19ee4ce3a99e",
+  "build_date": "2025-06-24T09:25:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845510061",
+  "build_id": "15845510061",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/qan-api2?tag=HEAD-b0ed5c2-250623T235723-aarch64-Linux&download=qan-api2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "790",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/qan-api2?tag=HEAD-b0ed5c2-250623T235723-aarch64-Linux&download=qan-api2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/pmm/qan-api2:HEAD-b0ed5c2-250623T235723-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/pmm/qan-api2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/qan-api2?tag=HEAD-b0ed5c2-250623T235723-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13cf510af02db6e0d4edf587b719b56fac1dab64332552a5f66bcfb074191e77",
+  "size": "20 MB",
+  "size_raw": "20549152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
