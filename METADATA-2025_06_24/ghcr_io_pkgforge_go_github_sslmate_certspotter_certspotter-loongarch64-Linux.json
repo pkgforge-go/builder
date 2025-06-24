@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "certspotter",
+  "pkg_family": "certspotter",
+  "pkg_id": "certspotter#github.com_SSLMate_certspotter",
+  "pkg_name": "certspotter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SSLMate/certspotter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Certificate Transparency Log Monitor",
+  "homepage": [
+    "https://github.com/SSLMate/certspotter"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certspotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SSLMate/certspotter/archive/b649b399e49c68a6cceaa88e25147f3e867f5d30.tar.gz"
+  ],
+  "tag": [
+    "certificate-transparency",
+    "pki",
+    "security",
+    "x509"
+  ],
+  "version": "HEAD-b649b39-250623T232054",
+  "version_upstream": "",
+  "bsum": "6c25856a265f1fc52908606a8e83c23f70f634b6cda7718f01c4359470c8c1b9",
+  "build_date": "2025-06-24T13:17:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851338288",
+  "build_id": "15851338288",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sslmate/certspotter/certspotter?tag=HEAD-b649b39-250623T232054-loongarch64-Linux&download=certspotter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1065",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sslmate/certspotter/certspotter?tag=HEAD-b649b39-250623T232054-loongarch64-Linux&download=certspotter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sslmate/certspotter/certspotter:HEAD-b649b39-250623T232054-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sslmate/certspotter/certspotter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sslmate/certspotter/certspotter?tag=HEAD-b649b39-250623T232054-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7738c6da89c3eee38abd028737aeed17374eca91589f971af9398b9ac15807f8",
+  "size": "6.7 MB",
+  "size_raw": "6926592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bcbd4e6-250617T140345-loongarch64-Linux",
+    "HEAD-8ab03b4-250619T183003-loongarch64-Linux[v0.20.1]"
+  ],
+  "trusted": "true"
+}
