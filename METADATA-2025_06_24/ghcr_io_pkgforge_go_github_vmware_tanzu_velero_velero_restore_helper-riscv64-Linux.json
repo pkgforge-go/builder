@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "velero-restore-helper",
+  "pkg_family": "velero",
+  "pkg_id": "velero-restore-helper#github.com_vmware_tanzu_velero",
+  "pkg_name": "velero-restore-helper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware-tanzu/velero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+  "homepage": [
+    "https://github.com/vmware-tanzu/velero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "issue-template-gen",
+    "release-tools",
+    "v1",
+    "velero",
+    "velero-helper",
+    "velero-restore-helper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware-tanzu/velero/archive/95cd0a184a63a4df00b279dcb2c7e77f09942c6a.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "disaster-recovery",
+    "hacktoberfest",
+    "kubernetes",
+    "velero"
+  ],
+  "version": "HEAD-95cd0a1-250624T113349",
+  "version_upstream": "",
+  "bsum": "a4fed5db2e2d1d1d6e0d3c293972e8313c1d564c026981bf3001d6b2cc9388db",
+  "build_date": "2025-06-24T10:12:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847425768",
+  "build_id": "15847425768",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/velero/velero-restore-helper?tag=HEAD-95cd0a1-250624T113349-riscv64-Linux&download=velero-restore-helper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9259",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/velero/velero-restore-helper?tag=HEAD-95cd0a1-250624T113349-riscv64-Linux&download=velero-restore-helper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware-tanzu/velero/velero-restore-helper:HEAD-95cd0a1-250624T113349-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware-tanzu/velero/velero-restore-helper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/velero/velero-restore-helper?tag=HEAD-95cd0a1-250624T113349-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a827179ff3e59d5ea5a7f058d58c3431929845c65394d1417cf727cd44cda77",
+  "size": "1.7 MB",
+  "size_raw": "1728936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
