@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "render_docker_docs",
+  "pkg_family": "mariadb-operator",
+  "pkg_id": "render_docker_docs#github.com_mariadb_operator_mariadb_operator",
+  "pkg_name": "render_docker_docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mariadb-operator/mariadb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🦭 Run and operate MariaDB in a cloud native way",
+  "homepage": [
+    "https://github.com/mariadb-operator/mariadb-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "get_kind_cidr_prefix",
+    "mariadb-operator-cmd",
+    "render_docker_docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mariadb-operator/mariadb-operator/archive/95fb5dd7368573f37541d41fd5b91f1edc5b730d.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "cert-manager",
+    "database",
+    "galera",
+    "high-availability",
+    "kubernetes",
+    "kubernetes-operator",
+    "kubernetes-operators",
+    "mariadb",
+    "mariadb-galera",
+    "mariadb-replication",
+    "mariadb-server",
+    "maxscale",
+    "mysql",
+    "openshift",
+    "operator",
+    "prometheus-operator",
+    "s3",
+    "sql",
+    "storage"
+  ],
+  "version": "HEAD-95fb5dd-250613T201616",
+  "version_upstream": "",
+  "bsum": "f9fe11e61349a4b3d8f18c75981d72498c03574533500d34c19e8ed73ec84fbe",
+  "build_date": "2025-06-24T08:50:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844657517",
+  "build_id": "15844657517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mariadb-operator/mariadb-operator/render_docker_docs?tag=HEAD-95fb5dd-250613T201616-riscv64-Linux&download=render_docker_docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "673",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mariadb-operator/mariadb-operator/render_docker_docs?tag=HEAD-95fb5dd-250613T201616-riscv64-Linux&download=render_docker_docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mariadb-operator/mariadb-operator/render_docker_docs:HEAD-95fb5dd-250613T201616-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mariadb-operator/mariadb-operator/render_docker_docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mariadb-operator/mariadb-operator/render_docker_docs?tag=HEAD-95fb5dd-250613T201616-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab5de419ffc64e6248d4ba3843457102842b1e83190b1d7265d5951e2eb56e54",
+  "size": "2.7 MB",
+  "size_raw": "2801512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
