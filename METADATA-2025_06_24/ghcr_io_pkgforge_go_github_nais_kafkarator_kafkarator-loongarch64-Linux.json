@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kafkarator",
+  "pkg_family": "kafkarator",
+  "pkg_id": "kafkarator#github.com_nais_kafkarator",
+  "pkg_name": "kafkarator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nais/kafkarator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for Aiven Kafka topic and user management",
+  "homepage": [
+    "https://github.com/nais/kafkarator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "canary",
+    "kafkarator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nais/kafkarator/archive/c83a7b649d8688c344b968e1020877449dc0f1f9.tar.gz"
+  ],
+  "tag": [
+    "kafka",
+    "kafka-operator",
+    "kubernetes",
+    "kubernetes-operator",
+    "nais-features"
+  ],
+  "version": "HEAD-c83a7b6-250623T215923",
+  "version_upstream": "",
+  "bsum": "1ae06d1d5f28def950161cdf7e78aa6759bff03c6ef6efdc403a063111396c20",
+  "build_date": "2025-06-24T09:01:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844842932",
+  "build_id": "15844842932",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/kafkarator/kafkarator?tag=HEAD-c83a7b6-250623T215923-loongarch64-Linux&download=kafkarator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/kafkarator/kafkarator?tag=HEAD-c83a7b6-250623T215923-loongarch64-Linux&download=kafkarator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/kafkarator/kafkarator:HEAD-c83a7b6-250623T215923-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/kafkarator/kafkarator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/kafkarator/kafkarator?tag=HEAD-c83a7b6-250623T215923-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aab2f650682d377beb88c48b0af70e7f241b27b8c979392306c0bc67700f160f",
+  "size": "44 MB",
+  "size_raw": "45897248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
