@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate-docs",
+  "pkg_family": "dice",
+  "pkg_id": "generate-docs#github.com_DiceDB_dice",
+  "pkg_name": "generate-docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DiceDB/dice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+  "homepage": [
+    "https://github.com/DiceDB/dice"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dice",
+    "generate-docs",
+    "test-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DiceDB/dice/archive/dd14872cc1c92e7ac96d328f55a6f1ccf050d00f.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "golang",
+    "hacktoberfest",
+    "storage-engine"
+  ],
+  "version": "HEAD-dd14872-250623T190333",
+  "version_upstream": "",
+  "bsum": "3905aa8d775ed5abfc34b42b298d60b5c3ec15f459658d882ae5103d44baad56",
+  "build_date": "2025-06-24T02:17:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839490426",
+  "build_id": "15839490426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/generate-docs?tag=HEAD-dd14872-250623T190333-riscv64-Linux&download=generate-docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10562",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/generate-docs?tag=HEAD-dd14872-250623T190333-riscv64-Linux&download=generate-docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dicedb/dice/generate-docs:HEAD-dd14872-250623T190333-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dicedb/dice/generate-docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/generate-docs?tag=HEAD-dd14872-250623T190333-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db0312d88a02349d19f13a5cd10f85e625c36a71e745af89b68a5aaee4e57725",
+  "size": "8.8 MB",
+  "size_raw": "9163544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ebad5d9-250531T232426-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
