@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "mariadb-operator",
+  "pkg_id": "controller#github.com_mariadb_operator_mariadb_operator",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mariadb-operator/mariadb-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🦭 Run and operate MariaDB in a cloud native way",
+  "homepage": [
+    "https://github.com/mariadb-operator/mariadb-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "get_kind_cidr_prefix",
+    "mariadb-operator-cmd",
+    "render_docker_docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mariadb-operator/mariadb-operator/archive/95fb5dd7368573f37541d41fd5b91f1edc5b730d.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "cert-manager",
+    "database",
+    "galera",
+    "high-availability",
+    "kubernetes",
+    "kubernetes-operator",
+    "kubernetes-operators",
+    "mariadb",
+    "mariadb-galera",
+    "mariadb-replication",
+    "mariadb-server",
+    "maxscale",
+    "mysql",
+    "openshift",
+    "operator",
+    "prometheus-operator",
+    "s3",
+    "sql",
+    "storage"
+  ],
+  "version": "HEAD-95fb5dd-250613T201616",
+  "version_upstream": "",
+  "bsum": "780bf0f36c8fc27c0f02372f90c44ffa8c1de001ced6c8d4832879269477617c",
+  "build_date": "2025-06-24T08:49:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844657517",
+  "build_id": "15844657517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mariadb-operator/mariadb-operator/controller?tag=HEAD-95fb5dd-250613T201616-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "673",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mariadb-operator/mariadb-operator/controller?tag=HEAD-95fb5dd-250613T201616-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mariadb-operator/mariadb-operator/controller:HEAD-95fb5dd-250613T201616-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mariadb-operator/mariadb-operator/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mariadb-operator/mariadb-operator/controller?tag=HEAD-95fb5dd-250613T201616-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b51640ffadd5c69ab4ae093ae769e27d017e9c865843040a08f5d5c1f80e42fd",
+  "size": "58 MB",
+  "size_raw": "60742624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
