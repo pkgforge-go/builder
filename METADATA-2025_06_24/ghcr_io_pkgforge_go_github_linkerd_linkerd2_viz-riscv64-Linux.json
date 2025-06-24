@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "viz",
+  "pkg_family": "linkerd2",
+  "pkg_id": "viz#github.com_linkerd_linkerd2",
+  "pkg_name": "viz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "destination-client",
+    "linkerd2-cli",
+    "linkerd2-web",
+    "policy-client",
+    "proxy-identity",
+    "viz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2/archive/df7cba4653e0702c4c15a5402641812fe6cd891c.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "kubernetes",
+    "linkerd",
+    "rust",
+    "service-mesh"
+  ],
+  "version": "HEAD-df7cba4-250624T092515",
+  "version_upstream": "",
+  "bsum": "9f0fbdf453ffcc8e766e2de2a6c6821a035dc565dfeccd5a9953a63bb4299b92",
+  "build_date": "2025-06-24T23:49:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862363928",
+  "build_id": "15862363928",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/viz?tag=HEAD-df7cba4-250624T092515-riscv64-Linux&download=viz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10991",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/viz?tag=HEAD-df7cba4-250624T092515-riscv64-Linux&download=viz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2/viz:HEAD-df7cba4-250624T092515-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2/viz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/viz?tag=HEAD-df7cba4-250624T092515-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a85d3ac12d09c0a92d811db0e693b90d5accf81e2585e87281c86efad7eebb33",
+  "size": "83 MB",
+  "size_raw": "86608952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f179d4c-250619T105442-riscv64-Linux",
+    "HEAD-a056257-250620T173521-riscv64-Linux",
+    "HEAD-8d1705c-250623T080502-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
