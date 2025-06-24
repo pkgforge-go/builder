@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "acars-processor",
+  "pkg_family": "acars-processor",
+  "pkg_id": "acars-processor#github.com_tyzbit_acars_processor",
+  "pkg_name": "acars-processor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tyzbit/acars-processor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Listens to messages from ACARSHub, optionally filtering messages, annotates with additional information via lookups and then submits to configurable receivers",
+  "homepage": [
+    "https://github.com/tyzbit/acars-processor"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acars-processor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tyzbit/acars-processor/archive/9670d15c44a77eb7ba5032b92600896d372286d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9670d15-250623T231556",
+  "version_upstream": "",
+  "bsum": "8d86a385fc2bfd8d188ab6b46d92e9f3a51dd93c8551b50c93b1bd019266eaf9",
+  "build_date": "2025-06-24T10:09:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847425587",
+  "build_id": "15847425587",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyzbit/acars-processor/acars-processor?tag=HEAD-9670d15-250623T231556-riscv64-Linux&download=acars-processor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyzbit/acars-processor/acars-processor?tag=HEAD-9670d15-250623T231556-riscv64-Linux&download=acars-processor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tyzbit/acars-processor/acars-processor:HEAD-9670d15-250623T231556-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tyzbit/acars-processor/acars-processor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyzbit/acars-processor/acars-processor?tag=HEAD-9670d15-250623T231556-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da6040052e4b7b71722da1785cf7bbe82c086d856938045294091ca85f77206b",
+  "size": "25 MB",
+  "size_raw": "26058584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
