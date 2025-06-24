@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "evaluation",
+  "pkg_family": "clouditor",
+  "pkg_id": "evaluation#github.com_clouditor_clouditor",
+  "pkg_name": "evaluation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clouditor/clouditor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.",
+  "homepage": [
+    "https://github.com/clouditor/clouditor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assessment",
+    "cli",
+    "discovery",
+    "engine",
+    "evaluation",
+    "evidence_store",
+    "orchestrator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clouditor/clouditor/archive/302c81af70ab6c07fecd48a8e64959f62311522a.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "bsic5",
+    "ccm",
+    "cloud",
+    "compliance",
+    "eucs",
+    "golang",
+    "security"
+  ],
+  "version": "HEAD-302c81a-250624T085326",
+  "version_upstream": "",
+  "bsum": "b4a098871c4e951ffb99a08d17a54842f7c863f2e054be55a634e0411989a65e",
+  "build_date": "2025-06-24T22:38:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862200131",
+  "build_id": "15862200131",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/evaluation?tag=HEAD-302c81a-250624T085326-aarch64-Linux&download=evaluation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/evaluation?tag=HEAD-302c81a-250624T085326-aarch64-Linux&download=evaluation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clouditor/clouditor/evaluation:HEAD-302c81a-250624T085326-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clouditor/clouditor/evaluation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clouditor/clouditor/evaluation?tag=HEAD-302c81a-250624T085326-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cca1d7c9a05a345c19092a385d7870410d0d8190da896bb0f3c13fd3d7a5a367",
+  "size": "33 MB",
+  "size_raw": "34395456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2ac11f8-250604T173245-aarch64-Linux",
+    "HEAD-63b02d9-250623T084151-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
