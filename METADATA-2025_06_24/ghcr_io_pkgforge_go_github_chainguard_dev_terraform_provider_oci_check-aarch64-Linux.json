@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "terraform-provider-oci",
+  "pkg_id": "check#github.com_chainguard_dev_terraform_provider_oci",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chainguard-dev/terraform-provider-oci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform provider to perform OCI image operations",
+  "homepage": [
+    "https://github.com/chainguard-dev/terraform-provider-oci"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "terraform-provider-oci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chainguard-dev/terraform-provider-oci/archive/5d40d3de2dfa5e0028fb58205fb352e676d04012.tar.gz"
+  ],
+  "tag": [
+    "container-image",
+    "container-registry",
+    "oci",
+    "terraform"
+  ],
+  "version": "HEAD-5d40d3d-250623T150150",
+  "version_upstream": "",
+  "bsum": "df6697d563fab796077726ee0e8321e2de0bdfde443566fc8c9a7b5f18f49cca",
+  "build_date": "2025-06-24T07:47:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843601407",
+  "build_id": "15843601407",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-provider-oci/check?tag=HEAD-5d40d3d-250623T150150-aarch64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-provider-oci/check?tag=HEAD-5d40d3d-250623T150150-aarch64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainguard-dev/terraform-provider-oci/check:HEAD-5d40d3d-250623T150150-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainguard-dev/terraform-provider-oci/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-provider-oci/check?tag=HEAD-5d40d3d-250623T150150-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff341f6042f485995480aaf6db2140ae242a395cc76f1e5bf1fa245a7eb87bdf",
+  "size": "7.4 MB",
+  "size_raw": "7676512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
