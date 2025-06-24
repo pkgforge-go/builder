@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "install",
+  "pkg_family": "croc",
+  "pkg_id": "install#github.com_schollz_croc",
+  "pkg_name": "install",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/schollz/croc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Easily and securely send things from one computer to another :crocodile: :package:",
+  "homepage": [
+    "https://github.com/schollz/croc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "croc",
+    "install"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/schollz/croc/archive/dcf879b836238ee1660f7b3ebc9c63edd0ec7891.tar.gz"
+  ],
+  "tag": [
+    "data-transfer",
+    "file-sharing",
+    "golang",
+    "pake",
+    "peer-to-peer",
+    "tcp",
+    "transfer"
+  ],
+  "version": "HEAD-dcf879b-250623T082444",
+  "version_upstream": "",
+  "bsum": "e6ace21c5d6b54cf0942d314abcc1203f9d959fa283831b88a05f54fc67eff4d",
+  "build_date": "2025-06-24T15:54:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851953051",
+  "build_id": "15851953051",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schollz/croc/install?tag=HEAD-dcf879b-250623T082444-riscv64-Linux&download=install.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30417",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schollz/croc/install?tag=HEAD-dcf879b-250623T082444-riscv64-Linux&download=install",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/schollz/croc/install:HEAD-dcf879b-250623T082444-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/schollz/croc/install",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schollz/croc/install?tag=HEAD-dcf879b-250623T082444-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1508fe687368866ebca680a050e1a0b606eb24d1a7cdff88a2509e5f80cfd9a",
+  "size": "1.9 MB",
+  "size_raw": "1918216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1384bba-250616T070014-riscv64-Linux",
+    "HEAD-ec5abfb-250621T094124-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
