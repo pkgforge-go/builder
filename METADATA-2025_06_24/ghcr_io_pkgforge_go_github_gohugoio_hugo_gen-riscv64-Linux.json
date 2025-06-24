@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "hugo",
+  "pkg_id": "gen#github.com_gohugoio_hugo",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gohugoio/hugo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The world’s fastest framework for building websites.",
+  "homepage": [
+    "https://github.com/gohugoio/hugo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fork_go_templates",
+    "gen",
+    "hugo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gohugoio/hugo/archive/762417617c80f6ccd8b3d283c89d7b2406be6b23.tar.gz"
+  ],
+  "tag": [
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "go",
+    "hugo",
+    "static-site-generator"
+  ],
+  "version": "HEAD-7624176-250623T083821",
+  "version_upstream": "",
+  "bsum": "9aebb5c0815680ffecaf714a1edb2400398e90ad139d6407d221c611a6894d7a",
+  "build_date": "2025-06-24T02:49:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839560347",
+  "build_id": "15839560347",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-7624176-250623T083821-riscv64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81701",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-7624176-250623T083821-riscv64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gohugoio/hugo/gen:HEAD-7624176-250623T083821-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gohugoio/hugo/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-7624176-250623T083821-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c6d6f24cd71c35a1b26ea195560b7e63637c4822dce0ea7baf411c349b2d044d",
+  "size": "9.9 MB",
+  "size_raw": "10313176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b6c8dfa-250617T073514-riscv64-Linux",
+    "HEAD-6a4a3ab-250622T165543-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
