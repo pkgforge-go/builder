@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "git-platforms-enumerator",
+  "pkg_family": "OpenSift",
+  "pkg_id": "git-platforms-enumerator#github.com_HUSTSeclab_OpenSift",
+  "pkg_name": "git-platforms-enumerator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/HUSTSeclab/OpenSift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Criticality Score calculated by our metrics",
+  "homepage": [
+    "https://github.com/HUSTSeclab/OpenSift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "database-migrator",
+    "database-validator",
+    "dist-packages-collector",
+    "download-collecter",
+    "downloaded-git-repos-counter",
+    "fetch-releases",
+    "git-metadata-collector",
+    "git-metrics-fixer",
+    "git-metrics-sync",
+    "git-platforms-enumerator",
+    "git-relationship-generator",
+    "githubmetrics",
+    "lang-ecosystem-collector",
+    "llm-invoker",
+    "package_calculator",
+    "parse-deps",
+    "scores-caculator",
+    "workflow-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/HUSTSeclab/OpenSift/archive/ea17b42c558c5f5a563fb5e24affe0590454c287.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ea17b42-250624T204427",
+  "version_upstream": "",
+  "bsum": "8722a93fcefff6313332c4aefdb68fda5d951ead80240b520de7edd5fd151e46",
+  "build_date": "2025-06-24T16:46:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855432726",
+  "build_id": "15855432726",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/git-platforms-enumerator?tag=HEAD-ea17b42-250624T204427-aarch64-Linux&download=git-platforms-enumerator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/git-platforms-enumerator?tag=HEAD-ea17b42-250624T204427-aarch64-Linux&download=git-platforms-enumerator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hustseclab/opensift/git-platforms-enumerator:HEAD-ea17b42-250624T204427-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hustseclab/opensift/git-platforms-enumerator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hustseclab/opensift/git-platforms-enumerator?tag=HEAD-ea17b42-250624T204427-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d2b669c84dacaac4de02a2f2de305e1254f113df02428b71ba9a8e8daebf00f",
+  "size": "45 MB",
+  "size_raw": "47111552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
