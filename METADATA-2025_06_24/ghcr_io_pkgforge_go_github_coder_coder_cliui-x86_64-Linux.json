@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cliui",
+  "pkg_family": "coder",
+  "pkg_id": "cliui#github.com_coder_coder",
+  "pkg_name": "cliui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coder/coder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision remote development environments via Terraform",
+  "homepage": [
+    "https://github.com/coder/coder"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitypings",
+    "auditdocgen",
+    "audittypegen",
+    "clidocgen",
+    "cliui",
+    "cmdtest",
+    "coder",
+    "dbgen",
+    "dump",
+    "echoserver",
+    "embedded-pg",
+    "examplegen",
+    "gensite",
+    "metricsdocgen",
+    "migrate-ci",
+    "migrate-test",
+    "postprocess",
+    "release",
+    "releasemigrations",
+    "testidp",
+    "typegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coder/coder/archive/5ed0c7abcb4623c27cef04c79eac9c6e98c9e948.tar.gz"
+  ],
+  "tag": [
+    "dev-tools",
+    "development-environment",
+    "go",
+    "golang",
+    "ide",
+    "jetbrains",
+    "remote-development",
+    "terraform",
+    "vscode"
+  ],
+  "version": "HEAD-5ed0c7a-250623T150818",
+  "version_upstream": "",
+  "bsum": "0e4f1bf335aa87e16faf6dffda2b61a94f704400b2d08609a0cc017a34eca121",
+  "build_date": "2025-06-24T14:07:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851483038",
+  "build_id": "15851483038",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-5ed0c7a-250623T150818-x86_64-Linux&download=cliui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10107",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-5ed0c7a-250623T150818-x86_64-Linux&download=cliui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/cliui:HEAD-5ed0c7a-250623T150818-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/cliui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-5ed0c7a-250623T150818-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "de196e9748af4007075f8676783cdc7b4c5bcab5415d8d6b00ee9d50317b2652",
+  "size": "45 MB",
+  "size_raw": "46530496",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-511fd09-250619T133251-x86_64-Linux",
+    "HEAD-725bc37-250621T184630-x86_64-Linux",
+    "HEAD-ba08d38-250623T135451-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
