@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "build",
+  "pkg_family": "package-operator",
+  "pkg_id": "build#github.com_package_operator_package_operator",
+  "pkg_name": "build",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/package-operator/package-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for packaging and managing a collection of arbitrary Kubernetes objects to install software on one or multiple clusters.",
+  "homepage": [
+    "https://github.com/package-operator/package-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "kubectl-package",
+    "package-operator-manager",
+    "package-operator-webhook",
+    "remote-phase-manager",
+    "test-stub"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/package-operator/package-operator/archive/bc1372518088a95d23a8c255c9599d3a033dabe7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bc13725-250624T122951",
+  "version_upstream": "",
+  "bsum": "7773277df06870ae3a55f475214f14a4243ec38bc6969129b8c6694013721113",
+  "build_date": "2025-06-24T18:49:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857564681",
+  "build_id": "15857564681",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/package-operator/package-operator/build?tag=HEAD-bc13725-250624T122951-aarch64-Linux&download=build.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/package-operator/package-operator/build?tag=HEAD-bc13725-250624T122951-aarch64-Linux&download=build",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/package-operator/package-operator/build:HEAD-bc13725-250624T122951-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/package-operator/package-operator/build",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/package-operator/package-operator/build?tag=HEAD-bc13725-250624T122951-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "35868700ba115a4c46eec16df427f19d49b00529198cdf5b63a0eb026f232db2",
+  "size": "55 MB",
+  "size_raw": "57448608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
