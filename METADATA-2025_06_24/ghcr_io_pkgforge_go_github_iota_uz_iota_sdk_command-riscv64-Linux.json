@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "command",
+  "pkg_family": "iota-sdk",
+  "pkg_id": "command#github.com_iota_uz_iota_sdk",
+  "pkg_name": "command",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/iota-uz/iota-sdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IOTA-SDK - is an open-source modular ERP. An alternative to SAP, Oracle, Odoo written in Go with modern look _ feel",
+  "homepage": [
+    "https://github.com/iota-uz/iota-sdk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collect-logs",
+    "command",
+    "document",
+    "migrate",
+    "seed",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/iota-uz/iota-sdk/archive/985305bcac2d084bc75f9e7a611f09d7cfdda0df.tar.gz"
+  ],
+  "tag": [
+    "crm",
+    "crm-platform",
+    "crm-system",
+    "erp",
+    "erp-finance",
+    "erpnext",
+    "go",
+    "golang",
+    "odoo",
+    "sdk"
+  ],
+  "version": "HEAD-985305b-250624T173615",
+  "version_upstream": "",
+  "bsum": "1c15cb0f413a2aa63e42259a1cf5c88ef7b808e209bc6c6d3a9238f7c557e316",
+  "build_date": "2025-06-24T17:55:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857057267",
+  "build_id": "15857057267",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iota-uz/iota-sdk/command?tag=HEAD-985305b-250624T173615-riscv64-Linux&download=command.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "262",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iota-uz/iota-sdk/command?tag=HEAD-985305b-250624T173615-riscv64-Linux&download=command",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/iota-uz/iota-sdk/command:HEAD-985305b-250624T173615-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/iota-uz/iota-sdk/command",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iota-uz/iota-sdk/command?tag=HEAD-985305b-250624T173615-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab2488aee5b0444389416da4cf2539f625fb0c6195819fdac24ab7203d823644",
+  "size": "69 MB",
+  "size_raw": "71473816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
