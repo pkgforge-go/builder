@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mount-daemon",
+  "pkg_family": "nnf-sos",
+  "pkg_id": "mount-daemon#github.com_NearNodeFlash_nnf_sos",
+  "pkg_name": "mount-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NearNodeFlash/nnf-sos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Near Node Flash Storage Orchestration Services",
+  "homepage": [
+    "https://github.com/NearNodeFlash/nnf-sos"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mount-daemon",
+    "nnf-sos-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NearNodeFlash/nnf-sos/archive/04f64ea969afbd18a174638582b68ef6941bda33.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-04f64ea-250623T140754",
+  "version_upstream": "",
+  "bsum": "6d650b3c06e27c7efd87345354ef2450cc6fe82777df2ab650aa976523790416",
+  "build_date": "2025-06-24T07:13:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843506668",
+  "build_id": "15843506668",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nearnodeflash/nnf-sos/mount-daemon?tag=HEAD-04f64ea-250623T140754-riscv64-Linux&download=mount-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nearnodeflash/nnf-sos/mount-daemon?tag=HEAD-04f64ea-250623T140754-riscv64-Linux&download=mount-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nearnodeflash/nnf-sos/mount-daemon:HEAD-04f64ea-250623T140754-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nearnodeflash/nnf-sos/mount-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nearnodeflash/nnf-sos/mount-daemon?tag=HEAD-04f64ea-250623T140754-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c382850039ac7e04af4a03751d06084b06a7b62743704351ad90bdd32af79f57",
+  "size": "43 MB",
+  "size_raw": "44046456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
