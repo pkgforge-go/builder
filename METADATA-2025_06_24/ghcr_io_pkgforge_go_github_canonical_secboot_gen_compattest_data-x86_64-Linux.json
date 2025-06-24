@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen-compattest-data",
+  "pkg_family": "secboot",
+  "pkg_id": "gen-compattest-data#github.com_canonical_secboot",
+  "pkg_name": "gen-compattest-data",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/secboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/canonical/secboot"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-compattest-data",
+    "make-efi-testdata",
+    "run_argon2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/secboot/archive/59cd31004f3d0a0a0369571243803c003849a0d4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-59cd310-250623T101110",
+  "version_upstream": "",
+  "bsum": "fe576ec72b79ff455320aa69abde5414a1a3ca7118609d5a20a51dff92b5ff30",
+  "build_date": "2025-06-24T02:30:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839494558",
+  "build_id": "15839494558",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/gen-compattest-data?tag=HEAD-59cd310-250623T101110-x86_64-Linux&download=gen-compattest-data.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/gen-compattest-data?tag=HEAD-59cd310-250623T101110-x86_64-Linux&download=gen-compattest-data",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/secboot/gen-compattest-data:HEAD-59cd310-250623T101110-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/secboot/gen-compattest-data",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/gen-compattest-data?tag=HEAD-59cd310-250623T101110-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37530b841a01e9707bd6647971efda9b0392c2027c5fcf6890a98653c322299e",
+  "size": "7.0 MB",
+  "size_raw": "7301920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-97bf6d7-250619T110227-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
