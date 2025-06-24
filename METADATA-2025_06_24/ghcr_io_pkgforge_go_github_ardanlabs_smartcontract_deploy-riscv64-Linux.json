@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "deploy",
+  "pkg_family": "smartcontract",
+  "pkg_id": "deploy#github.com_ardanlabs_smartcontract",
+  "pkg_name": "deploy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ardanlabs/smartcontract",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/ardanlabs/smartcontract"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "balance",
+    "bank",
+    "confirm",
+    "deploy",
+    "deposit",
+    "read",
+    "reconcile",
+    "trancheck",
+    "transfer",
+    "withdraw",
+    "write"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ardanlabs/smartcontract/archive/723441d14d42c89ea5a05fa79a415eea5c4aa9fe.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-723441d-250624T091234",
+  "version_upstream": "",
+  "bsum": "af5922f934568dc2763868ef8f53a0461cc4ea5f3b58272e5c9cc859eae4afb7",
+  "build_date": "2025-06-24T17:11:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855765182",
+  "build_id": "15855765182",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/smartcontract/deploy?tag=HEAD-723441d-250624T091234-riscv64-Linux&download=deploy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/smartcontract/deploy?tag=HEAD-723441d-250624T091234-riscv64-Linux&download=deploy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ardanlabs/smartcontract/deploy:HEAD-723441d-250624T091234-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ardanlabs/smartcontract/deploy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/smartcontract/deploy?tag=HEAD-723441d-250624T091234-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4eba016ee030d554b42f5f807101954825cdd1bcda4d7b54044331adf269cda",
+  "size": "24 MB",
+  "size_raw": "24457080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
