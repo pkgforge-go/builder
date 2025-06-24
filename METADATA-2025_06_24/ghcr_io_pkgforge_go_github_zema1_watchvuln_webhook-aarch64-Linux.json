@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "watchvuln",
+  "pkg_id": "webhook#github.com_zema1_watchvuln",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zema1/watchvuln",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一个高价值漏洞采集与推送服务 _ Collect valueable vulnerabilities and push them to various services",
+  "homepage": [
+    "https://github.com/zema1/watchvuln"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "watchvuln",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zema1/watchvuln/archive/c53a63e5ebbb82224a8195b1b04262373e868f70.tar.gz"
+  ],
+  "tag": [
+    "dingding-bot",
+    "lark-bot",
+    "vulnerability",
+    "vulnerability-analysis",
+    "wecom-bot"
+  ],
+  "version": "HEAD-c53a63e-250624T181524",
+  "version_upstream": "v2.6.0",
+  "bsum": "bc0a898d0a49dc9926679610835aed6539a86ce61320b066b96d4790659b6320",
+  "build_date": "2025-06-24T20:21:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859743420",
+  "build_id": "15859743420",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zema1/watchvuln/webhook?tag=HEAD-c53a63e-250624T181524-aarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1602",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zema1/watchvuln/webhook?tag=HEAD-c53a63e-250624T181524-aarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zema1/watchvuln/webhook:HEAD-c53a63e-250624T181524-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zema1/watchvuln/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zema1/watchvuln/webhook?tag=HEAD-c53a63e-250624T181524-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be2252664dbd220c788cbcbc641fc693a62fd3bf9c5dc616c6e0c3f8ccf5d93e",
+  "size": "20 MB",
+  "size_raw": "20075168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
