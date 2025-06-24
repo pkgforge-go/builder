@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mdbook-make_target",
+  "pkg_family": "claircore",
+  "pkg_id": "mdbook-make_target#github.com_quay_claircore",
+  "pkg_name": "mdbook-make_target",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quay/claircore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "foundation modules for scanning container packages and reporting vulnerabilities",
+  "homepage": [
+    "https://github.com/quay/claircore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bisect",
+    "cleancache",
+    "fetch-container-rpm-manifest",
+    "mdbook-godoc",
+    "mdbook-injecturls",
+    "mdbook-make_target",
+    "mdbook-mermaid",
+    "ovaldebug"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quay/claircore/archive/d31fad5f2994834606d2561336ea52a5607cac66.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "static-analysis"
+  ],
+  "version": "HEAD-d31fad5-250621T140120",
+  "version_upstream": "",
+  "bsum": "5827e79b9ae997a5249a5674b6f97b09fb374e0f25f590a5ae2f6f92746a6f43",
+  "build_date": "2025-06-24T09:30:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845898662",
+  "build_id": "15845898662",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/mdbook-make_target?tag=HEAD-d31fad5-250621T140120-riscv64-Linux&download=mdbook-make_target.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "147",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/mdbook-make_target?tag=HEAD-d31fad5-250621T140120-riscv64-Linux&download=mdbook-make_target",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quay/claircore/mdbook-make_target:HEAD-d31fad5-250621T140120-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quay/claircore/mdbook-make_target",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/mdbook-make_target?tag=HEAD-d31fad5-250621T140120-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3c15b6b13ef3702278e200f868a396a7c46d5aaa0a96f7f52e0313620b438d0",
+  "size": "2.6 MB",
+  "size_raw": "2643880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
