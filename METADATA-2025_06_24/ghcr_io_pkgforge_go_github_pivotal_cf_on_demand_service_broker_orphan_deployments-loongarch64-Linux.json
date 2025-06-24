@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "orphan-deployments",
+  "pkg_family": "on-demand-service-broker",
+  "pkg_id": "orphan-deployments#github.com_pivotal_cf_on_demand_service_broker",
+  "pkg_name": "orphan-deployments",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pivotal-cf/on-demand-service-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "On-Demand Service Broker _ODB_ golang SDK for easily creating brokers that provision instances via BOSH",
+  "homepage": [
+    "https://github.com/pivotal-cf/on-demand-service-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter",
+    "broker-post-start",
+    "collect-service-metrics",
+    "delete-all-service-instances",
+    "delete-all-service-instances-and-deregister-broker",
+    "deregister-broker",
+    "on-demand-service-broker",
+    "orphan-deployments",
+    "recreate-all-service-instances",
+    "register-broker",
+    "upgrade-all-service-instances"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pivotal-cf/on-demand-service-broker/archive/02886cce281b2ccee2858bf9569e381f78a802bd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-02886cc-250623T180945",
+  "version_upstream": "",
+  "bsum": "413f567fc4b6bd78acd5b53518f85e54003c55e9061ed1fbd4bc1b762e06e3ea",
+  "build_date": "2025-06-24T09:26:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845526811",
+  "build_id": "15845526811",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal-cf/on-demand-service-broker/orphan-deployments?tag=HEAD-02886cc-250623T180945-loongarch64-Linux&download=orphan-deployments.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal-cf/on-demand-service-broker/orphan-deployments?tag=HEAD-02886cc-250623T180945-loongarch64-Linux&download=orphan-deployments",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pivotal-cf/on-demand-service-broker/orphan-deployments:HEAD-02886cc-250623T180945-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pivotal-cf/on-demand-service-broker/orphan-deployments",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal-cf/on-demand-service-broker/orphan-deployments?tag=HEAD-02886cc-250623T180945-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0b206e78dfcd32aaa4469bf3230a6b99b076063efcef93af8d3b55b5bce8b23",
+  "size": "8.6 MB",
+  "size_raw": "9014560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
