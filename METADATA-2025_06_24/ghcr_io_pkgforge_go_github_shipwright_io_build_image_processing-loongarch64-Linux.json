@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "image-processing",
+  "pkg_family": "build",
+  "pkg_id": "image-processing#github.com_shipwright_io_build",
+  "pkg_name": "image-processing",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/shipwright-io/build",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shipwright - a framework for building container images on Kubernetes",
+  "homepage": [
+    "https://github.com/shipwright-io/build"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bundle",
+    "git",
+    "image-processing",
+    "shipwright-build-controller",
+    "shipwright-build-webhook",
+    "waiter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/shipwright-io/build/archive/3a8ec9fcf8367a090294e66718d69f7ce5dfcb74.tar.gz"
+  ],
+  "tag": [
+    "cicd",
+    "containers",
+    "kubernetes"
+  ],
+  "version": "HEAD-3a8ec9f-250623T115256",
+  "version_upstream": "",
+  "bsum": "e6b786bfcc14891b3411f2302a16ee388b189edf8ea3b3cbc6392033f98bed1b",
+  "build_date": "2025-06-24T02:54:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839569268",
+  "build_id": "15839569268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shipwright-io/build/image-processing?tag=HEAD-3a8ec9f-250623T115256-loongarch64-Linux&download=image-processing.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "715",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shipwright-io/build/image-processing?tag=HEAD-3a8ec9f-250623T115256-loongarch64-Linux&download=image-processing",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/shipwright-io/build/image-processing:HEAD-3a8ec9f-250623T115256-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/shipwright-io/build/image-processing",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/shipwright-io/build/image-processing?tag=HEAD-3a8ec9f-250623T115256-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "296abdcc575a81b8d071e97f0fd0cd26942644185042a3ff5f9bf79ca96af2b0",
+  "size": "45 MB",
+  "size_raw": "46545344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fd509af-250621T192528-loongarch64-Linux",
+    "HEAD-3a8ec9f-250623T115256-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
