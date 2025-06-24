@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dbusclient",
+  "pkg_family": "oc-daemon",
+  "pkg_id": "dbusclient#github.com_telekom_mms_oc_daemon",
+  "pkg_name": "dbusclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/telekom-mms/oc-daemon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A daemon wrapping the openconnect VPN client to provide enhanced functionality for corporate Linux clients",
+  "homepage": [
+    "https://github.com/telekom-mms/oc-daemon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbusclient",
+    "default",
+    "devmon",
+    "dnsproxy",
+    "oc-client",
+    "oc-daemon",
+    "oc-daemon-vpncscript",
+    "ocrunner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/telekom-mms/oc-daemon/archive/af9df41b95354f94d3606676f71799fd8df2f21c.tar.gz"
+  ],
+  "tag": [
+    "linux"
+  ],
+  "version": "HEAD-af9df41-250624T144755",
+  "version_upstream": "",
+  "bsum": "5019a638a81d633f8e9220a5ae4e6063f46744690e11eff4768cee2661fd13de",
+  "build_date": "2025-06-24T19:47:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859559442",
+  "build_id": "15859559442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom-mms/oc-daemon/dbusclient?tag=HEAD-af9df41-250624T144755-loongarch64-Linux&download=dbusclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom-mms/oc-daemon/dbusclient?tag=HEAD-af9df41-250624T144755-loongarch64-Linux&download=dbusclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/telekom-mms/oc-daemon/dbusclient:HEAD-af9df41-250624T144755-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/telekom-mms/oc-daemon/dbusclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom-mms/oc-daemon/dbusclient?tag=HEAD-af9df41-250624T144755-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e54a54a7d2eca985e8399663ea8b07c2e67116f9bfabac18cefb3ff63908e0db",
+  "size": "3.1 MB",
+  "size_raw": "3247456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
