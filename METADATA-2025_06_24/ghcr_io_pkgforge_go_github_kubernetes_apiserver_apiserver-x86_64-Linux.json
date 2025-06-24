@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "apiserver",
+  "pkg_family": "apiserver",
+  "pkg_id": "apiserver#github.com_kubernetes_apiserver",
+  "pkg_name": "apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/apiserver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Library for writing a Kubernetes-style API server.",
+  "homepage": [
+    "https://github.com/kubernetes/apiserver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/apiserver/archive/389ff851fc2fec4440a1b7a3e2e4719d5e5125c7.tar.gz"
+  ],
+  "tag": [
+    "k8s-staging"
+  ],
+  "version": "HEAD-389ff85-250624T134108",
+  "version_upstream": "",
+  "bsum": "c87954cf669c16957e2fb29b6cbff42e2d5bbec361de495798e3d6c71de8a5e1",
+  "build_date": "2025-06-24T19:07:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858397091",
+  "build_id": "15858397091",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-389ff85-250624T134108-x86_64-Linux&download=apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-389ff85-250624T134108-x86_64-Linux&download=apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/apiserver/apiserver:HEAD-389ff85-250624T134108-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/apiserver/apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-389ff85-250624T134108-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aca542395390d5194d2463e945d4189f688758a518091144477045726b398bf1",
+  "size": "41 MB",
+  "size_raw": "42857984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
