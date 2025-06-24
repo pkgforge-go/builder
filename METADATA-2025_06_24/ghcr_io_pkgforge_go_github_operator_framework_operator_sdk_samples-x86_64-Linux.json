@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "samples",
+  "pkg_family": "operator-sdk",
+  "pkg_id": "samples#github.com_operator_framework_operator_sdk",
+  "pkg_name": "samples",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-sdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+  "homepage": [
+    "https://github.com/operator-framework/operator-sdk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "cncf-maintainers",
+    "custom-scorecard-tests",
+    "helm-operator",
+    "samples",
+    "scorecard-test",
+    "scorecard-test-kuttl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-sdk/archive/88f7a9312bec247eba60de426d7edbe25b23275f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "operator",
+    "sdk"
+  ],
+  "version": "HEAD-88f7a93-250624T064847",
+  "version_upstream": "",
+  "bsum": "9e5ff1b6359dd3235d59db06833ff15d24f4f7cd91b9ce335d8426f51f2a34e0",
+  "build_date": "2025-06-24T18:50:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857510671",
+  "build_id": "15857510671",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/samples?tag=HEAD-88f7a93-250624T064847-x86_64-Linux&download=samples.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/samples?tag=HEAD-88f7a93-250624T064847-x86_64-Linux&download=samples",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-sdk/samples:HEAD-88f7a93-250624T064847-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-sdk/samples",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/samples?tag=HEAD-88f7a93-250624T064847-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b046ebe88e060bace684961d8a7a3c95ad4d98fd659343a7212cfdb08335d19",
+  "size": "6.7 MB",
+  "size_raw": "6995680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
