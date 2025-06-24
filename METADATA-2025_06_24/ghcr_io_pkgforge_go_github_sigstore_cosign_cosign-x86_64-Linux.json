@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cosign",
+  "pkg_family": "cosign",
+  "pkg_id": "cosign#github.com_sigstore_cosign",
+  "pkg_name": "cosign",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/cosign",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Code signing and transparency for containers and binaries",
+  "homepage": [
+    "https://github.com/sigstore/cosign"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conformance",
+    "cosign",
+    "getoidctoken",
+    "help",
+    "sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/cosign/archive/c36801ef34aa24eb01d064ab12da66a83b9c3ff4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c36801e-250623T204939",
+  "version_upstream": "",
+  "bsum": "4ae2217339ff15bdc0548ea6c87efed4ec81c836360652e3355b987619efa827",
+  "build_date": "2025-06-24T16:02:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15852175775",
+  "build_id": "15852175775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/cosign?tag=HEAD-c36801e-250623T204939-x86_64-Linux&download=cosign.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5019",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/cosign?tag=HEAD-c36801e-250623T204939-x86_64-Linux&download=cosign",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/cosign/cosign:HEAD-c36801e-250623T204939-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/cosign/cosign",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/cosign?tag=HEAD-c36801e-250623T204939-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3cc9dc6026d3e37fe12c045bb87cfd5a6727401cef7459e7842c5cde3239b6f3",
+  "size": "98 MB",
+  "size_raw": "102662368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af5a988-250617T200314-x86_64-Linux[v2.5.2]"
+  ],
+  "trusted": "true"
+}
