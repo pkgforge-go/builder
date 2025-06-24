@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "prometheus-timestream-adapter",
+  "pkg_family": "prometheus-timestream-adapter",
+  "pkg_id": "prometheus-timestream-adapter#github.com_dpattmann_prometheus_timestream_adapter",
+  "pkg_name": "prometheus-timestream-adapter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dpattmann/prometheus-timestream-adapter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Use AWS Timestream as a remote storage database for Prometheus",
+  "homepage": [
+    "https://github.com/dpattmann/prometheus-timestream-adapter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "prometheus-timestream-adapter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dpattmann/prometheus-timestream-adapter/archive/b92511bc442c355375ba3bbf2817038498c42749.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "prometheus",
+    "prometheus-adapter",
+    "timestream"
+  ],
+  "version": "HEAD-b92511b-250623T201530",
+  "version_upstream": "",
+  "bsum": "ca95a1c30597b64ab49d917c1ec64c0d43562202e003fa4b2107b15bcec78bfa",
+  "build_date": "2025-06-24T07:56:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843674489",
+  "build_id": "15843674489",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dpattmann/prometheus-timestream-adapter/prometheus-timestream-adapter?tag=HEAD-b92511b-250623T201530-riscv64-Linux&download=prometheus-timestream-adapter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dpattmann/prometheus-timestream-adapter/prometheus-timestream-adapter?tag=HEAD-b92511b-250623T201530-riscv64-Linux&download=prometheus-timestream-adapter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dpattmann/prometheus-timestream-adapter/prometheus-timestream-adapter:HEAD-b92511b-250623T201530-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dpattmann/prometheus-timestream-adapter/prometheus-timestream-adapter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dpattmann/prometheus-timestream-adapter/prometheus-timestream-adapter?tag=HEAD-b92511b-250623T201530-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c5d87320d5aa4fb0f89b5d489b4f91c9422fd1f50db9ca35e9db0c75f5c8a87",
+  "size": "17 MB",
+  "size_raw": "17288088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
