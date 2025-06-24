@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubectl-rexec",
+  "pkg_family": "kubectl-rexec",
+  "pkg_id": "kubectl-rexec#github.com_Adyen_kubectl_rexec",
+  "pkg_name": "kubectl-rexec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Adyen/kubectl-rexec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tooling to make audited kubectl exec easy",
+  "homepage": [
+    "https://github.com/Adyen/kubectl-rexec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-rexec",
+    "rexec"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Adyen/kubectl-rexec/archive/644bde946079a712a30188881fed7c62d0a28eed.tar.gz"
+  ],
+  "tag": [
+    "audit-log",
+    "auditing",
+    "kubectl-plugins"
+  ],
+  "version": "HEAD-644bde9-250624T134158",
+  "version_upstream": "",
+  "bsum": "6094c2aad285fc16de19b4858412068b6cd48c3289b877d1c3c6fd48d0517463",
+  "build_date": "2025-06-24T16:23:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855401882",
+  "build_id": "15855401882",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adyen/kubectl-rexec/kubectl-rexec?tag=HEAD-644bde9-250624T134158-x86_64-Linux&download=kubectl-rexec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adyen/kubectl-rexec/kubectl-rexec?tag=HEAD-644bde9-250624T134158-x86_64-Linux&download=kubectl-rexec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adyen/kubectl-rexec/kubectl-rexec:HEAD-644bde9-250624T134158-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adyen/kubectl-rexec/kubectl-rexec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adyen/kubectl-rexec/kubectl-rexec?tag=HEAD-644bde9-250624T134158-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "56ba5846923297a45610c6a6dfe275ccffa73c82bf605db2a7269eb0ecdd3e77",
+  "size": "73 MB",
+  "size_raw": "76036400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
