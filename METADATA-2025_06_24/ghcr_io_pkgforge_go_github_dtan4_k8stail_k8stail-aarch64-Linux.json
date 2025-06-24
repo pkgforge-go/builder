@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "k8stail",
+  "pkg_family": "k8stail",
+  "pkg_id": "k8stail#github.com_dtan4_k8stail",
+  "pkg_name": "k8stail",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dtan4/k8stail",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tail -f experience for Kubernetes Pods",
+  "homepage": [
+    "https://github.com/dtan4/k8stail"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8stail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dtan4/k8stail/archive/49b27c28109e87852efd0dc54a8c09549abb3c1d.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-pods",
+    "tail"
+  ],
+  "version": "HEAD-49b27c2-250624T084252",
+  "version_upstream": "",
+  "bsum": "66e41341657a47cb73f2fb3fbd96b313945d5480afe867768dfcd20b40097a5b",
+  "build_date": "2025-06-24T17:25:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855866840",
+  "build_id": "15855866840",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dtan4/k8stail/k8stail?tag=HEAD-49b27c2-250624T084252-aarch64-Linux&download=k8stail.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "148",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dtan4/k8stail/k8stail?tag=HEAD-49b27c2-250624T084252-aarch64-Linux&download=k8stail",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dtan4/k8stail/k8stail:HEAD-49b27c2-250624T084252-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dtan4/k8stail/k8stail",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dtan4/k8stail/k8stail?tag=HEAD-49b27c2-250624T084252-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "790a8972aff7c573405e765db52b0a10bd1d7ed04cfbcfefc9ceb31a399ca03b",
+  "size": "38 MB",
+  "size_raw": "39745472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
