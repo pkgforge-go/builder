@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "harvester",
+  "pkg_family": "harvester",
+  "pkg_id": "harvester#github.com_harvester_harvester",
+  "pkg_name": "harvester",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "harvester",
+    "upgradehelper",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/3e05ba26cc8440456962c543c2156738ac05e950.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-3e05ba2-250623T214921",
+  "version_upstream": "",
+  "bsum": "0029ff8648cbb49d62b6db5fa599c78a41d60ae8b70efbe26de4500e89f66f9f",
+  "build_date": "2025-06-24T14:43:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851543458",
+  "build_id": "15851543458",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-3e05ba2-250623T214921-x86_64-Linux&download=harvester.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4479",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-3e05ba2-250623T214921-x86_64-Linux&download=harvester",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/harvester:HEAD-3e05ba2-250623T214921-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/harvester",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-3e05ba2-250623T214921-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aaf817dd51eaaa03fa3d423a5ba66b667774823526f5aa2d9a5c55afc800ae21",
+  "size": "144 MB",
+  "size_raw": "150036384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a930b01-250620T092130-x86_64-Linux",
+    "HEAD-07ffa03-250623T102940-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
