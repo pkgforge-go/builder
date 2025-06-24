@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "step-plugin-e2e",
+  "pkg_family": "argo-rollouts",
+  "pkg_id": "step-plugin-e2e#github.com_argoproj_argo_rollouts",
+  "pkg_name": "step-plugin-e2e",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-rollouts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Progressive Delivery for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-rollouts"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-crd-spec",
+    "gen-docs",
+    "kubectl-argo-rollouts",
+    "metrics-plugin-sample",
+    "rollouts-controller",
+    "step-plugin-e2e",
+    "step-plugin-sample",
+    "trafficrouter-plugin-sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-rollouts/archive/e2cdaf5f11d4974f5abd9ff73cb84e7e521efc7d.tar.gz"
+  ],
+  "tag": [
+    "argo-rollouts",
+    "argoproj",
+    "bluegreen",
+    "canary",
+    "deployments",
+    "experiments",
+    "gitops",
+    "hacktoberfest",
+    "kubernetes",
+    "progressive-delivery"
+  ],
+  "version": "HEAD-e2cdaf5-250623T131126",
+  "version_upstream": "",
+  "bsum": "36a2ac166e4f9fbe67053a1e483624c29d898e314837c8b6a891fb8d7e6307b4",
+  "build_date": "2025-06-24T07:39:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843560533",
+  "build_id": "15843560533",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/step-plugin-e2e?tag=HEAD-e2cdaf5-250623T131126-riscv64-Linux&download=step-plugin-e2e.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3060",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/step-plugin-e2e?tag=HEAD-e2cdaf5-250623T131126-riscv64-Linux&download=step-plugin-e2e",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/step-plugin-e2e:HEAD-e2cdaf5-250623T131126-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/step-plugin-e2e",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/step-plugin-e2e?tag=HEAD-e2cdaf5-250623T131126-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41c7bd192b88d08cf19117096c8d6a85dcf1d4b6bf124f5aea55ac7dc51825e5",
+  "size": "25 MB",
+  "size_raw": "25415384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

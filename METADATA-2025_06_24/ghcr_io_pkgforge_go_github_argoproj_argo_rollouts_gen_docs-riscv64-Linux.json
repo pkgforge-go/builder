@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gen-docs",
+  "pkg_family": "argo-rollouts",
+  "pkg_id": "gen-docs#github.com_argoproj_argo_rollouts",
+  "pkg_name": "gen-docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/argoproj/argo-rollouts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Progressive Delivery for Kubernetes",
+  "homepage": [
+    "https://github.com/argoproj/argo-rollouts"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-crd-spec",
+    "gen-docs",
+    "kubectl-argo-rollouts",
+    "metrics-plugin-sample",
+    "rollouts-controller",
+    "step-plugin-e2e",
+    "step-plugin-sample",
+    "trafficrouter-plugin-sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/argoproj/argo-rollouts/archive/e2cdaf5f11d4974f5abd9ff73cb84e7e521efc7d.tar.gz"
+  ],
+  "tag": [
+    "argo-rollouts",
+    "argoproj",
+    "bluegreen",
+    "canary",
+    "deployments",
+    "experiments",
+    "gitops",
+    "hacktoberfest",
+    "kubernetes",
+    "progressive-delivery"
+  ],
+  "version": "HEAD-e2cdaf5-250623T131126",
+  "version_upstream": "",
+  "bsum": "04063be9b005043279d7967dc2f12bea29984a831fd836552f8a7eff01a0e039",
+  "build_date": "2025-06-24T07:39:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843560533",
+  "build_id": "15843560533",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/gen-docs?tag=HEAD-e2cdaf5-250623T131126-riscv64-Linux&download=gen-docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3060",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/gen-docs?tag=HEAD-e2cdaf5-250623T131126-riscv64-Linux&download=gen-docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/gen-docs:HEAD-e2cdaf5-250623T131126-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/argoproj/argo-rollouts/gen-docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/argoproj/argo-rollouts/gen-docs?tag=HEAD-e2cdaf5-250623T131126-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eae9517045b946bdbc6d84ca68246e49fed82bfeafa09a9869671923580a1ce3",
+  "size": "106 MB",
+  "size_raw": "110798840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
