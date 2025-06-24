@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "grpcreadclient",
+  "pkg_family": "bazel-remote",
+  "pkg_id": "grpcreadclient#github.com_buchgr_bazel_remote",
+  "pkg_name": "grpcreadclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buchgr/bazel-remote",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A remote cache for Bazel",
+  "homepage": [
+    "https://github.com/buchgr/bazel-remote"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fakes3",
+    "grpcreadclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buchgr/bazel-remote/archive/f05d559c37f98a2eb8078ebf081e8646b8d2191a.tar.gz"
+  ],
+  "tag": [
+    "bazel",
+    "build",
+    "build-tool",
+    "caching",
+    "continous-integration",
+    "docker-container",
+    "goma",
+    "remote-caching"
+  ],
+  "version": "HEAD-f05d559-250623T234534",
+  "version_upstream": "",
+  "bsum": "01d9691c3be576ca15eee1a9c19a7c48f0266a6838b8511bbfab4d10f4fb3753",
+  "build_date": "2025-06-24T07:45:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843594537",
+  "build_id": "15843594537",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buchgr/bazel-remote/grpcreadclient?tag=HEAD-f05d559-250623T234534-x86_64-Linux&download=grpcreadclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "654",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buchgr/bazel-remote/grpcreadclient?tag=HEAD-f05d559-250623T234534-x86_64-Linux&download=grpcreadclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buchgr/bazel-remote/grpcreadclient:HEAD-f05d559-250623T234534-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buchgr/bazel-remote/grpcreadclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buchgr/bazel-remote/grpcreadclient?tag=HEAD-f05d559-250623T234534-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "95b0ce4e8925b655a80c64be704fde6a03295550b74d62138a5f28e83583e154",
+  "size": "13 MB",
+  "size_raw": "13180064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
