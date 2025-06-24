@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "telemetry-server",
+  "pkg_family": "telemetry-server",
+  "pkg_id": "telemetry-server#github.com_SUSE_telemetry_server",
+  "pkg_name": "telemetry-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SUSE/telemetry-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SUSE Telemetry Server",
+  "homepage": [
+    "https://github.com/SUSE/telemetry-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "telemetry-admin",
+    "telemetry-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SUSE/telemetry-server/archive/11164b6f057705ecc31418401510408650447b1d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-11164b6-250624T081502",
+  "version_upstream": "",
+  "bsum": "e8a09d293522d6bdff67e2b58f96ff8d6b9de778274bb9ed6ecada16c538bb7e",
+  "build_date": "2025-06-24T16:42:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855572901",
+  "build_id": "15855572901",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/telemetry-server/telemetry-server?tag=HEAD-11164b6-250624T081502-x86_64-Linux&download=telemetry-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/telemetry-server/telemetry-server?tag=HEAD-11164b6-250624T081502-x86_64-Linux&download=telemetry-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/suse/telemetry-server/telemetry-server:HEAD-11164b6-250624T081502-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/suse/telemetry-server/telemetry-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/telemetry-server/telemetry-server?tag=HEAD-11164b6-250624T081502-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "52fe2412a18405ca345ae7b107cd03741b94ad8d6be52dbadd06bff5021b1197",
+  "size": "15 MB",
+  "size_raw": "15181296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
