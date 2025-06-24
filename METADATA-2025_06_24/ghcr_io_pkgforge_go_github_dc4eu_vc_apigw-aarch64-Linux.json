@@ -25,6 +25,7 @@
   "provides": [
     "apigw",
     "issuer",
+    "mockas",
     "persistent",
     "registry",
     "ui",
@@ -37,33 +38,35 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/dc4eu/vc/archive/49ecc2ea10b134634244c498568028105c9b74ef.tar.gz"
+    "https://github.com/dc4eu/vc/archive/6068d38087fb2b370a6520b5351f05420d78a311.tar.gz"
   ],
   "tag": [
     "Utility"
   ],
-  "version": "HEAD-49ecc2e-250623T150817",
+  "version": "HEAD-6068d38-250624T160013",
   "version_upstream": "",
-  "bsum": "05b2ea7f066f495413595770c75e80795e59113f1e7f4ff5923a3923cf71846c",
-  "build_date": "2025-06-24T02:37:12Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839545032",
-  "build_id": "15839545032",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/apigw?tag=HEAD-49ecc2e-250623T150817-aarch64-Linux&download=apigw.log",
+  "bsum": "4aa3d640636abb8423a77cc7d54c6ba8e0b5b3f5da7fc157f105645fe97905c8",
+  "build_date": "2025-06-24T22:46:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862268597",
+  "build_id": "15862268597",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/apigw?tag=HEAD-6068d38-250624T160013-aarch64-Linux&download=apigw.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "9",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/apigw?tag=HEAD-49ecc2e-250623T150817-aarch64-Linux&download=apigw",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/apigw?tag=HEAD-6068d38-250624T160013-aarch64-Linux&download=apigw",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dc4eu/vc/apigw:HEAD-49ecc2e-250623T150817-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dc4eu/vc/apigw:HEAD-6068d38-250624T160013-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/dc4eu/vc/apigw",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/apigw?tag=HEAD-49ecc2e-250623T150817-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/apigw?tag=HEAD-6068d38-250624T160013-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "69ce7f0ea7f38240d29c88a19cb2b1d217cc25ee500c3684158fb04432042577",
+  "shasum": "69e74c54b49da6213883c7badbf9d9614d7744d8f66469a914869f4f08b43e2a",
   "size": "45 MB",
-  "size_raw": "46792896",
+  "size_raw": "46801344",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "HEAD-49ecc2e-250623T150817-aarch64-Linux"
+  ],
   "trusted": "true"
 }
