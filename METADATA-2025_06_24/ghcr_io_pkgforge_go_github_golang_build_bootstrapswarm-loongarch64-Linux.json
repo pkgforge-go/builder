@@ -1,0 +1,108 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bootstrapswarm",
+  "pkg_family": "build",
+  "pkg_id": "bootstrapswarm#github.com_golang_build",
+  "pkg_name": "bootstrapswarm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/build",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go_s continuous build and release infrastructure _no stability promises_",
+  "homepage": [
+    "https://github.com/golang/build"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "azure",
+    "bootstrapswarm",
+    "buildlet",
+    "buildstats",
+    "coordinator",
+    "debugnewvm",
+    "devapp",
+    "docker2boot",
+    "fetchlogs",
+    "files",
+    "genbootstrap",
+    "genbotcert",
+    "genbuilderkey",
+    "gerritbot",
+    "gitmirror",
+    "gomote",
+    "gomoteserver",
+    "gopherbot",
+    "gorebuild",
+    "greplogs",
+    "influx",
+    "maintnerd",
+    "maintq",
+    "maintwatch",
+    "makemac",
+    "perf",
+    "perfrun",
+    "pubsubhelper",
+    "racebuild",
+    "releaseschedule",
+    "relnote",
+    "relui",
+    "retrybuilds",
+    "rundockerbuildlet",
+    "runqemubuildlet",
+    "stage0",
+    "testssh",
+    "update-protos",
+    "updatestd",
+    "upload",
+    "watchflakes",
+    "xb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/build/archive/5fcdc06207c69a50c486a708d31c377dd9a933dd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5fcdc06-250623T072728",
+  "version_upstream": "",
+  "bsum": "12b7b59061572a1d0b1e2cf20e474e90f680793344c37d5f999cf737b475b3fe",
+  "build_date": "2025-06-24T04:41:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15841045525",
+  "build_id": "15841045525",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/bootstrapswarm?tag=HEAD-5fcdc06-250623T072728-loongarch64-Linux&download=bootstrapswarm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "686",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/bootstrapswarm?tag=HEAD-5fcdc06-250623T072728-loongarch64-Linux&download=bootstrapswarm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/build/bootstrapswarm:HEAD-5fcdc06-250623T072728-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/build/bootstrapswarm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/bootstrapswarm?tag=HEAD-5fcdc06-250623T072728-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "425ef3f9774f4c38138eb90a926989e091c5026c5c55ae3fb1470cdc2468fa53",
+  "size": "6.1 MB",
+  "size_raw": "6383488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7b5b8eb-250618T232758-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
