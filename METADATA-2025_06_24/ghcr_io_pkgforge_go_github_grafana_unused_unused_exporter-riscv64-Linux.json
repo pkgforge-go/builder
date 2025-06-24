@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "unused-exporter",
+  "pkg_family": "unused",
+  "pkg_id": "unused-exporter#github.com_grafana_unused",
+  "pkg_name": "unused-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/unused",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool, Prometheus exporter, and Go module to list your unused disks in all cloud providers",
+  "homepage": [
+    "https://github.com/grafana/unused"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "unused",
+    "unused-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/unused/archive/085548d5885b1eaff1a68067a029eea32de47d66.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-085548d-250624T120220",
+  "version_upstream": "",
+  "bsum": "3f9aa1d96fd9611daaee6963456f22f5ab2fcc4dffa92e9032cbb34805b79f99",
+  "build_date": "2025-06-24T17:39:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856868688",
+  "build_id": "15856868688",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/unused/unused-exporter?tag=HEAD-085548d-250624T120220-riscv64-Linux&download=unused-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/unused/unused-exporter?tag=HEAD-085548d-250624T120220-riscv64-Linux&download=unused-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/unused/unused-exporter:HEAD-085548d-250624T120220-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/unused/unused-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/unused/unused-exporter?tag=HEAD-085548d-250624T120220-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b71d3f3ce673c56f9c777708dae0b6807399f1b455a70593c7759855f111779",
+  "size": "55 MB",
+  "size_raw": "57604952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
