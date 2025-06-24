@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bisect",
+  "pkg_family": "claircore",
+  "pkg_id": "bisect#github.com_quay_claircore",
+  "pkg_name": "bisect",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quay/claircore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "foundation modules for scanning container packages and reporting vulnerabilities",
+  "homepage": [
+    "https://github.com/quay/claircore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bisect",
+    "cleancache",
+    "fetch-container-rpm-manifest",
+    "mdbook-godoc",
+    "mdbook-injecturls",
+    "mdbook-make_target",
+    "mdbook-mermaid",
+    "ovaldebug"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quay/claircore/archive/d31fad5f2994834606d2561336ea52a5607cac66.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "static-analysis"
+  ],
+  "version": "HEAD-d31fad5-250621T140120",
+  "version_upstream": "",
+  "bsum": "7c8e21698793dddfbe6c531f9c5826f2ef2c556cff40aa054779ee8844e6e376",
+  "build_date": "2025-06-24T09:31:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845898662",
+  "build_id": "15845898662",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/bisect?tag=HEAD-d31fad5-250621T140120-x86_64-Linux&download=bisect.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "147",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/bisect?tag=HEAD-d31fad5-250621T140120-x86_64-Linux&download=bisect",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quay/claircore/bisect:HEAD-d31fad5-250621T140120-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quay/claircore/bisect",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/bisect?tag=HEAD-d31fad5-250621T140120-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "309dec6d21fafbcabe89b0fa8a7673076f7d1ba77a0763f77cbfbe0be5ad8fde",
+  "size": "2.1 MB",
+  "size_raw": "2125400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

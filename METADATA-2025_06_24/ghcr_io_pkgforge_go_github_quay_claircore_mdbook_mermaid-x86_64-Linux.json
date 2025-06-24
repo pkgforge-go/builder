@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mdbook-mermaid",
+  "pkg_family": "claircore",
+  "pkg_id": "mdbook-mermaid#github.com_quay_claircore",
+  "pkg_name": "mdbook-mermaid",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quay/claircore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "foundation modules for scanning container packages and reporting vulnerabilities",
+  "homepage": [
+    "https://github.com/quay/claircore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bisect",
+    "cleancache",
+    "fetch-container-rpm-manifest",
+    "mdbook-godoc",
+    "mdbook-injecturls",
+    "mdbook-make_target",
+    "mdbook-mermaid",
+    "ovaldebug"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quay/claircore/archive/d31fad5f2994834606d2561336ea52a5607cac66.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "static-analysis"
+  ],
+  "version": "HEAD-d31fad5-250621T140120",
+  "version_upstream": "",
+  "bsum": "da1bb8deb37573c045739d24101085efc36f6c157bb68eea3fc10c056a070ab4",
+  "build_date": "2025-06-24T09:31:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845898662",
+  "build_id": "15845898662",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/mdbook-mermaid?tag=HEAD-d31fad5-250621T140120-x86_64-Linux&download=mdbook-mermaid.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "147",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/mdbook-mermaid?tag=HEAD-d31fad5-250621T140120-x86_64-Linux&download=mdbook-mermaid",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quay/claircore/mdbook-mermaid:HEAD-d31fad5-250621T140120-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quay/claircore/mdbook-mermaid",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quay/claircore/mdbook-mermaid?tag=HEAD-d31fad5-250621T140120-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a9aecbe33757f386b6d330ca7dca8e77afdcc001c9f8cff073f60f659f305e6",
+  "size": "2.5 MB",
+  "size_raw": "2591512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
