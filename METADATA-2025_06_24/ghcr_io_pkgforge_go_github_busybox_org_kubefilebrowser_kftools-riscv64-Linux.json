@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kftools",
+  "pkg_family": "kubefilebrowser",
+  "pkg_id": "kftools#github.com_busybox_org_kubefilebrowser",
+  "pkg_name": "kftools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/busybox-org/kubefilebrowser",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "kubernetes container file browser. Is a simple web application that allows you to browse and edit files in a kubernetes container.",
+  "homepage": [
+    "https://github.com/busybox-org/kubefilebrowser"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kftools",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/busybox-org/kubefilebrowser/archive/afc8b5349b56e4b13b158bc63597aff3701df653.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "download",
+    "filebrowser",
+    "kubectl-cp",
+    "kubernetes",
+    "pvcs",
+    "swagger",
+    "upload",
+    "webshell"
+  ],
+  "version": "HEAD-afc8b53-250624T095745",
+  "version_upstream": "",
+  "bsum": "6963e7b6c2c5dd16a9bd643bba245527441f3a259489c03299a35693fe9999ea",
+  "build_date": "2025-06-24T07:46:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843597742",
+  "build_id": "15843597742",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/busybox-org/kubefilebrowser/kftools?tag=HEAD-afc8b53-250624T095745-riscv64-Linux&download=kftools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "71",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/busybox-org/kubefilebrowser/kftools?tag=HEAD-afc8b53-250624T095745-riscv64-Linux&download=kftools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/busybox-org/kubefilebrowser/kftools:HEAD-afc8b53-250624T095745-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/busybox-org/kubefilebrowser/kftools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/busybox-org/kubefilebrowser/kftools?tag=HEAD-afc8b53-250624T095745-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee69b97a17d2e60a1b18899005537dcd10d43e6cec92bfd65d6d630d1619c577",
+  "size": "4.5 MB",
+  "size_raw": "4628664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
