@@ -1,0 +1,101 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "snap-gpio-helper",
+  "pkg_family": "snapd",
+  "pkg_id": "snap-gpio-helper#github.com_canonical_snapd",
+  "pkg_name": "snap-gpio-helper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/snapd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The snapd and snap tools enable systems to work with .snap files.",
+  "homepage": [
+    "https://github.com/canonical/snapd"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chattr",
+    "chrorder",
+    "core20-da-lockout",
+    "core20-set-efi-boot-variables",
+    "fakedevicesvc",
+    "fakestore",
+    "fde-setup-hook",
+    "fde-setup-hook-v1",
+    "genasset",
+    "gendeveloper1",
+    "high-user-handling",
+    "info",
+    "lib",
+    "local-install-w-metadata",
+    "retry-network",
+    "runas-1",
+    "runas-2",
+    "runas-3",
+    "snap",
+    "snap-exec",
+    "snap-failure",
+    "snap-fde-keymgr",
+    "snap-gpio-helper",
+    "snap-preseed",
+    "snap-recovery-chooser",
+    "snap-repair",
+    "snap-seccomp-syscalls",
+    "snapctl",
+    "snapd",
+    "snapd-apparmor",
+    "snapd-docs",
+    "systemd-escape",
+    "test-snapd-go-webserver",
+    "uc20-create-partitions",
+    "user-libnss",
+    "xgettext-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/snapd/archive/a29f24bafd348295393cee62e1597f449671d4ff.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a29f24b-250624T005923",
+  "version_upstream": "",
+  "bsum": "af622fdce5643a1e707bc9a17c5661879f17794917f93d0155438be282b3160b",
+  "build_date": "2025-06-24T13:44:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851346693",
+  "build_id": "15851346693",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-gpio-helper?tag=HEAD-a29f24b-250624T005923-riscv64-Linux&download=snap-gpio-helper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1960",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-gpio-helper?tag=HEAD-a29f24b-250624T005923-riscv64-Linux&download=snap-gpio-helper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/snapd/snap-gpio-helper:HEAD-a29f24b-250624T005923-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/snapd/snap-gpio-helper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-gpio-helper?tag=HEAD-a29f24b-250624T005923-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c0836f0c61febf74d2d3a4228d0652bf82cffea4d1084cfc396f954078e9e79",
+  "size": "3.0 MB",
+  "size_raw": "3096888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bee550c-250619T152729-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
