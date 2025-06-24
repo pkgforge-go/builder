@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ch-bench-rnd",
+  "pkg_family": "ch-go",
+  "pkg_id": "ch-bench-rnd#github.com_ClickHouse_ch_go",
+  "pkg_name": "ch-bench-rnd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ClickHouse/ch-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Low-level Go Client for ClickHouse",
+  "homepage": [
+    "https://github.com/ClickHouse/ch-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ch-bench-numbers",
+    "ch-bench-numbers-concurrent",
+    "ch-bench-rnd",
+    "ch-bench-server",
+    "ch-bench-str",
+    "ch-bench-trace-id",
+    "ch-compression",
+    "ch-ex-numbers",
+    "ch-gen-col",
+    "ch-insert-lag",
+    "ch-low-cord",
+    "ch-native-dump",
+    "ch-version",
+    "insert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ClickHouse/ch-go/archive/caa667fcac1a7860df0fd43251bd9bf8dccfae9c.tar.gz"
+  ],
+  "tag": [
+    "binary",
+    "clickhouse",
+    "driver",
+    "go",
+    "golang",
+    "protocol"
+  ],
+  "version": "HEAD-caa667f-250623T185724",
+  "version_upstream": "v0.66.1",
+  "bsum": "c57f73147c937081b9db36a3b4ac2911aba83f32d3c7a5785e63d94733dc4cdd",
+  "build_date": "2025-06-24T07:02:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843503060",
+  "build_id": "15843503060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/ch-go/ch-bench-rnd?tag=HEAD-caa667f-250623T185724-loongarch64-Linux&download=ch-bench-rnd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "353",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/ch-go/ch-bench-rnd?tag=HEAD-caa667f-250623T185724-loongarch64-Linux&download=ch-bench-rnd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clickhouse/ch-go/ch-bench-rnd:HEAD-caa667f-250623T185724-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clickhouse/ch-go/ch-bench-rnd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clickhouse/ch-go/ch-bench-rnd?tag=HEAD-caa667f-250623T185724-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2350d6447cc78528432e25e70513e5be7cab9f12abc9ea69e731126dbd5c4716",
+  "size": "9.4 MB",
+  "size_raw": "9784096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
