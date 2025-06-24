@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controlplane",
+  "pkg_family": "kargo",
+  "pkg_id": "controlplane#github.com_akuity_kargo",
+  "pkg_name": "controlplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/akuity/kargo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Application lifecycle orchestration",
+  "homepage": [
+    "https://github.com/akuity/kargo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "controlplane",
+    "credential-helper",
+    "prototag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/akuity/kargo/archive/271f76ba52156ab6b37492d60fc9cb1c9e9a3250.tar.gz"
+  ],
+  "tag": [
+    "argocd",
+    "cd",
+    "delivery",
+    "gitops",
+    "k8s",
+    "kubernetes"
+  ],
+  "version": "HEAD-271f76b-250623T213522",
+  "version_upstream": "",
+  "bsum": "4d0fea39e57f544c24f2443a66c31214d037e0c43defd29faa279cf731775e99",
+  "build_date": "2025-06-24T13:14:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851338417",
+  "build_id": "15851338417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/controlplane?tag=HEAD-271f76b-250623T213522-loongarch64-Linux&download=controlplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/controlplane?tag=HEAD-271f76b-250623T213522-loongarch64-Linux&download=controlplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/akuity/kargo/controlplane:HEAD-271f76b-250623T213522-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/akuity/kargo/controlplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/controlplane?tag=HEAD-271f76b-250623T213522-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "caf217e0a58e8865bc68587d141ec0dc8a6cefb2b7e2236a8baf9452e75da400",
+  "size": "118 MB",
+  "size_raw": "123642720",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7362b21-250617T215023-loongarch64-Linux",
+    "HEAD-5539752-250623T104443-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
