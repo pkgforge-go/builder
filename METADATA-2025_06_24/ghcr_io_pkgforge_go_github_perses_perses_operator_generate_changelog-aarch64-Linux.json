@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate-changelog",
+  "pkg_family": "perses-operator",
+  "pkg_id": "generate-changelog#github.com_perses_perses_operator",
+  "pkg_name": "generate-changelog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perses/perses-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Perses Operator - Manage Perses on Kubernetes - Deploy dashboard as CR",
+  "homepage": [
+    "https://github.com/perses/perses-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-changelog",
+    "generate-goreleaser",
+    "perses-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/perses/perses-operator/archive/3631d460b7cc94681f90d2ad2e948ec488ebdb5b.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "perses"
+  ],
+  "version": "HEAD-3631d46-250624T101407",
+  "version_upstream": "",
+  "bsum": "29623124e362e7a1da04070a090c4c292d4b2c6a2e3641110fa7a3feec4b1ccc",
+  "build_date": "2025-06-24T18:53:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857711516",
+  "build_id": "15857711516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/perses-operator/generate-changelog?tag=HEAD-3631d46-250624T101407-aarch64-Linux&download=generate-changelog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/perses-operator/generate-changelog?tag=HEAD-3631d46-250624T101407-aarch64-Linux&download=generate-changelog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perses/perses-operator/generate-changelog:HEAD-3631d46-250624T101407-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perses/perses-operator/generate-changelog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/perses-operator/generate-changelog?tag=HEAD-3631d46-250624T101407-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "43179c782f2beda403d4c911eb732ec8363c752faeb59209a65e1c20cf5a1101",
+  "size": "2.1 MB",
+  "size_raw": "2151608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
