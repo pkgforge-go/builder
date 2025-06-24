@@ -39,7 +39,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/leptonai/gpud/archive/8763bf2090748091dd99ded02027938e5104b274.tar.gz"
+    "https://github.com/leptonai/gpud/archive/df111c084a67197ece04dc9b04e12602582d4bef.tar.gz"
   ],
   "tag": [
     "gpu",
@@ -48,28 +48,30 @@
     "nvidia",
     "nvidia-gpu"
   ],
-  "version": "HEAD-8763bf2-250624T100544",
-  "version_upstream": "v0.5.0",
+  "version": "HEAD-df111c0-250624T221601",
+  "version_upstream": "",
   "bsum": "4a985e047197a81acd1d26c6d4bb6e47b2bfa489e66f311bd4649fcb92c46e9d",
-  "build_date": "2025-06-24T08:42:37Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844644724",
-  "build_id": "15844644724",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-8763bf2-250624T100544-riscv64-Linux&download=sync.log",
+  "build_date": "2025-06-24T23:34:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862360348",
+  "build_id": "15862360348",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-df111c0-250624T221601-riscv64-Linux&download=sync.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "377",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-8763bf2-250624T100544-riscv64-Linux&download=sync",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-df111c0-250624T221601-riscv64-Linux&download=sync",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leptonai/gpud/sync:HEAD-8763bf2-250624T100544-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leptonai/gpud/sync:HEAD-df111c0-250624T221601-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/leptonai/gpud/sync",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-8763bf2-250624T100544-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-df111c0-250624T221601-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "7ce14d711ab7b412f2fc7e951c6fb1a50aec8f0215c893108e0077fbf1b9faee",
   "size": "5.9 MB",
   "size_raw": "6144760",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "HEAD-8763bf2-250624T100544-riscv64-Linux[v0.5.0]"
+  ],
   "trusted": "true"
 }
