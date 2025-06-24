@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aws-iam-authenticator",
+  "pkg_family": "aws-iam-authenticator",
+  "pkg_id": "aws-iam-authenticator#github.com_kubernetes_sigs_aws_iam_authenticator",
+  "pkg_name": "aws-iam-authenticator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/aws-iam-authenticator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/aws-iam-authenticator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-iam-authenticator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/aws-iam-authenticator/archive/604188f354f1e4e8f899d8e58427f1ff24e6cd9c.tar.gz"
+  ],
+  "tag": [
+    "auth",
+    "aws",
+    "iam",
+    "k8s-sig-aws",
+    "kubernetes"
+  ],
+  "version": "HEAD-604188f-250623T165028",
+  "version_upstream": "",
+  "bsum": "3b6e18e95715622488cdc823d15932fb50002191dffa2d14aaffd0eb3623cf9f",
+  "build_date": "2025-06-24T08:32:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844597948",
+  "build_id": "15844597948",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/aws-iam-authenticator/aws-iam-authenticator?tag=HEAD-604188f-250623T165028-loongarch64-Linux&download=aws-iam-authenticator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2264",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/aws-iam-authenticator/aws-iam-authenticator?tag=HEAD-604188f-250623T165028-loongarch64-Linux&download=aws-iam-authenticator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/aws-iam-authenticator/aws-iam-authenticator:HEAD-604188f-250623T165028-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/aws-iam-authenticator/aws-iam-authenticator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/aws-iam-authenticator/aws-iam-authenticator?tag=HEAD-604188f-250623T165028-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3071e7e4073b9d38c8e4e2f71fa80d11d3b96de8ccfcc640b09b714083d9643f",
+  "size": "84 MB",
+  "size_raw": "87098144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
