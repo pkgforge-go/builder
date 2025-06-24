@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nfd-master",
+  "pkg_family": "node-feature-discovery",
+  "pkg_id": "nfd-master#github.com_kubernetes_sigs_node_feature_discovery",
+  "pkg_name": "nfd-master",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/node-feature-discovery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node feature discovery for Kubernetes",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/node-feature-discovery"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-nfd",
+    "nfd",
+    "nfd-gc",
+    "nfd-master",
+    "nfd-topology-updater",
+    "nfd-worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/node-feature-discovery/archive/553b2699fdda487b50be51461b44031573f2c6f6.tar.gz"
+  ],
+  "tag": [
+    "cpuid",
+    "feature-detection",
+    "hacktoberfest",
+    "hardware",
+    "k8s-sig-node",
+    "kubernetes",
+    "node-labels",
+    "rdt"
+  ],
+  "version": "HEAD-553b269-250624T053229",
+  "version_upstream": "",
+  "bsum": "d1155f9e9a32e2c197e11368eaa7e1c7f7652b2aa1c58ed2a3adc00b4dafb2a3",
+  "build_date": "2025-06-24T18:09:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857119279",
+  "build_id": "15857119279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-master?tag=HEAD-553b269-250624T053229-aarch64-Linux&download=nfd-master.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-master?tag=HEAD-553b269-250624T053229-aarch64-Linux&download=nfd-master",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-master:HEAD-553b269-250624T053229-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-master",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-master?tag=HEAD-553b269-250624T053229-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "151f11db98e31691dbbb6b1f32a8056415863dfcd34a88191170e2c23111095d",
+  "size": "55 MB",
+  "size_raw": "56908480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
