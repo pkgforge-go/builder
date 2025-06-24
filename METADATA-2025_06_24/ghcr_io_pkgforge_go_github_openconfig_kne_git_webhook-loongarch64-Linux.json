@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "kne",
+  "pkg_id": "webhook#github.com_openconfig_kne.git",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "forward",
+    "kne_cli",
+    "server",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/kne.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250624T152743",
+  "version_upstream": "",
+  "bsum": "cf0233829d6aa10c6ab05c5258734bf61a02127b747b24033fe947e461a4e7a2",
+  "build_date": "2025-06-24T15:33:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851701613",
+  "build_id": "15851701613",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne.git/webhook?tag=20250624T152743-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne.git/webhook?tag=20250624T152743-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/kne.git/webhook:20250624T152743-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/kne.git/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne.git/webhook?tag=20250624T152743-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3d649ae601739bd19e70754657363f2689f191c541f6a841e973d2ce8423452",
+  "size": "21 MB",
+  "size_raw": "21365120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
