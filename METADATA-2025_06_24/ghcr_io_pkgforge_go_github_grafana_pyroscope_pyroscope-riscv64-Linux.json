@@ -38,7 +38,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/grafana/pyroscope/archive/676e7d6115ad2dde19783d07ff281caddfdf9c79.tar.gz"
+    "https://github.com/grafana/pyroscope/archive/b9f4ac4ab0923b40a069f1fdbc06e8e51f24bd52.tar.gz"
   ],
   "tag": [
     "continuous-profiling",
@@ -56,30 +56,31 @@
     "python",
     "ruby"
   ],
-  "version": "HEAD-676e7d6-250620T143611",
-  "version_upstream": "weekly-f124-676e7d611",
-  "bsum": "419ca58f369e0f87ddaebc89b4dc0ba57c711700322e03ce8bcc31d3640a7d6a",
-  "build_date": "2025-06-24T02:58:48Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839578448",
-  "build_id": "15839578448",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-676e7d6-250620T143611-riscv64-Linux&download=pyroscope.log",
+  "version": "HEAD-b9f4ac4-250624T110019",
+  "version_upstream": "",
+  "bsum": "0343db002b70dccd1f02a01530ceebcc8dd6793d909a185d35231f26545d49cf",
+  "build_date": "2025-06-24T23:05:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862339417",
+  "build_id": "15862339417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-b9f4ac4-250624T110019-riscv64-Linux&download=pyroscope.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "10661",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-676e7d6-250620T143611-riscv64-Linux&download=pyroscope",
+  "download_count": "10667",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-b9f4ac4-250624T110019-riscv64-Linux&download=pyroscope",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/pyroscope/pyroscope:HEAD-676e7d6-250620T143611-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/pyroscope/pyroscope:HEAD-b9f4ac4-250624T110019-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/pyroscope/pyroscope",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-676e7d6-250620T143611-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/pyroscope?tag=HEAD-b9f4ac4-250624T110019-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "2a35b88774de955e03c30d8008ee12d6e1e7530dbcc1646b7cd8db905c7cbeff",
+  "shasum": "c813558005c84d7ceda43550b1b60db08f0b718f50fb0f6c8e1489f9cdeaf2d1",
   "size": "76 MB",
-  "size_raw": "79536856",
+  "size_raw": "79532568",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-06bcfc6-250620T201508-riscv64-Linux"
+    "HEAD-06bcfc6-250620T201508-riscv64-Linux",
+    "HEAD-676e7d6-250620T143611-riscv64-Linux[weekly-f124-676e7d611]"
   ],
   "trusted": "true"
 }
