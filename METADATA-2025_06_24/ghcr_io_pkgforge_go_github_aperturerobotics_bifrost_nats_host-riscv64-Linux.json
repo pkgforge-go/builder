@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nats-host",
+  "pkg_family": "bifrost",
+  "pkg_id": "nats-host#github.com_aperturerobotics_bifrost",
+  "pkg_name": "nats-host",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aperturerobotics/bifrost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modular networking for Go with pluggable transports, RPC, WebRTC, WebAssembly support.",
+  "homepage": [
+    "https://github.com/aperturerobotics/bifrost"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bifrost",
+    "browser",
+    "nats-host",
+    "nats-single",
+    "server",
+    "udp-link"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aperturerobotics/bifrost/archive/eef11aa908fa7171d099a254c8f4e2632f295206.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "nats",
+    "peer-to-peer",
+    "rpc",
+    "webassembly",
+    "websocket"
+  ],
+  "version": "HEAD-eef11aa-250623T135232",
+  "version_upstream": "",
+  "bsum": "de5d7a118ef267733099f6b7b322a9dcda2cebac310bf4b7f5e99ec69453fdcf",
+  "build_date": "2025-06-24T07:30:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843557183",
+  "build_id": "15843557183",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/nats-host?tag=HEAD-eef11aa-250623T135232-riscv64-Linux&download=nats-host.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "552",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/nats-host?tag=HEAD-eef11aa-250623T135232-riscv64-Linux&download=nats-host",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aperturerobotics/bifrost/nats-host:HEAD-eef11aa-250623T135232-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aperturerobotics/bifrost/nats-host",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/nats-host?tag=HEAD-eef11aa-250623T135232-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "945801f8375ba9c6a7798bc43690c78c05de2434cdc43839e3fbf45dfe4bc388",
+  "size": "17 MB",
+  "size_raw": "17747448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
