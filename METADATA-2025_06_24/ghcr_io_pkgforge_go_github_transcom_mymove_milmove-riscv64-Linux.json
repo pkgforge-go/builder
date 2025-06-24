@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "milmove",
+  "pkg_family": "mymove",
+  "pkg_id": "milmove#github.com_transcom_mymove",
+  "pkg_name": "milmove",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/5c66fc5b1eccc63e6ad93665565f03c5144e35b2.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-5c66fc5-250623T170730",
+  "version_upstream": "",
+  "bsum": "02d5512565e9adcabab6fccf302075d07c3b69a388ec99c67c1bb09f9c7ba8a9",
+  "build_date": "2025-06-24T10:24:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847420863",
+  "build_id": "15847420863",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/milmove?tag=HEAD-5c66fc5-250623T170730-riscv64-Linux&download=milmove.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/milmove?tag=HEAD-5c66fc5-250623T170730-riscv64-Linux&download=milmove",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/milmove:HEAD-5c66fc5-250623T170730-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/milmove",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/milmove?tag=HEAD-5c66fc5-250623T170730-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d0f04372f7067cbd07c0821b0192a518d389b3113425dbf92454db80ada4705",
+  "size": "86 MB",
+  "size_raw": "89601240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
