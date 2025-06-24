@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "daemon",
+  "pkg_family": "pactus",
+  "pkg_id": "daemon#github.com_pactus_project_pactus",
+  "pkg_name": "daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pactus-project/pactus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pactus blockchain",
+  "homepage": [
+    "https://github.com/pactus-project/pactus"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "daemon",
+    "shell",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pactus-project/pactus/archive/980d9a727a8bce78b90c72035d085f0b65cd6536.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-980d9a7-250618T210730",
+  "version_upstream": "",
+  "bsum": "606a12d5c096526643ab8992d9875e844b816dc4e1e33640c962d3175bd32a1a",
+  "build_date": "2025-06-24T18:49:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857581695",
+  "build_id": "15857581695",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pactus-project/pactus/daemon?tag=HEAD-980d9a7-250618T210730-aarch64-Linux&download=daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "237",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pactus-project/pactus/daemon?tag=HEAD-980d9a7-250618T210730-aarch64-Linux&download=daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pactus-project/pactus/daemon:HEAD-980d9a7-250618T210730-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pactus-project/pactus/daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pactus-project/pactus/daemon?tag=HEAD-980d9a7-250618T210730-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "279eb125990a3344ebd69d522940b031ff68b6dfec534efd271e0aaa1a08fa90",
+  "size": "53 MB",
+  "size_raw": "54727040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
