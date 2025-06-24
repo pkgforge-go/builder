@@ -25,6 +25,7 @@
   "provides": [
     "apigw",
     "issuer",
+    "mockas",
     "persistent",
     "registry",
     "ui",
@@ -37,35 +38,36 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/dc4eu/vc/archive/49ecc2ea10b134634244c498568028105c9b74ef.tar.gz"
+    "https://github.com/dc4eu/vc/archive/6068d38087fb2b370a6520b5351f05420d78a311.tar.gz"
   ],
   "tag": [
     "Utility"
   ],
-  "version": "HEAD-49ecc2e-250623T150817",
+  "version": "HEAD-6068d38-250624T160013",
   "version_upstream": "",
-  "bsum": "376333759baf102ca094661e98593368893db1d720b8ae32ece61f7d7c125173",
-  "build_date": "2025-06-24T02:38:41Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839545032",
-  "build_id": "15839545032",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-49ecc2e-250623T150817-riscv64-Linux&download=persistent.log",
+  "bsum": "a06f7ed630cfc605a50938a9fe578104b45f253911a37c1be133584c3398fea1",
+  "build_date": "2025-06-24T22:46:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862268597",
+  "build_id": "15862268597",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-6068d38-250624T160013-riscv64-Linux&download=persistent.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "9",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-49ecc2e-250623T150817-riscv64-Linux&download=persistent",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-6068d38-250624T160013-riscv64-Linux&download=persistent",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dc4eu/vc/persistent:HEAD-49ecc2e-250623T150817-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dc4eu/vc/persistent:HEAD-6068d38-250624T160013-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/dc4eu/vc/persistent",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-49ecc2e-250623T150817-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/persistent?tag=HEAD-6068d38-250624T160013-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "822969a4cbd2d96e329ad2701a74989ee014d770b0309300834dea1673df2e2d",
+  "shasum": "50531b1c80aa424fc39641e81eca45110c4e77367fb6a9beb82998b5162113cc",
   "size": "31 MB",
-  "size_raw": "31913624",
+  "size_raw": "31913784",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-a972027-250619T153120-riscv64-Linux"
+    "HEAD-a972027-250619T153120-riscv64-Linux",
+    "HEAD-49ecc2e-250623T150817-riscv64-Linux"
   ],
   "trusted": "true"
 }
