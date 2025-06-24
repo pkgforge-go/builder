@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kubeadm",
+  "pkg_family": "kubeadm",
+  "pkg_id": "kubeadm#github.com_kubernetes_kubeadm",
+  "pkg_name": "kubeadm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/kubeadm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Aggregator for issues filed against kubeadm",
+  "homepage": [
+    "https://github.com/kubernetes/kubeadm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubeadm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/kubeadm/archive/be4e9d0f44bbf62ee51a87ceb8cb7991ca9cec52.tar.gz"
+  ],
+  "tag": [
+    "best-practice",
+    "building-block",
+    "conformant",
+    "getting-started",
+    "installer",
+    "kubernetes"
+  ],
+  "version": "HEAD-be4e9d0-250624T054228",
+  "version_upstream": "",
+  "bsum": "95a0c75ac7933c3c97be023610ffdf8f4b4f92b9c31c3465e83858d3b8acbc9b",
+  "build_date": "2025-06-24T18:00:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857123044",
+  "build_id": "15857123044",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kubeadm/kubeadm?tag=HEAD-be4e9d0-250624T054228-aarch64-Linux&download=kubeadm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3865",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kubeadm/kubeadm?tag=HEAD-be4e9d0-250624T054228-aarch64-Linux&download=kubeadm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kubeadm/kubeadm:HEAD-be4e9d0-250624T054228-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kubeadm/kubeadm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kubeadm/kubeadm?tag=HEAD-be4e9d0-250624T054228-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "443471fe1b45210b2a5a1f4a2202c710aaa31a70644522a3a20857bc4db2f614",
+  "size": "6.1 MB",
+  "size_raw": "6364032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
