@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "demo",
+  "pkg_family": "autoscaling",
+  "pkg_id": "demo#github.com_neondatabase_autoscaling",
+  "pkg_name": "demo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/neondatabase/autoscaling",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Postgres vertical autoscaling in k8s",
+  "homepage": [
+    "https://github.com/neondatabase/autoscaling"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "demo",
+    "vm-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/neondatabase/autoscaling/archive/73415c0bb93dc7d76756c7e1b9c5a8ae21559315.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-73415c0-250624T132400",
+  "version_upstream": "",
+  "bsum": "ed042277c3b0bee5cb50280502920c871df1f59900179b445fde46a6939898e6",
+  "build_date": "2025-06-24T15:27:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851638120",
+  "build_id": "15851638120",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neondatabase/autoscaling/demo?tag=HEAD-73415c0-250624T132400-loongarch64-Linux&download=demo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "212",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neondatabase/autoscaling/demo?tag=HEAD-73415c0-250624T132400-loongarch64-Linux&download=demo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/neondatabase/autoscaling/demo:HEAD-73415c0-250624T132400-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/neondatabase/autoscaling/demo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/neondatabase/autoscaling/demo?tag=HEAD-73415c0-250624T132400-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee2de8d5b18c9ce8d4622a5d9d6e0d3836ce3c091bbcb1e0bc28b4714fac87b1",
+  "size": "46 MB",
+  "size_raw": "47186688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-df40ece-250620T021813-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
