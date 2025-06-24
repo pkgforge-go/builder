@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "tinkerbell",
+  "pkg_id": "agent#github.com_tinkerbell_tinkerbell",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinkerbell/tinkerbell",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine.",
+  "homepage": [
+    "https://github.com/tinkerbell/tinkerbell"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "tinkerbell",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tinkerbell/tinkerbell/archive/c3c0ffc15cf0ff929725235031f960025b9245cc.tar.gz"
+  ],
+  "tag": [
+    "bare-metal",
+    "baremetal",
+    "baremetal-provisioning",
+    "bmc",
+    "cncf-project",
+    "dhcp",
+    "ipmi",
+    "ipxe",
+    "isoboot",
+    "metadata",
+    "netboot",
+    "pxe",
+    "redfish",
+    "tinkerbell"
+  ],
+  "version": "HEAD-c3c0ffc-250623T190933",
+  "version_upstream": "",
+  "bsum": "da7de61807a7cb9cbc38003ce9f0dbbeb602793e6d3a48706ee3b4049c419986",
+  "build_date": "2025-06-24T10:03:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846161973",
+  "build_id": "15846161973",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/agent?tag=HEAD-c3c0ffc-250623T190933-x86_64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/agent?tag=HEAD-c3c0ffc-250623T190933-x86_64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinkerbell/tinkerbell/agent:HEAD-c3c0ffc-250623T190933-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinkerbell/tinkerbell/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/agent?tag=HEAD-c3c0ffc-250623T190933-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ce429158718e7c5a6652f7236a8860f6d0e370ca14ce23478abd41da7b94f50",
+  "size": "30 MB",
+  "size_raw": "30611504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
