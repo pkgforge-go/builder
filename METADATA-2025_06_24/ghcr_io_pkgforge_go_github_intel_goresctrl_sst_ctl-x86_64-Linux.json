@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sst-ctl",
+  "pkg_family": "goresctrl",
+  "pkg_id": "sst-ctl#github.com_intel_goresctrl",
+  "pkg_name": "sst-ctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/goresctrl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang library for managing resctrl filesystem",
+  "homepage": [
+    "https://github.com/intel/goresctrl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blockio",
+    "rdt",
+    "sst-ctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/goresctrl/archive/16d5a38c2d577e221a6c074c2df30ef1dcb998d5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-16d5a38-250624T175521",
+  "version_upstream": "",
+  "bsum": "9fd0ca4106c2bcaf54c09bf813f9ef6b9283d9f52e0d946932b9626aab725131",
+  "build_date": "2025-06-24T17:46:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857055158",
+  "build_id": "15857055158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/sst-ctl?tag=HEAD-16d5a38-250624T175521-x86_64-Linux&download=sst-ctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/sst-ctl?tag=HEAD-16d5a38-250624T175521-x86_64-Linux&download=sst-ctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/goresctrl/sst-ctl:HEAD-16d5a38-250624T175521-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/goresctrl/sst-ctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/sst-ctl?tag=HEAD-16d5a38-250624T175521-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef318a4e49e7502c80ed883d1286f62b623999b7e3a7ef7fedea230faff4c2a7",
+  "size": "2.9 MB",
+  "size_raw": "2999832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
