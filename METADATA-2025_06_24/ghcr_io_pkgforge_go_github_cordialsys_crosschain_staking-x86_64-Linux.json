@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "staking",
+  "pkg_family": "crosschain",
+  "pkg_id": "staking#github.com_cordialsys_crosschain",
+  "pkg_name": "staking",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cordialsys/crosschain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial Systems abstraction over blockchains",
+  "homepage": [
+    "https://github.com/cordialsys/crosschain"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitcoin",
+    "example",
+    "get_secret",
+    "solana_aux_token_account",
+    "staking",
+    "ton",
+    "txinfo",
+    "xc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cordialsys/crosschain/archive/dbe9b17af7c03371c0e15b8921dfc8aec5159e36.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dbe9b17-250623T180528",
+  "version_upstream": "",
+  "bsum": "7d570e583e7d6a34f1525302defd9fbb73cc8e8d76ca1be17a7d09ab68638c5c",
+  "build_date": "2025-06-24T14:06:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851487453",
+  "build_id": "15851487453",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/staking?tag=HEAD-dbe9b17-250623T180528-x86_64-Linux&download=staking.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/staking?tag=HEAD-dbe9b17-250623T180528-x86_64-Linux&download=staking",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cordialsys/crosschain/staking:HEAD-dbe9b17-250623T180528-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cordialsys/crosschain/staking",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/staking?tag=HEAD-dbe9b17-250623T180528-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "96b8970be2c35f4b8b220518c490548837941da93c1ed368d6fafeab4dc40013",
+  "size": "107 MB",
+  "size_raw": "111281448",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9fd8fef-250619T115529-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
