@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "baremetal-operator",
+  "pkg_family": "baremetal-operator",
+  "pkg_id": "baremetal-operator#github.com_metal3_io_baremetal_operator",
+  "pkg_name": "baremetal-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metal3-io/baremetal-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bare metal host provisioning integration for Kubernetes",
+  "homepage": [
+    "https://github.com/metal3-io/baremetal-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "baremetal-operator",
+    "get-hardware-details",
+    "make-bm-worker",
+    "make-virt-host"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metal3-io/baremetal-operator/archive/e50cc48e5263b5fa49ca8f47d29eb603cbdb0502.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e50cc48-250623T224852",
+  "version_upstream": "",
+  "bsum": "749694dbc62f8c292cdcb08e0db50b6e2775d4da8b3bd452502ca286f8a3de50",
+  "build_date": "2025-06-24T08:55:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844779113",
+  "build_id": "15844779113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal3-io/baremetal-operator/baremetal-operator?tag=HEAD-e50cc48-250623T224852-aarch64-Linux&download=baremetal-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "656",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal3-io/baremetal-operator/baremetal-operator?tag=HEAD-e50cc48-250623T224852-aarch64-Linux&download=baremetal-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metal3-io/baremetal-operator/baremetal-operator:HEAD-e50cc48-250623T224852-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metal3-io/baremetal-operator/baremetal-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal3-io/baremetal-operator/baremetal-operator?tag=HEAD-e50cc48-250623T224852-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f0062307eb28b7ebde7b1eb100ef3bc5fc9efa99886a42afac9a266e457bdd9",
+  "size": "53 MB",
+  "size_raw": "54740256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
