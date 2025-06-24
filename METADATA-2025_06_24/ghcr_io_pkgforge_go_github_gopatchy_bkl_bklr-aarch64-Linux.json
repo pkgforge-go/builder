@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bklr",
+  "pkg_family": "bkl",
+  "pkg_id": "bklr#github.com_gopatchy_bkl",
+  "pkg_name": "bklr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gopatchy/bkl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Layered Configuration Language",
+  "homepage": [
+    "https://github.com/gopatchy/bkl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bkl",
+    "bklb",
+    "bkld",
+    "bkli",
+    "bklr",
+    "kubectl-bkl",
+    "mcp-test-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gopatchy/bkl/archive/7f738c247fe7399d3de66fafc2455bb199805c0a.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "deployment",
+    "devops",
+    "json",
+    "k8s",
+    "kubernetes",
+    "sre",
+    "toml",
+    "yaml"
+  ],
+  "version": "HEAD-7f738c2-250623T203905",
+  "version_upstream": "",
+  "bsum": "5babd369a882c9e2ffee2bf8ccb3a9c43acc4d81c4f6a9c8dcd4a32084595ae0",
+  "build_date": "2025-06-24T14:32:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851540152",
+  "build_id": "15851540152",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bklr?tag=HEAD-7f738c2-250623T203905-aarch64-Linux&download=bklr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bklr?tag=HEAD-7f738c2-250623T203905-aarch64-Linux&download=bklr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopatchy/bkl/bklr:HEAD-7f738c2-250623T203905-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopatchy/bkl/bklr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bklr?tag=HEAD-7f738c2-250623T203905-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a351a802244e988089859e38284166e8ddad3a367d06f3854ec9fa9585747f3",
+  "size": "3.5 MB",
+  "size_raw": "3596256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0d7305b-250620T001905-aarch64-Linux",
+    "HEAD-77a43a1-250621T235940-aarch64-Linux",
+    "HEAD-d01f478-250622T211058-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
