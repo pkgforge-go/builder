@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "test2",
+  "pkg_family": "tongo",
+  "pkg_id": "test2#github.com_tonkeeper_tongo",
+  "pkg_name": "test2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tonkeeper/tongo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang SDK for from Tonkeeper team",
+  "homepage": [
+    "https://github.com/tonkeeper/tongo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boc",
+    "fragment",
+    "func-compiler",
+    "jetton",
+    "liteapi",
+    "liteclient",
+    "simple_send",
+    "test2",
+    "tl",
+    "tlb",
+    "tvm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tonkeeper/tongo/archive/4196915d6173937d260691e51e92e15a73bd59af.tar.gz"
+  ],
+  "tag": [
+    "adnl",
+    "liteserver",
+    "tl",
+    "tlb",
+    "ton",
+    "tvm"
+  ],
+  "version": "HEAD-4196915-250619T113339",
+  "version_upstream": "v1.16.9",
+  "bsum": "99eccab58ba5502bf7d71656b24f9ce1e68821c072ce96438d0016e7b399d20d",
+  "build_date": "2025-06-24T20:02:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859625228",
+  "build_id": "15859625228",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/test2?tag=HEAD-4196915-250619T113339-x86_64-Linux&download=test2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "256",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/test2?tag=HEAD-4196915-250619T113339-x86_64-Linux&download=test2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tonkeeper/tongo/test2:HEAD-4196915-250619T113339-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tonkeeper/tongo/test2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/test2?tag=HEAD-4196915-250619T113339-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fb2a04ce08a14151038f74065f547fa3fdfbfbb775846ee8b1bf85822a99099",
+  "size": "3.2 MB",
+  "size_raw": "3284832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

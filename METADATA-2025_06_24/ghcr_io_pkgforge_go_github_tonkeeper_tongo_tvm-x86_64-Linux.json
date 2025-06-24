@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tvm",
+  "pkg_family": "tongo",
+  "pkg_id": "tvm#github.com_tonkeeper_tongo",
+  "pkg_name": "tvm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tonkeeper/tongo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang SDK for from Tonkeeper team",
+  "homepage": [
+    "https://github.com/tonkeeper/tongo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boc",
+    "fragment",
+    "func-compiler",
+    "jetton",
+    "liteapi",
+    "liteclient",
+    "simple_send",
+    "test2",
+    "tl",
+    "tlb",
+    "tvm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tonkeeper/tongo/archive/4196915d6173937d260691e51e92e15a73bd59af.tar.gz"
+  ],
+  "tag": [
+    "adnl",
+    "liteserver",
+    "tl",
+    "tlb",
+    "ton",
+    "tvm"
+  ],
+  "version": "HEAD-4196915-250619T113339",
+  "version_upstream": "v1.16.9",
+  "bsum": "a5f6b25c1a849b53b6509540e830fee14380110bb1f4218f3000e451f22310a0",
+  "build_date": "2025-06-24T20:01:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859625228",
+  "build_id": "15859625228",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/tvm?tag=HEAD-4196915-250619T113339-x86_64-Linux&download=tvm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "256",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/tvm?tag=HEAD-4196915-250619T113339-x86_64-Linux&download=tvm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tonkeeper/tongo/tvm:HEAD-4196915-250619T113339-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tonkeeper/tongo/tvm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/tvm?tag=HEAD-4196915-250619T113339-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66909d4d79a925bd4733c6e5f712976363a2251356ac80d7c964dd8e9cd15b0e",
+  "size": "8.6 MB",
+  "size_raw": "8936536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
