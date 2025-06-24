@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "upgradehelper",
+  "pkg_family": "harvester",
+  "pkg_id": "upgradehelper#github.com_harvester_harvester",
+  "pkg_name": "upgradehelper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "harvester",
+    "upgradehelper",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/3e05ba26cc8440456962c543c2156738ac05e950.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-3e05ba2-250623T214921",
+  "version_upstream": "",
+  "bsum": "14ceea605e580cb084557504b88a1e7be6232d6e4096562b14285a312e803e90",
+  "build_date": "2025-06-24T14:44:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851543458",
+  "build_id": "15851543458",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/upgradehelper?tag=HEAD-3e05ba2-250623T214921-riscv64-Linux&download=upgradehelper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4479",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/upgradehelper?tag=HEAD-3e05ba2-250623T214921-riscv64-Linux&download=upgradehelper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/upgradehelper:HEAD-3e05ba2-250623T214921-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/upgradehelper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/upgradehelper?tag=HEAD-3e05ba2-250623T214921-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6bcf37188895caf1f6097ffb45bc8f120b3fe253b0f916c85837f8ffe2d5a66d",
+  "size": "63 MB",
+  "size_raw": "66059320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a930b01-250620T092130-riscv64-Linux",
+    "HEAD-07ffa03-250623T102940-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
