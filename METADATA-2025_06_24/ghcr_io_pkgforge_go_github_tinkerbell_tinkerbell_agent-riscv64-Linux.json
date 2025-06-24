@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "tinkerbell",
+  "pkg_id": "agent#github.com_tinkerbell_tinkerbell",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinkerbell/tinkerbell",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine.",
+  "homepage": [
+    "https://github.com/tinkerbell/tinkerbell"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "tinkerbell",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tinkerbell/tinkerbell/archive/c3c0ffc15cf0ff929725235031f960025b9245cc.tar.gz"
+  ],
+  "tag": [
+    "bare-metal",
+    "baremetal",
+    "baremetal-provisioning",
+    "bmc",
+    "cncf-project",
+    "dhcp",
+    "ipmi",
+    "ipxe",
+    "isoboot",
+    "metadata",
+    "netboot",
+    "pxe",
+    "redfish",
+    "tinkerbell"
+  ],
+  "version": "HEAD-c3c0ffc-250623T190933",
+  "version_upstream": "",
+  "bsum": "305808bd0456285ec850f941263155b76491bc3facd74e83785c90423ebc6a41",
+  "build_date": "2025-06-24T10:04:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846161973",
+  "build_id": "15846161973",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/agent?tag=HEAD-c3c0ffc-250623T190933-riscv64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/agent?tag=HEAD-c3c0ffc-250623T190933-riscv64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinkerbell/tinkerbell/agent:HEAD-c3c0ffc-250623T190933-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinkerbell/tinkerbell/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/agent?tag=HEAD-c3c0ffc-250623T190933-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "73887418cebef05bb87048449cc1d427d404602684e3894166684b7f1b727e07",
+  "size": "21 MB",
+  "size_raw": "21728288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
