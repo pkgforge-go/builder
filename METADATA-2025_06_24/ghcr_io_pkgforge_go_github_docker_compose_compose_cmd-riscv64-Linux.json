@@ -34,7 +34,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/docker/compose/archive/c97e40e2b8e52979993a62ca24b0fae1f3925813.tar.gz"
+    "https://github.com/docker/compose/archive/3394bf031b72e875630c939413eeba4d28109165.tar.gz"
   ],
   "tag": [
     "docker",
@@ -43,32 +43,33 @@
     "golang",
     "orchestration"
   ],
-  "version": "HEAD-c97e40e-250623T210538",
-  "version_upstream": "",
-  "bsum": "82c258fdbfd16af7f4db3b4b1f9011535195300483444dceefe9bc25b7d17171",
-  "build_date": "2025-06-24T14:14:27Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851494965",
-  "build_id": "15851494965",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-c97e40e-250623T210538-riscv64-Linux&download=compose-cmd.log",
+  "version": "HEAD-3394bf0-250624T155145",
+  "version_upstream": "v2.37.3",
+  "bsum": "c7c0c8e78c542ef6c9737194744297fb78f8e15add4ad2efea411910ed91010f",
+  "build_date": "2025-06-24T22:44:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862276177",
+  "build_id": "15862276177",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-3394bf0-250624T155145-riscv64-Linux&download=compose-cmd.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "35657",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-c97e40e-250623T210538-riscv64-Linux&download=compose-cmd",
+  "download_count": "35654",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-3394bf0-250624T155145-riscv64-Linux&download=compose-cmd",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/compose/compose-cmd:HEAD-c97e40e-250623T210538-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/compose/compose-cmd:HEAD-3394bf0-250624T155145-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/compose/compose-cmd",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-c97e40e-250623T210538-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/compose/compose-cmd?tag=HEAD-3394bf0-250624T155145-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "fb71dd66dae6230a40fab26ef75ecba519458645b8c84773b9794505dfb6f6fc",
+  "shasum": "7ac74f12eea87ce1e0e5eb403c494047bc3578d034502219fa0f6b61b199cca0",
   "size": "66 MB",
-  "size_raw": "68959800",
+  "size_raw": "68960888",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-f7825a5-250620T151651-riscv64-Linux[v2.37.2]",
     "HEAD-2dde5fa-250622T074438-riscv64-Linux",
-    "HEAD-22e23bd-250622T205035-riscv64-Linux"
+    "HEAD-22e23bd-250622T205035-riscv64-Linux",
+    "HEAD-c97e40e-250623T210538-riscv64-Linux"
   ],
   "trusted": "true"
 }
