@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ipmi_exporter",
+  "pkg_family": "ipmi_exporter",
+  "pkg_id": "ipmi_exporter#github.com_prometheus_community_ipmi_exporter",
+  "pkg_name": "ipmi_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus-community/ipmi_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Remote IPMI exporter for Prometheus",
+  "homepage": [
+    "https://github.com/prometheus-community/ipmi_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipmi_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus-community/ipmi_exporter/archive/d0329652967ec7421b11a69a1d2b9d44a4f35abd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d032965-250624T105405",
+  "version_upstream": "",
+  "bsum": "42a41f14701de92412d44e8fded731c62e0b9f3eab87ac389c974f2213094088",
+  "build_date": "2025-06-24T19:02:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858315704",
+  "build_id": "15858315704",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipmi/exporter/ipmi_exporter?tag=HEAD-d032965-250624T105405-x86_64-Linux&download=ipmi_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "530",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipmi/exporter/ipmi_exporter?tag=HEAD-d032965-250624T105405-x86_64-Linux&download=ipmi_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipmi/exporter/ipmi_exporter:HEAD-d032965-250624T105405-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipmi/exporter/ipmi_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipmi/exporter/ipmi_exporter?tag=HEAD-d032965-250624T105405-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff8a783999d90f201ee6f824342a70e22229404b563d70f12c3b41ce7967cfaf",
+  "size": "14 MB",
+  "size_raw": "14354880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
