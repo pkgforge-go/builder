@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nfd-gc",
+  "pkg_family": "node-feature-discovery",
+  "pkg_id": "nfd-gc#github.com_kubernetes_sigs_node_feature_discovery",
+  "pkg_name": "nfd-gc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/node-feature-discovery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node feature discovery for Kubernetes",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/node-feature-discovery"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-nfd",
+    "nfd-gc",
+    "nfd-master",
+    "nfd-topology-updater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/node-feature-discovery/archive/553b2699fdda487b50be51461b44031573f2c6f6.tar.gz"
+  ],
+  "tag": [
+    "cpuid",
+    "feature-detection",
+    "hacktoberfest",
+    "hardware",
+    "k8s-sig-node",
+    "kubernetes",
+    "node-labels",
+    "rdt"
+  ],
+  "version": "HEAD-553b269-250624T053229",
+  "version_upstream": "",
+  "bsum": "7b93def8c254bf020d64def84d639da874ce75cff96fceac104384046fdfe172",
+  "build_date": "2025-06-24T18:07:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857119279",
+  "build_id": "15857119279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-gc?tag=HEAD-553b269-250624T053229-loongarch64-Linux&download=nfd-gc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-gc?tag=HEAD-553b269-250624T053229-loongarch64-Linux&download=nfd-gc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-gc:HEAD-553b269-250624T053229-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-gc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/node-feature-discovery/nfd-gc?tag=HEAD-553b269-250624T053229-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8728fb2a0402e356f82e709521276502de064a2bbbc436645a8ff5c38fe56d4d",
+  "size": "39 MB",
+  "size_raw": "40088384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
