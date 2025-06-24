@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "getoidctoken",
+  "pkg_family": "cosign",
+  "pkg_id": "getoidctoken#github.com_sigstore_cosign",
+  "pkg_name": "getoidctoken",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/cosign",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Code signing and transparency for containers and binaries",
+  "homepage": [
+    "https://github.com/sigstore/cosign"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conformance",
+    "cosign",
+    "getoidctoken",
+    "help",
+    "sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/cosign/archive/c36801ef34aa24eb01d064ab12da66a83b9c3ff4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-c36801e-250623T204939",
+  "version_upstream": "",
+  "bsum": "eff273e3b3227ca5ae9abff3b7eb1ab0008e573fcf8c2c1c1ae6ddda2a446b70",
+  "build_date": "2025-06-24T16:02:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15852175775",
+  "build_id": "15852175775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/getoidctoken?tag=HEAD-c36801e-250623T204939-riscv64-Linux&download=getoidctoken.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5019",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/getoidctoken?tag=HEAD-c36801e-250623T204939-riscv64-Linux&download=getoidctoken",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/cosign/getoidctoken:HEAD-c36801e-250623T204939-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/cosign/getoidctoken",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/cosign/getoidctoken?tag=HEAD-c36801e-250623T204939-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfb23499fa7a0e5582f76d0a0bc0d976c5d242d825507c7bd2fc006412fb2766",
+  "size": "5.8 MB",
+  "size_raw": "6071864",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af5a988-250617T200314-riscv64-Linux[v2.5.2]"
+  ],
+  "trusted": "true"
+}
