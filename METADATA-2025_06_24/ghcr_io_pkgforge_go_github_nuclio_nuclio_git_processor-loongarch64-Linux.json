@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "processor",
+  "pkg_family": "nuclio",
+  "pkg_id": "processor#github.com_nuclio_nuclio.git",
+  "pkg_name": "processor",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscaler",
+    "benchmark",
+    "controller",
+    "dashboard",
+    "dlx",
+    "generator",
+    "nuctl",
+    "processor",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nuclio/nuclio.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250624T151907",
+  "version_upstream": "",
+  "bsum": "ecfa08213dbd92ba9c720add69d5ac954591eb44ce65cac3e00c12b86b382def",
+  "build_date": "2025-06-24T15:35:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851673698",
+  "build_id": "15851673698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio.git/processor?tag=20250624T151907-loongarch64-Linux&download=processor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio.git/processor?tag=20250624T151907-loongarch64-Linux&download=processor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nuclio/nuclio.git/processor:20250624T151907-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nuclio/nuclio.git/processor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio.git/processor?tag=20250624T151907-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ddf29aae38b6f710fd307b7f1a7a603491e7e5ab18009bf704b7325c0444150b",
+  "size": "84 MB",
+  "size_raw": "87150992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
