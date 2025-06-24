@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tlb",
+  "pkg_family": "tongo",
+  "pkg_id": "tlb#github.com_tonkeeper_tongo",
+  "pkg_name": "tlb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tonkeeper/tongo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang SDK for from Tonkeeper team",
+  "homepage": [
+    "https://github.com/tonkeeper/tongo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boc",
+    "fragment",
+    "func-compiler",
+    "jetton",
+    "liteapi",
+    "liteclient",
+    "simple_send",
+    "test2",
+    "tl",
+    "tlb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tonkeeper/tongo/archive/4196915d6173937d260691e51e92e15a73bd59af.tar.gz"
+  ],
+  "tag": [
+    "adnl",
+    "liteserver",
+    "tl",
+    "tlb",
+    "ton",
+    "tvm"
+  ],
+  "version": "HEAD-4196915-250619T113339",
+  "version_upstream": "v1.16.9",
+  "bsum": "9b60dd6b5c512864def312fdedce348d662a614e98244752e1450cf5ab8c9951",
+  "build_date": "2025-06-24T20:01:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859625228",
+  "build_id": "15859625228",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/tlb?tag=HEAD-4196915-250619T113339-riscv64-Linux&download=tlb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "256",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/tlb?tag=HEAD-4196915-250619T113339-riscv64-Linux&download=tlb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tonkeeper/tongo/tlb:HEAD-4196915-250619T113339-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tonkeeper/tongo/tlb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/tlb?tag=HEAD-4196915-250619T113339-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c87f09092372ecb5f61a1f1d65e9d6b09cb9eab47ee449a9851bcd3383bc0b43",
+  "size": "4.7 MB",
+  "size_raw": "4924856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
