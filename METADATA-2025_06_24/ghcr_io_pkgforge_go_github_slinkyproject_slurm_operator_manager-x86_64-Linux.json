@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "slurm-operator",
+  "pkg_id": "manager#github.com_SlinkyProject_slurm_operator",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SlinkyProject/slurm-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm on Kubernetes. A Slinky project.",
+  "homepage": [
+    "https://github.com/SlinkyProject/slurm-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SlinkyProject/slurm-operator/archive/ae08235ed5cebc46ee9ec24cf26ea99ce7f35640.tar.gz"
+  ],
+  "tag": [
+    "helm-charts",
+    "high-performance-computing",
+    "high-throughput-computing",
+    "hpc",
+    "k8s-operator",
+    "kubernetes",
+    "schedmd",
+    "slinky",
+    "slurm",
+    "slurm-workload-manager"
+  ],
+  "version": "HEAD-ae08235-250619T120126",
+  "version_upstream": "",
+  "bsum": "7afaf3d7c10b6229bc54a65ca3e6e6d67d66c7bc87987f99f8d2659bec8cea7a",
+  "build_date": "2025-06-24T07:21:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843544320",
+  "build_id": "15843544320",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-operator/manager?tag=HEAD-ae08235-250619T120126-x86_64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "120",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-operator/manager?tag=HEAD-ae08235-250619T120126-x86_64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slinkyproject/slurm-operator/manager:HEAD-ae08235-250619T120126-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slinkyproject/slurm-operator/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-operator/manager?tag=HEAD-ae08235-250619T120126-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc7162ba3e503b360a1b7185f7d8caf7c4ac47747bd50b71ed7941769020b1c8",
+  "size": "54 MB",
+  "size_raw": "56087808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
