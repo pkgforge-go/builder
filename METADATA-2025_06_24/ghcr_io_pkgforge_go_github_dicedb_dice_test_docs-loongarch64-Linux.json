@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test-docs",
+  "pkg_family": "dice",
+  "pkg_id": "test-docs#github.com_DiceDB_dice",
+  "pkg_name": "test-docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DiceDB/dice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+  "homepage": [
+    "https://github.com/DiceDB/dice"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dice",
+    "generate-docs",
+    "test-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DiceDB/dice/archive/dd14872cc1c92e7ac96d328f55a6f1ccf050d00f.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "golang",
+    "hacktoberfest",
+    "storage-engine"
+  ],
+  "version": "HEAD-dd14872-250623T190333",
+  "version_upstream": "",
+  "bsum": "72152392a25b4512c4afb91e43ea5077a56b2fa332a1df1eab75992c6555951c",
+  "build_date": "2025-06-24T02:17:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839490426",
+  "build_id": "15839490426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/test-docs?tag=HEAD-dd14872-250623T190333-loongarch64-Linux&download=test-docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10562",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/test-docs?tag=HEAD-dd14872-250623T190333-loongarch64-Linux&download=test-docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dicedb/dice/test-docs:HEAD-dd14872-250623T190333-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dicedb/dice/test-docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dicedb/dice/test-docs?tag=HEAD-dd14872-250623T190333-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cae9eb452662d09f33f59cdb36eaa27eb01cf6e7ebd2380dbf20c2a85c035ba0",
+  "size": "6.5 MB",
+  "size_raw": "6745568",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ebad5d9-250531T232426-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
