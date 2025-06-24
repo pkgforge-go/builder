@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "codegen",
+  "pkg_family": "aks-operator",
+  "pkg_id": "codegen#github.com_rancher_aks_operator",
+  "pkg_name": "codegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/aks-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Kubernetes Service operator for Rancher",
+  "homepage": [
+    "https://github.com/rancher/aks-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aks-operator",
+    "cleanup",
+    "codegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/aks-operator/archive/7fc7144b01ca03c23d231ba92428dabb3c6660f7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7fc7144-250624T170306",
+  "version_upstream": "",
+  "bsum": "c38ead08fca77ef5e153dff6698fbc5c34e019caa19db666999f0fa5fedcc6fa",
+  "build_date": "2025-06-24T19:09:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858375808",
+  "build_id": "15858375808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/aks-operator/codegen?tag=HEAD-7fc7144-250624T170306-aarch64-Linux&download=codegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/aks-operator/codegen?tag=HEAD-7fc7144-250624T170306-aarch64-Linux&download=codegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/aks-operator/codegen:HEAD-7fc7144-250624T170306-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/aks-operator/codegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/aks-operator/codegen?tag=HEAD-7fc7144-250624T170306-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "57629bbf8b830d39c2978fd91032afcb82b0122fb4d7ac053f76503f427486a8",
+  "size": "42 MB",
+  "size_raw": "43396128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
