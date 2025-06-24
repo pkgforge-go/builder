@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "skywalking-satellite-cmd",
+  "pkg_family": "skywalking-satellite",
+  "pkg_id": "skywalking-satellite-cmd#github.com_apache_skywalking_satellite",
+  "pkg_name": "skywalking-satellite-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/skywalking-satellite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Sidecar Project of Apache SkyWalking",
+  "homepage": [
+    "https://github.com/apache/skywalking-satellite"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "native-ebpf",
+    "skywalking-satellite-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/skywalking-satellite/archive/63d3caf47625fe0cfcce51a175486b6012933fb8.tar.gz"
+  ],
+  "tag": [
+    "apm",
+    "dapper",
+    "distributed-tracing",
+    "observability",
+    "service-mesh",
+    "sidecar",
+    "skywalking"
+  ],
+  "version": "HEAD-63d3caf-250624T092045",
+  "version_upstream": "",
+  "bsum": "b661dc567e79ecaac0e6ae3e1a4a686ec67f0851d8841766533f11c491fd9fe6",
+  "build_date": "2025-06-24T07:27:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843555155",
+  "build_id": "15843555155",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/skywalking-satellite/skywalking-satellite-cmd?tag=HEAD-63d3caf-250624T092045-aarch64-Linux&download=skywalking-satellite-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "111",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/skywalking-satellite/skywalking-satellite-cmd?tag=HEAD-63d3caf-250624T092045-aarch64-Linux&download=skywalking-satellite-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/skywalking-satellite/skywalking-satellite-cmd:HEAD-63d3caf-250624T092045-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/skywalking-satellite/skywalking-satellite-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/skywalking-satellite/skywalking-satellite-cmd?tag=HEAD-63d3caf-250624T092045-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9105538edd2d4d82cb4e2e401317b68c4f24333d455cd11e6d394b38c376e57",
+  "size": "48 MB",
+  "size_raw": "50275456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
