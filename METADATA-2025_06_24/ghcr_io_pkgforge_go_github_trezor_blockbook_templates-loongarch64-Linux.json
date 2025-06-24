@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "templates",
+  "pkg_family": "blockbook",
+  "pkg_id": "templates#github.com_trezor_blockbook",
+  "pkg_name": "templates",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trezor/blockbook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":blue_book: Trezor address/account balance backend",
+  "homepage": [
+    "https://github.com/trezor/blockbook"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "templates",
+    "trezor-common"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trezor/blockbook/archive/ca17fc5a956a8202730c91696ed75fd1a1e49138.tar.gz"
+  ],
+  "tag": [
+    "backend",
+    "bitcoin",
+    "trezor"
+  ],
+  "version": "HEAD-ca17fc5-250624T120158",
+  "version_upstream": "",
+  "bsum": "b12be41c640f7e7f2a515ae857c66ce9c0d9f8388089b3e8b2eec39aa568d846",
+  "build_date": "2025-06-24T20:02:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859663101",
+  "build_id": "15859663101",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trezor/blockbook/templates?tag=HEAD-ca17fc5-250624T120158-loongarch64-Linux&download=templates.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "724",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trezor/blockbook/templates?tag=HEAD-ca17fc5-250624T120158-loongarch64-Linux&download=templates",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trezor/blockbook/templates:HEAD-ca17fc5-250624T120158-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trezor/blockbook/templates",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trezor/blockbook/templates?tag=HEAD-ca17fc5-250624T120158-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8965dc81604219f45e7e65658d8bb7451df054b82221768e32d3ac3b00f39bed",
+  "size": "3.3 MB",
+  "size_raw": "3410264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
