@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "certigo",
+  "pkg_family": "certigo",
+  "pkg_id": "certigo#github.com_square_certigo",
+  "pkg_name": "certigo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/square/certigo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to examine and validate certificates in a variety of formats",
+  "homepage": [
+    "https://github.com/square/certigo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certigo",
+    "gen-known-logs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/square/certigo/archive/ba52fa48621ea4498fab5facdc49282a7025cec6.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "cli",
+    "command-line-app",
+    "crypto",
+    "jceks",
+    "keystore",
+    "pem",
+    "pkcs12",
+    "pkcs7",
+    "ssl",
+    "tls",
+    "x509"
+  ],
+  "version": "HEAD-ba52fa4-250623T174546",
+  "version_upstream": "",
+  "bsum": "c3c8963f97aef209c3621ee723be74abccc978337505495cf5628365884b835a",
+  "build_date": "2025-06-24T09:38:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846026893",
+  "build_id": "15846026893",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certigo/certigo?tag=HEAD-ba52fa4-250623T174546-x86_64-Linux&download=certigo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "978",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certigo/certigo?tag=HEAD-ba52fa4-250623T174546-x86_64-Linux&download=certigo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/square/certigo/certigo:HEAD-ba52fa4-250623T174546-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/square/certigo/certigo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/certigo/certigo?tag=HEAD-ba52fa4-250623T174546-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36b53a5f5f5969e69a95f2a4cad2067880d0827ac78387cd66ae5448b8fc9fa7",
+  "size": "14 MB",
+  "size_raw": "13745752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
