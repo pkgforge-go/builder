@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mock-lcp",
+  "pkg_family": "hydra",
+  "pkg_id": "mock-lcp#github.com_ory_hydra",
+  "pkg_name": "mock-lcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/hydra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",
+  "homepage": [
+    "https://github.com/ory/hydra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clidoc",
+    "hydra",
+    "mock-cb",
+    "mock-client",
+    "mock-lcp",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/hydra/archive/d9ea5496d81c6218abfc407d7b0849ff03a41915.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "cloud",
+    "docker",
+    "federation",
+    "hacktoberfest",
+    "hydra",
+    "identity",
+    "oauth",
+    "oauth-provider",
+    "oauth2",
+    "oauth2-provider",
+    "oauth2-server",
+    "oidc",
+    "openid",
+    "openid-connect",
+    "openid-connect-provider",
+    "openid-provider",
+    "security",
+    "server",
+    "sso"
+  ],
+  "version": "HEAD-d9ea549-250624T105940",
+  "version_upstream": "",
+  "bsum": "62c2fb45821902c732dfd383e3f3ce802833a2792c1db26ecfae4a8a547ccb30",
+  "build_date": "2025-06-24T23:56:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862430446",
+  "build_id": "15862430446",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/mock-lcp?tag=HEAD-d9ea549-250624T105940-loongarch64-Linux&download=mock-lcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16292",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/mock-lcp?tag=HEAD-d9ea549-250624T105940-loongarch64-Linux&download=mock-lcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/hydra/mock-lcp:HEAD-d9ea549-250624T105940-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/hydra/mock-lcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/mock-lcp?tag=HEAD-d9ea549-250624T105940-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72662321562ccfcbf87d5046182c4cf1213d9ae539f0b330619cf56d980e010f",
+  "size": "8.3 MB",
+  "size_raw": "8676896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a0a9062-250620T113805-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
