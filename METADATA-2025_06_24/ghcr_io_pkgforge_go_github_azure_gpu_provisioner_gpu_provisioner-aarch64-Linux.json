@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gpu-provisioner",
+  "pkg_family": "gpu-provisioner",
+  "pkg_id": "gpu-provisioner#github.com_Azure_gpu_provisioner",
+  "pkg_name": "gpu-provisioner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/gpu-provisioner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gpu-provisioner is a Karpenter Azure provider implementation. This project is used in Kaito to create a machine which is an Azure nodepool with one VM",
+  "homepage": [
+    "https://github.com/Azure/gpu-provisioner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gpu-provisioner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/gpu-provisioner/archive/407dc0e89a92131aafcfee8851dceade109805ae.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "gpu",
+    "kaito",
+    "karpenter",
+    "kubernetes"
+  ],
+  "version": "HEAD-407dc0e-250623T144502",
+  "version_upstream": "",
+  "bsum": "4b808dca2a5054c75fee5f361f43c0d2a4e58fad6b8ea79293ab5bc96a6bd28e",
+  "build_date": "2025-06-24T06:59:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843502849",
+  "build_id": "15843502849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/gpu-provisioner/gpu-provisioner?tag=HEAD-407dc0e-250623T144502-aarch64-Linux&download=gpu-provisioner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/gpu-provisioner/gpu-provisioner?tag=HEAD-407dc0e-250623T144502-aarch64-Linux&download=gpu-provisioner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/gpu-provisioner/gpu-provisioner:HEAD-407dc0e-250623T144502-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/gpu-provisioner/gpu-provisioner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/gpu-provisioner/gpu-provisioner?tag=HEAD-407dc0e-250623T144502-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "085e786d8b7adb4c432e2ea92e17072f18eba29b42048c84e22f24ff71744054",
+  "size": "53 MB",
+  "size_raw": "54558624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
