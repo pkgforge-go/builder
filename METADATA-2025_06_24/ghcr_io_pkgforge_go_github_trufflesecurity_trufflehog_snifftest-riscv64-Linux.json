@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "snifftest",
+  "pkg_family": "trufflehog",
+  "pkg_id": "snifftest#github.com_trufflesecurity_trufflehog",
+  "pkg_name": "snifftest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trufflesecurity/trufflehog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Find, verify, and analyze leaked credentials",
+  "homepage": [
+    "https://github.com/trufflesecurity/trufflehog"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "generate_permissions",
+    "snifftest",
+    "trufflehog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trufflesecurity/trufflehog/archive/62faf2e85e4a73c7a616175d402a77063f23869c.tar.gz"
+  ],
+  "tag": [
+    "credentials",
+    "devsecops",
+    "dynamic-analysis",
+    "hacktoberfest",
+    "precommit",
+    "scanning",
+    "secret",
+    "secret-management",
+    "secrets",
+    "security",
+    "security-tools",
+    "trufflehog",
+    "verification"
+  ],
+  "version": "HEAD-62faf2e-250623T132310",
+  "version_upstream": "",
+  "bsum": "0f8d13c8f089162eeada1a455753780f9126266aa66e3b188ea47bba8aca469a",
+  "build_date": "2025-06-24T03:39:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839868493",
+  "build_id": "15839868493",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufflesecurity/trufflehog/snifftest?tag=HEAD-62faf2e-250623T132310-riscv64-Linux&download=snifftest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19601",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufflesecurity/trufflehog/snifftest?tag=HEAD-62faf2e-250623T132310-riscv64-Linux&download=snifftest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trufflesecurity/trufflehog/snifftest:HEAD-62faf2e-250623T132310-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trufflesecurity/trufflehog/snifftest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufflesecurity/trufflehog/snifftest?tag=HEAD-62faf2e-250623T132310-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2e9448428c1f37d0156d25448d4822ef68a7a5ad1fd0beb4ca0e56739628d73e",
+  "size": "57 MB",
+  "size_raw": "59179896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0f6e0cd-250617T095116-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
