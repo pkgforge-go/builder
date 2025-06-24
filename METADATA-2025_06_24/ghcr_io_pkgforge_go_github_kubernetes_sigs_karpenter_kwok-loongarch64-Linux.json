@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kwok",
+  "pkg_family": "karpenter",
+  "pkg_id": "kwok#github.com_kubernetes_sigs_karpenter",
+  "pkg_name": "kwok",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/karpenter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/karpenter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kwok",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/karpenter/archive/05cb650357af8a5023b007d25f9f9528e506e924.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-05cb650-250623T174827",
+  "version_upstream": "",
+  "bsum": "79f39b359b90a309439c949959835d661375a647d01c52add3b7fd73fcd5ad73",
+  "build_date": "2025-06-24T08:38:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844609376",
+  "build_id": "15844609376",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/karpenter/kwok?tag=HEAD-05cb650-250623T174827-loongarch64-Linux&download=kwok.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1079",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/karpenter/kwok?tag=HEAD-05cb650-250623T174827-loongarch64-Linux&download=kwok",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/karpenter/kwok:HEAD-05cb650-250623T174827-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/karpenter/kwok",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/karpenter/kwok?tag=HEAD-05cb650-250623T174827-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "632d108ebfed3a3535c890cbb1c0b58366b5ba38571579502e7c6ef61181e38f",
+  "size": "55 MB",
+  "size_raw": "57315296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
