@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "reports-controller",
+  "pkg_family": "kyverno",
+  "pkg_id": "reports-controller#github.com_kyverno_kyverno",
+  "pkg_name": "reports-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/557a6d27cf8ef34d63f08490c1b24ddf4603c00f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-557a6d2-250624T142711",
+  "version_upstream": "",
+  "bsum": "ffa8421d8dc336e1b4891c1a39593c9a8b578aff46300ff07db397cc465a140e",
+  "build_date": "2025-06-24T23:48:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862357233",
+  "build_id": "15862357233",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/reports-controller?tag=HEAD-557a6d2-250624T142711-riscv64-Linux&download=reports-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6451",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/reports-controller?tag=HEAD-557a6d2-250624T142711-riscv64-Linux&download=reports-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/reports-controller:HEAD-557a6d2-250624T142711-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/reports-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/reports-controller?tag=HEAD-557a6d2-250624T142711-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6336666d39eea1e0260e99fbcb14c93378e2513adfdab4d81ad2d1244520defc",
+  "size": "165 MB",
+  "size_raw": "172420888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-467bcb5-250620T115123-riscv64-Linux",
+    "HEAD-9684ef6-250623T130110-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "background-controller",
+  "pkg_family": "kyverno",
+  "pkg_id": "background-controller#github.com_kyverno_kyverno",
+  "pkg_name": "background-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/557a6d27cf8ef34d63f08490c1b24ddf4603c00f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-557a6d2-250624T142711",
+  "version_upstream": "",
+  "bsum": "80306112da2af54436becfcfb8b3002be7e9f26723eae59d91eec0c2596ceda5",
+  "build_date": "2025-06-24T23:48:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862357233",
+  "build_id": "15862357233",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/background-controller?tag=HEAD-557a6d2-250624T142711-riscv64-Linux&download=background-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6451",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/background-controller?tag=HEAD-557a6d2-250624T142711-riscv64-Linux&download=background-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/background-controller:HEAD-557a6d2-250624T142711-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/background-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/background-controller?tag=HEAD-557a6d2-250624T142711-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "55d5990a8052afc6a00ff5c6baa4ad833060b2bc7fc3fdaff89303304415d6b2",
+  "size": "164 MB",
+  "size_raw": "171823352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-467bcb5-250620T115123-riscv64-Linux",
+    "HEAD-9684ef6-250623T130110-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
