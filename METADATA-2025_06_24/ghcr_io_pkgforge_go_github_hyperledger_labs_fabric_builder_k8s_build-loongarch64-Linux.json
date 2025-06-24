@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "build",
+  "pkg_family": "fabric-builder-k8s",
+  "pkg_id": "build#github.com_hyperledger_labs_fabric_builder_k8s",
+  "pkg_name": "build",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hyperledger-labs/fabric-builder-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes chaincode builder for Hyperledger Fabric",
+  "homepage": [
+    "https://github.com/hyperledger-labs/fabric-builder-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "detect",
+    "release",
+    "run"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hyperledger-labs/fabric-builder-k8s/archive/09edf1783cc3be3a629aeedbcc2c9afef647c5f0.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "hacktoberfest",
+    "hyperledger",
+    "hyperledger-fabric",
+    "kubernetes"
+  ],
+  "version": "HEAD-09edf17-250624T113946",
+  "version_upstream": "",
+  "bsum": "2cd0563ee4b831476a70a28bed356a1030631923258ee9b8908eb337b3a97d98",
+  "build_date": "2025-06-24T17:46:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856997726",
+  "build_id": "15856997726",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger-labs/fabric-builder-k8s/build?tag=HEAD-09edf17-250624T113946-loongarch64-Linux&download=build.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger-labs/fabric-builder-k8s/build?tag=HEAD-09edf17-250624T113946-loongarch64-Linux&download=build",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyperledger-labs/fabric-builder-k8s/build:HEAD-09edf17-250624T113946-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyperledger-labs/fabric-builder-k8s/build",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger-labs/fabric-builder-k8s/build?tag=HEAD-09edf17-250624T113946-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b79b65443e14bcf62f0b1db89c862255f7b59861ab38448db71bc6f9448e55c7",
+  "size": "34 MB",
+  "size_raw": "35647232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
