@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example-supply-chain",
+  "pkg_family": "example-supply-chain",
+  "pkg_id": "example-supply-chain#github.com_goreleaser_example_supply_chain",
+  "pkg_name": "example-supply-chain",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goreleaser/example-supply-chain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Example goreleaser + github actions config with keyless signing, SBOM generation, and attestations",
+  "homepage": [
+    "https://github.com/goreleaser/example-supply-chain"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example-supply-chain"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/goreleaser/example-supply-chain/archive/9ccd21e9ed054e22c47b6881a5e46003ec6c9579.tar.gz"
+  ],
+  "tag": [
+    "attestations",
+    "cosign",
+    "go",
+    "golang",
+    "goreleaser",
+    "sbom",
+    "signing",
+    "sigstore",
+    "slsa",
+    "slsa-provenance",
+    "software-bill-of-materials",
+    "supply-chain",
+    "syft"
+  ],
+  "version": "HEAD-9ccd21e-250624T094004",
+  "version_upstream": "",
+  "bsum": "c9ca8df14cce451419fbe346fab46ca564391f40e6d59f21a3cc288fdaf51247",
+  "build_date": "2025-06-24T17:34:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856427343",
+  "build_id": "15856427343",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goreleaser/example-supply-chain/example-supply-chain?tag=HEAD-9ccd21e-250624T094004-riscv64-Linux&download=example-supply-chain.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goreleaser/example-supply-chain/example-supply-chain?tag=HEAD-9ccd21e-250624T094004-riscv64-Linux&download=example-supply-chain",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goreleaser/example-supply-chain/example-supply-chain:HEAD-9ccd21e-250624T094004-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goreleaser/example-supply-chain/example-supply-chain",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goreleaser/example-supply-chain/example-supply-chain?tag=HEAD-9ccd21e-250624T094004-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "997f0d53beeedcdbf83192a380e95a957717851c8ce7e317ac530e7502f2f11c",
+  "size": "2.2 MB",
+  "size_raw": "2255496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
