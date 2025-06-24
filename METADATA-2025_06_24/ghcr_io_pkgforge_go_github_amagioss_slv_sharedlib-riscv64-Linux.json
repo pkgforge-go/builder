@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sharedlib",
+  "pkg_family": "slv",
+  "pkg_id": "sharedlib#github.com_amagioss_slv",
+  "pkg_name": "sharedlib",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/amagioss/slv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Securely store, share, and access secrets alongside the codebase.",
+  "homepage": [
+    "https://github.com/amagioss/slv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "cmd",
+    "sharedlib"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/amagioss/slv/archive/1694f44a98868a6099de6fdbd1cecd2e753ca1de.tar.gz"
+  ],
+  "tag": [
+    "post-quantum-cryptography",
+    "secret-management",
+    "secret-manager",
+    "secrets",
+    "secrets-management",
+    "secrets-manager",
+    "secure-local-vault",
+    "slv"
+  ],
+  "version": "HEAD-1694f44-250623T234235",
+  "version_upstream": "",
+  "bsum": "a22e875f0a580b003d23c678d8ed3110a9d922e369feb765aaa8569bc596738c",
+  "build_date": "2025-06-24T13:16:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851338863",
+  "build_id": "15851338863",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amagioss/slv/sharedlib?tag=HEAD-1694f44-250623T234235-riscv64-Linux&download=sharedlib.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "37",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amagioss/slv/sharedlib?tag=HEAD-1694f44-250623T234235-riscv64-Linux&download=sharedlib",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/amagioss/slv/sharedlib:HEAD-1694f44-250623T234235-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/amagioss/slv/sharedlib",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/amagioss/slv/sharedlib?tag=HEAD-1694f44-250623T234235-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e03a20dbd77a1af09d932c1dab1f5b2a862dd272f189e1726c57bb7f1f2546a",
+  "size": "53 MB",
+  "size_raw": "54720920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-acca08a-250623T160004-riscv64-Linux[v0]"
+  ],
+  "trusted": "true"
+}
