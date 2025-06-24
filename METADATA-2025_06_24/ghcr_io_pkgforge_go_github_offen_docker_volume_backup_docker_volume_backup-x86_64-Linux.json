@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "docker-volume-backup",
+  "pkg_family": "docker-volume-backup",
+  "pkg_id": "docker-volume-backup#github.com_offen_docker_volume_backup",
+  "pkg_name": "docker-volume-backup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/offen/docker-volume-backup",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage",
+  "homepage": [
+    "https://github.com/offen/docker-volume-backup"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker-volume-backup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/offen/docker-volume-backup/archive/5abaca1585d6c8c891c84d8d90af8eb26079fc68.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "docker",
+    "docker-compose",
+    "docker-swarm",
+    "docker-volume",
+    "s3",
+    "ssh",
+    "webdav"
+  ],
+  "version": "HEAD-5abaca1-250617T051727",
+  "version_upstream": "",
+  "bsum": "648d5911e396ad0c7045ce81818c672d9f4fa10b9b46536da51c84ae7dac3bd3",
+  "build_date": "2025-06-24T09:04:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844927629",
+  "build_id": "15844927629",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offen/docker-volume-backup/docker-volume-backup?tag=HEAD-5abaca1-250617T051727-x86_64-Linux&download=docker-volume-backup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2639",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offen/docker-volume-backup/docker-volume-backup?tag=HEAD-5abaca1-250617T051727-x86_64-Linux&download=docker-volume-backup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offen/docker-volume-backup/docker-volume-backup:HEAD-5abaca1-250617T051727-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offen/docker-volume-backup/docker-volume-backup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offen/docker-volume-backup/docker-volume-backup?tag=HEAD-5abaca1-250617T051727-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9ab3d5045e0279045eebd00c3d51cd6f1ce3a15295742d3fac6192f29c2a35a4",
+  "size": "22 MB",
+  "size_raw": "22552208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
