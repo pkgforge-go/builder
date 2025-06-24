@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kafka_exporter",
+  "pkg_family": "kafka_exporter",
+  "pkg_id": "kafka_exporter#github.com_danielqsj_kafka_exporter",
+  "pkg_name": "kafka_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/danielqsj/kafka_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kafka exporter for Prometheus",
+  "homepage": [
+    "https://github.com/danielqsj/kafka_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kafka_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/danielqsj/kafka_exporter/archive/537b68f77dd3e75e59f55d06656be54142cd489f.tar.gz"
+  ],
+  "tag": [
+    "kafka",
+    "kafka-metrics",
+    "metrics",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-537b68f-250624T195431",
+  "version_upstream": "",
+  "bsum": "60676885b963c554e33936269bc8fe4811273cd1c4ff478c7267cff7e3f7dba9",
+  "build_date": "2025-06-24T17:16:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855849376",
+  "build_id": "15855849376",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kafka/exporter/kafka_exporter?tag=HEAD-537b68f-250624T195431-aarch64-Linux&download=kafka_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2378",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kafka/exporter/kafka_exporter?tag=HEAD-537b68f-250624T195431-aarch64-Linux&download=kafka_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kafka/exporter/kafka_exporter:HEAD-537b68f-250624T195431-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kafka/exporter/kafka_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kafka/exporter/kafka_exporter?tag=HEAD-537b68f-250624T195431-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83879bcdf6b2c02f0c1fbba44457ce9c94d43053f74e63fea46a64a1e9e5cfc1",
+  "size": "18 MB",
+  "size_raw": "18001440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
