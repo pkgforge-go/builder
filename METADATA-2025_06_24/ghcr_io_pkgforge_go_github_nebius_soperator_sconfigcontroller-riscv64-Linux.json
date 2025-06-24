@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sconfigcontroller",
+  "pkg_family": "soperator",
+  "pkg_id": "sconfigcontroller#github.com_nebius_soperator",
+  "pkg_name": "sconfigcontroller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/fb200a5f6b464d3eb3221b5fc5dc88ba300c6b2b.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-fb200a5-250623T143705",
+  "version_upstream": "",
+  "bsum": "75c652175fefd65c966c48d725df7f45ac169d23b5e0834ea728a4fe1a9edfb3",
+  "build_date": "2025-06-24T03:24:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839599327",
+  "build_id": "15839599327",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/sconfigcontroller?tag=HEAD-fb200a5-250623T143705-riscv64-Linux&download=sconfigcontroller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "237",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/sconfigcontroller?tag=HEAD-fb200a5-250623T143705-riscv64-Linux&download=sconfigcontroller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/sconfigcontroller:HEAD-fb200a5-250623T143705-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/sconfigcontroller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/sconfigcontroller?tag=HEAD-fb200a5-250623T143705-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f153c78f71ce9262b4191b63db0cf93625bef4badc6c3243641ff41b2560c2b",
+  "size": "46 MB",
+  "size_raw": "47576728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bd328a2-250620T101949-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
