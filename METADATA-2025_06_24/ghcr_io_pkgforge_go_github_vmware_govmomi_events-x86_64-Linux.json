@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "events",
+  "pkg_family": "govmomi",
+  "pkg_id": "events#github.com_vmware_govmomi",
+  "pkg_name": "events",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware/govmomi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the VMware vSphere API",
+  "homepage": [
+    "https://github.com/vmware/govmomi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "toolbox",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi/archive/06d4a3f15d1e0d7839d293ae9b03ab14270c545f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sdk",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-06d4a3f-250623T114907",
+  "version_upstream": "",
+  "bsum": "db10c663f64411def36060346613c9ae08e238f158bada98d339b1e90ced5f7f",
+  "build_date": "2025-06-24T10:15:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847428355",
+  "build_id": "15847428355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/events?tag=HEAD-06d4a3f-250623T114907-x86_64-Linux&download=events.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2383",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/events?tag=HEAD-06d4a3f-250623T114907-x86_64-Linux&download=events",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi/events:HEAD-06d4a3f-250623T114907-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi/events",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/events?tag=HEAD-06d4a3f-250623T114907-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a6b176a075f95a411bf56ab3b94cf1fca68d25e4c1d8fdcd570ecf96f0b8691",
+  "size": "28 MB",
+  "size_raw": "28597392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
