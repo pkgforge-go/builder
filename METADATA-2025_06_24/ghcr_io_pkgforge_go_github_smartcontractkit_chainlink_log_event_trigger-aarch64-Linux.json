@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "log-event-trigger",
+  "pkg_family": "chainlink",
+  "pkg_id": "log-event-trigger#github.com_smartcontractkit_chainlink",
+  "pkg_name": "log-event-trigger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chainlink-medianpoc",
+    "fetchtrueusd",
+    "gen",
+    "generate",
+    "gomod-local-update",
+    "log-event-trigger",
+    "lstxtardirs",
+    "operator_ui",
+    "plugout",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink/archive/ecc35c51cbbb205a3d1e0e35b6dc03b9310896c5.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "chainlink",
+    "ethereum",
+    "golang",
+    "oracle",
+    "solidity"
+  ],
+  "version": "HEAD-ecc35c5-250623T140742",
+  "version_upstream": "",
+  "bsum": "ea06954e57a206d44ca50cc346c3824499dce44750ec09a893137babcd0b7b6d",
+  "build_date": "2025-06-24T00:17:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835909046",
+  "build_id": "15835909046",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/log-event-trigger?tag=HEAD-ecc35c5-250623T140742-aarch64-Linux&download=log-event-trigger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7378",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/log-event-trigger?tag=HEAD-ecc35c5-250623T140742-aarch64-Linux&download=log-event-trigger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/log-event-trigger:HEAD-ecc35c5-250623T140742-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/log-event-trigger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/log-event-trigger?tag=HEAD-ecc35c5-250623T140742-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7acea93b4182688b75dd882c65dea89325af1474b0717f76badd5c4c9a8f3a69",
+  "size": "32 MB",
+  "size_raw": "33264352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d62f55f-250620T210233-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
