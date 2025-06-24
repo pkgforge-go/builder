@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dbtune-agent",
+  "pkg_family": "dbtune-agent",
+  "pkg_id": "dbtune-agent#github.com_dbtuneai_dbtune_agent",
+  "pkg_name": "dbtune-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dbtuneai/dbtune-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-source Agent to observe and optimize your PostgreSQL database",
+  "homepage": [
+    "https://github.com/dbtuneai/dbtune-agent"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbtune-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dbtuneai/dbtune-agent/archive/c85c97966063f9e4a1d766812fbe3453c09b133b.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "postgresql"
+  ],
+  "version": "HEAD-c85c979-250624T151949",
+  "version_upstream": "v0.3.5",
+  "bsum": "2f9106ea5b3d305e4a6d168d64558430df6b1bb0fa8cc0bf15e46ee3b0dfa11c",
+  "build_date": "2025-06-24T17:19:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855850915",
+  "build_id": "15855850915",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbtuneai/dbtune-agent/dbtune-agent?tag=HEAD-c85c979-250624T151949-loongarch64-Linux&download=dbtune-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbtuneai/dbtune-agent/dbtune-agent?tag=HEAD-c85c979-250624T151949-loongarch64-Linux&download=dbtune-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dbtuneai/dbtune-agent/dbtune-agent:HEAD-c85c979-250624T151949-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dbtuneai/dbtune-agent/dbtune-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbtuneai/dbtune-agent/dbtune-agent?tag=HEAD-c85c979-250624T151949-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a9fd16974db0f3be7090f7de6b35ee4407603484c01542642368863c383b203c",
+  "size": "19 MB",
+  "size_raw": "19149248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
