@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "agent-operator",
+  "pkg_family": "telescope",
+  "pkg_id": "agent-operator#github.com_blockopsnetwork_telescope",
+  "pkg_name": "agent-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/bd1b4c9a6159cff6eda7c7aa012eb65f48295c11.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-bd1b4c9-250623T222606",
+  "version_upstream": "",
+  "bsum": "3f796793719f5ca200b3263e8bbe5fc6d150dad3b1e34f1575c345f6a83a4f5a",
+  "build_date": "2025-06-24T13:34:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851341363",
+  "build_id": "15851341363",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/agent-operator?tag=HEAD-bd1b4c9-250623T222606-loongarch64-Linux&download=agent-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/agent-operator?tag=HEAD-bd1b4c9-250623T222606-loongarch64-Linux&download=agent-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/agent-operator:HEAD-bd1b4c9-250623T222606-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/agent-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/agent-operator?tag=HEAD-bd1b4c9-250623T222606-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6821ce62190465ff4901034cb377e7ba9a23d5e33bf7d815139d1519d93046be",
+  "size": "53 MB",
+  "size_raw": "54832128",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b120d12-250623T050932-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
