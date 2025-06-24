@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "image-canonical-ref",
+  "pkg_family": "operator-lifecycle-manager",
+  "pkg_id": "image-canonical-ref#github.com_operator_framework_operator_lifecycle_manager",
+  "pkg_name": "image-canonical-ref",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-lifecycle-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A management framework for extending Kubernetes with Operators",
+  "homepage": [
+    "https://github.com/operator-framework/operator-lifecycle-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "catalog",
+    "copy-content",
+    "cpb",
+    "image-canonical-ref",
+    "kiali-image-registry",
+    "olm",
+    "package-server",
+    "split"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-lifecycle-manager/archive/3c2163e1e4510ee878c47c1b3c0da36cc5f6ad3c.tar.gz"
+  ],
+  "tag": [
+    "crd",
+    "kubernetes",
+    "kubernetes-applications",
+    "kubernetes-operator",
+    "olm"
+  ],
+  "version": "HEAD-3c2163e-250624T125110",
+  "version_upstream": "",
+  "bsum": "3f7758d3517560a835135496c233e3e6652bf5da0b4ee01083ad54c824c144f2",
+  "build_date": "2025-06-24T18:47:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857472927",
+  "build_id": "15857472927",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-lifecycle-manager/image-canonical-ref?tag=HEAD-3c2163e-250624T125110-aarch64-Linux&download=image-canonical-ref.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1786",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-lifecycle-manager/image-canonical-ref?tag=HEAD-3c2163e-250624T125110-aarch64-Linux&download=image-canonical-ref",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-lifecycle-manager/image-canonical-ref:HEAD-3c2163e-250624T125110-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-lifecycle-manager/image-canonical-ref",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-lifecycle-manager/image-canonical-ref?tag=HEAD-3c2163e-250624T125110-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d63408bc663f98925795a1331dd09a4ac70565fde6c5ab95d30bc42e15fddb1a",
+  "size": "7.3 MB",
+  "size_raw": "7629168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

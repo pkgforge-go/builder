@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kiali-image-registry",
+  "pkg_family": "operator-lifecycle-manager",
+  "pkg_id": "kiali-image-registry#github.com_operator_framework_operator_lifecycle_manager",
+  "pkg_name": "kiali-image-registry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-lifecycle-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A management framework for extending Kubernetes with Operators",
+  "homepage": [
+    "https://github.com/operator-framework/operator-lifecycle-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "catalog",
+    "copy-content",
+    "cpb",
+    "image-canonical-ref",
+    "kiali-image-registry",
+    "olm",
+    "package-server",
+    "split"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-lifecycle-manager/archive/3c2163e1e4510ee878c47c1b3c0da36cc5f6ad3c.tar.gz"
+  ],
+  "tag": [
+    "crd",
+    "kubernetes",
+    "kubernetes-applications",
+    "kubernetes-operator",
+    "olm"
+  ],
+  "version": "HEAD-3c2163e-250624T125110",
+  "version_upstream": "",
+  "bsum": "bdfc2929ace55991cddf64167eddf8644ea0e0cdc80dab6cb69f652ed94b54cf",
+  "build_date": "2025-06-24T18:47:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857472927",
+  "build_id": "15857472927",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-lifecycle-manager/kiali-image-registry?tag=HEAD-3c2163e-250624T125110-aarch64-Linux&download=kiali-image-registry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1786",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-lifecycle-manager/kiali-image-registry?tag=HEAD-3c2163e-250624T125110-aarch64-Linux&download=kiali-image-registry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-lifecycle-manager/kiali-image-registry:HEAD-3c2163e-250624T125110-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-lifecycle-manager/kiali-image-registry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-lifecycle-manager/kiali-image-registry?tag=HEAD-3c2163e-250624T125110-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08193bba7d6d80c6f8db280b60abbf0d8b14f4ba41f0f5ffe59236268171e8da",
+  "size": "32 MB",
+  "size_raw": "32826432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
