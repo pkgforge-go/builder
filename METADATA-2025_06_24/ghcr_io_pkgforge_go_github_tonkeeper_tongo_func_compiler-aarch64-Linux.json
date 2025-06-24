@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "func-compiler",
+  "pkg_family": "tongo",
+  "pkg_id": "func-compiler#github.com_tonkeeper_tongo",
+  "pkg_name": "func-compiler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tonkeeper/tongo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang SDK for from Tonkeeper team",
+  "homepage": [
+    "https://github.com/tonkeeper/tongo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boc",
+    "fragment",
+    "func-compiler",
+    "jetton",
+    "liteapi",
+    "liteclient",
+    "simple_send",
+    "test2",
+    "tl",
+    "tlb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tonkeeper/tongo/archive/4196915d6173937d260691e51e92e15a73bd59af.tar.gz"
+  ],
+  "tag": [
+    "adnl",
+    "liteserver",
+    "tl",
+    "tlb",
+    "ton",
+    "tvm"
+  ],
+  "version": "HEAD-4196915-250619T113339",
+  "version_upstream": "v1.16.9",
+  "bsum": "99728a2497dfb086f898e6a681b38042d7d485004df7bcf196ed3640ede68d56",
+  "build_date": "2025-06-24T20:01:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859625228",
+  "build_id": "15859625228",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/func-compiler?tag=HEAD-4196915-250619T113339-aarch64-Linux&download=func-compiler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "256",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/func-compiler?tag=HEAD-4196915-250619T113339-aarch64-Linux&download=func-compiler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tonkeeper/tongo/func-compiler:HEAD-4196915-250619T113339-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tonkeeper/tongo/func-compiler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonkeeper/tongo/func-compiler?tag=HEAD-4196915-250619T113339-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c56c1e6274e1f5dd2856d8a3ad17e1c8f193ecf29fcd36a41ae5342ae39af5b9",
+  "size": "5.9 MB",
+  "size_raw": "6130112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
