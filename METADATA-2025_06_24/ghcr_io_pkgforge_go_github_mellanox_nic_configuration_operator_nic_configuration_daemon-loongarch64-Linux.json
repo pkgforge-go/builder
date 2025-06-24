@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nic-configuration-daemon",
+  "pkg_family": "nic-configuration-operator",
+  "pkg_id": "nic-configuration-daemon#github.com_Mellanox_nic_configuration_operator",
+  "pkg_name": "nic-configuration-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mellanox/nic-configuration-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nvidia Networking NIC Configuration Operator For Kubernetes",
+  "homepage": [
+    "https://github.com/Mellanox/nic-configuration-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "nic-configuration-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mellanox/nic-configuration-operator/archive/5d9eecad4a9cd4fdc8d8d6fc2a840a751b904bca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5d9eeca-250624T115524",
+  "version_upstream": "",
+  "bsum": "3e525a5653395c9039f86e847da4c407e8496270b58e548c87b1e21b60d15e3b",
+  "build_date": "2025-06-24T16:31:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855434807",
+  "build_id": "15855434807",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nic-configuration-operator/nic-configuration-daemon?tag=HEAD-5d9eeca-250624T115524-loongarch64-Linux&download=nic-configuration-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nic-configuration-operator/nic-configuration-daemon?tag=HEAD-5d9eeca-250624T115524-loongarch64-Linux&download=nic-configuration-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mellanox/nic-configuration-operator/nic-configuration-daemon:HEAD-5d9eeca-250624T115524-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mellanox/nic-configuration-operator/nic-configuration-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nic-configuration-operator/nic-configuration-daemon?tag=HEAD-5d9eeca-250624T115524-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eeae1762be698709a0d2a6df57f9132fbf370701fd007b8b66c51a98bdd40b9c",
+  "size": "51 MB",
+  "size_raw": "52489184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

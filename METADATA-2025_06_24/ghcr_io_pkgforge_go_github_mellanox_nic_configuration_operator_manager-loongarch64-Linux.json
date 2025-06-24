@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "nic-configuration-operator",
+  "pkg_id": "manager#github.com_Mellanox_nic_configuration_operator",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Mellanox/nic-configuration-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nvidia Networking NIC Configuration Operator For Kubernetes",
+  "homepage": [
+    "https://github.com/Mellanox/nic-configuration-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "nic-configuration-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Mellanox/nic-configuration-operator/archive/5d9eecad4a9cd4fdc8d8d6fc2a840a751b904bca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5d9eeca-250624T115524",
+  "version_upstream": "",
+  "bsum": "c5311597033621a9f8fb8f9c3d02bb0ce8f11f1e08404ca099e50699d98c4444",
+  "build_date": "2025-06-24T16:31:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855434807",
+  "build_id": "15855434807",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nic-configuration-operator/manager?tag=HEAD-5d9eeca-250624T115524-loongarch64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nic-configuration-operator/manager?tag=HEAD-5d9eeca-250624T115524-loongarch64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mellanox/nic-configuration-operator/manager:HEAD-5d9eeca-250624T115524-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mellanox/nic-configuration-operator/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mellanox/nic-configuration-operator/manager?tag=HEAD-5d9eeca-250624T115524-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc56cb42ca2595fa96e3dda89166a10c205cd22fdf31b07c42567c02326323d0",
+  "size": "42 MB",
+  "size_raw": "43829120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
