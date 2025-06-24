@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "smrctl",
+  "pkg_family": "smr",
+  "pkg_id": "smrctl#github.com_simplecontainer_smr",
+  "pkg_name": "smrctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/simplecontainer/smr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simplecontainer manager a.k.a smr. Standalone and cluster mode, GitOps, Secrets, Reconciliation, and YAML definitions for Docker.",
+  "homepage": [
+    "https://github.com/simplecontainer/smr"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "smr",
+    "smrctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/simplecontainer/smr/archive/9357f30556706da7356f99146f3b060a73c3777a.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "containers",
+    "docker",
+    "flannel",
+    "gitops",
+    "orchestration",
+    "overlay",
+    "simplecontainer"
+  ],
+  "version": "HEAD-9357f30-250623T232142",
+  "version_upstream": "smrctl-v0.0.110",
+  "bsum": "56121c1493f25e431fb729b9dba38b04a11e9e4ce083d162513631ab71179e8e",
+  "build_date": "2025-06-24T04:29:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15841047432",
+  "build_id": "15841047432",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9357f30-250623T232142-loongarch64-Linux&download=smrctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9357f30-250623T232142-loongarch64-Linux&download=smrctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simplecontainer/smr/smrctl:HEAD-9357f30-250623T232142-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/simplecontainer/smr/smrctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9357f30-250623T232142-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76a57a58b66d8b6381581fe4f06e5fe752e44bbe9a314431eeb09e7e3ad95745",
+  "size": "36 MB",
+  "size_raw": "37185088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7ea187a-250622T123418-loongarch64-Linux[smrctl-v0.0.108]"
+  ],
+  "trusted": "true"
+}
