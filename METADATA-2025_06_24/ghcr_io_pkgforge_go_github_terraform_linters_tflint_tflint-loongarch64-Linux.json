@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tflint",
+  "pkg_family": "tflint",
+  "pkg_id": "tflint#github.com_terraform_linters_tflint",
+  "pkg_name": "tflint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terraform-linters/tflint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Pluggable Terraform Linter",
+  "homepage": [
+    "https://github.com/terraform-linters/tflint"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bar",
+    "customrulesettesting",
+    "example",
+    "foo",
+    "incompatiblehost",
+    "release",
+    "stub-generator",
+    "testing",
+    "tflint"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terraform-linters/tflint/archive/d6df52e3658b7b6a605317ad026dbb2b9530482a.tar.gz"
+  ],
+  "tag": [
+    "terraform",
+    "tflint"
+  ],
+  "version": "HEAD-d6df52e-250623T192450",
+  "version_upstream": "",
+  "bsum": "68902a30efb9e782aa993c87266ed6483ce65c29b9f0567048b6777aa6e2f690",
+  "build_date": "2025-06-24T09:58:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15846151948",
+  "build_id": "15846151948",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terraform-linters/tflint/tflint?tag=HEAD-d6df52e-250623T192450-loongarch64-Linux&download=tflint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5318",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terraform-linters/tflint/tflint?tag=HEAD-d6df52e-250623T192450-loongarch64-Linux&download=tflint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terraform-linters/tflint/tflint:HEAD-d6df52e-250623T192450-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terraform-linters/tflint/tflint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terraform-linters/tflint/tflint?tag=HEAD-d6df52e-250623T192450-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23708c5dae6f4435fb46bc56a7f9e6eeb3f0d324d5aad8ede401b99530598cc9",
+  "size": "52 MB",
+  "size_raw": "54476184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
