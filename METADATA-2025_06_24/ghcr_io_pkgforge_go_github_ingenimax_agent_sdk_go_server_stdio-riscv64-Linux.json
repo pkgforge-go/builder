@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server-stdio",
+  "pkg_family": "agent-sdk-go",
+  "pkg_id": "server-stdio#github.com_Ingenimax_agent_sdk_go",
+  "pkg_name": "server-stdio",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Ingenimax/agent-sdk-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/Ingenimax/agent-sdk-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "agent_config_yaml",
+    "agent_handoff",
+    "anthropic",
+    "client",
+    "code_orchestration",
+    "context",
+    "github_extractor",
+    "guardrails",
+    "huggingface_models",
+    "llm_orchestration",
+    "memory",
+    "openai",
+    "reasoning",
+    "retry",
+    "server-http",
+    "server-stdio",
+    "simple_agent",
+    "structured_output",
+    "tracing",
+    "vertex",
+    "weaviate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Ingenimax/agent-sdk-go/archive/a517ac4f4a2f8b63be43963cf2da2042314228d1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a517ac4-250616T204555",
+  "version_upstream": "",
+  "bsum": "0675efb6c23e56504c21f8c0e9f717e10c2ca8dab27b1375a357be17d5c11be6",
+  "build_date": "2025-06-24T07:14:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843505068",
+  "build_id": "15843505068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ingenimax/agent-sdk-go/server-stdio?tag=HEAD-a517ac4-250616T204555-riscv64-Linux&download=server-stdio.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "175",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ingenimax/agent-sdk-go/server-stdio?tag=HEAD-a517ac4-250616T204555-riscv64-Linux&download=server-stdio",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ingenimax/agent-sdk-go/server-stdio:HEAD-a517ac4-250616T204555-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ingenimax/agent-sdk-go/server-stdio",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ingenimax/agent-sdk-go/server-stdio?tag=HEAD-a517ac4-250616T204555-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f2d0dda9a30f48e62c45f582116a666c2d0683c821b96353ed5f6e38f22b197",
+  "size": "3.0 MB",
+  "size_raw": "3131240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
