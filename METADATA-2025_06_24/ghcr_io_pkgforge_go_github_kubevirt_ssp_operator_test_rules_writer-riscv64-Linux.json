@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test-rules-writer",
+  "pkg_family": "ssp-operator",
+  "pkg_id": "test-rules-writer#github.com_kubevirt_ssp_operator",
+  "pkg_name": "test-rules-writer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/ssp-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator that deploys additional KubeVirt resources",
+  "homepage": [
+    "https://github.com/kubevirt/ssp-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "ssp-operator",
+    "template-validator",
+    "test-rules-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/ssp-operator/archive/646513338c1b25a00b34b9edabdb5fc662a948e1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6465133-250623T234643",
+  "version_upstream": "",
+  "bsum": "b29647694fb8f032a0d2c8c088eec100ab72333633b19e2bb9aff7a63f058746",
+  "build_date": "2025-06-24T08:44:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844641021",
+  "build_id": "15844641021",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/test-rules-writer?tag=HEAD-6465133-250623T234643-riscv64-Linux&download=test-rules-writer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/test-rules-writer?tag=HEAD-6465133-250623T234643-riscv64-Linux&download=test-rules-writer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/test-rules-writer:HEAD-6465133-250623T234643-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/test-rules-writer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/test-rules-writer?tag=HEAD-6465133-250623T234643-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d698855c34d75f3343ad1189a102b23192c774e280078d98fd207db248336a9",
+  "size": "18 MB",
+  "size_raw": "18764632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
