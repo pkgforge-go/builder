@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "murphysec",
+  "pkg_family": "murphysec",
+  "pkg_id": "murphysec#github.com_murphysecurity_murphysec",
+  "pkg_name": "murphysec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/murphysecurity/murphysec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。",
+  "homepage": [
+    "https://github.com/murphysecurity/murphysec"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "murphysec",
+    "murphysec-ci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/murphysecurity/murphysec/archive/2858f9411330e502a1f420f3eb1d6108f1afa26b.tar.gz"
+  ],
+  "tag": [
+    "codescan",
+    "dependency",
+    "sca",
+    "scanner",
+    "security",
+    "software-composition-analysis",
+    "software-supply-chain",
+    "vulnerability-detection"
+  ],
+  "version": "HEAD-2858f94-250623T191701",
+  "version_upstream": "v3.13.9",
+  "bsum": "310ee26e9ca34fa1d1f21b153a52c78bc25bc7abb80c21ee97a0629a65dba35e",
+  "build_date": "2025-06-24T03:07:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839591508",
+  "build_id": "15839591508",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/murphysecurity/murphysec/murphysec?tag=HEAD-2858f94-250623T191701-riscv64-Linux&download=murphysec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1731",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/murphysecurity/murphysec/murphysec?tag=HEAD-2858f94-250623T191701-riscv64-Linux&download=murphysec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/murphysecurity/murphysec/murphysec:HEAD-2858f94-250623T191701-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/murphysecurity/murphysec/murphysec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/murphysecurity/murphysec/murphysec?tag=HEAD-2858f94-250623T191701-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "11372959f149882326f1372dc2bb1c285786695ce18b26bccddcf1c84de5db06",
+  "size": "24 MB",
+  "size_raw": "24912216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2d5e48b-250620T175714-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
