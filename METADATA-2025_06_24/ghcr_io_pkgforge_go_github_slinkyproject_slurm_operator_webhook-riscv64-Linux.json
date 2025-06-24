@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "slurm-operator",
+  "pkg_id": "webhook#github.com_SlinkyProject_slurm_operator",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SlinkyProject/slurm-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm on Kubernetes. A Slinky project.",
+  "homepage": [
+    "https://github.com/SlinkyProject/slurm-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SlinkyProject/slurm-operator/archive/ae08235ed5cebc46ee9ec24cf26ea99ce7f35640.tar.gz"
+  ],
+  "tag": [
+    "helm-charts",
+    "high-performance-computing",
+    "high-throughput-computing",
+    "hpc",
+    "k8s-operator",
+    "kubernetes",
+    "schedmd",
+    "slinky",
+    "slurm",
+    "slurm-workload-manager"
+  ],
+  "version": "HEAD-ae08235-250619T120126",
+  "version_upstream": "",
+  "bsum": "5437e53d97106082b6f4c6e64ba8143beca48559e100aabf8b0e09dd6974525e",
+  "build_date": "2025-06-24T07:11:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843544320",
+  "build_id": "15843544320",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-operator/webhook?tag=HEAD-ae08235-250619T120126-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "120",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-operator/webhook?tag=HEAD-ae08235-250619T120126-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slinkyproject/slurm-operator/webhook:HEAD-ae08235-250619T120126-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slinkyproject/slurm-operator/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-operator/webhook?tag=HEAD-ae08235-250619T120126-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8231e0c7125153164f79b996d58414829856b07827b1dfe805f19d2dea1c8731",
+  "size": "42 MB",
+  "size_raw": "43500152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
