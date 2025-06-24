@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "changelog",
+  "pkg_family": "image-registry",
+  "pkg_id": "changelog#github.com_openshift_image_registry",
+  "pkg_name": "changelog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/image-registry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenShift cluster image registry",
+  "homepage": [
+    "https://github.com/openshift/image-registry"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "dockerregistry",
+    "gotest2junit",
+    "import-verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/image-registry/archive/aa11fcc86eb5ce436adee7c567562dcd62f53168.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa11fcc-250624T013629",
+  "version_upstream": "",
+  "bsum": "43715f3b53ee3eff45dec14238fef89a424f127230d2c5959fd667ff6642b313",
+  "build_date": "2025-06-24T09:08:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845021038",
+  "build_id": "15845021038",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/image-registry/changelog?tag=HEAD-aa11fcc-250624T013629-x86_64-Linux&download=changelog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/image-registry/changelog?tag=HEAD-aa11fcc-250624T013629-x86_64-Linux&download=changelog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/image-registry/changelog:HEAD-aa11fcc-250624T013629-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/image-registry/changelog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/image-registry/changelog?tag=HEAD-aa11fcc-250624T013629-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1209653c732098fd2cc09f2c514ba2b40939f63b6a1517043f07682be47c2030",
+  "size": "2.3 MB",
+  "size_raw": "2329496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
