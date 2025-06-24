@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dummy",
+  "pkg_family": "remotedialer",
+  "pkg_id": "dummy#github.com_rancher_remotedialer",
+  "pkg_name": "dummy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/remotedialer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!",
+  "homepage": [
+    "https://github.com/rancher/remotedialer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "dummy",
+    "proxy",
+    "proxyclient",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/remotedialer/archive/0af8bfcdb026e7d17404463eafa6329651196b56.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0af8bfc-250624T090656",
+  "version_upstream": "",
+  "bsum": "490b1e9952422227dafe221675d0f09dc6315252fe9266f9ce47331b07c24b6a",
+  "build_date": "2025-06-24T19:19:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858425891",
+  "build_id": "15858425891",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/remotedialer/dummy?tag=HEAD-0af8bfc-250624T090656-x86_64-Linux&download=dummy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/remotedialer/dummy?tag=HEAD-0af8bfc-250624T090656-x86_64-Linux&download=dummy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/remotedialer/dummy:HEAD-0af8bfc-250624T090656-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/remotedialer/dummy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/remotedialer/dummy?tag=HEAD-0af8bfc-250624T090656-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e46471ee450f6a30bf9d69ed54fb86df901e2aa9aefc8619b93f59fa73757f90",
+  "size": "6.0 MB",
+  "size_raw": "6210720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
