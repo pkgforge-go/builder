@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pmm-managed-starlark",
+  "pkg_family": "pmm",
+  "pkg_id": "pmm-managed-starlark#github.com_percona_pmm",
+  "pkg_name": "pmm-managed-starlark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/pmm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
+  "homepage": [
+    "https://github.com/percona/pmm"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "pmm",
+    "pmm-admin",
+    "pmm-agent-entrypoint",
+    "pmm-managed",
+    "pmm-managed-init",
+    "pmm-managed-starlark",
+    "qan-api2",
+    "update",
+    "vmproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/pmm/archive/b0ed5c248c0b390c76ccf1f2970c22f6e1fe6a68.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "database-management",
+    "hacktoberfest",
+    "monitoring",
+    "monitoring-server",
+    "observability",
+    "pmm"
+  ],
+  "version": "HEAD-b0ed5c2-250623T235723",
+  "version_upstream": "",
+  "bsum": "268335e0be82840f12f97c124037e530e7179121986b9c2046aee136f7117e6b",
+  "build_date": "2025-06-24T09:22:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845510061",
+  "build_id": "15845510061",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm-managed-starlark?tag=HEAD-b0ed5c2-250623T235723-x86_64-Linux&download=pmm-managed-starlark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "790",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm-managed-starlark?tag=HEAD-b0ed5c2-250623T235723-x86_64-Linux&download=pmm-managed-starlark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/pmm/pmm-managed-starlark:HEAD-b0ed5c2-250623T235723-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/pmm/pmm-managed-starlark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm-managed-starlark?tag=HEAD-b0ed5c2-250623T235723-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "147709d184bdc4397f9a633cd8a9b69d60468bb55cb5d632f1d8ee7a16138a04",
+  "size": "26 MB",
+  "size_raw": "26319296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
