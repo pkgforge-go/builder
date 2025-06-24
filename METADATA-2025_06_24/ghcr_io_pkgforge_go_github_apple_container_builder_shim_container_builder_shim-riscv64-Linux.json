@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "container-builder-shim",
+  "pkg_family": "container-builder-shim",
+  "pkg_id": "container-builder-shim#github.com_apple_container_builder_shim",
+  "pkg_name": "container-builder-shim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apple/container-builder-shim",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shim for connecting Swift host code to BuildKit running in a container.",
+  "homepage": [
+    "https://github.com/apple/container-builder-shim"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "container-builder-shim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apple/container-builder-shim/archive/f7ea9ad1b99587fb6dea6d36698be021c4b6439b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f7ea9ad-250623T144540",
+  "version_upstream": "",
+  "bsum": "930c5434f045f4dff6fb15eeda2b9cba4171f891e3801560aad863906fc35dc0",
+  "build_date": "2025-06-24T07:28:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843558303",
+  "build_id": "15843558303",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apple/container-builder-shim/container-builder-shim?tag=HEAD-f7ea9ad-250623T144540-riscv64-Linux&download=container-builder-shim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apple/container-builder-shim/container-builder-shim?tag=HEAD-f7ea9ad-250623T144540-riscv64-Linux&download=container-builder-shim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apple/container-builder-shim/container-builder-shim:HEAD-f7ea9ad-250623T144540-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apple/container-builder-shim/container-builder-shim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apple/container-builder-shim/container-builder-shim?tag=HEAD-f7ea9ad-250623T144540-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7265ed95dc9b9c69e426e679583445fb795b81852abc1ca59c0c18ad874faaa",
+  "size": "23 MB",
+  "size_raw": "24018840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
