@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "anyproxy",
+  "pkg_id": "client#github.com_buhuipao_anyproxy",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buhuipao/anyproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Expose your local network and services to public safely",
+  "homepage": [
+    "https://github.com/buhuipao/anyproxy"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buhuipao/anyproxy/archive/b13350680961ae3fe1bf2ce37d243131e5b8ca4d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b133506-250624T163936",
+  "version_upstream": "v1.0.12",
+  "bsum": "bdb7f0c5d794f666c0ac5a32aaacd5ac036f9e0ba5bbf4a340101367992844d3",
+  "build_date": "2025-06-24T22:18:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862194498",
+  "build_id": "15862194498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buhuipao/anyproxy/client?tag=HEAD-b133506-250624T163936-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "62",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buhuipao/anyproxy/client?tag=HEAD-b133506-250624T163936-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buhuipao/anyproxy/client:HEAD-b133506-250624T163936-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buhuipao/anyproxy/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buhuipao/anyproxy/client?tag=HEAD-b133506-250624T163936-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7549c835ed0000418445c901342bb8a2c06ac60b9e9b69ee5646ab699eb987ba",
+  "size": "15 MB",
+  "size_raw": "14912160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d615ca7-250623T172414-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
