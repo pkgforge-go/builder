@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "casdoor",
+  "pkg_family": "casdoor",
+  "pkg_id": "casdoor#github.com_casdoor_casdoor",
+  "pkg_name": "casdoor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/casdoor/casdoor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open-source UI-first Identity and Access Management _IAM_ / Single-Sign-On _SSO_ platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+  "homepage": [
+    "https://github.com/casdoor/casdoor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "casdoor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/casdoor/casdoor/archive/d9b97d70bed29dc74a7ec979e306112b38d39dae.tar.gz"
+  ],
+  "tag": [
+    "auth",
+    "authentication",
+    "authn",
+    "casbin",
+    "casdoor",
+    "faceid",
+    "iam",
+    "kerberos",
+    "ldap",
+    "mfa",
+    "oauth",
+    "oidc",
+    "payment-gateway",
+    "radius",
+    "saml",
+    "scim",
+    "single-sign-on",
+    "sso",
+    "totp",
+    "webauthn"
+  ],
+  "version": "HEAD-d9b97d7-250624T095500",
+  "version_upstream": "v1.945.0",
+  "bsum": "6fe4c915c23cb0f984b2b44f2a0d4d667f81c31c9e3c4befa8abd16ff4c231df",
+  "build_date": "2025-06-24T13:40:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851348558",
+  "build_id": "15851348558",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/casdoor/casdoor/casdoor?tag=HEAD-d9b97d7-250624T095500-aarch64-Linux&download=casdoor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11759",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/casdoor/casdoor/casdoor?tag=HEAD-d9b97d7-250624T095500-aarch64-Linux&download=casdoor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/casdoor/casdoor/casdoor:HEAD-d9b97d7-250624T095500-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/casdoor/casdoor/casdoor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/casdoor/casdoor/casdoor?tag=HEAD-d9b97d7-250624T095500-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a5a33e97f1a42edece89dabb83e5c81da4e976991bcef86cca277a6403a91231",
+  "size": "73 MB",
+  "size_raw": "76086048",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ed046e5-250618T204653-aarch64-Linux[v1.941.0]",
+    "HEAD-952bd14-250621T131523-aarch64-Linux[v1.943.0]"
+  ],
+  "trusted": "true"
+}
