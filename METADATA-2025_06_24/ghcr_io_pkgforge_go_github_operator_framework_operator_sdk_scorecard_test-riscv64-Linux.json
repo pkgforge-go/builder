@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scorecard-test",
+  "pkg_family": "operator-sdk",
+  "pkg_id": "scorecard-test#github.com_operator_framework_operator_sdk",
+  "pkg_name": "scorecard-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-sdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+  "homepage": [
+    "https://github.com/operator-framework/operator-sdk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "cncf-maintainers",
+    "custom-scorecard-tests",
+    "helm-operator",
+    "samples",
+    "scorecard-test",
+    "scorecard-test-kuttl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-sdk/archive/88f7a9312bec247eba60de426d7edbe25b23275f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "operator",
+    "sdk"
+  ],
+  "version": "HEAD-88f7a93-250624T064847",
+  "version_upstream": "",
+  "bsum": "d27c4e03ac80ceeccfcfe9fca550cbf5a57b52468b8c43cab926f18a87c0ddc6",
+  "build_date": "2025-06-24T18:49:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857510671",
+  "build_id": "15857510671",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/scorecard-test?tag=HEAD-88f7a93-250624T064847-riscv64-Linux&download=scorecard-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/scorecard-test?tag=HEAD-88f7a93-250624T064847-riscv64-Linux&download=scorecard-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-sdk/scorecard-test:HEAD-88f7a93-250624T064847-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-sdk/scorecard-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/scorecard-test?tag=HEAD-88f7a93-250624T064847-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fc6d0565d8a9279b24aad9cb2f016e4c7259fc50759dbb776f0fcd8ac4585c4a",
+  "size": "49 MB",
+  "size_raw": "51134432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
