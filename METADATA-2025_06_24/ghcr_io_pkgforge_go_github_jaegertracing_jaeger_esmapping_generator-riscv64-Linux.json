@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "esmapping-generator",
+  "pkg_family": "jaeger",
+  "pkg_id": "esmapping-generator#github.com_jaegertracing_jaeger",
+  "pkg_name": "esmapping-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jaegertracing/jaeger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNCF Jaeger, a Distributed Tracing Platform",
+  "homepage": [
+    "https://github.com/jaegertracing/jaeger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "all-in-one",
+    "anonymizer",
+    "collector",
+    "crossdock",
+    "es-index-cleaner",
+    "es-rollover",
+    "esmapping-generator",
+    "hotrod",
+    "ingester",
+    "jaeger",
+    "query",
+    "remote-storage",
+    "savetracetest",
+    "tracegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jaegertracing/jaeger/archive/b86d1fdbf3d3a7d2345a1ffc415922937e1850d6.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "distributed-tracing",
+    "hacktoberfest",
+    "jaeger",
+    "observability",
+    "opentelemetry",
+    "tracing"
+  ],
+  "version": "HEAD-b86d1fd-250623T234236",
+  "version_upstream": "",
+  "bsum": "50b1d47a5119b7d0d54d48bc254a7550449564932cc5130864f9b52f2f23af7e",
+  "build_date": "2025-06-24T15:04:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851574230",
+  "build_id": "15851574230",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/esmapping-generator?tag=HEAD-b86d1fd-250623T234236-riscv64-Linux&download=esmapping-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21496",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/esmapping-generator?tag=HEAD-b86d1fd-250623T234236-riscv64-Linux&download=esmapping-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaegertracing/jaeger/esmapping-generator:HEAD-b86d1fd-250623T234236-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jaegertracing/jaeger/esmapping-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/esmapping-generator?tag=HEAD-b86d1fd-250623T234236-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2996e7e45cbca02a3f2d95fcc7d74461be48b9eae95272d35de5ff78c3eecdf5",
+  "size": "14 MB",
+  "size_raw": "14197336",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87d9b57-250618T215447-riscv64-Linux",
+    "HEAD-a5ba290-250620T202315-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
