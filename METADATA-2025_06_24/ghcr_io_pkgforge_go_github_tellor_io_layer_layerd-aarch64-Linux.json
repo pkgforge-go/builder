@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "layerd",
+  "pkg_family": "layer",
+  "pkg_id": "layerd#github.com_tellor_io_layer",
+  "pkg_name": "layerd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tellor-io/layer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tellor chain - a cosmos sdk chain for reporting and validating arbitrary data",
+  "homepage": [
+    "https://github.com/tellor-io/layer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "layerd",
+    "malicious-attestation",
+    "malicious-valset",
+    "monitors",
+    "setup",
+    "spam-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tellor-io/layer/archive/ac8b4e2037c3e9cdd02e42f253f962ca479da025.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ac8b4e2-250624T104058",
+  "version_upstream": "v5.1.0",
+  "bsum": "31801c53d6854d6eac656d4035deeea584563757e164ce266ec690ec754e2f8f",
+  "build_date": "2025-06-24T19:52:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859569464",
+  "build_id": "15859569464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/layerd?tag=HEAD-ac8b4e2-250624T104058-aarch64-Linux&download=layerd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/layerd?tag=HEAD-ac8b4e2-250624T104058-aarch64-Linux&download=layerd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tellor-io/layer/layerd:HEAD-ac8b4e2-250624T104058-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tellor-io/layer/layerd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/layerd?tag=HEAD-ac8b4e2-250624T104058-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c586fcfa3f354b91a56673a529c6e341f7ab68c04287e308edb28c174ce8c52",
+  "size": "98 MB",
+  "size_raw": "102075200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
