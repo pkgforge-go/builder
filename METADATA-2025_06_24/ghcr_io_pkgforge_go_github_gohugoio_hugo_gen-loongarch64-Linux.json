@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "hugo",
+  "pkg_id": "gen#github.com_gohugoio_hugo",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gohugoio/hugo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The world’s fastest framework for building websites.",
+  "homepage": [
+    "https://github.com/gohugoio/hugo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fork_go_templates",
+    "gen",
+    "hugo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gohugoio/hugo/archive/762417617c80f6ccd8b3d283c89d7b2406be6b23.tar.gz"
+  ],
+  "tag": [
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "go",
+    "hugo",
+    "static-site-generator"
+  ],
+  "version": "HEAD-7624176-250623T083821",
+  "version_upstream": "",
+  "bsum": "5337a1e7c3ce67eb17e4380ebc5a8f7df117ade5eb0f18779f42b4403829e48a",
+  "build_date": "2025-06-24T02:49:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839560347",
+  "build_id": "15839560347",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-7624176-250623T083821-loongarch64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81701",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-7624176-250623T083821-loongarch64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gohugoio/hugo/gen:HEAD-7624176-250623T083821-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gohugoio/hugo/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gohugoio/hugo/gen?tag=HEAD-7624176-250623T083821-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bdb95f29be53e6e508369b2d8e6956164344f7e1fc9df6df94a523209b018876",
+  "size": "10 MB",
+  "size_raw": "10474096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b6c8dfa-250617T073514-loongarch64-Linux",
+    "HEAD-6a4a3ab-250622T165543-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
