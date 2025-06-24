@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "ssp-operator",
+  "pkg_id": "hack#github.com_kubevirt_ssp_operator",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/ssp-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator that deploys additional KubeVirt resources",
+  "homepage": [
+    "https://github.com/kubevirt/ssp-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "metricsdocs",
+    "prom-metrics-collector",
+    "ssp-operator",
+    "template-validator",
+    "test-rules-writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/ssp-operator/archive/646513338c1b25a00b34b9edabdb5fc662a948e1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6465133-250623T234643",
+  "version_upstream": "",
+  "bsum": "9aa4cc1080b983b9122ece427c393293963b548995f3fe12c1d2bf39b39baf51",
+  "build_date": "2025-06-24T08:43:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844641021",
+  "build_id": "15844641021",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/hack?tag=HEAD-6465133-250623T234643-x86_64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/hack?tag=HEAD-6465133-250623T234643-x86_64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/hack:HEAD-6465133-250623T234643-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/ssp-operator/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/ssp-operator/hack?tag=HEAD-6465133-250623T234643-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f61d823a41abe78b23aa8812206216f12280ca688cc02ae955fc885a8bdfda0",
+  "size": "37 MB",
+  "size_raw": "38260992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
