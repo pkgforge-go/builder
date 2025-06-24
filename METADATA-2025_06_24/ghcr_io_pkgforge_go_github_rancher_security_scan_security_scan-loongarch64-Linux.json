@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "security-scan",
+  "pkg_family": "security-scan",
+  "pkg_id": "security-scan#github.com_rancher_security_scan",
+  "pkg_name": "security-scan",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/security-scan",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tests Kubernetes clusters for adherence to security best practices outlined in the CIS Kubernetes Benchmark using kube-bench.",
+  "homepage": [
+    "https://github.com/rancher/security-scan"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "security-scan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/security-scan/archive/08d32278a850e55cba2844d963a04d0195f1b46b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-08d3227-250624T150006",
+  "version_upstream": "",
+  "bsum": "46ea41d826df4613a2ede78fd7d0293b7d9cf56c34f43536ea9dfa560753b56b",
+  "build_date": "2025-06-24T19:17:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858445193",
+  "build_id": "15858445193",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/security-scan/security-scan?tag=HEAD-08d3227-250624T150006-loongarch64-Linux&download=security-scan.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/security-scan/security-scan?tag=HEAD-08d3227-250624T150006-loongarch64-Linux&download=security-scan",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/security-scan/security-scan:HEAD-08d3227-250624T150006-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/security-scan/security-scan",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/security-scan/security-scan?tag=HEAD-08d3227-250624T150006-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b53b6e4667df0e17e292da0ed4f22ba2f9ae55b97998e8cc15556b9357a1b562",
+  "size": "8.6 MB",
+  "size_raw": "8964832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
