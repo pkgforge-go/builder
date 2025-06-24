@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "coroot-aws-agent",
+  "pkg_family": "coroot-aws-agent",
+  "pkg_id": "coroot-aws-agent#github.com_coroot_coroot_aws_agent",
+  "pkg_name": "coroot-aws-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coroot/coroot-aws-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A prometheus exporter that gathers metrics from AWS services.",
+  "homepage": [
+    "https://github.com/coroot/coroot-aws-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coroot-aws-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coroot/coroot-aws-agent/archive/93cc23b7f23a15b6468aa0dfd2295b81968ad26f.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "postgres",
+    "prometheus",
+    "prometheus-exporter",
+    "prometheus-metrics",
+    "rds",
+    "rds-database",
+    "rds-postgres"
+  ],
+  "version": "HEAD-93cc23b-250624T170818",
+  "version_upstream": "v1.2.6",
+  "bsum": "728cf5ed86074b85fa9301746465b510c4a8a3d55b48a57d06d1dd607fcdbd28",
+  "build_date": "2025-06-24T17:15:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855847541",
+  "build_id": "15855847541",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coroot/coroot-aws-agent/coroot-aws-agent?tag=HEAD-93cc23b-250624T170818-aarch64-Linux&download=coroot-aws-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coroot/coroot-aws-agent/coroot-aws-agent?tag=HEAD-93cc23b-250624T170818-aarch64-Linux&download=coroot-aws-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coroot/coroot-aws-agent/coroot-aws-agent:HEAD-93cc23b-250624T170818-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coroot/coroot-aws-agent/coroot-aws-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coroot/coroot-aws-agent/coroot-aws-agent?tag=HEAD-93cc23b-250624T170818-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "407559f2996c495e08690ecf23924b35afed58bf872649a5655ed4d9bac0b531",
+  "size": "21 MB",
+  "size_raw": "21811776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
