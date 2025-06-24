@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "parser",
+  "pkg_family": "soci-snapshotter",
+  "pkg_id": "parser#github.com_awslabs_soci_snapshotter",
+  "pkg_name": "parser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/awslabs/soci-snapshotter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.",
+  "homepage": [
+    "https://github.com/awslabs/soci-snapshotter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "comparisontest",
+    "parser",
+    "performancetest",
+    "stargztest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/awslabs/soci-snapshotter/archive/63e5cf953dd1e5c680d81af21e2702ad84db3314.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-63e5cf9-250623T132624",
+  "version_upstream": "",
+  "bsum": "98c6ed511b3d601da769b8555ab5d9c3a8decc52e3eb8cafc0cb6da0dd01ae9e",
+  "build_date": "2025-06-24T07:41:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843565755",
+  "build_id": "15843565755",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/soci-snapshotter/parser?tag=HEAD-63e5cf9-250623T132624-aarch64-Linux&download=parser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "595",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/soci-snapshotter/parser?tag=HEAD-63e5cf9-250623T132624-aarch64-Linux&download=parser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/awslabs/soci-snapshotter/parser:HEAD-63e5cf9-250623T132624-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/awslabs/soci-snapshotter/parser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/awslabs/soci-snapshotter/parser?tag=HEAD-63e5cf9-250623T132624-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "154ea4875dc662419d9f7f96fc3f650d69bc8f35b30868c50bd542bdb0c4bd9a",
+  "size": "2.1 MB",
+  "size_raw": "2125016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
