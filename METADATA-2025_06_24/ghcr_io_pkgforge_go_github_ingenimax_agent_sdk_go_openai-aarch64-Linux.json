@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "openai",
+  "pkg_family": "agent-sdk-go",
+  "pkg_id": "openai#github.com_Ingenimax_agent_sdk_go",
+  "pkg_name": "openai",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Ingenimax/agent-sdk-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/Ingenimax/agent-sdk-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "agent_config_yaml",
+    "agent_handoff",
+    "anthropic",
+    "client",
+    "code_orchestration",
+    "context",
+    "github_extractor",
+    "guardrails",
+    "huggingface_models",
+    "llm_orchestration",
+    "memory",
+    "openai",
+    "reasoning",
+    "retry",
+    "server-http",
+    "server-stdio",
+    "simple_agent",
+    "structured_output",
+    "tracing",
+    "vertex",
+    "weaviate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Ingenimax/agent-sdk-go/archive/a517ac4f4a2f8b63be43963cf2da2042314228d1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a517ac4-250616T204555",
+  "version_upstream": "",
+  "bsum": "23db5917ebfe9b3047e74cb3f3b1d5ac3b908e0796f995c37953e1fed7e6d14b",
+  "build_date": "2025-06-24T07:17:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843505068",
+  "build_id": "15843505068",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ingenimax/agent-sdk-go/openai?tag=HEAD-a517ac4-250616T204555-aarch64-Linux&download=openai.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "175",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ingenimax/agent-sdk-go/openai?tag=HEAD-a517ac4-250616T204555-aarch64-Linux&download=openai",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ingenimax/agent-sdk-go/openai:HEAD-a517ac4-250616T204555-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ingenimax/agent-sdk-go/openai",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ingenimax/agent-sdk-go/openai?tag=HEAD-a517ac4-250616T204555-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c06464169d4eae72a8e5285d8d23a6ff8919e81b9e9e07ca00107a7714f12c6",
+  "size": "6.3 MB",
+  "size_raw": "6509056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
