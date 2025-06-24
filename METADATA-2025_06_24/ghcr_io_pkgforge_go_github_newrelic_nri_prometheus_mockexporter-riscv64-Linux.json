@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mockexporter",
+  "pkg_family": "nri-prometheus",
+  "pkg_id": "mockexporter#github.com_newrelic_nri_prometheus",
+  "pkg_name": "mockexporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fetch metrics in the Prometheus metrics inside or outside Kubernetes and send them to the New Relic Metrics platform.",
+  "homepage": [
+    "https://github.com/newrelic/nri-prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k8s-target-retriever",
+    "mockexporter",
+    "nri-prometheus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-prometheus/archive/ca0262e63a3223dc887b3ffb3de9a2ad155001ca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca0262e-250624T153139",
+  "version_upstream": "nri-prometheus-2.1.21",
+  "bsum": "a0e3a10dc2fd8f8c485e30da5a598adb84f8e417763c3c53d17583d6e73de7b7",
+  "build_date": "2025-06-24T18:28:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857297044",
+  "build_id": "15857297044",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/mockexporter?tag=HEAD-ca0262e-250624T153139-riscv64-Linux&download=mockexporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/mockexporter?tag=HEAD-ca0262e-250624T153139-riscv64-Linux&download=mockexporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-prometheus/mockexporter:HEAD-ca0262e-250624T153139-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-prometheus/mockexporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-prometheus/mockexporter?tag=HEAD-ca0262e-250624T153139-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c20561460da442198396b71ce8b2c23fbcb227700aa5e293e2a4d41e9220c94",
+  "size": "5.6 MB",
+  "size_raw": "5771704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
