@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cf_exporter",
+  "pkg_family": "cf_exporter",
+  "pkg_id": "cf_exporter#github.com_cloudfoundry_cf_exporter",
+  "pkg_name": "cf_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/cf_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry Prometheus Exporter",
+  "homepage": [
+    "https://github.com/cloudfoundry/cf_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cf_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/cf_exporter/archive/6fa91edc1f79f3792788224f0ad0b50bd4fec757.tar.gz"
+  ],
+  "tag": [
+    "cloud-foundry",
+    "metrics",
+    "prometheus"
+  ],
+  "version": "HEAD-6fa91ed-250623T200628",
+  "version_upstream": "",
+  "bsum": "2af8b02147b8d91ae098f4254cd7c56c6a5d148f403b435cdf5ea7994f74b283",
+  "build_date": "2025-06-24T07:52:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843648489",
+  "build_id": "15843648489",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cf/exporter/cf_exporter?tag=HEAD-6fa91ed-250623T200628-aarch64-Linux&download=cf_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cf/exporter/cf_exporter?tag=HEAD-6fa91ed-250623T200628-aarch64-Linux&download=cf_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cf/exporter/cf_exporter:HEAD-6fa91ed-250623T200628-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cf/exporter/cf_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cf/exporter/cf_exporter?tag=HEAD-6fa91ed-250623T200628-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bde2e8542a2d305b7d5a9e6341f9e8c2f71cede6deb2745c2b1e8e78cb422161",
+  "size": "22 MB",
+  "size_raw": "22429952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
