@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "libjfs",
+  "pkg_family": "juicefs",
+  "pkg_id": "libjfs#github.com_juicedata_juicefs",
+  "pkg_name": "libjfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juicedata/juicefs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+  "homepage": [
+    "https://github.com/juicedata/juicefs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "juicefs",
+    "libjfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juicedata/juicefs/archive/e7cd173c6b70f4b199cd72b48d4f531a432ff0a4.tar.gz"
+  ],
+  "tag": [
+    "bigdata",
+    "cloud-native",
+    "distributed-systems",
+    "filesystem",
+    "go",
+    "golang",
+    "hdfs",
+    "object-storage",
+    "posix",
+    "redis",
+    "s3",
+    "storage"
+  ],
+  "version": "HEAD-e7cd173-250623T174542",
+  "version_upstream": "",
+  "bsum": "fe8a0ae280433947f2680bb44851ce14fc265f3bf6878488e7ac9184473850f9",
+  "build_date": "2025-06-24T03:04:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839584372",
+  "build_id": "15839584372",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs/libjfs?tag=HEAD-e7cd173-250623T174542-loongarch64-Linux&download=libjfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11735",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs/libjfs?tag=HEAD-e7cd173-250623T174542-loongarch64-Linux&download=libjfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juicedata/juicefs/libjfs:HEAD-e7cd173-250623T174542-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juicedata/juicefs/libjfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs/libjfs?tag=HEAD-e7cd173-250623T174542-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "366404e6bf2e1e26ff2a540cfb367e7ad16deb580e90d231df15e2de412d1d73",
+  "size": "111 MB",
+  "size_raw": "116178760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1e33b46-250619T103003-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
