@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "boiler",
+  "pkg_family": "sindri",
+  "pkg_id": "boiler#github.com_frantjc_sindri",
+  "pkg_name": "boiler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/frantjc/sindri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Turn Steamapp servers into container images.",
+  "homepage": [
+    "https://github.com/frantjc/sindri"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boiler",
+    "kubectl-approve_steamapps",
+    "mist",
+    "stoker",
+    "valheimw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/frantjc/sindri/archive/cf4e0ad4d106a1c49309872d0dfa649052d7e603.tar.gz"
+  ],
+  "tag": [
+    "bepinex",
+    "container",
+    "container-registry",
+    "containerization",
+    "containers",
+    "corekeeper",
+    "go",
+    "golang",
+    "steam",
+    "steamcmd",
+    "thunderstore",
+    "valheim",
+    "valheim-mod"
+  ],
+  "version": "HEAD-cf4e0ad-250623T184959",
+  "version_upstream": "",
+  "bsum": "f22ba33704ff0f61c4fee5fd2bd4c21e176231854f840b0f149d18948f3de984",
+  "build_date": "2025-06-24T14:28:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851522591",
+  "build_id": "15851522591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/frantjc/sindri/boiler?tag=HEAD-cf4e0ad-250623T184959-riscv64-Linux&download=boiler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/frantjc/sindri/boiler?tag=HEAD-cf4e0ad-250623T184959-riscv64-Linux&download=boiler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/frantjc/sindri/boiler:HEAD-cf4e0ad-250623T184959-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/frantjc/sindri/boiler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/frantjc/sindri/boiler?tag=HEAD-cf4e0ad-250623T184959-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7e88715a55892462735137e11ed67d7876b6629263dda78516331d044f0483a",
+  "size": "105 MB",
+  "size_raw": "110062680",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3dfe865-250619T195429-riscv64-Linux",
+    "HEAD-29aefc5-250621T113248-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
