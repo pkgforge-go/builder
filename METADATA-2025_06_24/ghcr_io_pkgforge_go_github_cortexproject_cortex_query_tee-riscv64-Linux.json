@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "query-tee",
+  "pkg_family": "cortex",
+  "pkg_id": "query-tee#github.com_cortexproject_cortex",
+  "pkg_name": "query-tee",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cortexproject/cortex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+  "homepage": [
+    "https://github.com/cortexproject/cortex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cortexproject/cortex/archive/f9fc11c923d349614d224a6bc1cb49202657fd23.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-f9fc11c-250623T105316",
+  "version_upstream": "",
+  "bsum": "9ddca8c35d0e32a902dc5b9c1a58757aef3e512a467b895f1f7e69e6bf2bf2a4",
+  "build_date": "2025-06-24T14:02:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851488418",
+  "build_id": "15851488418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/query-tee?tag=HEAD-f9fc11c-250623T105316-riscv64-Linux&download=query-tee.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5614",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/query-tee?tag=HEAD-f9fc11c-250623T105316-riscv64-Linux&download=query-tee",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/query-tee:HEAD-f9fc11c-250623T105316-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/query-tee",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/query-tee?tag=HEAD-f9fc11c-250623T105316-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bdefcd2844c0f143216a10575f2c491266427502a0d154781ea542a7ab1beed3",
+  "size": "16 MB",
+  "size_raw": "16738360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-riscv64-Linux",
+    "HEAD-bf88f67-250621T233300-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
