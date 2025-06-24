@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "go",
+  "pkg_family": "dagger",
+  "pkg_id": "go#github.com_dagger_dagger",
+  "pkg_name": "go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dagger/dagger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+  "homepage": [
+    "https://github.com/dagger/dagger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "codegen",
+    "dagger",
+    "dialstdio",
+    "dnsname",
+    "dump-id",
+    "engine",
+    "go",
+    "init",
+    "introspect",
+    "json-schema",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dagger/dagger/archive/fd3753a7ba07e713ef353bf0dc93de2b72f807a1.tar.gz"
+  ],
+  "tag": [
+    "agents",
+    "ai",
+    "caching",
+    "ci-cd",
+    "containers",
+    "continuous-deployment",
+    "continuous-integration",
+    "dag",
+    "dagger",
+    "devops",
+    "docker",
+    "graphql",
+    "workflows"
+  ],
+  "version": "HEAD-fd3753a-250623T173132",
+  "version_upstream": "",
+  "bsum": "c9c227f8e40db6ff05310de5e156ec5342d17faad621ed8afa8ab8546d3ea4bf",
+  "build_date": "2025-06-24T14:16:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851490725",
+  "build_id": "15851490725",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/go?tag=HEAD-fd3753a-250623T173132-riscv64-Linux&download=go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14034",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/go?tag=HEAD-fd3753a-250623T173132-riscv64-Linux&download=go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dagger/dagger/go:HEAD-fd3753a-250623T173132-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dagger/dagger/go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/go?tag=HEAD-fd3753a-250623T173132-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb51d0c3a941ff4f3978ef4f753e766a032737a7da68782c31df2d4847fda7da",
+  "size": "14 MB",
+  "size_raw": "14402552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ddfde03-250619T101533-riscv64-Linux",
+    "HEAD-1870153-250619T163852-riscv64-Linux",
+    "HEAD-8f3c84f-250623T114550-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
