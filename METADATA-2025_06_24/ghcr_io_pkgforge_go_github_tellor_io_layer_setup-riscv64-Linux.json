@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "setup",
+  "pkg_family": "layer",
+  "pkg_id": "setup#github.com_tellor_io_layer",
+  "pkg_name": "setup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tellor-io/layer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "tellor chain - a cosmos sdk chain for reporting and validating arbitrary data",
+  "homepage": [
+    "https://github.com/tellor-io/layer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "layerd",
+    "malicious-attestation",
+    "malicious-valset",
+    "monitors",
+    "setup",
+    "spam-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tellor-io/layer/archive/ac8b4e2037c3e9cdd02e42f253f962ca479da025.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ac8b4e2-250624T104058",
+  "version_upstream": "v5.1.0",
+  "bsum": "8a541a760c25b63db3a15d03f1768c653a1fb36a040acc61c4b163d6d9721267",
+  "build_date": "2025-06-24T19:52:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859569464",
+  "build_id": "15859569464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/setup?tag=HEAD-ac8b4e2-250624T104058-riscv64-Linux&download=setup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/setup?tag=HEAD-ac8b4e2-250624T104058-riscv64-Linux&download=setup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tellor-io/layer/setup:HEAD-ac8b4e2-250624T104058-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tellor-io/layer/setup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tellor-io/layer/setup?tag=HEAD-ac8b4e2-250624T104058-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "565d2a5764ba6d734b8b4cd5f8e424906208c99d584bca68a51d67a931b5c109",
+  "size": "5.9 MB",
+  "size_raw": "6085880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
