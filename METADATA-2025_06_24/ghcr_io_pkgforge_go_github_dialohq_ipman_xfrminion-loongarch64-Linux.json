@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "xfrminion",
+  "pkg_family": "ipman",
+  "pkg_id": "xfrminion#github.com_dialohq_ipman",
+  "pkg_name": "xfrminion",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dialohq/ipman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing IPsec VPN connections",
+  "homepage": [
+    "https://github.com/dialohq/ipman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "restctl",
+    "vxlandlord",
+    "xfrminion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dialohq/ipman/archive/4c260131fdcb918d4159ec7a135ac714c734c2e6.tar.gz"
+  ],
+  "tag": [
+    "ipsec",
+    "ipsec-vpn",
+    "kubernetes",
+    "kubernetes-operator",
+    "strongswan",
+    "vpn"
+  ],
+  "version": "HEAD-4c26013-250623T121935",
+  "version_upstream": "",
+  "bsum": "422430137f30cdce5e9f0b6f2d2bf3840b4230a5209268566410d25a7d3eeb07",
+  "build_date": "2025-06-24T02:45:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839546355",
+  "build_id": "15839546355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/xfrminion?tag=HEAD-4c26013-250623T121935-loongarch64-Linux&download=xfrminion.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/xfrminion?tag=HEAD-4c26013-250623T121935-loongarch64-Linux&download=xfrminion",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dialohq/ipman/xfrminion:HEAD-4c26013-250623T121935-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dialohq/ipman/xfrminion",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/xfrminion?tag=HEAD-4c26013-250623T121935-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fcd38174e7edd84898580b4d36129454d73ea4451ff47168b3d6ff94d93c7c8d",
+  "size": "9.0 MB",
+  "size_raw": "9391200",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-94599cd-250619T184726-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

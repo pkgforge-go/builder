@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "ipman",
+  "pkg_id": "operator#github.com_dialohq_ipman",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dialohq/ipman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing IPsec VPN connections",
+  "homepage": [
+    "https://github.com/dialohq/ipman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "restctl",
+    "vxlandlord",
+    "xfrminion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dialohq/ipman/archive/4c260131fdcb918d4159ec7a135ac714c734c2e6.tar.gz"
+  ],
+  "tag": [
+    "ipsec",
+    "ipsec-vpn",
+    "kubernetes",
+    "kubernetes-operator",
+    "strongswan",
+    "vpn"
+  ],
+  "version": "HEAD-4c26013-250623T121935",
+  "version_upstream": "",
+  "bsum": "645dd7634e75e4f57e217c167810c2b6769cc12cceb8c201184efd8694c5dbcc",
+  "build_date": "2025-06-24T02:45:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839546355",
+  "build_id": "15839546355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/operator?tag=HEAD-4c26013-250623T121935-loongarch64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/operator?tag=HEAD-4c26013-250623T121935-loongarch64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dialohq/ipman/operator:HEAD-4c26013-250623T121935-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dialohq/ipman/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/operator?tag=HEAD-4c26013-250623T121935-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d58ca3db646af80954f29f5badd70f160e7bad29dc8ddff40a3b95b3c602510",
+  "size": "52 MB",
+  "size_raw": "54430528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-94599cd-250619T184726-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
