@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tcprtt_sockops",
+  "pkg_family": "ebpf",
+  "pkg_id": "tcprtt_sockops#github.com_cilium_ebpf",
+  "pkg_name": "tcprtt_sockops",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "uretprobe",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/3de0bd4ce1f8c537795c72de30ddb2d0c16361ab.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-3de0bd4-250624T142142",
+  "version_upstream": "",
+  "bsum": "8901e02e7268b1e555ce3d03db2e2e6273059db2fc57cd04be2d61c6c961b6c9",
+  "build_date": "2025-06-24T22:32:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862199219",
+  "build_id": "15862199219",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/tcprtt_sockops?tag=HEAD-3de0bd4-250624T142142-x86_64-Linux&download=tcprtt_sockops.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6926",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/tcprtt_sockops?tag=HEAD-3de0bd4-250624T142142-x86_64-Linux&download=tcprtt_sockops",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/tcprtt_sockops:HEAD-3de0bd4-250624T142142-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/tcprtt_sockops",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/tcprtt_sockops?tag=HEAD-3de0bd4-250624T142142-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7355d2da80461a758e96e692a5c55f58d6e568ae1a0237a6ff713a80c78b84bc",
+  "size": "3.8 MB",
+  "size_raw": "3951064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0bef90d-250619T111026-x86_64-Linux",
+    "HEAD-51ab2a4-250620T082030-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
