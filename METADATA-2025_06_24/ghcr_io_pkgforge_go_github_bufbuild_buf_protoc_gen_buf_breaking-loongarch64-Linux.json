@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-buf-breaking",
+  "pkg_family": "buf",
+  "pkg_id": "protoc-gen-buf-breaking#github.com_bufbuild_buf",
+  "pkg_name": "protoc-gen-buf-breaking",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/buf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The best way of working with Protocol Buffers.",
+  "homepage": [
+    "https://github.com/bufbuild/buf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandeps",
+    "buf",
+    "buf-digest",
+    "buf-legacyfederation-go-data",
+    "buf-new-commit-id",
+    "buf-plugin-duplicate-category",
+    "buf-plugin-duplicate-rule",
+    "buf-plugin-panic",
+    "buf-plugin-protovalidate-ext",
+    "buf-plugin-rpc-ext",
+    "buf-plugin-suffix",
+    "bufstyle",
+    "ddiff",
+    "git-ls-files-unstaged",
+    "license-header",
+    "protoc-gen-buf-breaking",
+    "protoc-gen-buf-lint",
+    "protoc-gen-insertion-point-receiver",
+    "protoc-gen-insertion-point-writer",
+    "protoc-gen-top-level-type-names-yaml",
+    "storage-go-data",
+    "wkt-go-data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/buf/archive/9706401fe76d385a6928623a1ace996d319fa262.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-9706401-250623T133734",
+  "version_upstream": "",
+  "bsum": "7ad70783abe1ef6bf6f127553ce85930d925b99e6fd24ffc15a5785e41749fb8",
+  "build_date": "2025-06-24T13:37:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851344907",
+  "build_id": "15851344907",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/protoc-gen-buf-breaking?tag=HEAD-9706401-250623T133734-loongarch64-Linux&download=protoc-gen-buf-breaking.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9987",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/protoc-gen-buf-breaking?tag=HEAD-9706401-250623T133734-loongarch64-Linux&download=protoc-gen-buf-breaking",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/buf/protoc-gen-buf-breaking:HEAD-9706401-250623T133734-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/buf/protoc-gen-buf-breaking",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/protoc-gen-buf-breaking?tag=HEAD-9706401-250623T133734-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90ec28292d32b4d5223ea2163baf27b716fa9752a78e789b0674f3c841dad765",
+  "size": "25 MB",
+  "size_raw": "25623968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-139f92e-250618T175024-loongarch64-Linux",
+    "HEAD-f280099-250623T103920-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
