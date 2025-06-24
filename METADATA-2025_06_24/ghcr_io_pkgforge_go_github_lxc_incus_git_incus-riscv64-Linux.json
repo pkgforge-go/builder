@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "incus",
+  "pkg_family": "incus",
+  "pkg_id": "incus#github.com_lxc_incus.git",
+  "pkg_name": "incus",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev_incus-client",
+    "generate-config",
+    "generate-database",
+    "incus",
+    "incus-benchmark",
+    "incus-migrate",
+    "incus-simplestreams",
+    "lxd-to-incus",
+    "mini-oidc",
+    "sysinfo",
+    "tls2jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lxc/incus.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250624T150607",
+  "version_upstream": "",
+  "bsum": "34cad7b30f78a3435924bb20cc4eeab6aa1cfc31217446d0a42e5e502c246714",
+  "build_date": "2025-06-24T15:14:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851619533",
+  "build_id": "15851619533",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus.git/incus?tag=20250624T150607-riscv64-Linux&download=incus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus.git/incus?tag=20250624T150607-riscv64-Linux&download=incus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxc/incus.git/incus:20250624T150607-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxc/incus.git/incus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus.git/incus?tag=20250624T150607-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a76779f8703ca584cf373f39366af7397a0bd95454d524d077ca0d2da62d1de5",
+  "size": "22 MB",
+  "size_raw": "22581232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
