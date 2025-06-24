@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "image-builder-migrate-db-tern",
+  "pkg_family": "image-builder-crc",
+  "pkg_id": "image-builder-migrate-db-tern#github.com_osbuild_image_builder_crc",
+  "pkg_name": "image-builder-migrate-db-tern",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/image-builder-crc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Middleware service for console.redhat.com, between osbuild/image-builder-frontend and osbuild/osbuild-composer.",
+  "homepage": [
+    "https://github.com/osbuild/image-builder-crc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "image-builder",
+    "image-builder-maintenance",
+    "image-builder-migrate-db-tern",
+    "oscap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/image-builder-crc/archive/1c8c8bbec4e8820a1cb8c7871910983162186f48.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1c8c8bb-250624T160758",
+  "version_upstream": "",
+  "bsum": "02f6cf2202451178a6890c65143ccf346bf5b26ab0d13dc3a1e451c85e5ad53a",
+  "build_date": "2025-06-24T18:44:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857556732",
+  "build_id": "15857556732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/image-builder-crc/image-builder-migrate-db-tern?tag=HEAD-1c8c8bb-250624T160758-x86_64-Linux&download=image-builder-migrate-db-tern.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/image-builder-crc/image-builder-migrate-db-tern?tag=HEAD-1c8c8bb-250624T160758-x86_64-Linux&download=image-builder-migrate-db-tern",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/image-builder-crc/image-builder-migrate-db-tern:HEAD-1c8c8bb-250624T160758-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/image-builder-crc/image-builder-migrate-db-tern",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/image-builder-crc/image-builder-migrate-db-tern?tag=HEAD-1c8c8bb-250624T160758-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "223e0d4d1af54328fec61ea58284ce430fa4a9ace4eef9d0e9da3359f0487ee0",
+  "size": "9.0 MB",
+  "size_raw": "9355712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
