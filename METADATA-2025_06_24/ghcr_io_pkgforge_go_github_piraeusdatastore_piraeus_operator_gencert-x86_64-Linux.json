@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gencert",
+  "pkg_family": "piraeus-operator",
+  "pkg_id": "gencert#github.com_piraeusdatastore_piraeus_operator",
+  "pkg_name": "gencert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piraeusdatastore/piraeus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Piraeus Operator manages LINSTOR clusters in Kubernetes.",
+  "homepage": [
+    "https://github.com/piraeusdatastore/piraeus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csvinflater",
+    "gencert",
+    "piraeus-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/piraeusdatastore/piraeus-operator/archive/bd0d8a884214e3a8d9451fa33a6646e6ce0cee9b.tar.gz"
+  ],
+  "tag": [
+    "helm-deployment",
+    "kubernetes-operator",
+    "linstor"
+  ],
+  "version": "HEAD-bd0d8a8-250624T132214",
+  "version_upstream": "",
+  "bsum": "4ebb03a941015e072a63002a7a7e0c9b351c7a55baf70af41dd588efac4de18a",
+  "build_date": "2025-06-24T19:00:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858197766",
+  "build_id": "15858197766",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/gencert?tag=HEAD-bd0d8a8-250624T132214-x86_64-Linux&download=gencert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/gencert?tag=HEAD-bd0d8a8-250624T132214-x86_64-Linux&download=gencert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piraeusdatastore/piraeus-operator/gencert:HEAD-bd0d8a8-250624T132214-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piraeusdatastore/piraeus-operator/gencert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/gencert?tag=HEAD-bd0d8a8-250624T132214-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "825d67f02849f62eb9579eb7d619395906ec8dab3ad77e79eeb740d5d7bbf9c8",
+  "size": "46 MB",
+  "size_raw": "47288224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

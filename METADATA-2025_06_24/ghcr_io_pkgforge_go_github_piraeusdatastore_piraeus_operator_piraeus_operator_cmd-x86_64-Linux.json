@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "piraeus-operator-cmd",
+  "pkg_family": "piraeus-operator",
+  "pkg_id": "piraeus-operator-cmd#github.com_piraeusdatastore_piraeus_operator",
+  "pkg_name": "piraeus-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piraeusdatastore/piraeus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Piraeus Operator manages LINSTOR clusters in Kubernetes.",
+  "homepage": [
+    "https://github.com/piraeusdatastore/piraeus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csvinflater",
+    "gencert",
+    "piraeus-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/piraeusdatastore/piraeus-operator/archive/bd0d8a884214e3a8d9451fa33a6646e6ce0cee9b.tar.gz"
+  ],
+  "tag": [
+    "helm-deployment",
+    "kubernetes-operator",
+    "linstor"
+  ],
+  "version": "HEAD-bd0d8a8-250624T132214",
+  "version_upstream": "",
+  "bsum": "e65897a500bbf7a57c31dcb2f4a760380639dcd52a74cb8ec2ae72e4f610b74a",
+  "build_date": "2025-06-24T19:00:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858197766",
+  "build_id": "15858197766",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/piraeus-operator-cmd?tag=HEAD-bd0d8a8-250624T132214-x86_64-Linux&download=piraeus-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/piraeus-operator-cmd?tag=HEAD-bd0d8a8-250624T132214-x86_64-Linux&download=piraeus-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piraeusdatastore/piraeus-operator/piraeus-operator-cmd:HEAD-bd0d8a8-250624T132214-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piraeusdatastore/piraeus-operator/piraeus-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/piraeus-operator-cmd?tag=HEAD-bd0d8a8-250624T132214-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cba58f2b5edcc4e9f3fcca65e4a2106883ee0fe1fb7c0932ae38e228d57e6c1a",
+  "size": "80 MB",
+  "size_raw": "83138336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
