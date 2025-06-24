@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "certman2",
+  "pkg_family": "cert-management",
+  "pkg_id": "certman2#github.com_gardener_cert_management",
+  "pkg_name": "certman2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/cert-management",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manages TLS certificates in Kubernetes clusters using custom resources",
+  "homepage": [
+    "https://github.com/gardener/cert-management"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cert-controller-manager",
+    "certman2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/cert-management/archive/2040d1f4b972557bae36cd1927646ad8559a4410.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2040d1f-250624T115026",
+  "version_upstream": "",
+  "bsum": "7d734533cce935effa6458e253da49ce8e4fea4043c53434d402351095bad6ea",
+  "build_date": "2025-06-24T17:33:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15856343185",
+  "build_id": "15856343185",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/cert-management/certman2?tag=HEAD-2040d1f-250624T115026-aarch64-Linux&download=certman2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/cert-management/certman2?tag=HEAD-2040d1f-250624T115026-aarch64-Linux&download=certman2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/cert-management/certman2:HEAD-2040d1f-250624T115026-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/cert-management/certman2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/cert-management/certman2?tag=HEAD-2040d1f-250624T115026-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef6e6258f13c075ce622e6c032e6f420db87b90a8fffc0b6f3588f0b132ae71d",
+  "size": "58 MB",
+  "size_raw": "60668672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
