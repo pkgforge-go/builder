@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "changelog",
+  "pkg_family": "operator-sdk",
+  "pkg_id": "changelog#github.com_operator_framework_operator_sdk",
+  "pkg_name": "changelog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/operator-framework/operator-sdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+  "homepage": [
+    "https://github.com/operator-framework/operator-sdk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "cncf-maintainers",
+    "custom-scorecard-tests",
+    "helm-operator",
+    "samples",
+    "scorecard-test",
+    "scorecard-test-kuttl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/operator-framework/operator-sdk/archive/88f7a9312bec247eba60de426d7edbe25b23275f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "operator",
+    "sdk"
+  ],
+  "version": "HEAD-88f7a93-250624T064847",
+  "version_upstream": "",
+  "bsum": "645f94025ba5dc34db5a3464b23c02f356929e0b8fc7f8fc72d9eed926582fe6",
+  "build_date": "2025-06-24T18:48:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857510671",
+  "build_id": "15857510671",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/changelog?tag=HEAD-88f7a93-250624T064847-loongarch64-Linux&download=changelog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/changelog?tag=HEAD-88f7a93-250624T064847-loongarch64-Linux&download=changelog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/operator-framework/operator-sdk/changelog:HEAD-88f7a93-250624T064847-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/operator-framework/operator-sdk/changelog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/operator-framework/operator-sdk/changelog?tag=HEAD-88f7a93-250624T064847-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31785752046091309d07276ed91fb79d0f8fcf89d440ef32ebc9d3b5bfe7d117",
+  "size": "4.0 MB",
+  "size_raw": "4123512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
