@@ -24,26 +24,16 @@
   ],
   "provides": [
     "apitypings",
-    "auditdocgen",
     "audittypegen",
-    "clidocgen",
-    "cliui",
     "cmdtest",
-    "coder",
     "dbgen",
-    "dump",
     "echoserver",
     "embedded-pg",
-    "examplegen",
     "gensite",
     "metricsdocgen",
     "migrate-ci",
-    "migrate-test",
     "postprocess",
-    "release",
-    "releasemigrations",
-    "testidp",
-    "typegen"
+    "releasemigrations"
   ],
   "note": [
     "[EXTERNAL] (This is an Official but externally maintained repository)",
@@ -52,7 +42,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/coder/coder/archive/5ed0c7abcb4623c27cef04c79eac9c6e98c9e948.tar.gz"
+    "https://github.com/coder/coder/archive/a4f1c64a9bc1ab4672f770ac6b0bfe8d48c525b1.tar.gz"
   ],
   "tag": [
     "dev-tools",
@@ -65,32 +55,33 @@
     "terraform",
     "vscode"
   ],
-  "version": "HEAD-5ed0c7a-250623T150818",
+  "version": "HEAD-a4f1c64-250624T164701",
   "version_upstream": "",
-  "bsum": "04104a910482b5bc1e809bf30fe946ac5c5badc7dc7bae46667f1a79e8be5ba1",
-  "build_date": "2025-06-24T14:08:01Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851483038",
-  "build_id": "15851483038",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-5ed0c7a-250623T150818-riscv64-Linux&download=migrate-ci.log",
+  "bsum": "bcfa0de65043d2632e93191c8527e569bff1fab7962f95a84bca7a7838ae2e98",
+  "build_date": "2025-06-24T22:51:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862264844",
+  "build_id": "15862264844",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-a4f1c64-250624T164701-riscv64-Linux&download=migrate-ci.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "10107",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-5ed0c7a-250623T150818-riscv64-Linux&download=migrate-ci",
+  "download_count": "10110",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-a4f1c64-250624T164701-riscv64-Linux&download=migrate-ci",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/migrate-ci:HEAD-5ed0c7a-250623T150818-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/migrate-ci:HEAD-a4f1c64-250624T164701-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/migrate-ci",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-5ed0c7a-250623T150818-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-a4f1c64-250624T164701-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "0b26e33e7f5e73136e8e12c0f206a7f3cd9fff11cf102301eabbf36cf018c399",
+  "shasum": "399cea4eaee156a9233b0d998fe8e2987e48805cce24a67136817e0f9d49f4ed",
   "size": "5.9 MB",
-  "size_raw": "6178840",
+  "size_raw": "6184344",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-511fd09-250619T133251-riscv64-Linux",
     "HEAD-725bc37-250621T184630-riscv64-Linux",
-    "HEAD-ba08d38-250623T135451-riscv64-Linux"
+    "HEAD-ba08d38-250623T135451-riscv64-Linux",
+    "HEAD-5ed0c7a-250623T150818-riscv64-Linux"
   ],
   "trusted": "true"
 }
