@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "convert",
+  "pkg_family": "operator-framework-operator-controller",
+  "pkg_id": "convert#github.com_openshift_operator_framework_operator_controller",
+  "pkg_name": "convert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/operator-framework-operator-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The central component of Operator Lifecycle Manager _OLM_ v1, which extends kubernetes with an API through which users can install Operators",
+  "homepage": [
+    "https://github.com/openshift/operator-framework-operator-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "convert",
+    "k8smaintainer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/operator-framework-operator-controller/archive/4f83d9d3857a22bc0cc6ebe976640cf88d85e932.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4f83d9d-250623T234029",
+  "version_upstream": "",
+  "bsum": "63192042bc1f63881babecf18d7c296043807620f369a95d0a65466e00ea9d62",
+  "build_date": "2025-06-24T09:15:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845109954",
+  "build_id": "15845109954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-operator-controller/convert?tag=HEAD-4f83d9d-250623T234029-riscv64-Linux&download=convert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-operator-controller/convert?tag=HEAD-4f83d9d-250623T234029-riscv64-Linux&download=convert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/operator-framework-operator-controller/convert:HEAD-4f83d9d-250623T234029-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/operator-framework-operator-controller/convert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-operator-controller/convert?tag=HEAD-4f83d9d-250623T234029-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e799e39d6a0a7659a0cb8ee82c4addc27bcf908b0ba0540b9993f086a3bc2a0",
+  "size": "69 MB",
+  "size_raw": "72170112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
