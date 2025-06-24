@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "audit-scanner",
+  "pkg_family": "audit-scanner",
+  "pkg_id": "audit-scanner#github.com_kubewarden_audit_scanner",
+  "pkg_name": "audit-scanner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubewarden/audit-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reports evaluation of existing Kubernetes resources with your already deployed Kubewarden policies.",
+  "homepage": [
+    "https://github.com/kubewarden/audit-scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "audit-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubewarden/audit-scanner/archive/942183fe557500e58b67316a3fbbc1f8909bdf63.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes",
+    "kubernetes-security",
+    "policy-as-code",
+    "webassembly"
+  ],
+  "version": "HEAD-942183f-250624T164704",
+  "version_upstream": "v1.26.0",
+  "bsum": "d803ff3c65ef72f5c80291e254d80ed1e715f97803bb9f47c26e7b32f10bba2e",
+  "build_date": "2025-06-24T18:07:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857141311",
+  "build_id": "15857141311",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewarden/audit-scanner/audit-scanner?tag=HEAD-942183f-250624T164704-riscv64-Linux&download=audit-scanner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewarden/audit-scanner/audit-scanner?tag=HEAD-942183f-250624T164704-riscv64-Linux&download=audit-scanner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubewarden/audit-scanner/audit-scanner:HEAD-942183f-250624T164704-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubewarden/audit-scanner/audit-scanner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubewarden/audit-scanner/audit-scanner?tag=HEAD-942183f-250624T164704-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d27bd3f81ca52ffbca95cc7097bd0a8fd08a3959bb3efb5b40bc3e50620fff6b",
+  "size": "57 MB",
+  "size_raw": "58927544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
