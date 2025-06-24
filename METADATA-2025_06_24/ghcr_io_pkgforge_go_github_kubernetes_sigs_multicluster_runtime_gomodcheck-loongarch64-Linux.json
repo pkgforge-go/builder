@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gomodcheck",
+  "pkg_family": "multicluster-runtime",
+  "pkg_id": "gomodcheck#github.com_kubernetes_sigs_multicluster_runtime",
+  "pkg_name": "gomodcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/multicluster-runtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Experiment for Multi cluster controllers with controller-runtime",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/multicluster-runtime"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gomodcheck",
+    "namespace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/multicluster-runtime/archive/24b5565d51c47f6f17fc796ae3e5c36f680760f7.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "controller",
+    "controller-runtime",
+    "kcp",
+    "kubernetes",
+    "reconciler"
+  ],
+  "version": "HEAD-24b5565-250624T024428",
+  "version_upstream": "",
+  "bsum": "1bc77b5c5076df62b5c20b489a6e74cc5b0ecbabe9d3cae9541b459e1231254a",
+  "build_date": "2025-06-24T18:00:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857110244",
+  "build_id": "15857110244",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/gomodcheck?tag=HEAD-24b5565-250624T024428-loongarch64-Linux&download=gomodcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/gomodcheck?tag=HEAD-24b5565-250624T024428-loongarch64-Linux&download=gomodcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/gomodcheck:HEAD-24b5565-250624T024428-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/gomodcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/multicluster-runtime/gomodcheck?tag=HEAD-24b5565-250624T024428-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "01f49448d99fa2b2ef21ab3f470b3062c3cc286f9d51795dfc4049af2aab29c8",
+  "size": "5.0 MB",
+  "size_raw": "5231776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
