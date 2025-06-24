@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "engine",
+  "pkg_family": "dagger",
+  "pkg_id": "engine#github.com_dagger_dagger",
+  "pkg_name": "engine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dagger/dagger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+  "homepage": [
+    "https://github.com/dagger/dagger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "codegen",
+    "dagger",
+    "dialstdio",
+    "dnsname",
+    "dump-id",
+    "engine",
+    "go",
+    "introspect",
+    "json-schema",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dagger/dagger/archive/fd3753a7ba07e713ef353bf0dc93de2b72f807a1.tar.gz"
+  ],
+  "tag": [
+    "agents",
+    "ai",
+    "caching",
+    "ci-cd",
+    "containers",
+    "continuous-deployment",
+    "continuous-integration",
+    "dag",
+    "dagger",
+    "devops",
+    "docker",
+    "graphql",
+    "workflows"
+  ],
+  "version": "HEAD-fd3753a-250623T173132",
+  "version_upstream": "",
+  "bsum": "b740a0667b76c9e23eba37e902fe00a974b89fe6959d59a8d2aa5e0cde6082e4",
+  "build_date": "2025-06-24T14:14:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851490725",
+  "build_id": "15851490725",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/engine?tag=HEAD-fd3753a-250623T173132-loongarch64-Linux&download=engine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14034",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/engine?tag=HEAD-fd3753a-250623T173132-loongarch64-Linux&download=engine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dagger/dagger/engine:HEAD-fd3753a-250623T173132-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dagger/dagger/engine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/engine?tag=HEAD-fd3753a-250623T173132-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd1afe977ff2c1cb9a3be2b8b7830f40419060f6ffc8ab3338375002292ad39d",
+  "size": "94 MB",
+  "size_raw": "98187664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ddfde03-250619T101533-loongarch64-Linux",
+    "HEAD-1870153-250619T163852-loongarch64-Linux",
+    "HEAD-8f3c84f-250623T114550-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

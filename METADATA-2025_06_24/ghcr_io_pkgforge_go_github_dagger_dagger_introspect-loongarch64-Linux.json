@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "introspect",
+  "pkg_family": "dagger",
+  "pkg_id": "introspect#github.com_dagger_dagger",
+  "pkg_name": "introspect",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dagger/dagger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+  "homepage": [
+    "https://github.com/dagger/dagger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "codegen",
+    "dagger",
+    "dialstdio",
+    "dnsname",
+    "dump-id",
+    "engine",
+    "go",
+    "introspect",
+    "json-schema",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dagger/dagger/archive/fd3753a7ba07e713ef353bf0dc93de2b72f807a1.tar.gz"
+  ],
+  "tag": [
+    "agents",
+    "ai",
+    "caching",
+    "ci-cd",
+    "containers",
+    "continuous-deployment",
+    "continuous-integration",
+    "dag",
+    "dagger",
+    "devops",
+    "docker",
+    "graphql",
+    "workflows"
+  ],
+  "version": "HEAD-fd3753a-250623T173132",
+  "version_upstream": "",
+  "bsum": "56721bd49915321cd70f6322e5d62aa23d9f3e76376d912fcd4da2b9076b3982",
+  "build_date": "2025-06-24T14:13:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851490725",
+  "build_id": "15851490725",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/introspect?tag=HEAD-fd3753a-250623T173132-loongarch64-Linux&download=introspect.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14034",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/introspect?tag=HEAD-fd3753a-250623T173132-loongarch64-Linux&download=introspect",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dagger/dagger/introspect:HEAD-fd3753a-250623T173132-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dagger/dagger/introspect",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dagger/dagger/introspect?tag=HEAD-fd3753a-250623T173132-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46b026c0a471e7fcb85c7ca03bc7eb8b3e9df6585889903c1300a9ed126ed70c",
+  "size": "71 MB",
+  "size_raw": "74316144",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ddfde03-250619T101533-loongarch64-Linux",
+    "HEAD-1870153-250619T163852-loongarch64-Linux",
+    "HEAD-8f3c84f-250623T114550-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
