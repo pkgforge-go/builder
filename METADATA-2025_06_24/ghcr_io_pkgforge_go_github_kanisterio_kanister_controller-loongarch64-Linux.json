@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "kanister",
+  "pkg_id": "controller#github.com_kanisterio_kanister",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/53318cb1e7262db92f42fab653309da0a48a84bd.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-53318cb-250624T122717",
+  "version_upstream": "",
+  "bsum": "f6cd49f264398dd2ed6e5d29c5609977524209b58ea1ffda37b88ec4271ad6b5",
+  "build_date": "2025-06-24T23:26:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862353175",
+  "build_id": "15862353175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-53318cb-250624T122717-loongarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-53318cb-250624T122717-loongarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/controller:HEAD-53318cb-250624T122717-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-53318cb-250624T122717-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6acdd3eb71f41ab5c0114270fd2e9cccb0fdb35bf7ee3d6726f71f5950e85677",
+  "size": "168 MB",
+  "size_raw": "176076704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ccab82b-250619T170847-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
