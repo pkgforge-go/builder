@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "collect-service-metrics",
+  "pkg_family": "on-demand-service-broker",
+  "pkg_id": "collect-service-metrics#github.com_pivotal_cf_on_demand_service_broker",
+  "pkg_name": "collect-service-metrics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pivotal-cf/on-demand-service-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "On-Demand Service Broker _ODB_ golang SDK for easily creating brokers that provision instances via BOSH",
+  "homepage": [
+    "https://github.com/pivotal-cf/on-demand-service-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter",
+    "broker-post-start",
+    "collect-service-metrics",
+    "delete-all-service-instances",
+    "delete-all-service-instances-and-deregister-broker",
+    "deregister-broker",
+    "on-demand-service-broker",
+    "orphan-deployments",
+    "recreate-all-service-instances",
+    "register-broker",
+    "upgrade-all-service-instances"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pivotal-cf/on-demand-service-broker/archive/02886cce281b2ccee2858bf9569e381f78a802bd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-02886cc-250623T180945",
+  "version_upstream": "",
+  "bsum": "b3cc3606b09a33bb46c2d6b14eec7e336eac5e619e0404d4d0df153d95205139",
+  "build_date": "2025-06-24T09:26:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845526811",
+  "build_id": "15845526811",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal-cf/on-demand-service-broker/collect-service-metrics?tag=HEAD-02886cc-250623T180945-x86_64-Linux&download=collect-service-metrics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal-cf/on-demand-service-broker/collect-service-metrics?tag=HEAD-02886cc-250623T180945-x86_64-Linux&download=collect-service-metrics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pivotal-cf/on-demand-service-broker/collect-service-metrics:HEAD-02886cc-250623T180945-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pivotal-cf/on-demand-service-broker/collect-service-metrics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal-cf/on-demand-service-broker/collect-service-metrics?tag=HEAD-02886cc-250623T180945-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f8b86a777d8a7cdc967119521b99e36238626a3f71c325a6c95dd819b089565",
+  "size": "6.0 MB",
+  "size_raw": "6243296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
