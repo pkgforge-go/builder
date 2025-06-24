@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "windows",
+  "pkg_family": "crc",
+  "pkg_id": "windows#github.com_crc_org_crc",
+  "pkg_name": "windows",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/crc-org/crc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRC is a tool to help you run containers. It manages local VMs to run a OpenShift 4.x cluster, Microshift or Podman optimized for testing and development purposes",
+  "homepage": [
+    "https://github.com/crc-org/crc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "windows"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/crc-org/crc/archive/e267724e330993c3277889611dffab69f2e4715d.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "development-tools",
+    "openshift",
+    "openshift-cluster",
+    "openshift-deployment",
+    "podman",
+    "single-node-cluster",
+    "testing-and-development",
+    "virtualization"
+  ],
+  "version": "HEAD-e267724-250624T172850",
+  "version_upstream": "",
+  "bsum": "fe655209e208a059452ba59159ebbc3a920b1df07d57e6fa7a3093c6f3b432e8",
+  "build_date": "2025-06-24T17:19:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855849523",
+  "build_id": "15855849523",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crc-org/crc/windows?tag=HEAD-e267724-250624T172850-loongarch64-Linux&download=windows.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1327",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crc-org/crc/windows?tag=HEAD-e267724-250624T172850-loongarch64-Linux&download=windows",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/crc-org/crc/windows:HEAD-e267724-250624T172850-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/crc-org/crc/windows",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crc-org/crc/windows?tag=HEAD-e267724-250624T172850-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff74f668bdd890cea03dfb4ece481167c116326661d726ca4678fc13466d9ba6",
+  "size": "2.8 MB",
+  "size_raw": "2908696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
