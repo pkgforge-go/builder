@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "release-controller-api",
+  "pkg_family": "release-controller",
+  "pkg_id": "release-controller-api#github.com_openshift_release_controller",
+  "pkg_name": "release-controller-api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/release-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The release controller assembles OpenShift releases from CI inputs",
+  "homepage": [
+    "https://github.com/openshift/release-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "release-controller",
+    "release-controller-api",
+    "release-mirror-cleanup-controller",
+    "release-payload-controller",
+    "release-reimport-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/release-controller/archive/aa4e059d0e7dfb5654a6ccdef5745418dc66e1bc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa4e059-250623T185927",
+  "version_upstream": "",
+  "bsum": "8a8c5ed2d84aa656d1514695960eb2fd7f0d074004e06560983c7010761fa390",
+  "build_date": "2025-06-24T09:18:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15845110276",
+  "build_id": "15845110276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/release-controller/release-controller-api?tag=HEAD-aa4e059-250623T185927-x86_64-Linux&download=release-controller-api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/release-controller/release-controller-api?tag=HEAD-aa4e059-250623T185927-x86_64-Linux&download=release-controller-api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/release-controller/release-controller-api:HEAD-aa4e059-250623T185927-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/release-controller/release-controller-api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/release-controller/release-controller-api?tag=HEAD-aa4e059-250623T185927-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "310cc83eae84c080e5e67412d194f09d949b770a898e3f898c2c0e27351610a2",
+  "size": "74 MB",
+  "size_raw": "77398960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
