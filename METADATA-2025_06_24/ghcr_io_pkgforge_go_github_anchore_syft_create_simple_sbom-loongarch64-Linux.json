@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "create_simple_sbom",
+  "pkg_family": "syft",
+  "pkg_id": "create_simple_sbom#github.com_anchore_syft",
+  "pkg_name": "create_simple_sbom",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/syft",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+  "homepage": [
+    "https://github.com/anchore/syft"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create_custom_sbom",
+    "create_simple_sbom",
+    "decode_sbom",
+    "generate",
+    "index-generator",
+    "jsonschema",
+    "manager",
+    "select_catalogers",
+    "source_detection",
+    "source_from_image",
+    "source_from_registry",
+    "syft"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anchore/syft/archive/4eb8ba457570f7ed6659d03577564ee2ad0aae6e.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "cyclonedx",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "oci",
+    "sbom",
+    "spdx",
+    "static-analysis",
+    "tool"
+  ],
+  "version": "HEAD-4eb8ba4-250623T113019",
+  "version_upstream": "",
+  "bsum": "d842600a5ac1fa88d524a3478b2cb856bdba4ea7bd623acddbb421f9921b7fdc",
+  "build_date": "2025-06-24T13:32:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15851341078",
+  "build_id": "15851341078",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/syft/create_simple_sbom?tag=HEAD-4eb8ba4-250623T113019-loongarch64-Linux&download=create_simple_sbom.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7228",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/syft/create_simple_sbom?tag=HEAD-4eb8ba4-250623T113019-loongarch64-Linux&download=create_simple_sbom",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/syft/create_simple_sbom:HEAD-4eb8ba4-250623T113019-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/syft/create_simple_sbom",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/syft/create_simple_sbom?tag=HEAD-4eb8ba4-250623T113019-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e226d33135d17bf4739837eefa7b64e6a2da3a92d83d57e012848dbca8413f7",
+  "size": "43 MB",
+  "size_raw": "44275928",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d9eb1d7-250617T113522-loongarch64-Linux",
+    "HEAD-4911535-250619T140203-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
