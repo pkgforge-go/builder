@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "hydra",
+  "pkg_id": "test#github.com_ory_hydra",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/hydra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",
+  "homepage": [
+    "https://github.com/ory/hydra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clidoc",
+    "hydra",
+    "mock-cb",
+    "mock-client",
+    "mock-lcp",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/hydra/archive/d9ea5496d81c6218abfc407d7b0849ff03a41915.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "cloud",
+    "docker",
+    "federation",
+    "hacktoberfest",
+    "hydra",
+    "identity",
+    "oauth",
+    "oauth-provider",
+    "oauth2",
+    "oauth2-provider",
+    "oauth2-server",
+    "oidc",
+    "openid",
+    "openid-connect",
+    "openid-connect-provider",
+    "openid-provider",
+    "security",
+    "server",
+    "sso"
+  ],
+  "version": "HEAD-d9ea549-250624T105940",
+  "version_upstream": "",
+  "bsum": "b2f818a89299a12fbe85308a6b24f7c381cba6846b1b1bd97ebd76772171da28",
+  "build_date": "2025-06-24T23:55:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862430446",
+  "build_id": "15862430446",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/test?tag=HEAD-d9ea549-250624T105940-aarch64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16292",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/test?tag=HEAD-d9ea549-250624T105940-aarch64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/hydra/test:HEAD-d9ea549-250624T105940-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/hydra/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/test?tag=HEAD-d9ea549-250624T105940-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90297e1cf22e2fb9c5354c3d7b2a4493cf8522f9cf073c100606810e3fbb8384",
+  "size": "30 MB",
+  "size_raw": "30654208",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a0a9062-250620T113805-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
