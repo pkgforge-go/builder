@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cluster-kube-descheduler-operator",
+  "pkg_family": "cluster-kube-descheduler-operator",
+  "pkg_id": "cluster-kube-descheduler-operator#github.com_openshift_cluster_kube_descheduler_operator",
+  "pkg_name": "cluster-kube-descheduler-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-kube-descheduler-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operator to run descheduler on OpenShift.",
+  "homepage": [
+    "https://github.com/openshift/cluster-kube-descheduler-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-kube-descheduler-operator",
+    "soft-tainter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-kube-descheduler-operator/archive/e004166de4a72c0ee567864d2e2dbf8315d5bbcc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e004166-250624T154953",
+  "version_upstream": "",
+  "bsum": "02c66d7d47496a6f1f0a8a3b6edfdac791275fed58bf76e72b62f7ee13be13e6",
+  "build_date": "2025-06-24T18:38:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857341742",
+  "build_id": "15857341742",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-kube-descheduler-operator/cluster-kube-descheduler-operator?tag=HEAD-e004166-250624T154953-aarch64-Linux&download=cluster-kube-descheduler-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-kube-descheduler-operator/cluster-kube-descheduler-operator?tag=HEAD-e004166-250624T154953-aarch64-Linux&download=cluster-kube-descheduler-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-kube-descheduler-operator/cluster-kube-descheduler-operator:HEAD-e004166-250624T154953-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-kube-descheduler-operator/cluster-kube-descheduler-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-kube-descheduler-operator/cluster-kube-descheduler-operator?tag=HEAD-e004166-250624T154953-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "35bc2986f1412f754ba0985cc96fb6a3f4bdc2d574aecbb110accfe150097041",
+  "size": "82 MB",
+  "size_raw": "85202464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
