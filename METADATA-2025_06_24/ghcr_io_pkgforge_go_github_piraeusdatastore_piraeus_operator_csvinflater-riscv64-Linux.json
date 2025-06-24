@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "csvinflater",
+  "pkg_family": "piraeus-operator",
+  "pkg_id": "csvinflater#github.com_piraeusdatastore_piraeus_operator",
+  "pkg_name": "csvinflater",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piraeusdatastore/piraeus-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Piraeus Operator manages LINSTOR clusters in Kubernetes.",
+  "homepage": [
+    "https://github.com/piraeusdatastore/piraeus-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csvinflater",
+    "gencert",
+    "piraeus-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/piraeusdatastore/piraeus-operator/archive/bd0d8a884214e3a8d9451fa33a6646e6ce0cee9b.tar.gz"
+  ],
+  "tag": [
+    "helm-deployment",
+    "kubernetes-operator",
+    "linstor"
+  ],
+  "version": "HEAD-bd0d8a8-250624T132214",
+  "version_upstream": "",
+  "bsum": "108558c3b167da7deafd08f87ee77aa885d9f4b0337f0d1a3bddd7ad5fdd941f",
+  "build_date": "2025-06-24T19:01:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15858197766",
+  "build_id": "15858197766",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/csvinflater?tag=HEAD-bd0d8a8-250624T132214-riscv64-Linux&download=csvinflater.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/csvinflater?tag=HEAD-bd0d8a8-250624T132214-riscv64-Linux&download=csvinflater",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piraeusdatastore/piraeus-operator/csvinflater:HEAD-bd0d8a8-250624T132214-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piraeusdatastore/piraeus-operator/csvinflater",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piraeusdatastore/piraeus-operator/csvinflater?tag=HEAD-bd0d8a8-250624T132214-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c998fc9f407dce52fe008b624c322440e1ce597c2f144187ba27dd3b9d2c782f",
+  "size": "47 MB",
+  "size_raw": "49086264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
