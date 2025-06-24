@@ -39,7 +39,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/leptonai/gpud/archive/8763bf2090748091dd99ded02027938e5104b274.tar.gz"
+    "https://github.com/leptonai/gpud/archive/df111c084a67197ece04dc9b04e12602582d4bef.tar.gz"
   ],
   "tag": [
     "gpu",
@@ -48,28 +48,30 @@
     "nvidia",
     "nvidia-gpu"
   ],
-  "version": "HEAD-8763bf2-250624T100544",
-  "version_upstream": "v0.5.0",
+  "version": "HEAD-df111c0-250624T221601",
+  "version_upstream": "",
   "bsum": "ee535390bf581e142a5a253781bc4e55997c6a86c79664dc5dee81aeeac5642d",
-  "build_date": "2025-06-24T08:42:00Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844644724",
-  "build_id": "15844644724",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-8763bf2-250624T100544-loongarch64-Linux&download=sync.log",
+  "build_date": "2025-06-24T23:35:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862360348",
+  "build_id": "15862360348",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-df111c0-250624T221601-loongarch64-Linux&download=sync.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "377",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-8763bf2-250624T100544-loongarch64-Linux&download=sync",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-df111c0-250624T221601-loongarch64-Linux&download=sync",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leptonai/gpud/sync:HEAD-8763bf2-250624T100544-loongarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leptonai/gpud/sync:HEAD-df111c0-250624T221601-loongarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/leptonai/gpud/sync",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-8763bf2-250624T100544-loongarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/sync?tag=HEAD-df111c0-250624T221601-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "70754a2e847b9063783a2c4d1deb3c181c0a3bf3ae998360ce1fb7a6ce3db11f",
   "size": "6.0 MB",
   "size_raw": "6276096",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "HEAD-8763bf2-250624T100544-loongarch64-Linux[v0.5.0]"
+  ],
   "trusted": "true"
 }
