@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "plugin",
+  "pkg_family": "tau",
+  "pkg_id": "plugin#github.com_taubyte_tau",
+  "pkg_name": "plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/taubyte/tau",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source distributed Platform as a Service _PaaS_. A self-hosted Vercel / Netlify / Cloudflare alternative.",
+  "homepage": [
+    "https://github.com/taubyte/tau"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "generate",
+    "handler",
+    "hello_world",
+    "plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/taubyte/tau/archive/ec4d57f4e5d14e3a316dcd86d959c38329d59262.tar.gz"
+  ],
+  "tag": [
+    "5g",
+    "ai",
+    "cdn",
+    "cloud-computing",
+    "cloud-native",
+    "distributed-systems",
+    "p2p",
+    "paas",
+    "serverless",
+    "webassembly"
+  ],
+  "version": "HEAD-ec4d57f-250623T035224",
+  "version_upstream": "",
+  "bsum": "13e624e0beeb60c92f3a92ad29565d5be6f288eff6718ad5675aebf0cc4acb9e",
+  "build_date": "2025-06-24T03:47:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839867851",
+  "build_id": "15839867851",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taubyte/tau/plugin?tag=HEAD-ec4d57f-250623T035224-loongarch64-Linux&download=plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4027",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taubyte/tau/plugin?tag=HEAD-ec4d57f-250623T035224-loongarch64-Linux&download=plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/taubyte/tau/plugin:HEAD-ec4d57f-250623T035224-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/taubyte/tau/plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/taubyte/tau/plugin?tag=HEAD-ec4d57f-250623T035224-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47b76ba3d86b6f01ea427a58dd335816fd1889d2c7973a9906d75beaca4570a0",
+  "size": "13 MB",
+  "size_raw": "13543872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-58728d7-250501T102545-loongarch64-Linux[v1.1.8]"
+  ],
+  "trusted": "true"
+}
