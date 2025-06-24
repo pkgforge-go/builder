@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "backup-restore-sidecar-cmd",
+  "pkg_family": "backup-restore-sidecar",
+  "pkg_id": "backup-restore-sidecar-cmd#github.com_metal_stack_backup_restore_sidecar",
+  "pkg_name": "backup-restore-sidecar-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metal-stack/backup-restore-sidecar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s sidecar for database auto-backup and -recovery",
+  "homepage": [
+    "https://github.com/metal-stack/backup-restore-sidecar"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backup-restore-sidecar-cmd",
+    "examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metal-stack/backup-restore-sidecar/archive/5e1e9fffac041df5c5cea9568cb72c9035cf4c0e.tar.gz"
+  ],
+  "tag": [
+    "k8s-sidecar"
+  ],
+  "version": "HEAD-5e1e9ff-250624T161909",
+  "version_upstream": "v0.12.0",
+  "bsum": "699622e0bc6c344aed4b50d1928b80935973afaf2a800404fb78b608ddee8492",
+  "build_date": "2025-06-24T18:21:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857192694",
+  "build_id": "15857192694",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/backup-restore-sidecar/backup-restore-sidecar-cmd?tag=HEAD-5e1e9ff-250624T161909-x86_64-Linux&download=backup-restore-sidecar-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/backup-restore-sidecar/backup-restore-sidecar-cmd?tag=HEAD-5e1e9ff-250624T161909-x86_64-Linux&download=backup-restore-sidecar-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metal-stack/backup-restore-sidecar/backup-restore-sidecar-cmd:HEAD-5e1e9ff-250624T161909-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metal-stack/backup-restore-sidecar/backup-restore-sidecar-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/backup-restore-sidecar/backup-restore-sidecar-cmd?tag=HEAD-5e1e9ff-250624T161909-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ab0ee0fdef32f5334c7ef718e13f3c6ed3efb7a22d3fa40487ce6432f623164",
+  "size": "54 MB",
+  "size_raw": "56187808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
