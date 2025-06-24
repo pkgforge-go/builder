@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "arvancloud-certmanager-issuer",
+  "pkg_family": "arvancloud-certmanager-issuer",
+  "pkg_id": "arvancloud-certmanager-issuer#github.com_ParminCloud_arvancloud_certmanager_issuer",
+  "pkg_name": "arvancloud-certmanager-issuer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ParminCloud/arvancloud-certmanager-issuer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cert-manager ACME DNS01 solver webhook for ArvanCloud",
+  "homepage": [
+    "https://github.com/ParminCloud/arvancloud-certmanager-issuer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arvancloud-certmanager-issuer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ParminCloud/arvancloud-certmanager-issuer/archive/47006820505c09845049b6723982205e3d96fe34.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "arvancloud",
+    "cert-manager",
+    "cert-manager-webhook",
+    "letsencrypt"
+  ],
+  "version": "HEAD-4700682-250624T114552",
+  "version_upstream": "",
+  "bsum": "efcce55e3f9c994178dee4260462809732bfdcdf64f8d7d133cda87a689aa485",
+  "build_date": "2025-06-24T16:38:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15855456106",
+  "build_id": "15855456106",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/parmincloud/arvancloud-certmanager-issuer/arvancloud-certmanager-issuer?tag=HEAD-4700682-250624T114552-riscv64-Linux&download=arvancloud-certmanager-issuer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/parmincloud/arvancloud-certmanager-issuer/arvancloud-certmanager-issuer?tag=HEAD-4700682-250624T114552-riscv64-Linux&download=arvancloud-certmanager-issuer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/parmincloud/arvancloud-certmanager-issuer/arvancloud-certmanager-issuer:HEAD-4700682-250624T114552-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/parmincloud/arvancloud-certmanager-issuer/arvancloud-certmanager-issuer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/parmincloud/arvancloud-certmanager-issuer/arvancloud-certmanager-issuer?tag=HEAD-4700682-250624T114552-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "711693995a7b6098f16eb477f5b6ffa0f1e9fd2e2a9429e7bc0ad43b83965daa",
+  "size": "72 MB",
+  "size_raw": "74619992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
