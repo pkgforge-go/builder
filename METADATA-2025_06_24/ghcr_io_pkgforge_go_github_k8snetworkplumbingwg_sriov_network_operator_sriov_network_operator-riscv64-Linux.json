@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sriov-network-operator",
+  "pkg_family": "sriov-network-operator",
+  "pkg_id": "sriov-network-operator#github.com_k8snetworkplumbingwg_sriov_network_operator",
+  "pkg_name": "sriov-network-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/k8snetworkplumbingwg/sriov-network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for provisioning and configuring SR-IOV CNI plugin and device plugin",
+  "homepage": [
+    "https://github.com/k8snetworkplumbingwg/sriov-network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sriov-network-config-daemon",
+    "sriov-network-operator",
+    "sriov-network-operator-config-cleanup",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/k8snetworkplumbingwg/sriov-network-operator/archive/4ae810cd59dcf5b6fa74faf77d26f461b98cafa6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4ae810c-250624T144808",
+  "version_upstream": "",
+  "bsum": "9858207e6bcfa2ed48f4ce4a8f3865fe145d74c0b2916e0bd0371d028b024fd2",
+  "build_date": "2025-06-24T17:55:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15857073294",
+  "build_id": "15857073294",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8snetworkplumbingwg/sriov-network-operator/sriov-network-operator?tag=HEAD-4ae810c-250624T144808-riscv64-Linux&download=sriov-network-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8snetworkplumbingwg/sriov-network-operator/sriov-network-operator?tag=HEAD-4ae810c-250624T144808-riscv64-Linux&download=sriov-network-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k8snetworkplumbingwg/sriov-network-operator/sriov-network-operator:HEAD-4ae810c-250624T144808-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k8snetworkplumbingwg/sriov-network-operator/sriov-network-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8snetworkplumbingwg/sriov-network-operator/sriov-network-operator?tag=HEAD-4ae810c-250624T144808-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff08c3ffca3e289b15eef012ac78cc284535f460b73af678ed273d04c0ba913b",
+  "size": "94 MB",
+  "size_raw": "97521752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
