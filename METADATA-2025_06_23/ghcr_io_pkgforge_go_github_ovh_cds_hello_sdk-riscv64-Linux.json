@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hello-sdk",
+  "pkg_family": "cds",
+  "pkg_id": "hello-sdk#github.com_ovh_cds",
+  "pkg_name": "hello-sdk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ovh/cds",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-Grade Continuous Delivery _ DevOps Automation Open Source Platform",
+  "homepage": [
+    "https://github.com/ovh/cds"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrunresult",
+    "arsenal-deployment-plugin",
+    "artifactorypromote",
+    "artifactoryrelease",
+    "cache",
+    "cacherestore",
+    "cachesave",
+    "checkout",
+    "debianpush",
+    "debpacker",
+    "deployarsenal",
+    "dockerpush",
+    "downloadartifact",
+    "engine",
+    "example",
+    "hello-deployment-plugin",
+    "hello-sdk",
+    "helmpush",
+    "itscwrkflw15",
+    "junit",
+    "keyinstall",
+    "plugin-arsenal-delete-alternative",
+    "plugin-kubernetes-deployment",
+    "pythonpush",
+    "script",
+    "uploadartifact",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ovh/cds/archive/188f389ee71b69f170a04bde9eb6fa2953cbb6a5.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "devops-workflow",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-188f389-250623T082213",
+  "version_upstream": "",
+  "bsum": "24afd368a9fc77676da04452be5b05601f8725040beb093885d5811d0e11fa9a",
+  "build_date": "2025-06-24T00:04:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15835901987",
+  "build_id": "15835901987",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/hello-sdk?tag=HEAD-188f389-250623T082213-riscv64-Linux&download=hello-sdk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4723",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/hello-sdk?tag=HEAD-188f389-250623T082213-riscv64-Linux&download=hello-sdk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ovh/cds/hello-sdk:HEAD-188f389-250623T082213-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ovh/cds/hello-sdk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/hello-sdk?tag=HEAD-188f389-250623T082213-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75f9d1127a16f0f59affee293c15710f826ee5f9b70512bac45e7c7701fe2409",
+  "size": "12 MB",
+  "size_raw": "12232952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e716c2d-250620T135931-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
