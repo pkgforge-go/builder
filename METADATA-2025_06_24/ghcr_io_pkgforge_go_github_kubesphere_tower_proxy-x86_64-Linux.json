@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "tower",
+  "pkg_id": "proxy#github.com_kubesphere_tower",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubesphere/tower",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proxy for multiple Kubernetes cluster communication",
+  "homepage": [
+    "https://github.com/kubesphere/tower"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubesphere/tower/archive/d1cb14ad122dc151aa5a1c5585dcad17ae05daa1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d1cb14a-250624T111000",
+  "version_upstream": "",
+  "bsum": "662aec253bf9717bb90c88304a92ae78f9901c984a5ea4e60833e00a9d63cb6f",
+  "build_date": "2025-06-24T08:38:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844629099",
+  "build_id": "15844629099",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/tower/proxy?tag=HEAD-d1cb14a-250624T111000-x86_64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/tower/proxy?tag=HEAD-d1cb14a-250624T111000-x86_64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubesphere/tower/proxy:HEAD-d1cb14a-250624T111000-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubesphere/tower/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/tower/proxy?tag=HEAD-d1cb14a-250624T111000-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "34e12685d26928d7a86f5ecb8330495d95a4e6b640cc5b6cda27c3f0aa2855ff",
+  "size": "43 MB",
+  "size_raw": "44052096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
