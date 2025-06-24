@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bench",
+  "pkg_family": "fq-connector-go",
+  "pkg_id": "bench#github.com_ydb_platform_fq_connector_go",
+  "pkg_name": "bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ydb-platform/fq-connector-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "External data source connector for YDB Federated Query",
+  "homepage": [
+    "https://github.com/ydb-platform/fq-connector-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "bench",
+    "big_insert",
+    "docker_compose_update",
+    "query_service_negative",
+    "test",
+    "timestamp_pushdown",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ydb-platform/fq-connector-go/archive/620e4b4990a1bfd17b90e74b879cda4c99898285.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-620e4b4-250624T172937",
+  "version_upstream": "",
+  "bsum": "43fb94010ccc8115c5423404c6a2fd1ffc30bbb81eacd29e6da59966b7affb50",
+  "build_date": "2025-06-24T20:17:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15859733954",
+  "build_id": "15859733954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ydb-platform/fq-connector-go/bench?tag=HEAD-620e4b4-250624T172937-loongarch64-Linux&download=bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ydb-platform/fq-connector-go/bench?tag=HEAD-620e4b4-250624T172937-loongarch64-Linux&download=bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ydb-platform/fq-connector-go/bench:HEAD-620e4b4-250624T172937-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ydb-platform/fq-connector-go/bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ydb-platform/fq-connector-go/bench?tag=HEAD-620e4b4-250624T172937-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8897f64e00b831707925544da502b0f46bc618948c0e1e6faa4e9361a5006818",
+  "size": "5.2 MB",
+  "size_raw": "5445216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
