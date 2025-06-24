@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "browser",
+  "pkg_family": "bifrost",
+  "pkg_id": "browser#github.com_aperturerobotics_bifrost",
+  "pkg_name": "browser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aperturerobotics/bifrost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modular networking for Go with pluggable transports, RPC, WebRTC, WebAssembly support.",
+  "homepage": [
+    "https://github.com/aperturerobotics/bifrost"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bifrost",
+    "browser",
+    "nats-host",
+    "nats-single",
+    "server",
+    "udp-link"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aperturerobotics/bifrost/archive/eef11aa908fa7171d099a254c8f4e2632f295206.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "nats",
+    "peer-to-peer",
+    "rpc",
+    "webassembly",
+    "websocket"
+  ],
+  "version": "HEAD-eef11aa-250623T135232",
+  "version_upstream": "",
+  "bsum": "9a9ed8733790e5bf629035d1b7a115c48df5446f4dc512e6d0e86c5be47f6b61",
+  "build_date": "2025-06-24T07:30:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843557183",
+  "build_id": "15843557183",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/browser?tag=HEAD-eef11aa-250623T135232-x86_64-Linux&download=browser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "552",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/browser?tag=HEAD-eef11aa-250623T135232-x86_64-Linux&download=browser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aperturerobotics/bifrost/browser:HEAD-eef11aa-250623T135232-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aperturerobotics/bifrost/browser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aperturerobotics/bifrost/browser?tag=HEAD-eef11aa-250623T135232-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "494a28573ef7329313505a0b857f9f51f965d13101786e45f77ef183d1235195",
+  "size": "1.1 MB",
+  "size_raw": "1139896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
