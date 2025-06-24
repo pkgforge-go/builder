@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "run-container",
+  "pkg_family": "nerdctl",
+  "pkg_id": "run-container#github.com_containerd_nerdctl",
+  "pkg_name": "run-container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/nerdctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
+  "homepage": [
+    "https://github.com/containerd/nerdctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nerdctl",
+    "run-container"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/nerdctl/archive/410b0f290b9acaaca54cb69af04ffab4d963cc3d.tar.gz"
+  ],
+  "tag": [
+    "containerd"
+  ],
+  "version": "HEAD-410b0f2-250623T231103",
+  "version_upstream": "",
+  "bsum": "6c30a81b7b99b2b10b596772361bc295e245e12e004f4476f5fa782d4d2305f1",
+  "build_date": "2025-06-24T02:37:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839535543",
+  "build_id": "15839535543",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-410b0f2-250623T231103-loongarch64-Linux&download=run-container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9006",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-410b0f2-250623T231103-loongarch64-Linux&download=run-container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/nerdctl/run-container:HEAD-410b0f2-250623T231103-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/nerdctl/run-container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-410b0f2-250623T231103-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d06e78c36ee02619afc38e62251bc6d3eef01941010bf824888a6e8856fde3f8",
+  "size": "24 MB",
+  "size_raw": "24731808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c24ee86-250623T114308-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
