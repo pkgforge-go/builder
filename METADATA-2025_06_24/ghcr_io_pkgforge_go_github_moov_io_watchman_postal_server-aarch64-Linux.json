@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "postal-server",
+  "pkg_family": "watchman",
+  "pkg_id": "postal-server#github.com_moov_io_watchman",
+  "pkg_name": "postal-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/moov-io/watchman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AML/CTF/KYC/OFAC Search of global watchlist and sanctions",
+  "homepage": [
+    "https://github.com/moov-io/watchman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "postal-server",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/moov-io/watchman/archive/0e151e6e076a5c9c5c2438e322c7909fbdb864c9.tar.gz"
+  ],
+  "tag": [
+    "aml",
+    "bis",
+    "bis-denied-persons",
+    "cip",
+    "csl",
+    "ctf",
+    "dpl",
+    "hacktoberfest",
+    "kyc",
+    "ofac",
+    "sanction-lists",
+    "sanctions",
+    "sectoral-sanctions-identifications"
+  ],
+  "version": "HEAD-0e151e6-250623T150902",
+  "version_upstream": "v0.53.0",
+  "bsum": "2f4e60316597e4daba7aed0bde6077acade245cb30e12bc095d54bb80cbcabee",
+  "build_date": "2025-06-24T08:33:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15844823874",
+  "build_id": "15844823874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/watchman/postal-server?tag=HEAD-0e151e6-250623T150902-aarch64-Linux&download=postal-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/watchman/postal-server?tag=HEAD-0e151e6-250623T150902-aarch64-Linux&download=postal-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/moov-io/watchman/postal-server:HEAD-0e151e6-250623T150902-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/moov-io/watchman/postal-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/watchman/postal-server?tag=HEAD-0e151e6-250623T150902-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a6ac951a9cae202e438cf1b415a23bbd54e67d0d4f6c977c894fd9553a611a83",
+  "size": "15 MB",
+  "size_raw": "15414880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
