@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "device_events",
+  "pkg_family": "zscaler-sdk-go",
+  "pkg_id": "device_events#github.com_zscaler_zscaler_sdk_go",
+  "pkg_name": "device_events",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zscaler/zscaler-sdk-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Zscaler SDK for Golang _ZPA/ZIA/ZDX/ZCC APIs_",
+  "homepage": [
+    "https://github.com/zscaler/zscaler-sdk-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "activation_cli",
+    "active_geo",
+    "administration",
+    "alerts",
+    "application_metrics",
+    "application_score",
+    "applications",
+    "cloudpath_probes",
+    "deep_trace_session",
+    "deep_trace_start",
+    "device_events",
+    "devices_list",
+    "health_metrics",
+    "inventory",
+    "top_processes",
+    "web_probe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zscaler/zscaler-sdk-go/archive/604696a28d039391e14ffae5437b0a3536bd51b8.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "zero-trust",
+    "zero-trust-security",
+    "zia",
+    "zpa",
+    "zscaler"
+  ],
+  "version": "HEAD-604696a-250623T110434",
+  "version_upstream": "v3.5.1",
+  "bsum": "9efd25066ff274af71c638fb0f4f9936cf9102712174425d34b57fa07a51aaff",
+  "build_date": "2025-06-24T10:34:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15847505152",
+  "build_id": "15847505152",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zscaler/zscaler-sdk-go/device_events?tag=HEAD-604696a-250623T110434-riscv64-Linux&download=device_events.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zscaler/zscaler-sdk-go/device_events?tag=HEAD-604696a-250623T110434-riscv64-Linux&download=device_events",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zscaler/zscaler-sdk-go/device_events:HEAD-604696a-250623T110434-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zscaler/zscaler-sdk-go/device_events",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zscaler/zscaler-sdk-go/device_events?tag=HEAD-604696a-250623T110434-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3e8bd0775b96513d4d92003e464a7199a20dfe09bfec942a17d9caeca020c95",
+  "size": "7.7 MB",
+  "size_raw": "7985656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
