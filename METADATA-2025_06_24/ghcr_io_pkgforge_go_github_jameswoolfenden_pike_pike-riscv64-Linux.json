@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pike",
+  "pkg_family": "pike",
+  "pkg_id": "pike#github.com_JamesWoolfenden_pike",
+  "pkg_name": "pike",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/JamesWoolfenden/pike",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pike is a tool for determining the permissions or policy required for IAC code",
+  "homepage": [
+    "https://github.com/JamesWoolfenden/pike"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pike"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/JamesWoolfenden/pike/archive/2d35bed75c057a4b2a7db584a719470a19b1d0d6.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "bridgecrew",
+    "gcp",
+    "iac",
+    "policy",
+    "security",
+    "terraform"
+  ],
+  "version": "HEAD-2d35bed-250623T091613",
+  "version_upstream": "v0.3.61",
+  "bsum": "f4132f53ecd3df520f7ab73f8816ddcddba528b74611a88bc0a49f78bd8cbffc",
+  "build_date": "2025-06-24T02:17:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15839490209",
+  "build_id": "15839490209",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jameswoolfenden/pike/pike?tag=HEAD-2d35bed-250623T091613-riscv64-Linux&download=pike.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "725",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jameswoolfenden/pike/pike?tag=HEAD-2d35bed-250623T091613-riscv64-Linux&download=pike",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jameswoolfenden/pike/pike:HEAD-2d35bed-250623T091613-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jameswoolfenden/pike/pike",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jameswoolfenden/pike/pike?tag=HEAD-2d35bed-250623T091613-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "655c70941008625ebd89067eec2e777876d4003cc9e56179711c11e19aa36a85",
+  "size": "31 MB",
+  "size_raw": "32238840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-db0b55c-250620T105206-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
