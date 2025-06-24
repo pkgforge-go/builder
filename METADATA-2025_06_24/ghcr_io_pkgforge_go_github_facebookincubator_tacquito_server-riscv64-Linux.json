@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "tacquito",
+  "pkg_id": "server#github.com_facebookincubator_tacquito",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/facebookincubator/tacquito",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tacquito is an open source TACACs+ server written in Go that implements RFC8907",
+  "homepage": [
+    "https://github.com/facebookincubator/tacquito"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "generator",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/facebookincubator/tacquito/archive/17b370ed065ba8aed55909f56c2f324e615df1d6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-17b370e-250623T181531",
+  "version_upstream": "",
+  "bsum": "e15833147ed4579d0b1fa5376ab311a573e3c0c3aa8ea97d0fd12ab0eda255ba",
+  "build_date": "2025-06-24T08:03:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15843826930",
+  "build_id": "15843826930",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebookincubator/tacquito/server?tag=HEAD-17b370e-250623T181531-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebookincubator/tacquito/server?tag=HEAD-17b370e-250623T181531-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/facebookincubator/tacquito/server:HEAD-17b370e-250623T181531-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/facebookincubator/tacquito/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/facebookincubator/tacquito/server?tag=HEAD-17b370e-250623T181531-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b1507823529dfa76fef0fd467ee2cd4e63ab6cffa79ca769acd74620a990b28",
+  "size": "12 MB",
+  "size_raw": "11957880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
