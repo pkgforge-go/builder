@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "without-lister",
+  "pkg_family": "terraform-provider-grafana",
+  "pkg_id": "without-lister#github.com_grafana_terraform_provider_grafana",
+  "pkg_name": "without-lister",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/terraform-provider-grafana",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Grafana provider",
+  "homepage": [
+    "https://github.com/grafana/terraform-provider-grafana"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "genimports",
+    "genreferences",
+    "setcategories",
+    "terraform-provider-grafana",
+    "without-lister"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/terraform-provider-grafana/archive/456ce456111be4f92ecde814980b098658186b6d.tar.gz"
+  ],
+  "tag": [
+    "grafana",
+    "terraform",
+    "terraform-provider"
+  ],
+  "version": "HEAD-456ce45-250624T234329",
+  "version_upstream": "",
+  "bsum": "b3abdd045e875c99c5fdf7fcf1063ee40c0dacc2c959abf02f9d44eef9bc64e8",
+  "build_date": "2025-06-25T08:15:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869718502",
+  "build_id": "15869718502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/terraform-provider-grafana/without-lister?tag=HEAD-456ce45-250624T234329-loongarch64-Linux&download=without-lister.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "463",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/terraform-provider-grafana/without-lister?tag=HEAD-456ce45-250624T234329-loongarch64-Linux&download=without-lister",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/terraform-provider-grafana/without-lister:HEAD-456ce45-250624T234329-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/terraform-provider-grafana/without-lister",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/terraform-provider-grafana/without-lister?tag=HEAD-456ce45-250624T234329-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d29c7536ec4f465f872f8fda6374cf6eaf127a49ca91c546928d345bc7606bcb",
+  "size": "75 MB",
+  "size_raw": "78159856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
