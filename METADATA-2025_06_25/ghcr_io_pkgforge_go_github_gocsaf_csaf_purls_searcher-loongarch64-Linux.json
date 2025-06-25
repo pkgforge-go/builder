@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "purls_searcher",
+  "pkg_family": "csaf",
+  "pkg_id": "purls_searcher#github.com_gocsaf_csaf",
+  "pkg_name": "purls_searcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gocsaf/csaf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools to download or provide CSAF _Common Security Advisory Framework_ documents.",
+  "homepage": [
+    "https://github.com/gocsaf/csaf"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csaf_aggregator",
+    "csaf_checker",
+    "csaf_downloader",
+    "csaf_provider",
+    "csaf_uploader",
+    "csaf_validator",
+    "product_lister",
+    "purls_searcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gocsaf/csaf/archive/f154b78340b9a51e20f701cce96f8446d0ef1c39.tar.gz"
+  ],
+  "tag": [
+    "apache-2-0-license",
+    "csaf",
+    "csaf-aggregator",
+    "csaf-distribution",
+    "csaf-downloader",
+    "csaf-trusted-provider",
+    "provider-checker",
+    "security-automation",
+    "tools"
+  ],
+  "version": "HEAD-f154b78-250625T153745",
+  "version_upstream": "",
+  "bsum": "f8a6b8611bf7cb1b930683a65b80c2093d0266b58aa8e62b1a40b3ba30b96b4d",
+  "build_date": "2025-06-25T22:54:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887977896",
+  "build_id": "15887977896",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocsaf/csaf/purls_searcher?tag=HEAD-f154b78-250625T153745-loongarch64-Linux&download=purls_searcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocsaf/csaf/purls_searcher?tag=HEAD-f154b78-250625T153745-loongarch64-Linux&download=purls_searcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gocsaf/csaf/purls_searcher:HEAD-f154b78-250625T153745-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gocsaf/csaf/purls_searcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gocsaf/csaf/purls_searcher?tag=HEAD-f154b78-250625T153745-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "862e39a1722d6eb52b91a1b4a79c4156d20d99b4c3add7c64af1247c537877a6",
+  "size": "6.9 MB",
+  "size_raw": "7180096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ce886f1-250620T085950-loongarch64-Linux",
+    "HEAD-062e145-250624T104811-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
