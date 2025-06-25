@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "integration-tests",
+  "pkg_family": "agent",
+  "pkg_id": "integration-tests#github.com_grafana_agent",
+  "pkg_name": "integration-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Vendor-neutral programmable observability pipelines.",
+  "homepage": [
+    "https://github.com/grafana/agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs",
+    "grafana-agent",
+    "grafana-agent-flow",
+    "grafana-agent-operator",
+    "grafana-agentctl",
+    "integration-tests",
+    "kafka",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/agent/archive/940be5cac4e961124c3399e64ba2cbfa591cc172.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "version": "HEAD-940be5c-250624T133804",
+  "version_upstream": "",
+  "bsum": "4d1abc94c23ae6d69bcfc12905521fec0bdf6b58f9569c48e1aecf43835f8ecd",
+  "build_date": "2025-06-25T08:23:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869713970",
+  "build_id": "15869713970",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/integration-tests?tag=HEAD-940be5c-250624T133804-aarch64-Linux&download=integration-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1628",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/integration-tests?tag=HEAD-940be5c-250624T133804-aarch64-Linux&download=integration-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/agent/integration-tests:HEAD-940be5c-250624T133804-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/agent/integration-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/integration-tests?tag=HEAD-940be5c-250624T133804-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ce12a57f42bb8329b5b67ec49d0480826dd5c0bf3ea28a1b8c266cb0d6130eb",
+  "size": "4.2 MB",
+  "size_raw": "4307256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
