@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "skr",
+  "pkg_family": "confidential-sidecar-containers",
+  "pkg_id": "skr#github.com_microsoft_confidential_sidecar_containers",
+  "pkg_name": "skr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/confidential-sidecar-containers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This is a collection of sidecar containers that can be incorporated within confidential container groups on Azure Container Instances.",
+  "homepage": [
+    "https://github.com/microsoft/confidential-sidecar-containers"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azmount",
+    "get-token",
+    "importkey",
+    "remotefs",
+    "securitypolicydigest",
+    "skr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/confidential-sidecar-containers/archive/8b9cc677da46df9d548733c8eb19391fcb1e5720.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8b9cc67-250624T135825",
+  "version_upstream": "",
+  "bsum": "2b744652c02bbe712a1d31bcdc536b09ab62f17579563d8b5bf1f7f86e528b23",
+  "build_date": "2025-06-25T08:43:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870616330",
+  "build_id": "15870616330",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/confidential-sidecar-containers/skr?tag=HEAD-8b9cc67-250624T135825-aarch64-Linux&download=skr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/confidential-sidecar-containers/skr?tag=HEAD-8b9cc67-250624T135825-aarch64-Linux&download=skr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/confidential-sidecar-containers/skr:HEAD-8b9cc67-250624T135825-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/confidential-sidecar-containers/skr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/confidential-sidecar-containers/skr?tag=HEAD-8b9cc67-250624T135825-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e60176a87aa32e727d471799b5715ab3fd17139a8fc50773bdb0cb36dbfc89c1",
+  "size": "18 MB",
+  "size_raw": "18597696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
