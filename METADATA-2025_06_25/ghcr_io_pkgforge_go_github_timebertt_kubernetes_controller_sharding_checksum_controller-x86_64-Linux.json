@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "checksum-controller",
+  "pkg_family": "kubernetes-controller-sharding",
+  "pkg_id": "checksum-controller#github.com_timebertt_kubernetes_controller_sharding",
+  "pkg_name": "checksum-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/timebertt/kubernetes-controller-sharding",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances",
+  "homepage": [
+    "https://github.com/timebertt/kubernetes-controller-sharding"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checksum-controller",
+    "sharder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/timebertt/kubernetes-controller-sharding/archive/8e64f66985b2ba0f5de8a1d7be2b267943eda8e4.tar.gz"
+  ],
+  "tag": [
+    "controller",
+    "distributed-systems",
+    "kubernetes",
+    "master-studies",
+    "scalability",
+    "sharding"
+  ],
+  "version": "HEAD-8e64f66-250624T201520",
+  "version_upstream": "v0.11.0",
+  "bsum": "6f1dd3fa6538c009a69529597dc47a6e0de7a2299e9f701d35a20e3846650811",
+  "build_date": "2025-06-25T10:03:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872464248",
+  "build_id": "15872464248",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/timebertt/kubernetes-controller-sharding/checksum-controller?tag=HEAD-8e64f66-250624T201520-x86_64-Linux&download=checksum-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "245",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/timebertt/kubernetes-controller-sharding/checksum-controller?tag=HEAD-8e64f66-250624T201520-x86_64-Linux&download=checksum-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/timebertt/kubernetes-controller-sharding/checksum-controller:HEAD-8e64f66-250624T201520-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/timebertt/kubernetes-controller-sharding/checksum-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/timebertt/kubernetes-controller-sharding/checksum-controller?tag=HEAD-8e64f66-250624T201520-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bfaa1f56079ebc352618a955d7a67934389635ef1661a41bf21dffde0c315849",
+  "size": "45 MB",
+  "size_raw": "47043616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
