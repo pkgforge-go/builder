@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook-delivery-tool",
+  "pkg_family": "anklet",
+  "pkg_id": "webhook-delivery-tool#github.com_veertuinc_anklet",
+  "pkg_name": "webhook-delivery-tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/veertuinc/anklet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An external orchestrator for running on-demand and ephemeral Anka macOS VMs for CI.",
+  "homepage": [
+    "https://github.com/veertuinc/anklet"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anklet",
+    "webhook-delivery-tool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/veertuinc/anklet/archive/53b1437c364aabee671555233c3bd754fa4ad40e.tar.gz"
+  ],
+  "tag": [
+    "anka",
+    "macos",
+    "virtualization"
+  ],
+  "version": "HEAD-53b1437-250624T145209",
+  "version_upstream": "",
+  "bsum": "a4028a14f193b6031df12a6a56ecda386726b0ae2b56ad13fcd9483720faca3c",
+  "build_date": "2025-06-25T10:11:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872483915",
+  "build_id": "15872483915",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veertuinc/anklet/webhook-delivery-tool?tag=HEAD-53b1437-250624T145209-loongarch64-Linux&download=webhook-delivery-tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veertuinc/anklet/webhook-delivery-tool?tag=HEAD-53b1437-250624T145209-loongarch64-Linux&download=webhook-delivery-tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/veertuinc/anklet/webhook-delivery-tool:HEAD-53b1437-250624T145209-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/veertuinc/anklet/webhook-delivery-tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veertuinc/anklet/webhook-delivery-tool?tag=HEAD-53b1437-250624T145209-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7bbd740199c450c56b1ca3d3e6b5a7d4a30fa504164fb8e6459dcce8a6b31874",
+  "size": "7.4 MB",
+  "size_raw": "7739712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
