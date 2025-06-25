@@ -43,7 +43,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/VictoriaMetrics/VictoriaMetrics/archive/6f93f0e1a779dffdffb65a3f048634aae859db99.tar.gz"
+    "https://github.com/VictoriaMetrics/VictoriaMetrics/archive/deec361a64be416ec9e027adeabe0efceb70036c.tar.gz"
   ],
   "tag": [
     "cluster",
@@ -62,32 +62,33 @@
     "thanos",
     "tsdb"
   ],
-  "version": "HEAD-6f93f0e-250624T165129",
+  "version": "HEAD-deec361-250624T220645",
   "version_upstream": "",
-  "bsum": "5eda68d363c75297f0b16745143ab1dd099e9ac2f657660da968d15de88974dc",
-  "build_date": "2025-06-25T02:32:17Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865753800",
-  "build_id": "15865753800",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-6f93f0e-250624T165129-aarch64-Linux&download=vmctl.log",
+  "bsum": "572db71e87f4035e055e665a7ef617ca1e655452fefd1d9cd4e7fee0140c9c5f",
+  "build_date": "2025-06-25T13:33:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877384504",
+  "build_id": "15877384504",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-deec361-250624T220645-aarch64-Linux&download=vmctl.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "14369",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-6f93f0e-250624T165129-aarch64-Linux&download=vmctl",
+  "download_count": "14370",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-deec361-250624T220645-aarch64-Linux&download=vmctl",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/victoriametrics/victoriametrics/vmctl:HEAD-6f93f0e-250624T165129-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/victoriametrics/victoriametrics/vmctl:HEAD-deec361-250624T220645-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/victoriametrics/victoriametrics/vmctl",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-6f93f0e-250624T165129-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/victoriametrics/vmctl?tag=HEAD-deec361-250624T220645-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "9a750079aeb425e2b6d5103daac54c6d7fdc33cd4b09d13650b775fd0e145684",
+  "shasum": "cf95a45aed89e3c373d0e902943a87ea0735d9676d7cf4bddb885d46a08ccf1d",
   "size": "25 MB",
   "size_raw": "25170320",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-27f1c1a-250619T011045-aarch64-Linux",
     "HEAD-1e3791c-250621T122722-aarch64-Linux",
-    "HEAD-86d8095-250623T163630-aarch64-Linux"
+    "HEAD-86d8095-250623T163630-aarch64-Linux",
+    "HEAD-6f93f0e-250624T165129-aarch64-Linux"
   ],
   "trusted": "true"
 }
