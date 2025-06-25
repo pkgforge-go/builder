@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "namespacer",
+  "pkg_family": "grootfs",
+  "pkg_id": "namespacer#github.com_cloudfoundry_grootfs",
+  "pkg_name": "namespacer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/grootfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Garden root file system",
+  "homepage": [
+    "https://github.com/cloudfoundry/grootfs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grootfs",
+    "namespacer",
+    "tardis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/grootfs/archive/f90ad39502e1a897c7b8f8048d582c98e5dd3436.tar.gz"
+  ],
+  "tag": [
+    "cff-wg-app-runtime-platform",
+    "cloud-foundry",
+    "garden",
+    "rootfs"
+  ],
+  "version": "HEAD-f90ad39-250625T020723",
+  "version_upstream": "",
+  "bsum": "8b7b813daf40856ed18347d04157395f086b92083c49087ee1d701226dbc2928",
+  "build_date": "2025-06-25T07:42:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869613646",
+  "build_id": "15869613646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/namespacer?tag=HEAD-f90ad39-250625T020723-aarch64-Linux&download=namespacer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/namespacer?tag=HEAD-f90ad39-250625T020723-aarch64-Linux&download=namespacer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/grootfs/namespacer:HEAD-f90ad39-250625T020723-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/grootfs/namespacer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/namespacer?tag=HEAD-f90ad39-250625T020723-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44c652e4e899ec1ae29bea35bd98382d42eed6bd9d22c75c2b82240f550c7511",
+  "size": "1.9 MB",
+  "size_raw": "1942072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

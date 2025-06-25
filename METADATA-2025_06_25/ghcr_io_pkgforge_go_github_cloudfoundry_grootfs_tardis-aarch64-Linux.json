@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tardis",
+  "pkg_family": "grootfs",
+  "pkg_id": "tardis#github.com_cloudfoundry_grootfs",
+  "pkg_name": "tardis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/grootfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Garden root file system",
+  "homepage": [
+    "https://github.com/cloudfoundry/grootfs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grootfs",
+    "namespacer",
+    "tardis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/grootfs/archive/f90ad39502e1a897c7b8f8048d582c98e5dd3436.tar.gz"
+  ],
+  "tag": [
+    "cff-wg-app-runtime-platform",
+    "cloud-foundry",
+    "garden",
+    "rootfs"
+  ],
+  "version": "HEAD-f90ad39-250625T020723",
+  "version_upstream": "",
+  "bsum": "cd530180fa1d987053c6205268f791c593981a398df228be9522b98071ae608e",
+  "build_date": "2025-06-25T07:42:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869613646",
+  "build_id": "15869613646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/tardis?tag=HEAD-f90ad39-250625T020723-aarch64-Linux&download=tardis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/tardis?tag=HEAD-f90ad39-250625T020723-aarch64-Linux&download=tardis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/grootfs/tardis:HEAD-f90ad39-250625T020723-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/grootfs/tardis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/tardis?tag=HEAD-f90ad39-250625T020723-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7348fc1ba6ee58d0b5536a5ce6868167853cff8a81dbabfe0d1616a969e8ca10",
+  "size": "7.3 MB",
+  "size_raw": "7561568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
