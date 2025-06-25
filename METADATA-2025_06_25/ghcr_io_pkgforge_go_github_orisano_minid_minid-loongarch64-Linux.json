@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "minid",
+  "pkg_family": "minid",
+  "pkg_id": "minid#github.com_orisano_minid",
+  "pkg_name": "minid",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orisano/minid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "minid is Dockerfile minifier for reducing the number of layers.",
+  "homepage": [
+    "https://github.com/orisano/minid"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "minid"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/orisano/minid/archive/c9ed6fb5067ccc27b8e8ae169b9383ff678d66b7.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "docker",
+    "golang",
+    "minify"
+  ],
+  "version": "HEAD-c9ed6fb-250625T165704",
+  "version_upstream": "",
+  "bsum": "02a453557268b203ae3b3b5bf0e1a3ea31fa1e666fdc12239de2b8ca9393e4cb",
+  "build_date": "2025-06-25T17:40:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882419673",
+  "build_id": "15882419673",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orisano/minid/minid?tag=HEAD-c9ed6fb-250625T165704-loongarch64-Linux&download=minid.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orisano/minid/minid?tag=HEAD-c9ed6fb-250625T165704-loongarch64-Linux&download=minid",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orisano/minid/minid:HEAD-c9ed6fb-250625T165704-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orisano/minid/minid",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orisano/minid/minid?tag=HEAD-c9ed6fb-250625T165704-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38acad4bd28b7ceac371004c1a9f5bf1df56cfc79278b6091b021a8e8e4f80fa",
+  "size": "4.6 MB",
+  "size_raw": "4778456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
