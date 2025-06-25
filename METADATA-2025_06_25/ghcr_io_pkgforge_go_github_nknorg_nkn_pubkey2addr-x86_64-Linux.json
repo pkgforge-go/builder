@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pubkey2addr",
+  "pkg_family": "nkn",
+  "pkg_id": "pubkey2addr#github.com_nknorg_nkn",
+  "pkg_name": "pubkey2addr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nknorg/nkn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Official Go implementation of NKN full node.",
+  "homepage": [
+    "https://github.com/nknorg/nkn"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bytes2sigchain",
+    "nknc",
+    "nknd",
+    "pubkey2addr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nknorg/nkn/archive/5e9a7fd09aa085ececd7c49cd0cee2773d8be9e6.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "decentralization",
+    "distributed-systems",
+    "go",
+    "network",
+    "nkn",
+    "p2p"
+  ],
+  "version": "HEAD-5e9a7fd-250625T050537",
+  "version_upstream": "",
+  "bsum": "c4babb2b22d6f0b14d0cf312104758dc216c918339d352602ff18c5f8aaa141d",
+  "build_date": "2025-06-25T17:35:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882387100",
+  "build_id": "15882387100",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/pubkey2addr?tag=HEAD-5e9a7fd-250625T050537-x86_64-Linux&download=pubkey2addr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "483",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/pubkey2addr?tag=HEAD-5e9a7fd-250625T050537-x86_64-Linux&download=pubkey2addr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nknorg/nkn/pubkey2addr:HEAD-5e9a7fd-250625T050537-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nknorg/nkn/pubkey2addr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/pubkey2addr?tag=HEAD-5e9a7fd-250625T050537-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad1862c4fbdf7ea67a10721431a97643d690cd1eab1850a31a86eeef51379020",
+  "size": "4.4 MB",
+  "size_raw": "4551808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
