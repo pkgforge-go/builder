@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "unwraptls",
+  "pkg_family": "yuhaiin",
+  "pkg_id": "unwraptls#github.com_yuhaiin_yuhaiin",
+  "pkg_name": "unwraptls",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yuhaiin/yuhaiin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "proxy kit for Linux/Windows/MacOS",
+  "homepage": [
+    "https://github.com/yuhaiin/yuhaiin"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "benchmark",
+    "client",
+    "gencontext",
+    "socat",
+    "unwraphttp",
+    "unwraptls",
+    "yuhaiin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/yuhaiin/yuhaiin/archive/49b281093aef8937b7aaa9466a510a3326013fe7.tar.gz"
+  ],
+  "tag": [
+    "bypass",
+    "dns",
+    "dnsoverhttps",
+    "dnsoverquic",
+    "dnsovertls",
+    "fullcone",
+    "go",
+    "http",
+    "http2",
+    "mux",
+    "proxy",
+    "quic",
+    "socks4a",
+    "socks5",
+    "tproxy",
+    "tun",
+    "tun2socks",
+    "websocket"
+  ],
+  "version": "HEAD-49b2810-250624T213345",
+  "version_upstream": "",
+  "bsum": "417a1f7db41a9e500685462c9646095044026f1aaa79addfc4187411f57b897f",
+  "build_date": "2025-06-25T00:31:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862685708",
+  "build_id": "15862685708",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yuhaiin/yuhaiin/unwraptls?tag=HEAD-49b2810-250624T213345-aarch64-Linux&download=unwraptls.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "162",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yuhaiin/yuhaiin/unwraptls?tag=HEAD-49b2810-250624T213345-aarch64-Linux&download=unwraptls",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yuhaiin/yuhaiin/unwraptls:HEAD-49b2810-250624T213345-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yuhaiin/yuhaiin/unwraptls",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yuhaiin/yuhaiin/unwraptls?tag=HEAD-49b2810-250624T213345-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30f017d36ea78d99b6cfda6eeee865407eb897c70dd69328bf00cf5cf2531446",
+  "size": "13 MB",
+  "size_raw": "12658016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5a2475e-250623T092013-aarch64-Linux",
+    "HEAD-78a723d-250623T224319-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
