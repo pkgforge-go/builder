@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "polaris",
+  "pkg_id": "cmd#github.com_polarismesh_polaris",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/polarismesh/polaris",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Service Discovery and Governance Platform for Microservice and Distributed Architecture",
+  "homepage": [
+    "https://github.com/polarismesh/polaris"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backend",
+    "cmd",
+    "frontend",
+    "heartbeat",
+    "polaris"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/polarismesh/polaris/archive/df0ce073395eca9f5724f855f3777db73cfb9012.tar.gz"
+  ],
+  "tag": [
+    "authenticate",
+    "circuit-break",
+    "fault-tolerance",
+    "health-check",
+    "load-balance",
+    "microservice",
+    "polaris",
+    "polarismesh",
+    "rate-limit",
+    "service-discover",
+    "service-governance",
+    "service-register",
+    "servicemesh",
+    "traffic-control"
+  ],
+  "version": "HEAD-df0ce07-250625T111747",
+  "version_upstream": "",
+  "bsum": "5c737f9927c7d066a1b387f92c3385fa799afc211e926ffa661e6c88f25dd78f",
+  "build_date": "2025-06-25T09:32:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871549754",
+  "build_id": "15871549754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/polarismesh/polaris/cmd?tag=HEAD-df0ce07-250625T111747-loongarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2484",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/polarismesh/polaris/cmd?tag=HEAD-df0ce07-250625T111747-loongarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/polarismesh/polaris/cmd:HEAD-df0ce07-250625T111747-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/polarismesh/polaris/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/polarismesh/polaris/cmd?tag=HEAD-df0ce07-250625T111747-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8dc61aeb7fbd64fcb08a13e41775c3bd5a3ee3862fd1ae9ad4e0e27e4c168548",
+  "size": "12 MB",
+  "size_raw": "12306240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
