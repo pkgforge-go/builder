@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "juicefs",
+  "pkg_family": "juicefs",
+  "pkg_id": "juicefs#github.com_juicedata_juicefs",
+  "pkg_name": "juicefs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/juicedata/juicefs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+  "homepage": [
+    "https://github.com/juicedata/juicefs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "juicefs",
+    "libjfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/juicedata/juicefs/archive/b66cfa56d0f78c15ecddacadccdbbb8c86e196ea.tar.gz"
+  ],
+  "tag": [
+    "bigdata",
+    "cloud-native",
+    "distributed-systems",
+    "filesystem",
+    "go",
+    "golang",
+    "hdfs",
+    "object-storage",
+    "posix",
+    "redis",
+    "s3",
+    "storage"
+  ],
+  "version": "HEAD-b66cfa5-250624T174722",
+  "version_upstream": "",
+  "bsum": "e34519e4ec15f60b86866a758e1783dc484206f727353aec14b687776f129b70",
+  "build_date": "2025-06-25T03:23:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865856327",
+  "build_id": "15865856327",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs/juicefs?tag=HEAD-b66cfa5-250624T174722-x86_64-Linux&download=juicefs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11744",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs/juicefs?tag=HEAD-b66cfa5-250624T174722-x86_64-Linux&download=juicefs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juicedata/juicefs/juicefs:HEAD-b66cfa5-250624T174722-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juicedata/juicefs/juicefs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juicedata/juicefs/juicefs?tag=HEAD-b66cfa5-250624T174722-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0045b25d85c04759a966506a421a3412b5337de58846cfad01365def11821b3b",
+  "size": "118 MB",
+  "size_raw": "123523312",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1e33b46-250619T103003-x86_64-Linux",
+    "HEAD-e7cd173-250623T174542-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
