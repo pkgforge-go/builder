@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stacks",
+  "pkg_family": "telemetry",
+  "pkg_id": "stacks#github.com_golang_telemetry",
+  "pkg_name": "stacks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/telemetry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go Telemetry services and libraries",
+  "homepage": [
+    "https://github.com/golang/telemetry"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configgen",
+    "gotelemetry",
+    "stacks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/telemetry/archive/fef9409b2ec888e5f4948a0e77c0d26738228de5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fef9409-250624T113230",
+  "version_upstream": "config/v0.53.0",
+  "bsum": "ebe2f491452c25067664456e4db80fc4cbf0098774ce6012cd71127aae00c4b8",
+  "build_date": "2025-06-25T08:02:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869694082",
+  "build_id": "15869694082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/telemetry/stacks?tag=HEAD-fef9409-250624T113230-riscv64-Linux&download=stacks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/telemetry/stacks?tag=HEAD-fef9409-250624T113230-riscv64-Linux&download=stacks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/telemetry/stacks:HEAD-fef9409-250624T113230-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/telemetry/stacks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/telemetry/stacks?tag=HEAD-fef9409-250624T113230-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1638a34cfec9cc44f6972c0fad5753de171acceee8a0152c9248a3a4cadc24b0",
+  "size": "6.6 MB",
+  "size_raw": "6900440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
