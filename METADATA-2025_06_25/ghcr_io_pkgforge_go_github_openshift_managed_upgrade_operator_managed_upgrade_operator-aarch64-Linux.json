@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "managed-upgrade-operator",
+  "pkg_family": "managed-upgrade-operator",
+  "pkg_id": "managed-upgrade-operator#github.com_openshift_managed_upgrade_operator",
+  "pkg_name": "managed-upgrade-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/managed-upgrade-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "V4 cluster upgrade automation",
+  "homepage": [
+    "https://github.com/openshift/managed-upgrade-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "managed-upgrade-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/managed-upgrade-operator/archive/78564bacbe25b04ecb3bce65478f3947f1b6b8bc.tar.gz"
+  ],
+  "tag": [
+    "osdv4"
+  ],
+  "version": "HEAD-78564ba-250625T024854",
+  "version_upstream": "",
+  "bsum": "19aa1e007997616fccd20044c2bf2fee56fe70b61a9401a589054fc07588db89",
+  "build_date": "2025-06-25T09:10:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870973945",
+  "build_id": "15870973945",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/managed-upgrade-operator/managed-upgrade-operator?tag=HEAD-78564ba-250625T024854-aarch64-Linux&download=managed-upgrade-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/managed-upgrade-operator/managed-upgrade-operator?tag=HEAD-78564ba-250625T024854-aarch64-Linux&download=managed-upgrade-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/managed-upgrade-operator/managed-upgrade-operator:HEAD-78564ba-250625T024854-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/managed-upgrade-operator/managed-upgrade-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/managed-upgrade-operator/managed-upgrade-operator?tag=HEAD-78564ba-250625T024854-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5940c96b027c6e77225cd2c9760b389bf4b59577d8d5bd7ebc8ace75dad39a9",
+  "size": "57 MB",
+  "size_raw": "59241824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
