@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "go-java-launcher",
+  "pkg_id": "main#github.com_palantir_go_java_launcher",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/palantir/go-java-launcher",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple Go program for launching Java programs from a fixed configuration. This program replaces Gradle-generated Bash launch scripts which are susceptible to attacks via injection of environment variables of the form JAVA_OPTS=___rm -rf /__.",
+  "homepage": [
+    "https://github.com/palantir/go-java-launcher"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "main"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/palantir/go-java-launcher/archive/f66cc680a1e51255e390406ae65e68921eb4020e.tar.gz"
+  ],
+  "tag": [
+    "octo-correct-managed"
+  ],
+  "version": "HEAD-f66cc68-250625T002032",
+  "version_upstream": "v1.188.0",
+  "bsum": "8c66d238189b3cd1a28f623f0165131b1045fe0fa1273967baa67ed636949afc",
+  "build_date": "2025-06-25T09:22:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871102662",
+  "build_id": "15871102662",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/go-java-launcher/main?tag=HEAD-f66cc68-250625T002032-aarch64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "72",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/go-java-launcher/main?tag=HEAD-f66cc68-250625T002032-aarch64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/palantir/go-java-launcher/main:HEAD-f66cc68-250625T002032-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/palantir/go-java-launcher/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/go-java-launcher/main?tag=HEAD-f66cc68-250625T002032-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3979b5404c4d620d170a1b7392af1db8e9ec232ea11ccb824b7894605d8594a8",
+  "size": "2.7 MB",
+  "size_raw": "2792312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
