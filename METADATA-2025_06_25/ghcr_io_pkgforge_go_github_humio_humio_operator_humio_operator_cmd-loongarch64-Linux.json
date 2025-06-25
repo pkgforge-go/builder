@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "humio-operator-cmd",
+  "pkg_family": "humio-operator",
+  "pkg_id": "humio-operator-cmd#github.com_humio_humio_operator",
+  "pkg_name": "humio-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/humio/humio-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for Humio",
+  "homepage": [
+    "https://github.com/humio/humio-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "humio-operator-cmd",
+    "logscale-dummy",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/humio/humio-operator/archive/3953ccf9bdf31eae8733c15f4c240111e311a0fb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3953ccf-250625T110006",
+  "version_upstream": "",
+  "bsum": "e5c19c1173398721b854e8374e3ff4f71fcdc0532fe8ef728d4c42e7f94ab9f2",
+  "build_date": "2025-06-25T17:07:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881708695",
+  "build_id": "15881708695",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/humio/humio-operator/humio-operator-cmd?tag=HEAD-3953ccf-250625T110006-loongarch64-Linux&download=humio-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/humio/humio-operator/humio-operator-cmd?tag=HEAD-3953ccf-250625T110006-loongarch64-Linux&download=humio-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/humio/humio-operator/humio-operator-cmd:HEAD-3953ccf-250625T110006-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/humio/humio-operator/humio-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/humio/humio-operator/humio-operator-cmd?tag=HEAD-3953ccf-250625T110006-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "91aec4398a8699fc22180ad45a87f3ab64168f9446754258e3aae74b87588fa4",
+  "size": "58 MB",
+  "size_raw": "59803168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
