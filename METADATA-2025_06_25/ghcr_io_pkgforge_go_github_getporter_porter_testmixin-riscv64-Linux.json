@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "testmixin",
+  "pkg_family": "porter",
+  "pkg_id": "testmixin#github.com_getporter_porter",
+  "pkg_name": "testmixin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getporter/porter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
+  "homepage": [
+    "https://github.com/getporter/porter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "exec",
+    "porter",
+    "testmixin",
+    "testplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getporter/porter/archive/31409d002b11b8657b72afbfaee44114227846bd.tar.gz"
+  ],
+  "tag": [
+    "cnab",
+    "cncf",
+    "hacktoberfest",
+    "porter"
+  ],
+  "version": "HEAD-31409d0-250625T145000",
+  "version_upstream": "canary",
+  "bsum": "a773d4ef2492d6282fdd9c1678638e3ba965367f3b5a6a6255c51e6b76adda45",
+  "build_date": "2025-06-25T22:53:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887976879",
+  "build_id": "15887976879",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testmixin?tag=HEAD-31409d0-250625T145000-riscv64-Linux&download=testmixin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1318",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testmixin?tag=HEAD-31409d0-250625T145000-riscv64-Linux&download=testmixin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getporter/porter/testmixin:HEAD-31409d0-250625T145000-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getporter/porter/testmixin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testmixin?tag=HEAD-31409d0-250625T145000-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b322c142c0eb69d9a9ce6cd9ea8e8c51bbcedb518ad1164579bfa17ff1b2042",
+  "size": "1.6 MB",
+  "size_raw": "1575016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8a0e0b3-250616T194727-riscv64-Linux[canary]",
+    "HEAD-8000b91-250622T212350-riscv64-Linux[canary]"
+  ],
+  "trusted": "true"
+}
