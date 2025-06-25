@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "importkey",
+  "pkg_family": "confidential-sidecar-containers",
+  "pkg_id": "importkey#github.com_microsoft_confidential_sidecar_containers",
+  "pkg_name": "importkey",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/confidential-sidecar-containers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This is a collection of sidecar containers that can be incorporated within confidential container groups on Azure Container Instances.",
+  "homepage": [
+    "https://github.com/microsoft/confidential-sidecar-containers"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azmount",
+    "get-token",
+    "importkey",
+    "remotefs",
+    "securitypolicydigest",
+    "skr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/confidential-sidecar-containers/archive/8b9cc677da46df9d548733c8eb19391fcb1e5720.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8b9cc67-250624T135825",
+  "version_upstream": "",
+  "bsum": "d0df3a1cf2bf581b07f53b4143fa8e5cb5a67ccff5b8a392ae19be9299f0f981",
+  "build_date": "2025-06-25T08:42:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870616330",
+  "build_id": "15870616330",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/confidential-sidecar-containers/importkey?tag=HEAD-8b9cc67-250624T135825-x86_64-Linux&download=importkey.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/confidential-sidecar-containers/importkey?tag=HEAD-8b9cc67-250624T135825-x86_64-Linux&download=importkey",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/confidential-sidecar-containers/importkey:HEAD-8b9cc67-250624T135825-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/confidential-sidecar-containers/importkey",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/confidential-sidecar-containers/importkey?tag=HEAD-8b9cc67-250624T135825-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a9f63090cb98ae708a60844828dad3484ecf202c7d9d5f377285b5205d41a099",
+  "size": "8.4 MB",
+  "size_raw": "8781120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
