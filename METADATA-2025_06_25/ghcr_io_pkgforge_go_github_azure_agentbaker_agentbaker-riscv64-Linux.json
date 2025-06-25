@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "agentbaker",
+  "pkg_family": "AgentBaker",
+  "pkg_id": "agentbaker#github.com_Azure_AgentBaker",
+  "pkg_name": "agentbaker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/AgentBaker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.",
+  "homepage": [
+    "https://github.com/Azure/AgentBaker"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agentbaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/AgentBaker/archive/77ce46cd2b184b7ffbab91fd6af05463f44e4917.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "cloud-init",
+    "k8s",
+    "os",
+    "vhd"
+  ],
+  "version": "HEAD-77ce46c-250624T132831",
+  "version_upstream": "",
+  "bsum": "454191b41111e66bb8c0dc02e14fd8b83958c5f1331fb5c009d31a95a6aa83dd",
+  "build_date": "2025-06-25T10:23:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873260270",
+  "build_id": "15873260270",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-77ce46c-250624T132831-riscv64-Linux&download=agentbaker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-77ce46c-250624T132831-riscv64-Linux&download=agentbaker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/agentbaker/agentbaker:HEAD-77ce46c-250624T132831-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/agentbaker/agentbaker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-77ce46c-250624T132831-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a585f6d611d0ccc2602f67c71aee85c4cc7e534f19432a81c3f2aceb5cb7e3c",
+  "size": "9.7 MB",
+  "size_raw": "10071224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a0f27c4-250618T182413-riscv64-Linux",
+    "HEAD-8c18f3e-250621T032602-riscv64-Linux",
+    "HEAD-673e7b6-250624T022614-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
