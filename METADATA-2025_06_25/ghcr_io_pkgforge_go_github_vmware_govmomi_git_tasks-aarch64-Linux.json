@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tasks",
+  "pkg_family": "govmomi",
+  "pkg_id": "tasks#github.com_vmware_govmomi.git",
+  "pkg_name": "tasks",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250625T151624",
+  "version_upstream": "",
+  "bsum": "fdf32f76598b2850b866337327676f148ffdc6908a16a0945938b1c234360520",
+  "build_date": "2025-06-25T15:20:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15878097640",
+  "build_id": "15878097640",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi.git/tasks?tag=20250625T151624-aarch64-Linux&download=tasks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi.git/tasks?tag=20250625T151624-aarch64-Linux&download=tasks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi.git/tasks:20250625T151624-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi.git/tasks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi.git/tasks?tag=20250625T151624-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19b0353d8d460e5a3ce47e58a37861a93631c4e197a9a223a4fd0d7a500955f5",
+  "size": "27 MB",
+  "size_raw": "27672768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
