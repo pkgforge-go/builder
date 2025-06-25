@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-admission-cilium",
+  "pkg_family": "gardener-extension-networking-cilium",
+  "pkg_id": "gardener-extension-admission-cilium#github.com_gardener_gardener_extension_networking_cilium",
+  "pkg_name": "gardener-extension-admission-cilium",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-networking-cilium",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the Cilium CNI network plugin.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-networking-cilium"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-cilium",
+    "gardener-extension-networking-cilium"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-networking-cilium/archive/499b0535a1753b2107090251465e5eb78e881fab.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-499b053-250625T133943",
+  "version_upstream": "",
+  "bsum": "fdb273a9f444c89e1b877f18e1d01253c9a440aceef9ef1b5d1420a139330724",
+  "build_date": "2025-06-25T16:56:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881258291",
+  "build_id": "15881258291",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-networking-cilium/gardener-extension-admission-cilium?tag=HEAD-499b053-250625T133943-aarch64-Linux&download=gardener-extension-admission-cilium.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-networking-cilium/gardener-extension-admission-cilium?tag=HEAD-499b053-250625T133943-aarch64-Linux&download=gardener-extension-admission-cilium",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-networking-cilium/gardener-extension-admission-cilium:HEAD-499b053-250625T133943-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-networking-cilium/gardener-extension-admission-cilium",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-networking-cilium/gardener-extension-admission-cilium?tag=HEAD-499b053-250625T133943-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04e4d3cdf4eb323cd784751bba2bb8be9602df40d5a05eac0630014c6dafbdea",
+  "size": "56 MB",
+  "size_raw": "58202432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
