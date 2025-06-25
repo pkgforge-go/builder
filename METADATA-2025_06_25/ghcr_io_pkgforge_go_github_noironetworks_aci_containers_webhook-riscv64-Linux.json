@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "aci-containers",
+  "pkg_id": "webhook#github.com_noironetworks_aci_containers",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/noironetworks/aci-containers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins for integrating ACI with container orchestration systems",
+  "homepage": [
+    "https://github.com/noironetworks/aci-containers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acicontainersoperator",
+    "acikubectl",
+    "certmanager",
+    "controller",
+    "gbpserver",
+    "hostagent",
+    "opflexagentcni",
+    "ovsresync",
+    "simpleservice",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/noironetworks/aci-containers/archive/870516a155b591628ebfe71fb7100876814cad93.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-870516a-250624T145755",
+  "version_upstream": "6.1.2.1",
+  "bsum": "e91ab8193b321684d5ea4043ac5b129c2a8c2f5597227f6029e45eff71a8a370",
+  "build_date": "2025-06-25T09:03:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870803736",
+  "build_id": "15870803736",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/webhook?tag=HEAD-870516a-250624T145755-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/webhook?tag=HEAD-870516a-250624T145755-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noironetworks/aci-containers/webhook:HEAD-870516a-250624T145755-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noironetworks/aci-containers/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/webhook?tag=HEAD-870516a-250624T145755-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66faa13c1298a1a9a1307f3d715658c30ccabb04a0945d025c6376c53f529dfe",
+  "size": "41 MB",
+  "size_raw": "42732280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
