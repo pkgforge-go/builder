@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "write_files",
+  "pkg_family": "cke",
+  "pkg_id": "write_files#github.com_cybozu_go_cke",
+  "pkg_name": "write_files",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/cke",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cybozu Kubernetes Engine",
+  "homepage": [
+    "https://github.com/cybozu-go/cke"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cke",
+    "cke-localproxy",
+    "ckecli",
+    "compile_resources",
+    "empty-dir",
+    "install-cni",
+    "make_directories",
+    "rivers",
+    "write_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/cke/archive/8459e0ff64101ac89443eb4fdf390ee90aa11a61.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-installer",
+    "sabakan"
+  ],
+  "version": "HEAD-8459e0f-250625T120500",
+  "version_upstream": "tools-1.32.0",
+  "bsum": "64e4e51005552dc592282a3c62448a172447fa385fd029946fc7fa2b71bfd5b3",
+  "build_date": "2025-06-25T07:52:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869639221",
+  "build_id": "15869639221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/write_files?tag=HEAD-8459e0f-250625T120500-x86_64-Linux&download=write_files.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/write_files?tag=HEAD-8459e0f-250625T120500-x86_64-Linux&download=write_files",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/cke/write_files:HEAD-8459e0f-250625T120500-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/cke/write_files",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/write_files?tag=HEAD-8459e0f-250625T120500-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bbe71e50060dc64a534a22144f68de23451411ec69b077ccb0ddc236da348f39",
+  "size": "2.6 MB",
+  "size_raw": "2724952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
