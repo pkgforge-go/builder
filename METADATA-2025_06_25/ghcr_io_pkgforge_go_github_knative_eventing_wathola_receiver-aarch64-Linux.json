@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "wathola-receiver",
+  "pkg_family": "eventing",
+  "pkg_id": "wathola-receiver#github.com_knative_eventing",
+  "pkg_name": "wathola-receiver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/eventing",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Event-driven application platform for Kubernetes",
+  "homepage": [
+    "https://github.com/knative/eventing"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver_receive_adapter",
+    "appender",
+    "channel_controller",
+    "channel_dispatcher",
+    "controller",
+    "event-sender",
+    "event_display",
+    "filter",
+    "heartbeats",
+    "heartbeats_receiver",
+    "ingress",
+    "jobsink",
+    "mqttsource",
+    "mtchannel_broker",
+    "mtping",
+    "pong",
+    "print",
+    "recordevents",
+    "request-sender",
+    "schema",
+    "version_check",
+    "wathola-fetcher",
+    "wathola-forwarder",
+    "wathola-receiver",
+    "wathola-sender",
+    "webhook",
+    "websocketsource"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/eventing/archive/5bcf8011acc8310ca0e469e507c1b4c757de4fff.tar.gz"
+  ],
+  "tag": [
+    "binding",
+    "cloudevents",
+    "developer-productivity",
+    "event-driven",
+    "eventing",
+    "events",
+    "knative",
+    "kubernetes"
+  ],
+  "version": "HEAD-5bcf801-250625T134405",
+  "version_upstream": "",
+  "bsum": "ea0a358c9146cc0c293d0a559d7507496a2b7e049b49ecda876d4f2be9774431",
+  "build_date": "2025-06-25T23:44:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888010154",
+  "build_id": "15888010154",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/eventing/wathola-receiver?tag=HEAD-5bcf801-250625T134405-aarch64-Linux&download=wathola-receiver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1471",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/eventing/wathola-receiver?tag=HEAD-5bcf801-250625T134405-aarch64-Linux&download=wathola-receiver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/eventing/wathola-receiver:HEAD-5bcf801-250625T134405-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/eventing/wathola-receiver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/eventing/wathola-receiver?tag=HEAD-5bcf801-250625T134405-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "877e27aba63851ba7c4cfe7f4307dc355cad3a140f3c3a29f7c56a05c51d93b2",
+  "size": "12 MB",
+  "size_raw": "12433376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e25bccd-250623T130404-aarch64-Linux",
+    "HEAD-5de389b-250623T185803-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
