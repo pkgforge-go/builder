@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "minder",
+  "pkg_id": "cli#github.com_mindersec_minder",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mindersec/minder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Software Supply Chain Security Platform",
+  "homepage": [
+    "https://github.com/mindersec/minder"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "dev",
+    "reminder",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mindersec/minder/archive/504098262933c445ad324aeb6b217146ac11a320.tar.gz"
+  ],
+  "tag": [
+    "security",
+    "software-supply-chain",
+    "software-supply-chain-security",
+    "supply-chain"
+  ],
+  "version": "HEAD-5040982-250624T143848",
+  "version_upstream": "",
+  "bsum": "07c20c554948b453155c4a17e5c4429edeba72b52b883ad309e7a37dd48570fc",
+  "build_date": "2025-06-25T12:25:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873558432",
+  "build_id": "15873558432",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/cli?tag=HEAD-5040982-250624T143848-loongarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "338",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/cli?tag=HEAD-5040982-250624T143848-loongarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mindersec/minder/cli:HEAD-5040982-250624T143848-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mindersec/minder/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/cli?tag=HEAD-5040982-250624T143848-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7eed46c1572e11d21ef962adbe3786120da51110d32143721a0a4acb9b271d9",
+  "size": "52 MB",
+  "size_raw": "54447872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6c2d2ce-250622T201438-loongarch64-Linux",
+    "HEAD-adbfc31-250623T074128-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
