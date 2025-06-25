@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "migration",
+  "pkg_family": "model-backend",
+  "pkg_id": "migration#github.com_instill_ai_model_backend",
+  "pkg_name": "migration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/instill-ai/model-backend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⇋ A REST/gRPC server for Instill Model API service",
+  "homepage": [
+    "https://github.com/instill-ai/model-backend"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "init",
+    "initmodel",
+    "main",
+    "migration",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/instill-ai/model-backend/archive/36bf283dbc14074e8d3800a6721bb3a7c701bc1f.tar.gz"
+  ],
+  "tag": [
+    "api-first",
+    "data-connector",
+    "go",
+    "golang",
+    "grpc",
+    "integration",
+    "low-code",
+    "rest",
+    "structured-data",
+    "unstructured-data"
+  ],
+  "version": "HEAD-36bf283-250625T105010",
+  "version_upstream": "",
+  "bsum": "cffb88b89bb297d1bcce729e79d4486e4766da855c876eb62cc9c9bd32de3589",
+  "build_date": "2025-06-25T17:12:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881932562",
+  "build_id": "15881932562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/model-backend/migration?tag=HEAD-36bf283-250625T105010-loongarch64-Linux&download=migration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/model-backend/migration?tag=HEAD-36bf283-250625T105010-loongarch64-Linux&download=migration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/instill-ai/model-backend/migration:HEAD-36bf283-250625T105010-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/instill-ai/model-backend/migration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instill-ai/model-backend/migration?tag=HEAD-36bf283-250625T105010-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c268f31b48ee685295ac17f727c4e0e9057ac43b5d94ac6df1b09d8e7b76ecf5",
+  "size": "26 MB",
+  "size_raw": "26861200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
