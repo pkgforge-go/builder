@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dram",
+  "pkg_family": "akita",
+  "pkg_id": "dram#github.com_sarchlab_akita",
+  "pkg_name": "dram",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sarchlab/akita",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A flexible, high-performance, user-friendly computer architecture simulator engine",
+  "homepage": [
+    "https://github.com/sarchlab/akita"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01_print_event",
+    "02_cell_split",
+    "akita",
+    "daisen",
+    "dgx_single_p2p",
+    "dgx_single_p2p_all",
+    "dgx_single_random",
+    "dram",
+    "idealmemcontroller",
+    "mesh",
+    "one_switch",
+    "one_to_one",
+    "pcie_p2p",
+    "pcie_random",
+    "three_agent_one_switch",
+    "writearoundcache",
+    "writebackcache",
+    "writeevictcache",
+    "writethroughcache"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sarchlab/akita/archive/7dd7f6ca2cd310c6768391a3e8d59e82e36becc8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7dd7f6c-250612T180712",
+  "version_upstream": "",
+  "bsum": "89fd15fce2048fe490ee87b4cace70544025b38980c9d81539a2945a83714c05",
+  "build_date": "2025-06-25T10:01:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872235983",
+  "build_id": "15872235983",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/dram?tag=HEAD-7dd7f6c-250612T180712-aarch64-Linux&download=dram.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/dram?tag=HEAD-7dd7f6c-250612T180712-aarch64-Linux&download=dram",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sarchlab/akita/dram:HEAD-7dd7f6c-250612T180712-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sarchlab/akita/dram",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/dram?tag=HEAD-7dd7f6c-250612T180712-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4c7a13e56151574a2faae350fd873a83fee4c02e362ac6ed2184d7b808ab49e",
+  "size": "3.7 MB",
+  "size_raw": "3814720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
