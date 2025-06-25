@@ -38,7 +38,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/arvados/arvados/archive/18f80f734c3d901749e786202e45e100aa25dca0.tar.gz"
+    "https://github.com/arvados/arvados/archive/7fd091c7d58a6a56c2db29d25cde41c76f614668.tar.gz"
   ],
   "tag": [
     "arvados",
@@ -58,30 +58,31 @@
     "workflow",
     "workflow-engine"
   ],
-  "version": "HEAD-18f80f7-250624T151527",
+  "version": "HEAD-7fd091c-250625T095732",
   "version_upstream": "",
-  "bsum": "c60b76b15e1f4868e1b6cd139ac35b32ed267fe0a6062db9a1037fb35c39300e",
-  "build_date": "2025-06-25T10:45:07Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873290569",
-  "build_id": "15873290569",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-block-check?tag=HEAD-18f80f7-250624T151527-loongarch64-Linux&download=keep-block-check.log",
+  "bsum": "64e7d4ef0defd8f9714a794ed731bf33f069fbe491c0e9b3a33311baa97da3ef",
+  "build_date": "2025-06-25T22:29:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887928974",
+  "build_id": "15887928974",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-block-check?tag=HEAD-7fd091c-250625T095732-loongarch64-Linux&download=keep-block-check.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "404",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-block-check?tag=HEAD-18f80f7-250624T151527-loongarch64-Linux&download=keep-block-check",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-block-check?tag=HEAD-7fd091c-250625T095732-loongarch64-Linux&download=keep-block-check",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/keep-block-check:HEAD-18f80f7-250624T151527-loongarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/keep-block-check:HEAD-7fd091c-250625T095732-loongarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/keep-block-check",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-block-check?tag=HEAD-18f80f7-250624T151527-loongarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-block-check?tag=HEAD-7fd091c-250625T095732-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "8dd39a25ead3b63a4b3fe35719d8e0cb0cb21a8f3d6a89712ce79e217a1a300d",
+  "shasum": "3fe2c9f92546977146f78998444c4e8aab5c36b31407ac89ee8c44c6b7056004",
   "size": "9.0 MB",
-  "size_raw": "9345024",
+  "size_raw": "9345600",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-1ad54b4-250618T124354-loongarch64-Linux"
+    "HEAD-1ad54b4-250618T124354-loongarch64-Linux",
+    "HEAD-18f80f7-250624T151527-loongarch64-Linux"
   ],
   "trusted": "true"
 }
