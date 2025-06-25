@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hash-gen",
+  "pkg_family": "pkg",
+  "pkg_id": "hash-gen#github.com_knative_pkg",
+  "pkg_name": "hash-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/pkg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative common packages",
+  "homepage": [
+    "https://github.com/knative/pkg"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chaosduck",
+    "hash-gen",
+    "injection-gen",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/pkg/archive/fe85a65af284512ce196298730a79765c18208ec.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fe85a65-250625T132305",
+  "version_upstream": "",
+  "bsum": "3389d3dcd7860b238aeef1aa9bc221fc3ff6e7da5874566bce2141f4663a67c9",
+  "build_date": "2025-06-25T17:18:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882184124",
+  "build_id": "15882184124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/hash-gen?tag=HEAD-fe85a65-250625T132305-riscv64-Linux&download=hash-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "271",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/hash-gen?tag=HEAD-fe85a65-250625T132305-riscv64-Linux&download=hash-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/pkg/hash-gen:HEAD-fe85a65-250625T132305-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/pkg/hash-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/hash-gen?tag=HEAD-fe85a65-250625T132305-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a691e73a2fd8789a37124b0e26b1f8f2ead98664bb56cbd5e3d1b057db68e51",
+  "size": "9.1 MB",
+  "size_raw": "9506488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
