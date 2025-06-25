@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "summationmodule",
+  "pkg_family": "rdk",
+  "pkg_id": "summationmodule#github.com_viamrobotics_rdk",
+  "pkg_name": "summationmodule",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "complexmodule",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "gizmomodule",
+    "multiversionmodule",
+    "optionaldepsmodule",
+    "remoteserver",
+    "rtppassthrough",
+    "simplemodule",
+    "subsystem_manifest",
+    "summationmodule",
+    "test_detector",
+    "testmodule",
+    "testmodule2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viamrobotics/rdk/archive/8787a26ec2b7f5437d89d9788d5ac287e42f3050.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8787a26-250624T171702",
+  "version_upstream": "",
+  "bsum": "00a16673f8532ada8bbdbc07cabc8f2e050008ea63e97e00213ec90116c0f6f7",
+  "build_date": "2025-06-25T10:35:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872487169",
+  "build_id": "15872487169",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/summationmodule?tag=HEAD-8787a26-250624T171702-aarch64-Linux&download=summationmodule.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/summationmodule?tag=HEAD-8787a26-250624T171702-aarch64-Linux&download=summationmodule",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/summationmodule:HEAD-8787a26-250624T171702-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/summationmodule",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/summationmodule?tag=HEAD-8787a26-250624T171702-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "af9423f84909056912c812d31e127e5f691b1e8c4d5e5095db608ed33225a1e0",
+  "size": "38 MB",
+  "size_raw": "39760448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
