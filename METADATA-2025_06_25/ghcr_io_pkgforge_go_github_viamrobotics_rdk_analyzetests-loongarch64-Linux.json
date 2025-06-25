@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "analyzetests",
+  "pkg_family": "rdk",
+  "pkg_id": "analyzetests#github.com_viamrobotics_rdk",
+  "pkg_name": "analyzetests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "complexmodule",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "gizmomodule",
+    "multiversionmodule",
+    "optionaldepsmodule",
+    "simplemodule",
+    "subsystem_manifest",
+    "summationmodule",
+    "test_detector",
+    "testmodule",
+    "testmodule2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viamrobotics/rdk/archive/8787a26ec2b7f5437d89d9788d5ac287e42f3050.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8787a26-250624T171702",
+  "version_upstream": "",
+  "bsum": "36dbdfd269f28680ae8954508c12ee001ee4ccc5a82b8ed2d5f03c0a90d6a160",
+  "build_date": "2025-06-25T10:34:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872487169",
+  "build_id": "15872487169",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzetests?tag=HEAD-8787a26-250624T171702-loongarch64-Linux&download=analyzetests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzetests?tag=HEAD-8787a26-250624T171702-loongarch64-Linux&download=analyzetests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/analyzetests:HEAD-8787a26-250624T171702-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/analyzetests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzetests?tag=HEAD-8787a26-250624T171702-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "68c5291c04d7e4d6c55b91349ddae1d2faa56671079b2b6c9b41d04ce12d0203",
+  "size": "20 MB",
+  "size_raw": "20883840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

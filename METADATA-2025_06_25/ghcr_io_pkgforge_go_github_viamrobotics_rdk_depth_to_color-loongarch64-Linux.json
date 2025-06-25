@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "depth_to_color",
+  "pkg_family": "rdk",
+  "pkg_id": "depth_to_color#github.com_viamrobotics_rdk",
+  "pkg_name": "depth_to_color",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "complexmodule",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "gizmomodule",
+    "multiversionmodule",
+    "optionaldepsmodule",
+    "simplemodule",
+    "subsystem_manifest",
+    "summationmodule",
+    "test_detector",
+    "testmodule",
+    "testmodule2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viamrobotics/rdk/archive/8787a26ec2b7f5437d89d9788d5ac287e42f3050.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8787a26-250624T171702",
+  "version_upstream": "",
+  "bsum": "4eea3df8c7f052f99978af1c86a3a9ab2042ea481f435dee86dae635be81afd1",
+  "build_date": "2025-06-25T10:33:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872487169",
+  "build_id": "15872487169",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/depth_to_color?tag=HEAD-8787a26-250624T171702-loongarch64-Linux&download=depth_to_color.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/depth_to_color?tag=HEAD-8787a26-250624T171702-loongarch64-Linux&download=depth_to_color",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/depth_to_color:HEAD-8787a26-250624T171702-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/depth_to_color",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/depth_to_color?tag=HEAD-8787a26-250624T171702-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ce2e939e6cd3cd94e94b2718be252040f824abf76413cc32285c49de490f1ea",
+  "size": "31 MB",
+  "size_raw": "32467136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
