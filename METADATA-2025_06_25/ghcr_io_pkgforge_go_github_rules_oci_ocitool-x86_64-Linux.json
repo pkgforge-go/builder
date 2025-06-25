@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ocitool",
+  "pkg_family": "rules_oci",
+  "pkg_id": "ocitool#github.com_DataDog_rules_oci",
+  "pkg_name": "ocitool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DataDog/rules_oci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "blazing fast Bazel rules for building OCI Images",
+  "homepage": [
+    "https://github.com/DataDog/rules_oci"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-multiarch-image",
+    "ocitool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DataDog/rules_oci/archive/d498331c5d88794b574fa2464fffaffb9377eb9d.tar.gz"
+  ],
+  "tag": [
+    "bazel",
+    "bazel-rules",
+    "oci",
+    "oras"
+  ],
+  "version": "HEAD-d498331-250624T184601",
+  "version_upstream": "",
+  "bsum": "ddc8d5224f6a9e42da52524d86e39b372be99a03942cd2309c5e782fc40d2d1e",
+  "build_date": "2025-06-25T07:11:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869554937",
+  "build_id": "15869554937",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rules/oci/ocitool?tag=HEAD-d498331-250624T184601-x86_64-Linux&download=ocitool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rules/oci/ocitool?tag=HEAD-d498331-250624T184601-x86_64-Linux&download=ocitool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rules/oci/ocitool:HEAD-d498331-250624T184601-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rules/oci/ocitool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rules/oci/ocitool?tag=HEAD-d498331-250624T184601-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0607402eff4b8acabc525548710455435120c7c1a84f82fbfab868cb0f0d0b32",
+  "size": "14 MB",
+  "size_raw": "13765296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
