@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cosmos-operator",
+  "pkg_family": "cosmos-operator",
+  "pkg_id": "cosmos-operator#github.com_strangelove_ventures_cosmos_operator",
+  "pkg_name": "cosmos-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/strangelove-ventures/cosmos-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cosmos Operator is a kubernetes operator for managing cosmos nodes",
+  "homepage": [
+    "https://github.com/strangelove-ventures/cosmos-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cosmos-operator",
+    "cosmos-operator-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/strangelove-ventures/cosmos-operator/archive/d67dcdcb2c2b1794f83e4205391a7502c61f49fc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d67dcdc-250624T200646",
+  "version_upstream": "v0.25.1",
+  "bsum": "48ff1b7e14944bc540a646be58698a71a1e0864ee3f3f947f337b2852f1698e6",
+  "build_date": "2025-06-25T09:55:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872406597",
+  "build_id": "15872406597",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/strangelove-ventures/cosmos-operator/cosmos-operator?tag=HEAD-d67dcdc-250624T200646-riscv64-Linux&download=cosmos-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "97",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/strangelove-ventures/cosmos-operator/cosmos-operator?tag=HEAD-d67dcdc-250624T200646-riscv64-Linux&download=cosmos-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/strangelove-ventures/cosmos-operator/cosmos-operator:HEAD-d67dcdc-250624T200646-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/strangelove-ventures/cosmos-operator/cosmos-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/strangelove-ventures/cosmos-operator/cosmos-operator?tag=HEAD-d67dcdc-250624T200646-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6512b69a88b51a61b7f31cbf211a71ff35dffae572a36a644b6425458b592542",
+  "size": "45 MB",
+  "size_raw": "47063128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
