@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fedtest",
+  "pkg_family": "fed",
+  "pkg_id": "fedtest#github.com_moov_io_fed",
+  "pkg_name": "fedtest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/moov-io/fed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fuzzy FedACH and FedWire ABA Routing Number and Bank Name Lookup.",
+  "homepage": [
+    "https://github.com/moov-io/fed"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fedtest",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/moov-io/fed/archive/3dcaad32a7e28d6f27c6e205f526c21c05e99fe1.tar.gz"
+  ],
+  "tag": [
+    "ach",
+    "banking",
+    "federal-reserve-bank",
+    "federal-reserve-banks",
+    "fedwire",
+    "financial-institutions",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-3dcaad3-250625T085817",
+  "version_upstream": "",
+  "bsum": "56b083b09b662d035ab493bf1a7723480892036cc953b0a9854f676730f84a32",
+  "build_date": "2025-06-25T17:30:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882338542",
+  "build_id": "15882338542",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/fed/fedtest?tag=HEAD-3dcaad3-250625T085817-riscv64-Linux&download=fedtest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "99",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/fed/fedtest?tag=HEAD-3dcaad3-250625T085817-riscv64-Linux&download=fedtest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/moov-io/fed/fedtest:HEAD-3dcaad3-250625T085817-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/moov-io/fed/fedtest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/fed/fedtest?tag=HEAD-3dcaad3-250625T085817-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7ae37bd8fd845dfff227da0e800c343eb15d4afae555c8102f2ea86683dfc40",
+  "size": "6.7 MB",
+  "size_raw": "6968504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
