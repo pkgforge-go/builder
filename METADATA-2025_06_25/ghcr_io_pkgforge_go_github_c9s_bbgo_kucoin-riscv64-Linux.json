@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kucoin",
+  "pkg_family": "bbgo",
+  "pkg_id": "kucoin#github.com_c9s_bbgo",
+  "pkg_name": "kucoin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/c9s/bbgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The modern cryptocurrency trading bot framework written in Go.",
+  "homepage": [
+    "https://github.com/c9s/bbgo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbgo",
+    "bbgo-lorca",
+    "binance-book",
+    "binance-margin",
+    "embed",
+    "google-spreadsheet",
+    "interact",
+    "kucoin",
+    "kucoin-accounts",
+    "max-rewards",
+    "max-withdraw",
+    "okex-book",
+    "telebot",
+    "update-doc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/c9s/bbgo/archive/38ed13a8f8cf6f63a745c1284fb028eaaeb68752.tar.gz"
+  ],
+  "tag": [
+    "binance",
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "trading",
+    "trading-bot"
+  ],
+  "version": "HEAD-38ed13a-250625T185928",
+  "version_upstream": "",
+  "bsum": "b18f14fecf4adc90c712ff0ad176beb467b338b5d2033bdf41d2b0b5d4962c28",
+  "build_date": "2025-06-25T22:28:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887928799",
+  "build_id": "15887928799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/kucoin?tag=HEAD-38ed13a-250625T185928-riscv64-Linux&download=kucoin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1371",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/kucoin?tag=HEAD-38ed13a-250625T185928-riscv64-Linux&download=kucoin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/c9s/bbgo/kucoin:HEAD-38ed13a-250625T185928-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/c9s/bbgo/kucoin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/kucoin?tag=HEAD-38ed13a-250625T185928-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1b67320f181a98a57f97c53ff09b8ffde719cf7f09a435f499b8a7b35363964e",
+  "size": "16 MB",
+  "size_raw": "15783192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-56b482f-250618T155603-riscv64-Linux",
+    "HEAD-0425031-250620T155700-riscv64-Linux",
+    "HEAD-2bea5da-250624T151112-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
