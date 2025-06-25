@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "kube-trigger",
+  "pkg_id": "manager#github.com_kubevela_kube_trigger",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevela/kube-trigger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "kube-trigger watches events and triggers actions in a programmable way.",
+  "homepage": [
+    "https://github.com/kubevela/kube-trigger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubetrigger",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevela/kube-trigger/archive/fde05c55959284fa3a050c5d717c585850407ff1.tar.gz"
+  ],
+  "tag": [
+    "controller",
+    "crd",
+    "kubernetes",
+    "trigger"
+  ],
+  "version": "HEAD-fde05c5-250625T060701",
+  "version_upstream": "",
+  "bsum": "9a34df86b8ff0996fc68d0b825246cd6d131f88118377cc07dacb5d66f64b16c",
+  "build_date": "2025-06-25T08:36:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870466333",
+  "build_id": "15870466333",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kube-trigger/manager?tag=HEAD-fde05c5-250625T060701-loongarch64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kube-trigger/manager?tag=HEAD-fde05c5-250625T060701-loongarch64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevela/kube-trigger/manager:HEAD-fde05c5-250625T060701-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevela/kube-trigger/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevela/kube-trigger/manager?tag=HEAD-fde05c5-250625T060701-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c88711420fee69a53d5c21645c3e1758f544704c7e4566f606723b54ba75dc92",
+  "size": "65 MB",
+  "size_raw": "67735328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
