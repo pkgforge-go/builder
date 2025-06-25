@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "container",
+  "pkg_family": "slsa-github-generator",
+  "pkg_id": "container#github.com_slsa_framework_slsa_github_generator",
+  "pkg_name": "container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/slsa-framework/slsa-github-generator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Language-agnostic SLSA provenance generation for Github Actions",
+  "homepage": [
+    "https://github.com/slsa-framework/slsa-github-generator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "container",
+    "docker",
+    "generic",
+    "go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/slsa-framework/slsa-github-generator/archive/a5cc0c3d94f050998a69d915ea5e5c23ca584b3e.tar.gz"
+  ],
+  "tag": [
+    "security",
+    "security-hardening",
+    "security-tools",
+    "slsa",
+    "slsaprovenance"
+  ],
+  "version": "HEAD-a5cc0c3-250625T111637",
+  "version_upstream": "",
+  "bsum": "9ceb3e8a3385d68eff438871ecec6e9c9dd93fc0253d5d680b34d6c9b7f3dd1f",
+  "build_date": "2025-06-25T18:17:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882694498",
+  "build_id": "15882694498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slsa-framework/slsa-github-generator/container?tag=HEAD-a5cc0c3-250625T111637-riscv64-Linux&download=container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "480",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slsa-framework/slsa-github-generator/container?tag=HEAD-a5cc0c3-250625T111637-riscv64-Linux&download=container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slsa-framework/slsa-github-generator/container:HEAD-a5cc0c3-250625T111637-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slsa-framework/slsa-github-generator/container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slsa-framework/slsa-github-generator/container?tag=HEAD-a5cc0c3-250625T111637-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d868fa624345c352cca77d3c8b3b39c5fc397641020ded1f8f600bb6ec6952f6",
+  "size": "12 MB",
+  "size_raw": "11823640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
