@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "xc",
+  "pkg_family": "crosschain",
+  "pkg_id": "xc#github.com_cordialsys_crosschain",
+  "pkg_name": "xc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cordialsys/crosschain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial Systems abstraction over blockchains",
+  "homepage": [
+    "https://github.com/cordialsys/crosschain"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitcoin",
+    "example",
+    "get_secret",
+    "solana_aux_token_account",
+    "staking",
+    "ton",
+    "txinfo",
+    "xc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cordialsys/crosschain/archive/a70f2d7e167593172661fcf358ad49794a9e4f78.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a70f2d7-250625T094128",
+  "version_upstream": "",
+  "bsum": "76e2299359507babf51c4829f082cfa7208f673226e35d1d18d2a42bceef7508",
+  "build_date": "2025-06-25T22:48:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887934492",
+  "build_id": "15887934492",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/xc?tag=HEAD-a70f2d7-250625T094128-aarch64-Linux&download=xc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/xc?tag=HEAD-a70f2d7-250625T094128-aarch64-Linux&download=xc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cordialsys/crosschain/xc:HEAD-a70f2d7-250625T094128-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cordialsys/crosschain/xc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/xc?tag=HEAD-a70f2d7-250625T094128-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9eead8fb9d8632974a4f22675c601832068a72d0e5550b28fbad738b52913480",
+  "size": "103 MB",
+  "size_raw": "106984288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9fd8fef-250619T115529-aarch64-Linux",
+    "HEAD-dbe9b17-250623T180528-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
