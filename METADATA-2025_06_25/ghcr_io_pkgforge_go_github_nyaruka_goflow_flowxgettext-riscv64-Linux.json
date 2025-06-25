@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "flowxgettext",
+  "pkg_family": "goflow",
+  "pkg_id": "flowxgettext#github.com_nyaruka_goflow",
+  "pkg_name": "flowxgettext",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nyaruka/goflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flow engine for RapidPro/TextIt.",
+  "homepage": [
+    "https://github.com/nyaruka/goflow"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docgen",
+    "flowmigrate",
+    "flowrunner",
+    "flowxgettext"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nyaruka/goflow/archive/bb64cfce7229bbe4aabc6acd45e49ed9c2bc7565.tar.gz"
+  ],
+  "tag": [
+    "flows",
+    "flowspec",
+    "messaging"
+  ],
+  "version": "HEAD-bb64cfc-250624T135919",
+  "version_upstream": "v0.248.4",
+  "bsum": "4868a92d612e2c2cf072735edf4214323cde1558a22752340c9d854b802cad5d",
+  "build_date": "2025-06-25T14:36:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877616509",
+  "build_id": "15877616509",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowxgettext?tag=HEAD-bb64cfc-250624T135919-riscv64-Linux&download=flowxgettext.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowxgettext?tag=HEAD-bb64cfc-250624T135919-riscv64-Linux&download=flowxgettext",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nyaruka/goflow/flowxgettext:HEAD-bb64cfc-250624T135919-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nyaruka/goflow/flowxgettext",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowxgettext?tag=HEAD-bb64cfc-250624T135919-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b91d184d895b9ec354c5a2f013608d31441908026cba78c2e1a9c5cfb00cba6",
+  "size": "20 MB",
+  "size_raw": "20264952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0dc56a5-250620T195046-riscv64-Linux[v0.248.1]"
+  ],
+  "trusted": "true"
+}
