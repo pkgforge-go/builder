@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ckecli",
+  "pkg_family": "cke",
+  "pkg_id": "ckecli#github.com_cybozu_go_cke",
+  "pkg_name": "ckecli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/cke",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cybozu Kubernetes Engine",
+  "homepage": [
+    "https://github.com/cybozu-go/cke"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cke",
+    "cke-localproxy",
+    "ckecli",
+    "compile_resources",
+    "empty-dir",
+    "install-cni",
+    "make_directories",
+    "rivers",
+    "write_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/cke/archive/8459e0ff64101ac89443eb4fdf390ee90aa11a61.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-installer",
+    "sabakan"
+  ],
+  "version": "HEAD-8459e0f-250625T120500",
+  "version_upstream": "tools-1.32.0",
+  "bsum": "56de3842c3f154b6e424a1b1a8dd66b2e155fae1fddb1ebdeda0e734ff40dfaf",
+  "build_date": "2025-06-25T07:52:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869639221",
+  "build_id": "15869639221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/ckecli?tag=HEAD-8459e0f-250625T120500-riscv64-Linux&download=ckecli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/ckecli?tag=HEAD-8459e0f-250625T120500-riscv64-Linux&download=ckecli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/cke/ckecli:HEAD-8459e0f-250625T120500-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/cke/ckecli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/ckecli?tag=HEAD-8459e0f-250625T120500-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4334cdf7f744e886c669eac462b0a46e7ad41ea32f02195b0d50fc6f65687480",
+  "size": "55 MB",
+  "size_raw": "57007384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
