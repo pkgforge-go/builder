@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "doltgresql",
+  "pkg_id": "cmd#github.com_dolthub_doltgresql",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dolthub/doltgresql",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DoltgreSQL - Version Controlled PostgreSQL",
+  "homepage": [
+    "https://github.com/dolthub/doltgresql"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "cmd",
+    "genminver_validation",
+    "logictest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dolthub/doltgresql/archive/d6e6cb5b89f14040d8d49b4e4cbdb9b3d53ec29d.tar.gz"
+  ],
+  "tag": [
+    "database-version-control",
+    "git",
+    "postgres",
+    "postgresql",
+    "version-conrolled-database"
+  ],
+  "version": "HEAD-d6e6cb5-250624T174526",
+  "version_upstream": "",
+  "bsum": "9c06b7aa757a44169a429cda3b8e1495274e231d2bf43d213d656bfb972cde54",
+  "build_date": "2025-06-25T11:28:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873390491",
+  "build_id": "15873390491",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/doltgresql/cmd?tag=HEAD-d6e6cb5-250624T174526-x86_64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1299",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/doltgresql/cmd?tag=HEAD-d6e6cb5-250624T174526-x86_64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dolthub/doltgresql/cmd:HEAD-d6e6cb5-250624T174526-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dolthub/doltgresql/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dolthub/doltgresql/cmd?tag=HEAD-d6e6cb5-250624T174526-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31d44efa218014d1b2d624352a71266143795e4991337684dd0e3dc94edd733b",
+  "size": "2.0 MB",
+  "size_raw": "2087192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f70b2f0-250618T201113-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
