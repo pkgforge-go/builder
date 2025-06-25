@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cluster-bare-autoscaler",
+  "pkg_family": "cluster-bare-autoscaler",
+  "pkg_id": "cluster-bare-autoscaler#github.com_docent_net_cluster_bare_autoscaler",
+  "pkg_name": "cluster-bare-autoscaler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docent-net/cluster-bare-autoscaler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster Bare Autoscaler is a tool that automatically adjusts the size of the bare-metal Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/docent-net/cluster-bare-autoscaler"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-bare-autoscaler",
+    "metrics-daemonset",
+    "poweroff-daemonset",
+    "wol-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docent-net/cluster-bare-autoscaler/archive/1b0bdfd932d8885deddea946f38b38e4f70822bd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1b0bdfd-250624T233127",
+  "version_upstream": "0.7.8",
+  "bsum": "e9e18e5f8a3ed07a29e9194fa44b7d62d07d794890180d7b1cea077d9dfd8a38",
+  "build_date": "2025-06-25T07:51:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869666173",
+  "build_id": "15869666173",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docent-net/cluster-bare-autoscaler/cluster-bare-autoscaler?tag=HEAD-1b0bdfd-250624T233127-x86_64-Linux&download=cluster-bare-autoscaler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docent-net/cluster-bare-autoscaler/cluster-bare-autoscaler?tag=HEAD-1b0bdfd-250624T233127-x86_64-Linux&download=cluster-bare-autoscaler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docent-net/cluster-bare-autoscaler/cluster-bare-autoscaler:HEAD-1b0bdfd-250624T233127-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docent-net/cluster-bare-autoscaler/cluster-bare-autoscaler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docent-net/cluster-bare-autoscaler/cluster-bare-autoscaler?tag=HEAD-1b0bdfd-250624T233127-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a855eea6ecb7b4d9f3fd6a987bef486b31a383a09602f1c7801ac630c6000f4a",
+  "size": "49 MB",
+  "size_raw": "51371200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
