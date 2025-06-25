@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "helper",
+  "pkg_family": "collector",
+  "pkg_id": "helper#github.com_pganalyze_collector",
+  "pkg_name": "helper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pganalyze/collector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "pganalyze statistics collector for gathering PostgreSQL metrics and log data",
+  "homepage": [
+    "https://github.com/pganalyze/collector"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pganalyze/collector/archive/b3ccc143d638008bd39301bf6651f1b9ab05dab6.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "metrics",
+    "monitoring",
+    "postgresql",
+    "rds"
+  ],
+  "version": "HEAD-b3ccc14-250625T114602",
+  "version_upstream": "v0.66.2",
+  "bsum": "3c8ce8e7f1a6e778b9cdbfab97f68a1eeb22d676bab6b134b5e4725eeefa61de",
+  "build_date": "2025-06-25T09:29:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871286500",
+  "build_id": "15871286500",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pganalyze/collector/helper?tag=HEAD-b3ccc14-250625T114602-loongarch64-Linux&download=helper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "368",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pganalyze/collector/helper?tag=HEAD-b3ccc14-250625T114602-loongarch64-Linux&download=helper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pganalyze/collector/helper:HEAD-b3ccc14-250625T114602-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pganalyze/collector/helper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pganalyze/collector/helper?tag=HEAD-b3ccc14-250625T114602-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "957bfbe28b7058add4f30d16cac7194c0cb56bdc86888224483c8f0891ade3e0",
+  "size": "2.4 MB",
+  "size_raw": "2512632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
