@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "frps",
+  "pkg_family": "frp",
+  "pkg_id": "frps#github.com_fatedier_frp",
+  "pkg_name": "frps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fatedier/frp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+  "homepage": [
+    "https://github.com/fatedier/frp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "frpc",
+    "frps"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fatedier/frp/archive/c777891f7589e3491f6e5c375b91fd637680aa04.tar.gz"
+  ],
+  "tag": [
+    "expose",
+    "firewall",
+    "frp",
+    "go",
+    "http-proxy",
+    "nat",
+    "p2p",
+    "proxy",
+    "reverse-proxy",
+    "tunnel"
+  ],
+  "version": "HEAD-c777891-250625T114023",
+  "version_upstream": "",
+  "bsum": "312fbd912608941ccb57ca177f8cac499c59707ba2b5b01dd9f9fb02fbc3d334",
+  "build_date": "2025-06-25T13:48:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877395722",
+  "build_id": "15877395722",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fatedier/frp/frps?tag=HEAD-c777891-250625T114023-x86_64-Linux&download=frps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "95411",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fatedier/frp/frps?tag=HEAD-c777891-250625T114023-x86_64-Linux&download=frps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fatedier/frp/frps:HEAD-c777891-250625T114023-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fatedier/frp/frps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fatedier/frp/frps?tag=HEAD-c777891-250625T114023-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19bc18c49c0357842ad6d90128da684a1c9abb6bc29f389aa7fcf79b26dcf728",
+  "size": "22 MB",
+  "size_raw": "22938496",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-de690a5-250527T164615-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
