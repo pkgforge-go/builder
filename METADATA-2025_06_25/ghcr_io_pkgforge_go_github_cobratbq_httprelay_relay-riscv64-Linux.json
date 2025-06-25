@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "relay",
+  "pkg_family": "httpRelay",
+  "pkg_id": "relay#github.com_cobratbq_httpRelay",
+  "pkg_name": "relay",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cobratbq/httpRelay",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HTTP Proxy Relay is a tool to create an HTTP proxy that connects to and relays all requests through a SOCKS proxy.",
+  "homepage": [
+    "https://github.com/cobratbq/httpRelay"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "proxy",
+    "relay"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cobratbq/httpRelay/archive/434e4af85496071f56fb129bb621e69ff57ff411.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-434e4af-250625T050232",
+  "version_upstream": "",
+  "bsum": "7e4ad8c729a19edffe16c004cf53030c4512693eebe637ad9c5b10d73897660e",
+  "build_date": "2025-06-25T07:42:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869624720",
+  "build_id": "15869624720",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/httprelay/relay?tag=HEAD-434e4af-250625T050232-riscv64-Linux&download=relay.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/httprelay/relay?tag=HEAD-434e4af-250625T050232-riscv64-Linux&download=relay",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cobratbq/httprelay/relay:HEAD-434e4af-250625T050232-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cobratbq/httprelay/relay",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/httprelay/relay?tag=HEAD-434e4af-250625T050232-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "00f781d42edb81525e5f3aa8d9b928306ba3759200ac48a7dccd669cb91fe3dd",
+  "size": "5.9 MB",
+  "size_raw": "6177592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
