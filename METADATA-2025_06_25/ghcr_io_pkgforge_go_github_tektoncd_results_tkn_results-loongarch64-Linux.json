@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tkn-results",
+  "pkg_family": "results",
+  "pkg_id": "tkn-results#github.com_tektoncd_results",
+  "pkg_name": "tkn-results",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/results",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Long term storage of execution results.",
+  "homepage": [
+    "https://github.com/tektoncd/results"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli-docs",
+    "retention-policy-agent",
+    "simpleui",
+    "tkn-results",
+    "watcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/results/archive/ebc84b14c20a0239d1a37416ff8c4e0106abc8ba.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "tekton",
+    "tekton-results"
+  ],
+  "version": "HEAD-ebc84b1-250625T121954",
+  "version_upstream": "",
+  "bsum": "7e2d96a3e0d519b68790529a505459356f6156a2f99ba9002fdb83ef5e48834c",
+  "build_date": "2025-06-25T18:35:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883164923",
+  "build_id": "15883164923",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/tkn-results?tag=HEAD-ebc84b1-250625T121954-loongarch64-Linux&download=tkn-results.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/tkn-results?tag=HEAD-ebc84b1-250625T121954-loongarch64-Linux&download=tkn-results",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/results/tkn-results:HEAD-ebc84b1-250625T121954-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/results/tkn-results",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/tkn-results?tag=HEAD-ebc84b1-250625T121954-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb98aeff63c7136c6b4bbcdd135ad2da520df121d7e2dbed526a07b96eb05dc7",
+  "size": "110 MB",
+  "size_raw": "114538208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
