@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "retina",
+  "pkg_id": "controller#github.com_microsoft_retina",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "captureworkload",
+    "controller",
+    "dns",
+    "dropreason",
+    "enricher",
+    "filtermanager",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "packetforward",
+    "packetparser",
+    "retina",
+    "utsummary",
+    "veth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/192ddfb5326b4a7cf50e279e2002c45f67f965c9.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-192ddfb-250625T132826",
+  "version_upstream": "",
+  "bsum": "1d5a0b671c34e0ffa0597a7bbdd20f040f81f0b05083abbd8ce88e9a5647dcc7",
+  "build_date": "2025-06-25T23:57:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888055237",
+  "build_id": "15888055237",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/controller?tag=HEAD-192ddfb-250625T132826-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2983",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/controller?tag=HEAD-192ddfb-250625T132826-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/controller:HEAD-192ddfb-250625T132826-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/controller?tag=HEAD-192ddfb-250625T132826-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d39b7da2a7ab26db4b870d52fee7ab95af25090c85cd192f99b9cbbf2f9c012d",
+  "size": "123 MB",
+  "size_raw": "128190784",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-586a3a6-250619T115102-aarch64-Linux",
+    "HEAD-bdd0b28-250623T090413-aarch64-Linux",
+    "HEAD-51ac044-250624T074805-aarch64-Linux[v0.0.35]"
+  ],
+  "trusted": "true"
+}
