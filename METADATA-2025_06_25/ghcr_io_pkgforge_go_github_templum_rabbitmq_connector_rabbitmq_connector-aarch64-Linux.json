@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rabbitmq-connector",
+  "pkg_family": "rabbitmq-connector",
+  "pkg_id": "rabbitmq-connector#github.com_Templum_rabbitmq_connector",
+  "pkg_name": "rabbitmq-connector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Templum/rabbitmq-connector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The connector enables a developer to trigger OpenFaaS functions from Rabbit MQ using Messages with specific Routing Keys.",
+  "homepage": [
+    "https://github.com/Templum/rabbitmq-connector"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rabbitmq-connector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Templum/rabbitmq-connector/archive/f4403c0f09bed7b967deb0eb57cca75f165dcfdb.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "mit-license",
+    "openfaas",
+    "openfaas-connector",
+    "rabbit-mq",
+    "rabbitmq",
+    "rabbitmq-connector"
+  ],
+  "version": "HEAD-f4403c0-250625T135849",
+  "version_upstream": "",
+  "bsum": "f345902a21a6ae07eb6e4953b5ed96b0d91746a899786dfb938a0cbac251cdff",
+  "build_date": "2025-06-25T16:15:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881100955",
+  "build_id": "15881100955",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templum/rabbitmq-connector/rabbitmq-connector?tag=HEAD-f4403c0-250625T135849-aarch64-Linux&download=rabbitmq-connector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "88",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templum/rabbitmq-connector/rabbitmq-connector?tag=HEAD-f4403c0-250625T135849-aarch64-Linux&download=rabbitmq-connector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/templum/rabbitmq-connector/rabbitmq-connector:HEAD-f4403c0-250625T135849-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/templum/rabbitmq-connector/rabbitmq-connector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/templum/rabbitmq-connector/rabbitmq-connector?tag=HEAD-f4403c0-250625T135849-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad1c6b72828f6b57b584d23dfe23b397684f52583797c4b7e99e31e557ff3c2e",
+  "size": "6.8 MB",
+  "size_raw": "7044864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
