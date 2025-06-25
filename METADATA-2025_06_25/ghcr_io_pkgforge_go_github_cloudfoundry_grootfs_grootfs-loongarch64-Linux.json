@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "grootfs",
+  "pkg_family": "grootfs",
+  "pkg_id": "grootfs#github.com_cloudfoundry_grootfs",
+  "pkg_name": "grootfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/grootfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Garden root file system",
+  "homepage": [
+    "https://github.com/cloudfoundry/grootfs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grootfs",
+    "namespacer",
+    "tardis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/grootfs/archive/f90ad39502e1a897c7b8f8048d582c98e5dd3436.tar.gz"
+  ],
+  "tag": [
+    "cff-wg-app-runtime-platform",
+    "cloud-foundry",
+    "garden",
+    "rootfs"
+  ],
+  "version": "HEAD-f90ad39-250625T020723",
+  "version_upstream": "",
+  "bsum": "350f0ea6c9b197e8954f6c94a78519cc105187521c635b277495f8bdffe12802",
+  "build_date": "2025-06-25T07:41:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869613646",
+  "build_id": "15869613646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/grootfs?tag=HEAD-f90ad39-250625T020723-loongarch64-Linux&download=grootfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/grootfs?tag=HEAD-f90ad39-250625T020723-loongarch64-Linux&download=grootfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/grootfs/grootfs:HEAD-f90ad39-250625T020723-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/grootfs/grootfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/grootfs/grootfs?tag=HEAD-f90ad39-250625T020723-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f75e3b71e16a25543c1b946c46d1256afe8af98a1a0b917bbdf331bf762aa853",
+  "size": "14 MB",
+  "size_raw": "13877440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
