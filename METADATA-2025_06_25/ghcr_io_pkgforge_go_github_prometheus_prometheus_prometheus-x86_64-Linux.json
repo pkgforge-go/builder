@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prometheus",
+  "pkg_family": "prometheus",
+  "pkg_id": "prometheus#github.com_prometheus_prometheus",
+  "pkg_name": "prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Prometheus monitoring system and time series database.",
+  "homepage": [
+    "https://github.com/prometheus/prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/prometheus/archive/31e158b7495a2bb7dbd0d380f502510c263082ec.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+  ],
+  "version": "HEAD-31e158b-250624T215255",
+  "version_upstream": "",
+  "bsum": "f10b8f5aeec6d526bd76a41f11fbdf707d26223eb89bc1f98aa32f176e80c690",
+  "build_date": "2025-06-25T11:10:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873583278",
+  "build_id": "15873583278",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/prometheus?tag=HEAD-31e158b-250624T215255-x86_64-Linux&download=prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59135",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/prometheus?tag=HEAD-31e158b-250624T215255-x86_64-Linux&download=prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/prometheus:HEAD-31e158b-250624T215255-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/prometheus?tag=HEAD-31e158b-250624T215255-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d9eb584259b842a2d2230d99dd296ef35df859f49fa6bff1ecb9c673a733839",
+  "size": "118 MB",
+  "size_raw": "123387040",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c701636-250620T130902-x86_64-Linux",
+    "HEAD-8ed37d3-250623T005608-x86_64-Linux",
+    "HEAD-bdada23-250624T122006-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
