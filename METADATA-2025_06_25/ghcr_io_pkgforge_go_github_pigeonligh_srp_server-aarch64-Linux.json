@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "srp",
+  "pkg_id": "server#github.com_pigeonligh_srp",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pigeonligh/srp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Secure Reverse Proxy over SSH protocol. Help to expose your local server to the private network.",
+  "homepage": [
+    "https://github.com/pigeonligh/srp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "http",
+    "proxy_only",
+    "reverseproxy_only",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pigeonligh/srp/archive/8c19a6f2f101b315994519f70864d768daa86e30.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c19a6f-250625T174631",
+  "version_upstream": "v0.0.5",
+  "bsum": "9193f2b66ff138e4b89751b949dca54bda44b0bb86bab2cc5e30cfb04f64e75d",
+  "build_date": "2025-06-25T17:46:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882442871",
+  "build_id": "15882442871",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/server?tag=HEAD-8c19a6f-250625T174631-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/server?tag=HEAD-8c19a6f-250625T174631-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pigeonligh/srp/server:HEAD-8c19a6f-250625T174631-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pigeonligh/srp/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/server?tag=HEAD-8c19a6f-250625T174631-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e86bf4bb6ae8539af05f0e061df4eb0dd297002197daddf59f4a16ac2fb08f24",
+  "size": "8.4 MB",
+  "size_raw": "8705376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

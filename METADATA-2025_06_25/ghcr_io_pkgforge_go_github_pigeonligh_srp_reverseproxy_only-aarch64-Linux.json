@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "reverseproxy_only",
+  "pkg_family": "srp",
+  "pkg_id": "reverseproxy_only#github.com_pigeonligh_srp",
+  "pkg_name": "reverseproxy_only",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pigeonligh/srp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Secure Reverse Proxy over SSH protocol. Help to expose your local server to the private network.",
+  "homepage": [
+    "https://github.com/pigeonligh/srp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "http",
+    "proxy_only",
+    "reverseproxy_only",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pigeonligh/srp/archive/8c19a6f2f101b315994519f70864d768daa86e30.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8c19a6f-250625T174631",
+  "version_upstream": "v0.0.5",
+  "bsum": "52253f76dc00373603541b9b7e4965b2e28ec5423f3b8ab6b338d1ad48a5070b",
+  "build_date": "2025-06-25T17:45:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882442871",
+  "build_id": "15882442871",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/reverseproxy_only?tag=HEAD-8c19a6f-250625T174631-aarch64-Linux&download=reverseproxy_only.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/reverseproxy_only?tag=HEAD-8c19a6f-250625T174631-aarch64-Linux&download=reverseproxy_only",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pigeonligh/srp/reverseproxy_only:HEAD-8c19a6f-250625T174631-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pigeonligh/srp/reverseproxy_only",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/reverseproxy_only?tag=HEAD-8c19a6f-250625T174631-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7341774f6d1abd8a153bde89df31f131af496552a7d4819f3410e18453b789a",
+  "size": "7.9 MB",
+  "size_raw": "8280064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
