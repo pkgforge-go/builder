@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "topolvm-node",
+  "pkg_family": "topolvm",
+  "pkg_id": "topolvm-node#github.com_topolvm_topolvm",
+  "pkg_name": "topolvm-node",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topolvm/topolvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Capacity-aware CSI plugin for Kubernetes",
+  "homepage": [
+    "https://github.com/topolvm/topolvm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hypertopolvm",
+    "lvmd",
+    "topolvm-controller",
+    "topolvm-node",
+    "topolvm-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topolvm/topolvm/archive/cd1179b46b928711b990a32783acce8c29ccbac9.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "kubernetes",
+    "lvm2"
+  ],
+  "version": "HEAD-cd1179b-250625T110437",
+  "version_upstream": "",
+  "bsum": "bc6e52cea6b774e9bb76d55f1ef9e44fa5ef16807379521bb5c79948ca853f90",
+  "build_date": "2025-06-25T10:13:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872470490",
+  "build_id": "15872470490",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-node?tag=HEAD-cd1179b-250625T110437-riscv64-Linux&download=topolvm-node.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "910",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-node?tag=HEAD-cd1179b-250625T110437-riscv64-Linux&download=topolvm-node",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topolvm/topolvm/topolvm-node:HEAD-cd1179b-250625T110437-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topolvm/topolvm/topolvm-node",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-node?tag=HEAD-cd1179b-250625T110437-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "600a21b34ea7f2db03a1f3874568a9dd3a3e816c1cc8bbe6e1dd29d4c69518a6",
+  "size": "53 MB",
+  "size_raw": "54967352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
