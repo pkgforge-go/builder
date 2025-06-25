@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spanner-emulator-tools",
+  "pkg_family": "spanner-emulator",
+  "pkg_id": "spanner-emulator-tools#github.com_RoryQ_spanner_emulator",
+  "pkg_name": "spanner-emulator-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/RoryQ/spanner-emulator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker image that wraps the official Google Cloud Spanner Emulator image which creates an instance/database on startup",
+  "homepage": [
+    "https://github.com/RoryQ/spanner-emulator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "spanner-emulator",
+    "spanner-emulator-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/RoryQ/spanner-emulator/archive/613e3959f5d594eea46eb43f718da3f1005b0ac6.tar.gz"
+  ],
+  "tag": [
+    "cloud-spanner",
+    "spanner"
+  ],
+  "version": "HEAD-613e395-250625T000654",
+  "version_upstream": "1.5.36",
+  "bsum": "7cf3e173b5f93290d59ef69e30f874f369f5d2db05760bcb9d3955dbdf629713",
+  "build_date": "2025-06-25T07:14:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869556440",
+  "build_id": "15869556440",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roryq/spanner-emulator/spanner-emulator-tools?tag=HEAD-613e395-250625T000654-riscv64-Linux&download=spanner-emulator-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roryq/spanner-emulator/spanner-emulator-tools?tag=HEAD-613e395-250625T000654-riscv64-Linux&download=spanner-emulator-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/roryq/spanner-emulator/spanner-emulator-tools:HEAD-613e395-250625T000654-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/roryq/spanner-emulator/spanner-emulator-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roryq/spanner-emulator/spanner-emulator-tools?tag=HEAD-613e395-250625T000654-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "359c3b5870aded03b96d02930d1ed7d344ceda4af5ffb1b40b43e3cf3ad24723",
+  "size": "32 MB",
+  "size_raw": "32813112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
