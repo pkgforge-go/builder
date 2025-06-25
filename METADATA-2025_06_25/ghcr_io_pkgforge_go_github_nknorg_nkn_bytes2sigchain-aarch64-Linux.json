@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bytes2sigchain",
+  "pkg_family": "nkn",
+  "pkg_id": "bytes2sigchain#github.com_nknorg_nkn",
+  "pkg_name": "bytes2sigchain",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nknorg/nkn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Official Go implementation of NKN full node.",
+  "homepage": [
+    "https://github.com/nknorg/nkn"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bytes2sigchain",
+    "nknc",
+    "nknd",
+    "pubkey2addr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nknorg/nkn/archive/5e9a7fd09aa085ececd7c49cd0cee2773d8be9e6.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "decentralization",
+    "distributed-systems",
+    "go",
+    "network",
+    "nkn",
+    "p2p"
+  ],
+  "version": "HEAD-5e9a7fd-250625T050537",
+  "version_upstream": "",
+  "bsum": "e6d3fd0bdd4c80917cc108a21dbb4613d928ba045e6c965845c8875a66ba151d",
+  "build_date": "2025-06-25T17:35:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882387100",
+  "build_id": "15882387100",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/bytes2sigchain?tag=HEAD-5e9a7fd-250625T050537-aarch64-Linux&download=bytes2sigchain.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "483",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/bytes2sigchain?tag=HEAD-5e9a7fd-250625T050537-aarch64-Linux&download=bytes2sigchain",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nknorg/nkn/bytes2sigchain:HEAD-5e9a7fd-250625T050537-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nknorg/nkn/bytes2sigchain",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/bytes2sigchain?tag=HEAD-5e9a7fd-250625T050537-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "563d0c3abaad969cdb01e5700e34b00e644a64d4e8a129bb9e91a197f99c0a8f",
+  "size": "4.5 MB",
+  "size_raw": "4626752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
