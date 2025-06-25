@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "transformer-definition",
+  "pkg_family": "pgstream",
+  "pkg_id": "transformer-definition#github.com_xataio_pgstream",
+  "pkg_name": "transformer-definition",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xataio/pgstream",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "https://github.com/xataio/pgstream"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xataio/pgstream/archive/227bfc8afea1622628019b4f449e6331a52e9000.tar.gz"
+  ],
+  "tag": [
+    "ddl",
+    "elasticsearch",
+    "golang",
+    "opensearch",
+    "postgresql",
+    "replication",
+    "schema",
+    "webhooks"
+  ],
+  "version": "HEAD-227bfc8-250624T160434",
+  "version_upstream": "",
+  "bsum": "312ce5b97ee9fb635c1b8c91fddf53cf312f21a5ba4320b8cc365011f14edf96",
+  "build_date": "2025-06-25T04:07:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15866439814",
+  "build_id": "15866439814",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/transformer-definition?tag=HEAD-227bfc8-250624T160434-riscv64-Linux&download=transformer-definition.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "592",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/transformer-definition?tag=HEAD-227bfc8-250624T160434-riscv64-Linux&download=transformer-definition",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/transformer-definition:HEAD-227bfc8-250624T160434-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/transformer-definition",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/transformer-definition?tag=HEAD-227bfc8-250624T160434-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a124eb1d8a193899c5e5d5a17a9f7fac962453709bfa37a94b86ff9bd70c3e3c",
+  "size": "124 MB",
+  "size_raw": "129826872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-438b44a-250620T131309-riscv64-Linux[v0.7.1]"
+  ],
+  "trusted": "true"
+}
