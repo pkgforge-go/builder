@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "src",
+  "pkg_family": "terratest",
+  "pkg_id": "src#github.com_gruntwork_io_terratest",
+  "pkg_name": "src",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gruntwork-io/terratest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+  "homepage": [
+    "https://github.com/gruntwork-io/terratest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pick-instance-type",
+    "src",
+    "terratest_log_parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gruntwork-io/terratest/archive/3170b47ae724a4025c5ca509cc9e8f091362b5ac.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "devops",
+    "docker",
+    "golang",
+    "packer",
+    "terraform",
+    "testing",
+    "testing-library"
+  ],
+  "version": "HEAD-3170b47-250624T173352",
+  "version_upstream": "",
+  "bsum": "1cc948b3b1884b0a64f99ad8779a3d379a6d4b3e02ad670f3e977a5e3af7365c",
+  "build_date": "2025-06-25T08:08:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869721334",
+  "build_id": "15869721334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gruntwork-io/terratest/src?tag=HEAD-3170b47-250624T173352-aarch64-Linux&download=src.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7695",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gruntwork-io/terratest/src?tag=HEAD-3170b47-250624T173352-aarch64-Linux&download=src",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gruntwork-io/terratest/src:HEAD-3170b47-250624T173352-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gruntwork-io/terratest/src",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gruntwork-io/terratest/src?tag=HEAD-3170b47-250624T173352-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c024d2d8189c9675ad999edd2b10660b3e3d91d57664f816430b3d8fe82d800",
+  "size": "7.9 MB",
+  "size_raw": "8248928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
