@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kubelet-gpu-plugin",
+  "pkg_family": "intel-resource-drivers-for-kubernetes",
+  "pkg_id": "kubelet-gpu-plugin#github.com_intel_intel_resource_drivers_for_kubernetes",
+  "pkg_name": "kubelet-gpu-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/intel-resource-drivers-for-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/intel/intel-resource-drivers-for-kubernetes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdi-specs-generator",
+    "device-faker",
+    "kubelet-gpu-plugin",
+    "kubelet-qat-plugin",
+    "qat-showdevice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/intel-resource-drivers-for-kubernetes/archive/e1fe21aaceff8101be7bb4987d0264670e3dc7a6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e1fe21a-250625T001437",
+  "version_upstream": "",
+  "bsum": "22c8ac6a5d75e9e97e1d5e115af28fd56e8318b78680ff95f75e4aa62324b8f8",
+  "build_date": "2025-06-25T08:21:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869842447",
+  "build_id": "15869842447",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-resource-drivers-for-kubernetes/kubelet-gpu-plugin?tag=HEAD-e1fe21a-250625T001437-aarch64-Linux&download=kubelet-gpu-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-resource-drivers-for-kubernetes/kubelet-gpu-plugin?tag=HEAD-e1fe21a-250625T001437-aarch64-Linux&download=kubelet-gpu-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/intel-resource-drivers-for-kubernetes/kubelet-gpu-plugin:HEAD-e1fe21a-250625T001437-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/intel-resource-drivers-for-kubernetes/kubelet-gpu-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-resource-drivers-for-kubernetes/kubelet-gpu-plugin?tag=HEAD-e1fe21a-250625T001437-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8530392e24358845169d01d7a3ef83d4a8f8a46a789d97d4cbc7fbfa4ab2ea49",
+  "size": "52 MB",
+  "size_raw": "53579424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
