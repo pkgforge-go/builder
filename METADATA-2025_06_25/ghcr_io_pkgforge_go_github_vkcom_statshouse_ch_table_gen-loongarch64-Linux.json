@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ch-table-gen",
+  "pkg_family": "statshouse",
+  "pkg_id": "ch-table-gen#github.com_VKCOM_statshouse",
+  "pkg_name": "ch-table-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VKCOM/statshouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "StatsHouse is a highly available, scalable, multitenant monitoring system",
+  "homepage": [
+    "https://github.com/VKCOM/statshouse"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ch-table-gen",
+    "sender",
+    "statshouse-example",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VKCOM/statshouse/archive/0c74373134f841fdff6af3f3975d197c8d5975ea.tar.gz"
+  ],
+  "tag": [
+    "dashboard",
+    "graphing",
+    "metrics",
+    "monitoring",
+    "observability",
+    "tsdb"
+  ],
+  "version": "HEAD-0c74373-250625T172254",
+  "version_upstream": "",
+  "bsum": "55fd3e41683ced4ef4330977ed416ea785a1f9b9490852c62ae7ba33221f4f87",
+  "build_date": "2025-06-25T22:16:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887926429",
+  "build_id": "15887926429",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/ch-table-gen?tag=HEAD-0c74373-250625T172254-loongarch64-Linux&download=ch-table-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "257",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/ch-table-gen?tag=HEAD-0c74373-250625T172254-loongarch64-Linux&download=ch-table-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vkcom/statshouse/ch-table-gen:HEAD-0c74373-250625T172254-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vkcom/statshouse/ch-table-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/ch-table-gen?tag=HEAD-0c74373-250625T172254-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14317fa73b15a85cc645e58e41d55fcb0148cc2790b60ae058af1da8d9186182",
+  "size": "2.9 MB",
+  "size_raw": "3025016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ef46bea-250619T183844-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
