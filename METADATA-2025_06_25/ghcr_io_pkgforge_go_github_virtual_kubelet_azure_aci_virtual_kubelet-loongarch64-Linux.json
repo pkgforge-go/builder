@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "virtual-kubelet",
+  "pkg_family": "azure-aci",
+  "pkg_id": "virtual-kubelet#github.com_virtual_kubelet_azure_aci",
+  "pkg_name": "virtual-kubelet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/virtual-kubelet/azure-aci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Things related to Azure Container Instances for Virtual Kubelet",
+  "homepage": [
+    "https://github.com/virtual-kubelet/azure-aci"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "init-container",
+    "virtual-kubelet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/virtual-kubelet/azure-aci/archive/06d22469dc23366bc812c94da528db609bfdc8c2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06d2246-250625T021248",
+  "version_upstream": "",
+  "bsum": "20faf60c65f2c0abb86be7b720d362c26d8e6165485bfeb7cb1ed9db776a04af",
+  "build_date": "2025-06-25T10:14:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872506986",
+  "build_id": "15872506986",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/virtual-kubelet/azure-aci/virtual-kubelet?tag=HEAD-06d2246-250625T021248-loongarch64-Linux&download=virtual-kubelet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "96",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/virtual-kubelet/azure-aci/virtual-kubelet?tag=HEAD-06d2246-250625T021248-loongarch64-Linux&download=virtual-kubelet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/virtual-kubelet/azure-aci/virtual-kubelet:HEAD-06d2246-250625T021248-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/virtual-kubelet/azure-aci/virtual-kubelet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/virtual-kubelet/azure-aci/virtual-kubelet?tag=HEAD-06d2246-250625T021248-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd2b044d81356748b9d2c5947c678b3bca1b8a07929d1445232c170a19b20abe",
+  "size": "59 MB",
+  "size_raw": "60829664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
