@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "go-tunnel",
+  "pkg_family": "go-tunnel",
+  "pkg_id": "go-tunnel#github.com_opencoff_go_tunnel",
+  "pkg_name": "go-tunnel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/opencoff/go-tunnel",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TLS/SSL Tunnel - A modern STunnel replacement written in golang",
+  "homepage": [
+    "https://github.com/opencoff/go-tunnel"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-tunnel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/opencoff/go-tunnel/archive/85dcd55335e8977e5ea6905c21cced5b51c11217.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "golang-application",
+    "golang-proxy",
+    "quic",
+    "quic-client",
+    "quic-server",
+    "ssl-termination",
+    "stunnel-replacement",
+    "tls-proxy",
+    "tls-sni",
+    "tls-tunnel"
+  ],
+  "version": "HEAD-85dcd55-250624T140939",
+  "version_upstream": "v0.8.8",
+  "bsum": "5e08186633fe04929734a671db97185bb343e184fb5a8224f1d74980da3e3dac",
+  "build_date": "2025-06-25T09:01:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870871882",
+  "build_id": "15870871882",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencoff/go-tunnel/go-tunnel?tag=HEAD-85dcd55-250624T140939-loongarch64-Linux&download=go-tunnel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "300",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencoff/go-tunnel/go-tunnel?tag=HEAD-85dcd55-250624T140939-loongarch64-Linux&download=go-tunnel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opencoff/go-tunnel/go-tunnel:HEAD-85dcd55-250624T140939-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opencoff/go-tunnel/go-tunnel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opencoff/go-tunnel/go-tunnel?tag=HEAD-85dcd55-250624T140939-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e8b7fc3fccf78c642b43f597d1ab45a9fa0b681e47dc949cd8587322c1b090d6",
+  "size": "7.1 MB",
+  "size_raw": "7425952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
