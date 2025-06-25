@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dev",
+  "pkg_family": "minder",
+  "pkg_id": "dev#github.com_mindersec_minder",
+  "pkg_name": "dev",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mindersec/minder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Software Supply Chain Security Platform",
+  "homepage": [
+    "https://github.com/mindersec/minder"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "dev",
+    "reminder",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mindersec/minder/archive/504098262933c445ad324aeb6b217146ac11a320.tar.gz"
+  ],
+  "tag": [
+    "security",
+    "software-supply-chain",
+    "software-supply-chain-security",
+    "supply-chain"
+  ],
+  "version": "HEAD-5040982-250624T143848",
+  "version_upstream": "",
+  "bsum": "3ae8a80480253e09c458e272a7dc4268fca4f0b02dd7ede6a3070d46be20337c",
+  "build_date": "2025-06-25T12:22:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873558432",
+  "build_id": "15873558432",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/dev?tag=HEAD-5040982-250624T143848-riscv64-Linux&download=dev.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "338",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/dev?tag=HEAD-5040982-250624T143848-riscv64-Linux&download=dev",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mindersec/minder/dev:HEAD-5040982-250624T143848-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mindersec/minder/dev",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mindersec/minder/dev?tag=HEAD-5040982-250624T143848-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df24b5e54d49063d095f99a423ef2c6d8a4e0b57d284a310e5fa78633a038a74",
+  "size": "97 MB",
+  "size_raw": "101444088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6c2d2ce-250622T201438-riscv64-Linux",
+    "HEAD-adbfc31-250623T074128-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
