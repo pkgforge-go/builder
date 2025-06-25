@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "setup",
+  "pkg_family": "collector",
+  "pkg_id": "setup#github.com_pganalyze_collector",
+  "pkg_name": "setup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pganalyze/collector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "pganalyze statistics collector for gathering PostgreSQL metrics and log data",
+  "homepage": [
+    "https://github.com/pganalyze/collector"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collector",
+    "helper",
+    "setup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pganalyze/collector/archive/b3ccc143d638008bd39301bf6651f1b9ab05dab6.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "metrics",
+    "monitoring",
+    "postgresql",
+    "rds"
+  ],
+  "version": "HEAD-b3ccc14-250625T114602",
+  "version_upstream": "v0.66.2",
+  "bsum": "9acb8d78d0f3e80fd4e81e5fb7850e11f3374931eb3a004cc2e32b711719d096",
+  "build_date": "2025-06-25T09:30:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871286500",
+  "build_id": "15871286500",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pganalyze/collector/setup?tag=HEAD-b3ccc14-250625T114602-aarch64-Linux&download=setup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "368",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pganalyze/collector/setup?tag=HEAD-b3ccc14-250625T114602-aarch64-Linux&download=setup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pganalyze/collector/setup:HEAD-b3ccc14-250625T114602-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pganalyze/collector/setup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pganalyze/collector/setup?tag=HEAD-b3ccc14-250625T114602-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "500ac6d77389439c470e81c8a49d002ba4f683b196676fcef58425036169dda4",
+  "size": "20 MB",
+  "size_raw": "20943560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
