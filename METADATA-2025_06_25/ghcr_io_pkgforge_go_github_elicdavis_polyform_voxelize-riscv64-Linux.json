@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "voxelize",
+  "pkg_family": "polyform",
+  "pkg_id": "voxelize#github.com_EliCDavis_polyform",
+  "pkg_name": "voxelize",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EliCDavis/polyform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Immutable mesh processing library",
+  "homepage": [
+    "https://github.com/EliCDavis/polyform"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candle",
+    "chill",
+    "colmap-utils",
+    "covid",
+    "csg",
+    "flowers",
+    "gopher",
+    "inflate",
+    "mesh-util",
+    "mort-shuffle",
+    "oreo",
+    "pc-render",
+    "plumbob",
+    "ply-utils",
+    "polyform",
+    "polywasm",
+    "potree-utils",
+    "ray",
+    "render",
+    "spz-utils",
+    "terrain",
+    "text",
+    "voxelize"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EliCDavis/polyform/archive/2f91886278dbaed73de216e52afaa484e5da9811.tar.gz"
+  ],
+  "tag": [
+    "3d",
+    "gaussian-splatting",
+    "generative-art",
+    "geometry",
+    "geometry-processing",
+    "gltf",
+    "mesh",
+    "mesh-processing",
+    "obj",
+    "ply",
+    "procedural-generation"
+  ],
+  "version": "HEAD-2f91886-250625T132945",
+  "version_upstream": "",
+  "bsum": "c3e0ec930972d275b49539691cea1e067021cb5c87de1749799f1da64cb1e09d",
+  "build_date": "2025-06-25T22:08:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887924581",
+  "build_id": "15887924581",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/voxelize?tag=HEAD-2f91886-250625T132945-riscv64-Linux&download=voxelize.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/voxelize?tag=HEAD-2f91886-250625T132945-riscv64-Linux&download=voxelize",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elicdavis/polyform/voxelize:HEAD-2f91886-250625T132945-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elicdavis/polyform/voxelize",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/voxelize?tag=HEAD-2f91886-250625T132945-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8db4dea652aba0e46ff7d531dcfee1df127c11322a08c7fdd26210ad03d70ce0",
+  "size": "11 MB",
+  "size_raw": "10992632",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b953e80-250621T194447-riscv64-Linux",
+    "HEAD-b7571d5-250622T035511-riscv64-Linux",
+    "HEAD-3e3d9c2-250622T200007-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

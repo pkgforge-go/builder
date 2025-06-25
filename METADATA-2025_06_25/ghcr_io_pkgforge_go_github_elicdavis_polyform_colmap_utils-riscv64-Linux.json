@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "colmap-utils",
+  "pkg_family": "polyform",
+  "pkg_id": "colmap-utils#github.com_EliCDavis_polyform",
+  "pkg_name": "colmap-utils",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EliCDavis/polyform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Immutable mesh processing library",
+  "homepage": [
+    "https://github.com/EliCDavis/polyform"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candle",
+    "chill",
+    "colmap-utils",
+    "covid",
+    "csg",
+    "flowers",
+    "gopher",
+    "inflate",
+    "mesh-util",
+    "mort-shuffle",
+    "oreo",
+    "pc-render",
+    "plumbob",
+    "ply-utils",
+    "polyform",
+    "polywasm",
+    "potree-utils",
+    "ray",
+    "render",
+    "spz-utils",
+    "terrain",
+    "text",
+    "voxelize"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EliCDavis/polyform/archive/2f91886278dbaed73de216e52afaa484e5da9811.tar.gz"
+  ],
+  "tag": [
+    "3d",
+    "gaussian-splatting",
+    "generative-art",
+    "geometry",
+    "geometry-processing",
+    "gltf",
+    "mesh",
+    "mesh-processing",
+    "obj",
+    "ply",
+    "procedural-generation"
+  ],
+  "version": "HEAD-2f91886-250625T132945",
+  "version_upstream": "",
+  "bsum": "d4234e373c8c3340cb73edb3b18456e2d33932025b94689075003ad42a8a120f",
+  "build_date": "2025-06-25T22:07:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887924581",
+  "build_id": "15887924581",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/colmap-utils?tag=HEAD-2f91886-250625T132945-riscv64-Linux&download=colmap-utils.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/colmap-utils?tag=HEAD-2f91886-250625T132945-riscv64-Linux&download=colmap-utils",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elicdavis/polyform/colmap-utils:HEAD-2f91886-250625T132945-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elicdavis/polyform/colmap-utils",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/colmap-utils?tag=HEAD-2f91886-250625T132945-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13c1031933b02fca5814b35edd2ea6efc75fdb454f31319fcc7a3d94ff508116",
+  "size": "9.9 MB",
+  "size_raw": "10294936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b953e80-250621T194447-riscv64-Linux",
+    "HEAD-b7571d5-250622T035511-riscv64-Linux",
+    "HEAD-3e3d9c2-250622T200007-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
