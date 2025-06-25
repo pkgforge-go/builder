@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "aws-account-operator",
+  "pkg_family": "aws-account-operator",
+  "pkg_id": "aws-account-operator#github.com_openshift_aws_account_operator",
+  "pkg_name": "aws-account-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/aws-account-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to manage pool of AWS accounts for Hive",
+  "homepage": [
+    "https://github.com/openshift/aws-account-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-account-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/aws-account-operator/archive/4a719460b460b8e28388825c04d244d6452e02c3.tar.gz"
+  ],
+  "tag": [
+    "osdv4"
+  ],
+  "version": "HEAD-4a71946-250625T131709",
+  "version_upstream": "",
+  "bsum": "61e5ec2839e67ff1d946e362eaf01f8411b513984db472dfe2650985a50d5333",
+  "build_date": "2025-06-25T17:38:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882400322",
+  "build_id": "15882400322",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-account-operator/aws-account-operator?tag=HEAD-4a71946-250625T131709-aarch64-Linux&download=aws-account-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-account-operator/aws-account-operator?tag=HEAD-4a71946-250625T131709-aarch64-Linux&download=aws-account-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/aws-account-operator/aws-account-operator:HEAD-4a71946-250625T131709-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/aws-account-operator/aws-account-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-account-operator/aws-account-operator?tag=HEAD-4a71946-250625T131709-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9ea573cffa684b527fcb3970a47e4e0f1916f97a3f134571189cef80589725c5",
+  "size": "59 MB",
+  "size_raw": "61470560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
