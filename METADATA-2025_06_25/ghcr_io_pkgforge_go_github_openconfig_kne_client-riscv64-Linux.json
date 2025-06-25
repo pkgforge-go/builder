@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "kne",
+  "pkg_id": "client#github.com_openconfig_kne",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/kne",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/openconfig/kne"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "forward",
+    "kne_cli",
+    "server",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/kne/archive/3b13ec7bd8f03e0673b47563fe70889b4a874491.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3b13ec7-250624T151341",
+  "version_upstream": "",
+  "bsum": "b962dcb55d3aa64c3a322b5b587564daafefca0441702b942a884cfe755d07f2",
+  "build_date": "2025-06-25T12:37:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873571496",
+  "build_id": "15873571496",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/client?tag=HEAD-3b13ec7-250624T151341-riscv64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "226",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/client?tag=HEAD-3b13ec7-250624T151341-riscv64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/kne/client:HEAD-3b13ec7-250624T151341-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/kne/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/kne/client?tag=HEAD-3b13ec7-250624T151341-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8cfcba7bf5266fac1202b91da0a600c1e8f008d4e6ca0bc71c28daa38c2a3fd5",
+  "size": "13 MB",
+  "size_raw": "12744536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e2f5fdd-250620T120419-riscv64-Linux[v0.2.2]"
+  ],
+  "trusted": "true"
+}
