@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "slog2k8s",
+  "pkg_family": "component-base",
+  "pkg_id": "slog2k8s#github.com_kubernetes_component_base",
+  "pkg_name": "slog2k8s",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/component-base",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shared code for kubernetes core components",
+  "homepage": [
+    "https://github.com/kubernetes/component-base"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "k8s2slog",
+    "kube-log-runner",
+    "slog2k8s",
+    "stdlib"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/component-base/archive/1e0f6a1cc4212043fcff5ccc914042bea2e32a33.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-api-machinery",
+    "k8s-staging"
+  ],
+  "version": "HEAD-1e0f6a1-250624T174354",
+  "version_upstream": "",
+  "bsum": "4d591b728a2cdddfdb9cc9fa8108b2d9cebb96ba4e5a61816e4ac29ec036e233",
+  "build_date": "2025-06-25T08:33:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870456574",
+  "build_id": "15870456574",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/component-base/slog2k8s?tag=HEAD-1e0f6a1-250624T174354-loongarch64-Linux&download=slog2k8s.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "120",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/component-base/slog2k8s?tag=HEAD-1e0f6a1-250624T174354-loongarch64-Linux&download=slog2k8s",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/component-base/slog2k8s:HEAD-1e0f6a1-250624T174354-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/component-base/slog2k8s",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/component-base/slog2k8s?tag=HEAD-1e0f6a1-250624T174354-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "05d89b4b085633807d2d792e35c0cac8791c58d2571475d79bcc7dc51161ba9e",
+  "size": "2.3 MB",
+  "size_raw": "2374232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
