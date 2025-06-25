@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tempo-operator-cmd",
+  "pkg_family": "tempo-operator",
+  "pkg_id": "tempo-operator-cmd#github.com_grafana_tempo_operator",
+  "pkg_name": "tempo-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo Kubernetes operator",
+  "homepage": [
+    "https://github.com/grafana/tempo-operator"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gather",
+    "tempo-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo-operator/archive/8921aaa6b9ad179410ce3b539694f90ef57e9d30.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana",
+    "jaeger",
+    "jaegertracing",
+    "observability",
+    "opentelemetry",
+    "zipkin"
+  ],
+  "version": "HEAD-8921aaa-250625T115450",
+  "version_upstream": "",
+  "bsum": "e19c3b232b93fe4239d910f71cee2718006923009435f9633a9395d5c084435d",
+  "build_date": "2025-06-25T17:03:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881489275",
+  "build_id": "15881489275",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo-operator/tempo-operator-cmd?tag=HEAD-8921aaa-250625T115450-riscv64-Linux&download=tempo-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo-operator/tempo-operator-cmd?tag=HEAD-8921aaa-250625T115450-riscv64-Linux&download=tempo-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo-operator/tempo-operator-cmd:HEAD-8921aaa-250625T115450-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo-operator/tempo-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo-operator/tempo-operator-cmd?tag=HEAD-8921aaa-250625T115450-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d0a78ad83c9aed9fe8bdaf40d0935b088074a713efade32bd77e1074744adc1",
+  "size": "59 MB",
+  "size_raw": "61414936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

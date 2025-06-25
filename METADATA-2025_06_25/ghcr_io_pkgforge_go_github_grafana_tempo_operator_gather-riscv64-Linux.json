@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gather",
+  "pkg_family": "tempo-operator",
+  "pkg_id": "gather#github.com_grafana_tempo_operator",
+  "pkg_name": "gather",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo Kubernetes operator",
+  "homepage": [
+    "https://github.com/grafana/tempo-operator"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gather",
+    "tempo-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo-operator/archive/8921aaa6b9ad179410ce3b539694f90ef57e9d30.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana",
+    "jaeger",
+    "jaegertracing",
+    "observability",
+    "opentelemetry",
+    "zipkin"
+  ],
+  "version": "HEAD-8921aaa-250625T115450",
+  "version_upstream": "",
+  "bsum": "d19230a1cbef2ef4249dbd92694b959e802ed27f27acc05e78e6b46c4504bac2",
+  "build_date": "2025-06-25T17:03:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881489275",
+  "build_id": "15881489275",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo-operator/gather?tag=HEAD-8921aaa-250625T115450-riscv64-Linux&download=gather.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo-operator/gather?tag=HEAD-8921aaa-250625T115450-riscv64-Linux&download=gather",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo-operator/gather:HEAD-8921aaa-250625T115450-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo-operator/gather",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo-operator/gather?tag=HEAD-8921aaa-250625T115450-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fdd82db070bc5449bdd49279360218c1efd3e3853c366c8b3b984967e91b155e",
+  "size": "38 MB",
+  "size_raw": "39740696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
