@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gen-compattest-data",
+  "pkg_family": "secboot",
+  "pkg_id": "gen-compattest-data#github.com_canonical_secboot",
+  "pkg_name": "gen-compattest-data",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/secboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/canonical/secboot"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-compattest-data",
+    "make-efi-testdata",
+    "run_argon2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/secboot/archive/8975f2d4c4c33c181412996443cce6a178ea182a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8975f2d-250624T131556",
+  "version_upstream": "",
+  "bsum": "35874b3261e9647e2fc57ce29aa52cd147a9eac56a47196299d4d6f2e0b4cd8f",
+  "build_date": "2025-06-25T02:47:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865759284",
+  "build_id": "15865759284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/gen-compattest-data?tag=HEAD-8975f2d-250624T131556-aarch64-Linux&download=gen-compattest-data.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/gen-compattest-data?tag=HEAD-8975f2d-250624T131556-aarch64-Linux&download=gen-compattest-data",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/secboot/gen-compattest-data:HEAD-8975f2d-250624T131556-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/secboot/gen-compattest-data",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/gen-compattest-data?tag=HEAD-8975f2d-250624T131556-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e2a4c0bdd70165a3f463e131fe6a73526c2e687b6cc389b93765718bfd134bf4",
+  "size": "6.6 MB",
+  "size_raw": "6899872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-97bf6d7-250619T110227-aarch64-Linux",
+    "HEAD-59cd310-250623T101110-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
