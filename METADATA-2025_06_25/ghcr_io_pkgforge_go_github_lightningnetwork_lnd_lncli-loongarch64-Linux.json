@@ -33,7 +33,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/lightningnetwork/lnd/archive/6b80796bb82b083bf6f6b7370dab3de52b23ce0f.tar.gz"
+    "https://github.com/lightningnetwork/lnd/archive/4335d9cfb729640b9c78fa955d28152744dc5e21.tar.gz"
   ],
   "tag": [
     "bitcoin",
@@ -47,32 +47,33 @@
     "peer-to-peer",
     "protocol"
   ],
-  "version": "HEAD-6b80796-250624T143733",
+  "version": "HEAD-4335d9c-250624T205951",
   "version_upstream": "",
-  "bsum": "54127256100b851965b6fd1b36dba8e1f61ab037ee305e74fd72d5459e0f92a1",
-  "build_date": "2025-06-25T03:28:42Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865873049",
-  "build_id": "15865873049",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-6b80796-250624T143733-loongarch64-Linux&download=lncli.log",
+  "bsum": "5c06de4a92cbf8d8f38b5ea9072fd3726ce3c9eba9986d356a8ccbb297ff3a45",
+  "build_date": "2025-06-25T14:22:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877580393",
+  "build_id": "15877580393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-4335d9c-250624T205951-loongarch64-Linux&download=lncli.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "7953",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-6b80796-250624T143733-loongarch64-Linux&download=lncli",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-4335d9c-250624T205951-loongarch64-Linux&download=lncli",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lncli:HEAD-6b80796-250624T143733-loongarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lncli:HEAD-4335d9c-250624T205951-loongarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lncli",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-6b80796-250624T143733-loongarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-4335d9c-250624T205951-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "67a65baf75dfca5693895305f7590b7de9f94c5df1c89501e9c11679abaf897e",
+  "shasum": "4b97644e0428d93e505919b9426e462bb53ec19a8c69d38eafd94e8617ab64fe",
   "size": "53 MB",
-  "size_raw": "54730160",
+  "size_raw": "54771792",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-7857d2c-250620T134741-loongarch64-Linux",
     "HEAD-faa68a2-250620T152624-loongarch64-Linux",
-    "HEAD-09df589-250623T213331-loongarch64-Linux"
+    "HEAD-09df589-250623T213331-loongarch64-Linux",
+    "HEAD-6b80796-250624T143733-loongarch64-Linux"
   ],
   "trusted": "true"
 }
