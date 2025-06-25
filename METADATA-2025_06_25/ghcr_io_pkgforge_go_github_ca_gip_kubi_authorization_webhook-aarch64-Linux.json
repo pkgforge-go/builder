@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "authorization-webhook",
+  "pkg_family": "kubi",
+  "pkg_id": "authorization-webhook#github.com_ca_gip_kubi",
+  "pkg_name": "authorization-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ca-gip/kubi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of tools to authenticaticate through LDAP and AD LDS backend",
+  "homepage": [
+    "https://github.com/ca-gip/kubi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "authorization-webhook",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ca-gip/kubi/archive/f9d9f50c3057c04494d4a8a3a1462988c99d12eb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f9d9f50-250624T233642",
+  "version_upstream": "v1.30.1-beta3",
+  "bsum": "8251d315c747fdf940a5857ec75cb0b8d2e37fcc1e4d64fb5527e2273acaf7e0",
+  "build_date": "2025-06-25T07:36:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869592649",
+  "build_id": "15869592649",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ca-gip/kubi/authorization-webhook?tag=HEAD-f9d9f50-250624T233642-aarch64-Linux&download=authorization-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ca-gip/kubi/authorization-webhook?tag=HEAD-f9d9f50-250624T233642-aarch64-Linux&download=authorization-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ca-gip/kubi/authorization-webhook:HEAD-f9d9f50-250624T233642-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ca-gip/kubi/authorization-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ca-gip/kubi/authorization-webhook?tag=HEAD-f9d9f50-250624T233642-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f23910e18a0ccb41b8337133c0a0848895bd221ec6d8b14239d60c2648e9e437",
+  "size": "35 MB",
+  "size_raw": "35745376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
