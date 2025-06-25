@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gotelemetry",
+  "pkg_family": "telemetry",
+  "pkg_id": "gotelemetry#github.com_golang_telemetry",
+  "pkg_name": "gotelemetry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/telemetry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[mirror] Go Telemetry services and libraries",
+  "homepage": [
+    "https://github.com/golang/telemetry"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configgen",
+    "gotelemetry",
+    "stacks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/golang/telemetry/archive/fef9409b2ec888e5f4948a0e77c0d26738228de5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fef9409-250624T113230",
+  "version_upstream": "config/v0.53.0",
+  "bsum": "c802ff0f0014d29107b53db8fb38094d2dae83c994b2f2968b0044d87631d094",
+  "build_date": "2025-06-25T08:02:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869694082",
+  "build_id": "15869694082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/telemetry/gotelemetry?tag=HEAD-fef9409-250624T113230-loongarch64-Linux&download=gotelemetry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/telemetry/gotelemetry?tag=HEAD-fef9409-250624T113230-loongarch64-Linux&download=gotelemetry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/telemetry/gotelemetry:HEAD-fef9409-250624T113230-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/telemetry/gotelemetry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/telemetry/gotelemetry?tag=HEAD-fef9409-250624T113230-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb661a9723ab0d88feeb832a6ce20347ccb991d2b2b43b69e4d53f4f401641d3",
+  "size": "12 MB",
+  "size_raw": "12423072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
