@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "import_rsa_aes",
+  "pkg_family": "go_pkcs11",
+  "pkg_id": "import_rsa_aes#github.com_salrashid123_go_pkcs11",
+  "pkg_name": "import_rsa_aes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/salrashid123/go_pkcs11",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PKCS 11 Samples in Go using SoftHSM",
+  "homepage": [
+    "https://github.com/salrashid123/go_pkcs11"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aes_encrypt",
+    "ecc_sign",
+    "hmac",
+    "import_aes_rsa",
+    "import_rsa",
+    "import_rsa_aes",
+    "import_rsa_rsa",
+    "rsa_sign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/salrashid123/go_pkcs11/archive/4f424d12614299b9a552cb58bb6d6bfe728fa111.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "golang",
+    "pkcs11",
+    "rsa"
+  ],
+  "version": "HEAD-4f424d1-250624T150513",
+  "version_upstream": "",
+  "bsum": "c5f4d49e4aad12b8970b1ddacb6ec890f9686c13b7adba998c7837faedc34562",
+  "build_date": "2025-06-25T09:43:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872232639",
+  "build_id": "15872232639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/import_rsa_aes?tag=HEAD-4f424d1-250624T150513-x86_64-Linux&download=import_rsa_aes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/import_rsa_aes?tag=HEAD-4f424d1-250624T150513-x86_64-Linux&download=import_rsa_aes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go/pkcs11/import_rsa_aes:HEAD-4f424d1-250624T150513-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go/pkcs11/import_rsa_aes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/import_rsa_aes?tag=HEAD-4f424d1-250624T150513-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40d2a372f02b02aac1d27e588897d19465e64e19dc394cd69fe28f69a09c1c7d",
+  "size": "2.9 MB",
+  "size_raw": "2982496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
