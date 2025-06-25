@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "migrate",
+  "pkg_family": "pkg",
+  "pkg_id": "migrate#github.com_knative_pkg",
+  "pkg_name": "migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/pkg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative common packages",
+  "homepage": [
+    "https://github.com/knative/pkg"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chaosduck",
+    "hash-gen",
+    "injection-gen",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/pkg/archive/fe85a65af284512ce196298730a79765c18208ec.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fe85a65-250625T132305",
+  "version_upstream": "",
+  "bsum": "46a9ab6629756abb79ee1c155ceffc0fe96b73e822612ce089de52e1ba7035b1",
+  "build_date": "2025-06-25T17:17:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882184124",
+  "build_id": "15882184124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/migrate?tag=HEAD-fe85a65-250625T132305-x86_64-Linux&download=migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "271",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/migrate?tag=HEAD-fe85a65-250625T132305-x86_64-Linux&download=migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/pkg/migrate:HEAD-fe85a65-250625T132305-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/pkg/migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/migrate?tag=HEAD-fe85a65-250625T132305-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e32ba8dc3e86be02d5a7643fbba1c7d9494a0934c2df34887582d60e16a8714",
+  "size": "39 MB",
+  "size_raw": "40563360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
