@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nerdctl",
+  "pkg_family": "nerdctl",
+  "pkg_id": "nerdctl#github.com_containerd_nerdctl",
+  "pkg_name": "nerdctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/nerdctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
+  "homepage": [
+    "https://github.com/containerd/nerdctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nerdctl",
+    "run-container"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/nerdctl/archive/d0d1c2d804dd5311388568bfd897b15e3081c45a.tar.gz"
+  ],
+  "tag": [
+    "containerd"
+  ],
+  "version": "HEAD-d0d1c2d-250624T124752",
+  "version_upstream": "",
+  "bsum": "381fba9701d110be0a4c607dc9d30073006f93bc8cbda5ab4f5dee8f0c5bc641",
+  "build_date": "2025-06-25T02:53:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865793997",
+  "build_id": "15865793997",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/nerdctl?tag=HEAD-d0d1c2d-250624T124752-aarch64-Linux&download=nerdctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9009",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/nerdctl?tag=HEAD-d0d1c2d-250624T124752-aarch64-Linux&download=nerdctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/nerdctl/nerdctl:HEAD-d0d1c2d-250624T124752-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/nerdctl/nerdctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/nerdctl?tag=HEAD-d0d1c2d-250624T124752-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb9742575cacc1a3d6aee655a0891b59d80510fe30a00dcd3969c5ceccc44c04",
+  "size": "30 MB",
+  "size_raw": "30794112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4bde79d-250619T182315-aarch64-Linux",
+    "HEAD-c24ee86-250623T114308-aarch64-Linux",
+    "HEAD-410b0f2-250623T231103-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
