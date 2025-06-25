@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goff",
+  "pkg_family": "gnark-crypto",
+  "pkg_id": "goff#github.com_Consensys_gnark_crypto",
+  "pkg_name": "goff",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Consensys/gnark-crypto",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms _algebra, crypto_ of particular interest to zero knowledge proof systems.",
+  "homepage": [
+    "https://github.com/Consensys/gnark-crypto"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "goff",
+    "internal",
+    "test_vectors"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Consensys/gnark-crypto/archive/2a5e15b263badba3e09a31b4ad91aab278c96da2.tar.gz"
+  ],
+  "tag": [
+    "biginteger",
+    "bls12-377",
+    "bls12-381",
+    "bn254",
+    "crypto",
+    "cryptography",
+    "ecc",
+    "eddsa",
+    "elliptic-curves",
+    "finite-field-arithmetic",
+    "fri",
+    "go",
+    "golang",
+    "hash-to-curve",
+    "mimc",
+    "pairing",
+    "snark",
+    "zkp",
+    "zksnark"
+  ],
+  "version": "HEAD-2a5e15b-250624T220708",
+  "version_upstream": "",
+  "bsum": "064a850e2ec5e906c49dc80494525e292e5e88b43cc12dbc0b94a887a9a72e81",
+  "build_date": "2025-06-25T07:05:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869553570",
+  "build_id": "15869553570",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consensys/gnark-crypto/goff?tag=HEAD-2a5e15b-250624T220708-riscv64-Linux&download=goff.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "553",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consensys/gnark-crypto/goff?tag=HEAD-2a5e15b-250624T220708-riscv64-Linux&download=goff",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/consensys/gnark-crypto/goff:HEAD-2a5e15b-250624T220708-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/consensys/gnark-crypto/goff",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consensys/gnark-crypto/goff?tag=HEAD-2a5e15b-250624T220708-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df42f091f3e8af474fed54fd472983ffd142e7e94448b86938f4300e4a749abd",
+  "size": "6.9 MB",
+  "size_raw": "7228808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
