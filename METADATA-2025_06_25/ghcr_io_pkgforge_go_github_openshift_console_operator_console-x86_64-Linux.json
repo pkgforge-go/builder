@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "console",
+  "pkg_family": "console-operator",
+  "pkg_id": "console#github.com_openshift_console_operator",
+  "pkg_name": "console",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/console-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The console operator installs and maintains the web console on a cluster",
+  "homepage": [
+    "https://github.com/openshift/console-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "console",
+    "import-verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/console-operator/archive/f69d5d88ab02f0f73e1e8b32f8f7d553943d1e01.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f69d5d8-250625T124409",
+  "version_upstream": "",
+  "bsum": "b1eb87461d2e1145270aebd94e4316cc94983393e567eb3326ffab50d999ac78",
+  "build_date": "2025-06-25T17:42:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882415266",
+  "build_id": "15882415266",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/console-operator/console?tag=HEAD-f69d5d8-250625T124409-x86_64-Linux&download=console.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "52",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/console-operator/console?tag=HEAD-f69d5d8-250625T124409-x86_64-Linux&download=console",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/console-operator/console:HEAD-f69d5d8-250625T124409-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/console-operator/console",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/console-operator/console?tag=HEAD-f69d5d8-250625T124409-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c41211beebf874a8b0bf8eddfb483aef8f3ea20ef1b2cea0098ada009db856c",
+  "size": "89 MB",
+  "size_raw": "93098080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
