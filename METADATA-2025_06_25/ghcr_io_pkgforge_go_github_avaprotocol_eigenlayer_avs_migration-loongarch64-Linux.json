@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "migration",
+  "pkg_family": "EigenLayer-AVS",
+  "pkg_id": "migration#github.com_AvaProtocol_EigenLayer_AVS",
+  "pkg_name": "migration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AvaProtocol/EigenLayer-AVS",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AvaProtocol Ethereum Automation Build on EigenLayer",
+  "homepage": [
+    "https://github.com/AvaProtocol/EigenLayer-AVS"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eigenlayer-avs",
+    "migration",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AvaProtocol/EigenLayer-AVS/archive/6793fb59f03998a2344994abd73251e504d25ead.tar.gz"
+  ],
+  "tag": [
+    "eigenlayer",
+    "eigenlayer-avs",
+    "eigenlayer-operators",
+    "ethereum"
+  ],
+  "version": "HEAD-6793fb5-250618T011113",
+  "version_upstream": "v1.9.4",
+  "bsum": "c8bccb39487a2b88509ddd983c3df4b14e0cbb13ca2ad89b98786ba35493245a",
+  "build_date": "2025-06-25T07:05:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869552932",
+  "build_id": "15869552932",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/avaprotocol/eigenlayer-avs/migration?tag=HEAD-6793fb5-250618T011113-loongarch64-Linux&download=migration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "77",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/avaprotocol/eigenlayer-avs/migration?tag=HEAD-6793fb5-250618T011113-loongarch64-Linux&download=migration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/avaprotocol/eigenlayer-avs/migration:HEAD-6793fb5-250618T011113-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/avaprotocol/eigenlayer-avs/migration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/avaprotocol/eigenlayer-avs/migration?tag=HEAD-6793fb5-250618T011113-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39014bf91550fde152c842a2cd1d1cf710df9f8dbb58354bf144b3c56f24bf7c",
+  "size": "2.0 MB",
+  "size_raw": "1992792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
