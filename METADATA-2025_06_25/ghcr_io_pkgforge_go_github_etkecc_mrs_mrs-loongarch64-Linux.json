@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mrs",
+  "pkg_family": "mrs",
+  "pkg_id": "mrs#github.com_etkecc_mrs",
+  "pkg_name": "mrs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/etkecc/mrs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Matrix Rooms Search - a standalone search engine and Matrix directory server",
+  "homepage": [
+    "https://github.com/etkecc/mrs"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mrs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/etkecc/mrs/archive/d0abe1c9807d979a6cb5335cfd7f9f87452e5b06.tar.gz"
+  ],
+  "tag": [
+    "directory-server",
+    "matrix-org",
+    "matrix-server"
+  ],
+  "version": "HEAD-d0abe1c-250624T153512",
+  "version_upstream": "",
+  "bsum": "ef1e81fa4d707756bb3572d4100d1ec61a3c0757bacdc2e966bd549fa3154847",
+  "build_date": "2025-06-25T02:58:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865808693",
+  "build_id": "15865808693",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etkecc/mrs/mrs?tag=HEAD-d0abe1c-250624T153512-loongarch64-Linux&download=mrs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etkecc/mrs/mrs?tag=HEAD-d0abe1c-250624T153512-loongarch64-Linux&download=mrs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etkecc/mrs/mrs:HEAD-d0abe1c-250624T153512-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etkecc/mrs/mrs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etkecc/mrs/mrs?tag=HEAD-d0abe1c-250624T153512-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "158d9641ede5cc09ca10e8238b15b1a653ca4857709d2014aa038fd028fd337f",
+  "size": "162 MB",
+  "size_raw": "169266544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1cc2c22-250620T212858-loongarch64-Linux",
+    "HEAD-9075f17-250622T194559-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
