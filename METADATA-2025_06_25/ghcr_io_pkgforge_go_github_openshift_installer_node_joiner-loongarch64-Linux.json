@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "node-joiner",
+  "pkg_family": "installer",
+  "pkg_id": "node-joiner#github.com_openshift_installer",
+  "pkg_name": "node-joiner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/installer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Install an OpenShift 4.x cluster",
+  "homepage": [
+    "https://github.com/openshift/installer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "node-joiner",
+    "openshift-install"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/installer/archive/376af3afc7b7b916c011b5d6135807f09544c50c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-376af3a-250624T120332",
+  "version_upstream": "",
+  "bsum": "54080c533df4c582081e94fefc820211686b5e2af03d2dfeb8476b3748d2a1d3",
+  "build_date": "2025-06-25T03:51:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865934311",
+  "build_id": "15865934311",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/node-joiner?tag=HEAD-376af3a-250624T120332-loongarch64-Linux&download=node-joiner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1492",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/node-joiner?tag=HEAD-376af3a-250624T120332-loongarch64-Linux&download=node-joiner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/installer/node-joiner:HEAD-376af3a-250624T120332-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/installer/node-joiner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/node-joiner?tag=HEAD-376af3a-250624T120332-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c18c1de088eafececcf5ee89169aa9b038e41e1e8ae65214fddd8790a759d46",
+  "size": "167 MB",
+  "size_raw": "174681936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7b227fa-250620T112332-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
