@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cke-localproxy",
+  "pkg_family": "cke",
+  "pkg_id": "cke-localproxy#github.com_cybozu_go_cke",
+  "pkg_name": "cke-localproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/cke",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cybozu Kubernetes Engine",
+  "homepage": [
+    "https://github.com/cybozu-go/cke"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cke",
+    "cke-localproxy",
+    "ckecli",
+    "compile_resources",
+    "empty-dir",
+    "install-cni",
+    "make_directories",
+    "rivers",
+    "write_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/cke/archive/8459e0ff64101ac89443eb4fdf390ee90aa11a61.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-installer",
+    "sabakan"
+  ],
+  "version": "HEAD-8459e0f-250625T120500",
+  "version_upstream": "tools-1.32.0",
+  "bsum": "6a9f1080f53158988de05b8f2715afa34492e28705b45edbb99107749fa930c7",
+  "build_date": "2025-06-25T07:52:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869639221",
+  "build_id": "15869639221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/cke-localproxy?tag=HEAD-8459e0f-250625T120500-aarch64-Linux&download=cke-localproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/cke-localproxy?tag=HEAD-8459e0f-250625T120500-aarch64-Linux&download=cke-localproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/cke/cke-localproxy:HEAD-8459e0f-250625T120500-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/cke/cke-localproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/cke/cke-localproxy?tag=HEAD-8459e0f-250625T120500-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b872103fa4407b9f7479165b9f444445d30594e027c5e917edd4b01775833b7d",
+  "size": "54 MB",
+  "size_raw": "55772800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
