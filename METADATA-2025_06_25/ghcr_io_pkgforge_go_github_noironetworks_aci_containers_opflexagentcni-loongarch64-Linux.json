@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "opflexagentcni",
+  "pkg_family": "aci-containers",
+  "pkg_id": "opflexagentcni#github.com_noironetworks_aci_containers",
+  "pkg_name": "opflexagentcni",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/noironetworks/aci-containers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins for integrating ACI with container orchestration systems",
+  "homepage": [
+    "https://github.com/noironetworks/aci-containers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acicontainersoperator",
+    "acikubectl",
+    "certmanager",
+    "controller",
+    "gbpserver",
+    "hostagent",
+    "opflexagentcni",
+    "ovsresync",
+    "simpleservice",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/noironetworks/aci-containers/archive/870516a155b591628ebfe71fb7100876814cad93.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-870516a-250624T145755",
+  "version_upstream": "6.1.2.1",
+  "bsum": "343e78e6c64bf7c03e8b55a428755681f674dac2ee5419c9324e6cabdf6f77ad",
+  "build_date": "2025-06-25T08:59:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870803736",
+  "build_id": "15870803736",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/opflexagentcni?tag=HEAD-870516a-250624T145755-loongarch64-Linux&download=opflexagentcni.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/opflexagentcni?tag=HEAD-870516a-250624T145755-loongarch64-Linux&download=opflexagentcni",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noironetworks/aci-containers/opflexagentcni:HEAD-870516a-250624T145755-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noironetworks/aci-containers/opflexagentcni",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/opflexagentcni?tag=HEAD-870516a-250624T145755-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8dc0b61e8e0a3f3bce59af86edc46ff656d904051d63d25105f4aa9a9bf3ee4",
+  "size": "5.4 MB",
+  "size_raw": "5590272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
