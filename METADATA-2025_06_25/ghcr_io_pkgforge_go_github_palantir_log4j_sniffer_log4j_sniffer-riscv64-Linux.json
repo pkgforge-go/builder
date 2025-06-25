@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "log4j-sniffer",
+  "pkg_family": "log4j-sniffer",
+  "pkg_id": "log4j-sniffer#github.com_palantir_log4j_sniffer",
+  "pkg_name": "log4j-sniffer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/palantir/log4j-sniffer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool that scans archives to check for vulnerable log4j versions",
+  "homepage": [
+    "https://github.com/palantir/log4j-sniffer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "log4j-sniffer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/palantir/log4j-sniffer/archive/d8de5e37198333e1fb6d3fd591107c71da6d275b.tar.gz"
+  ],
+  "tag": [
+    "cve-2021-44228",
+    "log4j",
+    "log4j2",
+    "octo-correct-managed"
+  ],
+  "version": "HEAD-d8de5e3-250624T224558",
+  "version_upstream": "",
+  "bsum": "d6840b156af2b1c4e1d54e50fc616e7bd344a29334a7a2d70523440308695933",
+  "build_date": "2025-06-25T09:23:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871192720",
+  "build_id": "15871192720",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/log4j-sniffer/log4j-sniffer?tag=HEAD-d8de5e3-250624T224558-riscv64-Linux&download=log4j-sniffer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "197",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/log4j-sniffer/log4j-sniffer?tag=HEAD-d8de5e3-250624T224558-riscv64-Linux&download=log4j-sniffer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/palantir/log4j-sniffer/log4j-sniffer:HEAD-d8de5e3-250624T224558-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/palantir/log4j-sniffer/log4j-sniffer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/log4j-sniffer/log4j-sniffer?tag=HEAD-d8de5e3-250624T224558-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85a5b497a9aafb021d44811bf5d8099f23f5279133748ed303ea95c63990e390",
+  "size": "3.7 MB",
+  "size_raw": "3779672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
