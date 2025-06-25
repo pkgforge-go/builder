@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "score-k8s",
+  "pkg_family": "score-k8s",
+  "pkg_id": "score-k8s#github.com_score_spec_score_k8s",
+  "pkg_name": "score-k8s",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/score-spec/score-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A reference Score implementation that targets Kubernetes",
+  "homepage": [
+    "https://github.com/score-spec/score-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "score-k8s"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/score-spec/score-k8s/archive/f527fd9042a1cfe888f61e07193673cb5aa6aa3a.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "platform-engineering",
+    "score"
+  ],
+  "version": "HEAD-f527fd9-250624T194058",
+  "version_upstream": "0.6.1",
+  "bsum": "521865f5790ea80b3ed8afeb004c82326af21cb41acd0f092107be84ab598f4b",
+  "build_date": "2025-06-25T09:44:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872265087",
+  "build_id": "15872265087",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/score-spec/score-k8s/score-k8s?tag=HEAD-f527fd9-250624T194058-x86_64-Linux&download=score-k8s.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/score-spec/score-k8s/score-k8s?tag=HEAD-f527fd9-250624T194058-x86_64-Linux&download=score-k8s",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/score-spec/score-k8s/score-k8s:HEAD-f527fd9-250624T194058-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/score-spec/score-k8s/score-k8s",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/score-spec/score-k8s/score-k8s?tag=HEAD-f527fd9-250624T194058-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "acbeaef0264ebfb66878e577d1dbfb24514e77db3581a4d4cd00ac5221186878",
+  "size": "23 MB",
+  "size_raw": "23869216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
