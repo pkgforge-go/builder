@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sign-uptime-message",
+  "pkg_family": "subnet-evm",
+  "pkg_id": "sign-uptime-message#github.com_ava_labs_subnet_evm",
+  "pkg_name": "sign-uptime-message",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ava-labs/subnet-evm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Launch your own EVM as an Avalanche Subnet",
+  "homepage": [
+    "https://github.com/ava-labs/subnet-evm"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abigen",
+    "antithesis",
+    "evm",
+    "gencomposeconfig",
+    "main",
+    "plugin",
+    "precompilegen",
+    "sign-uptime-message"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ava-labs/subnet-evm/archive/509f5ce3b41bc715ead6924e45de7a3a34e4e4af.tar.gz"
+  ],
+  "tag": [
+    "avalanche",
+    "blockchain",
+    "ethereum",
+    "evm"
+  ],
+  "version": "HEAD-509f5ce-250624T200923",
+  "version_upstream": "",
+  "bsum": "a2d83ecc2f6941ea734bc2e4b7d3c9fb58c62a9e2ca9e7602722978e01fe7ff0",
+  "build_date": "2025-06-25T07:39:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869564395",
+  "build_id": "15869564395",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/subnet-evm/sign-uptime-message?tag=HEAD-509f5ce-250624T200923-riscv64-Linux&download=sign-uptime-message.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "262",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/subnet-evm/sign-uptime-message?tag=HEAD-509f5ce-250624T200923-riscv64-Linux&download=sign-uptime-message",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ava-labs/subnet-evm/sign-uptime-message:HEAD-509f5ce-250624T200923-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ava-labs/subnet-evm/sign-uptime-message",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/subnet-evm/sign-uptime-message?tag=HEAD-509f5ce-250624T200923-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa36d601dbf013d03521e067693dfb07b0d1de198e6b4587aaa20505b081a05e",
+  "size": "25 MB",
+  "size_raw": "26156504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
