@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "info",
+  "pkg_family": "cadence",
+  "pkg_id": "info#github.com_onflow_cadence",
+  "pkg_name": "info",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onflow/cadence",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cadence, the resource-oriented smart contract programming language 🏃‍♂️",
+  "homepage": [
+    "https://github.com/onflow/cadence"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast-explorer",
+    "check",
+    "compare-parsing",
+    "decode-state-values",
+    "gen",
+    "info",
+    "json-cdc",
+    "lex",
+    "main",
+    "minifier",
+    "parse",
+    "pretty",
+    "staged-contracts-report-printer",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/onflow/cadence/archive/894b3bbcaa373b27529b519f4c32cc02da519de2.tar.gz"
+  ],
+  "tag": [
+    "cadence",
+    "language",
+    "onflow",
+    "programming-language",
+    "smart-contracts"
+  ],
+  "version": "HEAD-894b3bb-250624T121447",
+  "version_upstream": "",
+  "bsum": "ec4d42a4a59f51a77a459803d9e386c94bfa5abd21972a498663be9ea4467e77",
+  "build_date": "2025-06-25T12:34:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873569118",
+  "build_id": "15873569118",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/info?tag=HEAD-894b3bb-250624T121447-loongarch64-Linux&download=info.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "538",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/info?tag=HEAD-894b3bb-250624T121447-loongarch64-Linux&download=info",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onflow/cadence/info:HEAD-894b3bb-250624T121447-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onflow/cadence/info",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/info?tag=HEAD-894b3bb-250624T121447-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab46c26b3ab4c8e4f537aedbe7fcee0bb3f4b2d1dc01cd03e682f9633f930f0a",
+  "size": "13 MB",
+  "size_raw": "12934400",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ec545e8-250620T122754-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
