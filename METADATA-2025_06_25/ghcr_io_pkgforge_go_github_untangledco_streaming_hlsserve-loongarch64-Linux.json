@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hlsserve",
+  "pkg_family": "streaming",
+  "pkg_id": "hlsserve#github.com_untangledco_streaming",
+  "pkg_name": "hlsserve",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/untangledco/streaming",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Media streaming and broadcast systems in Go",
+  "homepage": [
+    "https://github.com/untangledco/streaming"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autx",
+    "hlsproxy",
+    "hlsserve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/untangledco/streaming/archive/035ab79449be5db836ae24e00d8bfe3317f14ea5.tar.gz"
+  ],
+  "tag": [
+    "broadcast",
+    "cmcd",
+    "hls",
+    "rtp",
+    "scte-35",
+    "smpte-2110",
+    "streaming"
+  ],
+  "version": "HEAD-035ab79-250625T094458",
+  "version_upstream": "",
+  "bsum": "19da141655e9f19043a2c0b7e731404f5aa69b1c4931a864447990fe970e46d0",
+  "build_date": "2025-06-25T10:09:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872478180",
+  "build_id": "15872478180",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/untangledco/streaming/hlsserve?tag=HEAD-035ab79-250625T094458-loongarch64-Linux&download=hlsserve.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "107",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/untangledco/streaming/hlsserve?tag=HEAD-035ab79-250625T094458-loongarch64-Linux&download=hlsserve",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/untangledco/streaming/hlsserve:HEAD-035ab79-250625T094458-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/untangledco/streaming/hlsserve",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/untangledco/streaming/hlsserve?tag=HEAD-035ab79-250625T094458-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67efc53df57549b3475009d61a1ddf768af3a72659e7b7d08d36641dedb1e250",
+  "size": "5.9 MB",
+  "size_raw": "6121248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
