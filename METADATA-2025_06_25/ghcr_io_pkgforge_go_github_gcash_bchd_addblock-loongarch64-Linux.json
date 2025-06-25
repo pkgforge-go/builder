@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "addblock",
+  "pkg_family": "bchd",
+  "pkg_id": "addblock#github.com_gcash_bchd",
+  "pkg_name": "addblock",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gcash/bchd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative full node bitcoin cash implementation written in Go _golang_",
+  "homepage": [
+    "https://github.com/gcash/bchd"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addblock",
+    "bchctl",
+    "bchd",
+    "bchdwebsockets",
+    "bchwalletwebsockets",
+    "bitcoincorehttp",
+    "dbtool",
+    "findcheckpoint",
+    "gencerts",
+    "proxy",
+    "utxotool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gcash/bchd/archive/e4e067ac22fcb1989865f9b607f58393a18c7563.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e4e067a-250624T083230",
+  "version_upstream": "",
+  "bsum": "2f1f23b213900cdedf59e86cd26d77209f834e55592972354adc9f30e1942d79",
+  "build_date": "2025-06-25T07:59:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869672215",
+  "build_id": "15869672215",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcash/bchd/addblock?tag=HEAD-e4e067a-250624T083230-loongarch64-Linux&download=addblock.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "284",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcash/bchd/addblock?tag=HEAD-e4e067a-250624T083230-loongarch64-Linux&download=addblock",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gcash/bchd/addblock:HEAD-e4e067a-250624T083230-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gcash/bchd/addblock",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcash/bchd/addblock?tag=HEAD-e4e067a-250624T083230-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6d7ff421cadd38f65e50c691ba57a0c7c172b30a0d12f470efa33a5e16aa4a1",
+  "size": "9.3 MB",
+  "size_raw": "9732080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
