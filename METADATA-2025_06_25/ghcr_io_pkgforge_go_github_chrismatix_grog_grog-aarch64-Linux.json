@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "grog",
+  "pkg_family": "grog",
+  "pkg_id": "grog#github.com_chrismatix_grog",
+  "pkg_name": "grog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chrismatix/grog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grog is a mono-repo build tool that is agnostic on how you run your build commands, but instead focuses on caching and parallel execution.",
+  "homepage": [
+    "https://github.com/chrismatix/grog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grog",
+    "grog-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chrismatix/grog/archive/c4e085e10176482ff34f6ed877b8bba42ced590a.tar.gz"
+  ],
+  "tag": [
+    "build-tool",
+    "golang",
+    "monorepo"
+  ],
+  "version": "HEAD-c4e085e-250625T202459",
+  "version_upstream": "v0.11.1",
+  "bsum": "dca98d7846a15ae7ea23928ae1ab8799903f8d8be730cc2907129746e8c7723b",
+  "build_date": "2025-06-25T16:30:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881162095",
+  "build_id": "15881162095",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrismatix/grog/grog?tag=HEAD-c4e085e-250625T202459-aarch64-Linux&download=grog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrismatix/grog/grog?tag=HEAD-c4e085e-250625T202459-aarch64-Linux&download=grog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chrismatix/grog/grog:HEAD-c4e085e-250625T202459-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chrismatix/grog/grog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chrismatix/grog/grog?tag=HEAD-c4e085e-250625T202459-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "074613d8e9cb1114d8e3780b9ba3039fa4d00bf8256e7343989be5badcd5d6e8",
+  "size": "39 MB",
+  "size_raw": "39983296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
