@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aggregator",
+  "pkg_family": "aggregator",
+  "pkg_id": "aggregator#github.com_paycrest_aggregator",
+  "pkg_name": "aggregator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paycrest/aggregator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An aggregator handles the allocation, matching, and settlement of payment intents for the Paycrest protocol",
+  "homepage": [
+    "https://github.com/paycrest/aggregator"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregator",
+    "seed-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paycrest/aggregator/archive/20793d1663ef9bfb05903b6e6ee1da8c18f126de.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-20793d1-250625T022603",
+  "version_upstream": "",
+  "bsum": "2786e96f14848664b3c679310516ba964d267948597d17615c6b1930d7ee4dad",
+  "build_date": "2025-06-25T09:28:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871284284",
+  "build_id": "15871284284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/aggregator?tag=HEAD-20793d1-250625T022603-loongarch64-Linux&download=aggregator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/aggregator?tag=HEAD-20793d1-250625T022603-loongarch64-Linux&download=aggregator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paycrest/aggregator/aggregator:HEAD-20793d1-250625T022603-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paycrest/aggregator/aggregator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/aggregator?tag=HEAD-20793d1-250625T022603-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ac477246749e9232838ba7da0fdbe4d6381d748a51479c2ea3f2836d23c07d5",
+  "size": "47 MB",
+  "size_raw": "48337632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
