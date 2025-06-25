@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stackit-cli",
+  "pkg_family": "stackit-cli",
+  "pkg_id": "stackit-cli#github.com_stackitcloud_stackit_cli",
+  "pkg_name": "stackit-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stackitcloud/stackit-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A command-line interface to manage STACKIT resources",
+  "homepage": [
+    "https://github.com/stackitcloud/stackit-cli"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "stackit-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stackitcloud/stackit-cli/archive/8a59085cff725ffd99c98d0ade6981463b9ff6ae.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "cloud",
+    "stackit",
+    "stackit-cloud"
+  ],
+  "version": "HEAD-8a59085-250625T154209",
+  "version_upstream": "",
+  "bsum": "2f1ba776d560ca9a83a22eb770c78ddc180725e5981767a5bb4b9e4c0f1552ab",
+  "build_date": "2025-06-25T18:24:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882880496",
+  "build_id": "15882880496",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/stackit-cli/stackit-cli?tag=HEAD-8a59085-250625T154209-riscv64-Linux&download=stackit-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "92",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/stackit-cli/stackit-cli?tag=HEAD-8a59085-250625T154209-riscv64-Linux&download=stackit-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stackitcloud/stackit-cli/stackit-cli:HEAD-8a59085-250625T154209-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stackitcloud/stackit-cli/stackit-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackitcloud/stackit-cli/stackit-cli?tag=HEAD-8a59085-250625T154209-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ddaf4e4cc490ddf0fcf6f6e5b91771bf711228f0a0be0b74ac32ea5820664b1",
+  "size": "47 MB",
+  "size_raw": "48906104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
