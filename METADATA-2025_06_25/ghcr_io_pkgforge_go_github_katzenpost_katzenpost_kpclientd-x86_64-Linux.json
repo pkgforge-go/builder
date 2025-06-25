@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kpclientd",
+  "pkg_family": "katzenpost",
+  "pkg_id": "kpclientd#github.com_katzenpost_katzenpost",
+  "pkg_name": "kpclientd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/katzenpost/katzenpost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
+  "homepage": [
+    "https://github.com/katzenpost/katzenpost"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "courier",
+    "dirauth",
+    "echo-plugin",
+    "fetch",
+    "genconfig",
+    "genkeypair",
+    "gensphinx",
+    "http-proxy-client",
+    "http-proxy-server",
+    "katzencat",
+    "katzencopy",
+    "kpclientd",
+    "map",
+    "ping",
+    "server",
+    "sphinx"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/katzenpost/katzenpost/archive/e51ec029e664b9d3a7fc170aa22d3061297bed17.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e51ec02-250624T163441",
+  "version_upstream": "",
+  "bsum": "31f332c14a8772a1234601506dbbfdf3aead2bf5d1009988bffe90112d19e61c",
+  "build_date": "2025-06-25T12:16:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873501684",
+  "build_id": "15873501684",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/kpclientd?tag=HEAD-e51ec02-250624T163441-x86_64-Linux&download=kpclientd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/kpclientd?tag=HEAD-e51ec02-250624T163441-x86_64-Linux&download=kpclientd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/katzenpost/katzenpost/kpclientd:HEAD-e51ec02-250624T163441-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/katzenpost/katzenpost/kpclientd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/kpclientd?tag=HEAD-e51ec02-250624T163441-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8726d4d96eac09d0541aa11e6ef8fdc235ad9dac3ffeb5b3f1f3196b3bc94416",
+  "size": "12 MB",
+  "size_raw": "11820704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6de7519-250619T130558-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
