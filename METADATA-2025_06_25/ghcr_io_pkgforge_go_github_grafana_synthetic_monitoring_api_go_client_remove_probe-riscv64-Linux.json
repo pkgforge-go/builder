@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "remove-probe",
+  "pkg_family": "synthetic-monitoring-api-go-client",
+  "pkg_id": "remove-probe#github.com_grafana_synthetic_monitoring_api_go_client",
+  "pkg_name": "remove-probe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/synthetic-monitoring-api-go-client",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go client for Synthetic Monitoring",
+  "homepage": [
+    "https://github.com/grafana/synthetic-monitoring-api-go-client"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-checks",
+    "list-checks",
+    "remove-probe",
+    "sm-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/synthetic-monitoring-api-go-client/archive/1ab511bd8f9a32a1382ccef75a52a817d773fbda.tar.gz"
+  ],
+  "tag": [
+    "api-client",
+    "golang",
+    "grafana",
+    "grafana-synthetic-monitoring",
+    "hacktoberfest",
+    "synthetic-monitoring"
+  ],
+  "version": "HEAD-1ab511b-250625T074629",
+  "version_upstream": "v0.14.2",
+  "bsum": "26a13b116bf4dea69c1eb184feb948d3c2b22542bbdf53104b0f8fb5ac57c426",
+  "build_date": "2025-06-25T17:02:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881413388",
+  "build_id": "15881413388",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/synthetic-monitoring-api-go-client/remove-probe?tag=HEAD-1ab511b-250625T074629-riscv64-Linux&download=remove-probe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/synthetic-monitoring-api-go-client/remove-probe?tag=HEAD-1ab511b-250625T074629-riscv64-Linux&download=remove-probe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/synthetic-monitoring-api-go-client/remove-probe:HEAD-1ab511b-250625T074629-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/synthetic-monitoring-api-go-client/remove-probe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/synthetic-monitoring-api-go-client/remove-probe?tag=HEAD-1ab511b-250625T074629-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c64b6e760a2e4bed2a0464272169627c36ce23d29be428bc7a74c9f1090b7bf3",
+  "size": "13 MB",
+  "size_raw": "13565400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
