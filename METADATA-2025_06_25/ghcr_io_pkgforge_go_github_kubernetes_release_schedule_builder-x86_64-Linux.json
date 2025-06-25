@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "schedule-builder",
+  "pkg_family": "release",
+  "pkg_id": "schedule-builder#github.com_kubernetes_release",
+  "pkg_name": "schedule-builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/release",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Release infrastructure for Kubernetes and related components",
+  "homepage": [
+    "https://github.com/kubernetes/release"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci-reporter",
+    "gcbuilder",
+    "krel",
+    "publish-release",
+    "release-notes",
+    "schedule-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/release/archive/833779b7f908a2194d68bf8b65b0616f7d008c3f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "release-infrastructure"
+  ],
+  "version": "HEAD-833779b-250625T013431",
+  "version_upstream": "",
+  "bsum": "36440e85fcec3d6657394c5d5f8d0e614a4b039c9cc3848cad761f10144213ac",
+  "build_date": "2025-06-25T23:37:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888037401",
+  "build_id": "15888037401",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/schedule-builder?tag=HEAD-833779b-250625T013431-x86_64-Linux&download=schedule-builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/schedule-builder?tag=HEAD-833779b-250625T013431-x86_64-Linux&download=schedule-builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/release/schedule-builder:HEAD-833779b-250625T013431-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/release/schedule-builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/schedule-builder?tag=HEAD-833779b-250625T013431-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "63748697256438afdb8cd762fc0a013dce4c50b73e757dd9bb28b4d3ecba8965",
+  "size": "5.9 MB",
+  "size_raw": "6135544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6990ddb-250622T180052-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
