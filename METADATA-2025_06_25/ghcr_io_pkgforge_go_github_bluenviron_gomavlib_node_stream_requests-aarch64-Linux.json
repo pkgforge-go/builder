@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "node-stream-requests",
+  "pkg_family": "gomavlib",
+  "pkg_id": "node-stream-requests#github.com_bluenviron_gomavlib",
+  "pkg_name": "node-stream-requests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bluenviron/gomavlib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mavlink library _2.0 and 1.0_ for the Go programming language",
+  "homepage": [
+    "https://github.com/bluenviron/gomavlib"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dialect-import",
+    "dialects-gen",
+    "frame-read-writer",
+    "node-dialect-absent",
+    "node-dialect-custom",
+    "node-endpoint-custom",
+    "node-endpoint-serial",
+    "node-endpoint-tcp-client",
+    "node-endpoint-tcp-server",
+    "node-endpoint-udp-broadcast",
+    "node-endpoint-udp-client",
+    "node-endpoint-udp-server",
+    "node-events",
+    "node-message-read",
+    "node-message-write",
+    "node-router",
+    "node-router-edit",
+    "node-serial-to-json",
+    "node-signature",
+    "node-stream-requests",
+    "telemetry-log"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bluenviron/gomavlib/archive/44eb0879308e475d3d91408c6728eeaec614b263.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "golang-library",
+    "mavlink",
+    "mavlink-library",
+    "mavlink-protocol",
+    "mavlink-proxy",
+    "quadcopter",
+    "uav",
+    "ugv"
+  ],
+  "version": "HEAD-44eb087-250625T115338",
+  "version_upstream": "",
+  "bsum": "7b5b3311134eacfe0d72aa3d23ec3ae1e2eed27444490231a92337d16a8aaa51",
+  "build_date": "2025-06-25T16:28:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881155742",
+  "build_id": "15881155742",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/gomavlib/node-stream-requests?tag=HEAD-44eb087-250625T115338-aarch64-Linux&download=node-stream-requests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/gomavlib/node-stream-requests?tag=HEAD-44eb087-250625T115338-aarch64-Linux&download=node-stream-requests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bluenviron/gomavlib/node-stream-requests:HEAD-44eb087-250625T115338-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bluenviron/gomavlib/node-stream-requests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bluenviron/gomavlib/node-stream-requests?tag=HEAD-44eb087-250625T115338-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4ec231a008dcfd3071a3e3a5768f6f5dfdae6c8a90935f30358079df37bcc065",
+  "size": "4.0 MB",
+  "size_raw": "4134688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
