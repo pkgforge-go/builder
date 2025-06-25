@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "scs",
+  "pkg_id": "proxy#github.com_hyahm_scs",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hyahm/scs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "自带监控 ，定时器，停止控制，权限控制，分布式的高级进程管理工具,    It comes with monitoring, timer, stop control, permission control and distributed advanced process management tools",
+  "homepage": [
+    "https://github.com/hyahm/scs"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "proxy",
+    "random",
+    "scsctl",
+    "scsd",
+    "telegram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hyahm/scs/archive/4ec960d2fa5bf2a15e2ca1b4b079dbf8317a4e92.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4ec960d-250625T183530",
+  "version_upstream": "",
+  "bsum": "0db8659ccc72bc447434cfc07d21c163e7ca6f2801acffde428b419f7f3aefda",
+  "build_date": "2025-06-25T17:08:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881757018",
+  "build_id": "15881757018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyahm/scs/proxy?tag=HEAD-4ec960d-250625T183530-riscv64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyahm/scs/proxy?tag=HEAD-4ec960d-250625T183530-riscv64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyahm/scs/proxy:HEAD-4ec960d-250625T183530-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyahm/scs/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyahm/scs/proxy?tag=HEAD-4ec960d-250625T183530-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b6cea49f160f75f630fb37387e8008569033fa851949e0ab90231a9d545bdeb",
+  "size": "2.4 MB",
+  "size_raw": "2469256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
