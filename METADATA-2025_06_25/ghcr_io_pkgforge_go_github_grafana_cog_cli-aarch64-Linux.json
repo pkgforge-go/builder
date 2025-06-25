@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "cog",
+  "pkg_id": "cli#github.com_grafana_cog",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/cog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Code Generation with a human touch",
+  "homepage": [
+    "https://github.com/grafana/cog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "cog-config-schemas",
+    "compiler-passes-docs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/cog/archive/5c3dc52b342ad93a0b0b1bae69d70f15703947e3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5c3dc52-250625T145518",
+  "version_upstream": "",
+  "bsum": "dbfab43e4912b3f766aa027c3c85643929ebedd82e62ea9973a38cc485fd4cab",
+  "build_date": "2025-06-25T23:00:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887979397",
+  "build_id": "15887979397",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cog/cli?tag=HEAD-5c3dc52-250625T145518-aarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cog/cli?tag=HEAD-5c3dc52-250625T145518-aarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/cog/cli:HEAD-5c3dc52-250625T145518-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/cog/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/cog/cli?tag=HEAD-5c3dc52-250625T145518-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "24e7467afc1b9d243f432e0f7b70aa91a2db80c2699fb1d290ebc2c0f748d5d4",
+  "size": "23 MB",
+  "size_raw": "23644960",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8fc0a44-250618T173733-aarch64-Linux[v0.0.36]"
+  ],
+  "trusted": "true"
+}
