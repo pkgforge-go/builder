@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pgstream-tools",
+  "pkg_family": "pgstream",
+  "pkg_id": "pgstream-tools#github.com_xataio_pgstream",
+  "pkg_name": "pgstream-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xataio/pgstream",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "https://github.com/xataio/pgstream"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xataio/pgstream/archive/227bfc8afea1622628019b4f449e6331a52e9000.tar.gz"
+  ],
+  "tag": [
+    "ddl",
+    "elasticsearch",
+    "golang",
+    "opensearch",
+    "postgresql",
+    "replication",
+    "schema",
+    "webhooks"
+  ],
+  "version": "HEAD-227bfc8-250624T160434",
+  "version_upstream": "",
+  "bsum": "9f08f32674142463f10ed3e993699a7ce6b27fbb6c92932847c4894fc5af8295",
+  "build_date": "2025-06-25T04:08:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15866439814",
+  "build_id": "15866439814",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream-tools?tag=HEAD-227bfc8-250624T160434-x86_64-Linux&download=pgstream-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "592",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream-tools?tag=HEAD-227bfc8-250624T160434-x86_64-Linux&download=pgstream-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream-tools:HEAD-227bfc8-250624T160434-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream-tools?tag=HEAD-227bfc8-250624T160434-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb7110e2b31eff8243d6984d3cd2463c01938748205789da44cda9228ff6176f",
+  "size": "158 MB",
+  "size_raw": "164633184",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-438b44a-250620T131309-x86_64-Linux[v0.7.1]"
+  ],
+  "trusted": "true"
+}
