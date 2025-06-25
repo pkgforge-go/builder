@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "service-proxy",
+  "pkg_family": "greenhouse",
+  "pkg_id": "service-proxy#github.com_cloudoperators_greenhouse",
+  "pkg_name": "service-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudoperators/greenhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud operations platform",
+  "homepage": [
+    "https://github.com/cloudoperators/greenhouse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cors-proxy",
+    "greenhouse",
+    "greenhousectl",
+    "hack",
+    "idproxy",
+    "service-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudoperators/greenhouse/archive/b0ff370f436006b7b5fc601adef7a81684f6f311.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "compliance",
+    "juno",
+    "k8s",
+    "kubebuilder",
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "operations",
+    "prometheus",
+    "reactjs",
+    "security"
+  ],
+  "version": "HEAD-b0ff370-250625T141815",
+  "version_upstream": "",
+  "bsum": "ac1a8ca4bd40edcdb2a5e98f875dc1c695192778930ffe1267cf257e4e1182d2",
+  "build_date": "2025-06-25T22:34:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887931693",
+  "build_id": "15887931693",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/service-proxy?tag=HEAD-b0ff370-250625T141815-riscv64-Linux&download=service-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/service-proxy?tag=HEAD-b0ff370-250625T141815-riscv64-Linux&download=service-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudoperators/greenhouse/service-proxy:HEAD-b0ff370-250625T141815-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudoperators/greenhouse/service-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudoperators/greenhouse/service-proxy?tag=HEAD-b0ff370-250625T141815-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1bf1747e0ea5dbeabd3ef482d0aa72aecb3162a4988c1498ec26080903834e7e",
+  "size": "70 MB",
+  "size_raw": "72597016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-218c760-250619T101321-riscv64-Linux",
+    "HEAD-5f76ed5-250623T160457-riscv64-Linux",
+    "HEAD-8412311-250624T160951-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
