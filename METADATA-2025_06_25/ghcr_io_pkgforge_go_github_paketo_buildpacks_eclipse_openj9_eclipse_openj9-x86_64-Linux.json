@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "eclipse-openj9",
+  "pkg_family": "eclipse-openj9",
+  "pkg_id": "eclipse-openj9#github.com_paketo_buildpacks_eclipse_openj9",
+  "pkg_name": "eclipse-openj9",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/eclipse-openj9",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that provides the Eclipse OpenJ9 implementations of JREs and JDKs",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/eclipse-openj9"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eclipse-openj9"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paketo-buildpacks/eclipse-openj9/archive/bf666ad3dd49d12c3c6801682d0cf188ce6490f7.tar.gz"
+  ],
+  "tag": [
+    "cnb",
+    "eclipse-openj9",
+    "jvm",
+    "jvm-applications"
+  ],
+  "version": "HEAD-bf666ad-250624T160040",
+  "version_upstream": "v11.1.4",
+  "bsum": "672fa4a72f71098cda1fc8681b5d3cc9b95cee95cc1e6fbf8d9063d961962f77",
+  "build_date": "2025-06-25T09:17:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870999427",
+  "build_id": "15870999427",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/eclipse-openj9/eclipse-openj9?tag=HEAD-bf666ad-250624T160040-x86_64-Linux&download=eclipse-openj9.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/eclipse-openj9/eclipse-openj9?tag=HEAD-bf666ad-250624T160040-x86_64-Linux&download=eclipse-openj9",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/eclipse-openj9/eclipse-openj9:HEAD-bf666ad-250624T160040-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/eclipse-openj9/eclipse-openj9",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/eclipse-openj9/eclipse-openj9?tag=HEAD-bf666ad-250624T160040-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0bc40b36a788a486998e17326b448a0f46e63ccc76df64746a8b5fad3544de0c",
+  "size": "8.3 MB",
+  "size_raw": "8669504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
