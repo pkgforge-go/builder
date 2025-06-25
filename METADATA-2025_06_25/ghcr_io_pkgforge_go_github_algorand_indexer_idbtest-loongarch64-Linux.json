@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "idbtest",
+  "pkg_family": "indexer",
+  "pkg_id": "idbtest#github.com_algorand_indexer",
+  "pkg_name": "idbtest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/indexer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "searchable history and current state",
+  "homepage": [
+    "https://github.com/algorand/indexer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "algorand-indexer",
+    "e2equeries",
+    "idbtest",
+    "misc",
+    "texttosource",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/algorand/indexer/archive/f95b13be8b50cb9109dbfec1adedf28c60656ac3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f95b13b-250624T155901",
+  "version_upstream": "",
+  "bsum": "a0c2768ea2d16b1e8304c7053664a7c18b41af985ee009b3361c0de308a5eec0",
+  "build_date": "2025-06-25T10:40:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873273544",
+  "build_id": "15873273544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/idbtest?tag=HEAD-f95b13b-250624T155901-loongarch64-Linux&download=idbtest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/idbtest?tag=HEAD-f95b13b-250624T155901-loongarch64-Linux&download=idbtest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/indexer/idbtest:HEAD-f95b13b-250624T155901-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/indexer/idbtest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/idbtest?tag=HEAD-f95b13b-250624T155901-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b69094e2dd7fdbbfcfce28251150b24f3cc48df82fcc42a736e2678f17679023",
+  "size": "12 MB",
+  "size_raw": "12446560",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-29afdc2-250624T104431-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
