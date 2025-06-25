@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "metakv-mock",
+  "pkg_family": "cbgt",
+  "pkg_id": "metakv-mock#github.com_couchbase_cbgt",
+  "pkg_name": "metakv-mock",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/couchbase/cbgt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The cbgt project provides a generic golang library that manages partitions or data shards across a cluster of servers.",
+  "homepage": [
+    "https://github.com/couchbase/cbgt"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cbgt-ctl",
+    "metakv-mock"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/couchbase/cbgt/archive/e13169a48c3a87d2eceea1d926a1aedbfb67afa9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e13169a-250625T140012",
+  "version_upstream": "",
+  "bsum": "0ddf6f1eff47810697efeb007ea5ce54664d54ee809be07f88fc29a9b1fce1ec",
+  "build_date": "2025-06-25T16:34:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881211687",
+  "build_id": "15881211687",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/cbgt/metakv-mock?tag=HEAD-e13169a-250625T140012-x86_64-Linux&download=metakv-mock.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/cbgt/metakv-mock?tag=HEAD-e13169a-250625T140012-x86_64-Linux&download=metakv-mock",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/couchbase/cbgt/metakv-mock:HEAD-e13169a-250625T140012-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/couchbase/cbgt/metakv-mock",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/cbgt/metakv-mock?tag=HEAD-e13169a-250625T140012-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd5ab4b2b4e602181bf85a7a691c8d05247c2d24dc023afad6d35a3c2dbf9a60",
+  "size": "6.1 MB",
+  "size_raw": "6329824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
