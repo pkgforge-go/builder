@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aes_encrypt",
+  "pkg_family": "go_pkcs11",
+  "pkg_id": "aes_encrypt#github.com_salrashid123_go_pkcs11",
+  "pkg_name": "aes_encrypt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/salrashid123/go_pkcs11",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PKCS 11 Samples in Go using SoftHSM",
+  "homepage": [
+    "https://github.com/salrashid123/go_pkcs11"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aes_encrypt",
+    "ecc_sign",
+    "hmac",
+    "import_aes_rsa",
+    "import_rsa",
+    "import_rsa_aes",
+    "import_rsa_rsa",
+    "rsa_sign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/salrashid123/go_pkcs11/archive/4f424d12614299b9a552cb58bb6d6bfe728fa111.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "golang",
+    "pkcs11",
+    "rsa"
+  ],
+  "version": "HEAD-4f424d1-250624T150513",
+  "version_upstream": "",
+  "bsum": "7116629fda2010bc79a1fabd0fdd55f9bf199bd01bd26bb093d8438237a1d2d1",
+  "build_date": "2025-06-25T09:43:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872232639",
+  "build_id": "15872232639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/aes_encrypt?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&download=aes_encrypt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/aes_encrypt?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&download=aes_encrypt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go/pkcs11/aes_encrypt:HEAD-4f424d1-250624T150513-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go/pkcs11/aes_encrypt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/aes_encrypt?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a8e6c76d96cd74d9b9b1556ba8f3062d741dfd7cd5aa49b4dd72d395a967e34",
+  "size": "1.9 MB",
+  "size_raw": "1989176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

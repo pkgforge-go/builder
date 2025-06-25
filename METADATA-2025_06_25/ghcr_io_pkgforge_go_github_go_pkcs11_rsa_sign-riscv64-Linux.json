@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rsa_sign",
+  "pkg_family": "go_pkcs11",
+  "pkg_id": "rsa_sign#github.com_salrashid123_go_pkcs11",
+  "pkg_name": "rsa_sign",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/salrashid123/go_pkcs11",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PKCS 11 Samples in Go using SoftHSM",
+  "homepage": [
+    "https://github.com/salrashid123/go_pkcs11"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aes_encrypt",
+    "ecc_sign",
+    "hmac",
+    "import_aes_rsa",
+    "import_rsa",
+    "import_rsa_aes",
+    "import_rsa_rsa",
+    "rsa_sign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/salrashid123/go_pkcs11/archive/4f424d12614299b9a552cb58bb6d6bfe728fa111.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "golang",
+    "pkcs11",
+    "rsa"
+  ],
+  "version": "HEAD-4f424d1-250624T150513",
+  "version_upstream": "",
+  "bsum": "43c0fa5f93870c13cd3c1fbe97d30d9122811704bcd876ebf3db0e02baa08f1d",
+  "build_date": "2025-06-25T09:43:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872232639",
+  "build_id": "15872232639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/rsa_sign?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&download=rsa_sign.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/rsa_sign?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&download=rsa_sign",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go/pkcs11/rsa_sign:HEAD-4f424d1-250624T150513-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go/pkcs11/rsa_sign",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/rsa_sign?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fb86f99d04252df7f996b59391ddd3d767274aad54f2c333faa7be93c24669c",
+  "size": "2.7 MB",
+  "size_raw": "2804312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

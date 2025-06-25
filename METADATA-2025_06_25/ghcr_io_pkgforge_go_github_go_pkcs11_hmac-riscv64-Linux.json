@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hmac",
+  "pkg_family": "go_pkcs11",
+  "pkg_id": "hmac#github.com_salrashid123_go_pkcs11",
+  "pkg_name": "hmac",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/salrashid123/go_pkcs11",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PKCS 11 Samples in Go using SoftHSM",
+  "homepage": [
+    "https://github.com/salrashid123/go_pkcs11"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aes_encrypt",
+    "ecc_sign",
+    "hmac",
+    "import_aes_rsa",
+    "import_rsa",
+    "import_rsa_aes",
+    "import_rsa_rsa",
+    "rsa_sign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/salrashid123/go_pkcs11/archive/4f424d12614299b9a552cb58bb6d6bfe728fa111.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "golang",
+    "pkcs11",
+    "rsa"
+  ],
+  "version": "HEAD-4f424d1-250624T150513",
+  "version_upstream": "",
+  "bsum": "d591b69e266bce2d1249ac074c6b8171c181b92320fd4f829099d1e09b2496b3",
+  "build_date": "2025-06-25T09:43:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872232639",
+  "build_id": "15872232639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/hmac?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&download=hmac.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/hmac?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&download=hmac",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go/pkcs11/hmac:HEAD-4f424d1-250624T150513-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go/pkcs11/hmac",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go/pkcs11/hmac?tag=HEAD-4f424d1-250624T150513-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1c4a4337bea8e360dae9d0e407e6ef7d6f5c1ce4c6d0c3a5a192fc32a40688b",
+  "size": "1.8 MB",
+  "size_raw": "1844808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
