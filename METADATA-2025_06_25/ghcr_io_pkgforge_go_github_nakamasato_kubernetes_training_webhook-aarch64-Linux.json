@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "kubernetes-training",
+  "pkg_id": "webhook#github.com_nakamasato_kubernetes_training",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nakamasato/kubernetes-training",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes training from basics to advanced",
+  "homepage": [
+    "https://github.com/nakamasato/kubernetes-training"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "clientset",
+    "deltafifo",
+    "example-controller",
+    "indexer",
+    "informer",
+    "kubernetes-training",
+    "lister",
+    "listerwatcher",
+    "log",
+    "manager",
+    "random-scheduler",
+    "reconciler",
+    "scheme",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nakamasato/kubernetes-training/archive/40bc2d89b0fe190480981485f30b394915c57a89.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "managed-by-terraform"
+  ],
+  "version": "HEAD-40bc2d8-250625T020650",
+  "version_upstream": "",
+  "bsum": "74c8e1ad137d2cd031f71e1131e5ecbf1c2c41ed223119b92ef92a069b04be04",
+  "build_date": "2025-06-25T08:58:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870683942",
+  "build_id": "15870683942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/webhook?tag=HEAD-40bc2d8-250625T020650-aarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/webhook?tag=HEAD-40bc2d8-250625T020650-aarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/webhook:HEAD-40bc2d8-250625T020650-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/webhook?tag=HEAD-40bc2d8-250625T020650-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f02bda623ec9f9757b4df01ba7b626716d767d51a4ff80da27b025158fc29e9f",
+  "size": "40 MB",
+  "size_raw": "41847584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

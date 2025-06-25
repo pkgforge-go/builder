@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "listerwatcher",
+  "pkg_family": "kubernetes-training",
+  "pkg_id": "listerwatcher#github.com_nakamasato_kubernetes_training",
+  "pkg_name": "listerwatcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nakamasato/kubernetes-training",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes training from basics to advanced",
+  "homepage": [
+    "https://github.com/nakamasato/kubernetes-training"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "clientset",
+    "deltafifo",
+    "example-controller",
+    "indexer",
+    "informer",
+    "kubernetes-training",
+    "lister",
+    "listerwatcher",
+    "log",
+    "manager",
+    "random-scheduler",
+    "reconciler",
+    "scheme",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nakamasato/kubernetes-training/archive/40bc2d89b0fe190480981485f30b394915c57a89.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "managed-by-terraform"
+  ],
+  "version": "HEAD-40bc2d8-250625T020650",
+  "version_upstream": "",
+  "bsum": "127a3e342c8c6418ba94c207f9c20f72255108ce87aaac93b35d3c9dfc2827f8",
+  "build_date": "2025-06-25T08:57:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870683942",
+  "build_id": "15870683942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/listerwatcher?tag=HEAD-40bc2d8-250625T020650-aarch64-Linux&download=listerwatcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/listerwatcher?tag=HEAD-40bc2d8-250625T020650-aarch64-Linux&download=listerwatcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/listerwatcher:HEAD-40bc2d8-250625T020650-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/listerwatcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/listerwatcher?tag=HEAD-40bc2d8-250625T020650-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9601c2c359de95a19854ef03c0db7f31710a766c9458d7be124bae0e917c9613",
+  "size": "36 MB",
+  "size_raw": "37118912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
