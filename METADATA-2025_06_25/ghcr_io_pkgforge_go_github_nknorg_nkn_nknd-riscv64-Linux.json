@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nknd",
+  "pkg_family": "nkn",
+  "pkg_id": "nknd#github.com_nknorg_nkn",
+  "pkg_name": "nknd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nknorg/nkn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Official Go implementation of NKN full node.",
+  "homepage": [
+    "https://github.com/nknorg/nkn"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bytes2sigchain",
+    "nknc",
+    "nknd",
+    "pubkey2addr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nknorg/nkn/archive/5e9a7fd09aa085ececd7c49cd0cee2773d8be9e6.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "decentralization",
+    "distributed-systems",
+    "go",
+    "network",
+    "nkn",
+    "p2p"
+  ],
+  "version": "HEAD-5e9a7fd-250625T050537",
+  "version_upstream": "",
+  "bsum": "c9a27cc79f462158c12bdd84b55b76033e80b50f4c39f2aa127801c659360b5b",
+  "build_date": "2025-06-25T17:35:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882387100",
+  "build_id": "15882387100",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/nknd?tag=HEAD-5e9a7fd-250625T050537-riscv64-Linux&download=nknd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "483",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/nknd?tag=HEAD-5e9a7fd-250625T050537-riscv64-Linux&download=nknd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nknorg/nkn/nknd:HEAD-5e9a7fd-250625T050537-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nknorg/nkn/nknd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nknorg/nkn/nknd?tag=HEAD-5e9a7fd-250625T050537-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c059dfce00967d55e24aa29bc8ed96db35fe5ab791752fe2289d239752cc2f2",
+  "size": "25 MB",
+  "size_raw": "25982712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
