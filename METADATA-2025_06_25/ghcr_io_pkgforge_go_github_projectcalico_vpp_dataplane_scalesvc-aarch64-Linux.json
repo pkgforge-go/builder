@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scalesvc",
+  "pkg_family": "vpp-dataplane",
+  "pkg_id": "scalesvc#github.com_projectcalico_vpp_dataplane",
+  "pkg_name": "scalesvc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectcalico/vpp-dataplane",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VPP dataplane implementation for Calico",
+  "homepage": [
+    "https://github.com/projectcalico/vpp-dataplane"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-proxy",
+    "cmd",
+    "debug-state",
+    "multinet-monitor",
+    "replay-trace",
+    "scalepods",
+    "scalesvc",
+    "vpp-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectcalico/vpp-dataplane/archive/8d76b5ca1ba60e40d36e6d07fb7437d8eca4c4ee.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8d76b5c-250625T104040",
+  "version_upstream": "",
+  "bsum": "4708a5984569b401cda271faf56782808dbc909888bfcf0db39ff7970f501e1f",
+  "build_date": "2025-06-25T17:53:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882484600",
+  "build_id": "15882484600",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/scalesvc?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&download=scalesvc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/scalesvc?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&download=scalesvc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectcalico/vpp-dataplane/scalesvc:HEAD-8d76b5c-250625T104040-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectcalico/vpp-dataplane/scalesvc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/scalesvc?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dce8d0558326097f0938f31121b40d593063f82c24a8afc198cde53b46d96efe",
+  "size": "33 MB",
+  "size_raw": "34144704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

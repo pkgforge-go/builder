@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "debug-state",
+  "pkg_family": "vpp-dataplane",
+  "pkg_id": "debug-state#github.com_projectcalico_vpp_dataplane",
+  "pkg_name": "debug-state",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectcalico/vpp-dataplane",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VPP dataplane implementation for Calico",
+  "homepage": [
+    "https://github.com/projectcalico/vpp-dataplane"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-proxy",
+    "cmd",
+    "debug-state",
+    "multinet-monitor",
+    "replay-trace",
+    "scalepods",
+    "scalesvc",
+    "vpp-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectcalico/vpp-dataplane/archive/8d76b5ca1ba60e40d36e6d07fb7437d8eca4c4ee.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8d76b5c-250625T104040",
+  "version_upstream": "",
+  "bsum": "7585042c74d0e300cd40aa3e05a9f8a4b9824bb98b439f318fdd868c64e70a26",
+  "build_date": "2025-06-25T17:53:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882484600",
+  "build_id": "15882484600",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/debug-state?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&download=debug-state.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/debug-state?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&download=debug-state",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectcalico/vpp-dataplane/debug-state:HEAD-8d76b5c-250625T104040-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectcalico/vpp-dataplane/debug-state",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/debug-state?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e334984242d3bbc2a981f9e5496d920a1b98b910f02e1528594969cbc5e7c83c",
+  "size": "25 MB",
+  "size_raw": "25866208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

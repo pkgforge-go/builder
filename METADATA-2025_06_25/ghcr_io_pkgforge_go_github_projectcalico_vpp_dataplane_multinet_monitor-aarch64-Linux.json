@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "multinet-monitor",
+  "pkg_family": "vpp-dataplane",
+  "pkg_id": "multinet-monitor#github.com_projectcalico_vpp_dataplane",
+  "pkg_name": "multinet-monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectcalico/vpp-dataplane",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VPP dataplane implementation for Calico",
+  "homepage": [
+    "https://github.com/projectcalico/vpp-dataplane"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-proxy",
+    "cmd",
+    "debug-state",
+    "multinet-monitor",
+    "replay-trace",
+    "scalepods",
+    "scalesvc",
+    "vpp-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectcalico/vpp-dataplane/archive/8d76b5ca1ba60e40d36e6d07fb7437d8eca4c4ee.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8d76b5c-250625T104040",
+  "version_upstream": "",
+  "bsum": "4020f8ba829c7cab0c82a55742bea1e23ec9dad8a8ad7b976506bd92db00d641",
+  "build_date": "2025-06-25T17:53:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882484600",
+  "build_id": "15882484600",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/multinet-monitor?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&download=multinet-monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "152",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/multinet-monitor?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&download=multinet-monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectcalico/vpp-dataplane/multinet-monitor:HEAD-8d76b5c-250625T104040-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectcalico/vpp-dataplane/multinet-monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectcalico/vpp-dataplane/multinet-monitor?tag=HEAD-8d76b5c-250625T104040-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db757a8859593cd8faf7a99474c18231d272b925373b66445f73e3f9cf635202",
+  "size": "44 MB",
+  "size_raw": "45694976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
