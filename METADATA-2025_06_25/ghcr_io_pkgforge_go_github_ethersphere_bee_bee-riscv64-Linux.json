@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bee",
+  "pkg_family": "bee",
+  "pkg_id": "bee#github.com_ethersphere_bee",
+  "pkg_name": "bee",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethersphere/bee",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private_ decentralized_ and self-sustaining network for permissionless publishing and access to your _application_ data.",
+  "homepage": [
+    "https://github.com/ethersphere/bee"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bee"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethersphere/bee/archive/67f74c04cb95a241cf61fa73ac37849a30d970ae.tar.gz"
+  ],
+  "tag": [
+    "bee",
+    "ethereum",
+    "go",
+    "golang",
+    "swarm"
+  ],
+  "version": "HEAD-67f74c0-250625T040329",
+  "version_upstream": "",
+  "bsum": "02f5dd1fc22b200c362061c0a9a72c51a4977ddb96bbf22ffe4f87541e2c0209",
+  "build_date": "2025-06-25T22:50:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887976319",
+  "build_id": "15887976319",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethersphere/bee/bee?tag=HEAD-67f74c0-250625T040329-riscv64-Linux&download=bee.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1471",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethersphere/bee/bee?tag=HEAD-67f74c0-250625T040329-riscv64-Linux&download=bee",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethersphere/bee/bee:HEAD-67f74c0-250625T040329-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethersphere/bee/bee",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethersphere/bee/bee?tag=HEAD-67f74c0-250625T040329-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "353cf77f59a6d52730c8fe328a7f368960ef980113e3f86a3aa484c98023ea89",
+  "size": "44 MB",
+  "size_raw": "45850232",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-027599b-250618T105830-riscv64-Linux[v2.6.0-rc7]",
+    "HEAD-0ca57d8-250624T150032-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
