@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "compute-domain-controller",
+  "pkg_family": "k8s-dra-driver-gpu",
+  "pkg_id": "compute-domain-controller#github.com_NVIDIA_k8s_dra_driver_gpu",
+  "pkg_name": "compute-domain-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/k8s-dra-driver-gpu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dynamic Resource Allocation _DRA_ for NVIDIA GPUs in Kubernetes",
+  "homepage": [
+    "https://github.com/NVIDIA/k8s-dra-driver-gpu"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compute-domain-controller",
+    "compute-domain-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/k8s-dra-driver-gpu/archive/5a5176a751552af017754a58d6a23481b0bda903.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5a5176a-250625T141154",
+  "version_upstream": "",
+  "bsum": "84dc5fa837bfce38e2e081b6981889449daa1db63329f5e68a979a5e3d07ac00",
+  "build_date": "2025-06-25T16:08:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881097077",
+  "build_id": "15881097077",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-controller?tag=HEAD-5a5176a-250625T141154-aarch64-Linux&download=compute-domain-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "380",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-controller?tag=HEAD-5a5176a-250625T141154-aarch64-Linux&download=compute-domain-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-controller:HEAD-5a5176a-250625T141154-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-controller?tag=HEAD-5a5176a-250625T141154-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "819e37541c3e0c8cd2065b9fe27e4db21ecbb90f2dbb1d804e43b39ab1b0ba11",
+  "size": "53 MB",
+  "size_raw": "55157824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
