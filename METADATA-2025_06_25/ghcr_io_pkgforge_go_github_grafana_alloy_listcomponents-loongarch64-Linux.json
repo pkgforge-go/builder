@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "listcomponents",
+  "pkg_family": "alloy",
+  "pkg_id": "listcomponents#github.com_grafana_alloy",
+  "pkg_name": "listcomponents",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/alloy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTelemetry Collector distribution with programmable pipelines",
+  "homepage": [
+    "https://github.com/grafana/alloy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alloy",
+    "alloylint",
+    "docs",
+    "integration-tests",
+    "kafka",
+    "listcomponents",
+    "otel-gen",
+    "prom-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/alloy/archive/5d6c136693db72e6d85668b363899cf7b6491302.tar.gz"
+  ],
+  "tag": [
+    "collector",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "version": "HEAD-5d6c136-250624T022006",
+  "version_upstream": "",
+  "bsum": "8dc21dcd61ea94c13a3cc024a2de1b54604b5a4023771558acb5f3f220a62ba1",
+  "build_date": "2025-06-25T11:57:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873437595",
+  "build_id": "15873437595",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-5d6c136-250624T022006-loongarch64-Linux&download=listcomponents.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-5d6c136-250624T022006-loongarch64-Linux&download=listcomponents",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/listcomponents:HEAD-5d6c136-250624T022006-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/alloy/listcomponents",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-5d6c136-250624T022006-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "103644cebc0ff8c785a66f72891750dcb5673a21975a45ae97d3885c2de43ce3",
+  "size": "321 MB",
+  "size_raw": "335818944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-062df5d-250619T095440-loongarch64-Linux",
+    "HEAD-841df78-250620T182002-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
