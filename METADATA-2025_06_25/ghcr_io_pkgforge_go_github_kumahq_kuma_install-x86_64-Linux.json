@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "install",
+  "pkg_family": "kuma",
+  "pkg_id": "install#github.com_kumahq_kuma",
+  "pkg_name": "install",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kumahq/kuma",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
+  "homepage": [
+    "https://github.com/kumahq/kuma"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-linter",
+    "bootstrap",
+    "ci",
+    "generator",
+    "install",
+    "kuma-cni",
+    "kuma-cp",
+    "kuma-dp",
+    "kumactl",
+    "resource-gen",
+    "server",
+    "update-vulnerable-dependencies",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kumahq/kuma/archive/bb5c42655613074a53581fbc13892cd4cd49f01e.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "cloud-native",
+    "cncf",
+    "connectivity",
+    "control-plane",
+    "controlplane",
+    "envoy",
+    "envoyproxy",
+    "golang",
+    "kong",
+    "kubernetes",
+    "kuma",
+    "mesh",
+    "microservices",
+    "networking",
+    "service-mesh",
+    "servicemesh",
+    "sidecar-proxy"
+  ],
+  "version": "HEAD-bb5c426-250625T150256",
+  "version_upstream": "",
+  "bsum": "372fe7e0f9cfde0aa88785fa6110630ac340895112aa37bce3c4d5f3a5c62ff5",
+  "build_date": "2025-06-25T23:44:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888040474",
+  "build_id": "15888040474",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/install?tag=HEAD-bb5c426-250625T150256-x86_64-Linux&download=install.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3820",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/install?tag=HEAD-bb5c426-250625T150256-x86_64-Linux&download=install",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kumahq/kuma/install:HEAD-bb5c426-250625T150256-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kumahq/kuma/install",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/install?tag=HEAD-bb5c426-250625T150256-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5174717c63dc707d01a5e10b8b81c2a4e319387f283766578f587aefef61ff9e",
+  "size": "41 MB",
+  "size_raw": "42382176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a5569b9-250620T074747-x86_64-Linux",
+    "HEAD-3fcb9c7-250623T124745-x86_64-Linux",
+    "HEAD-c69947a-250624T103201-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
