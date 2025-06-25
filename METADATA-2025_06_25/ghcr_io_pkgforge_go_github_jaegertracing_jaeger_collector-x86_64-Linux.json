@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "collector",
+  "pkg_family": "jaeger",
+  "pkg_id": "collector#github.com_jaegertracing_jaeger",
+  "pkg_name": "collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jaegertracing/jaeger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNCF Jaeger, a Distributed Tracing Platform",
+  "homepage": [
+    "https://github.com/jaegertracing/jaeger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "all-in-one",
+    "anonymizer",
+    "collector",
+    "crossdock",
+    "es-index-cleaner",
+    "es-rollover",
+    "esmapping-generator",
+    "hotrod",
+    "ingester",
+    "jaeger",
+    "query",
+    "remote-storage",
+    "savetracetest",
+    "tracegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jaegertracing/jaeger/archive/a91e2ee2e283d0a8293ec503c6ba37680dbda334.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "distributed-tracing",
+    "hacktoberfest",
+    "jaeger",
+    "observability",
+    "opentelemetry",
+    "tracing"
+  ],
+  "version": "HEAD-a91e2ee-250625T005354",
+  "version_upstream": "",
+  "bsum": "8851be5a18da8ddf1ac3c56b6d573fe860dd9fb6186febf990f65870176fa4c6",
+  "build_date": "2025-06-25T11:57:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873499535",
+  "build_id": "15873499535",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/collector?tag=HEAD-a91e2ee-250625T005354-x86_64-Linux&download=collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21501",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/collector?tag=HEAD-a91e2ee-250625T005354-x86_64-Linux&download=collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaegertracing/jaeger/collector:HEAD-a91e2ee-250625T005354-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jaegertracing/jaeger/collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/collector?tag=HEAD-a91e2ee-250625T005354-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfe653f716813e2c1ef27ceb2848ee3b99d5dac7986d19a328dbe8e83308ad0f",
+  "size": "58 MB",
+  "size_raw": "60528064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87d9b57-250618T215447-x86_64-Linux",
+    "HEAD-a5ba290-250620T202315-x86_64-Linux",
+    "HEAD-b86d1fd-250623T234236-x86_64-Linux",
+    "HEAD-b1a0a5e-250624T101024-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
