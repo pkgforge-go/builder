@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "buildkit-syft-scanner",
+  "pkg_id": "check#github.com_docker_buildkit_syft_scanner",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/buildkit-syft-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BuildKit Syft scanner",
+  "homepage": [
+    "https://github.com/docker/buildkit-syft-scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "syft-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docker/buildkit-syft-scanner/archive/db78cc1433b927f022fbf94410e78e8725031df5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-db78cc1-250625T155637",
+  "version_upstream": "",
+  "bsum": "8f899b996683235f57f37e451c26162d3c7d7689a257158e17ac9abc8c154bf5",
+  "build_date": "2025-06-25T16:47:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881248989",
+  "build_id": "15881248989",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildkit-syft-scanner/check?tag=HEAD-db78cc1-250625T155637-riscv64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildkit-syft-scanner/check?tag=HEAD-db78cc1-250625T155637-riscv64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/buildkit-syft-scanner/check:HEAD-db78cc1-250625T155637-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/buildkit-syft-scanner/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildkit-syft-scanner/check?tag=HEAD-db78cc1-250625T155637-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b188265c63dc6f2d59f0ed98c150acf7e853b4f4cf6bcb2b5c48f9006c61e2b2",
+  "size": "2.0 MB",
+  "size_raw": "2082344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
