@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "compute-domain-daemon",
+  "pkg_family": "k8s-dra-driver-gpu",
+  "pkg_id": "compute-domain-daemon#github.com_NVIDIA_k8s_dra_driver_gpu",
+  "pkg_name": "compute-domain-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/k8s-dra-driver-gpu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dynamic Resource Allocation _DRA_ for NVIDIA GPUs in Kubernetes",
+  "homepage": [
+    "https://github.com/NVIDIA/k8s-dra-driver-gpu"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compute-domain-controller",
+    "compute-domain-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/k8s-dra-driver-gpu/archive/5a5176a751552af017754a58d6a23481b0bda903.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5a5176a-250625T141154",
+  "version_upstream": "",
+  "bsum": "ef6fda32916a18aae2fca43b48be1e8ac19bb526e0c3ea57a83893a532d01469",
+  "build_date": "2025-06-25T16:07:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881097077",
+  "build_id": "15881097077",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-daemon?tag=HEAD-5a5176a-250625T141154-loongarch64-Linux&download=compute-domain-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "380",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-daemon?tag=HEAD-5a5176a-250625T141154-loongarch64-Linux&download=compute-domain-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-daemon:HEAD-5a5176a-250625T141154-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/compute-domain-daemon?tag=HEAD-5a5176a-250625T141154-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7289bcc0f7395406063e3ae1009c4005a5418144c534a993b9715b9ba85d9844",
+  "size": "50 MB",
+  "size_raw": "51585488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
