@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "misc",
+  "pkg_family": "indexer",
+  "pkg_id": "misc#github.com_algorand_indexer",
+  "pkg_name": "misc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/indexer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "searchable history and current state",
+  "homepage": [
+    "https://github.com/algorand/indexer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "algorand-indexer",
+    "e2equeries",
+    "idbtest",
+    "misc",
+    "texttosource",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/algorand/indexer/archive/f95b13be8b50cb9109dbfec1adedf28c60656ac3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f95b13b-250624T155901",
+  "version_upstream": "",
+  "bsum": "e9033abf22c76b83e7d97ef94d2b81f8fcfa1932653aa79dcd5f28a0de4c31d5",
+  "build_date": "2025-06-25T10:38:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873273544",
+  "build_id": "15873273544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/misc?tag=HEAD-f95b13b-250624T155901-x86_64-Linux&download=misc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/misc?tag=HEAD-f95b13b-250624T155901-x86_64-Linux&download=misc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/indexer/misc:HEAD-f95b13b-250624T155901-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/indexer/misc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/misc?tag=HEAD-f95b13b-250624T155901-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "53723a9320b865ac4490f70e8746b8fb1cfd1dee55cd285e0fee139d77c5f0dd",
+  "size": "6.4 MB",
+  "size_raw": "6693664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-29afdc2-250624T104431-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
