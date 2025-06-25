@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "tsuru",
+  "pkg_id": "generator#github.com_tsuru_tsuru",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tsuru/tsuru",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source and extensible Platform as a Service _PaaS_.",
+  "homepage": [
+    "https://github.com/tsuru/tsuru"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "tsurud"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tsuru/tsuru/archive/04b83e0663716255343771228ac7a33fcf3a587d.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "devops",
+    "docker",
+    "go",
+    "hacktoberfest",
+    "kubernetes",
+    "paas"
+  ],
+  "version": "HEAD-04b83e0-250624T191328",
+  "version_upstream": "1.26.6",
+  "bsum": "2530e3697dd3b16db80fb5dc5aadd4448cadf621479a38c73a658d81481d3c68",
+  "build_date": "2025-06-25T10:06:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872472313",
+  "build_id": "15872472313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/tsuru/generator?tag=HEAD-04b83e0-250624T191328-riscv64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/tsuru/generator?tag=HEAD-04b83e0-250624T191328-riscv64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tsuru/tsuru/generator:HEAD-04b83e0-250624T191328-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tsuru/tsuru/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/tsuru/generator?tag=HEAD-04b83e0-250624T191328-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18072323f0104f5ed171d72656d4306eed6aad03c7e40245681b0d26032fa25d",
+  "size": "4.2 MB",
+  "size_raw": "4350632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

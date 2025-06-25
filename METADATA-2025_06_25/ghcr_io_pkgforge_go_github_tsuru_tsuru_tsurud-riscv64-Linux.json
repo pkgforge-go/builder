@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tsurud",
+  "pkg_family": "tsuru",
+  "pkg_id": "tsurud#github.com_tsuru_tsuru",
+  "pkg_name": "tsurud",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tsuru/tsuru",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source and extensible Platform as a Service _PaaS_.",
+  "homepage": [
+    "https://github.com/tsuru/tsuru"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "tsurud"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tsuru/tsuru/archive/04b83e0663716255343771228ac7a33fcf3a587d.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "devops",
+    "docker",
+    "go",
+    "hacktoberfest",
+    "kubernetes",
+    "paas"
+  ],
+  "version": "HEAD-04b83e0-250624T191328",
+  "version_upstream": "1.26.6",
+  "bsum": "08b077f292375df8f5a3440556397b8f93145e3247ad3b0350325f299b77f5d8",
+  "build_date": "2025-06-25T10:06:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872472313",
+  "build_id": "15872472313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/tsuru/tsurud?tag=HEAD-04b83e0-250624T191328-riscv64-Linux&download=tsurud.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/tsuru/tsurud?tag=HEAD-04b83e0-250624T191328-riscv64-Linux&download=tsurud",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tsuru/tsuru/tsurud:HEAD-04b83e0-250624T191328-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tsuru/tsuru/tsurud",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/tsuru/tsurud?tag=HEAD-04b83e0-250624T191328-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "569d8c10d30bd34956f2597322cfc3fb33d039596c4af73db6302dd9979abb0a",
+  "size": "55 MB",
+  "size_raw": "57610744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
