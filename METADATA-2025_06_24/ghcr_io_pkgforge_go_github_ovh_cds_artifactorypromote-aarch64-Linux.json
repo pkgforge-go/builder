@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "artifactorypromote",
+  "pkg_family": "cds",
+  "pkg_id": "artifactorypromote#github.com_ovh_cds",
+  "pkg_name": "artifactorypromote",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ovh/cds",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-Grade Continuous Delivery _ DevOps Automation Open Source Platform",
+  "homepage": [
+    "https://github.com/ovh/cds"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrunresult",
+    "arsenal-deployment-plugin",
+    "artifactorypromote",
+    "artifactoryrelease",
+    "cache",
+    "cacherestore",
+    "cachesave",
+    "cdsctl",
+    "checkout",
+    "debianpush",
+    "debpacker",
+    "deployarsenal",
+    "dockerpush",
+    "downloadartifact",
+    "engine",
+    "example",
+    "hello-deployment-plugin",
+    "hello-sdk",
+    "itscwrkflw15",
+    "junit",
+    "keyinstall",
+    "plugin-arsenal-delete-alternative",
+    "plugin-kubernetes-deployment",
+    "pythonpush",
+    "script",
+    "uploadartifact",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ovh/cds/archive/539752ea06b390997317d01b0bdd83e70ba9ee7c.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "devops-workflow",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-539752e-250624T163752",
+  "version_upstream": "",
+  "bsum": "9c8e3f78f8747ca87c7c24a573e89ede2c67809a45501171ae3f1bc78b6cca7c",
+  "build_date": "2025-06-25T00:16:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862479566",
+  "build_id": "15862479566",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/artifactorypromote?tag=HEAD-539752e-250624T163752-aarch64-Linux&download=artifactorypromote.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4723",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/artifactorypromote?tag=HEAD-539752e-250624T163752-aarch64-Linux&download=artifactorypromote",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ovh/cds/artifactorypromote:HEAD-539752e-250624T163752-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ovh/cds/artifactorypromote",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/artifactorypromote?tag=HEAD-539752e-250624T163752-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88293a5c36402dc2700f9e25315189290c19f47db4addf02c8a8da1c024a9f3c",
+  "size": "25 MB",
+  "size_raw": "26181920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e716c2d-250620T135931-aarch64-Linux",
+    "HEAD-188f389-250623T082213-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
