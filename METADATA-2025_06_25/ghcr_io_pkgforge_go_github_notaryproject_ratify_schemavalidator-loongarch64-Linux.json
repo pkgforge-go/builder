@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "schemavalidator",
+  "pkg_family": "ratify",
+  "pkg_id": "schemavalidator#github.com_notaryproject_ratify",
+  "pkg_name": "schemavalidator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/notaryproject/ratify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Artifact Ratification Framework _CNCF Sandbox_",
+  "homepage": [
+    "https://github.com/notaryproject/ratify"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "licensechecker",
+    "ratify-gatekeeper-provider",
+    "sample",
+    "sbom",
+    "schemavalidator",
+    "vulnerabilityreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/notaryproject/ratify/archive/7cfb8a51f4d6982955d83f197c4f830d8fc36120.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "secure-supply-chain"
+  ],
+  "version": "HEAD-7cfb8a5-250625T012952",
+  "version_upstream": "",
+  "bsum": "1922124ab0d02c025c017f07b849242945e3f36d1cc79cdb7e4699a22da3aa35",
+  "build_date": "2025-06-25T14:34:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877609083",
+  "build_id": "15877609083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/schemavalidator?tag=HEAD-7cfb8a5-250625T012952-loongarch64-Linux&download=schemavalidator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "267",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/schemavalidator?tag=HEAD-7cfb8a5-250625T012952-loongarch64-Linux&download=schemavalidator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/notaryproject/ratify/schemavalidator:HEAD-7cfb8a5-250625T012952-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/notaryproject/ratify/schemavalidator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/notaryproject/ratify/schemavalidator?tag=HEAD-7cfb8a5-250625T012952-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b72a1791811e84b290a4dd5401b4bcc7ef444558f01e577d8aa668c490dfd110",
+  "size": "51 MB",
+  "size_raw": "52645536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2f06ef2-250623T101202-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
