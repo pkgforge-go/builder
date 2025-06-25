@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "karpenter-provider-alibabacloud",
+  "pkg_id": "controller#github.com_cloudpilot_ai_karpenter_provider_alibabacloud",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Alibaba Cloud Karpenter Provider",
+  "homepage": [
+    "https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "price_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/archive/26650fc1b1defd641f0533f3ec55e8664ed561fa.tar.gz"
+  ],
+  "tag": [
+    "ack",
+    "alibabacloud",
+    "alicloud",
+    "aliyun",
+    "autoscaling",
+    "clusterautoscaler",
+    "finops",
+    "karpenter",
+    "kubernetes"
+  ],
+  "version": "HEAD-26650fc-250625T114808",
+  "version_upstream": "",
+  "bsum": "52988dd02960f3473624561f8083ee1d0f9501c5359de842b5d3a068395c9e6d",
+  "build_date": "2025-06-25T16:32:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881166767",
+  "build_id": "15881166767",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudpilot-ai/karpenter-provider-alibabacloud/controller?tag=HEAD-26650fc-250625T114808-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "134",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudpilot-ai/karpenter-provider-alibabacloud/controller?tag=HEAD-26650fc-250625T114808-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudpilot-ai/karpenter-provider-alibabacloud/controller:HEAD-26650fc-250625T114808-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudpilot-ai/karpenter-provider-alibabacloud/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudpilot-ai/karpenter-provider-alibabacloud/controller?tag=HEAD-26650fc-250625T114808-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0517247ab171cef0119f34e61b4d305c57366c8b7089db6678bcfb823b312b1",
+  "size": "77 MB",
+  "size_raw": "80499096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
