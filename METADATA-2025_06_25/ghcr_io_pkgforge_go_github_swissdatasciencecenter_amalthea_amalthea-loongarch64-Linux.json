@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "amalthea",
+  "pkg_family": "amalthea",
+  "pkg_id": "amalthea#github.com_SwissDataScienceCenter_amalthea",
+  "pkg_name": "amalthea",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SwissDataScienceCenter/amalthea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A kubernetes operator for spawning and exposing interactive user session servers.",
+  "homepage": [
+    "https://github.com/SwissDataScienceCenter/amalthea"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amalthea",
+    "sidecars"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SwissDataScienceCenter/amalthea/archive/6e8a8901a5d14b852f34bea94437809ad063da82.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6e8a890-250625T105635",
+  "version_upstream": "0.19.2",
+  "bsum": "ae8d028a11eb4084fa8e8a171488e7096ef40406e21cafe3d3eb62e7be3878a4",
+  "build_date": "2025-06-25T22:00:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887925739",
+  "build_id": "15887925739",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/swissdatasciencecenter/amalthea/amalthea?tag=HEAD-6e8a890-250625T105635-loongarch64-Linux&download=amalthea.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/swissdatasciencecenter/amalthea/amalthea?tag=HEAD-6e8a890-250625T105635-loongarch64-Linux&download=amalthea",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/swissdatasciencecenter/amalthea/amalthea:HEAD-6e8a890-250625T105635-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/swissdatasciencecenter/amalthea/amalthea",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/swissdatasciencecenter/amalthea/amalthea?tag=HEAD-6e8a890-250625T105635-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f5c9153d018a03b368bd05260675bd9484d9ab15685da269889fc80744e64605",
+  "size": "54 MB",
+  "size_raw": "56146944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-df67665-250620T120301-loongarch64-Linux[0.19.1]"
+  ],
+  "trusted": "true"
+}

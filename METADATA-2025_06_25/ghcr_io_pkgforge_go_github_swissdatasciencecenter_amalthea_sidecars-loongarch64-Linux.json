@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sidecars",
+  "pkg_family": "amalthea",
+  "pkg_id": "sidecars#github.com_SwissDataScienceCenter_amalthea",
+  "pkg_name": "sidecars",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SwissDataScienceCenter/amalthea",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A kubernetes operator for spawning and exposing interactive user session servers.",
+  "homepage": [
+    "https://github.com/SwissDataScienceCenter/amalthea"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amalthea",
+    "sidecars"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SwissDataScienceCenter/amalthea/archive/6e8a8901a5d14b852f34bea94437809ad063da82.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6e8a890-250625T105635",
+  "version_upstream": "0.19.2",
+  "bsum": "740ca0d13ca3a666cb74d6febd506d46089934f3cabfee3f99945ad9cdc724ba",
+  "build_date": "2025-06-25T22:00:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887925739",
+  "build_id": "15887925739",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/swissdatasciencecenter/amalthea/sidecars?tag=HEAD-6e8a890-250625T105635-loongarch64-Linux&download=sidecars.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/swissdatasciencecenter/amalthea/sidecars?tag=HEAD-6e8a890-250625T105635-loongarch64-Linux&download=sidecars",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/swissdatasciencecenter/amalthea/sidecars:HEAD-6e8a890-250625T105635-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/swissdatasciencecenter/amalthea/sidecars",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/swissdatasciencecenter/amalthea/sidecars?tag=HEAD-6e8a890-250625T105635-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1934dc39d8809b5fe0898ed65cae4bfa31397391de3600356d80863d2e9b26c0",
+  "size": "11 MB",
+  "size_raw": "11519552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-df67665-250620T120301-loongarch64-Linux[0.19.1]"
+  ],
+  "trusted": "true"
+}
