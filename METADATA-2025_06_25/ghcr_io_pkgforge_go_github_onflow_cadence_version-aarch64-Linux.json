@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "version",
+  "pkg_family": "cadence",
+  "pkg_id": "version#github.com_onflow_cadence",
+  "pkg_name": "version",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onflow/cadence",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cadence, the resource-oriented smart contract programming language 🏃‍♂️",
+  "homepage": [
+    "https://github.com/onflow/cadence"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast-explorer",
+    "check",
+    "compare-parsing",
+    "decode-state-values",
+    "gen",
+    "info",
+    "json-cdc",
+    "lex",
+    "main",
+    "minifier",
+    "parse",
+    "pretty",
+    "staged-contracts-report-printer",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/onflow/cadence/archive/894b3bbcaa373b27529b519f4c32cc02da519de2.tar.gz"
+  ],
+  "tag": [
+    "cadence",
+    "language",
+    "onflow",
+    "programming-language",
+    "smart-contracts"
+  ],
+  "version": "HEAD-894b3bb-250624T121447",
+  "version_upstream": "",
+  "bsum": "226f3d3509d3b5eb3337ca0388ef8e8706ff6641d4a01430604596b14bb7b921",
+  "build_date": "2025-06-25T12:33:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873569118",
+  "build_id": "15873569118",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/version?tag=HEAD-894b3bb-250624T121447-aarch64-Linux&download=version.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "538",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/version?tag=HEAD-894b3bb-250624T121447-aarch64-Linux&download=version",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onflow/cadence/version:HEAD-894b3bb-250624T121447-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onflow/cadence/version",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onflow/cadence/version?tag=HEAD-894b3bb-250624T121447-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0138ebf5e22695253b67f1543aa661c8abb2b7a4ede8db262bab55b74280e759",
+  "size": "2.3 MB",
+  "size_raw": "2380248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ec545e8-250620T122754-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
