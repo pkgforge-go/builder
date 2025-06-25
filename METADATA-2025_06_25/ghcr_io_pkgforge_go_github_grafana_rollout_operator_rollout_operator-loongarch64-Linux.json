@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rollout-operator",
+  "pkg_family": "rollout-operator",
+  "pkg_id": "rollout-operator#github.com_grafana_rollout_operator",
+  "pkg_name": "rollout-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/rollout-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Rollout Operator",
+  "homepage": [
+    "https://github.com/grafana/rollout-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mock-service",
+    "rollout-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/rollout-operator/archive/8ff970dbb3dca23af2748bae5a7d622797e16b01.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8ff970d-250624T152836",
+  "version_upstream": "",
+  "bsum": "ac678f77b6651a09e3b1b08c1966f67afb1a9897fb479f38d0533884290e7219",
+  "build_date": "2025-06-25T08:08:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869714733",
+  "build_id": "15869714733",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/rollout-operator/rollout-operator?tag=HEAD-8ff970d-250624T152836-loongarch64-Linux&download=rollout-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "155",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/rollout-operator/rollout-operator?tag=HEAD-8ff970d-250624T152836-loongarch64-Linux&download=rollout-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/rollout-operator/rollout-operator:HEAD-8ff970d-250624T152836-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/rollout-operator/rollout-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/rollout-operator/rollout-operator?tag=HEAD-8ff970d-250624T152836-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7576a2198950433188514fc2c82f36b5371f22946db462dec167755c36c238f",
+  "size": "59 MB",
+  "size_raw": "61843648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
