@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mkentity",
+  "pkg_family": "td",
+  "pkg_id": "mkentity#github.com_gotd_td",
+  "pkg_name": "mkentity",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gotd/td",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Telegram client, in Go. _MTProto API_",
+  "homepage": [
+    "https://github.com/gotd/td"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cachedgen",
+    "connclose",
+    "dlkey",
+    "dltl",
+    "dscidr",
+    "gotdecho",
+    "gotdgen",
+    "itergen",
+    "mkentity",
+    "mktyping",
+    "mtprint",
+    "rsagen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gotd/td/archive/5fc93520170a2367ed4b5fc6bc5821f1ef7abadb.tar.gz"
+  ],
+  "tag": [
+    "bot-api",
+    "go",
+    "golang",
+    "mtproto",
+    "tdlib",
+    "telegram",
+    "telegram-api",
+    "telegram-bot"
+  ],
+  "version": "HEAD-5fc9352-250625T104611",
+  "version_upstream": "",
+  "bsum": "d48ac2210b6ff92f39af78ae7315c90e651e442805a7778bdb15254449b1b0bc",
+  "build_date": "2025-06-25T23:02:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887978606",
+  "build_id": "15887978606",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/mkentity?tag=HEAD-5fc9352-250625T104611-loongarch64-Linux&download=mkentity.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1840",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/mkentity?tag=HEAD-5fc9352-250625T104611-loongarch64-Linux&download=mkentity",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gotd/td/mkentity:HEAD-5fc9352-250625T104611-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gotd/td/mkentity",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gotd/td/mkentity?tag=HEAD-5fc9352-250625T104611-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "29f72237b6e1593880185877c24d0f7afc0766a9de546c167b6fef48fa08afe5",
+  "size": "29 MB",
+  "size_raw": "29500152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6de998a-250612T113324-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
