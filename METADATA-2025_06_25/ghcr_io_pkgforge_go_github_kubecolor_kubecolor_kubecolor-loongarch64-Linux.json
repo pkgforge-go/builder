@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubecolor",
+  "pkg_family": "kubecolor",
+  "pkg_id": "kubecolor#github.com_kubecolor_kubecolor",
+  "pkg_name": "kubecolor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubecolor/kubecolor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Colorize your kubectl output",
+  "homepage": [
+    "https://github.com/kubecolor/kubecolor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configdoc",
+    "configschema",
+    "imagegen",
+    "kubecolor",
+    "testcorpus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubecolor/kubecolor/archive/3cdd29b27bda4227a73e52c711682a698b0b2c37.tar.gz"
+  ],
+  "tag": [
+    "bash",
+    "cli",
+    "kubectl",
+    "kubectl-plugins",
+    "kubernetes"
+  ],
+  "version": "HEAD-3cdd29b-250624T212827",
+  "version_upstream": "",
+  "bsum": "1efb6ecd50031d66ea77596e0933a9f6d1b06f5faf0a074000924aaf44275f64",
+  "build_date": "2025-06-25T12:09:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873509058",
+  "build_id": "15873509058",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubecolor/kubecolor/kubecolor?tag=HEAD-3cdd29b-250624T212827-loongarch64-Linux&download=kubecolor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1050",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubecolor/kubecolor/kubecolor?tag=HEAD-3cdd29b-250624T212827-loongarch64-Linux&download=kubecolor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubecolor/kubecolor/kubecolor:HEAD-3cdd29b-250624T212827-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubecolor/kubecolor/kubecolor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubecolor/kubecolor/kubecolor?tag=HEAD-3cdd29b-250624T212827-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf255e8d3146924bf1c8c105283e3cff926b6a9dd2dd18b94b058d351c5f2fd5",
+  "size": "5.9 MB",
+  "size_raw": "6172096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-38acb19-250624T014037-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
