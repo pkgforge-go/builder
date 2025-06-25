@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "workload",
+  "pkg_family": "op-geth",
+  "pkg_id": "workload#github.com_ethereum_optimism_op_geth",
+  "pkg_name": "workload",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum-optimism/op-geth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/ethereum-optimism/op-geth"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "blsync",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "geth",
+    "rlpdump",
+    "rlpgen",
+    "workload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum-optimism/op-geth/archive/47ccb23ae85b6d2b1cf3e5e05f7f84bf081c6d30.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-47ccb23-250624T140417",
+  "version_upstream": "",
+  "bsum": "bd4c2274bb921c3d38cc013810ec4f8332b765a799ca0a1813adf49d17bbba0a",
+  "build_date": "2025-06-25T08:11:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869670402",
+  "build_id": "15869670402",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum-optimism/op-geth/workload?tag=HEAD-47ccb23-250624T140417-x86_64-Linux&download=workload.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "348",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum-optimism/op-geth/workload?tag=HEAD-47ccb23-250624T140417-x86_64-Linux&download=workload",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum-optimism/op-geth/workload:HEAD-47ccb23-250624T140417-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum-optimism/op-geth/workload",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum-optimism/op-geth/workload?tag=HEAD-47ccb23-250624T140417-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30781a6a2ec636f94dfab445be5cbf4b07389d3152cc213b9760ee8daabc8071",
+  "size": "20 MB",
+  "size_raw": "19942336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
