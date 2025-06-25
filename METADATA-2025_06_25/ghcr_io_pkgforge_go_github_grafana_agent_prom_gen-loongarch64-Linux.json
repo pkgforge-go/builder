@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "prom-gen",
+  "pkg_family": "agent",
+  "pkg_id": "prom-gen#github.com_grafana_agent",
+  "pkg_name": "prom-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Vendor-neutral programmable observability pipelines.",
+  "homepage": [
+    "https://github.com/grafana/agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs",
+    "grafana-agent-operator",
+    "integration-tests",
+    "kafka",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/agent/archive/940be5cac4e961124c3399e64ba2cbfa591cc172.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "version": "HEAD-940be5c-250624T133804",
+  "version_upstream": "",
+  "bsum": "8672185b086e83e193315a58d0d19f720fbaa069d18891d0453c6fd0d78e938c",
+  "build_date": "2025-06-25T08:24:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869713970",
+  "build_id": "15869713970",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/prom-gen?tag=HEAD-940be5c-250624T133804-loongarch64-Linux&download=prom-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1628",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/prom-gen?tag=HEAD-940be5c-250624T133804-loongarch64-Linux&download=prom-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/agent/prom-gen:HEAD-940be5c-250624T133804-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/agent/prom-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/prom-gen?tag=HEAD-940be5c-250624T133804-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fbee0035009c8a11286b0f9ced042e54671d69997ec79e4295e95eee61441fa",
+  "size": "8.5 MB",
+  "size_raw": "8897376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

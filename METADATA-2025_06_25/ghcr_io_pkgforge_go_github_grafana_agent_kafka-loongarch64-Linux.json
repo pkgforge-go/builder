@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kafka",
+  "pkg_family": "agent",
+  "pkg_id": "kafka#github.com_grafana_agent",
+  "pkg_name": "kafka",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Vendor-neutral programmable observability pipelines.",
+  "homepage": [
+    "https://github.com/grafana/agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs",
+    "grafana-agent-operator",
+    "integration-tests",
+    "kafka",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/agent/archive/940be5cac4e961124c3399e64ba2cbfa591cc172.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "version": "HEAD-940be5c-250624T133804",
+  "version_upstream": "",
+  "bsum": "5b040a0c5d7e764701b1390a040cd947e4117f09aa08f21e7d6b3801baa80804",
+  "build_date": "2025-06-25T08:24:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869713970",
+  "build_id": "15869713970",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/kafka?tag=HEAD-940be5c-250624T133804-loongarch64-Linux&download=kafka.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1628",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/kafka?tag=HEAD-940be5c-250624T133804-loongarch64-Linux&download=kafka",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/agent/kafka:HEAD-940be5c-250624T133804-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/agent/kafka",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/agent/kafka?tag=HEAD-940be5c-250624T133804-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "28c736e309866ddf79b8c23d5f5f9e0eb824fca6a738004de6b28fd9575a1de4",
+  "size": "7.4 MB",
+  "size_raw": "7730752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
