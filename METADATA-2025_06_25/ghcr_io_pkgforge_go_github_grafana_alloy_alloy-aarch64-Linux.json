@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "alloy",
+  "pkg_family": "alloy",
+  "pkg_id": "alloy#github.com_grafana_alloy",
+  "pkg_name": "alloy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/alloy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTelemetry Collector distribution with programmable pipelines",
+  "homepage": [
+    "https://github.com/grafana/alloy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alloy",
+    "alloylint",
+    "docs",
+    "integration-tests",
+    "kafka",
+    "listcomponents",
+    "otel-gen",
+    "prom-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/alloy/archive/993bef0d6005ce65913abddfee1f066c33367c95.tar.gz"
+  ],
+  "tag": [
+    "collector",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "version": "HEAD-993bef0-250625T083322",
+  "version_upstream": "",
+  "bsum": "1af4a161764292010c40668bc635c4495ded6bc3bee9139317534969da472f78",
+  "build_date": "2025-06-25T23:18:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887979267",
+  "build_id": "15887979267",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/alloy?tag=HEAD-993bef0-250625T083322-aarch64-Linux&download=alloy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/alloy?tag=HEAD-993bef0-250625T083322-aarch64-Linux&download=alloy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/alloy:HEAD-993bef0-250625T083322-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/alloy/alloy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/alloy?tag=HEAD-993bef0-250625T083322-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "15b53bea9ba80f3d5c505ceccafbd9b38e80bae17240d03ee2f2d6f89a6e51bc",
+  "size": "371 MB",
+  "size_raw": "388113584",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-062df5d-250619T095440-aarch64-Linux",
+    "HEAD-841df78-250620T182002-aarch64-Linux",
+    "HEAD-5d6c136-250624T022006-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
