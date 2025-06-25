@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pdc-agent",
+  "pkg_family": "pdc-agent",
+  "pkg_id": "pdc-agent#github.com_grafana_pdc_agent",
+  "pkg_name": "pdc-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/pdc-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Private Datasource Connect Agent",
+  "homepage": [
+    "https://github.com/grafana/pdc-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pdc-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/pdc-agent/archive/55436d52a94cb07e0730f63d80e2250cda279fd2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-55436d5-250625T123848",
+  "version_upstream": "v0.0.44",
+  "bsum": "41d62720fc025becdbe8c7b8291b2dd45d188f754e2a952e38da8e9c3bd0248a",
+  "build_date": "2025-06-25T16:59:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881412507",
+  "build_id": "15881412507",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pdc-agent/pdc-agent?tag=HEAD-55436d5-250625T123848-riscv64-Linux&download=pdc-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pdc-agent/pdc-agent?tag=HEAD-55436d5-250625T123848-riscv64-Linux&download=pdc-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/pdc-agent/pdc-agent:HEAD-55436d5-250625T123848-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/pdc-agent/pdc-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pdc-agent/pdc-agent?tag=HEAD-55436d5-250625T123848-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7dba2b39bf9289bac86143c8d220930a0b106f3730dbdf9cdf9a816961b7d1f3",
+  "size": "9.6 MB",
+  "size_raw": "9993560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
