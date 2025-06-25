@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "run-container",
+  "pkg_family": "nerdctl",
+  "pkg_id": "run-container#github.com_containerd_nerdctl",
+  "pkg_name": "run-container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/nerdctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
+  "homepage": [
+    "https://github.com/containerd/nerdctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nerdctl",
+    "run-container"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/nerdctl/archive/d0d1c2d804dd5311388568bfd897b15e3081c45a.tar.gz"
+  ],
+  "tag": [
+    "containerd"
+  ],
+  "version": "HEAD-d0d1c2d-250624T124752",
+  "version_upstream": "",
+  "bsum": "48bf848dad923f49ee79574d1ffa1dd993a76c7e5c214f4d64732e3503186526",
+  "build_date": "2025-06-25T02:51:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865793997",
+  "build_id": "15865793997",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-d0d1c2d-250624T124752-riscv64-Linux&download=run-container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9009",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-d0d1c2d-250624T124752-riscv64-Linux&download=run-container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/nerdctl/run-container:HEAD-d0d1c2d-250624T124752-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/nerdctl/run-container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-d0d1c2d-250624T124752-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e9a7895d71dfdc58903c3da5345a1dad1b3f4bf8b9cf0f2d509b6e954b609124",
+  "size": "24 MB",
+  "size_raw": "24485144",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c24ee86-250623T114308-riscv64-Linux",
+    "HEAD-410b0f2-250623T231103-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
