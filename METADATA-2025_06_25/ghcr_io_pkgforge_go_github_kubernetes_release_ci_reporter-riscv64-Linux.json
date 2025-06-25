@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ci-reporter",
+  "pkg_family": "release",
+  "pkg_id": "ci-reporter#github.com_kubernetes_release",
+  "pkg_name": "ci-reporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/release",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Release infrastructure for Kubernetes and related components",
+  "homepage": [
+    "https://github.com/kubernetes/release"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci-reporter",
+    "gcbuilder",
+    "krel",
+    "publish-release",
+    "release-notes",
+    "schedule-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/release/archive/833779b7f908a2194d68bf8b65b0616f7d008c3f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "release-infrastructure"
+  ],
+  "version": "HEAD-833779b-250625T013431",
+  "version_upstream": "",
+  "bsum": "58fa38afb7657569f1d9c24b75f6460f066327c1d01e5d9dd6b9f4e8fe54d11b",
+  "build_date": "2025-06-25T23:39:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888037401",
+  "build_id": "15888037401",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/ci-reporter?tag=HEAD-833779b-250625T013431-riscv64-Linux&download=ci-reporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/ci-reporter?tag=HEAD-833779b-250625T013431-riscv64-Linux&download=ci-reporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/release/ci-reporter:HEAD-833779b-250625T013431-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/release/ci-reporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/ci-reporter?tag=HEAD-833779b-250625T013431-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "484dbf553945e6d0ca768107e5e0b975f957b09fb4b8c8040e9efad3d94c1996",
+  "size": "30 MB",
+  "size_raw": "30934040",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6990ddb-250622T180052-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
