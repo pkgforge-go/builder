@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kubelogin",
+  "pkg_family": "kubelogin",
+  "pkg_id": "kubelogin#github.com_Azure_kubelogin",
+  "pkg_name": "kubelogin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/kubelogin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes credential _exec_ plugin implementing azure authentication",
+  "homepage": [
+    "https://github.com/Azure/kubelogin"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubelogin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/kubelogin/archive/205212e3bdee7af653d20ddba068984793e840cd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-205212e-250624T170818",
+  "version_upstream": "v0.2.9",
+  "bsum": "908cbe75f3155dced2bb109553666349563ffd23079635dde26073b7d0063ff1",
+  "build_date": "2025-06-25T07:01:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869551976",
+  "build_id": "15869551976",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/kubelogin/kubelogin?tag=HEAD-205212e-250624T170818-riscv64-Linux&download=kubelogin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "537",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/kubelogin/kubelogin?tag=HEAD-205212e-250624T170818-riscv64-Linux&download=kubelogin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/kubelogin/kubelogin:HEAD-205212e-250624T170818-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/kubelogin/kubelogin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/kubelogin/kubelogin?tag=HEAD-205212e-250624T170818-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da8362b2813a4b68f423ae37f70671901c43d2bce4fc4f092fe37f31fd000f66",
+  "size": "49 MB",
+  "size_raw": "51011480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
