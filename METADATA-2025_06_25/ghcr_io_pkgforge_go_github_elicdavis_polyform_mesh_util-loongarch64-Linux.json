@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mesh-util",
+  "pkg_family": "polyform",
+  "pkg_id": "mesh-util#github.com_EliCDavis_polyform",
+  "pkg_name": "mesh-util",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EliCDavis/polyform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Immutable mesh processing library",
+  "homepage": [
+    "https://github.com/EliCDavis/polyform"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candle",
+    "chill",
+    "colmap-utils",
+    "covid",
+    "csg",
+    "flowers",
+    "gopher",
+    "inflate",
+    "mesh-util",
+    "mort-shuffle",
+    "oreo",
+    "pc-render",
+    "plumbob",
+    "ply-utils",
+    "polyform",
+    "polywasm",
+    "potree-utils",
+    "ray",
+    "render",
+    "spz-utils",
+    "terrain",
+    "text",
+    "voxelize"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EliCDavis/polyform/archive/2f91886278dbaed73de216e52afaa484e5da9811.tar.gz"
+  ],
+  "tag": [
+    "3d",
+    "gaussian-splatting",
+    "generative-art",
+    "geometry",
+    "geometry-processing",
+    "gltf",
+    "mesh",
+    "mesh-processing",
+    "obj",
+    "ply",
+    "procedural-generation"
+  ],
+  "version": "HEAD-2f91886-250625T132945",
+  "version_upstream": "",
+  "bsum": "77d3797946220e21950f97d81dbd00af4da499959410b59f2af1315fb8c4a6ba",
+  "build_date": "2025-06-25T22:07:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887924581",
+  "build_id": "15887924581",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/mesh-util?tag=HEAD-2f91886-250625T132945-loongarch64-Linux&download=mesh-util.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/mesh-util?tag=HEAD-2f91886-250625T132945-loongarch64-Linux&download=mesh-util",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elicdavis/polyform/mesh-util:HEAD-2f91886-250625T132945-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elicdavis/polyform/mesh-util",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/mesh-util?tag=HEAD-2f91886-250625T132945-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5c9b88e4755400bd6d030df84a5331058cd90dea0db7823ae21ff9f63bb8960",
+  "size": "11 MB",
+  "size_raw": "10752976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b953e80-250621T194447-loongarch64-Linux",
+    "HEAD-b7571d5-250622T035511-loongarch64-Linux",
+    "HEAD-3e3d9c2-250622T200007-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
