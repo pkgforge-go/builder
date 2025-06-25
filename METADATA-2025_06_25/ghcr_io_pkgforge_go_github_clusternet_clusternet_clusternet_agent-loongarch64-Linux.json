@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clusternet-agent",
+  "pkg_family": "clusternet",
+  "pkg_id": "clusternet-agent#github.com_clusternet_clusternet",
+  "pkg_name": "clusternet-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clusternet/clusternet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[CNCF Sandbox Project] Managing your Kubernetes clusters _including public, private, edge, etc._ as easily as visiting the Internet",
+  "homepage": [
+    "https://github.com/clusternet/clusternet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientgo",
+    "clusternet-agent",
+    "clusternet-controller-manager",
+    "clusternet-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clusternet/clusternet/archive/aac959d194e10a3ccd260e67b805a2295f37cd7f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cluster-management",
+    "distributed-cloud",
+    "edge-cloud",
+    "hybrid-cloud",
+    "kubernetes",
+    "multi-cluster-management",
+    "multicloud",
+    "orchestration",
+    "out-of-the-box",
+    "public-cloud"
+  ],
+  "version": "HEAD-aac959d-250625T161437",
+  "version_upstream": "",
+  "bsum": "4708c03e4b2bd0458d9a00f9edad8aacaee8549a25997241ada67288004d570c",
+  "build_date": "2025-06-25T16:40:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881171995",
+  "build_id": "15881171995",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-agent?tag=HEAD-aac959d-250625T161437-loongarch64-Linux&download=clusternet-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1377",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-agent?tag=HEAD-aac959d-250625T161437-loongarch64-Linux&download=clusternet-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clusternet/clusternet/clusternet-agent:HEAD-aac959d-250625T161437-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clusternet/clusternet/clusternet-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-agent?tag=HEAD-aac959d-250625T161437-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2e745065290cf2ebba5684f1c91f6be2ef212bab595d556f8dc575fac14d3fad",
+  "size": "100 MB",
+  "size_raw": "104062272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
