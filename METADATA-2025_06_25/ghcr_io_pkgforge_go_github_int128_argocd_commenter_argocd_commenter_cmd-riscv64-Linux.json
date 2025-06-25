@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "argocd-commenter-cmd",
+  "pkg_family": "argocd-commenter",
+  "pkg_id": "argocd-commenter-cmd#github.com_int128_argocd_commenter",
+  "pkg_name": "argocd-commenter-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/int128/argocd-commenter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Notify ArgoCD Application status via Pull Request comment or GitHub Deployment API",
+  "homepage": [
+    "https://github.com/int128/argocd-commenter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "argocd-commenter-cmd",
+    "waitforapp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/int128/argocd-commenter/archive/6a23401b618aee1403f11475d2bd4adc36d25c3d.tar.gz"
+  ],
+  "tag": [
+    "argocd",
+    "golang",
+    "kubebuilder",
+    "kubernetes"
+  ],
+  "version": "HEAD-6a23401-250624T181318",
+  "version_upstream": "",
+  "bsum": "2e71457f456dba3688f5d593daa864e1e28ab9bf9e5ca675fecdfe24cfe677bc",
+  "build_date": "2025-06-25T08:18:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869804041",
+  "build_id": "15869804041",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/argocd-commenter/argocd-commenter-cmd?tag=HEAD-6a23401-250624T181318-riscv64-Linux&download=argocd-commenter-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "143",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/argocd-commenter/argocd-commenter-cmd?tag=HEAD-6a23401-250624T181318-riscv64-Linux&download=argocd-commenter-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/int128/argocd-commenter/argocd-commenter-cmd:HEAD-6a23401-250624T181318-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/int128/argocd-commenter/argocd-commenter-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/argocd-commenter/argocd-commenter-cmd?tag=HEAD-6a23401-250624T181318-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3cbb0d6d4837bf4023e292ac0dca93f2d155ed1b50eb90cf9c8a4cfe08904af2",
+  "size": "107 MB",
+  "size_raw": "112142264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
