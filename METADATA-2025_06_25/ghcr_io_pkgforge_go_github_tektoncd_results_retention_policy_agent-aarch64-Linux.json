@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "retention-policy-agent",
+  "pkg_family": "results",
+  "pkg_id": "retention-policy-agent#github.com_tektoncd_results",
+  "pkg_name": "retention-policy-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/results",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Long term storage of execution results.",
+  "homepage": [
+    "https://github.com/tektoncd/results"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "retention-policy-agent",
+    "simpleui",
+    "watcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/results/archive/ebc84b14c20a0239d1a37416ff8c4e0106abc8ba.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "tekton",
+    "tekton-results"
+  ],
+  "version": "HEAD-ebc84b1-250625T121954",
+  "version_upstream": "",
+  "bsum": "d177dd250314e7d733c574fed07564549d191e0ddf13e0ee1aa5e965a0ebae19",
+  "build_date": "2025-06-25T18:36:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883164923",
+  "build_id": "15883164923",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/retention-policy-agent?tag=HEAD-ebc84b1-250625T121954-aarch64-Linux&download=retention-policy-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/retention-policy-agent?tag=HEAD-ebc84b1-250625T121954-aarch64-Linux&download=retention-policy-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/results/retention-policy-agent:HEAD-ebc84b1-250625T121954-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/results/retention-policy-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/retention-policy-agent?tag=HEAD-ebc84b1-250625T121954-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a84ec48f5a1b5f76f881c29bf610057526457aea13afe432af1a73c1f82d93b4",
+  "size": "58 MB",
+  "size_raw": "60812672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

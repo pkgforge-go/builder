@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "simpleui",
+  "pkg_family": "results",
+  "pkg_id": "simpleui#github.com_tektoncd_results",
+  "pkg_name": "simpleui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/results",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Long term storage of execution results.",
+  "homepage": [
+    "https://github.com/tektoncd/results"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "retention-policy-agent",
+    "simpleui",
+    "watcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/results/archive/ebc84b14c20a0239d1a37416ff8c4e0106abc8ba.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "tekton",
+    "tekton-results"
+  ],
+  "version": "HEAD-ebc84b1-250625T121954",
+  "version_upstream": "",
+  "bsum": "1198600834e9741a499fce21575dc78b7111fa0b4d3516df4e79a01f9761c85f",
+  "build_date": "2025-06-25T18:36:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883164923",
+  "build_id": "15883164923",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/simpleui?tag=HEAD-ebc84b1-250625T121954-aarch64-Linux&download=simpleui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/simpleui?tag=HEAD-ebc84b1-250625T121954-aarch64-Linux&download=simpleui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/results/simpleui:HEAD-ebc84b1-250625T121954-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/results/simpleui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/results/simpleui?tag=HEAD-ebc84b1-250625T121954-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d13eab627d6515e354340cbb3f510a8eafaf87e2ef9a841a7b1470ed411f6c5f",
+  "size": "13 MB",
+  "size_raw": "13289024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
