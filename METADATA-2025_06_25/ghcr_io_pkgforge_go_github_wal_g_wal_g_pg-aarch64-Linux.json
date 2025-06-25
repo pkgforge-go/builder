@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pg",
+  "pkg_family": "wal-g",
+  "pkg_id": "pg#github.com_wal_g_wal_g",
+  "pkg_name": "pg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wal-g/wal-g",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Archival and Restoration for databases in the Cloud",
+  "homepage": [
+    "https://github.com/wal-g/wal-g"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ammogenerator",
+    "daemonclient",
+    "etcd",
+    "fdb",
+    "gp",
+    "loader",
+    "mongo",
+    "mysql",
+    "pg",
+    "redis",
+    "sqlserver",
+    "universal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wal-g/wal-g/archive/21c75f44409bd83940e3f9aa83a32a792be86125.tar.gz"
+  ],
+  "tag": [
+    "archiving",
+    "aws",
+    "aws-s3",
+    "azure",
+    "azure-storage",
+    "backup",
+    "cloud",
+    "go",
+    "golang",
+    "greenplum",
+    "mariadb",
+    "mongodb",
+    "mysql",
+    "postgres",
+    "postgresql",
+    "redis",
+    "s3",
+    "sqlserver"
+  ],
+  "version": "HEAD-21c75f4-250625T131317",
+  "version_upstream": "",
+  "bsum": "f0e589bee35eb933e112a7d9b1ca4cf18e6899437881227a83fb05987553b827",
+  "build_date": "2025-06-25T19:02:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883437003",
+  "build_id": "15883437003",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/pg?tag=HEAD-21c75f4-250625T131317-aarch64-Linux&download=pg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3604",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/pg?tag=HEAD-21c75f4-250625T131317-aarch64-Linux&download=pg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wal-g/wal-g/pg:HEAD-21c75f4-250625T131317-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wal-g/wal-g/pg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/pg?tag=HEAD-21c75f4-250625T131317-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8a94b47ec698f3c18affed3ef721125d1d389a9146a601dfa433ba9169ebac2",
+  "size": "67 MB",
+  "size_raw": "69627104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
