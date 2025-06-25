@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "purger",
+  "pkg_family": "rpaas-operator",
+  "pkg_id": "purger#github.com_tsuru_rpaas_operator",
+  "pkg_name": "purger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tsuru/rpaas-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RPaaS operator manages reverse proxy as service instances inside a Kubernetes cluster",
+  "homepage": [
+    "https://github.com/tsuru/rpaas-operator"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "purger",
+    "rpaas-operator",
+    "rpaasv2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tsuru/rpaas-operator/archive/1faa52eb6f60b0ca330df71be7a966ed1efe50ec.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "tsuru-plugin"
+  ],
+  "version": "HEAD-1faa52e-250625T100648",
+  "version_upstream": "v0.49.3",
+  "bsum": "d074c8ed229b1f308902df2763d54406e5fc93612e75c0392320df0e7733f7c6",
+  "build_date": "2025-06-25T18:44:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883317089",
+  "build_id": "15883317089",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/rpaas-operator/purger?tag=HEAD-1faa52e-250625T100648-x86_64-Linux&download=purger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/rpaas-operator/purger?tag=HEAD-1faa52e-250625T100648-x86_64-Linux&download=purger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tsuru/rpaas-operator/purger:HEAD-1faa52e-250625T100648-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tsuru/rpaas-operator/purger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/rpaas-operator/purger?tag=HEAD-1faa52e-250625T100648-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8305e559c3ad013f75dc4c7f9959471f9b12a45df670dc9afeb3bf85408d237c",
+  "size": "67 MB",
+  "size_raw": "69585616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
