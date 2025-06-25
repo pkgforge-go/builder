@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bootstrap",
+  "pkg_family": "cluster-api-k3s",
+  "pkg_id": "bootstrap#github.com_k3s_io_cluster_api_k3s",
+  "pkg_name": "bootstrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/k3s-io/cluster-api-k3s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster API k3s",
+  "homepage": [
+    "https://github.com/k3s-io/cluster-api-k3s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "controlplane"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/k3s-io/cluster-api-k3s/archive/e0a92c9e498eba695ce6abe9e9698a766af9834f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e0a92c9-250624T193741",
+  "version_upstream": "v0.3.0",
+  "bsum": "5a788d1b040af859c54de7e274fb73f32cca58976537a2d793f9475ce8d37963",
+  "build_date": "2025-06-25T08:25:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869988706",
+  "build_id": "15869988706",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3s-io/cluster-api-k3s/bootstrap?tag=HEAD-e0a92c9-250624T193741-x86_64-Linux&download=bootstrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "160",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3s-io/cluster-api-k3s/bootstrap?tag=HEAD-e0a92c9-250624T193741-x86_64-Linux&download=bootstrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k3s-io/cluster-api-k3s/bootstrap:HEAD-e0a92c9-250624T193741-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k3s-io/cluster-api-k3s/bootstrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3s-io/cluster-api-k3s/bootstrap?tag=HEAD-e0a92c9-250624T193741-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca580a2a695bdb6d7ac5a911da9418f15307dff3fcf43b974bbe152900ccc3d6",
+  "size": "50 MB",
+  "size_raw": "52328448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
