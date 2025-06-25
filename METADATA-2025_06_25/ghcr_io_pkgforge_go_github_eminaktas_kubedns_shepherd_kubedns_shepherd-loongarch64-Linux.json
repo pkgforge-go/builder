@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubedns-shepherd",
+  "pkg_family": "kubedns-shepherd",
+  "pkg_id": "kubedns-shepherd#github.com_eminaktas_kubedns_shepherd",
+  "pkg_name": "kubedns-shepherd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/eminaktas/kubedns-shepherd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeDNS Shepherd is a Kubernetes controller that manages the DNS configuration of workloads, ensuring efficient and reliable way to configure DNS within your Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/eminaktas/kubedns-shepherd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubedns-shepherd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/eminaktas/kubedns-shepherd/archive/7b361792dc93d42c0abec26d8b34e8b15a34dc85.tar.gz"
+  ],
+  "tag": [
+    "admission",
+    "dns",
+    "dnsconfig",
+    "kubernetes",
+    "mutating",
+    "webhook"
+  ],
+  "version": "HEAD-7b36179-250625T082220",
+  "version_upstream": "",
+  "bsum": "8114cb306817a9b68065055295c3aa80547b8fc12b6e0d26a4a2f1e9a3e511b6",
+  "build_date": "2025-06-25T16:50:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881252731",
+  "build_id": "15881252731",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eminaktas/kubedns-shepherd/kubedns-shepherd?tag=HEAD-7b36179-250625T082220-loongarch64-Linux&download=kubedns-shepherd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eminaktas/kubedns-shepherd/kubedns-shepherd?tag=HEAD-7b36179-250625T082220-loongarch64-Linux&download=kubedns-shepherd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eminaktas/kubedns-shepherd/kubedns-shepherd:HEAD-7b36179-250625T082220-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eminaktas/kubedns-shepherd/kubedns-shepherd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eminaktas/kubedns-shepherd/kubedns-shepherd?tag=HEAD-7b36179-250625T082220-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f02a7fd935171702ceb68c750746baf260f7e62df43de3a931d595f6bfa64a12",
+  "size": "44 MB",
+  "size_raw": "45388288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
