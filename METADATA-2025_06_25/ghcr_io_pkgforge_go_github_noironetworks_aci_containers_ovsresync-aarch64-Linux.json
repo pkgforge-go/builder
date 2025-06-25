@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ovsresync",
+  "pkg_family": "aci-containers",
+  "pkg_id": "ovsresync#github.com_noironetworks_aci_containers",
+  "pkg_name": "ovsresync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/noironetworks/aci-containers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins for integrating ACI with container orchestration systems",
+  "homepage": [
+    "https://github.com/noironetworks/aci-containers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acicontainersoperator",
+    "acikubectl",
+    "certmanager",
+    "controller",
+    "gbpserver",
+    "hostagent",
+    "opflexagentcni",
+    "ovsresync",
+    "simpleservice",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/noironetworks/aci-containers/archive/870516a155b591628ebfe71fb7100876814cad93.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-870516a-250624T145755",
+  "version_upstream": "6.1.2.1",
+  "bsum": "6caeb874e52eb1715d94a053b4fdfa9d53ffc3cc4b3aae59b5816d44b5732ea3",
+  "build_date": "2025-06-25T09:02:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870803736",
+  "build_id": "15870803736",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/ovsresync?tag=HEAD-870516a-250624T145755-aarch64-Linux&download=ovsresync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/ovsresync?tag=HEAD-870516a-250624T145755-aarch64-Linux&download=ovsresync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noironetworks/aci-containers/ovsresync:HEAD-870516a-250624T145755-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noironetworks/aci-containers/ovsresync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/ovsresync?tag=HEAD-870516a-250624T145755-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "adc69a0e8419b71fbcd684f58b6aa15a72554d59ec21b18b7e3ea0c07de0e2b6",
+  "size": "4.7 MB",
+  "size_raw": "4838176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

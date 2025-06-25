@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "simpleservice",
+  "pkg_family": "aci-containers",
+  "pkg_id": "simpleservice#github.com_noironetworks_aci_containers",
+  "pkg_name": "simpleservice",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/noironetworks/aci-containers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins for integrating ACI with container orchestration systems",
+  "homepage": [
+    "https://github.com/noironetworks/aci-containers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acicontainersoperator",
+    "acikubectl",
+    "certmanager",
+    "controller",
+    "gbpserver",
+    "hostagent",
+    "opflexagentcni",
+    "ovsresync",
+    "simpleservice",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/noironetworks/aci-containers/archive/870516a155b591628ebfe71fb7100876814cad93.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-870516a-250624T145755",
+  "version_upstream": "6.1.2.1",
+  "bsum": "52167d1c0db193ae7330222b843810e8ce1df232560d56454908273a8b4b1ba1",
+  "build_date": "2025-06-25T09:03:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870803736",
+  "build_id": "15870803736",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/simpleservice?tag=HEAD-870516a-250624T145755-aarch64-Linux&download=simpleservice.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/simpleservice?tag=HEAD-870516a-250624T145755-aarch64-Linux&download=simpleservice",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noironetworks/aci-containers/simpleservice:HEAD-870516a-250624T145755-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noironetworks/aci-containers/simpleservice",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noironetworks/aci-containers/simpleservice?tag=HEAD-870516a-250624T145755-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bcd43161d98d0517db329dda1000f420d2e6e1f7558aee5a300706c540dbcdcb",
+  "size": "5.7 MB",
+  "size_raw": "5885376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
