@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "exporter",
+  "pkg_family": "http-keep-alive-monitor",
+  "pkg_id": "exporter#github.com_sapcc_http_keep_alive_monitor",
+  "pkg_name": "exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/http-keep-alive-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Monitor for idle timeout setting of k8s ingress backends",
+  "homepage": [
+    "https://github.com/sapcc/http-keep-alive-monitor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "keepalive-check"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/http-keep-alive-monitor/archive/3196c1a937627fe74f3b807898c8f6ee0ece5d14.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3196c1a-250625T143001",
+  "version_upstream": "",
+  "bsum": "8edb8128d91125fa4b3d904e0ff6d7fd13507e41873f55deab0d527069d7217d",
+  "build_date": "2025-06-25T18:07:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882571282",
+  "build_id": "15882571282",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/http-keep-alive-monitor/exporter?tag=HEAD-3196c1a-250625T143001-loongarch64-Linux&download=exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/http-keep-alive-monitor/exporter?tag=HEAD-3196c1a-250625T143001-loongarch64-Linux&download=exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/http-keep-alive-monitor/exporter:HEAD-3196c1a-250625T143001-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/http-keep-alive-monitor/exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/http-keep-alive-monitor/exporter?tag=HEAD-3196c1a-250625T143001-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c526ca7597d0d236512b7f74436aca43da570a30f0a8689e281311dfed7910e",
+  "size": "43 MB",
+  "size_raw": "44427232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
