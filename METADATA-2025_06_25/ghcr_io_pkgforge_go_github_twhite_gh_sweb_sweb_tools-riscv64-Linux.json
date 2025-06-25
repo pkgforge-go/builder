@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sweb-tools",
+  "pkg_family": "sweb",
+  "pkg_id": "sweb-tools#github.com_twhite_gh_sweb",
+  "pkg_name": "sweb-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/twhite-gh/sweb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A small web http_https server for test and upload file. Also support webdav and socks5/http/https proxy . Only one file to run. Use golang and AI to program.",
+  "homepage": [
+    "https://github.com/twhite-gh/sweb"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sweb-src",
+    "sweb-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/twhite-gh/sweb/archive/d4e704cd2a9869b0d4dcde326ca5bb182236a09b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "proxy",
+    "server",
+    "web",
+    "webdav"
+  ],
+  "version": "HEAD-d4e704c-250625T174816",
+  "version_upstream": "",
+  "bsum": "77326bd809a567938412b215d7476ca20b63023504f23e7f5530c05541de7092",
+  "build_date": "2025-06-25T18:42:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883373743",
+  "build_id": "15883373743",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twhite-gh/sweb/sweb-tools?tag=HEAD-d4e704c-250625T174816-riscv64-Linux&download=sweb-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twhite-gh/sweb/sweb-tools?tag=HEAD-d4e704c-250625T174816-riscv64-Linux&download=sweb-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/twhite-gh/sweb/sweb-tools:HEAD-d4e704c-250625T174816-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/twhite-gh/sweb/sweb-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twhite-gh/sweb/sweb-tools?tag=HEAD-d4e704c-250625T174816-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0dc131cf6bef85ff13b650cf8964d0257e096219d33d204f42417fe28dc8985c",
+  "size": "3.0 MB",
+  "size_raw": "3113688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
