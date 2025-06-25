@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "managed-cluster-validating-webhooks-cmd",
+  "pkg_family": "managed-cluster-validating-webhooks",
+  "pkg_id": "managed-cluster-validating-webhooks-cmd#github.com_openshift_managed_cluster_validating_webhooks",
+  "pkg_name": "managed-cluster-validating-webhooks-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/managed-cluster-validating-webhooks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Set of validating webhooks, based on k8s admission controllers, for OSD clusters",
+  "homepage": [
+    "https://github.com/openshift/managed-cluster-validating-webhooks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "documentation",
+    "managed-cluster-validating-webhooks-build",
+    "managed-cluster-validating-webhooks-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/managed-cluster-validating-webhooks/archive/4c032c199a1789309bf9fe1118f5a9b0b8f4e904.tar.gz"
+  ],
+  "tag": [
+    "osdv4"
+  ],
+  "version": "HEAD-4c032c1-250625T015345",
+  "version_upstream": "",
+  "bsum": "ea4c60850294f12a8109057688afc9bc91aaff97f1584e26f7cba08b24a1f13c",
+  "build_date": "2025-06-25T09:10:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870938555",
+  "build_id": "15870938555",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/managed-cluster-validating-webhooks/managed-cluster-validating-webhooks-cmd?tag=HEAD-4c032c1-250625T015345-riscv64-Linux&download=managed-cluster-validating-webhooks-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/managed-cluster-validating-webhooks/managed-cluster-validating-webhooks-cmd?tag=HEAD-4c032c1-250625T015345-riscv64-Linux&download=managed-cluster-validating-webhooks-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/managed-cluster-validating-webhooks/managed-cluster-validating-webhooks-cmd:HEAD-4c032c1-250625T015345-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/managed-cluster-validating-webhooks/managed-cluster-validating-webhooks-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/managed-cluster-validating-webhooks/managed-cluster-validating-webhooks-cmd?tag=HEAD-4c032c1-250625T015345-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ab1f824a57a8154be4d9645c5c6578a0110e358f39995f5145da4441e883a16",
+  "size": "39 MB",
+  "size_raw": "40348440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
