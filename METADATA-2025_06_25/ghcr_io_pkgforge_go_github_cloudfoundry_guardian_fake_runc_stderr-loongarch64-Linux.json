@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fake_runc_stderr",
+  "pkg_family": "guardian",
+  "pkg_id": "fake_runc_stderr#github.com_cloudfoundry_guardian",
+  "pkg_name": "fake_runc_stderr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/guardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "containers4life",
+  "homepage": [
+    "https://github.com/cloudfoundry/guardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dadoo",
+    "execas",
+    "fake_image_plugin",
+    "fake_network_plugin",
+    "fake_runc",
+    "fake_runc_stderr",
+    "fake_runtime_plugin",
+    "gdn",
+    "noop_plugin",
+    "socket2me",
+    "winit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/guardian/archive/79e4be171eda25d1a4295aba7fefecfc9ae93b1a.tar.gz"
+  ],
+  "tag": [
+    "cff-wg-app-runtime-platform"
+  ],
+  "version": "HEAD-79e4be1-250625T021013",
+  "version_upstream": "",
+  "bsum": "50e60fca1f6e9d43d8cfe29780197184cce97bd45940ad9bfb524290df26cbdf",
+  "build_date": "2025-06-25T07:45:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869620022",
+  "build_id": "15869620022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/fake_runc_stderr?tag=HEAD-79e4be1-250625T021013-loongarch64-Linux&download=fake_runc_stderr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/fake_runc_stderr?tag=HEAD-79e4be1-250625T021013-loongarch64-Linux&download=fake_runc_stderr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/guardian/fake_runc_stderr:HEAD-79e4be1-250625T021013-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/guardian/fake_runc_stderr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/fake_runc_stderr?tag=HEAD-79e4be1-250625T021013-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3962442f2d5e0f8877c0dc49ef53abd6379cf1b4c545cca709ac09c6809394bb",
+  "size": "1.4 MB",
+  "size_raw": "1408344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

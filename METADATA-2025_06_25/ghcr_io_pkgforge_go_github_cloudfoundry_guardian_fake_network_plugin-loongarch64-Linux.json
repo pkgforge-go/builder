@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fake_network_plugin",
+  "pkg_family": "guardian",
+  "pkg_id": "fake_network_plugin#github.com_cloudfoundry_guardian",
+  "pkg_name": "fake_network_plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/guardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "containers4life",
+  "homepage": [
+    "https://github.com/cloudfoundry/guardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dadoo",
+    "execas",
+    "fake_image_plugin",
+    "fake_network_plugin",
+    "fake_runc",
+    "fake_runc_stderr",
+    "fake_runtime_plugin",
+    "gdn",
+    "noop_plugin",
+    "socket2me",
+    "winit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/guardian/archive/79e4be171eda25d1a4295aba7fefecfc9ae93b1a.tar.gz"
+  ],
+  "tag": [
+    "cff-wg-app-runtime-platform"
+  ],
+  "version": "HEAD-79e4be1-250625T021013",
+  "version_upstream": "",
+  "bsum": "a2a7cf4738748149ba03078b5067e02b894d75f4745eef7efda681ceebb0fb08",
+  "build_date": "2025-06-25T07:44:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869620022",
+  "build_id": "15869620022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/fake_network_plugin?tag=HEAD-79e4be1-250625T021013-loongarch64-Linux&download=fake_network_plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/fake_network_plugin?tag=HEAD-79e4be1-250625T021013-loongarch64-Linux&download=fake_network_plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/guardian/fake_network_plugin:HEAD-79e4be1-250625T021013-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/guardian/fake_network_plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/fake_network_plugin?tag=HEAD-79e4be1-250625T021013-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08ca4a82af8246e1de96d3e1db27380becd87719e407fda95799bfca95b69da6",
+  "size": "2.0 MB",
+  "size_raw": "2027224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
