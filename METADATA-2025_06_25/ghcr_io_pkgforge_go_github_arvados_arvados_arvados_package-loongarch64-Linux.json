@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "arvados-package",
+  "pkg_family": "arvados",
+  "pkg_id": "arvados-package#github.com_arvados_arvados",
+  "pkg_name": "arvados-package",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arvados/arvados",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source platform for managing and analyzing biomedical big data",
+  "homepage": [
+    "https://github.com/arvados/arvados"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arvados-package",
+    "crunch-dispatch-local",
+    "keep-block-check",
+    "keep-exercise",
+    "keep-rsync",
+    "sync-groups",
+    "sync-users"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arvados/arvados/archive/18f80f734c3d901749e786202e45e100aa25dca0.tar.gz"
+  ],
+  "tag": [
+    "arvados",
+    "aws",
+    "azure",
+    "bigdata",
+    "bioinformatics",
+    "cloud",
+    "cluster",
+    "cwl",
+    "docker",
+    "gcp",
+    "genomics",
+    "go",
+    "python",
+    "ruby",
+    "workflow",
+    "workflow-engine"
+  ],
+  "version": "HEAD-18f80f7-250624T151527",
+  "version_upstream": "",
+  "bsum": "5dc5a34cb55051dd2083c2f3ee6a88f0ab763bc4a115ae4ef736808b35e95eaa",
+  "build_date": "2025-06-25T10:44:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873290569",
+  "build_id": "15873290569",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/arvados-package?tag=HEAD-18f80f7-250624T151527-loongarch64-Linux&download=arvados-package.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "404",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/arvados-package?tag=HEAD-18f80f7-250624T151527-loongarch64-Linux&download=arvados-package",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/arvados-package:HEAD-18f80f7-250624T151527-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/arvados-package",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/arvados-package?tag=HEAD-18f80f7-250624T151527-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fe857c2e09185d647665cfc739cb7d5e70bbe04f2fdbee9e45bc19700bd7534",
+  "size": "11 MB",
+  "size_raw": "10552384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ad54b4-250618T124354-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
