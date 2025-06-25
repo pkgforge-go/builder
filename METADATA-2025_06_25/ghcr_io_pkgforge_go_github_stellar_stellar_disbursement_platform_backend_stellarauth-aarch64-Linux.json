@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stellarauth",
+  "pkg_family": "stellar-disbursement-platform-backend",
+  "pkg_id": "stellarauth#github.com_stellar_stellar_disbursement_platform_backend",
+  "pkg_name": "stellarauth",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stellar/stellar-disbursement-platform-backend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stellar Disbursement Platform Backend",
+  "homepage": [
+    "https://github.com/stellar/stellar-disbursement-platform-backend"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "stellar-disbursement-platform-backend",
+    "stellarauth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stellar/stellar-disbursement-platform-backend/archive/7806a23aa10572e2ede8cd5cc9d06c8ab3ae2f89.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7806a23-250625T001955",
+  "version_upstream": "",
+  "bsum": "0ea2e59f0385c40c2fa6bed83fabdd184a546bf5046b2745573461f9d2d14683",
+  "build_date": "2025-06-25T09:53:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872396601",
+  "build_id": "15872396601",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stellar/stellar-disbursement-platform-backend/stellarauth?tag=HEAD-7806a23-250625T001955-aarch64-Linux&download=stellarauth.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stellar/stellar-disbursement-platform-backend/stellarauth?tag=HEAD-7806a23-250625T001955-aarch64-Linux&download=stellarauth",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stellar/stellar-disbursement-platform-backend/stellarauth:HEAD-7806a23-250625T001955-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stellar/stellar-disbursement-platform-backend/stellarauth",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stellar/stellar-disbursement-platform-backend/stellarauth?tag=HEAD-7806a23-250625T001955-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "039eef921776e934427f8a85226541d586c88d8a65ac6df5a70d448efde537e8",
+  "size": "18 MB",
+  "size_raw": "18103904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
