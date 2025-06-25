@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "actioninjector.v2",
+  "pkg_family": "iotex-core",
+  "pkg_id": "actioninjector.v2#github.com_iotexproject_iotex_core",
+  "pkg_name": "actioninjector.v2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/iotexproject/iotex-core",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Official implementation of IoTeX blockchain protocol in Go. An ultra-efficient EVM blockchain offering 1000 TPS with instant 1-block finality. Perfect for DeFi, DePIN tokenomics, Identities, and any trusted logic requiring Web3 composability",
+  "homepage": [
+    "https://github.com/iotexproject/iotex-core"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "actioninjector.v2",
+    "addrgen",
+    "ioctl",
+    "multisend",
+    "readme",
+    "server",
+    "xctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/iotexproject/iotex-core/archive/42f3cf44eda5411df10790da223d12245d280d23.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "crypto",
+    "cryptography",
+    "depin",
+    "distributed-systems",
+    "internet-of-everything",
+    "internet-of-things",
+    "machinefi"
+  ],
+  "version": "HEAD-42f3cf4-250625T163238",
+  "version_upstream": "",
+  "bsum": "71ec30b601afe4ceb5f9f3949decc045da30f051fd8d8d1efa4b272ac9b2166c",
+  "build_date": "2025-06-25T17:29:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881950887",
+  "build_id": "15881950887",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iotexproject/iotex-core/actioninjector.v2?tag=HEAD-42f3cf4-250625T163238-riscv64-Linux&download=actioninjector.v2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1556",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iotexproject/iotex-core/actioninjector.v2?tag=HEAD-42f3cf4-250625T163238-riscv64-Linux&download=actioninjector.v2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/iotexproject/iotex-core/actioninjector.v2:HEAD-42f3cf4-250625T163238-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/iotexproject/iotex-core/actioninjector.v2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iotexproject/iotex-core/actioninjector.v2?tag=HEAD-42f3cf4-250625T163238-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c88101e248e4ff1dcda738fd9877981b3da97ac40c519695ba06fec7317b84b",
+  "size": "16 MB",
+  "size_raw": "16132216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
