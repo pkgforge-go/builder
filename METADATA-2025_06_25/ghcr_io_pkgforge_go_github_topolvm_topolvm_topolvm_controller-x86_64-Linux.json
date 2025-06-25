@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "topolvm-controller",
+  "pkg_family": "topolvm",
+  "pkg_id": "topolvm-controller#github.com_topolvm_topolvm",
+  "pkg_name": "topolvm-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topolvm/topolvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Capacity-aware CSI plugin for Kubernetes",
+  "homepage": [
+    "https://github.com/topolvm/topolvm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hypertopolvm",
+    "lvmd",
+    "topolvm-controller",
+    "topolvm-node",
+    "topolvm-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topolvm/topolvm/archive/cd1179b46b928711b990a32783acce8c29ccbac9.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "kubernetes",
+    "lvm2"
+  ],
+  "version": "HEAD-cd1179b-250625T110437",
+  "version_upstream": "",
+  "bsum": "25ec8e117bb55ea7c474b5bf6536f4b28fece3532665e029eafe9c5525d66423",
+  "build_date": "2025-06-25T10:11:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872470490",
+  "build_id": "15872470490",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-controller?tag=HEAD-cd1179b-250625T110437-x86_64-Linux&download=topolvm-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "910",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-controller?tag=HEAD-cd1179b-250625T110437-x86_64-Linux&download=topolvm-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topolvm/topolvm/topolvm-controller:HEAD-cd1179b-250625T110437-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topolvm/topolvm/topolvm-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-controller?tag=HEAD-cd1179b-250625T110437-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41a4bd73f2e8cdf7854f578212851786a015fa16757ccef7ff3ac904a041535a",
+  "size": "54 MB",
+  "size_raw": "56554752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
