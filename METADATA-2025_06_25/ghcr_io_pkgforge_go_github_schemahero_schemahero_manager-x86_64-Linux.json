@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "schemahero",
+  "pkg_id": "manager#github.com_schemahero_schemahero",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/schemahero/schemahero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator for declarative database schema management _gitops for database schemas_",
+  "homepage": [
+    "https://github.com/schemahero/schemahero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-schemahero",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/schemahero/schemahero/archive/c62fe513e6f83b80cef947f0751834188a1bce2e.tar.gz"
+  ],
+  "tag": [
+    "database-management",
+    "database-schema",
+    "database-schemas",
+    "gitops",
+    "hacktoberfest",
+    "kubernetes",
+    "kubernetes-operator",
+    "manage-databases"
+  ],
+  "version": "HEAD-c62fe51-250624T133318",
+  "version_upstream": "v0.20.2",
+  "bsum": "4f1d837a6c2d8831206be50f57e313514093e6f672a398be43fea5bb25f4933a",
+  "build_date": "2025-06-25T09:45:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872261124",
+  "build_id": "15872261124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schemahero/schemahero/manager?tag=HEAD-c62fe51-250624T133318-x86_64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schemahero/schemahero/manager?tag=HEAD-c62fe51-250624T133318-x86_64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/schemahero/schemahero/manager:HEAD-c62fe51-250624T133318-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/schemahero/schemahero/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schemahero/schemahero/manager?tag=HEAD-c62fe51-250624T133318-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c4a821717790f48a13d2b0ffeaec64eeae6810bb6b323e432514aa5c013cd5ae",
+  "size": "96 MB",
+  "size_raw": "100448144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
