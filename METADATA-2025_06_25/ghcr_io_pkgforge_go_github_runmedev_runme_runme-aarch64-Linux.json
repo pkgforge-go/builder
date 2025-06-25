@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "runme",
+  "pkg_family": "runme",
+  "pkg_id": "runme#github.com_runmedev_runme",
+  "pkg_name": "runme",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/runmedev/runme",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DevOps Notebooks Built with Markdown",
+  "homepage": [
+    "https://github.com/runmedev/runme"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goexec",
+    "gqltool",
+    "grpc-client",
+    "release-notes",
+    "runme",
+    "runme-web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/runmedev/runme/archive/8c75c026e27a00454a34a471eac39f77cd007d95.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "devops",
+    "markdown",
+    "notebooks",
+    "workflows"
+  ],
+  "version": "HEAD-8c75c02-250623T124556",
+  "version_upstream": "",
+  "bsum": "19df84a64249039865d35671ddc26ad01f8fdf6444723ebf0e40571213c81f8c",
+  "build_date": "2025-06-25T03:50:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15866084820",
+  "build_id": "15866084820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/runme?tag=HEAD-8c75c02-250623T124556-aarch64-Linux&download=runme.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1456",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/runme?tag=HEAD-8c75c02-250623T124556-aarch64-Linux&download=runme",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runmedev/runme/runme:HEAD-8c75c02-250623T124556-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runmedev/runme/runme",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/runme?tag=HEAD-8c75c02-250623T124556-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f2bdeb5a59e6adf703a49fdd88c328c1014f165692e50dee69cdb826d501339",
+  "size": "35 MB",
+  "size_raw": "36275296",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5e75c82-250620T113427-aarch64-Linux[v3.14.1-rc.0]"
+  ],
+  "trusted": "true"
+}
