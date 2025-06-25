@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tail",
+  "pkg_family": "ov",
+  "pkg_id": "tail#github.com_noborus_ov",
+  "pkg_name": "tail",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/noborus/ov",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.",
+  "homepage": [
+    "https://github.com/noborus/ov"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exec",
+    "ov",
+    "search",
+    "simple",
+    "tail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/noborus/ov/archive/fc39e1488778ae51752037b4e1e5acf083edf986.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "go",
+    "golang",
+    "incremental-search",
+    "less",
+    "more",
+    "pager",
+    "tail",
+    "tcell",
+    "terminal",
+    "terminal-pager",
+    "tui"
+  ],
+  "version": "HEAD-fc39e14-250624T215758",
+  "version_upstream": "",
+  "bsum": "f5de499b36bd42a8afd5f6bee44ddfa850c6648205a0eaa0889bc2df863c5d05",
+  "build_date": "2025-06-25T03:39:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865931709",
+  "build_id": "15865931709",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noborus/ov/tail?tag=HEAD-fc39e14-250624T215758-aarch64-Linux&download=tail.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1632",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noborus/ov/tail?tag=HEAD-fc39e14-250624T215758-aarch64-Linux&download=tail",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noborus/ov/tail:HEAD-fc39e14-250624T215758-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noborus/ov/tail",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noborus/ov/tail?tag=HEAD-fc39e14-250624T215758-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1b9c9a69ff5e52ea09d0d272f35972e2d15f3153976f667bc29196fe8624331a",
+  "size": "6.4 MB",
+  "size_raw": "6650976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-25d6cc7-250619T172557-aarch64-Linux",
+    "HEAD-b4a94a8-250623T152527-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
