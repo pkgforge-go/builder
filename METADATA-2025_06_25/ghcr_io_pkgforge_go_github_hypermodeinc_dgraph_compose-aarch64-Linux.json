@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "compose",
+  "pkg_family": "dgraph",
+  "pkg_id": "compose#github.com_hypermodeinc_dgraph",
+  "pkg_name": "compose",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hypermodeinc/dgraph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "high-performance graph database for real-time use cases",
+  "homepage": [
+    "https://github.com/hypermodeinc/dgraph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "compose",
+    "jepsen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hypermodeinc/dgraph/archive/5d97bd042c1cfe4e847d75036697b0e822e3af19.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "distributed",
+    "go",
+    "knowledge-graph"
+  ],
+  "version": "HEAD-5d97bd0-250625T132550",
+  "version_upstream": "",
+  "bsum": "20191ccccf2e49a4a3e12a647eaadee02c3646924e8fbfd73b56d1ae19050dae",
+  "build_date": "2025-06-25T23:07:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887990144",
+  "build_id": "15887990144",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/compose?tag=HEAD-5d97bd0-250625T132550-aarch64-Linux&download=compose.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20960",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/compose?tag=HEAD-5d97bd0-250625T132550-aarch64-Linux&download=compose",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hypermodeinc/dgraph/compose:HEAD-5d97bd0-250625T132550-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hypermodeinc/dgraph/compose",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hypermodeinc/dgraph/compose?tag=HEAD-5d97bd0-250625T132550-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2318ecf11c7639771fafe643d3e36498a2afec24151288c79f58ee1bb076f231",
+  "size": "19 MB",
+  "size_raw": "18910464",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d93989f-250618T060725-aarch64-Linux",
+    "HEAD-9c09e15-250621T002049-aarch64-Linux",
+    "HEAD-104cbae-250623T194323-aarch64-Linux",
+    "HEAD-8df04d0-250624T081756-aarch64-Linux[v25.0.0-preview5]",
+    "HEAD-26ddaa8-250624T110648-aarch64-Linux[v25.0.0-preview6]"
+  ],
+  "trusted": "true"
+}
