@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "certgen",
+  "pkg_family": "consul",
+  "pkg_id": "certgen#github.com_hashicorp_consul",
+  "pkg_name": "certgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/consul",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/consul"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen",
+    "consul",
+    "internal-grpc-proxy",
+    "protoc-gen-deepcopy",
+    "protoc-gen-grpc-clone",
+    "protoc-gen-json-shim",
+    "protoc-gen-resource-types",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/consul/archive/af2be68b7406ce8b9d7771cc439f2f657c7112a1.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "version": "HEAD-af2be68-250625T170225",
+  "version_upstream": "",
+  "bsum": "815b4b88f7371adda7c427bfa1193cb4bbcd16ccb1020bc5a2a65224d1ab38ae",
+  "build_date": "2025-06-25T23:02:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887980047",
+  "build_id": "15887980047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/certgen?tag=HEAD-af2be68-250625T170225-x86_64-Linux&download=certgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29066",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/certgen?tag=HEAD-af2be68-250625T170225-x86_64-Linux&download=certgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/consul/certgen:HEAD-af2be68-250625T170225-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/consul/certgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/certgen?tag=HEAD-af2be68-250625T170225-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ec61415de34cd778a990cc7cf5b9a584a1d6c591b0059f2cc140a2d2e361859",
+  "size": "13 MB",
+  "size_raw": "12627232",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-766ab74-250617T143807-x86_64-Linux",
+    "HEAD-60c29c3-250620T091657-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
