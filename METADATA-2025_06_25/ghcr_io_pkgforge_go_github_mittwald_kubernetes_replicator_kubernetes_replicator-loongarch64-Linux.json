@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubernetes-replicator",
+  "pkg_family": "kubernetes-replicator",
+  "pkg_id": "kubernetes-replicator#github.com_mittwald_kubernetes_replicator",
+  "pkg_name": "kubernetes-replicator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mittwald/kubernetes-replicator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller for synchronizing secrets _ config maps across namespaces",
+  "homepage": [
+    "https://github.com/mittwald/kubernetes-replicator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubernetes-replicator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mittwald/kubernetes-replicator/archive/7ac7fd741dccbf9d4a9f49a9d9c7787e6a5e4aae.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "kubernetes",
+    "kubernetes-configmap",
+    "kubernetes-controller",
+    "kubernetes-secrets"
+  ],
+  "version": "HEAD-7ac7fd7-250625T000022",
+  "version_upstream": "",
+  "bsum": "d5ab55b5d8a2d161dee93528a5bd5d523c00d7681046a5e0bee6e7463f937a2f",
+  "build_date": "2025-06-25T08:42:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870636336",
+  "build_id": "15870636336",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mittwald/kubernetes-replicator/kubernetes-replicator?tag=HEAD-7ac7fd7-250625T000022-loongarch64-Linux&download=kubernetes-replicator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "986",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mittwald/kubernetes-replicator/kubernetes-replicator?tag=HEAD-7ac7fd7-250625T000022-loongarch64-Linux&download=kubernetes-replicator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mittwald/kubernetes-replicator/kubernetes-replicator:HEAD-7ac7fd7-250625T000022-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mittwald/kubernetes-replicator/kubernetes-replicator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mittwald/kubernetes-replicator/kubernetes-replicator?tag=HEAD-7ac7fd7-250625T000022-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5269b87c54d9c4d2b6d149ba500293969c9e17905b3eacdbbc8418d25a25c871",
+  "size": "47 MB",
+  "size_raw": "49034528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
