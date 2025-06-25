@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "restctl",
+  "pkg_family": "ipman",
+  "pkg_id": "restctl#github.com_dialohq_ipman",
+  "pkg_name": "restctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dialohq/ipman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing IPsec VPN connections",
+  "homepage": [
+    "https://github.com/dialohq/ipman"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "restctl",
+    "vxlandlord",
+    "xfrminion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dialohq/ipman/archive/f389b46b23eb64a06ae01dad326c06201abd2dbd.tar.gz"
+  ],
+  "tag": [
+    "ipsec",
+    "ipsec-vpn",
+    "kubernetes",
+    "kubernetes-operator",
+    "strongswan",
+    "vpn"
+  ],
+  "version": "HEAD-f389b46-250624T154328",
+  "version_upstream": "",
+  "bsum": "84221b233c7bfa14269f3f20f366c0a2f2fc54a5bd88113b80bb4af333ac9873",
+  "build_date": "2025-06-25T03:00:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865807138",
+  "build_id": "15865807138",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/restctl?tag=HEAD-f389b46-250624T154328-loongarch64-Linux&download=restctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/restctl?tag=HEAD-f389b46-250624T154328-loongarch64-Linux&download=restctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dialohq/ipman/restctl:HEAD-f389b46-250624T154328-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dialohq/ipman/restctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dialohq/ipman/restctl?tag=HEAD-f389b46-250624T154328-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ea767fc4edbc55bf5c3268a6f016ef7615753113746391d92833b17af3cbfe7",
+  "size": "16 MB",
+  "size_raw": "16531872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-94599cd-250619T184726-loongarch64-Linux",
+    "HEAD-4c26013-250623T121935-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
