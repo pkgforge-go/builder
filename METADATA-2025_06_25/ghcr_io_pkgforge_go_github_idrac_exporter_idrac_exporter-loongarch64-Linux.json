@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "idrac_exporter",
+  "pkg_family": "idrac_exporter",
+  "pkg_id": "idrac_exporter#github.com_mrlhansen_idrac_exporter",
+  "pkg_name": "idrac_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mrlhansen/idrac_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple Redfish _iDRAC, iLO, XClarity_ exporter for Prometheus",
+  "homepage": [
+    "https://github.com/mrlhansen/idrac_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "idrac_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mrlhansen/idrac_exporter/archive/5fcf13c647f3adcd1573ee8befca39ecad139def.tar.gz"
+  ],
+  "tag": [
+    "bmc",
+    "idrac",
+    "ilo",
+    "prometheus",
+    "prometheus-exporter",
+    "redfish",
+    "xclarity"
+  ],
+  "version": "HEAD-5fcf13c-250625T132238",
+  "version_upstream": "",
+  "bsum": "c8181769782ede4f021ba1d37b82091b0c92d43604940e1aebfacc78bd437745",
+  "build_date": "2025-06-25T17:32:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882343965",
+  "build_id": "15882343965",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idrac/exporter/idrac_exporter?tag=HEAD-5fcf13c-250625T132238-loongarch64-Linux&download=idrac_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "205",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idrac/exporter/idrac_exporter?tag=HEAD-5fcf13c-250625T132238-loongarch64-Linux&download=idrac_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/idrac/exporter/idrac_exporter:HEAD-5fcf13c-250625T132238-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/idrac/exporter/idrac_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idrac/exporter/idrac_exporter?tag=HEAD-5fcf13c-250625T132238-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fbd05226643c959c30bbc814bf5096ceaf7b44f45d35efc2ac5612b6dd9c8562",
+  "size": "9.6 MB",
+  "size_raw": "10026976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
