@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "batch",
+  "pkg_family": "anubis",
+  "pkg_id": "batch#github.com_TecharoHQ_anubis",
+  "pkg_name": "batch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TecharoHQ/anubis",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
+  "homepage": [
+    "https://github.com/TecharoHQ/anubis"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anubis",
+    "batch",
+    "containerbuild",
+    "robots2policy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TecharoHQ/anubis/archive/1562f88c3566d1371cdf76bc9e8ed6686fb9f36b.tar.gz"
+  ],
+  "tag": [
+    "defense",
+    "security"
+  ],
+  "version": "HEAD-1562f88-250625T093133",
+  "version_upstream": "",
+  "bsum": "d6ebfa2c7259d02d78f0d49a8bafcd27c6f5a8e3ae71c379402e6941c1582f13",
+  "build_date": "2025-06-25T22:04:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887926062",
+  "build_id": "15887926062",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/techarohq/anubis/batch?tag=HEAD-1562f88-250625T093133-loongarch64-Linux&download=batch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8456",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/techarohq/anubis/batch?tag=HEAD-1562f88-250625T093133-loongarch64-Linux&download=batch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/techarohq/anubis/batch:HEAD-1562f88-250625T093133-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/techarohq/anubis/batch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/techarohq/anubis/batch?tag=HEAD-1562f88-250625T093133-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "95eb88594da3e2e20c4651ed24c066a46ebf879f375cd6373a56e9628d01e662",
+  "size": "2.0 MB",
+  "size_raw": "2018264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-226cf36-250618T165831-loongarch64-Linux",
+    "HEAD-060b10e-250622T200537-loongarch64-Linux",
+    "HEAD-8c79870-250623T084104-loongarch64-Linux",
+    "HEAD-1ca531b-250623T155908-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
