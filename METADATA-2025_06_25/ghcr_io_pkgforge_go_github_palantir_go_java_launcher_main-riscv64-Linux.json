@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "go-java-launcher",
+  "pkg_id": "main#github.com_palantir_go_java_launcher",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/palantir/go-java-launcher",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple Go program for launching Java programs from a fixed configuration. This program replaces Gradle-generated Bash launch scripts which are susceptible to attacks via injection of environment variables of the form JAVA_OPTS=___rm -rf /__.",
+  "homepage": [
+    "https://github.com/palantir/go-java-launcher"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "main"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/palantir/go-java-launcher/archive/f66cc680a1e51255e390406ae65e68921eb4020e.tar.gz"
+  ],
+  "tag": [
+    "octo-correct-managed"
+  ],
+  "version": "HEAD-f66cc68-250625T002032",
+  "version_upstream": "v1.188.0",
+  "bsum": "b87d563b38fec5e7afc5653ca7a0924383e1d9aff32d349843712cd4d7690719",
+  "build_date": "2025-06-25T09:22:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871102662",
+  "build_id": "15871102662",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/go-java-launcher/main?tag=HEAD-f66cc68-250625T002032-riscv64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "72",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/go-java-launcher/main?tag=HEAD-f66cc68-250625T002032-riscv64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/palantir/go-java-launcher/main:HEAD-f66cc68-250625T002032-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/palantir/go-java-launcher/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/go-java-launcher/main?tag=HEAD-f66cc68-250625T002032-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d1cf11c94a15d87d29e442c533f8751d6b7e0662ef0eac151d6970755d1d0c68",
+  "size": "2.6 MB",
+  "size_raw": "2722408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
