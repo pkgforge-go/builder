@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "anycable-go",
+  "pkg_family": "anycable",
+  "pkg_id": "anycable-go#github.com_anycable_anycable",
+  "pkg_name": "anycable-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anycable/anycable",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Realtime server for reliable two-way communication to power-up any backend",
+  "homepage": [
+    "https://github.com/anycable/anycable"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anycable-go",
+    "embedded-cable",
+    "gobench-cable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anycable/anycable/archive/fc2fb7d2432a767e29aa9effe40eb7b644e565ba.tar.gz"
+  ],
+  "tag": [
+    "realtime",
+    "sse",
+    "websockets"
+  ],
+  "version": "HEAD-fc2fb7d-250624T110043",
+  "version_upstream": "",
+  "bsum": "d536cfbe22ac3a2be9fa3b0c24ee0019c38cdc41c78823de66b3d6344dffac90",
+  "build_date": "2025-06-25T10:37:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873281682",
+  "build_id": "15873281682",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/anycable-go?tag=HEAD-fc2fb7d-250624T110043-x86_64-Linux&download=anycable-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/anycable-go?tag=HEAD-fc2fb7d-250624T110043-x86_64-Linux&download=anycable-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anycable/anycable/anycable-go:HEAD-fc2fb7d-250624T110043-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anycable/anycable/anycable-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anycable/anycable/anycable-go?tag=HEAD-fc2fb7d-250624T110043-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31cb1b0cc875ce834ab37d9f8ad70086c3951f3bd84e8e2111a83843d96a43e0",
+  "size": "36 MB",
+  "size_raw": "37289808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ca26c67-250618T114148-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
