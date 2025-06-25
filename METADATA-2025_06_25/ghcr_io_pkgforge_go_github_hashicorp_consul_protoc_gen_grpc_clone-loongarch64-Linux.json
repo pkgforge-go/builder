@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-grpc-clone",
+  "pkg_family": "consul",
+  "pkg_id": "protoc-gen-grpc-clone#github.com_hashicorp_consul",
+  "pkg_name": "protoc-gen-grpc-clone",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/consul",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/consul"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen",
+    "internal-grpc-proxy",
+    "protoc-gen-deepcopy",
+    "protoc-gen-grpc-clone",
+    "protoc-gen-json-shim",
+    "protoc-gen-resource-types",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/consul/archive/af2be68b7406ce8b9d7771cc439f2f657c7112a1.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "version": "HEAD-af2be68-250625T170225",
+  "version_upstream": "",
+  "bsum": "7f8109bb8dda500fe588caf0f8db17e2e24725ce4a3f75ad1e9f88dcb40cb8ba",
+  "build_date": "2025-06-25T23:02:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887980047",
+  "build_id": "15887980047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-grpc-clone?tag=HEAD-af2be68-250625T170225-loongarch64-Linux&download=protoc-gen-grpc-clone.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29066",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-grpc-clone?tag=HEAD-af2be68-250625T170225-loongarch64-Linux&download=protoc-gen-grpc-clone",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-grpc-clone:HEAD-af2be68-250625T170225-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-grpc-clone",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-grpc-clone?tag=HEAD-af2be68-250625T170225-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "73eb9fc4c122069eb9baa22e7cc7ee221706530eb5348bd34ffc5775a8c4f7e6",
+  "size": "7.3 MB",
+  "size_raw": "7579352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-766ab74-250617T143807-loongarch64-Linux",
+    "HEAD-60c29c3-250620T091657-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
