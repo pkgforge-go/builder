@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "publisher",
+  "pkg_family": "admin",
+  "pkg_id": "publisher#github.com_qor5_admin",
+  "pkg_name": "publisher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qor5/admin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Admin console",
+  "homepage": [
+    "https://github.com/qor5/admin"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin-example",
+    "admin-template",
+    "bare-template",
+    "build",
+    "data-resetor",
+    "example",
+    "examplemain",
+    "presets-example-main",
+    "publisher",
+    "qor5",
+    "server",
+    "website-template"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/qor5/admin/archive/70cd6b1ff1b46b893aa08af6e88f82f18014e86f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-70cd6b1-250625T175704",
+  "version_upstream": "",
+  "bsum": "682e9bbed1fd156c5eafb784a365e4ae96a89bc08e11e040a90bfd0d0881a3fd",
+  "build_date": "2025-06-25T18:00:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882491289",
+  "build_id": "15882491289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qor5/admin/publisher?tag=HEAD-70cd6b1-250625T175704-riscv64-Linux&download=publisher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qor5/admin/publisher?tag=HEAD-70cd6b1-250625T175704-riscv64-Linux&download=publisher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qor5/admin/publisher:HEAD-70cd6b1-250625T175704-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qor5/admin/publisher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qor5/admin/publisher?tag=HEAD-70cd6b1-250625T175704-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "992b17f55c520e200e951bbbc1fdd3438fcc92b381ed4e70b1bf1a66492e8ca6",
+  "size": "55 MB",
+  "size_raw": "56885912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
