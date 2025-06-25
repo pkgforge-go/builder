@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cbgt-ctl",
+  "pkg_family": "cbgt",
+  "pkg_id": "cbgt-ctl#github.com_couchbase_cbgt",
+  "pkg_name": "cbgt-ctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/couchbase/cbgt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The cbgt project provides a generic golang library that manages partitions or data shards across a cluster of servers.",
+  "homepage": [
+    "https://github.com/couchbase/cbgt"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cbgt-ctl",
+    "metakv-mock"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/couchbase/cbgt/archive/e13169a48c3a87d2eceea1d926a1aedbfb67afa9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e13169a-250625T140012",
+  "version_upstream": "",
+  "bsum": "2f1323433809c375bd9b81c75101c86a66890012cdcbf6ce102b2c17c7766c2b",
+  "build_date": "2025-06-25T16:35:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881211687",
+  "build_id": "15881211687",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/cbgt/cbgt-ctl?tag=HEAD-e13169a-250625T140012-riscv64-Linux&download=cbgt-ctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/cbgt/cbgt-ctl?tag=HEAD-e13169a-250625T140012-riscv64-Linux&download=cbgt-ctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/couchbase/cbgt/cbgt-ctl:HEAD-e13169a-250625T140012-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/couchbase/cbgt/cbgt-ctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/couchbase/cbgt/cbgt-ctl?tag=HEAD-e13169a-250625T140012-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb98bb0ebb0acb98cf91f85c07b9dbb15f9a9e14abb0192755561eb29f04b2ce",
+  "size": "15 MB",
+  "size_raw": "15514232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
