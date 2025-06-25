@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "merge-with-label",
+  "pkg_id": "server#github.com_Eun_merge_with_label",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Eun/merge-with-label",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A github bot for merging _ updating pull requests with a label.",
+  "homepage": [
+    "https://github.com/Eun/merge-with-label"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "server",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Eun/merge-with-label/archive/07827f3f47fd47a1c07b795cff27f75aa9127a70.tar.gz"
+  ],
+  "tag": [
+    "bot",
+    "github",
+    "go",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-07827f3-250625T141829",
+  "version_upstream": "",
+  "bsum": "9c0501b2c51088ee7719a11aab278d09676ff218bd2e4e84d4be7c969c66623c",
+  "build_date": "2025-06-25T15:57:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881092876",
+  "build_id": "15881092876",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eun/merge-with-label/server?tag=HEAD-07827f3-250625T141829-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eun/merge-with-label/server?tag=HEAD-07827f3-250625T141829-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eun/merge-with-label/server:HEAD-07827f3-250625T141829-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eun/merge-with-label/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eun/merge-with-label/server?tag=HEAD-07827f3-250625T141829-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "194faf48b2d6ff6aba0f9e43fa69ec495f99786c566bd0ca04a31e447c4558a8",
+  "size": "6.9 MB",
+  "size_raw": "7204864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
