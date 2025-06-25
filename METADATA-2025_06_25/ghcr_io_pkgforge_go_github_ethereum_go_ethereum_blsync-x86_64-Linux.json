@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "blsync",
+  "pkg_family": "go-ethereum",
+  "pkg_id": "blsync#github.com_ethereum_go_ethereum",
+  "pkg_name": "blsync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/go-ethereum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of the Ethereum protocol",
+  "homepage": [
+    "https://github.com/ethereum/go-ethereum"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "blsync",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "geth",
+    "rlpdump",
+    "rlpgen",
+    "workload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum/go-ethereum/archive/a92f2b86e33e49ec23e67fa0e17eaabf99cc9645.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "ethereum",
+    "geth",
+    "go",
+    "p2p"
+  ],
+  "version": "HEAD-a92f2b8-250625T165054",
+  "version_upstream": "",
+  "bsum": "d66caefa4d6ea43375dc6c8b3821b5a90bd7ce364ab5cd3d99cf96d4074cea9b",
+  "build_date": "2025-06-25T16:20:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881098176",
+  "build_id": "15881098176",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/blsync?tag=HEAD-a92f2b8-250625T165054-x86_64-Linux&download=blsync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49197",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/blsync?tag=HEAD-a92f2b8-250625T165054-x86_64-Linux&download=blsync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/go-ethereum/blsync:HEAD-a92f2b8-250625T165054-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/go-ethereum/blsync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/blsync?tag=HEAD-a92f2b8-250625T165054-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4ecee465372e03ff323db2577445367408cfa26cd1517bd53a5458e82a319a06",
+  "size": "28 MB",
+  "size_raw": "28791272",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-09289fd-250619T161954-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
