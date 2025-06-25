@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "instance-manager",
+  "pkg_family": "instance-manager",
+  "pkg_id": "instance-manager#github.com_keikoproj_instance_manager",
+  "pkg_name": "instance-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/keikoproj/instance-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes controller for creating and managing worker node instance groups across multiple providers",
+  "homepage": [
+    "https://github.com/keikoproj/instance-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "instance-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/keikoproj/instance-manager/archive/37a9535df4ea68472b77118a89d04e5f4f30ad2e.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "aws-eks",
+    "eks",
+    "eks-fargate",
+    "fargate-profiles",
+    "instancegroups",
+    "kubernetes",
+    "kubernetes-cluster",
+    "kubernetes-clusters",
+    "kubernetes-controller",
+    "kubernetes-node",
+    "kubernetes-tools",
+    "managed-node",
+    "spot",
+    "worker-nodes"
+  ],
+  "version": "HEAD-37a9535-250624T112329",
+  "version_upstream": "v0.20.1",
+  "bsum": "b5bc404d0f8f2b7529bb5ef45c0ca0bf139532ee9be4a1726e1805f2cb55509f",
+  "build_date": "2025-06-25T08:25:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870050287",
+  "build_id": "15870050287",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keikoproj/instance-manager/instance-manager?tag=HEAD-37a9535-250624T112329-x86_64-Linux&download=instance-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keikoproj/instance-manager/instance-manager?tag=HEAD-37a9535-250624T112329-x86_64-Linux&download=instance-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/keikoproj/instance-manager/instance-manager:HEAD-37a9535-250624T112329-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/keikoproj/instance-manager/instance-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/keikoproj/instance-manager/instance-manager?tag=HEAD-37a9535-250624T112329-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "759f4715b0aa35390518b5d84518fa66b736379e818c058be40c64cfe0e2270c",
+  "size": "77 MB",
+  "size_raw": "80062912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
