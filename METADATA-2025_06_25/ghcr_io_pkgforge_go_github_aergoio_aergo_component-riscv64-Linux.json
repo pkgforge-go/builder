@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "component",
+  "pkg_family": "aergo",
+  "pkg_id": "component#github.com_aergoio_aergo",
+  "pkg_name": "component",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aergoio/aergo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "aergo blockchain kernel",
+  "homepage": [
+    "https://github.com/aergoio/aergo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "colaris",
+    "component",
+    "genesisdump",
+    "hardfork_gen",
+    "mpdumpdiag",
+    "polaris"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aergoio/aergo/archive/13ece25eeec82b7c874f70685c1af82e41587f9a.tar.gz"
+  ],
+  "tag": [
+    "aergo",
+    "blockchain",
+    "go"
+  ],
+  "version": "HEAD-13ece25-250625T093835",
+  "version_upstream": "",
+  "bsum": "5928e4dca7a3262807efa5a2c1acbb67582ab9e6555706c363dafe3c927a4a45",
+  "build_date": "2025-06-25T07:23:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869560615",
+  "build_id": "15869560615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/component?tag=HEAD-13ece25-250625T093835-riscv64-Linux&download=component.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/component?tag=HEAD-13ece25-250625T093835-riscv64-Linux&download=component",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aergoio/aergo/component:HEAD-13ece25-250625T093835-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aergoio/aergo/component",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/component?tag=HEAD-13ece25-250625T093835-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "029c4eacc52a479098f9c0f02b5a282c7ffde16920afaeb9c6b3649100bb3cd0",
+  "size": "6.2 MB",
+  "size_raw": "6468984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

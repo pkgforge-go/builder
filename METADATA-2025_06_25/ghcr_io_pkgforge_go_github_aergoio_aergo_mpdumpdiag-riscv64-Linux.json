@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mpdumpdiag",
+  "pkg_family": "aergo",
+  "pkg_id": "mpdumpdiag#github.com_aergoio_aergo",
+  "pkg_name": "mpdumpdiag",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aergoio/aergo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "aergo blockchain kernel",
+  "homepage": [
+    "https://github.com/aergoio/aergo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "colaris",
+    "component",
+    "genesisdump",
+    "hardfork_gen",
+    "mpdumpdiag",
+    "polaris"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aergoio/aergo/archive/13ece25eeec82b7c874f70685c1af82e41587f9a.tar.gz"
+  ],
+  "tag": [
+    "aergo",
+    "blockchain",
+    "go"
+  ],
+  "version": "HEAD-13ece25-250625T093835",
+  "version_upstream": "",
+  "bsum": "0e9601ad28760e96119ddd8e9782ed438780c5a9571108459ac857f3614ac81a",
+  "build_date": "2025-06-25T07:24:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869560615",
+  "build_id": "15869560615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/mpdumpdiag?tag=HEAD-13ece25-250625T093835-riscv64-Linux&download=mpdumpdiag.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/mpdumpdiag?tag=HEAD-13ece25-250625T093835-riscv64-Linux&download=mpdumpdiag",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aergoio/aergo/mpdumpdiag:HEAD-13ece25-250625T093835-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aergoio/aergo/mpdumpdiag",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/mpdumpdiag?tag=HEAD-13ece25-250625T093835-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c0397abe171cc32fcc0a337a567ff2d7befb0b71ad6b750b5d3a78ba6b07aa7",
+  "size": "20 MB",
+  "size_raw": "20200408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hardfork_gen",
+  "pkg_family": "aergo",
+  "pkg_id": "hardfork_gen#github.com_aergoio_aergo",
+  "pkg_name": "hardfork_gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aergoio/aergo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "aergo blockchain kernel",
+  "homepage": [
+    "https://github.com/aergoio/aergo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "colaris",
+    "component",
+    "genesisdump",
+    "hardfork_gen",
+    "mpdumpdiag",
+    "polaris"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aergoio/aergo/archive/13ece25eeec82b7c874f70685c1af82e41587f9a.tar.gz"
+  ],
+  "tag": [
+    "aergo",
+    "blockchain",
+    "go"
+  ],
+  "version": "HEAD-13ece25-250625T093835",
+  "version_upstream": "",
+  "bsum": "c403326910ceb4e22cda2b90de5f651c4626daaa1ba5e26a4f2d05881f6b6f31",
+  "build_date": "2025-06-25T07:23:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869560615",
+  "build_id": "15869560615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/hardfork_gen?tag=HEAD-13ece25-250625T093835-riscv64-Linux&download=hardfork_gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/hardfork_gen?tag=HEAD-13ece25-250625T093835-riscv64-Linux&download=hardfork_gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aergoio/aergo/hardfork_gen:HEAD-13ece25-250625T093835-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aergoio/aergo/hardfork_gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/hardfork_gen?tag=HEAD-13ece25-250625T093835-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d517e71d26b15dd235b9ebc08828b34fac6b895263e6b090eb53abbb9fa09af",
+  "size": "15 MB",
+  "size_raw": "15545368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
