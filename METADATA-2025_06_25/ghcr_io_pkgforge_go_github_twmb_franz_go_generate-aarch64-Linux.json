@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "franz-go",
+  "pkg_id": "generate#github.com_twmb_franz_go",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/twmb/franz-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 4.0+. Producing, consuming, transacting, administrating, etc.",
+  "homepage": [
+    "https://github.com/twmb/franz-go"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "requesting"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/twmb/franz-go/archive/5216ac6dcf59208a0a16bae8dfdcebcb0c6e8aab.tar.gz"
+  ],
+  "tag": [
+    "client",
+    "go",
+    "golang",
+    "kafka",
+    "kafka-client",
+    "redpanda"
+  ],
+  "version": "HEAD-5216ac6-250624T145640",
+  "version_upstream": "",
+  "bsum": "ffc0cb4cb4d8491fc7343d8dc2442a188ef03209c3cc226260bb87e5e3e6c2d9",
+  "build_date": "2025-06-25T10:08:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872475284",
+  "build_id": "15872475284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twmb/franz-go/generate?tag=HEAD-5216ac6-250624T145640-aarch64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2269",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twmb/franz-go/generate?tag=HEAD-5216ac6-250624T145640-aarch64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/twmb/franz-go/generate:HEAD-5216ac6-250624T145640-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/twmb/franz-go/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/twmb/franz-go/generate?tag=HEAD-5216ac6-250624T145640-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c9fc8dcc6221ad55737a93bd931945ff403f4e351b0a385a45abf55840c199d0",
+  "size": "2.3 MB",
+  "size_raw": "2343960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
