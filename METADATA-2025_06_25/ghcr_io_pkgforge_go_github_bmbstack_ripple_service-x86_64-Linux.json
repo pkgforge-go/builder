@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "service",
+  "pkg_family": "ripple",
+  "pkg_id": "service#github.com_bmbstack_ripple",
+  "pkg_name": "service",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bmbstack/ripple",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A web framework of Golang",
+  "homepage": [
+    "https://github.com/bmbstack/ripple"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config",
+    "config-acm",
+    "config-endpoint",
+    "config-mse-kmsv3",
+    "protoc-gen-gofast",
+    "protoc-gen-gogofast",
+    "protoc-gen-gogofaster",
+    "protoc-gen-gogoslick",
+    "ripple",
+    "service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bmbstack/ripple/archive/46241a3fcbf07f34a326b05d05266103561fc433.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-46241a3-250625T105906",
+  "version_upstream": "",
+  "bsum": "de6fc04bed95b0e0d0ab324145222644fa064d1731501ce77a0180c9ef834168",
+  "build_date": "2025-06-25T07:38:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869574082",
+  "build_id": "15869574082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bmbstack/ripple/service?tag=HEAD-46241a3-250625T105906-x86_64-Linux&download=service.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bmbstack/ripple/service?tag=HEAD-46241a3-250625T105906-x86_64-Linux&download=service",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bmbstack/ripple/service:HEAD-46241a3-250625T105906-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bmbstack/ripple/service",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bmbstack/ripple/service?tag=HEAD-46241a3-250625T105906-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3900d538f4d300896eaceb0c274c24e7d2a50cca060a536bdd3e3844de5c2b3a",
+  "size": "15 MB",
+  "size_raw": "15675104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
