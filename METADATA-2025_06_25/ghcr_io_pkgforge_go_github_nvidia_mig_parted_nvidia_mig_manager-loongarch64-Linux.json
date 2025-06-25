@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nvidia-mig-manager",
+  "pkg_family": "mig-parted",
+  "pkg_id": "nvidia-mig-manager#github.com_NVIDIA_mig_parted",
+  "pkg_name": "nvidia-mig-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/mig-parted",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MIG Partition Editor for NVIDIA GPUs",
+  "homepage": [
+    "https://github.com/NVIDIA/mig-parted"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nvidia-mig-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/mig-parted/archive/e77f3dc6c69439c225ff84733e1a448769807693.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e77f3dc-250624T213731",
+  "version_upstream": "",
+  "bsum": "298b0af08d4841c116dcc4962acc32817000b505bf61bef660a0a3b5a6e66048",
+  "build_date": "2025-06-25T07:12:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869555115",
+  "build_id": "15869555115",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/mig-parted/nvidia-mig-manager?tag=HEAD-e77f3dc-250624T213731-loongarch64-Linux&download=nvidia-mig-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "201",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/mig-parted/nvidia-mig-manager?tag=HEAD-e77f3dc-250624T213731-loongarch64-Linux&download=nvidia-mig-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/mig-parted/nvidia-mig-manager:HEAD-e77f3dc-250624T213731-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/mig-parted/nvidia-mig-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/mig-parted/nvidia-mig-manager?tag=HEAD-e77f3dc-250624T213731-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da8b3110efe0cdf9be4203fa5a7b06a7cc6f78a0a272f21a9b39bb6ad2635fa4",
+  "size": "37 MB",
+  "size_raw": "38794320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
