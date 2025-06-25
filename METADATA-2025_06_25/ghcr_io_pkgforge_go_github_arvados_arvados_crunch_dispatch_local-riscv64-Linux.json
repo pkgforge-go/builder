@@ -38,7 +38,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/arvados/arvados/archive/18f80f734c3d901749e786202e45e100aa25dca0.tar.gz"
+    "https://github.com/arvados/arvados/archive/7fd091c7d58a6a56c2db29d25cde41c76f614668.tar.gz"
   ],
   "tag": [
     "arvados",
@@ -58,30 +58,31 @@
     "workflow",
     "workflow-engine"
   ],
-  "version": "HEAD-18f80f7-250624T151527",
+  "version": "HEAD-7fd091c-250625T095732",
   "version_upstream": "",
-  "bsum": "4aa4646273c1825201573e0bb58b12078577c11b378bb9b71c3381f5b1f75edf",
-  "build_date": "2025-06-25T10:45:38Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873290569",
-  "build_id": "15873290569",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-18f80f7-250624T151527-riscv64-Linux&download=crunch-dispatch-local.log",
+  "bsum": "c9d436254020182ff52dc87c8d2aaee647f91a27bb6751e5134cd96e59e499e9",
+  "build_date": "2025-06-25T22:29:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887928974",
+  "build_id": "15887928974",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-7fd091c-250625T095732-riscv64-Linux&download=crunch-dispatch-local.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "404",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-18f80f7-250624T151527-riscv64-Linux&download=crunch-dispatch-local",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-7fd091c-250625T095732-riscv64-Linux&download=crunch-dispatch-local",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/crunch-dispatch-local:HEAD-18f80f7-250624T151527-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/crunch-dispatch-local:HEAD-7fd091c-250625T095732-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/crunch-dispatch-local",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-18f80f7-250624T151527-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-7fd091c-250625T095732-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "28dfe028d1af5f6e0f99e5b37fca6dde59e0feaeebb2db1e08d8afd29711aaa7",
+  "shasum": "107fccf5e3a8fc8d5cfa4249bf6f74af809ea0aa0b38b4e163465493f717771f",
   "size": "14 MB",
-  "size_raw": "14062264",
+  "size_raw": "14064728",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-1ad54b4-250618T124354-riscv64-Linux"
+    "HEAD-1ad54b4-250618T124354-riscv64-Linux",
+    "HEAD-18f80f7-250624T151527-riscv64-Linux"
   ],
   "trusted": "true"
 }
