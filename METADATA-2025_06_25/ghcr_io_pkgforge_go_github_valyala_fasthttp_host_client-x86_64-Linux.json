@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "host_client",
+  "pkg_family": "fasthttp",
+  "pkg_id": "host_client#github.com_valyala_fasthttp",
+  "pkg_name": "host_client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/valyala/fasthttp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+  "homepage": [
+    "https://github.com/valyala/fasthttp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "fileserver",
+    "helloworldserver",
+    "host_client",
+    "letsencrypt",
+    "multidomain"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/valyala/fasthttp/archive/8b512b7dae68ffb700b3240bcb81bed5f5c9e6e8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8b512b7-250624T140238",
+  "version_upstream": "",
+  "bsum": "17c937b07fdf556829b0a83665966e1540973f92eb033d159ef1b1bc8eeea4cb",
+  "build_date": "2025-06-25T00:24:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15862664132",
+  "build_id": "15862664132",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/fasthttp/host_client?tag=HEAD-8b512b7-250624T140238-x86_64-Linux&download=host_client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22665",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/fasthttp/host_client?tag=HEAD-8b512b7-250624T140238-x86_64-Linux&download=host_client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/valyala/fasthttp/host_client:HEAD-8b512b7-250624T140238-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/valyala/fasthttp/host_client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/valyala/fasthttp/host_client?tag=HEAD-8b512b7-250624T140238-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3748074cf68bfcf4d1aaf56c3791a20b8fd27ab1eff4ae98c22d86b38e9967c",
+  "size": "5.6 MB",
+  "size_raw": "5812688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d356cac-250619T085925-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
