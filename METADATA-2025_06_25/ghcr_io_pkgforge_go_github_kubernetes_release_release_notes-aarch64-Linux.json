@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "release-notes",
+  "pkg_family": "release",
+  "pkg_id": "release-notes#github.com_kubernetes_release",
+  "pkg_name": "release-notes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/release",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Release infrastructure for Kubernetes and related components",
+  "homepage": [
+    "https://github.com/kubernetes/release"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci-reporter",
+    "gcbuilder",
+    "krel",
+    "publish-release",
+    "release-notes",
+    "schedule-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/release/archive/833779b7f908a2194d68bf8b65b0616f7d008c3f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "release-infrastructure"
+  ],
+  "version": "HEAD-833779b-250625T013431",
+  "version_upstream": "",
+  "bsum": "f4940b05ec44da3f6e29209cdaeab09ba287808b2241910f54f625e0ddf47a85",
+  "build_date": "2025-06-25T23:38:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888037401",
+  "build_id": "15888037401",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/release-notes?tag=HEAD-833779b-250625T013431-aarch64-Linux&download=release-notes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/release-notes?tag=HEAD-833779b-250625T013431-aarch64-Linux&download=release-notes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/release/release-notes:HEAD-833779b-250625T013431-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/release/release-notes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/release-notes?tag=HEAD-833779b-250625T013431-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca83e87d107af935e1ee67dc8fc3ba18d85a30f0a04b344a114130a1325b459e",
+  "size": "106 MB",
+  "size_raw": "110394592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6990ddb-250622T180052-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

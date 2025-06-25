@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "krel",
+  "pkg_family": "release",
+  "pkg_id": "krel#github.com_kubernetes_release",
+  "pkg_name": "krel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/release",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Release infrastructure for Kubernetes and related components",
+  "homepage": [
+    "https://github.com/kubernetes/release"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ci-reporter",
+    "gcbuilder",
+    "krel",
+    "publish-release",
+    "release-notes",
+    "schedule-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/release/archive/833779b7f908a2194d68bf8b65b0616f7d008c3f.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "release-infrastructure"
+  ],
+  "version": "HEAD-833779b-250625T013431",
+  "version_upstream": "",
+  "bsum": "131db10fb546e919109f19cc1dd9a6d40d26273bf7fab6a60d03e8495eae256e",
+  "build_date": "2025-06-25T23:38:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888037401",
+  "build_id": "15888037401",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/krel?tag=HEAD-833779b-250625T013431-aarch64-Linux&download=krel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "488",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/krel?tag=HEAD-833779b-250625T013431-aarch64-Linux&download=krel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/release/krel:HEAD-833779b-250625T013431-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/release/krel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/release/krel?tag=HEAD-833779b-250625T013431-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69b97c7dcc8795782d13a2abe3cf121955f77bb70d95699dc933d13f53881e0f",
+  "size": "118 MB",
+  "size_raw": "122907008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6990ddb-250622T180052-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
