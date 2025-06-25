@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "authtoken",
+  "pkg_family": "kubefleet",
+  "pkg_id": "authtoken#github.com_kubefleet_dev_kubefleet",
+  "pkg_name": "authtoken",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubefleet-dev/kubefleet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeFleet is an open-source Kubernetes multi-cluster application management solution.",
+  "homepage": [
+    "https://github.com/kubefleet-dev/kubefleet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authtoken",
+    "draincluster",
+    "hubagent",
+    "loadtest",
+    "memberagent",
+    "uncordoncluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubefleet-dev/kubefleet/archive/23615ea64fe26edb766437f80f5a167a89463a35.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-23615ea-250624T124548",
+  "version_upstream": "",
+  "bsum": "bcde142d8c637f72c5124014515e4439dda894648118e8bcf70f706f4124eec7",
+  "build_date": "2025-06-25T08:33:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870339361",
+  "build_id": "15870339361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/authtoken?tag=HEAD-23615ea-250624T124548-riscv64-Linux&download=authtoken.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "73",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/authtoken?tag=HEAD-23615ea-250624T124548-riscv64-Linux&download=authtoken",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/authtoken:HEAD-23615ea-250624T124548-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/authtoken",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/authtoken?tag=HEAD-23615ea-250624T124548-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "228959948ef87d55d6c83b5f5813275ec7b43cc3544c04d155a24d70cfdb0f99",
+  "size": "38 MB",
+  "size_raw": "39250200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "draincluster",
+  "pkg_family": "kubefleet",
+  "pkg_id": "draincluster#github.com_kubefleet_dev_kubefleet",
+  "pkg_name": "draincluster",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubefleet-dev/kubefleet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeFleet is an open-source Kubernetes multi-cluster application management solution.",
+  "homepage": [
+    "https://github.com/kubefleet-dev/kubefleet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authtoken",
+    "draincluster",
+    "hubagent",
+    "loadtest",
+    "memberagent",
+    "uncordoncluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubefleet-dev/kubefleet/archive/23615ea64fe26edb766437f80f5a167a89463a35.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-23615ea-250624T124548",
+  "version_upstream": "",
+  "bsum": "4aafd7bff602f82aa64b2569ffba2676626ae5b92e7779bcedc0b0f7fadcfa5a",
+  "build_date": "2025-06-25T08:33:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870339361",
+  "build_id": "15870339361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/draincluster?tag=HEAD-23615ea-250624T124548-riscv64-Linux&download=draincluster.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "73",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/draincluster?tag=HEAD-23615ea-250624T124548-riscv64-Linux&download=draincluster",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/draincluster:HEAD-23615ea-250624T124548-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/draincluster",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/draincluster?tag=HEAD-23615ea-250624T124548-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fcb6b1649505f97d253b03d8113a6468273565d8f2bdf205f53f0d7ba63443b5",
+  "size": "35 MB",
+  "size_raw": "36335864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
