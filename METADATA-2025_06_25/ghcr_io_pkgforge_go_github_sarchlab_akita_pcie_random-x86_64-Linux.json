@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pcie_random",
+  "pkg_family": "akita",
+  "pkg_id": "pcie_random#github.com_sarchlab_akita",
+  "pkg_name": "pcie_random",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sarchlab/akita",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A flexible, high-performance, user-friendly computer architecture simulator engine",
+  "homepage": [
+    "https://github.com/sarchlab/akita"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01_print_event",
+    "02_cell_split",
+    "akita",
+    "daisen",
+    "dgx_single_p2p",
+    "dgx_single_p2p_all",
+    "dgx_single_random",
+    "dram",
+    "idealmemcontroller",
+    "mesh",
+    "one_switch",
+    "one_to_one",
+    "pcie_p2p",
+    "pcie_random",
+    "three_agent_one_switch",
+    "writearoundcache",
+    "writebackcache",
+    "writeevictcache",
+    "writethroughcache"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sarchlab/akita/archive/7dd7f6ca2cd310c6768391a3e8d59e82e36becc8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7dd7f6c-250612T180712",
+  "version_upstream": "",
+  "bsum": "18acc002ecd54f58cab5430c77c5ec64df0aa3ff92c55bff13fa8e8999f39687",
+  "build_date": "2025-06-25T09:57:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872235983",
+  "build_id": "15872235983",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/pcie_random?tag=HEAD-7dd7f6c-250612T180712-x86_64-Linux&download=pcie_random.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/pcie_random?tag=HEAD-7dd7f6c-250612T180712-x86_64-Linux&download=pcie_random",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sarchlab/akita/pcie_random:HEAD-7dd7f6c-250612T180712-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sarchlab/akita/pcie_random",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/pcie_random?tag=HEAD-7dd7f6c-250612T180712-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e697c6189fd396a8066733e8ad8757c88e4ac02c9aa1f32a20690648a2110fb",
+  "size": "11 MB",
+  "size_raw": "11128592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "01_print_event",
+  "pkg_family": "akita",
+  "pkg_id": "01_print_event#github.com_sarchlab_akita",
+  "pkg_name": "01_print_event",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sarchlab/akita",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A flexible, high-performance, user-friendly computer architecture simulator engine",
+  "homepage": [
+    "https://github.com/sarchlab/akita"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01_print_event",
+    "02_cell_split",
+    "akita",
+    "daisen",
+    "dgx_single_p2p",
+    "dgx_single_p2p_all",
+    "dgx_single_random",
+    "dram",
+    "idealmemcontroller",
+    "mesh",
+    "one_switch",
+    "one_to_one",
+    "pcie_p2p",
+    "pcie_random",
+    "three_agent_one_switch",
+    "writearoundcache",
+    "writebackcache",
+    "writeevictcache",
+    "writethroughcache"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sarchlab/akita/archive/7dd7f6ca2cd310c6768391a3e8d59e82e36becc8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7dd7f6c-250612T180712",
+  "version_upstream": "",
+  "bsum": "009fefcd4a30fd8274264ee79f03b7d77a9be4b1279db8d13719cc2516d2aac7",
+  "build_date": "2025-06-25T09:58:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872235983",
+  "build_id": "15872235983",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/01_print_event?tag=HEAD-7dd7f6c-250612T180712-x86_64-Linux&download=01_print_event.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/01_print_event?tag=HEAD-7dd7f6c-250612T180712-x86_64-Linux&download=01_print_event",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sarchlab/akita/01_print_event:HEAD-7dd7f6c-250612T180712-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sarchlab/akita/01_print_event",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sarchlab/akita/01_print_event?tag=HEAD-7dd7f6c-250612T180712-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef56dfe4bdf154e5ee9121c5d3f025d888b29672a262bb3e6d2b6137a45d9f6e",
+  "size": "11 MB",
+  "size_raw": "11079760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
