@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "perfmanager",
+  "pkg_family": "govmomi",
+  "pkg_id": "perfmanager#github.com_vmware_govmomi.git",
+  "pkg_name": "perfmanager",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250625T151614",
+  "version_upstream": "",
+  "bsum": "bb952315bd1de2b30889c283e0722f01419eb79390126e111f71b45f43c60973",
+  "build_date": "2025-06-25T15:22:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15878097640",
+  "build_id": "15878097640",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi.git/perfmanager?tag=20250625T151614-riscv64-Linux&download=perfmanager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi.git/perfmanager?tag=20250625T151614-riscv64-Linux&download=perfmanager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi.git/perfmanager:20250625T151614-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi.git/perfmanager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi.git/perfmanager?tag=20250625T151614-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "43e7fbe17cc3587dfe9c2246726f71e301346e4a574c8dd5a8230f7a8012c61b",
+  "size": "27 MB",
+  "size_raw": "27619544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
