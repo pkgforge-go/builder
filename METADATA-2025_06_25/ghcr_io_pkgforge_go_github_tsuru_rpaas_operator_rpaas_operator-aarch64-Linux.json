@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rpaas-operator",
+  "pkg_family": "rpaas-operator",
+  "pkg_id": "rpaas-operator#github.com_tsuru_rpaas_operator",
+  "pkg_name": "rpaas-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tsuru/rpaas-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RPaaS operator manages reverse proxy as service instances inside a Kubernetes cluster",
+  "homepage": [
+    "https://github.com/tsuru/rpaas-operator"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rpaas-operator",
+    "rpaasv2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tsuru/rpaas-operator/archive/1faa52eb6f60b0ca330df71be7a966ed1efe50ec.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "tsuru-plugin"
+  ],
+  "version": "HEAD-1faa52e-250625T100648",
+  "version_upstream": "v0.49.3",
+  "bsum": "d2b76c5446549d04703ebf2314b93abea7217aef564a126f48a9a93b76cf532f",
+  "build_date": "2025-06-25T18:49:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883317089",
+  "build_id": "15883317089",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/rpaas-operator/rpaas-operator?tag=HEAD-1faa52e-250625T100648-aarch64-Linux&download=rpaas-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/rpaas-operator/rpaas-operator?tag=HEAD-1faa52e-250625T100648-aarch64-Linux&download=rpaas-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tsuru/rpaas-operator/rpaas-operator:HEAD-1faa52e-250625T100648-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tsuru/rpaas-operator/rpaas-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsuru/rpaas-operator/rpaas-operator?tag=HEAD-1faa52e-250625T100648-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c97632dac4e80744ce3b62b38a0fb3fd9eb57f1b485f91f795ca2e03e006b4f",
+  "size": "41 MB",
+  "size_raw": "42356864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
