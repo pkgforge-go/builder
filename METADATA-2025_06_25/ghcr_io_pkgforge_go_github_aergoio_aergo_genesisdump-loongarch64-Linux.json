@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "genesisdump",
+  "pkg_family": "aergo",
+  "pkg_id": "genesisdump#github.com_aergoio_aergo",
+  "pkg_name": "genesisdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aergoio/aergo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "aergo blockchain kernel",
+  "homepage": [
+    "https://github.com/aergoio/aergo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "colaris",
+    "component",
+    "genesisdump",
+    "hardfork_gen",
+    "mpdumpdiag",
+    "polaris"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aergoio/aergo/archive/13ece25eeec82b7c874f70685c1af82e41587f9a.tar.gz"
+  ],
+  "tag": [
+    "aergo",
+    "blockchain",
+    "go"
+  ],
+  "version": "HEAD-13ece25-250625T093835",
+  "version_upstream": "",
+  "bsum": "21131ef6a7f575f2d2348fd4dcce5305f56b918b5d9609a0910640a2924cb201",
+  "build_date": "2025-06-25T07:24:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869560615",
+  "build_id": "15869560615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/genesisdump?tag=HEAD-13ece25-250625T093835-loongarch64-Linux&download=genesisdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "217",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/genesisdump?tag=HEAD-13ece25-250625T093835-loongarch64-Linux&download=genesisdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aergoio/aergo/genesisdump:HEAD-13ece25-250625T093835-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aergoio/aergo/genesisdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aergoio/aergo/genesisdump?tag=HEAD-13ece25-250625T093835-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8abe91b59dba0ce00326655331074b381921fe8951657ff30496825c4d159403",
+  "size": "16 MB",
+  "size_raw": "15805856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
