@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "build",
+  "pkg_family": "texd",
+  "pkg_id": "build#github.com_digineo_texd",
+  "pkg_name": "build",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/digineo/texd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "texd wraps TeX in a web API",
+  "homepage": [
+    "https://github.com/digineo/texd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "texd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/digineo/texd/archive/53226c4ac03aa213fc4a8c6033625aee39066fd4.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "go",
+    "latex",
+    "microservice",
+    "pdf-generation",
+    "tex",
+    "texd",
+    "text-processing"
+  ],
+  "version": "HEAD-53226c4-250625T100623",
+  "version_upstream": "",
+  "bsum": "4dac04df483ae0e38e8b1c41089f8a39998ed5a52f4eac3b9fece9b925aa9e5d",
+  "build_date": "2025-06-25T16:47:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881248606",
+  "build_id": "15881248606",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digineo/texd/build?tag=HEAD-53226c4-250625T100623-x86_64-Linux&download=build.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digineo/texd/build?tag=HEAD-53226c4-250625T100623-x86_64-Linux&download=build",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/digineo/texd/build:HEAD-53226c4-250625T100623-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/digineo/texd/build",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digineo/texd/build?tag=HEAD-53226c4-250625T100623-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "89cb806d9db49ecd7bd0139eaa826daa3b8a768b1585dc80c9ef45d5950b766a",
+  "size": "2.5 MB",
+  "size_raw": "2536792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
