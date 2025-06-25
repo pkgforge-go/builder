@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cluster-api-provider-kubemark",
+  "pkg_family": "cluster-api-provider-kubemark",
+  "pkg_id": "cluster-api-provider-kubemark#github.com_kubernetes_sigs_cluster_api_provider_kubemark",
+  "pkg_name": "cluster-api-provider-kubemark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/cluster-api-provider-kubemark",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CAPK is a provider for Cluster API _CAPI_ that allows users to deploy fake, Kubemark-backed machines to their clusters.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-kubemark"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-api-provider-kubemark"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-kubemark/archive/e4426b91ccd05e8d93cc103dac7b061a27f919f1.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-cluster-lifecycle"
+  ],
+  "version": "HEAD-e4426b9-250624T084428",
+  "version_upstream": "v0.9.0",
+  "bsum": "fd58f7c78d58e7f40078739cb7faa6e16499c99a01b18653096c99309c6da332",
+  "build_date": "2025-06-25T08:29:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870345494",
+  "build_id": "15870345494",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-kubemark/cluster-api-provider-kubemark?tag=HEAD-e4426b9-250624T084428-riscv64-Linux&download=cluster-api-provider-kubemark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "76",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-kubemark/cluster-api-provider-kubemark?tag=HEAD-e4426b9-250624T084428-riscv64-Linux&download=cluster-api-provider-kubemark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-kubemark/cluster-api-provider-kubemark:HEAD-e4426b9-250624T084428-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-kubemark/cluster-api-provider-kubemark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-kubemark/cluster-api-provider-kubemark?tag=HEAD-e4426b9-250624T084428-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7bdb8607ca8e3a2ab254365dccdc4c9976e0800a790dc1f5d2ee60dbf7af3a07",
+  "size": "52 MB",
+  "size_raw": "53716536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
