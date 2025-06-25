@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kuberlr",
+  "pkg_family": "kuberlr",
+  "pkg_id": "kuberlr#github.com_flavio_kuberlr",
+  "pkg_name": "kuberlr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flavio/kuberlr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool that simplifies the management of multiple versions of kubectl",
+  "homepage": [
+    "https://github.com/flavio/kuberlr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kuberlr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flavio/kuberlr/archive/d39249607c0c0a26aebe5448bbcfb29401e6f571.tar.gz"
+  ],
+  "tag": [
+    "kubectl",
+    "kubectl-binaries",
+    "kubernetes",
+    "kubernetes-cluster",
+    "versioning"
+  ],
+  "version": "HEAD-d392496-250624T103534",
+  "version_upstream": "",
+  "bsum": "fe9f1cec8f42d406c85d401088f6c1ebcbbef9fed33eb697cad9e707476cff0a",
+  "build_date": "2025-06-25T03:04:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865809823",
+  "build_id": "15865809823",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flavio/kuberlr/kuberlr?tag=HEAD-d392496-250624T103534-riscv64-Linux&download=kuberlr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flavio/kuberlr/kuberlr?tag=HEAD-d392496-250624T103534-riscv64-Linux&download=kuberlr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flavio/kuberlr/kuberlr:HEAD-d392496-250624T103534-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flavio/kuberlr/kuberlr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flavio/kuberlr/kuberlr?tag=HEAD-d392496-250624T103534-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c9a8c93b40b6b130a36c0ec879d55fa21ed57095e4b0969f58d748d29f236c0",
+  "size": "37 MB",
+  "size_raw": "38776696",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a5fafd-250619T105645-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
