@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scsctl",
+  "pkg_family": "scs",
+  "pkg_id": "scsctl#github.com_hyahm_scs",
+  "pkg_name": "scsctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hyahm/scs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "自带监控 ，定时器，停止控制，权限控制，分布式的高级进程管理工具,    It comes with monitoring, timer, stop control, permission control and distributed advanced process management tools",
+  "homepage": [
+    "https://github.com/hyahm/scs"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "proxy",
+    "random",
+    "scsctl",
+    "scsd",
+    "telegram"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hyahm/scs/archive/4ec960d2fa5bf2a15e2ca1b4b079dbf8317a4e92.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4ec960d-250625T183530",
+  "version_upstream": "",
+  "bsum": "a60bb471d3f89494d9f845352c5d130a76ff07a00da23dbb5fbf65e5ed5d5aec",
+  "build_date": "2025-06-25T17:08:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881757018",
+  "build_id": "15881757018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyahm/scs/scsctl?tag=HEAD-4ec960d-250625T183530-aarch64-Linux&download=scsctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyahm/scs/scsctl?tag=HEAD-4ec960d-250625T183530-aarch64-Linux&download=scsctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyahm/scs/scsctl:HEAD-4ec960d-250625T183530-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyahm/scs/scsctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyahm/scs/scsctl?tag=HEAD-4ec960d-250625T183530-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30649546047398b997396e0ca3e075559eaae9ebab9f6a8fa527cf3125e126df",
+  "size": "8.9 MB",
+  "size_raw": "9247200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
