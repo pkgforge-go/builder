@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "genimports",
+  "pkg_family": "terraform-provider-grafana",
+  "pkg_id": "genimports#github.com_grafana_terraform_provider_grafana",
+  "pkg_name": "genimports",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/terraform-provider-grafana",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Grafana provider",
+  "homepage": [
+    "https://github.com/grafana/terraform-provider-grafana"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "genimports",
+    "genreferences",
+    "setcategories",
+    "terraform-provider-grafana",
+    "without-lister"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/terraform-provider-grafana/archive/456ce456111be4f92ecde814980b098658186b6d.tar.gz"
+  ],
+  "tag": [
+    "grafana",
+    "terraform",
+    "terraform-provider"
+  ],
+  "version": "HEAD-456ce45-250624T234329",
+  "version_upstream": "",
+  "bsum": "c9fc9a9e0799951966b167b3e0278df53a05d6d260f2de8c1824f41b5cd8854d",
+  "build_date": "2025-06-25T08:15:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869718502",
+  "build_id": "15869718502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/terraform-provider-grafana/genimports?tag=HEAD-456ce45-250624T234329-riscv64-Linux&download=genimports.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "463",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/terraform-provider-grafana/genimports?tag=HEAD-456ce45-250624T234329-riscv64-Linux&download=genimports",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/terraform-provider-grafana/genimports:HEAD-456ce45-250624T234329-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/terraform-provider-grafana/genimports",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/terraform-provider-grafana/genimports?tag=HEAD-456ce45-250624T234329-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a539e1f0ee83aea2fb02804e6e4d5677354d5c04c0e1914816b093aa80893e46",
+  "size": "74 MB",
+  "size_raw": "77143576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
