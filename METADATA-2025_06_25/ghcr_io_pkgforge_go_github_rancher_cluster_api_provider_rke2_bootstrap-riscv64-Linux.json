@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bootstrap",
+  "pkg_family": "cluster-api-provider-rke2",
+  "pkg_id": "bootstrap#github.com_rancher_cluster_api_provider_rke2",
+  "pkg_name": "bootstrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/cluster-api-provider-rke2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RKE2 bootstrap and control-plane Cluster API providers.",
+  "homepage": [
+    "https://github.com/rancher/cluster-api-provider-rke2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "controlplane"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/cluster-api-provider-rke2/archive/025ab80ab861d390a8467ff0802c4755be4c15ac.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "kubernetes",
+    "rke2"
+  ],
+  "version": "HEAD-025ab80-250625T113446",
+  "version_upstream": "",
+  "bsum": "fde2143c8fe8c3c393c379210b4d1e6435a8a204ea8625e21aef96487428c7c5",
+  "build_date": "2025-06-25T17:55:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882497074",
+  "build_id": "15882497074",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/cluster-api-provider-rke2/bootstrap?tag=HEAD-025ab80-250625T113446-riscv64-Linux&download=bootstrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "93",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/cluster-api-provider-rke2/bootstrap?tag=HEAD-025ab80-250625T113446-riscv64-Linux&download=bootstrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/cluster-api-provider-rke2/bootstrap:HEAD-025ab80-250625T113446-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/cluster-api-provider-rke2/bootstrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/cluster-api-provider-rke2/bootstrap?tag=HEAD-025ab80-250625T113446-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1337d051b2abd6db2bc0ba255113391d1873b97f9cb46a8506bb2b63e67f1a0",
+  "size": "56 MB",
+  "size_raw": "57686296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
