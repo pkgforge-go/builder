@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nextdhcp",
+  "pkg_family": "nextdhcp",
+  "pkg_id": "nextdhcp#github.com_nextdhcp_nextdhcp",
+  "pkg_name": "nextdhcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nextdhcp/nextdhcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A DHCP server chaining middlewares. Similar to CoreDNS and Caddy",
+  "homepage": [
+    "https://github.com/nextdhcp/nextdhcp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nextdhcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nextdhcp/nextdhcp/archive/e5f5d0cebdf6289e063455647fd72789bd622118.tar.gz"
+  ],
+  "tag": [
+    "caddy",
+    "dhcp",
+    "dhcp-ng",
+    "dhcp-server",
+    "dhcpd",
+    "server-type"
+  ],
+  "version": "HEAD-e5f5d0c-250624T222159",
+  "version_upstream": "",
+  "bsum": "62c4137c7d6a9e8f58e6a5ae82007995111a582880998098527b1fd5218c450c",
+  "build_date": "2025-06-25T08:48:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870784258",
+  "build_id": "15870784258",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nextdhcp/nextdhcp/nextdhcp?tag=HEAD-e5f5d0c-250624T222159-loongarch64-Linux&download=nextdhcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nextdhcp/nextdhcp/nextdhcp?tag=HEAD-e5f5d0c-250624T222159-loongarch64-Linux&download=nextdhcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nextdhcp/nextdhcp/nextdhcp:HEAD-e5f5d0c-250624T222159-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nextdhcp/nextdhcp/nextdhcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nextdhcp/nextdhcp/nextdhcp?tag=HEAD-e5f5d0c-250624T222159-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2020734774fe78d52c8d184af44062c4d0f6c806b33d3b2814dd64fdbe642156",
+  "size": "12 MB",
+  "size_raw": "12512960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
