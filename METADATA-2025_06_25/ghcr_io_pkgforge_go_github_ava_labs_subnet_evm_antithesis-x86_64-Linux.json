@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "antithesis",
+  "pkg_family": "subnet-evm",
+  "pkg_id": "antithesis#github.com_ava_labs_subnet_evm",
+  "pkg_name": "antithesis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ava-labs/subnet-evm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Launch your own EVM as an Avalanche Subnet",
+  "homepage": [
+    "https://github.com/ava-labs/subnet-evm"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abigen",
+    "antithesis",
+    "evm",
+    "gencomposeconfig",
+    "main",
+    "plugin",
+    "precompilegen",
+    "sign-uptime-message"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ava-labs/subnet-evm/archive/509f5ce3b41bc715ead6924e45de7a3a34e4e4af.tar.gz"
+  ],
+  "tag": [
+    "avalanche",
+    "blockchain",
+    "ethereum",
+    "evm"
+  ],
+  "version": "HEAD-509f5ce-250624T200923",
+  "version_upstream": "",
+  "bsum": "aaec164385696f7c54f326a31959fc58efa3b3e601b936610e1c6138dee23e9b",
+  "build_date": "2025-06-25T07:37:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869564395",
+  "build_id": "15869564395",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/subnet-evm/antithesis?tag=HEAD-509f5ce-250624T200923-x86_64-Linux&download=antithesis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "262",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/subnet-evm/antithesis?tag=HEAD-509f5ce-250624T200923-x86_64-Linux&download=antithesis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ava-labs/subnet-evm/antithesis:HEAD-509f5ce-250624T200923-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ava-labs/subnet-evm/antithesis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ava-labs/subnet-evm/antithesis?tag=HEAD-509f5ce-250624T200923-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4c152764246c7f306977074d1a30f3ed5f249e047fbd30bd48eb8104d0fa060",
+  "size": "67 MB",
+  "size_raw": "69694272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
