@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "radius",
+  "pkg_family": "openbao",
+  "pkg_id": "radius#github.com_openbao_openbao",
+  "pkg_name": "radius",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openbao/openbao",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "homepage": [
+    "https://github.com/openbao/openbao"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approle",
+    "cassandra-database-plugin",
+    "cert",
+    "codechecker",
+    "influxdb-database-plugin",
+    "jwt",
+    "kerberos",
+    "kubeclient",
+    "kubernetes",
+    "kv",
+    "ldap",
+    "login-kerb",
+    "mysql-database-plugin",
+    "mysql-legacy-database-plugin",
+    "openbao",
+    "openldap",
+    "pki",
+    "postgresql-database-plugin",
+    "rabbitmq",
+    "radius",
+    "ssh",
+    "test-app",
+    "tools",
+    "totp",
+    "transit",
+    "userpass",
+    "valkey-database-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openbao/openbao/archive/a553e51d2d2d6c0c307e92df0ba18b4abba69d17.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "version": "HEAD-a553e51-250624T184911",
+  "version_upstream": "",
+  "bsum": "10f4560d6fb8136f60ba1845bb45c0fe40da504c5dede643c103c0bba2258b76",
+  "build_date": "2025-06-25T09:16:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870848635",
+  "build_id": "15870848635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/radius?tag=HEAD-a553e51-250624T184911-x86_64-Linux&download=radius.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3991",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/radius?tag=HEAD-a553e51-250624T184911-x86_64-Linux&download=radius",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openbao/openbao/radius:HEAD-a553e51-250624T184911-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openbao/openbao/radius",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/radius?tag=HEAD-a553e51-250624T184911-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec2a05eeef08dc31beda793c8ef365379d80f2d5b2afd4bdec521a68e15bbf29",
+  "size": "18 MB",
+  "size_raw": "18325112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "transit",
+  "pkg_family": "openbao",
+  "pkg_id": "transit#github.com_openbao_openbao",
+  "pkg_name": "transit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openbao/openbao",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "homepage": [
+    "https://github.com/openbao/openbao"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approle",
+    "cassandra-database-plugin",
+    "cert",
+    "codechecker",
+    "influxdb-database-plugin",
+    "jwt",
+    "kerberos",
+    "kubeclient",
+    "kubernetes",
+    "kv",
+    "ldap",
+    "login-kerb",
+    "mysql-database-plugin",
+    "mysql-legacy-database-plugin",
+    "openbao",
+    "openldap",
+    "pki",
+    "postgresql-database-plugin",
+    "rabbitmq",
+    "radius",
+    "ssh",
+    "test-app",
+    "tools",
+    "totp",
+    "transit",
+    "userpass",
+    "valkey-database-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openbao/openbao/archive/a553e51d2d2d6c0c307e92df0ba18b4abba69d17.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "version": "HEAD-a553e51-250624T184911",
+  "version_upstream": "",
+  "bsum": "d105d0230e6b2f2fe7be4e323026eebfdd9b013b8f8012d7d759dd9ed9339416",
+  "build_date": "2025-06-25T09:17:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870848635",
+  "build_id": "15870848635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/transit?tag=HEAD-a553e51-250624T184911-x86_64-Linux&download=transit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3991",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/transit?tag=HEAD-a553e51-250624T184911-x86_64-Linux&download=transit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openbao/openbao/transit:HEAD-a553e51-250624T184911-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openbao/openbao/transit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/transit?tag=HEAD-a553e51-250624T184911-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e04dc7e416508404f8274a83aaa50bdafa72b33f345770a4add00b24660bdef",
+  "size": "19 MB",
+  "size_raw": "19031224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
