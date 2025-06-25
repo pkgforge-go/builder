@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nfpm",
+  "pkg_family": "nfpm",
+  "pkg_id": "nfpm#github.com_goreleaser_nfpm",
+  "pkg_name": "nfpm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goreleaser/nfpm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go",
+  "homepage": [
+    "https://github.com/goreleaser/nfpm"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nfpm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/goreleaser/nfpm/archive/dba2ed5fc48866683fa914c4dc1e629ce88e10d9.tar.gz"
+  ],
+  "tag": [
+    "apk",
+    "apk-packager",
+    "archlinux",
+    "archlinux-packager",
+    "archlinux-packages",
+    "deb",
+    "deb-package",
+    "deb-packages",
+    "fpm",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "rpm",
+    "rpm-packages",
+    "rpm-packaging",
+    "rpmbuild"
+  ],
+  "version": "HEAD-dba2ed5-250624T164922",
+  "version_upstream": "",
+  "bsum": "04fc6d3681c757b679f20f8468065a1528826540ff7b3ab86e87edc8353106b0",
+  "build_date": "2025-06-25T13:53:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877467902",
+  "build_id": "15877467902",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goreleaser/nfpm/nfpm?tag=HEAD-dba2ed5-250624T164922-aarch64-Linux&download=nfpm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2347",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goreleaser/nfpm/nfpm?tag=HEAD-dba2ed5-250624T164922-aarch64-Linux&download=nfpm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goreleaser/nfpm/nfpm:HEAD-dba2ed5-250624T164922-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goreleaser/nfpm/nfpm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goreleaser/nfpm/nfpm?tag=HEAD-dba2ed5-250624T164922-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c78e90994c8587a75ba71071e2b80e9a08325513213efb6cf728c0d974dd895",
+  "size": "14 MB",
+  "size_raw": "14514016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3b9e98a-250616T090418-aarch64-Linux",
+    "HEAD-d0d7d06-250620T184346-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
