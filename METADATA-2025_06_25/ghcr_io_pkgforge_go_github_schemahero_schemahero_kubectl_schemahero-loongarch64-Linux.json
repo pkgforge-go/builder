@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubectl-schemahero",
+  "pkg_family": "schemahero",
+  "pkg_id": "kubectl-schemahero#github.com_schemahero_schemahero",
+  "pkg_name": "kubectl-schemahero",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/schemahero/schemahero",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator for declarative database schema management _gitops for database schemas_",
+  "homepage": [
+    "https://github.com/schemahero/schemahero"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-schemahero",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/schemahero/schemahero/archive/c62fe513e6f83b80cef947f0751834188a1bce2e.tar.gz"
+  ],
+  "tag": [
+    "database-management",
+    "database-schema",
+    "database-schemas",
+    "gitops",
+    "hacktoberfest",
+    "kubernetes",
+    "kubernetes-operator",
+    "manage-databases"
+  ],
+  "version": "HEAD-c62fe51-250624T133318",
+  "version_upstream": "v0.20.2",
+  "bsum": "2dd7afc6de141ef3f07be618b9ecbdac23800cdf9c5744802b94dc6a6753c3d1",
+  "build_date": "2025-06-25T09:46:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872261124",
+  "build_id": "15872261124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schemahero/schemahero/kubectl-schemahero?tag=HEAD-c62fe51-250624T133318-loongarch64-Linux&download=kubectl-schemahero.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schemahero/schemahero/kubectl-schemahero?tag=HEAD-c62fe51-250624T133318-loongarch64-Linux&download=kubectl-schemahero",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/schemahero/schemahero/kubectl-schemahero:HEAD-c62fe51-250624T133318-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/schemahero/schemahero/kubectl-schemahero",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/schemahero/schemahero/kubectl-schemahero?tag=HEAD-c62fe51-250624T133318-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a867856ce9088ed93da28d1b7c5471d008247b9dd3e235e2d4bf5124025bf1c1",
+  "size": "87 MB",
+  "size_raw": "91202216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
