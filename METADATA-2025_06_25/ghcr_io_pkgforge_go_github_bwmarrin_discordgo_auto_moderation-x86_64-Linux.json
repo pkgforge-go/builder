@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "auto_moderation",
+  "pkg_family": "discordgo",
+  "pkg_id": "auto_moderation#github.com_bwmarrin_discordgo",
+  "pkg_name": "auto_moderation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bwmarrin/discordgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_Golang_ Go bindings for Discord",
+  "homepage": [
+    "https://github.com/bwmarrin/discordgo"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "airhorn",
+    "auto_moderation",
+    "autocomplete",
+    "avatar",
+    "components",
+    "context_menus",
+    "dm_pingpong",
+    "echo",
+    "eventhandlers",
+    "modals",
+    "pingpong",
+    "scheduled_events",
+    "slash_commands",
+    "stage_instance",
+    "threads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bwmarrin/discordgo/archive/6e8fa27c7917ea54d8b9ec26f126becae59058d2.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordgo",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-6e8fa27-250524T141924",
+  "version_upstream": "v0.29.0",
+  "bsum": "338da5f5d0e5f52f6ec52af2b041c8461b1b65dd95ff882819bb1840feae24ae",
+  "build_date": "2025-06-25T08:53:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870786357",
+  "build_id": "15870786357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/auto_moderation?tag=HEAD-6e8fa27-250524T141924-x86_64-Linux&download=auto_moderation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5435",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/auto_moderation?tag=HEAD-6e8fa27-250524T141924-x86_64-Linux&download=auto_moderation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bwmarrin/discordgo/auto_moderation:HEAD-6e8fa27-250524T141924-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bwmarrin/discordgo/auto_moderation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/auto_moderation?tag=HEAD-6e8fa27-250524T141924-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5feb8253cd91d174705756726565bd90d9a0df1658c8981b2987d958172fb04d",
+  "size": "7.5 MB",
+  "size_raw": "7817344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e8fa27-250524T141924-x86_64-Linux[v0.29.0]"
+  ],
+  "trusted": "true"
+}

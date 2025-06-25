@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pingpong",
+  "pkg_family": "discordgo",
+  "pkg_id": "pingpong#github.com_bwmarrin_discordgo",
+  "pkg_name": "pingpong",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bwmarrin/discordgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_Golang_ Go bindings for Discord",
+  "homepage": [
+    "https://github.com/bwmarrin/discordgo"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "airhorn",
+    "auto_moderation",
+    "autocomplete",
+    "avatar",
+    "components",
+    "context_menus",
+    "dm_pingpong",
+    "echo",
+    "eventhandlers",
+    "modals",
+    "pingpong",
+    "scheduled_events",
+    "slash_commands",
+    "stage_instance",
+    "threads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bwmarrin/discordgo/archive/6e8fa27c7917ea54d8b9ec26f126becae59058d2.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordgo",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-6e8fa27-250524T141924",
+  "version_upstream": "v0.29.0",
+  "bsum": "e9275049a35b9f8f5853d29c676a6dd1e28b7f8ab0e852220c373ccbede69f75",
+  "build_date": "2025-06-25T08:52:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870786357",
+  "build_id": "15870786357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/pingpong?tag=HEAD-6e8fa27-250524T141924-x86_64-Linux&download=pingpong.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5435",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/pingpong?tag=HEAD-6e8fa27-250524T141924-x86_64-Linux&download=pingpong",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bwmarrin/discordgo/pingpong:HEAD-6e8fa27-250524T141924-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bwmarrin/discordgo/pingpong",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/pingpong?tag=HEAD-6e8fa27-250524T141924-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46b8d0389411a15ae4419a65a1992c897f2b0bd5717707d9078662faaa0d97e4",
+  "size": "7.5 MB",
+  "size_raw": "7804288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e8fa27-250524T141924-x86_64-Linux[v0.29.0]"
+  ],
+  "trusted": "true"
+}
