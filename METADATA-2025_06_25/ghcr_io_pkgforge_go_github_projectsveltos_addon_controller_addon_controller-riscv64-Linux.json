@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "addon-controller",
+  "pkg_family": "addon-controller",
+  "pkg_id": "addon-controller#github.com_projectsveltos_addon_controller",
+  "pkg_name": "addon-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectsveltos/addon-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in support for multi-tenancy.",
+  "homepage": [
+    "https://github.com/projectsveltos/addon-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addon-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectsveltos/addon-controller/archive/e77f3c747fca8890fdfac601a79e035d94cb3935.tar.gz"
+  ],
+  "tag": [
+    "add-ons",
+    "addons",
+    "devops",
+    "gitops",
+    "helm",
+    "jsonnet",
+    "k8s",
+    "kubernetes",
+    "kustomize",
+    "multi-tenancy",
+    "platform-engineering",
+    "ytt"
+  ],
+  "version": "HEAD-e77f3c7-250625T143809",
+  "version_upstream": "",
+  "bsum": "790c6f486bd153b3bd2eb5fcf6b2d52d145b4420586037a73a7cbd57e330372a",
+  "build_date": "2025-06-25T17:50:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882486194",
+  "build_id": "15882486194",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectsveltos/addon-controller/addon-controller?tag=HEAD-e77f3c7-250625T143809-riscv64-Linux&download=addon-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "390",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectsveltos/addon-controller/addon-controller?tag=HEAD-e77f3c7-250625T143809-riscv64-Linux&download=addon-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectsveltos/addon-controller/addon-controller:HEAD-e77f3c7-250625T143809-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectsveltos/addon-controller/addon-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectsveltos/addon-controller/addon-controller?tag=HEAD-e77f3c7-250625T143809-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a832bd12ba7d92e57757670f062130696c9abd4345b5380ee6f13453f588b16",
+  "size": "100 MB",
+  "size_raw": "104490488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
