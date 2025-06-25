@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "packer",
+  "pkg_id": "scripts#github.com_hashicorp_packer",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/packer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+  "homepage": [
+    "https://github.com/hashicorp/packer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-fixer-deprecations",
+    "packer",
+    "scripts",
+    "ssh-keygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/packer/archive/ee2330683fc18b8358456c688eb2e9a2a77aa724.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ee23306-250625T091018",
+  "version_upstream": "",
+  "bsum": "294695f3da07f4200fcc0688f1446aac721e7b46973c052c58b243d0b87b4a64",
+  "build_date": "2025-06-25T13:59:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877511005",
+  "build_id": "15877511005",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/scripts?tag=HEAD-ee23306-250625T091018-x86_64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15399",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/scripts?tag=HEAD-ee23306-250625T091018-x86_64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/packer/scripts:HEAD-ee23306-250625T091018-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/packer/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/scripts?tag=HEAD-ee23306-250625T091018-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "913f2a86fd334875bad4f1ddd14e68c28cd3a02a159ed9fa090365d736d23af2",
+  "size": "5.5 MB",
+  "size_raw": "5665656",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4cd7ad4-250617T092209-x86_64-Linux[nightly]"
+  ],
+  "trusted": "true"
+}
