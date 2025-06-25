@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "http-proxy-server",
+  "pkg_family": "katzenpost",
+  "pkg_id": "http-proxy-server#github.com_katzenpost_katzenpost",
+  "pkg_name": "http-proxy-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/katzenpost/katzenpost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
+  "homepage": [
+    "https://github.com/katzenpost/katzenpost"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "echo-plugin",
+    "http-proxy-server",
+    "map"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/katzenpost/katzenpost/archive/e51ec029e664b9d3a7fc170aa22d3061297bed17.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e51ec02-250624T163441",
+  "version_upstream": "",
+  "bsum": "478ef44092a3cbd21b1497100b15da6f36242e219881e7c390112ea21eb8d488",
+  "build_date": "2025-06-25T11:58:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873501684",
+  "build_id": "15873501684",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/http-proxy-server?tag=HEAD-e51ec02-250624T163441-loongarch64-Linux&download=http-proxy-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/http-proxy-server?tag=HEAD-e51ec02-250624T163441-loongarch64-Linux&download=http-proxy-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/katzenpost/katzenpost/http-proxy-server:HEAD-e51ec02-250624T163441-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/katzenpost/katzenpost/http-proxy-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/http-proxy-server?tag=HEAD-e51ec02-250624T163441-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b2577ed76b62f42ae58bdeac3abe0c4c8f431304dc4c9a16d92a33b983f9b1e8",
+  "size": "6.4 MB",
+  "size_raw": "6631200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
