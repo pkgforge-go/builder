@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "e2equeries",
+  "pkg_family": "indexer",
+  "pkg_id": "e2equeries#github.com_algorand_indexer",
+  "pkg_name": "e2equeries",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/indexer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "searchable history and current state",
+  "homepage": [
+    "https://github.com/algorand/indexer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "algorand-indexer",
+    "e2equeries",
+    "idbtest",
+    "misc",
+    "texttosource",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/algorand/indexer/archive/f95b13be8b50cb9109dbfec1adedf28c60656ac3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f95b13b-250624T155901",
+  "version_upstream": "",
+  "bsum": "cf9063c3dc343232039b1f315727cf0067181af24d58b44a66bd3f579645e82e",
+  "build_date": "2025-06-25T10:39:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873273544",
+  "build_id": "15873273544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/e2equeries?tag=HEAD-f95b13b-250624T155901-riscv64-Linux&download=e2equeries.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/e2equeries?tag=HEAD-f95b13b-250624T155901-riscv64-Linux&download=e2equeries",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/indexer/e2equeries:HEAD-f95b13b-250624T155901-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/indexer/e2equeries",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/e2equeries?tag=HEAD-f95b13b-250624T155901-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79f9b758144f5c87454fd6afdd9626db824fff5e8eee4d18b7e3bb5660c635ff",
+  "size": "12 MB",
+  "size_raw": "12221496",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-29afdc2-250624T104431-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
