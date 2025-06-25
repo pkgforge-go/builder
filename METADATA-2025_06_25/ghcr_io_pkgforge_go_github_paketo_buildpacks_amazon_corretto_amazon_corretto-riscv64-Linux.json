@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "amazon-corretto",
+  "pkg_family": "amazon-corretto",
+  "pkg_id": "amazon-corretto#github.com_paketo_buildpacks_amazon_corretto",
+  "pkg_name": "amazon-corretto",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/amazon-corretto",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that provides the Amazon Corretto implementations of JREs and JDKs",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/amazon-corretto"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amazon-corretto"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paketo-buildpacks/amazon-corretto/archive/fe6bee0c56b7878425b16a6d618314f787f60d2c.tar.gz"
+  ],
+  "tag": [
+    "amazon-corretto",
+    "cnb",
+    "jvm",
+    "jvm-applications"
+  ],
+  "version": "HEAD-fe6bee0-250624T160035",
+  "version_upstream": "v9.2.5",
+  "bsum": "65a1d3cbd720284caa8720473cb60a15ac654de7309e178de01e317a0303fdd6",
+  "build_date": "2025-06-25T09:17:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870987959",
+  "build_id": "15870987959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/amazon-corretto/amazon-corretto?tag=HEAD-fe6bee0-250624T160035-riscv64-Linux&download=amazon-corretto.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/amazon-corretto/amazon-corretto?tag=HEAD-fe6bee0-250624T160035-riscv64-Linux&download=amazon-corretto",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/amazon-corretto/amazon-corretto:HEAD-fe6bee0-250624T160035-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/amazon-corretto/amazon-corretto",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/amazon-corretto/amazon-corretto?tag=HEAD-fe6bee0-250624T160035-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02c430622ac02fe9d75ffbcf347b48ca540b345b954900a1a7fdaadd895d5025",
+  "size": "7.8 MB",
+  "size_raw": "8129848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
