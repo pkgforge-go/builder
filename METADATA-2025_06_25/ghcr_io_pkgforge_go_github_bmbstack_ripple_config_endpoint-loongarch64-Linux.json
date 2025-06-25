@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "config-endpoint",
+  "pkg_family": "ripple",
+  "pkg_id": "config-endpoint#github.com_bmbstack_ripple",
+  "pkg_name": "config-endpoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bmbstack/ripple",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A web framework of Golang",
+  "homepage": [
+    "https://github.com/bmbstack/ripple"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config",
+    "config-acm",
+    "config-endpoint",
+    "config-mse-kmsv3",
+    "protoc-gen-gofast",
+    "protoc-gen-gogofast",
+    "protoc-gen-gogofaster",
+    "protoc-gen-gogoslick",
+    "ripple",
+    "service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bmbstack/ripple/archive/46241a3fcbf07f34a326b05d05266103561fc433.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-46241a3-250625T105906",
+  "version_upstream": "",
+  "bsum": "2d3b6befe369cb1832ea7459b2cfce42dfa0c47e8d7a4d9d42bd266d1847be6c",
+  "build_date": "2025-06-25T07:35:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869574082",
+  "build_id": "15869574082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bmbstack/ripple/config-endpoint?tag=HEAD-46241a3-250625T105906-loongarch64-Linux&download=config-endpoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bmbstack/ripple/config-endpoint?tag=HEAD-46241a3-250625T105906-loongarch64-Linux&download=config-endpoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bmbstack/ripple/config-endpoint:HEAD-46241a3-250625T105906-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bmbstack/ripple/config-endpoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bmbstack/ripple/config-endpoint?tag=HEAD-46241a3-250625T105906-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a42c698a7e8b7abc1f430296c1d08f09f7dcf3084d86367eaef0ec991656624",
+  "size": "19 MB",
+  "size_raw": "19796192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
