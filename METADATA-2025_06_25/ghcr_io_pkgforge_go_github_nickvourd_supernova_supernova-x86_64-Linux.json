@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "supernova",
+  "pkg_family": "Supernova",
+  "pkg_id": "supernova#github.com_nickvourd_Supernova",
+  "pkg_name": "supernova",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nickvourd/Supernova",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real fucking shellcode encryptor _ obfuscator tool",
+  "homepage": [
+    "https://github.com/nickvourd/Supernova"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "supernova"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nickvourd/Supernova/archive/50b014c2070ee44f8d4c45abd48c6cf4d7267f76.tar.gz"
+  ],
+  "tag": [
+    "aes",
+    "aes-128-cbc",
+    "aes-192-cbc",
+    "aes-256-cbc",
+    "caesar-cipher",
+    "chacha20",
+    "decryption",
+    "encryption",
+    "evasion",
+    "go",
+    "golang",
+    "malware-development",
+    "obfuscation",
+    "pentest",
+    "rc4",
+    "redteam",
+    "rot",
+    "rot13",
+    "shellcode",
+    "xor"
+  ],
+  "version": "HEAD-50b014c-250624T071052",
+  "version_upstream": "v3.6",
+  "bsum": "81b780812a372fc90c25faa0fe58cfcc89d040bb956a7b72d2ac7b303f7d763c",
+  "build_date": "2025-06-25T03:34:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865929895",
+  "build_id": "15865929895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickvourd/supernova/supernova?tag=HEAD-50b014c-250624T071052-x86_64-Linux&download=supernova.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "913",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickvourd/supernova/supernova?tag=HEAD-50b014c-250624T071052-x86_64-Linux&download=supernova",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nickvourd/supernova/supernova:HEAD-50b014c-250624T071052-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nickvourd/supernova/supernova",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickvourd/supernova/supernova?tag=HEAD-50b014c-250624T071052-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b1faa14087b497f8349e6460c065ba55c45e4314aa8732fa79052f6c1731c02d",
+  "size": "2.3 MB",
+  "size_raw": "2355872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2eae2c5-250512T083821-x86_64-Linux[v3.5]"
+  ],
+  "trusted": "true"
+}
