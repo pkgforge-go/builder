@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controlplane",
+  "pkg_family": "cluster-api-k3s",
+  "pkg_id": "controlplane#github.com_k3s_io_cluster_api_k3s",
+  "pkg_name": "controlplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/k3s-io/cluster-api-k3s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster API k3s",
+  "homepage": [
+    "https://github.com/k3s-io/cluster-api-k3s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "controlplane"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/k3s-io/cluster-api-k3s/archive/e0a92c9e498eba695ce6abe9e9698a766af9834f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e0a92c9-250624T193741",
+  "version_upstream": "v0.3.0",
+  "bsum": "1f644bb82b11e00a1d35c12c0550f7bc89fc8799967c9b3dd741cb880553f53b",
+  "build_date": "2025-06-25T08:26:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869988706",
+  "build_id": "15869988706",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3s-io/cluster-api-k3s/controlplane?tag=HEAD-e0a92c9-250624T193741-aarch64-Linux&download=controlplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "160",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3s-io/cluster-api-k3s/controlplane?tag=HEAD-e0a92c9-250624T193741-aarch64-Linux&download=controlplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k3s-io/cluster-api-k3s/controlplane:HEAD-e0a92c9-250624T193741-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k3s-io/cluster-api-k3s/controlplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k3s-io/cluster-api-k3s/controlplane?tag=HEAD-e0a92c9-250624T193741-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6fbb1d1e0b7a221ec0640c77e3b68eda7ec560e2c2e204309980cb3b44b05a3e",
+  "size": "50 MB",
+  "size_raw": "51466944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
