@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "offline_add",
+  "pkg_family": "kubo",
+  "pkg_id": "offline_add#github.com_ipfs_kubo",
+  "pkg_name": "offline_add",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/kubo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IPFS implementation in Go",
+  "homepage": [
+    "https://github.com/ipfs/kubo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-startup",
+    "bench_cli_ipfs_add",
+    "ipfs",
+    "ipfswatch",
+    "offline_add"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/kubo/archive/be241769769ecd3bb29ddae7f2ff04f5157a9a03.tar.gz"
+  ],
+  "tag": [
+    "ipfs"
+  ],
+  "version": "HEAD-be24176-250625T012626",
+  "version_upstream": "",
+  "bsum": "567790f75ccb2bb0f1e2a4521e99ac0d41bc8132fb4791a0d29fcf8fdbd3e699",
+  "build_date": "2025-06-25T23:16:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887997018",
+  "build_id": "15887997018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/offline_add?tag=HEAD-be24176-250625T012626-riscv64-Linux&download=offline_add.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16533",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/offline_add?tag=HEAD-be24176-250625T012626-riscv64-Linux&download=offline_add",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/kubo/offline_add:HEAD-be24176-250625T012626-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/kubo/offline_add",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/offline_add?tag=HEAD-be24176-250625T012626-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c08af125480c5fe49bb4ca35e0d7851ddb14c54097a878fb33a30c149dfc2a15",
+  "size": "18 MB",
+  "size_raw": "17890040",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-92aa993-250618T191558-riscv64-Linux",
+    "HEAD-ace0b0b-250623T071811-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
