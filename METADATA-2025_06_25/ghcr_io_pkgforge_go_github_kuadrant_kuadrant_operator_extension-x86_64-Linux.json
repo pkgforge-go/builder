@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "extension",
+  "pkg_family": "kuadrant-operator",
+  "pkg_id": "extension#github.com_Kuadrant_kuadrant_operator",
+  "pkg_name": "extension",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Kuadrant/kuadrant-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Operator to install and manage the lifecycle of the Kuadrant components deployments.",
+  "homepage": [
+    "https://github.com/Kuadrant/kuadrant-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "extension",
+    "kuadrant-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Kuadrant/kuadrant-operator/archive/f5f7fbcd00bf17fdae4c847110679063f04c99d3.tar.gz"
+  ],
+  "tag": [
+    "authentication",
+    "authorization",
+    "k8s-services",
+    "kubernetes",
+    "rate-limiting"
+  ],
+  "version": "HEAD-f5f7fbc-250625T130600",
+  "version_upstream": "",
+  "bsum": "45b3f01232920d149555f78cfe9a23fd17b0beffcafc2c15430a7a33d31a3fcd",
+  "build_date": "2025-06-25T16:02:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881095865",
+  "build_id": "15881095865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuadrant/kuadrant-operator/extension?tag=HEAD-f5f7fbc-250625T130600-x86_64-Linux&download=extension.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuadrant/kuadrant-operator/extension?tag=HEAD-f5f7fbc-250625T130600-x86_64-Linux&download=extension",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kuadrant/kuadrant-operator/extension:HEAD-f5f7fbc-250625T130600-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kuadrant/kuadrant-operator/extension",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuadrant/kuadrant-operator/extension?tag=HEAD-f5f7fbc-250625T130600-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0409b6ec01a37fe9aedf6121e82c153ba208def64ed9aa8eb2c47379099eddfa",
+  "size": "53 MB",
+  "size_raw": "55206336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
