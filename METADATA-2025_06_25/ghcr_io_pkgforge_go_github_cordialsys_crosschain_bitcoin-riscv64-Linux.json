@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bitcoin",
+  "pkg_family": "crosschain",
+  "pkg_id": "bitcoin#github.com_cordialsys_crosschain",
+  "pkg_name": "bitcoin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cordialsys/crosschain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial Systems abstraction over blockchains",
+  "homepage": [
+    "https://github.com/cordialsys/crosschain"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitcoin",
+    "example",
+    "get_secret",
+    "solana_aux_token_account",
+    "staking",
+    "ton",
+    "txinfo",
+    "xc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cordialsys/crosschain/archive/a70f2d7e167593172661fcf358ad49794a9e4f78.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a70f2d7-250625T094128",
+  "version_upstream": "",
+  "bsum": "9f7426d5490ddde3d5f99d0c07fcd5a78982c5a50a5b071a2cf68dc8f6c79b84",
+  "build_date": "2025-06-25T22:45:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887934492",
+  "build_id": "15887934492",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/bitcoin?tag=HEAD-a70f2d7-250625T094128-riscv64-Linux&download=bitcoin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/bitcoin?tag=HEAD-a70f2d7-250625T094128-riscv64-Linux&download=bitcoin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cordialsys/crosschain/bitcoin:HEAD-a70f2d7-250625T094128-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cordialsys/crosschain/bitcoin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/bitcoin?tag=HEAD-a70f2d7-250625T094128-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4eb4fcebf1a561a3d4ddfca74f2198d893ad013da47afe2b2e4ede3d9f98797e",
+  "size": "17 MB",
+  "size_raw": "17299416",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9fd8fef-250619T115529-riscv64-Linux",
+    "HEAD-dbe9b17-250623T180528-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

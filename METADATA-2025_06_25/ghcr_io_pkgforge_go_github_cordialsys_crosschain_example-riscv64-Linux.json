@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "crosschain",
+  "pkg_id": "example#github.com_cordialsys_crosschain",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cordialsys/crosschain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial Systems abstraction over blockchains",
+  "homepage": [
+    "https://github.com/cordialsys/crosschain"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitcoin",
+    "example",
+    "get_secret",
+    "solana_aux_token_account",
+    "staking",
+    "ton",
+    "txinfo",
+    "xc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cordialsys/crosschain/archive/a70f2d7e167593172661fcf358ad49794a9e4f78.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a70f2d7-250625T094128",
+  "version_upstream": "",
+  "bsum": "7f9846a951c1cd9d0b05eff59e5a3567b49b9622e1c0d034a80f606b7f6b228e",
+  "build_date": "2025-06-25T22:46:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887934492",
+  "build_id": "15887934492",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/example?tag=HEAD-a70f2d7-250625T094128-riscv64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/example?tag=HEAD-a70f2d7-250625T094128-riscv64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cordialsys/crosschain/example:HEAD-a70f2d7-250625T094128-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cordialsys/crosschain/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cordialsys/crosschain/example?tag=HEAD-a70f2d7-250625T094128-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76dc1c49b3b4bbd5de59b12894340b5ebb5f0ee62ceb3b1e3ef193b095d74bda",
+  "size": "19 MB",
+  "size_raw": "19188984",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9fd8fef-250619T115529-riscv64-Linux",
+    "HEAD-dbe9b17-250623T180528-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
