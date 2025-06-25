@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dbtool",
+  "pkg_family": "bchd",
+  "pkg_id": "dbtool#github.com_gcash_bchd",
+  "pkg_name": "dbtool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gcash/bchd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An alternative full node bitcoin cash implementation written in Go _golang_",
+  "homepage": [
+    "https://github.com/gcash/bchd"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addblock",
+    "bchctl",
+    "bchd",
+    "bchdwebsockets",
+    "bchwalletwebsockets",
+    "bitcoincorehttp",
+    "dbtool",
+    "findcheckpoint",
+    "gencerts",
+    "proxy",
+    "utxotool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gcash/bchd/archive/e4e067ac22fcb1989865f9b607f58393a18c7563.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e4e067a-250624T083230",
+  "version_upstream": "",
+  "bsum": "a57151179f17aa6291e87e3a3a870598178c019350a393b20580eb13e8ec9158",
+  "build_date": "2025-06-25T07:59:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869672215",
+  "build_id": "15869672215",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcash/bchd/dbtool?tag=HEAD-e4e067a-250624T083230-x86_64-Linux&download=dbtool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "284",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcash/bchd/dbtool?tag=HEAD-e4e067a-250624T083230-x86_64-Linux&download=dbtool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gcash/bchd/dbtool:HEAD-e4e067a-250624T083230-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gcash/bchd/dbtool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gcash/bchd/dbtool?tag=HEAD-e4e067a-250624T083230-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8265aa462edb7736cea4e1e59545e158c8ea479fb4a72a1c44bccbd9a7ea33b7",
+  "size": "4.1 MB",
+  "size_raw": "4272032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
