@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stdlib",
+  "pkg_family": "component-base",
+  "pkg_id": "stdlib#github.com_kubernetes_component_base",
+  "pkg_name": "stdlib",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/component-base",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shared code for kubernetes core components",
+  "homepage": [
+    "https://github.com/kubernetes/component-base"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "k8s2slog",
+    "kube-log-runner",
+    "slog2k8s",
+    "stdlib"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/component-base/archive/1e0f6a1cc4212043fcff5ccc914042bea2e32a33.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-api-machinery",
+    "k8s-staging"
+  ],
+  "version": "HEAD-1e0f6a1-250624T174354",
+  "version_upstream": "",
+  "bsum": "4710cbe8671a8bdf4212ec060d9e9ca6be10687a085733700e57141dab349c5e",
+  "build_date": "2025-06-25T08:32:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870456574",
+  "build_id": "15870456574",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/component-base/stdlib?tag=HEAD-1e0f6a1-250624T174354-aarch64-Linux&download=stdlib.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "120",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/component-base/stdlib?tag=HEAD-1e0f6a1-250624T174354-aarch64-Linux&download=stdlib",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/component-base/stdlib:HEAD-1e0f6a1-250624T174354-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/component-base/stdlib",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/component-base/stdlib?tag=HEAD-1e0f6a1-250624T174354-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "00e4e74d5f13312aee5ed4b4b8ecf3ded41a870c30d94e32ac2921194bc570d6",
+  "size": "11 MB",
+  "size_raw": "11291712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
