@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "clef",
+  "pkg_family": "go-ethereum",
+  "pkg_id": "clef#github.com_ethereum_go_ethereum",
+  "pkg_name": "clef",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/go-ethereum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of the Ethereum protocol",
+  "homepage": [
+    "https://github.com/ethereum/go-ethereum"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "abigen",
+    "blsync",
+    "clef",
+    "devp2p",
+    "era",
+    "ethkey",
+    "evm",
+    "geth",
+    "rlpdump",
+    "rlpgen",
+    "workload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum/go-ethereum/archive/a92f2b86e33e49ec23e67fa0e17eaabf99cc9645.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "ethereum",
+    "geth",
+    "go",
+    "p2p"
+  ],
+  "version": "HEAD-a92f2b8-250625T165054",
+  "version_upstream": "",
+  "bsum": "0b7c8ab5267ce951a702245d0b8a856f2bc15c8264c8f8eeb14e74e3e164dd34",
+  "build_date": "2025-06-25T16:21:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881098176",
+  "build_id": "15881098176",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/clef?tag=HEAD-a92f2b8-250625T165054-riscv64-Linux&download=clef.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49197",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/clef?tag=HEAD-a92f2b8-250625T165054-riscv64-Linux&download=clef",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/go-ethereum/clef:HEAD-a92f2b8-250625T165054-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/go-ethereum/clef",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/go-ethereum/clef?tag=HEAD-a92f2b8-250625T165054-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c8e488234a4f43ce611dbb675d4393007d525d6ebd355aad581a0e000e33a98",
+  "size": "42 MB",
+  "size_raw": "43365304",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-09289fd-250619T161954-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
