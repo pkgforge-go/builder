@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "multitrack-1",
+  "pkg_family": "kubedog",
+  "pkg_id": "multitrack-1#github.com_werf_kubedog",
+  "pkg_name": "multitrack-1",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/werf/kubedog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Library to watch and follow kubernetes resources in CI/CD deploy pipelines",
+  "homepage": [
+    "https://github.com/werf/kubedog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubedog",
+    "multitrack-1",
+    "table"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/werf/kubedog/archive/654a0802b36e6df9630f6ac5653314f895a90550.tar.gz"
+  ],
+  "tag": [
+    "cicd",
+    "devops",
+    "follow",
+    "helm",
+    "kubectl",
+    "kubernetes",
+    "rollout",
+    "watcher",
+    "werf"
+  ],
+  "version": "HEAD-654a080-250625T171056",
+  "version_upstream": "",
+  "bsum": "305687e80493ad50cfd70ca48d2e6b648330698d129c737fa7e9b12854fbc461",
+  "build_date": "2025-06-25T18:56:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883460231",
+  "build_id": "15883460231",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/werf/kubedog/multitrack-1?tag=HEAD-654a080-250625T171056-riscv64-Linux&download=multitrack-1.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "692",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/werf/kubedog/multitrack-1?tag=HEAD-654a080-250625T171056-riscv64-Linux&download=multitrack-1",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/werf/kubedog/multitrack-1:HEAD-654a080-250625T171056-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/werf/kubedog/multitrack-1",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/werf/kubedog/multitrack-1?tag=HEAD-654a080-250625T171056-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9590ace5d3548dfacdf716a6c4dcf462f9ac4fff4c65061ad1b6004576deda82",
+  "size": "58 MB",
+  "size_raw": "60076792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
