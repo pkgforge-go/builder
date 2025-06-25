@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "interact",
+  "pkg_family": "bbgo",
+  "pkg_id": "interact#github.com_c9s_bbgo",
+  "pkg_name": "interact",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/c9s/bbgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The modern cryptocurrency trading bot framework written in Go.",
+  "homepage": [
+    "https://github.com/c9s/bbgo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbgo",
+    "bbgo-lorca",
+    "binance-book",
+    "binance-margin",
+    "embed",
+    "google-spreadsheet",
+    "interact",
+    "kucoin",
+    "kucoin-accounts",
+    "max-rewards",
+    "max-withdraw",
+    "okex-book",
+    "telebot",
+    "update-doc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/c9s/bbgo/archive/38ed13a8f8cf6f63a745c1284fb028eaaeb68752.tar.gz"
+  ],
+  "tag": [
+    "binance",
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "trading",
+    "trading-bot"
+  ],
+  "version": "HEAD-38ed13a-250625T185928",
+  "version_upstream": "",
+  "bsum": "a9f98e549d0cdf4bd2f2089f356cbb409413a81683b272ae51e87277d038134d",
+  "build_date": "2025-06-25T22:28:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887928799",
+  "build_id": "15887928799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/interact?tag=HEAD-38ed13a-250625T185928-x86_64-Linux&download=interact.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1371",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/interact?tag=HEAD-38ed13a-250625T185928-x86_64-Linux&download=interact",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/c9s/bbgo/interact:HEAD-38ed13a-250625T185928-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/c9s/bbgo/interact",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/interact?tag=HEAD-38ed13a-250625T185928-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "292d4604daf969f6cb8808ffe449ede8868a8648a56db6475f6ba75add7148a7",
+  "size": "7.2 MB",
+  "size_raw": "7494336",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-56b482f-250618T155603-x86_64-Linux",
+    "HEAD-0425031-250620T155700-x86_64-Linux",
+    "HEAD-2bea5da-250624T151112-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

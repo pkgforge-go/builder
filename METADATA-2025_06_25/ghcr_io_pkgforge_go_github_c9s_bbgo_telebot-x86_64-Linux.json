@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "telebot",
+  "pkg_family": "bbgo",
+  "pkg_id": "telebot#github.com_c9s_bbgo",
+  "pkg_name": "telebot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/c9s/bbgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The modern cryptocurrency trading bot framework written in Go.",
+  "homepage": [
+    "https://github.com/c9s/bbgo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbgo",
+    "bbgo-lorca",
+    "binance-book",
+    "binance-margin",
+    "embed",
+    "google-spreadsheet",
+    "interact",
+    "kucoin",
+    "kucoin-accounts",
+    "max-rewards",
+    "max-withdraw",
+    "okex-book",
+    "telebot",
+    "update-doc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/c9s/bbgo/archive/38ed13a8f8cf6f63a745c1284fb028eaaeb68752.tar.gz"
+  ],
+  "tag": [
+    "binance",
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "trading",
+    "trading-bot"
+  ],
+  "version": "HEAD-38ed13a-250625T185928",
+  "version_upstream": "",
+  "bsum": "ba1938fdeff1f37c23aeb43f62349f5c82d9dbf4e517071db099224e492278d1",
+  "build_date": "2025-06-25T22:28:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887928799",
+  "build_id": "15887928799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/telebot?tag=HEAD-38ed13a-250625T185928-x86_64-Linux&download=telebot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1371",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/telebot?tag=HEAD-38ed13a-250625T185928-x86_64-Linux&download=telebot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/c9s/bbgo/telebot:HEAD-38ed13a-250625T185928-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/c9s/bbgo/telebot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/telebot?tag=HEAD-38ed13a-250625T185928-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30c6a30cfe42fa7591fd061c46828ef51ce2a6bcf7a00327bc2ff4aa8acc1cb2",
+  "size": "6.9 MB",
+  "size_raw": "7146304",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-56b482f-250618T155603-x86_64-Linux",
+    "HEAD-0425031-250620T155700-x86_64-Linux",
+    "HEAD-2bea5da-250624T151112-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
