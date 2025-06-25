@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "avatar",
+  "pkg_family": "discordgo",
+  "pkg_id": "avatar#github.com_bwmarrin_discordgo",
+  "pkg_name": "avatar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bwmarrin/discordgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_Golang_ Go bindings for Discord",
+  "homepage": [
+    "https://github.com/bwmarrin/discordgo"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "airhorn",
+    "auto_moderation",
+    "autocomplete",
+    "avatar",
+    "components",
+    "context_menus",
+    "dm_pingpong",
+    "echo",
+    "eventhandlers",
+    "modals",
+    "pingpong",
+    "scheduled_events",
+    "slash_commands",
+    "stage_instance",
+    "threads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bwmarrin/discordgo/archive/6e8fa27c7917ea54d8b9ec26f126becae59058d2.tar.gz"
+  ],
+  "tag": [
+    "discord",
+    "discord-api",
+    "discordgo",
+    "go",
+    "golang"
+  ],
+  "version": "HEAD-6e8fa27-250524T141924",
+  "version_upstream": "v0.29.0",
+  "bsum": "a6930fb8457c34f58eecfcc7397fd2c66387fb7287d6d1b3b899e398d87e9b6e",
+  "build_date": "2025-06-25T08:53:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870786357",
+  "build_id": "15870786357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/avatar?tag=HEAD-6e8fa27-250524T141924-riscv64-Linux&download=avatar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5435",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/avatar?tag=HEAD-6e8fa27-250524T141924-riscv64-Linux&download=avatar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bwmarrin/discordgo/avatar:HEAD-6e8fa27-250524T141924-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bwmarrin/discordgo/avatar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bwmarrin/discordgo/avatar?tag=HEAD-6e8fa27-250524T141924-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ac748d9b4a13da3ef97303a5371113ba95aaaba6cc3a994538a4893b0bb8c129",
+  "size": "7.0 MB",
+  "size_raw": "7249496",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e8fa27-250524T141924-riscv64-Linux[v0.29.0]"
+  ],
+  "trusted": "true"
+}
