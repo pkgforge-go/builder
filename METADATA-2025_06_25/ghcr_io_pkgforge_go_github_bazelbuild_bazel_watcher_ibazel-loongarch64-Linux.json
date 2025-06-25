@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ibazel",
+  "pkg_family": "bazel-watcher",
+  "pkg_id": "ibazel#github.com_bazelbuild_bazel_watcher",
+  "pkg_name": "ibazel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bazelbuild/bazel-watcher",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for building Bazel targets when source files change.",
+  "homepage": [
+    "https://github.com/bazelbuild/bazel-watcher"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example_client",
+    "ibazel",
+    "npm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bazelbuild/bazel-watcher/archive/93dfa15223a341926a3f72155b2b4a4354e3aa14.tar.gz"
+  ],
+  "tag": [
+    "bazel",
+    "build",
+    "fast"
+  ],
+  "version": "HEAD-93dfa15-250625T034420",
+  "version_upstream": "",
+  "bsum": "818252174eedb79d1f5492f8d709518660f5ffb701131f1f14414df65a9efb03",
+  "build_date": "2025-06-25T07:31:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869567751",
+  "build_id": "15869567751",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/bazel-watcher/ibazel?tag=HEAD-93dfa15-250625T034420-loongarch64-Linux&download=ibazel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "472",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/bazel-watcher/ibazel?tag=HEAD-93dfa15-250625T034420-loongarch64-Linux&download=ibazel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bazelbuild/bazel-watcher/ibazel:HEAD-93dfa15-250625T034420-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bazelbuild/bazel-watcher/ibazel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/bazel-watcher/ibazel?tag=HEAD-93dfa15-250625T034420-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b408d15ee110983f12a4f7b40ccd1fd31b2c4e8f3bff025ef5e3879404db1ebc",
+  "size": "8.9 MB",
+  "size_raw": "9324544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
