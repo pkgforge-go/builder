@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controlplane",
+  "pkg_family": "cluster-api-provider-rke2",
+  "pkg_id": "controlplane#github.com_rancher_cluster_api_provider_rke2",
+  "pkg_name": "controlplane",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/cluster-api-provider-rke2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RKE2 bootstrap and control-plane Cluster API providers.",
+  "homepage": [
+    "https://github.com/rancher/cluster-api-provider-rke2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap",
+    "controlplane"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/cluster-api-provider-rke2/archive/025ab80ab861d390a8467ff0802c4755be4c15ac.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "kubernetes",
+    "rke2"
+  ],
+  "version": "HEAD-025ab80-250625T113446",
+  "version_upstream": "",
+  "bsum": "1ceb527dff32f8a9ff28504c5b89ff9a647cf1170cb372ef825cc2b0fc6ae73b",
+  "build_date": "2025-06-25T17:54:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882497074",
+  "build_id": "15882497074",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/cluster-api-provider-rke2/controlplane?tag=HEAD-025ab80-250625T113446-aarch64-Linux&download=controlplane.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "93",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/cluster-api-provider-rke2/controlplane?tag=HEAD-025ab80-250625T113446-aarch64-Linux&download=controlplane",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/cluster-api-provider-rke2/controlplane:HEAD-025ab80-250625T113446-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/cluster-api-provider-rke2/controlplane",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/cluster-api-provider-rke2/controlplane?tag=HEAD-025ab80-250625T113446-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1230246860a8f91e7828e280027873c2ea76cd84f39e7ceb881cb0a4006450e5",
+  "size": "57 MB",
+  "size_raw": "59298688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
