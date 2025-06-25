@@ -45,7 +45,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/jaegertracing/jaeger/archive/a91e2ee2e283d0a8293ec503c6ba37680dbda334.tar.gz"
+    "https://github.com/jaegertracing/jaeger/archive/461923b41ff10964d723e8578421710d0ef42c3f.tar.gz"
   ],
   "tag": [
     "cncf",
@@ -56,33 +56,34 @@
     "opentelemetry",
     "tracing"
   ],
-  "version": "HEAD-a91e2ee-250625T005354",
+  "version": "HEAD-461923b-250625T042325",
   "version_upstream": "",
-  "bsum": "6a212e9dc422cb6b05b22ef56dc098fc65b61c68bb738a56566e6b5e0e3ec589",
-  "build_date": "2025-06-25T11:59:50Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873499535",
-  "build_id": "15873499535",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/query?tag=HEAD-a91e2ee-250625T005354-aarch64-Linux&download=query.log",
+  "bsum": "269b22c6a4561df073f6708680dee0b179323d8c9fd798451ca1036a6b5ee160",
+  "build_date": "2025-06-25T23:26:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887998016",
+  "build_id": "15887998016",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/query?tag=HEAD-461923b-250625T042325-aarch64-Linux&download=query.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "21501",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/query?tag=HEAD-a91e2ee-250625T005354-aarch64-Linux&download=query",
+  "download_count": "21507",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/query?tag=HEAD-461923b-250625T042325-aarch64-Linux&download=query",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaegertracing/jaeger/query:HEAD-a91e2ee-250625T005354-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaegertracing/jaeger/query:HEAD-461923b-250625T042325-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/jaegertracing/jaeger/query",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/query?tag=HEAD-a91e2ee-250625T005354-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/query?tag=HEAD-461923b-250625T042325-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "a020ada0b5bfca9b8ee7d71cfabd2ac68965a6da6d1ffd920eda09d3ea19e6a3",
+  "shasum": "96d6e34953d5b09c3a3d36267052b59d58c8facd9be0edb1f8fed278700d47d1",
   "size": "55 MB",
-  "size_raw": "56657216",
+  "size_raw": "56662976",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-87d9b57-250618T215447-aarch64-Linux",
     "HEAD-a5ba290-250620T202315-aarch64-Linux",
     "HEAD-b86d1fd-250623T234236-aarch64-Linux",
-    "HEAD-b1a0a5e-250624T101024-aarch64-Linux"
+    "HEAD-b1a0a5e-250624T101024-aarch64-Linux",
+    "HEAD-a91e2ee-250625T005354-aarch64-Linux"
   ],
   "trusted": "true"
 }
