@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "concourse",
+  "pkg_family": "concourse",
+  "pkg_id": "concourse#github.com_concourse_concourse",
+  "pkg_name": "concourse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/concourse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Concourse is a container-based automation system written in Go.",
+  "homepage": [
+    "https://github.com/concourse/concourse"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "baggageclaim",
+    "cli",
+    "concourse",
+    "fly",
+    "fs_mounter",
+    "sample",
+    "scripts",
+    "tsa"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/concourse/archive/582a510d90aec6bde0618a1ae6386dfc0ad45553.tar.gz"
+  ],
+  "tag": [
+    "ci",
+    "ci-cd",
+    "concourse",
+    "containerd",
+    "containers",
+    "continuous-delivery",
+    "continuous-integration",
+    "elm",
+    "go",
+    "pipelines",
+    "runc"
+  ],
+  "version": "HEAD-582a510-250624T161655",
+  "version_upstream": "",
+  "bsum": "57158d1e14131ff1c97db4603534c1be878024ef2500006325146f74ce3548c6",
+  "build_date": "2025-06-25T11:10:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873361031",
+  "build_id": "15873361031",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/concourse?tag=HEAD-582a510-250624T161655-x86_64-Linux&download=concourse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7585",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/concourse?tag=HEAD-582a510-250624T161655-x86_64-Linux&download=concourse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/concourse/concourse:HEAD-582a510-250624T161655-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/concourse/concourse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/concourse/concourse?tag=HEAD-582a510-250624T161655-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "381c1c60b7e79685d6d6da83b8ecb895b12e9d1d3d041823da0ffd744fc7c97a",
+  "size": "126 MB",
+  "size_raw": "131772272",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4e1aa2b-250620T122546-x86_64-Linux",
+    "HEAD-fba8c86-250623T181115-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
