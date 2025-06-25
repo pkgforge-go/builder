@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "d2plugin-dagre",
+  "pkg_family": "d2",
+  "pkg_id": "d2plugin-dagre#github.com_terrastruct_d2",
+  "pkg_name": "d2plugin-dagre",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terrastruct/d2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+  "homepage": [
+    "https://github.com/terrastruct/d2"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "1-d2lib",
+    "2-d2oracle",
+    "3-lowlevel",
+    "d2",
+    "d2plugin-dagre",
+    "report"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terrastruct/d2/archive/25b83bb260e34657ca88ec4321a2a44bef2517ea.tar.gz"
+  ],
+  "tag": [
+    "developer-tools",
+    "diagramming",
+    "diagrams",
+    "go",
+    "golang",
+    "software-architecture",
+    "text-to-diagram"
+  ],
+  "version": "HEAD-25b83bb-250624T131617",
+  "version_upstream": "",
+  "bsum": "40de9721b9c86e0f96decf70fcbe5262e3d631abfb9ab7be4927ffdb0612e319",
+  "build_date": "2025-06-25T13:04:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873645498",
+  "build_id": "15873645498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/d2plugin-dagre?tag=HEAD-25b83bb-250624T131617-loongarch64-Linux&download=d2plugin-dagre.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20777",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/d2plugin-dagre?tag=HEAD-25b83bb-250624T131617-loongarch64-Linux&download=d2plugin-dagre",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terrastruct/d2/d2plugin-dagre:HEAD-25b83bb-250624T131617-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terrastruct/d2/d2plugin-dagre",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terrastruct/d2/d2plugin-dagre?tag=HEAD-25b83bb-250624T131617-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "60dbdb740cd39469cc2402b0a6eed9e7efd8fc011808d6d1ca41ab3c448b8b91",
+  "size": "25 MB",
+  "size_raw": "26137744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1274029-250622T063533-loongarch64-Linux",
+    "HEAD-be13d10-250622T221139-loongarch64-Linux",
+    "HEAD-d834b82-250623T045213-loongarch64-Linux",
+    "HEAD-db6b3e6-250623T210447-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
