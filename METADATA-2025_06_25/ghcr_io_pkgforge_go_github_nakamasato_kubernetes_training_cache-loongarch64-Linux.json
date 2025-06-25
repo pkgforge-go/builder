@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cache",
+  "pkg_family": "kubernetes-training",
+  "pkg_id": "cache#github.com_nakamasato_kubernetes_training",
+  "pkg_name": "cache",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nakamasato/kubernetes-training",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes training from basics to advanced",
+  "homepage": [
+    "https://github.com/nakamasato/kubernetes-training"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "clientset",
+    "deltafifo",
+    "example-controller",
+    "indexer",
+    "informer",
+    "kubernetes-training",
+    "lister",
+    "listerwatcher",
+    "log",
+    "manager",
+    "random-scheduler",
+    "reconciler",
+    "scheme",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nakamasato/kubernetes-training/archive/40bc2d89b0fe190480981485f30b394915c57a89.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "managed-by-terraform"
+  ],
+  "version": "HEAD-40bc2d8-250625T020650",
+  "version_upstream": "",
+  "bsum": "75f7aceae6aae1c2f863d41da1277490ce312d3a0f294d33071e4fd6acb897df",
+  "build_date": "2025-06-25T09:01:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870683942",
+  "build_id": "15870683942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/cache?tag=HEAD-40bc2d8-250625T020650-loongarch64-Linux&download=cache.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/cache?tag=HEAD-40bc2d8-250625T020650-loongarch64-Linux&download=cache",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/cache:HEAD-40bc2d8-250625T020650-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/cache",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/cache?tag=HEAD-40bc2d8-250625T020650-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a7f434e5d299248697d1462764f1a62df73c4a9e8288c6f113bc0e6a3a78f92",
+  "size": "35 MB",
+  "size_raw": "36401248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

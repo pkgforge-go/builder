@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "deltafifo",
+  "pkg_family": "kubernetes-training",
+  "pkg_id": "deltafifo#github.com_nakamasato_kubernetes_training",
+  "pkg_name": "deltafifo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nakamasato/kubernetes-training",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes training from basics to advanced",
+  "homepage": [
+    "https://github.com/nakamasato/kubernetes-training"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "clientset",
+    "deltafifo",
+    "example-controller",
+    "indexer",
+    "informer",
+    "kubernetes-training",
+    "lister",
+    "listerwatcher",
+    "log",
+    "manager",
+    "random-scheduler",
+    "reconciler",
+    "scheme",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nakamasato/kubernetes-training/archive/40bc2d89b0fe190480981485f30b394915c57a89.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "managed-by-terraform"
+  ],
+  "version": "HEAD-40bc2d8-250625T020650",
+  "version_upstream": "",
+  "bsum": "98e60c0c15b76bc017c4e6421621063308f432f7debb82fc69b387f76d90e728",
+  "build_date": "2025-06-25T08:59:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870683942",
+  "build_id": "15870683942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/deltafifo?tag=HEAD-40bc2d8-250625T020650-loongarch64-Linux&download=deltafifo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/deltafifo?tag=HEAD-40bc2d8-250625T020650-loongarch64-Linux&download=deltafifo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/deltafifo:HEAD-40bc2d8-250625T020650-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/deltafifo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/deltafifo?tag=HEAD-40bc2d8-250625T020650-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb3067d6106632efbe883b5022e4f3e4b3bf981c492379ec124d1072d3572daf",
+  "size": "9.0 MB",
+  "size_raw": "9424832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
