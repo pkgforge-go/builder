@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vertical-pod-autoscaler-operator-cmd",
+  "pkg_family": "vertical-pod-autoscaler-operator",
+  "pkg_id": "vertical-pod-autoscaler-operator-cmd#github.com_openshift_vertical_pod_autoscaler_operator",
+  "pkg_name": "vertical-pod-autoscaler-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/vertical-pod-autoscaler-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An Operator for running the Vertical Pod Autoscaler on OpenShift",
+  "homepage": [
+    "https://github.com/openshift/vertical-pod-autoscaler-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "json2yaml",
+    "vertical-pod-autoscaler-operator-cmd",
+    "yaml2json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/vertical-pod-autoscaler-operator/archive/0cd16bc8eb907e2bd3537cdbad89fa67307f7ec2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0cd16bc-250624T200631",
+  "version_upstream": "",
+  "bsum": "ee46ff4705d53c1cbc7889b13f777d96967c901182b2f8bb8e7cd44307c0659a",
+  "build_date": "2025-06-25T09:13:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870979601",
+  "build_id": "15870979601",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/vertical-pod-autoscaler-operator/vertical-pod-autoscaler-operator-cmd?tag=HEAD-0cd16bc-250624T200631-riscv64-Linux&download=vertical-pod-autoscaler-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/vertical-pod-autoscaler-operator/vertical-pod-autoscaler-operator-cmd?tag=HEAD-0cd16bc-250624T200631-riscv64-Linux&download=vertical-pod-autoscaler-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/vertical-pod-autoscaler-operator/vertical-pod-autoscaler-operator-cmd:HEAD-0cd16bc-250624T200631-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/vertical-pod-autoscaler-operator/vertical-pod-autoscaler-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/vertical-pod-autoscaler-operator/vertical-pod-autoscaler-operator-cmd?tag=HEAD-0cd16bc-250624T200631-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "107b5e2f5256b4a964c611928eccc5062a687abed8e23cef31ff23e5aef884f1",
+  "size": "54 MB",
+  "size_raw": "55654552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
