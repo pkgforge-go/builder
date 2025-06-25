@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "syft-scanner",
+  "pkg_family": "buildkit-syft-scanner",
+  "pkg_id": "syft-scanner#github.com_docker_buildkit_syft_scanner",
+  "pkg_name": "syft-scanner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/buildkit-syft-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BuildKit Syft scanner",
+  "homepage": [
+    "https://github.com/docker/buildkit-syft-scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "syft-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docker/buildkit-syft-scanner/archive/db78cc1433b927f022fbf94410e78e8725031df5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-db78cc1-250625T155637",
+  "version_upstream": "",
+  "bsum": "20e34b81054034d358c15913548acbe5f5c31b1022ebe2e9f5958c08081f9f45",
+  "build_date": "2025-06-25T16:48:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881248989",
+  "build_id": "15881248989",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildkit-syft-scanner/syft-scanner?tag=HEAD-db78cc1-250625T155637-x86_64-Linux&download=syft-scanner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildkit-syft-scanner/syft-scanner?tag=HEAD-db78cc1-250625T155637-x86_64-Linux&download=syft-scanner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/buildkit-syft-scanner/syft-scanner:HEAD-db78cc1-250625T155637-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/buildkit-syft-scanner/syft-scanner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/buildkit-syft-scanner/syft-scanner?tag=HEAD-db78cc1-250625T155637-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04c554d5f07b88a4e2a75a5ae39cfc47170e5fc032495545015c5d0bc2df99ff",
+  "size": "62 MB",
+  "size_raw": "64757144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
