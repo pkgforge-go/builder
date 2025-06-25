@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "adoptium",
+  "pkg_family": "adoptium",
+  "pkg_id": "adoptium#github.com_paketo_buildpacks_adoptium",
+  "pkg_name": "adoptium",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/adoptium",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that provides the Adoptium implementations of JREs and JDKs",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/adoptium"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adoptium"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paketo-buildpacks/adoptium/archive/1ff56d1de1435ad7a5cc11d0ecf16108a21d8235.tar.gz"
+  ],
+  "tag": [
+    "adopt-openjdk",
+    "adoptium",
+    "cnb",
+    "hacktoberfest",
+    "jvm",
+    "jvm-applications"
+  ],
+  "version": "HEAD-1ff56d1-250624T160226",
+  "version_upstream": "v12.1.4",
+  "bsum": "b0ba1a6529bdd1677d64e0e697c8cdb5f79bf5f97300a108fb090b540a9e7e96",
+  "build_date": "2025-06-25T09:13:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870986807",
+  "build_id": "15870986807",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/adoptium/adoptium?tag=HEAD-1ff56d1-250624T160226-x86_64-Linux&download=adoptium.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/adoptium/adoptium?tag=HEAD-1ff56d1-250624T160226-x86_64-Linux&download=adoptium",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/adoptium/adoptium:HEAD-1ff56d1-250624T160226-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/adoptium/adoptium",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/adoptium/adoptium?tag=HEAD-1ff56d1-250624T160226-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c01c073dc37a10b7d999cad53995fad0c177ba47e4579d9532512e86c217cba0",
+  "size": "8.3 MB",
+  "size_raw": "8669536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
