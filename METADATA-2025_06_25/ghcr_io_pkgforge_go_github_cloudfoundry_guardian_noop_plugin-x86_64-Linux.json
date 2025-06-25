@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "noop_plugin",
+  "pkg_family": "guardian",
+  "pkg_id": "noop_plugin#github.com_cloudfoundry_guardian",
+  "pkg_name": "noop_plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/guardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "containers4life",
+  "homepage": [
+    "https://github.com/cloudfoundry/guardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dadoo",
+    "execas",
+    "fake_image_plugin",
+    "fake_network_plugin",
+    "fake_runc",
+    "fake_runc_stderr",
+    "fake_runtime_plugin",
+    "gdn",
+    "noop_plugin",
+    "socket2me",
+    "winit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/guardian/archive/79e4be171eda25d1a4295aba7fefecfc9ae93b1a.tar.gz"
+  ],
+  "tag": [
+    "cff-wg-app-runtime-platform"
+  ],
+  "version": "HEAD-79e4be1-250625T021013",
+  "version_upstream": "",
+  "bsum": "2c1aa8dd6c9c9f73e21f6c09f467673c3efcc77424a311465bdb141568b8cc58",
+  "build_date": "2025-06-25T07:44:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869620022",
+  "build_id": "15869620022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/noop_plugin?tag=HEAD-79e4be1-250625T021013-x86_64-Linux&download=noop_plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/noop_plugin?tag=HEAD-79e4be1-250625T021013-x86_64-Linux&download=noop_plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/guardian/noop_plugin:HEAD-79e4be1-250625T021013-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/guardian/noop_plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/noop_plugin?tag=HEAD-79e4be1-250625T021013-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "659bb9903965a54b8a51751126eb8c11a6697d0e74535c459b6ad0970f1e5b08",
+  "size": "1.6 MB",
+  "size_raw": "1669944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
