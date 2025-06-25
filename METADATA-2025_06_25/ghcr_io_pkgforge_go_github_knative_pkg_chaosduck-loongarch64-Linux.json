@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "chaosduck",
+  "pkg_family": "pkg",
+  "pkg_id": "chaosduck#github.com_knative_pkg",
+  "pkg_name": "chaosduck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/pkg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative common packages",
+  "homepage": [
+    "https://github.com/knative/pkg"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chaosduck",
+    "hash-gen",
+    "injection-gen",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/pkg/archive/fe85a65af284512ce196298730a79765c18208ec.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fe85a65-250625T132305",
+  "version_upstream": "",
+  "bsum": "ba9a69d2bdd9eb935538befe3d7ddba73015a9d3a0b9182e327192c5132d4e7a",
+  "build_date": "2025-06-25T17:19:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882184124",
+  "build_id": "15882184124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/chaosduck?tag=HEAD-fe85a65-250625T132305-loongarch64-Linux&download=chaosduck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "271",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/chaosduck?tag=HEAD-fe85a65-250625T132305-loongarch64-Linux&download=chaosduck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/pkg/chaosduck:HEAD-fe85a65-250625T132305-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/pkg/chaosduck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/chaosduck?tag=HEAD-fe85a65-250625T132305-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b1148fa2ec9e886bce64a506868b5e1361421b0830e1845e6656626763729589",
+  "size": "51 MB",
+  "size_raw": "52556224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
