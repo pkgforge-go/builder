@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "installer",
+  "pkg_id": "hack#github.com_openshift_installer",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/installer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Install an OpenShift 4.x cluster",
+  "homepage": [
+    "https://github.com/openshift/installer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hack",
+    "node-joiner",
+    "openshift-install"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/installer/archive/376af3afc7b7b916c011b5d6135807f09544c50c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-376af3a-250624T120332",
+  "version_upstream": "",
+  "bsum": "05c8a14c497c671a1cd798f979e76707cd39abe82401cd1daa8700b20d922249",
+  "build_date": "2025-06-25T03:53:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865934311",
+  "build_id": "15865934311",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/hack?tag=HEAD-376af3a-250624T120332-riscv64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1492",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/hack?tag=HEAD-376af3a-250624T120332-riscv64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/installer/hack:HEAD-376af3a-250624T120332-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/installer/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/installer/hack?tag=HEAD-376af3a-250624T120332-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a220271a8139521719c400330a038870441e17936c9b69ff3b227b8d8fcae11b",
+  "size": "9.1 MB",
+  "size_raw": "9444472",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7b227fa-250620T112332-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
