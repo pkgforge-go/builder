@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tools",
+  "pkg_family": "humio-operator",
+  "pkg_id": "tools#github.com_humio_humio_operator",
+  "pkg_name": "tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/humio/humio-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for Humio",
+  "homepage": [
+    "https://github.com/humio/humio-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "humio-operator-cmd",
+    "logscale-dummy",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/humio/humio-operator/archive/3953ccf9bdf31eae8733c15f4c240111e311a0fb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3953ccf-250625T110006",
+  "version_upstream": "",
+  "bsum": "e620cfb8ec28f76b691b9fe7df7a63a9165435cafd719fe1164cb51545257611",
+  "build_date": "2025-06-25T17:10:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881708695",
+  "build_id": "15881708695",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/humio/humio-operator/tools?tag=HEAD-3953ccf-250625T110006-aarch64-Linux&download=tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "38",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/humio/humio-operator/tools?tag=HEAD-3953ccf-250625T110006-aarch64-Linux&download=tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/humio/humio-operator/tools:HEAD-3953ccf-250625T110006-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/humio/humio-operator/tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/humio/humio-operator/tools?tag=HEAD-3953ccf-250625T110006-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a8f1f59ac09197df17348abcd20a57061b51e7e5ed8283b5292edaacff7bc5a",
+  "size": "6.5 MB",
+  "size_raw": "6739360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
