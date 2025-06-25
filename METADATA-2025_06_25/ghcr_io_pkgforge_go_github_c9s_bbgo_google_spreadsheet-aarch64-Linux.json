@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "google-spreadsheet",
+  "pkg_family": "bbgo",
+  "pkg_id": "google-spreadsheet#github.com_c9s_bbgo",
+  "pkg_name": "google-spreadsheet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/c9s/bbgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The modern cryptocurrency trading bot framework written in Go.",
+  "homepage": [
+    "https://github.com/c9s/bbgo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbgo",
+    "bbgo-lorca",
+    "binance-book",
+    "binance-margin",
+    "embed",
+    "google-spreadsheet",
+    "interact",
+    "kucoin",
+    "kucoin-accounts",
+    "max-rewards",
+    "max-withdraw",
+    "okex-book",
+    "telebot",
+    "update-doc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/c9s/bbgo/archive/38ed13a8f8cf6f63a745c1284fb028eaaeb68752.tar.gz"
+  ],
+  "tag": [
+    "binance",
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "trading",
+    "trading-bot"
+  ],
+  "version": "HEAD-38ed13a-250625T185928",
+  "version_upstream": "",
+  "bsum": "debf3461417cafa48212319d6b8e5741443a8d6aee665c2551d376d271f60908",
+  "build_date": "2025-06-25T22:26:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887928799",
+  "build_id": "15887928799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/google-spreadsheet?tag=HEAD-38ed13a-250625T185928-aarch64-Linux&download=google-spreadsheet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1371",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/google-spreadsheet?tag=HEAD-38ed13a-250625T185928-aarch64-Linux&download=google-spreadsheet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/c9s/bbgo/google-spreadsheet:HEAD-38ed13a-250625T185928-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/c9s/bbgo/google-spreadsheet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/c9s/bbgo/google-spreadsheet?tag=HEAD-38ed13a-250625T185928-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bc757833c936f52511c9a1d366e16310a04ca65aa99889f097283756a6c584eb",
+  "size": "19 MB",
+  "size_raw": "19588256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-56b482f-250618T155603-aarch64-Linux",
+    "HEAD-0425031-250620T155700-aarch64-Linux",
+    "HEAD-2bea5da-250624T151112-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
