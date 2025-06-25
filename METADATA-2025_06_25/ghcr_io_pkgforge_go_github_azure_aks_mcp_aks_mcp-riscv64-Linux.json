@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aks-mcp",
+  "pkg_family": "aks-mcp",
+  "pkg_id": "aks-mcp#github.com_Azure_aks_mcp",
+  "pkg_name": "aks-mcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/aks-mcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Model Context Protocol _MCP_ server that enables AI assistants to interact with AKS clusters. It serves as a bridge between AI tools _like Claude, Cursor, and GitHub Copilot_ and AKS.",
+  "homepage": [
+    "https://github.com/Azure/aks-mcp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aks-mcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/aks-mcp/archive/e36437df7b59d97a523ab17f77c24f3c3de1e6f4.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "mcp-server",
+    "model-context-protocol"
+  ],
+  "version": "HEAD-e36437d-250625T101054",
+  "version_upstream": "",
+  "bsum": "6ae1ee5fd048225a9dd66063889459080b84a011bb765c660e7d1c08c90cc4ef",
+  "build_date": "2025-06-25T07:00:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869552245",
+  "build_id": "15869552245",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aks-mcp/aks-mcp?tag=HEAD-e36437d-250625T101054-riscv64-Linux&download=aks-mcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aks-mcp/aks-mcp?tag=HEAD-e36437d-250625T101054-riscv64-Linux&download=aks-mcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/aks-mcp/aks-mcp:HEAD-e36437d-250625T101054-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/aks-mcp/aks-mcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/aks-mcp/aks-mcp?tag=HEAD-e36437d-250625T101054-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38335589cc46604091234e7c3b779450197455ae09ebb7a9c1af588194c8a693",
+  "size": "6.8 MB",
+  "size_raw": "7036376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
