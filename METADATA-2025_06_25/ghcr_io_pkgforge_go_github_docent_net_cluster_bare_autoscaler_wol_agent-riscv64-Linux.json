@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wol-agent",
+  "pkg_family": "cluster-bare-autoscaler",
+  "pkg_id": "wol-agent#github.com_docent_net_cluster_bare_autoscaler",
+  "pkg_name": "wol-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docent-net/cluster-bare-autoscaler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cluster Bare Autoscaler is a tool that automatically adjusts the size of the bare-metal Kubernetes cluster.",
+  "homepage": [
+    "https://github.com/docent-net/cluster-bare-autoscaler"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-bare-autoscaler",
+    "metrics-daemonset",
+    "poweroff-daemonset",
+    "wol-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/docent-net/cluster-bare-autoscaler/archive/1b0bdfd932d8885deddea946f38b38e4f70822bd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1b0bdfd-250624T233127",
+  "version_upstream": "0.7.8",
+  "bsum": "2fd120690c5b2e0f21d59f540ae3f99185cc891d4c950358e94d09297ed41869",
+  "build_date": "2025-06-25T07:50:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869666173",
+  "build_id": "15869666173",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docent-net/cluster-bare-autoscaler/wol-agent?tag=HEAD-1b0bdfd-250624T233127-riscv64-Linux&download=wol-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docent-net/cluster-bare-autoscaler/wol-agent?tag=HEAD-1b0bdfd-250624T233127-riscv64-Linux&download=wol-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docent-net/cluster-bare-autoscaler/wol-agent:HEAD-1b0bdfd-250624T233127-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docent-net/cluster-bare-autoscaler/wol-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docent-net/cluster-bare-autoscaler/wol-agent?tag=HEAD-1b0bdfd-250624T233127-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e78d358c28f3f0bf297e40139c7af074fa58bdda47d02fa6769a0a39c300247",
+  "size": "5.5 MB",
+  "size_raw": "5749496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
