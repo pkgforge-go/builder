@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pint",
+  "pkg_family": "pint",
+  "pkg_id": "pint#github.com_cloudflare_pint",
+  "pkg_name": "pint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/pint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus rule linter/validator",
+  "homepage": [
+    "https://github.com/cloudflare/pint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pint"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/pint/archive/8590dee6b1ba75f7dc313d083108bdb9a2186cac.tar.gz"
+  ],
+  "tag": [
+    "linter",
+    "metrics",
+    "observability",
+    "prometheus",
+    "validator"
+  ],
+  "version": "HEAD-8590dee-250624T141605",
+  "version_upstream": "",
+  "bsum": "ffe57c3c6734f4fdc2a73ba8e49ff47baa25bdcf215bd49ecc857c5ec6ee543f",
+  "build_date": "2025-06-25T02:50:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865784198",
+  "build_id": "15865784198",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/pint/pint?tag=HEAD-8590dee-250624T141605-riscv64-Linux&download=pint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "937",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/pint/pint?tag=HEAD-8590dee-250624T141605-riscv64-Linux&download=pint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/pint/pint:HEAD-8590dee-250624T141605-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/pint/pint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/pint/pint?tag=HEAD-8590dee-250624T141605-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d8d66234dbd1196adf41a3166c5e3c72ca4521f37b6522c743d07ec147be156",
+  "size": "26 MB",
+  "size_raw": "26339640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-64c56ae-250623T115419-riscv64-Linux[v0.74.2]"
+  ],
+  "trusted": "true"
+}
