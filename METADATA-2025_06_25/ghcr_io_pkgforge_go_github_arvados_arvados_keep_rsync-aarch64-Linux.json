@@ -38,7 +38,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/arvados/arvados/archive/18f80f734c3d901749e786202e45e100aa25dca0.tar.gz"
+    "https://github.com/arvados/arvados/archive/7fd091c7d58a6a56c2db29d25cde41c76f614668.tar.gz"
   ],
   "tag": [
     "arvados",
@@ -58,30 +58,31 @@
     "workflow",
     "workflow-engine"
   ],
-  "version": "HEAD-18f80f7-250624T151527",
+  "version": "HEAD-7fd091c-250625T095732",
   "version_upstream": "",
-  "bsum": "075caa3d386ef5607a3d1e8e279950fb87dbcac2fc7656e9c88cd7ad80b8d67a",
-  "build_date": "2025-06-25T10:45:08Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873290569",
-  "build_id": "15873290569",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-18f80f7-250624T151527-aarch64-Linux&download=keep-rsync.log",
+  "bsum": "5aa9846fe02aaf24b12999bc1992521827f4df615d1c7dd51132fd209b8ad597",
+  "build_date": "2025-06-25T22:30:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887928974",
+  "build_id": "15887928974",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-7fd091c-250625T095732-aarch64-Linux&download=keep-rsync.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "404",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-18f80f7-250624T151527-aarch64-Linux&download=keep-rsync",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-7fd091c-250625T095732-aarch64-Linux&download=keep-rsync",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/keep-rsync:HEAD-18f80f7-250624T151527-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/keep-rsync:HEAD-7fd091c-250625T095732-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/keep-rsync",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-18f80f7-250624T151527-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-7fd091c-250625T095732-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "816a5000afcdf727f938ec7f2b7a9cd65e0dbf7dd60b5b48e69b218a6d3cf748",
+  "shasum": "c98bae55f7237fce3a7b6f5eea954b27a310741360d5986089d37c1398831dc0",
   "size": "8.9 MB",
-  "size_raw": "9303200",
+  "size_raw": "9303776",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-1ad54b4-250618T124354-aarch64-Linux"
+    "HEAD-1ad54b4-250618T124354-aarch64-Linux",
+    "HEAD-18f80f7-250624T151527-aarch64-Linux"
   ],
   "trusted": "true"
 }
