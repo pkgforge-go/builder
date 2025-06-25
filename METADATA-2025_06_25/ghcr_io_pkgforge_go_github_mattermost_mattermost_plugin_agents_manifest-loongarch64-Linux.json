@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "manifest",
+  "pkg_family": "mattermost-plugin-agents",
+  "pkg_id": "manifest#github.com_mattermost_mattermost_plugin_agents",
+  "pkg_name": "manifest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mattermost/mattermost-plugin-agents",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mattermost Agents plugin supporting multiple LLMs",
+  "homepage": [
+    "https://github.com/mattermost/mattermost-plugin-agents"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manifest",
+    "pluginctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mattermost/mattermost-plugin-agents/archive/f21877fb16006d40146ccdb920ff2f0c9e7e78cd.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "llm",
+    "mattermost",
+    "mattermost-plugin"
+  ],
+  "version": "HEAD-f21877f-250625T042023",
+  "version_upstream": "v1.2.1",
+  "bsum": "8b3f1fb6c88a2b5e7830823e49f173815c4319f80f40a3fa622e637f255fbe2c",
+  "build_date": "2025-06-25T17:26:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882270535",
+  "build_id": "15882270535",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattermost/mattermost-plugin-agents/manifest?tag=HEAD-f21877f-250625T042023-loongarch64-Linux&download=manifest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "171",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattermost/mattermost-plugin-agents/manifest?tag=HEAD-f21877f-250625T042023-loongarch64-Linux&download=manifest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mattermost/mattermost-plugin-agents/manifest:HEAD-f21877f-250625T042023-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mattermost/mattermost-plugin-agents/manifest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattermost/mattermost-plugin-agents/manifest?tag=HEAD-f21877f-250625T042023-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "68a6c08368ae488532c43dcb03d75337d9118b5308bd1ba2f7aa096d6108e914",
+  "size": "14 MB",
+  "size_raw": "14210560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
