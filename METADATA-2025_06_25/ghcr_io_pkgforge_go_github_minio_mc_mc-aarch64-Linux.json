@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mc",
+  "pkg_family": "mc",
+  "pkg_id": "mc#github.com_minio_mc",
+  "pkg_name": "mc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/mc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Unix like utilities for object store",
+  "homepage": [
+    "https://github.com/minio/mc"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minio/mc/archive/3c9df3f2ea65ead76cdaa55ba0ec65700f5472ef.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "aws-s3",
+    "coreutils",
+    "filesystem",
+    "go",
+    "golang",
+    "s3",
+    "s3-bucket",
+    "storage",
+    "tools"
+  ],
+  "version": "HEAD-3c9df3f-250624T024142",
+  "version_upstream": "",
+  "bsum": "3c52104bbca72d0b5d2846dd5a16b7ac44ca9e0e482999682cf43c57dbd05b1b",
+  "build_date": "2025-06-25T03:29:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865925506",
+  "build_id": "15865925506",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/mc/mc?tag=HEAD-3c9df3f-250624T024142-aarch64-Linux&download=mc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3064",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/mc/mc?tag=HEAD-3c9df3f-250624T024142-aarch64-Linux&download=mc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/mc/mc:HEAD-3c9df3f-250624T024142-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/mc/mc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/mc/mc?tag=HEAD-3c9df3f-250624T024142-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72097fc1a0c31e3f188931cda72ffefdeccfbfa9f977ff8e80aa373111f5b964",
+  "size": "31 MB",
+  "size_raw": "31865504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-68f1d43-250524T220212-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
