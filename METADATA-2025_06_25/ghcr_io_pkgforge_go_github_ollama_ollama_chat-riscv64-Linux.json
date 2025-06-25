@@ -37,7 +37,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/ollama/ollama/archive/f08534137b127e1159f4b162881b8c2defc93158.tar.gz"
+    "https://github.com/ollama/ollama/archive/ad118d8b1306063d0ab2e967a20bd7914a135b28.tar.gz"
   ],
   "tag": [
     "deepseek",
@@ -58,22 +58,22 @@
     "phi4",
     "qwen"
   ],
-  "version": "HEAD-f085341-250624T202743",
-  "version_upstream": "v0.9.3-rc3",
+  "version": "HEAD-ad118d8-250624T210015",
+  "version_upstream": "v0.9.3-rc4",
   "bsum": "a34e529b0bc237359536c14e75b012c4062440d98f6fcff8f54c12cf84098b8d",
-  "build_date": "2025-06-25T12:39:51Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873569245",
-  "build_id": "15873569245",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/chat?tag=HEAD-f085341-250624T202743-riscv64-Linux&download=chat.log",
+  "build_date": "2025-06-25T23:56:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888067622",
+  "build_id": "15888067622",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/chat?tag=HEAD-ad118d8-250624T210015-riscv64-Linux&download=chat.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "144670",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/chat?tag=HEAD-f085341-250624T202743-riscv64-Linux&download=chat",
+  "download_count": "144719",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/chat?tag=HEAD-ad118d8-250624T210015-riscv64-Linux&download=chat",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ollama/ollama/chat:HEAD-f085341-250624T202743-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ollama/ollama/chat:HEAD-ad118d8-250624T210015-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/ollama/ollama/chat",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/chat?tag=HEAD-f085341-250624T202743-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/chat?tag=HEAD-ad118d8-250624T210015-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "2f5b36a0a5b97f9c755ce8c3049eaecb30f1a9e77f5d8ab68737df71d0a960c5",
@@ -83,7 +83,8 @@
   "snapshots": [
     "HEAD-87b7af6-250619T171249-riscv64-Linux",
     "HEAD-65bff66-250620T123251-riscv64-Linux",
-    "HEAD-10a8e04-250623T155250-riscv64-Linux"
+    "HEAD-10a8e04-250623T155250-riscv64-Linux",
+    "HEAD-f085341-250624T202743-riscv64-Linux[v0.9.3-rc3]"
   ],
   "trusted": "true"
 }
