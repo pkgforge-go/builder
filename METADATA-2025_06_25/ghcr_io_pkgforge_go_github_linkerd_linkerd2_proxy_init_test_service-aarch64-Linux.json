@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "test_service",
+  "pkg_family": "linkerd2-proxy-init",
+  "pkg_id": "test_service#github.com_linkerd_linkerd2_proxy_init",
+  "pkg_name": "test_service",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2-proxy-init",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Init container that sets up the iptables rules to forward traffic into the Linkerd2 sidecar proxy",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2-proxy-init"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cni-plugin",
+    "proxy-init",
+    "test_service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2-proxy-init/archive/05dc25c363a46d21a93695a984786e262be054e5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-05dc25c-250625T165541",
+  "version_upstream": "validator/v0.1.3",
+  "bsum": "36fa27e3dcef8b0a9d91ef588d8820100196844729bfcc730d985b79b1b0b2f3",
+  "build_date": "2025-06-25T17:23:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882255354",
+  "build_id": "15882255354",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2-proxy-init/test_service?tag=HEAD-05dc25c-250625T165541-aarch64-Linux&download=test_service.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2-proxy-init/test_service?tag=HEAD-05dc25c-250625T165541-aarch64-Linux&download=test_service",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2-proxy-init/test_service:HEAD-05dc25c-250625T165541-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2-proxy-init/test_service",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2-proxy-init/test_service?tag=HEAD-05dc25c-250625T165541-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39f62393c74b9e7ea828e463ec99e8c64432b40c02608afbc8af037578882d0f",
+  "size": "6.1 MB",
+  "size_raw": "6295616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

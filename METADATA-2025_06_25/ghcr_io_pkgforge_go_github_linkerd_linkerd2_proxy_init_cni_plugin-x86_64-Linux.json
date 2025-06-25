@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cni-plugin",
+  "pkg_family": "linkerd2-proxy-init",
+  "pkg_id": "cni-plugin#github.com_linkerd_linkerd2_proxy_init",
+  "pkg_name": "cni-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2-proxy-init",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Init container that sets up the iptables rules to forward traffic into the Linkerd2 sidecar proxy",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2-proxy-init"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cni-plugin",
+    "proxy-init",
+    "test_service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2-proxy-init/archive/05dc25c363a46d21a93695a984786e262be054e5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-05dc25c-250625T165541",
+  "version_upstream": "validator/v0.1.3",
+  "bsum": "28518410ad921f8d8b48043100aeddc3ffa6b254f0d5accedbc5122301d4753b",
+  "build_date": "2025-06-25T17:22:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15882255354",
+  "build_id": "15882255354",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2-proxy-init/cni-plugin?tag=HEAD-05dc25c-250625T165541-x86_64-Linux&download=cni-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2-proxy-init/cni-plugin?tag=HEAD-05dc25c-250625T165541-x86_64-Linux&download=cni-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2-proxy-init/cni-plugin:HEAD-05dc25c-250625T165541-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2-proxy-init/cni-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2-proxy-init/cni-plugin?tag=HEAD-05dc25c-250625T165541-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b9ddcfe2f1c9d06c49d1ef07c7b2f0c5c7127cdaec16d4965f21d512f01a1f2",
+  "size": "38 MB",
+  "size_raw": "38989696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
