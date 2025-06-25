@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "go-vsc-node",
+  "pkg_id": "test#github.com_vsc_eco_go_vsc_node",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vsc-eco/go-vsc-node",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang reference version of the virtual smart chain protocol",
+  "homepage": [
+    "https://github.com/vsc-eco/go-vsc-node"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "test",
+    "vsc-node"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vsc-eco/go-vsc-node/archive/a915388208aaf2e895871b0292aa425d2d1764b6.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "distributed-systems",
+    "evm",
+    "evm-wallet",
+    "zk-snarks"
+  ],
+  "version": "HEAD-a915388-250624T155831",
+  "version_upstream": "",
+  "bsum": "27e676f19d71dcb30a7e3ecc01db30f5c76e538fda19ca30aac4dbfbde32912f",
+  "build_date": "2025-06-25T10:19:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15872519144",
+  "build_id": "15872519144",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vsc-eco/go-vsc-node/test?tag=HEAD-a915388-250624T155831-riscv64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vsc-eco/go-vsc-node/test?tag=HEAD-a915388-250624T155831-riscv64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vsc-eco/go-vsc-node/test:HEAD-a915388-250624T155831-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vsc-eco/go-vsc-node/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vsc-eco/go-vsc-node/test?tag=HEAD-a915388-250624T155831-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c435f963ccaa23f26ec3e81417da3102467f857fd113db282bad39335d1eec0",
+  "size": "2.3 MB",
+  "size_raw": "2394664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
