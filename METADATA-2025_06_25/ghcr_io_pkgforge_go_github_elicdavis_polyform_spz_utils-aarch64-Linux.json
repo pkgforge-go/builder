@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "spz-utils",
+  "pkg_family": "polyform",
+  "pkg_id": "spz-utils#github.com_EliCDavis_polyform",
+  "pkg_name": "spz-utils",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/EliCDavis/polyform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Immutable mesh processing library",
+  "homepage": [
+    "https://github.com/EliCDavis/polyform"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "candle",
+    "chill",
+    "colmap-utils",
+    "covid",
+    "csg",
+    "flowers",
+    "gopher",
+    "inflate",
+    "mesh-util",
+    "mort-shuffle",
+    "oreo",
+    "pc-render",
+    "plumbob",
+    "ply-utils",
+    "polyform",
+    "polywasm",
+    "potree-utils",
+    "ray",
+    "render",
+    "spz-utils",
+    "terrain",
+    "text",
+    "voxelize"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/EliCDavis/polyform/archive/2f91886278dbaed73de216e52afaa484e5da9811.tar.gz"
+  ],
+  "tag": [
+    "3d",
+    "gaussian-splatting",
+    "generative-art",
+    "geometry",
+    "geometry-processing",
+    "gltf",
+    "mesh",
+    "mesh-processing",
+    "obj",
+    "ply",
+    "procedural-generation"
+  ],
+  "version": "HEAD-2f91886-250625T132945",
+  "version_upstream": "",
+  "bsum": "ed1dee7dd68bb58afee881a91f461dea0f023be0b7f391661e35fb56913bca55",
+  "build_date": "2025-06-25T22:06:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887924581",
+  "build_id": "15887924581",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/spz-utils?tag=HEAD-2f91886-250625T132945-aarch64-Linux&download=spz-utils.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/spz-utils?tag=HEAD-2f91886-250625T132945-aarch64-Linux&download=spz-utils",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elicdavis/polyform/spz-utils:HEAD-2f91886-250625T132945-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elicdavis/polyform/spz-utils",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elicdavis/polyform/spz-utils?tag=HEAD-2f91886-250625T132945-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e70c521daee8465f98120031365632ccec7da6bc1f12d07a4b36a5e3d3011433",
+  "size": "9.9 MB",
+  "size_raw": "10293952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b953e80-250621T194447-aarch64-Linux",
+    "HEAD-b7571d5-250622T035511-aarch64-Linux",
+    "HEAD-3e3d9c2-250622T200007-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
