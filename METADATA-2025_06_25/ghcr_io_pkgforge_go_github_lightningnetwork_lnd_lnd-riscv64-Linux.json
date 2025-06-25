@@ -33,7 +33,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/lightningnetwork/lnd/archive/6b80796bb82b083bf6f6b7370dab3de52b23ce0f.tar.gz"
+    "https://github.com/lightningnetwork/lnd/archive/4335d9cfb729640b9c78fa955d28152744dc5e21.tar.gz"
   ],
   "tag": [
     "bitcoin",
@@ -47,32 +47,33 @@
     "peer-to-peer",
     "protocol"
   ],
-  "version": "HEAD-6b80796-250624T143733",
+  "version": "HEAD-4335d9c-250624T205951",
   "version_upstream": "",
-  "bsum": "3386787461d262881604c1397757b7b41f89aeeed49e0ac7d48349d265017b55",
-  "build_date": "2025-06-25T03:29:08Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865873049",
-  "build_id": "15865873049",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-6b80796-250624T143733-riscv64-Linux&download=lnd.log",
+  "bsum": "94a7d548f7c85fff83e0e21106dfd4d1a5d44bbb2bdf9e74d9aafc360657b1dc",
+  "build_date": "2025-06-25T14:21:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877580393",
+  "build_id": "15877580393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-4335d9c-250624T205951-riscv64-Linux&download=lnd.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "7953",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-6b80796-250624T143733-riscv64-Linux&download=lnd",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-4335d9c-250624T205951-riscv64-Linux&download=lnd",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lnd:HEAD-6b80796-250624T143733-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lnd:HEAD-4335d9c-250624T205951-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lnd",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-6b80796-250624T143733-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lnd?tag=HEAD-4335d9c-250624T205951-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "b9dbc2c6696b90981cb48413b8012ec6a0d63dc9c27aad1896e8d7a3a1d05eb3",
+  "shasum": "006c8cc1c90d04fe2f4a9f0039ad4d577e02038eb9efbbe472b8d7138a8aae0f",
   "size": "59 MB",
-  "size_raw": "61818584",
+  "size_raw": "61861336",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-7857d2c-250620T134741-riscv64-Linux",
     "HEAD-faa68a2-250620T152624-riscv64-Linux",
-    "HEAD-09df589-250623T213331-riscv64-Linux"
+    "HEAD-09df589-250623T213331-riscv64-Linux",
+    "HEAD-6b80796-250624T143733-riscv64-Linux"
   ],
   "trusted": "true"
 }
