@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate-payment-request-edi",
+  "pkg_family": "mymove",
+  "pkg_id": "generate-payment-request-edi#github.com_transcom_mymove.git",
+  "pkg_name": "generate-payment-request-edi",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250625T151055",
+  "version_upstream": "",
+  "bsum": "a23d18aed2e04327720f684b96c74d7774818508dbffcc38f021a25905f4c5f1",
+  "build_date": "2025-06-25T15:30:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15877988800",
+  "build_id": "15877988800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove.git/generate-payment-request-edi?tag=20250625T151055-x86_64-Linux&download=generate-payment-request-edi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove.git/generate-payment-request-edi?tag=20250625T151055-x86_64-Linux&download=generate-payment-request-edi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove.git/generate-payment-request-edi:20250625T151055-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove.git/generate-payment-request-edi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove.git/generate-payment-request-edi?tag=20250625T151055-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b38c8ad258e0c78f4479b8253f0566d594258c498bffdffcf13bcbf314adf763",
+  "size": "36 MB",
+  "size_raw": "37310496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
