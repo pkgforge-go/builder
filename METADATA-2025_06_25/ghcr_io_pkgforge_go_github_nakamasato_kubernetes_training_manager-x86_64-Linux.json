@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "kubernetes-training",
+  "pkg_id": "manager#github.com_nakamasato_kubernetes_training",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nakamasato/kubernetes-training",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes training from basics to advanced",
+  "homepage": [
+    "https://github.com/nakamasato/kubernetes-training"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "clientset",
+    "deltafifo",
+    "example-controller",
+    "indexer",
+    "informer",
+    "kubernetes-training",
+    "lister",
+    "listerwatcher",
+    "log",
+    "manager",
+    "random-scheduler",
+    "reconciler",
+    "scheme",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nakamasato/kubernetes-training/archive/40bc2d89b0fe190480981485f30b394915c57a89.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "managed-by-terraform"
+  ],
+  "version": "HEAD-40bc2d8-250625T020650",
+  "version_upstream": "",
+  "bsum": "c76e0b3e624559e62f79628d09177cd8634ca57d4e1187bf8686d778d962ad3a",
+  "build_date": "2025-06-25T08:57:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870683942",
+  "build_id": "15870683942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/manager?tag=HEAD-40bc2d8-250625T020650-x86_64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/manager?tag=HEAD-40bc2d8-250625T020650-x86_64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/manager:HEAD-40bc2d8-250625T020650-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nakamasato/kubernetes-training/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nakamasato/kubernetes-training/manager?tag=HEAD-40bc2d8-250625T020650-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70c45fed1eaa5977ad3b05bb35b866309b7d488d3df10544ec02b8448132c62b",
+  "size": "43 MB",
+  "size_raw": "44689280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
