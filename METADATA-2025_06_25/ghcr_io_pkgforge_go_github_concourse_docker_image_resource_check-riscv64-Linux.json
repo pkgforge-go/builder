@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "docker-image-resource",
+  "pkg_id": "check#github.com_concourse_docker_image_resource",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/concourse/docker-image-resource",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a resource for docker images",
+  "homepage": [
+    "https://github.com/concourse/docker-image-resource"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "print-metadata"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/concourse/docker-image-resource/archive/3a3d21df61646a7919ac3192f8a69a7ae695e582.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3a3d21d-250624T155227",
+  "version_upstream": "v1.11.1",
+  "bsum": "e03e8099d9f1c62be96dcd080c68ef52e2a33a64edf53c3f5329c3cd43e57101",
+  "build_date": "2025-06-25T07:44:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15869626596",
+  "build_id": "15869626596",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/docker-image-resource/check?tag=HEAD-3a3d21d-250624T155227-riscv64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/docker-image-resource/check?tag=HEAD-3a3d21d-250624T155227-riscv64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/concourse/docker-image-resource/check:HEAD-3a3d21d-250624T155227-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/concourse/docker-image-resource/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/concourse/docker-image-resource/check?tag=HEAD-3a3d21d-250624T155227-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02b22d05e591094cad341709dc053b8269dee779623fb3a6f0182b421719222f",
+  "size": "12 MB",
+  "size_raw": "12408920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
