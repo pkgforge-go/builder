@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "daemonclient",
+  "pkg_family": "wal-g",
+  "pkg_id": "daemonclient#github.com_wal_g_wal_g",
+  "pkg_name": "daemonclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wal-g/wal-g",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Archival and Restoration for databases in the Cloud",
+  "homepage": [
+    "https://github.com/wal-g/wal-g"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ammogenerator",
+    "daemonclient",
+    "etcd",
+    "fdb",
+    "gp",
+    "loader",
+    "mongo",
+    "mysql",
+    "pg",
+    "redis",
+    "sqlserver",
+    "universal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wal-g/wal-g/archive/21c75f44409bd83940e3f9aa83a32a792be86125.tar.gz"
+  ],
+  "tag": [
+    "archiving",
+    "aws",
+    "aws-s3",
+    "azure",
+    "azure-storage",
+    "backup",
+    "cloud",
+    "go",
+    "golang",
+    "greenplum",
+    "mariadb",
+    "mongodb",
+    "mysql",
+    "postgres",
+    "postgresql",
+    "redis",
+    "s3",
+    "sqlserver"
+  ],
+  "version": "HEAD-21c75f4-250625T131317",
+  "version_upstream": "",
+  "bsum": "fb5d71432ed0d74e720522216ee0b2699a53c9a303b68702a2018286fd5085b1",
+  "build_date": "2025-06-25T19:03:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883437003",
+  "build_id": "15883437003",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/daemonclient?tag=HEAD-21c75f4-250625T131317-x86_64-Linux&download=daemonclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3604",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/daemonclient?tag=HEAD-21c75f4-250625T131317-x86_64-Linux&download=daemonclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wal-g/wal-g/daemonclient:HEAD-21c75f4-250625T131317-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wal-g/wal-g/daemonclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/daemonclient?tag=HEAD-21c75f4-250625T131317-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c12dfbdd1d98c4377bbc4146f9a25456a822b2ecab5867583d9e90f38582f7f",
+  "size": "3.7 MB",
+  "size_raw": "3809304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

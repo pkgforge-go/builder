@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fdb",
+  "pkg_family": "wal-g",
+  "pkg_id": "fdb#github.com_wal_g_wal_g",
+  "pkg_name": "fdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wal-g/wal-g",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Archival and Restoration for databases in the Cloud",
+  "homepage": [
+    "https://github.com/wal-g/wal-g"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ammogenerator",
+    "daemonclient",
+    "etcd",
+    "fdb",
+    "gp",
+    "loader",
+    "mongo",
+    "mysql",
+    "pg",
+    "redis",
+    "sqlserver",
+    "universal"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wal-g/wal-g/archive/21c75f44409bd83940e3f9aa83a32a792be86125.tar.gz"
+  ],
+  "tag": [
+    "archiving",
+    "aws",
+    "aws-s3",
+    "azure",
+    "azure-storage",
+    "backup",
+    "cloud",
+    "go",
+    "golang",
+    "greenplum",
+    "mariadb",
+    "mongodb",
+    "mysql",
+    "postgres",
+    "postgresql",
+    "redis",
+    "s3",
+    "sqlserver"
+  ],
+  "version": "HEAD-21c75f4-250625T131317",
+  "version_upstream": "",
+  "bsum": "e312001b17fe25bc73286fea6ec47b7cca94dfe895cc519908798a96af1e2c15",
+  "build_date": "2025-06-25T19:04:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883437003",
+  "build_id": "15883437003",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/fdb?tag=HEAD-21c75f4-250625T131317-x86_64-Linux&download=fdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3604",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/fdb?tag=HEAD-21c75f4-250625T131317-x86_64-Linux&download=fdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wal-g/wal-g/fdb:HEAD-21c75f4-250625T131317-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wal-g/wal-g/fdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wal-g/wal-g/fdb?tag=HEAD-21c75f4-250625T131317-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c693e3b8ff06207a80a201ea3a1aeea8fd9ddfc57d3881c4ac0edd0b800052a5",
+  "size": "62 MB",
+  "size_raw": "64546240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
