@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "loadtest",
+  "pkg_family": "kubefleet",
+  "pkg_id": "loadtest#github.com_kubefleet_dev_kubefleet",
+  "pkg_name": "loadtest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubefleet-dev/kubefleet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeFleet is an open-source Kubernetes multi-cluster application management solution.",
+  "homepage": [
+    "https://github.com/kubefleet-dev/kubefleet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authtoken",
+    "draincluster",
+    "hubagent",
+    "loadtest",
+    "memberagent",
+    "uncordoncluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubefleet-dev/kubefleet/archive/23615ea64fe26edb766437f80f5a167a89463a35.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-23615ea-250624T124548",
+  "version_upstream": "",
+  "bsum": "c7760d69acfd2c3d4b49bb6b5a76f09694529d19cb7e491cbba42b3dc8c6fcfe",
+  "build_date": "2025-06-25T08:34:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870339361",
+  "build_id": "15870339361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/loadtest?tag=HEAD-23615ea-250624T124548-loongarch64-Linux&download=loadtest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "73",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/loadtest?tag=HEAD-23615ea-250624T124548-loongarch64-Linux&download=loadtest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/loadtest:HEAD-23615ea-250624T124548-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/loadtest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/loadtest?tag=HEAD-23615ea-250624T124548-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "448de6286f6a1a5f066cf37a92b9dc7759d43f8d13b1edfba827eb8a39547488",
+  "size": "39 MB",
+  "size_raw": "40735296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
