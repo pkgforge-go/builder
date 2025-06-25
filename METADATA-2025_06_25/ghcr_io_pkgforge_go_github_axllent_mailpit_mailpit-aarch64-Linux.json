@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mailpit",
+  "pkg_family": "mailpit",
+  "pkg_id": "mailpit#github.com_axllent_mailpit",
+  "pkg_name": "mailpit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/axllent/mailpit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An email and SMTP testing tool with API for developers",
+  "homepage": [
+    "https://github.com/axllent/mailpit"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mailpit",
+    "sendmail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/axllent/mailpit/archive/79e9439858dbb99e230477b2fcddea4e986494fd.tar.gz"
+  ],
+  "tag": [
+    "email-testing",
+    "go",
+    "golang",
+    "mailpit",
+    "pop3-server",
+    "smtp-relay",
+    "smtp-server",
+    "smtp-testing"
+  ],
+  "version": "HEAD-79e9439-250624T170644",
+  "version_upstream": "",
+  "bsum": "be917f97fd44c14f6b12bd012336647a9b13db5f3ccbeeb2326c47735d4a1d11",
+  "build_date": "2025-06-25T02:40:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865755924",
+  "build_id": "15865755924",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/mailpit?tag=HEAD-79e9439-250624T170644-aarch64-Linux&download=mailpit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7259",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/mailpit?tag=HEAD-79e9439-250624T170644-aarch64-Linux&download=mailpit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/axllent/mailpit/mailpit:HEAD-79e9439-250624T170644-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/axllent/mailpit/mailpit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/mailpit?tag=HEAD-79e9439-250624T170644-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "779ab80acb721cec48f87a780ff7738d24df120c310ad15279c1931f7acc21d8",
+  "size": "23 MB",
+  "size_raw": "23301984",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3aae06f-250618T170407-aarch64-Linux",
+    "HEAD-cc5991c-250622T152522-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
