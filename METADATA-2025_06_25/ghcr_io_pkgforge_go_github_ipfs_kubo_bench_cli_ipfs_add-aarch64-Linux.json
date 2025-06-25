@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bench_cli_ipfs_add",
+  "pkg_family": "kubo",
+  "pkg_id": "bench_cli_ipfs_add#github.com_ipfs_kubo",
+  "pkg_name": "bench_cli_ipfs_add",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/kubo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IPFS implementation in Go",
+  "homepage": [
+    "https://github.com/ipfs/kubo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-startup",
+    "bench_cli_ipfs_add",
+    "offline_add"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/kubo/archive/be241769769ecd3bb29ddae7f2ff04f5157a9a03.tar.gz"
+  ],
+  "tag": [
+    "ipfs"
+  ],
+  "version": "HEAD-be24176-250625T012626",
+  "version_upstream": "",
+  "bsum": "51b1a833f86a21a8ac382e1bc5ab4c2599c571b3e51c71c98f36f2cf61a0b4ec",
+  "build_date": "2025-06-25T23:17:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15887997018",
+  "build_id": "15887997018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/bench_cli_ipfs_add?tag=HEAD-be24176-250625T012626-aarch64-Linux&download=bench_cli_ipfs_add.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16533",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/bench_cli_ipfs_add?tag=HEAD-be24176-250625T012626-aarch64-Linux&download=bench_cli_ipfs_add",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/kubo/bench_cli_ipfs_add:HEAD-be24176-250625T012626-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/kubo/bench_cli_ipfs_add",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/bench_cli_ipfs_add?tag=HEAD-be24176-250625T012626-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f81bdd5fbee4dd2c51024aebe6585837517d5f3c4ba862291da4810bf6c592fe",
+  "size": "18 MB",
+  "size_raw": "17880544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-92aa993-250618T191558-aarch64-Linux",
+    "HEAD-ace0b0b-250623T071811-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
