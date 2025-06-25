@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "validator",
+  "pkg_family": "indexer",
+  "pkg_id": "validator#github.com_algorand_indexer",
+  "pkg_name": "validator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/indexer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "searchable history and current state",
+  "homepage": [
+    "https://github.com/algorand/indexer"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "algorand-indexer",
+    "e2equeries",
+    "idbtest",
+    "misc",
+    "texttosource",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/algorand/indexer/archive/f95b13be8b50cb9109dbfec1adedf28c60656ac3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f95b13b-250624T155901",
+  "version_upstream": "",
+  "bsum": "430c899ccaf16fe72610449319d46ffbd5dbe16a2b1e96c177a79452f0f60d85",
+  "build_date": "2025-06-25T10:39:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15873273544",
+  "build_id": "15873273544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/validator?tag=HEAD-f95b13b-250624T155901-aarch64-Linux&download=validator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/validator?tag=HEAD-f95b13b-250624T155901-aarch64-Linux&download=validator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/indexer/validator:HEAD-f95b13b-250624T155901-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/indexer/validator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/indexer/validator?tag=HEAD-f95b13b-250624T155901-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1077b2817c057326c34b309223300291ec1adfd901b60fd1275ed8def712757d",
+  "size": "14 MB",
+  "size_raw": "14340992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-29afdc2-250624T104431-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
