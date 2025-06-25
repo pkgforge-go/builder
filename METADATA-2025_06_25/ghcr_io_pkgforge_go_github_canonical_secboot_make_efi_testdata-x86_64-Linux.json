@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "make-efi-testdata",
+  "pkg_family": "secboot",
+  "pkg_id": "make-efi-testdata#github.com_canonical_secboot",
+  "pkg_name": "make-efi-testdata",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/secboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/canonical/secboot"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-compattest-data",
+    "make-efi-testdata",
+    "run_argon2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/secboot/archive/8975f2d4c4c33c181412996443cce6a178ea182a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8975f2d-250624T131556",
+  "version_upstream": "",
+  "bsum": "0a14d1229a2a9e6a7420ba78af03914f5d991af28e8ec28db1aacd9cfb854996",
+  "build_date": "2025-06-25T02:47:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15865759284",
+  "build_id": "15865759284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/make-efi-testdata?tag=HEAD-8975f2d-250624T131556-x86_64-Linux&download=make-efi-testdata.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/make-efi-testdata?tag=HEAD-8975f2d-250624T131556-x86_64-Linux&download=make-efi-testdata",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/secboot/make-efi-testdata:HEAD-8975f2d-250624T131556-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/secboot/make-efi-testdata",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/secboot/make-efi-testdata?tag=HEAD-8975f2d-250624T131556-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da4d9f4ff51143323b04eeb02ada4791b8524de6c83e970981529da7b3799dbf",
+  "size": "6.0 MB",
+  "size_raw": "6263808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-97bf6d7-250619T110227-x86_64-Linux",
+    "HEAD-59cd310-250623T101110-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
