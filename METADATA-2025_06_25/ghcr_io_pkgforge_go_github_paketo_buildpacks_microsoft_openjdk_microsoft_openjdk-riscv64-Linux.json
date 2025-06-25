@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "microsoft-openjdk",
+  "pkg_family": "microsoft-openjdk",
+  "pkg_id": "microsoft-openjdk#github.com_paketo_buildpacks_microsoft_openjdk",
+  "pkg_name": "microsoft-openjdk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/microsoft-openjdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that provides the Microsoft OpenJDK implementations of JREs and JDKs",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/microsoft-openjdk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "microsoft-openjdk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paketo-buildpacks/microsoft-openjdk/archive/88053cfa2923ca43db691ec9fef19c669b6ed8d8.tar.gz"
+  ],
+  "tag": [
+    "cnb",
+    "jvm",
+    "jvm-applications",
+    "microsoft-openjdk"
+  ],
+  "version": "HEAD-88053cf-250624T155341",
+  "version_upstream": "v4.1.3",
+  "bsum": "dcdde1235d0edbbe67d39b9a3f5214a61a7bcfd29895777775105b4066152c22",
+  "build_date": "2025-06-25T09:16:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15871002618",
+  "build_id": "15871002618",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/microsoft-openjdk/microsoft-openjdk?tag=HEAD-88053cf-250624T155341-riscv64-Linux&download=microsoft-openjdk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/microsoft-openjdk/microsoft-openjdk?tag=HEAD-88053cf-250624T155341-riscv64-Linux&download=microsoft-openjdk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/microsoft-openjdk/microsoft-openjdk:HEAD-88053cf-250624T155341-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/microsoft-openjdk/microsoft-openjdk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/microsoft-openjdk/microsoft-openjdk?tag=HEAD-88053cf-250624T155341-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a965826cff0de1523284072cc2b1d8476377b7311292bb26a242031ea9ac39d",
+  "size": "7.8 MB",
+  "size_raw": "8131576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
