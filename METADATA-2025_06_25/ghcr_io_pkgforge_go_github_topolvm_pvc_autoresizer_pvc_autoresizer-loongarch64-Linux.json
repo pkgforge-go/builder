@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pvc-autoresizer",
+  "pkg_family": "pvc-autoresizer",
+  "pkg_id": "pvc-autoresizer#github.com_topolvm_pvc_autoresizer",
+  "pkg_name": "pvc-autoresizer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topolvm/pvc-autoresizer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Auto-resize PersistentVolumeClaim objects based on Prometheus metrics",
+  "homepage": [
+    "https://github.com/topolvm/pvc-autoresizer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pvc-autoresizer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topolvm/pvc-autoresizer/archive/cd34e8469696032ce99a18b49a421c8bda76d440.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "pvc",
+    "storage"
+  ],
+  "version": "HEAD-cd34e84-250625T191014",
+  "version_upstream": "",
+  "bsum": "709fad20ad273ad9459fedb9d7907ccae65e83fc3f6b6d3db94f11d74b549ea1",
+  "build_date": "2025-06-25T18:33:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15883235867",
+  "build_id": "15883235867",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/pvc-autoresizer/pvc-autoresizer?tag=HEAD-cd34e84-250625T191014-loongarch64-Linux&download=pvc-autoresizer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "273",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/pvc-autoresizer/pvc-autoresizer?tag=HEAD-cd34e84-250625T191014-loongarch64-Linux&download=pvc-autoresizer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topolvm/pvc-autoresizer/pvc-autoresizer:HEAD-cd34e84-250625T191014-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topolvm/pvc-autoresizer/pvc-autoresizer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/pvc-autoresizer/pvc-autoresizer?tag=HEAD-cd34e84-250625T191014-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "437944f604d34672bd8e8a4637d48fab5a457ad9c2c11ad1ca3fe671581a1722",
+  "size": "42 MB",
+  "size_raw": "43664192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
