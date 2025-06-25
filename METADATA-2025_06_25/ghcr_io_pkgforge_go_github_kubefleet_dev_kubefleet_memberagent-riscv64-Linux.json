@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "memberagent",
+  "pkg_family": "kubefleet",
+  "pkg_id": "memberagent#github.com_kubefleet_dev_kubefleet",
+  "pkg_name": "memberagent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubefleet-dev/kubefleet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeFleet is an open-source Kubernetes multi-cluster application management solution.",
+  "homepage": [
+    "https://github.com/kubefleet-dev/kubefleet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authtoken",
+    "draincluster",
+    "hubagent",
+    "loadtest",
+    "memberagent",
+    "uncordoncluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubefleet-dev/kubefleet/archive/23615ea64fe26edb766437f80f5a167a89463a35.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-23615ea-250624T124548",
+  "version_upstream": "",
+  "bsum": "e20279887e2d50bf0dd153da960d865810d31733ab7d76796f0e56b8ab4478ac",
+  "build_date": "2025-06-25T08:33:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870339361",
+  "build_id": "15870339361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/memberagent?tag=HEAD-23615ea-250624T124548-riscv64-Linux&download=memberagent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "73",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/memberagent?tag=HEAD-23615ea-250624T124548-riscv64-Linux&download=memberagent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/memberagent:HEAD-23615ea-250624T124548-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubefleet-dev/kubefleet/memberagent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubefleet-dev/kubefleet/memberagent?tag=HEAD-23615ea-250624T124548-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "617d50ee4b916abcfb79cdb05bdb12ed5d1e48286981a557475ceb5038f250f4",
+  "size": "54 MB",
+  "size_raw": "56054520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
