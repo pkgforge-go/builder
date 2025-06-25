@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "linode-cloud-controller-manager",
+  "pkg_family": "linode-cloud-controller-manager",
+  "pkg_id": "linode-cloud-controller-manager#github.com_linode_linode_cloud_controller_manager",
+  "pkg_name": "linode-cloud-controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linode/linode-cloud-controller-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Cloud Controller Manager for Linode",
+  "homepage": [
+    "https://github.com/linode/linode-cloud-controller-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "linode-cloud-controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linode/linode-cloud-controller-manager/archive/5aed64cea599b2a5372a93ec2df622248852db04.tar.gz"
+  ],
+  "tag": [
+    "ccm",
+    "kubernetes",
+    "kubernetes-controller",
+    "linode",
+    "loadbalancer",
+    "nodebalancer"
+  ],
+  "version": "HEAD-5aed64c-250624T162602",
+  "version_upstream": "helm-v0.8.1",
+  "bsum": "210598ccb088382b03462c822f65e9474edf9334ff0e27d4c99e36610b96e08b",
+  "build_date": "2025-06-25T08:37:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15870492227",
+  "build_id": "15870492227",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/linode-cloud-controller-manager/linode-cloud-controller-manager?tag=HEAD-5aed64c-250624T162602-riscv64-Linux&download=linode-cloud-controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "85",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/linode-cloud-controller-manager/linode-cloud-controller-manager?tag=HEAD-5aed64c-250624T162602-riscv64-Linux&download=linode-cloud-controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linode/linode-cloud-controller-manager/linode-cloud-controller-manager:HEAD-5aed64c-250624T162602-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linode/linode-cloud-controller-manager/linode-cloud-controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/linode-cloud-controller-manager/linode-cloud-controller-manager?tag=HEAD-5aed64c-250624T162602-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e83772f5109dc1cb3b4f6a503006f27288574c3712173cc1d3bac021995794e",
+  "size": "85 MB",
+  "size_raw": "88107768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
