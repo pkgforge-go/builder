@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "host",
+  "pkg_family": "go-sensor",
+  "pkg_id": "host#github.com_instana_go_sensor",
+  "pkg_name": "host",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/instana/go-sensor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":rocket: Go Distributed Tracing _ Metrics Sensor for Instana",
+  "homepage": [
+    "https://github.com/instana/go-sensor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoprofile",
+    "change",
+    "change_event",
+    "default_service",
+    "host",
+    "service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/instana/go-sensor/archive/3edb53dcabd3bce8d46b01bacaab51694552f80b.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "go",
+    "golang",
+    "gopher",
+    "instana",
+    "instrumentation",
+    "metrics",
+    "metrics-gathering",
+    "monitoring",
+    "opentracing",
+    "performance",
+    "performance-monitoring",
+    "trace",
+    "tracing"
+  ],
+  "version": "HEAD-3edb53d-250625T112223",
+  "version_upstream": "",
+  "bsum": "d738929cb740281ea06b88e24f8676de3bb7187227fa4b2343caba9bae5b99a5",
+  "build_date": "2025-06-25T17:08:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15881905610",
+  "build_id": "15881905610",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instana/go-sensor/host?tag=HEAD-3edb53d-250625T112223-riscv64-Linux&download=host.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "127",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instana/go-sensor/host?tag=HEAD-3edb53d-250625T112223-riscv64-Linux&download=host",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/instana/go-sensor/host:HEAD-3edb53d-250625T112223-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/instana/go-sensor/host",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/instana/go-sensor/host?tag=HEAD-3edb53d-250625T112223-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f75d7cb7636b910b9819ab683b652584a14c1135098fee123ff413691e568eb",
+  "size": "7.0 MB",
+  "size_raw": "7322392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
