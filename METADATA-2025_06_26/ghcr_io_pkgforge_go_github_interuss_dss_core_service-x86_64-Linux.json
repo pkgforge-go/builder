@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "core-service",
+  "pkg_family": "dss",
+  "pkg_id": "core-service#github.com_interuss_dss",
+  "pkg_name": "core-service",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/interuss/dss",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "InterUSS Platform_s implementation of the ASTM DSS concept for RID and flight coordination.",
+  "homepage": [
+    "https://github.com/interuss/dss"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "core-service",
+    "db-manager",
+    "dummy-oauth",
+    "test-certs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/interuss/dss/archive/7280bc9b57964719d6504acb6b38f05d769003c2.tar.gz"
+  ],
+  "tag": [
+    "drone",
+    "uas",
+    "uss"
+  ],
+  "version": "HEAD-7280bc9-250626T134814",
+  "version_upstream": "",
+  "bsum": "78303a7825f0f95c91335a038f383ea6f24ed32aef9f4a16e15de00244ac001a",
+  "build_date": "2025-06-26T23:20:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913332562",
+  "build_id": "15913332562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/core-service?tag=HEAD-7280bc9-250626T134814-x86_64-Linux&download=core-service.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/core-service?tag=HEAD-7280bc9-250626T134814-x86_64-Linux&download=core-service",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/interuss/dss/core-service:HEAD-7280bc9-250626T134814-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/interuss/dss/core-service",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/core-service?tag=HEAD-7280bc9-250626T134814-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "404788c92d65898728b37150427e93c570b6f79d686b19ffb57619a8805f4d97",
+  "size": "23 MB",
+  "size_raw": "24005792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2b68fe4-250619T231548-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
