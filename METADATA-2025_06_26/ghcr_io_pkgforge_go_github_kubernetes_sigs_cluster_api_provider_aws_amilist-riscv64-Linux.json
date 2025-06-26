@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "amilist",
+  "pkg_family": "cluster-api-provider-aws",
+  "pkg_id": "amilist#github.com_kubernetes_sigs_cluster_api_provider_aws",
+  "pkg_name": "amilist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/cluster-api-provider-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of _self-managed_ and EKS Kubernetes clusters on AWS.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amilist",
+    "cluster-api-provider-aws",
+    "clusterawsadm",
+    "clusterawsadmdocs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-aws/archive/570bb5ebc6bf26ff0efd29a12f2483870f37daac.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "k8s-sig-cluster-lifecycle",
+    "kubernetes-cluster"
+  ],
+  "version": "HEAD-570bb5e-250625T132029",
+  "version_upstream": "",
+  "bsum": "f145ea1b5de57f34bac46bd6d733803c15266f1fd365751093be6e5759b8a4b8",
+  "build_date": "2025-06-26T08:26:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895929633",
+  "build_id": "15895929633",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/amilist?tag=HEAD-570bb5e-250625T132029-riscv64-Linux&download=amilist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "671",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/amilist?tag=HEAD-570bb5e-250625T132029-riscv64-Linux&download=amilist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/amilist:HEAD-570bb5e-250625T132029-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/amilist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/amilist?tag=HEAD-570bb5e-250625T132029-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e769c430397b7a7f1e33bf73d9409483e880a599597a216d22aa350c3b7636b",
+  "size": "58 MB",
+  "size_raw": "60546328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
