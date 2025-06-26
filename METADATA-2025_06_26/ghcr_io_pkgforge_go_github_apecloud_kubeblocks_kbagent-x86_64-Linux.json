@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kbagent",
+  "pkg_family": "kubeblocks",
+  "pkg_id": "kbagent#github.com_apecloud_kubeblocks",
+  "pkg_name": "kbagent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apecloud/kubeblocks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.",
+  "homepage": [
+    "https://github.com/apecloud/kubeblocks"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dataprotection",
+    "kbagent",
+    "manager",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apecloud/kubeblocks/archive/8db0c0b0c4d9eeaabaf982d5bf94be3d9a8c746e.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "dbaas",
+    "dbpaas",
+    "kafka",
+    "kubernetes",
+    "mongodb",
+    "mysql",
+    "operator",
+    "postgresql",
+    "redis"
+  ],
+  "version": "HEAD-8db0c0b-250626T110512",
+  "version_upstream": "",
+  "bsum": "6e9781096d1ce61e79d3e126975fd5891a4a05f411646a5178c56615b86c9de7",
+  "build_date": "2025-06-26T10:09:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898684317",
+  "build_id": "15898684317",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apecloud/kubeblocks/kbagent?tag=HEAD-8db0c0b-250626T110512-x86_64-Linux&download=kbagent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2741",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apecloud/kubeblocks/kbagent?tag=HEAD-8db0c0b-250626T110512-x86_64-Linux&download=kbagent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apecloud/kubeblocks/kbagent:HEAD-8db0c0b-250626T110512-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apecloud/kubeblocks/kbagent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apecloud/kubeblocks/kbagent?tag=HEAD-8db0c0b-250626T110512-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be15770ef6c7c3a3a175b4aab58429258559a7386cfac8e8aa044247b71adb99",
+  "size": "40 MB",
+  "size_raw": "41630384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8e34326-250616T111821-x86_64-Linux",
+    "HEAD-b08317f-250620T114352-x86_64-Linux",
+    "HEAD-d5a55ee-250623T100640-x86_64-Linux",
+    "HEAD-1d711bd-250623T213401-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
