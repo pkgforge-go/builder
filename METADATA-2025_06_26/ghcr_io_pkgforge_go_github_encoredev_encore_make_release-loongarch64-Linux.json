@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "make-release",
+  "pkg_family": "encore",
+  "pkg_id": "make-release#github.com_encoredev_encore",
+  "pkg_name": "make-release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/encoredev/encore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+  "homepage": [
+    "https://github.com/encoredev/encore"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-local-binary",
+    "gendocs",
+    "git-remote-encore",
+    "make-release",
+    "publicapigen",
+    "supervisor-encore",
+    "tsbundler-encore"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/encoredev/encore/archive/c326f21ffe01ba0ac690f14d8b9f8f4622f30008.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "aws",
+    "backend",
+    "backend-framework",
+    "cloud",
+    "cloud-native",
+    "database",
+    "devops",
+    "distributed-systems",
+    "encore",
+    "gcp",
+    "go",
+    "golang",
+    "microservice-framework",
+    "microservices",
+    "nodejs-framework",
+    "postgresql",
+    "serverless",
+    "typescript",
+    "typescript-framework"
+  ],
+  "version": "HEAD-c326f21-250626T134854",
+  "version_upstream": "",
+  "bsum": "00bf27211666701bd2ff02f1b1f7e773c54bb18b093585842f1958214ee8c259",
+  "build_date": "2025-06-26T22:56:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913281570",
+  "build_id": "15913281570",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encoredev/encore/make-release?tag=HEAD-c326f21-250626T134854-loongarch64-Linux&download=make-release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10210",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encoredev/encore/make-release?tag=HEAD-c326f21-250626T134854-loongarch64-Linux&download=make-release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/encoredev/encore/make-release:HEAD-c326f21-250626T134854-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/encoredev/encore/make-release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encoredev/encore/make-release?tag=HEAD-c326f21-250626T134854-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3fdcf8fe80cac5de0e41c786bed6d33deb73471708916943f100bdabd895b423",
+  "size": "8.6 MB",
+  "size_raw": "8994944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-81f8985-250619T144228-loongarch64-Linux",
+    "HEAD-a08ab3a-250623T140718-loongarch64-Linux[v1.48.6]",
+    "HEAD-86ac09d-250624T153812-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
