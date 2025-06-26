@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "postprocess",
+  "pkg_family": "coder",
+  "pkg_id": "postprocess#github.com_coder_coder",
+  "pkg_name": "postprocess",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coder/coder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision remote development environments via Terraform",
+  "homepage": [
+    "https://github.com/coder/coder"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitypings",
+    "auditdocgen",
+    "audittypegen",
+    "clidocgen",
+    "cliui",
+    "cmdtest",
+    "coder",
+    "dbgen",
+    "dump",
+    "echoserver",
+    "embedded-pg",
+    "examplegen",
+    "gensite",
+    "metricsdocgen",
+    "migrate-ci",
+    "migrate-test",
+    "postprocess",
+    "release",
+    "releasemigrations",
+    "testidp",
+    "typegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coder/coder/archive/fdf458eb19e74b13f6de042a1377001aa6ad92c8.tar.gz"
+  ],
+  "tag": [
+    "dev-tools",
+    "development-environment",
+    "go",
+    "golang",
+    "ide",
+    "jetbrains",
+    "remote-development",
+    "terraform",
+    "vscode"
+  ],
+  "version": "HEAD-fdf458e-250625T170949",
+  "version_upstream": "",
+  "bsum": "42c6e085baaf3021649255da242555e8ec70dc1ca6903d88dd73bddd2bd5e859",
+  "build_date": "2025-06-26T10:44:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898695108",
+  "build_id": "15898695108",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/postprocess?tag=HEAD-fdf458e-250625T170949-x86_64-Linux&download=postprocess.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10125",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/postprocess?tag=HEAD-fdf458e-250625T170949-x86_64-Linux&download=postprocess",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/postprocess:HEAD-fdf458e-250625T170949-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/postprocess",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/postprocess?tag=HEAD-fdf458e-250625T170949-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "573b2b9ff84066a267f7a1013bb61f63bf45bd402a7d905ca6e466be93b87897",
+  "size": "2.6 MB",
+  "size_raw": "2700504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-511fd09-250619T133251-x86_64-Linux",
+    "HEAD-725bc37-250621T184630-x86_64-Linux",
+    "HEAD-ba08d38-250623T135451-x86_64-Linux",
+    "HEAD-5ed0c7a-250623T150818-x86_64-Linux",
+    "HEAD-a4f1c64-250624T164701-x86_64-Linux",
+    "HEAD-79c666b-250625T112735-x86_64-Linux",
+    "HEAD-3c4d920-250625T144136-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
