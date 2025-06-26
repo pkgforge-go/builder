@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "flatten",
+  "pkg_family": "launcher",
+  "pkg_id": "flatten#github.com_kolide_launcher",
+  "pkg_name": "flatten",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kolide/launcher",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Osquery launcher, autoupdater, and packager",
+  "homepage": [
+    "https://github.com/kolide/launcher"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "flatten",
+    "generator",
+    "key-identifier",
+    "launcher",
+    "launcher-tools",
+    "make",
+    "package-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kolide/launcher/archive/309193d8147487760b3d83d4b44c22039d32b790.tar.gz"
+  ],
+  "tag": [
+    "devops",
+    "go-kit",
+    "golang",
+    "grpc",
+    "hacktoberfest",
+    "host-instrumentation",
+    "osquery",
+    "sysadmin"
+  ],
+  "version": "HEAD-309193d-250625T184448",
+  "version_upstream": "",
+  "bsum": "d7ade981d75aba62838e841e95f0e8315b841d843486bef9b98932ade3769864",
+  "build_date": "2025-06-26T14:05:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902956414",
+  "build_id": "15902956414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/flatten?tag=HEAD-309193d-250625T184448-riscv64-Linux&download=flatten.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "528",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/flatten?tag=HEAD-309193d-250625T184448-riscv64-Linux&download=flatten",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kolide/launcher/flatten:HEAD-309193d-250625T184448-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kolide/launcher/flatten",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/flatten?tag=HEAD-309193d-250625T184448-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "25a3eec72de7e6630c61bb6c9f4a13dcad3809545ba1f3284a15b2d7da038a07",
+  "size": "3.1 MB",
+  "size_raw": "3207912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c5205b7-250620T211834-riscv64-Linux",
+    "HEAD-3d77525-250624T214621-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

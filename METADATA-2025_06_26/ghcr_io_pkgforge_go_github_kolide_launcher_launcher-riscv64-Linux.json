@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "launcher",
+  "pkg_family": "launcher",
+  "pkg_id": "launcher#github.com_kolide_launcher",
+  "pkg_name": "launcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kolide/launcher",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Osquery launcher, autoupdater, and packager",
+  "homepage": [
+    "https://github.com/kolide/launcher"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "flatten",
+    "generator",
+    "key-identifier",
+    "launcher",
+    "launcher-tools",
+    "make",
+    "package-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kolide/launcher/archive/309193d8147487760b3d83d4b44c22039d32b790.tar.gz"
+  ],
+  "tag": [
+    "devops",
+    "go-kit",
+    "golang",
+    "grpc",
+    "hacktoberfest",
+    "host-instrumentation",
+    "osquery",
+    "sysadmin"
+  ],
+  "version": "HEAD-309193d-250625T184448",
+  "version_upstream": "",
+  "bsum": "270a4999f8a7290efa1f8dcf7512d8f03958b2550b786e5a91e3c5cf2460d084",
+  "build_date": "2025-06-26T14:04:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902956414",
+  "build_id": "15902956414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/launcher?tag=HEAD-309193d-250625T184448-riscv64-Linux&download=launcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "528",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/launcher?tag=HEAD-309193d-250625T184448-riscv64-Linux&download=launcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kolide/launcher/launcher:HEAD-309193d-250625T184448-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kolide/launcher/launcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/launcher?tag=HEAD-309193d-250625T184448-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f928eef4226939de19a9e3215b520ea791668d1b106bc97d2a08a4ce7698b7aa",
+  "size": "28 MB",
+  "size_raw": "28924632",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c5205b7-250620T211834-riscv64-Linux",
+    "HEAD-3d77525-250624T214621-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
