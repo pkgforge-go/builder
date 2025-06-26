@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bosh-agent-main",
+  "pkg_family": "bosh-agent",
+  "pkg_id": "bosh-agent-main#github.com_cloudfoundry_bosh_agent",
+  "pkg_name": "bosh-agent-main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/bosh-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BOSH Agent runs on each BOSH deployed VM",
+  "homepage": [
+    "https://github.com/cloudfoundry/bosh-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bosh-agent-main",
+    "execution-lock",
+    "fake-blobstore",
+    "pipe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/bosh-agent/archive/e72dfa1fc59a38db2a262dc935745c1a1d0ae6af.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e72dfa1-250625T215537",
+  "version_upstream": "v2.754.0",
+  "bsum": "bb77662e47dca1e62d282d1b9df835b02d2a588fdaf663e01a66de2eddcd9d60",
+  "build_date": "2025-06-26T07:38:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895152316",
+  "build_id": "15895152316",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/bosh-agent-main?tag=HEAD-e72dfa1-250625T215537-riscv64-Linux&download=bosh-agent-main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/bosh-agent-main?tag=HEAD-e72dfa1-250625T215537-riscv64-Linux&download=bosh-agent-main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/bosh-agent/bosh-agent-main:HEAD-e72dfa1-250625T215537-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/bosh-agent/bosh-agent-main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/bosh-agent-main?tag=HEAD-e72dfa1-250625T215537-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d671c764e7caf2bb5ae557b2025e4d2abfddb51f6186a06ddc7bab1b4cee4b8a",
+  "size": "16 MB",
+  "size_raw": "16696216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

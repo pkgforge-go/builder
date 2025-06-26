@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pipe",
+  "pkg_family": "bosh-agent",
+  "pkg_id": "pipe#github.com_cloudfoundry_bosh_agent",
+  "pkg_name": "pipe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/bosh-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BOSH Agent runs on each BOSH deployed VM",
+  "homepage": [
+    "https://github.com/cloudfoundry/bosh-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bosh-agent-main",
+    "execution-lock",
+    "fake-blobstore",
+    "pipe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/bosh-agent/archive/e72dfa1fc59a38db2a262dc935745c1a1d0ae6af.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e72dfa1-250625T215537",
+  "version_upstream": "v2.754.0",
+  "bsum": "4c713c4fed3da9f04b91087993a7f54c4665e08fbafe4350b90e8374bb433500",
+  "build_date": "2025-06-26T07:37:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895152316",
+  "build_id": "15895152316",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/pipe?tag=HEAD-e72dfa1-250625T215537-riscv64-Linux&download=pipe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/pipe?tag=HEAD-e72dfa1-250625T215537-riscv64-Linux&download=pipe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/bosh-agent/pipe:HEAD-e72dfa1-250625T215537-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/bosh-agent/pipe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/pipe?tag=HEAD-e72dfa1-250625T215537-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3e592aba99b39efb68ac848e85e5f1dfc4f8cb87e7e08b3c73c6242af5845c0",
+  "size": "5.9 MB",
+  "size_raw": "6143960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
