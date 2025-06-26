@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "terramate-ls",
+  "pkg_family": "terramate",
+  "pkg_id": "terramate-ls#github.com_terramate_io_terramate",
+  "pkg_name": "terramate-ls",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terramate-io/terramate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-source Infrastructure as Code _IaC_ orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and more. Integrates with Terraform, OpenTofu, Terragrunt, Kubernetes, GitHub Actions, GitLab CI/CD, BitBucket Pipelines, and any other CI/CD platform.",
+  "homepage": [
+    "https://github.com/terramate-io/terramate"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helper",
+    "terramate",
+    "terramate-ls",
+    "testserver",
+    "tgdeps"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terramate-io/terramate/archive/005217b83710be61ea18b8d0ced3d0f88a669870.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-005217b-250626T111522",
+  "version_upstream": "v0.14.0-rc1",
+  "bsum": "b6a50c555b95671433fe29c89ac2beceb6c01bc255fc0dbdac794fa787e8e6d0",
+  "build_date": "2025-06-26T18:16:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908529962",
+  "build_id": "15908529962",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/terramate-ls?tag=HEAD-005217b-250626T111522-x86_64-Linux&download=terramate-ls.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3399",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/terramate-ls?tag=HEAD-005217b-250626T111522-x86_64-Linux&download=terramate-ls",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terramate-io/terramate/terramate-ls:HEAD-005217b-250626T111522-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terramate-io/terramate/terramate-ls",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/terramate-ls?tag=HEAD-005217b-250626T111522-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27318ddada4967a426104fefcd9b030187fa83f61fcdc7c236f677460c6ecd18",
+  "size": "43 MB",
+  "size_raw": "44265360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
