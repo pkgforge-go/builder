@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "destination-client",
+  "pkg_family": "linkerd2",
+  "pkg_id": "destination-client#github.com_linkerd_linkerd2",
+  "pkg_name": "destination-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "destination-client",
+    "policy-client",
+    "proxy-identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2/archive/57b08a7c111efb8c4aa8b1014f365088050527bd.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "kubernetes",
+    "linkerd",
+    "rust",
+    "service-mesh"
+  ],
+  "version": "HEAD-57b08a7-250625T161307",
+  "version_upstream": "",
+  "bsum": "5c4ef981ced67f2a1bad455f853e68b1f5ea6d8db57f87c66696492d4187722d",
+  "build_date": "2025-06-26T11:26:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898965941",
+  "build_id": "15898965941",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/destination-client?tag=HEAD-57b08a7-250625T161307-aarch64-Linux&download=destination-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10991",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/destination-client?tag=HEAD-57b08a7-250625T161307-aarch64-Linux&download=destination-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2/destination-client:HEAD-57b08a7-250625T161307-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2/destination-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/destination-client?tag=HEAD-57b08a7-250625T161307-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eed6599b88b8f7038578107ebe6f303de602baf99ac63de5475944487e446883",
+  "size": "40 MB",
+  "size_raw": "41600128",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f179d4c-250619T105442-aarch64-Linux",
+    "HEAD-a056257-250620T173521-aarch64-Linux",
+    "HEAD-8d1705c-250623T080502-aarch64-Linux",
+    "HEAD-df7cba4-250624T092515-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
