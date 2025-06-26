@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tracepoint_in_go",
+  "pkg_family": "ebpf",
+  "pkg_id": "tracepoint_in_go#github.com_cilium_ebpf",
+  "pkg_name": "tracepoint_in_go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/c221969e96d6d5bd69253caeb6237717b0bb7553.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-c221969-250624T181107",
+  "version_upstream": "v0.19.0",
+  "bsum": "d6d1257d18beadeff4d5daf16453e189bcce065b272094d12f01002fbb44ce32",
+  "build_date": "2025-06-26T22:39:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913241304",
+  "build_id": "15913241304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/tracepoint_in_go?tag=HEAD-c221969-250624T181107-loongarch64-Linux&download=tracepoint_in_go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6927",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/tracepoint_in_go?tag=HEAD-c221969-250624T181107-loongarch64-Linux&download=tracepoint_in_go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/tracepoint_in_go:HEAD-c221969-250624T181107-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/tracepoint_in_go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/tracepoint_in_go?tag=HEAD-c221969-250624T181107-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5978eee142f98a8033506691bd80ff06e23bfe6f421563eb9335c707443aefd",
+  "size": "3.4 MB",
+  "size_raw": "3470464",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0bef90d-250619T111026-loongarch64-Linux",
+    "HEAD-51ab2a4-250620T082030-loongarch64-Linux",
+    "HEAD-3de0bd4-250624T142142-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
