@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ipfs",
+  "pkg_family": "kubo",
+  "pkg_id": "ipfs#github.com_ipfs_kubo",
+  "pkg_name": "ipfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/kubo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IPFS implementation in Go",
+  "homepage": [
+    "https://github.com/ipfs/kubo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-startup",
+    "bench_cli_ipfs_add",
+    "ipfs",
+    "ipfswatch",
+    "offline_add"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/kubo/archive/839023c79d7988f649e6411430f43f7785770cb3.tar.gz"
+  ],
+  "tag": [
+    "ipfs"
+  ],
+  "version": "HEAD-839023c-250626T021844",
+  "version_upstream": "",
+  "bsum": "1dc089ca9cb2e9a0f7e1aa0e6f24a39b511dc168c5079e144c0e63861a18eaf9",
+  "build_date": "2025-06-26T11:11:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898874758",
+  "build_id": "15898874758",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/ipfs?tag=HEAD-839023c-250626T021844-loongarch64-Linux&download=ipfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16535",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/ipfs?tag=HEAD-839023c-250626T021844-loongarch64-Linux&download=ipfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/kubo/ipfs:HEAD-839023c-250626T021844-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/kubo/ipfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/ipfs?tag=HEAD-839023c-250626T021844-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b73fbf1dd6077e46034e75ba8e00f18e067cf51c48739f9de72a8e7bfc6a63b",
+  "size": "80 MB",
+  "size_raw": "83779232",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-92aa993-250618T191558-loongarch64-Linux",
+    "HEAD-ace0b0b-250623T071811-loongarch64-Linux",
+    "HEAD-be24176-250625T012626-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
