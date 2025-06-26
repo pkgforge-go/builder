@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ingress",
+  "pkg_family": "terraform-infra-common",
+  "pkg_id": "ingress#github.com_chainguard_dev_terraform_infra_common",
+  "pkg_name": "ingress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chainguard-dev/terraform-infra-common",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A repository containing a collection of _glue_ modules for encapsulating common Cloud Run patterns.",
+  "homepage": [
+    "https://github.com/chainguard-dev/terraform-infra-common"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dejavu-bq",
+    "dispatcher",
+    "ingress",
+    "inmem",
+    "logrotate",
+    "receiver",
+    "recorder",
+    "replayer",
+    "schemagen",
+    "send",
+    "subscriber",
+    "test",
+    "trampoline"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chainguard-dev/terraform-infra-common/archive/dadbc0188b876d181a272b35744af99d0b4241f6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dadbc01-250625T145459",
+  "version_upstream": "",
+  "bsum": "176c30dba48e14b771eaf84baf026f824eb4b1e2a228137b378adfd02f911786",
+  "build_date": "2025-06-26T07:40:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895139424",
+  "build_id": "15895139424",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-infra-common/ingress?tag=HEAD-dadbc01-250625T145459-loongarch64-Linux&download=ingress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-infra-common/ingress?tag=HEAD-dadbc01-250625T145459-loongarch64-Linux&download=ingress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainguard-dev/terraform-infra-common/ingress:HEAD-dadbc01-250625T145459-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainguard-dev/terraform-infra-common/ingress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-infra-common/ingress?tag=HEAD-dadbc01-250625T145459-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6dbdcfdec7b20fdb48d5a9c799c21c1c59135a2f35dcc29248af2d502ad00060",
+  "size": "23 MB",
+  "size_raw": "23281024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
