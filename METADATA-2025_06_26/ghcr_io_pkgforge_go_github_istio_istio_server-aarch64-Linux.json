@@ -1,0 +1,97 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "istio",
+  "pkg_id": "server#github.com_istio_istio",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/istio/istio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect, secure, control, and observe services.",
+  "homepage": [
+    "https://github.com/istio/istio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "docker-builder",
+    "extauthz",
+    "gce_metadata_server",
+    "generate_cert",
+    "generate_csr",
+    "health-check",
+    "imageregistry",
+    "pilot-agent",
+    "server",
+    "src"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/istio/istio/archive/0550a3176af1684bb7ea3b8fb133ec6957549071.tar.gz"
+  ],
+  "tag": [
+    "api-management",
+    "circuit-breaker",
+    "consul",
+    "enforce-policies",
+    "envoy",
+    "fault-injection",
+    "kubernetes",
+    "lyft-envoy",
+    "microservice",
+    "microservices",
+    "nomad",
+    "polyglot-microservices",
+    "proxies",
+    "request-routing",
+    "resiliency",
+    "service-mesh"
+  ],
+  "version": "HEAD-0550a31-250625T211218",
+  "version_upstream": "",
+  "bsum": "0574ccbcd48a5e849e1c5ac2ef5755901dc842f13a2b8dca3f40255befacbf52",
+  "build_date": "2025-06-26T11:16:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898876676",
+  "build_id": "15898876676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/server?tag=HEAD-0550a31-250625T211218-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36992",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/server?tag=HEAD-0550a31-250625T211218-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/istio/istio/server:HEAD-0550a31-250625T211218-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/istio/istio/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/server?tag=HEAD-0550a31-250625T211218-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b01546fd99f646d373941907460f44c06f4b545a472795937ee011a19231f0d7",
+  "size": "35 MB",
+  "size_raw": "36237280",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8a5c9ee-250619T201909-aarch64-Linux",
+    "HEAD-4507f6a-250621T232321-aarch64-Linux",
+    "HEAD-79549dc-250622T114722-aarch64-Linux",
+    "HEAD-d901f2e-250623T094724-aarch64-Linux",
+    "HEAD-65d6bb9-250623T214827-aarch64-Linux",
+    "HEAD-21e92b4-250624T103627-aarch64-Linux",
+    "HEAD-3817264-250624T162528-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
