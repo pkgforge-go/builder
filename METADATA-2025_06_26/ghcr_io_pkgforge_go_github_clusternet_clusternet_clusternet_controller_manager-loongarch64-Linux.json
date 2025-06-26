@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clusternet-controller-manager",
+  "pkg_family": "clusternet",
+  "pkg_id": "clusternet-controller-manager#github.com_clusternet_clusternet",
+  "pkg_name": "clusternet-controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clusternet/clusternet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[CNCF Sandbox Project] Managing your Kubernetes clusters _including public, private, edge, etc._ as easily as visiting the Internet",
+  "homepage": [
+    "https://github.com/clusternet/clusternet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientgo",
+    "clusternet-agent",
+    "clusternet-controller-manager",
+    "clusternet-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clusternet/clusternet/archive/540f0a258b4b013520bdc8d4a41f80fcef36f430.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cluster-management",
+    "distributed-cloud",
+    "edge-cloud",
+    "hybrid-cloud",
+    "kubernetes",
+    "multi-cluster-management",
+    "multicloud",
+    "orchestration",
+    "out-of-the-box",
+    "public-cloud"
+  ],
+  "version": "HEAD-540f0a2-250626T210949",
+  "version_upstream": "",
+  "bsum": "c88b3fd598f1e86b456c9a4c9d5ab90b799f68bb85cb7b239962bd04f5a3b9c0",
+  "build_date": "2025-06-26T22:47:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913246761",
+  "build_id": "15913246761",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-controller-manager?tag=HEAD-540f0a2-250626T210949-loongarch64-Linux&download=clusternet-controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1377",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-controller-manager?tag=HEAD-540f0a2-250626T210949-loongarch64-Linux&download=clusternet-controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clusternet/clusternet/clusternet-controller-manager:HEAD-540f0a2-250626T210949-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clusternet/clusternet/clusternet-controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-controller-manager?tag=HEAD-540f0a2-250626T210949-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "650965c43f6835ba30475ab820f14d3c5244a0d0efe8ae76bccb00f9c6a5731f",
+  "size": "101 MB",
+  "size_raw": "105851712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-aac959d-250625T161437-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clusternet-scheduler",
+  "pkg_family": "clusternet",
+  "pkg_id": "clusternet-scheduler#github.com_clusternet_clusternet",
+  "pkg_name": "clusternet-scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clusternet/clusternet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[CNCF Sandbox Project] Managing your Kubernetes clusters _including public, private, edge, etc._ as easily as visiting the Internet",
+  "homepage": [
+    "https://github.com/clusternet/clusternet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientgo",
+    "clusternet-agent",
+    "clusternet-controller-manager",
+    "clusternet-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clusternet/clusternet/archive/540f0a258b4b013520bdc8d4a41f80fcef36f430.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cluster-management",
+    "distributed-cloud",
+    "edge-cloud",
+    "hybrid-cloud",
+    "kubernetes",
+    "multi-cluster-management",
+    "multicloud",
+    "orchestration",
+    "out-of-the-box",
+    "public-cloud"
+  ],
+  "version": "HEAD-540f0a2-250626T210949",
+  "version_upstream": "",
+  "bsum": "17c6ab31f3f900e7bc02c2dacdcfff7a59444c555a822109c880aec4d728f37e",
+  "build_date": "2025-06-26T22:48:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913246761",
+  "build_id": "15913246761",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-scheduler?tag=HEAD-540f0a2-250626T210949-loongarch64-Linux&download=clusternet-scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1377",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-scheduler?tag=HEAD-540f0a2-250626T210949-loongarch64-Linux&download=clusternet-scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clusternet/clusternet/clusternet-scheduler:HEAD-540f0a2-250626T210949-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clusternet/clusternet/clusternet-scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clusternet/clusternet/clusternet-scheduler?tag=HEAD-540f0a2-250626T210949-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3ee5ca42b50b161559d6738d16743378d1ee74a62ce82ad3a3bac1516e7644c9",
+  "size": "91 MB",
+  "size_raw": "95024320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-aac959d-250625T161437-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
