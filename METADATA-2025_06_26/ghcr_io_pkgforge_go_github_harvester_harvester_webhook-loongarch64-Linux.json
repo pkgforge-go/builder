@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "harvester",
+  "pkg_id": "webhook#github.com_harvester_harvester",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "harvester",
+    "upgradehelper",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/bbfa95fb369f1700a99601f92a11d453045ce0f1.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-bbfa95f-250626T174620",
+  "version_upstream": "",
+  "bsum": "35cf12d77461f5785d85a1e53b91cca4a10ff910f0782bb36ef598bc16193c3a",
+  "build_date": "2025-06-26T23:15:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913327403",
+  "build_id": "15913327403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/webhook?tag=HEAD-bbfa95f-250626T174620-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/webhook?tag=HEAD-bbfa95f-250626T174620-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/webhook:HEAD-bbfa95f-250626T174620-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/webhook?tag=HEAD-bbfa95f-250626T174620-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f6cb7c1951644ea522929dc5e467edd4158c613d70da4f7edd7b344f44db19d4",
+  "size": "133 MB",
+  "size_raw": "139223712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a930b01-250620T092130-loongarch64-Linux",
+    "HEAD-07ffa03-250623T102940-loongarch64-Linux",
+    "HEAD-3e05ba2-250623T214921-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
