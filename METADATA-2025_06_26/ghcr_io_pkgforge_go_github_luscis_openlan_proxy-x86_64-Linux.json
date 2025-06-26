@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "openlan",
+  "pkg_id": "proxy#github.com_luscis_openlan",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luscis/openlan",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloudify VPN, HTTP and DNS Proxy written in Golang, and simple deployment via Kubernetes",
+  "homepage": [
+    "https://github.com/luscis/openlan"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "access",
+    "ceci",
+    "openlan-cmd",
+    "proxy",
+    "switch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/luscis/openlan/archive/154c7b5f7b15e74c716f46fc490f7f85e7a8d5fb.tar.gz"
+  ],
+  "tag": [
+    "http-proxy",
+    "ipsec",
+    "openlan",
+    "openvpn",
+    "sd-wan",
+    "vpn",
+    "vxlan"
+  ],
+  "version": "HEAD-154c7b5-250626T191809",
+  "version_upstream": "",
+  "bsum": "b9d48cf41ccbcd0a76fd6d3bfb454995e4fa6db8c4381172bfd3482bf13ac4ba",
+  "build_date": "2025-06-26T17:25:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907524527",
+  "build_id": "15907524527",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luscis/openlan/proxy?tag=HEAD-154c7b5-250626T191809-x86_64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luscis/openlan/proxy?tag=HEAD-154c7b5-250626T191809-x86_64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luscis/openlan/proxy:HEAD-154c7b5-250626T191809-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luscis/openlan/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luscis/openlan/proxy?tag=HEAD-154c7b5-250626T191809-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fecf9cfc01d40c01951a89d8c5b01066b826630b16b228fc7bbce17d21f96537",
+  "size": "12 MB",
+  "size_raw": "11778496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
