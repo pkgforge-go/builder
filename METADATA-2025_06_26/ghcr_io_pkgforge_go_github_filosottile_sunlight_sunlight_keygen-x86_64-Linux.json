@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sunlight-keygen",
+  "pkg_family": "sunlight",
+  "pkg_id": "sunlight-keygen#github.com_FiloSottile_sunlight",
+  "pkg_name": "sunlight-keygen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FiloSottile/sunlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
+  "homepage": [
+    "https://github.com/FiloSottile/sunlight"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "partial-aftersun",
+    "skylight",
+    "sunlight",
+    "sunlight-keygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FiloSottile/sunlight/archive/244b8b1a10c6153e55c5c011102863dba63e6179.tar.gz"
+  ],
+  "tag": [
+    "certificate-transparency",
+    "tlog"
+  ],
+  "version": "HEAD-244b8b1-250623T195336",
+  "version_upstream": "",
+  "bsum": "7ed9e3887e2ba1ae45d44d8aeaacffb62f38a8755e97a3bb0fd346e96944748d",
+  "build_date": "2025-06-26T02:18:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891363179",
+  "build_id": "15891363179",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/sunlight-keygen?tag=HEAD-244b8b1-250623T195336-x86_64-Linux&download=sunlight-keygen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "168",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/sunlight-keygen?tag=HEAD-244b8b1-250623T195336-x86_64-Linux&download=sunlight-keygen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filosottile/sunlight/sunlight-keygen:HEAD-244b8b1-250623T195336-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filosottile/sunlight/sunlight-keygen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/sunlight-keygen?tag=HEAD-244b8b1-250623T195336-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76b62217f47cfa84412bf49eef0e5cf285b936fa876e44a675627c9fb7374b38",
+  "size": "3.0 MB",
+  "size_raw": "3144928",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1bba70f-250613T162055-x86_64-Linux[v0.4.1]",
+    "HEAD-7029559-250622T234326-x86_64-Linux",
+    "HEAD-244b8b1-250623T195336-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
