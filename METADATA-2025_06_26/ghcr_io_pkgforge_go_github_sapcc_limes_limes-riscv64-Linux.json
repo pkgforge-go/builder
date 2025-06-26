@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "limes",
+  "pkg_family": "limes",
+  "pkg_id": "limes#github.com_sapcc_limes",
+  "pkg_name": "limes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/limes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenStack-compatible quota/usage tracking service",
+  "homepage": [
+    "https://github.com/sapcc/limes"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "limes"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/limes/archive/5d93ebc9fe9a19573fc21fd2efe051f8a569591c.tar.gz"
+  ],
+  "tag": [
+    "microservice",
+    "openstack",
+    "quota",
+    "usage-reports"
+  ],
+  "version": "HEAD-5d93ebc-250625T080908",
+  "version_upstream": "",
+  "bsum": "f7e457ae77fcb337ad63ba39ead0a2230b3bf5bb20c7aa0aaeef29789eb8199e",
+  "build_date": "2025-06-26T03:39:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891745438",
+  "build_id": "15891745438",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/limes/limes?tag=HEAD-5d93ebc-250625T080908-riscv64-Linux&download=limes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/limes/limes?tag=HEAD-5d93ebc-250625T080908-riscv64-Linux&download=limes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/limes/limes:HEAD-5d93ebc-250625T080908-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/limes/limes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/limes/limes?tag=HEAD-5d93ebc-250625T080908-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a786379a09239718b6042b973198d01d0100f10654253aa0e55421116f2c076f",
+  "size": "19 MB",
+  "size_raw": "19225368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-046d4db-250623T113515-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
