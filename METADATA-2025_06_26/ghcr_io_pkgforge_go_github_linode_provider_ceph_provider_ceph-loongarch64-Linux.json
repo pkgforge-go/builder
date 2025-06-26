@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "provider-ceph",
+  "pkg_family": "provider-ceph",
+  "pkg_id": "provider-ceph#github.com_linode_provider_ceph",
+  "pkg_name": "provider-ceph",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linode/provider-ceph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provider Ceph is a Crossplane provider capable of managing S3 Buckets across multiple Ceph clusters.",
+  "homepage": [
+    "https://github.com/linode/provider-ceph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "provider-ceph"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linode/provider-ceph/archive/ac7fa10167f0faab8e4f25acb7ad59af63c673e2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ac7fa10-250626T100309",
+  "version_upstream": "",
+  "bsum": "cfda5cfb2dfd4d3773fa4be5f5d96a8dde0b605eccb96ff85459b0f988d038a4",
+  "build_date": "2025-06-26T17:25:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907418181",
+  "build_id": "15907418181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/provider-ceph/provider-ceph?tag=HEAD-ac7fa10-250626T100309-loongarch64-Linux&download=provider-ceph.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/provider-ceph/provider-ceph?tag=HEAD-ac7fa10-250626T100309-loongarch64-Linux&download=provider-ceph",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linode/provider-ceph/provider-ceph:HEAD-ac7fa10-250626T100309-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linode/provider-ceph/provider-ceph",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/provider-ceph/provider-ceph?tag=HEAD-ac7fa10-250626T100309-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "883b5f6fcf52bae5fd1b587b987da66d30d7dd58517daeb1d44438d1f547e82e",
+  "size": "52 MB",
+  "size_raw": "53808768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
