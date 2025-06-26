@@ -1,0 +1,101 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "plugin-kubernetes-deployment",
+  "pkg_family": "cds",
+  "pkg_id": "plugin-kubernetes-deployment#github.com_ovh_cds",
+  "pkg_name": "plugin-kubernetes-deployment",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ovh/cds",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-Grade Continuous Delivery _ DevOps Automation Open Source Platform",
+  "homepage": [
+    "https://github.com/ovh/cds"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrunresult",
+    "arsenal-deployment-plugin",
+    "artifactorypromote",
+    "artifactoryrelease",
+    "cache",
+    "cacherestore",
+    "cachesave",
+    "checkout",
+    "debianpush",
+    "debpacker",
+    "deployarsenal",
+    "dockerpush",
+    "downloadartifact",
+    "engine",
+    "example",
+    "hello-deployment-plugin",
+    "hello-sdk",
+    "helmpush",
+    "itscwrkflw15",
+    "junit",
+    "keyinstall",
+    "plugin-arsenal-delete-alternative",
+    "plugin-kubernetes-deployment",
+    "pythonpush",
+    "script",
+    "uploadartifact",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ovh/cds/archive/6ab7d8e4fa3f0cdbb3007c915831bc89ae9e2ea6.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "devops-workflow",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-6ab7d8e-250625T155845",
+  "version_upstream": "",
+  "bsum": "b2b0470de0d4f1739234d07728a86f3df3d1cd8131f2afb04f451dd7d95c29a3",
+  "build_date": "2025-06-26T00:40:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888118348",
+  "build_id": "15888118348",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/plugin-kubernetes-deployment?tag=HEAD-6ab7d8e-250625T155845-riscv64-Linux&download=plugin-kubernetes-deployment.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4723",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/plugin-kubernetes-deployment?tag=HEAD-6ab7d8e-250625T155845-riscv64-Linux&download=plugin-kubernetes-deployment",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ovh/cds/plugin-kubernetes-deployment:HEAD-6ab7d8e-250625T155845-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ovh/cds/plugin-kubernetes-deployment",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/plugin-kubernetes-deployment?tag=HEAD-6ab7d8e-250625T155845-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a23290cac74a444c027f331fe96097bcd49120aa39e5524a9100d33df7e609bf",
+  "size": "40 MB",
+  "size_raw": "40912760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e716c2d-250620T135931-riscv64-Linux",
+    "HEAD-188f389-250623T082213-riscv64-Linux",
+    "HEAD-539752e-250624T163752-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
