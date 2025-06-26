@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "provider-ceph",
+  "pkg_family": "provider-ceph",
+  "pkg_id": "provider-ceph#github.com_linode_provider_ceph",
+  "pkg_name": "provider-ceph",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linode/provider-ceph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provider Ceph is a Crossplane provider capable of managing S3 Buckets across multiple Ceph clusters.",
+  "homepage": [
+    "https://github.com/linode/provider-ceph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "provider-ceph"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linode/provider-ceph/archive/ac7fa10167f0faab8e4f25acb7ad59af63c673e2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ac7fa10-250626T100309",
+  "version_upstream": "",
+  "bsum": "fbb7e88babbf9fd5e7c509669fd3a4b5e1fe1f604c5654f16dad64980a9dc26f",
+  "build_date": "2025-06-26T17:24:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907418181",
+  "build_id": "15907418181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/provider-ceph/provider-ceph?tag=HEAD-ac7fa10-250626T100309-riscv64-Linux&download=provider-ceph.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/provider-ceph/provider-ceph?tag=HEAD-ac7fa10-250626T100309-riscv64-Linux&download=provider-ceph",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linode/provider-ceph/provider-ceph:HEAD-ac7fa10-250626T100309-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linode/provider-ceph/provider-ceph",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linode/provider-ceph/provider-ceph?tag=HEAD-ac7fa10-250626T100309-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c8a0a21a9884f4e95d862744bc96669ced05b641e0414bfe7bf8984ce43b35a7",
+  "size": "51 MB",
+  "size_raw": "53004600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
