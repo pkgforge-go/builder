@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tcping",
+  "pkg_family": "tcping",
+  "pkg_id": "tcping#github.com_pouriyajamshidi_tcping",
+  "pkg_name": "tcping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pouriyajamshidi/tcping",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ping TCP ports using tcping. Inspired by Linux_s ping utility. Written in Go",
+  "homepage": [
+    "https://github.com/pouriyajamshidi/tcping"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tcping"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pouriyajamshidi/tcping/archive/961cb97289e655254bcea043ca0544cf5b650c8c.tar.gz"
+  ],
+  "tag": [
+    "command-line-tool",
+    "golang",
+    "latency-monitor",
+    "linux",
+    "macos",
+    "networking",
+    "ping",
+    "tcp",
+    "tcping",
+    "windows"
+  ],
+  "version": "HEAD-961cb97-250625T163530",
+  "version_upstream": "",
+  "bsum": "4afa0b318dd35e877d5a5b88c214261f53d126605f07500c351e4b2d751debc6",
+  "build_date": "2025-06-26T03:33:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891648858",
+  "build_id": "15891648858",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pouriyajamshidi/tcping/tcping?tag=HEAD-961cb97-250625T163530-x86_64-Linux&download=tcping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "920",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pouriyajamshidi/tcping/tcping?tag=HEAD-961cb97-250625T163530-x86_64-Linux&download=tcping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pouriyajamshidi/tcping/tcping:HEAD-961cb97-250625T163530-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pouriyajamshidi/tcping/tcping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pouriyajamshidi/tcping/tcping?tag=HEAD-961cb97-250625T163530-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c555057c682d78640e969c1dd45ce406eb05839ffcd94114a0a0fcf4ab5c6385",
+  "size": "11 MB",
+  "size_raw": "10825728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a22a88d-250603T183002-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
