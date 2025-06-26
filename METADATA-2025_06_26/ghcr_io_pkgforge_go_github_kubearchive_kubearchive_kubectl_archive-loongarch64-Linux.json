@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubectl-archive",
+  "pkg_family": "kubearchive",
+  "pkg_id": "kubectl-archive#github.com_kubearchive_kubearchive",
+  "pkg_name": "kubectl-archive",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubearchive/kubearchive",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubearchive/kubearchive"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "hack",
+    "kubectl-archive",
+    "merge",
+    "metrics",
+    "stats"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubearchive/kubearchive/archive/a15f7cfa9a52f8c98dcc6879fd11bbdbc5435334.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a15f7cf-250625T233249",
+  "version_upstream": "",
+  "bsum": "e7da44ca514ff8e3f5d654035a6912eef2d1c748c17683ffccd2c1b545d37e28",
+  "build_date": "2025-06-26T11:15:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898934730",
+  "build_id": "15898934730",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubearchive/kubearchive/kubectl-archive?tag=HEAD-a15f7cf-250625T233249-loongarch64-Linux&download=kubectl-archive.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubearchive/kubearchive/kubectl-archive?tag=HEAD-a15f7cf-250625T233249-loongarch64-Linux&download=kubectl-archive",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubearchive/kubearchive/kubectl-archive:HEAD-a15f7cf-250625T233249-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubearchive/kubearchive/kubectl-archive",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubearchive/kubearchive/kubectl-archive?tag=HEAD-a15f7cf-250625T233249-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce8d902e78cbaaa51efcca9ef6630286978ea3d989ec063892d2d897af740ba9",
+  "size": "50 MB",
+  "size_raw": "52094400",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-66c3e57-250620T130152-loongarch64-Linux",
+    "HEAD-05bc7cf-250625T144110-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
