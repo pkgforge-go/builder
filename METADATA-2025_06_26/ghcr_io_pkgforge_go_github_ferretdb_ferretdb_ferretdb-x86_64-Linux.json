@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ferretdb",
+  "pkg_family": "FerretDB",
+  "pkg_id": "ferretdb#github.com_FerretDB_FerretDB",
+  "pkg_name": "ferretdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FerretDB/FerretDB",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly Open Source MongoDB alternative",
+  "homepage": [
+    "https://github.com/FerretDB/FerretDB"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "envtool",
+    "ferretdb",
+    "genwrap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FerretDB/FerretDB/archive/871f60d169c08bada1eb5f0bd14ec28f609e08bb.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "document",
+    "ferretdb",
+    "go",
+    "golang",
+    "mongo",
+    "mongo-db",
+    "mongodb",
+    "mongodb-database",
+    "postgres",
+    "postgresql"
+  ],
+  "version": "HEAD-871f60d-250625T143900",
+  "version_upstream": "",
+  "bsum": "e5d0a3a7561b8ed3a0e638cb8fc126cf747e3933727828d48f209942fb393749",
+  "build_date": "2025-06-26T02:18:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891362753",
+  "build_id": "15891362753",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/ferretdb/ferretdb?tag=HEAD-871f60d-250625T143900-x86_64-Linux&download=ferretdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/ferretdb/ferretdb?tag=HEAD-871f60d-250625T143900-x86_64-Linux&download=ferretdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ferretdb/ferretdb/ferretdb:HEAD-871f60d-250625T143900-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ferretdb/ferretdb/ferretdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ferretdb/ferretdb/ferretdb?tag=HEAD-871f60d-250625T143900-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e99c310929cde543ce45586f5bcd09535b3872f56e49dbeb59abefe559c20126",
+  "size": "29 MB",
+  "size_raw": "30362672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d539b13-250619T122917-x86_64-Linux",
+    "HEAD-c4b9de7-250623T122254-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
