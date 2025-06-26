@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dingospeed-cmd",
+  "pkg_family": "dingospeed",
+  "pkg_id": "dingospeed-cmd#github.com_dingodb_dingospeed",
+  "pkg_name": "dingospeed-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dingodb/dingospeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dingospeed is a self-hosted huggingface mirror service",
+  "homepage": [
+    "https://github.com/dingodb/dingospeed"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dingospeed-cmd",
+    "repair"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dingodb/dingospeed/archive/e8cb9481f80ba064a0551d2211f30e3114c289ee.tar.gz"
+  ],
+  "tag": [
+    "huggingface",
+    "llm",
+    "mirror",
+    "self-hosted",
+    "service"
+  ],
+  "version": "HEAD-e8cb948-250626T103943",
+  "version_upstream": "",
+  "bsum": "48c1585ecb9aeaf4dd8fa081a483cdfb94345435133d99855275bce10c06e3ad",
+  "build_date": "2025-06-26T22:47:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913255769",
+  "build_id": "15913255769",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd?tag=HEAD-e8cb948-250626T103943-loongarch64-Linux&download=dingospeed-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd?tag=HEAD-e8cb948-250626T103943-loongarch64-Linux&download=dingospeed-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd:HEAD-e8cb948-250626T103943-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd?tag=HEAD-e8cb948-250626T103943-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f2dfeed8d568c650daa06315e8b90a6d78674e71bbf578c7145518195b54b6cb",
+  "size": "17 MB",
+  "size_raw": "16946144",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0129333-250625T130858-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
