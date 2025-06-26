@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rdt",
+  "pkg_family": "goresctrl",
+  "pkg_id": "rdt#github.com_intel_goresctrl",
+  "pkg_name": "rdt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/goresctrl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang library for managing resctrl filesystem",
+  "homepage": [
+    "https://github.com/intel/goresctrl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blockio",
+    "rdt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/goresctrl/archive/5b4007fcfeb05f9b21d641daeba192911350b305.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5b4007f-250626T165628",
+  "version_upstream": "",
+  "bsum": "c10672b2629b7a75906ee798f58d0c60b27bea788c1904a402642d63a33786d1",
+  "build_date": "2025-06-26T23:16:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913330744",
+  "build_id": "15913330744",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/rdt?tag=HEAD-5b4007f-250626T165628-riscv64-Linux&download=rdt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/rdt?tag=HEAD-5b4007f-250626T165628-riscv64-Linux&download=rdt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/goresctrl/rdt:HEAD-5b4007f-250626T165628-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/goresctrl/rdt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/rdt?tag=HEAD-5b4007f-250626T165628-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d657f9254deffb9a3fba3d16712332b70cc32350a6f97fec36d093a19f8edfd4",
+  "size": "9.1 MB",
+  "size_raw": "9454680",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16d5a38-250624T175521-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
