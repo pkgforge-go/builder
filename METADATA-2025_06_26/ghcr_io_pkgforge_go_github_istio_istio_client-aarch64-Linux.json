@@ -42,7 +42,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/istio/istio/archive/0550a3176af1684bb7ea3b8fb133ec6957549071.tar.gz"
+    "https://github.com/istio/istio/archive/73c16b6e095ec57e157ca12ee5d86f223c218529.tar.gz"
   ],
   "tag": [
     "api-management",
@@ -62,27 +62,27 @@
     "resiliency",
     "service-mesh"
   ],
-  "version": "HEAD-0550a31-250625T211218",
+  "version": "HEAD-73c16b6-250626T091419",
   "version_upstream": "",
-  "bsum": "0151eeb164a859ebfc48e2c65a940605adf2e896fd1f275441603e1f31830813",
-  "build_date": "2025-06-26T11:17:41Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898876676",
-  "build_id": "15898876676",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/client?tag=HEAD-0550a31-250625T211218-aarch64-Linux&download=client.log",
+  "bsum": "79e160486cf6ed15ffb7ae42e64546f4a096adfd987c6d6d65dd3c773a807797",
+  "build_date": "2025-06-26T23:36:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913345453",
+  "build_id": "15913345453",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/client?tag=HEAD-73c16b6-250626T091419-aarch64-Linux&download=client.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "36992",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/client?tag=HEAD-0550a31-250625T211218-aarch64-Linux&download=client",
+  "download_count": "36994",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/client?tag=HEAD-73c16b6-250626T091419-aarch64-Linux&download=client",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/istio/istio/client:HEAD-0550a31-250625T211218-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/istio/istio/client:HEAD-73c16b6-250626T091419-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/istio/istio/client",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/client?tag=HEAD-0550a31-250625T211218-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/istio/client?tag=HEAD-73c16b6-250626T091419-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "36817d2add3d4a998348f145cb78690bab3a38eb4cbff822b38e07bf66d73e3d",
+  "shasum": "2e678b8ed153900c51e92b123eda639f1d002d34748fe6a705cd7101463456ab",
   "size": "33 MB",
-  "size_raw": "33668128",
+  "size_raw": "33680608",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-8a5c9ee-250619T201909-aarch64-Linux",
@@ -91,7 +91,8 @@
     "HEAD-d901f2e-250623T094724-aarch64-Linux",
     "HEAD-65d6bb9-250623T214827-aarch64-Linux",
     "HEAD-21e92b4-250624T103627-aarch64-Linux",
-    "HEAD-3817264-250624T162528-aarch64-Linux"
+    "HEAD-3817264-250624T162528-aarch64-Linux",
+    "HEAD-0550a31-250625T211218-aarch64-Linux"
   ],
   "trusted": "true"
 }
