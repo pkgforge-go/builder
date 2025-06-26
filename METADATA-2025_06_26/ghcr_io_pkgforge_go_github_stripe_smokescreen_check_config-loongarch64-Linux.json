@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "check_config",
+  "pkg_family": "smokescreen",
+  "pkg_id": "check_config#github.com_stripe_smokescreen",
+  "pkg_name": "check_config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stripe/smokescreen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple HTTP proxy that fogs over naughty URLs",
+  "homepage": [
+    "https://github.com/stripe/smokescreen"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_config",
+    "smokescreen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stripe/smokescreen/archive/48d10534761c14a9a42e4cd1cc20de646ab5e1de.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-48d1053-250625T182230",
+  "version_upstream": "",
+  "bsum": "d501d58ce01c4b033a2f79da762da38f3d5c59c114239c10ec5fbd3e65ec8267",
+  "build_date": "2025-06-26T00:44:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888137697",
+  "build_id": "15888137697",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/smokescreen/check_config?tag=HEAD-48d1053-250625T182230-loongarch64-Linux&download=check_config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1171",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/smokescreen/check_config?tag=HEAD-48d1053-250625T182230-loongarch64-Linux&download=check_config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stripe/smokescreen/check_config:HEAD-48d1053-250625T182230-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stripe/smokescreen/check_config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/smokescreen/check_config?tag=HEAD-48d1053-250625T182230-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9227d75bfeea8b71355403076967e542ef604c41744cff8807fce9044d6b90df",
+  "size": "8.6 MB",
+  "size_raw": "8945504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1b618ed-250520T103514-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
