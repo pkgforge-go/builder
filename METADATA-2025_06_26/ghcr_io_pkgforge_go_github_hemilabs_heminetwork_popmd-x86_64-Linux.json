@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "popmd",
+  "pkg_family": "heminetwork",
+  "pkg_id": "popmd#github.com_hemilabs_heminetwork",
+  "pkg_name": "popmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hemilabs/heminetwork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The hemi network core daemons.",
+  "homepage": [
+    "https://github.com/hemilabs/heminetwork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bfgd",
+    "bssd",
+    "btctool",
+    "extool",
+    "hemictl",
+    "keygen",
+    "popmd",
+    "tbcd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hemilabs/heminetwork/archive/06391a2fb2c8c2fcfd0590de15af2047b1f79b7b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06391a2-250625T195239",
+  "version_upstream": "",
+  "bsum": "e96b389ab4cc6e4b5c0e94ea2cfccaf81ca5dc19fcb9344bd5777d46935762fe",
+  "build_date": "2025-06-26T11:03:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898849338",
+  "build_id": "15898849338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/popmd?tag=HEAD-06391a2-250625T195239-x86_64-Linux&download=popmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/popmd?tag=HEAD-06391a2-250625T195239-x86_64-Linux&download=popmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hemilabs/heminetwork/popmd:HEAD-06391a2-250625T195239-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hemilabs/heminetwork/popmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/popmd?tag=HEAD-06391a2-250625T195239-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90b55195f39929309987bcd1e5d98b9745fafba11cc812a42e79865f4784d7b2",
+  "size": "12 MB",
+  "size_raw": "12133136",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af45269-250614T001108-x86_64-Linux",
+    "HEAD-1e46445-250623T105256-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
