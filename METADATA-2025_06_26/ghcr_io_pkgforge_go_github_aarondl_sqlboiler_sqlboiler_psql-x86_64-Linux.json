@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sqlboiler-psql",
+  "pkg_family": "sqlboiler",
+  "pkg_id": "sqlboiler-psql#github.com_aarondl_sqlboiler",
+  "pkg_name": "sqlboiler-psql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aarondl/sqlboiler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate a Go ORM tailored to your database schema.",
+  "homepage": [
+    "https://github.com/aarondl/sqlboiler"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sqlboiler",
+    "sqlboiler-mssql",
+    "sqlboiler-mysql",
+    "sqlboiler-psql",
+    "sqlboiler-sqlite3"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aarondl/sqlboiler/archive/9c0032bf719daa89d92c66b4dde26d033e87a132.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "go",
+    "golang",
+    "mssql",
+    "mysql",
+    "orm",
+    "postgres",
+    "postgresql",
+    "sqlboiler",
+    "sqlite3"
+  ],
+  "version": "HEAD-9c0032b-250625T230417",
+  "version_upstream": "v4.19.2",
+  "bsum": "91a88b41f9b94123400619aaf61d2a6e014167efad500cd116ea959519848a58",
+  "build_date": "2025-06-26T16:14:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906512824",
+  "build_id": "15906512824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-psql?tag=HEAD-9c0032b-250625T230417-x86_64-Linux&download=sqlboiler-psql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6886",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-psql?tag=HEAD-9c0032b-250625T230417-x86_64-Linux&download=sqlboiler-psql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-psql:HEAD-9c0032b-250625T230417-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-psql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-psql?tag=HEAD-9c0032b-250625T230417-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3c164cf720368df151a9c3a570dda262f0845381ec1396f15e16c1c349494d2",
+  "size": "6.4 MB",
+  "size_raw": "6664256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
