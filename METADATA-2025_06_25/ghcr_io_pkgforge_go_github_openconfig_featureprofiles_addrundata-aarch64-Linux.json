@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "addrundata",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "addrundata#github.com_openconfig_featureprofiles",
+  "pkg_name": "addrundata",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/34b79bc379b36c08101a85d05e9b8d0c59daecf4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34b79bc-250625T143340",
+  "version_upstream": "",
+  "bsum": "aa9201117e80f7170bf8773e7ee49ad02f602cc7029332ca49caff00398e57c7",
+  "build_date": "2025-06-26T00:05:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888068698",
+  "build_id": "15888068698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/addrundata?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&download=addrundata.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/addrundata?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&download=addrundata",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/addrundata:HEAD-34b79bc-250625T143340-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/addrundata",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/addrundata?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa01d20fccd0ea0e01a7984d0b9df7051bde1c18b12f96e4e9547b5b408fe2af",
+  "size": "5.4 MB",
+  "size_raw": "5571168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-aarch64-Linux",
+    "HEAD-abdf959-250623T164926-aarch64-Linux",
+    "HEAD-4f694cf-250624T142533-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ci-trigger",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "ci-trigger#github.com_openconfig_featureprofiles",
+  "pkg_name": "ci-trigger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/34b79bc379b36c08101a85d05e9b8d0c59daecf4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34b79bc-250625T143340",
+  "version_upstream": "",
+  "bsum": "3277dcef30ab63a5f446721464ff1554cb24031d5311c83746f4e60a91ea20d9",
+  "build_date": "2025-06-26T00:04:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888068698",
+  "build_id": "15888068698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/ci-trigger?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&download=ci-trigger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/ci-trigger?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&download=ci-trigger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/ci-trigger:HEAD-34b79bc-250625T143340-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/ci-trigger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/ci-trigger?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed84468e08db06da4f2bb726730c579150c3b7408f6c6bb377acf25a071eb97a",
+  "size": "25 MB",
+  "size_raw": "26027744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-aarch64-Linux",
+    "HEAD-abdf959-250623T164926-aarch64-Linux",
+    "HEAD-4f694cf-250624T142533-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

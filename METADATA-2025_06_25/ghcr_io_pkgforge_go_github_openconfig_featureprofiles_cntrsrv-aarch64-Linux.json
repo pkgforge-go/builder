@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cntrsrv",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "cntrsrv#github.com_openconfig_featureprofiles",
+  "pkg_name": "cntrsrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/34b79bc379b36c08101a85d05e9b8d0c59daecf4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34b79bc-250625T143340",
+  "version_upstream": "",
+  "bsum": "d16a5302d9dcbecdfaa5c394c69956b431995517d23d925f9ca4c831c3bfcec4",
+  "build_date": "2025-06-26T00:04:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888068698",
+  "build_id": "15888068698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/cntrsrv?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&download=cntrsrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/cntrsrv?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&download=cntrsrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/cntrsrv:HEAD-34b79bc-250625T143340-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/cntrsrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/cntrsrv?tag=HEAD-34b79bc-250625T143340-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d80325f2d49ef614a0b46a47dff9dcbda0c2165c90ed593b71511a6235423bbe",
+  "size": "13 MB",
+  "size_raw": "13064480",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-aarch64-Linux",
+    "HEAD-abdf959-250623T164926-aarch64-Linux",
+    "HEAD-4f694cf-250624T142533-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
