@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "notary",
+  "pkg_family": "notary",
+  "pkg_id": "notary#github.com_canonical_notary",
+  "pkg_name": "notary",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/notary",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Notary is an x509 certificate management application.",
+  "homepage": [
+    "https://github.com/canonical/notary"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "notary"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/notary/archive/b2ceb4c9ba0d47560e26a66422a83d7b4d2cd687.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "notary",
+    "tls",
+    "x509"
+  ],
+  "version": "HEAD-b2ceb4c-250625T212918",
+  "version_upstream": "",
+  "bsum": "1bdab0345b5e1cf1e32cfbe9a3dc469f7f378fbab752f8cb5552745565a9f902",
+  "build_date": "2025-06-26T13:32:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902841360",
+  "build_id": "15902841360",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/notary/notary?tag=HEAD-b2ceb4c-250625T212918-riscv64-Linux&download=notary.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/notary/notary?tag=HEAD-b2ceb4c-250625T212918-riscv64-Linux&download=notary",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/notary/notary:HEAD-b2ceb4c-250625T212918-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/notary/notary",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/notary/notary?tag=HEAD-b2ceb4c-250625T212918-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee190701d7e8640ad57fbf29e7007435532458ec561a1895bbd8b4f5cd729eb9",
+  "size": "13 MB",
+  "size_raw": "12970840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0bee297-250620T084104-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
