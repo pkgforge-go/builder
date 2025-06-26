@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mcp",
+  "pkg_family": "cadence",
+  "pkg_id": "mcp#github.com_cadence_workflow_cadence",
+  "pkg_name": "mcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cadence-workflow/cadence",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+  "homepage": [
+    "https://github.com/cadence-workflow/cadence"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench",
+    "canary",
+    "cassandra",
+    "cli",
+    "cmd",
+    "comparison",
+    "copyright",
+    "funcorder",
+    "mcp",
+    "sql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cadence-workflow/cadence/archive/d910e5eec1fc8d245495ab96bdff834799554329.tar.gz"
+  ],
+  "tag": [
+    "cadence",
+    "distributed-systems",
+    "golang",
+    "java",
+    "orchestration-engine",
+    "service-bus",
+    "service-fabric",
+    "services-platform",
+    "uber",
+    "workflow-automation",
+    "workflows"
+  ],
+  "version": "HEAD-d910e5e-250625T140740",
+  "version_upstream": "",
+  "bsum": "803f671bb62701eed0328ea4890b1abd031bfe64aa08ad358ec36e150da58bd3",
+  "build_date": "2025-06-26T11:30:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898991258",
+  "build_id": "15898991258",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cadence-workflow/cadence/mcp?tag=HEAD-d910e5e-250625T140740-riscv64-Linux&download=mcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8742",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cadence-workflow/cadence/mcp?tag=HEAD-d910e5e-250625T140740-riscv64-Linux&download=mcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cadence-workflow/cadence/mcp:HEAD-d910e5e-250625T140740-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cadence-workflow/cadence/mcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cadence-workflow/cadence/mcp?tag=HEAD-d910e5e-250625T140740-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "95fa6c437e72356e6a0c0af7766fd69eed6562ddbe4d138f5d3d5240b1704f19",
+  "size": "4.4 MB",
+  "size_raw": "4541688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-24cd861-250622T114253-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
