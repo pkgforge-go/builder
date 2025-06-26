@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tests",
+  "pkg_family": "lura",
+  "pkg_id": "tests#github.com_luraproject_lura",
+  "pkg_name": "tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luraproject/lura",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation",
+  "homepage": [
+    "https://github.com/luraproject/lura"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "error",
+    "logger",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/luraproject/lura/archive/b84fcec8328d8559d40a88eb9f62bbe38454b5b0.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "apis",
+    "backend-services",
+    "gateway",
+    "gateway-api",
+    "go",
+    "golang",
+    "krakend",
+    "load-balancer",
+    "microservice",
+    "middleware",
+    "proxies",
+    "router"
+  ],
+  "version": "HEAD-b84fcec-250625T185618",
+  "version_upstream": "v2.10.2",
+  "bsum": "b7bb144131dba1689f5c548a19b18f0a57e7da0eb10fcf5d3095505e684ac9fe",
+  "build_date": "2025-06-26T14:10:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903043821",
+  "build_id": "15903043821",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luraproject/lura/tests?tag=HEAD-b84fcec-250625T185618-riscv64-Linux&download=tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6571",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luraproject/lura/tests?tag=HEAD-b84fcec-250625T185618-riscv64-Linux&download=tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luraproject/lura/tests:HEAD-b84fcec-250625T185618-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luraproject/lura/tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luraproject/lura/tests?tag=HEAD-b84fcec-250625T185618-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b62b8faff0e8f8638c16ef5f37cbbf404e6dbba053ad23d2e564c0de69e2aa02",
+  "size": "3.4 MB",
+  "size_raw": "3543224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-aa37e1e-250522T183130-riscv64-Linux[v2.10.1]"
+  ],
+  "trusted": "true"
+}
