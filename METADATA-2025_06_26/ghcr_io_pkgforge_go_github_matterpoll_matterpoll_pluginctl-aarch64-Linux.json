@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pluginctl",
+  "pkg_family": "matterpoll",
+  "pkg_id": "pluginctl#github.com_matterpoll_matterpoll",
+  "pkg_name": "pluginctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matterpoll/matterpoll",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Create polls and surveys directly within Mattermost",
+  "homepage": [
+    "https://github.com/matterpoll/matterpoll"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manifest",
+    "pluginctl",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matterpoll/matterpoll/archive/c405704a0cc5a1899d8c66e14e7626fc9660bd28.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "mattermost",
+    "mattermost-plugin"
+  ],
+  "version": "HEAD-c405704-250625T131413",
+  "version_upstream": "",
+  "bsum": "e6c6f513e02ce95e72ee0c4bcb1bb7966784b128f3cb47133a946ef2e078423a",
+  "build_date": "2025-06-26T03:22:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891519280",
+  "build_id": "15891519280",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matterpoll/matterpoll/pluginctl?tag=HEAD-c405704-250625T131413-aarch64-Linux&download=pluginctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matterpoll/matterpoll/pluginctl?tag=HEAD-c405704-250625T131413-aarch64-Linux&download=pluginctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matterpoll/matterpoll/pluginctl:HEAD-c405704-250625T131413-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matterpoll/matterpoll/pluginctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matterpoll/matterpoll/pluginctl?tag=HEAD-c405704-250625T131413-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "076ad2a3ae645148192d19013b6ead46d8c29703eb9b339bfa29d975dd2bf044",
+  "size": "16 MB",
+  "size_raw": "15937376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-20a6d65-250624T211834-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
