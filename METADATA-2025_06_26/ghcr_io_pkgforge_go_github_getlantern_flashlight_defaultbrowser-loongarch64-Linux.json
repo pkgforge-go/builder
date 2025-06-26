@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "defaultbrowser",
+  "pkg_family": "flashlight",
+  "pkg_id": "defaultbrowser#github.com_getlantern_flashlight",
+  "pkg_name": "defaultbrowser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getlantern/flashlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Core proxying component of the Lantern censorship circumvention tool.",
+  "homepage": [
+    "https://github.com/getlantern/flashlight"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "defaultbrowser",
+    "hellocap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getlantern/flashlight/archive/b026e91573ee9734442b527975ef200dca109847.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b026e91-250626T003150",
+  "version_upstream": "",
+  "bsum": "b5f100b4d8d4cd203566386b18d7336f6835ed0627bb30ba4eca48a1ef3ce0fe",
+  "build_date": "2025-06-26T10:46:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898750097",
+  "build_id": "15898750097",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/defaultbrowser?tag=HEAD-b026e91-250626T003150-loongarch64-Linux&download=defaultbrowser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/defaultbrowser?tag=HEAD-b026e91-250626T003150-loongarch64-Linux&download=defaultbrowser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getlantern/flashlight/defaultbrowser:HEAD-b026e91-250626T003150-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getlantern/flashlight/defaultbrowser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/defaultbrowser?tag=HEAD-b026e91-250626T003150-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b94bc3676cd5221bc30e90fa82ff2ddf738e617c82d808c60ac1d2b2bbb298c7",
+  "size": "1.8 MB",
+  "size_raw": "1878520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8ca6cb6-250619T121246-loongarch64-Linux",
+    "HEAD-f16c716-250622T003510-loongarch64-Linux",
+    "HEAD-7f80ae4-250623T003416-loongarch64-Linux",
+    "HEAD-dfaf6f5-250623T153910-loongarch64-Linux[v7.6.233]",
+    "HEAD-0aa1502-250624T121244-loongarch64-Linux",
+    "HEAD-b098538-250625T003200-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
