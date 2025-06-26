@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ror",
+  "pkg_family": "ror",
+  "pkg_id": "ror#github.com_NorskHelsenett_ror",
+  "pkg_name": "ror",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NorskHelsenett/ror",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ROR by NHN, Release Operate Report",
+  "homepage": [
+    "https://github.com/NorskHelsenett/ror"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ror"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NorskHelsenett/ror/archive/e002811cd143fb963e925b9d8b5b63ccade37014.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "management",
+    "multi"
+  ],
+  "version": "HEAD-e002811-250625T150117",
+  "version_upstream": "v1.2.1-rc1",
+  "bsum": "2ed827bada3a24bed0579a3dcb5f76654f609901869bd0e97459d705e9c61530",
+  "build_date": "2025-06-26T02:22:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891364230",
+  "build_id": "15891364230",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/norskhelsenett/ror/ror?tag=HEAD-e002811-250625T150117-riscv64-Linux&download=ror.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/norskhelsenett/ror/ror?tag=HEAD-e002811-250625T150117-riscv64-Linux&download=ror",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/norskhelsenett/ror/ror:HEAD-e002811-250625T150117-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/norskhelsenett/ror/ror",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/norskhelsenett/ror/ror?tag=HEAD-e002811-250625T150117-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f25d3aefbb3494b952f6af6313495d3d651f6f50566288690f31c24ecd7e64c1",
+  "size": "17 MB",
+  "size_raw": "16917688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d688f30-250619T085618-riscv64-Linux[v1.2.0-rc15]"
+  ],
+  "trusted": "true"
+}
