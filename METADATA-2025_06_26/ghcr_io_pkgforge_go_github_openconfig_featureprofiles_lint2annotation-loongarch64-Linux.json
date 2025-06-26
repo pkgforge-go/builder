@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lint2annotation",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "lint2annotation#github.com_openconfig_featureprofiles",
+  "pkg_name": "lint2annotation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/ed5f8b4a819ac70ee42eba4a2d2d11a548c817e4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed5f8b4-250625T152449",
+  "version_upstream": "",
+  "bsum": "33927c09c3bea505e0341d788191d7dc0c89b78f779299533e5c15487a5909b3",
+  "build_date": "2025-06-26T11:39:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899005341",
+  "build_id": "15899005341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/lint2annotation?tag=HEAD-ed5f8b4-250625T152449-loongarch64-Linux&download=lint2annotation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/lint2annotation?tag=HEAD-ed5f8b4-250625T152449-loongarch64-Linux&download=lint2annotation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/lint2annotation:HEAD-ed5f8b4-250625T152449-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/lint2annotation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/lint2annotation?tag=HEAD-ed5f8b4-250625T152449-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4cdc7d7a4f9a4f359f0b92c405cd945daa3bd211e0d8bdb44f101fdc6065e2a",
+  "size": "2.1 MB",
+  "size_raw": "2137368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-loongarch64-Linux",
+    "HEAD-abdf959-250623T164926-loongarch64-Linux",
+    "HEAD-4f694cf-250624T142533-loongarch64-Linux",
+    "HEAD-34b79bc-250625T143340-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
