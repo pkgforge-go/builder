@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hermit",
+  "pkg_family": "hermit",
+  "pkg_id": "hermit#github.com_cashapp_hermit",
+  "pkg_name": "hermit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cashapp/hermit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.",
+  "homepage": [
+    "https://github.com/cashapp/hermit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gendocs",
+    "geninstaller",
+    "hermit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cashapp/hermit/archive/8dffc1031223ecf8fa84cd577d48e15b1784d16a.tar.gz"
+  ],
+  "tag": [
+    "hermetic",
+    "installer",
+    "package-manager"
+  ],
+  "version": "HEAD-8dffc10-250626T111305",
+  "version_upstream": "v0.44.10",
+  "bsum": "6ce69ca5005ce054014047e6a20cb625d420f17058c06821121ecfded99decd4",
+  "build_date": "2025-06-26T13:35:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902878232",
+  "build_id": "15902878232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cashapp/hermit/hermit?tag=HEAD-8dffc10-250626T111305-riscv64-Linux&download=hermit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "675",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cashapp/hermit/hermit?tag=HEAD-8dffc10-250626T111305-riscv64-Linux&download=hermit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cashapp/hermit/hermit:HEAD-8dffc10-250626T111305-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cashapp/hermit/hermit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cashapp/hermit/hermit?tag=HEAD-8dffc10-250626T111305-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ae62e9d597f5fe4b669f4856d70f66db5334c44cda759825ce32f968f2e3169",
+  "size": "15 MB",
+  "size_raw": "15185624",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-aa0f822-250619T101959-riscv64-Linux[v0.44.9]"
+  ],
+  "trusted": "true"
+}
