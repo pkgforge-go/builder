@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "reader",
+  "pkg_family": "kratix",
+  "pkg_id": "reader#github.com_syntasso_kratix",
+  "pkg_name": "reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/syntasso/kratix",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kratix is an open-source framework for building platforms",
+  "homepage": [
+    "https://github.com/syntasso/kratix"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kratix-cmd",
+    "reader",
+    "update-status",
+    "work-creator",
+    "worker-resource-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/syntasso/kratix/archive/49f9960151994f73a63ef1772e4612ffc3dc4702.tar.gz"
+  ],
+  "tag": [
+    "framework",
+    "kubernetes",
+    "platform",
+    "product",
+    "promise"
+  ],
+  "version": "HEAD-49f9960-250625T123018",
+  "version_upstream": "latest",
+  "bsum": "a6ec6e724f114d3c5110f02a2fa71732bee94eae68127d227c5796724c2a6cd1",
+  "build_date": "2025-06-26T03:53:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891866562",
+  "build_id": "15891866562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/reader?tag=HEAD-49f9960-250625T123018-riscv64-Linux&download=reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "602",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/reader?tag=HEAD-49f9960-250625T123018-riscv64-Linux&download=reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/syntasso/kratix/reader:HEAD-49f9960-250625T123018-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/syntasso/kratix/reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/reader?tag=HEAD-49f9960-250625T123018-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b410be60217091a1a700ffa0725503cd296d674f7512ef2d4bf124bf49743c17",
+  "size": "38 MB",
+  "size_raw": "39331736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fb06299-250624T103157-riscv64-Linux[latest]"
+  ],
+  "trusted": "true"
+}
