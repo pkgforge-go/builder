@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "exec",
+  "pkg_family": "ov",
+  "pkg_id": "exec#github.com_noborus_ov",
+  "pkg_name": "exec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/noborus/ov",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.",
+  "homepage": [
+    "https://github.com/noborus/ov"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exec",
+    "ov",
+    "search",
+    "simple",
+    "tail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/noborus/ov/archive/1a1b3b8c078005b8deb73680560ffc61a75ca0a7.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "go",
+    "golang",
+    "incremental-search",
+    "less",
+    "more",
+    "pager",
+    "tail",
+    "tcell",
+    "terminal",
+    "terminal-pager",
+    "tui"
+  ],
+  "version": "HEAD-1a1b3b8-250625T161111",
+  "version_upstream": "",
+  "bsum": "ad93bbbca57b2b57e8c96827b478d8811f02d0056095e19b649963ead057444a",
+  "build_date": "2025-06-26T03:29:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891646314",
+  "build_id": "15891646314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noborus/ov/exec?tag=HEAD-1a1b3b8-250625T161111-riscv64-Linux&download=exec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1634",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noborus/ov/exec?tag=HEAD-1a1b3b8-250625T161111-riscv64-Linux&download=exec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/noborus/ov/exec:HEAD-1a1b3b8-250625T161111-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/noborus/ov/exec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/noborus/ov/exec?tag=HEAD-1a1b3b8-250625T161111-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04700d36bfe580ac0a0f77efe75d78b128d454d661c879be3e424bc944b5344f",
+  "size": "5.9 MB",
+  "size_raw": "6114488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-25d6cc7-250619T172557-riscv64-Linux",
+    "HEAD-b4a94a8-250623T152527-riscv64-Linux",
+    "HEAD-fc39e14-250624T215758-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
