@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aws-vpce-operator",
+  "pkg_family": "aws-vpce-operator",
+  "pkg_id": "aws-vpce-operator#github.com_openshift_aws_vpce_operator",
+  "pkg_name": "aws-vpce-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/aws-vpce-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to manage AWS VPC Endpoints on OpenShift",
+  "homepage": [
+    "https://github.com/openshift/aws-vpce-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-vpce-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/aws-vpce-operator/archive/565820e3801a83478a676ee893a628bdb9bac5d2.tar.gz"
+  ],
+  "tag": [
+    "osdv4"
+  ],
+  "version": "HEAD-565820e-250625T200732",
+  "version_upstream": "",
+  "bsum": "d9d58210b97df256945eec4f01b598ac1d092ce7b79c1986d6962bd860749490",
+  "build_date": "2025-06-26T08:53:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896267332",
+  "build_id": "15896267332",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-vpce-operator/aws-vpce-operator?tag=HEAD-565820e-250625T200732-loongarch64-Linux&download=aws-vpce-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-vpce-operator/aws-vpce-operator?tag=HEAD-565820e-250625T200732-loongarch64-Linux&download=aws-vpce-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/aws-vpce-operator/aws-vpce-operator:HEAD-565820e-250625T200732-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/aws-vpce-operator/aws-vpce-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-vpce-operator/aws-vpce-operator?tag=HEAD-565820e-250625T200732-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "65a324a0ee47e1183d2e890269d98f24c6e2700890d3dc21c668bcd78e15253f",
+  "size": "64 MB",
+  "size_raw": "67037568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
