@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "keep-rsync",
+  "pkg_family": "arvados",
+  "pkg_id": "keep-rsync#github.com_arvados_arvados",
+  "pkg_name": "keep-rsync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arvados/arvados",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source platform for managing and analyzing biomedical big data",
+  "homepage": [
+    "https://github.com/arvados/arvados"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arvados-package",
+    "crunch-dispatch-local",
+    "keep-block-check",
+    "keep-exercise",
+    "keep-rsync",
+    "sync-groups",
+    "sync-users"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arvados/arvados/archive/dd10926d9947f47d96e54da6c0b93b842564c9d0.tar.gz"
+  ],
+  "tag": [
+    "arvados",
+    "aws",
+    "azure",
+    "bigdata",
+    "bioinformatics",
+    "cloud",
+    "cluster",
+    "cwl",
+    "docker",
+    "gcp",
+    "genomics",
+    "go",
+    "python",
+    "ruby",
+    "workflow",
+    "workflow-engine"
+  ],
+  "version": "HEAD-dd10926-250625T161747",
+  "version_upstream": "",
+  "bsum": "e928c868d2f75f332c2fa9db7eb5794fc0f769fe888508cb3e0fa3efe780e95c",
+  "build_date": "2025-06-26T10:13:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898684366",
+  "build_id": "15898684366",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-dd10926-250625T161747-loongarch64-Linux&download=keep-rsync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "404",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-dd10926-250625T161747-loongarch64-Linux&download=keep-rsync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/keep-rsync:HEAD-dd10926-250625T161747-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/keep-rsync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-rsync?tag=HEAD-dd10926-250625T161747-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c702316c23cd21ea3d82d2e3fbf4360f580fcf8bff6f149b5e53af2948637c5",
+  "size": "9.1 MB",
+  "size_raw": "9493248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ad54b4-250618T124354-loongarch64-Linux",
+    "HEAD-18f80f7-250624T151527-loongarch64-Linux",
+    "HEAD-7fd091c-250625T095732-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
