@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "terraform-provider-vault",
+  "pkg_id": "generate#github.com_hashicorp_terraform_provider_vault",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/terraform-provider-vault",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Vault provider",
+  "homepage": [
+    "https://github.com/hashicorp/terraform-provider-vault"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coverage",
+    "generate",
+    "terraform-provider-vault"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/terraform-provider-vault/archive/8ab70718d87166627119ce1189962cee81f50ce7.tar.gz"
+  ],
+  "tag": [
+    "terraform",
+    "terraform-provider",
+    "vault"
+  ],
+  "version": "HEAD-8ab7071-250625T153722",
+  "version_upstream": "",
+  "bsum": "51d2edb2f25e63dd6eb985d9601737b3934d6a62a2eda952d5f514cfbd51cf71",
+  "build_date": "2025-06-26T08:02:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895276816",
+  "build_id": "15895276816",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform-provider-vault/generate?tag=HEAD-8ab7071-250625T153722-riscv64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "484",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform-provider-vault/generate?tag=HEAD-8ab7071-250625T153722-riscv64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/terraform-provider-vault/generate:HEAD-8ab7071-250625T153722-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/terraform-provider-vault/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform-provider-vault/generate?tag=HEAD-8ab7071-250625T153722-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "406604b73de0c5dc515a926989a8be1d3c20b8b75e2573f9f0c16116edd6b603",
+  "size": "1.6 MB",
+  "size_raw": "1648808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
