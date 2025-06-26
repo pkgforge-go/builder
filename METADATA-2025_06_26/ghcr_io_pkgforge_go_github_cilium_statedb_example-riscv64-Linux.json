@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "statedb",
+  "pkg_id": "example#github.com_cilium_statedb",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/statedb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "In-memory state database for Go",
+  "homepage": [
+    "https://github.com/cilium/statedb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/statedb/archive/32c3ea983f9d2bb2d360ff05ce2b48ee5bd627f2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-32c3ea9-250626T162253",
+  "version_upstream": "",
+  "bsum": "0fc5e999da34cd552e2db15fb2f9360e6f7b69e0011ed18552fca9f28c4ab0fa",
+  "build_date": "2025-06-26T22:38:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913244909",
+  "build_id": "15913244909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/statedb/example?tag=HEAD-32c3ea9-250626T162253-riscv64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "76",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/statedb/example?tag=HEAD-32c3ea9-250626T162253-riscv64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/statedb/example:HEAD-32c3ea9-250626T162253-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/statedb/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/statedb/example?tag=HEAD-32c3ea9-250626T162253-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d1a74ccd828b2d3a38f4efed7c47b741ad31f28e08e24131bb2daa6a7f75f2a",
+  "size": "12 MB",
+  "size_raw": "12047608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0e5d738-250619T115618-riscv64-Linux",
+    "HEAD-c6e9b65-250625T164034-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
