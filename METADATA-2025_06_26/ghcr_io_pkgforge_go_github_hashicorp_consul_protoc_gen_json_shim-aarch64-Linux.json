@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-json-shim",
+  "pkg_family": "consul",
+  "pkg_id": "protoc-gen-json-shim#github.com_hashicorp_consul",
+  "pkg_name": "protoc-gen-json-shim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/consul",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/consul"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen",
+    "consul",
+    "internal-grpc-proxy",
+    "protoc-gen-deepcopy",
+    "protoc-gen-grpc-clone",
+    "protoc-gen-json-shim",
+    "protoc-gen-resource-types",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/consul/archive/0b20fdc682d4d4fa1a77a5519f35b638a110cd0f.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "version": "HEAD-0b20fdc-250625T110556",
+  "version_upstream": "",
+  "bsum": "66cbc8708186e567041bcb5361f2e9193c6168668af63b1fe26227a83c1ae3c9",
+  "build_date": "2025-06-26T10:58:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898817914",
+  "build_id": "15898817914",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-json-shim?tag=HEAD-0b20fdc-250625T110556-aarch64-Linux&download=protoc-gen-json-shim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29069",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-json-shim?tag=HEAD-0b20fdc-250625T110556-aarch64-Linux&download=protoc-gen-json-shim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-json-shim:HEAD-0b20fdc-250625T110556-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-json-shim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-json-shim?tag=HEAD-0b20fdc-250625T110556-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "15eea0bce6ebfef7335ce2945442b6b01be39154f16fa8e700d3961ea69857de",
+  "size": "5.7 MB",
+  "size_raw": "5915712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-766ab74-250617T143807-aarch64-Linux",
+    "HEAD-60c29c3-250620T091657-aarch64-Linux",
+    "HEAD-af2be68-250625T170225-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

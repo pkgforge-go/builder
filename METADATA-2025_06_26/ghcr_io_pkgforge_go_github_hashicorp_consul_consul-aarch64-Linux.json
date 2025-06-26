@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "consul",
+  "pkg_family": "consul",
+  "pkg_id": "consul#github.com_hashicorp_consul",
+  "pkg_name": "consul",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/consul",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/consul"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen",
+    "consul",
+    "internal-grpc-proxy",
+    "protoc-gen-deepcopy",
+    "protoc-gen-grpc-clone",
+    "protoc-gen-json-shim",
+    "protoc-gen-resource-types",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/consul/archive/0b20fdc682d4d4fa1a77a5519f35b638a110cd0f.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "version": "HEAD-0b20fdc-250625T110556",
+  "version_upstream": "",
+  "bsum": "8b952c3e9abb4e2f94b5e85cbdf94e037c339fa73d06dafe1efdb2f89e204046",
+  "build_date": "2025-06-26T10:58:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898817914",
+  "build_id": "15898817914",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/consul?tag=HEAD-0b20fdc-250625T110556-aarch64-Linux&download=consul.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29069",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/consul?tag=HEAD-0b20fdc-250625T110556-aarch64-Linux&download=consul",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/consul/consul:HEAD-0b20fdc-250625T110556-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/consul/consul",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/consul?tag=HEAD-0b20fdc-250625T110556-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cdf5174f7a3526fadb849959aea458fa00cf5ea7c7856a8498cc2510b5035f52",
+  "size": "132 MB",
+  "size_raw": "137561696",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-766ab74-250617T143807-aarch64-Linux",
+    "HEAD-60c29c3-250620T091657-aarch64-Linux",
+    "HEAD-af2be68-250625T170225-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
