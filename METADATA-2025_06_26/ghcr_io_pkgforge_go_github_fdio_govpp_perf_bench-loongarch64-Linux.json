@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "perf-bench",
+  "pkg_family": "govpp",
+  "pkg_id": "perf-bench#github.com_FDio_govpp",
+  "pkg_name": "perf-bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FDio/govpp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go toolset for the VPP.",
+  "homepage": [
+    "https://github.com/FDio/govpp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-trace",
+    "binapi-generator",
+    "binapi-types",
+    "govpp",
+    "multi-vpp",
+    "perf-bench",
+    "rpc-service",
+    "simple-client",
+    "stats-client",
+    "stream-client",
+    "vpp-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FDio/govpp/archive/941ffa9baee55df17b95f6840051e2e5d7dada69.tar.gz"
+  ],
+  "tag": [
+    "binapi",
+    "client-library",
+    "golang",
+    "vpp",
+    "vpp-api"
+  ],
+  "version": "HEAD-941ffa9-250626T151240",
+  "version_upstream": "",
+  "bsum": "44b60ff3cecdf4f923c391d8ca035cdfdc9b01d80d9d30a07504a4252c1c0749",
+  "build_date": "2025-06-26T15:53:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906505255",
+  "build_id": "15906505255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/perf-bench?tag=HEAD-941ffa9-250626T151240-loongarch64-Linux&download=perf-bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/perf-bench?tag=HEAD-941ffa9-250626T151240-loongarch64-Linux&download=perf-bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fdio/govpp/perf-bench:HEAD-941ffa9-250626T151240-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fdio/govpp/perf-bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/perf-bench?tag=HEAD-941ffa9-250626T151240-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "028ce4b59981507232a4ee9287a9354973e7c64bbe956fcaed078d484774ee36",
+  "size": "4.7 MB",
+  "size_raw": "4894624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
