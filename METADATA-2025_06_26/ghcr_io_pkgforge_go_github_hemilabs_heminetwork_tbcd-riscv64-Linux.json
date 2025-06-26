@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tbcd",
+  "pkg_family": "heminetwork",
+  "pkg_id": "tbcd#github.com_hemilabs_heminetwork",
+  "pkg_name": "tbcd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hemilabs/heminetwork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The hemi network core daemons.",
+  "homepage": [
+    "https://github.com/hemilabs/heminetwork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bfgd",
+    "bssd",
+    "btctool",
+    "extool",
+    "hemictl",
+    "keygen",
+    "popmd",
+    "tbcd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hemilabs/heminetwork/archive/06391a2fb2c8c2fcfd0590de15af2047b1f79b7b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06391a2-250625T195239",
+  "version_upstream": "",
+  "bsum": "5994d4dbc3fa5170aaa958ffb6388a513744c0ee43edbd9ba98ce170c1daca6c",
+  "build_date": "2025-06-26T11:01:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898849338",
+  "build_id": "15898849338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/tbcd?tag=HEAD-06391a2-250625T195239-riscv64-Linux&download=tbcd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/tbcd?tag=HEAD-06391a2-250625T195239-riscv64-Linux&download=tbcd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hemilabs/heminetwork/tbcd:HEAD-06391a2-250625T195239-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hemilabs/heminetwork/tbcd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/tbcd?tag=HEAD-06391a2-250625T195239-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "078ad57215aff4e34bf0c5a45b4c560cb71309f4a8cce22dd13fd7fe1450e851",
+  "size": "13 MB",
+  "size_raw": "12586328",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af45269-250614T001108-riscv64-Linux",
+    "HEAD-1e46445-250623T105256-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
