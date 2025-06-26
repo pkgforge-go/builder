@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "installer",
+  "pkg_family": "interLink",
+  "pkg_id": "installer#github.com_interlink_hq_interLink",
+  "pkg_name": "installer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/interlink-hq/interLink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "InterLink aims to provide an abstraction for the execution of a Kubernetes pod on any remote resource capable of managing a Container execution lifecycle",
+  "homepage": [
+    "https://github.com/interlink-hq/interLink"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "installer",
+    "interlink",
+    "openapi-gen",
+    "ssh-tunnel",
+    "virtual-kubelet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/interlink-hq/interLink/archive/f01fa530b8754ddf6abfde260802606b56a3dc1a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f01fa53-250626T111431",
+  "version_upstream": "",
+  "bsum": "e8bb2da6055309f06cc4e9294cadfe4272a2f69152271c0dd6879f5b0b8957a8",
+  "build_date": "2025-06-26T17:03:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906941257",
+  "build_id": "15906941257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interlink-hq/interlink/installer?tag=HEAD-f01fa53-250626T111431-x86_64-Linux&download=installer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interlink-hq/interlink/installer?tag=HEAD-f01fa53-250626T111431-x86_64-Linux&download=installer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/interlink-hq/interlink/installer:HEAD-f01fa53-250626T111431-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/interlink-hq/interlink/installer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interlink-hq/interlink/installer?tag=HEAD-f01fa53-250626T111431-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f35f38e3981b43b46e5cdf5ea4ddd9eaf594180cdb341d9ff8e8513e1de05cde",
+  "size": "9.0 MB",
+  "size_raw": "9404992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
