@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "common",
+  "pkg_family": "common",
+  "pkg_id": "common#github.com_containers_common",
+  "pkg_name": "common",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/common",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Location for shared common files in github.com/containers repos.",
+  "homepage": [
+    "https://github.com/containers/common"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "common"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/common/archive/8003ce3192dec0d8f833701ac55454376daf77c1.tar.gz"
+  ],
+  "tag": [
+    "buildah",
+    "containers",
+    "podman",
+    "skopeo"
+  ],
+  "version": "HEAD-8003ce3-250626T105023",
+  "version_upstream": "",
+  "bsum": "c2205cfd3f83b4719eb4bd320f655689a00c73d768952e88a6dd0474ac91388d",
+  "build_date": "2025-06-26T22:45:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913250647",
+  "build_id": "15913250647",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/common/common?tag=HEAD-8003ce3-250626T105023-x86_64-Linux&download=common.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/common/common?tag=HEAD-8003ce3-250626T105023-x86_64-Linux&download=common",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/common/common:HEAD-8003ce3-250626T105023-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/common/common",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/common/common?tag=HEAD-8003ce3-250626T105023-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c98769ce941f58c7bdc4f6dbb1e81da3e70471a43051769063aa4356f6aae27",
+  "size": "2.3 MB",
+  "size_raw": "2333912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d638ae9-250619T110336-x86_64-Linux",
+    "HEAD-6769e5b-250624T092204-x86_64-Linux",
+    "HEAD-1bc9d17-250624T163146-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
