@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "cloudprober",
+  "pkg_id": "cmd#github.com_cloudprober_cloudprober",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudprober/cloudprober",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An active monitoring software to detect failures before your customers do.",
+  "homepage": [
+    "https://github.com/cloudprober/cloudprober"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudprober",
+    "cmd",
+    "external",
+    "myprober"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudprober/cloudprober/archive/00958e6782d4eff1a9f1c9b7483f77728ad03b3d.tar.gz"
+  ],
+  "tag": [
+    "availability-monitor",
+    "blackbox-monitoring",
+    "cloud",
+    "cloud-monitoring",
+    "devops",
+    "golang",
+    "google",
+    "grafana",
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "prober",
+    "prometheus",
+    "reliability",
+    "slo",
+    "sre",
+    "stackdriver",
+    "synthetic-monitoring",
+    "uptime"
+  ],
+  "version": "HEAD-00958e6-250626T140047",
+  "version_upstream": "",
+  "bsum": "56339d0d7b54a5104abaee3a4b8a8e0f25356a23d28310fc045258cf92c21a2c",
+  "build_date": "2025-06-26T22:42:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913243217",
+  "build_id": "15913243217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudprober/cloudprober/cmd?tag=HEAD-00958e6-250626T140047-aarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "568",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudprober/cloudprober/cmd?tag=HEAD-00958e6-250626T140047-aarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudprober/cloudprober/cmd:HEAD-00958e6-250626T140047-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudprober/cloudprober/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudprober/cloudprober/cmd?tag=HEAD-00958e6-250626T140047-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a75d49463623deb12eeebae1fcc0554c4a4892cdea03e3f5409a0ceb274a8003",
+  "size": "22 MB",
+  "size_raw": "22095712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-11183f6-250621T090841-aarch64-Linux[tip]"
+  ],
+  "trusted": "true"
+}
