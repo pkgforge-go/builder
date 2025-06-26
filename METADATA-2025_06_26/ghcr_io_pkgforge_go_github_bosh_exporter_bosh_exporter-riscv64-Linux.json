@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bosh_exporter",
+  "pkg_family": "bosh_exporter",
+  "pkg_id": "bosh_exporter#github.com_cloudfoundry_bosh_exporter",
+  "pkg_name": "bosh_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/bosh_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BOSH Prometheus Exporter",
+  "homepage": [
+    "https://github.com/cloudfoundry/bosh_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bosh_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/bosh_exporter/archive/3299836f5351ecadb93a082a6cfdf826799d023c.tar.gz"
+  ],
+  "tag": [
+    "bosh",
+    "cloud-foundry",
+    "metrics",
+    "prometheus"
+  ],
+  "version": "HEAD-3299836-250626T124819",
+  "version_upstream": "",
+  "bsum": "a21f9fe19fb01b63ccf2c81a3cd63c36af894589ca5a701777f614362031b872",
+  "build_date": "2025-06-26T16:26:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906635662",
+  "build_id": "15906635662",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosh/exporter/bosh_exporter?tag=HEAD-3299836-250626T124819-riscv64-Linux&download=bosh_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosh/exporter/bosh_exporter?tag=HEAD-3299836-250626T124819-riscv64-Linux&download=bosh_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bosh/exporter/bosh_exporter:HEAD-3299836-250626T124819-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bosh/exporter/bosh_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bosh/exporter/bosh_exporter?tag=HEAD-3299836-250626T124819-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f1628f5b474988f222522b2a626b0dfde715f03f79589db784186355a5ac203f",
+  "size": "14 MB",
+  "size_raw": "14017112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
