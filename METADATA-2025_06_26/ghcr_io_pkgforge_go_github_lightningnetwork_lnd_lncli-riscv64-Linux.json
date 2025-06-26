@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lncli",
+  "pkg_family": "lnd",
+  "pkg_id": "lncli#github.com_lightningnetwork_lnd",
+  "pkg_name": "lncli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lightningnetwork/lnd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lightning Network Daemon ⚡️",
+  "homepage": [
+    "https://github.com/lightningnetwork/lnd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lncli",
+    "lnd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lightningnetwork/lnd/archive/1fcf112107ea4ad635f15aa09cba2e24cf7bba99.tar.gz"
+  ],
+  "tag": [
+    "bitcoin",
+    "blockchain",
+    "cryptocurrency",
+    "cryptography",
+    "lightning",
+    "lightning-network",
+    "micropayments",
+    "payments",
+    "peer-to-peer",
+    "protocol"
+  ],
+  "version": "HEAD-1fcf112-250625T163040",
+  "version_upstream": "",
+  "bsum": "9b8b601c323ddb8cf8cb7c32ab80e2ee51588644274e5399b591bfd999372549",
+  "build_date": "2025-06-26T03:20:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891504011",
+  "build_id": "15891504011",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-1fcf112-250625T163040-riscv64-Linux&download=lncli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7953",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-1fcf112-250625T163040-riscv64-Linux&download=lncli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lncli:HEAD-1fcf112-250625T163040-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightningnetwork/lnd/lncli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightningnetwork/lnd/lncli?tag=HEAD-1fcf112-250625T163040-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "519f1ee3867154b8adbf7a9868d344f046945a5fbfec760defdf9ec6f8ebd7cb",
+  "size": "52 MB",
+  "size_raw": "54450136",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7857d2c-250620T134741-riscv64-Linux",
+    "HEAD-faa68a2-250620T152624-riscv64-Linux",
+    "HEAD-09df589-250623T213331-riscv64-Linux",
+    "HEAD-6b80796-250624T143733-riscv64-Linux",
+    "HEAD-4335d9c-250624T205951-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
