@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scanner-aqua",
+  "pkg_family": "starboard",
+  "pkg_id": "scanner-aqua#github.com_aquasecurity_starboard",
+  "pkg_name": "scanner-aqua",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/starboard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Superseded by https://github.com/aquasecurity/trivy-operator",
+  "homepage": [
+    "https://github.com/aquasecurity/starboard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scanner-aqua",
+    "starboard",
+    "starboard-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/starboard/archive/ab715b7752625ad4512606342c02f3e78495a6ab.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "custom-resource-definition",
+    "kubernetes",
+    "security",
+    "starboard"
+  ],
+  "version": "HEAD-ab715b7-250625T145045",
+  "version_upstream": "",
+  "bsum": "6f9becfc2b282cc1cf929b8a6634e4ae2a836bc8926dde0687131cd7fb2e6b64",
+  "build_date": "2025-06-26T02:32:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891365708",
+  "build_id": "15891365708",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/starboard/scanner-aqua?tag=HEAD-ab715b7-250625T145045-loongarch64-Linux&download=scanner-aqua.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1366",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/starboard/scanner-aqua?tag=HEAD-ab715b7-250625T145045-loongarch64-Linux&download=scanner-aqua",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/starboard/scanner-aqua:HEAD-ab715b7-250625T145045-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/starboard/scanner-aqua",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/starboard/scanner-aqua?tag=HEAD-ab715b7-250625T145045-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b37eae0bf7f1b153ffdd08bdaa012c6bb718bc06614706675641afb9e09b623",
+  "size": "8.8 MB",
+  "size_raw": "9187168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f2b5445-250623T175729-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
