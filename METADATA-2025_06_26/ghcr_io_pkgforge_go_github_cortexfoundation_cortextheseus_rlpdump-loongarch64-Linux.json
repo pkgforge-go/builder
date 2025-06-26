@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rlpdump",
+  "pkg_family": "CortexTheseus",
+  "pkg_id": "rlpdump#github.com_CortexFoundation_CortexTheseus",
+  "pkg_name": "rlpdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CortexFoundation/CortexTheseus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cortex - AI on Blockchain, Official Golang implementation",
+  "homepage": [
+    "https://github.com/CortexFoundation/CortexTheseus"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devp2p",
+    "rlpdump",
+    "rlpgen",
+    "views"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CortexFoundation/CortexTheseus/archive/33f08235cb6fd8062f77f761ebeb17f01861cf54.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "blockchain",
+    "cortex",
+    "ctxc",
+    "cvm",
+    "machine-learning"
+  ],
+  "version": "HEAD-33f0823-250625T093532",
+  "version_upstream": "",
+  "bsum": "c0a6cb49a0ac8dd06d4db79e9079a130d956a58360205b19ce6ff9f4580d1f58",
+  "build_date": "2025-06-26T02:30:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891363268",
+  "build_id": "15891363268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/cortextheseus/rlpdump?tag=HEAD-33f0823-250625T093532-loongarch64-Linux&download=rlpdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/cortextheseus/rlpdump?tag=HEAD-33f0823-250625T093532-loongarch64-Linux&download=rlpdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexfoundation/cortextheseus/rlpdump:HEAD-33f0823-250625T093532-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexfoundation/cortextheseus/rlpdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/cortextheseus/rlpdump?tag=HEAD-33f0823-250625T093532-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "327e5c614f3772c2de59669e77aa9c2e92ea6913d25c2fc81939dca8d344a1a4",
+  "size": "1.9 MB",
+  "size_raw": "1915512",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-40960de-250619T084107-loongarch64-Linux",
+    "HEAD-3b889ab-250622T094835-loongarch64-Linux",
+    "HEAD-ade6bad-250624T101223-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
