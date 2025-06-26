@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "govpp",
+  "pkg_family": "govpp",
+  "pkg_id": "govpp#github.com_FDio_govpp",
+  "pkg_name": "govpp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FDio/govpp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go toolset for the VPP.",
+  "homepage": [
+    "https://github.com/FDio/govpp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-trace",
+    "binapi-generator",
+    "binapi-types",
+    "govpp",
+    "multi-vpp",
+    "perf-bench",
+    "rpc-service",
+    "simple-client",
+    "stats-client",
+    "stream-client",
+    "vpp-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FDio/govpp/archive/941ffa9baee55df17b95f6840051e2e5d7dada69.tar.gz"
+  ],
+  "tag": [
+    "binapi",
+    "client-library",
+    "golang",
+    "vpp",
+    "vpp-api"
+  ],
+  "version": "HEAD-941ffa9-250626T151240",
+  "version_upstream": "",
+  "bsum": "cf183e30a1c4b899beecae522f38e4ddb39ee2fea5157f4e268db2ff495b6c74",
+  "build_date": "2025-06-26T15:54:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906505255",
+  "build_id": "15906505255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/govpp?tag=HEAD-941ffa9-250626T151240-riscv64-Linux&download=govpp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/govpp?tag=HEAD-941ffa9-250626T151240-riscv64-Linux&download=govpp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fdio/govpp/govpp:HEAD-941ffa9-250626T151240-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fdio/govpp/govpp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/govpp?tag=HEAD-941ffa9-250626T151240-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e80873d050233767f6bd23b09da424dd48cd3205eec732c00ee3402332c52c0",
+  "size": "16 MB",
+  "size_raw": "15869272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

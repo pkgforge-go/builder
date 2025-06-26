@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vpp-proxy",
+  "pkg_family": "govpp",
+  "pkg_id": "vpp-proxy#github.com_FDio_govpp",
+  "pkg_name": "vpp-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FDio/govpp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go toolset for the VPP.",
+  "homepage": [
+    "https://github.com/FDio/govpp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-trace",
+    "binapi-generator",
+    "binapi-types",
+    "govpp",
+    "multi-vpp",
+    "perf-bench",
+    "rpc-service",
+    "simple-client",
+    "stats-client",
+    "stream-client",
+    "vpp-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FDio/govpp/archive/941ffa9baee55df17b95f6840051e2e5d7dada69.tar.gz"
+  ],
+  "tag": [
+    "binapi",
+    "client-library",
+    "golang",
+    "vpp",
+    "vpp-api"
+  ],
+  "version": "HEAD-941ffa9-250626T151240",
+  "version_upstream": "",
+  "bsum": "542015957d93ac2ba5db7218aee9bbf79908036e6aec18afaf9afac6aaa8fbda",
+  "build_date": "2025-06-26T15:54:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906505255",
+  "build_id": "15906505255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/vpp-proxy?tag=HEAD-941ffa9-250626T151240-riscv64-Linux&download=vpp-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/vpp-proxy?tag=HEAD-941ffa9-250626T151240-riscv64-Linux&download=vpp-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fdio/govpp/vpp-proxy:HEAD-941ffa9-250626T151240-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fdio/govpp/vpp-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/vpp-proxy?tag=HEAD-941ffa9-250626T151240-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54c1b3172dc926c9d06f39ad85ce7d023478d0983d0681ac872e9ad9e604bbda",
+  "size": "9.6 MB",
+  "size_raw": "9970136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
