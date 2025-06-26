@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "haproxy-operator",
+  "pkg_family": "haproxy-operator",
+  "pkg_id": "haproxy-operator#github.com_six_group_haproxy_operator",
+  "pkg_name": "haproxy-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/six-group/haproxy-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HAProxy Operator is a Kubernetes-native solution designed to automate the deployment, configuration, and management of HAProxy instances using Custom Resources to abstract the key components such as backends, frontends, and listens.",
+  "homepage": [
+    "https://github.com/six-group/haproxy-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "haproxy-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/six-group/haproxy-operator/archive/e735bbd0924597e563664f1edab04b8729489e83.tar.gz"
+  ],
+  "tag": [
+    "haproxy",
+    "haproxy-configuration",
+    "ingress",
+    "kubernetes",
+    "kubernetes-operator",
+    "loadbalancing",
+    "operator-sdk"
+  ],
+  "version": "HEAD-e735bbd-250626T110452",
+  "version_upstream": "haproxy-operator-1.0.35",
+  "bsum": "402b37d89aed9284b8fa22ffc797c6a0a70b6a3de97e782aa0713ab0e1e68691",
+  "build_date": "2025-06-26T18:09:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908377761",
+  "build_id": "15908377761",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/six-group/haproxy-operator/haproxy-operator?tag=HEAD-e735bbd-250626T110452-riscv64-Linux&download=haproxy-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/six-group/haproxy-operator/haproxy-operator?tag=HEAD-e735bbd-250626T110452-riscv64-Linux&download=haproxy-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/six-group/haproxy-operator/haproxy-operator:HEAD-e735bbd-250626T110452-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/six-group/haproxy-operator/haproxy-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/six-group/haproxy-operator/haproxy-operator?tag=HEAD-e735bbd-250626T110452-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "293c800d81f64aceacc07d9ab2d436ad095931ebec8a95f0423bf0240bee7430",
+  "size": "57 MB",
+  "size_raw": "59092440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
