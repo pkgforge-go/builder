@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "copctl",
+  "pkg_family": "cnvrg-operator",
+  "pkg_id": "copctl#github.com_AccessibleAI_cnvrg_operator",
+  "pkg_name": "copctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AccessibleAI/cnvrg-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "cnvrg operator for deploying cnvrg.io K8s native AI/MLOps platform",
+  "homepage": [
+    "https://github.com/AccessibleAI/cnvrg-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "copctl",
+    "metastorageprovisioner",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AccessibleAI/cnvrg-operator/archive/4f17f3652618b27a1c32e5d59b8c115853df8f4f.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "aios",
+    "k8s",
+    "k8s-operator",
+    "kubebuilder",
+    "mlops"
+  ],
+  "version": "HEAD-4f17f36-250626T134310",
+  "version_upstream": "5.2.7",
+  "bsum": "342d78770710a0a762e2413c229717fa85186ab7d5f0017121b31dc63555f6ff",
+  "build_date": "2025-06-26T15:55:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906505391",
+  "build_id": "15906505391",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/accessibleai/cnvrg-operator/copctl?tag=HEAD-4f17f36-250626T134310-loongarch64-Linux&download=copctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/accessibleai/cnvrg-operator/copctl?tag=HEAD-4f17f36-250626T134310-loongarch64-Linux&download=copctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/accessibleai/cnvrg-operator/copctl:HEAD-4f17f36-250626T134310-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/accessibleai/cnvrg-operator/copctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/accessibleai/cnvrg-operator/copctl?tag=HEAD-4f17f36-250626T134310-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "91163e1148385d5bbd5cdac3a86d7beb7ef96c5cb35b95a843dccfa48b8dd32f",
+  "size": "35 MB",
+  "size_raw": "36604896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
