@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mysqld_exporter",
+  "pkg_family": "mysqld_exporter",
+  "pkg_id": "mysqld_exporter#github.com_prometheus_mysqld_exporter",
+  "pkg_name": "mysqld_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/mysqld_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Exporter for MySQL server metrics",
+  "homepage": [
+    "https://github.com/prometheus/mysqld_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mysqld_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/mysqld_exporter/archive/1431c789aae3382c61bdc31736d3125786b2394e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1431c78-250626T153614",
+  "version_upstream": "",
+  "bsum": "53dbab3ce50ffcc97124a8a078b3964687632e1cc4bc20c484e98914c59527b4",
+  "build_date": "2025-06-26T17:53:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907998064",
+  "build_id": "15907998064",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mysqld/exporter/mysqld_exporter?tag=HEAD-1431c78-250626T153614-aarch64-Linux&download=mysqld_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2302",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mysqld/exporter/mysqld_exporter?tag=HEAD-1431c78-250626T153614-aarch64-Linux&download=mysqld_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mysqld/exporter/mysqld_exporter:HEAD-1431c78-250626T153614-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mysqld/exporter/mysqld_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mysqld/exporter/mysqld_exporter?tag=HEAD-1431c78-250626T153614-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a148698278e06d0c4791675dd84391ba99da48b56efb7c5ab62961e4f49f5874",
+  "size": "14 MB",
+  "size_raw": "13646432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
