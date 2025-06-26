@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "shardpy",
+  "pkg_family": "semadb",
+  "pkg_id": "shardpy#github.com_Semafind_semadb",
+  "pkg_name": "shardpy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Semafind/semadb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No fuss multi-index hybrid vector database / search engine",
+  "homepage": [
+    "https://github.com/Semafind/semadb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dot",
+    "dumpgraph",
+    "dumpkeys",
+    "euclidean",
+    "generatejsonschema",
+    "healthcheck",
+    "loadrand",
+    "migratev1-v2",
+    "semadb",
+    "shardpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Semafind/semadb/archive/41b809fd05cdda4e60fe6f558d9ac2569f8d2017.tar.gz"
+  ],
+  "tag": [
+    "search-engine",
+    "vector-database"
+  ],
+  "version": "HEAD-41b809f-250626T104617",
+  "version_upstream": "v2.0.4",
+  "bsum": "c24baf18ae6e2fea3b579b80f3638dd6a648ce146be4bcf47df9c3d57bdaf44d",
+  "build_date": "2025-06-26T16:07:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906509968",
+  "build_id": "15906509968",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/shardpy?tag=HEAD-41b809f-250626T104617-riscv64-Linux&download=shardpy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/shardpy?tag=HEAD-41b809f-250626T104617-riscv64-Linux&download=shardpy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/semafind/semadb/shardpy:HEAD-41b809f-250626T104617-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/semafind/semadb/shardpy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/shardpy?tag=HEAD-41b809f-250626T104617-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "783da521c9538ccccfda095a7cd37447f923ea21c86173b62791d895b878d390",
+  "size": "5.1 MB",
+  "size_raw": "5272920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
