@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "init",
+  "pkg_family": "talos",
+  "pkg_id": "init#github.com_siderolabs_talos",
+  "pkg_name": "init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/siderolabs/talos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+  "homepage": [
+    "https://github.com/siderolabs/talos"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "init",
+    "installer",
+    "machined"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/siderolabs/talos/archive/66ecbd48fdaf509bbb2b37327eb0e0891dd81910.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "containerd",
+    "go",
+    "grpc",
+    "kubernetes",
+    "kubernetes-distribution",
+    "linux",
+    "linux-distribution",
+    "musl"
+  ],
+  "version": "HEAD-66ecbd4-250625T103321",
+  "version_upstream": "",
+  "bsum": "59390756dccb925872a6b59b79ba52ef5a6b32e34e05a5d0a02cd49f8806ae45",
+  "build_date": "2025-06-26T12:10:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899154457",
+  "build_id": "15899154457",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/talos/init?tag=HEAD-66ecbd4-250625T103321-aarch64-Linux&download=init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8227",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/talos/init?tag=HEAD-66ecbd4-250625T103321-aarch64-Linux&download=init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/siderolabs/talos/init:HEAD-66ecbd4-250625T103321-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/siderolabs/talos/init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/talos/init?tag=HEAD-66ecbd4-250625T103321-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6618777cec1394c3fcf3762819b4b7729247feab8a7297ecffb0959b71a9c533",
+  "size": "14 MB",
+  "size_raw": "14219008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cc14c4a-250613T115405-aarch64-Linux",
+    "HEAD-c948d76-250624T203804-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
