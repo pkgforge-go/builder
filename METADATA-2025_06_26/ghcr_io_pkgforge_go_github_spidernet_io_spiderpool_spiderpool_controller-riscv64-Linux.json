@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spiderpool-controller",
+  "pkg_family": "spiderpool",
+  "pkg_id": "spiderpool-controller#github.com_spidernet_io_spiderpool",
+  "pkg_name": "spiderpool-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spidernet-io/spiderpool",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud",
+  "homepage": [
+    "https://github.com/spidernet-io/spiderpool"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coordinator",
+    "ifacer",
+    "licensegen",
+    "spiderpool",
+    "spiderpool-agent",
+    "spiderpool-controller",
+    "spiderpool-init",
+    "spiderpoolctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spidernet-io/spiderpool/archive/c616ca5c7d09a5b779c9fc3b4867f1d730054912.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "cni",
+    "golang",
+    "ipam",
+    "kubernetes",
+    "rdma"
+  ],
+  "version": "HEAD-c616ca5-250626T175744",
+  "version_upstream": "",
+  "bsum": "a307866f160472c02469793495c240e49c6053b8226a286177ad0ae286ab368d",
+  "build_date": "2025-06-26T18:14:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908411855",
+  "build_id": "15908411855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-controller?tag=HEAD-c616ca5-250626T175744-riscv64-Linux&download=spiderpool-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-controller?tag=HEAD-c616ca5-250626T175744-riscv64-Linux&download=spiderpool-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-controller:HEAD-c616ca5-250626T175744-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-controller?tag=HEAD-c616ca5-250626T175744-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "791029277f87f771879552683c2055426d40be973069322f494fb96d10f90fac",
+  "size": "59 MB",
+  "size_raw": "60829720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "licensegen",
+  "pkg_family": "spiderpool",
+  "pkg_id": "licensegen#github.com_spidernet_io_spiderpool",
+  "pkg_name": "licensegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spidernet-io/spiderpool",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud",
+  "homepage": [
+    "https://github.com/spidernet-io/spiderpool"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coordinator",
+    "ifacer",
+    "licensegen",
+    "spiderpool",
+    "spiderpool-agent",
+    "spiderpool-controller",
+    "spiderpool-init",
+    "spiderpoolctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spidernet-io/spiderpool/archive/c616ca5c7d09a5b779c9fc3b4867f1d730054912.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "cni",
+    "golang",
+    "ipam",
+    "kubernetes",
+    "rdma"
+  ],
+  "version": "HEAD-c616ca5-250626T175744",
+  "version_upstream": "",
+  "bsum": "a2bd5cc1ede8b04db785426690ced5de70d027e9cafa08d096d0265006c96f8b",
+  "build_date": "2025-06-26T18:14:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908411855",
+  "build_id": "15908411855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/licensegen?tag=HEAD-c616ca5-250626T175744-riscv64-Linux&download=licensegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/licensegen?tag=HEAD-c616ca5-250626T175744-riscv64-Linux&download=licensegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/licensegen:HEAD-c616ca5-250626T175744-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/licensegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/licensegen?tag=HEAD-c616ca5-250626T175744-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16b99079ede1f949f94f0757d7e47f11e8e41ace72df390aaccc1c213fa70c0e",
+  "size": "1.7 MB",
+  "size_raw": "1738920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
