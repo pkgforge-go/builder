@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sort_testregistry",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "sort_testregistry#github.com_openconfig_featureprofiles",
+  "pkg_name": "sort_testregistry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/ed5f8b4a819ac70ee42eba4a2d2d11a548c817e4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ed5f8b4-250625T152449",
+  "version_upstream": "",
+  "bsum": "bd95eb3352c1d59fc0a9cb5c5eb23ba71d8be75055443c5c243f860fc82f9475",
+  "build_date": "2025-06-26T11:40:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899005341",
+  "build_id": "15899005341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/sort_testregistry?tag=HEAD-ed5f8b4-250625T152449-x86_64-Linux&download=sort_testregistry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/sort_testregistry?tag=HEAD-ed5f8b4-250625T152449-x86_64-Linux&download=sort_testregistry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/sort_testregistry:HEAD-ed5f8b4-250625T152449-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/sort_testregistry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/sort_testregistry?tag=HEAD-ed5f8b4-250625T152449-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8b2ac75ccfb1fdc2962265664e70388bb15e47a7621988c72314180630a5ce4",
+  "size": "4.0 MB",
+  "size_raw": "4172632",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-x86_64-Linux",
+    "HEAD-abdf959-250623T164926-x86_64-Linux",
+    "HEAD-4f694cf-250624T142533-x86_64-Linux",
+    "HEAD-34b79bc-250625T143340-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
