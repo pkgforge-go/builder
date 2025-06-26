@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "go-trader",
+  "pkg_id": "client#github.com_robaho_go_trader",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/robaho/go-trader",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "financial exchange written in Go, designed for algorithmic trading tests",
+  "homepage": [
+    "https://github.com/robaho/go-trader"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "algo",
+    "client",
+    "exchange",
+    "marketmaker",
+    "playback"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/robaho/go-trader/archive/0e98f9a49ff1a685600455c06055503df1f061ae.tar.gz"
+  ],
+  "tag": [
+    "cui",
+    "exchange",
+    "financial-exchange",
+    "fix",
+    "golang",
+    "grpc",
+    "grpc-go",
+    "html",
+    "marketdata",
+    "multicast",
+    "orderbook",
+    "quickfix",
+    "quickfixgo",
+    "trade",
+    "trading-algorithms",
+    "trading-strategies"
+  ],
+  "version": "HEAD-0e98f9a-250625T175614",
+  "version_upstream": "",
+  "bsum": "d3eb7ad31a07d05db2b7cd532b5da62bca7c8be50f86891d0599f2829748ad4e",
+  "build_date": "2025-06-26T09:06:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896473644",
+  "build_id": "15896473644",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robaho/go-trader/client?tag=HEAD-0e98f9a-250625T175614-aarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "444",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robaho/go-trader/client?tag=HEAD-0e98f9a-250625T175614-aarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/robaho/go-trader/client:HEAD-0e98f9a-250625T175614-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/robaho/go-trader/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robaho/go-trader/client?tag=HEAD-0e98f9a-250625T175614-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c43f7236d92071be8408ef9dc1147961f5a4bfe447fb6d41557ea64fc1412e8",
+  "size": "21 MB",
+  "size_raw": "21699648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
