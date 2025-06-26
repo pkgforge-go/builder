@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "grype",
+  "pkg_family": "grype",
+  "pkg_id": "grype#github.com_anchore_grype",
+  "pkg_name": "grype",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/grype",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A vulnerability scanner for container images and filesystems",
+  "homepage": [
+    "https://github.com/anchore/grype"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "grype",
+    "jsonschema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anchore/grype/archive/ed448fcfce0340386695f25924e34232920895a8.tar.gz"
+  ],
+  "tag": [
+    "container-image",
+    "containers",
+    "cyclonedx",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "oci",
+    "openvex",
+    "security",
+    "static-analysis",
+    "tool",
+    "vex",
+    "vulnerabilities",
+    "vulnerability"
+  ],
+  "version": "HEAD-ed448fc-250625T125611",
+  "version_upstream": "",
+  "bsum": "55983618001c102109e6028b67abb21db7e8eb60a7ea97aa79d3c63d2ef030b1",
+  "build_date": "2025-06-26T13:32:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902782075",
+  "build_id": "15902782075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/grype?tag=HEAD-ed448fc-250625T125611-aarch64-Linux&download=grype.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/grype?tag=HEAD-ed448fc-250625T125611-aarch64-Linux&download=grype",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/grype/grype:HEAD-ed448fc-250625T125611-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/grype/grype",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/grype?tag=HEAD-ed448fc-250625T125611-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "96666847eda52078605dfa64195be5c92affc92d61c3d125b5acc62583c0f783",
+  "size": "74 MB",
+  "size_raw": "77035008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-34304db-250617T114826-aarch64-Linux",
+    "HEAD-327e352-250619T160209-aarch64-Linux",
+    "HEAD-9648e99-250623T135334-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
