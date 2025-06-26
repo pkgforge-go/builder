@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "jenny",
+  "pkg_family": "missinggo",
+  "pkg_id": "jenny#github.com_anacrolix_missinggo",
+  "pkg_name": "jenny",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/missinggo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff that_s missing in Go stdlib, or hasn_t made it into its own repo.",
+  "homepage": [
+    "https://github.com/anacrolix/missinggo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "filecache",
+    "gd",
+    "go-env",
+    "http-file-server",
+    "jenny",
+    "nop",
+    "query-escape",
+    "query-unescape"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/missinggo/archive/aa4691b19d564e034cae5b149bd0f7e647607a04.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa4691b-250626T223431",
+  "version_upstream": "",
+  "bsum": "a99bbed8c67df2b37e94b43546d331ff7829b009f65fc6a5c2f6b91941593001",
+  "build_date": "2025-06-26T16:14:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906549083",
+  "build_id": "15906549083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/jenny?tag=HEAD-aa4691b-250626T223431-x86_64-Linux&download=jenny.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "85",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/jenny?tag=HEAD-aa4691b-250626T223431-x86_64-Linux&download=jenny",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/missinggo/jenny:HEAD-aa4691b-250626T223431-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/missinggo/jenny",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/jenny?tag=HEAD-aa4691b-250626T223431-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6d968ec01e453551ba12c84fb4a6a8966760ed70956b9c91c0f8e6fef5ab9af",
+  "size": "4.4 MB",
+  "size_raw": "4552536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

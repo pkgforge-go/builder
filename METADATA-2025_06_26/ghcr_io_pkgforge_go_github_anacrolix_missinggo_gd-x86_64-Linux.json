@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gd",
+  "pkg_family": "missinggo",
+  "pkg_id": "gd#github.com_anacrolix_missinggo",
+  "pkg_name": "gd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/missinggo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff that_s missing in Go stdlib, or hasn_t made it into its own repo.",
+  "homepage": [
+    "https://github.com/anacrolix/missinggo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "filecache",
+    "gd",
+    "go-env",
+    "http-file-server",
+    "jenny",
+    "nop",
+    "query-escape",
+    "query-unescape"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/missinggo/archive/aa4691b19d564e034cae5b149bd0f7e647607a04.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa4691b-250626T223431",
+  "version_upstream": "",
+  "bsum": "98dc9159f6cd216f284906ee44605eb753eb5fe900644dfd7a2c8e49470dcdb4",
+  "build_date": "2025-06-26T16:14:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906549083",
+  "build_id": "15906549083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/gd?tag=HEAD-aa4691b-250626T223431-x86_64-Linux&download=gd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "85",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/gd?tag=HEAD-aa4691b-250626T223431-x86_64-Linux&download=gd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/missinggo/gd:HEAD-aa4691b-250626T223431-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/missinggo/gd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/gd?tag=HEAD-aa4691b-250626T223431-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eefe93e2a771dbe42348aaad927490e2c251359df4f4978d54e773cc556e8025",
+  "size": "1.7 MB",
+  "size_raw": "1729272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
