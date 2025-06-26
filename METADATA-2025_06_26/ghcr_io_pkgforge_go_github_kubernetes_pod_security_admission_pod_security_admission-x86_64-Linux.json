@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pod-security-admission",
+  "pkg_family": "pod-security-admission",
+  "pkg_id": "pod-security-admission#github.com_kubernetes_pod_security_admission",
+  "pkg_name": "pod-security-admission",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/pod-security-admission",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Pod Security Standards implementation - https://github.com/kubernetes/enhancements/blob/master/keps/sig-auth/2579-psp-replacement/README.md",
+  "homepage": [
+    "https://github.com/kubernetes/pod-security-admission"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pod-security-admission"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/pod-security-admission/archive/18b2f47ce1f1a9ea521850d948a42e8fe78397a7.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-auth",
+    "k8s-staging"
+  ],
+  "version": "HEAD-18b2f47-250625T182940",
+  "version_upstream": "",
+  "bsum": "675416cdb3a9db1a9ee11a266c6bdb669dcd92963696816580e2c70cba5d93df",
+  "build_date": "2025-06-26T08:29:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895971051",
+  "build_id": "15895971051",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/pod-security-admission/pod-security-admission?tag=HEAD-18b2f47-250625T182940-x86_64-Linux&download=pod-security-admission.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/pod-security-admission/pod-security-admission?tag=HEAD-18b2f47-250625T182940-x86_64-Linux&download=pod-security-admission",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/pod-security-admission/pod-security-admission:HEAD-18b2f47-250625T182940-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/pod-security-admission/pod-security-admission",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/pod-security-admission/pod-security-admission?tag=HEAD-18b2f47-250625T182940-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c826c0e5aec5b60c8fd93e1f0dc7ace78d9a08320a3d70eb24fa675b5c5eb54",
+  "size": "67 MB",
+  "size_raw": "69569920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
