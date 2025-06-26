@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "remoteserver",
+  "pkg_family": "rdk",
+  "pkg_id": "remoteserver#github.com_viamrobotics_rdk.git",
+  "pkg_name": "remoteserver",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "complexmodule",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "gizmomodule",
+    "multiversionmodule",
+    "optionaldepsmodule",
+    "remoteserver",
+    "rtppassthrough",
+    "simplemodule",
+    "subsystem_manifest",
+    "summationmodule",
+    "test_detector",
+    "testmodule",
+    "testmodule2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viamrobotics/rdk.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250626T144457",
+  "version_upstream": "",
+  "bsum": "b4eaaf57615c0c167fe41e78f913a3d315cf8e3ab88bcae24da0a3068cbffa5e",
+  "build_date": "2025-06-26T15:10:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903853905",
+  "build_id": "15903853905",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk.git/remoteserver?tag=20250626T144457-aarch64-Linux&download=remoteserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk.git/remoteserver?tag=20250626T144457-aarch64-Linux&download=remoteserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk.git/remoteserver:20250626T144457-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk.git/remoteserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk.git/remoteserver?tag=20250626T144457-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df4e5c656e9b113ac8a16d6163559969be6a18b57388edc4b42cd24d2499a82d",
+  "size": "49 MB",
+  "size_raw": "50470944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
