@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pptas-api-client",
+  "pkg_family": "mymove",
+  "pkg_id": "pptas-api-client#github.com_transcom_mymove",
+  "pkg_name": "pptas-api-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/89e831e0d6c54f2c21f8b91c775888924c589e50.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-89e831e-250625T144124",
+  "version_upstream": "",
+  "bsum": "34072bf6a17822da5a0d6c1c068a44a69f48bba0a47a4ebcea6d0c7cd6c46f38",
+  "build_date": "2025-06-26T12:35:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899298232",
+  "build_id": "15899298232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/pptas-api-client?tag=HEAD-89e831e-250625T144124-x86_64-Linux&download=pptas-api-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/pptas-api-client?tag=HEAD-89e831e-250625T144124-x86_64-Linux&download=pptas-api-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/pptas-api-client:HEAD-89e831e-250625T144124-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/pptas-api-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/pptas-api-client?tag=HEAD-89e831e-250625T144124-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1164e629a257d0800c01a75d11bb78bbc3e5c2aa952dfaf200c5aa9604bb93c0",
+  "size": "24 MB",
+  "size_raw": "25095552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c66fc5-250623T170730-x86_64-Linux",
+    "HEAD-fca2d91-250624T151221-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
