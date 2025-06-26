@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fwddp-daemon",
+  "pkg_family": "intel-ethernet-operator",
+  "pkg_id": "fwddp-daemon#github.com_intel_intel_ethernet_operator",
+  "pkg_name": "fwddp-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/intel-ethernet-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s operator for Intel E810 Series NICs FW/DDP updates and Flow configuration API",
+  "homepage": [
+    "https://github.com/intel/intel-ethernet-operator"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "flowconfig-daemon",
+    "fwddp-daemon",
+    "intel-ethernet-operator",
+    "labeler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/intel-ethernet-operator/archive/588a20dc19c869e6d64df181c5523acad3db7d43.tar.gz"
+  ],
+  "tag": [
+    "cloudnative",
+    "intel",
+    "kubernetes",
+    "network",
+    "network-interface-card",
+    "openshift",
+    "operator"
+  ],
+  "version": "HEAD-588a20d-250625T110537",
+  "version_upstream": "",
+  "bsum": "d657e9c48672c6c136265fb6be8778138c8f82a2290c6f289dbb603be3a3f9ea",
+  "build_date": "2025-06-26T08:12:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895341305",
+  "build_id": "15895341305",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-ethernet-operator/fwddp-daemon?tag=HEAD-588a20d-250625T110537-x86_64-Linux&download=fwddp-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-ethernet-operator/fwddp-daemon?tag=HEAD-588a20d-250625T110537-x86_64-Linux&download=fwddp-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/intel-ethernet-operator/fwddp-daemon:HEAD-588a20d-250625T110537-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/intel-ethernet-operator/fwddp-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/intel-ethernet-operator/fwddp-daemon?tag=HEAD-588a20d-250625T110537-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48db8c262425e0787e9e073b41607057115a62b19d5d5c747d760c5049e5cf41",
+  "size": "64 MB",
+  "size_raw": "66849344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
