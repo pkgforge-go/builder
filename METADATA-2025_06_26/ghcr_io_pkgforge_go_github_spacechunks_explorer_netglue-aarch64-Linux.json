@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "netglue",
+  "pkg_family": "explorer",
+  "pkg_id": "netglue#github.com_spacechunks_explorer",
+  "pkg_name": "netglue",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spacechunks/explorer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Host and explore Minecraft minigames",
+  "homepage": [
+    "https://github.com/spacechunks/explorer"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conncheck",
+    "controlplane",
+    "netglue",
+    "platformd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spacechunks/explorer/archive/8684c647abc6acee7bb9fa9164fbf275479fbe45.tar.gz"
+  ],
+  "tag": [
+    "checkpoint-restore",
+    "minecraft"
+  ],
+  "version": "HEAD-8684c64-250625T211021",
+  "version_upstream": "",
+  "bsum": "c2f99c17ff4b3349ee0b67206758668ff80852a0f2e6a3638ccbf5450cddafe4",
+  "build_date": "2025-06-26T12:13:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899169617",
+  "build_id": "15899169617",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/netglue?tag=HEAD-8684c64-250625T211021-aarch64-Linux&download=netglue.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/netglue?tag=HEAD-8684c64-250625T211021-aarch64-Linux&download=netglue",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spacechunks/explorer/netglue:HEAD-8684c64-250625T211021-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spacechunks/explorer/netglue",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/netglue?tag=HEAD-8684c64-250625T211021-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2650f1dd7e75f7860f2a39c1eb7f6c8cd0f141c0d7f4f1ba5d5717bd2a9da41",
+  "size": "13 MB",
+  "size_raw": "12813568",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95e25a8-250622T150314-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
