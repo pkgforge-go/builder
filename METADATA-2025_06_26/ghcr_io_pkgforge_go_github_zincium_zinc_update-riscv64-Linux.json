@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "update",
+  "pkg_family": "zinc",
+  "pkg_id": "update#github.com_zincium_zinc",
+  "pkg_name": "update",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zincium/zinc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The whims and realizations of Git hosting services",
+  "homepage": [
+    "https://github.com/zincium/zinc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balance-update",
+    "h3",
+    "netcat",
+    "post-receive",
+    "pre-receive",
+    "silver-sshd",
+    "update",
+    "zinc",
+    "zinc-balanced",
+    "zinc-sshd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zincium/zinc/archive/3279f5cfd0d4780ae29c07026a26ba7839f1bb13.tar.gz"
+  ],
+  "tag": [
+    "git"
+  ],
+  "version": "HEAD-3279f5c-250626T093819",
+  "version_upstream": "",
+  "bsum": "b2d59130c8809aae4221d79df5476da511eb57db5a5d1e1278ab7ae411da21ef",
+  "build_date": "2025-06-26T12:28:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899561317",
+  "build_id": "15899561317",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/update?tag=HEAD-3279f5c-250626T093819-riscv64-Linux&download=update.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/update?tag=HEAD-3279f5c-250626T093819-riscv64-Linux&download=update",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zincium/zinc/update:HEAD-3279f5c-250626T093819-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zincium/zinc/update",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/update?tag=HEAD-3279f5c-250626T093819-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "84b30a7b2e99ba2242dc027e504e6eaa06be2d81988bca6b981005a8de56ecce",
+  "size": "1.1 MB",
+  "size_raw": "1061712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-77909b8-250624T203255-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
