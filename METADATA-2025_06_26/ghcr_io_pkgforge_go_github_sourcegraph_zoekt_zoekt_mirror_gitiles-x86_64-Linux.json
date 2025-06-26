@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "zoekt-mirror-gitiles",
+  "pkg_family": "zoekt",
+  "pkg_id": "zoekt-mirror-gitiles#github.com_sourcegraph_zoekt",
+  "pkg_name": "zoekt-mirror-gitiles",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sourcegraph/zoekt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast trigram based code search",
+  "homepage": [
+    "https://github.com/sourcegraph/zoekt"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zoekt",
+    "zoekt-archive-index",
+    "zoekt-dynamic-indexserver",
+    "zoekt-git-clone",
+    "zoekt-git-index",
+    "zoekt-index",
+    "zoekt-indexserver",
+    "zoekt-merge-index",
+    "zoekt-mirror-bitbucket-server",
+    "zoekt-mirror-gerrit",
+    "zoekt-mirror-gitea",
+    "zoekt-mirror-github",
+    "zoekt-mirror-gitiles",
+    "zoekt-mirror-gitlab",
+    "zoekt-repo-index",
+    "zoekt-sourcegraph-indexserver",
+    "zoekt-test",
+    "zoekt-webserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sourcegraph/zoekt/archive/4dbad3ceed9208dbfe4b8e7439325180d25c3372.tar.gz"
+  ],
+  "tag": [
+    "repo-type-backend"
+  ],
+  "version": "HEAD-4dbad3c-250625T083343",
+  "version_upstream": "",
+  "bsum": "940bf6ffa3981d821cf639fce87e93fdf6424d08c80fef82ca29659f6c7e7fdb",
+  "build_date": "2025-06-26T04:25:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15892829318",
+  "build_id": "15892829318",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitiles?tag=HEAD-4dbad3c-250625T083343-x86_64-Linux&download=zoekt-mirror-gitiles.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "987",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitiles?tag=HEAD-4dbad3c-250625T083343-x86_64-Linux&download=zoekt-mirror-gitiles",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitiles:HEAD-4dbad3c-250625T083343-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitiles",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitiles?tag=HEAD-4dbad3c-250625T083343-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3465ee29d1eb956ea0e75b38711ec5419e9de9dc78527669c14f6fc946a6efd8",
+  "size": "29 MB",
+  "size_raw": "29973632",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fd39c59-250604T143347-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
