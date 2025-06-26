@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fpcli",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "fpcli#github.com_openconfig_featureprofiles",
+  "pkg_name": "fpcli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/34b79bc379b36c08101a85d05e9b8d0c59daecf4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34b79bc-250625T143340",
+  "version_upstream": "",
+  "bsum": "3b8834686cb5bb51284c9ad018ca883f19124171a627f3372d7f5dcf8afb31df",
+  "build_date": "2025-06-26T00:04:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888068698",
+  "build_id": "15888068698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/fpcli?tag=HEAD-34b79bc-250625T143340-riscv64-Linux&download=fpcli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/fpcli?tag=HEAD-34b79bc-250625T143340-riscv64-Linux&download=fpcli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/fpcli:HEAD-34b79bc-250625T143340-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/fpcli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/fpcli?tag=HEAD-34b79bc-250625T143340-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c9ae0ccf31b001c13782ac229a396d92c6be8b8b02ae3fffdd1032f20e68d32",
+  "size": "9.4 MB",
+  "size_raw": "9853912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-riscv64-Linux",
+    "HEAD-abdf959-250623T164926-riscv64-Linux",
+    "HEAD-4f694cf-250624T142533-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
