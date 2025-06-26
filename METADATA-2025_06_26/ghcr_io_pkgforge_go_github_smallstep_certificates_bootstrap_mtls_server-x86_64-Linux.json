@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bootstrap-mtls-server",
+  "pkg_family": "certificates",
+  "pkg_id": "bootstrap-mtls-server#github.com_smallstep_certificates",
+  "pkg_name": "bootstrap-mtls-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smallstep/certificates",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🛡️ A private certificate authority _X.509 _ SSH_ _ ACME server for secure automated certificate management, so you can use TLS everywhere _ SSO for SSH.",
+  "homepage": [
+    "https://github.com/smallstep/certificates"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "badger-migration",
+    "basic-client",
+    "bootstrap-client",
+    "bootstrap-mtls-server",
+    "bootstrap-tls-server",
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smallstep/certificates/archive/46b1c4c124ce3e41f6a1a4ededa8b32cdd5d4173.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "acme-server",
+    "ca",
+    "certificate-authority",
+    "certificates",
+    "go",
+    "pki",
+    "security",
+    "security-tools",
+    "ssh",
+    "tls",
+    "x509"
+  ],
+  "version": "HEAD-46b1c4c-250625T041624",
+  "version_upstream": "",
+  "bsum": "48efc7a0a38993f54cfa7eb9a24ee0268e587d084037f5fa42781b31b671e5d7",
+  "build_date": "2025-06-26T00:44:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888134719",
+  "build_id": "15888134719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/bootstrap-mtls-server?tag=HEAD-46b1c4c-250625T041624-x86_64-Linux&download=bootstrap-mtls-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7375",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/bootstrap-mtls-server?tag=HEAD-46b1c4c-250625T041624-x86_64-Linux&download=bootstrap-mtls-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smallstep/certificates/bootstrap-mtls-server:HEAD-46b1c4c-250625T041624-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smallstep/certificates/bootstrap-mtls-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smallstep/certificates/bootstrap-mtls-server?tag=HEAD-46b1c4c-250625T041624-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "57221d763fb85e8c51a05448210ea0aaddec4d84c5eee02621473a6daefde647",
+  "size": "23 MB",
+  "size_raw": "23431408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c6902d1-250623T072158-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
