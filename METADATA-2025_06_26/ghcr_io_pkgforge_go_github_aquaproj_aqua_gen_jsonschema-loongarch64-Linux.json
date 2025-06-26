@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gen-jsonschema",
+  "pkg_family": "aqua",
+  "pkg_id": "gen-jsonschema#github.com_aquaproj_aqua",
+  "pkg_name": "gen-jsonschema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquaproj/aqua",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
+  "homepage": [
+    "https://github.com/aquaproj/aqua"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aqua",
+    "gen-jsonschema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquaproj/aqua/archive/4fbdcddb711f5a3cc55588528876275bad959f5b.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "oss",
+    "version-manager"
+  ],
+  "version": "HEAD-4fbdcdd-250626T015531",
+  "version_upstream": "",
+  "bsum": "1c4ddd91a95b96d886eeba59163230360d158a7f6bca33d48063c42d33ea41d6",
+  "build_date": "2025-06-26T10:03:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898684148",
+  "build_id": "15898684148",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquaproj/aqua/gen-jsonschema?tag=HEAD-4fbdcdd-250626T015531-loongarch64-Linux&download=gen-jsonschema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1231",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquaproj/aqua/gen-jsonschema?tag=HEAD-4fbdcdd-250626T015531-loongarch64-Linux&download=gen-jsonschema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquaproj/aqua/gen-jsonschema:HEAD-4fbdcdd-250626T015531-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquaproj/aqua/gen-jsonschema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquaproj/aqua/gen-jsonschema?tag=HEAD-4fbdcdd-250626T015531-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "805176bcba3163ed3787ad2fcda5503123caa0c24a186764924a9f72b32e824b",
+  "size": "16 MB",
+  "size_raw": "16135840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-996418d-250615T054834-loongarch64-Linux",
+    "HEAD-91243d2-250621T225521-loongarch64-Linux",
+    "HEAD-677c32b-250623T225641-loongarch64-Linux",
+    "HEAD-73735ed-250624T143650-loongarch64-Linux",
+    "HEAD-19397c7-250625T000837-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
