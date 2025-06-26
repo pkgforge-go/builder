@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "dragonfly",
+  "pkg_id": "manager#github.com_dragonflyoss_dragonfly",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dragonflyoss/dragonfly",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation _CNCF_ as an Incubating Level Project.",
+  "homepage": [
+    "https://github.com/dragonflyoss/dragonfly"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dfcache",
+    "dfget",
+    "dfstore",
+    "manager",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dragonflyoss/dragonfly/archive/e112f514d646a836e7977850ddc55bb0f9d9698c.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "containers",
+    "docker-image",
+    "nydus",
+    "p2p",
+    "registry"
+  ],
+  "version": "HEAD-e112f51-250625T083536",
+  "version_upstream": "",
+  "bsum": "f8681b6774cfc14d1a6b67643f4d4ee93c00fe7d947c571e30696bc1736e215c",
+  "build_date": "2025-06-26T02:58:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891409923",
+  "build_id": "15891409923",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/manager?tag=HEAD-e112f51-250625T083536-riscv64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2634",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/manager?tag=HEAD-e112f51-250625T083536-riscv64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dragonflyoss/dragonfly/manager:HEAD-e112f51-250625T083536-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dragonflyoss/dragonfly/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/dragonfly/manager?tag=HEAD-e112f51-250625T083536-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b3fa683d61392115097b9884f3a10470ad9dc3bc71f57d4012b981f0d216611",
+  "size": "90 MB",
+  "size_raw": "94067832",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ef9c9ef-250619T124627-riscv64-Linux",
+    "HEAD-a5895bb-250620T103739-riscv64-Linux",
+    "HEAD-917348d-250624T033648-riscv64-Linux",
+    "HEAD-4e65b41-250624T072728-riscv64-Linux",
+    "HEAD-54e2fa6-250625T110629-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
