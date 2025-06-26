@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "configdocsgen",
+  "pkg_family": "outpost",
+  "pkg_id": "configdocsgen#github.com_hookdeck_outpost",
+  "pkg_name": "configdocsgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hookdeck/outpost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Outbound Webhooks and Event Destinations Infrastructure",
+  "homepage": [
+    "https://github.com/hookdeck/outpost"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "awskinesis",
+    "awssqs",
+    "configdocsgen",
+    "genprovider",
+    "migrate",
+    "mock",
+    "outpost",
+    "publish",
+    "rabbitmq",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hookdeck/outpost/archive/bcde41e130078be1392fd2343fe4ce6ee976e3b7.tar.gz"
+  ],
+  "tag": [
+    "amazon-eventbridge",
+    "aws-sqs",
+    "eventdestinations",
+    "eventstream",
+    "gcp-pubsub",
+    "hookdeck",
+    "rabbitmq",
+    "redis",
+    "webhooks",
+    "webhooksender"
+  ],
+  "version": "HEAD-bcde41e-250613T043112",
+  "version_upstream": "",
+  "bsum": "6d5980a0ecac67222611987aaeb76cd78f54c65ed4fb2c702a848235ab3f7e0b",
+  "build_date": "2025-06-26T16:58:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906861785",
+  "build_id": "15906861785",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hookdeck/outpost/configdocsgen?tag=HEAD-bcde41e-250613T043112-x86_64-Linux&download=configdocsgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "653",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hookdeck/outpost/configdocsgen?tag=HEAD-bcde41e-250613T043112-x86_64-Linux&download=configdocsgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hookdeck/outpost/configdocsgen:HEAD-bcde41e-250613T043112-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hookdeck/outpost/configdocsgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hookdeck/outpost/configdocsgen?tag=HEAD-bcde41e-250613T043112-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4fb85ab042a88eeac0831db3d0b0bb02f02cf470ffeb4e143d4272f973c4ce0",
+  "size": "41 MB",
+  "size_raw": "42180672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
