@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "policy-client",
+  "pkg_family": "linkerd2",
+  "pkg_id": "policy-client#github.com_linkerd_linkerd2",
+  "pkg_name": "policy-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "destination-client",
+    "linkerd2-cli",
+    "linkerd2-web",
+    "policy-client",
+    "proxy-identity",
+    "viz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2/archive/57b08a7c111efb8c4aa8b1014f365088050527bd.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "kubernetes",
+    "linkerd",
+    "rust",
+    "service-mesh"
+  ],
+  "version": "HEAD-57b08a7-250625T161307",
+  "version_upstream": "",
+  "bsum": "e9e3ae3a7d5d440ecc77eda758cc157c260d2245b079c64762d13dbcaabd38f9",
+  "build_date": "2025-06-26T11:27:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898965941",
+  "build_id": "15898965941",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/policy-client?tag=HEAD-57b08a7-250625T161307-x86_64-Linux&download=policy-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10991",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/policy-client?tag=HEAD-57b08a7-250625T161307-x86_64-Linux&download=policy-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2/policy-client:HEAD-57b08a7-250625T161307-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2/policy-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/policy-client?tag=HEAD-57b08a7-250625T161307-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03a1d953ee49cdfd869de5d146d286c12ea11f7887a99717889a017607a6a6be",
+  "size": "42 MB",
+  "size_raw": "43506272",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f179d4c-250619T105442-x86_64-Linux",
+    "HEAD-a056257-250620T173521-x86_64-Linux",
+    "HEAD-8d1705c-250623T080502-x86_64-Linux",
+    "HEAD-df7cba4-250624T092515-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
