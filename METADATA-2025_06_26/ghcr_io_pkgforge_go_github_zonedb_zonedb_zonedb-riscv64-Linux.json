@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "zonedb",
+  "pkg_family": "zonedb",
+  "pkg_id": "zonedb#github.com_zonedb_zonedb",
+  "pkg_name": "zonedb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zonedb/zonedb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Public Zone Database",
+  "homepage": [
+    "https://github.com/zonedb/zonedb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zonedb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zonedb/zonedb/archive/63e8e83ca1dc8411eca8b63e3c10697db3719507.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "domain-name",
+    "go",
+    "golang",
+    "idn",
+    "whois"
+  ],
+  "version": "HEAD-63e8e83-250625T085241",
+  "version_upstream": "v1.0.5226",
+  "bsum": "5963c345e8b7150f8266986b9e049717ad97690e580f0d4c777905fdfd97f2ca",
+  "build_date": "2025-06-26T04:27:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15892830764",
+  "build_id": "15892830764",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zonedb/zonedb/zonedb?tag=HEAD-63e8e83-250625T085241-riscv64-Linux&download=zonedb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zonedb/zonedb/zonedb?tag=HEAD-63e8e83-250625T085241-riscv64-Linux&download=zonedb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zonedb/zonedb/zonedb:HEAD-63e8e83-250625T085241-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zonedb/zonedb/zonedb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zonedb/zonedb/zonedb?tag=HEAD-63e8e83-250625T085241-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c667e8579648a8a1fdb39ce45484b094e39dee9943d75199688e3ca5ddd191fc",
+  "size": "11 MB",
+  "size_raw": "10789176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-094e7a9-250622T084935-riscv64-Linux[v1.0.5223]",
+    "HEAD-8db5128-250623T085348-riscv64-Linux[v1.0.5224]",
+    "HEAD-615d0fc-250624T085229-riscv64-Linux[v1.0.5225]"
+  ],
+  "trusted": "true"
+}
