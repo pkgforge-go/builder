@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "keda-manager",
+  "pkg_id": "test#github.com_kyma_project_keda_manager",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyma-project/keda-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Keda Operator installs Keda as Kyma module",
+  "homepage": [
+    "https://github.com/kyma-project/keda-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keda-manager",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyma-project/keda-manager/archive/50bd7b80b0ae968a276cfc9a80d1f422bf3ebd44.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-50bd7b8-250626T130225",
+  "version_upstream": "",
+  "bsum": "5b88d34964d21bc8d2a017d585c68af6893b33d3f90ff3532f9e4a1a92cda9aa",
+  "build_date": "2025-06-26T17:19:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907349090",
+  "build_id": "15907349090",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/keda-manager/test?tag=HEAD-50bd7b8-250626T130225-riscv64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/keda-manager/test?tag=HEAD-50bd7b8-250626T130225-riscv64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyma-project/keda-manager/test:HEAD-50bd7b8-250626T130225-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyma-project/keda-manager/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/keda-manager/test?tag=HEAD-50bd7b8-250626T130225-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40302b58f8ce4f4aa9e1607578e70159ec3fa515c5d67624110b90af04da824c",
+  "size": "38 MB",
+  "size_raw": "39753688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
