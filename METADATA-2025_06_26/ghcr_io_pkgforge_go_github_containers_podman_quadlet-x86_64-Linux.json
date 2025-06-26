@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "quadlet",
+  "pkg_family": "podman",
+  "pkg_id": "quadlet#github.com_containers_podman",
+  "pkg_name": "quadlet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/podman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Podman: A tool for managing OCI containers and pods.",
+  "homepage": [
+    "https://github.com/containers/podman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goecho",
+    "quadlet",
+    "rootlessport",
+    "testvol",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/podman/archive/683e9b2c94a3e1ddc809b060a2373142f7424773.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "oci"
+  ],
+  "version": "HEAD-683e9b2-250625T194814",
+  "version_upstream": "",
+  "bsum": "818139a36897211a77ee44428767601e5eae06c9a6aa61f4340ec01df8e6e7cf",
+  "build_date": "2025-06-26T13:31:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902886540",
+  "build_id": "15902886540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/quadlet?tag=HEAD-683e9b2-250625T194814-x86_64-Linux&download=quadlet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/quadlet?tag=HEAD-683e9b2-250625T194814-x86_64-Linux&download=quadlet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/podman/quadlet:HEAD-683e9b2-250625T194814-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/podman/quadlet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/quadlet?tag=HEAD-683e9b2-250625T194814-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b00c5bdbcc1799e0b48b78dca539b740150c8778d20579b18487aa2fdfc034a",
+  "size": "2.5 MB",
+  "size_raw": "2546968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c89b64-250619T115916-x86_64-Linux",
+    "HEAD-7808625-250619T194524-x86_64-Linux",
+    "HEAD-14a99b3-250623T131419-x86_64-Linux",
+    "HEAD-eece0a1-250624T140722-x86_64-Linux",
+    "HEAD-7780e28-250624T194430-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
