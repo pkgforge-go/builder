@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "captain",
+  "pkg_family": "captain",
+  "pkg_id": "captain#github.com_rwx_research_captain",
+  "pkg_name": "captain",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rwx-research/captain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It_s compatible with 17 testing frameworks.",
+  "homepage": [
+    "https://github.com/rwx-research/captain"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "captain",
+    "mage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rwx-research/captain/archive/4129749eb3233c8340185b271a065635db4bea51.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4129749-250625T165719",
+  "version_upstream": "unstable-4129749eb3233c8340185b271a065635db4bea51",
+  "bsum": "306ded29df5c4e45c8277297c30185a0d49f45cf44fd4dc74115f19684233ca3",
+  "build_date": "2025-06-26T09:06:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896477430",
+  "build_id": "15896477430",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rwx-research/captain/captain?tag=HEAD-4129749-250625T165719-aarch64-Linux&download=captain.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "93",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rwx-research/captain/captain?tag=HEAD-4129749-250625T165719-aarch64-Linux&download=captain",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rwx-research/captain/captain:HEAD-4129749-250625T165719-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rwx-research/captain/captain",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rwx-research/captain/captain?tag=HEAD-4129749-250625T165719-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64d68f2ed65b7d9c4b9481108108870d377a27668bd9579553ba03dca4abffce",
+  "size": "11 MB",
+  "size_raw": "11060672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
