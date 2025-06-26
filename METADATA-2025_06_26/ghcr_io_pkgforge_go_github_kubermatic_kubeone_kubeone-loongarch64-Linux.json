@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubeone",
+  "pkg_family": "kubeone",
+  "pkg_id": "kubeone#github.com_kubermatic_kubeone",
+  "pkg_name": "kubeone",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubermatic/kubeone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.",
+  "homepage": [
+    "https://github.com/kubermatic/kubeone"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apidoc-gen",
+    "generator",
+    "kubeone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubermatic/kubeone/archive/58da8217749e9e960210f4692ed7ad23c54f4bcd.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "kubernetes"
+  ],
+  "version": "HEAD-58da821-250626T125750",
+  "version_upstream": "",
+  "bsum": "2552a5be05d6c79150b8a0c924c2f2cb4edf4d5ad18e6ccc436b32dbda264f1f",
+  "build_date": "2025-06-26T23:34:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913383820",
+  "build_id": "15913383820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/kubeone/kubeone?tag=HEAD-58da821-250626T125750-loongarch64-Linux&download=kubeone.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1446",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/kubeone/kubeone?tag=HEAD-58da821-250626T125750-loongarch64-Linux&download=kubeone",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubermatic/kubeone/kubeone:HEAD-58da821-250626T125750-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubermatic/kubeone/kubeone",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/kubeone/kubeone?tag=HEAD-58da821-250626T125750-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc6ed67bb11f590b88eb8b2a18913ac10e0e87952029ed4b53d5ef3149ad85ea",
+  "size": "93 MB",
+  "size_raw": "96536192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-be66679-250625T000349-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
