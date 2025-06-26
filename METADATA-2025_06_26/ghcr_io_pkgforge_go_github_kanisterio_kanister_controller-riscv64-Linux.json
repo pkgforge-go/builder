@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "kanister",
+  "pkg_id": "controller#github.com_kanisterio_kanister",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "kando",
+    "reposervercontroller",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/77ffaf0c192f20b8555719a3052163ce21382faa.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-77ffaf0-250626T100621",
+  "version_upstream": "",
+  "bsum": "6c3f73105eecad40a0dc4731b1acc087681b3b6bae1c501c18ccccdd4c142a9e",
+  "build_date": "2025-06-26T23:39:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913352555",
+  "build_id": "15913352555",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-77ffaf0-250626T100621-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "824",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-77ffaf0-250626T100621-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/controller:HEAD-77ffaf0-250626T100621-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/controller?tag=HEAD-77ffaf0-250626T100621-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4a27fdeb899a0b38ab9633c1783bcb5c555c713bec481dae6024df1e2f9806b6",
+  "size": "168 MB",
+  "size_raw": "176154488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ccab82b-250619T170847-riscv64-Linux",
+    "HEAD-53318cb-250624T122717-riscv64-Linux",
+    "HEAD-fc9e918-250624T201501-riscv64-Linux",
+    "HEAD-022a0d5-250625T175542-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

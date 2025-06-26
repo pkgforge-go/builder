@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kando",
+  "pkg_family": "kanister",
+  "pkg_id": "kando#github.com_kanisterio_kanister",
+  "pkg_name": "kando",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "kando",
+    "reposervercontroller",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/77ffaf0c192f20b8555719a3052163ce21382faa.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-77ffaf0-250626T100621",
+  "version_upstream": "",
+  "bsum": "49423d6075fd8f0d66b793dd796834cbd35bb0d8f698841c20b2c93e78ca3a4f",
+  "build_date": "2025-06-26T23:40:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913352555",
+  "build_id": "15913352555",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/kando?tag=HEAD-77ffaf0-250626T100621-riscv64-Linux&download=kando.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "824",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/kando?tag=HEAD-77ffaf0-250626T100621-riscv64-Linux&download=kando",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/kando:HEAD-77ffaf0-250626T100621-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/kando",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/kando?tag=HEAD-77ffaf0-250626T100621-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48832b0684e455b48a3bb37d67622843a7aec3f1d7b03dc6b482bef2b8d1b4b7",
+  "size": "104 MB",
+  "size_raw": "108936056",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ccab82b-250619T170847-riscv64-Linux",
+    "HEAD-53318cb-250624T122717-riscv64-Linux",
+    "HEAD-fc9e918-250624T201501-riscv64-Linux",
+    "HEAD-022a0d5-250625T175542-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
