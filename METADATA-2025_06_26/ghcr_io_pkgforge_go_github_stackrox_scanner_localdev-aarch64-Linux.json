@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "localdev",
+  "pkg_family": "scanner",
+  "pkg_id": "localdev#github.com_stackrox_scanner",
+  "pkg_name": "localdev",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stackrox/scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/stackrox/scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clair",
+    "local-nodescanner",
+    "localdev",
+    "scale",
+    "updater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stackrox/scanner/archive/65e87c848cd2eb1966eae6d197a3b20f082b06c3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-65e87c8-250625T164728",
+  "version_upstream": "",
+  "bsum": "943c40d520f5e65e6b779b09574cacd66d3836453491b4fe4d4e4597c2fe1ed1",
+  "build_date": "2025-06-26T09:16:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896529609",
+  "build_id": "15896529609",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/scanner/localdev?tag=HEAD-65e87c8-250625T164728-aarch64-Linux&download=localdev.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/scanner/localdev?tag=HEAD-65e87c8-250625T164728-aarch64-Linux&download=localdev",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stackrox/scanner/localdev:HEAD-65e87c8-250625T164728-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stackrox/scanner/localdev",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/scanner/localdev?tag=HEAD-65e87c8-250625T164728-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c14473fba82d35499a5c81cd6f1d24214a3a7ae394f9624ea09b4cc3c1eed508",
+  "size": "51 MB",
+  "size_raw": "53030816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
