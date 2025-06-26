@@ -12,7 +12,7 @@
   "category": [
     "Utility"
   ],
-  "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O_1_ disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+  "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O_1_ disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
   "homepage": [
     "https://github.com/seaweedfs/seaweedfs"
   ],
@@ -55,7 +55,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/seaweedfs/seaweedfs/archive/95261a712ee272e1924939d827d18df048f2c72e.tar.gz"
+    "https://github.com/seaweedfs/seaweedfs/archive/ab49540d2ba0f8c38324247360edd08bb9355b9b.tar.gz"
   ],
   "tag": [
     "blob-storage",
@@ -76,22 +76,22 @@
     "seaweedfs",
     "tiered-file-system"
   ],
-  "version": "HEAD-95261a7-250624T230439",
+  "version": "HEAD-ab49540-250625T175456",
   "version_upstream": "",
   "bsum": "51b928f4bf50c6c57a794b9a60bf60fa512df75340dc2a97aabea93216d0a1d5",
-  "build_date": "2025-06-26T00:47:55Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888133277",
-  "build_id": "15888133277",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry?tag=HEAD-95261a7-250624T230439-riscv64-Linux&download=see_log_entry.log",
+  "build_date": "2025-06-26T12:14:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899121235",
+  "build_id": "15899121235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry?tag=HEAD-ab49540-250625T175456-riscv64-Linux&download=see_log_entry.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "24917",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry?tag=HEAD-95261a7-250624T230439-riscv64-Linux&download=see_log_entry",
+  "download_count": "24924",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry?tag=HEAD-ab49540-250625T175456-riscv64-Linux&download=see_log_entry",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry:HEAD-95261a7-250624T230439-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry:HEAD-ab49540-250625T175456-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry?tag=HEAD-95261a7-250624T230439-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/see_log_entry?tag=HEAD-ab49540-250625T175456-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "e15bc3e3e679d7757ce29f678459faef44b4d2850445060d85cb8cc75f637990",
