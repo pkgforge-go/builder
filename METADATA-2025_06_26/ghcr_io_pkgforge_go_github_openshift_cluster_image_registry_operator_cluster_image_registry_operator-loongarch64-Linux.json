@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cluster-image-registry-operator",
+  "pkg_family": "cluster-image-registry-operator",
+  "pkg_id": "cluster-image-registry-operator#github.com_openshift_cluster_image_registry_operator",
+  "pkg_name": "cluster-image-registry-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-image-registry-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The image registry operator installs+maintains the internal registry on a cluster",
+  "homepage": [
+    "https://github.com/openshift/cluster-image-registry-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-image-registry-operator",
+    "junitxml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-image-registry-operator/archive/0aa1f862962f0559f7103f811295337a8fbea33b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0aa1f86-250625T174355",
+  "version_upstream": "",
+  "bsum": "3c78f6d42eb8ef004c86d7b08afa7fb1e60d02525ba6704d844ba9da0815f329",
+  "build_date": "2025-06-26T08:54:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896268847",
+  "build_id": "15896268847",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-image-registry-operator/cluster-image-registry-operator?tag=HEAD-0aa1f86-250625T174355-loongarch64-Linux&download=cluster-image-registry-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "64",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-image-registry-operator/cluster-image-registry-operator?tag=HEAD-0aa1f86-250625T174355-loongarch64-Linux&download=cluster-image-registry-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-image-registry-operator/cluster-image-registry-operator:HEAD-0aa1f86-250625T174355-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-image-registry-operator/cluster-image-registry-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-image-registry-operator/cluster-image-registry-operator?tag=HEAD-0aa1f86-250625T174355-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e3e6d5a2856c9cda1f035b239c4099609af8bed8630197ab1050ef9b4252064",
+  "size": "99 MB",
+  "size_raw": "103351776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
