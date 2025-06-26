@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "replayer",
+  "pkg_family": "terraform-infra-common",
+  "pkg_id": "replayer#github.com_chainguard_dev_terraform_infra_common",
+  "pkg_name": "replayer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chainguard-dev/terraform-infra-common",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A repository containing a collection of _glue_ modules for encapsulating common Cloud Run patterns.",
+  "homepage": [
+    "https://github.com/chainguard-dev/terraform-infra-common"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dejavu-bq",
+    "dispatcher",
+    "ingress",
+    "inmem",
+    "logrotate",
+    "receiver",
+    "recorder",
+    "replayer",
+    "schemagen",
+    "send",
+    "subscriber",
+    "test",
+    "trampoline"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chainguard-dev/terraform-infra-common/archive/dadbc0188b876d181a272b35744af99d0b4241f6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dadbc01-250625T145459",
+  "version_upstream": "",
+  "bsum": "ededddbacf65daf376756c7fd381e497417a424c25175a67bd2ae7d0adbb3590",
+  "build_date": "2025-06-26T07:40:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895139424",
+  "build_id": "15895139424",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-infra-common/replayer?tag=HEAD-dadbc01-250625T145459-riscv64-Linux&download=replayer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-infra-common/replayer?tag=HEAD-dadbc01-250625T145459-riscv64-Linux&download=replayer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainguard-dev/terraform-infra-common/replayer:HEAD-dadbc01-250625T145459-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainguard-dev/terraform-infra-common/replayer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/terraform-infra-common/replayer?tag=HEAD-dadbc01-250625T145459-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "57b06f5a05f3ca70f3c90e1a4bc44d608de617479af7bdc2b2331d209222ac4d",
+  "size": "17 MB",
+  "size_raw": "17274008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
