@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cdi-uploadproxy",
+  "pkg_family": "containerized-data-importer",
+  "pkg_id": "cdi-uploadproxy#github.com_kubevirt_containerized_data_importer",
+  "pkg_name": "cdi-uploadproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/containerized-data-importer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Data Import Service for kubernetes, designed with kubevirt in mind.",
+  "homepage": [
+    "https://github.com/kubevirt/containerized-data-importer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdi-apiserver",
+    "cdi-cloner",
+    "cdi-containerimage-server",
+    "cdi-controller",
+    "cdi-func-test-bad-webserver",
+    "cdi-func-test-file-host-init",
+    "cdi-func-test-proxy",
+    "cdi-func-test-registry-init",
+    "cdi-func-test-sample-populator",
+    "cdi-image-size-detection",
+    "cdi-operator",
+    "cdi-source-update-poller",
+    "cdi-uploadproxy",
+    "cdi-uploadserver",
+    "crd-generator",
+    "csv-generator",
+    "imageio-init",
+    "manifest-generator",
+    "metricsdocs",
+    "openapi-spec-generator",
+    "openstack-populator",
+    "ovirt-populator",
+    "profile-printer",
+    "prom-metrics-collector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/containerized-data-importer/archive/e40a2e544c5455a9fa5bb0e13103356c9ebf8473.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e40a2e5-250626T095646",
+  "version_upstream": "",
+  "bsum": "7e5afe6514404a69f7a0775d4ff3cada2dda907738568fbb176f6dd8dfed1929",
+  "build_date": "2025-06-26T17:39:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907344321",
+  "build_id": "15907344321",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/containerized-data-importer/cdi-uploadproxy?tag=HEAD-e40a2e5-250626T095646-loongarch64-Linux&download=cdi-uploadproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "476",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/containerized-data-importer/cdi-uploadproxy?tag=HEAD-e40a2e5-250626T095646-loongarch64-Linux&download=cdi-uploadproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/containerized-data-importer/cdi-uploadproxy:HEAD-e40a2e5-250626T095646-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/containerized-data-importer/cdi-uploadproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/containerized-data-importer/cdi-uploadproxy?tag=HEAD-e40a2e5-250626T095646-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1e49b19e8792bf5c18a083112e323dcd4f0a05451ca5ea2ead98a7d86211e885",
+  "size": "50 MB",
+  "size_raw": "52178400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
