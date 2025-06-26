@@ -1,0 +1,106 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gnoland",
+  "pkg_family": "gno",
+  "pkg_id": "gnoland#github.com_gnolang_gno",
+  "pkg_name": "gnoland",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gnolang/gno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+  "homepage": [
+    "https://github.com/gnolang/gno"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aminoscan",
+    "benchops",
+    "cmd",
+    "debug",
+    "example",
+    "gen",
+    "genproto",
+    "genstd",
+    "gno",
+    "gnokey",
+    "gnoland",
+    "gnoweb",
+    "goscan",
+    "iaviewer",
+    "init-corpus",
+    "modcolor",
+    "process"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gnolang/gno/archive/a3237eb573657c8e8bc962892e348177b7c0d5cd.tar.gz"
+  ],
+  "tag": [
+    "bft",
+    "blockchain",
+    "composability",
+    "concurrency",
+    "cosmos",
+    "fairness",
+    "gno",
+    "gnoland",
+    "gnolang",
+    "gnovm",
+    "golang",
+    "hacktoberfest",
+    "interpreter",
+    "proof-of-contribution",
+    "smart-contracts",
+    "tendermint",
+    "tendermint2",
+    "truth-discovery",
+    "virtual-machine",
+    "web3"
+  ],
+  "version": "HEAD-a3237eb-250625T185518",
+  "version_upstream": "",
+  "bsum": "98dd0b62a4344f073ebf8200fdf5b9a63cb8f4611202235946e293d2f7cc51ee",
+  "build_date": "2025-06-26T10:49:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898751266",
+  "build_id": "15898751266",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gnolang/gno/gnoland?tag=HEAD-a3237eb-250625T185518-riscv64-Linux&download=gnoland.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "963",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gnolang/gno/gnoland?tag=HEAD-a3237eb-250625T185518-riscv64-Linux&download=gnoland",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gnolang/gno/gnoland:HEAD-a3237eb-250625T185518-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gnolang/gno/gnoland",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gnolang/gno/gnoland?tag=HEAD-a3237eb-250625T185518-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9e13f3a2f9954d0d48e62640d0492b5412a5beea10976ede4bd0f45b663aeebd",
+  "size": "27 MB",
+  "size_raw": "27814552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9b763e9-250619T152038-riscv64-Linux",
+    "HEAD-89c6a49-250620T173815-riscv64-Linux",
+    "HEAD-29cad67-250623T151236-riscv64-Linux",
+    "HEAD-499e4ba-250623T194538-riscv64-Linux",
+    "HEAD-8945fd4-250624T195807-riscv64-Linux",
+    "HEAD-a7e7644-250625T155223-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
