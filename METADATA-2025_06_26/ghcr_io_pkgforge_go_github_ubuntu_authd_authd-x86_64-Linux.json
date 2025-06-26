@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "authd",
+  "pkg_family": "authd",
+  "pkg_id": "authd#github.com_ubuntu_authd",
+  "pkg_name": "authd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ubuntu/authd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Authentication daemon for external Brokers",
+  "homepage": [
+    "https://github.com/ubuntu/authd"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ubuntu/authd/archive/ca1380e9022132cedef3c133500f8d0221c942b8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca1380e-250625T120042",
+  "version_upstream": "",
+  "bsum": "999abf496c8233f17d22e1303e606cde410b8fe89768e29dbb7b781211bfebaf",
+  "build_date": "2025-06-26T00:47:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888183519",
+  "build_id": "15888183519",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ubuntu/authd/authd?tag=HEAD-ca1380e-250625T120042-x86_64-Linux&download=authd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "175",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ubuntu/authd/authd?tag=HEAD-ca1380e-250625T120042-x86_64-Linux&download=authd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ubuntu/authd/authd:HEAD-ca1380e-250625T120042-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ubuntu/authd/authd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ubuntu/authd/authd?tag=HEAD-ca1380e-250625T120042-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8d6a537be34d9325899ce9c7cc6501fc94fbbc4665fac53be7abf630cd1727d",
+  "size": "17 MB",
+  "size_raw": "17097456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8264224-250623T102701-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
