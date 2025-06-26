@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gensite",
+  "pkg_family": "coder",
+  "pkg_id": "gensite#github.com_coder_coder",
+  "pkg_name": "gensite",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coder/coder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision remote development environments via Terraform",
+  "homepage": [
+    "https://github.com/coder/coder"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitypings",
+    "auditdocgen",
+    "audittypegen",
+    "clidocgen",
+    "cliui",
+    "cmdtest",
+    "coder",
+    "dbgen",
+    "dump",
+    "echoserver",
+    "embedded-pg",
+    "examplegen",
+    "gensite",
+    "metricsdocgen",
+    "migrate-ci",
+    "migrate-test",
+    "postprocess",
+    "release",
+    "releasemigrations",
+    "testidp",
+    "typegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coder/coder/archive/fdf458eb19e74b13f6de042a1377001aa6ad92c8.tar.gz"
+  ],
+  "tag": [
+    "dev-tools",
+    "development-environment",
+    "go",
+    "golang",
+    "ide",
+    "jetbrains",
+    "remote-development",
+    "terraform",
+    "vscode"
+  ],
+  "version": "HEAD-fdf458e-250625T170949",
+  "version_upstream": "",
+  "bsum": "8d2c8becea294a620dc8f5dc17580fc86f90a2b3bb5e66ad9a319c6ec6011e0b",
+  "build_date": "2025-06-26T10:45:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898695108",
+  "build_id": "15898695108",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/gensite?tag=HEAD-fdf458e-250625T170949-riscv64-Linux&download=gensite.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10125",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/gensite?tag=HEAD-fdf458e-250625T170949-riscv64-Linux&download=gensite",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/gensite:HEAD-fdf458e-250625T170949-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/gensite",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/gensite?tag=HEAD-fdf458e-250625T170949-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8289c39c5f65d4f22ea0e60eb455ea8f7b7689c08cad05db89a82f255390a901",
+  "size": "2.0 MB",
+  "size_raw": "2016776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-511fd09-250619T133251-riscv64-Linux",
+    "HEAD-725bc37-250621T184630-riscv64-Linux",
+    "HEAD-ba08d38-250623T135451-riscv64-Linux",
+    "HEAD-5ed0c7a-250623T150818-riscv64-Linux",
+    "HEAD-a4f1c64-250624T164701-riscv64-Linux",
+    "HEAD-79c666b-250625T112735-riscv64-Linux",
+    "HEAD-3c4d920-250625T144136-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
