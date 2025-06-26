@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rabbitmq",
+  "pkg_family": "openbao",
+  "pkg_id": "rabbitmq#github.com_openbao_openbao",
+  "pkg_name": "rabbitmq",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openbao/openbao",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "homepage": [
+    "https://github.com/openbao/openbao"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approle",
+    "cassandra-database-plugin",
+    "cert",
+    "codechecker",
+    "influxdb-database-plugin",
+    "jwt",
+    "kerberos",
+    "kubeclient",
+    "kubernetes",
+    "kv",
+    "ldap",
+    "login-kerb",
+    "mysql-database-plugin",
+    "mysql-legacy-database-plugin",
+    "openbao",
+    "openldap",
+    "pki",
+    "postgresql-database-plugin",
+    "rabbitmq",
+    "radius",
+    "ssh",
+    "test-app",
+    "tools",
+    "totp",
+    "transit",
+    "userpass",
+    "valkey-database-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openbao/openbao/archive/29ebb4a0104acbabe26c43df3e468cfcc0cd6886.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "version": "HEAD-29ebb4a-250625T163949",
+  "version_upstream": "",
+  "bsum": "7880fa0f70ff39cd3a43134fe2d1fea8c885e58d399119fa2b356293ec236158",
+  "build_date": "2025-06-26T11:45:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898993909",
+  "build_id": "15898993909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/rabbitmq?tag=HEAD-29ebb4a-250625T163949-aarch64-Linux&download=rabbitmq.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/rabbitmq?tag=HEAD-29ebb4a-250625T163949-aarch64-Linux&download=rabbitmq",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openbao/openbao/rabbitmq:HEAD-29ebb4a-250625T163949-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openbao/openbao/rabbitmq",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/rabbitmq?tag=HEAD-29ebb4a-250625T163949-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9d19a94a6a127f9ebd810e376c9c0c240e2feb799e5d577906b41bd8607ab83",
+  "size": "17 MB",
+  "size_raw": "17701760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a553e51-250624T184911-aarch64-Linux",
+    "HEAD-cf5e920-250625T103521-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
