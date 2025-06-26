@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "linkerd2-cli",
+  "pkg_family": "linkerd2",
+  "pkg_id": "linkerd2-cli#github.com_linkerd_linkerd2",
+  "pkg_name": "linkerd2-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "destination-client",
+    "linkerd2-cli",
+    "linkerd2-web",
+    "policy-client",
+    "proxy-identity",
+    "viz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2/archive/57b08a7c111efb8c4aa8b1014f365088050527bd.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "kubernetes",
+    "linkerd",
+    "rust",
+    "service-mesh"
+  ],
+  "version": "HEAD-57b08a7-250625T161307",
+  "version_upstream": "",
+  "bsum": "0079eb753979a064f990d66158bcf13405daba7776c1e1df9b324dec0a07de34",
+  "build_date": "2025-06-26T11:30:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898965941",
+  "build_id": "15898965941",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/linkerd2-cli?tag=HEAD-57b08a7-250625T161307-loongarch64-Linux&download=linkerd2-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10991",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/linkerd2-cli?tag=HEAD-57b08a7-250625T161307-loongarch64-Linux&download=linkerd2-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2/linkerd2-cli:HEAD-57b08a7-250625T161307-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2/linkerd2-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/linkerd2-cli?tag=HEAD-57b08a7-250625T161307-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4717bdfe02a077a420d29b5de2e73fc09b70e08b858b5c00602876e0b3181e87",
+  "size": "108 MB",
+  "size_raw": "112590976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f179d4c-250619T105442-loongarch64-Linux",
+    "HEAD-a056257-250620T173521-loongarch64-Linux",
+    "HEAD-8d1705c-250623T080502-loongarch64-Linux",
+    "HEAD-df7cba4-250624T092515-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
