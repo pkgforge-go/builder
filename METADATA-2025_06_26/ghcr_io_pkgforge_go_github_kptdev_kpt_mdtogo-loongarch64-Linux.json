@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mdtogo",
+  "pkg_family": "kpt",
+  "pkg_id": "mdtogo#github.com_kptdev_kpt",
+  "pkg_name": "mdtogo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kptdev/kpt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automate Kubernetes Configuration Editing",
+  "homepage": [
+    "https://github.com/kptdev/kpt"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "formula",
+    "generate_site_sidebar",
+    "mdtogo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kptdev/kpt/archive/26ae79c92ed2784bd46c3d191e095d41aafc6d32.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "config-as-data",
+    "configuration-management",
+    "containers",
+    "customization",
+    "deployment",
+    "gitops",
+    "kpt",
+    "krm",
+    "kubectl",
+    "kubernetes",
+    "kustomize",
+    "openapi",
+    "packaging-tool",
+    "policy-as-code",
+    "schema",
+    "shift-left",
+    "validation"
+  ],
+  "version": "HEAD-26ae79c-250625T121933",
+  "version_upstream": "",
+  "bsum": "517e9c3982bcc5b767588cffc5605482ccbf289fb03f492d38f4277336294ad9",
+  "build_date": "2025-06-26T08:16:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895721673",
+  "build_id": "15895721673",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kptdev/kpt/mdtogo?tag=HEAD-26ae79c-250625T121933-loongarch64-Linux&download=mdtogo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kptdev/kpt/mdtogo?tag=HEAD-26ae79c-250625T121933-loongarch64-Linux&download=mdtogo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kptdev/kpt/mdtogo:HEAD-26ae79c-250625T121933-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kptdev/kpt/mdtogo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kptdev/kpt/mdtogo?tag=HEAD-26ae79c-250625T121933-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "776a969b258ba7c5c7101b835f40da1926907d14d96d8b0b35bae84c3c51b3fc",
+  "size": "2.4 MB",
+  "size_raw": "2446616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
