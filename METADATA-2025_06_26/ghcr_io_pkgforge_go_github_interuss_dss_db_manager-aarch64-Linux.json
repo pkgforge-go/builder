@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "db-manager",
+  "pkg_family": "dss",
+  "pkg_id": "db-manager#github.com_interuss_dss",
+  "pkg_name": "db-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/interuss/dss",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "InterUSS Platform_s implementation of the ASTM DSS concept for RID and flight coordination.",
+  "homepage": [
+    "https://github.com/interuss/dss"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "core-service",
+    "db-manager",
+    "dummy-oauth",
+    "test-certs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/interuss/dss/archive/7280bc9b57964719d6504acb6b38f05d769003c2.tar.gz"
+  ],
+  "tag": [
+    "drone",
+    "uas",
+    "uss"
+  ],
+  "version": "HEAD-7280bc9-250626T134814",
+  "version_upstream": "",
+  "bsum": "039f9b1f9a35ed203535e8305b3e1fafd1184f627a65a4bdf6d4b212e86a95eb",
+  "build_date": "2025-06-26T23:19:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913332562",
+  "build_id": "15913332562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/db-manager?tag=HEAD-7280bc9-250626T134814-aarch64-Linux&download=db-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/db-manager?tag=HEAD-7280bc9-250626T134814-aarch64-Linux&download=db-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/interuss/dss/db-manager:HEAD-7280bc9-250626T134814-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/interuss/dss/db-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/db-manager?tag=HEAD-7280bc9-250626T134814-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2ecc0102edb6e55e544259db3996e111c30bc67f7c6631ed43b9f26e3522317",
+  "size": "13 MB",
+  "size_raw": "13333952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2b68fe4-250619T231548-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
