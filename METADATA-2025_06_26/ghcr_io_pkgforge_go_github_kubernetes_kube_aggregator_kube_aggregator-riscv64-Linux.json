@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kube-aggregator",
+  "pkg_family": "kube-aggregator",
+  "pkg_id": "kube-aggregator#github.com_kubernetes_kube_aggregator",
+  "pkg_name": "kube-aggregator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/kube-aggregator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Aggregator for Kubernetes-style API servers: dynamic registration, discovery summarization, secure proxy",
+  "homepage": [
+    "https://github.com/kubernetes/kube-aggregator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kube-aggregator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/kube-aggregator/archive/90a2d82b06b76052aca7475817663de0a0fae529.tar.gz"
+  ],
+  "tag": [
+    "k8s-staging"
+  ],
+  "version": "HEAD-90a2d82-250625T175146",
+  "version_upstream": "",
+  "bsum": "3e72c0f5f7f615de53d66562a8d830531ac708162121aa88d3c39d3e4b95afe8",
+  "build_date": "2025-06-26T08:28:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895965864",
+  "build_id": "15895965864",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kube-aggregator/kube-aggregator?tag=HEAD-90a2d82-250625T175146-riscv64-Linux&download=kube-aggregator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "264",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kube-aggregator/kube-aggregator?tag=HEAD-90a2d82-250625T175146-riscv64-Linux&download=kube-aggregator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kube-aggregator/kube-aggregator:HEAD-90a2d82-250625T175146-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kube-aggregator/kube-aggregator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kube-aggregator/kube-aggregator?tag=HEAD-90a2d82-250625T175146-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41cc83ea395c429a84f1212407eb67364ebc94427132ddc5cb5f47916012984c",
+  "size": "73 MB",
+  "size_raw": "76469176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
