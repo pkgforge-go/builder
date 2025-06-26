@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controllers",
+  "pkg_family": "slurm-bridge",
+  "pkg_id": "controllers#github.com_SlinkyProject_slurm_bridge",
+  "pkg_name": "controllers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SlinkyProject/slurm-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm as a Kubernetes scheduler. A Slinky project.",
+  "homepage": [
+    "https://github.com/SlinkyProject/slurm-bridge"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "controllers",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SlinkyProject/slurm-bridge/archive/a27be197a2c7f5ec4c854041e600be02966f29ff.tar.gz"
+  ],
+  "tag": [
+    "hpc",
+    "kubernetes",
+    "scheduler",
+    "slinky",
+    "slurm"
+  ],
+  "version": "HEAD-a27be19-250625T142214",
+  "version_upstream": "",
+  "bsum": "5678866cfc5a09e6a4e8c6c425a419a7cfc0084cea6c736421c401019f9489ba",
+  "build_date": "2025-06-26T07:15:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895111490",
+  "build_id": "15895111490",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-bridge/controllers?tag=HEAD-a27be19-250625T142214-aarch64-Linux&download=controllers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-bridge/controllers?tag=HEAD-a27be19-250625T142214-aarch64-Linux&download=controllers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slinkyproject/slurm-bridge/controllers:HEAD-a27be19-250625T142214-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slinkyproject/slurm-bridge/controllers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-bridge/controllers?tag=HEAD-a27be19-250625T142214-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2888c593e48f56fda534f5e9ad21b1717415e92f213f480b0311c101823cf72c",
+  "size": "62 MB",
+  "size_raw": "64267392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
