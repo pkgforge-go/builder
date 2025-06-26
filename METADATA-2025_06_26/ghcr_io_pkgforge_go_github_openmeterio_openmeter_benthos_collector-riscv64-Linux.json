@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "benthos-collector",
+  "pkg_family": "openmeter",
+  "pkg_id": "benthos-collector#github.com_openmeterio_openmeter",
+  "pkg_name": "benthos-collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openmeterio/openmeter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.",
+  "homepage": [
+    "https://github.com/openmeterio/openmeter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benthos-collector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openmeterio/openmeter/archive/f9c59ec9986e08ff0e7110088ababa11dbbf6fda.tar.gz"
+  ],
+  "tag": [
+    "analytics",
+    "billing",
+    "clickhouse",
+    "cost",
+    "finops",
+    "fintech",
+    "golang",
+    "kafka",
+    "metering",
+    "payment",
+    "pricing",
+    "stripe",
+    "usage",
+    "usage-based-billing",
+    "usage-based-pricing"
+  ],
+  "version": "HEAD-f9c59ec-250625T162221",
+  "version_upstream": "",
+  "bsum": "5ae22105ec042986df9c7f55c92449db60decacbc75bd692227a63897d70e7ce",
+  "build_date": "2025-06-26T00:19:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888111615",
+  "build_id": "15888111615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openmeterio/openmeter/benthos-collector?tag=HEAD-f9c59ec-250625T162221-riscv64-Linux&download=benthos-collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1414",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openmeterio/openmeter/benthos-collector?tag=HEAD-f9c59ec-250625T162221-riscv64-Linux&download=benthos-collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openmeterio/openmeter/benthos-collector:HEAD-f9c59ec-250625T162221-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openmeterio/openmeter/benthos-collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openmeterio/openmeter/benthos-collector?tag=HEAD-f9c59ec-250625T162221-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a40a0abaa9995724561c72bc2ba6d199e8ff42601bd158fd7790fc3e8a0762c0",
+  "size": "239 MB",
+  "size_raw": "249848728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7142d43-250620T140142-riscv64-Linux",
+    "HEAD-8c84c07-250620T221343-riscv64-Linux",
+    "HEAD-5334011-250623T152022-riscv64-Linux",
+    "HEAD-e48bdfe-250624T114649-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
