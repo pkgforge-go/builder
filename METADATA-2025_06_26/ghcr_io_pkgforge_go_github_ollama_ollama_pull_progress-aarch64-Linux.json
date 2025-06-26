@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pull-progress",
+  "pkg_family": "ollama",
+  "pkg_id": "pull-progress#github.com_ollama_ollama",
+  "pkg_name": "pull-progress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ollama/ollama",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+  "homepage": [
+    "https://github.com/ollama/ollama"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "chat",
+    "generate",
+    "generate-streaming",
+    "multimodal",
+    "ollama",
+    "pull-progress",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ollama/ollama/archive/ba04902670cd5945ded682c1c9de2220475b9c38.tar.gz"
+  ],
+  "tag": [
+    "deepseek",
+    "gemma",
+    "gemma2",
+    "gemma3",
+    "go",
+    "golang",
+    "llama",
+    "llama2",
+    "llama3",
+    "llava",
+    "llm",
+    "llms",
+    "mistral",
+    "ollama",
+    "phi3",
+    "phi4",
+    "qwen"
+  ],
+  "version": "HEAD-ba04902-250626T001944",
+  "version_upstream": "v0.9.3",
+  "bsum": "7d3524548ed91ea2dc3596f7684813b4d4fd7a94898c8623788dca2526bb19cc",
+  "build_date": "2025-06-26T23:58:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913403995",
+  "build_id": "15913403995",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/pull-progress?tag=HEAD-ba04902-250626T001944-aarch64-Linux&download=pull-progress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "144799",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/pull-progress?tag=HEAD-ba04902-250626T001944-aarch64-Linux&download=pull-progress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ollama/ollama/pull-progress:HEAD-ba04902-250626T001944-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ollama/ollama/pull-progress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/pull-progress?tag=HEAD-ba04902-250626T001944-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c4e262233e4b020e965ffa4e2137ec081ab029c5faf84d62768215d7d2492a82",
+  "size": "6.2 MB",
+  "size_raw": "6488224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87b7af6-250619T171249-aarch64-Linux",
+    "HEAD-65bff66-250620T123251-aarch64-Linux",
+    "HEAD-10a8e04-250623T155250-aarch64-Linux",
+    "HEAD-f085341-250624T202743-aarch64-Linux[v0.9.3-rc3]",
+    "HEAD-ad118d8-250624T210015-aarch64-Linux[v0.9.3-rc4]"
+  ],
+  "trusted": "true"
+}
