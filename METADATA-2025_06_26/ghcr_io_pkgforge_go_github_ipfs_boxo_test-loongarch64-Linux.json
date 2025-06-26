@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "boxo",
+  "pkg_id": "test#github.com_ipfs_boxo",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/boxo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of reference libraries for building IPFS applications and implementations in Go.",
+  "homepage": [
+    "https://github.com/ipfs/boxo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "gen",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/boxo/archive/44137d7d622ade477c6efc190ec2d5414fa3fcf8.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "ipfs"
+  ],
+  "version": "HEAD-44137d7-250625T164920",
+  "version_upstream": "",
+  "bsum": "f8bff6f0c3c0dc5fbaea6fcc758c1a8a9668176bcfaf0ddcbde7a16280f04414",
+  "build_date": "2025-06-26T11:02:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898864282",
+  "build_id": "15898864282",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/boxo/test?tag=HEAD-44137d7-250625T164920-loongarch64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "245",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/boxo/test?tag=HEAD-44137d7-250625T164920-loongarch64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/boxo/test:HEAD-44137d7-250625T164920-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/boxo/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/boxo/test?tag=HEAD-44137d7-250625T164920-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "28b72cd77d0108605bf6aebc08e61ec1404fdc78221f5a957ca411964ed7015e",
+  "size": "9.4 MB",
+  "size_raw": "9792320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af57197-250617T073638-loongarch64-Linux",
+    "HEAD-6d9782e-250623T192433-loongarch64-Linux",
+    "HEAD-5dbf84e-250624T124026-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
