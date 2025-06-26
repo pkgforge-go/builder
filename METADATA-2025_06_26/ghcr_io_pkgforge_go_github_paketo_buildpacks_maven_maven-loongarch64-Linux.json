@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "maven",
+  "pkg_family": "maven",
+  "pkg_id": "maven#github.com_paketo_buildpacks_maven",
+  "pkg_name": "maven",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/maven",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that builds Maven-based applications from source",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/maven"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "maven"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paketo-buildpacks/maven/archive/4eff91ba8182365805b624440f5f3f974f88c47c.tar.gz"
+  ],
+  "tag": [
+    "build-system",
+    "cnb",
+    "jvm-applications",
+    "maven"
+  ],
+  "version": "HEAD-4eff91b-250626T094427",
+  "version_upstream": "v6.20.3",
+  "bsum": "5f41b4b087eda40b391707a8771c558b4a6f8ac69f100682d4cde48962d07693",
+  "build_date": "2025-06-26T17:50:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907987055",
+  "build_id": "15907987055",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/maven/maven?tag=HEAD-4eff91b-250626T094427-loongarch64-Linux&download=maven.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/maven/maven?tag=HEAD-4eff91b-250626T094427-loongarch64-Linux&download=maven",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/maven/maven:HEAD-4eff91b-250626T094427-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/maven/maven",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/maven/maven?tag=HEAD-4eff91b-250626T094427-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3aca96dbef15c2401e86f908ca9ee30f38539e530bd33056ed639a281f28390f",
+  "size": "7.4 MB",
+  "size_raw": "7715008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
