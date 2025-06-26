@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ico",
+  "pkg_family": "bali",
+  "pkg_id": "ico#github.com_balibuild_bali",
+  "pkg_name": "ico",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/balibuild/bali",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bali -  Minimalist Golang build and packaging tool",
+  "homepage": [
+    "https://github.com/balibuild/bali"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "args",
+    "bali",
+    "ico",
+    "rpmsimple",
+    "xz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/balibuild/bali/archive/b4a5524757caecdf5459e303d249bafff8b9235b.tar.gz"
+  ],
+  "tag": [
+    "build",
+    "darwin",
+    "golang",
+    "installer",
+    "interesting",
+    "linux",
+    "package",
+    "posix",
+    "windows"
+  ],
+  "version": "HEAD-b4a5524-250626T093827",
+  "version_upstream": "",
+  "bsum": "6d40def9fec6e53a60bad2b7bf15669efb1ed276ccee46657ac5a38291a1c07a",
+  "build_date": "2025-06-26T10:12:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898684836",
+  "build_id": "15898684836",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/ico?tag=HEAD-b4a5524-250626T093827-aarch64-Linux&download=ico.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "67",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/ico?tag=HEAD-b4a5524-250626T093827-aarch64-Linux&download=ico",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/balibuild/bali/ico:HEAD-b4a5524-250626T093827-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/balibuild/bali/ico",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/ico?tag=HEAD-b4a5524-250626T093827-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5dc943d884087c35c5de793cd7ded30ce5a40f0292cb62e3f7491eb054dd821",
+  "size": "2.0 MB",
+  "size_raw": "2017304",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3c75fb5-250615T134456-aarch64-Linux[v3.1.1]",
+    "HEAD-c42ccb6-250624T172433-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
