@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rook",
+  "pkg_family": "rook",
+  "pkg_id": "rook#github.com_rook_rook",
+  "pkg_name": "rook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rook/rook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Storage Orchestration for Kubernetes",
+  "homepage": [
+    "https://github.com/rook/rook"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rook/rook/archive/af226f7bdc6d7574d960fdab72d36ae18c47cc8d.tar.gz"
+  ],
+  "tag": [
+    "ceph",
+    "cloud-native",
+    "cncf",
+    "docker",
+    "etcd",
+    "kubernetes",
+    "storage",
+    "storage-cluster"
+  ],
+  "version": "HEAD-af226f7-250625T130203",
+  "version_upstream": "",
+  "bsum": "f4061005b51f68cecd947690681230190bc6e0597eda89cfb652fd009941de4b",
+  "build_date": "2025-06-26T14:35:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903506358",
+  "build_id": "15903506358",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rook/rook/rook?tag=HEAD-af226f7-250625T130203-riscv64-Linux&download=rook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12902",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rook/rook/rook?tag=HEAD-af226f7-250625T130203-riscv64-Linux&download=rook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rook/rook/rook:HEAD-af226f7-250625T130203-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rook/rook/rook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rook/rook/rook?tag=HEAD-af226f7-250625T130203-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ce23b18899d6446b2395b7e0a708e3c5f0551e37bc068b72e986e5abe9e2dbb",
+  "size": "100 MB",
+  "size_raw": "104307544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-eaa71a6-250624T155838-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
