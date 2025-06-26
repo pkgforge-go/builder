@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "k3k",
+  "pkg_family": "k3k",
+  "pkg_id": "k3k#github.com_rancher_k3k",
+  "pkg_name": "k3k",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/k3k",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes in Kubernetes",
+  "homepage": [
+    "https://github.com/rancher/k3k"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "k3k",
+    "k3k-cli",
+    "k3k-kubelet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/k3k/archive/8eb5c49ce4563131dc7fb09f61d4302438d13413.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8eb5c49-250625T104852",
+  "version_upstream": "chart-0.3.3-r5",
+  "bsum": "e657c0d7b5cf4623c7a04dbc0013e9439779231f4750bbeebb309df2f4852a56",
+  "build_date": "2025-06-26T00:32:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888122400",
+  "build_id": "15888122400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/k3k?tag=HEAD-8eb5c49-250625T104852-loongarch64-Linux&download=k3k.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "335",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/k3k?tag=HEAD-8eb5c49-250625T104852-loongarch64-Linux&download=k3k",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/k3k/k3k:HEAD-8eb5c49-250625T104852-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/k3k/k3k",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/k3k?tag=HEAD-8eb5c49-250625T104852-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8a02b1eb435dd4b4a2e6b7726e041c164b74f6a35334118509d13143dc3ad60",
+  "size": "46 MB",
+  "size_raw": "47680784",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f5d2e98-250620T181910-loongarch64-Linux[chart-0.3.3-r3]",
+    "HEAD-b810736-250623T143136-loongarch64-Linux[v0.3.3-rc4]",
+    "HEAD-54ae8d2-250624T235614-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
