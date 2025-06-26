@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "migrate-test",
+  "pkg_family": "coder",
+  "pkg_id": "migrate-test#github.com_coder_coder",
+  "pkg_name": "migrate-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coder/coder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision remote development environments via Terraform",
+  "homepage": [
+    "https://github.com/coder/coder"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitypings",
+    "auditdocgen",
+    "audittypegen",
+    "clidocgen",
+    "cliui",
+    "cmdtest",
+    "coder",
+    "dbgen",
+    "dump",
+    "echoserver",
+    "embedded-pg",
+    "examplegen",
+    "gensite",
+    "metricsdocgen",
+    "migrate-ci",
+    "migrate-test",
+    "postprocess",
+    "release",
+    "releasemigrations",
+    "testidp",
+    "typegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coder/coder/archive/fdf458eb19e74b13f6de042a1377001aa6ad92c8.tar.gz"
+  ],
+  "tag": [
+    "dev-tools",
+    "development-environment",
+    "go",
+    "golang",
+    "ide",
+    "jetbrains",
+    "remote-development",
+    "terraform",
+    "vscode"
+  ],
+  "version": "HEAD-fdf458e-250625T170949",
+  "version_upstream": "",
+  "bsum": "6331ad30702d2ac1492416a1ed060e974e212cb3823ee77547c61f8e1923f4ee",
+  "build_date": "2025-06-26T10:46:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898695108",
+  "build_id": "15898695108",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-test?tag=HEAD-fdf458e-250625T170949-aarch64-Linux&download=migrate-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10125",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-test?tag=HEAD-fdf458e-250625T170949-aarch64-Linux&download=migrate-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/migrate-test:HEAD-fdf458e-250625T170949-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/migrate-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-test?tag=HEAD-fdf458e-250625T170949-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb4340874bffdf87734fea4b44bc22ab3fb15db299c17abb356bef15a67438b4",
+  "size": "34 MB",
+  "size_raw": "35005792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-511fd09-250619T133251-aarch64-Linux",
+    "HEAD-725bc37-250621T184630-aarch64-Linux",
+    "HEAD-ba08d38-250623T135451-aarch64-Linux",
+    "HEAD-5ed0c7a-250623T150818-aarch64-Linux",
+    "HEAD-79c666b-250625T112735-aarch64-Linux",
+    "HEAD-3c4d920-250625T144136-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
