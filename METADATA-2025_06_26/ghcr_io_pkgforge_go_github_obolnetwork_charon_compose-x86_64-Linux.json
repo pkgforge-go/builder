@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "compose",
+  "pkg_family": "charon",
+  "pkg_id": "compose#github.com_ObolNetwork_charon",
+  "pkg_name": "compose",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ObolNetwork/charon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Charon _pronounced _kharon__ is a Proof of Stake Ethereum Distributed Validator Client",
+  "homepage": [
+    "https://github.com/ObolNetwork/charon"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "charon",
+    "compose",
+    "genchangelog",
+    "genssz",
+    "genwrap",
+    "promrated",
+    "verifypr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ObolNetwork/charon/archive/fb54af4579c50e148b37949c651cb2a902b6705a.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "consensus-layer",
+    "distributed-systems",
+    "distributed-validator",
+    "ethereum",
+    "go",
+    "golang",
+    "proof-of-stake"
+  ],
+  "version": "HEAD-fb54af4-250626T114051",
+  "version_upstream": "",
+  "bsum": "18d1ab5d9d264383698bbacaa02a9a418326345965918ce7f810324df4f26623",
+  "build_date": "2025-06-26T22:11:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205240",
+  "build_id": "15913205240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/obolnetwork/charon/compose?tag=HEAD-fb54af4-250626T114051-x86_64-Linux&download=compose.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "212",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/obolnetwork/charon/compose?tag=HEAD-fb54af4-250626T114051-x86_64-Linux&download=compose",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/obolnetwork/charon/compose:HEAD-fb54af4-250626T114051-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/obolnetwork/charon/compose",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/obolnetwork/charon/compose?tag=HEAD-fb54af4-250626T114051-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "684fcbd77b4febe1468b7a4fa40e722625dd4c3942c0873f8d3e8bddb1574d98",
+  "size": "34 MB",
+  "size_raw": "35204144",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f48d03a-250610T143434-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
