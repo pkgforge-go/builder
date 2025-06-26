@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate-config",
+  "pkg_family": "incus",
+  "pkg_id": "generate-config#github.com_lxc_incus",
+  "pkg_name": "generate-config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lxc/incus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/lxc/incus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev_incus-client",
+    "generate-config",
+    "generate-database",
+    "incus",
+    "incus-benchmark",
+    "incus-migrate",
+    "incus-simplestreams",
+    "lxd-to-incus",
+    "mini-oidc",
+    "sysinfo",
+    "tls2jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lxc/incus/archive/6a5c119b516c0e6fcb1f0d7c9e2456dbed040428.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "containers",
+    "hacktoberfest",
+    "virtual-machines"
+  ],
+  "version": "HEAD-6a5c119-250625T080657",
+  "version_upstream": "",
+  "bsum": "d1dfb5a9b3b362a9e775f10e2776fb9779c43e43b282984406154e4932851e3a",
+  "build_date": "2025-06-26T03:24:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891504914",
+  "build_id": "15891504914",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/generate-config?tag=HEAD-6a5c119-250625T080657-loongarch64-Linux&download=generate-config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3662",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/generate-config?tag=HEAD-6a5c119-250625T080657-loongarch64-Linux&download=generate-config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxc/incus/generate-config:HEAD-6a5c119-250625T080657-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxc/incus/generate-config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/generate-config?tag=HEAD-6a5c119-250625T080657-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7d57b62e66507a6d545641b293ae501bc198275f29af1ac0f2627f6bcffa4e1",
+  "size": "3.3 MB",
+  "size_raw": "3389880",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-28452f9-250621T051047-loongarch64-Linux",
+    "HEAD-f5f24e3-250622T192220-loongarch64-Linux",
+    "HEAD-e1e6eb4-250624T211009-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
