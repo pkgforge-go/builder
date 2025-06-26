@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prototag",
+  "pkg_family": "kargo",
+  "pkg_id": "prototag#github.com_akuity_kargo",
+  "pkg_name": "prototag",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/akuity/kargo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Application lifecycle orchestration",
+  "homepage": [
+    "https://github.com/akuity/kargo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "controlplane",
+    "credential-helper",
+    "prototag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/akuity/kargo/archive/4724da607a7de1880faf84af35ea45cec46b0574.tar.gz"
+  ],
+  "tag": [
+    "argocd",
+    "cd",
+    "delivery",
+    "gitops",
+    "k8s",
+    "kubernetes"
+  ],
+  "version": "HEAD-4724da6-250625T185510",
+  "version_upstream": "",
+  "bsum": "d53b2600a26a588f1ce86b4ee1c6dde43fbbf6d73b2752c1aa2560f34b7db04c",
+  "build_date": "2025-06-26T09:57:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898682249",
+  "build_id": "15898682249",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/prototag?tag=HEAD-4724da6-250625T185510-x86_64-Linux&download=prototag.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2493",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/prototag?tag=HEAD-4724da6-250625T185510-x86_64-Linux&download=prototag",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/akuity/kargo/prototag:HEAD-4724da6-250625T185510-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/akuity/kargo/prototag",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/prototag?tag=HEAD-4724da6-250625T185510-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "518111b1f68b7b03c6c514aae526395ad35874ad4716570f54e54567047e1ae4",
+  "size": "2.5 MB",
+  "size_raw": "2603960",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7362b21-250617T215023-x86_64-Linux",
+    "HEAD-5539752-250623T104443-x86_64-Linux",
+    "HEAD-271f76b-250623T213522-x86_64-Linux",
+    "HEAD-c6ac159-250624T122020-x86_64-Linux",
+    "HEAD-e6163d4-250624T202428-x86_64-Linux",
+    "HEAD-018a777-250625T133903-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
