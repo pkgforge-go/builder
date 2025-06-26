@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "statshouse-example",
+  "pkg_family": "statshouse",
+  "pkg_id": "statshouse-example#github.com_VKCOM_statshouse",
+  "pkg_name": "statshouse-example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VKCOM/statshouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "StatsHouse is a highly available, scalable, multitenant monitoring system",
+  "homepage": [
+    "https://github.com/VKCOM/statshouse"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ch-table-gen",
+    "sender",
+    "statshouse-example",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VKCOM/statshouse/archive/a775fec9f5cab289c7a2b1517bb45fddb5e80ac1.tar.gz"
+  ],
+  "tag": [
+    "dashboard",
+    "graphing",
+    "metrics",
+    "monitoring",
+    "observability",
+    "tsdb"
+  ],
+  "version": "HEAD-a775fec-250626T140337",
+  "version_upstream": "",
+  "bsum": "5eac2f0d8326ff5c6ecdb233fd8f183c072196e40580fd082c0a0d372ea4dfc9",
+  "build_date": "2025-06-26T22:10:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205879",
+  "build_id": "15913205879",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/statshouse-example?tag=HEAD-a775fec-250626T140337-riscv64-Linux&download=statshouse-example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "257",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/statshouse-example?tag=HEAD-a775fec-250626T140337-riscv64-Linux&download=statshouse-example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vkcom/statshouse/statshouse-example:HEAD-a775fec-250626T140337-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vkcom/statshouse/statshouse-example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/statshouse-example?tag=HEAD-a775fec-250626T140337-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08fcc4e620862f555086bcc0c158cbe7d5208959cf611a97ecc43f7b7cbeca3a",
+  "size": "8.3 MB",
+  "size_raw": "8630104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ef46bea-250619T183844-riscv64-Linux",
+    "HEAD-0c74373-250625T172254-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
