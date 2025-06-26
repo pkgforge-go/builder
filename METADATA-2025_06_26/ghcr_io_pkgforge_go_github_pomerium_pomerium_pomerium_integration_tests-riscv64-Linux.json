@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pomerium-integration-tests",
+  "pkg_family": "pomerium",
+  "pkg_id": "pomerium-integration-tests#github.com_pomerium_pomerium",
+  "pkg_name": "pomerium-integration-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pomerium/pomerium",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pomerium is an identity and context-aware access proxy.",
+  "homepage": [
+    "https://github.com/pomerium/pomerium"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "get-envoy",
+    "mutual-tls",
+    "pomerium-integration-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pomerium/pomerium/archive/a62a9e4d999f73c67ed9e4533c9d5f9f323c610e.tar.gz"
+  ],
+  "tag": [
+    "beyondcorp",
+    "gateway",
+    "go",
+    "iam",
+    "identity",
+    "identity-aware-proxy",
+    "pomerium",
+    "reverse-proxy",
+    "vpn",
+    "zero-trust"
+  ],
+  "version": "HEAD-a62a9e4-250625T171251",
+  "version_upstream": "",
+  "bsum": "a85fc42bc47efad86f7b7921dcf1af068b4b84fd71e7deadab93c485e8faeaba",
+  "build_date": "2025-06-26T11:54:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899014192",
+  "build_id": "15899014192",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/pomerium/pomerium-integration-tests?tag=HEAD-a62a9e4-250625T171251-riscv64-Linux&download=pomerium-integration-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/pomerium/pomerium-integration-tests?tag=HEAD-a62a9e4-250625T171251-riscv64-Linux&download=pomerium-integration-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pomerium/pomerium/pomerium-integration-tests:HEAD-a62a9e4-250625T171251-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pomerium/pomerium/pomerium-integration-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/pomerium/pomerium-integration-tests?tag=HEAD-a62a9e4-250625T171251-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df6662e6e5d77ce45d7add14cfa6f31054f0c73bc06ff9ef3ae7c970f796647d",
+  "size": "7.8 MB",
+  "size_raw": "8160952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-55dd6ba-250620T144500-riscv64-Linux",
+    "HEAD-d36c48a-250623T115017-riscv64-Linux",
+    "HEAD-9363457-250624T205851-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
