@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "partial-aftersun",
+  "pkg_family": "sunlight",
+  "pkg_id": "partial-aftersun#github.com_FiloSottile_sunlight",
+  "pkg_name": "partial-aftersun",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FiloSottile/sunlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
+  "homepage": [
+    "https://github.com/FiloSottile/sunlight"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "partial-aftersun",
+    "skylight",
+    "sunlight",
+    "sunlight-keygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FiloSottile/sunlight/archive/244b8b1a10c6153e55c5c011102863dba63e6179.tar.gz"
+  ],
+  "tag": [
+    "certificate-transparency",
+    "tlog"
+  ],
+  "version": "HEAD-244b8b1-250623T195336",
+  "version_upstream": "",
+  "bsum": "2924b4f43675247042f5daee7352276535ddf66024a4b3f4b0f64df2f892a876",
+  "build_date": "2025-06-26T02:18:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891363179",
+  "build_id": "15891363179",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/partial-aftersun?tag=HEAD-244b8b1-250623T195336-loongarch64-Linux&download=partial-aftersun.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "168",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/partial-aftersun?tag=HEAD-244b8b1-250623T195336-loongarch64-Linux&download=partial-aftersun",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filosottile/sunlight/partial-aftersun:HEAD-244b8b1-250623T195336-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filosottile/sunlight/partial-aftersun",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filosottile/sunlight/partial-aftersun?tag=HEAD-244b8b1-250623T195336-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f151f9460228f2d1e7d4dbace1e20ba741131a5b4fe24ef72f02bd70f5a2be1",
+  "size": "5.1 MB",
+  "size_raw": "5260608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1bba70f-250613T162055-loongarch64-Linux[v0.4.1]",
+    "HEAD-7029559-250622T234326-loongarch64-Linux",
+    "HEAD-244b8b1-250623T195336-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
