@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "registry",
+  "pkg_family": "appliance",
+  "pkg_id": "registry#github.com_openshift_appliance",
+  "pkg_name": "registry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/appliance",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenShift-based Appliance Builder",
+  "homepage": [
+    "https://github.com/openshift/appliance"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appliance-cmd",
+    "registry"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/appliance/archive/382f8a12624e8b2cace38593940aec2672d6898d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-382f8a1-250625T221129",
+  "version_upstream": "",
+  "bsum": "a30fc8b9706407144bd11e394ddb05e6893a6ddb67047c7919439e72648694f9",
+  "build_date": "2025-06-26T11:37:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899005465",
+  "build_id": "15899005465",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/appliance/registry?tag=HEAD-382f8a1-250625T221129-loongarch64-Linux&download=registry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/appliance/registry?tag=HEAD-382f8a1-250625T221129-loongarch64-Linux&download=registry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/appliance/registry:HEAD-382f8a1-250625T221129-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/appliance/registry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/appliance/registry?tag=HEAD-382f8a1-250625T221129-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d431239e5704e288f388f7757044986aa3d39f9a38cf210fa81c434cec9db57a",
+  "size": "25 MB",
+  "size_raw": "25168096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ff58d75-250622T124657-loongarch64-Linux",
+    "HEAD-5313672-250622T231703-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
