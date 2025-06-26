@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ken",
+  "pkg_family": "kaia",
+  "pkg_id": "ken#github.com_kaiachain_kaia",
+  "pkg_name": "ken",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kaiachain/kaia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kaiachain/kaia"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abigen",
+    "homi",
+    "kbn",
+    "kcn",
+    "ken",
+    "kgen",
+    "kpn",
+    "kscn",
+    "ksen",
+    "kspn",
+    "rlpgen",
+    "rpm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kaiachain/kaia/archive/2f530cb5ff2c7b04a0603b669a4745d9abc98c74.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2f530cb-250626T173305",
+  "version_upstream": "",
+  "bsum": "6dccb4e99694b4d347303897cb42da432481829cbb593235fdbd3b9d3f9826f6",
+  "build_date": "2025-06-26T23:40:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913349626",
+  "build_id": "15913349626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kaiachain/kaia/ken?tag=HEAD-2f530cb-250626T173305-riscv64-Linux&download=ken.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kaiachain/kaia/ken?tag=HEAD-2f530cb-250626T173305-riscv64-Linux&download=ken",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kaiachain/kaia/ken:HEAD-2f530cb-250626T173305-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kaiachain/kaia/ken",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kaiachain/kaia/ken?tag=HEAD-2f530cb-250626T173305-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a38b348a276ab95076769d45b62884cb00881fdbbee5b6a6cbb9d7834ae4b356",
+  "size": "80 MB",
+  "size_raw": "82846968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f0c3897-250623T184425-riscv64-Linux",
+    "HEAD-0cf2972-250624T173327-riscv64-Linux",
+    "HEAD-34f9b2c-250625T095402-riscv64-Linux",
+    "HEAD-46fcdf9-250625T183418-riscv64-Linux[v2.0.3-rc.1]"
+  ],
+  "trusted": "true"
+}
