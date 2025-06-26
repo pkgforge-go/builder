@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "launcher",
+  "pkg_family": "sshpiper",
+  "pkg_id": "launcher#github.com_tg123_sshpiper",
+  "pkg_name": "launcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tg123/sshpiper",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The missing reverse proxy for ssh scp",
+  "homepage": [
+    "https://github.com/tg123/sshpiper"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configgen",
+    "launcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tg123/sshpiper/archive/a3c58882dcbdfc4341a399c83555ccd66cab75fb.tar.gz"
+  ],
+  "tag": [
+    "auditing",
+    "azuread",
+    "bastion",
+    "bastion-server",
+    "golang",
+    "google-authenticator",
+    "recording",
+    "reverse-proxy",
+    "scp",
+    "ssh",
+    "ssh-connection",
+    "two-factor-authentication"
+  ],
+  "version": "HEAD-a3c5888-250625T154424",
+  "version_upstream": "",
+  "bsum": "89be5018791f65736350e7b04f2864c4e9e6ddcbfae6c99fe3e0bbcd2da1ce57",
+  "build_date": "2025-06-26T12:13:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899171449",
+  "build_id": "15899171449",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tg123/sshpiper/launcher?tag=HEAD-a3c5888-250625T154424-aarch64-Linux&download=launcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1082",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tg123/sshpiper/launcher?tag=HEAD-a3c5888-250625T154424-aarch64-Linux&download=launcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tg123/sshpiper/launcher:HEAD-a3c5888-250625T154424-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tg123/sshpiper/launcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tg123/sshpiper/launcher?tag=HEAD-a3c5888-250625T154424-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71ff894a0f0f5c692b6ad2f78b4aa19da285c9870c53dfa275f297419076ec56",
+  "size": "2.3 MB",
+  "size_raw": "2387032",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a472360-250621T221751-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
