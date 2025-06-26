@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sqlboiler-mysql",
+  "pkg_family": "sqlboiler",
+  "pkg_id": "sqlboiler-mysql#github.com_aarondl_sqlboiler",
+  "pkg_name": "sqlboiler-mysql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aarondl/sqlboiler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate a Go ORM tailored to your database schema.",
+  "homepage": [
+    "https://github.com/aarondl/sqlboiler"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sqlboiler",
+    "sqlboiler-mssql",
+    "sqlboiler-mysql",
+    "sqlboiler-psql",
+    "sqlboiler-sqlite3"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aarondl/sqlboiler/archive/9c0032bf719daa89d92c66b4dde26d033e87a132.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "go",
+    "golang",
+    "mssql",
+    "mysql",
+    "orm",
+    "postgres",
+    "postgresql",
+    "sqlboiler",
+    "sqlite3"
+  ],
+  "version": "HEAD-9c0032b-250625T230417",
+  "version_upstream": "v4.19.2",
+  "bsum": "62b4bc71a6a45f0789b3169487a0a092ddaa454373def6ba291702dec9758741",
+  "build_date": "2025-06-26T16:13:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906512824",
+  "build_id": "15906512824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-mysql?tag=HEAD-9c0032b-250625T230417-riscv64-Linux&download=sqlboiler-mysql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6886",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-mysql?tag=HEAD-9c0032b-250625T230417-riscv64-Linux&download=sqlboiler-mysql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-mysql:HEAD-9c0032b-250625T230417-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-mysql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler-mysql?tag=HEAD-9c0032b-250625T230417-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8faeb102463c4e13fe34bcdd634b1073d2870574f1caf7e84064f484b2f59af6",
+  "size": "5.7 MB",
+  "size_raw": "5903672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
