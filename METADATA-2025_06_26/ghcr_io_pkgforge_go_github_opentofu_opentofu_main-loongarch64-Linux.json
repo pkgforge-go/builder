@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "opentofu",
+  "pkg_id": "main#github.com_opentofu_opentofu",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/opentofu/opentofu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+  "homepage": [
+    "https://github.com/opentofu/opentofu"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "data",
+    "encryption",
+    "external-method",
+    "loggraphdiff",
+    "main",
+    "protobuf-compile",
+    "tofu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/opentofu/opentofu/archive/0afbaae42d70c49159f25bac5a95f94f7048a17c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0afbaae-250625T091540",
+  "version_upstream": "",
+  "bsum": "db7826535962675942883f4c427279eefab362155dfc9036b5372e8c391eebb5",
+  "build_date": "2025-06-26T00:18:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888114418",
+  "build_id": "15888114418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/opentofu/main?tag=HEAD-0afbaae-250625T091540-loongarch64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25801",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/opentofu/main?tag=HEAD-0afbaae-250625T091540-loongarch64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/opentofu/main:HEAD-0afbaae-250625T091540-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/opentofu/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/opentofu/main?tag=HEAD-0afbaae-250625T091540-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2b316c6f2cda959cca5b0b3be0cb4cf7500442095955cf4df1eb1b62cbf1558f",
+  "size": "36 MB",
+  "size_raw": "37734192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ec65e12-250619T122339-loongarch64-Linux",
+    "HEAD-3c17015-250624T091040-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
