@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dingospeed-cmd",
+  "pkg_family": "dingospeed",
+  "pkg_id": "dingospeed-cmd#github.com_dingodb_dingospeed",
+  "pkg_name": "dingospeed-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dingodb/dingospeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dingospeed is a self-hosted huggingface mirror service",
+  "homepage": [
+    "https://github.com/dingodb/dingospeed"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dingospeed-cmd",
+    "repair"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dingodb/dingospeed/archive/e8cb9481f80ba064a0551d2211f30e3114c289ee.tar.gz"
+  ],
+  "tag": [
+    "huggingface",
+    "llm",
+    "mirror",
+    "self-hosted",
+    "service"
+  ],
+  "version": "HEAD-e8cb948-250626T103943",
+  "version_upstream": "",
+  "bsum": "476cb76c877a3ca1f50e2080705ae802d6f189f0e5835bc9c6b2fd3b09a60916",
+  "build_date": "2025-06-26T22:47:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913255769",
+  "build_id": "15913255769",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd?tag=HEAD-e8cb948-250626T103943-riscv64-Linux&download=dingospeed-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd?tag=HEAD-e8cb948-250626T103943-riscv64-Linux&download=dingospeed-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd:HEAD-e8cb948-250626T103943-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/dingospeed-cmd?tag=HEAD-e8cb948-250626T103943-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0943584772369138be519e3adfeb988b4e458a7a336c74b4aab80cddfcf4769",
+  "size": "16 MB",
+  "size_raw": "16743000",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0129333-250625T130858-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "repair",
+  "pkg_family": "dingospeed",
+  "pkg_id": "repair#github.com_dingodb_dingospeed",
+  "pkg_name": "repair",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dingodb/dingospeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dingospeed is a self-hosted huggingface mirror service",
+  "homepage": [
+    "https://github.com/dingodb/dingospeed"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dingospeed-cmd",
+    "repair"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dingodb/dingospeed/archive/e8cb9481f80ba064a0551d2211f30e3114c289ee.tar.gz"
+  ],
+  "tag": [
+    "huggingface",
+    "llm",
+    "mirror",
+    "self-hosted",
+    "service"
+  ],
+  "version": "HEAD-e8cb948-250626T103943",
+  "version_upstream": "",
+  "bsum": "411505c9da5c3605b69de306eef7e7ae1ad6b26bc3098c1c76e1130678e7c379",
+  "build_date": "2025-06-26T22:47:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913255769",
+  "build_id": "15913255769",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/repair?tag=HEAD-e8cb948-250626T103943-riscv64-Linux&download=repair.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/repair?tag=HEAD-e8cb948-250626T103943-riscv64-Linux&download=repair",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dingodb/dingospeed/repair:HEAD-e8cb948-250626T103943-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dingodb/dingospeed/repair",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/repair?tag=HEAD-e8cb948-250626T103943-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b0c5c81679addf7efaf998dab31523338089df9e83759822b8c2a8595e54ac34",
+  "size": "9.2 MB",
+  "size_raw": "9584120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0129333-250625T130858-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
