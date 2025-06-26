@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dranetctl",
+  "pkg_family": "dranet",
+  "pkg_id": "dranetctl#github.com_google_dranet",
+  "pkg_name": "dranetctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/dranet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DraNet is a Kubernetes Network Driver that uses Dynamic Resource Allocation _DRA_ to deliver high-performance networking for demanding applications in Kubernetes.",
+  "homepage": [
+    "https://github.com/google/dranet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dranet",
+    "dranetctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/google/dranet/archive/1a134750c3bb3735a0570e5319fb0b78c6bd6653.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "dra",
+    "kubernetes",
+    "networking",
+    "performance"
+  ],
+  "version": "HEAD-1a13475-250626T005159",
+  "version_upstream": "",
+  "bsum": "93ce2a1a57f72203fff26dfbd65b3ce9fe6bb00e0da8214bab1ed784e27dfb09",
+  "build_date": "2025-06-26T10:51:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898813490",
+  "build_id": "15898813490",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranetctl?tag=HEAD-1a13475-250626T005159-loongarch64-Linux&download=dranetctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "85",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranetctl?tag=HEAD-1a13475-250626T005159-loongarch64-Linux&download=dranetctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/dranet/dranetctl:HEAD-1a13475-250626T005159-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/dranet/dranetctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/dranet/dranetctl?tag=HEAD-1a13475-250626T005159-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46f354d9d7f331a7ee40121cb8fb76bad0667a55690c253c8a74f94740c02b59",
+  "size": "53 MB",
+  "size_raw": "54539104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-43d5657-250623T150607-loongarch64-Linux",
+    "HEAD-66de5dd-250624T104409-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
