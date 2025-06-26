@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nop",
+  "pkg_family": "missinggo",
+  "pkg_id": "nop#github.com_anacrolix_missinggo",
+  "pkg_name": "nop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/missinggo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff that_s missing in Go stdlib, or hasn_t made it into its own repo.",
+  "homepage": [
+    "https://github.com/anacrolix/missinggo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "filecache",
+    "gd",
+    "go-env",
+    "http-file-server",
+    "jenny",
+    "nop",
+    "query-escape",
+    "query-unescape"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/missinggo/archive/aa4691b19d564e034cae5b149bd0f7e647607a04.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa4691b-250626T223431",
+  "version_upstream": "",
+  "bsum": "ba3c28b2782144e900db6677d0906632785cd61aa61f7b48c55509d8c5fd5c04",
+  "build_date": "2025-06-26T16:14:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906549083",
+  "build_id": "15906549083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/nop?tag=HEAD-aa4691b-250626T223431-riscv64-Linux&download=nop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "85",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/nop?tag=HEAD-aa4691b-250626T223431-riscv64-Linux&download=nop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/missinggo/nop:HEAD-aa4691b-250626T223431-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/missinggo/nop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/nop?tag=HEAD-aa4691b-250626T223431-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1cd2d4d2cda9945ef3aaed75bea0560fd48a0215bd807359d2f2d31ad9490f07",
+  "size": "1.1 MB",
+  "size_raw": "1062448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
