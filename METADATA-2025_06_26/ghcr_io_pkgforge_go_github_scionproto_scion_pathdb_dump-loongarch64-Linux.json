@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pathdb_dump",
+  "pkg_family": "scion",
+  "pkg_id": "pathdb_dump#github.com_scionproto_scion",
+  "pkg_name": "pathdb_dump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/scionproto/scion",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SCION Internet Architecture",
+  "homepage": [
+    "https://github.com/scionproto/scion"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "braccept",
+    "brload",
+    "buildkite_artifacts",
+    "control",
+    "daemon",
+    "dispatcher",
+    "drkey",
+    "end2end",
+    "end2end_integration",
+    "gateway",
+    "graphupdater",
+    "mmbm",
+    "pathdb_dump",
+    "pktgen",
+    "router",
+    "scion",
+    "scion-pki",
+    "scion_integration",
+    "sig_ping_acceptance",
+    "udpproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/scionproto/scion/archive/379c6c7db20695a53b758190cd6c4302d0c3ab20.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-379c6c7-250625T142450",
+  "version_upstream": "",
+  "bsum": "765e6d6e42243dcfc563b5319991a596f82110ecbd7f36e1ccdd4e1b682ddcfe",
+  "build_date": "2025-06-26T00:50:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888131139",
+  "build_id": "15888131139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/pathdb_dump?tag=HEAD-379c6c7-250625T142450-loongarch64-Linux&download=pathdb_dump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "439",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/pathdb_dump?tag=HEAD-379c6c7-250625T142450-loongarch64-Linux&download=pathdb_dump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/scionproto/scion/pathdb_dump:HEAD-379c6c7-250625T142450-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/scionproto/scion/pathdb_dump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/pathdb_dump?tag=HEAD-379c6c7-250625T142450-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75d1c4c74db054d10b331dc35ab2856a6db170109d0604aff35058219400a158",
+  "size": "17 MB",
+  "size_raw": "16827808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4f2ee98-250624T122109-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

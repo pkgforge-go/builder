@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "drkey",
+  "pkg_family": "scion",
+  "pkg_id": "drkey#github.com_scionproto_scion",
+  "pkg_name": "drkey",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/scionproto/scion",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SCION Internet Architecture",
+  "homepage": [
+    "https://github.com/scionproto/scion"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "braccept",
+    "brload",
+    "buildkite_artifacts",
+    "control",
+    "daemon",
+    "dispatcher",
+    "drkey",
+    "end2end",
+    "end2end_integration",
+    "gateway",
+    "graphupdater",
+    "mmbm",
+    "pathdb_dump",
+    "pktgen",
+    "router",
+    "scion",
+    "scion-pki",
+    "scion_integration",
+    "sig_ping_acceptance",
+    "udpproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/scionproto/scion/archive/379c6c7db20695a53b758190cd6c4302d0c3ab20.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-379c6c7-250625T142450",
+  "version_upstream": "",
+  "bsum": "95c2cc8693d83b1ef4067da538b036e3adea709a015cda29d87b4c1e3a5bfbd1",
+  "build_date": "2025-06-26T00:51:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888131139",
+  "build_id": "15888131139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/drkey?tag=HEAD-379c6c7-250625T142450-loongarch64-Linux&download=drkey.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "439",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/drkey?tag=HEAD-379c6c7-250625T142450-loongarch64-Linux&download=drkey",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/scionproto/scion/drkey:HEAD-379c6c7-250625T142450-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/scionproto/scion/drkey",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/drkey?tag=HEAD-379c6c7-250625T142450-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1193124abe56e4b88e14bed7193b402e17b8a379bd33d1e0bf66a13e3ed3db5d",
+  "size": "16 MB",
+  "size_raw": "16640192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4f2ee98-250624T122109-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
