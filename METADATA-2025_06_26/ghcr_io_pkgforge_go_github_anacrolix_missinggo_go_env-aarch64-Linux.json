@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go-env",
+  "pkg_family": "missinggo",
+  "pkg_id": "go-env#github.com_anacrolix_missinggo",
+  "pkg_name": "go-env",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anacrolix/missinggo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff that_s missing in Go stdlib, or hasn_t made it into its own repo.",
+  "homepage": [
+    "https://github.com/anacrolix/missinggo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "filecache",
+    "gd",
+    "go-env",
+    "http-file-server",
+    "jenny",
+    "nop",
+    "query-escape",
+    "query-unescape"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anacrolix/missinggo/archive/aa4691b19d564e034cae5b149bd0f7e647607a04.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aa4691b-250626T223431",
+  "version_upstream": "",
+  "bsum": "a4e91618700634b57e99dddabb4c6172f3dbc64d8dd27bbe7c57cd33647c5570",
+  "build_date": "2025-06-26T16:14:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906549083",
+  "build_id": "15906549083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/go-env?tag=HEAD-aa4691b-250626T223431-aarch64-Linux&download=go-env.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "85",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/go-env?tag=HEAD-aa4691b-250626T223431-aarch64-Linux&download=go-env",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anacrolix/missinggo/go-env:HEAD-aa4691b-250626T223431-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anacrolix/missinggo/go-env",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anacrolix/missinggo/go-env?tag=HEAD-aa4691b-250626T223431-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e418adaa16c6dd5d3cca2610e19b829da6a359f7b224c54546c2affa58dbc2e",
+  "size": "1.6 MB",
+  "size_raw": "1634936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
