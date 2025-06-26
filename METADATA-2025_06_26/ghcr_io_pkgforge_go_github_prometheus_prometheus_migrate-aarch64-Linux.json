@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "migrate",
+  "pkg_family": "prometheus",
+  "pkg_id": "migrate#github.com_prometheus_prometheus",
+  "pkg_name": "migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Prometheus monitoring system and time series database.",
+  "homepage": [
+    "https://github.com/prometheus/prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/prometheus/archive/5b7ff92d95a16ebbf23764982167e8b02be8a28a.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+  ],
+  "version": "HEAD-5b7ff92-250625T133743",
+  "version_upstream": "",
+  "bsum": "ee749f3eea3270802a799436395fec018acac7de21c363d61548a8194b1d2139",
+  "build_date": "2025-06-26T00:27:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888120977",
+  "build_id": "15888120977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-5b7ff92-250625T133743-aarch64-Linux&download=migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59145",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-5b7ff92-250625T133743-aarch64-Linux&download=migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/migrate:HEAD-5b7ff92-250625T133743-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-5b7ff92-250625T133743-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce3629cbf9b7ac1cf9d9bd0cd67c7c0ad566cd01f311eb84c936e9c8ceae9072",
+  "size": "15 MB",
+  "size_raw": "15593792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c701636-250620T130902-aarch64-Linux",
+    "HEAD-d668382-250621T094907-aarch64-Linux",
+    "HEAD-8ed37d3-250623T005608-aarch64-Linux",
+    "HEAD-bdada23-250624T122006-aarch64-Linux",
+    "HEAD-31e158b-250624T215255-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
