@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kratix-cmd",
+  "pkg_family": "kratix",
+  "pkg_id": "kratix-cmd#github.com_syntasso_kratix",
+  "pkg_name": "kratix-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/syntasso/kratix",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kratix is an open-source framework for building platforms",
+  "homepage": [
+    "https://github.com/syntasso/kratix"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kratix-cmd",
+    "reader",
+    "update-status",
+    "work-creator",
+    "worker-resource-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/syntasso/kratix/archive/49f9960151994f73a63ef1772e4612ffc3dc4702.tar.gz"
+  ],
+  "tag": [
+    "framework",
+    "kubernetes",
+    "platform",
+    "product",
+    "promise"
+  ],
+  "version": "HEAD-49f9960-250625T123018",
+  "version_upstream": "latest",
+  "bsum": "fe887c3251a80e3037f15a78461c67d709f80b1791b10d3d029b120771c60b6d",
+  "build_date": "2025-06-26T03:53:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891866562",
+  "build_id": "15891866562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/kratix-cmd?tag=HEAD-49f9960-250625T123018-aarch64-Linux&download=kratix-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "602",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/kratix-cmd?tag=HEAD-49f9960-250625T123018-aarch64-Linux&download=kratix-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/syntasso/kratix/kratix-cmd:HEAD-49f9960-250625T123018-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/syntasso/kratix/kratix-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/kratix-cmd?tag=HEAD-49f9960-250625T123018-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3968ef7180f5c2a903fbe2ad47d59ec8d65dac1c7ae6853d66307e8b4e4abf41",
+  "size": "60 MB",
+  "size_raw": "61996992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fb06299-250624T103157-aarch64-Linux[latest]"
+  ],
+  "trusted": "true"
+}
