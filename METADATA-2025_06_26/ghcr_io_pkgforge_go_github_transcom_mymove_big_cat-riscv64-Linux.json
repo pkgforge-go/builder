@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "big-cat",
+  "pkg_family": "mymove",
+  "pkg_id": "big-cat#github.com_transcom_mymove",
+  "pkg_name": "big-cat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/89e831e0d6c54f2c21f8b91c775888924c589e50.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-89e831e-250625T144124",
+  "version_upstream": "",
+  "bsum": "a376d37bdf293ce11498acdb585518fd992abbcef4894c896066b22ee98460b9",
+  "build_date": "2025-06-26T12:35:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899298232",
+  "build_id": "15899298232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/big-cat?tag=HEAD-89e831e-250625T144124-riscv64-Linux&download=big-cat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/big-cat?tag=HEAD-89e831e-250625T144124-riscv64-Linux&download=big-cat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/big-cat:HEAD-89e831e-250625T144124-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/big-cat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/big-cat?tag=HEAD-89e831e-250625T144124-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa5c37e626c00a0d5041eb57f002b0ee182905c46674deb7077263112c6ed9de",
+  "size": "20 MB",
+  "size_raw": "20818264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c66fc5-250623T170730-riscv64-Linux",
+    "HEAD-fca2d91-250624T151221-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
