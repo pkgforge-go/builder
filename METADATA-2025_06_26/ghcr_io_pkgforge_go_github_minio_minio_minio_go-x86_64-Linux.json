@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "minio-go",
+  "pkg_family": "minio",
+  "pkg_id": "minio-go#github.com_minio_minio",
+  "pkg_name": "minio-go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/minio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+  "homepage": [
+    "https://github.com/minio/minio"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hash-set",
+    "healing-bin",
+    "minio",
+    "minio-go",
+    "s3-check-md5",
+    "xl-meta"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minio/minio/archive/2718d9a430fb2c9db1c41536ccd28717b0c1435d.tar.gz"
+  ],
+  "tag": [
+    "amazon-s3",
+    "cloud",
+    "cloudnative",
+    "cloudstorage",
+    "go",
+    "k8s",
+    "kubernetes",
+    "multi-cloud",
+    "multi-cloud-kubernetes",
+    "objectstorage",
+    "s3",
+    "storage"
+  ],
+  "version": "HEAD-2718d9a-250625T080854",
+  "version_upstream": "",
+  "bsum": "8c298a67239804d1580bdad5fc7bd8acfd64d05121e14fec3f338f8bbce5f504",
+  "build_date": "2025-06-26T14:19:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903156276",
+  "build_id": "15903156276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/minio-go?tag=HEAD-2718d9a-250625T080854-x86_64-Linux&download=minio-go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53336",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/minio-go?tag=HEAD-2718d9a-250625T080854-x86_64-Linux&download=minio-go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/minio/minio-go:HEAD-2718d9a-250625T080854-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/minio/minio-go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/minio-go?tag=HEAD-2718d9a-250625T080854-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06baf7cc118d7a99a3e4cbbe598217f866c7e6af042858223c6462332eed6d28",
+  "size": "8.1 MB",
+  "size_raw": "8395344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a6c538c-250613T043347-x86_64-Linux",
+    "HEAD-e0c79be-250623T202838-x86_64-Linux",
+    "HEAD-a65292c-250624T173322-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
