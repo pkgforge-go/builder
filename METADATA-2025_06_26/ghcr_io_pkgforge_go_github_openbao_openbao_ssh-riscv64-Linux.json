@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ssh",
+  "pkg_family": "openbao",
+  "pkg_id": "ssh#github.com_openbao_openbao",
+  "pkg_name": "ssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openbao/openbao",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "homepage": [
+    "https://github.com/openbao/openbao"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approle",
+    "cassandra-database-plugin",
+    "cert",
+    "codechecker",
+    "influxdb-database-plugin",
+    "jwt",
+    "kerberos",
+    "kubeclient",
+    "kubernetes",
+    "kv",
+    "ldap",
+    "login-kerb",
+    "mysql-database-plugin",
+    "mysql-legacy-database-plugin",
+    "openbao",
+    "openldap",
+    "pki",
+    "postgresql-database-plugin",
+    "rabbitmq",
+    "radius",
+    "ssh",
+    "test-app",
+    "tools",
+    "totp",
+    "transit",
+    "userpass",
+    "valkey-database-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openbao/openbao/archive/29ebb4a0104acbabe26c43df3e468cfcc0cd6886.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "version": "HEAD-29ebb4a-250625T163949",
+  "version_upstream": "",
+  "bsum": "c05f2f4bb3aa04174902fdb8e825c169ea27700a32e91bbb33697ca671327c2d",
+  "build_date": "2025-06-26T11:43:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898993909",
+  "build_id": "15898993909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/ssh?tag=HEAD-29ebb4a-250625T163949-riscv64-Linux&download=ssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/ssh?tag=HEAD-29ebb4a-250625T163949-riscv64-Linux&download=ssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openbao/openbao/ssh:HEAD-29ebb4a-250625T163949-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openbao/openbao/ssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/ssh?tag=HEAD-29ebb4a-250625T163949-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d04a94ce2274219fcb2dbf6fa2570a1c83824f27eda4e207789654b8a6b0ef3",
+  "size": "17 MB",
+  "size_raw": "17799480",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a553e51-250624T184911-riscv64-Linux",
+    "HEAD-cf5e920-250625T103521-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
