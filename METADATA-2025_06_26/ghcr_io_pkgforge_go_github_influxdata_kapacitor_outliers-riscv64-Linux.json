@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "outliers",
+  "pkg_family": "kapacitor",
+  "pkg_id": "outliers#github.com_influxdata_kapacitor",
+  "pkg_name": "outliers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/influxdata/kapacitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source framework for processing, monitoring, and alerting on time series data",
+  "homepage": [
+    "https://github.com/influxdata/kapacitor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mirror",
+    "moving_avg",
+    "outliers",
+    "tickdoc",
+    "tickfmt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/influxdata/kapacitor/archive/c5848b64d04a1dc4039611491891dd06872ef348.tar.gz"
+  ],
+  "tag": [
+    "kapacitor",
+    "monitoring",
+    "time-series"
+  ],
+  "version": "HEAD-c5848b6-250626T124729",
+  "version_upstream": "v1.8.0",
+  "bsum": "6ec757e075778b9f461e01e3f731e7af9492f6c5c08e22ea0bcf9b8fc031d805",
+  "build_date": "2025-06-26T16:57:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906894336",
+  "build_id": "15906894336",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/kapacitor/outliers?tag=HEAD-c5848b6-250626T124729-riscv64-Linux&download=outliers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2347",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/kapacitor/outliers?tag=HEAD-c5848b6-250626T124729-riscv64-Linux&download=outliers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/influxdata/kapacitor/outliers:HEAD-c5848b6-250626T124729-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/influxdata/kapacitor/outliers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/influxdata/kapacitor/outliers?tag=HEAD-c5848b6-250626T124729-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f43ccbffaad0ad0704bf649cc3b8950ca70777ca145284666cd54993324626fa",
+  "size": "3.6 MB",
+  "size_raw": "3752584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
