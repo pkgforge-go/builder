@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test_vfs",
+  "pkg_family": "rclone",
+  "pkg_id": "test_vfs#github.com_rclone_rclone",
+  "pkg_name": "test_vfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rclone/rclone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_rsync for cloud storage_ - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+  "homepage": [
+    "https://github.com/rclone/rclone"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build_csv",
+    "gen",
+    "librclone",
+    "rclone",
+    "rclone-bin",
+    "test_all",
+    "test_vfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rclone/rclone/archive/e10f516a5e2f748eed4a479548a18f2215b3350b.tar.gz"
+  ],
+  "tag": [
+    "azure-blob",
+    "azure-blob-storage",
+    "azure-files",
+    "backblaze-b2",
+    "cloud-storage",
+    "dropbox",
+    "encryption",
+    "ftp",
+    "fuse-filesystem",
+    "go",
+    "golang",
+    "google-cloud-storage",
+    "google-drive",
+    "onedrive",
+    "openstack-swift",
+    "rclone",
+    "s3",
+    "sftp",
+    "sync",
+    "webdav"
+  ],
+  "version": "HEAD-e10f516-250625T111950",
+  "version_upstream": "",
+  "bsum": "802424721d73149c048230ea55cb33ce6d8f5cb640e0666f00e0a7c8c653819c",
+  "build_date": "2025-06-26T00:29:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888123540",
+  "build_id": "15888123540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rclone/rclone/test_vfs?tag=HEAD-e10f516-250625T111950-riscv64-Linux&download=test_vfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rclone/rclone/test_vfs?tag=HEAD-e10f516-250625T111950-riscv64-Linux&download=test_vfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rclone/rclone/test_vfs:HEAD-e10f516-250625T111950-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rclone/rclone/test_vfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rclone/rclone/test_vfs?tag=HEAD-e10f516-250625T111950-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a12a2c86276571239b7a26ad338f50ed00d740cfa0ef5d415568d4d1dad9d83",
+  "size": "4.4 MB",
+  "size_raw": "4544664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c38ca6b-250620T182736-riscv64-Linux",
+    "HEAD-92f30fd-250624T150445-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
