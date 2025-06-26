@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "conduit",
+  "pkg_family": "conduit",
+  "pkg_id": "conduit#github.com_ConduitIO_conduit",
+  "pkg_name": "conduit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ConduitIO/conduit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Conduit streams data between data stores. Kafka Connect replacement. No JVM required.",
+  "homepage": [
+    "https://github.com/ConduitIO/conduit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conduit",
+    "testplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ConduitIO/conduit/archive/53d7a8397732fffc2f021c69bc009436bbd0e8e5.tar.gz"
+  ],
+  "tag": [
+    "conduit",
+    "data-engineering",
+    "data-integration",
+    "data-pipeline",
+    "data-stream",
+    "etl",
+    "go",
+    "kafka",
+    "kafkaconnect"
+  ],
+  "version": "HEAD-53d7a83-250626T100154",
+  "version_upstream": "",
+  "bsum": "a6f7460250e0fad86c275d624d4b4838b6936cb0dd410371f6a7b451f51df28a",
+  "build_date": "2025-06-26T21:59:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913204081",
+  "build_id": "15913204081",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conduitio/conduit/conduit?tag=HEAD-53d7a83-250626T100154-riscv64-Linux&download=conduit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "531",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conduitio/conduit/conduit?tag=HEAD-53d7a83-250626T100154-riscv64-Linux&download=conduit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/conduitio/conduit/conduit:HEAD-53d7a83-250626T100154-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/conduitio/conduit/conduit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conduitio/conduit/conduit?tag=HEAD-53d7a83-250626T100154-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5488a56a85222966ec57190a33cd76126267c734e0b2ea0f352eac4f5ded8d20",
+  "size": "66 MB",
+  "size_raw": "69174776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2b3ae37-250619T071206-riscv64-Linux",
+    "HEAD-d4767eb-250623T104728-riscv64-Linux",
+    "HEAD-ab3ae14-250625T094003-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
