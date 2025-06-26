@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gui",
+  "pkg_family": "blog",
+  "pkg_id": "gui#github.com_3052_blog",
+  "pkg_name": "gui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/3052/blog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/3052/blog"
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "file-serve",
+    "git-board",
+    "git-readdir",
+    "gui",
+    "json-indent",
+    "kitchen-time",
+    "laundry",
+    "mitmproxy-cert",
+    "net-http",
+    "password",
+    "touch",
+    "video-to-image",
+    "year",
+    "youtube-views"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/3052/blog/archive/01b46b74e0d36d382db497b54317c179e4a154bf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-01b46b7-250625T063034",
+  "version_upstream": "",
+  "bsum": "b837ec8b2523c12d7e6e8d2a02250fd6a0fc2d693ff9a1a1044e5dba6f96f91c",
+  "build_date": "2025-06-26T02:18:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891362876",
+  "build_id": "15891362876",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/blog/gui?tag=HEAD-01b46b7-250625T063034-aarch64-Linux&download=gui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/blog/gui?tag=HEAD-01b46b7-250625T063034-aarch64-Linux&download=gui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/3052/blog/gui:HEAD-01b46b7-250625T063034-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/3052/blog/gui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/blog/gui?tag=HEAD-01b46b7-250625T063034-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03530270c97e3303b0dcd0b528e5c99c642e462d7da22c170f586d3ee6243f91",
+  "size": "1.6 MB",
+  "size_raw": "1624344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bcc7d3b-250620T155508-aarch64-Linux",
+    "HEAD-0ec12cc-250622T115304-aarch64-Linux",
+    "HEAD-01b46b7-250625T063034-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
