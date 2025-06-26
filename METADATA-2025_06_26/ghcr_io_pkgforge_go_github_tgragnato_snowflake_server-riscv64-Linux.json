@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "snowflake",
+  "pkg_id": "server#github.com_tgragnato_snowflake",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tgragnato/snowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "WebRTC Pluggable Transport",
+  "homepage": [
+    "https://github.com/tgragnato/snowflake"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "broker",
+    "client",
+    "probetest",
+    "proxy",
+    "server",
+    "sqscreds"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tgragnato/snowflake/archive/b92484d4c5611d2c652e21770fd61fe2897f3374.tar.gz"
+  ],
+  "tag": [
+    "censorship-circumvention",
+    "dtls",
+    "pion-dtls",
+    "pion-webrtc",
+    "pluggable-transports",
+    "stun",
+    "webrtc"
+  ],
+  "version": "HEAD-b92484d-250625T132258",
+  "version_upstream": "",
+  "bsum": "db151f884164b2323a6e3fe218f6507688af232531c414ac078d87ca8f7bce2c",
+  "build_date": "2025-06-26T00:43:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888156179",
+  "build_id": "15888156179",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgragnato/snowflake/server?tag=HEAD-b92484d-250625T132258-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgragnato/snowflake/server?tag=HEAD-b92484d-250625T132258-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tgragnato/snowflake/server:HEAD-b92484d-250625T132258-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tgragnato/snowflake/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgragnato/snowflake/server?tag=HEAD-b92484d-250625T132258-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c01858db977d866ee8c484314c5d0c03e1e6f686a8b11d2f55697db4d990a42",
+  "size": "8.5 MB",
+  "size_raw": "8895576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e75e313-250623T182812-riscv64-Linux",
+    "HEAD-deb09cc-250624T123407-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
