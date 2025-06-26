@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stats",
+  "pkg_family": "kubearchive",
+  "pkg_id": "stats#github.com_kubearchive_kubearchive",
+  "pkg_name": "stats",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubearchive/kubearchive",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubearchive/kubearchive"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "hack",
+    "merge",
+    "metrics",
+    "stats"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubearchive/kubearchive/archive/a15f7cfa9a52f8c98dcc6879fd11bbdbc5435334.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a15f7cf-250625T233249",
+  "version_upstream": "",
+  "bsum": "ae50eb6bd1aed5ad0a9866ebc6073aa2943ab0a2fae14c9b3b2c1515846d6d05",
+  "build_date": "2025-06-26T11:15:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898934730",
+  "build_id": "15898934730",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubearchive/kubearchive/stats?tag=HEAD-a15f7cf-250625T233249-aarch64-Linux&download=stats.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubearchive/kubearchive/stats?tag=HEAD-a15f7cf-250625T233249-aarch64-Linux&download=stats",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubearchive/kubearchive/stats:HEAD-a15f7cf-250625T233249-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubearchive/kubearchive/stats",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubearchive/kubearchive/stats?tag=HEAD-a15f7cf-250625T233249-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44475924582982215e5fbd5c305815c8a96163e0faa229de5ba56973ab5409a0",
+  "size": "2.0 MB",
+  "size_raw": "2005304",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-66c3e57-250620T130152-aarch64-Linux",
+    "HEAD-05bc7cf-250625T144110-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
