@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "release-builder",
+  "pkg_family": "release-builder",
+  "pkg_id": "release-builder#github.com_istio_release_builder",
+  "pkg_name": "release-builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/istio/release-builder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Builds istio releases in a hermetic and reproducible environment",
+  "homepage": [
+    "https://github.com/istio/release-builder"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "release-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/istio/release-builder/archive/a225119f591676b93c973b61272d97113d031dff.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a225119-250626T083919",
+  "version_upstream": "",
+  "bsum": "55c3a901b422f9e7f75d916cbfd54b45f1516bc4fce9eab44149c3077d821a09",
+  "build_date": "2025-06-26T17:04:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907006188",
+  "build_id": "15907006188",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/release-builder/release-builder?tag=HEAD-a225119-250626T083919-riscv64-Linux&download=release-builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/release-builder/release-builder?tag=HEAD-a225119-250626T083919-riscv64-Linux&download=release-builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/istio/release-builder/release-builder:HEAD-a225119-250626T083919-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/istio/release-builder/release-builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/istio/release-builder/release-builder?tag=HEAD-a225119-250626T083919-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "84fb17082a1484488dd1b37e34c36c276f07251e380e516af11308fd79ac0895",
+  "size": "39 MB",
+  "size_raw": "40646552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
