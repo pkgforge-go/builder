@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "appliance-cmd",
+  "pkg_family": "appliance",
+  "pkg_id": "appliance-cmd#github.com_openshift_appliance",
+  "pkg_name": "appliance-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/appliance",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenShift-based Appliance Builder",
+  "homepage": [
+    "https://github.com/openshift/appliance"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appliance-cmd",
+    "registry"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/appliance/archive/382f8a12624e8b2cace38593940aec2672d6898d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-382f8a1-250625T221129",
+  "version_upstream": "",
+  "bsum": "f85c4e57ca0f489eb50f762818ae3dc8d3ff34294294371dad683f211dd3550c",
+  "build_date": "2025-06-26T11:38:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899005465",
+  "build_id": "15899005465",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/appliance/appliance-cmd?tag=HEAD-382f8a1-250625T221129-x86_64-Linux&download=appliance-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/appliance/appliance-cmd?tag=HEAD-382f8a1-250625T221129-x86_64-Linux&download=appliance-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/appliance/appliance-cmd:HEAD-382f8a1-250625T221129-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/appliance/appliance-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/appliance/appliance-cmd?tag=HEAD-382f8a1-250625T221129-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bb4c671fb6b5d4efdfe2ccaf9c6c47763f3f5d3c0bfb479a797d206eb7b5818",
+  "size": "118 MB",
+  "size_raw": "123135600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ff58d75-250622T124657-x86_64-Linux",
+    "HEAD-5313672-250622T231703-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
