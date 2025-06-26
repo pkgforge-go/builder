@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "euclidean",
+  "pkg_family": "semadb",
+  "pkg_id": "euclidean#github.com_Semafind_semadb",
+  "pkg_name": "euclidean",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Semafind/semadb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No fuss multi-index hybrid vector database / search engine",
+  "homepage": [
+    "https://github.com/Semafind/semadb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dot",
+    "dumpgraph",
+    "dumpkeys",
+    "euclidean",
+    "generatejsonschema",
+    "healthcheck",
+    "loadrand",
+    "migratev1-v2",
+    "semadb",
+    "shardpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Semafind/semadb/archive/41b809fd05cdda4e60fe6f558d9ac2569f8d2017.tar.gz"
+  ],
+  "tag": [
+    "search-engine",
+    "vector-database"
+  ],
+  "version": "HEAD-41b809f-250626T104617",
+  "version_upstream": "v2.0.4",
+  "bsum": "6b6fd992a36b3f9246bec7b99e4d3c330fc7913a6d1859aed42a89e83f59bdee",
+  "build_date": "2025-06-26T16:08:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906509968",
+  "build_id": "15906509968",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/euclidean?tag=HEAD-41b809f-250626T104617-riscv64-Linux&download=euclidean.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/euclidean?tag=HEAD-41b809f-250626T104617-riscv64-Linux&download=euclidean",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/semafind/semadb/euclidean:HEAD-41b809f-250626T104617-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/semafind/semadb/euclidean",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/euclidean?tag=HEAD-41b809f-250626T104617-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c43d6e1d81a7aac4f15d57a4516863e635ab1e1764f8ed1ccc542da0de50b8b0",
+  "size": "5.0 MB",
+  "size_raw": "5179256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
