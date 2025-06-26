@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dusk",
+  "pkg_family": "serviceradar",
+  "pkg_id": "dusk#github.com_carverauto_serviceradar",
+  "pkg_name": "dusk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/carverauto/serviceradar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "simple golang-based distributed network monitoring",
+  "homepage": [
+    "https://github.com/carverauto/serviceradar"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "cli",
+    "core",
+    "db-event-writer",
+    "device",
+    "dusk",
+    "faker",
+    "kv",
+    "mapper",
+    "netflow",
+    "poller",
+    "snmp",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/carverauto/serviceradar/archive/0e6996a49c8954b4152aafa442e5bac21d332899.tar.gz"
+  ],
+  "tag": [
+    "distributed",
+    "dusk",
+    "golang",
+    "homelab",
+    "monitoring-tool",
+    "network-monitoring-tool",
+    "network-scanning",
+    "ubiquiti"
+  ],
+  "version": "HEAD-0e6996a-250625T184454",
+  "version_upstream": "",
+  "bsum": "d69fe8c5172cf3e05ba8bdde6db5fc55f0d618e0c65de25faa5f1837107e971c",
+  "build_date": "2025-06-26T10:21:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898689395",
+  "build_id": "15898689395",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/dusk?tag=HEAD-0e6996a-250625T184454-loongarch64-Linux&download=dusk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "185",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/dusk?tag=HEAD-0e6996a-250625T184454-loongarch64-Linux&download=dusk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carverauto/serviceradar/dusk:HEAD-0e6996a-250625T184454-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/carverauto/serviceradar/dusk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carverauto/serviceradar/dusk?tag=HEAD-0e6996a-250625T184454-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4fd67c1e85e825ace27d712ee59de96b485d80ba55bb9d57bee87c1069a9fb10",
+  "size": "14 MB",
+  "size_raw": "14319840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a5aa35-250619T221913-loongarch64-Linux[1.0.44-pre6]",
+    "HEAD-5801ebc-250622T001603-loongarch64-Linux",
+    "HEAD-ccee178-250622T224418-loongarch64-Linux",
+    "HEAD-a10bc18-250623T085417-loongarch64-Linux[1.0.44-pre10]",
+    "HEAD-60b0643-250623T222039-loongarch64-Linux",
+    "HEAD-c49694d-250624T181448-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
