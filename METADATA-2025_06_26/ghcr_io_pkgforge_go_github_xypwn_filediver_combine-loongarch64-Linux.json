@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "combine",
+  "pkg_family": "filediver",
+  "pkg_id": "combine#github.com_xypwn_filediver",
+  "pkg_name": "combine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xypwn/filediver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Extract Helldivers 2_s 3D models, audio, video, textures and more.",
+  "homepage": [
+    "https://github.com/xypwn/filediver"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "animation-name-dumper",
+    "combine",
+    "crossref-checker",
+    "filediver-cli",
+    "hash-tool",
+    "hd2grep",
+    "physics-name-dumper",
+    "wwise_streams"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xypwn/filediver/archive/d1478741d87c4d3ade6ba7362ba33a8b67cb2af9.tar.gz"
+  ],
+  "tag": [
+    "extractor",
+    "game-files",
+    "go",
+    "golang",
+    "helldivers-2",
+    "helldivers2",
+    "stingray",
+    "stingray-engine"
+  ],
+  "version": "HEAD-d147874-250625T135631",
+  "version_upstream": "v0.6.7",
+  "bsum": "a0cce655e412ba53fd40298dbce6a18134f5e9e5d263ffc3ba8e0fca731cb4c3",
+  "build_date": "2025-06-26T00:53:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888212000",
+  "build_id": "15888212000",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/combine?tag=HEAD-d147874-250625T135631-loongarch64-Linux&download=combine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "64",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/combine?tag=HEAD-d147874-250625T135631-loongarch64-Linux&download=combine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xypwn/filediver/combine:HEAD-d147874-250625T135631-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xypwn/filediver/combine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/combine?tag=HEAD-d147874-250625T135631-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f6f5d2857190aa1d2d1a5a93c6cdd56cfa21acdb040d7b90fe557c16ec51da01",
+  "size": "5.7 MB",
+  "size_raw": "5949216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-21a4951-250622T134338-loongarch64-Linux[v0.6.6]"
+  ],
+  "trusted": "true"
+}
