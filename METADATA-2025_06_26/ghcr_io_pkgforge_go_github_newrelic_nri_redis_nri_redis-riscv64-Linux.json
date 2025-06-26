@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nri-redis",
+  "pkg_family": "nri-redis",
+  "pkg_id": "nri-redis#github.com_newrelic_nri_redis",
+  "pkg_name": "nri-redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-redis",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "New Relic Infrastructure Redis Integration",
+  "homepage": [
+    "https://github.com/newrelic/nri-redis"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nri-redis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-redis/archive/9d345330609dfeac8f3de74086bb17db49992dd2.tar.gz"
+  ],
+  "tag": [
+    "infrastructure",
+    "integrations",
+    "metrics",
+    "monitoring",
+    "newrelic",
+    "redis"
+  ],
+  "version": "HEAD-9d34533-250626T173815",
+  "version_upstream": "",
+  "bsum": "bb6703901513bf33b297b06eb27b784206cc70fdd5c80c2ce0be841040d08cce",
+  "build_date": "2025-06-26T17:37:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907760358",
+  "build_id": "15907760358",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-redis/nri-redis?tag=HEAD-9d34533-250626T173815-riscv64-Linux&download=nri-redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-redis/nri-redis?tag=HEAD-9d34533-250626T173815-riscv64-Linux&download=nri-redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-redis/nri-redis:HEAD-9d34533-250626T173815-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-redis/nri-redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-redis/nri-redis?tag=HEAD-9d34533-250626T173815-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "545d9cf131cd6c5a2c817be641633109f8257116b279bf0eb878731ed20ce295",
+  "size": "5.2 MB",
+  "size_raw": "5352888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
