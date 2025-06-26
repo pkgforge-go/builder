@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gexec-server",
+  "pkg_family": "gexec",
+  "pkg_id": "gexec-server#github.com_gexec_gexec",
+  "pkg_name": "gexec-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gexec/gexec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generic execution platform for Ansible/OpenTofu/Terraform",
+  "homepage": [
+    "https://github.com/gexec/gexec"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gexec-client",
+    "gexec-runner",
+    "gexec-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gexec/gexec/archive/cb14b0c46507f08fe887b3b29f812b4d0f510e27.tar.gz"
+  ],
+  "tag": [
+    "ansible",
+    "gexec",
+    "opentofu",
+    "terraform"
+  ],
+  "version": "HEAD-cb14b0c-250625T114715",
+  "version_upstream": "",
+  "bsum": "fb0917a53622fd0523b39416d7d23c6a9be353220968ccf375057e8e507d3ab3",
+  "build_date": "2025-06-26T03:04:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891434470",
+  "build_id": "15891434470",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gexec/gexec/gexec-server?tag=HEAD-cb14b0c-250625T114715-aarch64-Linux&download=gexec-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gexec/gexec/gexec-server?tag=HEAD-cb14b0c-250625T114715-aarch64-Linux&download=gexec-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gexec/gexec/gexec-server:HEAD-cb14b0c-250625T114715-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gexec/gexec/gexec-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gexec/gexec/gexec-server?tag=HEAD-cb14b0c-250625T114715-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "de408cc0ba353dd42826bf44a4e825eee19d0a13f426ce2d1b4e159be5a66aa1",
+  "size": "35 MB",
+  "size_raw": "36108864",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b05d46b-250619T102103-aarch64-Linux",
+    "HEAD-fe6a08c-250623T031952-aarch64-Linux",
+    "HEAD-9207233-250623T083251-aarch64-Linux",
+    "HEAD-f205d6d-250624T142132-aarch64-Linux",
+    "HEAD-54d8037-250624T210733-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
