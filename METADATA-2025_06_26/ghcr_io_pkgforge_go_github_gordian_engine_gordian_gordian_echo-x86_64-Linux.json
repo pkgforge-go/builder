@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gordian-echo",
+  "pkg_family": "gordian",
+  "pkg_id": "gordian-echo#github.com_gordian_engine_gordian",
+  "pkg_name": "gordian-echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gordian-engine/gordian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modular, byzantine-fault-tolerant consensus engine",
+  "homepage": [
+    "https://github.com/gordian-engine/gordian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-nodebug",
+    "gordian-echo",
+    "gordian-stress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gordian-engine/gordian/archive/4ce31cd99df43112924bcbe85eada4dd7b6d0183.tar.gz"
+  ],
+  "tag": [
+    "bft",
+    "consensus",
+    "go",
+    "gordian"
+  ],
+  "version": "HEAD-4ce31cd-250625T144022",
+  "version_upstream": "",
+  "bsum": "7b0ee1ee8bfa100fdc33dd6428b4b1f4532ffb6893f264cc5bab2d11938f51ce",
+  "build_date": "2025-06-26T07:57:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895246054",
+  "build_id": "15895246054",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gordian-engine/gordian/gordian-echo?tag=HEAD-4ce31cd-250625T144022-x86_64-Linux&download=gordian-echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gordian-engine/gordian/gordian-echo?tag=HEAD-4ce31cd-250625T144022-x86_64-Linux&download=gordian-echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gordian-engine/gordian/gordian-echo:HEAD-4ce31cd-250625T144022-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gordian-engine/gordian/gordian-echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gordian-engine/gordian/gordian-echo?tag=HEAD-4ce31cd-250625T144022-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81b5dbf93bbe23a6dd2168aaa9cc71a1c76bc9fe8769e686589caccd77d48a5f",
+  "size": "34 MB",
+  "size_raw": "35646336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
