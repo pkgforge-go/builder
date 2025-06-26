@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "admission",
+  "pkg_family": "slurm-bridge",
+  "pkg_id": "admission#github.com_SlinkyProject_slurm_bridge",
+  "pkg_name": "admission",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SlinkyProject/slurm-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm as a Kubernetes scheduler. A Slinky project.",
+  "homepage": [
+    "https://github.com/SlinkyProject/slurm-bridge"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "controllers",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SlinkyProject/slurm-bridge/archive/a27be197a2c7f5ec4c854041e600be02966f29ff.tar.gz"
+  ],
+  "tag": [
+    "hpc",
+    "kubernetes",
+    "scheduler",
+    "slinky",
+    "slurm"
+  ],
+  "version": "HEAD-a27be19-250625T142214",
+  "version_upstream": "",
+  "bsum": "7a99fa3b4a52ad1d23d20b5832b893a15c9297fcb270404fc3088a2a1cc155a9",
+  "build_date": "2025-06-26T07:15:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895111490",
+  "build_id": "15895111490",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-bridge/admission?tag=HEAD-a27be19-250625T142214-x86_64-Linux&download=admission.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-bridge/admission?tag=HEAD-a27be19-250625T142214-x86_64-Linux&download=admission",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slinkyproject/slurm-bridge/admission:HEAD-a27be19-250625T142214-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slinkyproject/slurm-bridge/admission",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-bridge/admission?tag=HEAD-a27be19-250625T142214-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "15d3e7cdf4c6ebfdc75ae54e4b98536c263e2fa75ef67ca057cbef3ce2937456",
+  "size": "44 MB",
+  "size_raw": "45700320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
