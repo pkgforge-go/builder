@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "json-schema",
+  "pkg_family": "numaflow",
+  "pkg_id": "json-schema#github.com_numaproj_numaflow",
+  "pkg_name": "json-schema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/numaproj/numaflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-native platform to run massively parallel data/streaming jobs",
+  "homepage": [
+    "https://github.com/numaproj/numaflow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdgen",
+    "e2e-api",
+    "gen-openapi-spec",
+    "json-schema",
+    "numaflow-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/numaproj/numaflow/archive/6de4709646d905be013e8749720b2728ba527f3f.tar.gz"
+  ],
+  "tag": [
+    "data-processing",
+    "hacktoberfest",
+    "k8s",
+    "kubernetes",
+    "map-reduce",
+    "pipeline",
+    "stream-processing"
+  ],
+  "version": "HEAD-6de4709-250626T140610",
+  "version_upstream": "",
+  "bsum": "b584f4c91fde6ec0578cf6c33e954fcc8175fb00d0fa18f0af4165c5220a21db",
+  "build_date": "2025-06-26T23:53:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913402585",
+  "build_id": "15913402585",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/json-schema?tag=HEAD-6de4709-250626T140610-riscv64-Linux&download=json-schema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1888",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/json-schema?tag=HEAD-6de4709-250626T140610-riscv64-Linux&download=json-schema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/numaproj/numaflow/json-schema:HEAD-6de4709-250626T140610-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/numaproj/numaflow/json-schema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/json-schema?tag=HEAD-6de4709-250626T140610-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "af77f34e3e86df6958e96be2d27724952ec1db3bf550f824a6b3b08028bccb09",
+  "size": "1.9 MB",
+  "size_raw": "1946280",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c4fecf3-250621T021905-riscv64-Linux",
+    "HEAD-29eb00f-250623T112113-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
