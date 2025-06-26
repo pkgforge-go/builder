@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pingpong",
+  "pkg_family": "matrixone",
+  "pkg_id": "pingpong#github.com_matrixorigin_matrixone",
+  "pkg_name": "pingpong",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrixorigin/matrixone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperconverged cloud-edge native database",
+  "homepage": [
+    "https://github.com/matrixorigin/matrixone"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "goyacc",
+    "pingpong",
+    "stream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrixorigin/matrixone/archive/b0884fc745b4b4d0abe0362756b3f853cfaa8fb2.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "go",
+    "htap",
+    "hyperconverged",
+    "olap",
+    "one-size-fits-all",
+    "sql",
+    "streaming"
+  ],
+  "version": "HEAD-b0884fc-250625T121755",
+  "version_upstream": "",
+  "bsum": "20358ff3672bdfef39f09b4456e79b3e371858ae0c6fe463dcb656eb79030395",
+  "build_date": "2025-06-26T03:27:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891518404",
+  "build_id": "15891518404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/pingpong?tag=HEAD-b0884fc-250625T121755-x86_64-Linux&download=pingpong.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1839",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/pingpong?tag=HEAD-b0884fc-250625T121755-x86_64-Linux&download=pingpong",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrixorigin/matrixone/pingpong:HEAD-b0884fc-250625T121755-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrixorigin/matrixone/pingpong",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/pingpong?tag=HEAD-b0884fc-250625T121755-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c8ad52a8cf4216b077bdc8d868e64aaa4ede75d4d6b484a296d515790acf54e",
+  "size": "11 MB",
+  "size_raw": "10877024",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e4b3e25-250620T091422-x86_64-Linux",
+    "HEAD-52844ed-250623T090421-x86_64-Linux",
+    "HEAD-eae3df9-250624T121119-x86_64-Linux",
+    "HEAD-a526248-250625T024516-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
