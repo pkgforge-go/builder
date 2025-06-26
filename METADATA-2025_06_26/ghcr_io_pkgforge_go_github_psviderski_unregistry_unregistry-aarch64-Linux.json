@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "unregistry",
+  "pkg_family": "unregistry",
+  "pkg_id": "unregistry#github.com_psviderski_unregistry",
+  "pkg_name": "unregistry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/psviderski/unregistry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Push docker images directly to remote servers without an external registry",
+  "homepage": [
+    "https://github.com/psviderski/unregistry"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "unregistry"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/psviderski/unregistry/archive/d4e1e203ac0168c5026e4cb24ecb55cd852bb25e.tar.gz"
+  ],
+  "tag": [
+    "containerd",
+    "docker",
+    "golang",
+    "kubernetes",
+    "oci",
+    "registry"
+  ],
+  "version": "HEAD-d4e1e20-250625T191206",
+  "version_upstream": "",
+  "bsum": "58fc79e6d72f750cdcf3dd2ac7c15e10803a98b5d475f1d56b693b846523214e",
+  "build_date": "2025-06-26T03:33:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891664654",
+  "build_id": "15891664654",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/unregistry/unregistry?tag=HEAD-d4e1e20-250625T191206-aarch64-Linux&download=unregistry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2578",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/unregistry/unregistry?tag=HEAD-d4e1e20-250625T191206-aarch64-Linux&download=unregistry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psviderski/unregistry/unregistry:HEAD-d4e1e20-250625T191206-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psviderski/unregistry/unregistry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/unregistry/unregistry?tag=HEAD-d4e1e20-250625T191206-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98caf209116f620a8a3a1072ee06fbca3df82594def89ef305e906e24ecc7d3f",
+  "size": "27 MB",
+  "size_raw": "27775584",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f9d6584-250620T133841-aarch64-Linux",
+    "HEAD-80d9ffe-250621T221322-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
