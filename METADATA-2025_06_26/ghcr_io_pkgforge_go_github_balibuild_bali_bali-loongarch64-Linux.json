@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bali",
+  "pkg_family": "bali",
+  "pkg_id": "bali#github.com_balibuild_bali",
+  "pkg_name": "bali",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/balibuild/bali",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bali -  Minimalist Golang build and packaging tool",
+  "homepage": [
+    "https://github.com/balibuild/bali"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "args",
+    "bali",
+    "ico",
+    "rpmsimple",
+    "xz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/balibuild/bali/archive/b4a5524757caecdf5459e303d249bafff8b9235b.tar.gz"
+  ],
+  "tag": [
+    "build",
+    "darwin",
+    "golang",
+    "installer",
+    "interesting",
+    "linux",
+    "package",
+    "posix",
+    "windows"
+  ],
+  "version": "HEAD-b4a5524-250626T093827",
+  "version_upstream": "",
+  "bsum": "815ef466a243bcec9d1601689ec11ad386c2d770aecc2f1247c8bb2682c76009",
+  "build_date": "2025-06-26T10:13:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898684836",
+  "build_id": "15898684836",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/bali?tag=HEAD-b4a5524-250626T093827-loongarch64-Linux&download=bali.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "67",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/bali?tag=HEAD-b4a5524-250626T093827-loongarch64-Linux&download=bali",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/balibuild/bali/bali:HEAD-b4a5524-250626T093827-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/balibuild/bali/bali",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/bali?tag=HEAD-b4a5524-250626T093827-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75a9696d51a7763976e729b56294c0dc07a8f8a48c62b7b716f95e9e65f2b36c",
+  "size": "15 MB",
+  "size_raw": "15683584",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3c75fb5-250615T134456-loongarch64-Linux[v3.1.1]",
+    "HEAD-c42ccb6-250624T172433-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
