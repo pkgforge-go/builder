@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pike",
+  "pkg_family": "pike",
+  "pkg_id": "pike#github.com_JamesWoolfenden_pike",
+  "pkg_name": "pike",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/JamesWoolfenden/pike",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pike is a tool for determining the permissions or policy required for IAC code",
+  "homepage": [
+    "https://github.com/JamesWoolfenden/pike"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pike"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/JamesWoolfenden/pike/archive/f6864bec013a18686d58626f56e3ea249eb966dd.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "bridgecrew",
+    "gcp",
+    "iac",
+    "policy",
+    "security",
+    "terraform"
+  ],
+  "version": "HEAD-f6864be-250625T152749",
+  "version_upstream": "",
+  "bsum": "9969608ff2ada382a08e7439a1f3e8b76f305b62e680ea3e63425b13583debe1",
+  "build_date": "2025-06-26T02:16:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891362880",
+  "build_id": "15891362880",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jameswoolfenden/pike/pike?tag=HEAD-f6864be-250625T152749-x86_64-Linux&download=pike.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "727",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jameswoolfenden/pike/pike?tag=HEAD-f6864be-250625T152749-x86_64-Linux&download=pike",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jameswoolfenden/pike/pike:HEAD-f6864be-250625T152749-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jameswoolfenden/pike/pike",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jameswoolfenden/pike/pike?tag=HEAD-f6864be-250625T152749-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5232b9cec8021d99616232731d42d1db0978032c14634ff781f4f0d4af22b40d",
+  "size": "33 MB",
+  "size_raw": "33931920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-db0b55c-250620T105206-x86_64-Linux",
+    "HEAD-2d35bed-250623T091613-x86_64-Linux[v0.3.61]"
+  ],
+  "trusted": "true"
+}
