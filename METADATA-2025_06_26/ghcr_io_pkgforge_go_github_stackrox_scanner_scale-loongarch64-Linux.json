@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scale",
+  "pkg_family": "scanner",
+  "pkg_id": "scale#github.com_stackrox_scanner",
+  "pkg_name": "scale",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stackrox/scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/stackrox/scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clair",
+    "local-nodescanner",
+    "localdev",
+    "scale",
+    "updater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stackrox/scanner/archive/65e87c848cd2eb1966eae6d197a3b20f082b06c3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-65e87c8-250625T164728",
+  "version_upstream": "",
+  "bsum": "eced8048255fe0bb601c3aee0c94e6b669cfc578efbaef132b27557efb2d7c71",
+  "build_date": "2025-06-26T09:16:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896529609",
+  "build_id": "15896529609",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/scanner/scale?tag=HEAD-65e87c8-250625T164728-loongarch64-Linux&download=scale.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/scanner/scale?tag=HEAD-65e87c8-250625T164728-loongarch64-Linux&download=scale",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stackrox/scanner/scale:HEAD-65e87c8-250625T164728-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stackrox/scanner/scale",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/scanner/scale?tag=HEAD-65e87c8-250625T164728-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d4c1fa8a59db92dfb5d17b39ae4c4b996cb535b4ed07395e4318bb4151d9ce0",
+  "size": "61 MB",
+  "size_raw": "63260976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
