@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vpn_server",
+  "pkg_family": "vpn2",
+  "pkg_id": "vpn_server#github.com_gardener_vpn2",
+  "pkg_name": "vpn_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/vpn2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network connector between the control plane _deployed in a Seed cluster_ and a Shoot cluster superseding the vpn repository.",
+  "homepage": [
+    "https://github.com/gardener/vpn2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tunnel_controller",
+    "vpn_client",
+    "vpn_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/vpn2/archive/d656a2e1d1509e0df59bdfd5258a49e546342023.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d656a2e-250626T110725",
+  "version_upstream": "",
+  "bsum": "94749b6214902d0dccd353ee3653f97141b783b67069b66e7c685379c0f8142c",
+  "build_date": "2025-06-26T16:45:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906685647",
+  "build_id": "15906685647",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/vpn2/vpn_server?tag=HEAD-d656a2e-250626T110725-aarch64-Linux&download=vpn_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/vpn2/vpn_server?tag=HEAD-d656a2e-250626T110725-aarch64-Linux&download=vpn_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/vpn2/vpn_server:HEAD-d656a2e-250626T110725-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/vpn2/vpn_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/vpn2/vpn_server?tag=HEAD-d656a2e-250626T110725-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "32792bd3fde7c0055fee62e6fdfb728a769f8b0326bbf9dc5c22bf096bb64bab",
+  "size": "36 MB",
+  "size_raw": "37686592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
