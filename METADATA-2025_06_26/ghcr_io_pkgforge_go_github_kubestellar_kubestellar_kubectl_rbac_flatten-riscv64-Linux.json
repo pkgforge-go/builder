@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kubectl-rbac-flatten",
+  "pkg_family": "kubestellar",
+  "pkg_id": "kubectl-rbac-flatten#github.com_kubestellar_kubestellar",
+  "pkg_name": "kubectl-rbac-flatten",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubestellar/kubestellar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
+  "homepage": [
+    "https://github.com/kubestellar/kubestellar"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller-manager",
+    "kubectl-rbac-flatten",
+    "ocm-transport-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubestellar/kubestellar/archive/84672f44cfad04795f0462350c00705b85963bd7.tar.gz"
+  ],
+  "tag": [
+    "deployment",
+    "edge",
+    "edge-mc",
+    "gitops",
+    "kubernetes",
+    "kubestellar",
+    "placement",
+    "rollout",
+    "scheduling",
+    "status",
+    "summarization",
+    "synching"
+  ],
+  "version": "HEAD-84672f4-250626T132449",
+  "version_upstream": "",
+  "bsum": "f0cf9d501ab20e9a1bd8bd5aa26c1c353acea2f91bf056cfdae5a71c1ce1d1c6",
+  "build_date": "2025-06-26T23:38:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913387223",
+  "build_id": "15913387223",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/kubectl-rbac-flatten?tag=HEAD-84672f4-250626T132449-riscv64-Linux&download=kubectl-rbac-flatten.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/kubectl-rbac-flatten?tag=HEAD-84672f4-250626T132449-riscv64-Linux&download=kubectl-rbac-flatten",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubestellar/kubestellar/kubectl-rbac-flatten:HEAD-84672f4-250626T132449-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubestellar/kubestellar/kubectl-rbac-flatten",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/kubectl-rbac-flatten?tag=HEAD-84672f4-250626T132449-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b25d3eb687953eef57edef6292d0093b4d729eccd1804c1b906f2f59a2be44bf",
+  "size": "46 MB",
+  "size_raw": "47758136",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e8af94d-250623T201740-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

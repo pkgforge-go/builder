@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ocm-transport-controller",
+  "pkg_family": "kubestellar",
+  "pkg_id": "ocm-transport-controller#github.com_kubestellar_kubestellar",
+  "pkg_name": "ocm-transport-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubestellar/kubestellar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
+  "homepage": [
+    "https://github.com/kubestellar/kubestellar"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller-manager",
+    "kubectl-rbac-flatten",
+    "ocm-transport-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubestellar/kubestellar/archive/84672f44cfad04795f0462350c00705b85963bd7.tar.gz"
+  ],
+  "tag": [
+    "deployment",
+    "edge",
+    "edge-mc",
+    "gitops",
+    "kubernetes",
+    "kubestellar",
+    "placement",
+    "rollout",
+    "scheduling",
+    "status",
+    "summarization",
+    "synching"
+  ],
+  "version": "HEAD-84672f4-250626T132449",
+  "version_upstream": "",
+  "bsum": "95ed148bc7a8c99efb6693a43c2509f25e26a12a336799474c73115d4b92690d",
+  "build_date": "2025-06-26T23:38:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913387223",
+  "build_id": "15913387223",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/ocm-transport-controller?tag=HEAD-84672f4-250626T132449-riscv64-Linux&download=ocm-transport-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/ocm-transport-controller?tag=HEAD-84672f4-250626T132449-riscv64-Linux&download=ocm-transport-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubestellar/kubestellar/ocm-transport-controller:HEAD-84672f4-250626T132449-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubestellar/kubestellar/ocm-transport-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/ocm-transport-controller?tag=HEAD-84672f4-250626T132449-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb4d858f2e2406b925e839cceb631946e0adb4763332b0f42a172d045dc1a285",
+  "size": "53 MB",
+  "size_raw": "55384952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e8af94d-250623T201740-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
