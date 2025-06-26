@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "distillery",
+  "pkg_family": "distillery",
+  "pkg_id": "distillery#github.com_ekristen_distillery",
+  "pkg_name": "distillery",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ekristen/distillery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "like homebrew but with less fizz. install binaries as fast and as easy as possible. no package manager, no recipes or metadata to update, just install and go",
+  "homepage": [
+    "https://github.com/ekristen/distillery"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "distillery"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ekristen/distillery/archive/b9d0a6115cffd680846a50bb38a1dd031bee543b.tar.gz"
+  ],
+  "tag": [
+    "bin",
+    "binaries",
+    "fast",
+    "golang",
+    "installer"
+  ],
+  "version": "HEAD-b9d0a61-250626T060917",
+  "version_upstream": "",
+  "bsum": "a4ed169e0211ab521d048165f25b2a2ac9e83333f3c5b4cfa75e7fdc90efa437",
+  "build_date": "2025-06-26T22:50:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913255334",
+  "build_id": "15913255334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ekristen/distillery/distillery?tag=HEAD-b9d0a61-250626T060917-loongarch64-Linux&download=distillery.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ekristen/distillery/distillery?tag=HEAD-b9d0a61-250626T060917-loongarch64-Linux&download=distillery",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ekristen/distillery/distillery:HEAD-b9d0a61-250626T060917-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ekristen/distillery/distillery",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ekristen/distillery/distillery?tag=HEAD-b9d0a61-250626T060917-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5823fb9b20007082a09f195eb5949010a945fe12f23f191f98c08224d66adfa1",
+  "size": "19 MB",
+  "size_raw": "19737520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6d86040-250618T010658-loongarch64-Linux",
+    "HEAD-f79accc-250620T193937-loongarch64-Linux",
+    "HEAD-aee708e-250624T014907-loongarch64-Linux",
+    "HEAD-d237950-250624T053958-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
