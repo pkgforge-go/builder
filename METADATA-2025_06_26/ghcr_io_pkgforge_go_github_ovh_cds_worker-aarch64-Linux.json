@@ -1,0 +1,101 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "cds",
+  "pkg_id": "worker#github.com_ovh_cds",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ovh/cds",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-Grade Continuous Delivery _ DevOps Automation Open Source Platform",
+  "homepage": [
+    "https://github.com/ovh/cds"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrunresult",
+    "arsenal-deployment-plugin",
+    "artifactorypromote",
+    "artifactoryrelease",
+    "cache",
+    "cacherestore",
+    "cachesave",
+    "cdsctl",
+    "checkout",
+    "debianpush",
+    "debpacker",
+    "deployarsenal",
+    "dockerpush",
+    "downloadartifact",
+    "engine",
+    "example",
+    "hello-deployment-plugin",
+    "hello-sdk",
+    "itscwrkflw15",
+    "junit",
+    "keyinstall",
+    "plugin-arsenal-delete-alternative",
+    "plugin-kubernetes-deployment",
+    "pythonpush",
+    "script",
+    "uploadartifact",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ovh/cds/archive/6ab7d8e4fa3f0cdbb3007c915831bc89ae9e2ea6.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "devops-workflow",
+    "golang",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-6ab7d8e-250625T155845",
+  "version_upstream": "",
+  "bsum": "f9f44157588e137d5e3d05bf5bf0ce5d4ea267c764096e5bd0bb677d8763420c",
+  "build_date": "2025-06-26T00:35:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888118348",
+  "build_id": "15888118348",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/worker?tag=HEAD-6ab7d8e-250625T155845-aarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4723",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/worker?tag=HEAD-6ab7d8e-250625T155845-aarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ovh/cds/worker:HEAD-6ab7d8e-250625T155845-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ovh/cds/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/worker?tag=HEAD-6ab7d8e-250625T155845-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4128e32496f4c06688d1849431e99da9c2380f7de4373b6fe76fd794b08d0323",
+  "size": "26 MB",
+  "size_raw": "26280736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e716c2d-250620T135931-aarch64-Linux",
+    "HEAD-188f389-250623T082213-aarch64-Linux",
+    "HEAD-539752e-250624T163752-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
