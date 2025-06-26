@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "protobuf-compile",
+  "pkg_family": "opentofu",
+  "pkg_id": "protobuf-compile#github.com_opentofu_opentofu",
+  "pkg_name": "protobuf-compile",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/opentofu/opentofu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+  "homepage": [
+    "https://github.com/opentofu/opentofu"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "data",
+    "encryption",
+    "external-method",
+    "loggraphdiff",
+    "main",
+    "protobuf-compile",
+    "tofu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/opentofu/opentofu/archive/0afbaae42d70c49159f25bac5a95f94f7048a17c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0afbaae-250625T091540",
+  "version_upstream": "",
+  "bsum": "2a83e63031fee3563e3869edfce019ff626f748365fa10e49c84beca6786374d",
+  "build_date": "2025-06-26T00:15:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888114418",
+  "build_id": "15888114418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/opentofu/protobuf-compile?tag=HEAD-0afbaae-250625T091540-aarch64-Linux&download=protobuf-compile.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25801",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/opentofu/protobuf-compile?tag=HEAD-0afbaae-250625T091540-aarch64-Linux&download=protobuf-compile",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/opentofu/protobuf-compile:HEAD-0afbaae-250625T091540-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/opentofu/protobuf-compile",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/opentofu/protobuf-compile?tag=HEAD-0afbaae-250625T091540-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "289fd38cf80d01fe0ad049460f722905b8b17ca9f8cb7aced74861276a3a7b8b",
+  "size": "22 MB",
+  "size_raw": "22282304",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ec65e12-250619T122339-aarch64-Linux",
+    "HEAD-3c17015-250624T091040-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
