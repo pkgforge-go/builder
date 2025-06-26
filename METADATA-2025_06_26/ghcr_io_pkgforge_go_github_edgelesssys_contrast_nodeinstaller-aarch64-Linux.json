@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nodeinstaller",
+  "pkg_family": "contrast",
+  "pkg_id": "nodeinstaller#github.com_edgelesssys_contrast",
+  "pkg_name": "nodeinstaller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edgelesssys/contrast",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy and manage confidential containers on Kubernetes",
+  "homepage": [
+    "https://github.com/edgelesssys/contrast"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "initializer",
+    "nodeinstaller",
+    "resourcegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edgelesssys/contrast/archive/4cf591b49336ac802cc89eb9ed6f8c7befaa7466.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4cf591b-250625T150836",
+  "version_upstream": "",
+  "bsum": "ca039dfa1247bea770516908b3e682dca0c25afb94cd871ff0e331f4ad29a25a",
+  "build_date": "2025-06-26T02:56:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891413853",
+  "build_id": "15891413853",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/nodeinstaller?tag=HEAD-4cf591b-250625T150836-aarch64-Linux&download=nodeinstaller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/nodeinstaller?tag=HEAD-4cf591b-250625T150836-aarch64-Linux&download=nodeinstaller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgelesssys/contrast/nodeinstaller:HEAD-4cf591b-250625T150836-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgelesssys/contrast/nodeinstaller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/nodeinstaller?tag=HEAD-4cf591b-250625T150836-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee6e939530dd78d08b65476e800b51fa9af6b47a3efa1490e0055aa682e83658",
+  "size": "13 MB",
+  "size_raw": "13444896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d4062fa-250620T105136-aarch64-Linux",
+    "HEAD-2c50ca0-250623T162044-aarch64-Linux",
+    "HEAD-ab42837-250624T143455-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
