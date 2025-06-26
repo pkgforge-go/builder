@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "tusd",
+  "pkg_id": "server#github.com_tus_tusd",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tus/tusd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference server implementation in Go of tus: the open protocol for resumable file uploads",
+  "homepage": [
+    "https://github.com/tus/tusd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "plugin",
+    "server",
+    "tusd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tus/tusd/archive/fb61cc478712f03f8b4cc5aa00cd7a8e10f8f54a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fb61cc4-250625T085737",
+  "version_upstream": "",
+  "bsum": "5d5b77a0bb45629796efcc58c9cf1016dfbd59c5f13969cd539cddb118aad0f1",
+  "build_date": "2025-06-26T03:52:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891962011",
+  "build_id": "15891962011",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tus/tusd/server?tag=HEAD-fb61cc4-250625T085737-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3326",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tus/tusd/server?tag=HEAD-fb61cc4-250625T085737-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tus/tusd/server:HEAD-fb61cc4-250625T085737-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tus/tusd/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tus/tusd/server?tag=HEAD-fb61cc4-250625T085737-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d439d8569170cef84b968c29cf3cac80cc47c398859dd615dc627ed655f5efcf",
+  "size": "6.4 MB",
+  "size_raw": "6702488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-13d9e0a-250610T091552-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
