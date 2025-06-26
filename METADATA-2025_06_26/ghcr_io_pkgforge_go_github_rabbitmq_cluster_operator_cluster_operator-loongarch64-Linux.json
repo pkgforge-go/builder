@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cluster-operator",
+  "pkg_family": "cluster-operator",
+  "pkg_id": "cluster-operator#github.com_rabbitmq_cluster_operator",
+  "pkg_name": "cluster-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rabbitmq/cluster-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RabbitMQ Cluster Kubernetes Operator",
+  "homepage": [
+    "https://github.com/rabbitmq/cluster-operator"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rabbitmq/cluster-operator/archive/31cf5cc1fc6cc21ebc4fd58b592b0173b024973f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "kubernetes",
+    "kubernetes-operator",
+    "rabbitmq"
+  ],
+  "version": "HEAD-31cf5cc-250626T093802",
+  "version_upstream": "",
+  "bsum": "f01cead8c15e229a6ed4c3a30a119c7139d39415b6d479256505471ead959335",
+  "build_date": "2025-06-26T16:45:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906727954",
+  "build_id": "15906727954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator?tag=HEAD-31cf5cc-250626T093802-loongarch64-Linux&download=cluster-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "961",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator?tag=HEAD-31cf5cc-250626T093802-loongarch64-Linux&download=cluster-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator:HEAD-31cf5cc-250626T093802-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rabbitmq/cluster-operator/cluster-operator?tag=HEAD-31cf5cc-250626T093802-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c0a205554338f6f8ed9df733d44b6803e2a4fc302d807e8214039d90eade944",
+  "size": "53 MB",
+  "size_raw": "54588992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fa41919-250620T152945-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
