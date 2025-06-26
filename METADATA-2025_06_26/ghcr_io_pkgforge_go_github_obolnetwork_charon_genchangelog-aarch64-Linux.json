@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "genchangelog",
+  "pkg_family": "charon",
+  "pkg_id": "genchangelog#github.com_ObolNetwork_charon",
+  "pkg_name": "genchangelog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ObolNetwork/charon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Charon _pronounced _kharon__ is a Proof of Stake Ethereum Distributed Validator Client",
+  "homepage": [
+    "https://github.com/ObolNetwork/charon"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "charon",
+    "compose",
+    "genchangelog",
+    "genssz",
+    "genwrap",
+    "promrated",
+    "verifypr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ObolNetwork/charon/archive/fb54af4579c50e148b37949c651cb2a902b6705a.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "consensus-layer",
+    "distributed-systems",
+    "distributed-validator",
+    "ethereum",
+    "go",
+    "golang",
+    "proof-of-stake"
+  ],
+  "version": "HEAD-fb54af4-250626T114051",
+  "version_upstream": "",
+  "bsum": "a2f54ec78cf79d4ed6a2d440f6d8157ad3ee1928d984038a2afd4801de6a4669",
+  "build_date": "2025-06-26T22:11:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205240",
+  "build_id": "15913205240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/obolnetwork/charon/genchangelog?tag=HEAD-fb54af4-250626T114051-aarch64-Linux&download=genchangelog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "212",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/obolnetwork/charon/genchangelog?tag=HEAD-fb54af4-250626T114051-aarch64-Linux&download=genchangelog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/obolnetwork/charon/genchangelog:HEAD-fb54af4-250626T114051-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/obolnetwork/charon/genchangelog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/obolnetwork/charon/genchangelog?tag=HEAD-fb54af4-250626T114051-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7285b2af58116cfc4bb0911d8920b780e0e881fc6843af4d120a0bd5af959a79",
+  "size": "12 MB",
+  "size_raw": "11829248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f48d03a-250610T143434-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
