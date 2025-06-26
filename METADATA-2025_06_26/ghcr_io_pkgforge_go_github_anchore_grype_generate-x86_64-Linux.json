@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "grype",
+  "pkg_id": "generate#github.com_anchore_grype",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/grype",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A vulnerability scanner for container images and filesystems",
+  "homepage": [
+    "https://github.com/anchore/grype"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "grype",
+    "jsonschema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anchore/grype/archive/ed448fcfce0340386695f25924e34232920895a8.tar.gz"
+  ],
+  "tag": [
+    "container-image",
+    "containers",
+    "cyclonedx",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "oci",
+    "openvex",
+    "security",
+    "static-analysis",
+    "tool",
+    "vex",
+    "vulnerabilities",
+    "vulnerability"
+  ],
+  "version": "HEAD-ed448fc-250625T125611",
+  "version_upstream": "",
+  "bsum": "282f57ecbdb2fb2476f7b3412e32f348660b37fe5f2985200e91f1d49c10740c",
+  "build_date": "2025-06-26T13:31:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902782075",
+  "build_id": "15902782075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/generate?tag=HEAD-ed448fc-250625T125611-x86_64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/generate?tag=HEAD-ed448fc-250625T125611-x86_64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/grype/generate:HEAD-ed448fc-250625T125611-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/grype/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/generate?tag=HEAD-ed448fc-250625T125611-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79b6813f27b2d9f7c343861bb425849423cec734b89021d680dbbc19f6fbf240",
+  "size": "45 MB",
+  "size_raw": "46868632",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-34304db-250617T114826-x86_64-Linux",
+    "HEAD-327e352-250619T160209-x86_64-Linux",
+    "HEAD-9648e99-250623T135334-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
