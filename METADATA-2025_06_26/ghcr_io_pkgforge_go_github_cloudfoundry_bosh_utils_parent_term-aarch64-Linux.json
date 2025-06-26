@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "parent_term",
+  "pkg_family": "bosh-utils",
+  "pkg_id": "parent_term#github.com_cloudfoundry_bosh_utils",
+  "pkg_name": "parent_term",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/bosh-utils",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generic packages extracted from bosh-agent and bosh-init",
+  "homepage": [
+    "https://github.com/cloudfoundry/bosh-utils"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bosh-utils-main",
+    "cat",
+    "child_ignore_term",
+    "child_term",
+    "exe_exits",
+    "false",
+    "parent_ignore_term",
+    "parent_term",
+    "windows_exe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/bosh-utils/archive/acc3208cbff943d4e926a8bcd3591478526009ce.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-acc3208-250625T221314",
+  "version_upstream": "v0.0.547",
+  "bsum": "ec0a170763bb5df15b3893579e248cf0c62a59251f872ca3649a52c490cd8185",
+  "build_date": "2025-06-26T07:39:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895152664",
+  "build_id": "15895152664",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-utils/parent_term?tag=HEAD-acc3208-250625T221314-aarch64-Linux&download=parent_term.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-utils/parent_term?tag=HEAD-acc3208-250625T221314-aarch64-Linux&download=parent_term",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/bosh-utils/parent_term:HEAD-acc3208-250625T221314-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/bosh-utils/parent_term",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-utils/parent_term?tag=HEAD-acc3208-250625T221314-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c0278276af8ea82ff504dcd82d884c31e041bf953bd22a09aeda042c7a9a504",
+  "size": "1.9 MB",
+  "size_raw": "1950776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
