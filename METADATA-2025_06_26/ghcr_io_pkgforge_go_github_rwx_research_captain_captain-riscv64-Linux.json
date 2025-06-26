@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "captain",
+  "pkg_family": "captain",
+  "pkg_id": "captain#github.com_rwx_research_captain",
+  "pkg_name": "captain",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rwx-research/captain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Captain CLI can detect and quarantine flaky tests, automatically retry failed tests, partition files for parallel execution, produce markdown failure summaries, and more. It_s compatible with 17 testing frameworks.",
+  "homepage": [
+    "https://github.com/rwx-research/captain"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "captain",
+    "mage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rwx-research/captain/archive/4129749eb3233c8340185b271a065635db4bea51.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4129749-250625T165719",
+  "version_upstream": "unstable-4129749eb3233c8340185b271a065635db4bea51",
+  "bsum": "56ccf02120793d16d5a33d146c7c80f14aaa1312c6bcf424c90bac74d546cc64",
+  "build_date": "2025-06-26T09:05:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896477430",
+  "build_id": "15896477430",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rwx-research/captain/captain?tag=HEAD-4129749-250625T165719-riscv64-Linux&download=captain.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "93",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rwx-research/captain/captain?tag=HEAD-4129749-250625T165719-riscv64-Linux&download=captain",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rwx-research/captain/captain:HEAD-4129749-250625T165719-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rwx-research/captain/captain",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rwx-research/captain/captain?tag=HEAD-4129749-250625T165719-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "620a1959ccfa4d7bde7757b240eea4b9f1c23973f3932b7add8ce35b430f25db",
+  "size": "11 MB",
+  "size_raw": "11062424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
