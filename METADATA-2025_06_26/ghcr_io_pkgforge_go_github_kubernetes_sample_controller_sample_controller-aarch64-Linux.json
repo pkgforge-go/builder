@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sample-controller",
+  "pkg_family": "sample-controller",
+  "pkg_id": "sample-controller#github.com_kubernetes_sample_controller",
+  "pkg_name": "sample-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/sample-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for sample controller. Complements sample-apiserver",
+  "homepage": [
+    "https://github.com/kubernetes/sample-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sample-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/sample-controller/archive/4c471f217d62b52d54195addc5acd11b29113001.tar.gz"
+  ],
+  "tag": [
+    "k8s-staging"
+  ],
+  "version": "HEAD-4c471f2-250625T180015",
+  "version_upstream": "",
+  "bsum": "5bdce64ad20422dee0849953947ccdbd88eb1bbe2a42860d70ed674a2d70035d",
+  "build_date": "2025-06-26T08:15:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895679286",
+  "build_id": "15895679286",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/sample-controller/sample-controller?tag=HEAD-4c471f2-250625T180015-aarch64-Linux&download=sample-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3350",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/sample-controller/sample-controller?tag=HEAD-4c471f2-250625T180015-aarch64-Linux&download=sample-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/sample-controller/sample-controller:HEAD-4c471f2-250625T180015-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/sample-controller/sample-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/sample-controller/sample-controller?tag=HEAD-4c471f2-250625T180015-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1db22525b5fedfaf57ae66c23170002eff71a7d61f8f4431171268b897c43273",
+  "size": "29 MB",
+  "size_raw": "30044288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
