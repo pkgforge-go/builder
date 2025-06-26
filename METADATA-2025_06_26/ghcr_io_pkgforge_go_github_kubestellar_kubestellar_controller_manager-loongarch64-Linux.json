@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controller-manager",
+  "pkg_family": "kubestellar",
+  "pkg_id": "controller-manager#github.com_kubestellar_kubestellar",
+  "pkg_name": "controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubestellar/kubestellar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud",
+  "homepage": [
+    "https://github.com/kubestellar/kubestellar"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller-manager",
+    "kubectl-rbac-flatten",
+    "ocm-transport-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubestellar/kubestellar/archive/84672f44cfad04795f0462350c00705b85963bd7.tar.gz"
+  ],
+  "tag": [
+    "deployment",
+    "edge",
+    "edge-mc",
+    "gitops",
+    "kubernetes",
+    "kubestellar",
+    "placement",
+    "rollout",
+    "scheduling",
+    "status",
+    "summarization",
+    "synching"
+  ],
+  "version": "HEAD-84672f4-250626T132449",
+  "version_upstream": "",
+  "bsum": "9cdfb62135479db6e8b4e3eac9aafe1697ce2fda4e525e7bb1936b1c42e8f184",
+  "build_date": "2025-06-26T23:38:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913387223",
+  "build_id": "15913387223",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/controller-manager?tag=HEAD-84672f4-250626T132449-loongarch64-Linux&download=controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/controller-manager?tag=HEAD-84672f4-250626T132449-loongarch64-Linux&download=controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubestellar/kubestellar/controller-manager:HEAD-84672f4-250626T132449-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubestellar/kubestellar/controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubestellar/kubestellar/controller-manager?tag=HEAD-84672f4-250626T132449-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "51242530e1420fe078e1c94f2fe431b4739e7752317b6f454a4248a62c8102f2",
+  "size": "52 MB",
+  "size_raw": "54335808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e8af94d-250623T201740-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
