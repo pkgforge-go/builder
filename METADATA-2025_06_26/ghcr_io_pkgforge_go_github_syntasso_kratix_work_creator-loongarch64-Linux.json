@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "work-creator",
+  "pkg_family": "kratix",
+  "pkg_id": "work-creator#github.com_syntasso_kratix",
+  "pkg_name": "work-creator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/syntasso/kratix",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kratix is an open-source framework for building platforms",
+  "homepage": [
+    "https://github.com/syntasso/kratix"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kratix-cmd",
+    "reader",
+    "update-status",
+    "work-creator",
+    "worker-resource-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/syntasso/kratix/archive/49f9960151994f73a63ef1772e4612ffc3dc4702.tar.gz"
+  ],
+  "tag": [
+    "framework",
+    "kubernetes",
+    "platform",
+    "product",
+    "promise"
+  ],
+  "version": "HEAD-49f9960-250625T123018",
+  "version_upstream": "latest",
+  "bsum": "ca377341c45cf46ae6ad110e6b9e09d733439494703538bdfaca535b7dd5325a",
+  "build_date": "2025-06-26T03:52:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891866562",
+  "build_id": "15891866562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/work-creator?tag=HEAD-49f9960-250625T123018-loongarch64-Linux&download=work-creator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "602",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/work-creator?tag=HEAD-49f9960-250625T123018-loongarch64-Linux&download=work-creator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/syntasso/kratix/work-creator:HEAD-49f9960-250625T123018-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/syntasso/kratix/work-creator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/syntasso/kratix/work-creator?tag=HEAD-49f9960-250625T123018-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3958fd6ae7db66666a48e576a0a0b9624c25787a176070aa10fd034f1df1f4e1",
+  "size": "39 MB",
+  "size_raw": "40867584",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fb06299-250624T103157-loongarch64-Linux[latest]"
+  ],
+  "trusted": "true"
+}
