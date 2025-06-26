@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sharkey-client",
+  "pkg_family": "sharkey",
+  "pkg_id": "sharkey-client#github.com_square_sharkey",
+  "pkg_name": "sharkey-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/square/sharkey",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sharkey is a service for managing certificates for use by OpenSSH",
+  "homepage": [
+    "https://github.com/square/sharkey"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sharkey-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/square/sharkey/archive/2125eabcfed05a9238fb1e8c9bfc0bb5b6233d10.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "certificates",
+    "crypto",
+    "enterprise-software",
+    "openssh",
+    "pki",
+    "ssh",
+    "tofu",
+    "trust-on-first-use"
+  ],
+  "version": "HEAD-2125eab-250625T173928",
+  "version_upstream": "",
+  "bsum": "78a2f7346fdb27321d8f6cb2f4f863b5dec4aa2f0e7b9462168e00d3dc9de854",
+  "build_date": "2025-06-26T14:39:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903649467",
+  "build_id": "15903649467",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/sharkey/sharkey-client?tag=HEAD-2125eab-250625T173928-aarch64-Linux&download=sharkey-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "403",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/sharkey/sharkey-client?tag=HEAD-2125eab-250625T173928-aarch64-Linux&download=sharkey-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/square/sharkey/sharkey-client:HEAD-2125eab-250625T173928-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/square/sharkey/sharkey-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/square/sharkey/sharkey-client?tag=HEAD-2125eab-250625T173928-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39decf9c5f76209e1d9b4252649ce3aa211c9a57e1b264f9c07209105890aca4",
+  "size": "8.3 MB",
+  "size_raw": "8661664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-06b810b-250624T162622-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
