@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tools",
+  "pkg_family": "kanister",
+  "pkg_id": "tools#github.com_kanisterio_kanister",
+  "pkg_name": "tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kanisterio/kanister",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.",
+  "homepage": [
+    "https://github.com/kanisterio/kanister"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "kanctl",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kanisterio/kanister/archive/77ffaf0c192f20b8555719a3052163ce21382faa.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "data-protection",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-77ffaf0-250626T100621",
+  "version_upstream": "",
+  "bsum": "d64ca41b891525a0dce10f9d714cc7935e76f0eac9414e84dfb66422591a49fc",
+  "build_date": "2025-06-26T23:38:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913352555",
+  "build_id": "15913352555",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/tools?tag=HEAD-77ffaf0-250626T100621-loongarch64-Linux&download=tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "824",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/tools?tag=HEAD-77ffaf0-250626T100621-loongarch64-Linux&download=tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kanisterio/kanister/tools:HEAD-77ffaf0-250626T100621-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kanisterio/kanister/tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kanisterio/kanister/tools?tag=HEAD-77ffaf0-250626T100621-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0eb7a231bf8938445812c0641905596961685ae5a2b61b48fdceabb71146991f",
+  "size": "2.2 MB",
+  "size_raw": "2211384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ccab82b-250619T170847-loongarch64-Linux",
+    "HEAD-53318cb-250624T122717-loongarch64-Linux",
+    "HEAD-fc9e918-250624T201501-loongarch64-Linux",
+    "HEAD-022a0d5-250625T175542-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
