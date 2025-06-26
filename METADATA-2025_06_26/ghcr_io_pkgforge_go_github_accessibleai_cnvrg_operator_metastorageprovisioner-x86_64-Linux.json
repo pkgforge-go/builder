@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "metastorageprovisioner",
+  "pkg_family": "cnvrg-operator",
+  "pkg_id": "metastorageprovisioner#github.com_AccessibleAI_cnvrg_operator",
+  "pkg_name": "metastorageprovisioner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AccessibleAI/cnvrg-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "cnvrg operator for deploying cnvrg.io K8s native AI/MLOps platform",
+  "homepage": [
+    "https://github.com/AccessibleAI/cnvrg-operator"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "copctl",
+    "metastorageprovisioner",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AccessibleAI/cnvrg-operator/archive/4f17f3652618b27a1c32e5d59b8c115853df8f4f.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "aios",
+    "k8s",
+    "k8s-operator",
+    "kubebuilder",
+    "mlops"
+  ],
+  "version": "HEAD-4f17f36-250626T134310",
+  "version_upstream": "5.2.7",
+  "bsum": "14c10cc9b7b2a5fe0fd85d42861645d03f49e8f3e9a6c2aad0a226e2f8c77c5b",
+  "build_date": "2025-06-26T15:55:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906505391",
+  "build_id": "15906505391",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/accessibleai/cnvrg-operator/metastorageprovisioner?tag=HEAD-4f17f36-250626T134310-x86_64-Linux&download=metastorageprovisioner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/accessibleai/cnvrg-operator/metastorageprovisioner?tag=HEAD-4f17f36-250626T134310-x86_64-Linux&download=metastorageprovisioner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/accessibleai/cnvrg-operator/metastorageprovisioner:HEAD-4f17f36-250626T134310-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/accessibleai/cnvrg-operator/metastorageprovisioner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/accessibleai/cnvrg-operator/metastorageprovisioner?tag=HEAD-4f17f36-250626T134310-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cbb5d44cdbdf097786d15391a68110f949b629191e27088722c3c52c04c34b8d",
+  "size": "74 MB",
+  "size_raw": "76947552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
