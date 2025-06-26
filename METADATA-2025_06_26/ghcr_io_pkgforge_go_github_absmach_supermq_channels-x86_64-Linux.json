@@ -1,0 +1,98 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "channels",
+  "pkg_family": "supermq",
+  "pkg_id": "channels#github.com_absmach_supermq",
+  "pkg_name": "channels",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/absmach/supermq",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Event-driven Infrastructure for Modern Cloud",
+  "homepage": [
+    "https://github.com/absmach/supermq"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "certs",
+    "channels",
+    "cli",
+    "clients",
+    "coap",
+    "domains",
+    "groups",
+    "http",
+    "journal",
+    "mqtt",
+    "users",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/absmach/supermq/archive/d9cf3851a18b421ddbfdac69e285555c35b9ee78.tar.gz"
+  ],
+  "tag": [
+    "coap",
+    "distributed-systems",
+    "edge",
+    "edge-computing",
+    "golang",
+    "iiot",
+    "internet-of-things",
+    "iot",
+    "iot-cloud",
+    "iot-gateway",
+    "iot-platform",
+    "lora",
+    "lorawan",
+    "lwm2m",
+    "message-broker",
+    "messaging",
+    "mqtt",
+    "opc-ua",
+    "telecom",
+    "web-socket"
+  ],
+  "version": "HEAD-d9cf385-250626T141257",
+  "version_upstream": "",
+  "bsum": "6e005f48a2dae03e2f109af7c0c94743f97f7d1cd66c8bf3324e0f1ae636665a",
+  "build_date": "2025-06-26T22:30:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913208573",
+  "build_id": "15913208573",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/supermq/channels?tag=HEAD-d9cf385-250626T141257-x86_64-Linux&download=channels.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2516",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/supermq/channels?tag=HEAD-d9cf385-250626T141257-x86_64-Linux&download=channels",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/absmach/supermq/channels:HEAD-d9cf385-250626T141257-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/absmach/supermq/channels",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/absmach/supermq/channels?tag=HEAD-d9cf385-250626T141257-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c655f5e739c16367c098263200aa7432232d0da742de388a59aee5ffa9e762be",
+  "size": "41 MB",
+  "size_raw": "42000160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8d04e7a-250620T161109-x86_64-Linux",
+    "HEAD-d8e8959-250623T115828-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
