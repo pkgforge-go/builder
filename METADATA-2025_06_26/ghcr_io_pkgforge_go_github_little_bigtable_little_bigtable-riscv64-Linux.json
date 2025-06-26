@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "little_bigtable",
+  "pkg_family": "little_bigtable",
+  "pkg_id": "little_bigtable#github.com_bitly_little_bigtable",
+  "pkg_name": "little_bigtable",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bitly/little_bigtable",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Little Bigtable is an emulator for Google Bigtable w/ persistence in sqlite3",
+  "homepage": [
+    "https://github.com/bitly/little_bigtable"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "little_bigtable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bitly/little_bigtable/archive/c15610dce4972b1e515aac942c78a553a8f109d2.tar.gz"
+  ],
+  "tag": [
+    "bigtable",
+    "cloud-bigtable",
+    "emulator",
+    "sqlite3"
+  ],
+  "version": "HEAD-c15610d-250625T153420",
+  "version_upstream": "",
+  "bsum": "c0792a1ad5d05825ab557d315bbfc9de558465da7129677b24cc2926926e6d76",
+  "build_date": "2025-06-26T07:31:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895137549",
+  "build_id": "15895137549",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/little/bigtable/little_bigtable?tag=HEAD-c15610d-250625T153420-riscv64-Linux&download=little_bigtable.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/little/bigtable/little_bigtable?tag=HEAD-c15610d-250625T153420-riscv64-Linux&download=little_bigtable",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/little/bigtable/little_bigtable:HEAD-c15610d-250625T153420-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/little/bigtable/little_bigtable",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/little/bigtable/little_bigtable?tag=HEAD-c15610d-250625T153420-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d6050e8e821e8795f909b8b83ea5cda5ffaa6539fce55c2a66441cd1180bf38f",
+  "size": "15 MB",
+  "size_raw": "14708888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
