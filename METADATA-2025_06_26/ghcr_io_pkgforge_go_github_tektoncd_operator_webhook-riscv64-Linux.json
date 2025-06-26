@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "operator",
+  "pkg_id": "webhook#github.com_tektoncd_operator",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator to manage installation, updation and uninstallation of tektoncd projects _pipeline, …_",
+  "homepage": [
+    "https://github.com/tektoncd/operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "proxy-webhook",
+    "tool",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/operator/archive/4d106754faaf397df9c70115c8ff7d9024633db5.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-operator",
+    "operator-crd",
+    "pipeline",
+    "tektoncd"
+  ],
+  "version": "HEAD-4d10675-250625T091555",
+  "version_upstream": "",
+  "bsum": "365db840affa7b5d55c83a9bfaa2be964ea73957bc3ca409e0a08a3f7eae81db",
+  "build_date": "2025-06-26T02:34:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891364676",
+  "build_id": "15891364676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/webhook?tag=HEAD-4d10675-250625T091555-riscv64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "508",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/webhook?tag=HEAD-4d10675-250625T091555-riscv64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/operator/webhook:HEAD-4d10675-250625T091555-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/operator/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/webhook?tag=HEAD-4d10675-250625T091555-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db136037332340bf472b829c09b81942c973eb21a94921823cafee68788bb3d0",
+  "size": "56 MB",
+  "size_raw": "57734104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-53021f1-250624T130354-riscv64-Linux",
+    "HEAD-4d10675-250625T091555-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
