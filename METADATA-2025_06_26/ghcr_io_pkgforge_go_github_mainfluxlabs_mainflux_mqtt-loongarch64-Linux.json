@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mqtt",
+  "pkg_family": "mainflux",
+  "pkg_id": "mqtt#github.com_MainfluxLabs_mainflux",
+  "pkg_name": "mqtt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/MainfluxLabs/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/MainfluxLabs/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "auth",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "postgres-reader",
+    "postgres-writer",
+    "rules",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "users",
+    "webhooks",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/MainfluxLabs/mainflux/archive/8584a521db61d9cd25632e9d668a8f570ab9bfb4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8584a52-250626T132031",
+  "version_upstream": "",
+  "bsum": "6fce5775f08f777daebe1470cc180754e58a3f73366ba60af2aed542c4d25df2",
+  "build_date": "2025-06-26T22:04:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913204735",
+  "build_id": "15913204735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/mqtt?tag=HEAD-8584a52-250626T132031-loongarch64-Linux&download=mqtt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/mqtt?tag=HEAD-8584a52-250626T132031-loongarch64-Linux&download=mqtt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/mqtt:HEAD-8584a52-250626T132031-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/mqtt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/mqtt?tag=HEAD-8584a52-250626T132031-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c5446d8a20a85449e2219f212af84244e2e131f7721d4815ca2a622213a5c5a",
+  "size": "24 MB",
+  "size_raw": "25122688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-719f10d-250625T151148-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
