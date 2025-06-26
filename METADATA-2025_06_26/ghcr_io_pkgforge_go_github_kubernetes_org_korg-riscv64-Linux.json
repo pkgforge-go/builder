@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "korg",
+  "pkg_family": "org",
+  "pkg_id": "korg#github.com_kubernetes_org",
+  "pkg_name": "korg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta configuration for Kubernetes Github Org",
+  "homepage": [
+    "https://github.com/kubernetes/org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "korg",
+    "merge",
+    "restrictions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/org/archive/c62a004e356f77d8d4f19eb1010fcf99edb86171.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-contribex"
+  ],
+  "version": "HEAD-c62a004-250625T005629",
+  "version_upstream": "",
+  "bsum": "a4b26b0a072d6d1e4ad61e22b93ef01d24224650ec1526c005c3e1e2605e39fd",
+  "build_date": "2025-06-26T03:12:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891472162",
+  "build_id": "15891472162",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/korg?tag=HEAD-c62a004-250625T005629-riscv64-Linux&download=korg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "273",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/korg?tag=HEAD-c62a004-250625T005629-riscv64-Linux&download=korg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/org/korg:HEAD-c62a004-250625T005629-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/org/korg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/korg?tag=HEAD-c62a004-250625T005629-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a2902be12e3915c8b755c82cbd31a2e48908326f7fe9647371a09f758736044",
+  "size": "18 MB",
+  "size_raw": "18138008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9b3d3ce-250621T000452-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
