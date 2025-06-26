@@ -35,7 +35,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/prometheus/prometheus/archive/5b7ff92d95a16ebbf23764982167e8b02be8a28a.tar.gz"
+    "https://github.com/prometheus/prometheus/archive/9c791faade4e05a232721b4c79e9cff4b5d17c86.tar.gz"
   ],
   "tag": [
     "alerting",
@@ -46,34 +46,35 @@
     "prometheus",
     "time-series"
   ],
-  "version": "HEAD-5b7ff92-250625T133743",
+  "version": "HEAD-9c791fa-250625T181845",
   "version_upstream": "",
-  "bsum": "1fee136e0493ca70bed06a0a5c0fde9da326fae0cfed32a3650b61ba2a76cefd",
-  "build_date": "2025-06-26T00:27:45Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888120977",
-  "build_id": "15888120977",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-5b7ff92-250625T133743-aarch64-Linux&download=promtool.log",
+  "bsum": "2aa295709fe3b454fde2b779c124b394a86348c7ba05b2be40edc5c53b0e3bed",
+  "build_date": "2025-06-26T11:57:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899017676",
+  "build_id": "15899017676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-9c791fa-250625T181845-aarch64-Linux&download=promtool.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "59145",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-5b7ff92-250625T133743-aarch64-Linux&download=promtool",
+  "download_count": "59151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-9c791fa-250625T181845-aarch64-Linux&download=promtool",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool:HEAD-5b7ff92-250625T133743-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool:HEAD-9c791fa-250625T181845-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/promtool",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-5b7ff92-250625T133743-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/promtool?tag=HEAD-9c791fa-250625T181845-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "b1dfa219375f89e7a4cdb02789a4bb5c6848bdae88f6ea2542a01e3d13440727",
+  "shasum": "76edbe21287eeae6410a5e771cc091876bf04d298a7f0d0e6452b1ce7721d6a7",
   "size": "110 MB",
-  "size_raw": "115212544",
+  "size_raw": "115212608",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-c701636-250620T130902-aarch64-Linux",
     "HEAD-d668382-250621T094907-aarch64-Linux",
     "HEAD-8ed37d3-250623T005608-aarch64-Linux",
     "HEAD-bdada23-250624T122006-aarch64-Linux",
-    "HEAD-31e158b-250624T215255-aarch64-Linux"
+    "HEAD-31e158b-250624T215255-aarch64-Linux",
+    "HEAD-5b7ff92-250625T133743-aarch64-Linux"
   ],
   "trusted": "true"
 }
