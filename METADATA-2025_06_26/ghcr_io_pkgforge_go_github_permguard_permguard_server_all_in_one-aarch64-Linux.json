@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server-all-in-one",
+  "pkg_family": "permguard",
+  "pkg_id": "server-all-in-one#github.com_permguard_permguard",
+  "pkg_name": "server-all-in-one",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/permguard/permguard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Permguard is an Open Source Multi-Zone, Multi-Tenant, ZTAuth* Provider",
+  "homepage": [
+    "https://github.com/permguard/permguard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "provisioner-db-sqlite",
+    "server-all-in-one",
+    "server-pap",
+    "server-pdp",
+    "server-pip",
+    "server-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/permguard/permguard/archive/d49e0ce636e9391af896db4e32c71d065cff7dd3.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "authz",
+    "cloudnative",
+    "permissions",
+    "policy-as-code",
+    "security"
+  ],
+  "version": "HEAD-d49e0ce-250625T103355",
+  "version_upstream": "",
+  "bsum": "6ee992033691662019bf867456230d5885dc11b3e7ba9a640113aaab68fd1e28",
+  "build_date": "2025-06-26T00:21:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888119913",
+  "build_id": "15888119913",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-all-in-one?tag=HEAD-d49e0ce-250625T103355-aarch64-Linux&download=server-all-in-one.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-all-in-one?tag=HEAD-d49e0ce-250625T103355-aarch64-Linux&download=server-all-in-one",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/permguard/permguard/server-all-in-one:HEAD-d49e0ce-250625T103355-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/permguard/permguard/server-all-in-one",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-all-in-one?tag=HEAD-d49e0ce-250625T103355-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7a2c9045c252e0d00b34d9f0da49c7593a161e974b3abf112e6aa21a672e785",
+  "size": "18 MB",
+  "size_raw": "18617088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e749c4e-250622T112546-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
