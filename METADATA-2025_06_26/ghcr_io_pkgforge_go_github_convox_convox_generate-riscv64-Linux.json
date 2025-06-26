@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "convox",
+  "pkg_id": "generate#github.com_convox_convox",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/convox/convox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Multicloud Platform as a Service",
+  "homepage": [
+    "https://github.com/convox/convox"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "atom",
+    "build",
+    "docs",
+    "generate",
+    "resolver",
+    "telemetry-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/convox/convox/archive/e7b2e753b1457a32c1606a2a90b1213cc0083c31.tar.gz"
+  ],
+  "tag": [
+    "deployment",
+    "hacktoberfest",
+    "multicloud",
+    "paas"
+  ],
+  "version": "HEAD-e7b2e75-250625T202706",
+  "version_upstream": "3.21.4",
+  "bsum": "edc0b3441a028ab053cf157614c172d11052e81077464aaee1be4f0723e2e279",
+  "build_date": "2025-06-26T07:45:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895157170",
+  "build_id": "15895157170",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/convox/convox/generate?tag=HEAD-e7b2e75-250625T202706-riscv64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "160",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/convox/convox/generate?tag=HEAD-e7b2e75-250625T202706-riscv64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/convox/convox/generate:HEAD-e7b2e75-250625T202706-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/convox/convox/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/convox/convox/generate?tag=HEAD-e7b2e75-250625T202706-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "871224c8a877222fceea3162393374d0a900a8f26e7de20e7f11561ac8c0ba79",
+  "size": "7.6 MB",
+  "size_raw": "7950104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
