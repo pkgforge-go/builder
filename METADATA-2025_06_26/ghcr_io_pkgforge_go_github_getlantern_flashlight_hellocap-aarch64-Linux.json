@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hellocap",
+  "pkg_family": "flashlight",
+  "pkg_id": "hellocap#github.com_getlantern_flashlight",
+  "pkg_name": "hellocap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getlantern/flashlight",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Core proxying component of the Lantern censorship circumvention tool.",
+  "homepage": [
+    "https://github.com/getlantern/flashlight"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configchecker",
+    "defaultbrowser",
+    "genconfig",
+    "hellocap",
+    "tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getlantern/flashlight/archive/b026e91573ee9734442b527975ef200dca109847.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b026e91-250626T003150",
+  "version_upstream": "",
+  "bsum": "f0ab14b9b7df14272a1302bc5f5f40f4712dd56e0da0c0cf224ea83760b92c80",
+  "build_date": "2025-06-26T10:48:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898750097",
+  "build_id": "15898750097",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/hellocap?tag=HEAD-b026e91-250626T003150-aarch64-Linux&download=hellocap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/hellocap?tag=HEAD-b026e91-250626T003150-aarch64-Linux&download=hellocap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getlantern/flashlight/hellocap:HEAD-b026e91-250626T003150-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getlantern/flashlight/hellocap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getlantern/flashlight/hellocap?tag=HEAD-b026e91-250626T003150-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a139a15d960b37cbdb54d17601c6478741996f325e9c4f11488d47fe546dcc3e",
+  "size": "4.9 MB",
+  "size_raw": "5108256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8ca6cb6-250619T121246-aarch64-Linux",
+    "HEAD-f16c716-250622T003510-aarch64-Linux",
+    "HEAD-7f80ae4-250623T003416-aarch64-Linux",
+    "HEAD-dfaf6f5-250623T153910-aarch64-Linux[v7.6.233]",
+    "HEAD-0aa1502-250624T121244-aarch64-Linux",
+    "HEAD-b098538-250625T003200-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
