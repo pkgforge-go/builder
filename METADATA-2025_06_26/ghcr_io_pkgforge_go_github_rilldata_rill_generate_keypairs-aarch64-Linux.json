@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate_keypairs",
+  "pkg_family": "rill",
+  "pkg_id": "generate_keypairs#github.com_rilldata_rill",
+  "pkg_name": "generate_keypairs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rilldata/rill",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.",
+  "homepage": [
+    "https://github.com/rilldata/rill"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate_enc_keyring",
+    "generate_jwks",
+    "generate_keypairs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rilldata/rill/archive/cf6d309463a3a21c13d1a0efc1bca11925c64f2f.tar.gz"
+  ],
+  "tag": [
+    "bi",
+    "business-analytics",
+    "csv",
+    "data",
+    "data-analysis",
+    "data-visualization",
+    "dataviz",
+    "duckdb",
+    "gcs",
+    "golang",
+    "parquet",
+    "parquet-tools",
+    "parquet-viewer",
+    "s3",
+    "sql",
+    "sql-editor",
+    "svelte",
+    "sveltejs",
+    "sveltekit"
+  ],
+  "version": "HEAD-cf6d309-250625T115130",
+  "version_upstream": "r0.66.0",
+  "bsum": "2cc675658dfea48bcad4bce16179bc03b9a378c5d4a84604a83d7373565f6984",
+  "build_date": "2025-06-26T03:41:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891742758",
+  "build_id": "15891742758",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rilldata/rill/generate_keypairs?tag=HEAD-cf6d309-250625T115130-aarch64-Linux&download=generate_keypairs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rilldata/rill/generate_keypairs?tag=HEAD-cf6d309-250625T115130-aarch64-Linux&download=generate_keypairs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rilldata/rill/generate_keypairs:HEAD-cf6d309-250625T115130-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rilldata/rill/generate_keypairs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rilldata/rill/generate_keypairs?tag=HEAD-cf6d309-250625T115130-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9a0fc7c89ffc5d971003ef67419a426a6bb5f49cb7b2e4f1ae8e5a7fdcf2514",
+  "size": "1.8 MB",
+  "size_raw": "1829344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-296a29a-250620T122803-aarch64-Linux",
+    "HEAD-f1b903d-250623T095301-aarch64-Linux",
+    "HEAD-b73c7a1-250623T150551-aarch64-Linux",
+    "HEAD-5ce5ed7-250624T150831-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
