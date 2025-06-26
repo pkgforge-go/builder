@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "404-server",
+  "pkg_family": "ingress-gce",
+  "pkg_id": "404-server#github.com_kubernetes_ingress_gce",
+  "pkg_name": "404-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/ingress-gce",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ingress controller for Google Cloud",
+  "homepage": [
+    "https://github.com/kubernetes/ingress-gce"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "404-server",
+    "404-server-with-metrics",
+    "check-gke-ingress",
+    "echo",
+    "fuzzer",
+    "gen",
+    "glbc",
+    "workload-controller",
+    "workload-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/ingress-gce/archive/6697789ba32097c1c6e866a5bfa1de140c050735.tar.gz"
+  ],
+  "tag": [
+    "google",
+    "ingress",
+    "k8s",
+    "kubernetes",
+    "loadbalancer"
+  ],
+  "version": "HEAD-6697789-250625T104429",
+  "version_upstream": "",
+  "bsum": "0113eff207f06a789f3a87693328d6db0bdfa7d0c0942dd19f2a5f1cd68f696b",
+  "build_date": "2025-06-26T08:33:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895944417",
+  "build_id": "15895944417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/404-server?tag=HEAD-6697789-250625T104429-loongarch64-Linux&download=404-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1288",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/404-server?tag=HEAD-6697789-250625T104429-loongarch64-Linux&download=404-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/404-server:HEAD-6697789-250625T104429-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/404-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/404-server?tag=HEAD-6697789-250625T104429-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab7cd541c64b3297ae0ee0158d350e09e9d9d0698c128f456f48f390e92d845b",
+  "size": "5.7 MB",
+  "size_raw": "5953344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
