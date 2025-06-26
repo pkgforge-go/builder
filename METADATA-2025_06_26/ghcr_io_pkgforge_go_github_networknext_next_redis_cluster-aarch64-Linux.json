@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "redis_cluster",
+  "pkg_family": "next",
+  "pkg_id": "redis_cluster#github.com_networknext_next",
+  "pkg_name": "redis_cluster",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/networknext/next",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network Next",
+  "homepage": [
+    "https://github.com/networknext/next"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "artifact",
+    "build_portal",
+    "func_test_sdk",
+    "func_test_terraform",
+    "keygen",
+    "redis_cluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/networknext/next/archive/60c78ed432ef61ce29e97adae279ea89588d96e4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-60c78ed-250625T161421",
+  "version_upstream": "",
+  "bsum": "7e105ac392dc10d3995f59cbcad0395e98f595f994700caa4fcc7d3af4dc5456",
+  "build_date": "2025-06-26T08:49:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896209956",
+  "build_id": "15896209956",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/networknext/next/redis_cluster?tag=HEAD-60c78ed-250625T161421-aarch64-Linux&download=redis_cluster.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/networknext/next/redis_cluster?tag=HEAD-60c78ed-250625T161421-aarch64-Linux&download=redis_cluster",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/networknext/next/redis_cluster:HEAD-60c78ed-250625T161421-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/networknext/next/redis_cluster",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/networknext/next/redis_cluster?tag=HEAD-60c78ed-250625T161421-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c543ddf1e799e6b52252fc7e946b1c86584686394345b5d6f0166c30cf9e874c",
+  "size": "1.9 MB",
+  "size_raw": "1927928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
