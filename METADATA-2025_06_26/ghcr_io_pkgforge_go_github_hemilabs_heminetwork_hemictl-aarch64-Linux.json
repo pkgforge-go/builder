@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hemictl",
+  "pkg_family": "heminetwork",
+  "pkg_id": "hemictl#github.com_hemilabs_heminetwork",
+  "pkg_name": "hemictl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hemilabs/heminetwork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The hemi network core daemons.",
+  "homepage": [
+    "https://github.com/hemilabs/heminetwork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bfgd",
+    "bssd",
+    "btctool",
+    "extool",
+    "hemictl",
+    "keygen",
+    "popmd",
+    "tbcd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hemilabs/heminetwork/archive/06391a2fb2c8c2fcfd0590de15af2047b1f79b7b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06391a2-250625T195239",
+  "version_upstream": "",
+  "bsum": "4dce5ec5db3d6d76a5448a5b7364a4ed60975658876c3e41c1e74a5e80c78178",
+  "build_date": "2025-06-26T11:01:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898849338",
+  "build_id": "15898849338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/hemictl?tag=HEAD-06391a2-250625T195239-aarch64-Linux&download=hemictl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/hemictl?tag=HEAD-06391a2-250625T195239-aarch64-Linux&download=hemictl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hemilabs/heminetwork/hemictl:HEAD-06391a2-250625T195239-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hemilabs/heminetwork/hemictl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/hemictl?tag=HEAD-06391a2-250625T195239-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3d538607a6fd923e62f5887eaf867ce57ab955ed224951ddc1d7270298e622b",
+  "size": "14 MB",
+  "size_raw": "13866048",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af45269-250614T001108-aarch64-Linux",
+    "HEAD-1e46445-250623T105256-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
