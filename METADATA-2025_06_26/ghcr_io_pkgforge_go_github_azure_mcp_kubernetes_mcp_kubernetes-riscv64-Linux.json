@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mcp-kubernetes",
+  "pkg_family": "mcp-kubernetes",
+  "pkg_id": "mcp-kubernetes#github.com_Azure_mcp_kubernetes",
+  "pkg_name": "mcp-kubernetes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/mcp-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Model Context Protocol _MCP_ server that enables AI assistants to interact with Kubernetes clusters. It serves as a bridge between AI tools _like Claude, Cursor, and GitHub Copilot_ and Kubernetes",
+  "homepage": [
+    "https://github.com/Azure/mcp-kubernetes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mcp-kubernetes"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/mcp-kubernetes/archive/009069b2298ec4c19b7cca3ad55e3eceb9071398.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "mcp-server",
+    "model-context-protocol"
+  ],
+  "version": "HEAD-009069b-250626T154337",
+  "version_upstream": "",
+  "bsum": "7f3e0cde6213cf265a5e76e57b1a84d7cc5441e8bed2ee49da834e5eb49740f9",
+  "build_date": "2025-06-26T15:53:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906506367",
+  "build_id": "15906506367",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/mcp-kubernetes/mcp-kubernetes?tag=HEAD-009069b-250626T154337-riscv64-Linux&download=mcp-kubernetes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/mcp-kubernetes/mcp-kubernetes?tag=HEAD-009069b-250626T154337-riscv64-Linux&download=mcp-kubernetes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/mcp-kubernetes/mcp-kubernetes:HEAD-009069b-250626T154337-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/mcp-kubernetes/mcp-kubernetes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/mcp-kubernetes/mcp-kubernetes?tag=HEAD-009069b-250626T154337-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c35233673f9c2136779dd35d4bc0e924987d05656d5598e2dddf670d066fc475",
+  "size": "6.8 MB",
+  "size_raw": "7061400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
