@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate-makefile",
+  "pkg_family": "chaos-mesh",
+  "pkg_id": "generate-makefile#github.com_chaos_mesh_chaos_mesh",
+  "pkg_name": "generate-makefile",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chaos-mesh/chaos-mesh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Chaos Engineering Platform for Kubernetes.",
+  "homepage": [
+    "https://github.com/chaos-mesh/chaos-mesh"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assets_generate",
+    "chaos-builder",
+    "chaos-controller-manager",
+    "chaos-daemon-helper",
+    "chaosctl",
+    "generate-makefile",
+    "timer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chaos-mesh/chaos-mesh/archive/aa32cf76895b18d2a1e9459793da4538315be6d7.tar.gz"
+  ],
+  "tag": [
+    "chaos",
+    "chaos-engineering",
+    "chaos-experiments",
+    "chaos-mesh",
+    "chaos-testing",
+    "cloud-native",
+    "cncf",
+    "fault-injection",
+    "golang",
+    "hacktoberfest",
+    "kubernetes",
+    "microservices",
+    "operator",
+    "site-reliability-engineering"
+  ],
+  "version": "HEAD-aa32cf7-250626T153254",
+  "version_upstream": "",
+  "bsum": "7df0240edbb31a4d9c1e1a875bb0ea5c769eaeb4c3174c1a6573971e9d604e4f",
+  "build_date": "2025-06-26T16:31:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906618517",
+  "build_id": "15906618517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chaos-mesh/chaos-mesh/generate-makefile?tag=HEAD-aa32cf7-250626T153254-riscv64-Linux&download=generate-makefile.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7145",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chaos-mesh/chaos-mesh/generate-makefile?tag=HEAD-aa32cf7-250626T153254-riscv64-Linux&download=generate-makefile",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chaos-mesh/chaos-mesh/generate-makefile:HEAD-aa32cf7-250626T153254-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chaos-mesh/chaos-mesh/generate-makefile",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chaos-mesh/chaos-mesh/generate-makefile?tag=HEAD-aa32cf7-250626T153254-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3961d0459ebf9dd483f06c2bbf34a93d88356ab7cbddcbec502c0f7850445b67",
+  "size": "2.7 MB",
+  "size_raw": "2827464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
