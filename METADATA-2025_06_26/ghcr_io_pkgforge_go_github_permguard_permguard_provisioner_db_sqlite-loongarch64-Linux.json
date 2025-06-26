@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "provisioner-db-sqlite",
+  "pkg_family": "permguard",
+  "pkg_id": "provisioner-db-sqlite#github.com_permguard_permguard",
+  "pkg_name": "provisioner-db-sqlite",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/permguard/permguard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Permguard is an Open Source Multi-Zone, Multi-Tenant, ZTAuth* Provider",
+  "homepage": [
+    "https://github.com/permguard/permguard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "provisioner-db-sqlite",
+    "server-all-in-one",
+    "server-pap",
+    "server-pdp",
+    "server-pip",
+    "server-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/permguard/permguard/archive/d49e0ce636e9391af896db4e32c71d065cff7dd3.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "authz",
+    "cloudnative",
+    "permissions",
+    "policy-as-code",
+    "security"
+  ],
+  "version": "HEAD-d49e0ce-250625T103355",
+  "version_upstream": "",
+  "bsum": "5b4416f830551234b3ac9ce269eb629f07bcc375c8ccdfff16c950d403bbbf0b",
+  "build_date": "2025-06-26T00:22:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888119913",
+  "build_id": "15888119913",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/provisioner-db-sqlite?tag=HEAD-d49e0ce-250625T103355-loongarch64-Linux&download=provisioner-db-sqlite.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/provisioner-db-sqlite?tag=HEAD-d49e0ce-250625T103355-loongarch64-Linux&download=provisioner-db-sqlite",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/permguard/permguard/provisioner-db-sqlite:HEAD-d49e0ce-250625T103355-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/permguard/permguard/provisioner-db-sqlite",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/provisioner-db-sqlite?tag=HEAD-d49e0ce-250625T103355-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38952d4129de101549bf6e48d4092753fc4106c24a458e111e2856db18aa027c",
+  "size": "12 MB",
+  "size_raw": "12259896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e749c4e-250622T112546-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

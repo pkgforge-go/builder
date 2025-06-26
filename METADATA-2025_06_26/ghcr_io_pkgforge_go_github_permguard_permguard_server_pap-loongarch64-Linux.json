@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server-pap",
+  "pkg_family": "permguard",
+  "pkg_id": "server-pap#github.com_permguard_permguard",
+  "pkg_name": "server-pap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/permguard/permguard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Permguard is an Open Source Multi-Zone, Multi-Tenant, ZTAuth* Provider",
+  "homepage": [
+    "https://github.com/permguard/permguard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "provisioner-db-sqlite",
+    "server-all-in-one",
+    "server-pap",
+    "server-pdp",
+    "server-pip",
+    "server-zap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/permguard/permguard/archive/d49e0ce636e9391af896db4e32c71d065cff7dd3.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "authz",
+    "cloudnative",
+    "permissions",
+    "policy-as-code",
+    "security"
+  ],
+  "version": "HEAD-d49e0ce-250625T103355",
+  "version_upstream": "",
+  "bsum": "ea801aa27261a8515be7a82b66f125d2f0f70df663a5b9b7dd1aeeffcccb41d7",
+  "build_date": "2025-06-26T00:22:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888119913",
+  "build_id": "15888119913",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-pap?tag=HEAD-d49e0ce-250625T103355-loongarch64-Linux&download=server-pap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-pap?tag=HEAD-d49e0ce-250625T103355-loongarch64-Linux&download=server-pap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/permguard/permguard/server-pap:HEAD-d49e0ce-250625T103355-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/permguard/permguard/server-pap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/permguard/permguard/server-pap?tag=HEAD-d49e0ce-250625T103355-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "795a1630131b7c0532de6763140fca15395609eafb6181dd8e4c649712e0dd76",
+  "size": "19 MB",
+  "size_raw": "18942296",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e749c4e-250622T112546-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
