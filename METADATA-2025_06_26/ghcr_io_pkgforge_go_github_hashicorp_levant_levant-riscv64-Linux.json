@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "levant",
+  "pkg_family": "levant",
+  "pkg_id": "levant#github.com_hashicorp_levant",
+  "pkg_name": "levant",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/levant",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source templating and deployment tool for HashiCorp Nomad jobs",
+  "homepage": [
+    "https://github.com/hashicorp/levant"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "levant"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/levant/archive/f873b7c207cb6a64f35a3e68a3e9fca279758b67.tar.gz"
+  ],
+  "tag": [
+    "continuous-deployment",
+    "go",
+    "golang",
+    "hashicorp",
+    "hashicorp-nomad",
+    "nomad",
+    "nomad-job",
+    "templating"
+  ],
+  "version": "HEAD-f873b7c-250625T172623",
+  "version_upstream": "",
+  "bsum": "8d35a5dad76a34183eef96ea328e781bdc5da9def29531c13a32a9f3343cf468",
+  "build_date": "2025-06-26T08:00:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895271426",
+  "build_id": "15895271426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-f873b7c-250625T172623-riscv64-Linux&download=levant.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "838",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-f873b7c-250625T172623-riscv64-Linux&download=levant",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/levant/levant:HEAD-f873b7c-250625T172623-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/levant/levant",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-f873b7c-250625T172623-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd59c0c29f7d436db01da6a8c1bee01d37ac03a91859b9dd3861da21e625b97e",
+  "size": "13 MB",
+  "size_raw": "13579288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
