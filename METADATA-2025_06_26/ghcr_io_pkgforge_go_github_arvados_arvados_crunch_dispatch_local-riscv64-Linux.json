@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "crunch-dispatch-local",
+  "pkg_family": "arvados",
+  "pkg_id": "crunch-dispatch-local#github.com_arvados_arvados",
+  "pkg_name": "crunch-dispatch-local",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arvados/arvados",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source platform for managing and analyzing biomedical big data",
+  "homepage": [
+    "https://github.com/arvados/arvados"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arvados-package",
+    "crunch-dispatch-local",
+    "keep-block-check",
+    "keep-exercise",
+    "keep-rsync",
+    "sync-groups",
+    "sync-users"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arvados/arvados/archive/dd10926d9947f47d96e54da6c0b93b842564c9d0.tar.gz"
+  ],
+  "tag": [
+    "arvados",
+    "aws",
+    "azure",
+    "bigdata",
+    "bioinformatics",
+    "cloud",
+    "cluster",
+    "cwl",
+    "docker",
+    "gcp",
+    "genomics",
+    "go",
+    "python",
+    "ruby",
+    "workflow",
+    "workflow-engine"
+  ],
+  "version": "HEAD-dd10926-250625T161747",
+  "version_upstream": "",
+  "bsum": "c9d436254020182ff52dc87c8d2aaee647f91a27bb6751e5134cd96e59e499e9",
+  "build_date": "2025-06-26T10:12:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898684366",
+  "build_id": "15898684366",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-dd10926-250625T161747-riscv64-Linux&download=crunch-dispatch-local.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "404",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-dd10926-250625T161747-riscv64-Linux&download=crunch-dispatch-local",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/crunch-dispatch-local:HEAD-dd10926-250625T161747-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/crunch-dispatch-local",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/crunch-dispatch-local?tag=HEAD-dd10926-250625T161747-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "107fccf5e3a8fc8d5cfa4249bf6f74af809ea0aa0b38b4e163465493f717771f",
+  "size": "14 MB",
+  "size_raw": "14064728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ad54b4-250618T124354-riscv64-Linux",
+    "HEAD-18f80f7-250624T151527-riscv64-Linux",
+    "HEAD-7fd091c-250625T095732-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
