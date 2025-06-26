@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "get-envoy",
+  "pkg_family": "pomerium",
+  "pkg_id": "get-envoy#github.com_pomerium_pomerium",
+  "pkg_name": "get-envoy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pomerium/pomerium",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pomerium is an identity and context-aware access proxy.",
+  "homepage": [
+    "https://github.com/pomerium/pomerium"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "get-envoy",
+    "mutual-tls",
+    "pomerium-integration-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pomerium/pomerium/archive/a62a9e4d999f73c67ed9e4533c9d5f9f323c610e.tar.gz"
+  ],
+  "tag": [
+    "beyondcorp",
+    "gateway",
+    "go",
+    "iam",
+    "identity",
+    "identity-aware-proxy",
+    "pomerium",
+    "reverse-proxy",
+    "vpn",
+    "zero-trust"
+  ],
+  "version": "HEAD-a62a9e4-250625T171251",
+  "version_upstream": "",
+  "bsum": "2d4f426a9bbc8eba71e1382617db73296e91a6fc623f30f5b13b5cc5b415bb0b",
+  "build_date": "2025-06-26T11:53:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899014192",
+  "build_id": "15899014192",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/pomerium/get-envoy?tag=HEAD-a62a9e4-250625T171251-loongarch64-Linux&download=get-envoy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4317",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/pomerium/get-envoy?tag=HEAD-a62a9e4-250625T171251-loongarch64-Linux&download=get-envoy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pomerium/pomerium/get-envoy:HEAD-a62a9e4-250625T171251-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pomerium/pomerium/get-envoy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pomerium/pomerium/get-envoy?tag=HEAD-a62a9e4-250625T171251-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd3f68ace4663b2385412f4a8f59a9b2bca1326065932077e5f5429b4849bf37",
+  "size": "13 MB",
+  "size_raw": "12844352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-55dd6ba-250620T144500-loongarch64-Linux",
+    "HEAD-d36c48a-250623T115017-loongarch64-Linux",
+    "HEAD-9363457-250624T205851-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
