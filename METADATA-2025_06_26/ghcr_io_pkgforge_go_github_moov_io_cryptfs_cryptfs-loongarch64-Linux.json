@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cryptfs",
+  "pkg_family": "cryptfs",
+  "pkg_id": "cryptfs#github.com_moov_io_cryptfs",
+  "pkg_name": "cryptfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/moov-io/cryptfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Implementation of io/fs.FS that transparently encrypts and decrypts files",
+  "homepage": [
+    "https://github.com/moov-io/cryptfs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cryptfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/moov-io/cryptfs/archive/adb5314b399460be7f0923e505caab22cef1be23.tar.gz"
+  ],
+  "tag": [
+    "aes",
+    "crypto",
+    "gpg"
+  ],
+  "version": "HEAD-adb5314-250626T001038",
+  "version_upstream": "",
+  "bsum": "5881d3fe16abb9318f047ee1d5821b5eddaa73719f0d5730ae652867db2caa89",
+  "build_date": "2025-06-26T08:47:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896207032",
+  "build_id": "15896207032",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/cryptfs/cryptfs?tag=HEAD-adb5314-250626T001038-loongarch64-Linux&download=cryptfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/cryptfs/cryptfs?tag=HEAD-adb5314-250626T001038-loongarch64-Linux&download=cryptfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/moov-io/cryptfs/cryptfs:HEAD-adb5314-250626T001038-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/moov-io/cryptfs/cryptfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/moov-io/cryptfs/cryptfs?tag=HEAD-adb5314-250626T001038-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b48cd5bcfb14e93fd26b7f773f6ddfc6b9ef605e8ee2c4d6bfe35c7296961f5e",
+  "size": "5.5 MB",
+  "size_raw": "5756768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
