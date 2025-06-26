@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "operator",
+  "pkg_id": "operator#github.com_tektoncd_operator",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator to manage installation, updation and uninstallation of tektoncd projects _pipeline, …_",
+  "homepage": [
+    "https://github.com/tektoncd/operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "proxy-webhook",
+    "tool",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/operator/archive/4d106754faaf397df9c70115c8ff7d9024633db5.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-operator",
+    "operator-crd",
+    "pipeline",
+    "tektoncd"
+  ],
+  "version": "HEAD-4d10675-250625T091555",
+  "version_upstream": "",
+  "bsum": "a57c34f13b2f4aa47024d7dc737574de461fb37304959b8f7e7c590cda7166a6",
+  "build_date": "2025-06-26T02:33:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891364676",
+  "build_id": "15891364676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/operator?tag=HEAD-4d10675-250625T091555-x86_64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "508",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/operator?tag=HEAD-4d10675-250625T091555-x86_64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/operator/operator:HEAD-4d10675-250625T091555-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/operator/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/operator?tag=HEAD-4d10675-250625T091555-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f4ae03ac48301672251cb9b1fdefbe7fecf2d875c14c74b5867885c769f4bbb",
+  "size": "68 MB",
+  "size_raw": "70701088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-53021f1-250624T130354-x86_64-Linux",
+    "HEAD-4d10675-250625T091555-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
