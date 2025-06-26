@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "osmosisd",
+  "pkg_family": "osmosis",
+  "pkg_id": "osmosisd#github.com_osmosis_labs_osmosis",
+  "pkg_name": "osmosisd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osmosis-labs/osmosis",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The AMM Laboratory",
+  "homepage": [
+    "https://github.com/osmosis-labs/osmosis"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chain",
+    "node",
+    "osmosisd",
+    "querygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osmosis-labs/osmosis/archive/d353d851cdd382e495d5ca278140149e1c37e38b.tar.gz"
+  ],
+  "tag": [
+    "cosmos",
+    "defi",
+    "dex",
+    "osmosis"
+  ],
+  "version": "HEAD-d353d85-250626T085406",
+  "version_upstream": "",
+  "bsum": "33f6a882206969231f93343dc0325f48f25fb381cb500231505ed588ca9651b4",
+  "build_date": "2025-06-26T18:01:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907986874",
+  "build_id": "15907986874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osmosis-labs/osmosis/osmosisd?tag=HEAD-d353d85-250626T085406-x86_64-Linux&download=osmosisd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "944",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osmosis-labs/osmosis/osmosisd?tag=HEAD-d353d85-250626T085406-x86_64-Linux&download=osmosisd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osmosis-labs/osmosis/osmosisd:HEAD-d353d85-250626T085406-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osmosis-labs/osmosis/osmosisd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osmosis-labs/osmosis/osmosisd?tag=HEAD-d353d85-250626T085406-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2725507ec796d3de5b2d20521639ad754d2ca5fcaedf53072cbfb3723de936cf",
+  "size": "174 MB",
+  "size_raw": "182172936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
