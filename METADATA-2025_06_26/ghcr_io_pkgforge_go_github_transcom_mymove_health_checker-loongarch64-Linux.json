@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "health-checker",
+  "pkg_family": "mymove",
+  "pkg_id": "health-checker#github.com_transcom_mymove",
+  "pkg_name": "health-checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/89e831e0d6c54f2c21f8b91c775888924c589e50.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-89e831e-250625T144124",
+  "version_upstream": "",
+  "bsum": "a39589349447fd51bcc452690626e88b614cb11bc33dc91179c56226216c6ffc",
+  "build_date": "2025-06-26T12:35:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899298232",
+  "build_id": "15899298232",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/health-checker?tag=HEAD-89e831e-250625T144124-loongarch64-Linux&download=health-checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/health-checker?tag=HEAD-89e831e-250625T144124-loongarch64-Linux&download=health-checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/health-checker:HEAD-89e831e-250625T144124-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/health-checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/health-checker?tag=HEAD-89e831e-250625T144124-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8be3685909ba70228e624fe1e75963d531c00905daf58a299151ccde4350eac4",
+  "size": "7.6 MB",
+  "size_raw": "7904352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c66fc5-250623T170730-loongarch64-Linux",
+    "HEAD-fca2d91-250624T151221-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
