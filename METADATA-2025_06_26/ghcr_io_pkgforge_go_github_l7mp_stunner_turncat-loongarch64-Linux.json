@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "turncat",
+  "pkg_family": "stunner",
+  "pkg_id": "turncat#github.com_l7mp_stunner",
+  "pkg_name": "turncat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/l7mp/stunner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes media gateway for WebRTC. Contact: info@l7mp.io",
+  "homepage": [
+    "https://github.com/l7mp/stunner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "icetester",
+    "stunnerctl",
+    "stunnerd",
+    "turncat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/l7mp/stunner/archive/4e2f25d028b5f887a4aafe9edd0832642d3918e0.tar.gz"
+  ],
+  "tag": [
+    "gateway",
+    "kubernetes",
+    "webrtc"
+  ],
+  "version": "HEAD-4e2f25d-250625T132843",
+  "version_upstream": "",
+  "bsum": "86b0a82d70e12d0587af24b5f162af30af88956e359b587cbe65346b9b9a449c",
+  "build_date": "2025-06-26T03:17:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891501517",
+  "build_id": "15891501517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/l7mp/stunner/turncat?tag=HEAD-4e2f25d-250625T132843-loongarch64-Linux&download=turncat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "865",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/l7mp/stunner/turncat?tag=HEAD-4e2f25d-250625T132843-loongarch64-Linux&download=turncat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/l7mp/stunner/turncat:HEAD-4e2f25d-250625T132843-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/l7mp/stunner/turncat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/l7mp/stunner/turncat?tag=HEAD-4e2f25d-250625T132843-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81f0afc7fae07e4acc543598c5b2d714d5f82abb95fd91bf76fd2c006dab61b9",
+  "size": "67 MB",
+  "size_raw": "69437312",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f3faadd-250623T142955-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
