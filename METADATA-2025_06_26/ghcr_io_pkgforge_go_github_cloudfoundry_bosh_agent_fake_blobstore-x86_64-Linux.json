@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fake-blobstore",
+  "pkg_family": "bosh-agent",
+  "pkg_id": "fake-blobstore#github.com_cloudfoundry_bosh_agent",
+  "pkg_name": "fake-blobstore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/bosh-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BOSH Agent runs on each BOSH deployed VM",
+  "homepage": [
+    "https://github.com/cloudfoundry/bosh-agent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bosh-agent-main",
+    "execution-lock",
+    "fake-blobstore",
+    "pipe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/bosh-agent/archive/e72dfa1fc59a38db2a262dc935745c1a1d0ae6af.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e72dfa1-250625T215537",
+  "version_upstream": "v2.754.0",
+  "bsum": "4770b79069c50aee1e3384b5ad9d5a6cd60b49705559ff35fa3742b2aa48ea82",
+  "build_date": "2025-06-26T07:36:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895152316",
+  "build_id": "15895152316",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/fake-blobstore?tag=HEAD-e72dfa1-250625T215537-x86_64-Linux&download=fake-blobstore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/fake-blobstore?tag=HEAD-e72dfa1-250625T215537-x86_64-Linux&download=fake-blobstore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/bosh-agent/fake-blobstore:HEAD-e72dfa1-250625T215537-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/bosh-agent/fake-blobstore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-agent/fake-blobstore?tag=HEAD-e72dfa1-250625T215537-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d15bcbbe090670a410e17aec87b1c0679cbfa39e9f5d1e41dde3275f47d2dfa5",
+  "size": "5.9 MB",
+  "size_raw": "6169792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
