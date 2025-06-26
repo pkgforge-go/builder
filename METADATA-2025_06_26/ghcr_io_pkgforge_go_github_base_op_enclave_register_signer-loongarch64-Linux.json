@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "register-signer",
+  "pkg_family": "op-enclave",
+  "pkg_id": "register-signer#github.com_base_op_enclave",
+  "pkg_name": "register-signer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/base/op-enclave",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "op-stack state_less_ transition in an AWS Nitro enclave",
+  "homepage": [
+    "https://github.com/base/op-enclave"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "example",
+    "op-withdrawer",
+    "register-signer",
+    "testnet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/base/op-enclave/archive/a440708f34bc9a1b2d136906510095ffc6d0b4a4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a440708-250626T183508",
+  "version_upstream": "",
+  "bsum": "029abc6c3251ab37581bd51fea85e98681859e14a482cef79b268445c0888f45",
+  "build_date": "2025-06-26T16:25:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906590635",
+  "build_id": "15906590635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/base/op-enclave/register-signer?tag=HEAD-a440708-250626T183508-loongarch64-Linux&download=register-signer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "69",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/base/op-enclave/register-signer?tag=HEAD-a440708-250626T183508-loongarch64-Linux&download=register-signer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/base/op-enclave/register-signer:HEAD-a440708-250626T183508-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/base/op-enclave/register-signer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/base/op-enclave/register-signer?tag=HEAD-a440708-250626T183508-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c31b1767b58eb8c02bb93cc2b01999d9596632cb14779d2a07b46663d9fc3e7",
+  "size": "13 MB",
+  "size_raw": "13375264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "op-withdrawer",
+  "pkg_family": "op-enclave",
+  "pkg_id": "op-withdrawer#github.com_base_op_enclave",
+  "pkg_name": "op-withdrawer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/base/op-enclave",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "op-stack state_less_ transition in an AWS Nitro enclave",
+  "homepage": [
+    "https://github.com/base/op-enclave"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "example",
+    "op-withdrawer",
+    "register-signer",
+    "testnet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/base/op-enclave/archive/a440708f34bc9a1b2d136906510095ffc6d0b4a4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a440708-250626T183508",
+  "version_upstream": "",
+  "bsum": "ff9832472c48f673c3b94e71c021c00e1b54fcf43b54675f8ae139105ff27504",
+  "build_date": "2025-06-26T16:25:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906590635",
+  "build_id": "15906590635",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/base/op-enclave/op-withdrawer?tag=HEAD-a440708-250626T183508-loongarch64-Linux&download=op-withdrawer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "69",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/base/op-enclave/op-withdrawer?tag=HEAD-a440708-250626T183508-loongarch64-Linux&download=op-withdrawer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/base/op-enclave/op-withdrawer:HEAD-a440708-250626T183508-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/base/op-enclave/op-withdrawer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/base/op-enclave/op-withdrawer?tag=HEAD-a440708-250626T183508-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec4f5a6a604889a4b9c53efcdca6abae86556713770efcc78301b88a1891691f",
+  "size": "21 MB",
+  "size_raw": "21707696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
