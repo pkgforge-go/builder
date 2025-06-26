@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "chainlink",
+  "pkg_id": "gen#github.com_smartcontractkit_chainlink",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chainlink-medianpoc",
+    "fetchtrueusd",
+    "gen",
+    "generate",
+    "gomod-local-update",
+    "log-event-trigger",
+    "lstxtardirs",
+    "operator_ui",
+    "plugout",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink/archive/bb8c18f921584d65247a8a8d984be937aa05905c.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "chainlink",
+    "ethereum",
+    "golang",
+    "oracle",
+    "solidity"
+  ],
+  "version": "HEAD-bb8c18f-250626T004326",
+  "version_upstream": "",
+  "bsum": "7f75057cb32d9453c519f7c8bfc51f2ed33dc3dff9f452d806e9b5c0880f5d8f",
+  "build_date": "2025-06-26T12:23:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899168814",
+  "build_id": "15899168814",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/gen?tag=HEAD-bb8c18f-250626T004326-x86_64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7382",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/gen?tag=HEAD-bb8c18f-250626T004326-x86_64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/gen:HEAD-bb8c18f-250626T004326-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/gen?tag=HEAD-bb8c18f-250626T004326-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19f487406d61e760cb1656f63b7b3d6769a737bfcc32701bb64b2c486f055ecb",
+  "size": "3.5 MB",
+  "size_raw": "3658520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d62f55f-250620T210233-x86_64-Linux",
+    "HEAD-ecc35c5-250623T140742-x86_64-Linux",
+    "HEAD-0fd48a9-250624T122506-x86_64-Linux",
+    "HEAD-01619e1-250624T221827-x86_64-Linux",
+    "HEAD-cfba9d0-250625T124745-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
