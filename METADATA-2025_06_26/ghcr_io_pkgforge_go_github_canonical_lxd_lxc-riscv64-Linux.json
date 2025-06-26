@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lxc",
+  "pkg_family": "lxd",
+  "pkg_id": "lxc#github.com_canonical_lxd",
+  "pkg_name": "lxc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/lxd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/canonical/lxd"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devlxd-client",
+    "freshschema",
+    "generate",
+    "lxc",
+    "lxd-benchmark",
+    "lxd-metadata",
+    "lxd-user",
+    "mini-oidc",
+    "sysinfo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/lxd/archive/676e098aa8ca2856f8411dc14268bf80ebbd1a93.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "criu",
+    "go",
+    "hacktoberfest",
+    "lxc",
+    "lxd"
+  ],
+  "version": "HEAD-676e098-250625T192107",
+  "version_upstream": "",
+  "bsum": "fa56693e11fef2a9e2905e618847dbb0302cc648961676b47aa6e8f8dba895dc",
+  "build_date": "2025-06-26T10:24:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898687714",
+  "build_id": "15898687714",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/lxc?tag=HEAD-676e098-250625T192107-riscv64-Linux&download=lxc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4521",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/lxc?tag=HEAD-676e098-250625T192107-riscv64-Linux&download=lxc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/lxd/lxc:HEAD-676e098-250625T192107-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/lxd/lxc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/lxc?tag=HEAD-676e098-250625T192107-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c900b61e1407c6c42a635cf20e302c3954f01fff5e6f5765f0ebbaf4ca74f262",
+  "size": "17 MB",
+  "size_raw": "17535192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5290649-250619T134116-riscv64-Linux",
+    "HEAD-5ee6dd8-250621T220730-riscv64-Linux",
+    "HEAD-a8d328a-250622T215306-riscv64-Linux",
+    "HEAD-b5483fc-250623T144539-riscv64-Linux",
+    "HEAD-c946fe2-250623T230720-riscv64-Linux",
+    "HEAD-4767b9e-250624T142828-riscv64-Linux",
+    "HEAD-b84b2fa-250624T201349-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
