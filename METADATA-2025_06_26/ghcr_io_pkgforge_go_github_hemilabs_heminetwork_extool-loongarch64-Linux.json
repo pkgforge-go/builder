@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "extool",
+  "pkg_family": "heminetwork",
+  "pkg_id": "extool#github.com_hemilabs_heminetwork",
+  "pkg_name": "extool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hemilabs/heminetwork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The hemi network core daemons.",
+  "homepage": [
+    "https://github.com/hemilabs/heminetwork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bfgd",
+    "bssd",
+    "btctool",
+    "extool",
+    "hemictl",
+    "keygen",
+    "popmd",
+    "tbcd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hemilabs/heminetwork/archive/06391a2fb2c8c2fcfd0590de15af2047b1f79b7b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06391a2-250625T195239",
+  "version_upstream": "",
+  "bsum": "d2751942c520f1b4ffc7515b74e72b675bd026e8ba93366c7cc07a8678f9366d",
+  "build_date": "2025-06-26T11:03:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898849338",
+  "build_id": "15898849338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/extool?tag=HEAD-06391a2-250625T195239-loongarch64-Linux&download=extool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/extool?tag=HEAD-06391a2-250625T195239-loongarch64-Linux&download=extool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hemilabs/heminetwork/extool:HEAD-06391a2-250625T195239-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hemilabs/heminetwork/extool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/extool?tag=HEAD-06391a2-250625T195239-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93364fb522d6e28aae7c636000c1ad160c510b78a6f01506337bbd721104cb53",
+  "size": "7.5 MB",
+  "size_raw": "7822704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af45269-250614T001108-loongarch64-Linux",
+    "HEAD-1e46445-250623T105256-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

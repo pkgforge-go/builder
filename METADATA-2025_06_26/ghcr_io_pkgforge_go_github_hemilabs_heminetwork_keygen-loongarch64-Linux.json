@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "keygen",
+  "pkg_family": "heminetwork",
+  "pkg_id": "keygen#github.com_hemilabs_heminetwork",
+  "pkg_name": "keygen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hemilabs/heminetwork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The hemi network core daemons.",
+  "homepage": [
+    "https://github.com/hemilabs/heminetwork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bfgd",
+    "bssd",
+    "btctool",
+    "extool",
+    "hemictl",
+    "keygen",
+    "popmd",
+    "tbcd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hemilabs/heminetwork/archive/06391a2fb2c8c2fcfd0590de15af2047b1f79b7b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-06391a2-250625T195239",
+  "version_upstream": "",
+  "bsum": "e404abcb7bf0d4dfcce060583b53c0a48e3c594c5deb7ebdaf54ed61c27e17e9",
+  "build_date": "2025-06-26T11:02:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898849338",
+  "build_id": "15898849338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/keygen?tag=HEAD-06391a2-250625T195239-loongarch64-Linux&download=keygen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/keygen?tag=HEAD-06391a2-250625T195239-loongarch64-Linux&download=keygen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hemilabs/heminetwork/keygen:HEAD-06391a2-250625T195239-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hemilabs/heminetwork/keygen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hemilabs/heminetwork/keygen?tag=HEAD-06391a2-250625T195239-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c8115dbc955fbc6ec6fb74ae0dedaa0a1a1e8ea68bc684feaf257296dd38868",
+  "size": "4.1 MB",
+  "size_raw": "4222976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af45269-250614T001108-loongarch64-Linux",
+    "HEAD-1e46445-250623T105256-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
