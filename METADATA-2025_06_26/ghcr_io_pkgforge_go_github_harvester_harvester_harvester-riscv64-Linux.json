@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "harvester",
+  "pkg_family": "harvester",
+  "pkg_id": "harvester#github.com_harvester_harvester",
+  "pkg_name": "harvester",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "harvester",
+    "upgradehelper",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/bbfa95fb369f1700a99601f92a11d453045ce0f1.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-bbfa95f-250626T174620",
+  "version_upstream": "",
+  "bsum": "fd33b4b7b9c6e0a3bbb285177b6af22d74060b04073ff2aef02eaedd7ad897ec",
+  "build_date": "2025-06-26T23:16:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913327403",
+  "build_id": "15913327403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-bbfa95f-250626T174620-riscv64-Linux&download=harvester.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-bbfa95f-250626T174620-riscv64-Linux&download=harvester",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/harvester:HEAD-bbfa95f-250626T174620-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/harvester",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/harvester?tag=HEAD-bbfa95f-250626T174620-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "28dcb9e685095d0f78641254f2715bdf3557d3d79041784dedbfce239629aa0f",
+  "size": "140 MB",
+  "size_raw": "146455064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a930b01-250620T092130-riscv64-Linux",
+    "HEAD-07ffa03-250623T102940-riscv64-Linux",
+    "HEAD-3e05ba2-250623T214921-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
