@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "create-s3-replication-job",
+  "pkg_family": "opg-modernising-lpa",
+  "pkg_id": "create-s3-replication-job#github.com_ministryofjustice_opg_modernising_lpa",
+  "pkg_name": "create-s3-replication-job",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ministryofjustice/opg-modernising-lpa",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OPG Modernising LPA: Managed by opg-org-infra _ Terraform",
+  "homepage": [
+    "https://github.com/ministryofjustice/opg-modernising-lpa"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-s3-replication-job",
+    "enumerator",
+    "event-logger",
+    "event-received",
+    "mlpa",
+    "mock-notify",
+    "mock-os-api",
+    "prevent_it_only",
+    "prevent_unsafe_chains",
+    "schedule-runner",
+    "scheduled-task-adder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ministryofjustice/opg-modernising-lpa/archive/ff38c23b0f1958f7e2a90ca580ff6300bc587053.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ff38c23-250626T095001",
+  "version_upstream": "v0.1868.31",
+  "bsum": "51dc8b5133a2571594a167887e9a2f99be58d0598e29d9313ea92dd37e6affd7",
+  "build_date": "2025-06-26T17:31:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907563080",
+  "build_id": "15907563080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/create-s3-replication-job?tag=HEAD-ff38c23-250626T095001-x86_64-Linux&download=create-s3-replication-job.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/create-s3-replication-job?tag=HEAD-ff38c23-250626T095001-x86_64-Linux&download=create-s3-replication-job",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/create-s3-replication-job:HEAD-ff38c23-250626T095001-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/create-s3-replication-job",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/create-s3-replication-job?tag=HEAD-ff38c23-250626T095001-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc61d4838bc360de0908cbc800a6f136253210797b9849e420689437f9996181",
+  "size": "20 MB",
+  "size_raw": "20049024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mlpa",
+  "pkg_family": "opg-modernising-lpa",
+  "pkg_id": "mlpa#github.com_ministryofjustice_opg_modernising_lpa",
+  "pkg_name": "mlpa",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ministryofjustice/opg-modernising-lpa",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OPG Modernising LPA: Managed by opg-org-infra _ Terraform",
+  "homepage": [
+    "https://github.com/ministryofjustice/opg-modernising-lpa"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-s3-replication-job",
+    "enumerator",
+    "event-logger",
+    "event-received",
+    "mlpa",
+    "mock-notify",
+    "mock-os-api",
+    "prevent_it_only",
+    "prevent_unsafe_chains",
+    "schedule-runner",
+    "scheduled-task-adder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ministryofjustice/opg-modernising-lpa/archive/ff38c23b0f1958f7e2a90ca580ff6300bc587053.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ff38c23-250626T095001",
+  "version_upstream": "v0.1868.31",
+  "bsum": "646cb9c0755ac9a75a2b236d41f6a96621e6cd4de69350694956149959cb8149",
+  "build_date": "2025-06-26T17:32:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907563080",
+  "build_id": "15907563080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/mlpa?tag=HEAD-ff38c23-250626T095001-x86_64-Linux&download=mlpa.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/mlpa?tag=HEAD-ff38c23-250626T095001-x86_64-Linux&download=mlpa",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/mlpa:HEAD-ff38c23-250626T095001-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/mlpa",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/mlpa?tag=HEAD-ff38c23-250626T095001-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "de20dbcc9d1f7e207518df64203850875f22d92da942bee3a96d5c611f636912",
+  "size": "37 MB",
+  "size_raw": "38581504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
