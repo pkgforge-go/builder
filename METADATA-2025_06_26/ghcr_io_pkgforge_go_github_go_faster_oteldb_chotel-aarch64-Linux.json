@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "chotel",
+  "pkg_family": "oteldb",
+  "pkg_id": "chotel#github.com_go_faster_oteldb",
+  "pkg_name": "chotel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-faster/oteldb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTelemetry signal storage",
+  "homepage": [
+    "https://github.com/go-faster/oteldb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chotel",
+    "compliance-verify",
+    "compliance-wait",
+    "docker-logql",
+    "logql-compliance-tester",
+    "otelbench",
+    "oteldb",
+    "oteldemo",
+    "otelproxy",
+    "promql-compliance-tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-faster/oteldb/archive/3111e5ea263563e4e0ab3dd17117bfdd43c5254d.tar.gz"
+  ],
+  "tag": [
+    "clickhouse",
+    "clickhouse-server",
+    "grafana",
+    "grafana-datasource",
+    "logging",
+    "logql",
+    "logs",
+    "loki",
+    "monitoring",
+    "observability",
+    "open-telemetry",
+    "opentelemetry",
+    "otel",
+    "prometheus",
+    "promql",
+    "tempo",
+    "traceql",
+    "tracing"
+  ],
+  "version": "HEAD-3111e5e-250626T050242",
+  "version_upstream": "",
+  "bsum": "a1811b7dd7379a2f76e82039155663102b2be34c575c54c612d1f476084c3e32",
+  "build_date": "2025-06-26T07:59:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895241898",
+  "build_id": "15895241898",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/chotel?tag=HEAD-3111e5e-250626T050242-aarch64-Linux&download=chotel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/chotel?tag=HEAD-3111e5e-250626T050242-aarch64-Linux&download=chotel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-faster/oteldb/chotel:HEAD-3111e5e-250626T050242-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-faster/oteldb/chotel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/chotel?tag=HEAD-3111e5e-250626T050242-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "928cd9750a7f601e8cd6ea66f8b9c95ad23c06adafae378fecfc6eabf6bcee7b",
+  "size": "23 MB",
+  "size_raw": "23302880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
