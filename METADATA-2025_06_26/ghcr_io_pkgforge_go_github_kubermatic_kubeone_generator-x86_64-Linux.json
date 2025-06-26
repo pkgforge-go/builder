@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "kubeone",
+  "pkg_id": "generator#github.com_kubermatic_kubeone",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubermatic/kubeone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.",
+  "homepage": [
+    "https://github.com/kubermatic/kubeone"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apidoc-gen",
+    "generator",
+    "kubeone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubermatic/kubeone/archive/58da8217749e9e960210f4692ed7ad23c54f4bcd.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "kubernetes"
+  ],
+  "version": "HEAD-58da821-250626T125750",
+  "version_upstream": "",
+  "bsum": "19d594e70f9c0c6133a5ea2a2f5de2ba30235f046852b43781c710c2606419e6",
+  "build_date": "2025-06-26T23:35:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913383820",
+  "build_id": "15913383820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/kubeone/generator?tag=HEAD-58da821-250626T125750-x86_64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1446",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/kubeone/generator?tag=HEAD-58da821-250626T125750-x86_64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubermatic/kubeone/generator:HEAD-58da821-250626T125750-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubermatic/kubeone/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubermatic/kubeone/generator?tag=HEAD-58da821-250626T125750-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5677033b5b8eb81a6c339c355e97a2b717aab1433a743b9f3c243b15cad158b0",
+  "size": "67 MB",
+  "size_raw": "69922304",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-be66679-250625T000349-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
