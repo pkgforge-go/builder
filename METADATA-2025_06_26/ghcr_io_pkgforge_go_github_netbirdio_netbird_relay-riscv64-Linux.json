@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "relay",
+  "pkg_family": "netbird",
+  "pkg_id": "relay#github.com_netbirdio_netbird",
+  "pkg_name": "relay",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/netbirdio/netbird",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+  "homepage": [
+    "https://github.com/netbirdio/netbird"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "example",
+    "management",
+    "relay",
+    "signal",
+    "testec2",
+    "upload-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/netbirdio/netbird/archive/52ff9d960213181a49cfa5f6bdfae6fb9bf3f513.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "mesh",
+    "mesh-networks",
+    "nat-traversal",
+    "netbird",
+    "vpn",
+    "wireguard",
+    "wireguard-vpn",
+    "wiretrustee",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-52ff9d9-250626T013422",
+  "version_upstream": "",
+  "bsum": "797bf8de948d2272df993d1251be7510685e87f72665e11fc8ed0b627927005b",
+  "build_date": "2025-06-26T11:24:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898968064",
+  "build_id": "15898968064",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/relay?tag=HEAD-52ff9d9-250626T013422-riscv64-Linux&download=relay.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16430",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/relay?tag=HEAD-52ff9d9-250626T013422-riscv64-Linux&download=relay",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netbirdio/netbird/relay:HEAD-52ff9d9-250626T013422-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netbirdio/netbird/relay",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netbirdio/netbird/relay?tag=HEAD-52ff9d9-250626T013422-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd9139e85f33ad902185ce3c580b59e9fe1f125231c415fec4bc87e38f3e88b1",
+  "size": "23 MB",
+  "size_raw": "23394584",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-83457f8-250620T121324-riscv64-Linux",
+    "HEAD-870e29d-250622T134425-riscv64-Linux",
+    "HEAD-5343bee-250622T164433-riscv64-Linux",
+    "HEAD-f37aa2c-250623T100902-riscv64-Linux",
+    "HEAD-d897365-250624T213237-riscv64-Linux[v0.49.0]",
+    "HEAD-1b73fae-250625T114635-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
