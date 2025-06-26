@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "diff2",
+  "pkg_family": "hugescm",
+  "pkg_id": "diff2#github.com_antgroup_hugescm",
+  "pkg_name": "diff2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antgroup/hugescm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HugeSCM - A next generation cloud-based version control system",
+  "homepage": [
+    "https://github.com/antgroup/hugescm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bar2",
+    "diff2",
+    "lcs",
+    "setv",
+    "term",
+    "zeta",
+    "zeta-mc",
+    "zeta-serve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antgroup/hugescm/archive/43c5208d0302fb2007bf972b7f4b1c0711cfed31.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "git",
+    "hugescm",
+    "monorepo",
+    "vcs"
+  ],
+  "version": "HEAD-43c5208-250626T100947",
+  "version_upstream": "",
+  "bsum": "7e5423110065e6f8a0307c4554c6d7ae47426c57b8afb9d0cc49fafce5a4b650",
+  "build_date": "2025-06-26T10:02:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898681827",
+  "build_id": "15898681827",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/diff2?tag=HEAD-43c5208-250626T100947-riscv64-Linux&download=diff2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/diff2?tag=HEAD-43c5208-250626T100947-riscv64-Linux&download=diff2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antgroup/hugescm/diff2:HEAD-43c5208-250626T100947-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antgroup/hugescm/diff2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/diff2?tag=HEAD-43c5208-250626T100947-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "013ce7c5172a3be81765c2d147039608559729bfc37dd983b7353f996aaeaa31",
+  "size": "6.0 MB",
+  "size_raw": "6251576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7ae9d3-250619T200645-riscv64-Linux",
+    "HEAD-bfd32d7-250624T172242-riscv64-Linux[v0.18.1]"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lcs",
+  "pkg_family": "hugescm",
+  "pkg_id": "lcs#github.com_antgroup_hugescm",
+  "pkg_name": "lcs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antgroup/hugescm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HugeSCM - A next generation cloud-based version control system",
+  "homepage": [
+    "https://github.com/antgroup/hugescm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bar2",
+    "diff2",
+    "lcs",
+    "setv",
+    "term",
+    "zeta",
+    "zeta-mc",
+    "zeta-serve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antgroup/hugescm/archive/43c5208d0302fb2007bf972b7f4b1c0711cfed31.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "git",
+    "hugescm",
+    "monorepo",
+    "vcs"
+  ],
+  "version": "HEAD-43c5208-250626T100947",
+  "version_upstream": "",
+  "bsum": "631b75613796c1c764192d3584b1b691302159158fe4f84242e61739b1869949",
+  "build_date": "2025-06-26T10:02:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898681827",
+  "build_id": "15898681827",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/lcs?tag=HEAD-43c5208-250626T100947-riscv64-Linux&download=lcs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/lcs?tag=HEAD-43c5208-250626T100947-riscv64-Linux&download=lcs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antgroup/hugescm/lcs:HEAD-43c5208-250626T100947-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antgroup/hugescm/lcs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/lcs?tag=HEAD-43c5208-250626T100947-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1cbc57a154eacec02678497471d872a54abab4d48288d42cbfb20dd2e221b14",
+  "size": "1.6 MB",
+  "size_raw": "1581640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7ae9d3-250619T200645-riscv64-Linux",
+    "HEAD-bfd32d7-250624T172242-riscv64-Linux[v0.18.1]"
+  ],
+  "trusted": "true"
+}
