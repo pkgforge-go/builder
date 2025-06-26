@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "h3",
+  "pkg_family": "zinc",
+  "pkg_id": "h3#github.com_zincium_zinc",
+  "pkg_name": "h3",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zincium/zinc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The whims and realizations of Git hosting services",
+  "homepage": [
+    "https://github.com/zincium/zinc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balance-update",
+    "h3",
+    "netcat",
+    "post-receive",
+    "pre-receive",
+    "silver-sshd",
+    "update",
+    "zinc",
+    "zinc-balanced",
+    "zinc-sshd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zincium/zinc/archive/3279f5cfd0d4780ae29c07026a26ba7839f1bb13.tar.gz"
+  ],
+  "tag": [
+    "git"
+  ],
+  "version": "HEAD-3279f5c-250626T093819",
+  "version_upstream": "",
+  "bsum": "d9e905838615de019da5d9d66a47326d4181e7ee360726bad2c4d038738b4af9",
+  "build_date": "2025-06-26T12:26:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899561317",
+  "build_id": "15899561317",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/h3?tag=HEAD-3279f5c-250626T093819-x86_64-Linux&download=h3.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/h3?tag=HEAD-3279f5c-250626T093819-x86_64-Linux&download=h3",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zincium/zinc/h3:HEAD-3279f5c-250626T093819-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zincium/zinc/h3",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/h3?tag=HEAD-3279f5c-250626T093819-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e873f5736db5224e4514ffa1db36e67a8ac2a79b4bc80cea40e6821fe1f6f00",
+  "size": "8.2 MB",
+  "size_raw": "8558240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-77909b8-250624T203255-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

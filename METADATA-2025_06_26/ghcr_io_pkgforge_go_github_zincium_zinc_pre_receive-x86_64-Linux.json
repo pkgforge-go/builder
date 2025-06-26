@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pre-receive",
+  "pkg_family": "zinc",
+  "pkg_id": "pre-receive#github.com_zincium_zinc",
+  "pkg_name": "pre-receive",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zincium/zinc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The whims and realizations of Git hosting services",
+  "homepage": [
+    "https://github.com/zincium/zinc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balance-update",
+    "h3",
+    "netcat",
+    "post-receive",
+    "pre-receive",
+    "silver-sshd",
+    "update",
+    "zinc",
+    "zinc-balanced",
+    "zinc-sshd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zincium/zinc/archive/3279f5cfd0d4780ae29c07026a26ba7839f1bb13.tar.gz"
+  ],
+  "tag": [
+    "git"
+  ],
+  "version": "HEAD-3279f5c-250626T093819",
+  "version_upstream": "",
+  "bsum": "19e5e74fb49685887d9f146e28cbb2c1f4c4d3cd2a39269a6f597018a93eb158",
+  "build_date": "2025-06-26T12:27:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899561317",
+  "build_id": "15899561317",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/pre-receive?tag=HEAD-3279f5c-250626T093819-x86_64-Linux&download=pre-receive.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/pre-receive?tag=HEAD-3279f5c-250626T093819-x86_64-Linux&download=pre-receive",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zincium/zinc/pre-receive:HEAD-3279f5c-250626T093819-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zincium/zinc/pre-receive",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/pre-receive?tag=HEAD-3279f5c-250626T093819-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "249805553469ddc45d60f179ade9e184ec23649df80e08d50501d05e117343cd",
+  "size": "1.1 MB",
+  "size_raw": "1140152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-77909b8-250624T203255-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
