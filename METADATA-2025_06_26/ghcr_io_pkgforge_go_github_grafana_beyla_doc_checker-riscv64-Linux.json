@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "doc-checker",
+  "pkg_family": "beyla",
+  "pkg_id": "doc-checker#github.com_grafana_beyla",
+  "pkg_name": "doc-checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/beyla",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF-based autoinstrumentation of web applications and network metrics",
+  "homepage": [
+    "https://github.com/grafana/beyla"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alloy-field-checker",
+    "beyla-genfiles",
+    "client",
+    "doc-checker",
+    "example-http-service",
+    "golang",
+    "grpcpinger",
+    "http2",
+    "httppinger",
+    "k8s-cache",
+    "k8s-cache-example-client",
+    "offsets",
+    "pingclient",
+    "pingserver",
+    "pingwrapper",
+    "server",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/beyla/archive/ef62b8885fb6f2fc62e15a939da88455f5104dfb.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "metrics-gathering",
+    "observability",
+    "traces"
+  ],
+  "version": "HEAD-ef62b88-250626T100415",
+  "version_upstream": "",
+  "bsum": "5b70e4b63a175246debed4e17c84cda7e07dcaf853823673cb9545ac54d2d42a",
+  "build_date": "2025-06-26T23:11:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913327468",
+  "build_id": "15913327468",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/beyla/doc-checker?tag=HEAD-ef62b88-250626T100415-riscv64-Linux&download=doc-checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1725",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/beyla/doc-checker?tag=HEAD-ef62b88-250626T100415-riscv64-Linux&download=doc-checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/beyla/doc-checker:HEAD-ef62b88-250626T100415-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/beyla/doc-checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/beyla/doc-checker?tag=HEAD-ef62b88-250626T100415-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0f3bccee90e8da6a4dae9be1495382111c0b4c452bd47da4e6935c6d591987d5",
+  "size": "2.1 MB",
+  "size_raw": "2188936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-065d6dd-250619T164451-riscv64-Linux",
+    "HEAD-9d4f8f9-250620T165341-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
