@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "testserver",
+  "pkg_family": "terramate",
+  "pkg_id": "testserver#github.com_terramate_io_terramate",
+  "pkg_name": "testserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terramate-io/terramate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-source Infrastructure as Code _IaC_ orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and more. Integrates with Terraform, OpenTofu, Terragrunt, Kubernetes, GitHub Actions, GitLab CI/CD, BitBucket Pipelines, and any other CI/CD platform.",
+  "homepage": [
+    "https://github.com/terramate-io/terramate"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helper",
+    "terramate",
+    "terramate-ls",
+    "testserver",
+    "tgdeps"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terramate-io/terramate/archive/005217b83710be61ea18b8d0ced3d0f88a669870.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-005217b-250626T111522",
+  "version_upstream": "v0.14.0-rc1",
+  "bsum": "dab70b4ce6b303c77306e51b3f1aa0af518d8f6bffdce9726957244f6578b66a",
+  "build_date": "2025-06-26T18:16:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908529962",
+  "build_id": "15908529962",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/testserver?tag=HEAD-005217b-250626T111522-loongarch64-Linux&download=testserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3399",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/testserver?tag=HEAD-005217b-250626T111522-loongarch64-Linux&download=testserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terramate-io/terramate/testserver:HEAD-005217b-250626T111522-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terramate-io/terramate/testserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/testserver?tag=HEAD-005217b-250626T111522-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1abeaea6f492e45eab4e31e08942355f0a6cf94cb53de3e74db3a3a427bb6b5e",
+  "size": "7.4 MB",
+  "size_raw": "7721312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

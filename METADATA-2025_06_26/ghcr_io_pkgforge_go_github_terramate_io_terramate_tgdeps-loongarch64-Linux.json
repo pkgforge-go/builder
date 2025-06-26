@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tgdeps",
+  "pkg_family": "terramate",
+  "pkg_id": "tgdeps#github.com_terramate_io_terramate",
+  "pkg_name": "tgdeps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/terramate-io/terramate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-source Infrastructure as Code _IaC_ orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and more. Integrates with Terraform, OpenTofu, Terragrunt, Kubernetes, GitHub Actions, GitLab CI/CD, BitBucket Pipelines, and any other CI/CD platform.",
+  "homepage": [
+    "https://github.com/terramate-io/terramate"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helper",
+    "terramate",
+    "terramate-ls",
+    "testserver",
+    "tgdeps"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/terramate-io/terramate/archive/005217b83710be61ea18b8d0ced3d0f88a669870.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-005217b-250626T111522",
+  "version_upstream": "v0.14.0-rc1",
+  "bsum": "fd46cd5d455e2d5f4e56dfa9e346f6a337a24c273295d13ed90069cc6d8e4c21",
+  "build_date": "2025-06-26T18:16:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908529962",
+  "build_id": "15908529962",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/tgdeps?tag=HEAD-005217b-250626T111522-loongarch64-Linux&download=tgdeps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3399",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/tgdeps?tag=HEAD-005217b-250626T111522-loongarch64-Linux&download=tgdeps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/terramate-io/terramate/tgdeps:HEAD-005217b-250626T111522-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/terramate-io/terramate/tgdeps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/terramate-io/terramate/tgdeps?tag=HEAD-005217b-250626T111522-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa38da392bbaca399e435392af82816ab318b685e71e48fa3e26fe094907cdb1",
+  "size": "38 MB",
+  "size_raw": "38943376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
