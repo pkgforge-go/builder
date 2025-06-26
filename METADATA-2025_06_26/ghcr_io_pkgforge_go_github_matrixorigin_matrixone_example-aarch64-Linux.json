@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "matrixone",
+  "pkg_id": "example#github.com_matrixorigin_matrixone",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrixorigin/matrixone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperconverged cloud-edge native database",
+  "homepage": [
+    "https://github.com/matrixorigin/matrixone"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "goyacc",
+    "pingpong",
+    "stream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrixorigin/matrixone/archive/b0884fc745b4b4d0abe0362756b3f853cfaa8fb2.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "go",
+    "htap",
+    "hyperconverged",
+    "olap",
+    "one-size-fits-all",
+    "sql",
+    "streaming"
+  ],
+  "version": "HEAD-b0884fc-250625T121755",
+  "version_upstream": "",
+  "bsum": "ae98be5060f449832570c38681333a33b009f95cf8ab8b220afd3bf2cf54e98a",
+  "build_date": "2025-06-26T03:29:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891518404",
+  "build_id": "15891518404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/example?tag=HEAD-b0884fc-250625T121755-aarch64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1839",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/example?tag=HEAD-b0884fc-250625T121755-aarch64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrixorigin/matrixone/example:HEAD-b0884fc-250625T121755-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrixorigin/matrixone/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/example?tag=HEAD-b0884fc-250625T121755-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8af0d1f6a1d9f968f73e1cacd11dba5eb6da2309d3e0fab53dd1a7b628a76b9a",
+  "size": "30 MB",
+  "size_raw": "31389056",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e4b3e25-250620T091422-aarch64-Linux",
+    "HEAD-52844ed-250623T090421-aarch64-Linux",
+    "HEAD-eae3df9-250624T121119-aarch64-Linux",
+    "HEAD-a526248-250625T024516-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
