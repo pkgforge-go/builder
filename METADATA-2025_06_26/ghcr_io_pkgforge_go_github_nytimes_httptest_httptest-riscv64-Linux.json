@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "httptest",
+  "pkg_family": "httptest",
+  "pkg_id": "httptest#github.com_nytimes_httptest",
+  "pkg_name": "httptest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nytimes/httptest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple concurrent HTTP testing tool",
+  "homepage": [
+    "https://github.com/nytimes/httptest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "httptest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nytimes/httptest/archive/40be7466f0d59e6152c9888e5c76dfd6117dbcb6.tar.gz"
+  ],
+  "tag": [
+    "cicd",
+    "container",
+    "drone-ci",
+    "github-actions",
+    "golang",
+    "http",
+    "testing"
+  ],
+  "version": "HEAD-40be746-250626T093511",
+  "version_upstream": "",
+  "bsum": "b7e98e782529af7fc964b4c085bb1568b8e613f52b64d82405700ba0106a8e8d",
+  "build_date": "2025-06-26T17:38:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907769018",
+  "build_id": "15907769018",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nytimes/httptest/httptest?tag=HEAD-40be746-250626T093511-riscv64-Linux&download=httptest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nytimes/httptest/httptest?tag=HEAD-40be746-250626T093511-riscv64-Linux&download=httptest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nytimes/httptest/httptest:HEAD-40be746-250626T093511-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nytimes/httptest/httptest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nytimes/httptest/httptest?tag=HEAD-40be746-250626T093511-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bab2fada3c738fc219b4872cbdca64af42418d5571a7e05be423401d9c5723fc",
+  "size": "7.2 MB",
+  "size_raw": "7512312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
