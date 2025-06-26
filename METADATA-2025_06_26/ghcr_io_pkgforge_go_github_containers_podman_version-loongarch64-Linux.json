@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "version",
+  "pkg_family": "podman",
+  "pkg_id": "version#github.com_containers_podman",
+  "pkg_name": "version",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/podman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Podman: A tool for managing OCI containers and pods.",
+  "homepage": [
+    "https://github.com/containers/podman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goecho",
+    "quadlet",
+    "rootlessport",
+    "testvol",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/podman/archive/683e9b2c94a3e1ddc809b060a2373142f7424773.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "oci"
+  ],
+  "version": "HEAD-683e9b2-250625T194814",
+  "version_upstream": "",
+  "bsum": "086885393db437ec0c294b29a9a5116cecba229cefe71a24e2d48657afd73936",
+  "build_date": "2025-06-26T13:39:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902886540",
+  "build_id": "15902886540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/version?tag=HEAD-683e9b2-250625T194814-loongarch64-Linux&download=version.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/version?tag=HEAD-683e9b2-250625T194814-loongarch64-Linux&download=version",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/podman/version:HEAD-683e9b2-250625T194814-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/podman/version",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/version?tag=HEAD-683e9b2-250625T194814-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eae09b11d2be93da6d83d1adb2cb8d6700da70fc399d60f8e4c74ea02ff7dfef",
+  "size": "1.7 MB",
+  "size_raw": "1719224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c89b64-250619T115916-loongarch64-Linux",
+    "HEAD-7808625-250619T194524-loongarch64-Linux",
+    "HEAD-14a99b3-250623T131419-loongarch64-Linux",
+    "HEAD-eece0a1-250624T140722-loongarch64-Linux",
+    "HEAD-7780e28-250624T194430-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
