@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bklr",
+  "pkg_family": "bkl",
+  "pkg_id": "bklr#github.com_gopatchy_bkl",
+  "pkg_name": "bklr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gopatchy/bkl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Layered Configuration Language",
+  "homepage": [
+    "https://github.com/gopatchy/bkl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bkl",
+    "bkl-docs",
+    "bkl-mcp",
+    "bklb",
+    "bkld",
+    "bkli",
+    "bklr",
+    "kubectl-bkl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gopatchy/bkl/archive/d764f31295149ab711e5220ad3070509fbfe0047.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "deployment",
+    "devops",
+    "json",
+    "k8s",
+    "kubernetes",
+    "sre",
+    "toml",
+    "yaml"
+  ],
+  "version": "HEAD-d764f31-250625T202006",
+  "version_upstream": "",
+  "bsum": "8889019d541e235b9e848ca7cf78ddcd89ee743bf1dc535ee81673b646d24d7d",
+  "build_date": "2025-06-26T10:51:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898813963",
+  "build_id": "15898813963",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bklr?tag=HEAD-d764f31-250625T202006-riscv64-Linux&download=bklr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bklr?tag=HEAD-d764f31-250625T202006-riscv64-Linux&download=bklr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopatchy/bkl/bklr:HEAD-d764f31-250625T202006-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopatchy/bkl/bklr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bklr?tag=HEAD-d764f31-250625T202006-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06bc07319f197d20f0f6530c5070a3aebab7bc6a65022dbf47e3577fb4c59583",
+  "size": "3.4 MB",
+  "size_raw": "3543576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0d7305b-250620T001905-riscv64-Linux",
+    "HEAD-77a43a1-250621T235940-riscv64-Linux",
+    "HEAD-d01f478-250622T211058-riscv64-Linux",
+    "HEAD-7f738c2-250623T203905-riscv64-Linux",
+    "HEAD-75cc93d-250624T163631-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
