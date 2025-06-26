@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "k3k-kubelet",
+  "pkg_family": "k3k",
+  "pkg_id": "k3k-kubelet#github.com_rancher_k3k",
+  "pkg_name": "k3k-kubelet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/k3k",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes in Kubernetes",
+  "homepage": [
+    "https://github.com/rancher/k3k"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "k3k",
+    "k3k-cli",
+    "k3k-kubelet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/k3k/archive/8eb5c49ce4563131dc7fb09f61d4302438d13413.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8eb5c49-250625T104852",
+  "version_upstream": "chart-0.3.3-r5",
+  "bsum": "89240b15140175332bc3aece02d98062f6ec955e0a42fec855a92e769ec8cf65",
+  "build_date": "2025-06-26T00:32:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888122400",
+  "build_id": "15888122400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/k3k-kubelet?tag=HEAD-8eb5c49-250625T104852-riscv64-Linux&download=k3k-kubelet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "335",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/k3k-kubelet?tag=HEAD-8eb5c49-250625T104852-riscv64-Linux&download=k3k-kubelet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/k3k/k3k-kubelet:HEAD-8eb5c49-250625T104852-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/k3k/k3k-kubelet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/k3k-kubelet?tag=HEAD-8eb5c49-250625T104852-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f8338937171b35fc2dc0a4055fbb01542180dff5ee1349f32ab897535507660",
+  "size": "64 MB",
+  "size_raw": "66399896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f5d2e98-250620T181910-riscv64-Linux[chart-0.3.3-r3]",
+    "HEAD-b810736-250623T143136-riscv64-Linux[v0.3.3-rc4]",
+    "HEAD-54ae8d2-250624T235614-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
