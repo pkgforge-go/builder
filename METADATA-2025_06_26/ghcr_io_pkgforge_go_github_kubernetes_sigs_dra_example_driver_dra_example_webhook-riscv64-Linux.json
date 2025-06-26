@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dra-example-webhook",
+  "pkg_family": "dra-example-driver",
+  "pkg_id": "dra-example-webhook#github.com_kubernetes_sigs_dra_example_driver",
+  "pkg_name": "dra-example-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/dra-example-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Example DRA driver that developers can fork and modify to get them started writing their own.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/dra-example-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dra-example-kubeletplugin",
+    "dra-example-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/dra-example-driver/archive/131b342e148e43deeb71e0ccc043ca12c80d538e.tar.gz"
+  ],
+  "tag": [
+    "sig-node"
+  ],
+  "version": "HEAD-131b342-250625T134628",
+  "version_upstream": "",
+  "bsum": "9b7a903034e3a311ec788ca7ffa4fe6baee917697741f027f439b53ffc4a9706",
+  "build_date": "2025-06-26T08:22:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895937622",
+  "build_id": "15895937622",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-webhook?tag=HEAD-131b342-250625T134628-riscv64-Linux&download=dra-example-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "75",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-webhook?tag=HEAD-131b342-250625T134628-riscv64-Linux&download=dra-example-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-webhook:HEAD-131b342-250625T134628-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-webhook?tag=HEAD-131b342-250625T134628-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f461173390b9892e2643b54bef6f514240cae4579df472544d0f96db31962a5b",
+  "size": "38 MB",
+  "size_raw": "38942840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
