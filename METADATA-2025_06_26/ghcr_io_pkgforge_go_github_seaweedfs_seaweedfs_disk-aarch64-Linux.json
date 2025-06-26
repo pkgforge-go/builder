@@ -1,0 +1,109 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "disk",
+  "pkg_family": "seaweedfs",
+  "pkg_id": "disk#github.com_seaweedfs_seaweedfs",
+  "pkg_name": "disk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/seaweedfs/seaweedfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O_1_ disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+  "homepage": [
+    "https://github.com/seaweedfs/seaweedfs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent_pub_record",
+    "agent_sub_record",
+    "bench_filer_upload",
+    "change_superblock",
+    "check_disk_size",
+    "compact_leveldb",
+    "diff_volume_servers",
+    "disk",
+    "fix_dat",
+    "load_test_leveldb",
+    "load_test_meta_tail",
+    "multipart",
+    "presigned_put",
+    "remove_duplicate_fids",
+    "repeated_vacuum",
+    "s3client",
+    "see_dat",
+    "see_idx",
+    "see_log_entry",
+    "see_meta",
+    "stream_read_volume",
+    "stress_filer_upload_actual",
+    "volume_tailer",
+    "weed",
+    "write_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/seaweedfs/seaweedfs/archive/95261a712ee272e1924939d827d18df048f2c72e.tar.gz"
+  ],
+  "tag": [
+    "blob-storage",
+    "cloud-drive",
+    "distributed-file-system",
+    "distributed-storage",
+    "distributed-systems",
+    "erasure-coding",
+    "fuse",
+    "hadoop-hdfs",
+    "hdfs",
+    "kubernetes",
+    "object-storage",
+    "posix",
+    "replication",
+    "s3",
+    "s3-storage",
+    "seaweedfs",
+    "tiered-file-system"
+  ],
+  "version": "HEAD-95261a7-250624T230439",
+  "version_upstream": "",
+  "bsum": "ac3ebe2f8151fd13c7faecf4a0cc326d5e9901da67b8811c05df584364d49c04",
+  "build_date": "2025-06-26T00:46:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888133277",
+  "build_id": "15888133277",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/disk?tag=HEAD-95261a7-250624T230439-aarch64-Linux&download=disk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24917",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/disk?tag=HEAD-95261a7-250624T230439-aarch64-Linux&download=disk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seaweedfs/seaweedfs/disk:HEAD-95261a7-250624T230439-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/seaweedfs/seaweedfs/disk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/disk?tag=HEAD-95261a7-250624T230439-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dbab4bba6ef8e378449bca4f382095079ff480978bf0bce5703045436309b128",
+  "size": "1.7 MB",
+  "size_raw": "1692568",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5a7d226-250620T173017-aarch64-Linux",
+    "HEAD-7324cb7-250622T211706-aarch64-Linux[3.92]",
+    "HEAD-2cdd809-250623T141202-aarch64-Linux",
+    "HEAD-4511c2c-250624T084406-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
