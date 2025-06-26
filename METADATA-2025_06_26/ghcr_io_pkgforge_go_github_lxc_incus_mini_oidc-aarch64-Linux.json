@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mini-oidc",
+  "pkg_family": "incus",
+  "pkg_id": "mini-oidc#github.com_lxc_incus",
+  "pkg_name": "mini-oidc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lxc/incus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/lxc/incus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev_incus-client",
+    "generate-config",
+    "generate-database",
+    "incus",
+    "incus-benchmark",
+    "incus-migrate",
+    "incus-simplestreams",
+    "lxd-to-incus",
+    "mini-oidc",
+    "sysinfo",
+    "tls2jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lxc/incus/archive/6a5c119b516c0e6fcb1f0d7c9e2456dbed040428.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "containers",
+    "hacktoberfest",
+    "virtual-machines"
+  ],
+  "version": "HEAD-6a5c119-250625T080657",
+  "version_upstream": "",
+  "bsum": "d46e8b26a9fb13d107a5408d90a48e0463f731eb342739415803902beaa8398c",
+  "build_date": "2025-06-26T03:25:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891504914",
+  "build_id": "15891504914",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/mini-oidc?tag=HEAD-6a5c119-250625T080657-aarch64-Linux&download=mini-oidc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3662",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/mini-oidc?tag=HEAD-6a5c119-250625T080657-aarch64-Linux&download=mini-oidc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxc/incus/mini-oidc:HEAD-6a5c119-250625T080657-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxc/incus/mini-oidc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/mini-oidc?tag=HEAD-6a5c119-250625T080657-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1f84f166f5cce3531cddca923c2619411ce8f501ccca6860d24c17571d067288",
+  "size": "11 MB",
+  "size_raw": "10910432",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-28452f9-250621T051047-aarch64-Linux",
+    "HEAD-f5f24e3-250622T192220-aarch64-Linux",
+    "HEAD-e1e6eb4-250624T211009-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
