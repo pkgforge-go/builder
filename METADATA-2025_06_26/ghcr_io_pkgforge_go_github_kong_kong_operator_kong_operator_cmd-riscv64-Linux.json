@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kong-operator-cmd",
+  "pkg_family": "kong-operator",
+  "pkg_id": "kong-operator-cmd#github.com_Kong_kong_operator",
+  "pkg_name": "kong-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Kong/kong-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for Kong Gateways",
+  "homepage": [
+    "https://github.com/Kong/kong-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli-arguments-docs-gen",
+    "kong-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Kong/kong-operator/archive/57307f0d56c4c5e109baab66696d3b957c1ab5a5.tar.gz"
+  ],
+  "tag": [
+    "team-k8s"
+  ],
+  "version": "HEAD-57307f0-250626T130530",
+  "version_upstream": "",
+  "bsum": "05890d1010d47933372537bbf138753f493b3cdd3fcebfcf4463baa8b009a7c5",
+  "build_date": "2025-06-26T16:03:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906507625",
+  "build_id": "15906507625",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kong-operator/kong-operator-cmd?tag=HEAD-57307f0-250626T130530-riscv64-Linux&download=kong-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kong-operator/kong-operator-cmd?tag=HEAD-57307f0-250626T130530-riscv64-Linux&download=kong-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kong/kong-operator/kong-operator-cmd:HEAD-57307f0-250626T130530-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kong/kong-operator/kong-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kong-operator/kong-operator-cmd?tag=HEAD-57307f0-250626T130530-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "34e4c1576238cd9147c763d12713e5e9d0aec123515820770591fcf3aa87440c",
+  "size": "90 MB",
+  "size_raw": "94213112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
