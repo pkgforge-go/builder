@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "filodb",
+  "pkg_family": "FiloDB",
+  "pkg_id": "filodb#github.com_sharvitKashikar_FiloDB",
+  "pkg_name": "filodb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sharvitKashikar/FiloDB",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FiloDB is a lightweight relational database management system designed for applications requiring fast, reliable data storage with ACID compliance. Built from the ground up in Go, it implements modern database concepts including B+ tree indexing, memory-mapped I/O, and concurrent transaction processing.",
+  "homepage": [
+    "https://github.com/sharvitKashikar/FiloDB"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "filodb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sharvitKashikar/FiloDB/archive/b7b8bf2f82b5e40c58193534ea87cee0f65018fc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b7b8bf2-250625T232208",
+  "version_upstream": "",
+  "bsum": "3cf0ff5f2aba122928a87aaebbeb2db11d4163ad3a332498164820cb260f8268",
+  "build_date": "2025-06-26T09:08:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896477637",
+  "build_id": "15896477637",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-b7b8bf2-250625T232208-aarch64-Linux&download=filodb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-b7b8bf2-250625T232208-aarch64-Linux&download=filodb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sharvitkashikar/filodb/filodb:HEAD-b7b8bf2-250625T232208-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sharvitkashikar/filodb/filodb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-b7b8bf2-250625T232208-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7524885bbf4e45e9a00020375220a19bcc109a1354d8896a8e1cb28e5e40cf82",
+  "size": "2.4 MB",
+  "size_raw": "2440632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
