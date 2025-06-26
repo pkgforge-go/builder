@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-admission-calico",
+  "pkg_family": "gardener-extension-networking-calico",
+  "pkg_id": "gardener-extension-admission-calico#github.com_gardener_gardener_extension_networking_calico",
+  "pkg_name": "gardener-extension-admission-calico",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-networking-calico",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for the Calico CNI network plugin.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-networking-calico"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-calico",
+    "gardener-extension-networking-calico"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-networking-calico/archive/ae4dc862c30a171fdd102bf61495c4e171160a66.tar.gz"
+  ],
+  "tag": [
+    "calico",
+    "cni",
+    "extension",
+    "gardener",
+    "kubernetes",
+    "networking"
+  ],
+  "version": "HEAD-ae4dc86-250626T130512",
+  "version_upstream": "",
+  "bsum": "3bb4dea5ae41c466042042d5256c2083b46e406ed5c2ba093f0411e36ff8d316",
+  "build_date": "2025-06-26T16:44:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906684496",
+  "build_id": "15906684496",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-networking-calico/gardener-extension-admission-calico?tag=HEAD-ae4dc86-250626T130512-aarch64-Linux&download=gardener-extension-admission-calico.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-networking-calico/gardener-extension-admission-calico?tag=HEAD-ae4dc86-250626T130512-aarch64-Linux&download=gardener-extension-admission-calico",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-networking-calico/gardener-extension-admission-calico:HEAD-ae4dc86-250626T130512-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-networking-calico/gardener-extension-admission-calico",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-networking-calico/gardener-extension-admission-calico?tag=HEAD-ae4dc86-250626T130512-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98419fdb545f63cd785ccda6452d4fbbc642a8198b9869dfe81e5f874b8cb2b5",
+  "size": "56 MB",
+  "size_raw": "58176256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
