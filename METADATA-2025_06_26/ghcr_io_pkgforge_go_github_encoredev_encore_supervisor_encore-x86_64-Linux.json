@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "supervisor-encore",
+  "pkg_family": "encore",
+  "pkg_id": "supervisor-encore#github.com_encoredev_encore",
+  "pkg_name": "supervisor-encore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/encoredev/encore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+  "homepage": [
+    "https://github.com/encoredev/encore"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-local-binary",
+    "gendocs",
+    "git-remote-encore",
+    "make-release",
+    "publicapigen",
+    "supervisor-encore",
+    "tsbundler-encore"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/encoredev/encore/archive/c326f21ffe01ba0ac690f14d8b9f8f4622f30008.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "aws",
+    "backend",
+    "backend-framework",
+    "cloud",
+    "cloud-native",
+    "database",
+    "devops",
+    "distributed-systems",
+    "encore",
+    "gcp",
+    "go",
+    "golang",
+    "microservice-framework",
+    "microservices",
+    "nodejs-framework",
+    "postgresql",
+    "serverless",
+    "typescript",
+    "typescript-framework"
+  ],
+  "version": "HEAD-c326f21-250626T134854",
+  "version_upstream": "",
+  "bsum": "88da280285bf97040fc2a3e5b9eddbed8d209a255f12083b658007e49cf64452",
+  "build_date": "2025-06-26T22:56:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913281570",
+  "build_id": "15913281570",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encoredev/encore/supervisor-encore?tag=HEAD-c326f21-250626T134854-x86_64-Linux&download=supervisor-encore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10210",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encoredev/encore/supervisor-encore?tag=HEAD-c326f21-250626T134854-x86_64-Linux&download=supervisor-encore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/encoredev/encore/supervisor-encore:HEAD-c326f21-250626T134854-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/encoredev/encore/supervisor-encore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/encoredev/encore/supervisor-encore?tag=HEAD-c326f21-250626T134854-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f87a5317fbfbcbfc8d759244bff478c00ce9bee259036063c80301494a61e89a",
+  "size": "12 MB",
+  "size_raw": "11614144",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-81f8985-250619T144228-x86_64-Linux",
+    "HEAD-a08ab3a-250623T140718-x86_64-Linux[v1.48.6]",
+    "HEAD-86ac09d-250624T153812-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
