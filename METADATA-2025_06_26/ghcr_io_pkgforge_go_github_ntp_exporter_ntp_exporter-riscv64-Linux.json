@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ntp_exporter",
+  "pkg_family": "ntp_exporter",
+  "pkg_id": "ntp_exporter#github.com_sapcc_ntp_exporter",
+  "pkg_name": "ntp_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/ntp_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for NTP offset/stratum of a client",
+  "homepage": [
+    "https://github.com/sapcc/ntp_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ntp_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/ntp_exporter/archive/ca816dc8987412fb870200f46402759ce0a26074.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca816dc-250625T080852",
+  "version_upstream": "",
+  "bsum": "55a3791365db7cce1c2aeead2abd501c598724dd8f0e57788c5c9de48f309b3f",
+  "build_date": "2025-06-26T03:33:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891761394",
+  "build_id": "15891761394",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntp/exporter/ntp_exporter?tag=HEAD-ca816dc-250625T080852-riscv64-Linux&download=ntp_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntp/exporter/ntp_exporter?tag=HEAD-ca816dc-250625T080852-riscv64-Linux&download=ntp_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ntp/exporter/ntp_exporter:HEAD-ca816dc-250625T080852-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ntp/exporter/ntp_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntp/exporter/ntp_exporter?tag=HEAD-ca816dc-250625T080852-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da7572f5a97c4b4d34d46563ea6a719777ad52ddf9f22d62e3b1f5ba34470ac4",
+  "size": "8.7 MB",
+  "size_raw": "9027000",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-109baa6-250623T113513-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
