@@ -35,7 +35,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/prometheus/prometheus/archive/5b7ff92d95a16ebbf23764982167e8b02be8a28a.tar.gz"
+    "https://github.com/prometheus/prometheus/archive/9c791faade4e05a232721b4c79e9cff4b5d17c86.tar.gz"
   ],
   "tag": [
     "alerting",
@@ -46,33 +46,34 @@
     "prometheus",
     "time-series"
   ],
-  "version": "HEAD-5b7ff92-250625T133743",
+  "version": "HEAD-9c791fa-250625T181845",
   "version_upstream": "",
-  "bsum": "0ef8d4738c126d2c3365a365a77e8fd4c265a698a3a84f04e9322d51bd1610be",
-  "build_date": "2025-06-26T00:26:49Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888120977",
-  "build_id": "15888120977",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-5b7ff92-250625T133743-riscv64-Linux&download=migrate.log",
+  "bsum": "ff0763eca5d1190c8cf1a43c8db75c512ef7d9376648889f1f4810c0590c83c1",
+  "build_date": "2025-06-26T11:58:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899017676",
+  "build_id": "15899017676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-9c791fa-250625T181845-riscv64-Linux&download=migrate.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "59145",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-5b7ff92-250625T133743-riscv64-Linux&download=migrate",
+  "download_count": "59151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-9c791fa-250625T181845-riscv64-Linux&download=migrate",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/migrate:HEAD-5b7ff92-250625T133743-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/migrate:HEAD-9c791fa-250625T181845-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/migrate",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-5b7ff92-250625T133743-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/migrate?tag=HEAD-9c791fa-250625T181845-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "4bf105c1d7541873fb32d1fc532d9279e960e2e041ce0d9fd20274336f670bb3",
+  "shasum": "6ec1b7f56ba4c01aa6d665951f1c12d671eb793c7dba9650bc2350b582cd926b",
   "size": "15 MB",
-  "size_raw": "15563352",
+  "size_raw": "15563384",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-c701636-250620T130902-riscv64-Linux",
     "HEAD-8ed37d3-250623T005608-riscv64-Linux",
     "HEAD-bdada23-250624T122006-riscv64-Linux",
-    "HEAD-31e158b-250624T215255-riscv64-Linux"
+    "HEAD-31e158b-250624T215255-riscv64-Linux",
+    "HEAD-5b7ff92-250625T133743-riscv64-Linux"
   ],
   "trusted": "true"
 }
