@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "llmariner",
+  "pkg_id": "cmd#github.com_llmariner_llmariner",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/llmariner/llmariner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Extensible generative AI platform on Kubernetes with OpenAI-compatible APIs.",
+  "homepage": [
+    "https://github.com/llmariner/llmariner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "gendoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/llmariner/llmariner/archive/612baed9dd7f785f529d742040c215e595992be1.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "autoscaling",
+    "fine-tuning",
+    "gpu",
+    "inference",
+    "k8s",
+    "kubernetes",
+    "llm",
+    "ml",
+    "multi-cluster",
+    "openai",
+    "operator",
+    "vllm"
+  ],
+  "version": "HEAD-612baed-250625T154707",
+  "version_upstream": "",
+  "bsum": "6b9f4fc826184c8cb71a6cb578d34030cdc3b061a31b9914bf0b95bf739e17f4",
+  "build_date": "2025-06-26T08:37:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896045600",
+  "build_id": "15896045600",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/llmariner/llmariner/cmd?tag=HEAD-612baed-250625T154707-riscv64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/llmariner/llmariner/cmd?tag=HEAD-612baed-250625T154707-riscv64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/llmariner/llmariner/cmd:HEAD-612baed-250625T154707-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/llmariner/llmariner/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/llmariner/llmariner/cmd?tag=HEAD-612baed-250625T154707-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "62ec79f7eb223c7eabbca2bb264edf504b0680a12124402e50d34a2991efb77d",
+  "size": "50 MB",
+  "size_raw": "52242424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
