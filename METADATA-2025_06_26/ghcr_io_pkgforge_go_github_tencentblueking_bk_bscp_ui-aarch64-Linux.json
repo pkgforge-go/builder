@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ui",
+  "pkg_family": "bk-bscp",
+  "pkg_id": "ui#github.com_TencentBlueKing_bk_bscp",
+  "pkg_name": "ui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TencentBlueKing/bk-bscp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "蓝鲸服务配置中心_BlueKing Service Config Provider_",
+  "homepage": [
+    "https://github.com/TencentBlueKing/bk-bscp"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-server",
+    "auth-server",
+    "cache-service",
+    "config-server",
+    "data-service",
+    "feed-proxy",
+    "feed-server",
+    "gen",
+    "gen-data",
+    "repo",
+    "tools",
+    "ui",
+    "vault-plugins",
+    "vault-server",
+    "vault-sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TencentBlueKing/bk-bscp/archive/1168b26cbb0398b3a4be355d0698e2dfa870f931.tar.gz"
+  ],
+  "tag": [
+    "blueking",
+    "configuration",
+    "golang",
+    "microservice"
+  ],
+  "version": "HEAD-1168b26-250626T111528",
+  "version_upstream": "",
+  "bsum": "75118522c0732fb2aa7119ad5fd20749bd02f3623a1d0424a4b209cf612bf125",
+  "build_date": "2025-06-26T07:23:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895111591",
+  "build_id": "15895111591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-bscp/ui?tag=HEAD-1168b26-250626T111528-aarch64-Linux&download=ui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-bscp/ui?tag=HEAD-1168b26-250626T111528-aarch64-Linux&download=ui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tencentblueking/bk-bscp/ui:HEAD-1168b26-250626T111528-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tencentblueking/bk-bscp/ui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-bscp/ui?tag=HEAD-1168b26-250626T111528-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27c46029a2ce84e2f8af8b977e6cfaa245a4ef9f1d7266c9206de42e4fcf305b",
+  "size": "47 MB",
+  "size_raw": "49018272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
