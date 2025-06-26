@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "enr-calculator",
+  "pkg_family": "prysm",
+  "pkg_id": "enr-calculator#github.com_OffchainLabs_prysm",
+  "pkg_name": "enr-calculator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-97f416b-250626T130719",
+  "version_upstream": "",
+  "bsum": "e4457ee72445a198eb44515d51ef4ca24b36e1f88fedefcf5166f29f8b5aed06",
+  "build_date": "2025-06-26T22:24:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205612",
+  "build_id": "15913205612",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/enr-calculator?tag=HEAD-97f416b-250626T130719-aarch64-Linux&download=enr-calculator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3589",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/enr-calculator?tag=HEAD-97f416b-250626T130719-aarch64-Linux&download=enr-calculator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/enr-calculator:HEAD-97f416b-250626T130719-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/enr-calculator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/enr-calculator?tag=HEAD-97f416b-250626T130719-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ff42db1879dca5b0b07275ed4806765b1f13dffb56a4d22ea12080d903183e6",
+  "size": "14 MB",
+  "size_raw": "14125248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-aarch64-Linux",
+    "HEAD-667aaf1-250622T215544-aarch64-Linux",
+    "HEAD-121914d-250624T214016-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

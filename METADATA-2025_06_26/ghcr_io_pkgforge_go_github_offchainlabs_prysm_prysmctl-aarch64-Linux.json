@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "prysmctl",
+  "pkg_family": "prysm",
+  "pkg_id": "prysmctl#github.com_OffchainLabs_prysm",
+  "pkg_name": "prysmctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-97f416b-250626T130719",
+  "version_upstream": "",
+  "bsum": "a547b840152a3eab1789ea7a92881030accf17d655bd714ebe7c683140ee7cfc",
+  "build_date": "2025-06-26T22:25:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205612",
+  "build_id": "15913205612",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/prysmctl?tag=HEAD-97f416b-250626T130719-aarch64-Linux&download=prysmctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3589",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/prysmctl?tag=HEAD-97f416b-250626T130719-aarch64-Linux&download=prysmctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/prysmctl:HEAD-97f416b-250626T130719-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/prysmctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/prysmctl?tag=HEAD-97f416b-250626T130719-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ffc9f10ebac9643289adf70225e40dcfa7894be8c0fbb0ddbe17e20e8bcdf603",
+  "size": "56 MB",
+  "size_raw": "58200760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-aarch64-Linux",
+    "HEAD-667aaf1-250622T215544-aarch64-Linux",
+    "HEAD-121914d-250624T214016-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
