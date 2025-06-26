@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "genswagger",
+  "pkg_family": "harvester",
+  "pkg_id": "genswagger#github.com_harvester_harvester",
+  "pkg_name": "genswagger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "harvester",
+    "upgradehelper",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/bbfa95fb369f1700a99601f92a11d453045ce0f1.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-bbfa95f-250626T174620",
+  "version_upstream": "",
+  "bsum": "94cc6a03cada864bcc99ba62716c030e53370281dbb6250235044fae1c8a4a8a",
+  "build_date": "2025-06-26T23:14:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913327403",
+  "build_id": "15913327403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/genswagger?tag=HEAD-bbfa95f-250626T174620-x86_64-Linux&download=genswagger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/genswagger?tag=HEAD-bbfa95f-250626T174620-x86_64-Linux&download=genswagger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/genswagger:HEAD-bbfa95f-250626T174620-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/genswagger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/genswagger?tag=HEAD-bbfa95f-250626T174620-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54b9f34e8293b848a460df2d91e3322526602f2d39aab1d1ecc0c93f5603782a",
+  "size": "41 MB",
+  "size_raw": "42291072",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a930b01-250620T092130-x86_64-Linux",
+    "HEAD-07ffa03-250623T102940-x86_64-Linux",
+    "HEAD-3e05ba2-250623T214921-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
