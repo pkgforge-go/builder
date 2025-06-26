@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dumpkeys",
+  "pkg_family": "semadb",
+  "pkg_id": "dumpkeys#github.com_Semafind_semadb",
+  "pkg_name": "dumpkeys",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Semafind/semadb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No fuss multi-index hybrid vector database / search engine",
+  "homepage": [
+    "https://github.com/Semafind/semadb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dot",
+    "dumpgraph",
+    "dumpkeys",
+    "euclidean",
+    "generatejsonschema",
+    "healthcheck",
+    "loadrand",
+    "migratev1-v2",
+    "semadb",
+    "shardpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Semafind/semadb/archive/41b809fd05cdda4e60fe6f558d9ac2569f8d2017.tar.gz"
+  ],
+  "tag": [
+    "search-engine",
+    "vector-database"
+  ],
+  "version": "HEAD-41b809f-250626T104617",
+  "version_upstream": "v2.0.4",
+  "bsum": "1458201c0cb884c86ef115525f0d9c0dc54c8d327770ce953a3fa864dbd213d8",
+  "build_date": "2025-06-26T16:07:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906509968",
+  "build_id": "15906509968",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/dumpkeys?tag=HEAD-41b809f-250626T104617-loongarch64-Linux&download=dumpkeys.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/dumpkeys?tag=HEAD-41b809f-250626T104617-loongarch64-Linux&download=dumpkeys",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/semafind/semadb/dumpkeys:HEAD-41b809f-250626T104617-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/semafind/semadb/dumpkeys",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/dumpkeys?tag=HEAD-41b809f-250626T104617-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5825afac38c39fddd3c7dbde309504f629f8f7070e915c8a1959401fbd2c54f8",
+  "size": "2.5 MB",
+  "size_raw": "2546808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
