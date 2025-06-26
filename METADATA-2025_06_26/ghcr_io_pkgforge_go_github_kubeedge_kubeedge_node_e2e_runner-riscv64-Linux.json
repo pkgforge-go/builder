@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "node-e2e-runner",
+  "pkg_family": "kubeedge",
+  "pkg_id": "node-e2e-runner#github.com_kubeedge_kubeedge",
+  "pkg_name": "node-e2e-runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeedge/kubeedge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Native Edge Computing Framework _project under CNCF_",
+  "homepage": [
+    "https://github.com/kubeedge/kubeedge"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "chat",
+    "cloudcore",
+    "controllermanager",
+    "csidriver",
+    "e2e-runner",
+    "edgecore",
+    "edgemark",
+    "edgesite-agent",
+    "edgesite-server",
+    "iptablesmanager",
+    "keadm",
+    "mirror",
+    "node-e2e-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeedge/kubeedge/archive/ab87ab46ec59f741d7dda96ab7b2d1e38e037ea2.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "container",
+    "device-management",
+    "docker",
+    "edge-computing",
+    "golang",
+    "iot",
+    "kubernetes",
+    "mosquitto",
+    "mqtt"
+  ],
+  "version": "HEAD-ab87ab4-250626T102733",
+  "version_upstream": "",
+  "bsum": "e92425b5a983926a1a0f69a71a6185a4cf8c9bb9c770f65b920f1b6919b380b3",
+  "build_date": "2025-06-26T08:34:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895723845",
+  "build_id": "15895723845",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/node-e2e-runner?tag=HEAD-ab87ab4-250626T102733-riscv64-Linux&download=node-e2e-runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/node-e2e-runner?tag=HEAD-ab87ab4-250626T102733-riscv64-Linux&download=node-e2e-runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeedge/kubeedge/node-e2e-runner:HEAD-ab87ab4-250626T102733-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeedge/kubeedge/node-e2e-runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/node-e2e-runner?tag=HEAD-ab87ab4-250626T102733-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c25dd25ddbe54639ac1b5011c5a566b1eb96fcd2581a45bb94867ad256c1a318",
+  "size": "37 MB",
+  "size_raw": "38601496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "admission",
+  "pkg_family": "kubeedge",
+  "pkg_id": "admission#github.com_kubeedge_kubeedge",
+  "pkg_name": "admission",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeedge/kubeedge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Native Edge Computing Framework _project under CNCF_",
+  "homepage": [
+    "https://github.com/kubeedge/kubeedge"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "chat",
+    "cloudcore",
+    "controllermanager",
+    "csidriver",
+    "e2e-runner",
+    "edgecore",
+    "edgemark",
+    "edgesite-agent",
+    "edgesite-server",
+    "iptablesmanager",
+    "keadm",
+    "mirror",
+    "node-e2e-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeedge/kubeedge/archive/ab87ab46ec59f741d7dda96ab7b2d1e38e037ea2.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "container",
+    "device-management",
+    "docker",
+    "edge-computing",
+    "golang",
+    "iot",
+    "kubernetes",
+    "mosquitto",
+    "mqtt"
+  ],
+  "version": "HEAD-ab87ab4-250626T102733",
+  "version_upstream": "",
+  "bsum": "1f900490751d0a8cd7a38dc7b4a51ecd4615e3b575ef556d884632aef33ed111",
+  "build_date": "2025-06-26T08:33:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895723845",
+  "build_id": "15895723845",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/admission?tag=HEAD-ab87ab4-250626T102733-riscv64-Linux&download=admission.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/admission?tag=HEAD-ab87ab4-250626T102733-riscv64-Linux&download=admission",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeedge/kubeedge/admission:HEAD-ab87ab4-250626T102733-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeedge/kubeedge/admission",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/admission?tag=HEAD-ab87ab4-250626T102733-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7eb76b331110ec2a62d907e45965284ad598aca05508025736e692c01a0b43d9",
+  "size": "35 MB",
+  "size_raw": "36501176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
