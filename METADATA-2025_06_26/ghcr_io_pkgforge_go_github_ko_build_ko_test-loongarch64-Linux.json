@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "ko",
+  "pkg_id": "test#github.com_ko_build_ko",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ko-build/ko",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build and deploy Go applications",
+  "homepage": [
+    "https://github.com/ko-build/ko"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "help",
+    "ko",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ko-build/ko/archive/20b15e67194215721faba356b857fcf5d621dfaa.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "containers",
+    "deploy",
+    "docker",
+    "go",
+    "golang",
+    "kubernetes"
+  ],
+  "version": "HEAD-20b15e6-250625T085218",
+  "version_upstream": "",
+  "bsum": "c312c46cb5db57d9330f525f5a6f6ba346774d425632e67b62ab70704f611456",
+  "build_date": "2025-06-26T17:13:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907131287",
+  "build_id": "15907131287",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ko-build/ko/test?tag=HEAD-20b15e6-250625T085218-loongarch64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ko-build/ko/test?tag=HEAD-20b15e6-250625T085218-loongarch64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ko-build/ko/test:HEAD-20b15e6-250625T085218-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ko-build/ko/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ko-build/ko/test?tag=HEAD-20b15e6-250625T085218-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db32e63f63713af45eb9bac2f8a62e2e0f22814091adb35fb4d3b1e02de48c0c",
+  "size": "3.5 MB",
+  "size_raw": "3617024",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e76127c-250620T093204-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
