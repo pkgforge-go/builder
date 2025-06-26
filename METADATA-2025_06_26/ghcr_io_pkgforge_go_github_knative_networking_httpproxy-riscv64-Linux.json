@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "httpproxy",
+  "pkg_family": "networking",
+  "pkg_id": "httpproxy#github.com_knative_networking",
+  "pkg_name": "httpproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/networking",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/knative/networking"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-ping",
+    "httpproxy",
+    "retry",
+    "runtime",
+    "timeout",
+    "wsserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/networking/archive/efc53e402d130f32f35c93d1df1894b82e506f75.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-efc53e4-250626T133906",
+  "version_upstream": "",
+  "bsum": "49236538c15ec7935f0a5dc78746d9777840c8e319269a73cd87791fa63e6e45",
+  "build_date": "2025-06-26T17:15:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907120895",
+  "build_id": "15907120895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/httpproxy?tag=HEAD-efc53e4-250626T133906-riscv64-Linux&download=httpproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/httpproxy?tag=HEAD-efc53e4-250626T133906-riscv64-Linux&download=httpproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/networking/httpproxy:HEAD-efc53e4-250626T133906-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/networking/httpproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/httpproxy?tag=HEAD-efc53e4-250626T133906-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3e82d1ddeedb6ca376a08a24da81f981e1557c5c1ee7f72340776c8ba35f807",
+  "size": "37 MB",
+  "size_raw": "37934552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
