@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sqlbless",
+  "pkg_family": "sqlbless",
+  "pkg_id": "sqlbless#github.com_hymkor_sqlbless",
+  "pkg_name": "sqlbless",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hymkor/sqlbless",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Command-line Database Client",
+  "homepage": [
+    "https://github.com/hymkor/sqlbless"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sqlbless",
+    "sqlite3bless"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hymkor/sqlbless/archive/b21b713ba1522f077c0b008f36521e0fa7c79f83.tar.gz"
+  ],
+  "tag": [
+    "command-line",
+    "mssql",
+    "mysql",
+    "oracle",
+    "postgresql",
+    "sql",
+    "sql-client",
+    "sqlite3",
+    "sqlserver"
+  ],
+  "version": "HEAD-b21b713-250626T104952",
+  "version_upstream": "",
+  "bsum": "48f646a14802a37ea2aaefe6f0be7dcf02bb3199df2afb30b659db13a226623e",
+  "build_date": "2025-06-26T08:08:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895329145",
+  "build_id": "15895329145",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hymkor/sqlbless/sqlbless?tag=HEAD-b21b713-250626T104952-x86_64-Linux&download=sqlbless.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hymkor/sqlbless/sqlbless?tag=HEAD-b21b713-250626T104952-x86_64-Linux&download=sqlbless",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hymkor/sqlbless/sqlbless:HEAD-b21b713-250626T104952-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hymkor/sqlbless/sqlbless",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hymkor/sqlbless/sqlbless?tag=HEAD-b21b713-250626T104952-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "73b6e9197eb201dda24809ef5b0ae20fa281b271b32747d97b942a6f9af2e4e6",
+  "size": "27 MB",
+  "size_raw": "27603600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
