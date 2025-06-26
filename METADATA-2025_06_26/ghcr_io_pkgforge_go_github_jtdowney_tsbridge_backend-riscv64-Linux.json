@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "backend",
+  "pkg_family": "tsbridge",
+  "pkg_id": "backend#github.com_jtdowney_tsbridge",
+  "pkg_name": "backend",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jtdowney/tsbridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight proxy manager built on Tailscale_s tsnet library that enables multiple HTTPS services on a Tailnet",
+  "homepage": [
+    "https://github.com/jtdowney/tsbridge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backend",
+    "tsbridge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jtdowney/tsbridge/archive/80ecaa8c5bee79455107332d7f6b939e7ea5d20e.tar.gz"
+  ],
+  "tag": [
+    "homelab",
+    "networking",
+    "proxy",
+    "tailscale"
+  ],
+  "version": "HEAD-80ecaa8-250626T061026",
+  "version_upstream": "v0.4.1",
+  "bsum": "97a44e983808ea85f9a739ddb167b6c86fc32231a9527041c5a836fccc31f1b4",
+  "build_date": "2025-06-26T17:08:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907070971",
+  "build_id": "15907070971",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jtdowney/tsbridge/backend?tag=HEAD-80ecaa8-250626T061026-riscv64-Linux&download=backend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jtdowney/tsbridge/backend?tag=HEAD-80ecaa8-250626T061026-riscv64-Linux&download=backend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jtdowney/tsbridge/backend:HEAD-80ecaa8-250626T061026-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jtdowney/tsbridge/backend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jtdowney/tsbridge/backend?tag=HEAD-80ecaa8-250626T061026-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf246f139fdc012c538759a6f0187ec7ba3f20af5671b7d3fad6defc3dbb69c3",
+  "size": "5.8 MB",
+  "size_raw": "6005592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
