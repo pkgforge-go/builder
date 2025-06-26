@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "celestia",
+  "pkg_family": "celestia-node",
+  "pkg_id": "celestia#github.com_celestiaorg_celestia_node",
+  "pkg_name": "celestia",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celestiaorg/celestia-node",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Celestia Data Availability Nodes",
+  "homepage": [
+    "https://github.com/celestiaorg/celestia-node"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cel-key",
+    "cel-shed",
+    "celestia"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celestiaorg/celestia-node/archive/32666f3e47c2709780f57cef3b5b9d8f58cb0eae.tar.gz"
+  ],
+  "tag": [
+    "celestia",
+    "data-availability",
+    "data-availability-sampling"
+  ],
+  "version": "HEAD-32666f3-250626T103649",
+  "version_upstream": "",
+  "bsum": "096849511ffd14c12d0f05ce4f14c86b299fb56b3a0e7aef2163a1d511b62f1c",
+  "build_date": "2025-06-26T16:34:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906613799",
+  "build_id": "15906613799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-node/celestia?tag=HEAD-32666f3-250626T103649-riscv64-Linux&download=celestia.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-node/celestia?tag=HEAD-32666f3-250626T103649-riscv64-Linux&download=celestia",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celestiaorg/celestia-node/celestia:HEAD-32666f3-250626T103649-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celestiaorg/celestia-node/celestia",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-node/celestia?tag=HEAD-32666f3-250626T103649-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8aaba4e0faaea862f76f84d5390ae766e6d1bd146ce8bcab7916a9fd7f8f0573",
+  "size": "132 MB",
+  "size_raw": "138092056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cel-key",
+  "pkg_family": "celestia-node",
+  "pkg_id": "cel-key#github.com_celestiaorg_celestia_node",
+  "pkg_name": "cel-key",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/celestiaorg/celestia-node",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Celestia Data Availability Nodes",
+  "homepage": [
+    "https://github.com/celestiaorg/celestia-node"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cel-key",
+    "cel-shed",
+    "celestia"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/celestiaorg/celestia-node/archive/32666f3e47c2709780f57cef3b5b9d8f58cb0eae.tar.gz"
+  ],
+  "tag": [
+    "celestia",
+    "data-availability",
+    "data-availability-sampling"
+  ],
+  "version": "HEAD-32666f3-250626T103649",
+  "version_upstream": "",
+  "bsum": "829b56f4f513eb504958700f43d511c3e7f4e1fec9377f8b1dfa4071477c4281",
+  "build_date": "2025-06-26T16:34:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906613799",
+  "build_id": "15906613799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-node/cel-key?tag=HEAD-32666f3-250626T103649-riscv64-Linux&download=cel-key.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "973",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-node/cel-key?tag=HEAD-32666f3-250626T103649-riscv64-Linux&download=cel-key",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/celestiaorg/celestia-node/cel-key:HEAD-32666f3-250626T103649-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/celestiaorg/celestia-node/cel-key",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/celestiaorg/celestia-node/cel-key?tag=HEAD-32666f3-250626T103649-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ac5111f0a64b655374528efa13d3d5bdaf1bf8c8e39213619aafdc8d58f526c",
+  "size": "119 MB",
+  "size_raw": "124727864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
