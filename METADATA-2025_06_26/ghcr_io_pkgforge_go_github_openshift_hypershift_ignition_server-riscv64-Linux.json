@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ignition-server",
+  "pkg_family": "hypershift",
+  "pkg_id": "ignition-server#github.com_openshift_hypershift",
+  "pkg_name": "ignition-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/1c44da62c83e65fcff2e77353cd801244d874640.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1c44da6-250626T011603",
+  "version_upstream": "",
+  "bsum": "f9a0b079fcc5253908c6a433b05c367dca333b76e70115177857ebe2c32f0d46",
+  "build_date": "2025-06-26T11:57:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899009374",
+  "build_id": "15899009374",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/ignition-server?tag=HEAD-1c44da6-250626T011603-riscv64-Linux&download=ignition-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/ignition-server?tag=HEAD-1c44da6-250626T011603-riscv64-Linux&download=ignition-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/ignition-server:HEAD-1c44da6-250626T011603-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/ignition-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/ignition-server?tag=HEAD-1c44da6-250626T011603-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67c7c0a4a0c0df402fbc07347b3904ecbece234fea7a4f37a49bbd60f12da4f5",
+  "size": "63 MB",
+  "size_raw": "65657208",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-63403c2-250620T095851-riscv64-Linux",
+    "HEAD-892474c-250620T194511-riscv64-Linux",
+    "HEAD-a355279-250624T121504-riscv64-Linux",
+    "HEAD-d9ffbc1-250625T115124-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

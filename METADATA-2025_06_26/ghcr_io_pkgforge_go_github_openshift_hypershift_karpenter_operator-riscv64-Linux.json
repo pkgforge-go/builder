@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "karpenter-operator",
+  "pkg_family": "hypershift",
+  "pkg_id": "karpenter-operator#github.com_openshift_hypershift",
+  "pkg_name": "karpenter-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/1c44da62c83e65fcff2e77353cd801244d874640.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1c44da6-250626T011603",
+  "version_upstream": "",
+  "bsum": "d13a3cbf68f99d3213459c37f1cfd9b8250f6ceb88d804556d2b83500ac05093",
+  "build_date": "2025-06-26T11:56:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899009374",
+  "build_id": "15899009374",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/karpenter-operator?tag=HEAD-1c44da6-250626T011603-riscv64-Linux&download=karpenter-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/karpenter-operator?tag=HEAD-1c44da6-250626T011603-riscv64-Linux&download=karpenter-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/karpenter-operator:HEAD-1c44da6-250626T011603-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/karpenter-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/karpenter-operator?tag=HEAD-1c44da6-250626T011603-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4276eecc8fea2eda7ec4bfc3b4f2d1033f5dc2c0d38b3f83230dfa1501771723",
+  "size": "81 MB",
+  "size_raw": "84351096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-63403c2-250620T095851-riscv64-Linux",
+    "HEAD-892474c-250620T194511-riscv64-Linux",
+    "HEAD-a355279-250624T121504-riscv64-Linux",
+    "HEAD-d9ffbc1-250625T115124-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
