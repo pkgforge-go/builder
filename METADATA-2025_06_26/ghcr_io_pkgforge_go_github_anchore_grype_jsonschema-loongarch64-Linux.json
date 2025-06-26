@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jsonschema",
+  "pkg_family": "grype",
+  "pkg_id": "jsonschema#github.com_anchore_grype",
+  "pkg_name": "jsonschema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/grype",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A vulnerability scanner for container images and filesystems",
+  "homepage": [
+    "https://github.com/anchore/grype"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "grype",
+    "jsonschema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/anchore/grype/archive/ed448fcfce0340386695f25924e34232920895a8.tar.gz"
+  ],
+  "tag": [
+    "container-image",
+    "containers",
+    "cyclonedx",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "oci",
+    "openvex",
+    "security",
+    "static-analysis",
+    "tool",
+    "vex",
+    "vulnerabilities",
+    "vulnerability"
+  ],
+  "version": "HEAD-ed448fc-250625T125611",
+  "version_upstream": "",
+  "bsum": "35bdb5ef21b6825b783fa1c51b6ef68beec7dd269edeb09955ecc549277d756a",
+  "build_date": "2025-06-26T13:30:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902782075",
+  "build_id": "15902782075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/jsonschema?tag=HEAD-ed448fc-250625T125611-loongarch64-Linux&download=jsonschema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/jsonschema?tag=HEAD-ed448fc-250625T125611-loongarch64-Linux&download=jsonschema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/grype/jsonschema:HEAD-ed448fc-250625T125611-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/grype/jsonschema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/grype/jsonschema?tag=HEAD-ed448fc-250625T125611-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "507825afe1f9eedfb7269cc3abbb960a69541daabf74d88a55de36e70593c44a",
+  "size": "61 MB",
+  "size_raw": "63243320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-34304db-250617T114826-loongarch64-Linux",
+    "HEAD-327e352-250619T160209-loongarch64-Linux",
+    "HEAD-9648e99-250623T135334-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
