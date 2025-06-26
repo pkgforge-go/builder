@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tests",
+  "pkg_family": "statshouse",
+  "pkg_id": "tests#github.com_VKCOM_statshouse",
+  "pkg_name": "tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VKCOM/statshouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "StatsHouse is a highly available, scalable, multitenant monitoring system",
+  "homepage": [
+    "https://github.com/VKCOM/statshouse"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ch-table-gen",
+    "sender",
+    "statshouse-example",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VKCOM/statshouse/archive/a775fec9f5cab289c7a2b1517bb45fddb5e80ac1.tar.gz"
+  ],
+  "tag": [
+    "dashboard",
+    "graphing",
+    "metrics",
+    "monitoring",
+    "observability",
+    "tsdb"
+  ],
+  "version": "HEAD-a775fec-250626T140337",
+  "version_upstream": "",
+  "bsum": "7691f08fe8a84527ef1e2bccebf289c613fc4eaa0222245bb2fd3b9cc03a6fbd",
+  "build_date": "2025-06-26T22:09:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205879",
+  "build_id": "15913205879",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/tests?tag=HEAD-a775fec-250626T140337-aarch64-Linux&download=tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "257",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/tests?tag=HEAD-a775fec-250626T140337-aarch64-Linux&download=tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vkcom/statshouse/tests:HEAD-a775fec-250626T140337-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vkcom/statshouse/tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vkcom/statshouse/tests?tag=HEAD-a775fec-250626T140337-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08d77c18225b3de0d309863cff7d745b2c959fdf41ee44783c26d40bd7b57434",
+  "size": "3.5 MB",
+  "size_raw": "3639168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ef46bea-250619T183844-aarch64-Linux",
+    "HEAD-0c74373-250625T172254-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
