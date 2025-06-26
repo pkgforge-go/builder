@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spire-agent",
+  "pkg_family": "spire",
+  "pkg_id": "spire-agent#github.com_spiffe_spire",
+  "pkg_name": "spire-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/21359c4ebf20ae1ae777b2358591972f064b9186.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-21359c4-250625T180423",
+  "version_upstream": "",
+  "bsum": "d37502d8dc8477dff47d152453a8367bd0c094f54eb4abdfc0ce73da20d220fb",
+  "build_date": "2025-06-26T12:22:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899170585",
+  "build_id": "15899170585",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/spire-agent?tag=HEAD-21359c4-250625T180423-riscv64-Linux&download=spire-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1976",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/spire-agent?tag=HEAD-21359c4-250625T180423-riscv64-Linux&download=spire-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/spire-agent:HEAD-21359c4-250625T180423-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/spire-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/spire-agent?tag=HEAD-21359c4-250625T180423-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "67a1e51e7697dba0a2b9686c076e8afbdc7e5d3d8bb27867d9772039c71ee1ef",
+  "size": "47 MB",
+  "size_raw": "49133368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-76299f8-250619T171403-riscv64-Linux",
+    "HEAD-55e614c-250624T153733-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
