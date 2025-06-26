@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ssh-tunnel",
+  "pkg_family": "interLink",
+  "pkg_id": "ssh-tunnel#github.com_interlink_hq_interLink",
+  "pkg_name": "ssh-tunnel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/interlink-hq/interLink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "InterLink aims to provide an abstraction for the execution of a Kubernetes pod on any remote resource capable of managing a Container execution lifecycle",
+  "homepage": [
+    "https://github.com/interlink-hq/interLink"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "installer",
+    "interlink",
+    "openapi-gen",
+    "ssh-tunnel",
+    "virtual-kubelet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/interlink-hq/interLink/archive/f01fa530b8754ddf6abfde260802606b56a3dc1a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f01fa53-250626T111431",
+  "version_upstream": "",
+  "bsum": "332b24bb3dd7d6b45bffc44ad877014ea3b909f1549039c5edc3eaa4085bf9a8",
+  "build_date": "2025-06-26T17:02:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906941257",
+  "build_id": "15906941257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interlink-hq/interlink/ssh-tunnel?tag=HEAD-f01fa53-250626T111431-loongarch64-Linux&download=ssh-tunnel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "81",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interlink-hq/interlink/ssh-tunnel?tag=HEAD-f01fa53-250626T111431-loongarch64-Linux&download=ssh-tunnel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/interlink-hq/interlink/ssh-tunnel:HEAD-f01fa53-250626T111431-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/interlink-hq/interlink/ssh-tunnel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interlink-hq/interlink/ssh-tunnel?tag=HEAD-f01fa53-250626T111431-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f5d410f39c91c1af698489d523bc22b53817f08799958797b46cacd7fd872fb",
+  "size": "4.3 MB",
+  "size_raw": "4483712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
