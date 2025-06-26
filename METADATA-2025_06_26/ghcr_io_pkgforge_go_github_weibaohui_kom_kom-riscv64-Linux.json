@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kom",
+  "pkg_family": "kom",
+  "pkg_id": "kom#github.com_weibaohui_kom",
+  "pkg_name": "kom",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/weibaohui/kom",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "kom 是一个用于 Kubernetes 操作的工具，SDK级的kubectl、client-go的使用封装。并且支持作为管理k8s 的 MCP server。 它提供了一系列功能来管理 Kubernetes 资源，包括创建、更新、删除和获取资源，甚至使用SQL查询k8s资源。这个项目支持多种 Kubernetes 资源类型的操作，并能够处理自定义资源定义（CRD）。 通过使用 kom，你可以轻松地进行资源的增删改查和日志获取以及操作POD内文件等动作。",
+  "homepage": [
+    "https://github.com/weibaohui/kom"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kom"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/weibaohui/kom/archive/e6534a284342b93fd8f3cf24910d4148ce001731.tar.gz"
+  ],
+  "tag": [
+    "client-go",
+    "cluster",
+    "crd",
+    "k8s",
+    "kom",
+    "kubectl",
+    "mcp",
+    "sdk",
+    "sql"
+  ],
+  "version": "HEAD-e6534a2-250626T090431",
+  "version_upstream": "",
+  "bsum": "5a7eada600ea43ab327e8718ab992c8b4c6bb22bba29e449ad0b43acb631780e",
+  "build_date": "2025-06-26T09:28:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15897295971",
+  "build_id": "15897295971",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/weibaohui/kom/kom?tag=HEAD-e6534a2-250626T090431-riscv64-Linux&download=kom.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/weibaohui/kom/kom?tag=HEAD-e6534a2-250626T090431-riscv64-Linux&download=kom",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/weibaohui/kom/kom:HEAD-e6534a2-250626T090431-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/weibaohui/kom/kom",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/weibaohui/kom/kom?tag=HEAD-e6534a2-250626T090431-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b612647a463b13319db44b726e5d18b3d296dddff1f42ffd70609985bbde5865",
+  "size": "74 MB",
+  "size_raw": "76582552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
