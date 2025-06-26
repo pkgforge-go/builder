@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "windows_exe",
+  "pkg_family": "bosh-utils",
+  "pkg_id": "windows_exe#github.com_cloudfoundry_bosh_utils",
+  "pkg_name": "windows_exe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/bosh-utils",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generic packages extracted from bosh-agent and bosh-init",
+  "homepage": [
+    "https://github.com/cloudfoundry/bosh-utils"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bosh-utils-main",
+    "cat",
+    "child_ignore_term",
+    "child_term",
+    "exe_exits",
+    "false",
+    "parent_ignore_term",
+    "parent_term",
+    "windows_exe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/bosh-utils/archive/acc3208cbff943d4e926a8bcd3591478526009ce.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-acc3208-250625T221314",
+  "version_upstream": "v0.0.547",
+  "bsum": "4c7620727099262b177870b4847eb770d633ab887424ab00cbcb82d6eb3f595c",
+  "build_date": "2025-06-26T07:37:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895152664",
+  "build_id": "15895152664",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-utils/windows_exe?tag=HEAD-acc3208-250625T221314-riscv64-Linux&download=windows_exe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-utils/windows_exe?tag=HEAD-acc3208-250625T221314-riscv64-Linux&download=windows_exe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/bosh-utils/windows_exe:HEAD-acc3208-250625T221314-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/bosh-utils/windows_exe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/bosh-utils/windows_exe?tag=HEAD-acc3208-250625T221314-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bdbe86153d6bc5f5022890b9fdeed74ccde8d7f6c5308714ea6b21ce8604e079",
+  "size": "1.6 MB",
+  "size_raw": "1606088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
