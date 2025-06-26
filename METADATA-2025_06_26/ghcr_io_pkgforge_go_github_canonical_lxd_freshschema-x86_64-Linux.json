@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "freshschema",
+  "pkg_family": "lxd",
+  "pkg_id": "freshschema#github.com_canonical_lxd",
+  "pkg_name": "freshschema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/lxd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/canonical/lxd"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devlxd-client",
+    "freshschema",
+    "generate",
+    "lxc",
+    "lxd-benchmark",
+    "lxd-metadata",
+    "lxd-user",
+    "mini-oidc",
+    "sysinfo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/lxd/archive/676e098aa8ca2856f8411dc14268bf80ebbd1a93.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "criu",
+    "go",
+    "hacktoberfest",
+    "lxc",
+    "lxd"
+  ],
+  "version": "HEAD-676e098-250625T192107",
+  "version_upstream": "",
+  "bsum": "948b32faf00fef149afba13070642e94c2a2fb573bec41657b612e7e54dd2640",
+  "build_date": "2025-06-26T10:24:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898687714",
+  "build_id": "15898687714",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/freshschema?tag=HEAD-676e098-250625T192107-x86_64-Linux&download=freshschema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4521",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/freshschema?tag=HEAD-676e098-250625T192107-x86_64-Linux&download=freshschema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/lxd/freshschema:HEAD-676e098-250625T192107-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/lxd/freshschema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/freshschema?tag=HEAD-676e098-250625T192107-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0d87d04c44d357bcd8c1695026e94865f2d2b395f5a38e9f62b71b40ac58f85",
+  "size": "8.9 MB",
+  "size_raw": "9258640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5290649-250619T134116-x86_64-Linux",
+    "HEAD-5ee6dd8-250621T220730-x86_64-Linux",
+    "HEAD-a8d328a-250622T215306-x86_64-Linux",
+    "HEAD-b5483fc-250623T144539-x86_64-Linux",
+    "HEAD-c946fe2-250623T230720-x86_64-Linux",
+    "HEAD-4767b9e-250624T142828-x86_64-Linux",
+    "HEAD-b84b2fa-250624T201349-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

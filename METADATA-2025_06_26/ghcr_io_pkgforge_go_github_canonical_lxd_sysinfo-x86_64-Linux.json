@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sysinfo",
+  "pkg_family": "lxd",
+  "pkg_id": "sysinfo#github.com_canonical_lxd",
+  "pkg_name": "sysinfo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/lxd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/canonical/lxd"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devlxd-client",
+    "freshschema",
+    "generate",
+    "lxc",
+    "lxd-benchmark",
+    "lxd-metadata",
+    "lxd-user",
+    "mini-oidc",
+    "sysinfo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/lxd/archive/676e098aa8ca2856f8411dc14268bf80ebbd1a93.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "criu",
+    "go",
+    "hacktoberfest",
+    "lxc",
+    "lxd"
+  ],
+  "version": "HEAD-676e098-250625T192107",
+  "version_upstream": "",
+  "bsum": "a0b39a32baeb7f9eba891b8bcc668006aa40f1c28e316e03c577346cc860be1b",
+  "build_date": "2025-06-26T10:24:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898687714",
+  "build_id": "15898687714",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/sysinfo?tag=HEAD-676e098-250625T192107-x86_64-Linux&download=sysinfo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4521",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/sysinfo?tag=HEAD-676e098-250625T192107-x86_64-Linux&download=sysinfo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/lxd/sysinfo:HEAD-676e098-250625T192107-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/lxd/sysinfo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/sysinfo?tag=HEAD-676e098-250625T192107-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db6925316ffb8943344e59c98c9bf4a48f75f7dad383b2bf6cedbae74ae8d7e5",
+  "size": "1.7 MB",
+  "size_raw": "1724248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5290649-250619T134116-x86_64-Linux",
+    "HEAD-5ee6dd8-250621T220730-x86_64-Linux",
+    "HEAD-a8d328a-250622T215306-x86_64-Linux",
+    "HEAD-b5483fc-250623T144539-x86_64-Linux",
+    "HEAD-c946fe2-250623T230720-x86_64-Linux",
+    "HEAD-4767b9e-250624T142828-x86_64-Linux",
+    "HEAD-b84b2fa-250624T201349-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
