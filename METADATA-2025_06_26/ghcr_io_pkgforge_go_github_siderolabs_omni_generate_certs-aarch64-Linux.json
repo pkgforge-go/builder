@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generate-certs",
+  "pkg_family": "omni",
+  "pkg_id": "generate-certs#github.com_siderolabs_omni",
+  "pkg_name": "generate-certs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/siderolabs/omni",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SaaS-simple deployment of Kubernetes - on your own hardware.",
+  "homepage": [
+    "https://github.com/siderolabs/omni"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-certs",
+    "make-cookies",
+    "omni",
+    "omnictl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/siderolabs/omni/archive/344d0618dd44473967efbeaf96b4c637addb3964.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-344d061-250625T030543",
+  "version_upstream": "",
+  "bsum": "ab9796e25b6b9b0f72ebd9b592a2ed3b30d7fe797b7e2ea8ca1093f8ea816835",
+  "build_date": "2025-06-26T03:46:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891770083",
+  "build_id": "15891770083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/generate-certs?tag=HEAD-344d061-250625T030543-aarch64-Linux&download=generate-certs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "739",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/generate-certs?tag=HEAD-344d061-250625T030543-aarch64-Linux&download=generate-certs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/siderolabs/omni/generate-certs:HEAD-344d061-250625T030543-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/siderolabs/omni/generate-certs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/omni/generate-certs?tag=HEAD-344d061-250625T030543-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "25ccf9e5590dd4541b1dd3c62a4f3c7ba4427af602c8e9e77edf4f9a83940d7c",
+  "size": "3.8 MB",
+  "size_raw": "3954552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9e4f819-250623T025442-aarch64-Linux",
+    "HEAD-0ad0a67-250624T143305-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
