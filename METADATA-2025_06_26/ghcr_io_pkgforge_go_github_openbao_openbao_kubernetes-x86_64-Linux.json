@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubernetes",
+  "pkg_family": "openbao",
+  "pkg_id": "kubernetes#github.com_openbao_openbao",
+  "pkg_name": "kubernetes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openbao/openbao",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "homepage": [
+    "https://github.com/openbao/openbao"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approle",
+    "cassandra-database-plugin",
+    "cert",
+    "codechecker",
+    "influxdb-database-plugin",
+    "jwt",
+    "kerberos",
+    "kubeclient",
+    "kubernetes",
+    "kv",
+    "ldap",
+    "login-kerb",
+    "mysql-database-plugin",
+    "mysql-legacy-database-plugin",
+    "openbao",
+    "openldap",
+    "pki",
+    "postgresql-database-plugin",
+    "rabbitmq",
+    "radius",
+    "ssh",
+    "test-app",
+    "tools",
+    "totp",
+    "transit",
+    "userpass",
+    "valkey-database-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openbao/openbao/archive/29ebb4a0104acbabe26c43df3e468cfcc0cd6886.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "version": "HEAD-29ebb4a-250625T163949",
+  "version_upstream": "",
+  "bsum": "2bc6d407f8ee04ff53108ad2d93fb3cc4c8cfa48ebdae9cb59dd97d7d60a8c79",
+  "build_date": "2025-06-26T11:43:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898993909",
+  "build_id": "15898993909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/kubernetes?tag=HEAD-29ebb4a-250625T163949-x86_64-Linux&download=kubernetes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/kubernetes?tag=HEAD-29ebb4a-250625T163949-x86_64-Linux&download=kubernetes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openbao/openbao/kubernetes:HEAD-29ebb4a-250625T163949-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openbao/openbao/kubernetes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/kubernetes?tag=HEAD-29ebb4a-250625T163949-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93ff2b8eabaac04390260bcabca331fd798622a8ab5591d0c23d8dd3eae53a1e",
+  "size": "54 MB",
+  "size_raw": "55983672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a553e51-250624T184911-x86_64-Linux",
+    "HEAD-cf5e920-250625T103521-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

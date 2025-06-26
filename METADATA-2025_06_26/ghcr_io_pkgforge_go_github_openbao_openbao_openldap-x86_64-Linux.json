@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "openldap",
+  "pkg_family": "openbao",
+  "pkg_id": "openldap#github.com_openbao_openbao",
+  "pkg_name": "openldap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openbao/openbao",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "homepage": [
+    "https://github.com/openbao/openbao"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approle",
+    "cassandra-database-plugin",
+    "cert",
+    "codechecker",
+    "influxdb-database-plugin",
+    "jwt",
+    "kerberos",
+    "kubeclient",
+    "kubernetes",
+    "kv",
+    "ldap",
+    "login-kerb",
+    "mysql-database-plugin",
+    "mysql-legacy-database-plugin",
+    "openbao",
+    "openldap",
+    "pki",
+    "postgresql-database-plugin",
+    "rabbitmq",
+    "radius",
+    "ssh",
+    "test-app",
+    "tools",
+    "totp",
+    "transit",
+    "userpass",
+    "valkey-database-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openbao/openbao/archive/29ebb4a0104acbabe26c43df3e468cfcc0cd6886.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "version": "HEAD-29ebb4a-250625T163949",
+  "version_upstream": "",
+  "bsum": "e2580348cb50fd70db4baab339300f3903c67e7085645b39c9ead4ff1fd962e8",
+  "build_date": "2025-06-26T11:43:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898993909",
+  "build_id": "15898993909",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/openldap?tag=HEAD-29ebb4a-250625T163949-x86_64-Linux&download=openldap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/openldap?tag=HEAD-29ebb4a-250625T163949-x86_64-Linux&download=openldap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openbao/openbao/openldap:HEAD-29ebb4a-250625T163949-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openbao/openbao/openldap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openbao/openbao/openldap?tag=HEAD-29ebb4a-250625T163949-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "343623a7ca4c243830bf35c93cb6a5a46527042f3a51e1be771fb0223e3d5dd6",
+  "size": "19 MB",
+  "size_raw": "19187032",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a553e51-250624T184911-x86_64-Linux",
+    "HEAD-cf5e920-250625T103521-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
