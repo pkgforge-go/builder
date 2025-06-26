@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tg-disk",
+  "pkg_family": "tg-disk",
+  "pkg_id": "tg-disk#github.com_Yohann0617_tg_disk",
+  "pkg_name": "tg-disk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Yohann0617/tg-disk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "基于Telegram的♾️️无限容量网盘/图床，不限制文件格式，不限制文件大小（大文件会分块上传），不限制文件内容😏，占用很少的内存和磁盘空间📁，轻巧方便。 文件都存储在Telegram☁️端，拥有良好的安全性🔒和持久性。 单个文件大小不能超过20MB，上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。",
+  "homepage": [
+    "https://github.com/Yohann0617/tg-disk"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tg-disk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Yohann0617/tg-disk/archive/d5d48208ba391963d20510883acf5b9620e8ac69.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "image-hosting",
+    "network-disk",
+    "telegram-bot-api"
+  ],
+  "version": "HEAD-d5d4820-250626T203534",
+  "version_upstream": "v1.0.1",
+  "bsum": "7bb7b19c849696cb79ce7989d0184ceeb628809f64e9d85708c74017773b5be7",
+  "build_date": "2025-06-26T16:08:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906511334",
+  "build_id": "15906511334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yohann0617/tg-disk/tg-disk?tag=HEAD-d5d4820-250626T203534-riscv64-Linux&download=tg-disk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yohann0617/tg-disk/tg-disk?tag=HEAD-d5d4820-250626T203534-riscv64-Linux&download=tg-disk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yohann0617/tg-disk/tg-disk:HEAD-d5d4820-250626T203534-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yohann0617/tg-disk/tg-disk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yohann0617/tg-disk/tg-disk?tag=HEAD-d5d4820-250626T203534-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dde99ff56ee9dfe81f5d0dd8a71cc59abcb1482be6580baa8ed52f0d41adaef7",
+  "size": "7.0 MB",
+  "size_raw": "7250104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
