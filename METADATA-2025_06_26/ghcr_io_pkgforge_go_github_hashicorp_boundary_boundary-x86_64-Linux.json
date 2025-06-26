@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "boundary",
+  "pkg_family": "boundary",
+  "pkg_id": "boundary#github.com_hashicorp_boundary",
+  "pkg_name": "boundary",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/boundary",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/boundary"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boundary",
+    "genapi",
+    "gencli",
+    "permstable",
+    "remove-gotags-comments"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/boundary/archive/ababe653f91bbf63a08a88c81cb55e389c291234.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "hashicorp",
+    "security",
+    "zero-trust"
+  ],
+  "version": "HEAD-ababe65-250625T113450",
+  "version_upstream": "",
+  "bsum": "271d13387d0d5674b3cb4e02775406b216393da1db87a5aa4cbcc6a6d6e29ace",
+  "build_date": "2025-06-26T10:56:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898815922",
+  "build_id": "15898815922",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/boundary?tag=HEAD-ababe65-250625T113450-x86_64-Linux&download=boundary.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3928",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/boundary?tag=HEAD-ababe65-250625T113450-x86_64-Linux&download=boundary",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/boundary/boundary:HEAD-ababe65-250625T113450-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/boundary/boundary",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/boundary?tag=HEAD-ababe65-250625T113450-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dab7da5f0d3a4c0779a66428d4a1ff9872873e81d7b32c8bf633b09b008a0b5f",
+  "size": "59 MB",
+  "size_raw": "61664320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1f64c12-250619T165146-x86_64-Linux",
+    "HEAD-ee26fef-250623T140333-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
