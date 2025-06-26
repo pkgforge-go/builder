@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test",
+  "pkg_family": "hypershift",
+  "pkg_id": "test#github.com_openshift_hypershift",
+  "pkg_name": "test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/d9ffbc13c7011564c02d28a61ad87cfebf035b49.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d9ffbc1-250625T115124",
+  "version_upstream": "",
+  "bsum": "cf4d12a1a45263995a6ceabc8235535253103306d3193f160d1861a0ab7f563e",
+  "build_date": "2025-06-26T00:20:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888112890",
+  "build_id": "15888112890",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/test?tag=HEAD-d9ffbc1-250625T115124-loongarch64-Linux&download=test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/test?tag=HEAD-d9ffbc1-250625T115124-loongarch64-Linux&download=test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/test:HEAD-d9ffbc1-250625T115124-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/test?tag=HEAD-d9ffbc1-250625T115124-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "26ce557846241e8b106351f6266d814dce9ffa557a5adafd9981ef286862e9ef",
+  "size": "38 MB",
+  "size_raw": "39306784",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-63403c2-250620T095851-loongarch64-Linux",
+    "HEAD-892474c-250620T194511-loongarch64-Linux",
+    "HEAD-a355279-250624T121504-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
