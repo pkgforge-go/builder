@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "launcher",
+  "pkg_family": "nomad",
+  "pkg_id": "launcher#github.com_hashicorp_nomad",
+  "pkg_name": "launcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/nomad",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+  "homepage": [
+    "https://github.com/hashicorp/nomad"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "cmd",
+    "launcher",
+    "nomad"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/nomad/archive/f76d9e0cecdf6333dcbec5e4e776dd1e0bd9b4c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-f76d9e0-250625T174225",
+  "version_upstream": "",
+  "bsum": "4ffc05864cbab97664f36a43fc09fa6918be09c203dedf8f4c8f5082b6c88a9f",
+  "build_date": "2025-06-26T10:59:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898824102",
+  "build_id": "15898824102",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad/launcher?tag=HEAD-f76d9e0-250625T174225-aarch64-Linux&download=launcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15572",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad/launcher?tag=HEAD-f76d9e0-250625T174225-aarch64-Linux&download=launcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/nomad/launcher:HEAD-f76d9e0-250625T174225-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/nomad/launcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/nomad/launcher?tag=HEAD-f76d9e0-250625T174225-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab72dceaeb145ff2280ae5ef6d85fe9f55db382bb565c34aacf6f5985743ff1b",
+  "size": "22 MB",
+  "size_raw": "22351136",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c8dcd3c-250619T134806-aarch64-Linux",
+    "HEAD-cdde082-250620T171633-aarch64-Linux",
+    "HEAD-74389cc-250623T100212-aarch64-Linux",
+    "HEAD-9cbadf3-250623T210614-aarch64-Linux",
+    "HEAD-27da750-250624T093110-aarch64-Linux",
+    "HEAD-7647491-250625T111956-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
