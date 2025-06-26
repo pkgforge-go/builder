@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "logger",
+  "pkg_family": "lura",
+  "pkg_id": "logger#github.com_luraproject_lura",
+  "pkg_name": "logger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luraproject/lura",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation",
+  "homepage": [
+    "https://github.com/luraproject/lura"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "error",
+    "logger",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/luraproject/lura/archive/b84fcec8328d8559d40a88eb9f62bbe38454b5b0.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "apis",
+    "backend-services",
+    "gateway",
+    "gateway-api",
+    "go",
+    "golang",
+    "krakend",
+    "load-balancer",
+    "microservice",
+    "middleware",
+    "proxies",
+    "router"
+  ],
+  "version": "HEAD-b84fcec-250625T185618",
+  "version_upstream": "v2.10.2",
+  "bsum": "2df50f549c73926d844604c2ff5cd5cfa14836801e63fbb2e60e25085308a66d",
+  "build_date": "2025-06-26T14:10:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903043821",
+  "build_id": "15903043821",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luraproject/lura/logger?tag=HEAD-b84fcec-250625T185618-x86_64-Linux&download=logger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6571",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luraproject/lura/logger?tag=HEAD-b84fcec-250625T185618-x86_64-Linux&download=logger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luraproject/lura/logger:HEAD-b84fcec-250625T185618-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luraproject/lura/logger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luraproject/lura/logger?tag=HEAD-b84fcec-250625T185618-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c33c0ddacec3153a725d9acb940bfd141e178ce49d3296852eae12b4e173d49",
+  "size": "1.4 MB",
+  "size_raw": "1392344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-aa37e1e-250522T183130-x86_64-Linux[v2.10.1]"
+  ],
+  "trusted": "true"
+}
