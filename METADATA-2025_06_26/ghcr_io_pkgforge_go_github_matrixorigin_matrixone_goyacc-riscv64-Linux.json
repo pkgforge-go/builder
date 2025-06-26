@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goyacc",
+  "pkg_family": "matrixone",
+  "pkg_id": "goyacc#github.com_matrixorigin_matrixone",
+  "pkg_name": "goyacc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matrixorigin/matrixone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperconverged cloud-edge native database",
+  "homepage": [
+    "https://github.com/matrixorigin/matrixone"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "goyacc",
+    "pingpong",
+    "stream"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matrixorigin/matrixone/archive/b0884fc745b4b4d0abe0362756b3f853cfaa8fb2.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "go",
+    "htap",
+    "hyperconverged",
+    "olap",
+    "one-size-fits-all",
+    "sql",
+    "streaming"
+  ],
+  "version": "HEAD-b0884fc-250625T121755",
+  "version_upstream": "",
+  "bsum": "c279866bf46febabb48182f945ff7709c664ee8a9700275689689efff97e0cf8",
+  "build_date": "2025-06-26T03:28:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891518404",
+  "build_id": "15891518404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/goyacc?tag=HEAD-b0884fc-250625T121755-riscv64-Linux&download=goyacc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1839",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/goyacc?tag=HEAD-b0884fc-250625T121755-riscv64-Linux&download=goyacc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrixorigin/matrixone/goyacc:HEAD-b0884fc-250625T121755-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrixorigin/matrixone/goyacc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrixorigin/matrixone/goyacc?tag=HEAD-b0884fc-250625T121755-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5cc990b9663db43ff32f9533b4041d81d9f05ff7bc84399ff064f83c9ab7ab08",
+  "size": "2.7 MB",
+  "size_raw": "2807432",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e4b3e25-250620T091422-riscv64-Linux",
+    "HEAD-52844ed-250623T090421-riscv64-Linux",
+    "HEAD-eae3df9-250624T121119-riscv64-Linux",
+    "HEAD-a526248-250625T024516-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
