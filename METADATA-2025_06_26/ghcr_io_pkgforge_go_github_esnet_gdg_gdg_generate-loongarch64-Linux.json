@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gdg-generate",
+  "pkg_family": "gdg",
+  "pkg_id": "gdg-generate#github.com_esnet_gdg",
+  "pkg_name": "gdg-generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/esnet/gdg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Dash-n-Grab",
+  "homepage": [
+    "https://github.com/esnet/gdg"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gdg",
+    "gdg-generate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/esnet/gdg/archive/164fe65ff3ffdbcd8672f9f525089b2c95ffd4b9.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure-storage",
+    "backup",
+    "backups",
+    "dashboard",
+    "dashboards",
+    "gcloud",
+    "grafana",
+    "graphite",
+    "s3"
+  ],
+  "version": "HEAD-164fe65-250625T190726",
+  "version_upstream": "v0.8.0",
+  "bsum": "418ab71529fd1cc9d58eea047b2b24ca5809edb0315d6177446e4a27b9144e5a",
+  "build_date": "2025-06-26T13:46:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902914291",
+  "build_id": "15902914291",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/esnet/gdg/gdg-generate?tag=HEAD-164fe65-250625T190726-loongarch64-Linux&download=gdg-generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/esnet/gdg/gdg-generate?tag=HEAD-164fe65-250625T190726-loongarch64-Linux&download=gdg-generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/esnet/gdg/gdg-generate:HEAD-164fe65-250625T190726-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/esnet/gdg/gdg-generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/esnet/gdg/gdg-generate?tag=HEAD-164fe65-250625T190726-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "94c3dd7e139ea412c53f9433a8b7539f5734bc1386474c813185b2bf737e6d9f",
+  "size": "73 MB",
+  "size_raw": "76328160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6ad2ac7-250618T093606-loongarch64-Linux",
+    "HEAD-cee1588-250623T100855-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
