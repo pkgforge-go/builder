@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "auth",
+  "pkg_family": "hugescm",
+  "pkg_id": "auth#github.com_antgroup_hugescm",
+  "pkg_name": "auth",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antgroup/hugescm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HugeSCM - A next generation cloud-based version control system",
+  "homepage": [
+    "https://github.com/antgroup/hugescm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bar2",
+    "diff2",
+    "lcs",
+    "setv",
+    "term",
+    "zeta",
+    "zeta-mc",
+    "zeta-serve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antgroup/hugescm/archive/43c5208d0302fb2007bf972b7f4b1c0711cfed31.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "git",
+    "hugescm",
+    "monorepo",
+    "vcs"
+  ],
+  "version": "HEAD-43c5208-250626T100947",
+  "version_upstream": "",
+  "bsum": "e764b2588db8669ea3bee64837b35f2ea70cc7db7d51b54df83a6c82fd72f857",
+  "build_date": "2025-06-26T09:58:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898681827",
+  "build_id": "15898681827",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/auth?tag=HEAD-43c5208-250626T100947-x86_64-Linux&download=auth.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/auth?tag=HEAD-43c5208-250626T100947-x86_64-Linux&download=auth",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antgroup/hugescm/auth:HEAD-43c5208-250626T100947-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antgroup/hugescm/auth",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/auth?tag=HEAD-43c5208-250626T100947-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a16006a943c68a8c805788be13b3965386479e583480acadd0e41863a98d1d10",
+  "size": "3.7 MB",
+  "size_raw": "3816504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7ae9d3-250619T200645-x86_64-Linux",
+    "HEAD-bfd32d7-250624T172242-x86_64-Linux[v0.18.1]"
+  ],
+  "trusted": "true"
+}

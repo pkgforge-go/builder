@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bar2",
+  "pkg_family": "hugescm",
+  "pkg_id": "bar2#github.com_antgroup_hugescm",
+  "pkg_name": "bar2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/antgroup/hugescm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HugeSCM - A next generation cloud-based version control system",
+  "homepage": [
+    "https://github.com/antgroup/hugescm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "bar2",
+    "diff2",
+    "lcs",
+    "setv",
+    "term",
+    "zeta",
+    "zeta-mc",
+    "zeta-serve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/antgroup/hugescm/archive/43c5208d0302fb2007bf972b7f4b1c0711cfed31.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "git",
+    "hugescm",
+    "monorepo",
+    "vcs"
+  ],
+  "version": "HEAD-43c5208-250626T100947",
+  "version_upstream": "",
+  "bsum": "b0206a391f51a9ee12fef65c54e7debde975353cf77a6d5de854d44adefd5cac",
+  "build_date": "2025-06-26T09:59:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898681827",
+  "build_id": "15898681827",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/bar2?tag=HEAD-43c5208-250626T100947-x86_64-Linux&download=bar2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/bar2?tag=HEAD-43c5208-250626T100947-x86_64-Linux&download=bar2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antgroup/hugescm/bar2:HEAD-43c5208-250626T100947-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antgroup/hugescm/bar2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antgroup/hugescm/bar2?tag=HEAD-43c5208-250626T100947-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab95eff5441eb767e139b6efd7e2a7f3a1ffd0cce6309e7fe2372fd7265c8097",
+  "size": "2.7 MB",
+  "size_raw": "2734072",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7ae9d3-250619T200645-x86_64-Linux",
+    "HEAD-bfd32d7-250624T172242-x86_64-Linux[v0.18.1]"
+  ],
+  "trusted": "true"
+}
