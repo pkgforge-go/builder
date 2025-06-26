@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wikidoc",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "wikidoc#github.com_openconfig_featureprofiles",
+  "pkg_name": "wikidoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openconfig/featureprofiles/archive/34b79bc379b36c08101a85d05e9b8d0c59daecf4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34b79bc-250625T143340",
+  "version_upstream": "",
+  "bsum": "bf71b9e86071930e8f2688eca36f97423ab1685573d6fdb5074f27d3b2c2e3e1",
+  "build_date": "2025-06-26T00:06:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888068698",
+  "build_id": "15888068698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-34b79bc-250625T143340-x86_64-Linux&download=wikidoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-34b79bc-250625T143340-x86_64-Linux&download=wikidoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/wikidoc:HEAD-34b79bc-250625T143340-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/wikidoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/wikidoc?tag=HEAD-34b79bc-250625T143340-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f7e9e04fc26807091dc5193bec7a285c4679040f8e017960dc2c785738f248e",
+  "size": "6.4 MB",
+  "size_raw": "6702840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-x86_64-Linux",
+    "HEAD-abdf959-250623T164926-x86_64-Linux",
+    "HEAD-4f694cf-250624T142533-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
