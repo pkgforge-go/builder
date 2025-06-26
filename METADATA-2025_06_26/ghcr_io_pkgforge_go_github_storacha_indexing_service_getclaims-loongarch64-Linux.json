@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "getclaims",
+  "pkg_family": "indexing-service",
+  "pkg_id": "getclaims#github.com_storacha_indexing_service",
+  "pkg_name": "getclaims",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storacha/indexing-service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🔖 Decentralized Indexing for the Storacha Network",
+  "homepage": [
+    "https://github.com/storacha/indexing-service"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "getclaim",
+    "getclaims",
+    "getdiddocument",
+    "getroot",
+    "indexing-service-cmd",
+    "metadata",
+    "notifier",
+    "postclaims",
+    "providercache",
+    "queryresult",
+    "remotesync",
+    "scripts",
+    "ucangen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/storacha/indexing-service/archive/ac2c23252ec0da304c4c7077b7eadb0fda419dd0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ac2c232-250625T194459",
+  "version_upstream": "",
+  "bsum": "57c971adbd899b975144790203e3270a607c3d4ae973ed13dba5212a5f6b102a",
+  "build_date": "2025-06-26T09:20:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896560464",
+  "build_id": "15896560464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/indexing-service/getclaims?tag=HEAD-ac2c232-250625T194459-loongarch64-Linux&download=getclaims.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/indexing-service/getclaims?tag=HEAD-ac2c232-250625T194459-loongarch64-Linux&download=getclaims",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storacha/indexing-service/getclaims:HEAD-ac2c232-250625T194459-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storacha/indexing-service/getclaims",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/indexing-service/getclaims?tag=HEAD-ac2c232-250625T194459-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6fafa9c8f885573224f642c420c485fafc5ecb83cbb625397d1434c63ff40c13",
+  "size": "40 MB",
+  "size_raw": "41576480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

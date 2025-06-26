@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "notifier",
+  "pkg_family": "indexing-service",
+  "pkg_id": "notifier#github.com_storacha_indexing_service",
+  "pkg_name": "notifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storacha/indexing-service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🔖 Decentralized Indexing for the Storacha Network",
+  "homepage": [
+    "https://github.com/storacha/indexing-service"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "getclaim",
+    "getclaims",
+    "getdiddocument",
+    "getroot",
+    "indexing-service-cmd",
+    "metadata",
+    "notifier",
+    "postclaims",
+    "providercache",
+    "queryresult",
+    "remotesync",
+    "scripts",
+    "ucangen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/storacha/indexing-service/archive/ac2c23252ec0da304c4c7077b7eadb0fda419dd0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ac2c232-250625T194459",
+  "version_upstream": "",
+  "bsum": "ef2ecd4b419cdc7551523544c43a027666635d040e8dbb7d6a91c415fe13a979",
+  "build_date": "2025-06-26T09:21:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896560464",
+  "build_id": "15896560464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/indexing-service/notifier?tag=HEAD-ac2c232-250625T194459-loongarch64-Linux&download=notifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/indexing-service/notifier?tag=HEAD-ac2c232-250625T194459-loongarch64-Linux&download=notifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storacha/indexing-service/notifier:HEAD-ac2c232-250625T194459-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storacha/indexing-service/notifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/indexing-service/notifier?tag=HEAD-ac2c232-250625T194459-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61f8ba492b0414d13dba909b33f73c0c4ae4ba234e4ba11e3e584aaec99e61c7",
+  "size": "30 MB",
+  "size_raw": "30761536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
