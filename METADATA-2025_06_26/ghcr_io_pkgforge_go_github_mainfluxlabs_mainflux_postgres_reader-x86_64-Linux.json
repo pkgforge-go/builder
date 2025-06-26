@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "postgres-reader",
+  "pkg_family": "mainflux",
+  "pkg_id": "postgres-reader#github.com_MainfluxLabs_mainflux",
+  "pkg_name": "postgres-reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/MainfluxLabs/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/MainfluxLabs/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "auth",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "postgres-reader",
+    "postgres-writer",
+    "rules",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "users",
+    "webhooks",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/MainfluxLabs/mainflux/archive/8584a521db61d9cd25632e9d668a8f570ab9bfb4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8584a52-250626T132031",
+  "version_upstream": "",
+  "bsum": "2c5c2f70afd97c6ef5a4fe6e292773eed06f80a37295096edd2e40722dcf73cc",
+  "build_date": "2025-06-26T22:01:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913204735",
+  "build_id": "15913204735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/postgres-reader?tag=HEAD-8584a52-250626T132031-x86_64-Linux&download=postgres-reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/postgres-reader?tag=HEAD-8584a52-250626T132031-x86_64-Linux&download=postgres-reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/postgres-reader:HEAD-8584a52-250626T132031-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/postgres-reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/postgres-reader?tag=HEAD-8584a52-250626T132031-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c00e2d7bbabf9aeb8ab8986411604d95b9d4fa7a7c3d07a8b9fc7641d2deaa3",
+  "size": "20 MB",
+  "size_raw": "20913280",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-719f10d-250625T151148-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
