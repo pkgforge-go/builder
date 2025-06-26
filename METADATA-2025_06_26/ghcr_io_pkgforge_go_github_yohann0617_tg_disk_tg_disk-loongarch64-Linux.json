@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tg-disk",
+  "pkg_family": "tg-disk",
+  "pkg_id": "tg-disk#github.com_Yohann0617_tg_disk",
+  "pkg_name": "tg-disk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Yohann0617/tg-disk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "基于Telegram的♾️️无限容量网盘/图床，不限制文件格式，不限制文件大小（大文件会分块上传），不限制文件内容😏，占用很少的内存和磁盘空间📁，轻巧方便。 文件都存储在Telegram☁️端，拥有良好的安全性🔒和持久性。 单个文件大小不能超过20MB，上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。",
+  "homepage": [
+    "https://github.com/Yohann0617/tg-disk"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tg-disk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Yohann0617/tg-disk/archive/d5d48208ba391963d20510883acf5b9620e8ac69.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "image-hosting",
+    "network-disk",
+    "telegram-bot-api"
+  ],
+  "version": "HEAD-d5d4820-250626T203534",
+  "version_upstream": "v1.0.1",
+  "bsum": "a20ab94279198812326754bbf77516f462e1db10bd0bd20e7fcfb71044f22eab",
+  "build_date": "2025-06-26T16:08:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906511334",
+  "build_id": "15906511334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yohann0617/tg-disk/tg-disk?tag=HEAD-d5d4820-250626T203534-loongarch64-Linux&download=tg-disk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yohann0617/tg-disk/tg-disk?tag=HEAD-d5d4820-250626T203534-loongarch64-Linux&download=tg-disk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yohann0617/tg-disk/tg-disk:HEAD-d5d4820-250626T203534-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yohann0617/tg-disk/tg-disk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yohann0617/tg-disk/tg-disk?tag=HEAD-d5d4820-250626T203534-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "500c355bcd5acd3f01c637983d720d7134fab4590dd04ea3a358595085dd470c",
+  "size": "7.1 MB",
+  "size_raw": "7394976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
