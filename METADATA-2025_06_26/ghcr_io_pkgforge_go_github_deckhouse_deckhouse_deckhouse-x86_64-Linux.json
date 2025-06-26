@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "deckhouse",
+  "pkg_family": "deckhouse",
+  "pkg_id": "deckhouse#github.com_deckhouse_deckhouse",
+  "pkg_name": "deckhouse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/deckhouse/deckhouse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes platform from Flant",
+  "homepage": [
+    "https://github.com/deckhouse/deckhouse"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "deckhouse"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/deckhouse/deckhouse/archive/20be4878942ec63a8ecda196220afc210a53f39b.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-distribution",
+    "kubernetes-platform"
+  ],
+  "version": "HEAD-20be487-250626T000441",
+  "version_upstream": "",
+  "bsum": "c9ca9bff3f96bec86ab8814ec6e4656079354c5c3ea6470629f4320ed8f845c4",
+  "build_date": "2025-06-26T10:33:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898741973",
+  "build_id": "15898741973",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/deckhouse/deckhouse?tag=HEAD-20be487-250626T000441-x86_64-Linux&download=deckhouse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/deckhouse/deckhouse?tag=HEAD-20be487-250626T000441-x86_64-Linux&download=deckhouse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/deckhouse/deckhouse/deckhouse:HEAD-20be487-250626T000441-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/deckhouse/deckhouse/deckhouse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/deckhouse/deckhouse/deckhouse?tag=HEAD-20be487-250626T000441-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "50337f33b5c7d14f5a0b0051c8da4512a59e286595bef48a1a87d19ad00a4b12",
+  "size": "147 MB",
+  "size_raw": "153713224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-baf6e71-250619T155817-x86_64-Linux",
+    "HEAD-cffacbc-250623T172001-x86_64-Linux",
+    "HEAD-b021bc9-250623T211148-x86_64-Linux",
+    "HEAD-596af38-250624T152641-x86_64-Linux",
+    "HEAD-2ce3044-250624T214032-x86_64-Linux",
+    "HEAD-332df98-250625T160542-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
