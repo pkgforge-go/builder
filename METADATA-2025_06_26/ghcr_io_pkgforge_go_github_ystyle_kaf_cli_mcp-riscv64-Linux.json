@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mcp",
+  "pkg_family": "kaf-cli",
+  "pkg_id": "mcp#github.com_ystyle_kaf_cli",
+  "pkg_name": "mcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ystyle/kaf-cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "把txt文本转成epub和mobi电子书的命令行工具_原TmdTextEpub_",
+  "homepage": [
+    "https://github.com/ystyle/kaf-cli"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "lib",
+    "mcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ystyle/kaf-cli/archive/cfdcc67b4d69f62a508d43e573c0909c86d287cf.tar.gz"
+  ],
+  "tag": [
+    "epub",
+    "kindlegen",
+    "mobi"
+  ],
+  "version": "HEAD-cfdcc67-250626T165142",
+  "version_upstream": "v1.3.13",
+  "bsum": "c99f69ac41115a428b78c6d3d6314f31c5a4b5e0be6690f8eed3646779fac057",
+  "build_date": "2025-06-26T18:23:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908690616",
+  "build_id": "15908690616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ystyle/kaf-cli/mcp?tag=HEAD-cfdcc67-250626T165142-riscv64-Linux&download=mcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "851",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ystyle/kaf-cli/mcp?tag=HEAD-cfdcc67-250626T165142-riscv64-Linux&download=mcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ystyle/kaf-cli/mcp:HEAD-cfdcc67-250626T165142-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ystyle/kaf-cli/mcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ystyle/kaf-cli/mcp?tag=HEAD-cfdcc67-250626T165142-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "92f00fd680fee67dc1e9e892a2b660ade22fb404abe3aa5cbbea4ca08c0cdb5c",
+  "size": "11 MB",
+  "size_raw": "10905304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
