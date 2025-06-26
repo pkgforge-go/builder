@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "echo",
+  "pkg_family": "ingress-gce",
+  "pkg_id": "echo#github.com_kubernetes_ingress_gce",
+  "pkg_name": "echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/ingress-gce",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ingress controller for Google Cloud",
+  "homepage": [
+    "https://github.com/kubernetes/ingress-gce"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "404-server",
+    "404-server-with-metrics",
+    "check-gke-ingress",
+    "echo",
+    "fuzzer",
+    "gen",
+    "glbc",
+    "workload-controller",
+    "workload-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/ingress-gce/archive/6697789ba32097c1c6e866a5bfa1de140c050735.tar.gz"
+  ],
+  "tag": [
+    "google",
+    "ingress",
+    "k8s",
+    "kubernetes",
+    "loadbalancer"
+  ],
+  "version": "HEAD-6697789-250625T104429",
+  "version_upstream": "",
+  "bsum": "ea0c13700788c5ddebdfb183e677d7eb0821d86161c41b6624e80ddd8f8efa35",
+  "build_date": "2025-06-26T08:22:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895944417",
+  "build_id": "15895944417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/echo?tag=HEAD-6697789-250625T104429-x86_64-Linux&download=echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1288",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/echo?tag=HEAD-6697789-250625T104429-x86_64-Linux&download=echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/echo:HEAD-6697789-250625T104429-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/echo?tag=HEAD-6697789-250625T104429-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "391505602786d2f400808843869538992d2925053e9b659eb230d34029be8412",
+  "size": "6.8 MB",
+  "size_raw": "7083424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
