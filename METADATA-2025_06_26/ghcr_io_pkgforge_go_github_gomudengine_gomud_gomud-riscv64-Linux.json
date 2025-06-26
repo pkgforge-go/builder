@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gomud",
+  "pkg_family": "GoMud",
+  "pkg_id": "gomud#github.com_GoMudEngine_GoMud",
+  "pkg_name": "gomud",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoMudEngine/GoMud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go based MUD _Multi-User Dungeon_ server.",
+  "homepage": [
+    "https://github.com/GoMudEngine/GoMud"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "gomud"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoMudEngine/GoMud/archive/55240c57e4a2e5de1d6bee6daa79bc7401cdcd2a.tar.gz"
+  ],
+  "tag": [
+    "engine",
+    "game-engine",
+    "go",
+    "golang",
+    "moo",
+    "mud",
+    "multiplayer",
+    "multiplayer-online-game",
+    "mush",
+    "telnet",
+    "text",
+    "text-adventure",
+    "webclient",
+    "websockets"
+  ],
+  "version": "HEAD-55240c5-250625T154016",
+  "version_upstream": "v0.9.2",
+  "bsum": "fa67b35099260c821f526d155a6348de2463a442b0ae9fa12a328d8ff14eb86a",
+  "build_date": "2025-06-26T13:15:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902777754",
+  "build_id": "15902777754",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gomudengine/gomud/gomud?tag=HEAD-55240c5-250625T154016-riscv64-Linux&download=gomud.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gomudengine/gomud/gomud?tag=HEAD-55240c5-250625T154016-riscv64-Linux&download=gomud",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gomudengine/gomud/gomud:HEAD-55240c5-250625T154016-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gomudengine/gomud/gomud",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gomudengine/gomud/gomud?tag=HEAD-55240c5-250625T154016-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3bd0c4eb56c10525e2e3f5e9eae684a16ff36ccdcd07fbbd1fb08fe9402f2e02",
+  "size": "20 MB",
+  "size_raw": "20599736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4539dd0-250619T231720-riscv64-Linux[v0.9.1]"
+  ],
+  "trusted": "true"
+}
