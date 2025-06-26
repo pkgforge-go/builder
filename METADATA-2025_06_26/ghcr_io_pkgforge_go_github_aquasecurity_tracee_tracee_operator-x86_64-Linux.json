@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tracee-operator",
+  "pkg_family": "tracee",
+  "pkg_id": "tracee-operator#github.com_aquasecurity_tracee",
+  "pkg_name": "tracee-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/tracee",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux Runtime Security and Forensics using eBPF",
+  "homepage": [
+    "https://github.com/aquasecurity/tracee"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ds_writer",
+    "evt",
+    "tracee-bench",
+    "tracee-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/tracee/archive/2d48136884285937847d63d4cd4c929204e77454.tar.gz"
+  ],
+  "tag": [
+    "bpf",
+    "docker",
+    "ebpf",
+    "golang",
+    "kubernetes",
+    "linux",
+    "runtime-security",
+    "security"
+  ],
+  "version": "HEAD-2d48136-250625T114034",
+  "version_upstream": "",
+  "bsum": "545b7c4d39e21081ea03a6311f071b55d825dfd5f977db76f06988d6602151d9",
+  "build_date": "2025-06-26T02:36:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891365723",
+  "build_id": "15891365723",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/tracee-operator?tag=HEAD-2d48136-250625T114034-x86_64-Linux&download=tracee-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3939",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/tracee-operator?tag=HEAD-2d48136-250625T114034-x86_64-Linux&download=tracee-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/tracee/tracee-operator:HEAD-2d48136-250625T114034-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/tracee/tracee-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/tracee/tracee-operator?tag=HEAD-2d48136-250625T114034-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df2e50d8cbff44555a7b1597628e905b6e131d309f8c26243413d0f8f7703af4",
+  "size": "43 MB",
+  "size_raw": "44749472",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0605bd7-250616T090125-x86_64-Linux",
+    "HEAD-4bc36c7-250624T162442-x86_64-Linux",
+    "HEAD-5347638-250624T184409-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
