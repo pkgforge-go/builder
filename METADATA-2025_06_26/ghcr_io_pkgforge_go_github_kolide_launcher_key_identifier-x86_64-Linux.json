@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "key-identifier",
+  "pkg_family": "launcher",
+  "pkg_id": "key-identifier#github.com_kolide_launcher",
+  "pkg_name": "key-identifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kolide/launcher",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Osquery launcher, autoupdater, and packager",
+  "homepage": [
+    "https://github.com/kolide/launcher"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "flatten",
+    "generator",
+    "key-identifier",
+    "launcher",
+    "launcher-tools",
+    "make",
+    "package-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kolide/launcher/archive/309193d8147487760b3d83d4b44c22039d32b790.tar.gz"
+  ],
+  "tag": [
+    "devops",
+    "go-kit",
+    "golang",
+    "grpc",
+    "hacktoberfest",
+    "host-instrumentation",
+    "osquery",
+    "sysadmin"
+  ],
+  "version": "HEAD-309193d-250625T184448",
+  "version_upstream": "",
+  "bsum": "1820706d995e55f7485d7ab39705c49dc78eeb55876295749e4c966867099fa0",
+  "build_date": "2025-06-26T14:04:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902956414",
+  "build_id": "15902956414",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/key-identifier?tag=HEAD-309193d-250625T184448-x86_64-Linux&download=key-identifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "528",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/key-identifier?tag=HEAD-309193d-250625T184448-x86_64-Linux&download=key-identifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kolide/launcher/key-identifier:HEAD-309193d-250625T184448-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kolide/launcher/key-identifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kolide/launcher/key-identifier?tag=HEAD-309193d-250625T184448-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3af2ca278302d5b4c7cf8ff02c359cf7ba022bf37384978b11940e445c17eb3",
+  "size": "3.7 MB",
+  "size_raw": "3788160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c5205b7-250620T211834-x86_64-Linux",
+    "HEAD-3d77525-250624T214621-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
