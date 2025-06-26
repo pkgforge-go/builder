@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ntp_exporter",
+  "pkg_family": "ntp_exporter",
+  "pkg_id": "ntp_exporter#github.com_sapcc_ntp_exporter",
+  "pkg_name": "ntp_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/ntp_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for NTP offset/stratum of a client",
+  "homepage": [
+    "https://github.com/sapcc/ntp_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ntp_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/ntp_exporter/archive/ca816dc8987412fb870200f46402759ce0a26074.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ca816dc-250625T080852",
+  "version_upstream": "",
+  "bsum": "54d7333ca160e4fe138d9ebdcc663f9fb88fa718315182e8deb6858638c27128",
+  "build_date": "2025-06-26T03:32:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891761394",
+  "build_id": "15891761394",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntp/exporter/ntp_exporter?tag=HEAD-ca816dc-250625T080852-loongarch64-Linux&download=ntp_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntp/exporter/ntp_exporter?tag=HEAD-ca816dc-250625T080852-loongarch64-Linux&download=ntp_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ntp/exporter/ntp_exporter:HEAD-ca816dc-250625T080852-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ntp/exporter/ntp_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ntp/exporter/ntp_exporter?tag=HEAD-ca816dc-250625T080852-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5dde7f27e3ab34fb074c5373fb18764260cda4fab884b336c23a2d66309c27ac",
+  "size": "8.8 MB",
+  "size_raw": "9164512",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-109baa6-250623T113513-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
