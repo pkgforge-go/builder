@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "webhooks",
+  "pkg_family": "mainflux",
+  "pkg_id": "webhooks#github.com_MainfluxLabs_mainflux",
+  "pkg_name": "webhooks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/MainfluxLabs/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/MainfluxLabs/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "auth",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "postgres-reader",
+    "postgres-writer",
+    "rules",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "users",
+    "webhooks",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/MainfluxLabs/mainflux/archive/8584a521db61d9cd25632e9d668a8f570ab9bfb4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8584a52-250626T132031",
+  "version_upstream": "",
+  "bsum": "46dbd61e190a5d881415cb6e42053e51f716508919e52cfd24b8c3a514e06281",
+  "build_date": "2025-06-26T22:03:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913204735",
+  "build_id": "15913204735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/webhooks?tag=HEAD-8584a52-250626T132031-riscv64-Linux&download=webhooks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/webhooks?tag=HEAD-8584a52-250626T132031-riscv64-Linux&download=webhooks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/webhooks:HEAD-8584a52-250626T132031-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/webhooks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/webhooks?tag=HEAD-8584a52-250626T132031-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36ce4a1b8d094de0372dcc6a4382b93bdb09914d90e6d09aca4df9e567f2396b",
+  "size": "21 MB",
+  "size_raw": "21312440",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-719f10d-250625T151148-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
