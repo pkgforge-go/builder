@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "workload-daemon",
+  "pkg_family": "ingress-gce",
+  "pkg_id": "workload-daemon#github.com_kubernetes_ingress_gce",
+  "pkg_name": "workload-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/ingress-gce",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ingress controller for Google Cloud",
+  "homepage": [
+    "https://github.com/kubernetes/ingress-gce"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "404-server",
+    "404-server-with-metrics",
+    "check-gke-ingress",
+    "echo",
+    "fuzzer",
+    "gen",
+    "glbc",
+    "workload-controller",
+    "workload-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/ingress-gce/archive/6697789ba32097c1c6e866a5bfa1de140c050735.tar.gz"
+  ],
+  "tag": [
+    "google",
+    "ingress",
+    "k8s",
+    "kubernetes",
+    "loadbalancer"
+  ],
+  "version": "HEAD-6697789-250625T104429",
+  "version_upstream": "",
+  "bsum": "b60d487bd33d49943e58ca4737baf5cc6f9513f9464ea6f01e3c34b08a5b6c50",
+  "build_date": "2025-06-26T08:33:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895944417",
+  "build_id": "15895944417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/workload-daemon?tag=HEAD-6697789-250625T104429-aarch64-Linux&download=workload-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1288",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/workload-daemon?tag=HEAD-6697789-250625T104429-aarch64-Linux&download=workload-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/workload-daemon:HEAD-6697789-250625T104429-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/workload-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/workload-daemon?tag=HEAD-6697789-250625T104429-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4e2d4693d252399be9ce8985596565d5d8f98b5c1fa06458a0e51af794b8928",
+  "size": "39 MB",
+  "size_raw": "40359232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
