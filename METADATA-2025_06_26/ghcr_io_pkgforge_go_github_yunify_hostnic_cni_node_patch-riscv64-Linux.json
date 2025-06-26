@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "node-patch",
+  "pkg_family": "hostnic-cni",
+  "pkg_id": "node-patch#github.com_yunify_hostnic_cni",
+  "pkg_name": "node-patch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yunify/hostnic-cni",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "hostnic-cni is a Container Network Interface plugin.",
+  "homepage": [
+    "https://github.com/yunify/hostnic-cni"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "db-client",
+    "dhcp-client",
+    "hostnic",
+    "hostnic-client",
+    "ipam",
+    "ipam-check",
+    "ipam-client",
+    "node-patch",
+    "vxnet-client",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/yunify/hostnic-cni/archive/dbe2abb607bff36e392d63b0289132f304afb0fd.tar.gz"
+  ],
+  "tag": [
+    "cni-plugin",
+    "container",
+    "kubernetes",
+    "mesos",
+    "network"
+  ],
+  "version": "HEAD-dbe2abb-250626T164935",
+  "version_upstream": "v1.0.16",
+  "bsum": "ea63299b6a14e5712eeb5b0e9b74e5150876233f3f4fa3bb7eed14116cd403ae",
+  "build_date": "2025-06-26T18:33:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908692392",
+  "build_id": "15908692392",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yunify/hostnic-cni/node-patch?tag=HEAD-dbe2abb-250626T164935-riscv64-Linux&download=node-patch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yunify/hostnic-cni/node-patch?tag=HEAD-dbe2abb-250626T164935-riscv64-Linux&download=node-patch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yunify/hostnic-cni/node-patch:HEAD-dbe2abb-250626T164935-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yunify/hostnic-cni/node-patch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yunify/hostnic-cni/node-patch?tag=HEAD-dbe2abb-250626T164935-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b10545441c866ca0049b08199f26dcd4a7f20fc5598db5ce338c15d17d69ffe8",
+  "size": "31 MB",
+  "size_raw": "31722136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
