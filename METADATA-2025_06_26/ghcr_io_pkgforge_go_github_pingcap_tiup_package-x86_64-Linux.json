@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "package",
+  "pkg_family": "tiup",
+  "pkg_id": "package#github.com_pingcap_tiup",
+  "pkg_name": "package",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tiup",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A component manager for TiDB",
+  "homepage": [
+    "https://github.com/pingcap/tiup"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "cluster",
+    "ctl",
+    "dm",
+    "package",
+    "playground",
+    "server",
+    "tiup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tiup/archive/751ef3029355341630c187054aba9577c5e92ce5.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "playground",
+    "tidb",
+    "tidb-components",
+    "tiup"
+  ],
+  "version": "HEAD-751ef30-250626T164407",
+  "version_upstream": "",
+  "bsum": "91096ed44fd089746ef4676086bf01a8e7c2ac98fbcc68a75c439b55254ae758",
+  "build_date": "2025-06-26T17:55:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907995852",
+  "build_id": "15907995852",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/package?tag=HEAD-751ef30-250626T164407-x86_64-Linux&download=package.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "443",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/package?tag=HEAD-751ef30-250626T164407-x86_64-Linux&download=package",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tiup/package:HEAD-751ef30-250626T164407-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tiup/package",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/package?tag=HEAD-751ef30-250626T164407-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c003557ff64c6671be3ca746d8e418087a99a0dfe1fe065905d1a8cdeb458e58",
+  "size": "7.2 MB",
+  "size_raw": "7448960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
