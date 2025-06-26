@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "prevent_unsafe_chains",
+  "pkg_family": "opg-modernising-lpa",
+  "pkg_id": "prevent_unsafe_chains#github.com_ministryofjustice_opg_modernising_lpa",
+  "pkg_name": "prevent_unsafe_chains",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ministryofjustice/opg-modernising-lpa",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OPG Modernising LPA: Managed by opg-org-infra _ Terraform",
+  "homepage": [
+    "https://github.com/ministryofjustice/opg-modernising-lpa"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-s3-replication-job",
+    "enumerator",
+    "event-logger",
+    "event-received",
+    "mlpa",
+    "mock-notify",
+    "mock-os-api",
+    "prevent_it_only",
+    "prevent_unsafe_chains",
+    "schedule-runner",
+    "scheduled-task-adder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ministryofjustice/opg-modernising-lpa/archive/ff38c23b0f1958f7e2a90ca580ff6300bc587053.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ff38c23-250626T095001",
+  "version_upstream": "v0.1868.31",
+  "bsum": "2c958e80fd722378dc38c4bac9fcdf1a1eb31e2e7172caee8ce13ff165121a42",
+  "build_date": "2025-06-26T17:31:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907563080",
+  "build_id": "15907563080",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/prevent_unsafe_chains?tag=HEAD-ff38c23-250626T095001-aarch64-Linux&download=prevent_unsafe_chains.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/prevent_unsafe_chains?tag=HEAD-ff38c23-250626T095001-aarch64-Linux&download=prevent_unsafe_chains",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/prevent_unsafe_chains:HEAD-ff38c23-250626T095001-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/prevent_unsafe_chains",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ministryofjustice/opg-modernising-lpa/prevent_unsafe_chains?tag=HEAD-ff38c23-250626T095001-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06c3b6e5b9f21801adf2089d801ba95d308ddce1f29444f5d4166df964342eee",
+  "size": "2.2 MB",
+  "size_raw": "2275256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
