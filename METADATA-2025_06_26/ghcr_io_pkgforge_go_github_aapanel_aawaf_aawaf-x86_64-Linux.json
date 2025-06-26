@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aawaf",
+  "pkg_family": "aaWAF",
+  "pkg_id": "aawaf#github.com_aaPanel_aaWAF",
+  "pkg_name": "aawaf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aaPanel/aaWAF",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "堡塔云WAF，宝塔免费_free_的私有云网站应用防火墙_firewall_，基于docker/nginx/lua开发",
+  "homepage": [
+    "https://github.com/aaPanel/aaWAF"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aawaf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aaPanel/aaWAF/archive/e15fb861ceafffde14f9f5ca5c813a1a284f6fef.tar.gz"
+  ],
+  "tag": [
+    "acl",
+    "captcha",
+    "cc-attack",
+    "ddos",
+    "ddos-attacks",
+    "ddos-defense",
+    "ddos-protection",
+    "docker",
+    "firewall",
+    "http-flood",
+    "modsecurity",
+    "nginx",
+    "security",
+    "security-tools",
+    "sqli-injection",
+    "waf",
+    "web-application-firewall",
+    "web-security",
+    "xss"
+  ],
+  "version": "HEAD-e15fb86-250626T153703",
+  "version_upstream": "",
+  "bsum": "6be4b00ebc20ec66d7458a72fc792d7fd40fae050607baae6141529b9ecded52",
+  "build_date": "2025-06-26T16:08:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906513095",
+  "build_id": "15906513095",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aapanel/aawaf/aawaf?tag=HEAD-e15fb86-250626T153703-x86_64-Linux&download=aawaf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "521",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aapanel/aawaf/aawaf?tag=HEAD-e15fb86-250626T153703-x86_64-Linux&download=aawaf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aapanel/aawaf/aawaf:HEAD-e15fb86-250626T153703-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aapanel/aawaf/aawaf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aapanel/aawaf/aawaf?tag=HEAD-e15fb86-250626T153703-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "11d34e43ce177064c6290b97c9ff43c479dfc974eb2a3ecc7f3ca569139370c2",
+  "size": "42 MB",
+  "size_raw": "43336384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
