@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "batch",
+  "pkg_family": "anubis",
+  "pkg_id": "batch#github.com_TecharoHQ_anubis",
+  "pkg_name": "batch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TecharoHQ/anubis",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
+  "homepage": [
+    "https://github.com/TecharoHQ/anubis"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anubis",
+    "batch",
+    "containerbuild",
+    "robots2policy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TecharoHQ/anubis/archive/a1b7d2ccda3fa43e683ac82b3048ad9a1155155c.tar.gz"
+  ],
+  "tag": [
+    "defense",
+    "security"
+  ],
+  "version": "HEAD-a1b7d2c-250626T121159",
+  "version_upstream": "",
+  "bsum": "d4d272bf18cd94d9858dbbcd21c944c98ced3ddd5da446995b0999c8945e6ce4",
+  "build_date": "2025-06-26T22:01:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205400",
+  "build_id": "15913205400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/techarohq/anubis/batch?tag=HEAD-a1b7d2c-250626T121159-riscv64-Linux&download=batch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8479",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/techarohq/anubis/batch?tag=HEAD-a1b7d2c-250626T121159-riscv64-Linux&download=batch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/techarohq/anubis/batch:HEAD-a1b7d2c-250626T121159-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/techarohq/anubis/batch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/techarohq/anubis/batch?tag=HEAD-a1b7d2c-250626T121159-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a14cb9b8df917dd22985be8f214786ca670d39d098d343a061b492a3dc521a22",
+  "size": "1.9 MB",
+  "size_raw": "1932136",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-226cf36-250618T165831-riscv64-Linux",
+    "HEAD-060b10e-250622T200537-riscv64-Linux",
+    "HEAD-8c79870-250623T084104-riscv64-Linux",
+    "HEAD-1ca531b-250623T155908-riscv64-Linux",
+    "HEAD-1562f88-250625T093133-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
