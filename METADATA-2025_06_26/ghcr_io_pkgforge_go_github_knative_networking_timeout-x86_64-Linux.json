@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "timeout",
+  "pkg_family": "networking",
+  "pkg_id": "timeout#github.com_knative_networking",
+  "pkg_name": "timeout",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/networking",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/knative/networking"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-ping",
+    "httpproxy",
+    "retry",
+    "runtime",
+    "timeout",
+    "wsserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/networking/archive/efc53e402d130f32f35c93d1df1894b82e506f75.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-efc53e4-250626T133906",
+  "version_upstream": "",
+  "bsum": "e31df038cfd0d68ae3b6ca9803ad990df52baa14e9891d9d089e85a2f8e97ac9",
+  "build_date": "2025-06-26T17:14:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907120895",
+  "build_id": "15907120895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/timeout?tag=HEAD-efc53e4-250626T133906-x86_64-Linux&download=timeout.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/timeout?tag=HEAD-efc53e4-250626T133906-x86_64-Linux&download=timeout",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/networking/timeout:HEAD-efc53e4-250626T133906-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/networking/timeout",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/timeout?tag=HEAD-efc53e4-250626T133906-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7914a10751d35c27c064f66d0736d75fbd10923d817919beea55025e6fbcbcb1",
+  "size": "38 MB",
+  "size_raw": "39830784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

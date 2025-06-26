@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "grpc-ping",
+  "pkg_family": "networking",
+  "pkg_id": "grpc-ping#github.com_knative_networking",
+  "pkg_name": "grpc-ping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/networking",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/knative/networking"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-ping",
+    "httpproxy",
+    "retry",
+    "runtime",
+    "timeout",
+    "wsserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/networking/archive/efc53e402d130f32f35c93d1df1894b82e506f75.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-efc53e4-250626T133906",
+  "version_upstream": "",
+  "bsum": "1f903779fa9dddbd3d83d75190b0d3a9d879923e4b48b18a560b8b10d072422b",
+  "build_date": "2025-06-26T17:14:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907120895",
+  "build_id": "15907120895",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/grpc-ping?tag=HEAD-efc53e4-250626T133906-x86_64-Linux&download=grpc-ping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/grpc-ping?tag=HEAD-efc53e4-250626T133906-x86_64-Linux&download=grpc-ping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/networking/grpc-ping:HEAD-efc53e4-250626T133906-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/networking/grpc-ping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/networking/grpc-ping?tag=HEAD-efc53e4-250626T133906-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66979504c024f1d40ef66743aae334b8d26f99fda2e14562bf58002bbc67cbf3",
+  "size": "15 MB",
+  "size_raw": "14951552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
