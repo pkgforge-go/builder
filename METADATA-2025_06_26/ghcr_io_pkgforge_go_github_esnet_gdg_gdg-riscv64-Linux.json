@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gdg",
+  "pkg_family": "gdg",
+  "pkg_id": "gdg#github.com_esnet_gdg",
+  "pkg_name": "gdg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/esnet/gdg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Dash-n-Grab",
+  "homepage": [
+    "https://github.com/esnet/gdg"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gdg",
+    "gdg-generate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/esnet/gdg/archive/164fe65ff3ffdbcd8672f9f525089b2c95ffd4b9.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure-storage",
+    "backup",
+    "backups",
+    "dashboard",
+    "dashboards",
+    "gcloud",
+    "grafana",
+    "graphite",
+    "s3"
+  ],
+  "version": "HEAD-164fe65-250625T190726",
+  "version_upstream": "v0.8.0",
+  "bsum": "e86584f7b144ff7473fc01100041d008d686c12de36d772d08ee91647210160c",
+  "build_date": "2025-06-26T13:46:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902914291",
+  "build_id": "15902914291",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/esnet/gdg/gdg?tag=HEAD-164fe65-250625T190726-riscv64-Linux&download=gdg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "386",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/esnet/gdg/gdg?tag=HEAD-164fe65-250625T190726-riscv64-Linux&download=gdg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/esnet/gdg/gdg:HEAD-164fe65-250625T190726-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/esnet/gdg/gdg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/esnet/gdg/gdg?tag=HEAD-164fe65-250625T190726-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fcb87f5dc718609b78bbd5d2a2da92708e4fab2f1847a4bdde4acf8c50d3619c",
+  "size": "77 MB",
+  "size_raw": "80498712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6ad2ac7-250618T093606-riscv64-Linux",
+    "HEAD-cee1588-250623T100855-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
