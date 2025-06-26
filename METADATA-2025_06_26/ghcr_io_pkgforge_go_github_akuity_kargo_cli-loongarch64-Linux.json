@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "kargo",
+  "pkg_id": "cli#github.com_akuity_kargo",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/akuity/kargo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Application lifecycle orchestration",
+  "homepage": [
+    "https://github.com/akuity/kargo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "controlplane",
+    "credential-helper",
+    "prototag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/akuity/kargo/archive/4724da607a7de1880faf84af35ea45cec46b0574.tar.gz"
+  ],
+  "tag": [
+    "argocd",
+    "cd",
+    "delivery",
+    "gitops",
+    "k8s",
+    "kubernetes"
+  ],
+  "version": "HEAD-4724da6-250625T185510",
+  "version_upstream": "",
+  "bsum": "4535d54d8dbbaddaa0eee52b66b6aa8563c3e07207a84b24ec519cf872433580",
+  "build_date": "2025-06-26T09:56:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898682249",
+  "build_id": "15898682249",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/cli?tag=HEAD-4724da6-250625T185510-loongarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2493",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/cli?tag=HEAD-4724da6-250625T185510-loongarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/akuity/kargo/cli:HEAD-4724da6-250625T185510-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/akuity/kargo/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/akuity/kargo/cli?tag=HEAD-4724da6-250625T185510-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e54fb322d4ff05e79aa2347692920a6d9c286d78538e8ed777ad1dd0fb4becf8",
+  "size": "77 MB",
+  "size_raw": "79787168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7362b21-250617T215023-loongarch64-Linux",
+    "HEAD-5539752-250623T104443-loongarch64-Linux",
+    "HEAD-271f76b-250623T213522-loongarch64-Linux",
+    "HEAD-c6ac159-250624T122020-loongarch64-Linux",
+    "HEAD-e6163d4-250624T202428-loongarch64-Linux",
+    "HEAD-018a777-250625T133903-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
