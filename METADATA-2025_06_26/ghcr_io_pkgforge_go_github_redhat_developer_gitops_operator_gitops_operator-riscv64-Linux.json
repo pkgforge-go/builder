@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gitops-operator",
+  "pkg_family": "gitops-operator",
+  "pkg_id": "gitops-operator#github.com_redhat_developer_gitops_operator",
+  "pkg_name": "gitops-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/redhat-developer/gitops-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operator that gets you an ArgoCD for cluster configuration out-of-the-box on OpenShift along with the UI for visualizing environments.",
+  "homepage": [
+    "https://github.com/redhat-developer/gitops-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gitops-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/redhat-developer/gitops-operator/archive/15c5833153f9217c698a85b16a69d1da904148d8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-15c5833-250626T101424",
+  "version_upstream": "",
+  "bsum": "19a93de54e2c38a9b0a8180ee3960fac9da6282491695f4eaae5fa26a39f9a39",
+  "build_date": "2025-06-26T17:58:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908151009",
+  "build_id": "15908151009",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-developer/gitops-operator/gitops-operator?tag=HEAD-15c5833-250626T101424-riscv64-Linux&download=gitops-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "169",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-developer/gitops-operator/gitops-operator?tag=HEAD-15c5833-250626T101424-riscv64-Linux&download=gitops-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redhat-developer/gitops-operator/gitops-operator:HEAD-15c5833-250626T101424-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redhat-developer/gitops-operator/gitops-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhat-developer/gitops-operator/gitops-operator?tag=HEAD-15c5833-250626T101424-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98db27b588ed96f19ee64c766cb99537e7af94f2631ae872d8f2015f45a60ef3",
+  "size": "49 MB",
+  "size_raw": "50465592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
