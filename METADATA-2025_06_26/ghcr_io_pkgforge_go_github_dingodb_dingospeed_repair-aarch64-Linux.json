@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "repair",
+  "pkg_family": "dingospeed",
+  "pkg_id": "repair#github.com_dingodb_dingospeed",
+  "pkg_name": "repair",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dingodb/dingospeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dingospeed is a self-hosted huggingface mirror service",
+  "homepage": [
+    "https://github.com/dingodb/dingospeed"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dingospeed-cmd",
+    "repair"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dingodb/dingospeed/archive/e8cb9481f80ba064a0551d2211f30e3114c289ee.tar.gz"
+  ],
+  "tag": [
+    "huggingface",
+    "llm",
+    "mirror",
+    "self-hosted",
+    "service"
+  ],
+  "version": "HEAD-e8cb948-250626T103943",
+  "version_upstream": "",
+  "bsum": "758ba34e7f50ec86d7e134a5173b26fbc4d774c5ef5b461423792ec87e33925f",
+  "build_date": "2025-06-26T22:48:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913255769",
+  "build_id": "15913255769",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/repair?tag=HEAD-e8cb948-250626T103943-aarch64-Linux&download=repair.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/repair?tag=HEAD-e8cb948-250626T103943-aarch64-Linux&download=repair",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dingodb/dingospeed/repair:HEAD-e8cb948-250626T103943-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dingodb/dingospeed/repair",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dingodb/dingospeed/repair?tag=HEAD-e8cb948-250626T103943-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47e67eec7450f06de807763b54c987c59ddb562e8ebb5e14f676c6e81a97d02f",
+  "size": "9.8 MB",
+  "size_raw": "10237728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0129333-250625T130858-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
