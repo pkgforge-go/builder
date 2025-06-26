@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "osbuild-upload-generic-s3",
+  "pkg_family": "images",
+  "pkg_id": "osbuild-upload-generic-s3#github.com_osbuild_images",
+  "pkg_name": "osbuild-upload-generic-s3",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Image builder image definition library",
+  "homepage": [
+    "https://github.com/osbuild/images"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boot-aws",
+    "osbuild-mock-openid-provider",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/images/archive/30942aabbba7b57b26e6f633fdbfce455f339eba.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-30942aa-250625T092943",
+  "version_upstream": "",
+  "bsum": "ac2e3c07b0bfa7b7703513b61d3a4a92b81554203bd2c37f7a2fd417ba65c3aa",
+  "build_date": "2025-06-26T00:25:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888116922",
+  "build_id": "15888116922",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-generic-s3?tag=HEAD-30942aa-250625T092943-aarch64-Linux&download=osbuild-upload-generic-s3.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-generic-s3?tag=HEAD-30942aa-250625T092943-aarch64-Linux&download=osbuild-upload-generic-s3",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/images/osbuild-upload-generic-s3:HEAD-30942aa-250625T092943-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/images/osbuild-upload-generic-s3",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-generic-s3?tag=HEAD-30942aa-250625T092943-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2150358fbbc9069797c30af8bf87adc21315e20fe226df204f5b1872a9eb4bfd",
+  "size": "13 MB",
+  "size_raw": "13091424",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3cfb185-250620T084946-aarch64-Linux[v0.153.0]"
+  ],
+  "trusted": "true"
+}
