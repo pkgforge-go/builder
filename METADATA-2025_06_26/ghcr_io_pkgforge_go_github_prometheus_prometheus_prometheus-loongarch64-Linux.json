@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "prometheus",
+  "pkg_family": "prometheus",
+  "pkg_id": "prometheus#github.com_prometheus_prometheus",
+  "pkg_name": "prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Prometheus monitoring system and time series database.",
+  "homepage": [
+    "https://github.com/prometheus/prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/prometheus/archive/5b7ff92d95a16ebbf23764982167e8b02be8a28a.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+  ],
+  "version": "HEAD-5b7ff92-250625T133743",
+  "version_upstream": "",
+  "bsum": "85d3fa6ef677c3eff071f6c84c1b9599c993ea78e8a6b5f3a279b345e7f48dab",
+  "build_date": "2025-06-26T00:28:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888120977",
+  "build_id": "15888120977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/prometheus?tag=HEAD-5b7ff92-250625T133743-loongarch64-Linux&download=prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59145",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/prometheus?tag=HEAD-5b7ff92-250625T133743-loongarch64-Linux&download=prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/prometheus:HEAD-5b7ff92-250625T133743-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/prometheus?tag=HEAD-5b7ff92-250625T133743-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bad7f623d4aebaf9553ce0b99e94f15f9d25bcdfc8951ba6200c755832d86503",
+  "size": "115 MB",
+  "size_raw": "119652192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c701636-250620T130902-loongarch64-Linux",
+    "HEAD-d668382-250621T094907-loongarch64-Linux",
+    "HEAD-8ed37d3-250623T005608-loongarch64-Linux",
+    "HEAD-bdada23-250624T122006-loongarch64-Linux",
+    "HEAD-31e158b-250624T215255-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
