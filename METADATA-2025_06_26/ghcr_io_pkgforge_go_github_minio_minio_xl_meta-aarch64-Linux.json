@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "xl-meta",
+  "pkg_family": "minio",
+  "pkg_id": "xl-meta#github.com_minio_minio",
+  "pkg_name": "xl-meta",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/minio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+  "homepage": [
+    "https://github.com/minio/minio"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hash-set",
+    "healing-bin",
+    "minio",
+    "minio-go",
+    "s3-check-md5",
+    "xl-meta"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minio/minio/archive/2718d9a430fb2c9db1c41536ccd28717b0c1435d.tar.gz"
+  ],
+  "tag": [
+    "amazon-s3",
+    "cloud",
+    "cloudnative",
+    "cloudstorage",
+    "go",
+    "k8s",
+    "kubernetes",
+    "multi-cloud",
+    "multi-cloud-kubernetes",
+    "objectstorage",
+    "s3",
+    "storage"
+  ],
+  "version": "HEAD-2718d9a-250625T080854",
+  "version_upstream": "",
+  "bsum": "3457b9272f27f2f1371a58fc6b70ffbec1a0564db8e7294c79ca825b11006f40",
+  "build_date": "2025-06-26T14:19:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903156276",
+  "build_id": "15903156276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/xl-meta?tag=HEAD-2718d9a-250625T080854-aarch64-Linux&download=xl-meta.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53336",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/xl-meta?tag=HEAD-2718d9a-250625T080854-aarch64-Linux&download=xl-meta",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/minio/xl-meta:HEAD-2718d9a-250625T080854-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/minio/xl-meta",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/minio/xl-meta?tag=HEAD-2718d9a-250625T080854-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "57e8925341db46e61012ec641bfd053aa38e311c9b9dbe4ae11e4287c81d506d",
+  "size": "5.0 MB",
+  "size_raw": "5164064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a6c538c-250613T043347-aarch64-Linux",
+    "HEAD-e0c79be-250623T202838-aarch64-Linux",
+    "HEAD-a65292c-250624T173322-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
