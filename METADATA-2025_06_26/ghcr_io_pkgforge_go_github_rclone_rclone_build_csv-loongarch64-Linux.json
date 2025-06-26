@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "build_csv",
+  "pkg_family": "rclone",
+  "pkg_id": "build_csv#github.com_rclone_rclone",
+  "pkg_name": "build_csv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rclone/rclone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "_rsync for cloud storage_ - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+  "homepage": [
+    "https://github.com/rclone/rclone"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build_csv",
+    "gen",
+    "rclone-bin",
+    "test_vfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rclone/rclone/archive/e10f516a5e2f748eed4a479548a18f2215b3350b.tar.gz"
+  ],
+  "tag": [
+    "azure-blob",
+    "azure-blob-storage",
+    "azure-files",
+    "backblaze-b2",
+    "cloud-storage",
+    "dropbox",
+    "encryption",
+    "ftp",
+    "fuse-filesystem",
+    "go",
+    "golang",
+    "google-cloud-storage",
+    "google-drive",
+    "onedrive",
+    "openstack-swift",
+    "rclone",
+    "s3",
+    "sftp",
+    "sync",
+    "webdav"
+  ],
+  "version": "HEAD-e10f516-250625T111950",
+  "version_upstream": "",
+  "bsum": "ab4cfe7a0eee861488e65fc52384d420f6152a8a288a20764a57eabfc852c3a6",
+  "build_date": "2025-06-26T00:29:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888123540",
+  "build_id": "15888123540",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rclone/rclone/build_csv?tag=HEAD-e10f516-250625T111950-loongarch64-Linux&download=build_csv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51181",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rclone/rclone/build_csv?tag=HEAD-e10f516-250625T111950-loongarch64-Linux&download=build_csv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rclone/rclone/build_csv:HEAD-e10f516-250625T111950-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rclone/rclone/build_csv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rclone/rclone/build_csv?tag=HEAD-e10f516-250625T111950-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "998f74a3607b680fd9cdb0a2e8efaac9221bab744667bd2c313b9e0f38404e5f",
+  "size": "4.5 MB",
+  "size_raw": "4685392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c38ca6b-250620T182736-loongarch64-Linux",
+    "HEAD-92f30fd-250624T150445-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
