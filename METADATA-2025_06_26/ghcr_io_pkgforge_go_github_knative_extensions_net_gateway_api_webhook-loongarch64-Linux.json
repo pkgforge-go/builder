@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "net-gateway-api",
+  "pkg_id": "webhook#github.com_knative_extensions_net_gateway_api",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/net-gateway-api",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Integration between Knative and service-apis _ingress v2_ for Knative Ingress migration.",
+  "homepage": [
+    "https://github.com/knative-extensions/net-gateway-api"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/net-gateway-api/archive/cc3d2b7cc0137350a91606d6f95285c042c61a02.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cc3d2b7-250626T140107",
+  "version_upstream": "",
+  "bsum": "d04e27b86efc7021d2ec9ae1045faa99889ee70bd71f0bee95f8e3f9fa0672a0",
+  "build_date": "2025-06-26T17:09:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907077064",
+  "build_id": "15907077064",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/net-gateway-api/webhook?tag=HEAD-cc3d2b7-250626T140107-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/net-gateway-api/webhook?tag=HEAD-cc3d2b7-250626T140107-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/net-gateway-api/webhook:HEAD-cc3d2b7-250626T140107-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/net-gateway-api/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/net-gateway-api/webhook?tag=HEAD-cc3d2b7-250626T140107-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ee72cc98eed308a39a72d49b2f00e058499c7256f4cdf87054f64e2197a4d6e",
+  "size": "57 MB",
+  "size_raw": "58727136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
