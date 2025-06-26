@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "spiderpool-init",
+  "pkg_family": "spiderpool",
+  "pkg_id": "spiderpool-init#github.com_spidernet_io_spiderpool",
+  "pkg_name": "spiderpool-init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spidernet-io/spiderpool",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud",
+  "homepage": [
+    "https://github.com/spidernet-io/spiderpool"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coordinator",
+    "ifacer",
+    "licensegen",
+    "spiderpool",
+    "spiderpool-agent",
+    "spiderpool-controller",
+    "spiderpool-init",
+    "spiderpoolctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spidernet-io/spiderpool/archive/c616ca5c7d09a5b779c9fc3b4867f1d730054912.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "cni",
+    "golang",
+    "ipam",
+    "kubernetes",
+    "rdma"
+  ],
+  "version": "HEAD-c616ca5-250626T175744",
+  "version_upstream": "",
+  "bsum": "e6daec5ccb6e8f531110534412feab5d2ff7dc2258f9e6c6195dcf472ca5d62f",
+  "build_date": "2025-06-26T18:13:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908411855",
+  "build_id": "15908411855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-init?tag=HEAD-c616ca5-250626T175744-x86_64-Linux&download=spiderpool-init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-init?tag=HEAD-c616ca5-250626T175744-x86_64-Linux&download=spiderpool-init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-init:HEAD-c616ca5-250626T175744-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/spiderpool-init?tag=HEAD-c616ca5-250626T175744-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "780b5f98add96d4924b246ea536d823c5cdc0cb6847043c6559c98c1b221b990",
+  "size": "39 MB",
+  "size_raw": "40615808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

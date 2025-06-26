@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "coordinator",
+  "pkg_family": "spiderpool",
+  "pkg_id": "coordinator#github.com_spidernet_io_spiderpool",
+  "pkg_name": "coordinator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spidernet-io/spiderpool",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud",
+  "homepage": [
+    "https://github.com/spidernet-io/spiderpool"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coordinator",
+    "ifacer",
+    "licensegen",
+    "spiderpool",
+    "spiderpool-agent",
+    "spiderpool-controller",
+    "spiderpool-init",
+    "spiderpoolctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spidernet-io/spiderpool/archive/c616ca5c7d09a5b779c9fc3b4867f1d730054912.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "cni",
+    "golang",
+    "ipam",
+    "kubernetes",
+    "rdma"
+  ],
+  "version": "HEAD-c616ca5-250626T175744",
+  "version_upstream": "",
+  "bsum": "c8b26289785d3614705606c68501c3bfaea0b2c7a21ed2037727a69561292828",
+  "build_date": "2025-06-26T18:13:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908411855",
+  "build_id": "15908411855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/coordinator?tag=HEAD-c616ca5-250626T175744-x86_64-Linux&download=coordinator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "587",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/coordinator?tag=HEAD-c616ca5-250626T175744-x86_64-Linux&download=coordinator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/coordinator:HEAD-c616ca5-250626T175744-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spidernet-io/spiderpool/coordinator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spidernet-io/spiderpool/coordinator?tag=HEAD-c616ca5-250626T175744-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "58ee9c0a2a747ee06591d42e8676bb63fa4df93fc241fd5f5df7d233314ae97f",
+  "size": "36 MB",
+  "size_raw": "37059072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
