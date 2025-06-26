@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pushgw",
+  "pkg_family": "nightingale",
+  "pkg_id": "pushgw#github.com_ccfos_nightingale",
+  "pkg_name": "pushgw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ccfos/nightingale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+  "homepage": [
+    "https://github.com/ccfos/nightingale"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alert",
+    "center",
+    "cli",
+    "edge",
+    "pushgw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ccfos/nightingale/archive/a938ea3e5661a5af4e4afcffd49f8ac2cfe0610c.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "ccf",
+    "metrics",
+    "monitoring",
+    "nightingale",
+    "observability",
+    "open-falcon",
+    "time-series",
+    "tsdb"
+  ],
+  "version": "HEAD-a938ea3-250626T184455",
+  "version_upstream": "",
+  "bsum": "3ff45bbe9e9e35c0e7a52b4e7dc6dd367eba66764657223745b30a2595dcf52e",
+  "build_date": "2025-06-26T22:35:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913217526",
+  "build_id": "15913217526",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/pushgw?tag=HEAD-a938ea3-250626T184455-aarch64-Linux&download=pushgw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11037",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/pushgw?tag=HEAD-a938ea3-250626T184455-aarch64-Linux&download=pushgw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ccfos/nightingale/pushgw:HEAD-a938ea3-250626T184455-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ccfos/nightingale/pushgw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/pushgw?tag=HEAD-a938ea3-250626T184455-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2da3a29944ff6115c1b96d89a33e1757e07c58f04449e7a0b1aea17f7cb7d3a",
+  "size": "49 MB",
+  "size_raw": "51139840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-12f3cc2-250619T161830-aarch64-Linux",
+    "HEAD-514913a-250623T192050-aarch64-Linux",
+    "HEAD-25c3390-250625T180546-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
