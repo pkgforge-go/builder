@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "flowmigrate",
+  "pkg_family": "goflow",
+  "pkg_id": "flowmigrate#github.com_nyaruka_goflow",
+  "pkg_name": "flowmigrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nyaruka/goflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flow engine for RapidPro/TextIt.",
+  "homepage": [
+    "https://github.com/nyaruka/goflow"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docgen",
+    "flowmigrate",
+    "flowrunner",
+    "flowxgettext"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nyaruka/goflow/archive/7db8df1953f07678519966fdb738074ba978f482.tar.gz"
+  ],
+  "tag": [
+    "flows",
+    "flowspec",
+    "messaging"
+  ],
+  "version": "HEAD-7db8df1-250625T131720",
+  "version_upstream": "v0.249.2",
+  "bsum": "5ebc871fe2160013031d2ddd67c45e6bea9d0e5eb6e30a530db80c8b101c8df3",
+  "build_date": "2025-06-26T11:30:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898975926",
+  "build_id": "15898975926",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowmigrate?tag=HEAD-7db8df1-250625T131720-x86_64-Linux&download=flowmigrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowmigrate?tag=HEAD-7db8df1-250625T131720-x86_64-Linux&download=flowmigrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nyaruka/goflow/flowmigrate:HEAD-7db8df1-250625T131720-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nyaruka/goflow/flowmigrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowmigrate?tag=HEAD-7db8df1-250625T131720-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3753e2f81c4bc943246c169298f2b1b5450b3fb24d67c796da9e76baedec7bd",
+  "size": "21 MB",
+  "size_raw": "21016152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0dc56a5-250620T195046-x86_64-Linux[v0.248.1]",
+    "HEAD-bb64cfc-250624T135919-x86_64-Linux[v0.248.4]"
+  ],
+  "trusted": "true"
+}
