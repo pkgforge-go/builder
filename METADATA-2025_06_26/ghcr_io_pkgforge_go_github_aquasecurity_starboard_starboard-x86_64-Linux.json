@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "starboard",
+  "pkg_family": "starboard",
+  "pkg_id": "starboard#github.com_aquasecurity_starboard",
+  "pkg_name": "starboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/starboard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Superseded by https://github.com/aquasecurity/trivy-operator",
+  "homepage": [
+    "https://github.com/aquasecurity/starboard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scanner-aqua",
+    "starboard",
+    "starboard-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/starboard/archive/ab715b7752625ad4512606342c02f3e78495a6ab.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "custom-resource-definition",
+    "kubernetes",
+    "security",
+    "starboard"
+  ],
+  "version": "HEAD-ab715b7-250625T145045",
+  "version_upstream": "",
+  "bsum": "4aa7ffd661d68fe88111f67e40d471f07d7e06ed8441818a438a7470c036f344",
+  "build_date": "2025-06-26T02:29:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891365708",
+  "build_id": "15891365708",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/starboard/starboard?tag=HEAD-ab715b7-250625T145045-x86_64-Linux&download=starboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1366",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/starboard/starboard?tag=HEAD-ab715b7-250625T145045-x86_64-Linux&download=starboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/starboard/starboard:HEAD-ab715b7-250625T145045-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/starboard/starboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/starboard/starboard?tag=HEAD-ab715b7-250625T145045-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5851d92e0130dd17793bf07c4d8905c6e5d06d701aeb93515049e319e18ca818",
+  "size": "90 MB",
+  "size_raw": "93786112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f2b5445-250623T175729-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
