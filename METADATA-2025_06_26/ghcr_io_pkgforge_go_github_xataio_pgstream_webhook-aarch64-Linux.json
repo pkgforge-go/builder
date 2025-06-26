@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "pgstream",
+  "pkg_id": "webhook#github.com_xataio_pgstream",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xataio/pgstream",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "https://github.com/xataio/pgstream"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xataio/pgstream/archive/b1d174b33090f0fb20148c7d38a504f4535a2523.tar.gz"
+  ],
+  "tag": [
+    "ddl",
+    "elasticsearch",
+    "golang",
+    "opensearch",
+    "postgresql",
+    "replication",
+    "schema",
+    "webhooks"
+  ],
+  "version": "HEAD-b1d174b-250625T100327",
+  "version_upstream": "v0.7.2",
+  "bsum": "e2d0667c9041d6bc5c18e37c9dbac58931fd89aefd7afa5e99cdb51800702310",
+  "build_date": "2025-06-26T03:59:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891968900",
+  "build_id": "15891968900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/webhook?tag=HEAD-b1d174b-250625T100327-aarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "593",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/webhook?tag=HEAD-b1d174b-250625T100327-aarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/webhook:HEAD-b1d174b-250625T100327-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/webhook?tag=HEAD-b1d174b-250625T100327-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7888da8572bd6f66b4f0ea95da0beb3d4592a482de8deb27ca294443e3c2b9f8",
+  "size": "5.9 MB",
+  "size_raw": "6176704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-438b44a-250620T131309-aarch64-Linux[v0.7.1]",
+    "HEAD-227bfc8-250624T160434-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
