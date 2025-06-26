@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "krew",
+  "pkg_family": "kubevpn",
+  "pkg_id": "krew#github.com_kubenetworks_kubevpn",
+  "pkg_name": "krew",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubenetworks/kubevpn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.",
+  "homepage": [
+    "https://github.com/kubenetworks/kubevpn"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "krew"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubenetworks/kubevpn/archive/b5235a3a26c9aedd60cdf4d2d91b78e63b460d07.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "control-plane",
+    "developer-tools",
+    "devops",
+    "docker",
+    "envoy",
+    "k8s",
+    "kt-connect",
+    "kubernetes",
+    "kubevpn",
+    "local-development",
+    "mesh",
+    "minikube",
+    "network",
+    "nocalhost",
+    "proxy",
+    "service-mesh",
+    "telepresence",
+    "tools",
+    "tunnel"
+  ],
+  "version": "HEAD-b5235a3-250626T032412",
+  "version_upstream": "v2.7.20",
+  "bsum": "1ac0cf09f1c9ed274e49e45374a6615b4b845b0228104d6f6073c6bc01aa3a6e",
+  "build_date": "2025-06-26T14:05:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902956465",
+  "build_id": "15902956465",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/kubevpn/krew?tag=HEAD-b5235a3-250626T032412-loongarch64-Linux&download=krew.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1176",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/kubevpn/krew?tag=HEAD-b5235a3-250626T032412-loongarch64-Linux&download=krew",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubenetworks/kubevpn/krew:HEAD-b5235a3-250626T032412-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubenetworks/kubevpn/krew",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/kubevpn/krew?tag=HEAD-b5235a3-250626T032412-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49e0b65bd3a2a3447e8642475cd1fd15dd6e62c6bf605a63328a2696bf5fad77",
+  "size": "7.6 MB",
+  "size_raw": "7938752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4021480-250618T220439-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
