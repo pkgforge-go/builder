@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kyverno-init",
+  "pkg_family": "kyverno",
+  "pkg_id": "kyverno-init#github.com_kyverno_kyverno",
+  "pkg_name": "kyverno-init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/ec566886ffe60db02f1763ccdd854d9a69dc6f60.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-ec56688-250625T223903",
+  "version_upstream": "",
+  "bsum": "646cb3a6c1a00a0908b68e7dab686f9aadf72804258dc1a0e3db95c71c9f99f8",
+  "build_date": "2025-06-26T11:32:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898960585",
+  "build_id": "15898960585",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/kyverno-init?tag=HEAD-ec56688-250625T223903-loongarch64-Linux&download=kyverno-init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6458",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/kyverno-init?tag=HEAD-ec56688-250625T223903-loongarch64-Linux&download=kyverno-init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/kyverno-init:HEAD-ec56688-250625T223903-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/kyverno-init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/kyverno-init?tag=HEAD-ec56688-250625T223903-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b422aa92e2d2c777ba6a9f32dcc68580424551662351bc4b2ba7df6e77905cb",
+  "size": "154 MB",
+  "size_raw": "161008096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-467bcb5-250620T115123-loongarch64-Linux",
+    "HEAD-9684ef6-250623T130110-loongarch64-Linux",
+    "HEAD-557a6d2-250624T142711-loongarch64-Linux",
+    "HEAD-515398a-250624T225149-loongarch64-Linux",
+    "HEAD-6f2ff42-250625T134817-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
