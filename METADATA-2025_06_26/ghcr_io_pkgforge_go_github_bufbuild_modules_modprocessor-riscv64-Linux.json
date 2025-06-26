@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "modprocessor",
+  "pkg_family": "modules",
+  "pkg_id": "modprocessor#github.com_bufbuild_modules",
+  "pkg_name": "modprocessor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/modules",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of third-party modules managed and synced by Buf.",
+  "homepage": [
+    "https://github.com/bufbuild/modules"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "casdiff",
+    "modprocessor",
+    "release",
+    "releaseprocessor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/modules/archive/8e52688e9760feec69a4bc7fa3f77e969777e6f5.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-8e52688-250625T143212",
+  "version_upstream": "20250625.1",
+  "bsum": "8db5392b9323e2ebccc7c990e53d07e4dca2e4fa3e8d9153c50cbb5111e64b56",
+  "build_date": "2025-06-26T10:16:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898686993",
+  "build_id": "15898686993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/modprocessor?tag=HEAD-8e52688-250625T143212-riscv64-Linux&download=modprocessor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/modprocessor?tag=HEAD-8e52688-250625T143212-riscv64-Linux&download=modprocessor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/modules/modprocessor:HEAD-8e52688-250625T143212-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/modules/modprocessor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/modprocessor?tag=HEAD-8e52688-250625T143212-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f959886ed4368cd78eac50a568f7507a80771f85d333b37d7e805a0baa0e149",
+  "size": "10 MB",
+  "size_raw": "10439112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a314f06-250623T082357-riscv64-Linux",
+    "HEAD-1022a94-250624T091525-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
