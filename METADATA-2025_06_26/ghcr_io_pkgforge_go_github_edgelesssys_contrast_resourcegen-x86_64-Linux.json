@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "resourcegen",
+  "pkg_family": "contrast",
+  "pkg_id": "resourcegen#github.com_edgelesssys_contrast",
+  "pkg_name": "resourcegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edgelesssys/contrast",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy and manage confidential containers on Kubernetes",
+  "homepage": [
+    "https://github.com/edgelesssys/contrast"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "initializer",
+    "nodeinstaller",
+    "resourcegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edgelesssys/contrast/archive/4cf591b49336ac802cc89eb9ed6f8c7befaa7466.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4cf591b-250625T150836",
+  "version_upstream": "",
+  "bsum": "6cce1e78734309efea27d399183216361cc541714084dea5a4e1bca828c138e0",
+  "build_date": "2025-06-26T02:58:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891413853",
+  "build_id": "15891413853",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/resourcegen?tag=HEAD-4cf591b-250625T150836-x86_64-Linux&download=resourcegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/resourcegen?tag=HEAD-4cf591b-250625T150836-x86_64-Linux&download=resourcegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgelesssys/contrast/resourcegen:HEAD-4cf591b-250625T150836-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgelesssys/contrast/resourcegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/resourcegen?tag=HEAD-4cf591b-250625T150836-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c2010f7ca2d2ef814be5d12feb6de409b54bb13314a3d4c44330d3543467fbd",
+  "size": "39 MB",
+  "size_raw": "40315296",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d4062fa-250620T105136-x86_64-Linux",
+    "HEAD-2c50ca0-250623T162044-x86_64-Linux",
+    "HEAD-ab42837-250624T143455-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
