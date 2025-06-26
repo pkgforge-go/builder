@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "codegen",
+  "pkg_family": "kvisor",
+  "pkg_id": "codegen#github.com_castai_kvisor",
+  "pkg_name": "codegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "imagescan",
+    "linter",
+    "mock-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/e7acda6c86662ad0a960f35a82cb8de0a897e57f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e7acda6-250626T164502",
+  "version_upstream": "",
+  "bsum": "649b6b77a3c8c34af61d61e58f8ead89b3b22ea259f8f8192d4b42b51f7f682a",
+  "build_date": "2025-06-26T22:40:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913216963",
+  "build_id": "15913216963",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/codegen?tag=HEAD-e7acda6-250626T164502-loongarch64-Linux&download=codegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/codegen?tag=HEAD-e7acda6-250626T164502-loongarch64-Linux&download=codegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/codegen:HEAD-e7acda6-250626T164502-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/codegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/codegen?tag=HEAD-e7acda6-250626T164502-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "215e5797ec94bf5d0c8b8aa1bac86dedf938e981fc60c7b069da1fd789733bfd",
+  "size": "2.2 MB",
+  "size_raw": "2281240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-25b92df-250619T124341-loongarch64-Linux",
+    "HEAD-d93f129-250623T112732-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

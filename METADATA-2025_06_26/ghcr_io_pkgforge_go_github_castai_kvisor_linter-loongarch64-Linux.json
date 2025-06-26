@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "linter",
+  "pkg_family": "kvisor",
+  "pkg_id": "linter#github.com_castai_kvisor",
+  "pkg_name": "linter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "imagescan",
+    "linter",
+    "mock-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/e7acda6c86662ad0a960f35a82cb8de0a897e57f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e7acda6-250626T164502",
+  "version_upstream": "",
+  "bsum": "53a9c31e599c94369c9d9aaba7493c4e9c1296f82b59fb272e94a3db79503f9c",
+  "build_date": "2025-06-26T22:39:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913216963",
+  "build_id": "15913216963",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/linter?tag=HEAD-e7acda6-250626T164502-loongarch64-Linux&download=linter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/linter?tag=HEAD-e7acda6-250626T164502-loongarch64-Linux&download=linter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/linter:HEAD-e7acda6-250626T164502-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/linter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/linter?tag=HEAD-e7acda6-250626T164502-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6aeb4dfa9ee9b204f927ac6d79981fd740134ce21cf9f3377e01e264a3e5efed",
+  "size": "7.9 MB",
+  "size_raw": "8267424",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-25b92df-250619T124341-loongarch64-Linux",
+    "HEAD-d93f129-250623T112732-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
