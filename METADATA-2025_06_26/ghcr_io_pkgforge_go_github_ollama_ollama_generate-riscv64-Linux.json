@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "ollama",
+  "pkg_id": "generate#github.com_ollama_ollama",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ollama/ollama",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+  "homepage": [
+    "https://github.com/ollama/ollama"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "chat",
+    "generate",
+    "generate-streaming",
+    "multimodal",
+    "pull-progress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ollama/ollama/archive/ba04902670cd5945ded682c1c9de2220475b9c38.tar.gz"
+  ],
+  "tag": [
+    "deepseek",
+    "gemma",
+    "gemma2",
+    "gemma3",
+    "go",
+    "golang",
+    "llama",
+    "llama2",
+    "llama3",
+    "llava",
+    "llm",
+    "llms",
+    "mistral",
+    "ollama",
+    "phi3",
+    "phi4",
+    "qwen"
+  ],
+  "version": "HEAD-ba04902-250626T001944",
+  "version_upstream": "v0.9.3",
+  "bsum": "08eafb9deaa630e7d5136a12350d62e1ce622063dc908568838c30bdd8a2f116",
+  "build_date": "2025-06-26T23:55:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913403995",
+  "build_id": "15913403995",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/generate?tag=HEAD-ba04902-250626T001944-riscv64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "144799",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/generate?tag=HEAD-ba04902-250626T001944-riscv64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ollama/ollama/generate:HEAD-ba04902-250626T001944-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ollama/ollama/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ollama/ollama/generate?tag=HEAD-ba04902-250626T001944-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c51138c3f48350e8c3962ceadbf71b50d3be5a68539d207c7ecec7f3e7c95c87",
+  "size": "6.3 MB",
+  "size_raw": "6533080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87b7af6-250619T171249-riscv64-Linux",
+    "HEAD-65bff66-250620T123251-riscv64-Linux",
+    "HEAD-10a8e04-250623T155250-riscv64-Linux",
+    "HEAD-f085341-250624T202743-riscv64-Linux[v0.9.3-rc3]",
+    "HEAD-ad118d8-250624T210015-riscv64-Linux[v0.9.3-rc4]"
+  ],
+  "trusted": "true"
+}
