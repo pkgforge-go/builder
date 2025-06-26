@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pbm",
+  "pkg_family": "percona-backup-mongodb",
+  "pkg_id": "pbm#github.com_percona_percona_backup_mongodb",
+  "pkg_name": "pbm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-backup-mongodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Backup for MongoDB",
+  "homepage": [
+    "https://github.com/percona/percona-backup-mongodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ensure-oplog",
+    "pbm",
+    "pbm-agent",
+    "pbm-agent-entrypoint",
+    "pbm-speed-test",
+    "pbm-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-backup-mongodb/archive/da3bd6c2c1ec4c6024231b2b6991dd550be12cc7.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "mongodb",
+    "mongodb-backup",
+    "pbm",
+    "percona-backup"
+  ],
+  "version": "HEAD-da3bd6c-250626T134900",
+  "version_upstream": "v2.10.0",
+  "bsum": "24d9d340f7addab081453ff34d76d367ab8d26c43cde824142d679d009edfb91",
+  "build_date": "2025-06-26T17:50:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907991800",
+  "build_id": "15907991800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&download=pbm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "284",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&download=pbm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/pbm:HEAD-da3bd6c-250626T134900-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/pbm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "456e286dacf4b14ea7256edffdb7d984bf4affd4badcb77af27ede444c0253b4",
+  "size": "35 MB",
+  "size_raw": "35843424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

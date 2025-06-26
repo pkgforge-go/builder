@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pbm-agent-entrypoint",
+  "pkg_family": "percona-backup-mongodb",
+  "pkg_id": "pbm-agent-entrypoint#github.com_percona_percona_backup_mongodb",
+  "pkg_name": "pbm-agent-entrypoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-backup-mongodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Backup for MongoDB",
+  "homepage": [
+    "https://github.com/percona/percona-backup-mongodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ensure-oplog",
+    "pbm",
+    "pbm-agent",
+    "pbm-agent-entrypoint",
+    "pbm-speed-test",
+    "pbm-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-backup-mongodb/archive/da3bd6c2c1ec4c6024231b2b6991dd550be12cc7.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "mongodb",
+    "mongodb-backup",
+    "pbm",
+    "percona-backup"
+  ],
+  "version": "HEAD-da3bd6c-250626T134900",
+  "version_upstream": "v2.10.0",
+  "bsum": "7225e29ca14380cb2e63105021988972b09fed1cadb1c2c53a38c5569be4fd6f",
+  "build_date": "2025-06-26T17:50:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907991800",
+  "build_id": "15907991800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent-entrypoint?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&download=pbm-agent-entrypoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "284",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent-entrypoint?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&download=pbm-agent-entrypoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent-entrypoint:HEAD-da3bd6c-250626T134900-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent-entrypoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent-entrypoint?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23f9c876fd24945aa9d1ed736dd1d30ff178028b9f923c15a1a888b3802e1f17",
+  "size": "2.0 MB",
+  "size_raw": "2024632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

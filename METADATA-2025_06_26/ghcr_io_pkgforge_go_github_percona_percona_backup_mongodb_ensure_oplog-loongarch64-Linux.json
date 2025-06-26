@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ensure-oplog",
+  "pkg_family": "percona-backup-mongodb",
+  "pkg_id": "ensure-oplog#github.com_percona_percona_backup_mongodb",
+  "pkg_name": "ensure-oplog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-backup-mongodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Backup for MongoDB",
+  "homepage": [
+    "https://github.com/percona/percona-backup-mongodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ensure-oplog",
+    "pbm",
+    "pbm-agent",
+    "pbm-agent-entrypoint",
+    "pbm-speed-test",
+    "pbm-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-backup-mongodb/archive/da3bd6c2c1ec4c6024231b2b6991dd550be12cc7.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "mongodb",
+    "mongodb-backup",
+    "pbm",
+    "percona-backup"
+  ],
+  "version": "HEAD-da3bd6c-250626T134900",
+  "version_upstream": "v2.10.0",
+  "bsum": "beb78662b2a795888c7a75b38d093a92f11f12c5e68067537b768ba5f94a08d7",
+  "build_date": "2025-06-26T17:50:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907991800",
+  "build_id": "15907991800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/ensure-oplog?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&download=ensure-oplog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "284",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/ensure-oplog?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&download=ensure-oplog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/ensure-oplog:HEAD-da3bd6c-250626T134900-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/ensure-oplog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/ensure-oplog?tag=HEAD-da3bd6c-250626T134900-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "020b8f94b3175503f619878e2f594716f5a27cbf8e4b5f5928b3263ffac43fae",
+  "size": "34 MB",
+  "size_raw": "35048096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
