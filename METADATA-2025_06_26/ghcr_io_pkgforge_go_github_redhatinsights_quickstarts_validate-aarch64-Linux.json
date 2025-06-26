@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "quickstarts",
+  "pkg_id": "validate#github.com_RedHatInsights_quickstarts",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/RedHatInsights/quickstarts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Backend service for integrated quickstarts.",
+  "homepage": [
+    "https://github.com/RedHatInsights/quickstarts"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "favorite",
+    "migrate",
+    "quickstarts",
+    "spec",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/RedHatInsights/quickstarts/archive/dd6ce933f267ade20b32a02450aa6579475c20e7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dd6ce93-250626T092510",
+  "version_upstream": "",
+  "bsum": "ea879cf3a497e0b629f0451aca2b9622c4d9a933fb56e74166ca24e4995c60df",
+  "build_date": "2025-06-26T16:09:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906508919",
+  "build_id": "15906508919",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/quickstarts/validate?tag=HEAD-dd6ce93-250626T092510-aarch64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/quickstarts/validate?tag=HEAD-dd6ce93-250626T092510-aarch64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redhatinsights/quickstarts/validate:HEAD-dd6ce93-250626T092510-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redhatinsights/quickstarts/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/quickstarts/validate?tag=HEAD-dd6ce93-250626T092510-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c037530d3cb90555df7eb8132dfa720b1f3c5648e5929701735e5c1c64126e13",
+  "size": "2.7 MB",
+  "size_raw": "2781208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
