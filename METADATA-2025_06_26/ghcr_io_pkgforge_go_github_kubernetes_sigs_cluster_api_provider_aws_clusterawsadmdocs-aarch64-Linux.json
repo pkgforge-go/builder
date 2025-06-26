@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "clusterawsadmdocs",
+  "pkg_family": "cluster-api-provider-aws",
+  "pkg_id": "clusterawsadmdocs#github.com_kubernetes_sigs_cluster_api_provider_aws",
+  "pkg_name": "clusterawsadmdocs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/cluster-api-provider-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Cluster API Provider AWS provides consistent deployment and day 2 operations of _self-managed_ and EKS Kubernetes clusters on AWS.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amilist",
+    "cluster-api-provider-aws",
+    "clusterawsadm",
+    "clusterawsadmdocs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-aws/archive/570bb5ebc6bf26ff0efd29a12f2483870f37daac.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "k8s-sig-cluster-lifecycle",
+    "kubernetes-cluster"
+  ],
+  "version": "HEAD-570bb5e-250625T132029",
+  "version_upstream": "",
+  "bsum": "552bd720e21ed588d7982c3d666d468e0b3f2f58d67635b038ae3f82d87eb23c",
+  "build_date": "2025-06-26T08:17:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895929633",
+  "build_id": "15895929633",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/clusterawsadmdocs?tag=HEAD-570bb5e-250625T132029-aarch64-Linux&download=clusterawsadmdocs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "671",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/clusterawsadmdocs?tag=HEAD-570bb5e-250625T132029-aarch64-Linux&download=clusterawsadmdocs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/clusterawsadmdocs:HEAD-570bb5e-250625T132029-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/clusterawsadmdocs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-aws/clusterawsadmdocs?tag=HEAD-570bb5e-250625T132029-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c07ababf5550322d6a48f1c5fa8aa855a0312edfd1c90dd5c8569acb0486daef",
+  "size": "77 MB",
+  "size_raw": "80250816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
