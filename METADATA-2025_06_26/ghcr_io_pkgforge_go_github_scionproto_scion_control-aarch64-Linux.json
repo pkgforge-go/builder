@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "control",
+  "pkg_family": "scion",
+  "pkg_id": "control#github.com_scionproto_scion",
+  "pkg_name": "control",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/scionproto/scion",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SCION Internet Architecture",
+  "homepage": [
+    "https://github.com/scionproto/scion"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "braccept",
+    "brload",
+    "buildkite_artifacts",
+    "control",
+    "daemon",
+    "dispatcher",
+    "drkey",
+    "end2end",
+    "end2end_integration",
+    "gateway",
+    "graphupdater",
+    "mmbm",
+    "pathdb_dump",
+    "pktgen",
+    "router",
+    "scion",
+    "scion-pki",
+    "scion_integration",
+    "sig_ping_acceptance",
+    "udpproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/scionproto/scion/archive/379c6c7db20695a53b758190cd6c4302d0c3ab20.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-379c6c7-250625T142450",
+  "version_upstream": "",
+  "bsum": "f67d8e506ef6f3a65772ce5cc86c2daf676b0a0353f605670716d3d7f0c5abab",
+  "build_date": "2025-06-26T00:48:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888131139",
+  "build_id": "15888131139",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/control?tag=HEAD-379c6c7-250625T142450-aarch64-Linux&download=control.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "439",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/control?tag=HEAD-379c6c7-250625T142450-aarch64-Linux&download=control",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/scionproto/scion/control:HEAD-379c6c7-250625T142450-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/scionproto/scion/control",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scionproto/scion/control?tag=HEAD-379c6c7-250625T142450-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04f40f65a1019f268b03e6d350cfdff378e579cb99ab94c8bce9e47c8c03816f",
+  "size": "27 MB",
+  "size_raw": "28246944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4f2ee98-250624T122109-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
