@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "s3-test-srv",
+  "pkg_family": "boulder",
+  "pkg_id": "s3-test-srv#github.com_letsencrypt_boulder",
+  "pkg_name": "s3-test-srv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/letsencrypt/boulder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An ACME-based certificate authority, written in Go.",
+  "homepage": [
+    "https://github.com/letsencrypt/boulder"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "aia-test-srv",
+    "akamai-test-srv",
+    "boulder",
+    "ceremony",
+    "certs",
+    "chall-test-srv",
+    "checkari",
+    "checkocsp",
+    "ct-test-srv",
+    "flushredis",
+    "health-checker",
+    "list-features",
+    "load-generator",
+    "mail-test-srv",
+    "nameid",
+    "ocsp_forever",
+    "pardot-test-srv",
+    "s3-test-srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/letsencrypt/boulder/archive/4e74a255825f8e3666e71e472133d4cfcb5cfdef.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "boulder",
+    "ca",
+    "certificate-authority",
+    "go",
+    "lets-encrypt",
+    "pki",
+    "rfc8555",
+    "tls"
+  ],
+  "version": "HEAD-4e74a25-250625T163552",
+  "version_upstream": "",
+  "bsum": "6cdc1800913d4682a71d84e86010f4976d3e89724aa4a9f76dc8b40f6bfa37e7",
+  "build_date": "2025-06-26T11:20:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898962096",
+  "build_id": "15898962096",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/s3-test-srv?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&download=s3-test-srv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5469",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/s3-test-srv?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&download=s3-test-srv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/letsencrypt/boulder/s3-test-srv:HEAD-4e74a25-250625T163552-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/letsencrypt/boulder/s3-test-srv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/s3-test-srv?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a132d8713bf8124492300ca49fac3090dfb7b3a097de6d8954a7193e4f836db6",
+  "size": "16 MB",
+  "size_raw": "16037848",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5ddd5ac-250623T173606-riscv64-Linux[release-2025-06-23]",
+    "HEAD-c576a20-250624T161931-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

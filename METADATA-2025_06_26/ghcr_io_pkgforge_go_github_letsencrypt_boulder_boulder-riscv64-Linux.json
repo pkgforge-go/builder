@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "boulder",
+  "pkg_family": "boulder",
+  "pkg_id": "boulder#github.com_letsencrypt_boulder",
+  "pkg_name": "boulder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/letsencrypt/boulder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An ACME-based certificate authority, written in Go.",
+  "homepage": [
+    "https://github.com/letsencrypt/boulder"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "aia-test-srv",
+    "akamai-test-srv",
+    "boulder",
+    "ceremony",
+    "certs",
+    "chall-test-srv",
+    "checkari",
+    "checkocsp",
+    "ct-test-srv",
+    "flushredis",
+    "health-checker",
+    "list-features",
+    "load-generator",
+    "mail-test-srv",
+    "nameid",
+    "ocsp_forever",
+    "pardot-test-srv",
+    "s3-test-srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/letsencrypt/boulder/archive/4e74a255825f8e3666e71e472133d4cfcb5cfdef.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "boulder",
+    "ca",
+    "certificate-authority",
+    "go",
+    "lets-encrypt",
+    "pki",
+    "rfc8555",
+    "tls"
+  ],
+  "version": "HEAD-4e74a25-250625T163552",
+  "version_upstream": "",
+  "bsum": "d5928224b3b3749f3558aceeda8f08a7e937bd5e7d7ddc6eaf8875c28dcff80b",
+  "build_date": "2025-06-26T11:18:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898962096",
+  "build_id": "15898962096",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/boulder?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&download=boulder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5469",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/boulder?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&download=boulder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/letsencrypt/boulder/boulder:HEAD-4e74a25-250625T163552-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/letsencrypt/boulder/boulder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/boulder?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e8e2c16ff319f64a1c2602014fc6c3793ed3db005914c92e40d977820a629440",
+  "size": "39 MB",
+  "size_raw": "40127608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5ddd5ac-250623T173606-riscv64-Linux[release-2025-06-23]",
+    "HEAD-c576a20-250624T161931-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

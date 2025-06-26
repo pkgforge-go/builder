@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "health-checker",
+  "pkg_family": "boulder",
+  "pkg_id": "health-checker#github.com_letsencrypt_boulder",
+  "pkg_name": "health-checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/letsencrypt/boulder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An ACME-based certificate authority, written in Go.",
+  "homepage": [
+    "https://github.com/letsencrypt/boulder"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "aia-test-srv",
+    "akamai-test-srv",
+    "boulder",
+    "ceremony",
+    "certs",
+    "chall-test-srv",
+    "checkari",
+    "checkocsp",
+    "ct-test-srv",
+    "flushredis",
+    "health-checker",
+    "list-features",
+    "load-generator",
+    "mail-test-srv",
+    "nameid",
+    "ocsp_forever",
+    "pardot-test-srv",
+    "s3-test-srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/letsencrypt/boulder/archive/4e74a255825f8e3666e71e472133d4cfcb5cfdef.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "boulder",
+    "ca",
+    "certificate-authority",
+    "go",
+    "lets-encrypt",
+    "pki",
+    "rfc8555",
+    "tls"
+  ],
+  "version": "HEAD-4e74a25-250625T163552",
+  "version_upstream": "",
+  "bsum": "d103c88c95d02b6b5a32e7be57ef1c15e6d0fc1709410ecc7d1388c8c23c9508",
+  "build_date": "2025-06-26T11:19:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898962096",
+  "build_id": "15898962096",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/health-checker?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&download=health-checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5469",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/health-checker?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&download=health-checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/letsencrypt/boulder/health-checker:HEAD-4e74a25-250625T163552-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/letsencrypt/boulder/health-checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/boulder/health-checker?tag=HEAD-4e74a25-250625T163552-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a37d9d560c20d32c3905313d3924632fa408ef7a18aa8c1f843625d92f90cd9d",
+  "size": "18 MB",
+  "size_raw": "18263704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5ddd5ac-250623T173606-riscv64-Linux[release-2025-06-23]",
+    "HEAD-c576a20-250624T161931-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
