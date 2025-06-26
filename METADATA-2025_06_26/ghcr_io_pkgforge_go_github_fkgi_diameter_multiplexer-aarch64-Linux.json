@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "multiplexer",
+  "pkg_family": "diameter",
+  "pkg_id": "multiplexer#github.com_fkgi_diameter",
+  "pkg_name": "multiplexer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fkgi/diameter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RFC6733 implementation by golang",
+  "homepage": [
+    "https://github.com/fkgi/diameter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hub",
+    "multiplexer",
+    "roundrobin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fkgi/diameter/archive/37d9fa964073c6a1b9000d8b5861f5ca36eede8f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-37d9fa9-250626T204056",
+  "version_upstream": "",
+  "bsum": "f243382bef281875a801b870b11bf75518effba1c05f1c0b05095a5781d83f97",
+  "build_date": "2025-06-26T16:41:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906660282",
+  "build_id": "15906660282",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fkgi/diameter/multiplexer?tag=HEAD-37d9fa9-250626T204056-aarch64-Linux&download=multiplexer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fkgi/diameter/multiplexer?tag=HEAD-37d9fa9-250626T204056-aarch64-Linux&download=multiplexer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fkgi/diameter/multiplexer:HEAD-37d9fa9-250626T204056-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fkgi/diameter/multiplexer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fkgi/diameter/multiplexer?tag=HEAD-37d9fa9-250626T204056-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6410af1f7da8352249eaf099949cea814f7768476880194e26999ead6ac2a852",
+  "size": "6.1 MB",
+  "size_raw": "6318656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
