@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "flowrunner",
+  "pkg_family": "goflow",
+  "pkg_id": "flowrunner#github.com_nyaruka_goflow",
+  "pkg_name": "flowrunner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nyaruka/goflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flow engine for RapidPro/TextIt.",
+  "homepage": [
+    "https://github.com/nyaruka/goflow"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docgen",
+    "flowmigrate",
+    "flowrunner",
+    "flowxgettext"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nyaruka/goflow/archive/7db8df1953f07678519966fdb738074ba978f482.tar.gz"
+  ],
+  "tag": [
+    "flows",
+    "flowspec",
+    "messaging"
+  ],
+  "version": "HEAD-7db8df1-250625T131720",
+  "version_upstream": "v0.249.2",
+  "bsum": "112698504d3ca80ef257041a161795f81f9e96f11ae3e83e7d92f6bd7d95204a",
+  "build_date": "2025-06-26T11:29:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898975926",
+  "build_id": "15898975926",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowrunner?tag=HEAD-7db8df1-250625T131720-aarch64-Linux&download=flowrunner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowrunner?tag=HEAD-7db8df1-250625T131720-aarch64-Linux&download=flowrunner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nyaruka/goflow/flowrunner:HEAD-7db8df1-250625T131720-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nyaruka/goflow/flowrunner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/goflow/flowrunner?tag=HEAD-7db8df1-250625T131720-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d31b29c079c59314ab9992d2150a78be86d692dc8af3e34937db8698e57a9268",
+  "size": "20 MB",
+  "size_raw": "20885344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0dc56a5-250620T195046-aarch64-Linux[v0.248.1]",
+    "HEAD-bb64cfc-250624T135919-aarch64-Linux[v0.248.4]"
+  ],
+  "trusted": "true"
+}
