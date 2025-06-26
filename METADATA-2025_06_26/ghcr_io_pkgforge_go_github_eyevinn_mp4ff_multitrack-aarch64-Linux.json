@@ -1,0 +1,98 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "multitrack",
+  "pkg_family": "mp4ff",
+  "pkg_id": "multitrack#github.com_Eyevinn_mp4ff",
+  "pkg_name": "multitrack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Eyevinn/mp4ff",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.",
+  "homepage": [
+    "https://github.com/Eyevinn/mp4ff"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-sidx",
+    "combine-segs",
+    "initcreator",
+    "mp4ff-crop",
+    "mp4ff-decrypt",
+    "mp4ff-encrypt",
+    "mp4ff-info",
+    "mp4ff-nallister",
+    "mp4ff-pslister",
+    "mp4ff-subslister",
+    "multitrack",
+    "resegmenter",
+    "segmenter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Eyevinn/mp4ff/archive/a4bd1508dce8cd04e036b55e4f9750981257caaa.tar.gz"
+  ],
+  "tag": [
+    "aac",
+    "ac-3",
+    "adts",
+    "avc",
+    "cmaf",
+    "ec-3",
+    "fmp4",
+    "fragmented-mp4-files",
+    "h264",
+    "hevc",
+    "isobmff",
+    "mp4",
+    "mpeg-dash",
+    "pps",
+    "sei",
+    "sps",
+    "stpp",
+    "video",
+    "vp9",
+    "wvtt"
+  ],
+  "version": "HEAD-a4bd150-250626T080615",
+  "version_upstream": "",
+  "bsum": "4cf6a7ccfd50a881b88479bfb22299f2ce138c2a5f2cc693e8a691d8eb70e9a0",
+  "build_date": "2025-06-26T21:52:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913203872",
+  "build_id": "15913203872",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eyevinn/mp4ff/multitrack?tag=HEAD-a4bd150-250626T080615-aarch64-Linux&download=multitrack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "526",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eyevinn/mp4ff/multitrack?tag=HEAD-a4bd150-250626T080615-aarch64-Linux&download=multitrack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eyevinn/mp4ff/multitrack:HEAD-a4bd150-250626T080615-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eyevinn/mp4ff/multitrack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eyevinn/mp4ff/multitrack?tag=HEAD-a4bd150-250626T080615-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70b71f6d90e3d4327b6325af90056fe16d86339c4883e8fe6699c760fa0a4f75",
+  "size": "2.4 MB",
+  "size_raw": "2483808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cff60b3-250508T220921-aarch64-Linux",
+    "HEAD-76b0558-250625T152157-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
