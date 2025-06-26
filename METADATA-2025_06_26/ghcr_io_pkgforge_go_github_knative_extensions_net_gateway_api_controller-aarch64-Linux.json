@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "net-gateway-api",
+  "pkg_id": "controller#github.com_knative_extensions_net_gateway_api",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/net-gateway-api",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Integration between Knative and service-apis _ingress v2_ for Knative Ingress migration.",
+  "homepage": [
+    "https://github.com/knative-extensions/net-gateway-api"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/net-gateway-api/archive/cc3d2b7cc0137350a91606d6f95285c042c61a02.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cc3d2b7-250626T140107",
+  "version_upstream": "",
+  "bsum": "55544be234c4dd3a8e35f005b7497058d534ac665a996955a17fc81e3ee570ce",
+  "build_date": "2025-06-26T17:09:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907077064",
+  "build_id": "15907077064",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/net-gateway-api/controller?tag=HEAD-cc3d2b7-250626T140107-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/net-gateway-api/controller?tag=HEAD-cc3d2b7-250626T140107-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/net-gateway-api/controller:HEAD-cc3d2b7-250626T140107-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/net-gateway-api/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/net-gateway-api/controller?tag=HEAD-cc3d2b7-250626T140107-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f5011e641dc092927a6ff43b27ddae9a66ea285e947ed3f49c117f67b39943ce",
+  "size": "59 MB",
+  "size_raw": "60890112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
