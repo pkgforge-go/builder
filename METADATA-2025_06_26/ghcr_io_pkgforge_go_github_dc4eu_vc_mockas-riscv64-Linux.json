@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mockas",
+  "pkg_family": "vc",
+  "pkg_id": "mockas#github.com_dc4eu_vc",
+  "pkg_name": "mockas",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dc4eu/vc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "European Wallet",
+  "homepage": [
+    "https://github.com/dc4eu/vc"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apigw",
+    "issuer",
+    "mockas",
+    "persistent",
+    "registry",
+    "ui",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dc4eu/vc/archive/89ca994c9fbfd445fc5f75c4a5d10f2ab0528885.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-89ca994-250625T135733",
+  "version_upstream": "",
+  "bsum": "77364a75fee97b8d259ee0cf48f9ee020b42ce59042f14574d150dbb8aa8f1b2",
+  "build_date": "2025-06-26T02:53:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891394846",
+  "build_id": "15891394846",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/mockas?tag=HEAD-89ca994-250625T135733-riscv64-Linux&download=mockas.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/mockas?tag=HEAD-89ca994-250625T135733-riscv64-Linux&download=mockas",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dc4eu/vc/mockas:HEAD-89ca994-250625T135733-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dc4eu/vc/mockas",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/mockas?tag=HEAD-89ca994-250625T135733-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5512d11d2a973e0eb30dd9a542761cee2455f8297df831f12dab14515cba9e0a",
+  "size": "36 MB",
+  "size_raw": "36940280",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a972027-250619T153120-riscv64-Linux",
+    "HEAD-6068d38-250624T160013-riscv64-Linux",
+    "HEAD-89ca994-250625T135733-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
