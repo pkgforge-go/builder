@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "go-multiarch-image",
+  "pkg_family": "rules_oci",
+  "pkg_id": "go-multiarch-image#github.com_DataDog_rules_oci",
+  "pkg_name": "go-multiarch-image",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/DataDog/rules_oci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "blazing fast Bazel rules for building OCI Images",
+  "homepage": [
+    "https://github.com/DataDog/rules_oci"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-multiarch-image",
+    "ocitool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/DataDog/rules_oci/archive/0c7dd51acd1bdbd1ebf62b5d5d1e182c6d95c33f.tar.gz"
+  ],
+  "tag": [
+    "bazel",
+    "bazel-rules",
+    "oci",
+    "oras"
+  ],
+  "version": "HEAD-0c7dd51-250625T131152",
+  "version_upstream": "",
+  "bsum": "718ccd566bc99da711e514556262022a9ed7ea5e70ecb86dbc95fc59f1d8a3be",
+  "build_date": "2025-06-26T13:17:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902778233",
+  "build_id": "15902778233",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rules/oci/go-multiarch-image?tag=HEAD-0c7dd51-250625T131152-riscv64-Linux&download=go-multiarch-image.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rules/oci/go-multiarch-image?tag=HEAD-0c7dd51-250625T131152-riscv64-Linux&download=go-multiarch-image",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rules/oci/go-multiarch-image:HEAD-0c7dd51-250625T131152-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rules/oci/go-multiarch-image",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rules/oci/go-multiarch-image?tag=HEAD-0c7dd51-250625T131152-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e23129610d185afa198bafc3194494c9dc1f190de389fcddd76f163d3f3eee2c",
+  "size": "1.1 MB",
+  "size_raw": "1062224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d498331-250624T184601-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
