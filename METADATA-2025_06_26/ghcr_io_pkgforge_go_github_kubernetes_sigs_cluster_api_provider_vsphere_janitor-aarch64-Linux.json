@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "janitor",
+  "pkg_family": "cluster-api-provider-vsphere",
+  "pkg_id": "janitor#github.com_kubernetes_sigs_cluster_api_provider_vsphere",
+  "pkg_name": "janitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/cluster-api-provider-vsphere",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-vsphere"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boskosctl",
+    "cluster-api-provider-vsphere",
+    "janitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/archive/6f200c483cfbbdc02d1a6744fe229e4b63884c45.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "k8s-sig-cluster-lifecycle",
+    "k8s-sig-vmware"
+  ],
+  "version": "HEAD-6f200c4-250625T105829",
+  "version_upstream": "",
+  "bsum": "d51b61e8a1e160fb93da25e3f45fd2ce58a5ad2c871c338deff5a102196c96d6",
+  "build_date": "2025-06-26T08:24:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895933172",
+  "build_id": "15895933172",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-vsphere/janitor?tag=HEAD-6f200c4-250625T105829-aarch64-Linux&download=janitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "396",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-vsphere/janitor?tag=HEAD-6f200c4-250625T105829-aarch64-Linux&download=janitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-vsphere/janitor:HEAD-6f200c4-250625T105829-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-vsphere/janitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-vsphere/janitor?tag=HEAD-6f200c4-250625T105829-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e74f421776d70a8050081eccad1dd7067607faf8fb33bb6d660b5ae4d457f4b0",
+  "size": "50 MB",
+  "size_raw": "51850144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
