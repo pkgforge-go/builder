@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "magellan",
+  "pkg_id": "example#github.com_OpenCHAMI_magellan",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OpenCHAMI/magellan",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Redfish-based BMC discovery tool written in Go",
+  "homepage": [
+    "https://github.com/OpenCHAMI/magellan"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "magellan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OpenCHAMI/magellan/archive/0aa72ce70d7e6660a2e62ec615b0772c88b89d10.tar.gz"
+  ],
+  "tag": [
+    "bmc",
+    "bmc-discovery",
+    "cli",
+    "gofish",
+    "golang",
+    "hpc",
+    "http",
+    "networking",
+    "openchami",
+    "redfish"
+  ],
+  "version": "HEAD-0aa72ce-250625T154139",
+  "version_upstream": "",
+  "bsum": "db160dae9ac66bcc5b922ce8dd0facedd8035c5e0ffd506f43156514496510ca",
+  "build_date": "2025-06-26T07:09:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895110124",
+  "build_id": "15895110124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openchami/magellan/example?tag=HEAD-0aa72ce-250625T154139-loongarch64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openchami/magellan/example?tag=HEAD-0aa72ce-250625T154139-loongarch64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openchami/magellan/example:HEAD-0aa72ce-250625T154139-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openchami/magellan/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openchami/magellan/example?tag=HEAD-0aa72ce-250625T154139-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cad4d7b2e1b05084818c356626aeb74aa0e8b0dad0ec3d5bac45a612cef7149e",
+  "size": "2.3 MB",
+  "size_raw": "2390880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
