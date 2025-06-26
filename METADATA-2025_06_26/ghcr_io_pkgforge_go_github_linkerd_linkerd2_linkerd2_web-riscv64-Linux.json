@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "linkerd2-web",
+  "pkg_family": "linkerd2",
+  "pkg_id": "linkerd2-web#github.com_linkerd_linkerd2",
+  "pkg_name": "linkerd2-web",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "destination-client",
+    "linkerd2-cli",
+    "linkerd2-web",
+    "policy-client",
+    "proxy-identity",
+    "viz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2/archive/57b08a7c111efb8c4aa8b1014f365088050527bd.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "kubernetes",
+    "linkerd",
+    "rust",
+    "service-mesh"
+  ],
+  "version": "HEAD-57b08a7-250625T161307",
+  "version_upstream": "",
+  "bsum": "da8e907b300496d6a979eb3b0bb76a6df8e454e31d9e49adbcea180b9291c505",
+  "build_date": "2025-06-26T11:28:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898965941",
+  "build_id": "15898965941",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/linkerd2-web?tag=HEAD-57b08a7-250625T161307-riscv64-Linux&download=linkerd2-web.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10991",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/linkerd2-web?tag=HEAD-57b08a7-250625T161307-riscv64-Linux&download=linkerd2-web",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2/linkerd2-web:HEAD-57b08a7-250625T161307-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2/linkerd2-web",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/linkerd2-web?tag=HEAD-57b08a7-250625T161307-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0735f4516d77b47ad9cbef8a18d0d37ea5bbeacfd4b25ad74d93047efd746b8e",
+  "size": "83 MB",
+  "size_raw": "86042232",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f179d4c-250619T105442-riscv64-Linux",
+    "HEAD-a056257-250620T173521-riscv64-Linux",
+    "HEAD-8d1705c-250623T080502-riscv64-Linux",
+    "HEAD-df7cba4-250624T092515-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
