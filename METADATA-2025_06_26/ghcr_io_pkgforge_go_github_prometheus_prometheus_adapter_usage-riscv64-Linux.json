@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "adapter-usage",
+  "pkg_family": "prometheus",
+  "pkg_id": "adapter-usage#github.com_prometheus_prometheus",
+  "pkg_name": "adapter-usage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/prometheus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Prometheus monitoring system and time series database.",
+  "homepage": [
+    "https://github.com/prometheus/prometheus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter-usage",
+    "migrate",
+    "prometheus",
+    "promtool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/prometheus/archive/5b7ff92d95a16ebbf23764982167e8b02be8a28a.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus",
+    "time-series"
+  ],
+  "version": "HEAD-5b7ff92-250625T133743",
+  "version_upstream": "",
+  "bsum": "91fe896697f746fe64e7d1c3921c30d97ef3b03332193e1b805ad8de61fe9495",
+  "build_date": "2025-06-26T00:27:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888120977",
+  "build_id": "15888120977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/adapter-usage?tag=HEAD-5b7ff92-250625T133743-riscv64-Linux&download=adapter-usage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59145",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/adapter-usage?tag=HEAD-5b7ff92-250625T133743-riscv64-Linux&download=adapter-usage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/prometheus/adapter-usage:HEAD-5b7ff92-250625T133743-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/prometheus/adapter-usage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/prometheus/adapter-usage?tag=HEAD-5b7ff92-250625T133743-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6949770211d86adec87e9519bea303e72db0f652e729af55c9edde725657054e",
+  "size": "12 MB",
+  "size_raw": "11767992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c701636-250620T130902-riscv64-Linux",
+    "HEAD-8ed37d3-250623T005608-riscv64-Linux",
+    "HEAD-bdada23-250624T122006-riscv64-Linux",
+    "HEAD-31e158b-250624T215255-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
