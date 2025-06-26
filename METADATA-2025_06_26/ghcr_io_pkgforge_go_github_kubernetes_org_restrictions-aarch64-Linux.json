@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "restrictions",
+  "pkg_family": "org",
+  "pkg_id": "restrictions#github.com_kubernetes_org",
+  "pkg_name": "restrictions",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta configuration for Kubernetes Github Org",
+  "homepage": [
+    "https://github.com/kubernetes/org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "korg",
+    "merge",
+    "restrictions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/org/archive/c62a004e356f77d8d4f19eb1010fcf99edb86171.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-contribex"
+  ],
+  "version": "HEAD-c62a004-250625T005629",
+  "version_upstream": "",
+  "bsum": "198d2e8e2d80aa05e3ae1ffa2d702f0be0573de751969dd646b107292f1d867f",
+  "build_date": "2025-06-26T03:13:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891472162",
+  "build_id": "15891472162",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/restrictions?tag=HEAD-c62a004-250625T005629-aarch64-Linux&download=restrictions.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "273",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/restrictions?tag=HEAD-c62a004-250625T005629-aarch64-Linux&download=restrictions",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/org/restrictions:HEAD-c62a004-250625T005629-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/org/restrictions",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/restrictions?tag=HEAD-c62a004-250625T005629-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b00cdbe2d526509cf089a21260b5d11a36d22ffe13255909d8396e025844db4f",
+  "size": "14 MB",
+  "size_raw": "13784192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9b3d3ce-250621T000452-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
