@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "otelproxy",
+  "pkg_family": "oteldb",
+  "pkg_id": "otelproxy#github.com_go_faster_oteldb",
+  "pkg_name": "otelproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-faster/oteldb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTelemetry signal storage",
+  "homepage": [
+    "https://github.com/go-faster/oteldb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chotel",
+    "compliance-verify",
+    "compliance-wait",
+    "docker-logql",
+    "logql-compliance-tester",
+    "otelbench",
+    "oteldemo",
+    "otelproxy",
+    "promql-compliance-tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-faster/oteldb/archive/3111e5ea263563e4e0ab3dd17117bfdd43c5254d.tar.gz"
+  ],
+  "tag": [
+    "clickhouse",
+    "clickhouse-server",
+    "grafana",
+    "grafana-datasource",
+    "logging",
+    "logql",
+    "logs",
+    "loki",
+    "monitoring",
+    "observability",
+    "open-telemetry",
+    "opentelemetry",
+    "otel",
+    "prometheus",
+    "promql",
+    "tempo",
+    "traceql",
+    "tracing"
+  ],
+  "version": "HEAD-3111e5e-250626T050242",
+  "version_upstream": "",
+  "bsum": "4db63c96db543a2a2254327f02b7d972bdadf26f07de5ff7e02d2bfa3603ab3c",
+  "build_date": "2025-06-26T07:59:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895241898",
+  "build_id": "15895241898",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/otelproxy?tag=HEAD-3111e5e-250626T050242-loongarch64-Linux&download=otelproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/otelproxy?tag=HEAD-3111e5e-250626T050242-loongarch64-Linux&download=otelproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-faster/oteldb/otelproxy:HEAD-3111e5e-250626T050242-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-faster/oteldb/otelproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/otelproxy?tag=HEAD-3111e5e-250626T050242-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36c62775a969d9122a11f716aaf32f1b73bf333f28e7c1e183bae13de69263d9",
+  "size": "23 MB",
+  "size_raw": "23354624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
