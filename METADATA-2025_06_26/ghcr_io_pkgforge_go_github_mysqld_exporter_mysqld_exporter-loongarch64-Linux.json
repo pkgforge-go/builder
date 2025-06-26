@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mysqld_exporter",
+  "pkg_family": "mysqld_exporter",
+  "pkg_id": "mysqld_exporter#github.com_prometheus_mysqld_exporter",
+  "pkg_name": "mysqld_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/mysqld_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Exporter for MySQL server metrics",
+  "homepage": [
+    "https://github.com/prometheus/mysqld_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mysqld_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/mysqld_exporter/archive/1431c789aae3382c61bdc31736d3125786b2394e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1431c78-250626T153614",
+  "version_upstream": "",
+  "bsum": "ef8a4d885b4d7f5388d5e38e6e154d3971a878f3422d446446cc59c81c7a291d",
+  "build_date": "2025-06-26T17:52:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907998064",
+  "build_id": "15907998064",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mysqld/exporter/mysqld_exporter?tag=HEAD-1431c78-250626T153614-loongarch64-Linux&download=mysqld_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2302",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mysqld/exporter/mysqld_exporter?tag=HEAD-1431c78-250626T153614-loongarch64-Linux&download=mysqld_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mysqld/exporter/mysqld_exporter:HEAD-1431c78-250626T153614-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mysqld/exporter/mysqld_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mysqld/exporter/mysqld_exporter?tag=HEAD-1431c78-250626T153614-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "52da5c71e0ca594861f12d6aa022d165073392b78b457d1d6c3b860648f00ce0",
+  "size": "14 MB",
+  "size_raw": "13867200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
