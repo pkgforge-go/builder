@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ergo",
+  "pkg_family": "ergo",
+  "pkg_id": "ergo#github.com_ergochat_ergo",
+  "pkg_name": "ergo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ergochat/ergo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A modern IRC server _daemon/ircd_ written in Go.",
+  "homepage": [
+    "https://github.com/ergochat/ergo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ergo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ergochat/ergo/archive/f918e285137ba0e57ac10933a9d66bf0a5a635d3.tar.gz"
+  ],
+  "tag": [
+    "daemon",
+    "irc",
+    "irc-daemon",
+    "irc-server",
+    "ircd",
+    "ircv3",
+    "ircv3-support",
+    "sasl",
+    "server"
+  ],
+  "version": "HEAD-f918e28-250626T013151",
+  "version_upstream": "",
+  "bsum": "a112373aa5e02ec4319d40d9ab6c059f555d16a3f0369f8917bed18025924e85",
+  "build_date": "2025-06-26T22:54:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913315717",
+  "build_id": "15913315717",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ergochat/ergo/ergo?tag=HEAD-f918e28-250626T013151-x86_64-Linux&download=ergo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2852",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ergochat/ergo/ergo?tag=HEAD-f918e28-250626T013151-x86_64-Linux&download=ergo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ergochat/ergo/ergo:HEAD-f918e28-250626T013151-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ergochat/ergo/ergo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ergochat/ergo/ergo?tag=HEAD-f918e28-250626T013151-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd45f67d82441c339d8c99665e776cce515286955d9c6041f4a7be6746db4cde",
+  "size": "13 MB",
+  "size_raw": "12843776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3b7db7f-250618T002249-x86_64-Linux",
+    "HEAD-8798676-250622T185942-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
