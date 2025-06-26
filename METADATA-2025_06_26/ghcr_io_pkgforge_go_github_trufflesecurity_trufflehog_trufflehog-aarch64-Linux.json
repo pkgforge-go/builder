@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "trufflehog",
+  "pkg_family": "trufflehog",
+  "pkg_id": "trufflehog#github.com_trufflesecurity_trufflehog",
+  "pkg_name": "trufflehog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trufflesecurity/trufflehog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Find, verify, and analyze leaked credentials",
+  "homepage": [
+    "https://github.com/trufflesecurity/trufflehog"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "generate_permissions",
+    "snifftest",
+    "trufflehog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trufflesecurity/trufflehog/archive/d7e0ebb11e155870bde1178da1c2e4812254943b.tar.gz"
+  ],
+  "tag": [
+    "credentials",
+    "devsecops",
+    "dynamic-analysis",
+    "hacktoberfest",
+    "precommit",
+    "scanning",
+    "secret",
+    "secret-management",
+    "secrets",
+    "security",
+    "security-tools",
+    "trufflehog",
+    "verification"
+  ],
+  "version": "HEAD-d7e0ebb-250625T190805",
+  "version_upstream": "",
+  "bsum": "f85c9f18b2959862058d5bf1caf8b6126fefa694a50f89bd34f968dfa903ecb2",
+  "build_date": "2025-06-26T03:54:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891871702",
+  "build_id": "15891871702",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufflesecurity/trufflehog/trufflehog?tag=HEAD-d7e0ebb-250625T190805-aarch64-Linux&download=trufflehog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19620",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufflesecurity/trufflehog/trufflehog?tag=HEAD-d7e0ebb-250625T190805-aarch64-Linux&download=trufflehog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trufflesecurity/trufflehog/trufflehog:HEAD-d7e0ebb-250625T190805-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trufflesecurity/trufflehog/trufflehog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufflesecurity/trufflehog/trufflehog?tag=HEAD-d7e0ebb-250625T190805-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1af90d9d3d1ca583b7c65614a50b7b98b21f7850c782cc9d0a0710635add359",
+  "size": "123 MB",
+  "size_raw": "128102656",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0f6e0cd-250617T095116-aarch64-Linux",
+    "HEAD-62faf2e-250623T132310-aarch64-Linux",
+    "HEAD-5f8a6b1-250624T094814-aarch64-Linux",
+    "HEAD-bda0787-250624T205139-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
