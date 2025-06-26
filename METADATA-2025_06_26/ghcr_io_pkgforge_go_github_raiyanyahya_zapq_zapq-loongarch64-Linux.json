@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "zapq",
+  "pkg_family": "zapq",
+  "pkg_id": "zapq#github.com_raiyanyahya_zapq",
+  "pkg_name": "zapq",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/raiyanyahya/zapq",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⚡ A single‑binary Go microservice that exposes a First‑In First‑Out message queue completely in RAM.",
+  "homepage": [
+    "https://github.com/raiyanyahya/zapq"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "1million",
+    "loadtest",
+    "zapq"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/raiyanyahya/zapq/archive/faed919e268a8819c31d263dfd2c180d0c8358ae.tar.gz"
+  ],
+  "tag": [
+    "concurency",
+    "fifo",
+    "golang",
+    "microservice",
+    "queue"
+  ],
+  "version": "HEAD-faed919-250626T121056",
+  "version_upstream": "",
+  "bsum": "cc2e49248ecc787534a6726d09076b71d8e10b2fb4204d76d79e0945da00f3fd",
+  "build_date": "2025-06-26T17:55:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15908118509",
+  "build_id": "15908118509",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/raiyanyahya/zapq/zapq?tag=HEAD-faed919-250626T121056-loongarch64-Linux&download=zapq.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/raiyanyahya/zapq/zapq?tag=HEAD-faed919-250626T121056-loongarch64-Linux&download=zapq",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/raiyanyahya/zapq/zapq:HEAD-faed919-250626T121056-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/raiyanyahya/zapq/zapq",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/raiyanyahya/zapq/zapq?tag=HEAD-faed919-250626T121056-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8760a165026922955a9ff2a24e7b1be1fc7806aee7fa7bec9f3e642249922f24",
+  "size": "6.3 MB",
+  "size_raw": "6584544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
