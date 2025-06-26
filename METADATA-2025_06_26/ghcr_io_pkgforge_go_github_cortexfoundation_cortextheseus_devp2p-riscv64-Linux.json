@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "devp2p",
+  "pkg_family": "CortexTheseus",
+  "pkg_id": "devp2p#github.com_CortexFoundation_CortexTheseus",
+  "pkg_name": "devp2p",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/CortexFoundation/CortexTheseus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cortex - AI on Blockchain, Official Golang implementation",
+  "homepage": [
+    "https://github.com/CortexFoundation/CortexTheseus"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devp2p",
+    "rlpdump",
+    "rlpgen",
+    "views"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/CortexFoundation/CortexTheseus/archive/33f08235cb6fd8062f77f761ebeb17f01861cf54.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "blockchain",
+    "cortex",
+    "ctxc",
+    "cvm",
+    "machine-learning"
+  ],
+  "version": "HEAD-33f0823-250625T093532",
+  "version_upstream": "",
+  "bsum": "a245f065b75a6d50acbbe2e8eff678ddc3ecc1a44637e89a40ebea0281a57cad",
+  "build_date": "2025-06-26T02:31:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891363268",
+  "build_id": "15891363268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/cortextheseus/devp2p?tag=HEAD-33f0823-250625T093532-riscv64-Linux&download=devp2p.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/cortextheseus/devp2p?tag=HEAD-33f0823-250625T093532-riscv64-Linux&download=devp2p",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexfoundation/cortextheseus/devp2p:HEAD-33f0823-250625T093532-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexfoundation/cortextheseus/devp2p",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexfoundation/cortextheseus/devp2p?tag=HEAD-33f0823-250625T093532-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ba1777425cfbfee90d92c9bea36ea178ee0967c3a0d5f644321bb8f3803993d",
+  "size": "46 MB",
+  "size_raw": "47841776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-40960de-250619T084107-riscv64-Linux",
+    "HEAD-3b889ab-250622T094835-riscv64-Linux",
+    "HEAD-ade6bad-250624T101223-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
