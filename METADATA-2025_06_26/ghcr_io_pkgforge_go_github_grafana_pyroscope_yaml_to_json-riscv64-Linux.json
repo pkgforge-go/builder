@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "yaml-to-json",
+  "pkg_family": "pyroscope",
+  "pkg_id": "yaml-to-json#github.com_grafana_pyroscope",
+  "pkg_name": "yaml-to-json",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/pyroscope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+  "homepage": [
+    "https://github.com/grafana/pyroscope"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc-generator",
+    "migrating-from-standard-pprof",
+    "profilecli",
+    "pyroscope",
+    "pyroscope-tools",
+    "update-contributors",
+    "yaml-to-json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/pyroscope/archive/16eebf27be398afd5dd47a46c2c0f9e1728553b6.tar.gz"
+  ],
+  "tag": [
+    "continuous-profiling",
+    "developer-tools",
+    "devops",
+    "find-bottlenecks",
+    "golang",
+    "hacktoberfest",
+    "linux",
+    "monitoring",
+    "observability",
+    "performance",
+    "profiling",
+    "pyroscope",
+    "python",
+    "ruby"
+  ],
+  "version": "HEAD-16eebf2-250626T092325",
+  "version_upstream": "pyroscope-1.14.0",
+  "bsum": "4886f33cefc2ca5c98cd5c12caf16acf126224165d35bb785fbd43aa09edfcee",
+  "build_date": "2025-06-26T10:56:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898815434",
+  "build_id": "15898815434",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/yaml-to-json?tag=HEAD-16eebf2-250626T092325-riscv64-Linux&download=yaml-to-json.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10669",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/yaml-to-json?tag=HEAD-16eebf2-250626T092325-riscv64-Linux&download=yaml-to-json",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/pyroscope/yaml-to-json:HEAD-16eebf2-250626T092325-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/pyroscope/yaml-to-json",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/pyroscope/yaml-to-json?tag=HEAD-16eebf2-250626T092325-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a6ad98b675b70c9d8d2a91ec3e5fa214d028099321e6fb42f58b14792be6fc4",
+  "size": "2.5 MB",
+  "size_raw": "2611144",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-06bcfc6-250620T201508-riscv64-Linux",
+    "HEAD-676e7d6-250620T143611-riscv64-Linux[weekly-f124-676e7d611]",
+    "HEAD-b9f4ac4-250624T110019-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
