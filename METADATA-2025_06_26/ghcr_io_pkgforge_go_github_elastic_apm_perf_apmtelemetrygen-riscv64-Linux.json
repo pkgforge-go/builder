@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "apmtelemetrygen",
+  "pkg_family": "apm-perf",
+  "pkg_id": "apmtelemetrygen#github.com_elastic_apm_perf",
+  "pkg_name": "apmtelemetrygen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/apm-perf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/elastic/apm-perf"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apmbench",
+    "apmsoak",
+    "apmtelemetrygen",
+    "moxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/apm-perf/archive/8f6dd806a99869ae78121707fcf16ff0a4811722.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8f6dd80-250626T114357",
+  "version_upstream": "",
+  "bsum": "67b2d036a85fc84c30c0485371564ef2e284c5f72b1510e928d722bbac04f9ec",
+  "build_date": "2025-06-26T16:39:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906654788",
+  "build_id": "15906654788",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/apm-perf/apmtelemetrygen?tag=HEAD-8f6dd80-250626T114357-riscv64-Linux&download=apmtelemetrygen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/apm-perf/apmtelemetrygen?tag=HEAD-8f6dd80-250626T114357-riscv64-Linux&download=apmtelemetrygen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/apm-perf/apmtelemetrygen:HEAD-8f6dd80-250626T114357-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/apm-perf/apmtelemetrygen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/apm-perf/apmtelemetrygen?tag=HEAD-8f6dd80-250626T114357-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "891feb6e4ba708df6bd4f76531608719f9afed71c8b24d3edc704e3e51861b6a",
+  "size": "41 MB",
+  "size_raw": "42925208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
