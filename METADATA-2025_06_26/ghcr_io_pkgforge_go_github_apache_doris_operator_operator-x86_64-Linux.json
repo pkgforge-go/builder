@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "doris-operator",
+  "pkg_id": "operator#github.com_apache_doris_operator",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/doris-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Doris kubernetes operator",
+  "homepage": [
+    "https://github.com/apache/doris-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doris-debug",
+    "operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/doris-operator/archive/94bfba6860e314639891c421c7cf8fd979fe6b38.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-94bfba6-250626T110207",
+  "version_upstream": "",
+  "bsum": "0cf74d8452cba085ca8fdc5e8844ed39fb206180cfd12b4a7721492216eefaab",
+  "build_date": "2025-06-26T07:25:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895113993",
+  "build_id": "15895113993",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris-operator/operator?tag=HEAD-94bfba6-250626T110207-x86_64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "110",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris-operator/operator?tag=HEAD-94bfba6-250626T110207-x86_64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/doris-operator/operator:HEAD-94bfba6-250626T110207-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/doris-operator/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris-operator/operator?tag=HEAD-94bfba6-250626T110207-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c81a2940195a5ac0ddaffc54f0a66feb99f2f69fe4b9f263ebf92e33299e481",
+  "size": "54 MB",
+  "size_raw": "55841664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
