@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pbm-agent",
+  "pkg_family": "percona-backup-mongodb",
+  "pkg_id": "pbm-agent#github.com_percona_percona_backup_mongodb",
+  "pkg_name": "pbm-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/percona-backup-mongodb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Backup for MongoDB",
+  "homepage": [
+    "https://github.com/percona/percona-backup-mongodb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ensure-oplog",
+    "pbm",
+    "pbm-agent",
+    "pbm-agent-entrypoint",
+    "pbm-speed-test",
+    "pbm-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/percona-backup-mongodb/archive/da3bd6c2c1ec4c6024231b2b6991dd550be12cc7.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "mongodb",
+    "mongodb-backup",
+    "pbm",
+    "percona-backup"
+  ],
+  "version": "HEAD-da3bd6c-250626T134900",
+  "version_upstream": "v2.10.0",
+  "bsum": "935b81b89cefbcdde90d146248ae84c07375e43bc22cd219415168088bd127f0",
+  "build_date": "2025-06-26T17:55:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907991800",
+  "build_id": "15907991800",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent?tag=HEAD-da3bd6c-250626T134900-aarch64-Linux&download=pbm-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "284",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent?tag=HEAD-da3bd6c-250626T134900-aarch64-Linux&download=pbm-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent:HEAD-da3bd6c-250626T134900-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/percona-backup-mongodb/pbm-agent?tag=HEAD-da3bd6c-250626T134900-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef5735b7c8503977c606fb285a6481ce356275d096ad3e988012610fd68c76ef",
+  "size": "36 MB",
+  "size_raw": "37488896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
