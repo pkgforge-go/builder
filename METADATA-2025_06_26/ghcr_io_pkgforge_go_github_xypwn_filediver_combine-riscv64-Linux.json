@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "combine",
+  "pkg_family": "filediver",
+  "pkg_id": "combine#github.com_xypwn_filediver",
+  "pkg_name": "combine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xypwn/filediver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Extract Helldivers 2_s 3D models, audio, video, textures and more.",
+  "homepage": [
+    "https://github.com/xypwn/filediver"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "animation-name-dumper",
+    "combine",
+    "crossref-checker",
+    "filediver-cli",
+    "hash-tool",
+    "hd2grep",
+    "physics-name-dumper",
+    "wwise_streams"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xypwn/filediver/archive/d1478741d87c4d3ade6ba7362ba33a8b67cb2af9.tar.gz"
+  ],
+  "tag": [
+    "extractor",
+    "game-files",
+    "go",
+    "golang",
+    "helldivers-2",
+    "helldivers2",
+    "stingray",
+    "stingray-engine"
+  ],
+  "version": "HEAD-d147874-250625T135631",
+  "version_upstream": "v0.6.7",
+  "bsum": "c9bec65479dff2605b4792312292ff18552f03b34b887506ec4ac8f105701edd",
+  "build_date": "2025-06-26T00:54:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888212000",
+  "build_id": "15888212000",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/combine?tag=HEAD-d147874-250625T135631-riscv64-Linux&download=combine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "64",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/combine?tag=HEAD-d147874-250625T135631-riscv64-Linux&download=combine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xypwn/filediver/combine:HEAD-d147874-250625T135631-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xypwn/filediver/combine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/combine?tag=HEAD-d147874-250625T135631-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "687f55adb2421d38e02a41d0c2a5b032b36d6a46cbe362244977d63a46d041cc",
+  "size": "5.6 MB",
+  "size_raw": "5824248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-21a4951-250622T134338-riscv64-Linux[v0.6.6]"
+  ],
+  "trusted": "true"
+}
