@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "playground",
+  "pkg_family": "tiup",
+  "pkg_id": "playground#github.com_pingcap_tiup",
+  "pkg_name": "playground",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tiup",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A component manager for TiDB",
+  "homepage": [
+    "https://github.com/pingcap/tiup"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "cluster",
+    "ctl",
+    "dm",
+    "package",
+    "playground",
+    "server",
+    "tiup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tiup/archive/751ef3029355341630c187054aba9577c5e92ce5.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "playground",
+    "tidb",
+    "tidb-components",
+    "tiup"
+  ],
+  "version": "HEAD-751ef30-250626T164407",
+  "version_upstream": "",
+  "bsum": "464a92258332654d321363ee523f6dae417a79f2e025da1b0a18288890c99af2",
+  "build_date": "2025-06-26T17:56:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907995852",
+  "build_id": "15907995852",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/playground?tag=HEAD-751ef30-250626T164407-riscv64-Linux&download=playground.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "443",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/playground?tag=HEAD-751ef30-250626T164407-riscv64-Linux&download=playground",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tiup/playground:HEAD-751ef30-250626T164407-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tiup/playground",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/playground?tag=HEAD-751ef30-250626T164407-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9241bba110046c6dbe33c10ba4ce31898fd858c72052bad598a209f7b36c82c7",
+  "size": "27 MB",
+  "size_raw": "28104792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
