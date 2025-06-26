@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubectl-bkl",
+  "pkg_family": "bkl",
+  "pkg_id": "kubectl-bkl#github.com_gopatchy_bkl",
+  "pkg_name": "kubectl-bkl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gopatchy/bkl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Layered Configuration Language",
+  "homepage": [
+    "https://github.com/gopatchy/bkl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bkl",
+    "bkl-docs",
+    "bkl-mcp",
+    "bklb",
+    "bkld",
+    "bkli",
+    "bklr",
+    "kubectl-bkl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gopatchy/bkl/archive/d764f31295149ab711e5220ad3070509fbfe0047.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "deployment",
+    "devops",
+    "json",
+    "k8s",
+    "kubernetes",
+    "sre",
+    "toml",
+    "yaml"
+  ],
+  "version": "HEAD-d764f31-250625T202006",
+  "version_upstream": "",
+  "bsum": "6457afa78772a062a5b3d3ab459832224c4cb20d3b63386a7b632ee23d60db87",
+  "build_date": "2025-06-26T10:52:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898813963",
+  "build_id": "15898813963",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/kubectl-bkl?tag=HEAD-d764f31-250625T202006-loongarch64-Linux&download=kubectl-bkl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/kubectl-bkl?tag=HEAD-d764f31-250625T202006-loongarch64-Linux&download=kubectl-bkl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopatchy/bkl/kubectl-bkl:HEAD-d764f31-250625T202006-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopatchy/bkl/kubectl-bkl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/kubectl-bkl?tag=HEAD-d764f31-250625T202006-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9db6dfbae8109cf978a654bd006318097eddd303173c80df67f81e508b72bddc",
+  "size": "3.4 MB",
+  "size_raw": "3544032",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0d7305b-250620T001905-loongarch64-Linux",
+    "HEAD-77a43a1-250621T235940-loongarch64-Linux",
+    "HEAD-d01f478-250622T211058-loongarch64-Linux",
+    "HEAD-7f738c2-250623T203905-loongarch64-Linux",
+    "HEAD-75cc93d-250624T163631-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
