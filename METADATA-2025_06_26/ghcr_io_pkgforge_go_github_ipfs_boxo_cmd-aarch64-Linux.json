@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "boxo",
+  "pkg_id": "cmd#github.com_ipfs_boxo",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/boxo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of reference libraries for building IPFS applications and implementations in Go.",
+  "homepage": [
+    "https://github.com/ipfs/boxo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "gen",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/boxo/archive/44137d7d622ade477c6efc190ec2d5414fa3fcf8.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "ipfs"
+  ],
+  "version": "HEAD-44137d7-250625T164920",
+  "version_upstream": "",
+  "bsum": "2e80a018074da326debdeeb1adb423f18fec72bfde891906d4320840982fa677",
+  "build_date": "2025-06-26T11:02:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898864282",
+  "build_id": "15898864282",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/boxo/cmd?tag=HEAD-44137d7-250625T164920-aarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "245",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/boxo/cmd?tag=HEAD-44137d7-250625T164920-aarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/boxo/cmd:HEAD-44137d7-250625T164920-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/boxo/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/boxo/cmd?tag=HEAD-44137d7-250625T164920-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "390454ef11f334d8e5b7b34b1e04e3284350625e7cf5890f50bc170dfc0f292c",
+  "size": "7.2 MB",
+  "size_raw": "7488256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-af57197-250617T073638-aarch64-Linux",
+    "HEAD-6d9782e-250623T192433-aarch64-Linux",
+    "HEAD-5dbf84e-250624T124026-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
