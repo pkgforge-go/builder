@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "flightctl-worker",
+  "pkg_family": "flightctl",
+  "pkg_id": "flightctl-worker#github.com_flightctl_flightctl",
+  "pkg_name": "flightctl-worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flightctl/flightctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/flightctl/flightctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devicesimulator",
+    "flightctl",
+    "flightctl-agent",
+    "flightctl-api",
+    "flightctl-periodic",
+    "flightctl-worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flightctl/flightctl/archive/093cc0cfa6064dd25fb2a717dc9bb1bf61ac88d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-093cc0c-250625T132203",
+  "version_upstream": "",
+  "bsum": "f79cfa2612235ec04f0e6baf208ce24cda4e71e122fee10904bc63524691f61d",
+  "build_date": "2025-06-26T03:08:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891417535",
+  "build_id": "15891417535",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flightctl/flightctl/flightctl-worker?tag=HEAD-093cc0c-250625T132203-riscv64-Linux&download=flightctl-worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flightctl/flightctl/flightctl-worker?tag=HEAD-093cc0c-250625T132203-riscv64-Linux&download=flightctl-worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flightctl/flightctl/flightctl-worker:HEAD-093cc0c-250625T132203-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flightctl/flightctl/flightctl-worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flightctl/flightctl/flightctl-worker?tag=HEAD-093cc0c-250625T132203-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "890839b986d77742f8a868b8d6b3c0690c98e3d5c09f7c726cebd1d757f32837",
+  "size": "60 MB",
+  "size_raw": "62642360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2ff9a43-250619T160215-riscv64-Linux",
+    "HEAD-b849b08-250623T134448-riscv64-Linux",
+    "HEAD-550dc1e-250623T212416-riscv64-Linux",
+    "HEAD-576e215-250624T161548-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
