@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "linuxutil",
+  "pkg_family": "retina",
+  "pkg_id": "linuxutil#github.com_microsoft_retina",
+  "pkg_name": "linuxutil",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "captureworkload",
+    "enricher",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "retina-cli",
+    "utsummary"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/192ddfb5326b4a7cf50e279e2002c45f67f965c9.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-192ddfb-250625T132826",
+  "version_upstream": "",
+  "bsum": "e23374032e5d8d57e3ef057163e73939e4bff201fbe599bf44f5bdab59e3f334",
+  "build_date": "2025-06-25T23:59:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888055237",
+  "build_id": "15888055237",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/linuxutil?tag=HEAD-192ddfb-250625T132826-riscv64-Linux&download=linuxutil.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2983",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/linuxutil?tag=HEAD-192ddfb-250625T132826-riscv64-Linux&download=linuxutil",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/linuxutil:HEAD-192ddfb-250625T132826-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/linuxutil",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/linuxutil?tag=HEAD-192ddfb-250625T132826-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f1b32b4e0f105ae039acb1f236b50226432a7df9fd09e339b4587e80c4fe5826",
+  "size": "22 MB",
+  "size_raw": "22594552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-586a3a6-250619T115102-riscv64-Linux",
+    "HEAD-bdd0b28-250623T090413-riscv64-Linux",
+    "HEAD-51ac044-250624T074805-riscv64-Linux[v0.0.35]"
+  ],
+  "trusted": "true"
+}
