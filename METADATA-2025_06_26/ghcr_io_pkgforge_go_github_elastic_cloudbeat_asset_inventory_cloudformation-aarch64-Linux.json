@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "asset-inventory-cloudformation",
+  "pkg_family": "cloudbeat",
+  "pkg_id": "asset-inventory-cloudformation#github.com_elastic_cloudbeat",
+  "pkg_name": "asset-inventory-cloudformation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/elastic/cloudbeat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Analyzing Cloud Security Posture",
+  "homepage": [
+    "https://github.com/elastic/cloudbeat"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asset-inventory-cloudformation",
+    "cloudformation"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/elastic/cloudbeat/archive/a4c8df14cbca5283c5e2886f4ff90b114710f3c0.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "cspm",
+    "golang",
+    "vulnerability-detection",
+    "vulnerability-scanners"
+  ],
+  "version": "HEAD-a4c8df1-250626T164548",
+  "version_upstream": "",
+  "bsum": "95bd57d2799459ff3c0e32fb2904574d8d463c6db16c2d0fd7d7b90d58da3b25",
+  "build_date": "2025-06-26T22:59:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913276837",
+  "build_id": "15913276837",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/asset-inventory-cloudformation?tag=HEAD-a4c8df1-250626T164548-aarch64-Linux&download=asset-inventory-cloudformation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/asset-inventory-cloudformation?tag=HEAD-a4c8df1-250626T164548-aarch64-Linux&download=asset-inventory-cloudformation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/elastic/cloudbeat/asset-inventory-cloudformation:HEAD-a4c8df1-250626T164548-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/elastic/cloudbeat/asset-inventory-cloudformation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/elastic/cloudbeat/asset-inventory-cloudformation?tag=HEAD-a4c8df1-250626T164548-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd547b5b75ae515a3456a9c61f8bdaff3600af136e6a74078613115da2fbce3e",
+  "size": "16 MB",
+  "size_raw": "16427456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c734d20-250620T194649-aarch64-Linux",
+    "HEAD-ace208e-250622T152327-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
