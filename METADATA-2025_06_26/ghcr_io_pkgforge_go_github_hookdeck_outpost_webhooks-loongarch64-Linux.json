@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhooks",
+  "pkg_family": "outpost",
+  "pkg_id": "webhooks#github.com_hookdeck_outpost",
+  "pkg_name": "webhooks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hookdeck/outpost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Outbound Webhooks and Event Destinations Infrastructure",
+  "homepage": [
+    "https://github.com/hookdeck/outpost"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "awskinesis",
+    "awssqs",
+    "configdocsgen",
+    "genprovider",
+    "migrate",
+    "mock",
+    "outpost",
+    "publish",
+    "rabbitmq",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hookdeck/outpost/archive/bcde41e130078be1392fd2343fe4ce6ee976e3b7.tar.gz"
+  ],
+  "tag": [
+    "amazon-eventbridge",
+    "aws-sqs",
+    "eventdestinations",
+    "eventstream",
+    "gcp-pubsub",
+    "hookdeck",
+    "rabbitmq",
+    "redis",
+    "webhooks",
+    "webhooksender"
+  ],
+  "version": "HEAD-bcde41e-250613T043112",
+  "version_upstream": "",
+  "bsum": "8d7a657a5ed27e9351b32843926a7722f94c8a8dc80b5a41ced519aaf1c86e65",
+  "build_date": "2025-06-26T16:58:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906861785",
+  "build_id": "15906861785",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hookdeck/outpost/webhooks?tag=HEAD-bcde41e-250613T043112-loongarch64-Linux&download=webhooks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "653",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hookdeck/outpost/webhooks?tag=HEAD-bcde41e-250613T043112-loongarch64-Linux&download=webhooks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hookdeck/outpost/webhooks:HEAD-bcde41e-250613T043112-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hookdeck/outpost/webhooks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hookdeck/outpost/webhooks?tag=HEAD-bcde41e-250613T043112-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c18ec440468c219dbb5f783f4b5c5d5dc7f19c9c198e86f37baec0d880672e6",
+  "size": "5.6 MB",
+  "size_raw": "5864160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
