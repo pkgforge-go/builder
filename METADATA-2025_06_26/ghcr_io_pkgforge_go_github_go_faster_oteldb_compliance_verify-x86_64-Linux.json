@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "compliance-verify",
+  "pkg_family": "oteldb",
+  "pkg_id": "compliance-verify#github.com_go_faster_oteldb",
+  "pkg_name": "compliance-verify",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-faster/oteldb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTelemetry signal storage",
+  "homepage": [
+    "https://github.com/go-faster/oteldb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chotel",
+    "compliance-verify",
+    "compliance-wait",
+    "docker-logql",
+    "logql-compliance-tester",
+    "otelbench",
+    "oteldb",
+    "oteldemo",
+    "otelproxy",
+    "promql-compliance-tester"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-faster/oteldb/archive/3111e5ea263563e4e0ab3dd17117bfdd43c5254d.tar.gz"
+  ],
+  "tag": [
+    "clickhouse",
+    "clickhouse-server",
+    "grafana",
+    "grafana-datasource",
+    "logging",
+    "logql",
+    "logs",
+    "loki",
+    "monitoring",
+    "observability",
+    "open-telemetry",
+    "opentelemetry",
+    "otel",
+    "prometheus",
+    "promql",
+    "tempo",
+    "traceql",
+    "tracing"
+  ],
+  "version": "HEAD-3111e5e-250626T050242",
+  "version_upstream": "",
+  "bsum": "763ebdc02748c4e9711cc592fb7c97a54566736d6908997dbe9b08b770d5caaa",
+  "build_date": "2025-06-26T07:59:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895241898",
+  "build_id": "15895241898",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/compliance-verify?tag=HEAD-3111e5e-250626T050242-x86_64-Linux&download=compliance-verify.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "54",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/compliance-verify?tag=HEAD-3111e5e-250626T050242-x86_64-Linux&download=compliance-verify",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-faster/oteldb/compliance-verify:HEAD-3111e5e-250626T050242-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-faster/oteldb/compliance-verify",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-faster/oteldb/compliance-verify?tag=HEAD-3111e5e-250626T050242-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b8fc9c9ad8138faf377e1d22f41fcb9522079b65f62225d3e57ee6dc24a9a450",
+  "size": "8.6 MB",
+  "size_raw": "8931424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
