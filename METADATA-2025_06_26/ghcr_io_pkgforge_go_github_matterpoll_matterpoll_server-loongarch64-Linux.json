@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "matterpoll",
+  "pkg_id": "server#github.com_matterpoll_matterpoll",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matterpoll/matterpoll",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Create polls and surveys directly within Mattermost",
+  "homepage": [
+    "https://github.com/matterpoll/matterpoll"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manifest",
+    "pluginctl",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matterpoll/matterpoll/archive/c405704a0cc5a1899d8c66e14e7626fc9660bd28.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "hacktoberfest",
+    "mattermost",
+    "mattermost-plugin"
+  ],
+  "version": "HEAD-c405704-250625T131413",
+  "version_upstream": "",
+  "bsum": "621e54bcec45d2001bc9b646218e67c18fa0a9f2a296cf4ae8420e1c3fd0625f",
+  "build_date": "2025-06-26T03:20:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891519280",
+  "build_id": "15891519280",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matterpoll/matterpoll/server?tag=HEAD-c405704-250625T131413-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matterpoll/matterpoll/server?tag=HEAD-c405704-250625T131413-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matterpoll/matterpoll/server:HEAD-c405704-250625T131413-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matterpoll/matterpoll/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matterpoll/matterpoll/server?tag=HEAD-c405704-250625T131413-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "109675d578f913dabfd2689b9b5cedf5182e3710fdc1a26b6dc6018dfe185f9d",
+  "size": "19 MB",
+  "size_raw": "19588608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-20a6d65-250624T211834-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
