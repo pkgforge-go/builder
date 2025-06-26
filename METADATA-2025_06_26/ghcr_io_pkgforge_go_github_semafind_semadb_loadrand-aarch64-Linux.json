@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "loadrand",
+  "pkg_family": "semadb",
+  "pkg_id": "loadrand#github.com_Semafind_semadb",
+  "pkg_name": "loadrand",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Semafind/semadb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No fuss multi-index hybrid vector database / search engine",
+  "homepage": [
+    "https://github.com/Semafind/semadb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dot",
+    "dumpgraph",
+    "dumpkeys",
+    "euclidean",
+    "generatejsonschema",
+    "healthcheck",
+    "loadrand",
+    "migratev1-v2",
+    "semadb",
+    "shardpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Semafind/semadb/archive/41b809fd05cdda4e60fe6f558d9ac2569f8d2017.tar.gz"
+  ],
+  "tag": [
+    "search-engine",
+    "vector-database"
+  ],
+  "version": "HEAD-41b809f-250626T104617",
+  "version_upstream": "v2.0.4",
+  "bsum": "8d3822eb76163c76fe695ef7707fc4bc345bcd5a6eaf5a9c22644f5cf1936c3e",
+  "build_date": "2025-06-26T16:08:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906509968",
+  "build_id": "15906509968",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/loadrand?tag=HEAD-41b809f-250626T104617-aarch64-Linux&download=loadrand.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/loadrand?tag=HEAD-41b809f-250626T104617-aarch64-Linux&download=loadrand",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/semafind/semadb/loadrand:HEAD-41b809f-250626T104617-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/semafind/semadb/loadrand",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/semafind/semadb/loadrand?tag=HEAD-41b809f-250626T104617-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d2c4b6e93e7ff6b97df8886c90395ac17acb0674e01c41c4e3b71b8bcc1505cd",
+  "size": "13 MB",
+  "size_raw": "13058880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
