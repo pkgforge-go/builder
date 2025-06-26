@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kprobe_percpu",
+  "pkg_family": "ebpf",
+  "pkg_id": "kprobe_percpu#github.com_cilium_ebpf",
+  "pkg_name": "kprobe_percpu",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cilium/ebpf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+  "homepage": [
+    "https://github.com/cilium/ebpf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bpf2go",
+    "cgroup_skb",
+    "fentry",
+    "gentypes",
+    "getting_started",
+    "kprobe",
+    "kprobe_percpu",
+    "kprobepin",
+    "map_in_map",
+    "ringbuffer",
+    "tcprtt",
+    "tcprtt_sockops",
+    "tcx",
+    "tracepoint_in_c",
+    "tracepoint_in_go",
+    "variables",
+    "xdp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cilium/ebpf/archive/c221969e96d6d5bd69253caeb6237717b0bb7553.tar.gz"
+  ],
+  "tag": [
+    "btf",
+    "ebpf",
+    "go",
+    "golang",
+    "linux"
+  ],
+  "version": "HEAD-c221969-250624T181107",
+  "version_upstream": "v0.19.0",
+  "bsum": "ac2223bd4aaf6fe604e0b10aba7774c2c616da8e9dda0f6c1a7da9f87bb52e66",
+  "build_date": "2025-06-26T22:39:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913241304",
+  "build_id": "15913241304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/kprobe_percpu?tag=HEAD-c221969-250624T181107-aarch64-Linux&download=kprobe_percpu.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6927",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/kprobe_percpu?tag=HEAD-c221969-250624T181107-aarch64-Linux&download=kprobe_percpu",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cilium/ebpf/kprobe_percpu:HEAD-c221969-250624T181107-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cilium/ebpf/kprobe_percpu",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cilium/ebpf/kprobe_percpu?tag=HEAD-c221969-250624T181107-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76230b78e415a28d9e38e69e10fbdff475d04a997aa5eee517b71cc555784d6e",
+  "size": "3.5 MB",
+  "size_raw": "3579456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0bef90d-250619T111026-aarch64-Linux",
+    "HEAD-51ab2a4-250620T082030-aarch64-Linux",
+    "HEAD-3de0bd4-250624T142142-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
