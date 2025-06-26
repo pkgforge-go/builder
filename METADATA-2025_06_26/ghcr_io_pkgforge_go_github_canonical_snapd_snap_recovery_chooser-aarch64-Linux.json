@@ -1,0 +1,105 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "snap-recovery-chooser",
+  "pkg_family": "snapd",
+  "pkg_id": "snap-recovery-chooser#github.com_canonical_snapd",
+  "pkg_name": "snap-recovery-chooser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/snapd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The snapd and snap tools enable systems to work with .snap files.",
+  "homepage": [
+    "https://github.com/canonical/snapd"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chattr",
+    "chrorder",
+    "core20-da-lockout",
+    "core20-set-efi-boot-variables",
+    "fakedevicesvc",
+    "fakestore",
+    "fde-setup-hook",
+    "fde-setup-hook-v1",
+    "genasset",
+    "gendeveloper1",
+    "high-user-handling",
+    "info",
+    "lib",
+    "local-install-w-metadata",
+    "retry-network",
+    "runas-1",
+    "runas-2",
+    "runas-3",
+    "snap",
+    "snap-exec",
+    "snap-failure",
+    "snap-fde-keymgr",
+    "snap-gpio-helper",
+    "snap-preseed",
+    "snap-recovery-chooser",
+    "snap-repair",
+    "snap-seccomp-syscalls",
+    "snapctl",
+    "snapd",
+    "snapd-apparmor",
+    "snapd-docs",
+    "systemd-escape",
+    "test-snapd-go-webserver",
+    "uc20-create-partitions",
+    "user-libnss",
+    "xgettext-go"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/snapd/archive/72f787dc83cfec3eb2926959d2cdb505498f547d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-72f787d-250625T203445",
+  "version_upstream": "",
+  "bsum": "016f59cedd8b58b7d1ec71f4e5720d59ae8cc117b7c3002c3dd938e04f73f4c7",
+  "build_date": "2025-06-26T10:25:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898688775",
+  "build_id": "15898688775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-recovery-chooser?tag=HEAD-72f787d-250625T203445-aarch64-Linux&download=snap-recovery-chooser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1961",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-recovery-chooser?tag=HEAD-72f787d-250625T203445-aarch64-Linux&download=snap-recovery-chooser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/snapd/snap-recovery-chooser:HEAD-72f787d-250625T203445-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/snapd/snap-recovery-chooser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/snapd/snap-recovery-chooser?tag=HEAD-72f787d-250625T203445-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "231f1b6459a98aaccbc7082040bdd52802546cca4d4581a23e823fa6bef62a77",
+  "size": "7.6 MB",
+  "size_raw": "7930528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bee550c-250619T152729-aarch64-Linux",
+    "HEAD-a29f24b-250624T005923-aarch64-Linux",
+    "HEAD-49b1224-250624T141115-aarch64-Linux",
+    "HEAD-53a571e-250624T175631-aarch64-Linux",
+    "HEAD-3f38cd7-250625T094338-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
