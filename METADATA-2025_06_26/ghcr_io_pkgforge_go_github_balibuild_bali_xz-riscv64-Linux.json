@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "xz",
+  "pkg_family": "bali",
+  "pkg_id": "xz#github.com_balibuild_bali",
+  "pkg_name": "xz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/balibuild/bali",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bali -  Minimalist Golang build and packaging tool",
+  "homepage": [
+    "https://github.com/balibuild/bali"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "args",
+    "bali",
+    "ico",
+    "rpmsimple",
+    "xz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/balibuild/bali/archive/b4a5524757caecdf5459e303d249bafff8b9235b.tar.gz"
+  ],
+  "tag": [
+    "build",
+    "darwin",
+    "golang",
+    "installer",
+    "interesting",
+    "linux",
+    "package",
+    "posix",
+    "windows"
+  ],
+  "version": "HEAD-b4a5524-250626T093827",
+  "version_upstream": "",
+  "bsum": "6e3a06a1278636d2747400235bfa3375dbfbac11b1ccfc4b70e8e4581e453afc",
+  "build_date": "2025-06-26T10:14:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898684836",
+  "build_id": "15898684836",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/xz?tag=HEAD-b4a5524-250626T093827-riscv64-Linux&download=xz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "67",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/xz?tag=HEAD-b4a5524-250626T093827-riscv64-Linux&download=xz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/balibuild/bali/xz:HEAD-b4a5524-250626T093827-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/balibuild/bali/xz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/balibuild/bali/xz?tag=HEAD-b4a5524-250626T093827-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3db73ffcb1bad5668b0714da6be80ee996dffb235ef2d7808821ee7a00260fe1",
+  "size": "2.1 MB",
+  "size_raw": "2132920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3c75fb5-250615T134456-riscv64-Linux[v3.1.1]",
+    "HEAD-c42ccb6-250624T172433-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
