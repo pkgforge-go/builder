@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "processyang",
+  "pkg_family": "junos-terraform",
+  "pkg_id": "processyang#github.com_Juniper_junos_terraform",
+  "pkg_name": "processyang",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Juniper/junos-terraform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/Juniper/junos-terraform"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "junos-terraform",
+    "processproviders",
+    "processyang"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Juniper/junos-terraform/archive/94d2c2fd6b604d3493d2615991a0e1588f2bb192.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-94d2c2f-250626T092507",
+  "version_upstream": "0.1.1",
+  "bsum": "da89959c71209f5558a1da1679008421656b775c0d223d23fbbbf57410d1a8f2",
+  "build_date": "2025-06-26T16:02:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906507406",
+  "build_id": "15906507406",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juniper/junos-terraform/processyang?tag=HEAD-94d2c2f-250626T092507-riscv64-Linux&download=processyang.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "74",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juniper/junos-terraform/processyang?tag=HEAD-94d2c2f-250626T092507-riscv64-Linux&download=processyang",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juniper/junos-terraform/processyang:HEAD-94d2c2f-250626T092507-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juniper/junos-terraform/processyang",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juniper/junos-terraform/processyang?tag=HEAD-94d2c2f-250626T092507-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "684117bf225fa29b00ecbc48ffaab6077d217f2618e35cf837741e4314ea4377",
+  "size": "2.7 MB",
+  "size_raw": "2734088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
