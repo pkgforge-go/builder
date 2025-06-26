@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "allkeywords",
+  "pkg_family": "cockroach",
+  "pkg_id": "allkeywords#github.com_cockroachdb_cockroach",
+  "pkg_name": "allkeywords",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cockroachdb/cockroach",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+  "homepage": [
+    "https://github.com/cockroachdb/cockroach"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "allkeywords",
+    "genbzl",
+    "generate-acceptance-tests",
+    "tinystringer",
+    "whereis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cockroachdb/cockroach/archive/449f0979bfe993137b206691ce8d81e7969a43ae.tar.gz"
+  ],
+  "tag": [
+    "cockroachdb",
+    "database",
+    "distributed-database",
+    "go",
+    "hacktoberfest",
+    "sql"
+  ],
+  "version": "HEAD-449f097-250625T235751",
+  "version_upstream": "",
+  "bsum": "11cdda7d4334c81b3011fdfa9916da4f5cd6a6a5625c4f9ea42731beddcda12b",
+  "build_date": "2025-06-26T10:29:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898693850",
+  "build_id": "15898693850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/allkeywords?tag=HEAD-449f097-250625T235751-x86_64-Linux&download=allkeywords.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31023",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/allkeywords?tag=HEAD-449f097-250625T235751-x86_64-Linux&download=allkeywords",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cockroachdb/cockroach/allkeywords:HEAD-449f097-250625T235751-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cockroachdb/cockroach/allkeywords",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/allkeywords?tag=HEAD-449f097-250625T235751-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3da41f0b3738c4ed7f5cdb98e4c285ec4a61ea481c63e76fc6d1e648b8c78c7a",
+  "size": "3.2 MB",
+  "size_raw": "3286872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-603ca22-250619T082719-x86_64-Linux",
+    "HEAD-a138fbd-250621T215846-x86_64-Linux",
+    "HEAD-0777857-250622T184341-x86_64-Linux",
+    "HEAD-8917e45-250623T131322-x86_64-Linux",
+    "HEAD-b4b2a95-250623T234917-x86_64-Linux",
+    "HEAD-7ca9db8-250624T140528-x86_64-Linux",
+    "HEAD-a53b28b-250625T024259-x86_64-Linux",
+    "HEAD-aa1b367-250625T134726-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
