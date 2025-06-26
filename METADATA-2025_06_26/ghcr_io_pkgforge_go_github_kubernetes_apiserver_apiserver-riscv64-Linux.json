@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "apiserver",
+  "pkg_family": "apiserver",
+  "pkg_id": "apiserver#github.com_kubernetes_apiserver",
+  "pkg_name": "apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/apiserver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Library for writing a Kubernetes-style API server.",
+  "homepage": [
+    "https://github.com/kubernetes/apiserver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/apiserver/archive/07ec5c5838b256c30d662343b0e6b1979d7d4c07.tar.gz"
+  ],
+  "tag": [
+    "k8s-staging"
+  ],
+  "version": "HEAD-07ec5c5-250625T174928",
+  "version_upstream": "",
+  "bsum": "71c7dbe31693156255ad14865d7620382aa8371a32520e23386824d0e338730a",
+  "build_date": "2025-06-26T11:11:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898945101",
+  "build_id": "15898945101",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-07ec5c5-250625T174928-riscv64-Linux&download=apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-07ec5c5-250625T174928-riscv64-Linux&download=apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/apiserver/apiserver:HEAD-07ec5c5-250625T174928-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/apiserver/apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-07ec5c5-250625T174928-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7669f76b96f949b6c584eddc7d88d0486afc7fe1a2a80a1e62d5e03bfae4429",
+  "size": "39 MB",
+  "size_raw": "40769816",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-389ff85-250624T134108-riscv64-Linux",
+    "HEAD-3f2a0b7-250624T175150-riscv64-Linux",
+    "HEAD-a77ab41-250625T134559-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
