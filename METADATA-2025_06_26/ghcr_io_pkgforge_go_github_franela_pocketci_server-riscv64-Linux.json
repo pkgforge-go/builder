@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "pocketci",
+  "pkg_id": "server#github.com_franela_pocketci",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/franela/pocketci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A dagger-based portable CI platform",
+  "homepage": [
+    "https://github.com/franela/pocketci"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/franela/pocketci/archive/3b9ac59b1cb1d9d929cb1670b61e84f27f2d4755.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3b9ac59-250625T172845",
+  "version_upstream": "",
+  "bsum": "eceb97b7c05577f6e04176fa77dfe89554528b1984203c25fb7e7e4a602c2ec8",
+  "build_date": "2025-06-26T07:50:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895235805",
+  "build_id": "15895235805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/franela/pocketci/server?tag=HEAD-3b9ac59-250625T172845-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/franela/pocketci/server?tag=HEAD-3b9ac59-250625T172845-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/franela/pocketci/server:HEAD-3b9ac59-250625T172845-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/franela/pocketci/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/franela/pocketci/server?tag=HEAD-3b9ac59-250625T172845-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31dc3e3d803c6888999fa474143135d83158b5c98cbc5699a4a407a8d0ade438",
+  "size": "16 MB",
+  "size_raw": "16563224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
