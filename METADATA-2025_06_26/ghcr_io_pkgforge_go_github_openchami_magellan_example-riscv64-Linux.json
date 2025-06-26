@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "magellan",
+  "pkg_id": "example#github.com_OpenCHAMI_magellan",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OpenCHAMI/magellan",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Redfish-based BMC discovery tool written in Go",
+  "homepage": [
+    "https://github.com/OpenCHAMI/magellan"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "magellan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OpenCHAMI/magellan/archive/0aa72ce70d7e6660a2e62ec615b0772c88b89d10.tar.gz"
+  ],
+  "tag": [
+    "bmc",
+    "bmc-discovery",
+    "cli",
+    "gofish",
+    "golang",
+    "hpc",
+    "http",
+    "networking",
+    "openchami",
+    "redfish"
+  ],
+  "version": "HEAD-0aa72ce-250625T154139",
+  "version_upstream": "",
+  "bsum": "7f5c5d4ebcf50460b4baed04b6ee500a2d21c284952a0e6794085cd51f45d9d9",
+  "build_date": "2025-06-26T07:04:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895110124",
+  "build_id": "15895110124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openchami/magellan/example?tag=HEAD-0aa72ce-250625T154139-riscv64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openchami/magellan/example?tag=HEAD-0aa72ce-250625T154139-riscv64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openchami/magellan/example:HEAD-0aa72ce-250625T154139-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openchami/magellan/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openchami/magellan/example?tag=HEAD-0aa72ce-250625T154139-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b74c4f8e20527dfa18d1be17a5f15f0de62a1c5656a4a6c1d45f2853129f5b73",
+  "size": "2.3 MB",
+  "size_raw": "2309880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
