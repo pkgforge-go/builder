@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "k6",
+  "pkg_family": "k6",
+  "pkg_id": "k6#github.com_grafana_k6",
+  "pkg_name": "k6",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/k6",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A modern load testing tool, using Go and JavaScript",
+  "homepage": [
+    "https://github.com/grafana/k6"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen",
+    "k6"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/k6/archive/0e3fb953be73a968cbbe7f98ba796515254f6ea4.tar.gz"
+  ],
+  "tag": [
+    "es6",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "javascript",
+    "load-generator",
+    "load-testing",
+    "performance"
+  ],
+  "version": "HEAD-0e3fb95-250625T155655",
+  "version_upstream": "v1.1.0",
+  "bsum": "5d9b032da648a06ccbf351129d5cef2173f9430f5170953a5a6c5c3a5f7896b0",
+  "build_date": "2025-06-26T03:07:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891441894",
+  "build_id": "15891441894",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/k6/k6?tag=HEAD-0e3fb95-250625T155655-loongarch64-Linux&download=k6.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/k6/k6?tag=HEAD-0e3fb95-250625T155655-loongarch64-Linux&download=k6",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/k6/k6:HEAD-0e3fb95-250625T155655-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/k6/k6",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/k6/k6?tag=HEAD-0e3fb95-250625T155655-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04e6007f4e08d4c7acc8bee245b5e715667dba22540fa947a816db1039c030bb",
+  "size": "47 MB",
+  "size_raw": "48813904",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b480971-250619T162049-loongarch64-Linux",
+    "HEAD-bc29957-250620T112754-loongarch64-Linux",
+    "HEAD-76e2bca-250624T113929-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
