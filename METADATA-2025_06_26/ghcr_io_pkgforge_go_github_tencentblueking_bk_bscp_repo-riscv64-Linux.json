@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "repo",
+  "pkg_family": "bk-bscp",
+  "pkg_id": "repo#github.com_TencentBlueKing_bk_bscp",
+  "pkg_name": "repo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TencentBlueKing/bk-bscp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "蓝鲸服务配置中心_BlueKing Service Config Provider_",
+  "homepage": [
+    "https://github.com/TencentBlueKing/bk-bscp"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-server",
+    "auth-server",
+    "cache-service",
+    "config-server",
+    "data-service",
+    "feed-proxy",
+    "feed-server",
+    "gen",
+    "gen-data",
+    "repo",
+    "tools",
+    "ui",
+    "vault-plugins",
+    "vault-server",
+    "vault-sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TencentBlueKing/bk-bscp/archive/1168b26cbb0398b3a4be355d0698e2dfa870f931.tar.gz"
+  ],
+  "tag": [
+    "blueking",
+    "configuration",
+    "golang",
+    "microservice"
+  ],
+  "version": "HEAD-1168b26-250626T111528",
+  "version_upstream": "",
+  "bsum": "16732e65c1d816f9dfe6511aaa86410678464ac8f25258f5c23edf14a8febbf8",
+  "build_date": "2025-06-26T07:24:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895111591",
+  "build_id": "15895111591",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-bscp/repo?tag=HEAD-1168b26-250626T111528-riscv64-Linux&download=repo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-bscp/repo?tag=HEAD-1168b26-250626T111528-riscv64-Linux&download=repo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tencentblueking/bk-bscp/repo:HEAD-1168b26-250626T111528-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tencentblueking/bk-bscp/repo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tencentblueking/bk-bscp/repo?tag=HEAD-1168b26-250626T111528-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "943f2fc145b1112091e3db2031a83d2cf654925e977a13f4a4d886a72759a8bf",
+  "size": "22 MB",
+  "size_raw": "22310072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
