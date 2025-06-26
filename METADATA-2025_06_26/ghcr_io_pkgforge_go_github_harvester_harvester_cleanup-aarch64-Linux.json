@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cleanup",
+  "pkg_family": "harvester",
+  "pkg_id": "cleanup#github.com_harvester_harvester",
+  "pkg_name": "cleanup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harvester/harvester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source hyperconverged infrastructure _HCI_ software",
+  "homepage": [
+    "https://github.com/harvester/harvester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "genswagger",
+    "upgradehelper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harvester/harvester/archive/bbfa95fb369f1700a99601f92a11d453045ce0f1.tar.gz"
+  ],
+  "tag": [
+    "harvester",
+    "kubernetes",
+    "virtualization"
+  ],
+  "version": "HEAD-bbfa95f-250626T174620",
+  "version_upstream": "",
+  "bsum": "5d460317fba203fc0d9f8a291f386c541c524a2eeb8c488b57067f86518fa01d",
+  "build_date": "2025-06-26T23:13:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913327403",
+  "build_id": "15913327403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/cleanup?tag=HEAD-bbfa95f-250626T174620-aarch64-Linux&download=cleanup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/cleanup?tag=HEAD-bbfa95f-250626T174620-aarch64-Linux&download=cleanup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harvester/harvester/cleanup:HEAD-bbfa95f-250626T174620-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harvester/harvester/cleanup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harvester/harvester/cleanup?tag=HEAD-bbfa95f-250626T174620-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0cdb6a05a82d6d3cc838c543ddf80558e1a2ebca703d91ca6eb6261890d2c3cd",
+  "size": "1.9 MB",
+  "size_raw": "1907320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a930b01-250620T092130-aarch64-Linux",
+    "HEAD-07ffa03-250623T102940-aarch64-Linux",
+    "HEAD-3e05ba2-250623T214921-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
