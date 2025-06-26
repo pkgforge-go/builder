@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate-acceptance-tests",
+  "pkg_family": "cockroach",
+  "pkg_id": "generate-acceptance-tests#github.com_cockroachdb_cockroach",
+  "pkg_name": "generate-acceptance-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cockroachdb/cockroach",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+  "homepage": [
+    "https://github.com/cockroachdb/cockroach"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "allkeywords",
+    "genbzl",
+    "generate-acceptance-tests",
+    "tinystringer",
+    "whereis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cockroachdb/cockroach/archive/449f0979bfe993137b206691ce8d81e7969a43ae.tar.gz"
+  ],
+  "tag": [
+    "cockroachdb",
+    "database",
+    "distributed-database",
+    "go",
+    "hacktoberfest",
+    "sql"
+  ],
+  "version": "HEAD-449f097-250625T235751",
+  "version_upstream": "",
+  "bsum": "ebeb133aadfba88c8b7c40467d4d7c38fd606070d5ea6f15dffb7acb75700f41",
+  "build_date": "2025-06-26T10:29:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898693850",
+  "build_id": "15898693850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-449f097-250625T235751-loongarch64-Linux&download=generate-acceptance-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31023",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-449f097-250625T235751-loongarch64-Linux&download=generate-acceptance-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests:HEAD-449f097-250625T235751-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/cockroach/generate-acceptance-tests?tag=HEAD-449f097-250625T235751-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "528f68cbdbedb8d75fb240ba58a0e69169de69b2ceb36d89b45943241c83bf2e",
+  "size": "2.1 MB",
+  "size_raw": "2182968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-603ca22-250619T082719-loongarch64-Linux",
+    "HEAD-a138fbd-250621T215846-loongarch64-Linux",
+    "HEAD-0777857-250622T184341-loongarch64-Linux",
+    "HEAD-8917e45-250623T131322-loongarch64-Linux",
+    "HEAD-b4b2a95-250623T234917-loongarch64-Linux",
+    "HEAD-7ca9db8-250624T140528-loongarch64-Linux",
+    "HEAD-a53b28b-250625T024259-loongarch64-Linux",
+    "HEAD-aa1b367-250625T134726-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
