@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "release-tools",
+  "pkg_family": "csi-proxy",
+  "pkg_id": "release-tools#github.com_kubernetes_csi_csi_proxy",
+  "pkg_name": "release-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-csi/csi-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CSI Proxy utility to enable CSI Plugins on Windows",
+  "homepage": [
+    "https://github.com/kubernetes-csi/csi-proxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi-proxy-api-gen",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-csi/csi-proxy/archive/de04a0bab989cdc752ca72edfae865b0fd2016dc.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-storage"
+  ],
+  "version": "HEAD-de04a0b-250626T061830",
+  "version_upstream": "",
+  "bsum": "bb0d9d2fef94bb3027a36acaf16875cd052f44c8d609dda4d848cb29c3d4f17b",
+  "build_date": "2025-06-26T17:12:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907246249",
+  "build_id": "15907246249",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-proxy/release-tools?tag=HEAD-de04a0b-250626T061830-x86_64-Linux&download=release-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-proxy/release-tools?tag=HEAD-de04a0b-250626T061830-x86_64-Linux&download=release-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-csi/csi-proxy/release-tools:HEAD-de04a0b-250626T061830-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-csi/csi-proxy/release-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-proxy/release-tools?tag=HEAD-de04a0b-250626T061830-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61d633d654aec24ea2ce8e095a193e5d2d53bee3eabec943949d519a732b4cbd",
+  "size": "2.4 MB",
+  "size_raw": "2451352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
