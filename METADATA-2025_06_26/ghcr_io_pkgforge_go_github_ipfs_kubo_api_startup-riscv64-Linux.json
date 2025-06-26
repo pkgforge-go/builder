@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "api-startup",
+  "pkg_family": "kubo",
+  "pkg_id": "api-startup#github.com_ipfs_kubo",
+  "pkg_name": "api-startup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipfs/kubo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IPFS implementation in Go",
+  "homepage": [
+    "https://github.com/ipfs/kubo"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-startup",
+    "bench_cli_ipfs_add",
+    "ipfs",
+    "ipfswatch",
+    "offline_add"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipfs/kubo/archive/839023c79d7988f649e6411430f43f7785770cb3.tar.gz"
+  ],
+  "tag": [
+    "ipfs"
+  ],
+  "version": "HEAD-839023c-250626T021844",
+  "version_upstream": "",
+  "bsum": "8181d78c2309bcb00c412fcef38171dc856d06febe07220eceb323e81ba8d06a",
+  "build_date": "2025-06-26T11:08:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898874758",
+  "build_id": "15898874758",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/api-startup?tag=HEAD-839023c-250626T021844-riscv64-Linux&download=api-startup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16535",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/api-startup?tag=HEAD-839023c-250626T021844-riscv64-Linux&download=api-startup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipfs/kubo/api-startup:HEAD-839023c-250626T021844-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipfs/kubo/api-startup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipfs/kubo/api-startup?tag=HEAD-839023c-250626T021844-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d67492e9581f514ecb0b0360c379ee0d19b2ad66014a6c7ca22bcc5a1fc6c68c",
+  "size": "5.6 MB",
+  "size_raw": "5819352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-92aa993-250618T191558-riscv64-Linux",
+    "HEAD-ace0b0b-250623T071811-riscv64-Linux",
+    "HEAD-be24176-250625T012626-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
