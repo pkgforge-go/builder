@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "schema",
+  "pkg_family": "tyk",
+  "pkg_id": "schema#github.com_TykTechnologies_tyk",
+  "pkg_name": "schema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TykTechnologies/tyk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+  "homepage": [
+    "https://github.com/TykTechnologies/tyk"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gomock_reflect_3503306920",
+    "schema",
+    "scripts",
+    "tyk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TykTechnologies/tyk/archive/400bb5df5d2bfb1f7b5a7c7c2ce97bb9f169fa89.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "api-gateway",
+    "api-management",
+    "cloudnative",
+    "go",
+    "graphql",
+    "grpc",
+    "k8s",
+    "kubernetes",
+    "microservices",
+    "reverse-proxy",
+    "tyk"
+  ],
+  "version": "HEAD-400bb5d-250625T135319",
+  "version_upstream": "",
+  "bsum": "3846890688e669440da95d7b6dfde3a8a5e062a88f4da7b0670b06b59a59122b",
+  "build_date": "2025-06-26T02:31:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891364606",
+  "build_id": "15891364606",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyktechnologies/tyk/schema?tag=HEAD-400bb5d-250625T135319-x86_64-Linux&download=schema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10202",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyktechnologies/tyk/schema?tag=HEAD-400bb5d-250625T135319-x86_64-Linux&download=schema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tyktechnologies/tyk/schema:HEAD-400bb5d-250625T135319-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tyktechnologies/tyk/schema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tyktechnologies/tyk/schema?tag=HEAD-400bb5d-250625T135319-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8822b71f87b6c253ab995a6f4f97e51cc4873ebca306477687976647e247424d",
+  "size": "31 MB",
+  "size_raw": "32002096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e4419e9-250618T115603-x86_64-Linux",
+    "HEAD-9d4aab7-250623T122403-x86_64-Linux",
+    "HEAD-b3f4e4d-250624T135402-x86_64-Linux",
+    "HEAD-5970948-250624T222045-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
