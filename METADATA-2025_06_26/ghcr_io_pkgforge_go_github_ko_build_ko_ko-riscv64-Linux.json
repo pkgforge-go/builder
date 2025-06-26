@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ko",
+  "pkg_family": "ko",
+  "pkg_id": "ko#github.com_ko_build_ko",
+  "pkg_name": "ko",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ko-build/ko",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build and deploy Go applications",
+  "homepage": [
+    "https://github.com/ko-build/ko"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "help",
+    "ko",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ko-build/ko/archive/20b15e67194215721faba356b857fcf5d621dfaa.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "containers",
+    "deploy",
+    "docker",
+    "go",
+    "golang",
+    "kubernetes"
+  ],
+  "version": "HEAD-20b15e6-250625T085218",
+  "version_upstream": "",
+  "bsum": "9ad6a0eef307a69c6eab90206bea16cdecac32c5d90ed91eb47d326c4c5913ce",
+  "build_date": "2025-06-26T17:12:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907131287",
+  "build_id": "15907131287",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ko-build/ko/ko?tag=HEAD-20b15e6-250625T085218-riscv64-Linux&download=ko.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ko-build/ko/ko?tag=HEAD-20b15e6-250625T085218-riscv64-Linux&download=ko",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ko-build/ko/ko:HEAD-20b15e6-250625T085218-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ko-build/ko/ko",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ko-build/ko/ko?tag=HEAD-20b15e6-250625T085218-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09314343ae3509f5005bfb0a07d55c63c3eeb5c0c463a09ac2ae31cae2f4f07c",
+  "size": "33 MB",
+  "size_raw": "33774040",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e76127c-250620T093204-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
