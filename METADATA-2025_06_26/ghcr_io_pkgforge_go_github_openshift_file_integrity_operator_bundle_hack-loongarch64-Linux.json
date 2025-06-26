@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bundle-hack",
+  "pkg_family": "file-integrity-operator",
+  "pkg_id": "bundle-hack#github.com_openshift_file_integrity_operator",
+  "pkg_name": "bundle-hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/file-integrity-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator providing OpenShift cluster node file integrity checking",
+  "homepage": [
+    "https://github.com/openshift/file-integrity-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bundle-hack",
+    "file-integrity-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/file-integrity-operator/archive/ef28d5919c0d8763ef2bf82f8197807499e98ac5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ef28d59-250625T153858",
+  "version_upstream": "",
+  "bsum": "17a81f0504cae115f25f03f99b5b56618222405c6fbc416a7d0e92f7d00cfe77",
+  "build_date": "2025-06-26T08:55:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896269656",
+  "build_id": "15896269656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/file-integrity-operator/bundle-hack?tag=HEAD-ef28d59-250625T153858-loongarch64-Linux&download=bundle-hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/file-integrity-operator/bundle-hack?tag=HEAD-ef28d59-250625T153858-loongarch64-Linux&download=bundle-hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/file-integrity-operator/bundle-hack:HEAD-ef28d59-250625T153858-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/file-integrity-operator/bundle-hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/file-integrity-operator/bundle-hack?tag=HEAD-ef28d59-250625T153858-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d646f1748fa5205f1acd8e442181ddec5acb7facebd86fbbc4bb620f8fea1ad",
+  "size": "2.6 MB",
+  "size_raw": "2635864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
