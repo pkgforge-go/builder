@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ova-provider-server",
+  "pkg_family": "forklift",
+  "pkg_id": "ova-provider-server#github.com_kubev2v_forklift",
+  "pkg_name": "ova-provider-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubev2v/forklift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt",
+  "homepage": [
+    "https://github.com/kubev2v/forklift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "forklift-api",
+    "forklift-controller",
+    "image-converter",
+    "inventory",
+    "openstack-populator",
+    "ova-provider-server",
+    "ovirt-populator",
+    "populator-controller",
+    "virt-v2v",
+    "virt-v2v-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubev2v/forklift/archive/11f505e6727fad446981ff241e37cb4395d702b8.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubevirt",
+    "migration",
+    "openstack",
+    "ova",
+    "ovf",
+    "ovirt",
+    "virt-v2v",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-11f505e-250625T134859",
+  "version_upstream": "",
+  "bsum": "2216e45ba2b2821c2cc9c9e51f2f4e4c8bacb8e2af0d2469f6832039d2553487",
+  "build_date": "2025-06-26T03:22:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891485716",
+  "build_id": "15891485716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ova-provider-server?tag=HEAD-11f505e-250625T134859-x86_64-Linux&download=ova-provider-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "91",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ova-provider-server?tag=HEAD-11f505e-250625T134859-x86_64-Linux&download=ova-provider-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubev2v/forklift/ova-provider-server:HEAD-11f505e-250625T134859-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubev2v/forklift/ova-provider-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ova-provider-server?tag=HEAD-11f505e-250625T134859-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c64514ef383284e0d977e50e1f38690da49d60e12aae9938067dd73582267146",
+  "size": "6.5 MB",
+  "size_raw": "6785344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d13e1d0-250620T145157-x86_64-Linux",
+    "HEAD-e857e6e-250623T150948-x86_64-Linux",
+    "HEAD-19f8baa-250624T134014-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
