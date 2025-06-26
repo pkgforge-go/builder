@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "rdk",
+  "pkg_id": "client#github.com_viamrobotics_rdk",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "complexmodule",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "gizmomodule",
+    "multiversionmodule",
+    "optionaldepsmodule",
+    "remoteserver",
+    "rtppassthrough",
+    "simplemodule",
+    "subsystem_manifest",
+    "summationmodule",
+    "test_detector",
+    "testmodule",
+    "testmodule2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viamrobotics/rdk/archive/169865727acdfcf2df5f7bbf09feeac24b82deeb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1698657-250625T101312",
+  "version_upstream": "",
+  "bsum": "8ab6bacca64f63d51b82db249a5808af6356eeab54176b450bced9d77cd22d2a",
+  "build_date": "2025-06-26T01:12:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888185282",
+  "build_id": "15888185282",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/client?tag=HEAD-1698657-250625T101312-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/client?tag=HEAD-1698657-250625T101312-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/client:HEAD-1698657-250625T101312-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/client?tag=HEAD-1698657-250625T101312-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6542d8af4632f83a3461e8f59749d2ea8f4d2918c62cece7c24bc45c8817a0cd",
+  "size": "40 MB",
+  "size_raw": "41033376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8787a26-250624T171702-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
