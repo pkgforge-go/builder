@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "quickstarts",
+  "pkg_family": "quickstarts",
+  "pkg_id": "quickstarts#github.com_RedHatInsights_quickstarts",
+  "pkg_name": "quickstarts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/RedHatInsights/quickstarts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Backend service for integrated quickstarts.",
+  "homepage": [
+    "https://github.com/RedHatInsights/quickstarts"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "favorite",
+    "migrate",
+    "quickstarts",
+    "spec",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/RedHatInsights/quickstarts/archive/dd6ce933f267ade20b32a02450aa6579475c20e7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dd6ce93-250626T092510",
+  "version_upstream": "",
+  "bsum": "2a9d063b5eb0c6960af82a613afd6019e503227e643225d1e846702b4b838fc6",
+  "build_date": "2025-06-26T16:07:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906508919",
+  "build_id": "15906508919",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/quickstarts/quickstarts?tag=HEAD-dd6ce93-250626T092510-riscv64-Linux&download=quickstarts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/quickstarts/quickstarts?tag=HEAD-dd6ce93-250626T092510-riscv64-Linux&download=quickstarts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/redhatinsights/quickstarts/quickstarts:HEAD-dd6ce93-250626T092510-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/redhatinsights/quickstarts/quickstarts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/redhatinsights/quickstarts/quickstarts?tag=HEAD-dd6ce93-250626T092510-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e0b6a3f5d02ebca2488b2d27a1e4623be72a5acbbe20b79ac53ed85dbcf301e",
+  "size": "17 MB",
+  "size_raw": "17001720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
