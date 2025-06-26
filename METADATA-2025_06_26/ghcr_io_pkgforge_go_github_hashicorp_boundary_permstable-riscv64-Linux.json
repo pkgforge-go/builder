@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "permstable",
+  "pkg_family": "boundary",
+  "pkg_id": "permstable#github.com_hashicorp_boundary",
+  "pkg_name": "permstable",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/boundary",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/boundary"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boundary",
+    "genapi",
+    "gencli",
+    "permstable",
+    "remove-gotags-comments"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/boundary/archive/ababe653f91bbf63a08a88c81cb55e389c291234.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "hashicorp",
+    "security",
+    "zero-trust"
+  ],
+  "version": "HEAD-ababe65-250625T113450",
+  "version_upstream": "",
+  "bsum": "0d467e7b6b114ad88b4234c34dad2e46dea2f517e37e47a5b079dc518031c2f7",
+  "build_date": "2025-06-26T10:57:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898815922",
+  "build_id": "15898815922",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/permstable?tag=HEAD-ababe65-250625T113450-riscv64-Linux&download=permstable.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3928",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/permstable?tag=HEAD-ababe65-250625T113450-riscv64-Linux&download=permstable",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/boundary/permstable:HEAD-ababe65-250625T113450-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/boundary/permstable",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/permstable?tag=HEAD-ababe65-250625T113450-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c234f356359f024c16514491f21994654dc40b2bb97330399d7ea493204b8cf",
+  "size": "34 MB",
+  "size_raw": "35619192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1f64c12-250619T165146-riscv64-Linux",
+    "HEAD-ee26fef-250623T140333-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
