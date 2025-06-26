@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dumpspec",
+  "pkg_family": "buildah",
+  "pkg_id": "dumpspec#github.com_containers_buildah",
+  "pkg_name": "dumpspec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/buildah",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool that facilitates building OCI images.",
+  "homepage": [
+    "https://github.com/containers/buildah"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dumpspec",
+    "inet",
+    "serve",
+    "testreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/buildah/archive/06abe5fc777088e4a6810ed5ff8de3f442f1ee51.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "container-image",
+    "containers",
+    "docker",
+    "oci",
+    "oci-image",
+    "podman"
+  ],
+  "version": "HEAD-06abe5f-250625T141835",
+  "version_upstream": "",
+  "bsum": "6474bcba200f0d103307221bd7eb6d30236eead3256d6c9797ca111347b95555",
+  "build_date": "2025-06-26T02:47:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891390338",
+  "build_id": "15891390338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/dumpspec?tag=HEAD-06abe5f-250625T141835-loongarch64-Linux&download=dumpspec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7989",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/dumpspec?tag=HEAD-06abe5f-250625T141835-loongarch64-Linux&download=dumpspec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/buildah/dumpspec:HEAD-06abe5f-250625T141835-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/buildah/dumpspec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/dumpspec?tag=HEAD-06abe5f-250625T141835-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da7940f4aa10a6036d32e22f0d5921f808a784e7c3dcf1890e8717959d0676e3",
+  "size": "3.6 MB",
+  "size_raw": "3736560",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0b3a01c-250618T124933-loongarch64-Linux",
+    "HEAD-dc1a1f5-250620T151837-loongarch64-Linux",
+    "HEAD-e6375b3-250622T161608-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
