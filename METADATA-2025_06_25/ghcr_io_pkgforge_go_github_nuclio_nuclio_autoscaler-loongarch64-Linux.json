@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "autoscaler",
+  "pkg_family": "nuclio",
+  "pkg_id": "autoscaler#github.com_nuclio_nuclio",
+  "pkg_name": "autoscaler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nuclio/nuclio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-Performance Serverless event and data processing platform",
+  "homepage": [
+    "https://github.com/nuclio/nuclio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscaler",
+    "benchmark",
+    "controller",
+    "dashboard",
+    "dlx",
+    "generator",
+    "nuctl",
+    "processor",
+    "releaser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nuclio/nuclio/archive/a8a8a2ba5fede91c765cfbbc537656f43d46fb16.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "faas",
+    "faas-platform",
+    "functions",
+    "go",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-a8a8a2b-250624T082523",
+  "version_upstream": "",
+  "bsum": "9732efd9128573e7d50b635f7d61a26bbcb0ec09adb1e4b86b1de4687aaa0cc7",
+  "build_date": "2025-06-26T00:01:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888066202",
+  "build_id": "15888066202",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/autoscaler?tag=HEAD-a8a8a2b-250624T082523-loongarch64-Linux&download=autoscaler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5490",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/autoscaler?tag=HEAD-a8a8a2b-250624T082523-loongarch64-Linux&download=autoscaler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nuclio/nuclio/autoscaler:HEAD-a8a8a2b-250624T082523-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nuclio/nuclio/autoscaler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nuclio/nuclio/autoscaler?tag=HEAD-a8a8a2b-250624T082523-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a72d7cdcc1ec7fdec6f2861e85d9c08ae10e4882a1b4b7324cd4ba566add6060",
+  "size": "48 MB",
+  "size_raw": "49445648",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4b9e1dc-250620T205715-loongarch64-Linux",
+    "HEAD-0564361-250623T133120-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
