@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kong-operator-cmd",
+  "pkg_family": "kong-operator",
+  "pkg_id": "kong-operator-cmd#github.com_Kong_kong_operator",
+  "pkg_name": "kong-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Kong/kong-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operator for Kong Gateways",
+  "homepage": [
+    "https://github.com/Kong/kong-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli-arguments-docs-gen",
+    "kong-operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Kong/kong-operator/archive/57307f0d56c4c5e109baab66696d3b957c1ab5a5.tar.gz"
+  ],
+  "tag": [
+    "team-k8s"
+  ],
+  "version": "HEAD-57307f0-250626T130530",
+  "version_upstream": "",
+  "bsum": "54c30542c14fd971308ca736524286c8f219c1ed7790e86e0db5a5053ddc837e",
+  "build_date": "2025-06-26T16:03:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906507625",
+  "build_id": "15906507625",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kong-operator/kong-operator-cmd?tag=HEAD-57307f0-250626T130530-loongarch64-Linux&download=kong-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kong-operator/kong-operator-cmd?tag=HEAD-57307f0-250626T130530-loongarch64-Linux&download=kong-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kong/kong-operator/kong-operator-cmd:HEAD-57307f0-250626T130530-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kong/kong-operator/kong-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kong/kong-operator/kong-operator-cmd?tag=HEAD-57307f0-250626T130530-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7776600d3edb5fadc31479c37e6707eb14717f5bc1742f5eb7ffbe7a6247e52d",
+  "size": "91 MB",
+  "size_raw": "95061544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
