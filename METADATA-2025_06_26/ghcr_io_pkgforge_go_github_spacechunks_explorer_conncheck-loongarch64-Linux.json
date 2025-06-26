@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "conncheck",
+  "pkg_family": "explorer",
+  "pkg_id": "conncheck#github.com_spacechunks_explorer",
+  "pkg_name": "conncheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spacechunks/explorer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Host and explore Minecraft minigames",
+  "homepage": [
+    "https://github.com/spacechunks/explorer"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conncheck",
+    "controlplane",
+    "netglue",
+    "platformd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spacechunks/explorer/archive/8684c647abc6acee7bb9fa9164fbf275479fbe45.tar.gz"
+  ],
+  "tag": [
+    "checkpoint-restore",
+    "minecraft"
+  ],
+  "version": "HEAD-8684c64-250625T211021",
+  "version_upstream": "",
+  "bsum": "852373650b9d347b7caff51ed78e3086d68316b014ea1907185b1e4c31d95327",
+  "build_date": "2025-06-26T12:08:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15899169617",
+  "build_id": "15899169617",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/conncheck?tag=HEAD-8684c64-250625T211021-loongarch64-Linux&download=conncheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/conncheck?tag=HEAD-8684c64-250625T211021-loongarch64-Linux&download=conncheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spacechunks/explorer/conncheck:HEAD-8684c64-250625T211021-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spacechunks/explorer/conncheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spacechunks/explorer/conncheck?tag=HEAD-8684c64-250625T211021-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9f29992ef9fcd4e82846744a41a7e084c5b944e20b5190a4eefe312fd1fb107",
+  "size": "5.7 MB",
+  "size_raw": "5971168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95e25a8-250622T150314-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
