@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "smrctl",
+  "pkg_family": "smr",
+  "pkg_id": "smrctl#github.com_simplecontainer_smr",
+  "pkg_name": "smrctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/simplecontainer/smr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simplecontainer manager a.k.a smr. Standalone and cluster mode, GitOps, Secrets, Reconciliation, and YAML definitions for Docker.",
+  "homepage": [
+    "https://github.com/simplecontainer/smr"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "smr",
+    "smrctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/simplecontainer/smr/archive/9e553e10b3cc4edff2ecef8d78b2e5627bdf3c20.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "containers",
+    "docker",
+    "flannel",
+    "gitops",
+    "orchestration",
+    "overlay",
+    "simplecontainer"
+  ],
+  "version": "HEAD-9e553e1-250625T203556",
+  "version_upstream": "",
+  "bsum": "fb4c37f37431a5e5635ba9df7c21f1e15901d07638620a8772eea80b9ae4b390",
+  "build_date": "2025-06-26T14:38:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15903646419",
+  "build_id": "15903646419",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9e553e1-250625T203556-riscv64-Linux&download=smrctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9e553e1-250625T203556-riscv64-Linux&download=smrctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simplecontainer/smr/smrctl:HEAD-9e553e1-250625T203556-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/simplecontainer/smr/smrctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9e553e1-250625T203556-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f6207ba0ffe4c1f4127837c95afe6d96b2cdf4914053c827cd906982bfd23e0b",
+  "size": "36 MB",
+  "size_raw": "36741176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7ea187a-250622T123418-riscv64-Linux[smrctl-v0.0.108]",
+    "HEAD-9357f30-250623T232142-riscv64-Linux[smrctl-v0.0.110]"
+  ],
+  "trusted": "true"
+}
