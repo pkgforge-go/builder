@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tunnel_controller",
+  "pkg_family": "vpn2",
+  "pkg_id": "tunnel_controller#github.com_gardener_vpn2",
+  "pkg_name": "tunnel_controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/vpn2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network connector between the control plane _deployed in a Seed cluster_ and a Shoot cluster superseding the vpn repository.",
+  "homepage": [
+    "https://github.com/gardener/vpn2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tunnel_controller",
+    "vpn_client",
+    "vpn_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/vpn2/archive/d656a2e1d1509e0df59bdfd5258a49e546342023.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d656a2e-250626T110725",
+  "version_upstream": "",
+  "bsum": "dad3c024def76ad509b216c5956e5354c99a0f83f32167794246bcf171a4d6ec",
+  "build_date": "2025-06-26T16:47:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906685647",
+  "build_id": "15906685647",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/vpn2/tunnel_controller?tag=HEAD-d656a2e-250626T110725-riscv64-Linux&download=tunnel_controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/vpn2/tunnel_controller?tag=HEAD-d656a2e-250626T110725-riscv64-Linux&download=tunnel_controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/vpn2/tunnel_controller:HEAD-d656a2e-250626T110725-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/vpn2/tunnel_controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/vpn2/tunnel_controller?tag=HEAD-d656a2e-250626T110725-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a2ab8cf802b33d2390d239717e497daf8ca5238124bc4225b16a0c3b07febb5",
+  "size": "8.9 MB",
+  "size_raw": "9248888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
