@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gocovmerge",
+  "pkg_family": "prysm",
+  "pkg_id": "gocovmerge#github.com_OffchainLabs_prysm",
+  "pkg_name": "gocovmerge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eth1exporter",
+    "gocovmerge",
+    "nogo_config",
+    "replay-http"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-97f416b-250626T130719",
+  "version_upstream": "",
+  "bsum": "fab9705a8fcc39d0ef100e770aaddf70ea8253a975ab64ed99f8d1645942e8d3",
+  "build_date": "2025-06-26T22:18:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205612",
+  "build_id": "15913205612",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/gocovmerge?tag=HEAD-97f416b-250626T130719-loongarch64-Linux&download=gocovmerge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3589",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/gocovmerge?tag=HEAD-97f416b-250626T130719-loongarch64-Linux&download=gocovmerge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/gocovmerge:HEAD-97f416b-250626T130719-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/gocovmerge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/gocovmerge?tag=HEAD-97f416b-250626T130719-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "518a0e1c4f15987457ee610f2083ea6cdc471b37d7dc98b735a6151b373efcd0",
+  "size": "1.9 MB",
+  "size_raw": "1990456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-loongarch64-Linux",
+    "HEAD-667aaf1-250622T215544-loongarch64-Linux",
+    "HEAD-121914d-250624T214016-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
