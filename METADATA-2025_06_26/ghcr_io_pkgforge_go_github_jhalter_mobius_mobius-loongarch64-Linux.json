@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mobius",
+  "pkg_family": "mobius",
+  "pkg_id": "mobius#github.com_jhalter_mobius",
+  "pkg_name": "mobius",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jhalter/mobius",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Hotline server implemented in Golang for macOS, Linux, and Windows operating systems",
+  "homepage": [
+    "https://github.com/jhalter/mobius"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mobius"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jhalter/mobius/archive/23ddb9fca47a4a1923fc474db552418e3031b592.tar.gz"
+  ],
+  "tag": [
+    "hotline",
+    "hotline-server"
+  ],
+  "version": "HEAD-23ddb9f-250625T182912",
+  "version_upstream": "",
+  "bsum": "b32d34f29bf3fc14444fc45cd4482c2e8201b3c1b519502911f05cf90a18b46f",
+  "build_date": "2025-06-26T14:01:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15902954125",
+  "build_id": "15902954125",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhalter/mobius/mobius?tag=HEAD-23ddb9f-250625T182912-loongarch64-Linux&download=mobius.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhalter/mobius/mobius?tag=HEAD-23ddb9f-250625T182912-loongarch64-Linux&download=mobius",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jhalter/mobius/mobius:HEAD-23ddb9f-250625T182912-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jhalter/mobius/mobius",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhalter/mobius/mobius?tag=HEAD-23ddb9f-250625T182912-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "86763b3a7f3ce267736909019a0e1c0da04047780930c3446af1a3e8642d067b",
+  "size": "11 MB",
+  "size_raw": "10866880",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5cc6ed2-250619T153905-loongarch64-Linux[v0.18.1]"
+  ],
+  "trusted": "true"
+}
