@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cleanup",
+  "pkg_family": "terraform-provider-neon",
+  "pkg_id": "cleanup#github.com_kislerdm_terraform_provider_neon",
+  "pkg_name": "cleanup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kislerdm/terraform-provider-neon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform provider to manage Neon SaaS resources",
+  "homepage": [
+    "https://github.com/kislerdm/terraform-provider-neon"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "emptyproject",
+    "terraform-provider-neon",
+    "terrafrom-downloads"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kislerdm/terraform-provider-neon/archive/88735b05ac3e67edd6a81c6c91722681ea83cc04.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "neon",
+    "neondatabase",
+    "terraform",
+    "terraform-provider"
+  ],
+  "version": "HEAD-88735b0-250626T112207",
+  "version_upstream": "",
+  "bsum": "89cf7437264ccf731ec68f993edfe1977d6c913dd24f6ae7bff32591574dd1c8",
+  "build_date": "2025-06-26T17:07:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907074900",
+  "build_id": "15907074900",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kislerdm/terraform-provider-neon/cleanup?tag=HEAD-88735b0-250626T112207-riscv64-Linux&download=cleanup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "84",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kislerdm/terraform-provider-neon/cleanup?tag=HEAD-88735b0-250626T112207-riscv64-Linux&download=cleanup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kislerdm/terraform-provider-neon/cleanup:HEAD-88735b0-250626T112207-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kislerdm/terraform-provider-neon/cleanup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kislerdm/terraform-provider-neon/cleanup?tag=HEAD-88735b0-250626T112207-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1086973700b7e2fc47e18c0a36616f671be346b321e7dbcac712370c7491a6d",
+  "size": "5.9 MB",
+  "size_raw": "6160024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
