@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test-certs",
+  "pkg_family": "dss",
+  "pkg_id": "test-certs#github.com_interuss_dss",
+  "pkg_name": "test-certs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/interuss/dss",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "InterUSS Platform_s implementation of the ASTM DSS concept for RID and flight coordination.",
+  "homepage": [
+    "https://github.com/interuss/dss"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "core-service",
+    "db-manager",
+    "dummy-oauth",
+    "test-certs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/interuss/dss/archive/7280bc9b57964719d6504acb6b38f05d769003c2.tar.gz"
+  ],
+  "tag": [
+    "drone",
+    "uas",
+    "uss"
+  ],
+  "version": "HEAD-7280bc9-250626T134814",
+  "version_upstream": "",
+  "bsum": "4920af2bca9ea6bea42d13399f6fe2fcd4c10a5fcc46410b31381286ce37be46",
+  "build_date": "2025-06-26T23:20:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913332562",
+  "build_id": "15913332562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/test-certs?tag=HEAD-7280bc9-250626T134814-riscv64-Linux&download=test-certs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/test-certs?tag=HEAD-7280bc9-250626T134814-riscv64-Linux&download=test-certs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/interuss/dss/test-certs:HEAD-7280bc9-250626T134814-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/interuss/dss/test-certs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/interuss/dss/test-certs?tag=HEAD-7280bc9-250626T134814-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1aef7c9c6b34f6da1ae82cc323910d58d3a3a2d18a27a07db6589c5eed81574b",
+  "size": "3.0 MB",
+  "size_raw": "3102040",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2b68fe4-250619T231548-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
