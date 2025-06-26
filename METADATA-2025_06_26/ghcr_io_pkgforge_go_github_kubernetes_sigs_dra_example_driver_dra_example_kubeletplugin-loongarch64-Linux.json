@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dra-example-kubeletplugin",
+  "pkg_family": "dra-example-driver",
+  "pkg_id": "dra-example-kubeletplugin#github.com_kubernetes_sigs_dra_example_driver",
+  "pkg_name": "dra-example-kubeletplugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/dra-example-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Example DRA driver that developers can fork and modify to get them started writing their own.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/dra-example-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dra-example-kubeletplugin",
+    "dra-example-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/dra-example-driver/archive/131b342e148e43deeb71e0ccc043ca12c80d538e.tar.gz"
+  ],
+  "tag": [
+    "sig-node"
+  ],
+  "version": "HEAD-131b342-250625T134628",
+  "version_upstream": "",
+  "bsum": "4adc07e012f67f45a0c3fefcb24a767f07d353e71b49cfc93e207781d97a2ebe",
+  "build_date": "2025-06-26T08:25:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895937622",
+  "build_id": "15895937622",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-kubeletplugin?tag=HEAD-131b342-250625T134628-loongarch64-Linux&download=dra-example-kubeletplugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "75",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-kubeletplugin?tag=HEAD-131b342-250625T134628-loongarch64-Linux&download=dra-example-kubeletplugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-kubeletplugin:HEAD-131b342-250625T134628-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-kubeletplugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/dra-example-driver/dra-example-kubeletplugin?tag=HEAD-131b342-250625T134628-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc7af4c692f08cccd7e7cbb1ab99de1e1926d5922bd293d704414588718ed63b",
+  "size": "52 MB",
+  "size_raw": "54117456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
