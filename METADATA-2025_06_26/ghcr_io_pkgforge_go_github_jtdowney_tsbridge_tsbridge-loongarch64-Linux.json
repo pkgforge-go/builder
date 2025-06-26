@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tsbridge",
+  "pkg_family": "tsbridge",
+  "pkg_id": "tsbridge#github.com_jtdowney_tsbridge",
+  "pkg_name": "tsbridge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jtdowney/tsbridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight proxy manager built on Tailscale_s tsnet library that enables multiple HTTPS services on a Tailnet",
+  "homepage": [
+    "https://github.com/jtdowney/tsbridge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backend",
+    "tsbridge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jtdowney/tsbridge/archive/80ecaa8c5bee79455107332d7f6b939e7ea5d20e.tar.gz"
+  ],
+  "tag": [
+    "homelab",
+    "networking",
+    "proxy",
+    "tailscale"
+  ],
+  "version": "HEAD-80ecaa8-250626T061026",
+  "version_upstream": "v0.4.1",
+  "bsum": "205e24ec8480f391bb8cffffc5c0367dc4ebd5d9251e5696951a211ce538b122",
+  "build_date": "2025-06-26T17:07:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907070971",
+  "build_id": "15907070971",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jtdowney/tsbridge/tsbridge?tag=HEAD-80ecaa8-250626T061026-loongarch64-Linux&download=tsbridge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jtdowney/tsbridge/tsbridge?tag=HEAD-80ecaa8-250626T061026-loongarch64-Linux&download=tsbridge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jtdowney/tsbridge/tsbridge:HEAD-80ecaa8-250626T061026-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jtdowney/tsbridge/tsbridge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jtdowney/tsbridge/tsbridge?tag=HEAD-80ecaa8-250626T061026-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ebfd41693b647284ea5895255430019c599a304476e34d2cdcbb3623d32b9835",
+  "size": "27 MB",
+  "size_raw": "27921712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
