@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "alarms",
+  "pkg_family": "mainflux",
+  "pkg_id": "alarms#github.com_MainfluxLabs_mainflux",
+  "pkg_name": "alarms",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/MainfluxLabs/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/MainfluxLabs/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "auth",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "postgres-reader",
+    "postgres-writer",
+    "rules",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "users",
+    "webhooks",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/MainfluxLabs/mainflux/archive/8584a521db61d9cd25632e9d668a8f570ab9bfb4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8584a52-250626T132031",
+  "version_upstream": "",
+  "bsum": "1c597259321d60d1daf9b6fa5b61bb37b0804c653f170d8da5e1c8546d27da39",
+  "build_date": "2025-06-26T22:02:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913204735",
+  "build_id": "15913204735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/alarms?tag=HEAD-8584a52-250626T132031-aarch64-Linux&download=alarms.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/alarms?tag=HEAD-8584a52-250626T132031-aarch64-Linux&download=alarms",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/alarms:HEAD-8584a52-250626T132031-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/alarms",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/alarms?tag=HEAD-8584a52-250626T132031-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5171ed7e5f934efdd4e3339a97edaa1533ed0192c6053c53fb6463bb6157026",
+  "size": "21 MB",
+  "size_raw": "21345216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-719f10d-250625T151148-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

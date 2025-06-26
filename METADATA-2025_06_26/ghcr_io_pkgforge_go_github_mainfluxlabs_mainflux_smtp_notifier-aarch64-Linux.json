@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "smtp-notifier",
+  "pkg_family": "mainflux",
+  "pkg_id": "smtp-notifier#github.com_MainfluxLabs_mainflux",
+  "pkg_name": "smtp-notifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/MainfluxLabs/mainflux",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/MainfluxLabs/mainflux"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "auth",
+    "certs",
+    "cli",
+    "cmd",
+    "coap",
+    "http",
+    "mongodb-reader",
+    "mongodb-writer",
+    "mqtt",
+    "postgres-reader",
+    "postgres-writer",
+    "rules",
+    "smpp-notifier",
+    "smtp-notifier",
+    "things",
+    "timescale-reader",
+    "timescale-writer",
+    "users",
+    "webhooks",
+    "ws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/MainfluxLabs/mainflux/archive/8584a521db61d9cd25632e9d668a8f570ab9bfb4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8584a52-250626T132031",
+  "version_upstream": "",
+  "bsum": "1d16cb7a50ac4c8cf35bac2b5ed470157293e7830911eb4e65cb8448cfea332a",
+  "build_date": "2025-06-26T22:03:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913204735",
+  "build_id": "15913204735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/smtp-notifier?tag=HEAD-8584a52-250626T132031-aarch64-Linux&download=smtp-notifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/smtp-notifier?tag=HEAD-8584a52-250626T132031-aarch64-Linux&download=smtp-notifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/smtp-notifier:HEAD-8584a52-250626T132031-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mainfluxlabs/mainflux/smtp-notifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mainfluxlabs/mainflux/smtp-notifier?tag=HEAD-8584a52-250626T132031-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99c9c3130093bb1d88518418e6884c2deb7df450a96e46424a6f845a1b8a2a30",
+  "size": "21 MB",
+  "size_raw": "21579680",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-719f10d-250625T151148-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
