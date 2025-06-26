@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sshified",
+  "pkg_family": "sshified",
+  "pkg_id": "sshified#github.com_hoffie_sshified",
+  "pkg_name": "sshified",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hoffie/sshified",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Acts as an HTTP proxy and forwards all received requests over server-specific SSH connections",
+  "homepage": [
+    "https://github.com/hoffie/sshified"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "loadtest",
+    "sshified"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hoffie/sshified/archive/623115c7e7526b84c7b7d32c55193ab9fdd53ab9.tar.gz"
+  ],
+  "tag": [
+    "forwarder",
+    "gateway",
+    "http",
+    "prometheus",
+    "proxy",
+    "ssh",
+    "tunnel"
+  ],
+  "version": "HEAD-623115c-250625T234056",
+  "version_upstream": "",
+  "bsum": "532e876c9484f6cfb466feb7a77858e39cbefc3704431b13800a4dcfb6b1e975",
+  "build_date": "2025-06-26T08:04:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895311471",
+  "build_id": "15895311471",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hoffie/sshified/sshified?tag=HEAD-623115c-250625T234056-aarch64-Linux&download=sshified.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "59",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hoffie/sshified/sshified?tag=HEAD-623115c-250625T234056-aarch64-Linux&download=sshified",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hoffie/sshified/sshified:HEAD-623115c-250625T234056-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hoffie/sshified/sshified",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hoffie/sshified/sshified?tag=HEAD-623115c-250625T234056-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "59537d126dfc83264b7b0be706fe07420b13560e16c3a4baf6930d72c5228028",
+  "size": "14 MB",
+  "size_raw": "14341728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
