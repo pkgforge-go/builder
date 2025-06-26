@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sock_cookie",
+  "pkg_family": "kvisor",
+  "pkg_id": "sock_cookie#github.com_castai_kvisor",
+  "pkg_name": "sock_cookie",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "daemon",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "linter",
+    "mock-server",
+    "sock_cookie"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/e7acda6c86662ad0a960f35a82cb8de0a897e57f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e7acda6-250626T164502",
+  "version_upstream": "",
+  "bsum": "fb584c4424f319b8a5b3cce5430bde3a9dd4e9bed6ebba7706ffdddee7bd9938",
+  "build_date": "2025-06-26T22:41:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913216963",
+  "build_id": "15913216963",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/sock_cookie?tag=HEAD-e7acda6-250626T164502-aarch64-Linux&download=sock_cookie.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/sock_cookie?tag=HEAD-e7acda6-250626T164502-aarch64-Linux&download=sock_cookie",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/sock_cookie:HEAD-e7acda6-250626T164502-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/sock_cookie",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/sock_cookie?tag=HEAD-e7acda6-250626T164502-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "700e19beefa4c58411df5ba232a5f5714ebdd995c618bcb2f32e4e5165ca20bc",
+  "size": "20 MB",
+  "size_raw": "20107808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-25b92df-250619T124341-aarch64-Linux",
+    "HEAD-d93f129-250623T112732-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

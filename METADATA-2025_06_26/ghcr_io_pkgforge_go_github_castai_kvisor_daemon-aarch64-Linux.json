@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "daemon",
+  "pkg_family": "kvisor",
+  "pkg_id": "daemon#github.com_castai_kvisor",
+  "pkg_name": "daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "daemon",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "linter",
+    "mock-server",
+    "sock_cookie"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/e7acda6c86662ad0a960f35a82cb8de0a897e57f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e7acda6-250626T164502",
+  "version_upstream": "",
+  "bsum": "632fa81eafcb0647d0108b4c3b378a7d1c60713dbd74f2bd320f0386a5a09ef8",
+  "build_date": "2025-06-26T22:41:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913216963",
+  "build_id": "15913216963",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/daemon?tag=HEAD-e7acda6-250626T164502-aarch64-Linux&download=daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/daemon?tag=HEAD-e7acda6-250626T164502-aarch64-Linux&download=daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/daemon:HEAD-e7acda6-250626T164502-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/daemon?tag=HEAD-e7acda6-250626T164502-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae5049c076a7ac848745a1db4695823d53fe507f94c24531c68c13ec696a5c2a",
+  "size": "104 MB",
+  "size_raw": "108839200",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-25b92df-250619T124341-aarch64-Linux",
+    "HEAD-d93f129-250623T112732-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
