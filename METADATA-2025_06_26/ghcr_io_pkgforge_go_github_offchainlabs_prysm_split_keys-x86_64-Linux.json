@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "split-keys",
+  "pkg_family": "prysm",
+  "pkg_id": "split-keys#github.com_OffchainLabs_prysm",
+  "pkg_name": "split-keys",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-97f416b-250626T130719",
+  "version_upstream": "",
+  "bsum": "392b7732eaed5c26b3598ec0edead3b45267f47e9cc5a4dc34cfd6ae679eb712",
+  "build_date": "2025-06-26T22:23:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205612",
+  "build_id": "15913205612",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/split-keys?tag=HEAD-97f416b-250626T130719-x86_64-Linux&download=split-keys.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3589",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/split-keys?tag=HEAD-97f416b-250626T130719-x86_64-Linux&download=split-keys",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/split-keys:HEAD-97f416b-250626T130719-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/split-keys",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/split-keys?tag=HEAD-97f416b-250626T130719-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d050ca23ae17c106f695e613655771eef4a89da65726f69cca5c362f079a2a4b",
+  "size": "32 MB",
+  "size_raw": "33110440",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-x86_64-Linux",
+    "HEAD-667aaf1-250622T215544-x86_64-Linux",
+    "HEAD-121914d-250624T214016-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

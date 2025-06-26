@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "export-genesis",
+  "pkg_family": "prysm",
+  "pkg_id": "export-genesis#github.com_OffchainLabs_prysm",
+  "pkg_name": "export-genesis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/OffchainLabs/prysm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Ethereum proof of stake",
+  "homepage": [
+    "https://github.com/OffchainLabs/prysm"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "beacon-chain",
+    "beacon-fuzz",
+    "benchmark-files-gen",
+    "blocktree",
+    "bootnode",
+    "client-stats",
+    "convert-keys",
+    "enr-calculator",
+    "eth1exporter",
+    "exploredb",
+    "export-genesis",
+    "extractor",
+    "forkchecker",
+    "gocovmerge",
+    "http-request-sink",
+    "keystores",
+    "nogo_config",
+    "pcli",
+    "prysmctl",
+    "replay-http",
+    "specs-checker",
+    "split-keys",
+    "unencrypted-keys-gen",
+    "validator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/OffchainLabs/prysm/archive/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2.tar.gz"
+  ],
+  "tag": [
+    "ethereum"
+  ],
+  "version": "HEAD-97f416b-250626T130719",
+  "version_upstream": "",
+  "bsum": "b81e6141caefe31ee132023cd4b796a197dd762f8a5d9046be44408270290e1c",
+  "build_date": "2025-06-26T22:24:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913205612",
+  "build_id": "15913205612",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/export-genesis?tag=HEAD-97f416b-250626T130719-x86_64-Linux&download=export-genesis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3589",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/export-genesis?tag=HEAD-97f416b-250626T130719-x86_64-Linux&download=export-genesis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/offchainlabs/prysm/export-genesis:HEAD-97f416b-250626T130719-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/offchainlabs/prysm/export-genesis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/offchainlabs/prysm/export-genesis?tag=HEAD-97f416b-250626T130719-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99f533de751819678f4eefe397ce620ce8e6e1798140ead3a8fff60ce7ad6580",
+  "size": "31 MB",
+  "size_raw": "31754376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-559d02b-250619T121245-x86_64-Linux",
+    "HEAD-667aaf1-250622T215544-x86_64-Linux",
+    "HEAD-121914d-250624T214016-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
