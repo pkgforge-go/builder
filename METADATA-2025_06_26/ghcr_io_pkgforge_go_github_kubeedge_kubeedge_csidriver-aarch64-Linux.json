@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "csidriver",
+  "pkg_family": "kubeedge",
+  "pkg_id": "csidriver#github.com_kubeedge_kubeedge",
+  "pkg_name": "csidriver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeedge/kubeedge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Native Edge Computing Framework _project under CNCF_",
+  "homepage": [
+    "https://github.com/kubeedge/kubeedge"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission",
+    "chat",
+    "cloudcore",
+    "controllermanager",
+    "csidriver",
+    "e2e-runner",
+    "edgecore",
+    "edgemark",
+    "edgesite-agent",
+    "edgesite-server",
+    "iptablesmanager",
+    "mirror",
+    "node-e2e-runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeedge/kubeedge/archive/ab87ab46ec59f741d7dda96ab7b2d1e38e037ea2.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cncf",
+    "container",
+    "device-management",
+    "docker",
+    "edge-computing",
+    "golang",
+    "iot",
+    "kubernetes",
+    "mosquitto",
+    "mqtt"
+  ],
+  "version": "HEAD-ab87ab4-250626T102733",
+  "version_upstream": "",
+  "bsum": "7080e74c422920cfaac4f02ada7192c7ccdaf30c9ef12b8d0f925385827e8049",
+  "build_date": "2025-06-26T08:33:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895723845",
+  "build_id": "15895723845",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/csidriver?tag=HEAD-ab87ab4-250626T102733-aarch64-Linux&download=csidriver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7118",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/csidriver?tag=HEAD-ab87ab4-250626T102733-aarch64-Linux&download=csidriver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeedge/kubeedge/csidriver:HEAD-ab87ab4-250626T102733-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeedge/kubeedge/csidriver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeedge/kubeedge/csidriver?tag=HEAD-ab87ab4-250626T102733-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "118b468767819f589d568bd2c4ea0de9378884993a0a20286244defc71f80e62",
+  "size": "21 MB",
+  "size_raw": "21522272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
