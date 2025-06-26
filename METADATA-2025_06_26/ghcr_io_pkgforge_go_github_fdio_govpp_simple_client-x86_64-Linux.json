@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "simple-client",
+  "pkg_family": "govpp",
+  "pkg_id": "simple-client#github.com_FDio_govpp",
+  "pkg_name": "simple-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FDio/govpp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go toolset for the VPP.",
+  "homepage": [
+    "https://github.com/FDio/govpp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-trace",
+    "binapi-generator",
+    "binapi-types",
+    "govpp",
+    "multi-vpp",
+    "perf-bench",
+    "rpc-service",
+    "simple-client",
+    "stats-client",
+    "stream-client",
+    "vpp-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FDio/govpp/archive/941ffa9baee55df17b95f6840051e2e5d7dada69.tar.gz"
+  ],
+  "tag": [
+    "binapi",
+    "client-library",
+    "golang",
+    "vpp",
+    "vpp-api"
+  ],
+  "version": "HEAD-941ffa9-250626T151240",
+  "version_upstream": "",
+  "bsum": "a72a9c25943c1b5b8feb6a563900ebdb36690c7002066041167f0f4ac779b4f8",
+  "build_date": "2025-06-26T15:53:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906505255",
+  "build_id": "15906505255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/simple-client?tag=HEAD-941ffa9-250626T151240-x86_64-Linux&download=simple-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/simple-client?tag=HEAD-941ffa9-250626T151240-x86_64-Linux&download=simple-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fdio/govpp/simple-client:HEAD-941ffa9-250626T151240-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fdio/govpp/simple-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/simple-client?tag=HEAD-941ffa9-250626T151240-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c78893cdc26932d121c7794617a87021d174f2e13e41637bd28e00c9128e80b",
+  "size": "5.4 MB",
+  "size_raw": "5641568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
