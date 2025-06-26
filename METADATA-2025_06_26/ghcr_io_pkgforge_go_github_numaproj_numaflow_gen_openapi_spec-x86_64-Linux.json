@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen-openapi-spec",
+  "pkg_family": "numaflow",
+  "pkg_id": "gen-openapi-spec#github.com_numaproj_numaflow",
+  "pkg_name": "gen-openapi-spec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/numaproj/numaflow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes-native platform to run massively parallel data/streaming jobs",
+  "homepage": [
+    "https://github.com/numaproj/numaflow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdgen",
+    "e2e-api",
+    "gen-openapi-spec",
+    "json-schema",
+    "numaflow-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/numaproj/numaflow/archive/6de4709646d905be013e8749720b2728ba527f3f.tar.gz"
+  ],
+  "tag": [
+    "data-processing",
+    "hacktoberfest",
+    "k8s",
+    "kubernetes",
+    "map-reduce",
+    "pipeline",
+    "stream-processing"
+  ],
+  "version": "HEAD-6de4709-250626T140610",
+  "version_upstream": "",
+  "bsum": "25df8c9b035f5e9c71498c16b57cc9af20857556a992327fa8c52b362578aaec",
+  "build_date": "2025-06-26T23:54:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913402585",
+  "build_id": "15913402585",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/gen-openapi-spec?tag=HEAD-6de4709-250626T140610-x86_64-Linux&download=gen-openapi-spec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1888",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/gen-openapi-spec?tag=HEAD-6de4709-250626T140610-x86_64-Linux&download=gen-openapi-spec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/numaproj/numaflow/gen-openapi-spec:HEAD-6de4709-250626T140610-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/numaproj/numaflow/gen-openapi-spec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/numaproj/numaflow/gen-openapi-spec?tag=HEAD-6de4709-250626T140610-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "26de9a673f7d5fb603d6d9bdfa5b69226ad1eaad6a4076f642488f41946a8a87",
+  "size": "24 MB",
+  "size_raw": "24223840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c4fecf3-250621T021905-x86_64-Linux",
+    "HEAD-29eb00f-250623T112113-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
