@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ovirt-populator",
+  "pkg_family": "forklift",
+  "pkg_id": "ovirt-populator#github.com_kubev2v_forklift",
+  "pkg_name": "ovirt-populator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubev2v/forklift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt",
+  "homepage": [
+    "https://github.com/kubev2v/forklift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "forklift-api",
+    "forklift-controller",
+    "image-converter",
+    "inventory",
+    "openstack-populator",
+    "ova-provider-server",
+    "ovirt-populator",
+    "populator-controller",
+    "virt-v2v",
+    "virt-v2v-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubev2v/forklift/archive/11f505e6727fad446981ff241e37cb4395d702b8.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubevirt",
+    "migration",
+    "openstack",
+    "ova",
+    "ovf",
+    "ovirt",
+    "virt-v2v",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-11f505e-250625T134859",
+  "version_upstream": "",
+  "bsum": "d8df43bd47f4bfdd7f5c107ebbc3395639871d2118c9889e403affa86a169cd9",
+  "build_date": "2025-06-26T03:21:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891485716",
+  "build_id": "15891485716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ovirt-populator?tag=HEAD-11f505e-250625T134859-riscv64-Linux&download=ovirt-populator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "91",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ovirt-populator?tag=HEAD-11f505e-250625T134859-riscv64-Linux&download=ovirt-populator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubev2v/forklift/ovirt-populator:HEAD-11f505e-250625T134859-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubev2v/forklift/ovirt-populator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ovirt-populator?tag=HEAD-11f505e-250625T134859-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0d54aa6377bc35a6ef8e44902f510fc0bb09c66a5d13bbd90c702fdee293911",
+  "size": "9.2 MB",
+  "size_raw": "9575640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d13e1d0-250620T145157-riscv64-Linux",
+    "HEAD-e857e6e-250623T150948-riscv64-Linux",
+    "HEAD-19f8baa-250624T134014-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
