@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "kuma",
+  "pkg_id": "server#github.com_kumahq_kuma",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kumahq/kuma",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.",
+  "homepage": [
+    "https://github.com/kumahq/kuma"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-linter",
+    "bootstrap",
+    "ci",
+    "generator",
+    "install",
+    "kuma-cp",
+    "kuma-dp",
+    "resource-gen",
+    "server",
+    "update-vulnerable-dependencies",
+    "xds-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kumahq/kuma/archive/0eccc1af4a836193d150281316169ff2e9ea04ad.tar.gz"
+  ],
+  "tag": [
+    "apis",
+    "cloud-native",
+    "cncf",
+    "connectivity",
+    "control-plane",
+    "controlplane",
+    "envoy",
+    "envoyproxy",
+    "golang",
+    "kong",
+    "kubernetes",
+    "kuma",
+    "mesh",
+    "microservices",
+    "networking",
+    "service-mesh",
+    "servicemesh",
+    "sidecar-proxy"
+  ],
+  "version": "HEAD-0eccc1a-250626T162807",
+  "version_upstream": "",
+  "bsum": "c82f774c1478c0bf59584580c233fc556955d6f61f24ab323199c961f75e5ddf",
+  "build_date": "2025-06-26T23:48:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913389477",
+  "build_id": "15913389477",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/server?tag=HEAD-0eccc1a-250626T162807-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3824",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/server?tag=HEAD-0eccc1a-250626T162807-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kumahq/kuma/server:HEAD-0eccc1a-250626T162807-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kumahq/kuma/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kumahq/kuma/server?tag=HEAD-0eccc1a-250626T162807-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e218e3218cd81ac73afee84fdf5401b6e14ad804b6f7953c532ddacd5b2b1d59",
+  "size": "42 MB",
+  "size_raw": "43135168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a5569b9-250620T074747-loongarch64-Linux",
+    "HEAD-3fcb9c7-250623T124745-loongarch64-Linux",
+    "HEAD-c69947a-250624T103201-loongarch64-Linux",
+    "HEAD-bb5c426-250625T150256-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
