@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fuzzer",
+  "pkg_family": "ingress-gce",
+  "pkg_id": "fuzzer#github.com_kubernetes_ingress_gce",
+  "pkg_name": "fuzzer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/ingress-gce",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ingress controller for Google Cloud",
+  "homepage": [
+    "https://github.com/kubernetes/ingress-gce"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "404-server",
+    "404-server-with-metrics",
+    "check-gke-ingress",
+    "echo",
+    "fuzzer",
+    "gen",
+    "glbc",
+    "workload-controller",
+    "workload-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/ingress-gce/archive/6697789ba32097c1c6e866a5bfa1de140c050735.tar.gz"
+  ],
+  "tag": [
+    "google",
+    "ingress",
+    "k8s",
+    "kubernetes",
+    "loadbalancer"
+  ],
+  "version": "HEAD-6697789-250625T104429",
+  "version_upstream": "",
+  "bsum": "847385abd3aa779267370350f9be57f0c0c93395a4b2db4f3f6a975f392a7b27",
+  "build_date": "2025-06-26T08:33:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895944417",
+  "build_id": "15895944417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/fuzzer?tag=HEAD-6697789-250625T104429-loongarch64-Linux&download=fuzzer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1288",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/fuzzer?tag=HEAD-6697789-250625T104429-loongarch64-Linux&download=fuzzer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/fuzzer:HEAD-6697789-250625T104429-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/ingress-gce/fuzzer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/ingress-gce/fuzzer?tag=HEAD-6697789-250625T104429-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9ea1727e941b4e244e8a63d279b9259d5c665ab67eee8ad1131df96d8a2be943",
+  "size": "91 MB",
+  "size_raw": "94723232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
