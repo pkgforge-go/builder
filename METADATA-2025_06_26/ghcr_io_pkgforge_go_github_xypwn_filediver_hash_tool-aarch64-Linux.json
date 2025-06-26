@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hash-tool",
+  "pkg_family": "filediver",
+  "pkg_id": "hash-tool#github.com_xypwn_filediver",
+  "pkg_name": "hash-tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xypwn/filediver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Extract Helldivers 2_s 3D models, audio, video, textures and more.",
+  "homepage": [
+    "https://github.com/xypwn/filediver"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "animation-name-dumper",
+    "combine",
+    "crossref-checker",
+    "filediver-cli",
+    "hash-tool",
+    "hd2grep",
+    "physics-name-dumper",
+    "wwise_streams"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xypwn/filediver/archive/d1478741d87c4d3ade6ba7362ba33a8b67cb2af9.tar.gz"
+  ],
+  "tag": [
+    "extractor",
+    "game-files",
+    "go",
+    "golang",
+    "helldivers-2",
+    "helldivers2",
+    "stingray",
+    "stingray-engine"
+  ],
+  "version": "HEAD-d147874-250625T135631",
+  "version_upstream": "v0.6.7",
+  "bsum": "72748ecb3aaf880a6d4eba707ba44457f72f932c1cbbb42c95230a79066ef2e1",
+  "build_date": "2025-06-26T00:55:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888212000",
+  "build_id": "15888212000",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/hash-tool?tag=HEAD-d147874-250625T135631-aarch64-Linux&download=hash-tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "64",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/hash-tool?tag=HEAD-d147874-250625T135631-aarch64-Linux&download=hash-tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xypwn/filediver/hash-tool:HEAD-d147874-250625T135631-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xypwn/filediver/hash-tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/hash-tool?tag=HEAD-d147874-250625T135631-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85431b1b6ed271dd1bb685fab75fe80bb57eeef0fa9aed1dd70a044e1d085aac",
+  "size": "1.8 MB",
+  "size_raw": "1813528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-21a4951-250622T134338-aarch64-Linux[v0.6.6]"
+  ],
+  "trusted": "true"
+}

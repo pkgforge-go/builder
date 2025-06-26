@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "animation-name-dumper",
+  "pkg_family": "filediver",
+  "pkg_id": "animation-name-dumper#github.com_xypwn_filediver",
+  "pkg_name": "animation-name-dumper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xypwn/filediver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Extract Helldivers 2_s 3D models, audio, video, textures and more.",
+  "homepage": [
+    "https://github.com/xypwn/filediver"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "animation-name-dumper",
+    "combine",
+    "crossref-checker",
+    "filediver-cli",
+    "hash-tool",
+    "hd2grep",
+    "physics-name-dumper",
+    "wwise_streams"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xypwn/filediver/archive/d1478741d87c4d3ade6ba7362ba33a8b67cb2af9.tar.gz"
+  ],
+  "tag": [
+    "extractor",
+    "game-files",
+    "go",
+    "golang",
+    "helldivers-2",
+    "helldivers2",
+    "stingray",
+    "stingray-engine"
+  ],
+  "version": "HEAD-d147874-250625T135631",
+  "version_upstream": "v0.6.7",
+  "bsum": "5915ce276563eae32f3659ece7e011d20d775ecd694e8c767197b4f2ba2b0894",
+  "build_date": "2025-06-26T00:56:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888212000",
+  "build_id": "15888212000",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/animation-name-dumper?tag=HEAD-d147874-250625T135631-aarch64-Linux&download=animation-name-dumper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "64",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/animation-name-dumper?tag=HEAD-d147874-250625T135631-aarch64-Linux&download=animation-name-dumper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xypwn/filediver/animation-name-dumper:HEAD-d147874-250625T135631-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xypwn/filediver/animation-name-dumper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xypwn/filediver/animation-name-dumper?tag=HEAD-d147874-250625T135631-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7dd0ba53ff684edaa7336c3958bc29b2cd7d5014f6245b20eaf3bab3e95b72fc",
+  "size": "5.9 MB",
+  "size_raw": "6126696",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-21a4951-250622T134338-aarch64-Linux[v0.6.6]"
+  ],
+  "trusted": "true"
+}
