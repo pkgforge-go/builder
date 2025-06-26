@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "kvisor",
+  "pkg_id": "controller#github.com_castai_kvisor",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/castai/kvisor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real time Kubernetes issues and vulnerabilities scanning",
+  "homepage": [
+    "https://github.com/castai/kvisor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "controller",
+    "e2e",
+    "event-generator",
+    "eventcontextcodegen",
+    "imagescan",
+    "linter",
+    "mock-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/castai/kvisor/archive/e7acda6c86662ad0a960f35a82cb8de0a897e57f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e7acda6-250626T164502",
+  "version_upstream": "",
+  "bsum": "55f7e8e2a7fc969d3f27b4ebee081b022906c028347b2fd8e704471fc03d9206",
+  "build_date": "2025-06-26T22:39:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913216963",
+  "build_id": "15913216963",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/controller?tag=HEAD-e7acda6-250626T164502-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/controller?tag=HEAD-e7acda6-250626T164502-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/castai/kvisor/controller:HEAD-e7acda6-250626T164502-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/castai/kvisor/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/castai/kvisor/controller?tag=HEAD-e7acda6-250626T164502-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3907ea7070b4781368cea7f0078fd3174b8482ef2fc0f11f6f96cfa0e8eeec2",
+  "size": "186 MB",
+  "size_raw": "194283448",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-25b92df-250619T124341-riscv64-Linux",
+    "HEAD-d93f129-250623T112732-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
