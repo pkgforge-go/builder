@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cluster",
+  "pkg_family": "tiup",
+  "pkg_id": "cluster#github.com_pingcap_tiup",
+  "pkg_name": "cluster",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pingcap/tiup",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A component manager for TiDB",
+  "homepage": [
+    "https://github.com/pingcap/tiup"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "cluster",
+    "ctl",
+    "dm",
+    "package",
+    "playground",
+    "server",
+    "tiup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pingcap/tiup/archive/751ef3029355341630c187054aba9577c5e92ce5.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "playground",
+    "tidb",
+    "tidb-components",
+    "tiup"
+  ],
+  "version": "HEAD-751ef30-250626T164407",
+  "version_upstream": "",
+  "bsum": "b12981752b1492f194b9bd7e78e6ef5f03c870dfe1ba97cd63e16039882009de",
+  "build_date": "2025-06-26T17:55:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15907995852",
+  "build_id": "15907995852",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/cluster?tag=HEAD-751ef30-250626T164407-loongarch64-Linux&download=cluster.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "443",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/cluster?tag=HEAD-751ef30-250626T164407-loongarch64-Linux&download=cluster",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pingcap/tiup/cluster:HEAD-751ef30-250626T164407-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pingcap/tiup/cluster",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pingcap/tiup/cluster?tag=HEAD-751ef30-250626T164407-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "851b446ca3495ac4e7caa3651528123466f9c339fa2be7bb574574c697924e2d",
+  "size": "30 MB",
+  "size_raw": "30586304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
