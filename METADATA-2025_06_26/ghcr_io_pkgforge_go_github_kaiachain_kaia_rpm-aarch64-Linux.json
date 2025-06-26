@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rpm",
+  "pkg_family": "kaia",
+  "pkg_id": "rpm#github.com_kaiachain_kaia",
+  "pkg_name": "rpm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kaiachain/kaia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/kaiachain/kaia"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abigen",
+    "homi",
+    "kbn",
+    "kcn",
+    "ken",
+    "kgen",
+    "kpn",
+    "kscn",
+    "ksen",
+    "kspn",
+    "rlpgen",
+    "rpm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kaiachain/kaia/archive/2f530cb5ff2c7b04a0603b669a4745d9abc98c74.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2f530cb-250626T173305",
+  "version_upstream": "",
+  "bsum": "24a64f7cca9e773b8315a50ba9106b02857a0c23c1c22e38551aa132db4015bd",
+  "build_date": "2025-06-26T23:42:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913349626",
+  "build_id": "15913349626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kaiachain/kaia/rpm?tag=HEAD-2f530cb-250626T173305-aarch64-Linux&download=rpm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kaiachain/kaia/rpm?tag=HEAD-2f530cb-250626T173305-aarch64-Linux&download=rpm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kaiachain/kaia/rpm:HEAD-2f530cb-250626T173305-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kaiachain/kaia/rpm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kaiachain/kaia/rpm?tag=HEAD-2f530cb-250626T173305-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85b000e5ae8f97e14226d164836074942396bc8ebc8870e6384790699831b42f",
+  "size": "6.7 MB",
+  "size_raw": "6928800",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f0c3897-250623T184425-aarch64-Linux",
+    "HEAD-0cf2972-250624T173327-aarch64-Linux",
+    "HEAD-34f9b2c-250625T095402-aarch64-Linux",
+    "HEAD-46fcdf9-250625T183418-aarch64-Linux[v2.0.3-rc.1]"
+  ],
+  "trusted": "true"
+}
