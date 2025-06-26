@@ -1,0 +1,100 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "metricsdocgen",
+  "pkg_family": "coder",
+  "pkg_id": "metricsdocgen#github.com_coder_coder",
+  "pkg_name": "metricsdocgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coder/coder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision remote development environments via Terraform",
+  "homepage": [
+    "https://github.com/coder/coder"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitypings",
+    "auditdocgen",
+    "audittypegen",
+    "clidocgen",
+    "cliui",
+    "cmdtest",
+    "coder",
+    "dbgen",
+    "dump",
+    "echoserver",
+    "embedded-pg",
+    "examplegen",
+    "gensite",
+    "metricsdocgen",
+    "migrate-ci",
+    "migrate-test",
+    "postprocess",
+    "release",
+    "releasemigrations",
+    "testidp",
+    "typegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coder/coder/archive/fdf458eb19e74b13f6de042a1377001aa6ad92c8.tar.gz"
+  ],
+  "tag": [
+    "dev-tools",
+    "development-environment",
+    "go",
+    "golang",
+    "ide",
+    "jetbrains",
+    "remote-development",
+    "terraform",
+    "vscode"
+  ],
+  "version": "HEAD-fdf458e-250625T170949",
+  "version_upstream": "",
+  "bsum": "9b8f949b289c23b88770895533af4bede9ff13ddaf93554dd0f6a4418c39175e",
+  "build_date": "2025-06-26T10:45:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15898695108",
+  "build_id": "15898695108",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/metricsdocgen?tag=HEAD-fdf458e-250625T170949-loongarch64-Linux&download=metricsdocgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10125",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/metricsdocgen?tag=HEAD-fdf458e-250625T170949-loongarch64-Linux&download=metricsdocgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/metricsdocgen:HEAD-fdf458e-250625T170949-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/metricsdocgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/metricsdocgen?tag=HEAD-fdf458e-250625T170949-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "253ade79c48b12c527ffeca735092d40b0db8a028bd1c56bed51d7516fd04864",
+  "size": "5.7 MB",
+  "size_raw": "5937664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-511fd09-250619T133251-loongarch64-Linux",
+    "HEAD-725bc37-250621T184630-loongarch64-Linux",
+    "HEAD-ba08d38-250623T135451-loongarch64-Linux",
+    "HEAD-5ed0c7a-250623T150818-loongarch64-Linux",
+    "HEAD-a4f1c64-250624T164701-loongarch64-Linux",
+    "HEAD-79c666b-250625T112735-loongarch64-Linux",
+    "HEAD-3c4d920-250625T144136-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
