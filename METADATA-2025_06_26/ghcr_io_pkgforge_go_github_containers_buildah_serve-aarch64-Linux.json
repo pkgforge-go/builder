@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "serve",
+  "pkg_family": "buildah",
+  "pkg_id": "serve#github.com_containers_buildah",
+  "pkg_name": "serve",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/buildah",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool that facilitates building OCI images.",
+  "homepage": [
+    "https://github.com/containers/buildah"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dumpspec",
+    "inet",
+    "serve",
+    "testreport"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/buildah/archive/06abe5fc777088e4a6810ed5ff8de3f442f1ee51.tar.gz"
+  ],
+  "tag": [
+    "container",
+    "container-image",
+    "containers",
+    "docker",
+    "oci",
+    "oci-image",
+    "podman"
+  ],
+  "version": "HEAD-06abe5f-250625T141835",
+  "version_upstream": "",
+  "bsum": "c8390dc93919961b9fea7d5a9144c4541ae7e6990185358af97c1e708a57b1b0",
+  "build_date": "2025-06-26T02:48:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891390338",
+  "build_id": "15891390338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/serve?tag=HEAD-06abe5f-250625T141835-aarch64-Linux&download=serve.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7989",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/serve?tag=HEAD-06abe5f-250625T141835-aarch64-Linux&download=serve",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/buildah/serve:HEAD-06abe5f-250625T141835-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/buildah/serve",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/buildah/serve?tag=HEAD-06abe5f-250625T141835-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38995747f681ba8a248e20fbb96fb0f950edcf10c744c697c389df9eaafdf973",
+  "size": "6.0 MB",
+  "size_raw": "6221408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0b3a01c-250618T124933-aarch64-Linux",
+    "HEAD-dc1a1f5-250620T151837-aarch64-Linux",
+    "HEAD-e6375b3-250622T161608-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
