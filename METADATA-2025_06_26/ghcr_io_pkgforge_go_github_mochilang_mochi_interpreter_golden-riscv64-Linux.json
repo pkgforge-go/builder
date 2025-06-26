@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "interpreter_golden",
+  "pkg_family": "mochi",
+  "pkg_id": "interpreter_golden#github.com_mochilang_mochi",
+  "pkg_name": "interpreter_golden",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mochilang/mochi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mochi is a small, fast, embeddable programming language designed for agents, data, and AI. It combines functional syntax, stream-first semantics, and native support for datasets, graphs, and simulation.",
+  "homepage": [
+    "https://github.com/mochilang/mochi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go",
+    "interpreter_golden",
+    "testprog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mochilang/mochi/archive/5bc68412c85b40291ea18e825cc151a2a2685a9e.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "ai",
+    "graph",
+    "leetcode",
+    "stream"
+  ],
+  "version": "HEAD-5bc6841-250625T214557",
+  "version_upstream": "",
+  "bsum": "5d1aa3e1b8687cc646a423a70acb62f724ecafa6f44978b61d0c3345a154aaf7",
+  "build_date": "2025-06-26T03:29:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891629617",
+  "build_id": "15891629617",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/interpreter_golden?tag=HEAD-5bc6841-250625T214557-riscv64-Linux&download=interpreter_golden.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "128",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/interpreter_golden?tag=HEAD-5bc6841-250625T214557-riscv64-Linux&download=interpreter_golden",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mochilang/mochi/interpreter_golden:HEAD-5bc6841-250625T214557-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mochilang/mochi/interpreter_golden",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/interpreter_golden?tag=HEAD-5bc6841-250625T214557-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dbb040fb39552849183be4613b3cdabe8def0dcd5dded56a147e46159e91cc23",
+  "size": "1.9 MB",
+  "size_raw": "1938408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5091fc2-250624T212100-riscv64-Linux",
+    "HEAD-df65728-250625T094352-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

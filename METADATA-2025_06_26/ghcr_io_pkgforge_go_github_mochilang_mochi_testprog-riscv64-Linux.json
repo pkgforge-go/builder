@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "testprog",
+  "pkg_family": "mochi",
+  "pkg_id": "testprog#github.com_mochilang_mochi",
+  "pkg_name": "testprog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mochilang/mochi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mochi is a small, fast, embeddable programming language designed for agents, data, and AI. It combines functional syntax, stream-first semantics, and native support for datasets, graphs, and simulation.",
+  "homepage": [
+    "https://github.com/mochilang/mochi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go",
+    "interpreter_golden",
+    "testprog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mochilang/mochi/archive/5bc68412c85b40291ea18e825cc151a2a2685a9e.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "ai",
+    "graph",
+    "leetcode",
+    "stream"
+  ],
+  "version": "HEAD-5bc6841-250625T214557",
+  "version_upstream": "",
+  "bsum": "f4dae6b9bda4f120bbb85813f85d544be4e5aa0bd4f877b89e0a08fdc9edb09d",
+  "build_date": "2025-06-26T03:29:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15891629617",
+  "build_id": "15891629617",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/testprog?tag=HEAD-5bc6841-250625T214557-riscv64-Linux&download=testprog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "128",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/testprog?tag=HEAD-5bc6841-250625T214557-riscv64-Linux&download=testprog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mochilang/mochi/testprog:HEAD-5bc6841-250625T214557-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mochilang/mochi/testprog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/testprog?tag=HEAD-5bc6841-250625T214557-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3744ba1845cab68e50f3c786f1db4c722a6f550180a53cecb321a9ddaedd025",
+  "size": "1.6 MB",
+  "size_raw": "1596104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9d128f5-250623T213417-riscv64-Linux",
+    "HEAD-5091fc2-250624T212100-riscv64-Linux",
+    "HEAD-df65728-250625T094352-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
