@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "file-integrity-operator",
+  "pkg_family": "file-integrity-operator",
+  "pkg_id": "file-integrity-operator#github.com_openshift_file_integrity_operator",
+  "pkg_name": "file-integrity-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/file-integrity-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator providing OpenShift cluster node file integrity checking",
+  "homepage": [
+    "https://github.com/openshift/file-integrity-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bundle-hack",
+    "file-integrity-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/file-integrity-operator/archive/ef28d5919c0d8763ef2bf82f8197807499e98ac5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ef28d59-250625T153858",
+  "version_upstream": "",
+  "bsum": "606c1ccb055f7b95d44463b58bcd4969eaa59b5440815d6b9001943b886fc516",
+  "build_date": "2025-06-26T08:55:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15896269656",
+  "build_id": "15896269656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/file-integrity-operator/file-integrity-operator?tag=HEAD-ef28d59-250625T153858-x86_64-Linux&download=file-integrity-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/file-integrity-operator/file-integrity-operator?tag=HEAD-ef28d59-250625T153858-x86_64-Linux&download=file-integrity-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/file-integrity-operator/file-integrity-operator:HEAD-ef28d59-250625T153858-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/file-integrity-operator/file-integrity-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/file-integrity-operator/file-integrity-operator?tag=HEAD-ef28d59-250625T153858-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c8314b807dd916bfee058ee0e608e2a058d6656c29caa4f3a6df426576ef0873",
+  "size": "44 MB",
+  "size_raw": "45252448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
