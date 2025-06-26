@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "zoekt-dynamic-indexserver",
+  "pkg_family": "zoekt",
+  "pkg_id": "zoekt-dynamic-indexserver#github.com_sourcegraph_zoekt",
+  "pkg_name": "zoekt-dynamic-indexserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sourcegraph/zoekt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast trigram based code search",
+  "homepage": [
+    "https://github.com/sourcegraph/zoekt"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zoekt",
+    "zoekt-archive-index",
+    "zoekt-dynamic-indexserver",
+    "zoekt-git-clone",
+    "zoekt-git-index",
+    "zoekt-index",
+    "zoekt-indexserver",
+    "zoekt-merge-index",
+    "zoekt-mirror-bitbucket-server",
+    "zoekt-mirror-gerrit",
+    "zoekt-mirror-gitea",
+    "zoekt-mirror-github",
+    "zoekt-mirror-gitiles",
+    "zoekt-mirror-gitlab",
+    "zoekt-repo-index",
+    "zoekt-sourcegraph-indexserver",
+    "zoekt-test",
+    "zoekt-webserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sourcegraph/zoekt/archive/4dbad3ceed9208dbfe4b8e7439325180d25c3372.tar.gz"
+  ],
+  "tag": [
+    "repo-type-backend"
+  ],
+  "version": "HEAD-4dbad3c-250625T083343",
+  "version_upstream": "",
+  "bsum": "6b3d63f03df913eaa4f942cc0b2c09f6705d83e70a5c85f7f06e7a719a913272",
+  "build_date": "2025-06-26T04:24:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15892829318",
+  "build_id": "15892829318",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-dynamic-indexserver?tag=HEAD-4dbad3c-250625T083343-aarch64-Linux&download=zoekt-dynamic-indexserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "987",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-dynamic-indexserver?tag=HEAD-4dbad3c-250625T083343-aarch64-Linux&download=zoekt-dynamic-indexserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-dynamic-indexserver:HEAD-4dbad3c-250625T083343-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-dynamic-indexserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-dynamic-indexserver?tag=HEAD-4dbad3c-250625T083343-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66cc9e30222fa36c038332b9d18d15ad64fdfb31466afc0f38d6e838a2f195ae",
+  "size": "8.8 MB",
+  "size_raw": "9203264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fd39c59-250604T143347-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
