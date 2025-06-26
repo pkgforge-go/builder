@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stats-client",
+  "pkg_family": "govpp",
+  "pkg_id": "stats-client#github.com_FDio_govpp",
+  "pkg_name": "stats-client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FDio/govpp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go toolset for the VPP.",
+  "homepage": [
+    "https://github.com/FDio/govpp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-trace",
+    "binapi-types",
+    "multi-vpp",
+    "perf-bench",
+    "rpc-service",
+    "simple-client",
+    "stats-client",
+    "stream-client",
+    "vpp-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FDio/govpp/archive/941ffa9baee55df17b95f6840051e2e5d7dada69.tar.gz"
+  ],
+  "tag": [
+    "binapi",
+    "client-library",
+    "golang",
+    "vpp",
+    "vpp-api"
+  ],
+  "version": "HEAD-941ffa9-250626T151240",
+  "version_upstream": "",
+  "bsum": "c60c74bf16870ad61da88b0f147c0d2927bc607523cc4101424a079b606b8d11",
+  "build_date": "2025-06-26T15:53:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15906505255",
+  "build_id": "15906505255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/stats-client?tag=HEAD-941ffa9-250626T151240-aarch64-Linux&download=stats-client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/stats-client?tag=HEAD-941ffa9-250626T151240-aarch64-Linux&download=stats-client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fdio/govpp/stats-client:HEAD-941ffa9-250626T151240-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fdio/govpp/stats-client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fdio/govpp/stats-client?tag=HEAD-941ffa9-250626T151240-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba454c3a4ab7f9cf674fe4aea80444b91a99ef0b50491cf8a24bdbf85cf90ec9",
+  "size": "2.8 MB",
+  "size_raw": "2874904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
