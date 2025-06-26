@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "p2p-forge",
+  "pkg_family": "p2p-forge",
+  "pkg_id": "p2p-forge#github.com_ipshipyard_p2p_forge",
+  "pkg_name": "p2p-forge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipshipyard/p2p-forge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An Authoritative DNS server for distributing DNS subdomains to libp2p peers",
+  "homepage": [
+    "https://github.com/ipshipyard/p2p-forge"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "p2p-forge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ipshipyard/p2p-forge/archive/08357888dc01c8d635b49081e7cc797278fa3c89.tar.gz"
+  ],
+  "tag": [
+    "autotls",
+    "dns-01-acme-challenge",
+    "libp2p",
+    "libp2p-transport",
+    "tls",
+    "wss"
+  ],
+  "version": "HEAD-0835788-250626T014040",
+  "version_upstream": "v0.6.0",
+  "bsum": "c41eec61e55c12d3a1c584abf7bd33a8e473da519b320b07cfb57a0b01df7a54",
+  "build_date": "2025-06-26T08:10:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15895464997",
+  "build_id": "15895464997",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipshipyard/p2p-forge/p2p-forge?tag=HEAD-0835788-250626T014040-riscv64-Linux&download=p2p-forge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipshipyard/p2p-forge/p2p-forge?tag=HEAD-0835788-250626T014040-riscv64-Linux&download=p2p-forge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipshipyard/p2p-forge/p2p-forge:HEAD-0835788-250626T014040-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipshipyard/p2p-forge/p2p-forge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipshipyard/p2p-forge/p2p-forge?tag=HEAD-0835788-250626T014040-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e20fbb5c681cf196dd256b37cb4dfb7d3fe57336616e662c8e67816a6463c2ab",
+  "size": "39 MB",
+  "size_raw": "40833400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
