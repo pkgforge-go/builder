@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "snowflake",
+  "pkg_id": "proxy#github.com_tgragnato_snowflake",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tgragnato/snowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "WebRTC Pluggable Transport",
+  "homepage": [
+    "https://github.com/tgragnato/snowflake"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "broker",
+    "client",
+    "probetest",
+    "proxy",
+    "server",
+    "sqscreds"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tgragnato/snowflake/archive/b92484d4c5611d2c652e21770fd61fe2897f3374.tar.gz"
+  ],
+  "tag": [
+    "censorship-circumvention",
+    "dtls",
+    "pion-dtls",
+    "pion-webrtc",
+    "pluggable-transports",
+    "stun",
+    "webrtc"
+  ],
+  "version": "HEAD-b92484d-250625T132258",
+  "version_upstream": "",
+  "bsum": "d8d307d35048fb6c7285235831020b46ef5d3c8bea76f417ee23281bc3ff104d",
+  "build_date": "2025-06-26T00:44:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15888156179",
+  "build_id": "15888156179",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgragnato/snowflake/proxy?tag=HEAD-b92484d-250625T132258-loongarch64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgragnato/snowflake/proxy?tag=HEAD-b92484d-250625T132258-loongarch64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tgragnato/snowflake/proxy:HEAD-b92484d-250625T132258-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tgragnato/snowflake/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgragnato/snowflake/proxy?tag=HEAD-b92484d-250625T132258-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fb0b044f73f791c174e717b21a85af99d4c61e03374a4a33b029b38feeb13d1a",
+  "size": "14 MB",
+  "size_raw": "13668576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e75e313-250623T182812-loongarch64-Linux",
+    "HEAD-deb09cc-250624T123407-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
