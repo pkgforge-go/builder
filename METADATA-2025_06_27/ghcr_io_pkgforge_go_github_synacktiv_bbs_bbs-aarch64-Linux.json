@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bbs",
+  "pkg_family": "bbs",
+  "pkg_id": "bbs#github.com_synacktiv_bbs",
+  "pkg_name": "bbs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/synacktiv/bbs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "bbs is a router for SOCKS and HTTP proxies. It exposes a SOCKS5 _or HTTP CONNECT_ service and forwards incoming requests to proxies or chains of proxies based on the request_s target. Routing can be configured with a PAC script _if built with PAC support_, or through a JSON file.",
+  "homepage": [
+    "https://github.com/synacktiv/bbs"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bbs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/synacktiv/bbs/archive/0c6dba4004596dc17383d92336c724b9bed0b358.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0c6dba4-250626T143329",
+  "version_upstream": "",
+  "bsum": "21a97d7d89802dd3821d9889f8c7d7c30e1fb33c460d979009da971da50fff12",
+  "build_date": "2025-06-27T00:30:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913749673",
+  "build_id": "15913749673",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/synacktiv/bbs/bbs?tag=HEAD-0c6dba4-250626T143329-aarch64-Linux&download=bbs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "89",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/synacktiv/bbs/bbs?tag=HEAD-0c6dba4-250626T143329-aarch64-Linux&download=bbs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/synacktiv/bbs/bbs:HEAD-0c6dba4-250626T143329-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/synacktiv/bbs/bbs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/synacktiv/bbs/bbs?tag=HEAD-0c6dba4-250626T143329-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d38b497efcc03bc9155b4d009e7093e2bcc98fa9b1a685f4aafb4412fa7f8f6c",
+  "size": "4.5 MB",
+  "size_raw": "4661024",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6c93194-250625T164804-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
