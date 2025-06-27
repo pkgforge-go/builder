@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "domain-security-scanner",
+  "pkg_family": "domain-security-scanner",
+  "pkg_id": "domain-security-scanner#github.com_globalcyberalliance_domain_security_scanner",
+  "pkg_name": "domain-security-scanner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/globalcyberalliance/domain-security-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scan domains and receive advice based on their BIMI, DKIM, DMARC, and SPF records",
+  "homepage": [
+    "https://github.com/globalcyberalliance/domain-security-scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "domain-security-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/globalcyberalliance/domain-security-scanner/archive/f7d15f91b9990c8ba6910ccb2ddc744eb8d5534b.tar.gz"
+  ],
+  "tag": [
+    "dkim",
+    "dmarc",
+    "dns",
+    "domains",
+    "email",
+    "golang",
+    "spf"
+  ],
+  "version": "HEAD-f7d15f9-250627T135136",
+  "version_upstream": "",
+  "bsum": "d7f55b946a059a765c3dbace93b974e97d9118d8c2b90b981a9f7619ad491c5e",
+  "build_date": "2025-06-27T16:29:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930471386",
+  "build_id": "15930471386",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/globalcyberalliance/domain-security-scanner/domain-security-scanner?tag=HEAD-f7d15f9-250627T135136-loongarch64-Linux&download=domain-security-scanner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "158",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/globalcyberalliance/domain-security-scanner/domain-security-scanner?tag=HEAD-f7d15f9-250627T135136-loongarch64-Linux&download=domain-security-scanner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/globalcyberalliance/domain-security-scanner/domain-security-scanner:HEAD-f7d15f9-250627T135136-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/globalcyberalliance/domain-security-scanner/domain-security-scanner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/globalcyberalliance/domain-security-scanner/domain-security-scanner?tag=HEAD-f7d15f9-250627T135136-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0673d0b96b46608dea3930a2546d39279210dd023d872caebc72abe14975c84",
+  "size": "16 MB",
+  "size_raw": "16527216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
