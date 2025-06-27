@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "talosctl",
+  "pkg_family": "talos",
+  "pkg_id": "talosctl#github.com_siderolabs_talos",
+  "pkg_name": "talosctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/siderolabs/talos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+  "homepage": [
+    "https://github.com/siderolabs/talos"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "init",
+    "installer",
+    "machined",
+    "talosctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/siderolabs/talos/archive/091cd6989ce8c09885b3ae3e8c594c4770bd0748.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "containerd",
+    "go",
+    "grpc",
+    "kubernetes",
+    "kubernetes-distribution",
+    "linux",
+    "linux-distribution",
+    "musl"
+  ],
+  "version": "HEAD-091cd69-250626T160642",
+  "version_upstream": "",
+  "bsum": "f2a7a66483de7754e9729d8aaa4c6cf5c17c28cad198a3311db1824520ca80fb",
+  "build_date": "2025-06-27T00:30:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913695030",
+  "build_id": "15913695030",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/talos/talosctl?tag=HEAD-091cd69-250626T160642-loongarch64-Linux&download=talosctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8228",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/talos/talosctl?tag=HEAD-091cd69-250626T160642-loongarch64-Linux&download=talosctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/siderolabs/talos/talosctl:HEAD-091cd69-250626T160642-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/siderolabs/talos/talosctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siderolabs/talos/talosctl?tag=HEAD-091cd69-250626T160642-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c735010d6e7c0b7e602e2faf2b181cc8b3e897d20d5f34a645bf76ffe0725828",
+  "size": "129 MB",
+  "size_raw": "134268640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cc14c4a-250613T115405-loongarch64-Linux",
+    "HEAD-c948d76-250624T203804-loongarch64-Linux",
+    "HEAD-66ecbd4-250625T103321-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
