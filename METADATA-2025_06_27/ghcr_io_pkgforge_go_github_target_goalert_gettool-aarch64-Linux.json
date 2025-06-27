@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gettool",
+  "pkg_family": "goalert",
+  "pkg_id": "gettool#github.com_target_goalert",
+  "pkg_name": "gettool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/target/goalert",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert",
+  "homepage": [
+    "https://github.com/target/goalert"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configparams",
+    "configtsidgen",
+    "db-url-set-db",
+    "expflagtsgen",
+    "fetchcounts",
+    "genmake",
+    "gettool",
+    "goalert",
+    "goalert-migrate",
+    "goalert-slack-email-sync",
+    "gqltsgen",
+    "limitapigen",
+    "mockoidc",
+    "mockslack",
+    "ordermigrations",
+    "pgdump-lite",
+    "pgmocktime",
+    "procwrap",
+    "psql-lite",
+    "resetdb",
+    "runproc",
+    "sendit",
+    "sendit-server",
+    "sendit-token",
+    "simpleproxy",
+    "waitfor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/target/goalert/archive/888e5af4bb5a410ca4f8760b66c951603b7cbf79.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-888e5af-250626T131915",
+  "version_upstream": "",
+  "bsum": "551490c0451bab4c683d23a8701cdb38bf246500a56eb96280fb3e8901d97539",
+  "build_date": "2025-06-27T08:51:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921232958",
+  "build_id": "15921232958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/gettool?tag=HEAD-888e5af-250626T131915-aarch64-Linux&download=gettool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2450",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/gettool?tag=HEAD-888e5af-250626T131915-aarch64-Linux&download=gettool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/target/goalert/gettool:HEAD-888e5af-250626T131915-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/target/goalert/gettool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/gettool?tag=HEAD-888e5af-250626T131915-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "33111d11c282b1d1108f0b9d471b11e037b7f94c3fdda64e7460a997eade8dfa",
+  "size": "5.8 MB",
+  "size_raw": "6072416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

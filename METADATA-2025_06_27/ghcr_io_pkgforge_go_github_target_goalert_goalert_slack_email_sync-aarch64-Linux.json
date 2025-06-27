@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "goalert-slack-email-sync",
+  "pkg_family": "goalert",
+  "pkg_id": "goalert-slack-email-sync#github.com_target_goalert",
+  "pkg_name": "goalert-slack-email-sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/target/goalert",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert",
+  "homepage": [
+    "https://github.com/target/goalert"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configparams",
+    "configtsidgen",
+    "db-url-set-db",
+    "expflagtsgen",
+    "fetchcounts",
+    "genmake",
+    "gettool",
+    "goalert",
+    "goalert-migrate",
+    "goalert-slack-email-sync",
+    "gqltsgen",
+    "limitapigen",
+    "mockoidc",
+    "mockslack",
+    "ordermigrations",
+    "pgdump-lite",
+    "pgmocktime",
+    "procwrap",
+    "psql-lite",
+    "resetdb",
+    "runproc",
+    "sendit",
+    "sendit-server",
+    "sendit-token",
+    "simpleproxy",
+    "waitfor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/target/goalert/archive/888e5af4bb5a410ca4f8760b66c951603b7cbf79.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-888e5af-250626T131915",
+  "version_upstream": "",
+  "bsum": "df51cd3a0079f664d2e4c309d4fdaaad58f05fe34d9b9489bb2b948650547279",
+  "build_date": "2025-06-27T08:54:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921232958",
+  "build_id": "15921232958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/goalert-slack-email-sync?tag=HEAD-888e5af-250626T131915-aarch64-Linux&download=goalert-slack-email-sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2450",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/goalert-slack-email-sync?tag=HEAD-888e5af-250626T131915-aarch64-Linux&download=goalert-slack-email-sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/target/goalert/goalert-slack-email-sync:HEAD-888e5af-250626T131915-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/target/goalert/goalert-slack-email-sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/goalert-slack-email-sync?tag=HEAD-888e5af-250626T131915-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0da8f1bdb966e08541896a63213f8ea9933721e302a58e7c356378e9b208028",
+  "size": "14 MB",
+  "size_raw": "13864288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
