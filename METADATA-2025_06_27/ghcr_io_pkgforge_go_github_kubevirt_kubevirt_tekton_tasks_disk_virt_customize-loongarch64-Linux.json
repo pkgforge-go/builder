@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "disk-virt-customize",
+  "pkg_family": "kubevirt-tekton-tasks",
+  "pkg_id": "disk-virt-customize#github.com_kubevirt_kubevirt_tekton_tasks",
+  "pkg_name": "disk-virt-customize",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/kubevirt-tekton-tasks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VM specific tasks for Tekton Pipelines",
+  "homepage": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-vm",
+    "disk-uploader",
+    "disk-virt-customize",
+    "disk-virt-sysprep",
+    "execute-in-vm",
+    "generate-ssh-keys",
+    "modify-data-object",
+    "wait-for-vmi-status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks/archive/ec908797c0a1bc0a24fbf99b3cfcc19fe1fc0cc5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ec90879-250626T194045",
+  "version_upstream": "",
+  "bsum": "7e1d5f025211cc235c9bed7f6c30f869979b56f1b8c13af2d32c348efdc90581",
+  "build_date": "2025-06-27T07:57:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920265589",
+  "build_id": "15920265589",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-virt-customize?tag=HEAD-ec90879-250626T194045-loongarch64-Linux&download=disk-virt-customize.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-virt-customize?tag=HEAD-ec90879-250626T194045-loongarch64-Linux&download=disk-virt-customize",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-virt-customize:HEAD-ec90879-250626T194045-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-virt-customize",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-virt-customize?tag=HEAD-ec90879-250626T194045-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9934a554d5f65b4eafde65223a8f9b5a522e2677b18e9f09cc1ccc8e233ecf4",
+  "size": "8.4 MB",
+  "size_raw": "8726848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
