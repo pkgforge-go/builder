@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "monitoring-agent-proxy",
+  "pkg_family": "whizard",
+  "pkg_id": "monitoring-agent-proxy#github.com_WizTelemetry_whizard",
+  "pkg_name": "monitoring-agent-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/WizTelemetry/whizard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/WizTelemetry/whizard"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller-manager",
+    "monitoring-agent-proxy",
+    "monitoring-block-manager",
+    "monitoring-gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/WizTelemetry/whizard/archive/80b3028444eb68706e0c14b0c06d23b1edded899.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-80b3028-250627T092958",
+  "version_upstream": "",
+  "bsum": "842dd2901ddb1c846cbc2789bdaae5f199ae1a4578601f9ab750ebe738632432",
+  "build_date": "2025-06-27T07:16:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920171648",
+  "build_id": "15920171648",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wiztelemetry/whizard/monitoring-agent-proxy?tag=HEAD-80b3028-250627T092958-x86_64-Linux&download=monitoring-agent-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wiztelemetry/whizard/monitoring-agent-proxy?tag=HEAD-80b3028-250627T092958-x86_64-Linux&download=monitoring-agent-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wiztelemetry/whizard/monitoring-agent-proxy:HEAD-80b3028-250627T092958-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wiztelemetry/whizard/monitoring-agent-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wiztelemetry/whizard/monitoring-agent-proxy?tag=HEAD-80b3028-250627T092958-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c55d48e09c11c04d903ec02a379b74773824076dda90354d9b1f98644d85c429",
+  "size": "15 MB",
+  "size_raw": "15153504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
