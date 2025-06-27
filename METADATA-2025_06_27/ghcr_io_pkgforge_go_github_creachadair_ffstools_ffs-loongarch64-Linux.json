@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ffs",
+  "pkg_family": "ffstools",
+  "pkg_id": "ffs#github.com_creachadair_ffstools",
+  "pkg_name": "ffs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/creachadair/ffstools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Command-line tools for the FFS module.",
+  "homepage": [
+    "https://github.com/creachadair/ffstools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ffs",
+    "file2json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/creachadair/ffstools/archive/0be348ee5135a7030e48f19a7843f5c9d21a6f88.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0be348e-250626T174648",
+  "version_upstream": "v0.13.22",
+  "bsum": "9b4869a0518c8bb793f0688ca6c1c24797603065c30f72b453f81465038d6c14",
+  "build_date": "2025-06-27T13:31:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927048216",
+  "build_id": "15927048216",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/creachadair/ffstools/ffs?tag=HEAD-0be348e-250626T174648-loongarch64-Linux&download=ffs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/creachadair/ffstools/ffs?tag=HEAD-0be348e-250626T174648-loongarch64-Linux&download=ffs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/creachadair/ffstools/ffs:HEAD-0be348e-250626T174648-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/creachadair/ffstools/ffs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/creachadair/ffstools/ffs?tag=HEAD-0be348e-250626T174648-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "719375eee35ac2761984e1a170ab0a195aeb617f9441156ffb5a4baec3c2316b",
+  "size": "11 MB",
+  "size_raw": "11212992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-18bb3cf-250617T152621-loongarch64-Linux[v0.13.20]",
+    "HEAD-f5a4f9a-250624T144854-loongarch64-Linux[v0.13.21]"
+  ],
+  "trusted": "true"
+}
