@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hivechain",
+  "pkg_family": "hive",
+  "pkg_id": "hivechain#github.com_ethereum_hive",
+  "pkg_name": "hivechain",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/hive",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ethereum end-to-end test harness",
+  "homepage": [
+    "https://github.com/ethereum/hive"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hive",
+    "hivechain",
+    "hiveview"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ethereum/hive/archive/4e087fb04d02d839e9de04c480ad946ff4ac8987.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "ethereum",
+    "golang",
+    "simulation",
+    "testing"
+  ],
+  "version": "HEAD-4e087fb-250627T020838",
+  "version_upstream": "",
+  "bsum": "9a85134edbc9b52782b0d1f8d4ac0e4d45d6186002232243b1453c631f7e222c",
+  "build_date": "2025-06-27T13:40:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927088002",
+  "build_id": "15927088002",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/hive/hivechain?tag=HEAD-4e087fb-250627T020838-aarch64-Linux&download=hivechain.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "460",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/hive/hivechain?tag=HEAD-4e087fb-250627T020838-aarch64-Linux&download=hivechain",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/hive/hivechain:HEAD-4e087fb-250627T020838-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/hive/hivechain",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/hive/hivechain?tag=HEAD-4e087fb-250627T020838-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e316b5d6893f4eed78974d1a5454e21a2ad688d8804759f7a44292e9264ec405",
+  "size": "11 MB",
+  "size_raw": "11008896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-32e1cb9-250623T195632-aarch64-Linux",
+    "HEAD-be9f33e-250624T200846-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
