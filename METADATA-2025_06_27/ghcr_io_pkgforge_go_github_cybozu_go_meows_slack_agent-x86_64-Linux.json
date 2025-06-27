@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "slack-agent",
+  "pkg_family": "meows",
+  "pkg_id": "slack-agent#github.com_cybozu_go_meows",
+  "pkg_name": "slack-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/meows",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller for GitHub actions self-hosted runners",
+  "homepage": [
+    "https://github.com/cybozu-go/meows"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "entrypoint",
+    "job-started",
+    "meows",
+    "slack-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/meows/archive/d8b5f4d8f08ac7b9cc6e8f8ab3fb971030e25723.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d8b5f4d-250627T161715",
+  "version_upstream": "",
+  "bsum": "21baaf191f885482604f9c89ed2b6bfef45580c41beab165bfb940f4bb1e2922",
+  "build_date": "2025-06-27T16:24:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930445000",
+  "build_id": "15930445000",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/slack-agent?tag=HEAD-d8b5f4d-250627T161715-x86_64-Linux&download=slack-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/slack-agent?tag=HEAD-d8b5f4d-250627T161715-x86_64-Linux&download=slack-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/meows/slack-agent:HEAD-d8b5f4d-250627T161715-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/meows/slack-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/slack-agent?tag=HEAD-d8b5f4d-250627T161715-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31f85849175686edd01d6311f635b1e8df08afa48c6064b267f01e523f1b7df5",
+  "size": "52 MB",
+  "size_raw": "54386304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
