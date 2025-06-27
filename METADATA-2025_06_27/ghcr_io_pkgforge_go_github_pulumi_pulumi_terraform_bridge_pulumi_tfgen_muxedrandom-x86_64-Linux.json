@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pulumi-tfgen-muxedrandom",
+  "pkg_family": "pulumi-terraform-bridge",
+  "pkg_id": "pulumi-tfgen-muxedrandom#github.com_pulumi_pulumi_terraform_bridge",
+  "pkg_name": "pulumi-tfgen-muxedrandom",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pulumi/pulumi-terraform-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A library allowing Terraform providers to be bridged into Pulumi.",
+  "homepage": [
+    "https://github.com/pulumi/pulumi-terraform-bridge"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dynamic",
+    "exconverter",
+    "pfprovider",
+    "pulumi-resource-muxedrandom",
+    "pulumi-resource-random",
+    "pulumi-resource-testbridge",
+    "pulumi-resource-tls",
+    "pulumi-resource-tpinvschema",
+    "pulumi-resource-tpsdkv2",
+    "pulumi-terraform-bridge-test-provider",
+    "pulumi-tfgen-muxedrandom",
+    "pulumi-tfgen-random",
+    "pulumi-tfgen-testbridge",
+    "pulumi-tfgen-tls",
+    "pulumi-tfgen-tpinvschema",
+    "pulumi-tfgen-tpsdkv2",
+    "scripts",
+    "sdkv1provider"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pulumi/pulumi-terraform-bridge/archive/64e3eddf40adc3012cc4b748f8129e32552f0b40.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-64e3edd-250627T100721",
+  "version_upstream": "",
+  "bsum": "a68d35d3e0921a6a20f2a19301f45fdf6f41cbc19b2cd8c16eb6b7b981ae76ab",
+  "build_date": "2025-06-27T17:20:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931173780",
+  "build_id": "15931173780",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-tfgen-muxedrandom?tag=HEAD-64e3edd-250627T100721-x86_64-Linux&download=pulumi-tfgen-muxedrandom.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "219",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-tfgen-muxedrandom?tag=HEAD-64e3edd-250627T100721-x86_64-Linux&download=pulumi-tfgen-muxedrandom",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-tfgen-muxedrandom:HEAD-64e3edd-250627T100721-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-tfgen-muxedrandom",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-tfgen-muxedrandom?tag=HEAD-64e3edd-250627T100721-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5b5e17db11cf99f1c719aa5baf0c50c2106c9f8aa2692d3e7124962d7a30a501",
+  "size": "55 MB",
+  "size_raw": "57059088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
