@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hello-helm",
+  "pkg_family": "k8s-tutorials",
+  "pkg_id": "hello-helm#github.com_guangzhengli_k8s_tutorials",
+  "pkg_name": "hello-helm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/guangzhengli/k8s-tutorials",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "k8s tutorials _ k8s 教程",
+  "homepage": [
+    "https://github.com/guangzhengli/k8s-tutorials"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaps",
+    "container",
+    "hello-helm",
+    "k8s-tutorials-service",
+    "liveness",
+    "readiness",
+    "secret",
+    "v2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/guangzhengli/k8s-tutorials/archive/8e31674bd97091cdddbcdde268a457a31699ade7.tar.gz"
+  ],
+  "tag": [
+    "configmap",
+    "container",
+    "deployment",
+    "docker",
+    "helm",
+    "ingress",
+    "k8s",
+    "k9s",
+    "kubernetes",
+    "minikube",
+    "pod",
+    "secret",
+    "services",
+    "tutorial"
+  ],
+  "version": "HEAD-8e31674-250627T102817",
+  "version_upstream": "",
+  "bsum": "ebd649c58b2cf8bd6cef1fa72e525a6f96cb0959c31bcbec10fac0ca516a10bb",
+  "build_date": "2025-06-27T07:40:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920220335",
+  "build_id": "15920220335",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/hello-helm?tag=HEAD-8e31674-250627T102817-aarch64-Linux&download=hello-helm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5308",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/hello-helm?tag=HEAD-8e31674-250627T102817-aarch64-Linux&download=hello-helm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guangzhengli/k8s-tutorials/hello-helm:HEAD-8e31674-250627T102817-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guangzhengli/k8s-tutorials/hello-helm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/hello-helm?tag=HEAD-8e31674-250627T102817-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "238e062b2c35aba20cf552b315a5e49f00db153a9cabbcffc2c4fb853d77cbc6",
+  "size": "5.5 MB",
+  "size_raw": "5705792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
