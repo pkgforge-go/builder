@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubetest2-eksapi",
+  "pkg_family": "aws-k8s-tester",
+  "pkg_id": "kubetest2-eksapi#github.com_aws_aws_k8s_tester",
+  "pkg_name": "kubetest2-eksapi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/aws-k8s-tester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for testing Kubernetes on AWS",
+  "homepage": [
+    "https://github.com/aws/aws-k8s-tester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubetest2-eksapi",
+    "kubetest2-eksapi-janitor",
+    "kubetest2-eksctl",
+    "kubetest2-tester-multi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/aws-k8s-tester/archive/96f1f0f3e96721196d48d671d5942940a8fafaa3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-96f1f0f-250626T105604",
+  "version_upstream": "",
+  "bsum": "1523de910d026e23275be6af4c35b91bd6a57a94a8b30a50171f9866d03357d2",
+  "build_date": "2025-06-27T07:25:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920174564",
+  "build_id": "15920174564",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi?tag=HEAD-96f1f0f-250626T105604-loongarch64-Linux&download=kubetest2-eksapi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi?tag=HEAD-96f1f0f-250626T105604-loongarch64-Linux&download=kubetest2-eksapi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi:HEAD-96f1f0f-250626T105604-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi?tag=HEAD-96f1f0f-250626T105604-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7dc0eed7d013e8d90d452fc492c89706e44a9559f2585f478dc0cf1ad62247c3",
+  "size": "106 MB",
+  "size_raw": "111014624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
