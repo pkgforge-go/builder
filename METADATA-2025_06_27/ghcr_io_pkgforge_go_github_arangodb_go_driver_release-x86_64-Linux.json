@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "release",
+  "pkg_family": "go-driver",
+  "pkg_id": "release#github.com_arangodb_go_driver",
+  "pkg_name": "release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arangodb/go-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The official ArangoDB go driver.",
+  "homepage": [
+    "https://github.com/arangodb/go-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "json_agency_config_parse_leader_id",
+    "release",
+    "timestamp_output"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arangodb/go-driver/archive/e082d308712b4209bfee915682850994b5bab30a.tar.gz"
+  ],
+  "tag": [
+    "arangodb",
+    "database",
+    "golang"
+  ],
+  "version": "HEAD-e082d30-250627T104411",
+  "version_upstream": "",
+  "bsum": "c3a239382eb87b02466d7950b15af9d4cf07b43db1656a98d990ad441a25bf77",
+  "build_date": "2025-06-27T16:11:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930411357",
+  "build_id": "15930411357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/go-driver/release?tag=HEAD-e082d30-250627T104411-x86_64-Linux&download=release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "347",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/go-driver/release?tag=HEAD-e082d30-250627T104411-x86_64-Linux&download=release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arangodb/go-driver/release:HEAD-e082d30-250627T104411-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arangodb/go-driver/release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arangodb/go-driver/release?tag=HEAD-e082d30-250627T104411-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0385c577c8c0c62bf2d311d89db1b857114ad27fc9ac08f90e6b68c39ea7f205",
+  "size": "2.3 MB",
+  "size_raw": "2408536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
