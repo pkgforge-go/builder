@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "microshift",
+  "pkg_family": "microshift",
+  "pkg_id": "microshift#github.com_openshift_microshift",
+  "pkg_name": "microshift",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/microshift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A small form factor OpenShift/Kubernetes optimized for edge computing",
+  "homepage": [
+    "https://github.com/openshift/microshift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-config",
+    "microshift"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/microshift/archive/a4de97a8fc7e73c8f8aaa5fa384584650c899c1a.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "edge-computing",
+    "hacktoberfest",
+    "hacktoberfest2021",
+    "iot",
+    "k8s",
+    "kubernetes",
+    "openshift"
+  ],
+  "version": "HEAD-a4de97a-250626T091538",
+  "version_upstream": "",
+  "bsum": "bf016729314d968fb24961fa4661b17c0fb824ccd884036bce703c2de2163529",
+  "build_date": "2025-06-27T03:19:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916648426",
+  "build_id": "15916648426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/microshift/microshift?tag=HEAD-a4de97a-250626T091538-loongarch64-Linux&download=microshift.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "754",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/microshift/microshift?tag=HEAD-a4de97a-250626T091538-loongarch64-Linux&download=microshift",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/microshift/microshift:HEAD-a4de97a-250626T091538-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/microshift/microshift",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/microshift/microshift?tag=HEAD-a4de97a-250626T091538-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf01ba9c09e7c05e16d1d6dd455f15ff2d161f1a725746679cfc433e76dff394",
+  "size": "185 MB",
+  "size_raw": "193777344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-844791b-250621T054651-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
