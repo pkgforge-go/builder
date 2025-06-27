@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "buf-plugin-panic",
+  "pkg_family": "buf",
+  "pkg_id": "buf-plugin-panic#github.com_bufbuild_buf",
+  "pkg_name": "buf-plugin-panic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/buf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The best way of working with Protocol Buffers.",
+  "homepage": [
+    "https://github.com/bufbuild/buf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandeps",
+    "buf",
+    "buf-digest",
+    "buf-legacyfederation-go-data",
+    "buf-new-commit-id",
+    "buf-plugin-duplicate-category",
+    "buf-plugin-duplicate-rule",
+    "buf-plugin-panic",
+    "buf-plugin-protovalidate-ext",
+    "buf-plugin-rpc-ext",
+    "buf-plugin-suffix",
+    "bufstyle",
+    "ddiff",
+    "git-ls-files-unstaged",
+    "license-header",
+    "protoc-gen-buf-breaking",
+    "protoc-gen-buf-lint",
+    "protoc-gen-insertion-point-receiver",
+    "protoc-gen-insertion-point-writer",
+    "protoc-gen-top-level-type-names-yaml",
+    "storage-go-data",
+    "wkt-go-data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/buf/archive/8b0d0819a407e4d31770d45753b43c9c63f98c4e.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-8b0d081-250626T170845",
+  "version_upstream": "",
+  "bsum": "b5bb47c7f8a81977ae6912e8b4be340c35e8674eb59300b8735485442c82e5f9",
+  "build_date": "2025-06-27T10:20:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923373452",
+  "build_id": "15923373452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-panic?tag=HEAD-8b0d081-250626T170845-aarch64-Linux&download=buf-plugin-panic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9992",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-panic?tag=HEAD-8b0d081-250626T170845-aarch64-Linux&download=buf-plugin-panic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/buf/buf-plugin-panic:HEAD-8b0d081-250626T170845-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/buf/buf-plugin-panic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-panic?tag=HEAD-8b0d081-250626T170845-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7b355d2e1253c42f97bec74a68c656afb6a815108dc11abd4a1d09e5d83ecac",
+  "size": "11 MB",
+  "size_raw": "10855160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-139f92e-250618T175024-aarch64-Linux",
+    "HEAD-f280099-250623T103920-aarch64-Linux",
+    "HEAD-9706401-250623T133734-aarch64-Linux",
+    "HEAD-8f9f45a-250624T105822-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
