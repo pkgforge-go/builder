@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "zoekt-mirror-gitea",
+  "pkg_family": "zoekt",
+  "pkg_id": "zoekt-mirror-gitea#github.com_sourcegraph_zoekt",
+  "pkg_name": "zoekt-mirror-gitea",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sourcegraph/zoekt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast trigram based code search",
+  "homepage": [
+    "https://github.com/sourcegraph/zoekt"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zoekt",
+    "zoekt-archive-index",
+    "zoekt-dynamic-indexserver",
+    "zoekt-git-clone",
+    "zoekt-git-index",
+    "zoekt-index",
+    "zoekt-indexserver",
+    "zoekt-merge-index",
+    "zoekt-mirror-bitbucket-server",
+    "zoekt-mirror-gerrit",
+    "zoekt-mirror-gitea",
+    "zoekt-mirror-github",
+    "zoekt-mirror-gitiles",
+    "zoekt-mirror-gitlab",
+    "zoekt-repo-index",
+    "zoekt-sourcegraph-indexserver",
+    "zoekt-test",
+    "zoekt-webserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sourcegraph/zoekt/archive/bf9caa2750947b52df419fb4dd3d0ab000bd182f.tar.gz"
+  ],
+  "tag": [
+    "repo-type-backend"
+  ],
+  "version": "HEAD-bf9caa2-250626T140833",
+  "version_upstream": "",
+  "bsum": "0ba99ff4fe42f82bdf91601da831631119fa79ebc619827a7b6adaa5ca2f939a",
+  "build_date": "2025-06-27T03:34:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916653501",
+  "build_id": "15916653501",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitea?tag=HEAD-bf9caa2-250626T140833-loongarch64-Linux&download=zoekt-mirror-gitea.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "987",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitea?tag=HEAD-bf9caa2-250626T140833-loongarch64-Linux&download=zoekt-mirror-gitea",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitea:HEAD-bf9caa2-250626T140833-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitea",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-mirror-gitea?tag=HEAD-bf9caa2-250626T140833-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c7b36cb60873acbb04728cad1e2d901d0185f6d37724abfabb6b0f618d9a3b9",
+  "size": "29 MB",
+  "size_raw": "29400960",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fd39c59-250604T143347-loongarch64-Linux",
+    "HEAD-4dbad3c-250625T083343-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
