@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "approvelist",
+  "pkg_family": "quickfeed",
+  "pkg_id": "approvelist#github.com_quickfeed_quickfeed",
+  "pkg_name": "approvelist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quickfeed/quickfeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "QuickFeed server and web frontend for instant feedback on programming assignments",
+  "homepage": [
+    "https://github.com/quickfeed/quickfeed"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approvelist",
+    "cm",
+    "esbuild",
+    "qcm",
+    "quickfeed",
+    "vercheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quickfeed/quickfeed/archive/57d6ba10dfa916c33572d9234c6de8099cee238a.tar.gz"
+  ],
+  "tag": [
+    "autograder",
+    "teachers"
+  ],
+  "version": "HEAD-57d6ba1-250627T130234",
+  "version_upstream": "",
+  "bsum": "47052075ae31fdd2e5e2eb2336d35962fe7f743c718e12605e4b257229a6e224",
+  "build_date": "2025-06-27T17:08:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931185095",
+  "build_id": "15931185095",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/approvelist?tag=HEAD-57d6ba1-250627T130234-x86_64-Linux&download=approvelist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/approvelist?tag=HEAD-57d6ba1-250627T130234-x86_64-Linux&download=approvelist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quickfeed/quickfeed/approvelist:HEAD-57d6ba1-250627T130234-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quickfeed/quickfeed/approvelist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/approvelist?tag=HEAD-57d6ba1-250627T130234-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7a069ea4c879f265c3b924c3a55a43c282fd55338904583a11f7c96deb928e9",
+  "size": "14 MB",
+  "size_raw": "14253632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
