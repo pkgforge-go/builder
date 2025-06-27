@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "drone-heroku",
+  "pkg_family": "drone-buildx",
+  "pkg_id": "drone-heroku#github.com_drone_plugins_drone_buildx",
+  "pkg_name": "drone-heroku",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drone-plugins/drone-buildx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drone plugin for publishing Docker images using Docker-in-Docker using buildx",
+  "homepage": [
+    "https://github.com/drone-plugins/drone-buildx"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drone-acr",
+    "drone-docker",
+    "drone-ecr",
+    "drone-gcr",
+    "drone-heroku"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/drone-plugins/drone-buildx/archive/1a3c2bbb1be9d27565e831371831adc3ce23e9ed.tar.gz"
+  ],
+  "tag": [
+    "drone",
+    "drone-plugin"
+  ],
+  "version": "HEAD-1a3c2bb-250627T150552",
+  "version_upstream": "",
+  "bsum": "50cc2e5ea9285f889017efa0b4c2969827b1f90b1cad89b106bfc61323c8ac54",
+  "build_date": "2025-06-27T16:23:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930447976",
+  "build_id": "15930447976",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildx/drone-heroku?tag=HEAD-1a3c2bb-250627T150552-aarch64-Linux&download=drone-heroku.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildx/drone-heroku?tag=HEAD-1a3c2bb-250627T150552-aarch64-Linux&download=drone-heroku",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drone-plugins/drone-buildx/drone-heroku:HEAD-1a3c2bb-250627T150552-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drone-plugins/drone-buildx/drone-heroku",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildx/drone-heroku?tag=HEAD-1a3c2bb-250627T150552-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a7143b33869b66900d233610068831ed059c1db9cb9e0361f7b3cd91262b378",
+  "size": "6.5 MB",
+  "size_raw": "6737728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
