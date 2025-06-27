@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "cloud-image-tests",
+  "pkg_id": "manager#github.com_GoogleCloudPlatform_cloud_image_tests",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/cloud-image-tests",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A testing framework and a set of test suites used for testing GCE Images.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/cloud-image-tests"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "wrapper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/cloud-image-tests/archive/a6eac0b71d06dff03a44502d4b056a702b58e1da.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a6eac0b-250626T165356",
+  "version_upstream": "",
+  "bsum": "b3151b968b19d600a144c549f05dfb2c0070b15814b1f4da00ccf2e7261f4d0c",
+  "build_date": "2025-06-27T06:58:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920167452",
+  "build_id": "15920167452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-image-tests/manager?tag=HEAD-a6eac0b-250626T165356-riscv64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-image-tests/manager?tag=HEAD-a6eac0b-250626T165356-riscv64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-image-tests/manager:HEAD-a6eac0b-250626T165356-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-image-tests/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-image-tests/manager?tag=HEAD-a6eac0b-250626T165356-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed20694f902e8edfb76ebdba8619dc50d45c39b75e7e46f9229131ed6d316d3e",
+  "size": "51 MB",
+  "size_raw": "52815928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
