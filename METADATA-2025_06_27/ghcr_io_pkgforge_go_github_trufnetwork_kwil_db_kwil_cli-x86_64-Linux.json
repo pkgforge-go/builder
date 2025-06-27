@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kwil-cli",
+  "pkg_family": "kwil-db",
+  "pkg_id": "kwil-cli#github.com_trufnetwork_kwil_db",
+  "pkg_name": "kwil-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trufnetwork/kwil-db",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kwil DB, the database for web3",
+  "homepage": [
+    "https://github.com/trufnetwork/kwil-db"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "kwil-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trufnetwork/kwil-db/archive/85746a0920201a1193a2911566dd95c4e313b13f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-85746a0-250627T091015",
+  "version_upstream": "core/v0.4.1",
+  "bsum": "77ebc0d2364e3b1dc4d9c290108de53934d54f6320b81b8ff1fc8245f49ad4d9",
+  "build_date": "2025-06-27T08:56:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921272137",
+  "build_id": "15921272137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufnetwork/kwil-db/kwil-cli?tag=HEAD-85746a0-250627T091015-x86_64-Linux&download=kwil-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufnetwork/kwil-db/kwil-cli?tag=HEAD-85746a0-250627T091015-x86_64-Linux&download=kwil-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trufnetwork/kwil-db/kwil-cli:HEAD-85746a0-250627T091015-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trufnetwork/kwil-db/kwil-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trufnetwork/kwil-db/kwil-cli?tag=HEAD-85746a0-250627T091015-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fdf838ccfee91a6e4e03a774ba0d9c71c0f83e2ad0cd9ab4e5df2decfb53bb1",
+  "size": "30 MB",
+  "size_raw": "30512704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
