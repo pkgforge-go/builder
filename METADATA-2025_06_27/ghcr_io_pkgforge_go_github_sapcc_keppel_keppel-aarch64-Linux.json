@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "keppel",
+  "pkg_family": "keppel",
+  "pkg_id": "keppel#github.com_sapcc_keppel",
+  "pkg_name": "keppel",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/keppel",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Regionally federated multi-tenant container image registry",
+  "homepage": [
+    "https://github.com/sapcc/keppel"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keppel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sapcc/keppel/archive/074538e2664ebfdfee75d6b2e0db1066ede19aa4.tar.gz"
+  ],
+  "tag": [
+    "container-registry",
+    "kubernetes",
+    "openstack"
+  ],
+  "version": "HEAD-074538e-250627T093706",
+  "version_upstream": "",
+  "bsum": "b6b44b98c66f9128907d17b72a10c0aa7df02841f9982d975bd554f0e1c4520c",
+  "build_date": "2025-06-27T23:22:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936823545",
+  "build_id": "15936823545",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/keppel/keppel?tag=HEAD-074538e-250627T093706-aarch64-Linux&download=keppel.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "110",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/keppel/keppel?tag=HEAD-074538e-250627T093706-aarch64-Linux&download=keppel",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/keppel/keppel:HEAD-074538e-250627T093706-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/keppel/keppel",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/keppel/keppel?tag=HEAD-074538e-250627T093706-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8fa138e35ec65482075b93d40f7816f191336d8d699262cd2426afba5299b848",
+  "size": "15 MB",
+  "size_raw": "15096448",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8d451c6-250623T113829-aarch64-Linux",
+    "HEAD-13a0913-250625T080913-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
