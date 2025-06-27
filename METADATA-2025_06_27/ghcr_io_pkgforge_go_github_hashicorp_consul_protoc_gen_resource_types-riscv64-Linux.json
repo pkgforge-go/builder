@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "protoc-gen-resource-types",
+  "pkg_family": "consul",
+  "pkg_id": "protoc-gen-resource-types#github.com_hashicorp_consul",
+  "pkg_name": "protoc-gen-resource-types",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/consul",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/consul"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen",
+    "internal-grpc-proxy",
+    "protoc-gen-deepcopy",
+    "protoc-gen-grpc-clone",
+    "protoc-gen-json-shim",
+    "protoc-gen-resource-types",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/consul/archive/10f2aa255d36a09853d0d1e8ca09ea350df9c66d.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "version": "HEAD-10f2aa2-250627T093840",
+  "version_upstream": "",
+  "bsum": "b596e3ac8423a7d1f2f9d561758663ecafa5121a9e37239a551e90f6eba47ecf",
+  "build_date": "2025-06-27T20:15:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933900474",
+  "build_id": "15933900474",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-resource-types?tag=HEAD-10f2aa2-250627T093840-riscv64-Linux&download=protoc-gen-resource-types.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29071",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-resource-types?tag=HEAD-10f2aa2-250627T093840-riscv64-Linux&download=protoc-gen-resource-types",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-resource-types:HEAD-10f2aa2-250627T093840-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/consul/protoc-gen-resource-types",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/protoc-gen-resource-types?tag=HEAD-10f2aa2-250627T093840-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40e39c501d9a3131475db188b9f390dadd24086f91629d64079afbd03908d8f6",
+  "size": "14 MB",
+  "size_raw": "14220472",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-766ab74-250617T143807-riscv64-Linux",
+    "HEAD-60c29c3-250620T091657-riscv64-Linux",
+    "HEAD-af2be68-250625T170225-riscv64-Linux",
+    "HEAD-0b20fdc-250625T110556-riscv64-Linux",
+    "HEAD-4212498-250626T185730-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
