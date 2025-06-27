@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "virtualmachines",
+  "pkg_family": "govmomi",
+  "pkg_id": "virtualmachines#github.com_vmware_govmomi",
+  "pkg_name": "virtualmachines",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware/govmomi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the VMware vSphere API",
+  "homepage": [
+    "https://github.com/vmware/govmomi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi/archive/8c70084a55723909b7d3951af41be51f888b158f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sdk",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-8c70084-250626T194034",
+  "version_upstream": "",
+  "bsum": "c9ff99fc72ab06ccea339357c3c6b8021dcaf7029bf130b103343d18ff5c75a0",
+  "build_date": "2025-06-27T12:24:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923781273",
+  "build_id": "15923781273",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/virtualmachines?tag=HEAD-8c70084-250626T194034-aarch64-Linux&download=virtualmachines.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2385",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/virtualmachines?tag=HEAD-8c70084-250626T194034-aarch64-Linux&download=virtualmachines",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi/virtualmachines:HEAD-8c70084-250626T194034-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi/virtualmachines",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/virtualmachines?tag=HEAD-8c70084-250626T194034-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0951230ab735bca85c02193beca992f6d677aaeecf45597d704cfc6317af6695",
+  "size": "27 MB",
+  "size_raw": "27665120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-06d4a3f-250623T114907-aarch64-Linux",
+    "HEAD-39c6f0f-250624T160355-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

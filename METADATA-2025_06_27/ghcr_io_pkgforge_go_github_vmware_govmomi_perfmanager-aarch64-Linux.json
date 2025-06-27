@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "perfmanager",
+  "pkg_family": "govmomi",
+  "pkg_id": "perfmanager#github.com_vmware_govmomi",
+  "pkg_name": "perfmanager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware/govmomi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the VMware vSphere API",
+  "homepage": [
+    "https://github.com/vmware/govmomi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi/archive/8c70084a55723909b7d3951af41be51f888b158f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sdk",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-8c70084-250626T194034",
+  "version_upstream": "",
+  "bsum": "06fd1493629931621cc6c8dabf060bc394ffb58e24162fd84adc967f37b2bb9d",
+  "build_date": "2025-06-27T12:23:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923781273",
+  "build_id": "15923781273",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/perfmanager?tag=HEAD-8c70084-250626T194034-aarch64-Linux&download=perfmanager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2385",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/perfmanager?tag=HEAD-8c70084-250626T194034-aarch64-Linux&download=perfmanager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi/perfmanager:HEAD-8c70084-250626T194034-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi/perfmanager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/perfmanager?tag=HEAD-8c70084-250626T194034-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93939062955b49d7a69de18abac1ca7a70d3eafbddd950786d9afef673c97b3a",
+  "size": "27 MB",
+  "size_raw": "27698176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-06d4a3f-250623T114907-aarch64-Linux",
+    "HEAD-39c6f0f-250624T160355-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
