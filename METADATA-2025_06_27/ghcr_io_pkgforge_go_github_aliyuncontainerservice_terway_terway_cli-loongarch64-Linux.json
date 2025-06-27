@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "terway-cli",
+  "pkg_family": "terway",
+  "pkg_id": "terway-cli#github.com_AliyunContainerService_terway",
+  "pkg_name": "terway-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AliyunContainerService/terway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNI plugin for Alibaba Cloud VPC/ENI",
+  "homepage": [
+    "https://github.com/AliyunContainerService/terway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "maxpods",
+    "terway",
+    "terway-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AliyunContainerService/terway/archive/1a63c1b59b36ac2ea12e915d9ed3ba17750b3e36.tar.gz"
+  ],
+  "tag": [
+    "cni",
+    "eni",
+    "vpc"
+  ],
+  "version": "HEAD-1a63c1b-250626T201714",
+  "version_upstream": "",
+  "bsum": "de02171e6e91fb959fa6eb683bf6bf20c3e8b4c6455466960595f32df330442c",
+  "build_date": "2025-06-27T02:17:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916546869",
+  "build_id": "15916546869",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/terway-cli?tag=HEAD-1a63c1b-250626T201714-loongarch64-Linux&download=terway-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "574",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/terway-cli?tag=HEAD-1a63c1b-250626T201714-loongarch64-Linux&download=terway-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aliyuncontainerservice/terway/terway-cli:HEAD-1a63c1b-250626T201714-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aliyuncontainerservice/terway/terway-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/terway-cli?tag=HEAD-1a63c1b-250626T201714-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7011847cf779908dde7fb85fc4c07207e2462a8b70aeba81da1fb2d3112fdd2d",
+  "size": "42 MB",
+  "size_raw": "43252992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-302dc86-250624T101836-loongarch64-Linux",
+    "HEAD-0733c30-250624T172831-loongarch64-Linux",
+    "HEAD-62550fa-250626T100629-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
