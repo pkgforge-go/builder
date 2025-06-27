@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "thanosconvert",
+  "pkg_family": "cortex",
+  "pkg_id": "thanosconvert#github.com_cortexproject_cortex",
+  "pkg_name": "thanosconvert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cortexproject/cortex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+  "homepage": [
+    "https://github.com/cortexproject/cortex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cortexproject/cortex/archive/16a2f54dde3acaf8628a9ed242ac6cb8f0d43730.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-16a2f54-250626T172806",
+  "version_upstream": "",
+  "bsum": "b58f4cc944c29b09165a6bfc7bccda4479698c6c2172df2330006ecdee3f9bdf",
+  "build_date": "2025-06-27T10:34:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923377502",
+  "build_id": "15923377502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/thanosconvert?tag=HEAD-16a2f54-250626T172806-x86_64-Linux&download=thanosconvert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5618",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/thanosconvert?tag=HEAD-16a2f54-250626T172806-x86_64-Linux&download=thanosconvert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/thanosconvert:HEAD-16a2f54-250626T172806-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/thanosconvert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/thanosconvert?tag=HEAD-16a2f54-250626T172806-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77e0d86d0409f1deba47736e0be42e7a4f912c2c35e5042ec3cb129a3c375a81",
+  "size": "45 MB",
+  "size_raw": "46663824",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-x86_64-Linux",
+    "HEAD-bf88f67-250621T233300-x86_64-Linux",
+    "HEAD-f9fc11c-250623T105316-x86_64-Linux",
+    "HEAD-bd2bebf-250624T115532-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
