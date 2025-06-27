@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cortex",
+  "pkg_family": "cortex",
+  "pkg_id": "cortex#github.com_cortexproject_cortex",
+  "pkg_name": "cortex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cortexproject/cortex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+  "homepage": [
+    "https://github.com/cortexproject/cortex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cortexproject/cortex/archive/16a2f54dde3acaf8628a9ed242ac6cb8f0d43730.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "hacktoberfest",
+    "kubernetes",
+    "monitoring",
+    "prometheus"
+  ],
+  "version": "HEAD-16a2f54-250626T172806",
+  "version_upstream": "",
+  "bsum": "1d642630725b52a5daebee9a61aaf981ca08f69073ace15d2bff70da373f28a3",
+  "build_date": "2025-06-27T10:35:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923377502",
+  "build_id": "15923377502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/cortex?tag=HEAD-16a2f54-250626T172806-riscv64-Linux&download=cortex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5618",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/cortex?tag=HEAD-16a2f54-250626T172806-riscv64-Linux&download=cortex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/cortex:HEAD-16a2f54-250626T172806-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/cortex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/cortex?tag=HEAD-16a2f54-250626T172806-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab9cc6030e1768464e7e778686269a4e360d5ad20a91bc9329136c0e7ca01d99",
+  "size": "88 MB",
+  "size_raw": "91898360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-riscv64-Linux",
+    "HEAD-bf88f67-250621T233300-riscv64-Linux",
+    "HEAD-f9fc11c-250623T105316-riscv64-Linux",
+    "HEAD-bd2bebf-250624T115532-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
