@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "KlicStudio",
+  "pkg_id": "server#github.com_krillinai_KlicStudio",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/krillinai/KlicStudio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+  "homepage": [
+    "https://github.com/krillinai/KlicStudio"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/krillinai/KlicStudio/archive/909f3902a8fc458cd31fa757a881f94436b8f6fe.tar.gz"
+  ],
+  "tag": [
+    "dubbing",
+    "localization",
+    "tts",
+    "video-transcription",
+    "video-translation"
+  ],
+  "version": "HEAD-909f390-250627T195106",
+  "version_upstream": "",
+  "bsum": "10036531e10f08f0b74550fba54196fefcad42b93ca089bbc7516db4ed0868ea",
+  "build_date": "2025-06-27T16:42:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930694928",
+  "build_id": "15930694928",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krillinai/klicstudio/server?tag=HEAD-909f390-250627T195106-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7923",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krillinai/klicstudio/server?tag=HEAD-909f390-250627T195106-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/krillinai/klicstudio/server:HEAD-909f390-250627T195106-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/krillinai/klicstudio/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krillinai/klicstudio/server?tag=HEAD-909f390-250627T195106-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "24161e35555740df668726df88186264842706ea4f6278560bd9b4345541c655",
+  "size": "14 MB",
+  "size_raw": "14105120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
