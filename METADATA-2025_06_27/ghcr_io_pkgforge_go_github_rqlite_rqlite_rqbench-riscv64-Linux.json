@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "rqbench",
+  "pkg_family": "rqlite",
+  "pkg_id": "rqbench#github.com_rqlite_rqlite",
+  "pkg_name": "rqbench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rqlite/rqlite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The lightweight, user-friendly, distributed relational database built on SQLite.",
+  "homepage": [
+    "https://github.com/rqlite/rqlite"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rqbench",
+    "rqlite",
+    "rqlited",
+    "walr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rqlite/rqlite/archive/f8bd839ce9201635ea514984afdb7499165fff3f.tar.gz"
+  ],
+  "tag": [
+    "consensus",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "go",
+    "raft",
+    "relational-database",
+    "sql",
+    "sqlite"
+  ],
+  "version": "HEAD-f8bd839-250626T205519",
+  "version_upstream": "",
+  "bsum": "6aa46d75d095c1d5a0b115d7fa51591037df27968e6870d27e50ab5d410b0361",
+  "build_date": "2025-06-27T14:24:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927310170",
+  "build_id": "15927310170",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rqlite/rqlite/rqbench?tag=HEAD-f8bd839-250626T205519-riscv64-Linux&download=rqbench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16699",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rqlite/rqlite/rqbench?tag=HEAD-f8bd839-250626T205519-riscv64-Linux&download=rqbench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rqlite/rqlite/rqbench:HEAD-f8bd839-250626T205519-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rqlite/rqlite/rqbench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rqlite/rqlite/rqbench?tag=HEAD-f8bd839-250626T205519-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d991fdfe95542cad794d08488fde0091b8f05d18f76720b9938b21e55f8441b3",
+  "size": "5.9 MB",
+  "size_raw": "6153848",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ac4df5e-250620T101553-riscv64-Linux",
+    "HEAD-e39abac-250623T104458-riscv64-Linux",
+    "HEAD-4ec5ef9-250623T150009-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
