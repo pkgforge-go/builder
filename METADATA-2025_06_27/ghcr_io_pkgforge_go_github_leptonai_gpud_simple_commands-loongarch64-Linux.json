@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "simple-commands",
+  "pkg_family": "gpud",
+  "pkg_id": "simple-commands#github.com_leptonai_gpud",
+  "pkg_name": "simple-commands",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/leptonai/gpud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GPUd automates monitoring, diagnostics, and issue identification for GPUs",
+  "homepage": [
+    "https://github.com/leptonai/gpud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bash-script-output-to-file",
+    "restart-commands",
+    "simple-command",
+    "simple-commands",
+    "stream-blocking-commands",
+    "stream-commands",
+    "swagger",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/leptonai/gpud/archive/f0358e2bf8b45545fdb0e4f3ba89f086cdba1cb1.tar.gz"
+  ],
+  "tag": [
+    "gpu",
+    "kubernetes",
+    "monitoring",
+    "nvidia",
+    "nvidia-gpu"
+  ],
+  "version": "HEAD-f0358e2-250627T170221",
+  "version_upstream": "",
+  "bsum": "e8d2e0e3b68dd77ddad43fab3cded2e45cb40ef3a7786b3654d2087095040a3f",
+  "build_date": "2025-06-27T20:47:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933987082",
+  "build_id": "15933987082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/simple-commands?tag=HEAD-f0358e2-250627T170221-loongarch64-Linux&download=simple-commands.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "377",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/simple-commands?tag=HEAD-f0358e2-250627T170221-loongarch64-Linux&download=simple-commands",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leptonai/gpud/simple-commands:HEAD-f0358e2-250627T170221-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leptonai/gpud/simple-commands",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/simple-commands?tag=HEAD-f0358e2-250627T170221-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a97ecd1d2e715baea341370fe3fe57d49617fccce7659581f9714e84d82c6c89",
+  "size": "4.4 MB",
+  "size_raw": "4567328",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8763bf2-250624T100544-loongarch64-Linux[v0.5.0]",
+    "HEAD-df111c0-250624T221601-loongarch64-Linux",
+    "HEAD-377e356-250625T015607-loongarch64-Linux",
+    "HEAD-0100a37-250625T195015-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
