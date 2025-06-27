@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "add-sidx",
+  "pkg_family": "mp4ff",
+  "pkg_id": "add-sidx#github.com_Eyevinn_mp4ff",
+  "pkg_name": "add-sidx",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Eyevinn/mp4ff",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Library and tools for working with MP4 files containing video, audio, subtitles, or metadata. The focus is on fragmented files. Includes mp4ff-info, mp4ff-encrypt, mp4ff-decrypt and other tools.",
+  "homepage": [
+    "https://github.com/Eyevinn/mp4ff"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-sidx",
+    "combine-segs",
+    "initcreator",
+    "mp4ff-crop",
+    "mp4ff-decrypt",
+    "mp4ff-encrypt",
+    "mp4ff-info",
+    "mp4ff-nallister",
+    "mp4ff-pslister",
+    "mp4ff-subslister",
+    "multitrack",
+    "resegmenter",
+    "segmenter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Eyevinn/mp4ff/archive/94a798f9ba657fa8368e6441324eb4f5e4098f88.tar.gz"
+  ],
+  "tag": [
+    "aac",
+    "ac-3",
+    "adts",
+    "avc",
+    "cmaf",
+    "ec-3",
+    "fmp4",
+    "fragmented-mp4-files",
+    "h264",
+    "hevc",
+    "isobmff",
+    "mp4",
+    "mpeg-dash",
+    "pps",
+    "sei",
+    "sps",
+    "stpp",
+    "video",
+    "vp9",
+    "wvtt"
+  ],
+  "version": "HEAD-94a798f-250626T165643",
+  "version_upstream": "v0.49.0",
+  "bsum": "551b3c078f6550a3de5eea3d4cd9752436c543314e5088641b3c766788ed6e79",
+  "build_date": "2025-06-27T09:50:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369118",
+  "build_id": "15923369118",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eyevinn/mp4ff/add-sidx?tag=HEAD-94a798f-250626T165643-x86_64-Linux&download=add-sidx.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "526",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eyevinn/mp4ff/add-sidx?tag=HEAD-94a798f-250626T165643-x86_64-Linux&download=add-sidx",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eyevinn/mp4ff/add-sidx:HEAD-94a798f-250626T165643-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eyevinn/mp4ff/add-sidx",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eyevinn/mp4ff/add-sidx?tag=HEAD-94a798f-250626T165643-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3b9b38dfff2fb2d9ad940f72708aef884663fbf8656b6e22f9bbfc17901d496",
+  "size": "2.8 MB",
+  "size_raw": "2861376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cff60b3-250508T220921-x86_64-Linux",
+    "HEAD-76b0558-250625T152157-x86_64-Linux",
+    "HEAD-a4bd150-250626T080615-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
