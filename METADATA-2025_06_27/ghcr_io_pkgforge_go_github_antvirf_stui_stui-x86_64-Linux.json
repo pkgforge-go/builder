@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stui",
+  "pkg_family": "stui",
+  "pkg_id": "stui#github.com_Antvirf_stui",
+  "pkg_name": "stui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Antvirf/stui",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal user interface for Slurm HPC clusters",
+  "homepage": [
+    "https://github.com/Antvirf/stui"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stui"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Antvirf/stui/archive/82e6888607ab5d938f6bb04153013d273a0b8495.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "gui",
+    "hpc",
+    "slurm",
+    "tui",
+    "tview"
+  ],
+  "version": "HEAD-82e6888-250626T184057",
+  "version_upstream": "0.8.1",
+  "bsum": "7c6a577ca1e52d15d297c26aa53225724e09bfc73d5d352e89070a93bd985773",
+  "build_date": "2025-06-27T02:18:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916546722",
+  "build_id": "15916546722",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antvirf/stui/stui?tag=HEAD-82e6888-250626T184057-x86_64-Linux&download=stui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antvirf/stui/stui?tag=HEAD-82e6888-250626T184057-x86_64-Linux&download=stui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/antvirf/stui/stui:HEAD-82e6888-250626T184057-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/antvirf/stui/stui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/antvirf/stui/stui?tag=HEAD-82e6888-250626T184057-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9e896f69699373dbf7df6a8b3767ebea982fe0216a54fc621386049db72959e6",
+  "size": "6.3 MB",
+  "size_raw": "6573016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a758928-250621T100235-x86_64-Linux[0.8.0]"
+  ],
+  "trusted": "true"
+}
