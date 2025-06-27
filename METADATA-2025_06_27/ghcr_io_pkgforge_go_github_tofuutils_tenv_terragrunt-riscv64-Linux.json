@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "terragrunt",
+  "pkg_family": "tenv",
+  "pkg_id": "terragrunt#github.com_tofuutils_tenv",
+  "pkg_name": "terragrunt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tofuutils/tenv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTofu / Terraform / Terragrunt and Atmos version manager",
+  "homepage": [
+    "https://github.com/tofuutils/tenv"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atmos",
+    "dtofuver",
+    "ltfver",
+    "tenv",
+    "terraform",
+    "terragrunt",
+    "terramate",
+    "tf",
+    "tofu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tofuutils/tenv/archive/cbf2d4b6b130a1327c2f7dda5d73a123cc8b4509.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "hacktoberfest",
+    "hacktoberfest2024",
+    "hashicorp",
+    "hashicorp-terraform",
+    "iac",
+    "opentofu",
+    "tenv",
+    "terraform",
+    "tfenv",
+    "tofu",
+    "tofuenv"
+  ],
+  "version": "HEAD-cbf2d4b-250627T002456",
+  "version_upstream": "",
+  "bsum": "e66f9efc9ceb5b2c076de2c2c2344bccf20a8d1c8fc7fa6792b8eeb1db23e885",
+  "build_date": "2025-06-27T12:15:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923739437",
+  "build_id": "15923739437",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/terragrunt?tag=HEAD-cbf2d4b-250627T002456-riscv64-Linux&download=terragrunt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/terragrunt?tag=HEAD-cbf2d4b-250627T002456-riscv64-Linux&download=terragrunt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tofuutils/tenv/terragrunt:HEAD-cbf2d4b-250627T002456-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tofuutils/tenv/terragrunt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/terragrunt?tag=HEAD-cbf2d4b-250627T002456-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27b4cc6d48de2da36758ed3dda06ba9019a58a8f03325d1330d3c1ce3cff9c6d",
+  "size": "1.9 MB",
+  "size_raw": "1913704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ebee6df-250622T144317-riscv64-Linux",
+    "HEAD-7701917-250624T162547-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
