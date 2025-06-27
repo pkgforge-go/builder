@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "init",
+  "pkg_family": "pod-pacemaker",
+  "pkg_id": "init#github.com_woehrl01_pod_pacemaker",
+  "pkg_name": "init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/woehrl01/pod-pacemaker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PodPacemaker is a Kubernetes operator designed to manage the rate at which pods are initiated on a specific node.",
+  "homepage": [
+    "https://github.com/woehrl01/pod-pacemaker"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cni-plugin",
+    "init",
+    "node-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/woehrl01/pod-pacemaker/archive/7fe80a79d0afde5f0a8895144c2718a3bde7b5a1.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "scale",
+    "throttle",
+    "thundering-herd"
+  ],
+  "version": "HEAD-7fe80a7-250627T111020",
+  "version_upstream": "",
+  "bsum": "e703f2b945c6f4ff50e9f1355893c763a893c2771bf8df9138da952c0384e479",
+  "build_date": "2025-06-27T17:28:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931330722",
+  "build_id": "15931330722",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/woehrl01/pod-pacemaker/init?tag=HEAD-7fe80a7-250627T111020-aarch64-Linux&download=init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/woehrl01/pod-pacemaker/init?tag=HEAD-7fe80a7-250627T111020-aarch64-Linux&download=init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/woehrl01/pod-pacemaker/init:HEAD-7fe80a7-250627T111020-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/woehrl01/pod-pacemaker/init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/woehrl01/pod-pacemaker/init?tag=HEAD-7fe80a7-250627T111020-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf7eacd56e044b89372796d47247489ee656535566ed596547884426d28d2327",
+  "size": "2.6 MB",
+  "size_raw": "2628344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
