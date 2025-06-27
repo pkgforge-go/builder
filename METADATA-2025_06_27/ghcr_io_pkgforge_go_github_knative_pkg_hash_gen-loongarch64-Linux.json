@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hash-gen",
+  "pkg_family": "pkg",
+  "pkg_id": "hash-gen#github.com_knative_pkg",
+  "pkg_name": "hash-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/pkg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative common packages",
+  "homepage": [
+    "https://github.com/knative/pkg"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chaosduck",
+    "hash-gen",
+    "injection-gen",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/pkg/archive/8481e7eef7f68a56cf2e7e1a6225991111bba1c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8481e7e-250627T014006",
+  "version_upstream": "",
+  "bsum": "7b751feeabb44ba6a60fdb0c531f62d836a1543857265d22885df1a4c885abbe",
+  "build_date": "2025-06-27T11:09:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923541233",
+  "build_id": "15923541233",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/hash-gen?tag=HEAD-8481e7e-250627T014006-loongarch64-Linux&download=hash-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "271",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/hash-gen?tag=HEAD-8481e7e-250627T014006-loongarch64-Linux&download=hash-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/pkg/hash-gen:HEAD-8481e7e-250627T014006-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/pkg/hash-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/hash-gen?tag=HEAD-8481e7e-250627T014006-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "452e520e1d2d1ab32ab15bbdfab1ecb3595290bbbc9bff971431c440723d11f5",
+  "size": "9.1 MB",
+  "size_raw": "9494368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fe85a65-250625T132305-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
