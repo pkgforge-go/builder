@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bento",
+  "pkg_family": "bento",
+  "pkg_id": "bento#github.com_warpstreamlabs_bento",
+  "pkg_name": "bento",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/warpstreamlabs/bento",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.",
+  "homepage": [
+    "https://github.com/warpstreamlabs/bento"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bento",
+    "bento-lambda",
+    "bento_docs_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/warpstreamlabs/bento/archive/e93af80ba0f5e23a9d8e6d9ed414df34df4e526d.tar.gz"
+  ],
+  "tag": [
+    "benthos",
+    "bento",
+    "connect",
+    "connectors",
+    "kafka",
+    "processing",
+    "stream"
+  ],
+  "version": "HEAD-e93af80-250626T193625",
+  "version_upstream": "",
+  "bsum": "3f458fdd40a02c69a73a7d8cd75ebf3e7f4edb6c5e874950b09ad51611dc202f",
+  "build_date": "2025-06-27T12:35:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923786216",
+  "build_id": "15923786216",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/warpstreamlabs/bento/bento?tag=HEAD-e93af80-250626T193625-aarch64-Linux&download=bento.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1528",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/warpstreamlabs/bento/bento?tag=HEAD-e93af80-250626T193625-aarch64-Linux&download=bento",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/warpstreamlabs/bento/bento:HEAD-e93af80-250626T193625-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/warpstreamlabs/bento/bento",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/warpstreamlabs/bento/bento?tag=HEAD-e93af80-250626T193625-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb291ef2a52ce47d8bbaea89d0274cd6a7ffa341d10827c4b07ce184945cd8ae",
+  "size": "178 MB",
+  "size_raw": "186272704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-54314c3-250625T183657-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
