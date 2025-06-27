@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "naiserator_webhook",
+  "pkg_family": "naiserator",
+  "pkg_id": "naiserator_webhook#github.com_nais_naiserator",
+  "pkg_name": "naiserator_webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nais/naiserator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Naiserator creates a full set of Kubernetes application infrastructure based on a single application spec.",
+  "homepage": [
+    "https://github.com/nais/naiserator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "naiserator",
+    "naiserator_webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nais/naiserator/archive/7c45ef69e07964d41d8dcf004f2f48be5d0590d3.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-operator",
+    "nais-features"
+  ],
+  "version": "HEAD-7c45ef6-250627T110416",
+  "version_upstream": "",
+  "bsum": "2b5220eb22cadcb9fc12870fa003ff1ae7e8a0c0740f1740513dceaa6e3a7143",
+  "build_date": "2025-06-27T16:54:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930964228",
+  "build_id": "15930964228",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/naiserator/naiserator_webhook?tag=HEAD-7c45ef6-250627T110416-riscv64-Linux&download=naiserator_webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "47",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/naiserator/naiserator_webhook?tag=HEAD-7c45ef6-250627T110416-riscv64-Linux&download=naiserator_webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/naiserator/naiserator_webhook:HEAD-7c45ef6-250627T110416-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/naiserator/naiserator_webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/naiserator/naiserator_webhook?tag=HEAD-7c45ef6-250627T110416-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae2b2f8dc8b9d567e69a16fcc85b65f7bf97115c4daa92a9f18874df453a3345",
+  "size": "42 MB",
+  "size_raw": "43668376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
