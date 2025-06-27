@@ -40,6 +40,7 @@
     "migrate-ci",
     "migrate-test",
     "postprocess",
+    "rbac-authz",
     "release",
     "releasemigrations",
     "testidp",
@@ -52,7 +53,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/coder/coder/archive/9ab9c52de80eab81ca95625cb26dced73821de58.tar.gz"
+    "https://github.com/coder/coder/archive/1c87796b33f475f2e9fd79e71364a1df71527a1f.tar.gz"
   ],
   "tag": [
     "dev-tools",
@@ -65,22 +66,22 @@
     "terraform",
     "vscode"
   ],
-  "version": "HEAD-9ab9c52-250627T125958",
+  "version": "HEAD-1c87796-250627T140018",
   "version_upstream": "",
   "bsum": "79a3349080c862d614341e1bbd8ee70404c02c1b792b462a284684ce62642a70",
-  "build_date": "2025-06-27T10:46:58Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923377359",
-  "build_id": "15923377359",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-9ab9c52-250627T125958-x86_64-Linux&download=migrate-ci.log",
+  "build_date": "2025-06-27T20:07:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933797882",
+  "build_id": "15933797882",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-1c87796-250627T140018-x86_64-Linux&download=migrate-ci.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "10129",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-9ab9c52-250627T125958-x86_64-Linux&download=migrate-ci",
+  "download_count": "10132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-1c87796-250627T140018-x86_64-Linux&download=migrate-ci",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/migrate-ci:HEAD-9ab9c52-250627T125958-x86_64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/migrate-ci:HEAD-1c87796-250627T140018-x86_64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/migrate-ci",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-9ab9c52-250627T125958-x86_64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/migrate-ci?tag=HEAD-1c87796-250627T140018-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "31a062800dbfb61fc36c557a9361eddcc9ead8cc227c2a1128c804ce4d401f86",
@@ -96,7 +97,8 @@
     "HEAD-79c666b-250625T112735-x86_64-Linux",
     "HEAD-3c4d920-250625T144136-x86_64-Linux",
     "HEAD-fdf458e-250625T170949-x86_64-Linux",
-    "HEAD-87d052e-250626T140931-x86_64-Linux"
+    "HEAD-87d052e-250626T140931-x86_64-Linux",
+    "HEAD-9ab9c52-250627T125958-x86_64-Linux"
   ],
   "trusted": "true"
 }

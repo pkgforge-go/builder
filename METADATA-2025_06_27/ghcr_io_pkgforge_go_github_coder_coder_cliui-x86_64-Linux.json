@@ -40,6 +40,7 @@
     "migrate-ci",
     "migrate-test",
     "postprocess",
+    "rbac-authz",
     "release",
     "releasemigrations",
     "testidp",
@@ -52,7 +53,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/coder/coder/archive/9ab9c52de80eab81ca95625cb26dced73821de58.tar.gz"
+    "https://github.com/coder/coder/archive/1c87796b33f475f2e9fd79e71364a1df71527a1f.tar.gz"
   ],
   "tag": [
     "dev-tools",
@@ -65,22 +66,22 @@
     "terraform",
     "vscode"
   ],
-  "version": "HEAD-9ab9c52-250627T125958",
+  "version": "HEAD-1c87796-250627T140018",
   "version_upstream": "",
   "bsum": "e9e037b9ad2fb1a25cddbf8c6533c87fc3d905fab363318277c22af3c96c41cf",
-  "build_date": "2025-06-27T10:46:21Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923377359",
-  "build_id": "15923377359",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-9ab9c52-250627T125958-x86_64-Linux&download=cliui.log",
+  "build_date": "2025-06-27T20:06:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933797882",
+  "build_id": "15933797882",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-1c87796-250627T140018-x86_64-Linux&download=cliui.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "10129",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-9ab9c52-250627T125958-x86_64-Linux&download=cliui",
+  "download_count": "10132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-1c87796-250627T140018-x86_64-Linux&download=cliui",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/cliui:HEAD-9ab9c52-250627T125958-x86_64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/cliui:HEAD-1c87796-250627T140018-x86_64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/cliui",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-9ab9c52-250627T125958-x86_64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/cliui?tag=HEAD-1c87796-250627T140018-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "7657af8989350576b113bc5fb2711832d900ea19c617900c5d10068821f267fb",
@@ -95,7 +96,8 @@
     "HEAD-79c666b-250625T112735-x86_64-Linux",
     "HEAD-3c4d920-250625T144136-x86_64-Linux",
     "HEAD-fdf458e-250625T170949-x86_64-Linux",
-    "HEAD-87d052e-250626T140931-x86_64-Linux"
+    "HEAD-87d052e-250626T140931-x86_64-Linux",
+    "HEAD-9ab9c52-250627T125958-x86_64-Linux"
   ],
   "trusted": "true"
 }
