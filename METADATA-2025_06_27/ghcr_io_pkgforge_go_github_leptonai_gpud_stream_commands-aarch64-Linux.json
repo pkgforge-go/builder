@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stream-commands",
+  "pkg_family": "gpud",
+  "pkg_id": "stream-commands#github.com_leptonai_gpud",
+  "pkg_name": "stream-commands",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/leptonai/gpud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GPUd automates monitoring, diagnostics, and issue identification for GPUs",
+  "homepage": [
+    "https://github.com/leptonai/gpud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bash-script-output-to-file",
+    "restart-commands",
+    "simple-command",
+    "simple-commands",
+    "stream-blocking-commands",
+    "stream-commands",
+    "swagger",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/leptonai/gpud/archive/f0358e2bf8b45545fdb0e4f3ba89f086cdba1cb1.tar.gz"
+  ],
+  "tag": [
+    "gpu",
+    "kubernetes",
+    "monitoring",
+    "nvidia",
+    "nvidia-gpu"
+  ],
+  "version": "HEAD-f0358e2-250627T170221",
+  "version_upstream": "",
+  "bsum": "d4911e4bcf4355ddd8a3327c935327e9d9ef07e56e06be1386b2dbe2c65d0c51",
+  "build_date": "2025-06-27T20:49:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933987082",
+  "build_id": "15933987082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/stream-commands?tag=HEAD-f0358e2-250627T170221-aarch64-Linux&download=stream-commands.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "377",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/stream-commands?tag=HEAD-f0358e2-250627T170221-aarch64-Linux&download=stream-commands",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leptonai/gpud/stream-commands:HEAD-f0358e2-250627T170221-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leptonai/gpud/stream-commands",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/stream-commands?tag=HEAD-f0358e2-250627T170221-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed97949798527c241b34599299e4c48f2f82cd90c77164261f217e796b3f4308",
+  "size": "4.3 MB",
+  "size_raw": "4464832",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8763bf2-250624T100544-aarch64-Linux[v0.5.0]",
+    "HEAD-df111c0-250624T221601-aarch64-Linux",
+    "HEAD-377e356-250625T015607-aarch64-Linux",
+    "HEAD-0100a37-250625T195015-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
