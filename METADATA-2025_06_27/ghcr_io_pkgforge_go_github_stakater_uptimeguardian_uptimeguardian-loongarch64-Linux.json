@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "uptimeguardian",
+  "pkg_family": "UptimeGuardian",
+  "pkg_id": "uptimeguardian#github.com_stakater_UptimeGuardian",
+  "pkg_name": "uptimeguardian",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stakater/UptimeGuardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator for automated uptime monitoring and blackbox probing. Generates Prometheus Probe CRs to ensure route availability and enable downtime alerting across multi-cluster environments.",
+  "homepage": [
+    "https://github.com/stakater/UptimeGuardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "uptimeguardian"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stakater/UptimeGuardian/archive/12d8a00075895acdc107b206282381f46814818f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-12d8a00-250627T125152",
+  "version_upstream": "",
+  "bsum": "fcb9bae2f77e031a07738ab14278ebc78736afeb82e4ad77db02643cd6c00825",
+  "build_date": "2025-06-27T17:16:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931271084",
+  "build_id": "15931271084",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian?tag=HEAD-12d8a00-250627T125152-loongarch64-Linux&download=uptimeguardian.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian?tag=HEAD-12d8a00-250627T125152-loongarch64-Linux&download=uptimeguardian",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian:HEAD-12d8a00-250627T125152-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian?tag=HEAD-12d8a00-250627T125152-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "24e352a79d9072052f6341754d8a95fa2c1c315f8aa046d14c251d6c581f1dfc",
+  "size": "54 MB",
+  "size_raw": "56320064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
