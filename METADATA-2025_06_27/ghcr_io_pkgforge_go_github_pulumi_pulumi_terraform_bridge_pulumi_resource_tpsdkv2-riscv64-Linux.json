@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pulumi-resource-tpsdkv2",
+  "pkg_family": "pulumi-terraform-bridge",
+  "pkg_id": "pulumi-resource-tpsdkv2#github.com_pulumi_pulumi_terraform_bridge",
+  "pkg_name": "pulumi-resource-tpsdkv2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pulumi/pulumi-terraform-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A library allowing Terraform providers to be bridged into Pulumi.",
+  "homepage": [
+    "https://github.com/pulumi/pulumi-terraform-bridge"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dynamic",
+    "exconverter",
+    "pfprovider",
+    "pulumi-resource-muxedrandom",
+    "pulumi-resource-random",
+    "pulumi-resource-testbridge",
+    "pulumi-resource-tls",
+    "pulumi-resource-tpinvschema",
+    "pulumi-resource-tpsdkv2",
+    "pulumi-terraform-bridge-test-provider",
+    "pulumi-tfgen-muxedrandom",
+    "pulumi-tfgen-random",
+    "pulumi-tfgen-testbridge",
+    "pulumi-tfgen-tls",
+    "pulumi-tfgen-tpinvschema",
+    "pulumi-tfgen-tpsdkv2",
+    "scripts",
+    "sdkv1provider"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pulumi/pulumi-terraform-bridge/archive/64e3eddf40adc3012cc4b748f8129e32552f0b40.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-64e3edd-250627T100721",
+  "version_upstream": "",
+  "bsum": "76d8443da380330992c188d44cceca0d92f7ccbe8dea8dcbd052d9e465e85a3e",
+  "build_date": "2025-06-27T17:21:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931173780",
+  "build_id": "15931173780",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-resource-tpsdkv2?tag=HEAD-64e3edd-250627T100721-riscv64-Linux&download=pulumi-resource-tpsdkv2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "219",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-resource-tpsdkv2?tag=HEAD-64e3edd-250627T100721-riscv64-Linux&download=pulumi-resource-tpsdkv2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-resource-tpsdkv2:HEAD-64e3edd-250627T100721-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-resource-tpsdkv2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pulumi/pulumi-terraform-bridge/pulumi-resource-tpsdkv2?tag=HEAD-64e3edd-250627T100721-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "669461b552baee9d22543dd7070f70ab48add4665028b4d7d99084356721ee1c",
+  "size": "32 MB",
+  "size_raw": "32963896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
