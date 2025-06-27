@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "harvest",
+  "pkg_id": "main#github.com_NetApp_harvest",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/harvest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-metrics endpoint for ONTAP and StorageGRID",
+  "homepage": [
+    "https://github.com/NetApp/harvest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "harvest",
+    "main",
+    "poller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/harvest/archive/30cb06da3ba2bd29009dfc5bdf1267f9747b0a2a.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "grafana-dashboard",
+    "monitoring",
+    "netapp-public",
+    "observability",
+    "prometheus",
+    "storagegrid"
+  ],
+  "version": "HEAD-30cb06d-250627T072535",
+  "version_upstream": "",
+  "bsum": "b36447e7062cc053d5704128a63781f83a2a2f656731ee7398767fe8701e446a",
+  "build_date": "2025-06-27T19:05:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933790142",
+  "build_id": "15933790142",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/main?tag=HEAD-30cb06d-250627T072535-riscv64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/main?tag=HEAD-30cb06d-250627T072535-riscv64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/harvest/main:HEAD-30cb06d-250627T072535-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/harvest/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/main?tag=HEAD-30cb06d-250627T072535-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45048185576b76b43826bb6bbb6e736f60b63f5947d0e21c554d669c6d459bb4",
+  "size": "10 MB",
+  "size_raw": "10435000",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-66be280-250619T135739-riscv64-Linux",
+    "HEAD-9bb1ee6-250623T173316-riscv64-Linux[nightly]",
+    "HEAD-d73af48-250624T185343-riscv64-Linux",
+    "HEAD-a443dec-250624T142144-riscv64-Linux[nightly]",
+    "HEAD-53aa8f7-250625T173523-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
