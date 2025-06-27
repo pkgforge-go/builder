@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "livekit",
+  "pkg_family": "livekit",
+  "pkg_id": "livekit#github.com_livekit_livekit",
+  "pkg_name": "livekit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/livekit/livekit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+  "homepage": [
+    "https://github.com/livekit/livekit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "livekit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/livekit/livekit/archive/d6d2b6d833020dbb07d87339a528fe5277e09090.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "media-server",
+    "sfu",
+    "video",
+    "webrtc"
+  ],
+  "version": "HEAD-d6d2b6d-250626T234955",
+  "version_upstream": "",
+  "bsum": "f83dcebd4c87feb3d4eb61ad082e0d36c44f20bfe73aea6092ed29cd46526fe2",
+  "build_date": "2025-06-27T14:01:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927164820",
+  "build_id": "15927164820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/livekit/livekit/livekit?tag=HEAD-d6d2b6d-250626T234955-riscv64-Linux&download=livekit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/livekit/livekit/livekit?tag=HEAD-d6d2b6d-250626T234955-riscv64-Linux&download=livekit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/livekit/livekit/livekit:HEAD-d6d2b6d-250626T234955-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/livekit/livekit/livekit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/livekit/livekit/livekit?tag=HEAD-d6d2b6d-250626T234955-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fce626e1ef79f754156e4d74b1f567f416b66efdb04172b09ece97f7956e6fed",
+  "size": "44 MB",
+  "size_raw": "45093336",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3783ebb-250620T165844-riscv64-Linux",
+    "HEAD-e467daa-250620T162219-riscv64-Linux",
+    "HEAD-8c2fc0b-250623T223912-riscv64-Linux",
+    "HEAD-01bf968-250623T124513-riscv64-Linux",
+    "HEAD-9fc4ddb-250624T162714-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
