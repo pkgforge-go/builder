@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "uptimeguardian",
+  "pkg_family": "UptimeGuardian",
+  "pkg_id": "uptimeguardian#github.com_stakater_UptimeGuardian",
+  "pkg_name": "uptimeguardian",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stakater/UptimeGuardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator for automated uptime monitoring and blackbox probing. Generates Prometheus Probe CRs to ensure route availability and enable downtime alerting across multi-cluster environments.",
+  "homepage": [
+    "https://github.com/stakater/UptimeGuardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "uptimeguardian"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stakater/UptimeGuardian/archive/12d8a00075895acdc107b206282381f46814818f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-12d8a00-250627T125152",
+  "version_upstream": "",
+  "bsum": "a4c87a05dadbd6b7105e8ad94af35dc800be0e1458726990c558b3e56511e624",
+  "build_date": "2025-06-27T17:16:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931271084",
+  "build_id": "15931271084",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian?tag=HEAD-12d8a00-250627T125152-aarch64-Linux&download=uptimeguardian.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian?tag=HEAD-12d8a00-250627T125152-aarch64-Linux&download=uptimeguardian",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian:HEAD-12d8a00-250627T125152-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stakater/uptimeguardian/uptimeguardian?tag=HEAD-12d8a00-250627T125152-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "605fa709823451098100262f6df8cb1ff44735b9a5dc2bb3c425bd033b77e776",
+  "size": "54 MB",
+  "size_raw": "55839520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
