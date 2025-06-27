@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "migrate",
+  "pkg_family": "FreeAiOps",
+  "pkg_id": "migrate#github.com_lihaiya_FreeAiOps",
+  "pkg_name": "migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lihaiya/FreeAiOps",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "专注在智能运维、自动化运维、Zabbix、Prometheus、Grafana、Nagios、ELK Stack（Elasticsearch、Logstash、Kibana）、Graylog、Ansible、SaltStack、Puppet、Chef、Terraform、Docker、Kubernetes、OpenShift、Jenkins、MySQL、PostgreSQL、MariaDB、Redis、MongoDB、InfluxDB、Ceph、MinIO，RabbitMQ、Kafka、NATS、Apache Pulsar、Nginx、Apache HTTP Server、HAProxy、Traefik、Caddy、OpenStack、OpenLDAP、FreeRDP等多个领域。",
+  "homepage": [
+    "https://github.com/lihaiya/FreeAiOps"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "freeaiops-cmd",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lihaiya/FreeAiOps/archive/744d2670d9b077eabfb0e8f148383cb66b618582.tar.gz"
+  ],
+  "tag": [
+    "aiops",
+    "devops",
+    "llmops",
+    "ops",
+    "zabbix"
+  ],
+  "version": "HEAD-744d267-250626T200907",
+  "version_upstream": "",
+  "bsum": "9e349d9f1f46e91d0aa6750c032138550f6e3fbeba7705b5ae1e86f80c14ee4b",
+  "build_date": "2025-06-27T03:03:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916638240",
+  "build_id": "15916638240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lihaiya/freeaiops/migrate?tag=HEAD-744d267-250626T200907-aarch64-Linux&download=migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lihaiya/freeaiops/migrate?tag=HEAD-744d267-250626T200907-aarch64-Linux&download=migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lihaiya/freeaiops/migrate:HEAD-744d267-250626T200907-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lihaiya/freeaiops/migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lihaiya/freeaiops/migrate?tag=HEAD-744d267-250626T200907-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dacf5a139a12f88627b4aba12f6a9e6122543b98065842a3b8e0485dcbac56ad",
+  "size": "25 MB",
+  "size_raw": "25408672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-00a729c-250621T082105-aarch64-Linux",
+    "HEAD-7bd3467-250623T083852-aarch64-Linux",
+    "HEAD-68d316e-250624T200750-aarch64-Linux",
+    "HEAD-a65a643-250625T093626-aarch64-Linux",
+    "HEAD-5d5a761-250626T091016-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
