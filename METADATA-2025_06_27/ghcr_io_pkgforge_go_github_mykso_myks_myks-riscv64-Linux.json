@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "myks",
+  "pkg_family": "myks",
+  "pkg_id": "myks#github.com_mykso_myks",
+  "pkg_name": "myks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mykso/myks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Myks is a tool and a framework for managing the configuration of applications for multiple Kubernetes clusters. It helps to reuse, mutate, and share the configuration between applications and clusters.",
+  "homepage": [
+    "https://github.com/mykso/myks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "myks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mykso/myks/archive/4ca0ff5c5b07dc9868e9218df7c539baf86ae854.tar.gz"
+  ],
+  "tag": [
+    "fleet-management",
+    "helm",
+    "kubernetes",
+    "kubernetes-manifests",
+    "vendir",
+    "yaml",
+    "ytt"
+  ],
+  "version": "HEAD-4ca0ff5-250626T153954",
+  "version_upstream": "",
+  "bsum": "f71ee472574214f444923f580825314c6520b8b35a36bf340b9d916d85fad5f6",
+  "build_date": "2025-06-27T03:10:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916645368",
+  "build_id": "15916645368",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mykso/myks/myks?tag=HEAD-4ca0ff5-250626T153954-riscv64-Linux&download=myks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mykso/myks/myks?tag=HEAD-4ca0ff5-250626T153954-riscv64-Linux&download=myks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mykso/myks/myks:HEAD-4ca0ff5-250626T153954-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mykso/myks/myks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mykso/myks/myks?tag=HEAD-4ca0ff5-250626T153954-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5732d55141874533f3a694d9d6be798a0d79ea5e4867469f146ff99d70389fff",
+  "size": "27 MB",
+  "size_raw": "27558552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-11111ed-250620T125105-riscv64-Linux[v4.9.0]"
+  ],
+  "trusted": "true"
+}
