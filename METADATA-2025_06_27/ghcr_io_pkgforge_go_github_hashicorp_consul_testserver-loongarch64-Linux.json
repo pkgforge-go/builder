@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "testserver",
+  "pkg_family": "consul",
+  "pkg_id": "testserver#github.com_hashicorp_consul",
+  "pkg_name": "testserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/consul",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/consul"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen",
+    "internal-grpc-proxy",
+    "protoc-gen-deepcopy",
+    "protoc-gen-grpc-clone",
+    "protoc-gen-json-shim",
+    "protoc-gen-resource-types",
+    "testserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/consul/archive/10f2aa255d36a09853d0d1e8ca09ea350df9c66d.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "consul",
+    "ecs",
+    "kubernetes",
+    "service-discovery",
+    "service-mesh",
+    "vault"
+  ],
+  "version": "HEAD-10f2aa2-250627T093840",
+  "version_upstream": "",
+  "bsum": "1c61c71b46951ce444eda44ce4c0db61ba67bc04e32cca9230a8d8642433af77",
+  "build_date": "2025-06-27T20:15:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933900474",
+  "build_id": "15933900474",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/testserver?tag=HEAD-10f2aa2-250627T093840-loongarch64-Linux&download=testserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29071",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/testserver?tag=HEAD-10f2aa2-250627T093840-loongarch64-Linux&download=testserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/consul/testserver:HEAD-10f2aa2-250627T093840-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/consul/testserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/consul/testserver?tag=HEAD-10f2aa2-250627T093840-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfeb43dc493888646c81bc7c6307da65fd87d6c62d5c72d489875ba489b93fa9",
+  "size": "26 MB",
+  "size_raw": "26760928",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-766ab74-250617T143807-loongarch64-Linux",
+    "HEAD-60c29c3-250620T091657-loongarch64-Linux",
+    "HEAD-af2be68-250625T170225-loongarch64-Linux",
+    "HEAD-0b20fdc-250625T110556-loongarch64-Linux",
+    "HEAD-4212498-250626T185730-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
