@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "client-wrapper",
+  "pkg_family": "kyverno",
+  "pkg_id": "client-wrapper#github.com_kyverno_kyverno",
+  "pkg_name": "client-wrapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client-wrapper",
+    "perf-testing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/a0243d792d7e6f8290a77def47f362bab887ae28.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-a0243d7-250627T141255",
+  "version_upstream": "",
+  "bsum": "b4e2d5230890da3e7539669b59ccd5bc8c401e2af63244e2e63a40d01c03fed9",
+  "build_date": "2025-06-27T21:01:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933985716",
+  "build_id": "15933985716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/client-wrapper?tag=HEAD-a0243d7-250627T141255-aarch64-Linux&download=client-wrapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6461",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/client-wrapper?tag=HEAD-a0243d7-250627T141255-aarch64-Linux&download=client-wrapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/client-wrapper:HEAD-a0243d7-250627T141255-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/client-wrapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/client-wrapper?tag=HEAD-a0243d7-250627T141255-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2af838109955a359fbd276ec2a8007ac7844d287fc63563c957e9be07e1fe345",
+  "size": "70 MB",
+  "size_raw": "72788832",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-467bcb5-250620T115123-aarch64-Linux",
+    "HEAD-9684ef6-250623T130110-aarch64-Linux",
+    "HEAD-557a6d2-250624T142711-aarch64-Linux",
+    "HEAD-515398a-250624T225149-aarch64-Linux",
+    "HEAD-6f2ff42-250625T134817-aarch64-Linux",
+    "HEAD-ec56688-250625T223903-aarch64-Linux",
+    "HEAD-96f80dd-250626T221207-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
