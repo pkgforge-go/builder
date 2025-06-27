@@ -39,7 +39,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/grafana/alloy/archive/dcd92d4692c075bc18073dccaf0cd8762c2018ca.tar.gz"
+    "https://github.com/grafana/alloy/archive/5aec188b12ac9f638bd3d102c3e7bcad56f2af85.tar.gz"
   ],
   "tag": [
     "collector",
@@ -51,22 +51,22 @@
     "opentelemetry-collector",
     "prometheus"
   ],
-  "version": "HEAD-dcd92d4-250626T093617",
-  "version_upstream": "",
+  "version": "HEAD-5aec188-250627T113346",
+  "version_upstream": "helm-chart/1.1.2",
   "bsum": "263fbaa31d77b71088c412f31bf4eeba5f7ecd38e199398339ae4d6f1439d595",
-  "build_date": "2025-06-27T11:20:11Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923513918",
-  "build_id": "15923513918",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/kafka?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&download=kafka.log",
+  "build_date": "2025-06-27T22:52:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936721645",
+  "build_id": "15936721645",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/kafka?tag=HEAD-5aec188-250627T113346-aarch64-Linux&download=kafka.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "2185",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/kafka?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&download=kafka",
+  "download_count": "2184",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/kafka?tag=HEAD-5aec188-250627T113346-aarch64-Linux&download=kafka",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/kafka:HEAD-dcd92d4-250626T093617-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/kafka:HEAD-5aec188-250627T113346-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/alloy/kafka",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/kafka?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/kafka?tag=HEAD-5aec188-250627T113346-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "dc56a668e5cf241ac96c2b2e13df3b5631ed19a8579979bb1c761ac9d1552705",
@@ -78,7 +78,9 @@
     "HEAD-841df78-250620T182002-aarch64-Linux",
     "HEAD-5d6c136-250624T022006-aarch64-Linux",
     "HEAD-993bef0-250625T083322-aarch64-Linux",
-    "HEAD-f6ebb44-250626T145603-aarch64-Linux"
+    "HEAD-f6ebb44-250626T145603-aarch64-Linux",
+    "HEAD-dcd92d4-250626T093617-aarch64-Linux",
+    "HEAD-5aec188-250627T113346-aarch64-Linux[helm-chart/1.1.2]"
   ],
   "trusted": "true"
 }

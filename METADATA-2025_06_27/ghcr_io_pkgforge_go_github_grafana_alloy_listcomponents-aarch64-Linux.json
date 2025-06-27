@@ -39,7 +39,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/grafana/alloy/archive/dcd92d4692c075bc18073dccaf0cd8762c2018ca.tar.gz"
+    "https://github.com/grafana/alloy/archive/5aec188b12ac9f638bd3d102c3e7bcad56f2af85.tar.gz"
   ],
   "tag": [
     "collector",
@@ -51,25 +51,25 @@
     "opentelemetry-collector",
     "prometheus"
   ],
-  "version": "HEAD-dcd92d4-250626T093617",
-  "version_upstream": "",
-  "bsum": "3f726922db41186f83f1ca54f166ab0aa0d4dfb303282274aa8e28d9a5cb5f04",
-  "build_date": "2025-06-27T11:20:49Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923513918",
-  "build_id": "15923513918",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&download=listcomponents.log",
+  "version": "HEAD-5aec188-250627T113346",
+  "version_upstream": "helm-chart/1.1.2",
+  "bsum": "8814b76faff4b7548b2f0122c8baa2aa536957d4546eaae96f1fc66e50913e52",
+  "build_date": "2025-06-27T22:53:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936721645",
+  "build_id": "15936721645",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-5aec188-250627T113346-aarch64-Linux&download=listcomponents.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "2185",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&download=listcomponents",
+  "download_count": "2184",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-5aec188-250627T113346-aarch64-Linux&download=listcomponents",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/listcomponents:HEAD-dcd92d4-250626T093617-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/listcomponents:HEAD-5aec188-250627T113346-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/alloy/listcomponents",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/listcomponents?tag=HEAD-5aec188-250627T113346-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "c9668eac0fb76f73bb36def3ba017d3e5308333ebf1d128d180c845fd4f3ce18",
+  "shasum": "f5d12e22503c3b9d079da5a7c05b9aa25e7befdefe995f440947214ccbbba8c5",
   "size": "359 MB",
   "size_raw": "375927056",
   "soar_syms": "false",
@@ -78,7 +78,9 @@
     "HEAD-841df78-250620T182002-aarch64-Linux",
     "HEAD-5d6c136-250624T022006-aarch64-Linux",
     "HEAD-993bef0-250625T083322-aarch64-Linux",
-    "HEAD-f6ebb44-250626T145603-aarch64-Linux"
+    "HEAD-f6ebb44-250626T145603-aarch64-Linux",
+    "HEAD-dcd92d4-250626T093617-aarch64-Linux",
+    "HEAD-5aec188-250627T113346-aarch64-Linux[helm-chart/1.1.2]"
   ],
   "trusted": "true"
 }

@@ -39,7 +39,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/grafana/alloy/archive/dcd92d4692c075bc18073dccaf0cd8762c2018ca.tar.gz"
+    "https://github.com/grafana/alloy/archive/5aec188b12ac9f638bd3d102c3e7bcad56f2af85.tar.gz"
   ],
   "tag": [
     "collector",
@@ -51,22 +51,22 @@
     "opentelemetry-collector",
     "prometheus"
   ],
-  "version": "HEAD-dcd92d4-250626T093617",
-  "version_upstream": "",
+  "version": "HEAD-5aec188-250627T113346",
+  "version_upstream": "helm-chart/1.1.2",
   "bsum": "e0b6071202b4fd0f933813f8f9347e90071e353da16536bdcb955ee16356fb4a",
-  "build_date": "2025-06-27T11:19:59Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923513918",
-  "build_id": "15923513918",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&download=integration-tests.log",
+  "build_date": "2025-06-27T22:52:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936721645",
+  "build_id": "15936721645",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-5aec188-250627T113346-aarch64-Linux&download=integration-tests.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "2185",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&download=integration-tests",
+  "download_count": "2184",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-5aec188-250627T113346-aarch64-Linux&download=integration-tests",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/integration-tests:HEAD-dcd92d4-250626T093617-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/alloy/integration-tests:HEAD-5aec188-250627T113346-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/alloy/integration-tests",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-dcd92d4-250626T093617-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/alloy/integration-tests?tag=HEAD-5aec188-250627T113346-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
   "shasum": "8ca02859c0955527fea172690fd8f0dac1146ead070f885b7201d95636055c96",
@@ -78,7 +78,9 @@
     "HEAD-841df78-250620T182002-aarch64-Linux",
     "HEAD-5d6c136-250624T022006-aarch64-Linux",
     "HEAD-993bef0-250625T083322-aarch64-Linux",
-    "HEAD-f6ebb44-250626T145603-aarch64-Linux"
+    "HEAD-f6ebb44-250626T145603-aarch64-Linux",
+    "HEAD-dcd92d4-250626T093617-aarch64-Linux",
+    "HEAD-5aec188-250627T113346-aarch64-Linux[helm-chart/1.1.2]"
   ],
   "trusted": "true"
 }
