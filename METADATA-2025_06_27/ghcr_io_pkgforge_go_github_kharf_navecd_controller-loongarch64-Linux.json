@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "navecd",
+  "pkg_id": "controller#github.com_kharf_navecd",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kharf/navecd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Type Safe Declarative Continuous Delivery Toolkit For Kubernetes",
+  "homepage": [
+    "https://github.com/kharf/navecd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kharf/navecd/archive/f2063de5cbfbc1dc76c217fac41fb5c72ce84ded.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cue",
+    "gitops",
+    "kubernetes"
+  ],
+  "version": "HEAD-f2063de-250627T091611",
+  "version_upstream": "",
+  "bsum": "e9e2b50af786967e701312957514cd1a4cd250ffda3bbd52414ce34605755557",
+  "build_date": "2025-06-27T20:30:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933978714",
+  "build_id": "15933978714",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kharf/navecd/controller?tag=HEAD-f2063de-250627T091611-loongarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kharf/navecd/controller?tag=HEAD-f2063de-250627T091611-loongarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kharf/navecd/controller:HEAD-f2063de-250627T091611-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kharf/navecd/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kharf/navecd/controller?tag=HEAD-f2063de-250627T091611-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "94cbfe8ac249fc9a1435a4332282a4a1101e980e6a0ddeb2a1c5714d707b6960",
+  "size": "109 MB",
+  "size_raw": "113391744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-572f9b5-250620T091110-loongarch64-Linux",
+    "HEAD-722b990-250626T142713-loongarch64-Linux[v0.26.8]"
+  ],
+  "trusted": "true"
+}
