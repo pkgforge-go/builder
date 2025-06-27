@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "typelinter",
+  "pkg_family": "api",
+  "pkg_id": "typelinter#github.com_openshift_api",
+  "pkg_name": "typelinter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/api",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Canonical location of the OpenShift API definition.",
+  "homepage": [
+    "https://github.com/openshift/api"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "models-schema",
+    "render",
+    "typelinter",
+    "write-available-featuresets"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/api/archive/41708f6123394c18afbb4bef1bac526f46960769.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-41708f6-250627T132400",
+  "version_upstream": "",
+  "bsum": "f44e2e56e479a9ab42f87682e973c8ac12a52939ac977502d010b927c03dd74a",
+  "build_date": "2025-06-27T23:03:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936755279",
+  "build_id": "15936755279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/api/typelinter?tag=HEAD-41708f6-250627T132400-loongarch64-Linux&download=typelinter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "100",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/api/typelinter?tag=HEAD-41708f6-250627T132400-loongarch64-Linux&download=typelinter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/api/typelinter:HEAD-41708f6-250627T132400-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/api/typelinter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/api/typelinter?tag=HEAD-41708f6-250627T132400-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0f9f6665d8fb3b7c578e83566926f01e10a360811eb946149879ce1a731320d4",
+  "size": "4.9 MB",
+  "size_raw": "5070336",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a8cbc21-250620T092249-loongarch64-Linux",
+    "HEAD-c3cf9bb-250620T202921-loongarch64-Linux",
+    "HEAD-f9cb766-250624T181540-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
