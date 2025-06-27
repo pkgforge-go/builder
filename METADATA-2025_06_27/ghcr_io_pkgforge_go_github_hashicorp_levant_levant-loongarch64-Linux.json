@@ -32,7 +32,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/hashicorp/levant/archive/bb51ad5c017165b9207034410d3820a8b6283eb9.tar.gz"
+    "https://github.com/hashicorp/levant/archive/e4b740daae592e6f6cc820c9bc0ba63cc30cb386.tar.gz"
   ],
   "tag": [
     "continuous-deployment",
@@ -44,30 +44,31 @@
     "nomad-job",
     "templating"
   ],
-  "version": "HEAD-bb51ad5-250626T085459",
-  "version_upstream": "",
-  "bsum": "52fc20c5ae81733f10223769fe6999f94d797c79be828ccd01ca6c22cf56a28e",
-  "build_date": "2025-06-27T02:50:23Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916624313",
-  "build_id": "15916624313",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-bb51ad5-250626T085459-loongarch64-Linux&download=levant.log",
+  "version": "HEAD-e4b740d-250626T154854",
+  "version_upstream": "nightly",
+  "bsum": "2beb4c04e177df4d6eb4d2e546ea61275fcfa5a022ab7d1f1a56f673404e1d70",
+  "build_date": "2025-06-27T13:45:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927110942",
+  "build_id": "15927110942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-e4b740d-250626T154854-loongarch64-Linux&download=levant.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "838",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-bb51ad5-250626T085459-loongarch64-Linux&download=levant",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-e4b740d-250626T154854-loongarch64-Linux&download=levant",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/levant/levant:HEAD-bb51ad5-250626T085459-loongarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/levant/levant:HEAD-e4b740d-250626T154854-loongarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/levant/levant",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-bb51ad5-250626T085459-loongarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/levant/levant?tag=HEAD-e4b740d-250626T154854-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "9a21122df78545db1879cda6e1750d35cd88bfe7bc6c27bdea824e406d65b66a",
+  "shasum": "886cafa3ea104cd6d5241046a7aaab183dfa3e2ddb40ac8589c55b1604360f00",
   "size": "14 MB",
-  "size_raw": "13862720",
+  "size_raw": "14179808",
   "soar_syms": "false",
   "snapshots": [
-    "HEAD-f873b7c-250625T172623-loongarch64-Linux"
+    "HEAD-f873b7c-250625T172623-loongarch64-Linux",
+    "HEAD-bb51ad5-250626T085459-loongarch64-Linux"
   ],
   "trusted": "true"
 }
