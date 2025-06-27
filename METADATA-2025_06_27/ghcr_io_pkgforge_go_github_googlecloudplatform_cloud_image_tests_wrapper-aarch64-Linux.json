@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "wrapper",
+  "pkg_family": "cloud-image-tests",
+  "pkg_id": "wrapper#github.com_GoogleCloudPlatform_cloud_image_tests",
+  "pkg_name": "wrapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/cloud-image-tests",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A testing framework and a set of test suites used for testing GCE Images.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/cloud-image-tests"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "wrapper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/cloud-image-tests/archive/a6eac0b71d06dff03a44502d4b056a702b58e1da.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a6eac0b-250626T165356",
+  "version_upstream": "",
+  "bsum": "204c75c38dd2caf7c18c3d9b6d1e0d1b4d2f4161002c9847a26e57602bc1c6a8",
+  "build_date": "2025-06-27T06:58:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920167452",
+  "build_id": "15920167452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-image-tests/wrapper?tag=HEAD-a6eac0b-250626T165356-aarch64-Linux&download=wrapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-image-tests/wrapper?tag=HEAD-a6eac0b-250626T165356-aarch64-Linux&download=wrapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-image-tests/wrapper:HEAD-a6eac0b-250626T165356-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-image-tests/wrapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-image-tests/wrapper?tag=HEAD-a6eac0b-250626T165356-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42e43e72a461d762dd74f908d32e5a96e061049f43ee775931e96e234e7fdc59",
+  "size": "17 MB",
+  "size_raw": "17734784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
