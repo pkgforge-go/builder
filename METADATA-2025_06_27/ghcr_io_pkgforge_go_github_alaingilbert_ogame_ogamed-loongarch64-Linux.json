@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ogamed",
+  "pkg_family": "ogame",
+  "pkg_id": "ogamed#github.com_alaingilbert_ogame",
+  "pkg_name": "ogamed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alaingilbert/ogame",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang ogame wrapper",
+  "homepage": [
+    "https://github.com/alaingilbert/ogame"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c",
+    "cli",
+    "ogamed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/alaingilbert/ogame/archive/325667f573cc9fd257ecff10d7f2de77c9e212a5.tar.gz"
+  ],
+  "tag": [
+    "ogame"
+  ],
+  "version": "HEAD-325667f-250626T183713",
+  "version_upstream": "53.0.0",
+  "bsum": "1a85f8eebcce636fc40c25b58cb03d891fc442e9f382e1661799a0d1dab6a459",
+  "build_date": "2025-06-27T07:15:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920172201",
+  "build_id": "15920172201",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alaingilbert/ogame/ogamed?tag=HEAD-325667f-250626T183713-loongarch64-Linux&download=ogamed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "100",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alaingilbert/ogame/ogamed?tag=HEAD-325667f-250626T183713-loongarch64-Linux&download=ogamed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alaingilbert/ogame/ogamed:HEAD-325667f-250626T183713-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alaingilbert/ogame/ogamed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alaingilbert/ogame/ogamed?tag=HEAD-325667f-250626T183713-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1b5b59c9d2ed6baa1eda9f67354719aa36b5beae80e6b5bf22361e8bf1f7d16d",
+  "size": "19 MB",
+  "size_raw": "19061296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
