@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cpuid",
+  "pkg_family": "cpuid",
+  "pkg_id": "cpuid#github.com_klauspost_cpuid",
+  "pkg_name": "cpuid",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/klauspost/cpuid",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CPU feature identification for Go",
+  "homepage": [
+    "https://github.com/klauspost/cpuid"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cpuid"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/klauspost/cpuid/archive/fabe6222d225b83c730d59d4779149f3a1a9d8d4.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fabe622-250627T083433",
+  "version_upstream": "",
+  "bsum": "9c7689d4257da9d841ca6aa4c6de60b8e2d64cfa72e05176be01e2686767b2a0",
+  "build_date": "2025-06-27T20:35:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933981014",
+  "build_id": "15933981014",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/cpuid/cpuid?tag=HEAD-fabe622-250627T083433-riscv64-Linux&download=cpuid.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1103",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/cpuid/cpuid?tag=HEAD-fabe622-250627T083433-riscv64-Linux&download=cpuid",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/klauspost/cpuid/cpuid:HEAD-fabe622-250627T083433-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/klauspost/cpuid/cpuid",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/klauspost/cpuid/cpuid?tag=HEAD-fabe622-250627T083433-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "50ec7baf75e59af71bb5fafb05de64357787143a4a2724500d0d70189e0449b7",
+  "size": "2.0 MB",
+  "size_raw": "1992712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9258d0f-250611T154628-riscv64-Linux",
+    "HEAD-02ba122-250625T124059-riscv64-Linux[v2.2.11]"
+  ],
+  "trusted": "true"
+}
