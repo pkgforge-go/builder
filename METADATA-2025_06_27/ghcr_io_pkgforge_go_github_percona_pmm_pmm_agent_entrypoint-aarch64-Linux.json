@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pmm-agent-entrypoint",
+  "pkg_family": "pmm",
+  "pkg_id": "pmm-agent-entrypoint#github.com_percona_pmm",
+  "pkg_name": "pmm-agent-entrypoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/pmm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
+  "homepage": [
+    "https://github.com/percona/pmm"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "pmm",
+    "pmm-admin",
+    "pmm-agent-entrypoint",
+    "pmm-managed-init",
+    "pmm-managed-starlark",
+    "qan-api2",
+    "update",
+    "vmproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/pmm/archive/570843f954c837bc96d501f0acf21ed0098b009a.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "database-management",
+    "hacktoberfest",
+    "monitoring",
+    "monitoring-server",
+    "observability",
+    "pmm"
+  ],
+  "version": "HEAD-570843f-250627T101013",
+  "version_upstream": "",
+  "bsum": "a9f0cb6d8e5ece01cda1bd6a17712590c8aaf9c23ad02ed721723c744a44b9cc",
+  "build_date": "2025-06-27T21:18:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15934036077",
+  "build_id": "15934036077",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm-agent-entrypoint?tag=HEAD-570843f-250627T101013-aarch64-Linux&download=pmm-agent-entrypoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "792",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm-agent-entrypoint?tag=HEAD-570843f-250627T101013-aarch64-Linux&download=pmm-agent-entrypoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/pmm/pmm-agent-entrypoint:HEAD-570843f-250627T101013-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/pmm/pmm-agent-entrypoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/pmm-agent-entrypoint?tag=HEAD-570843f-250627T101013-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "984b0ef8cc5b228b93f96d5be6e4b8430511b39c2afb5eb9097e01cbb83845d3",
+  "size": "5.0 MB",
+  "size_raw": "5196448",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b0ed5c2-250623T235723-aarch64-Linux",
+    "HEAD-de5cb4e-250624T120433-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
