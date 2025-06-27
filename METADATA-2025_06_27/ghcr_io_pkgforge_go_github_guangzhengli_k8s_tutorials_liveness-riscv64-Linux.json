@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "liveness",
+  "pkg_family": "k8s-tutorials",
+  "pkg_id": "liveness#github.com_guangzhengli_k8s_tutorials",
+  "pkg_name": "liveness",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/guangzhengli/k8s-tutorials",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "k8s tutorials _ k8s 教程",
+  "homepage": [
+    "https://github.com/guangzhengli/k8s-tutorials"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaps",
+    "container",
+    "hello-helm",
+    "k8s-tutorials-service",
+    "liveness",
+    "readiness",
+    "secret",
+    "v2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/guangzhengli/k8s-tutorials/archive/8e31674bd97091cdddbcdde268a457a31699ade7.tar.gz"
+  ],
+  "tag": [
+    "configmap",
+    "container",
+    "deployment",
+    "docker",
+    "helm",
+    "ingress",
+    "k8s",
+    "k9s",
+    "kubernetes",
+    "minikube",
+    "pod",
+    "secret",
+    "services",
+    "tutorial"
+  ],
+  "version": "HEAD-8e31674-250627T102817",
+  "version_upstream": "",
+  "bsum": "231a405589d2dab0b106054bd64774da161c96c56bd7467a44cfb3826f5ab0f1",
+  "build_date": "2025-06-27T07:39:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920220335",
+  "build_id": "15920220335",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/liveness?tag=HEAD-8e31674-250627T102817-riscv64-Linux&download=liveness.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5308",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/liveness?tag=HEAD-8e31674-250627T102817-riscv64-Linux&download=liveness",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guangzhengli/k8s-tutorials/liveness:HEAD-8e31674-250627T102817-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guangzhengli/k8s-tutorials/liveness",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/liveness?tag=HEAD-8e31674-250627T102817-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "822cd5fafc3a87ae2f3bd383f594d7b936ed9ad4748664c645a036177ade68b2",
+  "size": "5.5 MB",
+  "size_raw": "5741208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
