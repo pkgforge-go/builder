@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "create-an-http-server",
+  "pkg_family": "gosoline",
+  "pkg_id": "create-an-http-server#github.com_justtrackio_gosoline",
+  "pkg_name": "create-an-http-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/justtrackio/gosoline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gosoline is our framework which fuels all of our Golang applications",
+  "homepage": [
+    "https://github.com/justtrackio/gosoline"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application",
+    "cfg",
+    "complex-logger",
+    "config-logger",
+    "consumer",
+    "create-a-consumer",
+    "create-a-money-exchange-app",
+    "create-an-application",
+    "create-an-http-server",
+    "from-env",
+    "from-file",
+    "from-map",
+    "from-settings",
+    "getters",
+    "grpcserver",
+    "health-check",
+    "kernel",
+    "log",
+    "log-context",
+    "log-handler",
+    "middleware",
+    "minimal-logger",
+    "module",
+    "output",
+    "prometheus",
+    "publisher",
+    "simple-handlers",
+    "static",
+    "stream-consumer",
+    "subscriber",
+    "write-crud-sql-app"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/justtrackio/gosoline/archive/d67f6674a164ef929dcab5c7febf7efc2462a09e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d67f667-250627T153053",
+  "version_upstream": "v0.41.1",
+  "bsum": "c875f8bf41d40e14ae833e4e9c0a981a34d8098d2a95e099dc14b1abf20a1c5e",
+  "build_date": "2025-06-27T20:48:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933912502",
+  "build_id": "15933912502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/create-an-http-server?tag=HEAD-d67f667-250627T153053-x86_64-Linux&download=create-an-http-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/create-an-http-server?tag=HEAD-d67f667-250627T153053-x86_64-Linux&download=create-an-http-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/justtrackio/gosoline/create-an-http-server:HEAD-d67f667-250627T153053-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/justtrackio/gosoline/create-an-http-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/create-an-http-server?tag=HEAD-d67f667-250627T153053-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c9dff9668690510eef851673acd0e5a11c25033d0c6d9756eee422e0d8f80db",
+  "size": "57 MB",
+  "size_raw": "59229888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8ca2fac-250623T110938-x86_64-Linux[v0.41.0]"
+  ],
+  "trusted": "true"
+}
