@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "viz",
+  "pkg_family": "linkerd2",
+  "pkg_id": "viz#github.com_linkerd_linkerd2",
+  "pkg_name": "viz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkerd/linkerd2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+  "homepage": [
+    "https://github.com/linkerd/linkerd2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "destination-client",
+    "linkerd2-cli",
+    "linkerd2-web",
+    "policy-client",
+    "proxy-identity",
+    "viz"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkerd/linkerd2/archive/91127be6ef8cbbd825a61ecd14ca2250a36b957e.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "golang",
+    "kubernetes",
+    "linkerd",
+    "rust",
+    "service-mesh"
+  ],
+  "version": "HEAD-91127be-250626T110702",
+  "version_upstream": "edge-25.6.4",
+  "bsum": "4f7748735077424c585b4c0714b74bcc987b02c492ae717ecd57983072020f36",
+  "build_date": "2025-06-27T11:28:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923545342",
+  "build_id": "15923545342",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/viz?tag=HEAD-91127be-250626T110702-x86_64-Linux&download=viz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10993",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/viz?tag=HEAD-91127be-250626T110702-x86_64-Linux&download=viz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linkerd/linkerd2/viz:HEAD-91127be-250626T110702-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linkerd/linkerd2/viz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linkerd/linkerd2/viz?tag=HEAD-91127be-250626T110702-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b2203ffdde41bbb6631bef6cb126e23bd8066a3fdac3341543243996ace16f6",
+  "size": "86 MB",
+  "size_raw": "89328864",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f179d4c-250619T105442-x86_64-Linux",
+    "HEAD-a056257-250620T173521-x86_64-Linux",
+    "HEAD-8d1705c-250623T080502-x86_64-Linux",
+    "HEAD-df7cba4-250624T092515-x86_64-Linux",
+    "HEAD-57b08a7-250625T161307-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
