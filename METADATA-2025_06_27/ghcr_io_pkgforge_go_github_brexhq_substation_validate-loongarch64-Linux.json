@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "substation",
+  "pkg_id": "validate#github.com_brexhq_substation",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brexhq/substation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Substation is a toolkit for routing, normalizing, and enriching security event and audit logs.",
+  "homepage": [
+    "https://github.com/brexhq/substation"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscale",
+    "substation",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/brexhq/substation/archive/ee1e551cefdb162ee496204acd19253720654854.tar.gz"
+  ],
+  "tag": [
+    "automation",
+    "aws",
+    "logging",
+    "monitoring",
+    "observability",
+    "security"
+  ],
+  "version": "HEAD-ee1e551-250626T165247",
+  "version_upstream": "",
+  "bsum": "9852c88a163f7b93b6093bc44938cb923d5ef3cdb9ce4c86b3824875c5ffc3a6",
+  "build_date": "2025-06-27T07:24:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920180366",
+  "build_id": "15920180366",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brexhq/substation/validate?tag=HEAD-ee1e551-250626T165247-loongarch64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "369",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brexhq/substation/validate?tag=HEAD-ee1e551-250626T165247-loongarch64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brexhq/substation/validate:HEAD-ee1e551-250626T165247-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brexhq/substation/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brexhq/substation/validate?tag=HEAD-ee1e551-250626T165247-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8fce022347040a64f4a44eac84f00aa85314693dcc8ab1bac8fd72f60150be40",
+  "size": "60 MB",
+  "size_raw": "62781280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
