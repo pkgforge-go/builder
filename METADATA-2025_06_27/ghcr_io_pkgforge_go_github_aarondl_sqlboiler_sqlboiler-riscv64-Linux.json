@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sqlboiler",
+  "pkg_family": "sqlboiler",
+  "pkg_id": "sqlboiler#github.com_aarondl_sqlboiler",
+  "pkg_name": "sqlboiler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aarondl/sqlboiler",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate a Go ORM tailored to your database schema.",
+  "homepage": [
+    "https://github.com/aarondl/sqlboiler"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sqlboiler",
+    "sqlboiler-mssql",
+    "sqlboiler-mysql",
+    "sqlboiler-psql",
+    "sqlboiler-sqlite3"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aarondl/sqlboiler/archive/3591d19bab8b43fe45fa9063719a73a307a61070.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "go",
+    "golang",
+    "mssql",
+    "mysql",
+    "orm",
+    "postgres",
+    "postgresql",
+    "sqlboiler",
+    "sqlite3"
+  ],
+  "version": "HEAD-3591d19-250626T130957",
+  "version_upstream": "v4.19.4",
+  "bsum": "ba3ef1e3d3f606a60bc41889d28d0a90adfc64e211b2455d7a789013a3965dfc",
+  "build_date": "2025-06-27T13:18:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927042323",
+  "build_id": "15927042323",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler?tag=HEAD-3591d19-250626T130957-riscv64-Linux&download=sqlboiler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6886",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler?tag=HEAD-3591d19-250626T130957-riscv64-Linux&download=sqlboiler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aarondl/sqlboiler/sqlboiler:HEAD-3591d19-250626T130957-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aarondl/sqlboiler/sqlboiler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarondl/sqlboiler/sqlboiler?tag=HEAD-3591d19-250626T130957-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7f6cbf0c78bc792428e1b488adbdce59b83f28a797057faf7d65b61ed453a3d",
+  "size": "9.7 MB",
+  "size_raw": "10069944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9c0032b-250625T230417-riscv64-Linux[v4.19.2]"
+  ],
+  "trusted": "true"
+}
