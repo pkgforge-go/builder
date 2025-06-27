@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spicedb",
+  "pkg_family": "spicedb",
+  "pkg_id": "spicedb#github.com_authzed_spicedb",
+  "pkg_name": "spicedb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/authzed/spicedb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",
+  "homepage": [
+    "https://github.com/authzed/spicedb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "spicedb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/authzed/spicedb/archive/a97e9c36f03c0c7716d0e8528a5ea4467128c8fc.tar.gz"
+  ],
+  "tag": [
+    "abac",
+    "acl",
+    "authorization",
+    "ciam",
+    "cloud-native",
+    "database",
+    "distributed-systems",
+    "entitlements",
+    "fga",
+    "fine-grained-access-control",
+    "fine-grained-authorization",
+    "kubernetes",
+    "permissions",
+    "rbac",
+    "rebac",
+    "security",
+    "security-tools",
+    "zanzibar"
+  ],
+  "version": "HEAD-a97e9c3-250626T162124",
+  "version_upstream": "",
+  "bsum": "08602a3d02b5cc7b5d5576e2d47a56ee0c035f38243ca94711020f9a421b1b7d",
+  "build_date": "2025-06-27T13:23:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927043418",
+  "build_id": "15927043418",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authzed/spicedb/spicedb?tag=HEAD-a97e9c3-250626T162124-riscv64-Linux&download=spicedb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5804",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authzed/spicedb/spicedb?tag=HEAD-a97e9c3-250626T162124-riscv64-Linux&download=spicedb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/authzed/spicedb/spicedb:HEAD-a97e9c3-250626T162124-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/authzed/spicedb/spicedb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/authzed/spicedb/spicedb?tag=HEAD-a97e9c3-250626T162124-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9e8c7b4266217b3e60801d4b7fc061d729684b5335183b9d4e2486c44cad57f",
+  "size": "87 MB",
+  "size_raw": "90767736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7de4ddd-250618T183451-riscv64-Linux",
+    "HEAD-af9879c-250625T095207-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
