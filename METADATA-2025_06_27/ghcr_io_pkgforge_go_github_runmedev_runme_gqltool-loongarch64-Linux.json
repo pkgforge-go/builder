@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gqltool",
+  "pkg_family": "runme",
+  "pkg_id": "gqltool#github.com_runmedev_runme",
+  "pkg_name": "gqltool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/runmedev/runme",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DevOps Notebooks Built with Markdown",
+  "homepage": [
+    "https://github.com/runmedev/runme"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goexec",
+    "gqltool",
+    "grpc-client",
+    "release-notes",
+    "runme",
+    "runme-web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/runmedev/runme/archive/6e1a90bb15be81f12f9fe4e1c18693520f0e97bf.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "devops",
+    "markdown",
+    "notebooks",
+    "workflows"
+  ],
+  "version": "HEAD-6e1a90b-250626T101858",
+  "version_upstream": "v3.14.2",
+  "bsum": "208fb198f66d3964909310ec99176489029276a55afd88fbeaa2ef5c6933a9db",
+  "build_date": "2025-06-27T14:26:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927345652",
+  "build_id": "15927345652",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/gqltool?tag=HEAD-6e1a90b-250626T101858-loongarch64-Linux&download=gqltool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1457",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/gqltool?tag=HEAD-6e1a90b-250626T101858-loongarch64-Linux&download=gqltool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runmedev/runme/gqltool:HEAD-6e1a90b-250626T101858-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runmedev/runme/gqltool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/gqltool?tag=HEAD-6e1a90b-250626T101858-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f10193a7fe56939abadfb3354661ef232254892eda29d3a4e182da64fc7b9281",
+  "size": "7.7 MB",
+  "size_raw": "7990112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5e75c82-250620T113427-loongarch64-Linux[v3.14.1-rc.0]",
+    "HEAD-8c75c02-250623T124556-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
