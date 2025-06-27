@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "postgres",
+  "pkg_family": "postgres",
+  "pkg_id": "postgres#github.com_stashed_postgres",
+  "pkg_name": "postgres",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stashed/postgres",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Postgres backup and restore plugin for Stash by AppsCode",
+  "homepage": [
+    "https://github.com/stashed/postgres"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stashed/postgres/archive/55555e773500b538b56729dbe663cbe655eb5632.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-55555e7-250626T170702",
+  "version_upstream": "",
+  "bsum": "6567cbd175b3467f4228f882d6ce0ae5ddf8b96dddcc4f3fc9fd2a1b98a702e8",
+  "build_date": "2025-06-27T08:36:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921142082",
+  "build_id": "15921142082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stashed/postgres/postgres?tag=HEAD-55555e7-250626T170702-riscv64-Linux&download=postgres.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stashed/postgres/postgres?tag=HEAD-55555e7-250626T170702-riscv64-Linux&download=postgres",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stashed/postgres/postgres:HEAD-55555e7-250626T170702-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stashed/postgres/postgres",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stashed/postgres/postgres?tag=HEAD-55555e7-250626T170702-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fbd8e3416fec2348e1ebf7acec3ce21352466e3cf32097093a46fccedc785c10",
+  "size": "47 MB",
+  "size_raw": "48253528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
