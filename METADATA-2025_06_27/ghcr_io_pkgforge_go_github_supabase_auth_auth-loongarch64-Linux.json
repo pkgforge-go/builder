@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "auth",
+  "pkg_family": "auth",
+  "pkg_id": "auth#github.com_supabase_auth",
+  "pkg_name": "auth",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/supabase/auth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A JWT based API for managing users and issuing JWT tokens",
+  "homepage": [
+    "https://github.com/supabase/auth"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/supabase/auth/archive/1f7de6c65f31ef0bbb80899369989b13ab5a517f.tar.gz"
+  ],
+  "tag": [
+    "auth",
+    "authentication",
+    "authorization",
+    "client-auth",
+    "go",
+    "jwt",
+    "supabase"
+  ],
+  "version": "HEAD-1f7de6c-250627T122955",
+  "version_upstream": "",
+  "bsum": "3171afd8fe3cbfcbfed6f1e5a30c28eb714a796e2aacc75ce134010d62ffc659",
+  "build_date": "2025-06-27T17:15:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931278045",
+  "build_id": "15931278045",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/supabase/auth/auth?tag=HEAD-1f7de6c-250627T122955-loongarch64-Linux&download=auth.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1970",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/supabase/auth/auth?tag=HEAD-1f7de6c-250627T122955-loongarch64-Linux&download=auth",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/supabase/auth/auth:HEAD-1f7de6c-250627T122955-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/supabase/auth/auth",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/supabase/auth/auth?tag=HEAD-1f7de6c-250627T122955-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d51b80638c5fff9f653c7d5f26efcf803815b449c6200dafd50a55a89300014",
+  "size": "28 MB",
+  "size_raw": "28864096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c6e0cbe-250619T120316-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
