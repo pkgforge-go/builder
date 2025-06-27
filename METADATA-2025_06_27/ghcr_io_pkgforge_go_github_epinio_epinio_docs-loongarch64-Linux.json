@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "docs",
+  "pkg_family": "epinio",
+  "pkg_id": "docs#github.com_epinio_epinio",
+  "pkg_name": "docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/epinio/epinio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Opinionated platform that runs on Kubernetes, that takes you from App to URL in one step.",
+  "homepage": [
+    "https://github.com/epinio/epinio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "delete_clusters",
+    "docs",
+    "epinio"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/epinio/epinio/archive/3aae152b82023803aa091fb787b7e90b2b419887.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "kubernetes",
+    "paas"
+  ],
+  "version": "HEAD-3aae152-250626T211507",
+  "version_upstream": "",
+  "bsum": "2cdf34bcc4ed13b57d1fcf1889c0841416ec1d5e8996ebfa11618e941f52698c",
+  "build_date": "2025-06-27T10:44:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923392309",
+  "build_id": "15923392309",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epinio/epinio/docs?tag=HEAD-3aae152-250626T211507-loongarch64-Linux&download=docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "556",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epinio/epinio/docs?tag=HEAD-3aae152-250626T211507-loongarch64-Linux&download=docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/epinio/epinio/docs:HEAD-3aae152-250626T211507-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/epinio/epinio/docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epinio/epinio/docs?tag=HEAD-3aae152-250626T211507-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e51c32559f3d27b466db6dca53d2aac5b6e1d10cc2814db805158171faac63f4",
+  "size": "88 MB",
+  "size_raw": "91261120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dd7a0cc-250624T210504-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
