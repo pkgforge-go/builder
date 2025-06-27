@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "idp",
+  "pkg_family": "caddy-saml-sso",
+  "pkg_id": "idp#github.com_drio_caddy_saml_sso",
+  "pkg_name": "idp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drio/caddy-saml-sso",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Caddy module that provides SSO via SAML.",
+  "homepage": [
+    "https://github.com/drio/caddy-saml-sso"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go",
+    "idp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/drio/caddy-saml-sso/archive/3aed508492cde96e79400628fb3a3f3eb8c9c392.tar.gz"
+  ],
+  "tag": [
+    "caddy",
+    "saml",
+    "shibboleth",
+    "sp"
+  ],
+  "version": "HEAD-3aed508-250626T181854",
+  "version_upstream": "",
+  "bsum": "59a81c5d9a28d5c4916b3f8c234d1d0cc71340a1c5161dddf83e6dae76e00fd9",
+  "build_date": "2025-06-27T07:08:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920204701",
+  "build_id": "15920204701",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drio/caddy-saml-sso/idp?tag=HEAD-3aed508-250626T181854-riscv64-Linux&download=idp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drio/caddy-saml-sso/idp?tag=HEAD-3aed508-250626T181854-riscv64-Linux&download=idp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drio/caddy-saml-sso/idp:HEAD-3aed508-250626T181854-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drio/caddy-saml-sso/idp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drio/caddy-saml-sso/idp?tag=HEAD-3aed508-250626T181854-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83a1956aced35531c531a717611a8c536ed6513ffbf798ed28f3cd047e25a19a",
+  "size": "9.6 MB",
+  "size_raw": "9990712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
