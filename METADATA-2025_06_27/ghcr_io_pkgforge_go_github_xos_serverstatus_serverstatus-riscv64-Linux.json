@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "serverstatus",
+  "pkg_family": "ServerStatus",
+  "pkg_id": "serverstatus#github.com_xOS_ServerStatus",
+  "pkg_name": "serverstatus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xOS/ServerStatus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "服务器探针",
+  "homepage": [
+    "https://github.com/xOS/ServerStatus"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "serverstatus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xOS/ServerStatus/archive/a8af18feb7b914d010973eba06632675b8f43716.tar.gz"
+  ],
+  "tag": [
+    "probe",
+    "server",
+    "uptime"
+  ],
+  "version": "HEAD-a8af18f-250626T212941",
+  "version_upstream": "v1.3.0",
+  "bsum": "b6e2285a0a68c4968f53f7f13fb42b44f0b16e1f23f73b202869b3033428d841",
+  "build_date": "2025-06-27T03:41:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916720056",
+  "build_id": "15916720056",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xos/serverstatus/serverstatus?tag=HEAD-a8af18f-250626T212941-riscv64-Linux&download=serverstatus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "69",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xos/serverstatus/serverstatus?tag=HEAD-a8af18f-250626T212941-riscv64-Linux&download=serverstatus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xos/serverstatus/serverstatus:HEAD-a8af18f-250626T212941-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xos/serverstatus/serverstatus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xos/serverstatus/serverstatus?tag=HEAD-a8af18f-250626T212941-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "752f2889a1d18115c39a386137bde0772366ea60646821833c30693296520ab3",
+  "size": "28 MB",
+  "size_raw": "28851672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-057fefe-250621T234211-riscv64-Linux[v1.2.9]"
+  ],
+  "trusted": "true"
+}
