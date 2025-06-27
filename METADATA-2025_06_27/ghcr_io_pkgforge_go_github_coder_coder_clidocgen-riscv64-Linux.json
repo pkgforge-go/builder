@@ -40,6 +40,7 @@
     "migrate-ci",
     "migrate-test",
     "postprocess",
+    "rbac-authz",
     "release",
     "releasemigrations",
     "testidp",
@@ -52,7 +53,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/coder/coder/archive/9ab9c52de80eab81ca95625cb26dced73821de58.tar.gz"
+    "https://github.com/coder/coder/archive/1c87796b33f475f2e9fd79e71364a1df71527a1f.tar.gz"
   ],
   "tag": [
     "dev-tools",
@@ -65,27 +66,27 @@
     "terraform",
     "vscode"
   ],
-  "version": "HEAD-9ab9c52-250627T125958",
+  "version": "HEAD-1c87796-250627T140018",
   "version_upstream": "",
-  "bsum": "fb9c0982996eccde14c7138268ddae2ac633cf41efb5e0b2b66bbb4d2496ad88",
-  "build_date": "2025-06-27T10:45:32Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923377359",
-  "build_id": "15923377359",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/clidocgen?tag=HEAD-9ab9c52-250627T125958-riscv64-Linux&download=clidocgen.log",
+  "bsum": "1590d3cd01785c873ed723a81d2e8fd3e6c271c989f5c774eefd56e97ad2359e",
+  "build_date": "2025-06-27T20:04:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933797882",
+  "build_id": "15933797882",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/clidocgen?tag=HEAD-1c87796-250627T140018-riscv64-Linux&download=clidocgen.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "10129",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/clidocgen?tag=HEAD-9ab9c52-250627T125958-riscv64-Linux&download=clidocgen",
+  "download_count": "10132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/clidocgen?tag=HEAD-1c87796-250627T140018-riscv64-Linux&download=clidocgen",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/clidocgen:HEAD-9ab9c52-250627T125958-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/clidocgen:HEAD-1c87796-250627T140018-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/clidocgen",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/clidocgen?tag=HEAD-9ab9c52-250627T125958-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/clidocgen?tag=HEAD-1c87796-250627T140018-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "b44d6d39e35d12b550f9df1f6a8703adc6f240f71a7e47360d561cb2364def5c",
+  "shasum": "620ceac358cb6941564d991bf87fe3468d189d99c77665e6e8a1e7ff9544f1fb",
   "size": "135 MB",
-  "size_raw": "140857656",
+  "size_raw": "140874744",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-511fd09-250619T133251-riscv64-Linux",
@@ -95,7 +96,8 @@
     "HEAD-79c666b-250625T112735-riscv64-Linux",
     "HEAD-3c4d920-250625T144136-riscv64-Linux",
     "HEAD-fdf458e-250625T170949-riscv64-Linux",
-    "HEAD-87d052e-250626T140931-riscv64-Linux"
+    "HEAD-87d052e-250626T140931-riscv64-Linux",
+    "HEAD-9ab9c52-250627T125958-riscv64-Linux"
   ],
   "trusted": "true"
 }

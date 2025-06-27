@@ -40,6 +40,7 @@
     "migrate-ci",
     "migrate-test",
     "postprocess",
+    "rbac-authz",
     "release",
     "releasemigrations",
     "testidp",
@@ -52,7 +53,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/coder/coder/archive/9ab9c52de80eab81ca95625cb26dced73821de58.tar.gz"
+    "https://github.com/coder/coder/archive/1c87796b33f475f2e9fd79e71364a1df71527a1f.tar.gz"
   ],
   "tag": [
     "dev-tools",
@@ -65,25 +66,25 @@
     "terraform",
     "vscode"
   ],
-  "version": "HEAD-9ab9c52-250627T125958",
+  "version": "HEAD-1c87796-250627T140018",
   "version_upstream": "",
-  "bsum": "8525d40f07a80c09ed367a955a1828bf6819a08c3bacdd9c6a41a1c4d30fbe15",
-  "build_date": "2025-06-27T10:45:44Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923377359",
-  "build_id": "15923377359",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/dump?tag=HEAD-9ab9c52-250627T125958-riscv64-Linux&download=dump.log",
+  "bsum": "6e717234f248d2f94e573b7dc24429f6dcf16205651743b57c7f69e9415c804a",
+  "build_date": "2025-06-27T20:04:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933797882",
+  "build_id": "15933797882",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/dump?tag=HEAD-1c87796-250627T140018-riscv64-Linux&download=dump.log",
   "deprecated": "false",
   "desktop_integration": "false",
-  "download_count": "10129",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/dump?tag=HEAD-9ab9c52-250627T125958-riscv64-Linux&download=dump",
+  "download_count": "10132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/dump?tag=HEAD-1c87796-250627T140018-riscv64-Linux&download=dump",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/dump:HEAD-9ab9c52-250627T125958-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/dump:HEAD-1c87796-250627T140018-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/dump",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/dump?tag=HEAD-9ab9c52-250627T125958-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/dump?tag=HEAD-1c87796-250627T140018-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "77aacaf6585e2dc575c50cf2d0a82709f8426784b2c06c66bb0a44acc3bab4e2",
+  "shasum": "14b489fe552634fc55593d6505ba59820dc6a7acda2fec3c03ab9daa4826e667",
   "size": "34 MB",
   "size_raw": "34917880",
   "soar_syms": "false",
@@ -95,7 +96,8 @@
     "HEAD-79c666b-250625T112735-riscv64-Linux",
     "HEAD-3c4d920-250625T144136-riscv64-Linux",
     "HEAD-fdf458e-250625T170949-riscv64-Linux",
-    "HEAD-87d052e-250626T140931-riscv64-Linux"
+    "HEAD-87d052e-250626T140931-riscv64-Linux",
+    "HEAD-9ab9c52-250627T125958-riscv64-Linux"
   ],
   "trusted": "true"
 }
