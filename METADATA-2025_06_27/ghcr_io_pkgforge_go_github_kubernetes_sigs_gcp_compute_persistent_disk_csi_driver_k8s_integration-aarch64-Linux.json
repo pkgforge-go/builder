@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "k8s-integration",
+  "pkg_family": "gcp-compute-persistent-disk-csi-driver",
+  "pkg_id": "k8s-integration#github.com_kubernetes_sigs_gcp_compute_persistent_disk_csi_driver",
+  "pkg_name": "k8s-integration",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Google Compute Engine Persistent Disk _GCE PD_ Container Storage Interface _CSI_ Storage Plugin.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gce-pd-csi-driver",
+    "k8s-integration",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/archive/28f5cc86a79140d5d1e9cc3841869302b5758e67.tar.gz"
+  ],
+  "tag": [
+    "gcp",
+    "k8s-sig-gcp"
+  ],
+  "version": "HEAD-28f5cc8-250626T105029",
+  "version_upstream": "",
+  "bsum": "67028520adf0f6f547f857ab57edc33804c8db58a639e3905ad3aa1274aea4d9",
+  "build_date": "2025-06-27T07:55:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920263175",
+  "build_id": "15920263175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/k8s-integration?tag=HEAD-28f5cc8-250626T105029-aarch64-Linux&download=k8s-integration.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/k8s-integration?tag=HEAD-28f5cc8-250626T105029-aarch64-Linux&download=k8s-integration",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/k8s-integration:HEAD-28f5cc8-250626T105029-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/k8s-integration",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/k8s-integration?tag=HEAD-28f5cc8-250626T105029-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab51fa7eef74e0340502ea16296444535932cc1f7b132c102aa81d76884260ed",
+  "size": "79 MB",
+  "size_raw": "82029856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
