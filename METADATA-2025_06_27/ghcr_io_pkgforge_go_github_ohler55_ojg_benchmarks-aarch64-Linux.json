@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "benchmarks",
+  "pkg_family": "ojg",
+  "pkg_id": "benchmarks#github.com_ohler55_ojg",
+  "pkg_name": "benchmarks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ohler55/ojg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Optimized JSON for Go",
+  "homepage": [
+    "https://github.com/ohler55/ojg"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmarks",
+    "oj"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ohler55/ojg/archive/866247a046aff23f3d07c9edc8ccdf0f5ae78d1b.tar.gz"
+  ],
+  "tag": [
+    "fast",
+    "golang",
+    "json",
+    "jsonpath",
+    "parser"
+  ],
+  "version": "HEAD-866247a-250626T201307",
+  "version_upstream": "",
+  "bsum": "0ebf70cc4822ab7a9a6cfed069fb773d4b72bb0961c377ea6009e19f154aca24",
+  "build_date": "2025-06-27T11:32:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923564136",
+  "build_id": "15923564136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ohler55/ojg/benchmarks?tag=HEAD-866247a-250626T201307-aarch64-Linux&download=benchmarks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "897",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ohler55/ojg/benchmarks?tag=HEAD-866247a-250626T201307-aarch64-Linux&download=benchmarks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ohler55/ojg/benchmarks:HEAD-866247a-250626T201307-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ohler55/ojg/benchmarks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ohler55/ojg/benchmarks?tag=HEAD-866247a-250626T201307-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f130f214694d365d38542485f70f53bd07ce4d5189b03b79f326879bf4e354b",
+  "size": "4.1 MB",
+  "size_raw": "4198200",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1bcfb38-250617T193053-aarch64-Linux",
+    "HEAD-47b8ce5-250623T182323-aarch64-Linux[v1.26.7]"
+  ],
+  "trusted": "true"
+}
