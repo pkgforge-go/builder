@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "init",
+  "pkg_family": "init",
+  "pkg_id": "init#github.com_aerokube_init",
+  "pkg_name": "init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aerokube/init",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Correct init process for Docker containers",
+  "homepage": [
+    "https://github.com/aerokube/init"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aerokube/init/archive/cc51075160d256345a5f951896fad6d33f073463.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cc51075-250626T182641",
+  "version_upstream": "1.1.4",
+  "bsum": "cb730f5a7a4af7cad42ac8e7bdebc589d8c92ee7637e064d4f17f01a8bcf0268",
+  "build_date": "2025-06-27T13:16:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927042311",
+  "build_id": "15927042311",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerokube/init/init?tag=HEAD-cc51075-250626T182641-x86_64-Linux&download=init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerokube/init/init?tag=HEAD-cc51075-250626T182641-x86_64-Linux&download=init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aerokube/init/init:HEAD-cc51075-250626T182641-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aerokube/init/init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerokube/init/init?tag=HEAD-cc51075-250626T182641-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "815df0f3acbef42e837a840df2f62921a307531db389d4e21ef210cd20395218",
+  "size": "2.0 MB",
+  "size_raw": "2005560",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7321f0b-250506T121846-x86_64-Linux[1.1.3]"
+  ],
+  "trusted": "true"
+}
