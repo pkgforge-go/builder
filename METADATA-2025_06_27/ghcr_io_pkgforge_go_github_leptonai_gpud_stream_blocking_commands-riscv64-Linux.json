@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stream-blocking-commands",
+  "pkg_family": "gpud",
+  "pkg_id": "stream-blocking-commands#github.com_leptonai_gpud",
+  "pkg_name": "stream-blocking-commands",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/leptonai/gpud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GPUd automates monitoring, diagnostics, and issue identification for GPUs",
+  "homepage": [
+    "https://github.com/leptonai/gpud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bash-script-output-to-file",
+    "restart-commands",
+    "simple-command",
+    "simple-commands",
+    "stream-blocking-commands",
+    "stream-commands",
+    "swagger",
+    "sync"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/leptonai/gpud/archive/f0358e2bf8b45545fdb0e4f3ba89f086cdba1cb1.tar.gz"
+  ],
+  "tag": [
+    "gpu",
+    "kubernetes",
+    "monitoring",
+    "nvidia",
+    "nvidia-gpu"
+  ],
+  "version": "HEAD-f0358e2-250627T170221",
+  "version_upstream": "",
+  "bsum": "69f175ec57a1a7353e2c067771fb883c370da9207b1d9541515fc142fe3db06a",
+  "build_date": "2025-06-27T20:48:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933987082",
+  "build_id": "15933987082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/stream-blocking-commands?tag=HEAD-f0358e2-250627T170221-riscv64-Linux&download=stream-blocking-commands.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "377",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/stream-blocking-commands?tag=HEAD-f0358e2-250627T170221-riscv64-Linux&download=stream-blocking-commands",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/leptonai/gpud/stream-blocking-commands:HEAD-f0358e2-250627T170221-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/leptonai/gpud/stream-blocking-commands",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/leptonai/gpud/stream-blocking-commands?tag=HEAD-f0358e2-250627T170221-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "590d3ec7074e75d9c65576e43ae23cf270b21ecfde100053f75256b31bf44703",
+  "size": "4.3 MB",
+  "size_raw": "4462392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8763bf2-250624T100544-riscv64-Linux[v0.5.0]",
+    "HEAD-df111c0-250624T221601-riscv64-Linux",
+    "HEAD-377e356-250625T015607-riscv64-Linux",
+    "HEAD-0100a37-250625T195015-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
