@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "experiment",
+  "pkg_family": "uncloud",
+  "pkg_id": "experiment#github.com_psviderski_uncloud",
+  "pkg_name": "experiment",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/psviderski/uncloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+  "homepage": [
+    "https://github.com/psviderski/uncloud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "experiment",
+    "explorer",
+    "networkdb",
+    "ucind",
+    "uncloud",
+    "uncloudd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/psviderski/uncloud/archive/3b89af4a11e1194c850c281f97131f7be0870c11.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "deployment",
+    "devops",
+    "docker",
+    "docker-compose",
+    "golang",
+    "kubernetes",
+    "orchestration",
+    "self-hosted"
+  ],
+  "version": "HEAD-3b89af4-250627T175402",
+  "version_upstream": "",
+  "bsum": "15450f0b0d7eccec08c2fd74cb5bb4189d5b438ca4990c08a5510b1645d5d610",
+  "build_date": "2025-06-27T23:17:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936807959",
+  "build_id": "15936807959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/experiment?tag=HEAD-3b89af4-250627T175402-riscv64-Linux&download=experiment.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1352",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/experiment?tag=HEAD-3b89af4-250627T175402-riscv64-Linux&download=experiment",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psviderski/uncloud/experiment:HEAD-3b89af4-250627T175402-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psviderski/uncloud/experiment",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/experiment?tag=HEAD-3b89af4-250627T175402-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b67aa1b17ac8d7e4494f651b9c633437a31c867e30113b910451e324b5df2f5c",
+  "size": "23 MB",
+  "size_raw": "23159160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8e0a24e-250620T133750-riscv64-Linux",
+    "HEAD-26f34df-250622T192625-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
