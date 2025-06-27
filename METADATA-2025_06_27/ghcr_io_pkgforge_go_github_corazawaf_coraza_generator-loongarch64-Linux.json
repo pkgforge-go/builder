@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "coraza",
+  "pkg_id": "generator#github.com_corazawaf_coraza",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/corazawaf/coraza",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OWASP Coraza WAF is a golang modsecurity compatible web application firewall library",
+  "homepage": [
+    "https://github.com/corazawaf/coraza"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "httpe2e"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/corazawaf/coraza/archive/2a43819d236e81ebdf0b514de846b8a25c1015a3.tar.gz"
+  ],
+  "tag": [
+    "coraza",
+    "coraza-waf",
+    "coreruleset",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "http",
+    "modsecurity",
+    "owasp",
+    "owasp-crs",
+    "waf",
+    "web-application-firewall"
+  ],
+  "version": "HEAD-2a43819-250626T181344",
+  "version_upstream": "",
+  "bsum": "56e2ad72c558fa442b9a27c19f3afd9d13eb24eec5f4cd65eb26703faaf92ce6",
+  "build_date": "2025-06-27T13:29:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927046802",
+  "build_id": "15927046802",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/generator?tag=HEAD-2a43819-250626T181344-loongarch64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2717",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/generator?tag=HEAD-2a43819-250626T181344-loongarch64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/corazawaf/coraza/generator:HEAD-2a43819-250626T181344-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/corazawaf/coraza/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corazawaf/coraza/generator?tag=HEAD-2a43819-250626T181344-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44a0ba4ed6f1af5be21516ee604d0d52cee07267a45208f83b5451b36a1b0956",
+  "size": "6.1 MB",
+  "size_raw": "6312800",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-04c2209-250617T190326-loongarch64-Linux",
+    "HEAD-30a06ba-250621T020318-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
