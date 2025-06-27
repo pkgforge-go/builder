@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nps",
+  "pkg_family": "nps",
+  "pkg_id": "nps#github.com_djylb_nps",
+  "pkg_name": "nps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/djylb/nps",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight intranet penetration proxy rebuilt from original NPS.",
+  "homepage": [
+    "https://github.com/djylb/nps"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nps"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/djylb/nps/archive/236d88e1ee743653881015926357adba32a14856.tar.gz"
+  ],
+  "tag": [
+    "expose",
+    "firewall",
+    "go",
+    "http",
+    "intranet-penetration",
+    "nat",
+    "nps",
+    "p2p",
+    "panel",
+    "proxy",
+    "reverse-proxy",
+    "socks",
+    "socks5",
+    "ssh",
+    "tcp",
+    "tunnel",
+    "udp"
+  ],
+  "version": "HEAD-236d88e-250626T170457",
+  "version_upstream": "",
+  "bsum": "b99579b4cbf38854eaeef5ebcfb66027078e2ad2852bf25290d54f388b32ef80",
+  "build_date": "2025-06-27T02:42:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916573173",
+  "build_id": "15916573173",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/djylb/nps/nps?tag=HEAD-236d88e-250626T170457-x86_64-Linux&download=nps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "358",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/djylb/nps/nps?tag=HEAD-236d88e-250626T170457-x86_64-Linux&download=nps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/djylb/nps/nps:HEAD-236d88e-250626T170457-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/djylb/nps/nps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/djylb/nps/nps?tag=HEAD-236d88e-250626T170457-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0552f605cf33666c2c905fb136db18a7c146a870bbe1b85589d94b559156fc76",
+  "size": "25 MB",
+  "size_raw": "25944608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c46d147-250619T171226-x86_64-Linux",
+    "HEAD-7d634b8-250623T021840-x86_64-Linux[v0.29.24]",
+    "HEAD-6383f63-250625T082359-x86_64-Linux[v0.29.26]",
+    "HEAD-ca54e0f-250625T170046-x86_64-Linux[v0.29.27]"
+  ],
+  "trusted": "true"
+}
