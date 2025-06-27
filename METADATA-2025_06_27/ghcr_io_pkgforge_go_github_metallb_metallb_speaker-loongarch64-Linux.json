@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "speaker",
+  "pkg_family": "metallb",
+  "pkg_id": "speaker#github.com_metallb_metallb",
+  "pkg_name": "speaker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metallb/metallb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+  "homepage": [
+    "https://github.com/metallb/metallb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaptocrs",
+    "controller",
+    "cp-tool",
+    "metrics",
+    "speaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metallb/metallb/archive/659944f6cfbad3c7ef84fe975aa9811b9821aa57.tar.gz"
+  ],
+  "tag": [
+    "arp",
+    "bare-metal",
+    "bgp",
+    "frr",
+    "hacktoberfest",
+    "keepalived",
+    "kubernetes",
+    "load-balancer",
+    "vrrp"
+  ],
+  "version": "HEAD-659944f-250626T230119",
+  "version_upstream": "",
+  "bsum": "49ece6349bd08a8f63e61d14202ad6f0e1e5ccb5398780f29acd5ab91b037602",
+  "build_date": "2025-06-27T11:27:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923549130",
+  "build_id": "15923549130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/speaker?tag=HEAD-659944f-250626T230119-loongarch64-Linux&download=speaker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7599",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/speaker?tag=HEAD-659944f-250626T230119-loongarch64-Linux&download=speaker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metallb/metallb/speaker:HEAD-659944f-250626T230119-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metallb/metallb/speaker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/speaker?tag=HEAD-659944f-250626T230119-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "934add2e8fd45868b7e0db45e99f84c890feb742c9cc6c4ee1e4b72426ed5ce2",
+  "size": "56 MB",
+  "size_raw": "57879296",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bacee32-250622T234743-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
