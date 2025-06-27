@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "k3k",
+  "pkg_id": "cli#github.com_rancher_k3k",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/k3k",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes in Kubernetes",
+  "homepage": [
+    "https://github.com/rancher/k3k"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "k3k",
+    "k3k-cli",
+    "k3k-kubelet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/k3k/archive/2b115a0b800c3dab2b0d7eb3efb3afa170baad29.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2b115a0-250626T155508",
+  "version_upstream": "",
+  "bsum": "cf505f7fdca326bc9f470306f652233512f4f60719eee81f357267d48fff37f9",
+  "build_date": "2025-06-27T00:15:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913552587",
+  "build_id": "15913552587",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/cli?tag=HEAD-2b115a0-250626T155508-riscv64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "335",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/cli?tag=HEAD-2b115a0-250626T155508-riscv64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/k3k/cli:HEAD-2b115a0-250626T155508-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/k3k/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/k3k/cli?tag=HEAD-2b115a0-250626T155508-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9ce6d4df042aa14825c4d939c77061a2e92f063651f39a4e47f85d2ac86c8766",
+  "size": "41 MB",
+  "size_raw": "42058872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f5d2e98-250620T181910-riscv64-Linux[chart-0.3.3-r3]",
+    "HEAD-b810736-250623T143136-riscv64-Linux[v0.3.3-rc4]",
+    "HEAD-54ae8d2-250624T235614-riscv64-Linux",
+    "HEAD-8eb5c49-250625T104852-riscv64-Linux[chart-0.3.3-r5]"
+  ],
+  "trusted": "true"
+}
