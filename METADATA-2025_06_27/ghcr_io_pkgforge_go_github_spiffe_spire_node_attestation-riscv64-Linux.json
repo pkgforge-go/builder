@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "node-attestation",
+  "pkg_family": "spire",
+  "pkg_id": "node-attestation#github.com_spiffe_spire",
+  "pkg_name": "node-attestation",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/6512090356d907113ad51d90d487ad983d4c4aad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6512090-250626T091322",
+  "version_upstream": "",
+  "bsum": "790010b8c838f1611e1826d7a83d345b2171436fdfbe25aac2a7de56abf5312f",
+  "build_date": "2025-06-27T00:35:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913697637",
+  "build_id": "15913697637",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/node-attestation?tag=HEAD-6512090-250626T091322-riscv64-Linux&download=node-attestation.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1976",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/node-attestation?tag=HEAD-6512090-250626T091322-riscv64-Linux&download=node-attestation",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/node-attestation:HEAD-6512090-250626T091322-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/node-attestation",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/node-attestation?tag=HEAD-6512090-250626T091322-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1cc21f6af5ee948354f4f42a08a62ebbeb7fcf332c984d42cf0fe4188b3b6d00",
+  "size": "13 MB",
+  "size_raw": "13567064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-76299f8-250619T171403-riscv64-Linux",
+    "HEAD-55e614c-250624T153733-riscv64-Linux",
+    "HEAD-21359c4-250625T180423-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

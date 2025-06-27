@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "spire",
+  "pkg_id": "check#github.com_spiffe_spire",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/6512090356d907113ad51d90d487ad983d4c4aad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6512090-250626T091322",
+  "version_upstream": "",
+  "bsum": "194b2e170bf7c231905343997874d06d28f573548f35f84a94129a80e772e7b8",
+  "build_date": "2025-06-27T00:34:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913697637",
+  "build_id": "15913697637",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/check?tag=HEAD-6512090-250626T091322-riscv64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1976",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/check?tag=HEAD-6512090-250626T091322-riscv64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/check:HEAD-6512090-250626T091322-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/check?tag=HEAD-6512090-250626T091322-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ccf7cf3d80cadcbb6ededfbec62ef377de02425b4df56dbe40f1e5cbadd91b76",
+  "size": "12 MB",
+  "size_raw": "11734552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-76299f8-250619T171403-riscv64-Linux",
+    "HEAD-55e614c-250624T153733-riscv64-Linux",
+    "HEAD-21359c4-250625T180423-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
