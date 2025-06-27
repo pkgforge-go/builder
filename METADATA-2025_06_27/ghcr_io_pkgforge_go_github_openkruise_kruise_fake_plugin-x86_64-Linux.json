@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fake_plugin",
+  "pkg_family": "kruise",
+  "pkg_id": "fake_plugin#github.com_openkruise_kruise",
+  "pkg_name": "fake_plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openkruise/kruise",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automated management of large-scale applications on Kubernetes _incubating project under CNCF_",
+  "homepage": [
+    "https://github.com/openkruise/kruise"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "daemon",
+    "fake_plugin",
+    "helm_hook",
+    "kruise"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openkruise/kruise/archive/4778e7cfea47531e3cae400d96f25127067eb55f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cloudnative",
+    "cncf",
+    "container",
+    "k8s",
+    "kruise",
+    "kubernetes",
+    "openkruise",
+    "workload",
+    "workloads"
+  ],
+  "version": "HEAD-4778e7c-250627T110058",
+  "version_upstream": "",
+  "bsum": "3c7813c58bc8e824fa1e5729003fea4be2b35ef588fdab8736a36b755306cc27",
+  "build_date": "2025-06-27T11:46:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923700719",
+  "build_id": "15923700719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/fake_plugin?tag=HEAD-4778e7c-250627T110058-x86_64-Linux&download=fake_plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/fake_plugin?tag=HEAD-4778e7c-250627T110058-x86_64-Linux&download=fake_plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openkruise/kruise/fake_plugin:HEAD-4778e7c-250627T110058-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openkruise/kruise/fake_plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/fake_plugin?tag=HEAD-4778e7c-250627T110058-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7cbd9e10467a401d5ad541241e83f3c3a8a8b37fef48a62104d438c36411e94",
+  "size": "16 MB",
+  "size_raw": "16228192",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fc611f0-250625T103844-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
