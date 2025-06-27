@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "do-janitor",
+  "pkg_family": "cluster-api-provider-digitalocean",
+  "pkg_id": "do-janitor#github.com_kubernetes_sigs_cluster_api_provider_digitalocean",
+  "pkg_name": "do-janitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The DigitalOcean provider implementation of the Cluster Management API",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-api-provider-digitalocean-cmd",
+    "do-janitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean/archive/4db5d15f4909e775a5ada59b3c4775546a93adc8.tar.gz"
+  ],
+  "tag": [
+    "cluster-api",
+    "digitalocean",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "k8s-sig-cluster-lifecycle",
+    "kubernetes"
+  ],
+  "version": "HEAD-4db5d15-250626T143628",
+  "version_upstream": "",
+  "bsum": "931777e0ca7faf8582c1357c9d85c0311bf4c978ecf01a182e9452851bdc66a0",
+  "build_date": "2025-06-27T07:50:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920261639",
+  "build_id": "15920261639",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-digitalocean/do-janitor?tag=HEAD-4db5d15-250626T143628-riscv64-Linux&download=do-janitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-digitalocean/do-janitor?tag=HEAD-4db5d15-250626T143628-riscv64-Linux&download=do-janitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-digitalocean/do-janitor:HEAD-4db5d15-250626T143628-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-digitalocean/do-janitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/cluster-api-provider-digitalocean/do-janitor?tag=HEAD-4db5d15-250626T143628-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba43ebfd81ca428c4799b3d7bf9bc0074200eeab930849db4441bc3ec2a7af93",
+  "size": "7.0 MB",
+  "size_raw": "7296504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
