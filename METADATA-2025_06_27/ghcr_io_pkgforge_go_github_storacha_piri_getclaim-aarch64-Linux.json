@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "getclaim",
+  "pkg_family": "piri",
+  "pkg_id": "getclaim#github.com_storacha_piri",
+  "pkg_name": "getclaim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storacha/piri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐔 Storacha Storage Node",
+  "homepage": [
+    "https://github.com/storacha/piri"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregatesubmitter",
+    "getclaim",
+    "getroot",
+    "pieceaccepter",
+    "pieceaggregator",
+    "piri-cmd",
+    "postroot",
+    "putblob"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/storacha/piri/archive/91f4c1fb36deaaff1f937a097977e785d4291be5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-91f4c1f-250626T133813",
+  "version_upstream": "",
+  "bsum": "a1f3db2384977f589ced9b0403c6a96818d890b65769a021b307039f9e55048a",
+  "build_date": "2025-06-27T08:49:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921179341",
+  "build_id": "15921179341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/getclaim?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&download=getclaim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/getclaim?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&download=getclaim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storacha/piri/getclaim:HEAD-91f4c1f-250626T133813-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storacha/piri/getclaim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/getclaim?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5950087f3258459c8123c798e0ebef230ee08ae9fb2e75a56bd255b00205dcaa",
+  "size": "50 MB",
+  "size_raw": "52303904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

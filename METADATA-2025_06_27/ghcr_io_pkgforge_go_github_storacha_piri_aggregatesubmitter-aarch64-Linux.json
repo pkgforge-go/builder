@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "aggregatesubmitter",
+  "pkg_family": "piri",
+  "pkg_id": "aggregatesubmitter#github.com_storacha_piri",
+  "pkg_name": "aggregatesubmitter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storacha/piri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐔 Storacha Storage Node",
+  "homepage": [
+    "https://github.com/storacha/piri"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregatesubmitter",
+    "getclaim",
+    "getroot",
+    "pieceaccepter",
+    "pieceaggregator",
+    "piri-cmd",
+    "postroot",
+    "putblob"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/storacha/piri/archive/91f4c1fb36deaaff1f937a097977e785d4291be5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-91f4c1f-250626T133813",
+  "version_upstream": "",
+  "bsum": "312d916ccc7c83ca46cce1abe6df87e80209653d14110098d824931d674ee1d7",
+  "build_date": "2025-06-27T08:49:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921179341",
+  "build_id": "15921179341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/aggregatesubmitter?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&download=aggregatesubmitter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/aggregatesubmitter?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&download=aggregatesubmitter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storacha/piri/aggregatesubmitter:HEAD-91f4c1f-250626T133813-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storacha/piri/aggregatesubmitter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/aggregatesubmitter?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1e2d9f8a798b39a042d96dba473715af55011285f9dd41feb6409f8980a0b31",
+  "size": "47 MB",
+  "size_raw": "48418752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

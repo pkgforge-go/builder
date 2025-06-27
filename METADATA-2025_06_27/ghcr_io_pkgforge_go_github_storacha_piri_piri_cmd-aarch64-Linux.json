@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "piri-cmd",
+  "pkg_family": "piri",
+  "pkg_id": "piri-cmd#github.com_storacha_piri",
+  "pkg_name": "piri-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storacha/piri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐔 Storacha Storage Node",
+  "homepage": [
+    "https://github.com/storacha/piri"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregatesubmitter",
+    "getclaim",
+    "getroot",
+    "pieceaccepter",
+    "pieceaggregator",
+    "piri-cmd",
+    "postroot",
+    "putblob"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/storacha/piri/archive/91f4c1fb36deaaff1f937a097977e785d4291be5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-91f4c1f-250626T133813",
+  "version_upstream": "",
+  "bsum": "c06792d706827064c85f0313ac0988804474e1b257098fdfbc3e979f0ba10a9e",
+  "build_date": "2025-06-27T08:48:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921179341",
+  "build_id": "15921179341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/piri-cmd?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&download=piri-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/piri-cmd?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&download=piri-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storacha/piri/piri-cmd:HEAD-91f4c1f-250626T133813-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storacha/piri/piri-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/piri-cmd?tag=HEAD-91f4c1f-250626T133813-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d776eab267bad51067516334477ef5590dd2dad25edb443648af6a9931045c3",
+  "size": "53 MB",
+  "size_raw": "55271392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
