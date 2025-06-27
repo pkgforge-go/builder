@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aqua",
+  "pkg_family": "aqua",
+  "pkg_id": "aqua#github.com_aquaproj_aqua",
+  "pkg_name": "aqua",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquaproj/aqua",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
+  "homepage": [
+    "https://github.com/aquaproj/aqua"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aqua",
+    "gen-jsonschema"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquaproj/aqua/archive/8dd630944890b414ccedabc22a8a7f865c90d211.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "oss",
+    "version-manager"
+  ],
+  "version": "HEAD-8dd6309-250627T020753",
+  "version_upstream": "",
+  "bsum": "5c4500202b2f29e5e34c3bae4c926ed0654690c20f24b18439f3c532e0754c62",
+  "build_date": "2025-06-27T10:10:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923371395",
+  "build_id": "15923371395",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquaproj/aqua/aqua?tag=HEAD-8dd6309-250627T020753-x86_64-Linux&download=aqua.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1234",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquaproj/aqua/aqua?tag=HEAD-8dd6309-250627T020753-x86_64-Linux&download=aqua",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquaproj/aqua/aqua:HEAD-8dd6309-250627T020753-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquaproj/aqua/aqua",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquaproj/aqua/aqua?tag=HEAD-8dd6309-250627T020753-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b38f6f0ad0acaba78fe0d6b8faef6952df79bd817ead7a1671e05a9a5a87dd25",
+  "size": "25 MB",
+  "size_raw": "25632896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-996418d-250615T054834-x86_64-Linux",
+    "HEAD-91243d2-250621T225521-x86_64-Linux",
+    "HEAD-677c32b-250623T225641-x86_64-Linux",
+    "HEAD-73735ed-250624T143650-x86_64-Linux",
+    "HEAD-19397c7-250625T000837-x86_64-Linux",
+    "HEAD-4fbdcdd-250626T015531-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
