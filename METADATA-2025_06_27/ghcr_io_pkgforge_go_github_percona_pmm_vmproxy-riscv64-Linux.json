@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vmproxy",
+  "pkg_family": "pmm",
+  "pkg_id": "vmproxy#github.com_percona_pmm",
+  "pkg_name": "vmproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/pmm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
+  "homepage": [
+    "https://github.com/percona/pmm"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "pmm",
+    "pmm-admin",
+    "pmm-agent-entrypoint",
+    "pmm-managed",
+    "pmm-managed-init",
+    "pmm-managed-starlark",
+    "qan-api2",
+    "update",
+    "vmproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/pmm/archive/570843f954c837bc96d501f0acf21ed0098b009a.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "database-management",
+    "hacktoberfest",
+    "monitoring",
+    "monitoring-server",
+    "observability",
+    "pmm"
+  ],
+  "version": "HEAD-570843f-250627T101013",
+  "version_upstream": "",
+  "bsum": "de1a734dc7ddfebe15e20337e427cff377c6aab5951e327c9d741d760a853c05",
+  "build_date": "2025-06-27T21:18:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15934036077",
+  "build_id": "15934036077",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/vmproxy?tag=HEAD-570843f-250627T101013-riscv64-Linux&download=vmproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "792",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/vmproxy?tag=HEAD-570843f-250627T101013-riscv64-Linux&download=vmproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/percona/pmm/vmproxy:HEAD-570843f-250627T101013-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/percona/pmm/vmproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/percona/pmm/vmproxy?tag=HEAD-570843f-250627T101013-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "169454d7d1773c3d0dec057c2890baed3e98163e761cf8e5a892f371ff1b5f60",
+  "size": "8.5 MB",
+  "size_raw": "8889016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b0ed5c2-250623T235723-riscv64-Linux",
+    "HEAD-de5cb4e-250624T120433-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
