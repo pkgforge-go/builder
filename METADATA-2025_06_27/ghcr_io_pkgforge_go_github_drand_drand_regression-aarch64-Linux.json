@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "regression",
+  "pkg_family": "drand",
+  "pkg_id": "regression#github.com_drand_drand",
+  "pkg_name": "regression",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drand/drand",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🎲 A Distributed Randomness Beacon Daemon - Go implementation",
+  "homepage": [
+    "https://github.com/drand/drand"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "demo",
+    "drand",
+    "regression"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/drand/drand/archive/7f4a942c54aba1c7deea6bde20dfb5d2dec0bfd7.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "golang",
+    "hacktoberfest",
+    "randomness",
+    "randomness-beacon"
+  ],
+  "version": "HEAD-7f4a942-250627T160746",
+  "version_upstream": "",
+  "bsum": "e3cfbe3d4d6ed7f1cb9f3f218d68d2641be4864f9de644dd7234319a1b228228",
+  "build_date": "2025-06-27T19:59:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933804429",
+  "build_id": "15933804429",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drand/drand/regression?tag=HEAD-7f4a942-250627T160746-aarch64-Linux&download=regression.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "777",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drand/drand/regression?tag=HEAD-7f4a942-250627T160746-aarch64-Linux&download=regression",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drand/drand/regression:HEAD-7f4a942-250627T160746-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drand/drand/regression",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drand/drand/regression?tag=HEAD-7f4a942-250627T160746-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef868e6b94abb55f88f2af37d1568d0968e92056fb733db903df33018a84b848",
+  "size": "22 MB",
+  "size_raw": "22231648",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bebad8f-250603T125741-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
