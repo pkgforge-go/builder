@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "opkssh",
+  "pkg_family": "opkssh",
+  "pkg_id": "opkssh#github.com_openpubkey_opkssh",
+  "pkg_name": "opkssh",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openpubkey/opkssh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "opkssh _OpenPubkey SSH_",
+  "homepage": [
+    "https://github.com/openpubkey/opkssh"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "opkssh"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openpubkey/opkssh/archive/5e1194f7ecc66d8b5c24c96203792e71d4f95f1b.tar.gz"
+  ],
+  "tag": [
+    "oidc",
+    "openid-connect",
+    "ssh",
+    "ssh-keys"
+  ],
+  "version": "HEAD-5e1194f-250626T161916",
+  "version_upstream": "",
+  "bsum": "e9e999ee789798ea730177dc1b20185800d17f084b02c7cce1b5a5a6080e771b",
+  "build_date": "2025-06-27T14:15:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927187156",
+  "build_id": "15927187156",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openpubkey/opkssh/opkssh?tag=HEAD-5e1194f-250626T161916-riscv64-Linux&download=opkssh.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1543",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openpubkey/opkssh/opkssh?tag=HEAD-5e1194f-250626T161916-riscv64-Linux&download=opkssh",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openpubkey/opkssh/opkssh:HEAD-5e1194f-250626T161916-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openpubkey/opkssh/opkssh",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openpubkey/opkssh/opkssh?tag=HEAD-5e1194f-250626T161916-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f869fb4494dcbc57522060218ed35ed8879c91375e53d5eca10d7228eb6fd122",
+  "size": "14 MB",
+  "size_raw": "13735288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b7b1f30-250620T152728-riscv64-Linux",
+    "HEAD-49f451d-250624T185538-riscv64-Linux",
+    "HEAD-4910efe-250625T134927-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
