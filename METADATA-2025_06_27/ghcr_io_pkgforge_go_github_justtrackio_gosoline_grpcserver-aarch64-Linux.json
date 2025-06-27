@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "grpcserver",
+  "pkg_family": "gosoline",
+  "pkg_id": "grpcserver#github.com_justtrackio_gosoline",
+  "pkg_name": "grpcserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/justtrackio/gosoline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gosoline is our framework which fuels all of our Golang applications",
+  "homepage": [
+    "https://github.com/justtrackio/gosoline"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application",
+    "cfg",
+    "complex-logger",
+    "config-logger",
+    "consumer",
+    "create-a-consumer",
+    "create-a-money-exchange-app",
+    "create-an-application",
+    "create-an-http-server",
+    "from-env",
+    "from-file",
+    "from-map",
+    "from-settings",
+    "getters",
+    "grpcserver",
+    "health-check",
+    "kernel",
+    "log",
+    "log-context",
+    "log-handler",
+    "middleware",
+    "minimal-logger",
+    "module",
+    "output",
+    "prometheus",
+    "publisher",
+    "simple-handlers",
+    "static",
+    "stream-consumer",
+    "subscriber",
+    "write-crud-sql-app"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/justtrackio/gosoline/archive/d67f6674a164ef929dcab5c7febf7efc2462a09e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d67f667-250627T153053",
+  "version_upstream": "v0.41.1",
+  "bsum": "60857bd3fce5135b323aa9b091a0caf7555c3135d33f446990745d9bd5401b16",
+  "build_date": "2025-06-27T20:49:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933912502",
+  "build_id": "15933912502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/grpcserver?tag=HEAD-d67f667-250627T153053-aarch64-Linux&download=grpcserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/grpcserver?tag=HEAD-d67f667-250627T153053-aarch64-Linux&download=grpcserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/justtrackio/gosoline/grpcserver:HEAD-d67f667-250627T153053-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/justtrackio/gosoline/grpcserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/grpcserver?tag=HEAD-d67f667-250627T153053-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b41564298b97ffa149e0e666fb933678fe86f1a6266a9330887fead4788fa05",
+  "size": "49 MB",
+  "size_raw": "51172864",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8ca2fac-250623T110938-aarch64-Linux[v0.41.0]"
+  ],
+  "trusted": "true"
+}
