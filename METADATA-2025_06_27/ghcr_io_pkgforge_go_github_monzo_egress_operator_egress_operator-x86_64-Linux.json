@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "egress-operator",
+  "pkg_family": "egress-operator",
+  "pkg_id": "egress-operator#github.com_monzo_egress_operator",
+  "pkg_name": "egress-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/monzo/egress-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator to produce egress gateway Envoy pods and control access to them with network policies",
+  "homepage": [
+    "https://github.com/monzo/egress-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "egress-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/monzo/egress-operator/archive/a98aca4ca9a3fb877b52c252979d30cefa30927f.tar.gz"
+  ],
+  "tag": [
+    "egress",
+    "envoy",
+    "kubernetes",
+    "networking",
+    "operator",
+    "security"
+  ],
+  "version": "HEAD-a98aca4-250627T143743",
+  "version_upstream": "",
+  "bsum": "27e5033f9736a6991961b2045020d35b6ba6d2c134b4685362f570321fd0dce0",
+  "build_date": "2025-06-27T16:54:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930962194",
+  "build_id": "15930962194",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/monzo/egress-operator/egress-operator?tag=HEAD-a98aca4-250627T143743-x86_64-Linux&download=egress-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "252",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/monzo/egress-operator/egress-operator?tag=HEAD-a98aca4-250627T143743-x86_64-Linux&download=egress-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/monzo/egress-operator/egress-operator:HEAD-a98aca4-250627T143743-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/monzo/egress-operator/egress-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/monzo/egress-operator/egress-operator?tag=HEAD-a98aca4-250627T143743-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c207b15267d52f1c52ca1b5161d10153d5ffdffd4f0ef31cfc766eee7be623e1",
+  "size": "52 MB",
+  "size_raw": "54142880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
