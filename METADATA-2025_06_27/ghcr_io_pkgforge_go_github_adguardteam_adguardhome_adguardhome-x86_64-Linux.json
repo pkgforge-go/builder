@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "adguardhome",
+  "pkg_family": "AdGuardHome",
+  "pkg_id": "adguardhome#github.com_AdguardTeam_AdGuardHome",
+  "pkg_name": "adguardhome",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AdguardTeam/AdGuardHome",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network-wide ads _ trackers blocking DNS server",
+  "homepage": [
+    "https://github.com/AdguardTeam/AdGuardHome"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adguardhome",
+    "blocked-services",
+    "translations",
+    "vetted-filters"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AdguardTeam/AdGuardHome/archive/e38d3a529aef169892b36ba71a24722b9337c7d0.tar.gz"
+  ],
+  "tag": [
+    "adblock",
+    "adguard",
+    "dns",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "dnscrypt",
+    "golang",
+    "open-source",
+    "privacy"
+  ],
+  "version": "HEAD-e38d3a5-250626T192150",
+  "version_upstream": "",
+  "bsum": "d15b5770022740af271e4ca65fed2c4679bb0f1653067c302aa6616ecba59a95",
+  "build_date": "2025-06-27T09:56:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369130",
+  "build_id": "15923369130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/adguardhome?tag=HEAD-e38d3a5-250626T192150-x86_64-Linux&download=adguardhome.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28920",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/adguardhome?tag=HEAD-e38d3a5-250626T192150-x86_64-Linux&download=adguardhome",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adguardteam/adguardhome/adguardhome:HEAD-e38d3a5-250626T192150-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adguardteam/adguardhome/adguardhome",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/adguardhome?tag=HEAD-e38d3a5-250626T192150-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "395978f3b4524b551233b2aef0a33721836c7403d02ef8e9af48648e8bdd3c29",
+  "size": "25 MB",
+  "size_raw": "25474592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16fda88-250610T165845-x86_64-Linux[v0.108.0-b.71]",
+    "HEAD-b05d0fd-250623T105239-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
