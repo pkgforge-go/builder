@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gojudge",
+  "pkg_family": "sastoj",
+  "pkg_id": "gojudge#github.com_NJUPT_SAST_sastoj",
+  "pkg_name": "gojudge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NJUPT-SAST/sastoj",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Microservice Online Judge based on Go-Kratos",
+  "homepage": [
+    "https://github.com/NJUPT-SAST/sastoj"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "auth",
+    "cases",
+    "contest",
+    "freshcup",
+    "gateway",
+    "gojudge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NJUPT-SAST/sastoj/archive/92b19adaadf7516ed9e4285408d99fbf902a2701.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "go-kratos",
+    "golang",
+    "kratos",
+    "microservice",
+    "microservices",
+    "online-judge"
+  ],
+  "version": "HEAD-92b19ad-250627T204958",
+  "version_upstream": "",
+  "bsum": "beae6419b02f31c367c42b7d40fd11c0ef3d13b40ff5750dc0221149c4e079b2",
+  "build_date": "2025-06-27T15:59:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930345804",
+  "build_id": "15930345804",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njupt-sast/sastoj/gojudge?tag=HEAD-92b19ad-250627T204958-aarch64-Linux&download=gojudge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njupt-sast/sastoj/gojudge?tag=HEAD-92b19ad-250627T204958-aarch64-Linux&download=gojudge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/njupt-sast/sastoj/gojudge:HEAD-92b19ad-250627T204958-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/njupt-sast/sastoj/gojudge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njupt-sast/sastoj/gojudge?tag=HEAD-92b19ad-250627T204958-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c4808ae8a507aa06caf14c49595e0e3f33bb65c6800daac373545f04e491b004",
+  "size": "33 MB",
+  "size_raw": "34345312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
