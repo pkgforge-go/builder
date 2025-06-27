@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vault-pki-exporter",
+  "pkg_family": "vault-pki-exporter",
+  "pkg_id": "vault-pki-exporter#github.com_aarnaud_vault_pki_exporter",
+  "pkg_name": "vault-pki-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aarnaud/vault-pki-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provides information about X509 certificate on HashiCorp Vault for Prometheus and InfluxDB",
+  "homepage": [
+    "https://github.com/aarnaud/vault-pki-exporter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vault-pki-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aarnaud/vault-pki-exporter/archive/e517fb656b3350e67e910c4dea6588ec910def96.tar.gz"
+  ],
+  "tag": [
+    "certificate",
+    "certificate-authority",
+    "crl",
+    "pki",
+    "prometheus",
+    "vault"
+  ],
+  "version": "HEAD-e517fb6-250626T150201",
+  "version_upstream": "v2.2.2",
+  "bsum": "453cf6fc7aeee3ee8c9a98a2b564e9e7c886fd4ff3c85874f45981d3b7146986",
+  "build_date": "2025-06-27T07:11:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920171410",
+  "build_id": "15920171410",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarnaud/vault-pki-exporter/vault-pki-exporter?tag=HEAD-e517fb6-250626T150201-aarch64-Linux&download=vault-pki-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarnaud/vault-pki-exporter/vault-pki-exporter?tag=HEAD-e517fb6-250626T150201-aarch64-Linux&download=vault-pki-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aarnaud/vault-pki-exporter/vault-pki-exporter:HEAD-e517fb6-250626T150201-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aarnaud/vault-pki-exporter/vault-pki-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aarnaud/vault-pki-exporter/vault-pki-exporter?tag=HEAD-e517fb6-250626T150201-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "486402361445598e2d15841911ce61d8538a3ff7d067ebb5d055335cc14c2b09",
+  "size": "19 MB",
+  "size_raw": "19196928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
