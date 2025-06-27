@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "freshcup",
+  "pkg_family": "sastoj",
+  "pkg_id": "freshcup#github.com_NJUPT_SAST_sastoj",
+  "pkg_name": "freshcup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NJUPT-SAST/sastoj",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Microservice Online Judge based on Go-Kratos",
+  "homepage": [
+    "https://github.com/NJUPT-SAST/sastoj"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "auth",
+    "cases",
+    "contest",
+    "freshcup",
+    "gateway",
+    "gojudge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NJUPT-SAST/sastoj/archive/92b19adaadf7516ed9e4285408d99fbf902a2701.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "go-kratos",
+    "golang",
+    "kratos",
+    "microservice",
+    "microservices",
+    "online-judge"
+  ],
+  "version": "HEAD-92b19ad-250627T204958",
+  "version_upstream": "",
+  "bsum": "61fbd9f1cc6ec9bc3d560d55f72f3c7e265b86eb1d1de71f79d4bb8b18f711ff",
+  "build_date": "2025-06-27T16:00:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930345804",
+  "build_id": "15930345804",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njupt-sast/sastoj/freshcup?tag=HEAD-92b19ad-250627T204958-riscv64-Linux&download=freshcup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njupt-sast/sastoj/freshcup?tag=HEAD-92b19ad-250627T204958-riscv64-Linux&download=freshcup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/njupt-sast/sastoj/freshcup:HEAD-92b19ad-250627T204958-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/njupt-sast/sastoj/freshcup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njupt-sast/sastoj/freshcup?tag=HEAD-92b19ad-250627T204958-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb76ce582499a24ecf3a82a1f06c3f99cbe2f0291b1e6be8e54f63348c14d02f",
+  "size": "32 MB",
+  "size_raw": "33539960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
