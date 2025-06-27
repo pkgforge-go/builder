@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "testingaction",
+  "pkg_family": "kopia",
+  "pkg_id": "testingaction#github.com_kopia_kopia",
+  "pkg_name": "testingaction",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kopia/kopia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform backup tool for Windows, macOS _ Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+  "homepage": [
+    "https://github.com/kopia/kopia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigmapbench",
+    "gettool",
+    "perf_benchmark",
+    "testingaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kopia/kopia/archive/a8fc80f47c9875076b1eaaa9ba0a2248a6b5c98d.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "cloud",
+    "deduplication",
+    "encryption",
+    "google-cloud-storage",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-a8fc80f-250626T144230",
+  "version_upstream": "",
+  "bsum": "ac5c49be13efd7df012ee01bb49115e5e8283940a70a9390be2df2ee03c0f552",
+  "build_date": "2025-06-27T11:17:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923544092",
+  "build_id": "15923544092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/testingaction?tag=HEAD-a8fc80f-250626T144230-loongarch64-Linux&download=testingaction.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9936",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/testingaction?tag=HEAD-a8fc80f-250626T144230-loongarch64-Linux&download=testingaction",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kopia/kopia/testingaction:HEAD-a8fc80f-250626T144230-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kopia/kopia/testingaction",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/testingaction?tag=HEAD-a8fc80f-250626T144230-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6338c509917b19292e879fb73475fefecf88b1f40de9f8b57a8464ccd02b36be",
+  "size": "1.9 MB",
+  "size_raw": "1950520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-126395f-250619T212502-loongarch64-Linux",
+    "HEAD-1ead4a4-250624T012609-loongarch64-Linux",
+    "HEAD-dd78dc6-250624T155355-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
