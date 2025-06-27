@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gardener-extension-admission-shoot-dns-service",
+  "pkg_family": "gardener-extension-shoot-dns-service",
+  "pkg_id": "gardener-extension-admission-shoot-dns-service#github.com_gardener_gardener_extension_shoot_dns_service",
+  "pkg_name": "gardener-extension-admission-shoot-dns-service",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/gardener-extension-shoot-dns-service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gardener extension controller for DNS services for shoot clusters.",
+  "homepage": [
+    "https://github.com/gardener/gardener-extension-shoot-dns-service"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-extension-admission-shoot-dns-service",
+    "gardener-extension-shoot-dns-service"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/gardener-extension-shoot-dns-service/archive/85fbb5758b387224928064feeaf0d1009d24fa00.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-85fbb57-250627T131116",
+  "version_upstream": "",
+  "bsum": "b1d0f545a789b35ee9760a6ce8a3745fcab3909c037c1c7cd3e1a4f7df914879",
+  "build_date": "2025-06-27T16:29:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930466995",
+  "build_id": "15930466995",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-shoot-dns-service/gardener-extension-admission-shoot-dns-service?tag=HEAD-85fbb57-250627T131116-aarch64-Linux&download=gardener-extension-admission-shoot-dns-service.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-shoot-dns-service/gardener-extension-admission-shoot-dns-service?tag=HEAD-85fbb57-250627T131116-aarch64-Linux&download=gardener-extension-admission-shoot-dns-service",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/gardener-extension-shoot-dns-service/gardener-extension-admission-shoot-dns-service:HEAD-85fbb57-250627T131116-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/gardener-extension-shoot-dns-service/gardener-extension-admission-shoot-dns-service",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/gardener-extension-shoot-dns-service/gardener-extension-admission-shoot-dns-service?tag=HEAD-85fbb57-250627T131116-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ca3d09540a937a4d16ad78e83960b4dd26be228c442b6d6c48e844ec7e3a9eb",
+  "size": "57 MB",
+  "size_raw": "59619904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
