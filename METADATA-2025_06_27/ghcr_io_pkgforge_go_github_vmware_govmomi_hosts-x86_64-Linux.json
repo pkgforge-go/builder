@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hosts",
+  "pkg_family": "govmomi",
+  "pkg_id": "hosts#github.com_vmware_govmomi",
+  "pkg_name": "hosts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware/govmomi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the VMware vSphere API",
+  "homepage": [
+    "https://github.com/vmware/govmomi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "toolbox",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi/archive/8c70084a55723909b7d3951af41be51f888b158f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sdk",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-8c70084-250626T194034",
+  "version_upstream": "",
+  "bsum": "bc8cc19f0d85cbca248f41f70d409fa996d15b98b880a42c8b6d7ac3e7eb9011",
+  "build_date": "2025-06-27T12:25:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923781273",
+  "build_id": "15923781273",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/hosts?tag=HEAD-8c70084-250626T194034-x86_64-Linux&download=hosts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2385",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/hosts?tag=HEAD-8c70084-250626T194034-x86_64-Linux&download=hosts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi/hosts:HEAD-8c70084-250626T194034-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi/hosts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/hosts?tag=HEAD-8c70084-250626T194034-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e609b830c82940da38a02b671338d0d95869ff7a7acb5fdb2e4596d6927968e5",
+  "size": "28 MB",
+  "size_raw": "28616816",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-06d4a3f-250623T114907-x86_64-Linux",
+    "HEAD-39c6f0f-250624T160355-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
