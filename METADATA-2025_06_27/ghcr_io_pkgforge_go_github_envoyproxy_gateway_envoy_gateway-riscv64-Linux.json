@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "envoy-gateway",
+  "pkg_family": "gateway",
+  "pkg_id": "envoy-gateway#github.com_envoyproxy_gateway",
+  "pkg_name": "envoy-gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/envoyproxy/gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+  "homepage": [
+    "https://github.com/envoyproxy/gateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "envoy-gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/envoyproxy/gateway/archive/fd2abaf3bc3de85c65df04e58ac1edbab84bc160.tar.gz"
+  ],
+  "tag": [
+    "api-gateway",
+    "cncf",
+    "envoy",
+    "gateway-api",
+    "go-control-plane",
+    "hacktoberfest",
+    "kubernetes"
+  ],
+  "version": "HEAD-fd2abaf-250627T110152",
+  "version_upstream": "",
+  "bsum": "f916541430d8c71a6424fcec183d684c10fef42ae151d7229658db1acd343dcb",
+  "build_date": "2025-06-27T13:41:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927082799",
+  "build_id": "15927082799",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-fd2abaf-250627T110152-riscv64-Linux&download=envoy-gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1971",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-fd2abaf-250627T110152-riscv64-Linux&download=envoy-gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/envoyproxy/gateway/envoy-gateway:HEAD-fd2abaf-250627T110152-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/envoyproxy/gateway/envoy-gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/envoyproxy/gateway/envoy-gateway?tag=HEAD-fd2abaf-250627T110152-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "311556f516b62668b63adcfa1d89f31d9c0e9cbd2de0646fabe00350475645bf",
+  "size": "180 MB",
+  "size_raw": "187887864",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-db09d27-250620T190838-riscv64-Linux[latest]",
+    "HEAD-3e14c49-250621T161349-riscv64-Linux[latest]",
+    "HEAD-b01c373-250622T161054-riscv64-Linux[latest]",
+    "HEAD-ddc9a5c-250623T180440-riscv64-Linux[latest]",
+    "HEAD-6f42531-250624T225843-riscv64-Linux[latest]",
+    "HEAD-d809446-250625T161033-riscv64-Linux",
+    "HEAD-7bb4535-250626T101440-riscv64-Linux[latest]",
+    "HEAD-b9cdfb1-250626T210744-riscv64-Linux[latest]"
+  ],
+  "trusted": "true"
+}
