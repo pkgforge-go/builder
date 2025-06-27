@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "node_prep",
+  "pkg_family": "trident",
+  "pkg_id": "node_prep#github.com_NetApp_trident",
+  "pkg_name": "node_prep",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/trident",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Storage orchestrator for containers",
+  "homepage": [
+    "https://github.com/NetApp/trident"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chwrap",
+    "node_prep",
+    "operator",
+    "syswrap",
+    "trident",
+    "trident-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/trident/archive/df1afbb4565e0a6b3101287bcada5e1f027d4161.tar.gz"
+  ],
+  "tag": [
+    "netapp-public"
+  ],
+  "version": "HEAD-df1afbb-250626T162953",
+  "version_upstream": "",
+  "bsum": "cb0051feb396fa3a2f6c635b0693ce0b3dc40651e2db03863e2cdbe37d97b09b",
+  "build_date": "2025-06-27T10:07:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369380",
+  "build_id": "15923369380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/node_prep?tag=HEAD-df1afbb-250626T162953-aarch64-Linux&download=node_prep.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "801",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/node_prep?tag=HEAD-df1afbb-250626T162953-aarch64-Linux&download=node_prep",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/trident/node_prep:HEAD-df1afbb-250626T162953-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/trident/node_prep",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/node_prep?tag=HEAD-df1afbb-250626T162953-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8aa1dcf7599d325da69953e4f3de1b8c6715e5ca50005a3b573ed98c18a1605a",
+  "size": "4.9 MB",
+  "size_raw": "5050528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e3969e-250620T211427-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

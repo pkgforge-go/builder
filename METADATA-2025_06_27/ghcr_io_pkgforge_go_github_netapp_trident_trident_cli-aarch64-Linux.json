@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "trident-cli",
+  "pkg_family": "trident",
+  "pkg_id": "trident-cli#github.com_NetApp_trident",
+  "pkg_name": "trident-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/trident",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Storage orchestrator for containers",
+  "homepage": [
+    "https://github.com/NetApp/trident"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chwrap",
+    "node_prep",
+    "operator",
+    "syswrap",
+    "trident",
+    "trident-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/trident/archive/df1afbb4565e0a6b3101287bcada5e1f027d4161.tar.gz"
+  ],
+  "tag": [
+    "netapp-public"
+  ],
+  "version": "HEAD-df1afbb-250626T162953",
+  "version_upstream": "",
+  "bsum": "0d4b3f89c7233cef6b5de0089e0861063fbeb22023121c555e9de18b88d7a0e2",
+  "build_date": "2025-06-27T10:07:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369380",
+  "build_id": "15923369380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/trident-cli?tag=HEAD-df1afbb-250626T162953-aarch64-Linux&download=trident-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "801",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/trident-cli?tag=HEAD-df1afbb-250626T162953-aarch64-Linux&download=trident-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/trident/trident-cli:HEAD-df1afbb-250626T162953-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/trident/trident-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/trident-cli?tag=HEAD-df1afbb-250626T162953-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5cb11fd32a81b79757b15f0ee2102e99143f86c197288b40bfb5a61e60bdc2a5",
+  "size": "136 MB",
+  "size_raw": "142573760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e3969e-250620T211427-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
