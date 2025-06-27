@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "zonedb",
+  "pkg_family": "zonedb",
+  "pkg_id": "zonedb#github.com_zonedb_zonedb",
+  "pkg_name": "zonedb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zonedb/zonedb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Public Zone Database",
+  "homepage": [
+    "https://github.com/zonedb/zonedb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zonedb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/zonedb/zonedb/archive/b74e1ab97066ef091551e0a4c9a8df28a19f1e3e.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "domain-name",
+    "go",
+    "golang",
+    "idn",
+    "whois"
+  ],
+  "version": "HEAD-b74e1ab-250626T085121",
+  "version_upstream": "v1.0.5227",
+  "bsum": "fc42e287096c8fa3025b3c835e1179070523333a06331f0ee3d70e31bffaa63f",
+  "build_date": "2025-06-27T03:42:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916744221",
+  "build_id": "15916744221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zonedb/zonedb/zonedb?tag=HEAD-b74e1ab-250626T085121-loongarch64-Linux&download=zonedb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "253",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zonedb/zonedb/zonedb?tag=HEAD-b74e1ab-250626T085121-loongarch64-Linux&download=zonedb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zonedb/zonedb/zonedb:HEAD-b74e1ab-250626T085121-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zonedb/zonedb/zonedb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zonedb/zonedb/zonedb?tag=HEAD-b74e1ab-250626T085121-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70d33f1f86c81a2c6cfe20e335a280c1baa8dd365d4ace07cd152d714bab1854",
+  "size": "11 MB",
+  "size_raw": "10979264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-094e7a9-250622T084935-loongarch64-Linux[v1.0.5223]",
+    "HEAD-8db5128-250623T085348-loongarch64-Linux[v1.0.5224]",
+    "HEAD-615d0fc-250624T085229-loongarch64-Linux[v1.0.5225]",
+    "HEAD-63e8e83-250625T085241-loongarch64-Linux[v1.0.5226]"
+  ],
+  "trusted": "true"
+}
