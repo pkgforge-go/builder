@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spark-operator",
+  "pkg_family": "spark-operator",
+  "pkg_id": "spark-operator#github.com_kubeflow_spark_operator",
+  "pkg_name": "spark-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubeflow/spark-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.",
+  "homepage": [
+    "https://github.com/kubeflow/spark-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "spark-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubeflow/spark-operator/archive/9d10f2f67a54d3963337c3bdba955dd1517b3b89.tar.gz"
+  ],
+  "tag": [
+    "apache-spark",
+    "google-cloud-dataproc",
+    "kubernetes",
+    "kubernetes-controller",
+    "kubernetes-crd",
+    "kubernetes-operator",
+    "spark"
+  ],
+  "version": "HEAD-9d10f2f-250627T010617",
+  "version_upstream": "",
+  "bsum": "9674b566e17990b3179226e15e6bf29de5f11a4d8c150998fe1e8adbea442e7f",
+  "build_date": "2025-06-27T07:48:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920261586",
+  "build_id": "15920261586",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/spark-operator/spark-operator?tag=HEAD-9d10f2f-250627T010617-riscv64-Linux&download=spark-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2952",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/spark-operator/spark-operator?tag=HEAD-9d10f2f-250627T010617-riscv64-Linux&download=spark-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubeflow/spark-operator/spark-operator:HEAD-9d10f2f-250627T010617-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubeflow/spark-operator/spark-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubeflow/spark-operator/spark-operator?tag=HEAD-9d10f2f-250627T010617-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ca07a96f12e9d1b523b43fe34c621f3fedf0001f04408c0a1996f747852fb45",
+  "size": "53 MB",
+  "size_raw": "54870520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
