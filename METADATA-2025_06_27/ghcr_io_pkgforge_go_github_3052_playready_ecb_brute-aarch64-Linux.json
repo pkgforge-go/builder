@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ecb-brute",
+  "pkg_family": "playReady",
+  "pkg_id": "ecb-brute#github.com_3052_playReady",
+  "pkg_name": "ecb-brute",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/3052/playReady",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PlayReady implementation",
+  "homepage": [
+    "https://github.com/3052/playReady"
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "2025-05",
+    "cbc",
+    "ecb",
+    "ecb-brute"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/3052/playReady/archive/b3ef26adfed6567254f4edb6f8a1588c36fc25e3.tar.gz"
+  ],
+  "tag": [
+    "drm",
+    "microsoft"
+  ],
+  "version": "HEAD-b3ef26a-250626T071023",
+  "version_upstream": "v1.0.7",
+  "bsum": "6b3c3d7f0357343b5424f4cdfacb688f12db6a365d8a420a447cccfb8e7b976b",
+  "build_date": "2025-06-27T02:17:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916547079",
+  "build_id": "15916547079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/ecb-brute?tag=HEAD-b3ef26a-250626T071023-aarch64-Linux&download=ecb-brute.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/ecb-brute?tag=HEAD-b3ef26a-250626T071023-aarch64-Linux&download=ecb-brute",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/3052/playready/ecb-brute:HEAD-b3ef26a-250626T071023-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/3052/playready/ecb-brute",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/ecb-brute?tag=HEAD-b3ef26a-250626T071023-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f02b579b88433586ceda51666e79a95a37e714ba8048d71407807d370aa59666",
+  "size": "1.8 MB",
+  "size_raw": "1873600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e216d0c-250618T200058-aarch64-Linux",
+    "HEAD-7b4c18a-250622T001501-aarch64-Linux",
+    "HEAD-13b5d35-250622T224754-aarch64-Linux",
+    "HEAD-21b1188-250623T071208-aarch64-Linux",
+    "HEAD-6f804d4-250623T214615-aarch64-Linux",
+    "HEAD-1046218-250624T074205-aarch64-Linux",
+    "HEAD-73e56de-250624T222532-aarch64-Linux",
+    "HEAD-7ed4093-250625T065854-aarch64-Linux",
+    "HEAD-bb02750-250625T220132-aarch64-Linux",
+    "HEAD-b3ef26a-250626T071023-aarch64-Linux[v1.0.7]"
+  ],
+  "trusted": "true"
+}
