@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "loopd",
+  "pkg_family": "loop",
+  "pkg_id": "loopd#github.com_lightninglabs_loop",
+  "pkg_name": "loopd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lightninglabs/loop",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lightning Loop: A Non-Custodial Off/On Chain Bridge",
+  "homepage": [
+    "https://github.com/lightninglabs/loop"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "loop",
+    "loopd",
+    "stateparser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lightninglabs/loop/archive/1104e928ff1387f0f2a129924c953926a99e3d8f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1104e92-250627T093207",
+  "version_upstream": "",
+  "bsum": "7058c7fec4923f846b940926dcd3df9d11dc91124d825fa27235258d9c80d3d0",
+  "build_date": "2025-06-27T22:58:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936746441",
+  "build_id": "15936746441",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/loop/loopd?tag=HEAD-1104e92-250627T093207-loongarch64-Linux&download=loopd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "575",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/loop/loopd?tag=HEAD-1104e92-250627T093207-loongarch64-Linux&download=loopd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lightninglabs/loop/loopd:HEAD-1104e92-250627T093207-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lightninglabs/loop/loopd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lightninglabs/loop/loopd?tag=HEAD-1104e92-250627T093207-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5cd6306e23fcc456eead857b4be5b7604d0db23b6e85839bdef915f8c33b4004",
+  "size": "50 MB",
+  "size_raw": "52360240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e145963-250623T111725-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
