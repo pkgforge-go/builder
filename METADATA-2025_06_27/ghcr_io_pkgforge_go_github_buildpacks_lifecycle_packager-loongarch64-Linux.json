@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "packager",
+  "pkg_family": "lifecycle",
+  "pkg_id": "packager#github.com_buildpacks_lifecycle",
+  "pkg_name": "packager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buildpacks/lifecycle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference implementation of the Cloud Native Buildpacks lifecycle",
+  "homepage": [
+    "https://github.com/buildpacks/lifecycle"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "image",
+    "launcher",
+    "lifecycle",
+    "lister",
+    "packager",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/buildpacks/lifecycle/archive/eff4eb9d828cc8a4db6c6e3a7357fd1077a5f084.tar.gz"
+  ],
+  "tag": [
+    "buildpacks",
+    "cloud-native-buildpacks",
+    "cncf"
+  ],
+  "version": "HEAD-eff4eb9-250626T150110",
+  "version_upstream": "",
+  "bsum": "636065a9ca3e7c2ee0651324f4f7e5f31bf3f6b76e9635f436401be1c017d47e",
+  "build_date": "2025-06-27T13:23:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927044224",
+  "build_id": "15927044224",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildpacks/lifecycle/packager?tag=HEAD-eff4eb9-250626T150110-loongarch64-Linux&download=packager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "195",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildpacks/lifecycle/packager?tag=HEAD-eff4eb9-250626T150110-loongarch64-Linux&download=packager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildpacks/lifecycle/packager:HEAD-eff4eb9-250626T150110-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildpacks/lifecycle/packager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildpacks/lifecycle/packager?tag=HEAD-eff4eb9-250626T150110-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "87f5efe39d858e9fa24fb1a4c5ebd4c03fccbc09e07dbe47a2d8e1781f7f375c",
+  "size": "6.4 MB",
+  "size_raw": "6624480",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4e5936a-250624T091842-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
