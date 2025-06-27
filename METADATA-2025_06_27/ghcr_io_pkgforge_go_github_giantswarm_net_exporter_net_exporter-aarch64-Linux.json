@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "net-exporter",
+  "pkg_family": "net-exporter",
+  "pkg_id": "net-exporter#github.com_giantswarm_net_exporter",
+  "pkg_name": "net-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/giantswarm/net-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Prometheus exporter for exposing network information in Kubernetes clusters",
+  "homepage": [
+    "https://github.com/giantswarm/net-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "net-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/giantswarm/net-exporter/archive/4ca1e0f36b087a5d206fdbee6d005fb2a0558f5f.tar.gz"
+  ],
+  "tag": [
+    "core-component",
+    "kubernetes",
+    "prometheus",
+    "prometheus-exporter"
+  ],
+  "version": "HEAD-4ca1e0f-250627T112004",
+  "version_upstream": "",
+  "bsum": "eee29f1a180ae9c50131246318d37bd28225b3948f3093f70be8863ad444f0a1",
+  "build_date": "2025-06-27T16:29:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930468962",
+  "build_id": "15930468962",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/net-exporter/net-exporter?tag=HEAD-4ca1e0f-250627T112004-aarch64-Linux&download=net-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/net-exporter/net-exporter?tag=HEAD-4ca1e0f-250627T112004-aarch64-Linux&download=net-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/giantswarm/net-exporter/net-exporter:HEAD-4ca1e0f-250627T112004-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/giantswarm/net-exporter/net-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/giantswarm/net-exporter/net-exporter?tag=HEAD-4ca1e0f-250627T112004-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5fbf60ff2abb89f2a6d2c980c22524f24fcf61cc5c74419c68a105d59c4da80",
+  "size": "50 MB",
+  "size_raw": "51764544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
