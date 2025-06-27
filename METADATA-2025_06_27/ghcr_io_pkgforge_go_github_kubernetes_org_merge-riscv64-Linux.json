@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "merge",
+  "pkg_family": "org",
+  "pkg_id": "merge#github.com_kubernetes_org",
+  "pkg_name": "merge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Meta configuration for Kubernetes Github Org",
+  "homepage": [
+    "https://github.com/kubernetes/org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "korg",
+    "merge",
+    "restrictions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/org/archive/190a6d56ba4a1294b0360467d096ddf2c9900909.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-contribex"
+  ],
+  "version": "HEAD-190a6d5-250626T033028",
+  "version_upstream": "",
+  "bsum": "aada184ceb00d0a86848a0eebe66f4afd8cce4b249fbb3965ab08cb9ad3f5a7d",
+  "build_date": "2025-06-27T02:58:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916632237",
+  "build_id": "15916632237",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/merge?tag=HEAD-190a6d5-250626T033028-riscv64-Linux&download=merge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "273",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/merge?tag=HEAD-190a6d5-250626T033028-riscv64-Linux&download=merge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/org/merge:HEAD-190a6d5-250626T033028-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/org/merge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/org/merge?tag=HEAD-190a6d5-250626T033028-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77eee55021cf840b9b872f99ad651b41e6eb56bda0f7e6b3ed9450a3846b19bc",
+  "size": "14 MB",
+  "size_raw": "13837240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9b3d3ce-250621T000452-riscv64-Linux",
+    "HEAD-c62a004-250625T005629-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
