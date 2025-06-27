@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "issuer",
+  "pkg_family": "identity",
+  "pkg_id": "issuer#github.com_agntcy_identity",
+  "pkg_name": "issuer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/agntcy/identity",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AGNTCY Identity allows to onboard, create and verify identities for Agents, Model Context Protocol _MCP_ Servers and Multi-Agent Systems _MASs_.",
+  "homepage": [
+    "https://github.com/agntcy/identity"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "issuer",
+    "node"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/agntcy/identity/archive/eb859d25a9745f0e0c7f65dbaa5d940d7a08795b.tar.gz"
+  ],
+  "tag": [
+    "agntcy",
+    "identity"
+  ],
+  "version": "HEAD-eb859d2-250627T153423",
+  "version_upstream": "v0.0.5",
+  "bsum": "ca4a7a36c9dffcda418c784a99b5028ac23472693c4375e6133f1558f3924e8b",
+  "build_date": "2025-06-27T22:08:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936638933",
+  "build_id": "15936638933",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agntcy/identity/issuer?tag=HEAD-eb859d2-250627T153423-riscv64-Linux&download=issuer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agntcy/identity/issuer?tag=HEAD-eb859d2-250627T153423-riscv64-Linux&download=issuer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/agntcy/identity/issuer:HEAD-eb859d2-250627T153423-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/agntcy/identity/issuer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/agntcy/identity/issuer?tag=HEAD-eb859d2-250627T153423-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4bbf90a9e648c8cff57e3e81ad3ae4b1229572d053d7615d9536296b67024b71",
+  "size": "14 MB",
+  "size_raw": "13651128",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cc0909e-250618T220919-riscv64-Linux[v0.0.2]",
+    "HEAD-f173507-250624T125420-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
