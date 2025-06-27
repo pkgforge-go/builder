@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stress",
+  "pkg_family": "homing-pigeon",
+  "pkg_id": "stress#github.com_softonic_homing_pigeon",
+  "pkg_name": "stress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/softonic/homing-pigeon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Write messages reveived from input interface to output interface",
+  "homepage": [
+    "https://github.com/softonic/homing-pigeon"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "homing-pigeon-pkg",
+    "stress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/softonic/homing-pigeon/archive/0a38de4c65004fac6d8229d08a9dbec7c4f20e9b.tar.gz"
+  ],
+  "tag": [
+    "homing-pigeon"
+  ],
+  "version": "HEAD-0a38de4-250627T113040",
+  "version_upstream": "v0.9.6",
+  "bsum": "33c686bb08f28562eddf72e1a919c7a3ab4b3161d8b38210eddf45de07c3ba26",
+  "build_date": "2025-06-27T17:12:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931205401",
+  "build_id": "15931205401",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/softonic/homing-pigeon/stress?tag=HEAD-0a38de4-250627T113040-riscv64-Linux&download=stress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/softonic/homing-pigeon/stress?tag=HEAD-0a38de4-250627T113040-riscv64-Linux&download=stress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/softonic/homing-pigeon/stress:HEAD-0a38de4-250627T113040-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/softonic/homing-pigeon/stress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/softonic/homing-pigeon/stress?tag=HEAD-0a38de4-250627T113040-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cfe3aea81dae3090b4651cf095c156d1b327d9a6dd320bbba716d16f27f19eaa",
+  "size": "6.9 MB",
+  "size_raw": "7187096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
