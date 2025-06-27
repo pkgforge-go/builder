@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "devp2p",
+  "pkg_family": "xsc-chain",
+  "pkg_id": "devp2p#github.com_xt_smartchain_xsc_chain",
+  "pkg_name": "devp2p",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xt-smartchain/xsc-chain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "XT Smart Chain, a chain based on the go-ethereum fork",
+  "homepage": [
+    "https://github.com/xt-smartchain/xsc-chain"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "debug",
+    "devp2p",
+    "examples",
+    "p2psim",
+    "puppeth",
+    "rlpdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xt-smartchain/xsc-chain/archive/dc709c0dc61ea12aa32cf34ee311d4b5e301cae6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dc709c0-250627T173055",
+  "version_upstream": "",
+  "bsum": "899fd70023ed2b080b2dbdc1e6d3b9a53954c63e8e3d2e3728df7f059eaffbf7",
+  "build_date": "2025-06-27T17:40:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931341677",
+  "build_id": "15931341677",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xt-smartchain/xsc-chain/devp2p?tag=HEAD-dc709c0-250627T173055-aarch64-Linux&download=devp2p.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xt-smartchain/xsc-chain/devp2p?tag=HEAD-dc709c0-250627T173055-aarch64-Linux&download=devp2p",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xt-smartchain/xsc-chain/devp2p:HEAD-dc709c0-250627T173055-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xt-smartchain/xsc-chain/devp2p",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xt-smartchain/xsc-chain/devp2p?tag=HEAD-dc709c0-250627T173055-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72d0bc3d90066545e4f45d02086ba77e40539f9bab4dacdc2ebe140877e98556",
+  "size": "25 MB",
+  "size_raw": "25994368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

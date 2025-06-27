@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "examples",
+  "pkg_family": "xsc-chain",
+  "pkg_id": "examples#github.com_xt_smartchain_xsc_chain",
+  "pkg_name": "examples",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xt-smartchain/xsc-chain",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "XT Smart Chain, a chain based on the go-ethereum fork",
+  "homepage": [
+    "https://github.com/xt-smartchain/xsc-chain"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "abidump",
+    "debug",
+    "devp2p",
+    "examples",
+    "p2psim",
+    "puppeth",
+    "rlpdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xt-smartchain/xsc-chain/archive/dc709c0dc61ea12aa32cf34ee311d4b5e301cae6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dc709c0-250627T173055",
+  "version_upstream": "",
+  "bsum": "3224420938e7b7378ca19d279f347d6a08f939e921b7af66425d585d302494a8",
+  "build_date": "2025-06-27T17:39:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931341677",
+  "build_id": "15931341677",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xt-smartchain/xsc-chain/examples?tag=HEAD-dc709c0-250627T173055-aarch64-Linux&download=examples.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xt-smartchain/xsc-chain/examples?tag=HEAD-dc709c0-250627T173055-aarch64-Linux&download=examples",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xt-smartchain/xsc-chain/examples:HEAD-dc709c0-250627T173055-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xt-smartchain/xsc-chain/examples",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xt-smartchain/xsc-chain/examples?tag=HEAD-dc709c0-250627T173055-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d43a532fdf8528a1e3c60055231ad3053d1c0dfcc9cc93006b4f6cf88587472f",
+  "size": "26 MB",
+  "size_raw": "26397056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
