@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mysql",
+  "pkg_family": "mysql",
+  "pkg_id": "mysql#github.com_stashed_mysql",
+  "pkg_name": "mysql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stashed/mysql",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MySQL backup and restore plugin for Stash by AppsCode",
+  "homepage": [
+    "https://github.com/stashed/mysql"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mysql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stashed/mysql/archive/8ca4067ee0d879bb3e34cae51d8e38571695a1a9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8ca4067-250626T183428",
+  "version_upstream": "",
+  "bsum": "18661f720164d370335366dde4271f7d7240bf984046c87733a46dbd535cc81f",
+  "build_date": "2025-06-27T08:34:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921139283",
+  "build_id": "15921139283",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stashed/mysql/mysql?tag=HEAD-8ca4067-250626T183428-riscv64-Linux&download=mysql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stashed/mysql/mysql?tag=HEAD-8ca4067-250626T183428-riscv64-Linux&download=mysql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stashed/mysql/mysql:HEAD-8ca4067-250626T183428-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stashed/mysql/mysql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stashed/mysql/mysql?tag=HEAD-8ca4067-250626T183428-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90edcc60b238d025d15546445d129532846a4ba9dbd8e2c8bcf81f5b2c83943f",
+  "size": "47 MB",
+  "size_raw": "48250104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
