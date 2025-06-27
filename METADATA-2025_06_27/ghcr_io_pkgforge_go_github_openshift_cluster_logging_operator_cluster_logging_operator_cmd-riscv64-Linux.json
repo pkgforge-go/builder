@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cluster-logging-operator-cmd",
+  "pkg_family": "cluster-logging-operator",
+  "pkg_id": "cluster-logging-operator-cmd#github.com_openshift_cluster_logging_operator",
+  "pkg_name": "cluster-logging-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-logging-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to support logging subsystem of OpenShift",
+  "homepage": [
+    "https://github.com/openshift/cluster-logging-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-logging-operator-cmd",
+    "forwarder-generator",
+    "functional-benchmarker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-logging-operator/archive/6b13ce208eb8e92428e1cc42c93a167f94b0ab4a.tar.gz"
+  ],
+  "tag": [
+    "fluentd",
+    "logcollection",
+    "logging",
+    "vector"
+  ],
+  "version": "HEAD-6b13ce2-250626T181834",
+  "version_upstream": "",
+  "bsum": "dfec511bb06962f284ab53a36c801388dc72cf023a37f68648593a0f99c2e7eb",
+  "build_date": "2025-06-27T08:19:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920909137",
+  "build_id": "15920909137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/cluster-logging-operator-cmd?tag=HEAD-6b13ce2-250626T181834-riscv64-Linux&download=cluster-logging-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "109",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/cluster-logging-operator-cmd?tag=HEAD-6b13ce2-250626T181834-riscv64-Linux&download=cluster-logging-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-logging-operator/cluster-logging-operator-cmd:HEAD-6b13ce2-250626T181834-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-logging-operator/cluster-logging-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/cluster-logging-operator-cmd?tag=HEAD-6b13ce2-250626T181834-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa96a0c516d0e7fb91b23ac93dc5a9dd46e3f36e1735984340bb35f5a3e2059f",
+  "size": "55 MB",
+  "size_raw": "56947896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
