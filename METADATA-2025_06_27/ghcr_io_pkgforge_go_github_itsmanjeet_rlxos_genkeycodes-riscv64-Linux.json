@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "genkeycodes",
+  "pkg_family": "rlxos",
+  "pkg_id": "genkeycodes#github.com_itsManjeet_rlxos",
+  "pkg_name": "genkeycodes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "debug",
+    "genkeycodes",
+    "init",
+    "service",
+    "shell",
+    "udevd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/aded715365138d5868cd39ec1a740975c249e52d.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-aded715-250627T133245",
+  "version_upstream": "",
+  "bsum": "3114747618219c2e917b26739af22051520e8b7db261c649b11a28dac23a1b63",
+  "build_date": "2025-06-27T20:23:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933910491",
+  "build_id": "15933910491",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-aded715-250627T133245-riscv64-Linux&download=genkeycodes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-aded715-250627T133245-riscv64-Linux&download=genkeycodes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes:HEAD-aded715-250627T133245-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-aded715-250627T133245-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9528280af470fefbf753dc47b04da01761b806fe1a85f12efdbe2f8fe55322c",
+  "size": "1.9 MB",
+  "size_raw": "1955976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95b2757-250621T144346-riscv64-Linux",
+    "HEAD-80c2a1b-250622T223945-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
