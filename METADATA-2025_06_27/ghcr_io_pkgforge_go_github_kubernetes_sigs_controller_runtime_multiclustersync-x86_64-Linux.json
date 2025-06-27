@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "multiclustersync",
+  "pkg_family": "controller-runtime",
+  "pkg_id": "multiclustersync#github.com_kubernetes_sigs_controller_runtime",
+  "pkg_name": "multiclustersync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/controller-runtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repo for the controller-runtime subproject of kubebuilder _sig-apimachinery_",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/controller-runtime"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builtins",
+    "crd",
+    "gomodcheck",
+    "multiclustersync",
+    "priorityqueue",
+    "tokenreview",
+    "typed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/controller-runtime/archive/cacd627d0b9bc46b592cf5f96f57f1308313618e.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-api-machinery"
+  ],
+  "version": "HEAD-cacd627-250626T110032",
+  "version_upstream": "",
+  "bsum": "d41f88d32b29cd1711f29d095d6ffeaad80a942d44bbb7d974b2c6baf9dd3d40",
+  "build_date": "2025-06-27T07:56:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920263710",
+  "build_id": "15920263710",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-runtime/multiclustersync?tag=HEAD-cacd627-250626T110032-x86_64-Linux&download=multiclustersync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2734",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-runtime/multiclustersync?tag=HEAD-cacd627-250626T110032-x86_64-Linux&download=multiclustersync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/controller-runtime/multiclustersync:HEAD-cacd627-250626T110032-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/controller-runtime/multiclustersync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-runtime/multiclustersync?tag=HEAD-cacd627-250626T110032-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "890735f3f9211d6822c5f25bcef905734ed71840a96986210933fec13880a2cb",
+  "size": "34 MB",
+  "size_raw": "34792608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
