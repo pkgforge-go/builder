@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kubetest2-eksapi-janitor",
+  "pkg_family": "aws-k8s-tester",
+  "pkg_id": "kubetest2-eksapi-janitor#github.com_aws_aws_k8s_tester",
+  "pkg_name": "kubetest2-eksapi-janitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/aws-k8s-tester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for testing Kubernetes on AWS",
+  "homepage": [
+    "https://github.com/aws/aws-k8s-tester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubetest2-eksapi",
+    "kubetest2-eksapi-janitor",
+    "kubetest2-eksctl",
+    "kubetest2-tester-ginkgo-v1",
+    "kubetest2-tester-multi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/aws-k8s-tester/archive/96f1f0f3e96721196d48d671d5942940a8fafaa3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-96f1f0f-250626T105604",
+  "version_upstream": "",
+  "bsum": "885d686a09aa6e05ff916dc26c72e1603f4637f2190a46eb093d699b0fa891ef",
+  "build_date": "2025-06-27T07:26:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920174564",
+  "build_id": "15920174564",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi-janitor?tag=HEAD-96f1f0f-250626T105604-riscv64-Linux&download=kubetest2-eksapi-janitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi-janitor?tag=HEAD-96f1f0f-250626T105604-riscv64-Linux&download=kubetest2-eksapi-janitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi-janitor:HEAD-96f1f0f-250626T105604-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi-janitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-eksapi-janitor?tag=HEAD-96f1f0f-250626T105604-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a3dbb525004b7d57ea13358e2a41c372fb3b665ff2f516024af0017a16159f0",
+  "size": "79 MB",
+  "size_raw": "82728184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
