@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "prometheus",
+  "pkg_family": "gosoline",
+  "pkg_id": "prometheus#github.com_justtrackio_gosoline",
+  "pkg_name": "prometheus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/justtrackio/gosoline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gosoline is our framework which fuels all of our Golang applications",
+  "homepage": [
+    "https://github.com/justtrackio/gosoline"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application",
+    "cfg",
+    "complex-logger",
+    "config-logger",
+    "consumer",
+    "create-a-consumer",
+    "create-a-money-exchange-app",
+    "create-an-application",
+    "create-an-http-server",
+    "from-env",
+    "from-file",
+    "from-map",
+    "from-settings",
+    "getters",
+    "grpcserver",
+    "health-check",
+    "kernel",
+    "log",
+    "log-context",
+    "log-handler",
+    "middleware",
+    "minimal-logger",
+    "module",
+    "output",
+    "prometheus",
+    "publisher",
+    "simple-handlers",
+    "static",
+    "stream-consumer",
+    "subscriber",
+    "write-crud-sql-app"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/justtrackio/gosoline/archive/d67f6674a164ef929dcab5c7febf7efc2462a09e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d67f667-250627T153053",
+  "version_upstream": "v0.41.1",
+  "bsum": "a4d953b376b501b3a8bd318b631fb7b381d831993f42bb57e01b08163ae30584",
+  "build_date": "2025-06-27T20:50:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933912502",
+  "build_id": "15933912502",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/prometheus?tag=HEAD-d67f667-250627T153053-loongarch64-Linux&download=prometheus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/prometheus?tag=HEAD-d67f667-250627T153053-loongarch64-Linux&download=prometheus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/justtrackio/gosoline/prometheus:HEAD-d67f667-250627T153053-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/justtrackio/gosoline/prometheus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/justtrackio/gosoline/prometheus?tag=HEAD-d67f667-250627T153053-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74e2aaf197df8616619db9c6b50f47cb8feef348a49968ff03a0b50879fcac21",
+  "size": "54 MB",
+  "size_raw": "56364640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8ca2fac-250623T110938-loongarch64-Linux[v0.41.0]"
+  ],
+  "trusted": "true"
+}
