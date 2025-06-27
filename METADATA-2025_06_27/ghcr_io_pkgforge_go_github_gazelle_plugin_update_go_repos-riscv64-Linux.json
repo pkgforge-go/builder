@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "update_go_repos",
+  "pkg_family": "swift_gazelle_plugin",
+  "pkg_id": "update_go_repos#github.com_cgrindel_swift_gazelle_plugin",
+  "pkg_name": "update_go_repos",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cgrindel/swift_gazelle_plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gazelle plugin for Swift files.",
+  "homepage": [
+    "https://github.com/cgrindel/swift_gazelle_plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate_ci_workflow",
+    "update_go_repos"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cgrindel/swift_gazelle_plugin/archive/0028c9563ea91086a10ec6d2b4aa72be0dce660b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0028c95-250626T063416",
+  "version_upstream": "",
+  "bsum": "4e3a40e910afb32ea0d452e279acc5a926a81095194f4cb72231f4c5fbd56eba",
+  "build_date": "2025-06-27T02:30:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916549770",
+  "build_id": "15916549770",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gazelle/plugin/update_go_repos?tag=HEAD-0028c95-250626T063416-riscv64-Linux&download=update_go_repos.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gazelle/plugin/update_go_repos?tag=HEAD-0028c95-250626T063416-riscv64-Linux&download=update_go_repos",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gazelle/plugin/update_go_repos:HEAD-0028c95-250626T063416-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gazelle/plugin/update_go_repos",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gazelle/plugin/update_go_repos?tag=HEAD-0028c95-250626T063416-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "928431306490dfaac094260f4b319d0e97b980d44c548ae07e4de4cd94f53246",
+  "size": "2.7 MB",
+  "size_raw": "2751752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6b90a4e-250619T135104-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
