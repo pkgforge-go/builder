@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kubekey",
+  "pkg_family": "kubekey",
+  "pkg_id": "kubekey#github.com_kubesphere_kubekey",
+  "pkg_name": "kubekey",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubesphere/kubekey",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",
+  "homepage": [
+    "https://github.com/kubesphere/kubekey"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "k3s",
+    "kubekey"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubesphere/kubekey/archive/91979ab818c15b383df51f03d2ed06ad962c6e51.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "installer",
+    "k8s",
+    "kubeadm",
+    "kubernetes",
+    "kubernetes-cluster",
+    "kubernetes-deployment"
+  ],
+  "version": "HEAD-91979ab-250627T141815",
+  "version_upstream": "",
+  "bsum": "3f2d6fbff93e47fea6b215dea217c39e5bd43305c77177fd65be46587edaae48",
+  "build_date": "2025-06-27T22:50:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936745771",
+  "build_id": "15936745771",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubekey/kubekey?tag=HEAD-91979ab-250627T141815-loongarch64-Linux&download=kubekey.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2598",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubekey/kubekey?tag=HEAD-91979ab-250627T141815-loongarch64-Linux&download=kubekey",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubesphere/kubekey/kubekey:HEAD-91979ab-250627T141815-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubesphere/kubekey/kubekey",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubesphere/kubekey/kubekey?tag=HEAD-91979ab-250627T141815-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d5f6131135b18db7b632677def2624f8e8a96a8aefdb7c3971d08140288b3af7",
+  "size": "75 MB",
+  "size_raw": "78323520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9cf08b6-250620T021333-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
