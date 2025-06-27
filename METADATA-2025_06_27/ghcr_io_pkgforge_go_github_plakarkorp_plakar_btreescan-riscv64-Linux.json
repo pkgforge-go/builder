@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "btreescan",
+  "pkg_family": "plakar",
+  "pkg_id": "btreescan#github.com_PlakarKorp_plakar",
+  "pkg_name": "btreescan",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/PlakarKorp/plakar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "plakar is a backup solution",
+  "homepage": [
+    "https://github.com/PlakarKorp/plakar"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "btreescan",
+    "plakar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/PlakarKorp/plakar/archive/1f528c269aaf6cd661e85ef5570194f55f3b5311.tar.gz"
+  ],
+  "tag": [
+    "backups",
+    "deduplication",
+    "deduption"
+  ],
+  "version": "HEAD-1f528c2-250626T212742",
+  "version_upstream": "v1.0.3-devel",
+  "bsum": "f824a7c63567b0594d1fbf5a3f3e0b131b9a59edabb9d1d93a6a7d0051f800bb",
+  "build_date": "2025-06-27T09:55:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369122",
+  "build_id": "15923369122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plakarkorp/plakar/btreescan?tag=HEAD-1f528c2-250626T212742-riscv64-Linux&download=btreescan.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "283",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plakarkorp/plakar/btreescan?tag=HEAD-1f528c2-250626T212742-riscv64-Linux&download=btreescan",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/plakarkorp/plakar/btreescan:HEAD-1f528c2-250626T212742-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/plakarkorp/plakar/btreescan",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plakarkorp/plakar/btreescan?tag=HEAD-1f528c2-250626T212742-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "731d7b0bf610f4001fabd291334a4c796f9bf11e3ef75974faff80209ff489ba",
+  "size": "20 MB",
+  "size_raw": "20440216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-235745f-250619T155659-riscv64-Linux",
+    "HEAD-81d904c-250620T185020-riscv64-Linux",
+    "HEAD-1fd085c-250624T152840-riscv64-Linux",
+    "HEAD-6830228-250624T220334-riscv64-Linux",
+    "HEAD-376f200-250625T154706-riscv64-Linux",
+    "HEAD-b838841-250626T095856-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
