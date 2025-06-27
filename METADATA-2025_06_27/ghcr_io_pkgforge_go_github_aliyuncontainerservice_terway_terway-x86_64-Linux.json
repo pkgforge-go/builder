@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "terway",
+  "pkg_family": "terway",
+  "pkg_id": "terway#github.com_AliyunContainerService_terway",
+  "pkg_name": "terway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AliyunContainerService/terway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNI plugin for Alibaba Cloud VPC/ENI",
+  "homepage": [
+    "https://github.com/AliyunContainerService/terway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "maxpods",
+    "terway",
+    "terway-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AliyunContainerService/terway/archive/1a63c1b59b36ac2ea12e915d9ed3ba17750b3e36.tar.gz"
+  ],
+  "tag": [
+    "cni",
+    "eni",
+    "vpc"
+  ],
+  "version": "HEAD-1a63c1b-250626T201714",
+  "version_upstream": "",
+  "bsum": "94e72b5f6fd95c537a420d3ec0f1b7777255fa5c138da822977a390b9cb069ed",
+  "build_date": "2025-06-27T02:18:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916546869",
+  "build_id": "15916546869",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/terway?tag=HEAD-1a63c1b-250626T201714-x86_64-Linux&download=terway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "574",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/terway?tag=HEAD-1a63c1b-250626T201714-x86_64-Linux&download=terway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aliyuncontainerservice/terway/terway:HEAD-1a63c1b-250626T201714-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aliyuncontainerservice/terway/terway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aliyuncontainerservice/terway/terway?tag=HEAD-1a63c1b-250626T201714-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab4de84ac1c8500e7b5d922833ad939e04c7d9a14682f5edaeedaba85908faff",
+  "size": "22 MB",
+  "size_raw": "22936640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-302dc86-250624T101836-x86_64-Linux",
+    "HEAD-0733c30-250624T172831-x86_64-Linux",
+    "HEAD-62550fa-250626T100629-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
