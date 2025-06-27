@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "apptainer",
+  "pkg_id": "scripts#github.com_apptainer_apptainer",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apptainer/apptainer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apptainer: Application containers for Linux",
+  "homepage": [
+    "https://github.com/apptainer/apptainer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certs",
+    "confgen",
+    "nfpm",
+    "scripts",
+    "standalone"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apptainer/apptainer/archive/391495b9b52b0d26750e401c2f6ee4ddfc1bfc23.tar.gz"
+  ],
+  "tag": [
+    "apptainer",
+    "containers",
+    "hpc",
+    "linux",
+    "rootless-containers",
+    "science",
+    "singularity",
+    "singularity-container"
+  ],
+  "version": "HEAD-391495b-250627T065943",
+  "version_upstream": "",
+  "bsum": "6011aac7069d96c7d2fe9b0180de11a77be1852af755a07f1b248a7bf226d687",
+  "build_date": "2025-06-27T19:34:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933792968",
+  "build_id": "15933792968",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apptainer/apptainer/scripts?tag=HEAD-391495b-250627T065943-aarch64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1435",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apptainer/apptainer/scripts?tag=HEAD-391495b-250627T065943-aarch64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apptainer/apptainer/scripts:HEAD-391495b-250627T065943-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apptainer/apptainer/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apptainer/apptainer/scripts?tag=HEAD-391495b-250627T065943-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "479f8f8b764e44d50ce4ddc2409dc9a8f82e246b9453bc94d76eca220cf02034",
+  "size": "1.6 MB",
+  "size_raw": "1671384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6786e92-250616T173212-aarch64-Linux",
+    "HEAD-2cd48f6-250620T154719-aarch64-Linux",
+    "HEAD-07bf0aa-250623T154137-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
