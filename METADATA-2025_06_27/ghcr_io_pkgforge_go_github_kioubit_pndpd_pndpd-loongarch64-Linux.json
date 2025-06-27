@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pndpd",
+  "pkg_family": "pndpd",
+  "pkg_id": "pndpd#github.com_Kioubit_pndpd",
+  "pkg_name": "pndpd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Kioubit/pndpd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NDP Proxy / Responder daemon _IPv6_",
+  "homepage": [
+    "https://github.com/Kioubit/pndpd"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pndpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Kioubit/pndpd/archive/c35c26461b8c66be561aabe33be5443c0d1b1664.tar.gz"
+  ],
+  "tag": [
+    "berkeley-packet-filter",
+    "bpf",
+    "go",
+    "golang",
+    "icmpv6",
+    "ipv6",
+    "linux",
+    "ndp",
+    "ndp-proxy"
+  ],
+  "version": "HEAD-c35c264-250626T160852",
+  "version_upstream": "",
+  "bsum": "2035ac808c2b1af54a0ede0e79196334274614e24182b34e6cf26b78d67c0a2a",
+  "build_date": "2025-06-27T02:18:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916547618",
+  "build_id": "15916547618",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kioubit/pndpd/pndpd?tag=HEAD-c35c264-250626T160852-loongarch64-Linux&download=pndpd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kioubit/pndpd/pndpd?tag=HEAD-c35c264-250626T160852-loongarch64-Linux&download=pndpd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kioubit/pndpd/pndpd:HEAD-c35c264-250626T160852-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kioubit/pndpd/pndpd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kioubit/pndpd/pndpd?tag=HEAD-c35c264-250626T160852-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cade6e000d65eb0632ffb62f066c7fdb8a41ec356ed0863aee32747f4ac64c4f",
+  "size": "2.5 MB",
+  "size_raw": "2546520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-039a28b-250623T040438-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
