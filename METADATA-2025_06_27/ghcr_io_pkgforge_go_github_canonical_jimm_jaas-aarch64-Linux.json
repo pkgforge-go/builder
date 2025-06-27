@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "jaas",
+  "pkg_family": "jimm",
+  "pkg_id": "jaas#github.com_canonical_jimm",
+  "pkg_name": "jaas",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/jimm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Juju intelligent model manager web service",
+  "homepage": [
+    "https://github.com/canonical/jimm"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jaas",
+    "jimmsrv",
+    "seed_db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/jimm/archive/88dccb6e1f19eae01f7adf3119ab97eb99b79ae3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-88dccb6-250626T124029",
+  "version_upstream": "",
+  "bsum": "be8e88d041389788e86c03140916ef44148e28000aed0f9dd23d3f6268b602c9",
+  "build_date": "2025-06-27T02:38:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916549070",
+  "build_id": "15916549070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/jaas?tag=HEAD-88dccb6-250626T124029-aarch64-Linux&download=jaas.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/jaas?tag=HEAD-88dccb6-250626T124029-aarch64-Linux&download=jaas",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/jimm/jaas:HEAD-88dccb6-250626T124029-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/jimm/jaas",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/jimm/jaas?tag=HEAD-88dccb6-250626T124029-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98b03c76c2e899de215411fca756c41e072b3bf8d286b271db645a1e80652863",
+  "size": "160 MB",
+  "size_raw": "167455264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-75f2073-250624T151859-aarch64-Linux",
+    "HEAD-94638fa-250625T135645-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
