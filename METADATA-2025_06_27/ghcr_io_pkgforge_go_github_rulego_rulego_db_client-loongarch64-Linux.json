@@ -1,0 +1,106 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "db_client",
+  "pkg_family": "rulego",
+  "pkg_id": "db_client#github.com_rulego_rulego",
+  "pkg_name": "db_client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rulego/rulego",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.",
+  "homepage": [
+    "https://github.com/rulego/rulego"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "call_rest_service",
+    "custom_component",
+    "db_client",
+    "delay_node",
+    "functions_node",
+    "group_filter_node",
+    "hot_loading",
+    "http_endpoint",
+    "js_transform",
+    "mqtt_client",
+    "msg_type_switch",
+    "net_node",
+    "node_config",
+    "plugin",
+    "router",
+    "ssh_node",
+    "temperature_alarm",
+    "ui_api",
+    "web_api"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rulego/rulego/archive/42f4e7daf5f043a789ac714235862af1ad5fe238.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "automation",
+    "data-flow",
+    "edge-computing",
+    "go",
+    "intergrations",
+    "iot",
+    "ipaas",
+    "low-code",
+    "low-code-framework",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "rule-engine",
+    "rulego",
+    "workflow",
+    "workflow-automation",
+    "workflow-engine"
+  ],
+  "version": "HEAD-42f4e7d-250626T142456",
+  "version_upstream": "",
+  "bsum": "1940d2b9a233b1de30133acbf0a6758a971572591ef15eef4e540250772fb0d0",
+  "build_date": "2025-06-27T00:21:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913555252",
+  "build_id": "15913555252",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rulego/rulego/db_client?tag=HEAD-42f4e7d-250626T142456-loongarch64-Linux&download=db_client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1170",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rulego/rulego/db_client?tag=HEAD-42f4e7d-250626T142456-loongarch64-Linux&download=db_client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rulego/rulego/db_client:HEAD-42f4e7d-250626T142456-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rulego/rulego/db_client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rulego/rulego/db_client?tag=HEAD-42f4e7d-250626T142456-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9ba85dbd6cf806f000eabafc0a698a61d539c3b55b20ae9eed00f931e638d3f",
+  "size": "25 MB",
+  "size_raw": "25980128",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0c62711-250614T203711-loongarch64-Linux[v0.31.2]",
+    "HEAD-c8f15b1-250622T003323-loongarch64-Linux",
+    "HEAD-f5d64da-250623T205228-loongarch64-Linux",
+    "HEAD-afeb1fc-250624T194345-loongarch64-Linux",
+    "HEAD-ade4095-250625T224002-loongarch64-Linux",
+    "HEAD-ea0da26-250626T104256-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
