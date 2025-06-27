@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "chwrap",
+  "pkg_family": "trident",
+  "pkg_id": "chwrap#github.com_NetApp_trident",
+  "pkg_name": "chwrap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/trident",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Storage orchestrator for containers",
+  "homepage": [
+    "https://github.com/NetApp/trident"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chwrap",
+    "node_prep",
+    "operator",
+    "syswrap",
+    "trident",
+    "trident-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/trident/archive/df1afbb4565e0a6b3101287bcada5e1f027d4161.tar.gz"
+  ],
+  "tag": [
+    "netapp-public"
+  ],
+  "version": "HEAD-df1afbb-250626T162953",
+  "version_upstream": "",
+  "bsum": "edbf9eab103c1c5f7b9372a6a7636ce32910c409439da4f3c8a537cb3d32774e",
+  "build_date": "2025-06-27T10:05:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369380",
+  "build_id": "15923369380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/chwrap?tag=HEAD-df1afbb-250626T162953-loongarch64-Linux&download=chwrap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "801",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/chwrap?tag=HEAD-df1afbb-250626T162953-loongarch64-Linux&download=chwrap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/trident/chwrap:HEAD-df1afbb-250626T162953-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/trident/chwrap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/chwrap?tag=HEAD-df1afbb-250626T162953-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f61a6b928029112aac441d4d0a87cba738ce43dd3f44e0572c5bdda9a75643c",
+  "size": "1.4 MB",
+  "size_raw": "1423608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e3969e-250620T211427-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
