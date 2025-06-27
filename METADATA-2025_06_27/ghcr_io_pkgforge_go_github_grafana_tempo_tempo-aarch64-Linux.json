@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tempo",
+  "pkg_family": "tempo",
+  "pkg_id": "tempo#github.com_grafana_tempo",
+  "pkg_name": "tempo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+  "homepage": [
+    "https://github.com/grafana/tempo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docsgen",
+    "parquetquerygen",
+    "tempo",
+    "tempo-cli",
+    "tempo-query",
+    "tempo-vulture"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo/archive/c3def8f01c282757a79a3d3c88fdd205d5146980.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana"
+  ],
+  "version": "HEAD-c3def8f-250626T201029",
+  "version_upstream": "",
+  "bsum": "b80fc075d99c8efe5a5fa69827b3ccc458a61373a728148858bc4353c59f862d",
+  "build_date": "2025-06-27T13:54:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927108441",
+  "build_id": "15927108441",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo?tag=HEAD-c3def8f-250626T201029-aarch64-Linux&download=tempo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4564",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo?tag=HEAD-c3def8f-250626T201029-aarch64-Linux&download=tempo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo/tempo:HEAD-c3def8f-250626T201029-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo/tempo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo?tag=HEAD-c3def8f-250626T201029-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99b9148c980b79a702fe15c3c6583ad0f4f5658dbcdbcdaffb759a6e4ca2924a",
+  "size": "104 MB",
+  "size_raw": "108408288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bec9da5-250620T143114-aarch64-Linux",
+    "HEAD-7853a76-250624T093016-aarch64-Linux",
+    "HEAD-f7ecf8c-250625T114448-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

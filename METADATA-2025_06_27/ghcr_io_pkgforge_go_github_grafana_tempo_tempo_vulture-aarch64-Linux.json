@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tempo-vulture",
+  "pkg_family": "tempo",
+  "pkg_id": "tempo-vulture#github.com_grafana_tempo",
+  "pkg_name": "tempo-vulture",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+  "homepage": [
+    "https://github.com/grafana/tempo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docsgen",
+    "parquetquerygen",
+    "tempo",
+    "tempo-cli",
+    "tempo-query",
+    "tempo-vulture"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo/archive/c3def8f01c282757a79a3d3c88fdd205d5146980.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana"
+  ],
+  "version": "HEAD-c3def8f-250626T201029",
+  "version_upstream": "",
+  "bsum": "0d3c4fc4a56dc7929bf627a5c473ce28fd57072793b9bb56faac7374314f04fd",
+  "build_date": "2025-06-27T13:54:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927108441",
+  "build_id": "15927108441",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo-vulture?tag=HEAD-c3def8f-250626T201029-aarch64-Linux&download=tempo-vulture.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4564",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo-vulture?tag=HEAD-c3def8f-250626T201029-aarch64-Linux&download=tempo-vulture",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo/tempo-vulture:HEAD-c3def8f-250626T201029-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo/tempo-vulture",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/tempo-vulture?tag=HEAD-c3def8f-250626T201029-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "deea061a8c929e005a247b5940b4fbd51cc95ca5ed99ad6feaaa74fca35720d8",
+  "size": "47 MB",
+  "size_raw": "48966560",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bec9da5-250620T143114-aarch64-Linux",
+    "HEAD-7853a76-250624T093016-aarch64-Linux",
+    "HEAD-f7ecf8c-250625T114448-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
