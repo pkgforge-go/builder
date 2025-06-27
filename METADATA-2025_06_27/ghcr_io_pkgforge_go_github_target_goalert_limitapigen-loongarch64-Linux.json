@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "limitapigen",
+  "pkg_family": "goalert",
+  "pkg_id": "limitapigen#github.com_target_goalert",
+  "pkg_name": "limitapigen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/target/goalert",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert",
+  "homepage": [
+    "https://github.com/target/goalert"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configparams",
+    "configtsidgen",
+    "db-url-set-db",
+    "expflagtsgen",
+    "fetchcounts",
+    "genmake",
+    "gettool",
+    "goalert",
+    "goalert-migrate",
+    "goalert-slack-email-sync",
+    "gqltsgen",
+    "limitapigen",
+    "mockoidc",
+    "mockslack",
+    "ordermigrations",
+    "pgdump-lite",
+    "pgmocktime",
+    "procwrap",
+    "psql-lite",
+    "resetdb",
+    "runproc",
+    "sendit",
+    "sendit-server",
+    "sendit-token",
+    "simpleproxy",
+    "waitfor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/target/goalert/archive/888e5af4bb5a410ca4f8760b66c951603b7cbf79.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-888e5af-250626T131915",
+  "version_upstream": "",
+  "bsum": "ad4ccb43edac0fa8eb951d447a13fd9a1202380382d5f2009ba46072ba3fb39c",
+  "build_date": "2025-06-27T08:53:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921232958",
+  "build_id": "15921232958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/limitapigen?tag=HEAD-888e5af-250626T131915-loongarch64-Linux&download=limitapigen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2450",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/limitapigen?tag=HEAD-888e5af-250626T131915-loongarch64-Linux&download=limitapigen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/target/goalert/limitapigen:HEAD-888e5af-250626T131915-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/target/goalert/limitapigen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/limitapigen?tag=HEAD-888e5af-250626T131915-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79d7a8671a0ecfeaff18bf2b1e9b67e22978cf51c64923e157d72ca5bb1cb07d",
+  "size": "12 MB",
+  "size_raw": "11735608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
