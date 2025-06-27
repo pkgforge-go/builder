@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "functional-benchmarker",
+  "pkg_family": "cluster-logging-operator",
+  "pkg_id": "functional-benchmarker#github.com_openshift_cluster_logging_operator",
+  "pkg_name": "functional-benchmarker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-logging-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to support logging subsystem of OpenShift",
+  "homepage": [
+    "https://github.com/openshift/cluster-logging-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-logging-operator-cmd",
+    "forwarder-generator",
+    "functional-benchmarker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-logging-operator/archive/6b13ce208eb8e92428e1cc42c93a167f94b0ab4a.tar.gz"
+  ],
+  "tag": [
+    "fluentd",
+    "logcollection",
+    "logging",
+    "vector"
+  ],
+  "version": "HEAD-6b13ce2-250626T181834",
+  "version_upstream": "",
+  "bsum": "68e1582e5447bd10b0fc726c2481c233d27914e5f7a96b31e28e3e3cf52006c1",
+  "build_date": "2025-06-27T08:19:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920909137",
+  "build_id": "15920909137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/functional-benchmarker?tag=HEAD-6b13ce2-250626T181834-x86_64-Linux&download=functional-benchmarker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "109",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/functional-benchmarker?tag=HEAD-6b13ce2-250626T181834-x86_64-Linux&download=functional-benchmarker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-logging-operator/functional-benchmarker:HEAD-6b13ce2-250626T181834-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-logging-operator/functional-benchmarker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/functional-benchmarker?tag=HEAD-6b13ce2-250626T181834-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "180877515721b46059dc55cb2a94b59539ac05ce3a81f9db4b7916756d341658",
+  "size": "48 MB",
+  "size_raw": "49700704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
