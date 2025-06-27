@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dnspyre",
+  "pkg_family": "dnspyre",
+  "pkg_id": "dnspyre#github.com_Tantalor93_dnspyre",
+  "pkg_name": "dnspyre",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Tantalor93/dnspyre",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI tool for a high QPS DNS benchmark",
+  "homepage": [
+    "https://github.com/Tantalor93/dnspyre"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnspyre"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Tantalor93/dnspyre/archive/b534b804a5cee0ccd6632895bfe4143d9262ead4.tar.gz"
+  ],
+  "tag": [
+    "benchmark",
+    "cli",
+    "concurrency",
+    "dns",
+    "dns-over-https",
+    "dns-over-tcp",
+    "dns-over-tls",
+    "dns-over-udp",
+    "doh",
+    "doq",
+    "go"
+  ],
+  "version": "HEAD-b534b80-250626T222223",
+  "version_upstream": "",
+  "bsum": "34eebe7c5d3f0320831501f40a79537f01f183e9a0398fcafdc22adbf3956c1c",
+  "build_date": "2025-06-27T09:49:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369284",
+  "build_id": "15923369284",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tantalor93/dnspyre/dnspyre?tag=HEAD-b534b80-250626T222223-riscv64-Linux&download=dnspyre.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "183",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tantalor93/dnspyre/dnspyre?tag=HEAD-b534b80-250626T222223-riscv64-Linux&download=dnspyre",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tantalor93/dnspyre/dnspyre:HEAD-b534b80-250626T222223-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tantalor93/dnspyre/dnspyre",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tantalor93/dnspyre/dnspyre?tag=HEAD-b534b80-250626T222223-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2ee1db95f21af648b2bc9ed23e03f28ef72edbabb78f9472c944822abbdac2a",
+  "size": "22 MB",
+  "size_raw": "22880152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0cde337-250522T161203-riscv64-Linux",
+    "HEAD-4458638-250622T205717-riscv64-Linux[v3.5.2]",
+    "HEAD-50e2db2-250624T010815-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
