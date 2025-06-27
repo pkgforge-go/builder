@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ratchet",
+  "pkg_family": "ratchet",
+  "pkg_id": "ratchet#github.com_sethvargo_ratchet",
+  "pkg_name": "ratchet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sethvargo/ratchet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool for securing CI/CD workflows with version pinning.",
+  "homepage": [
+    "https://github.com/sethvargo/ratchet"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen",
+    "ratchet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sethvargo/ratchet/archive/8b4ca256dbed184350608a3023620f267f0a5253.tar.gz"
+  ],
+  "tag": [
+    "cicd",
+    "dependency",
+    "security"
+  ],
+  "version": "HEAD-8b4ca25-250627T065438",
+  "version_upstream": "v0.11.4",
+  "bsum": "78627c5a87a4a376cfe226e3510ec32a6f858bef98e322d74ce538c79b0c434d",
+  "build_date": "2025-06-27T17:08:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931198942",
+  "build_id": "15931198942",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sethvargo/ratchet/ratchet?tag=HEAD-8b4ca25-250627T065438-aarch64-Linux&download=ratchet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "839",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sethvargo/ratchet/ratchet?tag=HEAD-8b4ca25-250627T065438-aarch64-Linux&download=ratchet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sethvargo/ratchet/ratchet:HEAD-8b4ca25-250627T065438-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sethvargo/ratchet/ratchet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sethvargo/ratchet/ratchet?tag=HEAD-8b4ca25-250627T065438-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2715fd158decf6e72cde5fb6468318fe15cb87ace8c8840ac96dac0609256214",
+  "size": "7.7 MB",
+  "size_raw": "8040768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
