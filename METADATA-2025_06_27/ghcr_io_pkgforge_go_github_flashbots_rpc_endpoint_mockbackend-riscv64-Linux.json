@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mockbackend",
+  "pkg_family": "rpc-endpoint",
+  "pkg_id": "mockbackend#github.com_flashbots_rpc_endpoint",
+  "pkg_name": "mockbackend",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flashbots/rpc-endpoint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flashbots RPC endpoint, to be used with wallets _eg. MetaMask_",
+  "homepage": [
+    "https://github.com/flashbots/rpc-endpoint"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mockbackend",
+    "server",
+    "txdecoder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flashbots/rpc-endpoint/archive/8fa11a17959d3f4f2e82ba491e6dffe52cda073f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8fa11a1-250627T152742",
+  "version_upstream": "",
+  "bsum": "a75bb946a40ce67a7c92ba4f9a2c65a382c8288379a75f9562401499407b2f4e",
+  "build_date": "2025-06-27T16:27:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930460868",
+  "build_id": "15930460868",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/rpc-endpoint/mockbackend?tag=HEAD-8fa11a1-250627T152742-riscv64-Linux&download=mockbackend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "203",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/rpc-endpoint/mockbackend?tag=HEAD-8fa11a1-250627T152742-riscv64-Linux&download=mockbackend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flashbots/rpc-endpoint/mockbackend:HEAD-8fa11a1-250627T152742-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flashbots/rpc-endpoint/mockbackend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/rpc-endpoint/mockbackend?tag=HEAD-8fa11a1-250627T152742-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0229fb70e0d8b3458c443a2a14c8bb5778000c610201e397ac0cbd6477957775",
+  "size": "6.1 MB",
+  "size_raw": "6358744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
