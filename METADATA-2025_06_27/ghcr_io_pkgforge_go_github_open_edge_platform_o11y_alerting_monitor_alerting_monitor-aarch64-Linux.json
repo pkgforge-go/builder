@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "alerting-monitor",
+  "pkg_family": "o11y-alerting-monitor",
+  "pkg_id": "alerting-monitor#github.com_open_edge_platform_o11y_alerting_monitor",
+  "pkg_name": "alerting-monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/o11y-alerting-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Alerting Monitor service handles management of alert notifications in the Edge Orchestrator.",
+  "homepage": [
+    "https://github.com/open-edge-platform/o11y-alerting-monitor"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alerting-monitor",
+    "management"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/o11y-alerting-monitor/archive/4435779e5a41d56c62db9d34e50c3fbcf61e7610.tar.gz"
+  ],
+  "tag": [
+    "alerting-rules",
+    "alertmanager",
+    "alerts",
+    "api",
+    "edge-orchestrator",
+    "email-notifications",
+    "monitoring",
+    "o11y",
+    "observability",
+    "reliability"
+  ],
+  "version": "HEAD-4435779-250627T160120",
+  "version_upstream": "",
+  "bsum": "874154dd0b350ce0b31429713efe95413cbb13970c797cac5e53ede2d467d004",
+  "build_date": "2025-06-27T16:58:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931045130",
+  "build_id": "15931045130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/alerting-monitor?tag=HEAD-4435779-250627T160120-aarch64-Linux&download=alerting-monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/alerting-monitor?tag=HEAD-4435779-250627T160120-aarch64-Linux&download=alerting-monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/alerting-monitor:HEAD-4435779-250627T160120-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/alerting-monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/alerting-monitor?tag=HEAD-4435779-250627T160120-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "41edf7552b99a490b6bb1037a56a49c2267b843ba4b20be19deb09b5b7ca625c",
+  "size": "56 MB",
+  "size_raw": "58513760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
