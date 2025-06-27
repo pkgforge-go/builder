@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "cnquery",
+  "pkg_id": "cli#github.com_mondoohq_cnquery",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mondoohq/cnquery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "open source, cloud-native, graph-based asset inventory",
+  "homepage": [
+    "https://github.com/mondoohq/cnquery"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "cnquery",
+    "configure",
+    "core",
+    "defaults",
+    "docs",
+    "gen",
+    "gen-docs",
+    "network",
+    "os",
+    "provider-scaffold",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mondoohq/cnquery/archive/67435b83c4257cd2a3dbd8bfad5b0b5ecdb25b62.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "cis",
+    "cloud-computing",
+    "cloud-native",
+    "gcp",
+    "kubernetes",
+    "linux",
+    "macos",
+    "security",
+    "security-as-code",
+    "unix",
+    "windows"
+  ],
+  "version": "HEAD-67435b8-250626T155844",
+  "version_upstream": "",
+  "bsum": "c9f6baf4b0e229494cc748e328d109ecafcf062471576d4bdc3258b7b1bbb4b2",
+  "build_date": "2025-06-27T00:06:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913403137",
+  "build_id": "15913403137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mondoohq/cnquery/cli?tag=HEAD-67435b8-250626T155844-riscv64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "356",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mondoohq/cnquery/cli?tag=HEAD-67435b8-250626T155844-riscv64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mondoohq/cnquery/cli:HEAD-67435b8-250626T155844-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mondoohq/cnquery/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mondoohq/cnquery/cli?tag=HEAD-67435b8-250626T155844-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f6eb5c19ead14f8d7c5e2a8d71951f2250fb3b92e6e85b646f319efb03316b95",
+  "size": "11 MB",
+  "size_raw": "10757112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-792a0b2-250620T161747-riscv64-Linux",
+    "HEAD-20a84e4-250621T125301-riscv64-Linux",
+    "HEAD-65f67c8-250623T094231-riscv64-Linux",
+    "HEAD-85af2d9-250624T140146-riscv64-Linux",
+    "HEAD-8b73826-250624T115354-riscv64-Linux",
+    "HEAD-bae4f66-250625T133858-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
