@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cni-plugin",
+  "pkg_family": "pod-pacemaker",
+  "pkg_id": "cni-plugin#github.com_woehrl01_pod_pacemaker",
+  "pkg_name": "cni-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/woehrl01/pod-pacemaker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PodPacemaker is a Kubernetes operator designed to manage the rate at which pods are initiated on a specific node.",
+  "homepage": [
+    "https://github.com/woehrl01/pod-pacemaker"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cni-plugin",
+    "init",
+    "node-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/woehrl01/pod-pacemaker/archive/7fe80a79d0afde5f0a8895144c2718a3bde7b5a1.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "scale",
+    "throttle",
+    "thundering-herd"
+  ],
+  "version": "HEAD-7fe80a7-250627T111020",
+  "version_upstream": "",
+  "bsum": "2d7a2af310d146d8aa9bd93ecd530c460f265e77b33ca6652e20673fae6495f2",
+  "build_date": "2025-06-27T17:28:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931330722",
+  "build_id": "15931330722",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/woehrl01/pod-pacemaker/cni-plugin?tag=HEAD-7fe80a7-250627T111020-x86_64-Linux&download=cni-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/woehrl01/pod-pacemaker/cni-plugin?tag=HEAD-7fe80a7-250627T111020-x86_64-Linux&download=cni-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/woehrl01/pod-pacemaker/cni-plugin:HEAD-7fe80a7-250627T111020-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/woehrl01/pod-pacemaker/cni-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/woehrl01/pod-pacemaker/cni-plugin?tag=HEAD-7fe80a7-250627T111020-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "457c01b31d5b33993e228b07a35345881fbf6ea8843c4f6d8873f0973a384dc1",
+  "size": "12 MB",
+  "size_raw": "11977760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
