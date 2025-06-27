@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "churner",
+  "pkg_family": "crl-monitor",
+  "pkg_id": "churner#github.com_letsencrypt_crl_monitor",
+  "pkg_name": "churner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/letsencrypt/crl-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRL Monitor",
+  "homepage": [
+    "https://github.com/letsencrypt/crl-monitor"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checker",
+    "churner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/letsencrypt/crl-monitor/archive/a9ef40ef4029327e7429d0bd96eb549e76de998f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a9ef40e-250626T183330",
+  "version_upstream": "",
+  "bsum": "4748b56d6a2499c6162376d53ad0a039110692354b9a80ad3f7076b76cdbb7f9",
+  "build_date": "2025-06-27T07:56:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920273634",
+  "build_id": "15920273634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/crl-monitor/churner?tag=HEAD-a9ef40e-250626T183330-loongarch64-Linux&download=churner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/crl-monitor/churner?tag=HEAD-a9ef40e-250626T183330-loongarch64-Linux&download=churner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/letsencrypt/crl-monitor/churner:HEAD-a9ef40e-250626T183330-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/letsencrypt/crl-monitor/churner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/crl-monitor/churner?tag=HEAD-a9ef40e-250626T183330-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a482a9b100f7f31981523a688c50e87dc2db9287ef685f06e3115988a46fbb26",
+  "size": "23 MB",
+  "size_raw": "23761888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
