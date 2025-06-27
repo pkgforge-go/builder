@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rivereval",
+  "pkg_family": "telescope",
+  "pkg_id": "rivereval#github.com_blockopsnetwork_telescope",
+  "pkg_name": "rivereval",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/9b70fbf35dba866c8955eb4c456a98002a32d369.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-9b70fbf-250626T180550",
+  "version_upstream": "",
+  "bsum": "936d7264ceffd2d1cc2934ed00e393bb360956fc267eaa9abeba4e661b79abb1",
+  "build_date": "2025-06-27T10:24:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923373055",
+  "build_id": "15923373055",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/rivereval?tag=HEAD-9b70fbf-250626T180550-loongarch64-Linux&download=rivereval.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/rivereval?tag=HEAD-9b70fbf-250626T180550-loongarch64-Linux&download=rivereval",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/rivereval:HEAD-9b70fbf-250626T180550-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/rivereval",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/rivereval?tag=HEAD-9b70fbf-250626T180550-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "65ede67f5bbb51dce5e430cb42bd97c51dd9ac93fdfd9eab7043ac5a6a293a72",
+  "size": "3.4 MB",
+  "size_raw": "3558904",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b120d12-250623T050932-loongarch64-Linux",
+    "HEAD-bd1b4c9-250623T222606-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
