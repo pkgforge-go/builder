@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "provider-scaffold",
+  "pkg_family": "cnquery",
+  "pkg_id": "provider-scaffold#github.com_mondoohq_cnquery",
+  "pkg_name": "provider-scaffold",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mondoohq/cnquery",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "open source, cloud-native, graph-based asset inventory",
+  "homepage": [
+    "https://github.com/mondoohq/cnquery"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "cnquery",
+    "configure",
+    "core",
+    "defaults",
+    "docs",
+    "gen",
+    "gen-docs",
+    "network",
+    "os",
+    "provider-scaffold",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mondoohq/cnquery/archive/67435b83c4257cd2a3dbd8bfad5b0b5ecdb25b62.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "cis",
+    "cloud-computing",
+    "cloud-native",
+    "gcp",
+    "kubernetes",
+    "linux",
+    "macos",
+    "security",
+    "security-as-code",
+    "unix",
+    "windows"
+  ],
+  "version": "HEAD-67435b8-250626T155844",
+  "version_upstream": "",
+  "bsum": "09de8a2fee151d7e55f97eb6c2bafe98abce9763d20da5f1180bdc6c0e7c092d",
+  "build_date": "2025-06-27T00:07:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913403137",
+  "build_id": "15913403137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mondoohq/cnquery/provider-scaffold?tag=HEAD-67435b8-250626T155844-aarch64-Linux&download=provider-scaffold.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "356",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mondoohq/cnquery/provider-scaffold?tag=HEAD-67435b8-250626T155844-aarch64-Linux&download=provider-scaffold",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mondoohq/cnquery/provider-scaffold:HEAD-67435b8-250626T155844-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mondoohq/cnquery/provider-scaffold",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mondoohq/cnquery/provider-scaffold?tag=HEAD-67435b8-250626T155844-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "96d54b6c536221c2df7bddf206151a018f33ec254a23bb39b77b736c5df50d8c",
+  "size": "3.5 MB",
+  "size_raw": "3653528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-792a0b2-250620T161747-aarch64-Linux",
+    "HEAD-20a84e4-250621T125301-aarch64-Linux",
+    "HEAD-65f67c8-250623T094231-aarch64-Linux",
+    "HEAD-85af2d9-250624T140146-aarch64-Linux",
+    "HEAD-8b73826-250624T115354-aarch64-Linux",
+    "HEAD-bae4f66-250625T133858-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
