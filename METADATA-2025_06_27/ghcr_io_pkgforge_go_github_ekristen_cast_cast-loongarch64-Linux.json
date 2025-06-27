@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cast",
+  "pkg_family": "cast",
+  "pkg_id": "cast#github.com_ekristen_cast",
+  "pkg_name": "cast",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ekristen/cast",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cast is an installer for any compatible Saltstack based distribution like SIFT or REMnux",
+  "homepage": [
+    "https://github.com/ekristen/cast"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cast"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ekristen/cast/archive/ef77180e6a41f47e6ce8ca8c731e6a0779f0cc1b.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "distro",
+    "golang",
+    "linux",
+    "saltstack"
+  ],
+  "version": "HEAD-ef77180-250626T233254",
+  "version_upstream": "v0.16.18",
+  "bsum": "c4b1637ce5312b44e91f5017b9ef192ad88edf4bc7f81ba290c75e64b8ebdfd1",
+  "build_date": "2025-06-27T10:41:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923390240",
+  "build_id": "15923390240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ekristen/cast/cast?tag=HEAD-ef77180-250626T233254-loongarch64-Linux&download=cast.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ekristen/cast/cast?tag=HEAD-ef77180-250626T233254-loongarch64-Linux&download=cast",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ekristen/cast/cast:HEAD-ef77180-250626T233254-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ekristen/cast/cast",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ekristen/cast/cast?tag=HEAD-ef77180-250626T233254-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a97e8355c346b528aac60e10f4ec31261b0f4b34372e33190eee4c99ff27f5b1",
+  "size": "68 MB",
+  "size_raw": "70412752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b6e1dd6-250620T175419-loongarch64-Linux",
+    "HEAD-bbffaa3-250623T215117-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
