@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "qotp",
+  "pkg_family": "qotp",
+  "pkg_id": "qotp#github.com_tbocek_qotp",
+  "pkg_name": "qotp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tbocek/qotp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A UDP-based transport protocol that takes an _opinionated_ approach, similar to QUIC but with a focus  on providing reasonable defaults rather than many options. The goal is to have lower complexity,  simplicity, and security, while still being reasonably performant.",
+  "homepage": [
+    "https://github.com/tbocek/qotp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "qotp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tbocek/qotp/archive/79447a657909e54bf99c9a29a8470ff544347055.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-79447a6-250626T210628",
+  "version_upstream": "",
+  "bsum": "c8af345e897e0f5356661e121b699631171fab90b0514d910bf4b13f63eabf95",
+  "build_date": "2025-06-27T14:31:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927737904",
+  "build_id": "15927737904",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbocek/qotp/qotp?tag=HEAD-79447a6-250626T210628-riscv64-Linux&download=qotp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbocek/qotp/qotp?tag=HEAD-79447a6-250626T210628-riscv64-Linux&download=qotp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tbocek/qotp/qotp:HEAD-79447a6-250626T210628-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tbocek/qotp/qotp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbocek/qotp/qotp?tag=HEAD-79447a6-250626T210628-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3429687ce6ce94f691fceec6559ea1963aef50650901da974f02b88cf5d9f383",
+  "size": "2.2 MB",
+  "size_raw": "2251272",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-15cc8a8-250624T204031-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
