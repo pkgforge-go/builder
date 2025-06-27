@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "perf_benchmark",
+  "pkg_family": "kopia",
+  "pkg_id": "perf_benchmark#github.com_kopia_kopia",
+  "pkg_name": "perf_benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kopia/kopia",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform backup tool for Windows, macOS _ Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+  "homepage": [
+    "https://github.com/kopia/kopia"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigmapbench",
+    "cli2md",
+    "gettool",
+    "kopia",
+    "perf_benchmark",
+    "testingaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kopia/kopia/archive/a8fc80f47c9875076b1eaaa9ba0a2248a6b5c98d.tar.gz"
+  ],
+  "tag": [
+    "backup",
+    "cloud",
+    "deduplication",
+    "encryption",
+    "google-cloud-storage",
+    "hacktoberfest"
+  ],
+  "version": "HEAD-a8fc80f-250626T144230",
+  "version_upstream": "",
+  "bsum": "799782637d5de3a1d009c80c2fa6db640c9d329354382605f9c4422bdf641224",
+  "build_date": "2025-06-27T11:17:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923544092",
+  "build_id": "15923544092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/perf_benchmark?tag=HEAD-a8fc80f-250626T144230-x86_64-Linux&download=perf_benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9936",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/perf_benchmark?tag=HEAD-a8fc80f-250626T144230-x86_64-Linux&download=perf_benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kopia/kopia/perf_benchmark:HEAD-a8fc80f-250626T144230-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kopia/kopia/perf_benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/perf_benchmark?tag=HEAD-a8fc80f-250626T144230-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39ce9b831436abfade33297223ad7ac6f1e576ff70a072baf9d1c74d9202971d",
+  "size": "2.1 MB",
+  "size_raw": "2176056",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-126395f-250619T212502-x86_64-Linux",
+    "HEAD-1ead4a4-250624T012609-x86_64-Linux",
+    "HEAD-dd78dc6-250624T155355-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
