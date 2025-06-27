@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "forwarder-generator",
+  "pkg_family": "cluster-logging-operator",
+  "pkg_id": "forwarder-generator#github.com_openshift_cluster_logging_operator",
+  "pkg_name": "forwarder-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-logging-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to support logging subsystem of OpenShift",
+  "homepage": [
+    "https://github.com/openshift/cluster-logging-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-logging-operator-cmd",
+    "forwarder-generator",
+    "functional-benchmarker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-logging-operator/archive/6b13ce208eb8e92428e1cc42c93a167f94b0ab4a.tar.gz"
+  ],
+  "tag": [
+    "fluentd",
+    "logcollection",
+    "logging",
+    "vector"
+  ],
+  "version": "HEAD-6b13ce2-250626T181834",
+  "version_upstream": "",
+  "bsum": "b9d92c543e20feddea029eb78a42030e22dd3a349b53067f058078b07f087d2b",
+  "build_date": "2025-06-27T08:19:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920909137",
+  "build_id": "15920909137",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/forwarder-generator?tag=HEAD-6b13ce2-250626T181834-loongarch64-Linux&download=forwarder-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "109",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/forwarder-generator?tag=HEAD-6b13ce2-250626T181834-loongarch64-Linux&download=forwarder-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-logging-operator/forwarder-generator:HEAD-6b13ce2-250626T181834-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-logging-operator/forwarder-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-logging-operator/forwarder-generator?tag=HEAD-6b13ce2-250626T181834-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "855daafbafc3720ce335c98b6b9dee94cc2b4dda604dffbea84eeba47c08ac0a",
+  "size": "40 MB",
+  "size_raw": "41136352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
