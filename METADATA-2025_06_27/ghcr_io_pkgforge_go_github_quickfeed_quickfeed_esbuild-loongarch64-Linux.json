@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "esbuild",
+  "pkg_family": "quickfeed",
+  "pkg_id": "esbuild#github.com_quickfeed_quickfeed",
+  "pkg_name": "esbuild",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quickfeed/quickfeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "QuickFeed server and web frontend for instant feedback on programming assignments",
+  "homepage": [
+    "https://github.com/quickfeed/quickfeed"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approvelist",
+    "cm",
+    "esbuild",
+    "qcm",
+    "quickfeed",
+    "vercheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quickfeed/quickfeed/archive/57d6ba10dfa916c33572d9234c6de8099cee238a.tar.gz"
+  ],
+  "tag": [
+    "autograder",
+    "teachers"
+  ],
+  "version": "HEAD-57d6ba1-250627T130234",
+  "version_upstream": "",
+  "bsum": "96b41ba8b05cd55ca653388b61f0c762ef8b20d70bfa7cb947bc448f60107ca9",
+  "build_date": "2025-06-27T17:08:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931185095",
+  "build_id": "15931185095",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/esbuild?tag=HEAD-57d6ba1-250627T130234-loongarch64-Linux&download=esbuild.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/esbuild?tag=HEAD-57d6ba1-250627T130234-loongarch64-Linux&download=esbuild",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quickfeed/quickfeed/esbuild:HEAD-57d6ba1-250627T130234-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quickfeed/quickfeed/esbuild",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/esbuild?tag=HEAD-57d6ba1-250627T130234-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2eb5baee8c903baf0d4f80e22032a86d3f5ba8cd6415adf7c452b66d936f8beb",
+  "size": "15 MB",
+  "size_raw": "15437040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

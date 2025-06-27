@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "vercheck",
+  "pkg_family": "quickfeed",
+  "pkg_id": "vercheck#github.com_quickfeed_quickfeed",
+  "pkg_name": "vercheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quickfeed/quickfeed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "QuickFeed server and web frontend for instant feedback on programming assignments",
+  "homepage": [
+    "https://github.com/quickfeed/quickfeed"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "approvelist",
+    "cm",
+    "esbuild",
+    "qcm",
+    "quickfeed",
+    "vercheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/quickfeed/quickfeed/archive/57d6ba10dfa916c33572d9234c6de8099cee238a.tar.gz"
+  ],
+  "tag": [
+    "autograder",
+    "teachers"
+  ],
+  "version": "HEAD-57d6ba1-250627T130234",
+  "version_upstream": "",
+  "bsum": "420f068bd8e4e64b222be8d3dd180a28f1003ba19aaf30cf25220c4ba451260a",
+  "build_date": "2025-06-27T17:09:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931185095",
+  "build_id": "15931185095",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/vercheck?tag=HEAD-57d6ba1-250627T130234-loongarch64-Linux&download=vercheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/vercheck?tag=HEAD-57d6ba1-250627T130234-loongarch64-Linux&download=vercheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quickfeed/quickfeed/vercheck:HEAD-57d6ba1-250627T130234-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quickfeed/quickfeed/vercheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quickfeed/quickfeed/vercheck?tag=HEAD-57d6ba1-250627T130234-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6182f3e8952ddff60f58c2c52339b140d2f904e527bb57140ad1d6e61091fa8c",
+  "size": "2.3 MB",
+  "size_raw": "2378008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
