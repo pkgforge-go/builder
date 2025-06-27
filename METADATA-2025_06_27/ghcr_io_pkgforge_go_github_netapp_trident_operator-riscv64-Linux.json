@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "trident",
+  "pkg_id": "operator#github.com_NetApp_trident",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/trident",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Storage orchestrator for containers",
+  "homepage": [
+    "https://github.com/NetApp/trident"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chwrap",
+    "node_prep",
+    "operator",
+    "syswrap",
+    "trident",
+    "trident-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/trident/archive/df1afbb4565e0a6b3101287bcada5e1f027d4161.tar.gz"
+  ],
+  "tag": [
+    "netapp-public"
+  ],
+  "version": "HEAD-df1afbb-250626T162953",
+  "version_upstream": "",
+  "bsum": "95a7e049a16afcf1f05cba8d4415ba27099248c61327c53680704b18efe7968d",
+  "build_date": "2025-06-27T10:07:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369380",
+  "build_id": "15923369380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/operator?tag=HEAD-df1afbb-250626T162953-riscv64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "801",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/operator?tag=HEAD-df1afbb-250626T162953-riscv64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/trident/operator:HEAD-df1afbb-250626T162953-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/trident/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/trident/operator?tag=HEAD-df1afbb-250626T162953-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "91e255e0d623c8cc177347ac3a384a5a466939c8c6f6769b456d7c64b1563c0c",
+  "size": "148 MB",
+  "size_raw": "154444856",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6e3969e-250620T211427-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
