@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goexec",
+  "pkg_family": "runme",
+  "pkg_id": "goexec#github.com_runmedev_runme",
+  "pkg_name": "goexec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/runmedev/runme",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DevOps Notebooks Built with Markdown",
+  "homepage": [
+    "https://github.com/runmedev/runme"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goexec",
+    "gqltool",
+    "grpc-client",
+    "release-notes",
+    "runme",
+    "runme-web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/runmedev/runme/archive/6e1a90bb15be81f12f9fe4e1c18693520f0e97bf.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "devops",
+    "markdown",
+    "notebooks",
+    "workflows"
+  ],
+  "version": "HEAD-6e1a90b-250626T101858",
+  "version_upstream": "v3.14.2",
+  "bsum": "7aa89ba2b65250286fa7f44cbbdca2b419079ff5f79c22a95d0b8fe4166fc04f",
+  "build_date": "2025-06-27T14:27:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927345652",
+  "build_id": "15927345652",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/goexec?tag=HEAD-6e1a90b-250626T101858-riscv64-Linux&download=goexec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1457",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/goexec?tag=HEAD-6e1a90b-250626T101858-riscv64-Linux&download=goexec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runmedev/runme/goexec:HEAD-6e1a90b-250626T101858-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runmedev/runme/goexec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/goexec?tag=HEAD-6e1a90b-250626T101858-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "634a16115e630dac5d0955fe859bcd7e099259adfd9ed31c39597e92e23b1751",
+  "size": "1.8 MB",
+  "size_raw": "1879752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5e75c82-250620T113427-riscv64-Linux[v3.14.1-rc.0]",
+    "HEAD-8c75c02-250623T124556-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
