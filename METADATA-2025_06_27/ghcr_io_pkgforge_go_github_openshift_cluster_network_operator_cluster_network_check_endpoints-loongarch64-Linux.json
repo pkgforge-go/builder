@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cluster-network-check-endpoints",
+  "pkg_family": "cluster-network-operator",
+  "pkg_id": "cluster-network-check-endpoints#github.com_openshift_cluster_network_operator",
+  "pkg_name": "cluster-network-check-endpoints",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Create and manage cluster networking configuration",
+  "homepage": [
+    "https://github.com/openshift/cluster-network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-network-check-endpoints",
+    "cluster-network-check-target",
+    "cluster-network-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-network-operator/archive/bd863a88a0b2fbd25c51fd967ba4fbe92bf911fd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bd863a8-250627T003301",
+  "version_upstream": "",
+  "bsum": "1eafb6c0c59d1c125ee9f54fb8a72ac98b4e740e35fba8fd0f7139cc162e9dcd",
+  "build_date": "2025-06-27T08:20:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920909258",
+  "build_id": "15920909258",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-endpoints?tag=HEAD-bd863a8-250627T003301-loongarch64-Linux&download=cluster-network-check-endpoints.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "103",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-endpoints?tag=HEAD-bd863a8-250627T003301-loongarch64-Linux&download=cluster-network-check-endpoints",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-endpoints:HEAD-bd863a8-250627T003301-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-endpoints",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-endpoints?tag=HEAD-bd863a8-250627T003301-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21628e0d8641ff8f367b4d739a1553d607e6fa69f0b6e0328558ce838765148e",
+  "size": "73 MB",
+  "size_raw": "75527264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
