@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "uncloud",
+  "pkg_family": "uncloud",
+  "pkg_id": "uncloud#github.com_psviderski_uncloud",
+  "pkg_name": "uncloud",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/psviderski/uncloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+  "homepage": [
+    "https://github.com/psviderski/uncloud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "experiment",
+    "explorer",
+    "networkdb",
+    "ucind",
+    "uncloud",
+    "uncloudd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/psviderski/uncloud/archive/3b89af4a11e1194c850c281f97131f7be0870c11.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "deployment",
+    "devops",
+    "docker",
+    "docker-compose",
+    "golang",
+    "kubernetes",
+    "orchestration",
+    "self-hosted"
+  ],
+  "version": "HEAD-3b89af4-250627T175402",
+  "version_upstream": "",
+  "bsum": "e930b5f9e1ed199da383896c399f1bfdb0782a73f6949019d2137a273dbae932",
+  "build_date": "2025-06-27T23:17:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936807959",
+  "build_id": "15936807959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/uncloud?tag=HEAD-3b89af4-250627T175402-aarch64-Linux&download=uncloud.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1352",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/uncloud?tag=HEAD-3b89af4-250627T175402-aarch64-Linux&download=uncloud",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psviderski/uncloud/uncloud:HEAD-3b89af4-250627T175402-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psviderski/uncloud/uncloud",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/uncloud?tag=HEAD-3b89af4-250627T175402-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff0c259c1b1af882f3a7146b4c971cf0aa3549a5e6e1a0777ae54fd9b9f1934a",
+  "size": "53 MB",
+  "size_raw": "55117024",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8e0a24e-250620T133750-aarch64-Linux",
+    "HEAD-26f34df-250622T192625-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
