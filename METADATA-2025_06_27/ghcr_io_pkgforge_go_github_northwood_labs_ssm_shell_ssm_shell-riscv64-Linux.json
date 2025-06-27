@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ssm-shell",
+  "pkg_family": "ssm-shell",
+  "pkg_id": "ssm-shell#github.com_northwood_labs_ssm_shell",
+  "pkg_name": "ssm-shell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/northwood-labs/ssm-shell",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simplifies the process of connecting to EC2 Instances using AWS Session Manager.",
+  "homepage": [
+    "https://github.com/northwood-labs/ssm-shell"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ssm-shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/northwood-labs/ssm-shell/archive/4605b1c3fa553c48a62ebde15276d6ccd5577cfb.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "aws-ec2",
+    "aws-ssm",
+    "aws-ssm-agent",
+    "session-manager"
+  ],
+  "version": "HEAD-4605b1c-250627T073459",
+  "version_upstream": "",
+  "bsum": "a5fb2cf7f3c310bbc08a2cfe96e5ae02f359faa3befa007eb6a63137e2dd0806",
+  "build_date": "2025-06-27T16:55:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931034868",
+  "build_id": "15931034868",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/northwood-labs/ssm-shell/ssm-shell?tag=HEAD-4605b1c-250627T073459-riscv64-Linux&download=ssm-shell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/northwood-labs/ssm-shell/ssm-shell?tag=HEAD-4605b1c-250627T073459-riscv64-Linux&download=ssm-shell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/northwood-labs/ssm-shell/ssm-shell:HEAD-4605b1c-250627T073459-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/northwood-labs/ssm-shell/ssm-shell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/northwood-labs/ssm-shell/ssm-shell?tag=HEAD-4605b1c-250627T073459-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "62ffda7e2975a5eaa8e06abe5a02665dd8d0fc95f6f85877c592b99724544ffc",
+  "size": "10 MB",
+  "size_raw": "10424888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
