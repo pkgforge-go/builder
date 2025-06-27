@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "helm",
+  "pkg_family": "helm",
+  "pkg_id": "helm#github.com_helm_helm",
+  "pkg_name": "helm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/helm/helm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Kubernetes Package Manager",
+  "homepage": [
+    "https://github.com/helm/helm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/helm/helm/archive/e53281bbded0fb221e410d15f2c363c215ac1469.tar.gz"
+  ],
+  "tag": [
+    "chart",
+    "charts",
+    "cncf",
+    "helm",
+    "kubernetes"
+  ],
+  "version": "HEAD-e53281b-250626T150126",
+  "version_upstream": "",
+  "bsum": "9fa1e184da16be7d1c28a53a019b2c6c59381eb1a699967a20fc5260088b1ec0",
+  "build_date": "2025-06-27T02:51:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916625472",
+  "build_id": "15916625472",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/helm/helm/helm?tag=HEAD-e53281b-250626T150126-riscv64-Linux&download=helm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28055",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/helm/helm/helm?tag=HEAD-e53281b-250626T150126-riscv64-Linux&download=helm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/helm/helm/helm:HEAD-e53281b-250626T150126-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/helm/helm/helm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/helm/helm/helm?tag=HEAD-e53281b-250626T150126-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d4856902f7cb7d6ebff6fbbdbc9ce9ba4319214fe7a4e3900f4cc2cae44cd0b2",
+  "size": "80 MB",
+  "size_raw": "83059768",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8e69436-250617T151831-riscv64-Linux",
+    "HEAD-a2a0935-250622T180057-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
