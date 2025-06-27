@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ecb",
+  "pkg_family": "playReady",
+  "pkg_id": "ecb#github.com_3052_playReady",
+  "pkg_name": "ecb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/3052/playReady",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PlayReady implementation",
+  "homepage": [
+    "https://github.com/3052/playReady"
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "2025-05",
+    "cbc",
+    "ecb",
+    "ecb-brute"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/3052/playReady/archive/b3ef26adfed6567254f4edb6f8a1588c36fc25e3.tar.gz"
+  ],
+  "tag": [
+    "drm",
+    "microsoft"
+  ],
+  "version": "HEAD-b3ef26a-250626T071023",
+  "version_upstream": "v1.0.7",
+  "bsum": "55c0319a86f158a461897c15190243a392ecbb80a53cc6cd3eb94b70445c987f",
+  "build_date": "2025-06-27T02:18:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916547079",
+  "build_id": "15916547079",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/ecb?tag=HEAD-b3ef26a-250626T071023-riscv64-Linux&download=ecb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/ecb?tag=HEAD-b3ef26a-250626T071023-riscv64-Linux&download=ecb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/3052/playready/ecb:HEAD-b3ef26a-250626T071023-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/3052/playready/ecb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/ecb?tag=HEAD-b3ef26a-250626T071023-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7999d07ec071416d1fd9dd64b59f6de3a7e1d81edce18ddc2cd04c60837165a5",
+  "size": "1.8 MB",
+  "size_raw": "1862232",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e216d0c-250618T200058-riscv64-Linux",
+    "HEAD-7b4c18a-250622T001501-riscv64-Linux",
+    "HEAD-13b5d35-250622T224754-riscv64-Linux",
+    "HEAD-21b1188-250623T071208-riscv64-Linux",
+    "HEAD-6f804d4-250623T214615-riscv64-Linux",
+    "HEAD-1046218-250624T074205-riscv64-Linux",
+    "HEAD-73e56de-250624T222532-riscv64-Linux",
+    "HEAD-7ed4093-250625T065854-riscv64-Linux",
+    "HEAD-bb02750-250625T220132-riscv64-Linux",
+    "HEAD-b3ef26a-250626T071023-riscv64-Linux[v1.0.7]"
+  ],
+  "trusted": "true"
+}
