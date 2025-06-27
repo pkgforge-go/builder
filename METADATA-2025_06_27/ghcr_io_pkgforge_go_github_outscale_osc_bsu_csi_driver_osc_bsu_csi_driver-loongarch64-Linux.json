@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "osc-bsu-csi-driver",
+  "pkg_family": "osc-bsu-csi-driver",
+  "pkg_id": "osc-bsu-csi-driver#github.com_outscale_osc_bsu_csi_driver",
+  "pkg_name": "osc-bsu-csi-driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/outscale/osc-bsu-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The OSC BSU CSI Driver enables Kubernetes to manage Outscale Block Storage Units _BSU_, providing dynamic provisioning and persistent storage support on Outscale_s cloud infrastructure.",
+  "homepage": [
+    "https://github.com/outscale/osc-bsu-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "osc-bsu-csi-driver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/outscale/osc-bsu-csi-driver/archive/9be64931052e87391786bfe8c4a37850e0b29257.tar.gz"
+  ],
+  "tag": [
+    "maturity-graduated"
+  ],
+  "version": "HEAD-9be6493-250627T093232",
+  "version_upstream": "",
+  "bsum": "26ddf12db04a989f0c4cd7a7c66b2836bfd1c0b6b95b51b7bf05990dfc91c30c",
+  "build_date": "2025-06-27T16:59:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931094235",
+  "build_id": "15931094235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/outscale/osc-bsu-csi-driver/osc-bsu-csi-driver?tag=HEAD-9be6493-250627T093232-loongarch64-Linux&download=osc-bsu-csi-driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/outscale/osc-bsu-csi-driver/osc-bsu-csi-driver?tag=HEAD-9be6493-250627T093232-loongarch64-Linux&download=osc-bsu-csi-driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/outscale/osc-bsu-csi-driver/osc-bsu-csi-driver:HEAD-9be6493-250627T093232-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/outscale/osc-bsu-csi-driver/osc-bsu-csi-driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/outscale/osc-bsu-csi-driver/osc-bsu-csi-driver?tag=HEAD-9be6493-250627T093232-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12e70698b27498b8680c9203265e5616797538bf94ab783e6b76dd4fd4c7c69d",
+  "size": "46 MB",
+  "size_raw": "48119552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
