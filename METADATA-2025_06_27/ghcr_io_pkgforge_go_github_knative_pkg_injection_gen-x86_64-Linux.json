@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "injection-gen",
+  "pkg_family": "pkg",
+  "pkg_id": "injection-gen#github.com_knative_pkg",
+  "pkg_name": "injection-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/pkg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative common packages",
+  "homepage": [
+    "https://github.com/knative/pkg"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chaosduck",
+    "hash-gen",
+    "injection-gen",
+    "migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative/pkg/archive/8481e7eef7f68a56cf2e7e1a6225991111bba1c1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8481e7e-250627T014006",
+  "version_upstream": "",
+  "bsum": "d8b41acfb6322cca716d9f397176daf25bdb5045f8bf257cb4510974736ebf8c",
+  "build_date": "2025-06-27T11:10:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923541233",
+  "build_id": "15923541233",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/injection-gen?tag=HEAD-8481e7e-250627T014006-x86_64-Linux&download=injection-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "271",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/injection-gen?tag=HEAD-8481e7e-250627T014006-x86_64-Linux&download=injection-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/pkg/injection-gen:HEAD-8481e7e-250627T014006-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/pkg/injection-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/pkg/injection-gen?tag=HEAD-8481e7e-250627T014006-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c8093a60810cd16532de8ac1852f6a32e0faae8dbe3f851941546da79941046",
+  "size": "9.9 MB",
+  "size_raw": "10340352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fe85a65-250625T132305-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
