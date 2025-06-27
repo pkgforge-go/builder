@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "algernon",
+  "pkg_family": "algernon",
+  "pkg_id": "algernon#github.com_xyproto_algernon",
+  "pkg_name": "algernon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xyproto/algernon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++",
+  "homepage": [
+    "https://github.com/xyproto/algernon"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "algernon",
+    "go",
+    "prettify"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xyproto/algernon/archive/b89176dd6d9476dc4adcbe2b0d112663c016b1d8.tar.gz"
+  ],
+  "tag": [
+    "algernon",
+    "buildless",
+    "cross-platform",
+    "fasthttp",
+    "go",
+    "http2",
+    "http3",
+    "live-reload",
+    "llm",
+    "lua",
+    "mysql",
+    "ollama",
+    "pongo2",
+    "postgresql",
+    "quic",
+    "redis",
+    "server-sent-events",
+    "sqlite",
+    "tls13"
+  ],
+  "version": "HEAD-b89176d-250626T195418",
+  "version_upstream": "",
+  "bsum": "125dad1ca398f8f0de5cc280fd9f4be89cde6f86415ef9bb7339d28922b7a016",
+  "build_date": "2025-06-27T12:32:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923796442",
+  "build_id": "15923796442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/algernon/algernon?tag=HEAD-b89176d-250626T195418-aarch64-Linux&download=algernon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2916",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/algernon/algernon?tag=HEAD-b89176d-250626T195418-aarch64-Linux&download=algernon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xyproto/algernon/algernon:HEAD-b89176d-250626T195418-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xyproto/algernon/algernon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xyproto/algernon/algernon?tag=HEAD-b89176d-250626T195418-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ebd665960e1d143bee70cec666724164e4c0588d5e8dbe15bed9502f9124d4a5",
+  "size": "35 MB",
+  "size_raw": "35933728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-174fc4f-250609T154328-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
