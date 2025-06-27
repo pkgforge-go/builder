@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "diki",
+  "pkg_family": "diki",
+  "pkg_id": "diki#github.com_gardener_diki",
+  "pkg_name": "diki",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gardener/diki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Diki is a compliance checker that aims to enhance the security posture of your Kubernetes clusters.",
+  "homepage": [
+    "https://github.com/gardener/diki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "diki"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gardener/diki/archive/c657db31306907670c6ee6a52c0e47548f4b70f9.tar.gz"
+  ],
+  "tag": [
+    "compliance",
+    "compliance-checklist",
+    "hardening",
+    "kubernetes",
+    "kubernetes-hardening",
+    "reporting",
+    "security",
+    "stig",
+    "stig-compliant"
+  ],
+  "version": "HEAD-c657db3-250627T125921",
+  "version_upstream": "",
+  "bsum": "f3a1e9369cbf884507b3a8316e0bb1a34a8f93b60834229fc531c95358ac3654",
+  "build_date": "2025-06-27T20:03:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933837990",
+  "build_id": "15933837990",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/diki/diki?tag=HEAD-c657db3-250627T125921-x86_64-Linux&download=diki.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/diki/diki?tag=HEAD-c657db3-250627T125921-x86_64-Linux&download=diki",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gardener/diki/diki:HEAD-c657db3-250627T125921-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gardener/diki/diki",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gardener/diki/diki?tag=HEAD-c657db3-250627T125921-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f2f014d79ea5c0cbd585a312504b64e9f695fb836c769e98263ea0df56ce542",
+  "size": "92 MB",
+  "size_raw": "95927456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f51df96-250626T165158-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
