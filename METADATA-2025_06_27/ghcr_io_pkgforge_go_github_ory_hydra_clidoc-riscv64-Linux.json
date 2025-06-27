@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "clidoc",
+  "pkg_family": "hydra",
+  "pkg_id": "clidoc#github.com_ory_hydra",
+  "pkg_name": "clidoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ory/hydra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",
+  "homepage": [
+    "https://github.com/ory/hydra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clidoc",
+    "hydra",
+    "mock-cb",
+    "mock-client",
+    "mock-lcp",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ory/hydra/archive/cbf14c0b9c763e60424949358126258cbf3c316a.tar.gz"
+  ],
+  "tag": [
+    "authorization",
+    "cloud",
+    "docker",
+    "federation",
+    "hacktoberfest",
+    "hydra",
+    "identity",
+    "oauth",
+    "oauth-provider",
+    "oauth2",
+    "oauth2-provider",
+    "oauth2-server",
+    "oidc",
+    "openid",
+    "openid-connect",
+    "openid-connect-provider",
+    "openid-provider",
+    "security",
+    "server",
+    "sso"
+  ],
+  "version": "HEAD-cbf14c0-250627T124544",
+  "version_upstream": "",
+  "bsum": "e9d8039b93c29136a769cdc3fffef528a5d446eb4e52515e0ffc4a8ced6a2792",
+  "build_date": "2025-06-27T21:07:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15934027481",
+  "build_id": "15934027481",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/clidoc?tag=HEAD-cbf14c0-250627T124544-riscv64-Linux&download=clidoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16300",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/clidoc?tag=HEAD-cbf14c0-250627T124544-riscv64-Linux&download=clidoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ory/hydra/clidoc:HEAD-cbf14c0-250627T124544-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ory/hydra/clidoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ory/hydra/clidoc?tag=HEAD-cbf14c0-250627T124544-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc9f48ea93b809f7a84b50b90db456dbef653ec1c984d566f6555c18fc66b00f",
+  "size": "43 MB",
+  "size_raw": "44257240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a0a9062-250620T113805-riscv64-Linux",
+    "HEAD-d9ea549-250624T105940-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
