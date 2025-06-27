@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dynamodb",
+  "pkg_family": "libaws",
+  "pkg_id": "dynamodb#github.com_nathants_libaws",
+  "pkg_name": "dynamodb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nathants/libaws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "just ship on aws",
+  "homepage": [
+    "https://github.com/nathants/libaws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api_and_stream",
+    "dynamodb",
+    "ecr",
+    "includes",
+    "libaws",
+    "s3",
+    "s3-ec2",
+    "schedule",
+    "sqs",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nathants/libaws/archive/1cba51c7ea83969f618693e15c1b9de45a17c91e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1cba51c-250626T112228",
+  "version_upstream": "",
+  "bsum": "ec48fdafe4b422d134c6f0776175f9caf1e1c16e6396adb5d947479a57fe36d7",
+  "build_date": "2025-06-27T11:37:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923562821",
+  "build_id": "15923562821",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/dynamodb?tag=HEAD-1cba51c-250626T112228-riscv64-Linux&download=dynamodb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/dynamodb?tag=HEAD-1cba51c-250626T112228-riscv64-Linux&download=dynamodb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nathants/libaws/dynamodb:HEAD-1cba51c-250626T112228-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nathants/libaws/dynamodb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/dynamodb?tag=HEAD-1cba51c-250626T112228-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb16e089b44f40c813a16852e20e922b21356b86a3231062d924cca8e9d2ec53",
+  "size": "13 MB",
+  "size_raw": "12865048",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7929d2-250618T200933-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
