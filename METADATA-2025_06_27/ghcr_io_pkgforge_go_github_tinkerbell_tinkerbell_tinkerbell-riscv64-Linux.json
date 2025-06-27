@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tinkerbell",
+  "pkg_family": "tinkerbell",
+  "pkg_id": "tinkerbell#github.com_tinkerbell_tinkerbell",
+  "pkg_name": "tinkerbell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinkerbell/tinkerbell",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bare metal provisioning engine, supporting network and ISO booting, BMC interactions, metadata service, and workflow engine.",
+  "homepage": [
+    "https://github.com/tinkerbell/tinkerbell"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "tinkerbell",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tinkerbell/tinkerbell/archive/555c91657b65bc189c62510846309a25718ffbfb.tar.gz"
+  ],
+  "tag": [
+    "bare-metal",
+    "baremetal",
+    "baremetal-provisioning",
+    "bmc",
+    "cncf-project",
+    "dhcp",
+    "ipmi",
+    "ipxe",
+    "isoboot",
+    "metadata",
+    "netboot",
+    "pxe",
+    "redfish",
+    "tinkerbell"
+  ],
+  "version": "HEAD-555c916-250626T225107",
+  "version_upstream": "",
+  "bsum": "e2a82475634901549219b01627624f55a1d60e80569c973e2d9283c91104c080",
+  "build_date": "2025-06-27T12:13:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923738879",
+  "build_id": "15923738879",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/tinkerbell?tag=HEAD-555c916-250626T225107-riscv64-Linux&download=tinkerbell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/tinkerbell?tag=HEAD-555c916-250626T225107-riscv64-Linux&download=tinkerbell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinkerbell/tinkerbell/tinkerbell:HEAD-555c916-250626T225107-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinkerbell/tinkerbell/tinkerbell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/tinkerbell/tinkerbell?tag=HEAD-555c916-250626T225107-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d46256a8470553e06c0f62baab1e45407fd9c1af02946e1871cbba1bc8fda693",
+  "size": "64 MB",
+  "size_raw": "66699320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c3c0ffc-250623T190933-riscv64-Linux",
+    "HEAD-676123c-250625T004734-riscv64-Linux",
+    "HEAD-efe73fc-250625T140022-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
