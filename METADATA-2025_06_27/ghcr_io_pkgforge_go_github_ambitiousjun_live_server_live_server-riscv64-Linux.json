@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "live-server",
+  "pkg_family": "live-server",
+  "pkg_id": "live-server#github.com_AmbitiousJun_live_server",
+  "pkg_name": "live-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AmbitiousJun/live-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一个 HTTP 电视直播服务",
+  "homepage": [
+    "https://github.com/AmbitiousJun/live-server"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "live-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AmbitiousJun/live-server/archive/e582a264c252103752719ba0c1a6e6d175a41e11.tar.gz"
+  ],
+  "tag": [
+    "docker-compose",
+    "iptv",
+    "redirect",
+    "reverse-proxy"
+  ],
+  "version": "HEAD-e582a26-250627T162221",
+  "version_upstream": "v1.22.8",
+  "bsum": "c27b3202efb2de17a23365fc0bdfb0a37422cbbd2692e0558baa55dfae3818ab",
+  "build_date": "2025-06-27T15:48:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930342493",
+  "build_id": "15930342493",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ambitiousjun/live-server/live-server?tag=HEAD-e582a26-250627T162221-riscv64-Linux&download=live-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ambitiousjun/live-server/live-server?tag=HEAD-e582a26-250627T162221-riscv64-Linux&download=live-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ambitiousjun/live-server/live-server:HEAD-e582a26-250627T162221-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ambitiousjun/live-server/live-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ambitiousjun/live-server/live-server?tag=HEAD-e582a26-250627T162221-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8bacbeb84f82b741c8b6c13f982d87014452351cbf678087c44abe66a670b8a2",
+  "size": "20 MB",
+  "size_raw": "20155064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
