@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kubemox",
+  "pkg_family": "kubemox",
+  "pkg_id": "kubemox#github.com_alperencelik_kubemox",
+  "pkg_name": "kubemox",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alperencelik/kubemox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proxmox operator for Kubernetes to manage Proxmox resources.",
+  "homepage": [
+    "https://github.com/alperencelik/kubemox"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubemox"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/alperencelik/kubemox/archive/1d596f49d71b24a954882d14187ec6c1870870b9.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-operator",
+    "operator",
+    "proxmox",
+    "proxmox-ve"
+  ],
+  "version": "HEAD-1d596f4-250627T131057",
+  "version_upstream": "",
+  "bsum": "748a4ac1c4378143728e85889c63e512727917f20694a106a314f6da9c2c7d72",
+  "build_date": "2025-06-27T16:08:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930405675",
+  "build_id": "15930405675",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alperencelik/kubemox/kubemox?tag=HEAD-1d596f4-250627T131057-aarch64-Linux&download=kubemox.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alperencelik/kubemox/kubemox?tag=HEAD-1d596f4-250627T131057-aarch64-Linux&download=kubemox",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alperencelik/kubemox/kubemox:HEAD-1d596f4-250627T131057-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alperencelik/kubemox/kubemox",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alperencelik/kubemox/kubemox?tag=HEAD-1d596f4-250627T131057-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2323ef24faa3f061c9a8e8881a6d8396667b1de2b7b37f7d0cf0339001645b5a",
+  "size": "40 MB",
+  "size_raw": "41082592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
