@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cp-tool",
+  "pkg_family": "metallb",
+  "pkg_id": "cp-tool#github.com_metallb_metallb",
+  "pkg_name": "cp-tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metallb/metallb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+  "homepage": [
+    "https://github.com/metallb/metallb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaptocrs",
+    "controller",
+    "cp-tool",
+    "metrics",
+    "speaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/metallb/metallb/archive/659944f6cfbad3c7ef84fe975aa9811b9821aa57.tar.gz"
+  ],
+  "tag": [
+    "arp",
+    "bare-metal",
+    "bgp",
+    "frr",
+    "hacktoberfest",
+    "keepalived",
+    "kubernetes",
+    "load-balancer",
+    "vrrp"
+  ],
+  "version": "HEAD-659944f-250626T230119",
+  "version_upstream": "",
+  "bsum": "2d54141f6da19b638e8f20c10ec627894631a65fd687ca7d43b4693f76dfce07",
+  "build_date": "2025-06-27T11:27:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923549130",
+  "build_id": "15923549130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/cp-tool?tag=HEAD-659944f-250626T230119-riscv64-Linux&download=cp-tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7599",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/cp-tool?tag=HEAD-659944f-250626T230119-riscv64-Linux&download=cp-tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metallb/metallb/cp-tool:HEAD-659944f-250626T230119-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metallb/metallb/cp-tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metallb/metallb/cp-tool?tag=HEAD-659944f-250626T230119-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ebd8758b96bc13057eae432736898bda9b433cb2a28b1940f9e6619a2e7370a6",
+  "size": "1.7 MB",
+  "size_raw": "1735848",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bacee32-250622T234743-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
