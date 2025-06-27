@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "create-vm",
+  "pkg_family": "kubevirt-tekton-tasks",
+  "pkg_id": "create-vm#github.com_kubevirt_kubevirt_tekton_tasks",
+  "pkg_name": "create-vm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/kubevirt-tekton-tasks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VM specific tasks for Tekton Pipelines",
+  "homepage": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-vm",
+    "disk-uploader",
+    "disk-virt-customize",
+    "disk-virt-sysprep",
+    "execute-in-vm",
+    "generate-ssh-keys",
+    "modify-data-object",
+    "wait-for-vmi-status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks/archive/ec908797c0a1bc0a24fbf99b3cfcc19fe1fc0cc5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ec90879-250626T194045",
+  "version_upstream": "",
+  "bsum": "afb3c35640e92585b3c8c0f3a7cf224739ce5fd063b0f3ec1657fd8f1e89d4da",
+  "build_date": "2025-06-27T07:58:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920265589",
+  "build_id": "15920265589",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/create-vm?tag=HEAD-ec90879-250626T194045-riscv64-Linux&download=create-vm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/create-vm?tag=HEAD-ec90879-250626T194045-riscv64-Linux&download=create-vm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/create-vm:HEAD-ec90879-250626T194045-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/create-vm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/create-vm?tag=HEAD-ec90879-250626T194045-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "52df6367bdb7b9761e708efc53b56372220e9dbf81895f7ac7ecc1a3ca9c2540",
+  "size": "55 MB",
+  "size_raw": "56863832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
