@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gobgp",
+  "pkg_family": "gobgp",
+  "pkg_id": "gobgp#github.com_osrg_gobgp",
+  "pkg_name": "gobgp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osrg/gobgp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BGP implemented in the Go Programming Language",
+  "homepage": [
+    "https://github.com/osrg/gobgp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "gobgp",
+    "gobgpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osrg/gobgp/archive/44a8b692c093cc5d9ccf88a75ab2f0031b636f6e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-44a8b69-250626T192742",
+  "version_upstream": "",
+  "bsum": "0264f549f5e5eb5f850a847fd862b898a5d0cfc0ea91d270c1074472e3f98a77",
+  "build_date": "2025-06-27T00:08:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913528160",
+  "build_id": "15913528160",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/gobgp?tag=HEAD-44a8b69-250626T192742-riscv64-Linux&download=gobgp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3818",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/gobgp?tag=HEAD-44a8b69-250626T192742-riscv64-Linux&download=gobgp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osrg/gobgp/gobgp:HEAD-44a8b69-250626T192742-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osrg/gobgp/gobgp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/gobgp?tag=HEAD-44a8b69-250626T192742-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22926801a01f754cacb0597ffb3412f8eff279602b27b8cd6ac3ceedab775935",
+  "size": "18 MB",
+  "size_raw": "18473752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-14029e1-250617T102229-riscv64-Linux",
+    "HEAD-b0a6a3a-250620T101611-riscv64-Linux",
+    "HEAD-f677e0b-250624T193400-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
