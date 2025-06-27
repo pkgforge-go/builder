@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ecr",
+  "pkg_family": "libaws",
+  "pkg_id": "ecr#github.com_nathants_libaws",
+  "pkg_name": "ecr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nathants/libaws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "just ship on aws",
+  "homepage": [
+    "https://github.com/nathants/libaws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api_and_stream",
+    "dynamodb",
+    "ecr",
+    "includes",
+    "libaws",
+    "s3",
+    "s3-ec2",
+    "schedule",
+    "sqs",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nathants/libaws/archive/1cba51c7ea83969f618693e15c1b9de45a17c91e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1cba51c-250626T112228",
+  "version_upstream": "",
+  "bsum": "c39c6e1c504f1629ae0bf0b02585917ee09dd7da29892ba9acd3b3cb5f3a685b",
+  "build_date": "2025-06-27T11:38:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923562821",
+  "build_id": "15923562821",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/ecr?tag=HEAD-1cba51c-250626T112228-x86_64-Linux&download=ecr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/ecr?tag=HEAD-1cba51c-250626T112228-x86_64-Linux&download=ecr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nathants/libaws/ecr:HEAD-1cba51c-250626T112228-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nathants/libaws/ecr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/ecr?tag=HEAD-1cba51c-250626T112228-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dbac39b7630474981af7dc57f5c9e91133060cc5ab8c406371353b1c9e14c14b",
+  "size": "11 MB",
+  "size_raw": "10593056",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7929d2-250618T200933-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
