@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "entrypoint",
+  "pkg_family": "meows",
+  "pkg_id": "entrypoint#github.com_cybozu_go_meows",
+  "pkg_name": "entrypoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/meows",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller for GitHub actions self-hosted runners",
+  "homepage": [
+    "https://github.com/cybozu-go/meows"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "entrypoint",
+    "job-started",
+    "meows",
+    "slack-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/meows/archive/d8b5f4d8f08ac7b9cc6e8f8ab3fb971030e25723.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d8b5f4d-250627T161715",
+  "version_upstream": "",
+  "bsum": "75268433313e495952d0154ee9f342bf8a6a6cb4e436da726c793cbadc3bb3d2",
+  "build_date": "2025-06-27T16:23:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930445000",
+  "build_id": "15930445000",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/entrypoint?tag=HEAD-d8b5f4d-250627T161715-riscv64-Linux&download=entrypoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/entrypoint?tag=HEAD-d8b5f4d-250627T161715-riscv64-Linux&download=entrypoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/meows/entrypoint:HEAD-d8b5f4d-250627T161715-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/meows/entrypoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/entrypoint?tag=HEAD-d8b5f4d-250627T161715-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "af792f69172ae9b0fbdb6c66e39f0562f8715b072ac214b424abef9d54b7478f",
+  "size": "17 MB",
+  "size_raw": "17613816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
