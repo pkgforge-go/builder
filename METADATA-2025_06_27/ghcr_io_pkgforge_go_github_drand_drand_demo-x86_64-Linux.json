@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "demo",
+  "pkg_family": "drand",
+  "pkg_id": "demo#github.com_drand_drand",
+  "pkg_name": "demo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drand/drand",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🎲 A Distributed Randomness Beacon Daemon - Go implementation",
+  "homepage": [
+    "https://github.com/drand/drand"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "demo",
+    "drand",
+    "regression"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/drand/drand/archive/7f4a942c54aba1c7deea6bde20dfb5d2dec0bfd7.tar.gz"
+  ],
+  "tag": [
+    "cryptography",
+    "golang",
+    "hacktoberfest",
+    "randomness",
+    "randomness-beacon"
+  ],
+  "version": "HEAD-7f4a942-250627T160746",
+  "version_upstream": "",
+  "bsum": "8d4b4e0b8a5a384277a1599d3a50e834c274d177d365a816bbb6c991cf7a482b",
+  "build_date": "2025-06-27T20:00:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933804429",
+  "build_id": "15933804429",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drand/drand/demo?tag=HEAD-7f4a942-250627T160746-x86_64-Linux&download=demo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "777",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drand/drand/demo?tag=HEAD-7f4a942-250627T160746-x86_64-Linux&download=demo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drand/drand/demo:HEAD-7f4a942-250627T160746-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drand/drand/demo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drand/drand/demo?tag=HEAD-7f4a942-250627T160746-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70250395e61faadbf795e873cb3ee82ff8205eab0f14ba8884060d83ebf8b562",
+  "size": "23 MB",
+  "size_raw": "23412784",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bebad8f-250603T125741-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
