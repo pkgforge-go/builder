@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "datasetd",
+  "pkg_family": "dataset",
+  "pkg_id": "datasetd#github.com_caltechlibrary_dataset",
+  "pkg_name": "datasetd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/caltechlibrary/dataset",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "dataset is a command line tool, Go package, shared library and Python package for working with JSON objects as collections",
+  "homepage": [
+    "https://github.com/caltechlibrary/dataset"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dataset",
+    "datasetd",
+    "dsimporter",
+    "dsquery"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/caltechlibrary/dataset/archive/988de288aa899832761c5450353572cb6e213ece.tar.gz"
+  ],
+  "tag": [
+    "datasets",
+    "json"
+  ],
+  "version": "HEAD-988de28-250626T172510",
+  "version_upstream": "",
+  "bsum": "f38221bcc98fbfdb0b3a872f512becadacba836635b02f3d9450d2ac050ceb30",
+  "build_date": "2025-06-27T07:23:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920201912",
+  "build_id": "15920201912",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/caltechlibrary/dataset/datasetd?tag=HEAD-988de28-250626T172510-aarch64-Linux&download=datasetd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/caltechlibrary/dataset/datasetd?tag=HEAD-988de28-250626T172510-aarch64-Linux&download=datasetd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/caltechlibrary/dataset/datasetd:HEAD-988de28-250626T172510-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/caltechlibrary/dataset/datasetd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/caltechlibrary/dataset/datasetd?tag=HEAD-988de28-250626T172510-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7f3f863ef6edf6c64f6480e44f2a5c2367689cabb2d862a5003de9763eb6125",
+  "size": "17 MB",
+  "size_raw": "16792800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
