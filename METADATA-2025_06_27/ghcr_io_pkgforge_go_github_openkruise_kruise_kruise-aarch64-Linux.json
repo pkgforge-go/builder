@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kruise",
+  "pkg_family": "kruise",
+  "pkg_id": "kruise#github.com_openkruise_kruise",
+  "pkg_name": "kruise",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openkruise/kruise",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automated management of large-scale applications on Kubernetes _incubating project under CNCF_",
+  "homepage": [
+    "https://github.com/openkruise/kruise"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "daemon",
+    "fake_plugin",
+    "helm_hook",
+    "kruise"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openkruise/kruise/archive/4778e7cfea47531e3cae400d96f25127067eb55f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cloudnative",
+    "cncf",
+    "container",
+    "k8s",
+    "kruise",
+    "kubernetes",
+    "openkruise",
+    "workload",
+    "workloads"
+  ],
+  "version": "HEAD-4778e7c-250627T110058",
+  "version_upstream": "",
+  "bsum": "c36d9395a1cbac9fd291691dd2c606626111f062f867e49c424a67b84a1cfa4b",
+  "build_date": "2025-06-27T11:45:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923700719",
+  "build_id": "15923700719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/kruise?tag=HEAD-4778e7c-250627T110058-aarch64-Linux&download=kruise.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/kruise?tag=HEAD-4778e7c-250627T110058-aarch64-Linux&download=kruise",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openkruise/kruise/kruise:HEAD-4778e7c-250627T110058-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openkruise/kruise/kruise",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/kruise?tag=HEAD-4778e7c-250627T110058-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03ef955537f857bd9eedd930543b546b1ddf6ed4b3bbe0fbb486d2ceddb06445",
+  "size": "68 MB",
+  "size_raw": "70698752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fc611f0-250625T103844-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
