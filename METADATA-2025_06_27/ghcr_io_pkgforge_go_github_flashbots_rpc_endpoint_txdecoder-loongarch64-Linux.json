@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "txdecoder",
+  "pkg_family": "rpc-endpoint",
+  "pkg_id": "txdecoder#github.com_flashbots_rpc_endpoint",
+  "pkg_name": "txdecoder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flashbots/rpc-endpoint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flashbots RPC endpoint, to be used with wallets _eg. MetaMask_",
+  "homepage": [
+    "https://github.com/flashbots/rpc-endpoint"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mockbackend",
+    "server",
+    "txdecoder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flashbots/rpc-endpoint/archive/8fa11a17959d3f4f2e82ba491e6dffe52cda073f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-8fa11a1-250627T152742",
+  "version_upstream": "",
+  "bsum": "75681f38fd264117f6307ca166c8818b16820394ef87afe19f75bd4eaf972222",
+  "build_date": "2025-06-27T16:26:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930460868",
+  "build_id": "15930460868",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/rpc-endpoint/txdecoder?tag=HEAD-8fa11a1-250627T152742-loongarch64-Linux&download=txdecoder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "203",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/rpc-endpoint/txdecoder?tag=HEAD-8fa11a1-250627T152742-loongarch64-Linux&download=txdecoder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flashbots/rpc-endpoint/txdecoder:HEAD-8fa11a1-250627T152742-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flashbots/rpc-endpoint/txdecoder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/rpc-endpoint/txdecoder?tag=HEAD-8fa11a1-250627T152742-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2385d00e5861eb3cd0f548fabca9bdbc950ec391509181ab493ec1682ba022cd",
+  "size": "6.7 MB",
+  "size_raw": "6927264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
