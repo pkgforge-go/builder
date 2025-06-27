@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "forklift-controller",
+  "pkg_family": "forklift",
+  "pkg_id": "forklift-controller#github.com_kubev2v_forklift",
+  "pkg_name": "forklift-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubev2v/forklift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt",
+  "homepage": [
+    "https://github.com/kubev2v/forklift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "forklift-api",
+    "forklift-controller",
+    "image-converter",
+    "inventory",
+    "openstack-populator",
+    "ova-provider-server",
+    "ovirt-populator",
+    "populator-controller",
+    "virt-v2v",
+    "virt-v2v-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubev2v/forklift/archive/3c615d05e1f745660837b18c6893dfdec8c63dcd.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubevirt",
+    "migration",
+    "openstack",
+    "ova",
+    "ovf",
+    "ovirt",
+    "virt-v2v",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-3c615d0-250626T160501",
+  "version_upstream": "",
+  "bsum": "bc2629eb27dc730b7993fbeb0f394d0566abf55d7591095d1bc0410f48115f83",
+  "build_date": "2025-06-27T03:08:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916633918",
+  "build_id": "15916633918",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/forklift-controller?tag=HEAD-3c615d0-250626T160501-aarch64-Linux&download=forklift-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "92",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/forklift-controller?tag=HEAD-3c615d0-250626T160501-aarch64-Linux&download=forklift-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubev2v/forklift/forklift-controller:HEAD-3c615d0-250626T160501-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubev2v/forklift/forklift-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/forklift-controller?tag=HEAD-3c615d0-250626T160501-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5135ee93e8dfc99993fecc03446e61df0b221b97514f20d9000a5746e81953bf",
+  "size": "93 MB",
+  "size_raw": "96713120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d13e1d0-250620T145157-aarch64-Linux",
+    "HEAD-e857e6e-250623T150948-aarch64-Linux",
+    "HEAD-19f8baa-250624T134014-aarch64-Linux",
+    "HEAD-11f505e-250625T134859-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
