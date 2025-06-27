@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "resourcegen",
+  "pkg_family": "contrast",
+  "pkg_id": "resourcegen#github.com_edgelesssys_contrast",
+  "pkg_name": "resourcegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/edgelesssys/contrast",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploy and manage confidential containers on Kubernetes",
+  "homepage": [
+    "https://github.com/edgelesssys/contrast"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "initializer",
+    "nodeinstaller",
+    "resourcegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/edgelesssys/contrast/archive/e9dffadcad5b244872bae081b2829be98631bf6b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e9dffad-250626T094836",
+  "version_upstream": "",
+  "bsum": "2b580a7cbb14b24bb876e11fb02bb000dde657d19106ff82f9ba40da83b20ce8",
+  "build_date": "2025-06-27T02:44:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916574910",
+  "build_id": "15916574910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/resourcegen?tag=HEAD-e9dffad-250626T094836-loongarch64-Linux&download=resourcegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/resourcegen?tag=HEAD-e9dffad-250626T094836-loongarch64-Linux&download=resourcegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/edgelesssys/contrast/resourcegen:HEAD-e9dffad-250626T094836-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/edgelesssys/contrast/resourcegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/edgelesssys/contrast/resourcegen?tag=HEAD-e9dffad-250626T094836-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b6cdfb81be6f2c4e861b51e376a7c1e3b9f5b63a0ab012a271d6a3758c0c74c",
+  "size": "38 MB",
+  "size_raw": "39036672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d4062fa-250620T105136-loongarch64-Linux",
+    "HEAD-2c50ca0-250623T162044-loongarch64-Linux",
+    "HEAD-ab42837-250624T143455-loongarch64-Linux",
+    "HEAD-4cf591b-250625T150836-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
