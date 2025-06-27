@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server_params_runtime",
+  "pkg_family": "client-native",
+  "pkg_id": "server_params_runtime#github.com_haproxytech_client_native",
+  "pkg_name": "server_params_runtime",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/haproxytech/client-native",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go client for HAProxy configuration and runtime API",
+  "homepage": [
+    "https://github.com/haproxytech/client-native"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "kubebuilder_marker_generator",
+    "server_params_runtime",
+    "specification",
+    "struct_equal_generator",
+    "struct_tags_checker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/haproxytech/client-native/archive/277153bd6d3f1ad76fc81d846f75c76176d081cf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-277153b-250627T093057",
+  "version_upstream": "",
+  "bsum": "d2c97e77d05d9c9f21fecd053961e0b1bf40469b81d7890a297828f69e01bd6c",
+  "build_date": "2025-06-27T16:35:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930528190",
+  "build_id": "15930528190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/haproxytech/client-native/server_params_runtime?tag=HEAD-277153b-250627T093057-loongarch64-Linux&download=server_params_runtime.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "140",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/haproxytech/client-native/server_params_runtime?tag=HEAD-277153b-250627T093057-loongarch64-Linux&download=server_params_runtime",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/haproxytech/client-native/server_params_runtime:HEAD-277153b-250627T093057-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/haproxytech/client-native/server_params_runtime",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/haproxytech/client-native/server_params_runtime?tag=HEAD-277153b-250627T093057-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9744fa087c2d7612570a9a2c8ff7852c55c709d9bce8c02a2266b8c86240676",
+  "size": "8.4 MB",
+  "size_raw": "8792416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
