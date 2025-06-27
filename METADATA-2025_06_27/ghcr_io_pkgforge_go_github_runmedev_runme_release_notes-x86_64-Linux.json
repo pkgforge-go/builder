@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "release-notes",
+  "pkg_family": "runme",
+  "pkg_id": "release-notes#github.com_runmedev_runme",
+  "pkg_name": "release-notes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/runmedev/runme",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DevOps Notebooks Built with Markdown",
+  "homepage": [
+    "https://github.com/runmedev/runme"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goexec",
+    "gqltool",
+    "grpc-client",
+    "release-notes",
+    "runme",
+    "runme-web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/runmedev/runme/archive/6e1a90bb15be81f12f9fe4e1c18693520f0e97bf.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "devops",
+    "markdown",
+    "notebooks",
+    "workflows"
+  ],
+  "version": "HEAD-6e1a90b-250626T101858",
+  "version_upstream": "v3.14.2",
+  "bsum": "39478129c8125d9fe1385ab7e14cd8bb05399d9fa53e9aebb30bf350471aca3f",
+  "build_date": "2025-06-27T14:27:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927345652",
+  "build_id": "15927345652",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/release-notes?tag=HEAD-6e1a90b-250626T101858-x86_64-Linux&download=release-notes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1457",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/release-notes?tag=HEAD-6e1a90b-250626T101858-x86_64-Linux&download=release-notes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runmedev/runme/release-notes:HEAD-6e1a90b-250626T101858-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runmedev/runme/release-notes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/release-notes?tag=HEAD-6e1a90b-250626T101858-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7aeba16bac6c7087ef39f0cc85752d0d09f2fab5732c52c164e1d32d85c5356",
+  "size": "9.0 MB",
+  "size_raw": "9337440",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5e75c82-250620T113427-x86_64-Linux[v3.14.1-rc.0]",
+    "HEAD-8c75c02-250623T124556-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
