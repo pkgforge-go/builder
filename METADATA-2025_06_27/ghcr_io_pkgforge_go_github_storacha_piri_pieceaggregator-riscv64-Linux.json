@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pieceaggregator",
+  "pkg_family": "piri",
+  "pkg_id": "pieceaggregator#github.com_storacha_piri",
+  "pkg_name": "pieceaggregator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storacha/piri",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐔 Storacha Storage Node",
+  "homepage": [
+    "https://github.com/storacha/piri"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregatesubmitter",
+    "getclaim",
+    "getroot",
+    "pieceaccepter",
+    "pieceaggregator",
+    "piri-cmd",
+    "postroot",
+    "putblob"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/storacha/piri/archive/91f4c1fb36deaaff1f937a097977e785d4291be5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-91f4c1f-250626T133813",
+  "version_upstream": "",
+  "bsum": "d484de0918910d534756a6abeafa5236cc588facce980bef9e261e85f5ff2d57",
+  "build_date": "2025-06-27T08:50:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921179341",
+  "build_id": "15921179341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/pieceaggregator?tag=HEAD-91f4c1f-250626T133813-riscv64-Linux&download=pieceaggregator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/pieceaggregator?tag=HEAD-91f4c1f-250626T133813-riscv64-Linux&download=pieceaggregator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storacha/piri/pieceaggregator:HEAD-91f4c1f-250626T133813-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storacha/piri/pieceaggregator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storacha/piri/pieceaggregator?tag=HEAD-91f4c1f-250626T133813-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3723d06bb0e876c5f06f24cebced7fb26d3d58ad2c5e162037931e6f5ba1b4d3",
+  "size": "45 MB",
+  "size_raw": "46965560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
