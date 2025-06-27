@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "boot-aws",
+  "pkg_family": "images",
+  "pkg_id": "boot-aws#github.com_osbuild_images",
+  "pkg_name": "boot-aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Image builder image definition library",
+  "homepage": [
+    "https://github.com/osbuild/images"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boot-aws",
+    "osbuild-mock-openid-provider",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/images/archive/b4ffe7b22de02051d4f1129d21711709067491c5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b4ffe7b-250626T102550",
+  "version_upstream": "",
+  "bsum": "62ef49a0d194ddb8b7099b12d0aef9f2455b0a336a753cbd59202ae751500bc9",
+  "build_date": "2025-06-27T00:23:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913523832",
+  "build_id": "15913523832",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/boot-aws?tag=HEAD-b4ffe7b-250626T102550-aarch64-Linux&download=boot-aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/boot-aws?tag=HEAD-b4ffe7b-250626T102550-aarch64-Linux&download=boot-aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/images/boot-aws:HEAD-b4ffe7b-250626T102550-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/images/boot-aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/boot-aws?tag=HEAD-b4ffe7b-250626T102550-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b25e9c73163b25f7084fe17866180326843aa5c951046a8e3a3cf8a083d45ad3",
+  "size": "14 MB",
+  "size_raw": "13854720",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3cfb185-250620T084946-aarch64-Linux[v0.153.0]",
+    "HEAD-30942aa-250625T092943-aarch64-Linux",
+    "HEAD-5a99f8f-250625T180804-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
