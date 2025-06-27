@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubetest2-tester-ginkgo-v1",
+  "pkg_family": "aws-k8s-tester",
+  "pkg_id": "kubetest2-tester-ginkgo-v1#github.com_aws_aws_k8s_tester",
+  "pkg_name": "kubetest2-tester-ginkgo-v1",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/aws-k8s-tester",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for testing Kubernetes on AWS",
+  "homepage": [
+    "https://github.com/aws/aws-k8s-tester"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubetest2-eksapi",
+    "kubetest2-eksapi-janitor",
+    "kubetest2-eksctl",
+    "kubetest2-tester-ginkgo-v1",
+    "kubetest2-tester-multi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aws/aws-k8s-tester/archive/96f1f0f3e96721196d48d671d5942940a8fafaa3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-96f1f0f-250626T105604",
+  "version_upstream": "",
+  "bsum": "12cbea9619a135b343f65d7bbd767c890e7b1f4568ff50a7d5f24578d7cdded3",
+  "build_date": "2025-06-27T07:27:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920174564",
+  "build_id": "15920174564",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-tester-ginkgo-v1?tag=HEAD-96f1f0f-250626T105604-x86_64-Linux&download=kubetest2-tester-ginkgo-v1.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-tester-ginkgo-v1?tag=HEAD-96f1f0f-250626T105604-x86_64-Linux&download=kubetest2-tester-ginkgo-v1",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-tester-ginkgo-v1:HEAD-96f1f0f-250626T105604-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-tester-ginkgo-v1",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/aws-k8s-tester/kubetest2-tester-ginkgo-v1?tag=HEAD-96f1f0f-250626T105604-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80abe7db4309aeb33dcb695b6c200686f7cfbd5d02118e0a130a39caa1dcb99e",
+  "size": "64 MB",
+  "size_raw": "66968448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
