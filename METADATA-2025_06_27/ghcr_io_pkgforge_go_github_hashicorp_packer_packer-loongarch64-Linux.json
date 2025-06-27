@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "packer",
+  "pkg_family": "packer",
+  "pkg_id": "packer#github.com_hashicorp_packer",
+  "pkg_name": "packer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/packer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+  "homepage": [
+    "https://github.com/hashicorp/packer"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-fixer-deprecations",
+    "packer",
+    "scripts",
+    "ssh-keygen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/packer/archive/2fd2d7207c8c03bd384f9d113a864c5f2c36181a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-2fd2d72-250626T164008",
+  "version_upstream": "",
+  "bsum": "563e7587d4152457668585b377e6954b7b4d83af064c1663d5c478b529713917",
+  "build_date": "2025-06-27T13:50:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927112429",
+  "build_id": "15927112429",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/packer?tag=HEAD-2fd2d72-250626T164008-loongarch64-Linux&download=packer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15401",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/packer?tag=HEAD-2fd2d72-250626T164008-loongarch64-Linux&download=packer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/packer/packer:HEAD-2fd2d72-250626T164008-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/packer/packer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/packer/packer?tag=HEAD-2fd2d72-250626T164008-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ecac81c57585c330ba230718b2bf422fcee62500097d4ca47b8d3522cca51b8f",
+  "size": "44 MB",
+  "size_raw": "45983504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4cd7ad4-250617T092209-loongarch64-Linux[nightly]",
+    "HEAD-ee23306-250625T091018-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
