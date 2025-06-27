@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "test_server",
+  "pkg_family": "neo-server",
+  "pkg_id": "test_server#github.com_machbase_neo_server",
+  "pkg_name": "test_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/machbase/neo-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "machbase-neo = time series database + mqtt + http + data visualization",
+  "homepage": [
+    "https://github.com/machbase/neo-server"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "main",
+    "nats_jspub",
+    "nats_jssub",
+    "nats_pub",
+    "nats_sub",
+    "test_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/machbase/neo-server/archive/b4246cc156b00b97c589fdf5764a36fe0d740614.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "iot",
+    "mqtt",
+    "time-series",
+    "time-series-database",
+    "timeseries",
+    "tsdb"
+  ],
+  "version": "HEAD-b4246cc-250627T085303",
+  "version_upstream": "",
+  "bsum": "a21e10a81c5ab732964d8073aefafa545a3f44291f7102f6a3e917afca58cc70",
+  "build_date": "2025-06-27T08:09:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920306897",
+  "build_id": "15920306897",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/machbase/neo-server/test_server?tag=HEAD-b4246cc-250627T085303-x86_64-Linux&download=test_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "182",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/machbase/neo-server/test_server?tag=HEAD-b4246cc-250627T085303-x86_64-Linux&download=test_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/machbase/neo-server/test_server:HEAD-b4246cc-250627T085303-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/machbase/neo-server/test_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/machbase/neo-server/test_server?tag=HEAD-b4246cc-250627T085303-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "baed8a0b6df7222ec998693698d1e851e122194eed85786a7b4b6c56eba807e4",
+  "size": "8.4 MB",
+  "size_raw": "8805024",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
