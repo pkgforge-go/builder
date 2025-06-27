@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bouncer",
+  "pkg_family": "bouncer",
+  "pkg_id": "bouncer#github.com_palantir_bouncer",
+  "pkg_name": "bouncer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/palantir/bouncer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An application to cycle _bounce_ all nodes in a coordinated fashion in an AWS ASG or set of related ASGs",
+  "homepage": [
+    "https://github.com/palantir/bouncer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bouncer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/palantir/bouncer/archive/ada4e07f1d3588a0f18f413b756a37dd2e314347.tar.gz"
+  ],
+  "tag": [
+    "asg",
+    "aws",
+    "golang",
+    "octo-correct-managed"
+  ],
+  "version": "HEAD-ada4e07-250626T203313",
+  "version_upstream": "",
+  "bsum": "8d1f73b5b2d5e3541d30f26fa7783e17ed50ac198a439cfac9fec3d6cb1aa53c",
+  "build_date": "2025-06-27T11:48:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923706304",
+  "build_id": "15923706304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/bouncer/bouncer?tag=HEAD-ada4e07-250626T203313-riscv64-Linux&download=bouncer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/bouncer/bouncer?tag=HEAD-ada4e07-250626T203313-riscv64-Linux&download=bouncer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/palantir/bouncer/bouncer:HEAD-ada4e07-250626T203313-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/palantir/bouncer/bouncer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/bouncer/bouncer?tag=HEAD-ada4e07-250626T203313-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76910852ef0c794a63dd3679b001905a403ccdb99076a5c533ab32cafda3d475",
+  "size": "11 MB",
+  "size_raw": "10586616",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bb1bab2-250624T194123-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
