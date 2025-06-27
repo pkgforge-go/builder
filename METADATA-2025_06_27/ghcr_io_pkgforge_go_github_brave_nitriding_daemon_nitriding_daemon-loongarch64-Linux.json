@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nitriding-daemon",
+  "pkg_family": "nitriding-daemon",
+  "pkg_id": "nitriding-daemon#github.com_brave_nitriding_daemon",
+  "pkg_name": "nitriding-daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brave/nitriding-daemon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tool kit for building secure, scalable, and networked services on top of AWS Nitro Enclaves.",
+  "homepage": [
+    "https://github.com/brave/nitriding-daemon"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nitriding-daemon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/brave/nitriding-daemon/archive/374acc85420dddd8ab6f33260db171665c58979b.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "enclave",
+    "go",
+    "toolkit"
+  ],
+  "version": "HEAD-374acc8-250627T112356",
+  "version_upstream": "",
+  "bsum": "49cc01151c5a65976b530eb61652c990328bc775c8dde4673a69f9e4a6de5ca3",
+  "build_date": "2025-06-27T07:19:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920178377",
+  "build_id": "15920178377",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brave/nitriding-daemon/nitriding-daemon?tag=HEAD-374acc8-250627T112356-loongarch64-Linux&download=nitriding-daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brave/nitriding-daemon/nitriding-daemon?tag=HEAD-374acc8-250627T112356-loongarch64-Linux&download=nitriding-daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brave/nitriding-daemon/nitriding-daemon:HEAD-374acc8-250627T112356-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brave/nitriding-daemon/nitriding-daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brave/nitriding-daemon/nitriding-daemon?tag=HEAD-374acc8-250627T112356-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "44144946dda27a8633c9166028ba4c5c33b74d12e73ed1249d03b7eb9a3503fb",
+  "size": "12 MB",
+  "size_raw": "12240384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
