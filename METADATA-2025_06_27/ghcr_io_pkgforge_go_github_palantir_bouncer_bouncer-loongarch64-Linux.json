@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bouncer",
+  "pkg_family": "bouncer",
+  "pkg_id": "bouncer#github.com_palantir_bouncer",
+  "pkg_name": "bouncer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/palantir/bouncer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An application to cycle _bounce_ all nodes in a coordinated fashion in an AWS ASG or set of related ASGs",
+  "homepage": [
+    "https://github.com/palantir/bouncer"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bouncer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/palantir/bouncer/archive/ada4e07f1d3588a0f18f413b756a37dd2e314347.tar.gz"
+  ],
+  "tag": [
+    "asg",
+    "aws",
+    "golang",
+    "octo-correct-managed"
+  ],
+  "version": "HEAD-ada4e07-250626T203313",
+  "version_upstream": "",
+  "bsum": "ab01c6ca10536985728d0011447edd8462d09524483ac83fa2211aaa17011624",
+  "build_date": "2025-06-27T11:47:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923706304",
+  "build_id": "15923706304",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/bouncer/bouncer?tag=HEAD-ada4e07-250626T203313-loongarch64-Linux&download=bouncer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/bouncer/bouncer?tag=HEAD-ada4e07-250626T203313-loongarch64-Linux&download=bouncer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/palantir/bouncer/bouncer:HEAD-ada4e07-250626T203313-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/palantir/bouncer/bouncer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/palantir/bouncer/bouncer?tag=HEAD-ada4e07-250626T203313-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9153feba4df99fce5da857a853711e6c222e280bfe532208b55f01383adf8322",
+  "size": "11 MB",
+  "size_raw": "10761152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bb1bab2-250624T194123-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
