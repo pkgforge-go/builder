@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "otel-metrics-gen",
+  "pkg_family": "telescope",
+  "pkg_id": "otel-metrics-gen#github.com_blockopsnetwork_telescope",
+  "pkg_name": "otel-metrics-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/9b70fbf35dba866c8955eb4c456a98002a32d369.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-9b70fbf-250626T180550",
+  "version_upstream": "",
+  "bsum": "5bb20925aa0c80dc9663e04cd3a455ba432531429782b8295d33487343620428",
+  "build_date": "2025-06-27T10:24:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923373055",
+  "build_id": "15923373055",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/otel-metrics-gen?tag=HEAD-9b70fbf-250626T180550-x86_64-Linux&download=otel-metrics-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/otel-metrics-gen?tag=HEAD-9b70fbf-250626T180550-x86_64-Linux&download=otel-metrics-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/otel-metrics-gen:HEAD-9b70fbf-250626T180550-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/otel-metrics-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/otel-metrics-gen?tag=HEAD-9b70fbf-250626T180550-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f23e59d55994e5f23c6d1635ce5afff9cda8f8b590dc416d60b9d9c3b4f2f0df",
+  "size": "15 MB",
+  "size_raw": "15089952",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b120d12-250623T050932-x86_64-Linux",
+    "HEAD-bd1b4c9-250623T222606-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
