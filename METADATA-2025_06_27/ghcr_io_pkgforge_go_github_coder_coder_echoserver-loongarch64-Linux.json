@@ -1,0 +1,102 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "echoserver",
+  "pkg_family": "coder",
+  "pkg_id": "echoserver#github.com_coder_coder",
+  "pkg_name": "echoserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coder/coder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision remote development environments via Terraform",
+  "homepage": [
+    "https://github.com/coder/coder"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitypings",
+    "auditdocgen",
+    "audittypegen",
+    "clidocgen",
+    "cliui",
+    "cmdtest",
+    "coder",
+    "dbgen",
+    "dump",
+    "echoserver",
+    "embedded-pg",
+    "examplegen",
+    "gensite",
+    "metricsdocgen",
+    "migrate-ci",
+    "migrate-test",
+    "postprocess",
+    "release",
+    "releasemigrations",
+    "testidp",
+    "typegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coder/coder/archive/9ab9c52de80eab81ca95625cb26dced73821de58.tar.gz"
+  ],
+  "tag": [
+    "dev-tools",
+    "development-environment",
+    "go",
+    "golang",
+    "ide",
+    "jetbrains",
+    "remote-development",
+    "terraform",
+    "vscode"
+  ],
+  "version": "HEAD-9ab9c52-250627T125958",
+  "version_upstream": "",
+  "bsum": "03c2de428898aab49a50508c1f86fe25f8f6278cac2c7b6cad6c18d31bcf4945",
+  "build_date": "2025-06-27T10:46:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923377359",
+  "build_id": "15923377359",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/echoserver?tag=HEAD-9ab9c52-250627T125958-loongarch64-Linux&download=echoserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10129",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/echoserver?tag=HEAD-9ab9c52-250627T125958-loongarch64-Linux&download=echoserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/echoserver:HEAD-9ab9c52-250627T125958-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/echoserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/echoserver?tag=HEAD-9ab9c52-250627T125958-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1811ad0fdfecf04978e5406405a5d476eed49506db0c47c446b591aa89074bc8",
+  "size": "2.4 MB",
+  "size_raw": "2436696",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-511fd09-250619T133251-loongarch64-Linux",
+    "HEAD-725bc37-250621T184630-loongarch64-Linux",
+    "HEAD-ba08d38-250623T135451-loongarch64-Linux",
+    "HEAD-5ed0c7a-250623T150818-loongarch64-Linux",
+    "HEAD-a4f1c64-250624T164701-loongarch64-Linux",
+    "HEAD-79c666b-250625T112735-loongarch64-Linux",
+    "HEAD-3c4d920-250625T144136-loongarch64-Linux",
+    "HEAD-fdf458e-250625T170949-loongarch64-Linux",
+    "HEAD-87d052e-250626T140931-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
