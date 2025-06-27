@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "registry",
+  "pkg_family": "vc",
+  "pkg_id": "registry#github.com_dc4eu_vc",
+  "pkg_name": "registry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dc4eu/vc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "European Wallet",
+  "homepage": [
+    "https://github.com/dc4eu/vc"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apigw",
+    "issuer",
+    "mockas",
+    "persistent",
+    "registry",
+    "ui",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dc4eu/vc/archive/42a84bc9d1f57512caa649e59806620fd5aa7a86.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-42a84bc-250626T160921",
+  "version_upstream": "",
+  "bsum": "88ec823c13a5ef3a5f00f6fb4962836571befa7aa929f8d6f0d432fa9a2ebde6",
+  "build_date": "2025-06-27T02:46:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916572186",
+  "build_id": "15916572186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/registry?tag=HEAD-42a84bc-250626T160921-loongarch64-Linux&download=registry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/registry?tag=HEAD-42a84bc-250626T160921-loongarch64-Linux&download=registry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dc4eu/vc/registry:HEAD-42a84bc-250626T160921-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dc4eu/vc/registry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dc4eu/vc/registry?tag=HEAD-42a84bc-250626T160921-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bbb6e1c5cbfc784e6ae9fb40c81a7b834f8f5f53fd4edb520bff7aee0004166f",
+  "size": "32 MB",
+  "size_raw": "33280728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a972027-250619T153120-loongarch64-Linux",
+    "HEAD-49ecc2e-250623T150817-loongarch64-Linux",
+    "HEAD-6068d38-250624T160013-loongarch64-Linux",
+    "HEAD-89ca994-250625T135733-loongarch64-Linux",
+    "HEAD-42a84bc-250626T160921-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
