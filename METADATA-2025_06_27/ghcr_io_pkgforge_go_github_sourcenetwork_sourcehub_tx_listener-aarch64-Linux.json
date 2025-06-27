@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tx_listener",
+  "pkg_family": "sourcehub",
+  "pkg_id": "tx_listener#github.com_sourcenetwork_sourcehub",
+  "pkg_name": "tx_listener",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sourcenetwork/sourcehub",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SourceHub is a Cosmos/Tendermint blockchain, acting as the trust layer for the Source ecosystem",
+  "homepage": [
+    "https://github.com/sourcenetwork/sourcehub"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "access_ticket",
+    "bearer_auth",
+    "bearer_token_gen",
+    "sdk",
+    "sourcehubd",
+    "test_env_generator",
+    "tx_listener"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sourcenetwork/sourcehub/archive/734ace6a694562fe9c28c0d9a34b2a48166ec3e3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-734ace6-250618T153649",
+  "version_upstream": "latest",
+  "bsum": "1806b188c0203c436607f5d4a9575eb79e82ecd4cd850f9f8069420e0d977363",
+  "build_date": "2025-06-27T08:48:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921115589",
+  "build_id": "15921115589",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcenetwork/sourcehub/tx_listener?tag=HEAD-734ace6-250618T153649-aarch64-Linux&download=tx_listener.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcenetwork/sourcehub/tx_listener?tag=HEAD-734ace6-250618T153649-aarch64-Linux&download=tx_listener",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sourcenetwork/sourcehub/tx_listener:HEAD-734ace6-250618T153649-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sourcenetwork/sourcehub/tx_listener",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcenetwork/sourcehub/tx_listener?tag=HEAD-734ace6-250618T153649-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cebfa215c8cf0eaf78608388ca5b763a9bd27c635b46a67aa45139daacea2aad",
+  "size": "100 MB",
+  "size_raw": "104831968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

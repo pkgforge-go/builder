@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "test_env_generator",
+  "pkg_family": "sourcehub",
+  "pkg_id": "test_env_generator#github.com_sourcenetwork_sourcehub",
+  "pkg_name": "test_env_generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sourcenetwork/sourcehub",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SourceHub is a Cosmos/Tendermint blockchain, acting as the trust layer for the Source ecosystem",
+  "homepage": [
+    "https://github.com/sourcenetwork/sourcehub"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "access_ticket",
+    "bearer_auth",
+    "bearer_token_gen",
+    "sdk",
+    "sourcehubd",
+    "test_env_generator",
+    "tx_listener"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sourcenetwork/sourcehub/archive/734ace6a694562fe9c28c0d9a34b2a48166ec3e3.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-734ace6-250618T153649",
+  "version_upstream": "latest",
+  "bsum": "f49d474d2228d6019e186a4766d85a50f95c8cd42a2225242ea5ba72cca363b9",
+  "build_date": "2025-06-27T08:48:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921115589",
+  "build_id": "15921115589",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcenetwork/sourcehub/test_env_generator?tag=HEAD-734ace6-250618T153649-aarch64-Linux&download=test_env_generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcenetwork/sourcehub/test_env_generator?tag=HEAD-734ace6-250618T153649-aarch64-Linux&download=test_env_generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sourcenetwork/sourcehub/test_env_generator:HEAD-734ace6-250618T153649-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sourcenetwork/sourcehub/test_env_generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcenetwork/sourcehub/test_env_generator?tag=HEAD-734ace6-250618T153649-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8126f4401f4435f8e4da716a15ec51a30502ad6f1483d1a901eb13ed4ef9f0b3",
+  "size": "100 MB",
+  "size_raw": "104823520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
