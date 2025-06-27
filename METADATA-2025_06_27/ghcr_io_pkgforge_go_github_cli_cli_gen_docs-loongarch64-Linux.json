@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gen-docs",
+  "pkg_family": "cli",
+  "pkg_id": "gen-docs#github.com_cli_cli",
+  "pkg_name": "gen-docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cli/cli",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GitHub’s official command line tool",
+  "homepage": [
+    "https://github.com/cli/cli"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-docs",
+    "gh",
+    "script"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cli/cli/archive/2fc1e548cc7f0ab7905f580af8b1aa442f4779bf.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "git",
+    "github-api-v4",
+    "golang"
+  ],
+  "version": "HEAD-2fc1e54-250624T172918",
+  "version_upstream": "",
+  "bsum": "0d49b0912ec7ad26e421bc28ba686fbb9c94f18bd6868241e532cbd731c9f9bb",
+  "build_date": "2025-06-27T07:56:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920267129",
+  "build_id": "15920267129",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gen-docs?tag=HEAD-2fc1e54-250624T172918-loongarch64-Linux&download=gen-docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39558",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gen-docs?tag=HEAD-2fc1e54-250624T172918-loongarch64-Linux&download=gen-docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cli/cli/gen-docs:HEAD-2fc1e54-250624T172918-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cli/cli/gen-docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cli/cli/gen-docs?tag=HEAD-2fc1e54-250624T172918-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be099605729b2f744c08f4398d08cd35dbee5095a289e171d1554d63464fb1ff",
+  "size": "40 MB",
+  "size_raw": "40986928",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dc7b22b-250619T113149-loongarch64-Linux",
+    "HEAD-d4efe0b-250620T155544-loongarch64-Linux",
+    "HEAD-2b89358-250623T135147-loongarch64-Linux",
+    "HEAD-b31f38c-250624T125443-loongarch64-Linux",
+    "HEAD-2fc1e54-250624T172918-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
