@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "disk-uploader",
+  "pkg_family": "kubevirt-tekton-tasks",
+  "pkg_id": "disk-uploader#github.com_kubevirt_kubevirt_tekton_tasks",
+  "pkg_name": "disk-uploader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/kubevirt-tekton-tasks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VM specific tasks for Tekton Pipelines",
+  "homepage": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-vm",
+    "disk-uploader",
+    "disk-virt-customize",
+    "disk-virt-sysprep",
+    "execute-in-vm",
+    "generate-ssh-keys",
+    "wait-for-vmi-status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks/archive/ec908797c0a1bc0a24fbf99b3cfcc19fe1fc0cc5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ec90879-250626T194045",
+  "version_upstream": "",
+  "bsum": "0d4e1e82c80e48383453a7c90b1f629d24f30675f42aba9932aadd597ae3a266",
+  "build_date": "2025-06-27T07:58:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920265589",
+  "build_id": "15920265589",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-uploader?tag=HEAD-ec90879-250626T194045-aarch64-Linux&download=disk-uploader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-uploader?tag=HEAD-ec90879-250626T194045-aarch64-Linux&download=disk-uploader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-uploader:HEAD-ec90879-250626T194045-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-uploader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/disk-uploader?tag=HEAD-ec90879-250626T194045-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3031f640762a36feca40c3998d027d6cc279d3ad96d876300af66a5e914e19e",
+  "size": "52 MB",
+  "size_raw": "54234656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
