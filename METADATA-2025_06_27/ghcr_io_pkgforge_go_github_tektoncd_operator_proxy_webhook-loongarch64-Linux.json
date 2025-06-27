@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "proxy-webhook",
+  "pkg_family": "operator",
+  "pkg_id": "proxy-webhook#github.com_tektoncd_operator",
+  "pkg_name": "proxy-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator to manage installation, updation and uninstallation of tektoncd projects _pipeline, …_",
+  "homepage": [
+    "https://github.com/tektoncd/operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "operator",
+    "proxy-webhook",
+    "tool",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/operator/archive/6490b593680dda92f11b49d6e0fce4389685d953.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubernetes-operator",
+    "operator-crd",
+    "pipeline",
+    "tektoncd"
+  ],
+  "version": "HEAD-6490b59-250626T135555",
+  "version_upstream": "",
+  "bsum": "30890d4a4065a032f030dd03e3f81b1a9142262db4280918118c9347b72520bf",
+  "build_date": "2025-06-27T02:32:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916548442",
+  "build_id": "15916548442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/proxy-webhook?tag=HEAD-6490b59-250626T135555-loongarch64-Linux&download=proxy-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "508",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/proxy-webhook?tag=HEAD-6490b59-250626T135555-loongarch64-Linux&download=proxy-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/operator/proxy-webhook:HEAD-6490b59-250626T135555-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/operator/proxy-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/operator/proxy-webhook?tag=HEAD-6490b59-250626T135555-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d560689ddd2e8442561ff3987b90277ab5ce8423ab2801a7d0a73cf400c52e72",
+  "size": "63 MB",
+  "size_raw": "65085536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-53021f1-250624T130354-loongarch64-Linux",
+    "HEAD-4d10675-250625T091555-loongarch64-Linux",
+    "HEAD-6490b59-250626T135555-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
