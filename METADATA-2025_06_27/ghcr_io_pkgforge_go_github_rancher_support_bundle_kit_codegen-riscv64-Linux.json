@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "codegen",
+  "pkg_family": "support-bundle-kit",
+  "pkg_id": "codegen#github.com_rancher_support_bundle_kit",
+  "pkg_name": "codegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/support-bundle-kit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit to generate and analyze the support bundles for Kubernetes and Kubernetes-native applications",
+  "homepage": [
+    "https://github.com/rancher/support-bundle-kit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "support-bundle-kit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/support-bundle-kit/archive/d97435447e5517de7c9bbd2d30548ac82040ff7e.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "k8s",
+    "kubernetes"
+  ],
+  "version": "HEAD-d974354-250627T073827",
+  "version_upstream": "",
+  "bsum": "dabe92ceb53b888f187fb2e152a6628bc3da4283979fb150cfdffdf9579a94b8",
+  "build_date": "2025-06-27T08:29:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921087559",
+  "build_id": "15921087559",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/support-bundle-kit/codegen?tag=HEAD-d974354-250627T073827-riscv64-Linux&download=codegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/support-bundle-kit/codegen?tag=HEAD-d974354-250627T073827-riscv64-Linux&download=codegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/support-bundle-kit/codegen:HEAD-d974354-250627T073827-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/support-bundle-kit/codegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/support-bundle-kit/codegen?tag=HEAD-d974354-250627T073827-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bfba2d3583ebdb4e60b96aace050731f460e506c21acb9be7fcfe4f1e6c4038a",
+  "size": "39 MB",
+  "size_raw": "40697176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
