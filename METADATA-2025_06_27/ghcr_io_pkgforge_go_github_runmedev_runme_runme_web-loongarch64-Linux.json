@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "runme-web",
+  "pkg_family": "runme",
+  "pkg_id": "runme-web#github.com_runmedev_runme",
+  "pkg_name": "runme-web",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/runmedev/runme",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DevOps Notebooks Built with Markdown",
+  "homepage": [
+    "https://github.com/runmedev/runme"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goexec",
+    "gqltool",
+    "grpc-client",
+    "release-notes",
+    "runme",
+    "runme-web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/runmedev/runme/archive/6e1a90bb15be81f12f9fe4e1c18693520f0e97bf.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "devops",
+    "markdown",
+    "notebooks",
+    "workflows"
+  ],
+  "version": "HEAD-6e1a90b-250626T101858",
+  "version_upstream": "v3.14.2",
+  "bsum": "59a7d1f03aa6015bef09b93d0d5de6ae2bc132d9ba390014915b9580c4413eca",
+  "build_date": "2025-06-27T14:27:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927345652",
+  "build_id": "15927345652",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/runme-web?tag=HEAD-6e1a90b-250626T101858-loongarch64-Linux&download=runme-web.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1457",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/runme-web?tag=HEAD-6e1a90b-250626T101858-loongarch64-Linux&download=runme-web",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runmedev/runme/runme-web:HEAD-6e1a90b-250626T101858-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runmedev/runme/runme-web",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runmedev/runme/runme-web?tag=HEAD-6e1a90b-250626T101858-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21ef23861eac8006d0ecccdf6e0a58fef0fdac99a39f49754617f520317dca89",
+  "size": "1.1 MB",
+  "size_raw": "1121208",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5e75c82-250620T113427-loongarch64-Linux[v3.14.1-rc.0]",
+    "HEAD-8c75c02-250623T124556-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
