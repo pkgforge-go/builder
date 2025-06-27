@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "reva",
+  "pkg_family": "reva",
+  "pkg_id": "reva#github.com_cs3org_reva",
+  "pkg_name": "reva",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cs3org/reva",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends",
+  "homepage": [
+    "https://github.com/cs3org/reva"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-artifacts",
+    "generate-documentation",
+    "main",
+    "prepare-release",
+    "reva"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cs3org/reva/archive/e5546855c14265c26da8ebea16ddf286e9be86fd.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "cloud",
+    "cloud-storage",
+    "golang",
+    "hacktoberfest",
+    "interoperability-platform",
+    "opensource",
+    "share",
+    "storage",
+    "sync",
+    "synchronization"
+  ],
+  "version": "HEAD-e554685-250627T131659",
+  "version_upstream": "",
+  "bsum": "53a20d83e9c88d3649f5040bf37948d3b3b3cc4ce435e8a7884f2660a99baabc",
+  "build_date": "2025-06-27T19:52:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933801243",
+  "build_id": "15933801243",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/reva?tag=HEAD-e554685-250627T131659-x86_64-Linux&download=reva.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "192",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/reva?tag=HEAD-e554685-250627T131659-x86_64-Linux&download=reva",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cs3org/reva/reva:HEAD-e554685-250627T131659-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cs3org/reva/reva",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/reva?tag=HEAD-e554685-250627T131659-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9dd8b9a381622b4812ae308efc16e791f0f5c2eb3bb5df3c3cb20b213dfa1fa",
+  "size": "20 MB",
+  "size_raw": "20113376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-65db3d5-250619T133356-x86_64-Linux",
+    "HEAD-1bc728a-250623T104733-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

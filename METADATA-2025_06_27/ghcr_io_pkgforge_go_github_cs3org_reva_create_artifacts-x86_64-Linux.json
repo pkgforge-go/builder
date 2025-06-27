@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "create-artifacts",
+  "pkg_family": "reva",
+  "pkg_id": "create-artifacts#github.com_cs3org_reva",
+  "pkg_name": "create-artifacts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cs3org/reva",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends",
+  "homepage": [
+    "https://github.com/cs3org/reva"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-artifacts",
+    "generate-documentation",
+    "main",
+    "prepare-release",
+    "reva"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cs3org/reva/archive/e5546855c14265c26da8ebea16ddf286e9be86fd.tar.gz"
+  ],
+  "tag": [
+    "application",
+    "cloud",
+    "cloud-storage",
+    "golang",
+    "hacktoberfest",
+    "interoperability-platform",
+    "opensource",
+    "share",
+    "storage",
+    "sync",
+    "synchronization"
+  ],
+  "version": "HEAD-e554685-250627T131659",
+  "version_upstream": "",
+  "bsum": "0b8f0bd13b4aec57b6e26b9ab146492e18e89c854c1c193f3f42e3825d035847",
+  "build_date": "2025-06-27T19:52:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933801243",
+  "build_id": "15933801243",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/create-artifacts?tag=HEAD-e554685-250627T131659-x86_64-Linux&download=create-artifacts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "192",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/create-artifacts?tag=HEAD-e554685-250627T131659-x86_64-Linux&download=create-artifacts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cs3org/reva/create-artifacts:HEAD-e554685-250627T131659-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cs3org/reva/create-artifacts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cs3org/reva/create-artifacts?tag=HEAD-e554685-250627T131659-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c9e750d92be180ae2547b8aeb4e5164f70d12a0bbe8675899e02fe66cdc663f",
+  "size": "2.2 MB",
+  "size_raw": "2297408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-65db3d5-250619T133356-x86_64-Linux",
+    "HEAD-1bc728a-250623T104733-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
