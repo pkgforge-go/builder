@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "execute-in-vm",
+  "pkg_family": "kubevirt-tekton-tasks",
+  "pkg_id": "execute-in-vm#github.com_kubevirt_kubevirt_tekton_tasks",
+  "pkg_name": "execute-in-vm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubevirt/kubevirt-tekton-tasks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VM specific tasks for Tekton Pipelines",
+  "homepage": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create-vm",
+    "disk-uploader",
+    "disk-virt-customize",
+    "disk-virt-sysprep",
+    "execute-in-vm",
+    "generate-ssh-keys",
+    "modify-data-object",
+    "wait-for-vmi-status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubevirt/kubevirt-tekton-tasks/archive/ec908797c0a1bc0a24fbf99b3cfcc19fe1fc0cc5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ec90879-250626T194045",
+  "version_upstream": "",
+  "bsum": "f1d49a9423ba8b6c94f1850cc4c7b341d0c82c327f7a995c6b28fa3a77799ede",
+  "build_date": "2025-06-27T07:58:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920265589",
+  "build_id": "15920265589",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/execute-in-vm?tag=HEAD-ec90879-250626T194045-x86_64-Linux&download=execute-in-vm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/execute-in-vm?tag=HEAD-ec90879-250626T194045-x86_64-Linux&download=execute-in-vm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/execute-in-vm:HEAD-ec90879-250626T194045-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/execute-in-vm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubevirt/kubevirt-tekton-tasks/execute-in-vm?tag=HEAD-ec90879-250626T194045-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b58314b0c2aff88a8ce2426e4c9083f892cb306290515d13a3e98ae1e7b77462",
+  "size": "53 MB",
+  "size_raw": "54710688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
