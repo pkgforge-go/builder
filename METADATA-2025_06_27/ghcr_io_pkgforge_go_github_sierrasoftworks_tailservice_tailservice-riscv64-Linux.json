@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tailservice",
+  "pkg_family": "tailservice",
+  "pkg_id": "tailservice#github.com_SierraSoftworks_tailservice",
+  "pkg_name": "tailservice",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SierraSoftworks/tailservice",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Easily expose services on your Tailscale network under their own DNS names.",
+  "homepage": [
+    "https://github.com/SierraSoftworks/tailservice"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tailservice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SierraSoftworks/tailservice/archive/485e759d2733cf8effc096ff1a0839ebcfa29a7c.tar.gz"
+  ],
+  "tag": [
+    "proxy",
+    "tailscale"
+  ],
+  "version": "HEAD-485e759-250626T181721",
+  "version_upstream": "",
+  "bsum": "e6474237eaecde9453b06e681d73963537b9e04b868ee7daae1fbb6e53d4e077",
+  "build_date": "2025-06-27T07:08:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920169719",
+  "build_id": "15920169719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sierrasoftworks/tailservice/tailservice?tag=HEAD-485e759-250626T181721-riscv64-Linux&download=tailservice.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sierrasoftworks/tailservice/tailservice?tag=HEAD-485e759-250626T181721-riscv64-Linux&download=tailservice",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sierrasoftworks/tailservice/tailservice:HEAD-485e759-250626T181721-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sierrasoftworks/tailservice/tailservice",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sierrasoftworks/tailservice/tailservice?tag=HEAD-485e759-250626T181721-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6082aa44eabbb025e04d7438d17791b28392171d5dd00379bf6525edb5e3339f",
+  "size": "29 MB",
+  "size_raw": "30377848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
