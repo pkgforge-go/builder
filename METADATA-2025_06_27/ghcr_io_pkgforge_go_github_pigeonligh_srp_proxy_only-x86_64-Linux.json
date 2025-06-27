@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "proxy_only",
+  "pkg_family": "srp",
+  "pkg_id": "proxy_only#github.com_pigeonligh_srp",
+  "pkg_name": "proxy_only",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pigeonligh/srp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Secure Reverse Proxy over SSH protocol. Help to expose your local server to the private network.",
+  "homepage": [
+    "https://github.com/pigeonligh/srp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth",
+    "http",
+    "proxy_only",
+    "reverseproxy_only",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/pigeonligh/srp/archive/0e4cd5b28723289c43805242948d73079f2b9736.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0e4cd5b-250626T161254",
+  "version_upstream": "v0.0.6",
+  "bsum": "2d149365d486275d02de9854c88b4f89d92800d4c79cb0c0719bcfe9a7673722",
+  "build_date": "2025-06-27T00:09:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913531619",
+  "build_id": "15913531619",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/proxy_only?tag=HEAD-0e4cd5b-250626T161254-x86_64-Linux&download=proxy_only.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/proxy_only?tag=HEAD-0e4cd5b-250626T161254-x86_64-Linux&download=proxy_only",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pigeonligh/srp/proxy_only:HEAD-0e4cd5b-250626T161254-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pigeonligh/srp/proxy_only",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pigeonligh/srp/proxy_only?tag=HEAD-0e4cd5b-250626T161254-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d0e13c8c6516759f5a7176b87b0bf285d483b30a756ea0dabc536c34219ceb3",
+  "size": "6.3 MB",
+  "size_raw": "6602880",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8c19a6f-250625T174631-x86_64-Linux[v0.0.5]"
+  ],
+  "trusted": "true"
+}
