@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scannerd",
+  "pkg_family": "sqle",
+  "pkg_id": "scannerd#github.com_actiontech_sqle",
+  "pkg_name": "scannerd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/actiontech/sqle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一个支持多种不同类型数据库，覆盖事前控制、事后监督、标准发布场景，帮助您建立质量规范的SQL全生命周期质量管理平台",
+  "homepage": [
+    "https://github.com/actiontech/sqle"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goyacc",
+    "scannerd",
+    "sqled",
+    "swag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/actiontech/sqle/archive/874f22c03927af385811d845a17f4367684a1609.tar.gz"
+  ],
+  "tag": [
+    "advisor",
+    "audit",
+    "jetbrains",
+    "mssql",
+    "mybatis",
+    "mysql",
+    "optimize",
+    "oracle",
+    "pg",
+    "postgresql",
+    "sql",
+    "sql-audit",
+    "suggestion"
+  ],
+  "version": "HEAD-874f22c-250626T175712",
+  "version_upstream": "",
+  "bsum": "4fbc645d8ee51077814301af9f15d0d81d07267fedc8be88c466ad7ee12a6975",
+  "build_date": "2025-06-27T02:27:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916548568",
+  "build_id": "15916548568",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actiontech/sqle/scannerd?tag=HEAD-874f22c-250626T175712-aarch64-Linux&download=scannerd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1432",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actiontech/sqle/scannerd?tag=HEAD-874f22c-250626T175712-aarch64-Linux&download=scannerd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/actiontech/sqle/scannerd:HEAD-874f22c-250626T175712-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/actiontech/sqle/scannerd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/actiontech/sqle/scannerd?tag=HEAD-874f22c-250626T175712-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2893e5a3b1c9e2deeb7d745c54e15b042283e445d0df325740603a1f089795d8",
+  "size": "49 MB",
+  "size_raw": "50356960",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-db5c570-250619T174326-aarch64-Linux",
+    "HEAD-38183f6-250620T164306-aarch64-Linux",
+    "HEAD-e2a7681-250625T112035-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
