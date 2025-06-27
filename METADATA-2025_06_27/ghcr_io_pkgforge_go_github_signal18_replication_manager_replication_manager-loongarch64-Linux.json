@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "replication-manager",
+  "pkg_family": "replication-manager",
+  "pkg_id": "replication-manager#github.com_signal18_replication_manager",
+  "pkg_name": "replication-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/signal18/replication-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Signal 18 repman - Replication Manager for MySQL / MariaDB / Percona Server",
+  "homepage": [
+    "https://github.com/signal18/replication-manager"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "replication-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/signal18/replication-manager/archive/66978d5fe171c1891525d232121405c6a1892571.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "backups",
+    "configuration-management",
+    "failover",
+    "group-replication",
+    "gtid",
+    "haproxy",
+    "kubernetes",
+    "leader-election",
+    "mariadb",
+    "monitoring",
+    "mysql",
+    "opensvc",
+    "proxysql",
+    "replication",
+    "semi-sync",
+    "slave",
+    "spider",
+    "vip"
+  ],
+  "version": "HEAD-66978d5-250627T190525",
+  "version_upstream": "",
+  "bsum": "4ecf998a743f0d3b07aa8f6aa4c6bc4bbcd4d7271e62cd111e6b52c2d38aa626",
+  "build_date": "2025-06-27T17:10:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931203047",
+  "build_id": "15931203047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/signal18/replication-manager/replication-manager?tag=HEAD-66978d5-250627T190525-loongarch64-Linux&download=replication-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "687",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/signal18/replication-manager/replication-manager?tag=HEAD-66978d5-250627T190525-loongarch64-Linux&download=replication-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/signal18/replication-manager/replication-manager:HEAD-66978d5-250627T190525-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/signal18/replication-manager/replication-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/signal18/replication-manager/replication-manager?tag=HEAD-66978d5-250627T190525-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a872301e52f9bcaddb5926f848c07b83a4ab448477ceba291af915d1c3c067bd",
+  "size": "8.5 MB",
+  "size_raw": "8839552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
