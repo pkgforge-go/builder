@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "blockstorage",
+  "pkg_family": "mgc-sdk-go",
+  "pkg_id": "blockstorage#github.com_MagaluCloud_mgc_sdk_go",
+  "pkg_name": "blockstorage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/MagaluCloud/mgc-sdk-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The MGC Go SDK provides a convenient way to interact with the Magalu Cloud API from Go applications.",
+  "homepage": [
+    "https://github.com/MagaluCloud/mgc-sdk-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "audit",
+    "availabilityzones",
+    "blockstorage",
+    "compute",
+    "containerregistry",
+    "dbaas",
+    "kubernetes",
+    "kubernetes_small",
+    "lbaas",
+    "network",
+    "sshkeys"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/MagaluCloud/mgc-sdk-go/archive/3264140dbdb4270ee36925279894687654cfe5eb.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "magalucloud",
+    "sdk"
+  ],
+  "version": "HEAD-3264140-250626T192106",
+  "version_upstream": "v0.3.42",
+  "bsum": "9bcf216bfcfc37ee2768430123136b72399f572c8b5c941b5cee39833d1dbd47",
+  "build_date": "2025-06-27T07:08:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920168953",
+  "build_id": "15920168953",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/magalucloud/mgc-sdk-go/blockstorage?tag=HEAD-3264140-250626T192106-x86_64-Linux&download=blockstorage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/magalucloud/mgc-sdk-go/blockstorage?tag=HEAD-3264140-250626T192106-x86_64-Linux&download=blockstorage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/magalucloud/mgc-sdk-go/blockstorage:HEAD-3264140-250626T192106-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/magalucloud/mgc-sdk-go/blockstorage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/magalucloud/mgc-sdk-go/blockstorage?tag=HEAD-3264140-250626T192106-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1f08244ed4150207048954f5fe0452de3f1dc9940508af6135a4997e9de29074",
+  "size": "7.0 MB",
+  "size_raw": "7238144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
