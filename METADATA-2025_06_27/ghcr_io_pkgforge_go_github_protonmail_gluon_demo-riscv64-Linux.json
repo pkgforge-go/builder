@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "demo",
+  "pkg_family": "gluon",
+  "pkg_id": "demo#github.com_ProtonMail_gluon",
+  "pkg_name": "demo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ProtonMail/gluon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An IMAP server library written in Go",
+  "homepage": [
+    "https://github.com/ProtonMail/gluon"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "demo",
+    "gluon_bench",
+    "imap_append",
+    "tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ProtonMail/gluon/archive/b014b7cc8132612ea50a3a83f37a28167cad3800.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "imap",
+    "imap-server",
+    "imap4",
+    "imaplib",
+    "proton",
+    "protonmail"
+  ],
+  "version": "HEAD-b014b7c-250627T122828",
+  "version_upstream": "",
+  "bsum": "80876bfab2b67cbb11e24d2e719b0b6e033d26cdf195f56096999eeb53e7da1a",
+  "build_date": "2025-06-27T19:17:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933791702",
+  "build_id": "15933791702",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/gluon/demo?tag=HEAD-b014b7c-250627T122828-riscv64-Linux&download=demo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "499",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/gluon/demo?tag=HEAD-b014b7c-250627T122828-riscv64-Linux&download=demo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/protonmail/gluon/demo:HEAD-b014b7c-250627T122828-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/protonmail/gluon/demo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protonmail/gluon/demo?tag=HEAD-b014b7c-250627T122828-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "649011d056d026e516f5d79aa6ea4fd17ec38cd3f986e62c8e86362130ebfe78",
+  "size": "11 MB",
+  "size_raw": "10598712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-05167d4-250611T140816-riscv64-Linux",
+    "HEAD-37666f3-250623T174646-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
