@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kamaji",
+  "pkg_family": "kamaji",
+  "pkg_id": "kamaji#github.com_clastix_kamaji",
+  "pkg_name": "kamaji",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clastix/kamaji",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kamaji is the Hosted Control Plane Manager for Kubernetes.",
+  "homepage": [
+    "https://github.com/clastix/kamaji"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kamaji"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/clastix/kamaji/archive/464984f0919678be99ddcc1abd10a6d25aa8d319.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "baremetal",
+    "cloud-native",
+    "cluster",
+    "gcp",
+    "hard-multitenancy",
+    "k8s",
+    "kubernetes",
+    "kubernetes-cluster",
+    "kubernetes-in-kubernetes",
+    "kubernetes-multitenancy",
+    "managed-kubernetes",
+    "multi-cluster",
+    "multi-tenancy",
+    "openstack",
+    "virtual-cluster"
+  ],
+  "version": "HEAD-464984f-250626T124539",
+  "version_upstream": "",
+  "bsum": "9c56314f1e59db110f3fda3d4ed1f77f976aab737cd8901773b4269f86713722",
+  "build_date": "2025-06-27T02:35:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916549973",
+  "build_id": "15916549973",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clastix/kamaji/kamaji?tag=HEAD-464984f-250626T124539-loongarch64-Linux&download=kamaji.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1535",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clastix/kamaji/kamaji?tag=HEAD-464984f-250626T124539-loongarch64-Linux&download=kamaji",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clastix/kamaji/kamaji:HEAD-464984f-250626T124539-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clastix/kamaji/kamaji",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clastix/kamaji/kamaji?tag=HEAD-464984f-250626T124539-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "53a334dd12595e1e16b1712a77e764aa286283a1bd033713df145b0cad6f0943",
+  "size": "103 MB",
+  "size_raw": "107774560",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b0c9034-250620T134953-loongarch64-Linux",
+    "HEAD-d7b21b5-250625T123413-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
