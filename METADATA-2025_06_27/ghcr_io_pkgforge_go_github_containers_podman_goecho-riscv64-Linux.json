@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goecho",
+  "pkg_family": "podman",
+  "pkg_id": "goecho#github.com_containers_podman",
+  "pkg_name": "goecho",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containers/podman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Podman: A tool for managing OCI containers and pods.",
+  "homepage": [
+    "https://github.com/containers/podman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goecho",
+    "quadlet",
+    "rootlessport",
+    "testvol",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containers/podman/archive/8761b67ca53725c047d2526de81eecebc4ef9b2d.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "oci"
+  ],
+  "version": "HEAD-8761b67-250626T130905",
+  "version_upstream": "",
+  "bsum": "591c259d4a9e3540d3e9801d01f8bd703dbabf38f870cb39246bcc76d370dd89",
+  "build_date": "2025-06-27T02:38:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916551029",
+  "build_id": "15916551029",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/goecho?tag=HEAD-8761b67-250626T130905-riscv64-Linux&download=goecho.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27360",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/goecho?tag=HEAD-8761b67-250626T130905-riscv64-Linux&download=goecho",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containers/podman/goecho:HEAD-8761b67-250626T130905-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containers/podman/goecho",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containers/podman/goecho?tag=HEAD-8761b67-250626T130905-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa3117d061373aa13e0c9021a5b5c33a2d83c27177cf2dad13208262efbfd50a",
+  "size": "1.6 MB",
+  "size_raw": "1582504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c89b64-250619T115916-riscv64-Linux",
+    "HEAD-7808625-250619T194524-riscv64-Linux",
+    "HEAD-14a99b3-250623T131419-riscv64-Linux",
+    "HEAD-eece0a1-250624T140722-riscv64-Linux",
+    "HEAD-7780e28-250624T194430-riscv64-Linux",
+    "HEAD-683e9b2-250625T194814-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
