@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "metrics-pusher",
+  "pkg_family": "ibm-roks-toolkit",
+  "pkg_id": "metrics-pusher#github.com_openshift_ibm_roks_toolkit",
+  "pkg_name": "metrics-pusher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/ibm-roks-toolkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tooling and controllers to enable hosted control plane OpenShift clusters running on IBM Cloud.",
+  "homepage": [
+    "https://github.com/openshift/ibm-roks-toolkit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "control-plane-operator",
+    "metrics-pusher",
+    "roks-metrics"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/ibm-roks-toolkit/archive/11eddde6c760a27d520acd989b0a5188537a8ecf.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-11eddde-250627T131257",
+  "version_upstream": "",
+  "bsum": "6dcbe702d0afc774d78ec662233d7cff3b11cfdd19d18e96812c540534b967d2",
+  "build_date": "2025-06-27T17:03:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931087028",
+  "build_id": "15931087028",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/ibm-roks-toolkit/metrics-pusher?tag=HEAD-11eddde-250627T131257-riscv64-Linux&download=metrics-pusher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/ibm-roks-toolkit/metrics-pusher?tag=HEAD-11eddde-250627T131257-riscv64-Linux&download=metrics-pusher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/ibm-roks-toolkit/metrics-pusher:HEAD-11eddde-250627T131257-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/ibm-roks-toolkit/metrics-pusher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/ibm-roks-toolkit/metrics-pusher?tag=HEAD-11eddde-250627T131257-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df78119905a1489eab0363c0d067a351a4e13217c227b12119207fffa581354e",
+  "size": "37 MB",
+  "size_raw": "38144824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
