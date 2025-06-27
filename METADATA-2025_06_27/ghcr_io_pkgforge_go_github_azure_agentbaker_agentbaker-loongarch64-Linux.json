@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "agentbaker",
+  "pkg_family": "AgentBaker",
+  "pkg_id": "agentbaker#github.com_Azure_AgentBaker",
+  "pkg_name": "agentbaker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/AgentBaker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.",
+  "homepage": [
+    "https://github.com/Azure/AgentBaker"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agentbaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/AgentBaker/archive/1093754900593f9c064005ffd2c1de1dc228aa14.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "cloud-init",
+    "k8s",
+    "os",
+    "vhd"
+  ],
+  "version": "HEAD-1093754-250626T170301",
+  "version_upstream": "",
+  "bsum": "ffa14a688bff1c79fd02f64882bcf2840156649bbe9230b2ab78254eeb22474c",
+  "build_date": "2025-06-27T09:49:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923369252",
+  "build_id": "15923369252",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-1093754-250626T170301-loongarch64-Linux&download=agentbaker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-1093754-250626T170301-loongarch64-Linux&download=agentbaker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/agentbaker/agentbaker:HEAD-1093754-250626T170301-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/agentbaker/agentbaker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-1093754-250626T170301-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49e4155454a9e37e15a47296e536ff1d6c26ed4dffaa578a60cb12299279e899",
+  "size": "9.8 MB",
+  "size_raw": "10242944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a0f27c4-250618T182413-loongarch64-Linux",
+    "HEAD-8c18f3e-250621T032602-loongarch64-Linux",
+    "HEAD-673e7b6-250624T022614-loongarch64-Linux",
+    "HEAD-77ce46c-250624T132831-loongarch64-Linux",
+    "HEAD-2a7bf73-250625T164423-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
