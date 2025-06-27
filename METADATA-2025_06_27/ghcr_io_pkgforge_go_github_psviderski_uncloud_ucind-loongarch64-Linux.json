@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ucind",
+  "pkg_family": "uncloud",
+  "pkg_id": "ucind#github.com_psviderski_uncloud",
+  "pkg_name": "ucind",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/psviderski/uncloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+  "homepage": [
+    "https://github.com/psviderski/uncloud"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "experiment",
+    "explorer",
+    "networkdb",
+    "ucind",
+    "uncloud",
+    "uncloudd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/psviderski/uncloud/archive/3b89af4a11e1194c850c281f97131f7be0870c11.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "deployment",
+    "devops",
+    "docker",
+    "docker-compose",
+    "golang",
+    "kubernetes",
+    "orchestration",
+    "self-hosted"
+  ],
+  "version": "HEAD-3b89af4-250627T175402",
+  "version_upstream": "",
+  "bsum": "c2a8f92ff7ccd56cd980c12e256d7a23f3cd16f5d2a828888c5df7dc09677b88",
+  "build_date": "2025-06-27T23:17:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936807959",
+  "build_id": "15936807959",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/ucind?tag=HEAD-3b89af4-250627T175402-loongarch64-Linux&download=ucind.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1352",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/ucind?tag=HEAD-3b89af4-250627T175402-loongarch64-Linux&download=ucind",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psviderski/uncloud/ucind:HEAD-3b89af4-250627T175402-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psviderski/uncloud/ucind",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psviderski/uncloud/ucind?tag=HEAD-3b89af4-250627T175402-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b80231c5b4e7320e7a8be23e0203ce284d1c1f63914318ee2e7d69318a85017d",
+  "size": "51 MB",
+  "size_raw": "53009424",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8e0a24e-250620T133750-loongarch64-Linux",
+    "HEAD-26f34df-250622T192625-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
