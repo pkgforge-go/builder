@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cluster-network-operator",
+  "pkg_family": "cluster-network-operator",
+  "pkg_id": "cluster-network-operator#github.com_openshift_cluster_network_operator",
+  "pkg_name": "cluster-network-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Create and manage cluster networking configuration",
+  "homepage": [
+    "https://github.com/openshift/cluster-network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-network-check-endpoints",
+    "cluster-network-check-target",
+    "cluster-network-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-network-operator/archive/bd863a88a0b2fbd25c51fd967ba4fbe92bf911fd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bd863a8-250627T003301",
+  "version_upstream": "",
+  "bsum": "9f66c95e66168c6d57ed8f6a9f03efc33b7ef3167ab4254a7a97e58a2bc7be8e",
+  "build_date": "2025-06-27T08:21:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920909258",
+  "build_id": "15920909258",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-operator?tag=HEAD-bd863a8-250627T003301-x86_64-Linux&download=cluster-network-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "103",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-operator?tag=HEAD-bd863a8-250627T003301-x86_64-Linux&download=cluster-network-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-operator:HEAD-bd863a8-250627T003301-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-operator?tag=HEAD-bd863a8-250627T003301-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c0d0aeebef2b1f33e301f3628c49ea31969a72eb32e750ecf2af666500c86701",
+  "size": "93 MB",
+  "size_raw": "97122528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

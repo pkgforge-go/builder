@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cluster-network-check-target",
+  "pkg_family": "cluster-network-operator",
+  "pkg_id": "cluster-network-check-target#github.com_openshift_cluster_network_operator",
+  "pkg_name": "cluster-network-check-target",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-network-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Create and manage cluster networking configuration",
+  "homepage": [
+    "https://github.com/openshift/cluster-network-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cluster-network-check-endpoints",
+    "cluster-network-check-target",
+    "cluster-network-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-network-operator/archive/bd863a88a0b2fbd25c51fd967ba4fbe92bf911fd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-bd863a8-250627T003301",
+  "version_upstream": "",
+  "bsum": "b63eb828193586bcedb8d2a95fcbc78ab041e5d4973da2637f51ae6955b48765",
+  "build_date": "2025-06-27T08:21:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920909258",
+  "build_id": "15920909258",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-target?tag=HEAD-bd863a8-250627T003301-x86_64-Linux&download=cluster-network-check-target.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "103",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-target?tag=HEAD-bd863a8-250627T003301-x86_64-Linux&download=cluster-network-check-target",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-target:HEAD-bd863a8-250627T003301-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-target",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-network-operator/cluster-network-check-target?tag=HEAD-bd863a8-250627T003301-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a44f2457eff30f2e8b8c1d6fd63f88e35a4f89bfafbddb8d5fb212cc2165556",
+  "size": "5.9 MB",
+  "size_raw": "6117824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
