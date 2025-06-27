@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "meows",
+  "pkg_id": "controller#github.com_cybozu_go_meows",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/meows",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller for GitHub actions self-hosted runners",
+  "homepage": [
+    "https://github.com/cybozu-go/meows"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "entrypoint",
+    "job-started",
+    "meows",
+    "slack-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cybozu-go/meows/archive/d8b5f4d8f08ac7b9cc6e8f8ab3fb971030e25723.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d8b5f4d-250627T161715",
+  "version_upstream": "",
+  "bsum": "ce6fe42c2b9b7714fc72411e51ea9ff6367c3e5c45c442dd00aa2d44b1af9eb7",
+  "build_date": "2025-06-27T16:22:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930445000",
+  "build_id": "15930445000",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/controller?tag=HEAD-d8b5f4d-250627T161715-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/controller?tag=HEAD-d8b5f4d-250627T161715-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/meows/controller:HEAD-d8b5f4d-250627T161715-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/meows/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/meows/controller?tag=HEAD-d8b5f4d-250627T161715-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "056048265817fd447cc60ddfa29a8a294358436ee8ac2a28f57977c8eae5cb2e",
+  "size": "47 MB",
+  "size_raw": "48330016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
