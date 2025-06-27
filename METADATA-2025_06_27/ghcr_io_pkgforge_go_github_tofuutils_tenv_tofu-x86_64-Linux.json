@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tofu",
+  "pkg_family": "tenv",
+  "pkg_id": "tofu#github.com_tofuutils_tenv",
+  "pkg_name": "tofu",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tofuutils/tenv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTofu / Terraform / Terragrunt and Atmos version manager",
+  "homepage": [
+    "https://github.com/tofuutils/tenv"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atmos",
+    "dtofuver",
+    "ltfver",
+    "tenv",
+    "terraform",
+    "terragrunt",
+    "terramate",
+    "tf",
+    "tofu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tofuutils/tenv/archive/cbf2d4b6b130a1327c2f7dda5d73a123cc8b4509.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "hacktoberfest",
+    "hacktoberfest2024",
+    "hashicorp",
+    "hashicorp-terraform",
+    "iac",
+    "opentofu",
+    "tenv",
+    "terraform",
+    "tfenv",
+    "tofu",
+    "tofuenv"
+  ],
+  "version": "HEAD-cbf2d4b-250627T002456",
+  "version_upstream": "",
+  "bsum": "ed9c3271acf18a4bed55a2b35d91a9c887554c19f1176c4aaa323984eabe47ec",
+  "build_date": "2025-06-27T12:14:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923739437",
+  "build_id": "15923739437",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/tofu?tag=HEAD-cbf2d4b-250627T002456-x86_64-Linux&download=tofu.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/tofu?tag=HEAD-cbf2d4b-250627T002456-x86_64-Linux&download=tofu",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tofuutils/tenv/tofu:HEAD-cbf2d4b-250627T002456-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tofuutils/tenv/tofu",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/tofu?tag=HEAD-cbf2d4b-250627T002456-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b7d996dde6294815be5a690e743c395f360378d7ecfcb8fab9a81de60f24f531",
+  "size": "2.0 MB",
+  "size_raw": "2002680",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ebee6df-250622T144317-x86_64-Linux",
+    "HEAD-7701917-250624T162547-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
