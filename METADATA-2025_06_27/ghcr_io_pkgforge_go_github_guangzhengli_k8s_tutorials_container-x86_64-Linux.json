@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "container",
+  "pkg_family": "k8s-tutorials",
+  "pkg_id": "container#github.com_guangzhengli_k8s_tutorials",
+  "pkg_name": "container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/guangzhengli/k8s-tutorials",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "k8s tutorials _ k8s 教程",
+  "homepage": [
+    "https://github.com/guangzhengli/k8s-tutorials"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaps",
+    "container",
+    "hello-helm",
+    "k8s-tutorials-service",
+    "liveness",
+    "readiness",
+    "secret",
+    "v2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/guangzhengli/k8s-tutorials/archive/8e31674bd97091cdddbcdde268a457a31699ade7.tar.gz"
+  ],
+  "tag": [
+    "configmap",
+    "container",
+    "deployment",
+    "docker",
+    "helm",
+    "ingress",
+    "k8s",
+    "k9s",
+    "kubernetes",
+    "minikube",
+    "pod",
+    "secret",
+    "services",
+    "tutorial"
+  ],
+  "version": "HEAD-8e31674-250627T102817",
+  "version_upstream": "",
+  "bsum": "281b654d9021a807885d1000784e941244c3dfa57648eb27d6ded695e4b97661",
+  "build_date": "2025-06-27T07:39:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920220335",
+  "build_id": "15920220335",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/container?tag=HEAD-8e31674-250627T102817-x86_64-Linux&download=container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5308",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/container?tag=HEAD-8e31674-250627T102817-x86_64-Linux&download=container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guangzhengli/k8s-tutorials/container:HEAD-8e31674-250627T102817-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guangzhengli/k8s-tutorials/container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/k8s-tutorials/container?tag=HEAD-8e31674-250627T102817-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd90884db4dad76c56e4c3025b2b9a645c390c2b88359ed4b88737dfc7cc6661",
+  "size": "5.9 MB",
+  "size_raw": "6115072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
