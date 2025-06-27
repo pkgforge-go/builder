@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "00_check_vm_image",
+  "pkg_family": "adsys",
+  "pkg_id": "00_check_vm_image#github.com_ubuntu_adsys",
+  "pkg_name": "00_check_vm_image",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ubuntu/adsys",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Active Directory bridging tool suite",
+  "homepage": [
+    "https://github.com/ubuntu/adsys"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "00_build_adsys_deb",
+    "00_check_vm_image",
+    "01_prepare_base_vm",
+    "01_provision_client",
+    "02_create_vm_template",
+    "02_provision_ad",
+    "03_pam_coverage_support",
+    "10_test_non_pro_managers",
+    "11_test_pro_managers",
+    "12_test_pam_krb5cc",
+    "98_collect_pam_coverage",
+    "99_deprovision",
+    "99_destroy_previous_versions",
+    "admxgen",
+    "adwatchd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ubuntu/adsys/archive/1299f2733ee03c2c44725a6f1850015b09c9b26a.tar.gz"
+  ],
+  "tag": [
+    "active-directory",
+    "group-policy",
+    "ubuntu",
+    "ubuntu-desktop"
+  ],
+  "version": "HEAD-1299f27-250627T074311",
+  "version_upstream": "",
+  "bsum": "a8d17bd874bb2feef11f05b9db67921599cdadc49b1deb3909464db9769d76e3",
+  "build_date": "2025-06-27T17:26:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931320888",
+  "build_id": "15931320888",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ubuntu/adsys/00_check_vm_image?tag=HEAD-1299f27-250627T074311-loongarch64-Linux&download=00_check_vm_image.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "218",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ubuntu/adsys/00_check_vm_image?tag=HEAD-1299f27-250627T074311-loongarch64-Linux&download=00_check_vm_image",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ubuntu/adsys/00_check_vm_image:HEAD-1299f27-250627T074311-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ubuntu/adsys/00_check_vm_image",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ubuntu/adsys/00_check_vm_image?tag=HEAD-1299f27-250627T074311-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ee0fa4ca1002716047ba64b9658da9272b94604e879ff15da92cb7416ec62da",
+  "size": "3.1 MB",
+  "size_raw": "3222136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
