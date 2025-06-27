@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pint",
+  "pkg_family": "pint",
+  "pkg_id": "pint#github.com_cloudflare_pint",
+  "pkg_name": "pint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/pint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus rule linter/validator",
+  "homepage": [
+    "https://github.com/cloudflare/pint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pint"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/pint/archive/3a3315cad7d84e4e425208ff58eeae6be0f5c994.tar.gz"
+  ],
+  "tag": [
+    "linter",
+    "metrics",
+    "observability",
+    "prometheus",
+    "validator"
+  ],
+  "version": "HEAD-3a3315c-250626T114619",
+  "version_upstream": "",
+  "bsum": "494722f3a6c89ec48bbd1263da0ac6eccde7edd67dafee3b9833bc8a408c827f",
+  "build_date": "2025-06-27T02:39:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916555663",
+  "build_id": "15916555663",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/pint/pint?tag=HEAD-3a3315c-250626T114619-loongarch64-Linux&download=pint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "937",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/pint/pint?tag=HEAD-3a3315c-250626T114619-loongarch64-Linux&download=pint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/pint/pint:HEAD-3a3315c-250626T114619-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/pint/pint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/pint/pint?tag=HEAD-3a3315c-250626T114619-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7353a74f54539d9642c8b4ae886797ad4a83e8e4969d9042aea8c9dee6c729a9",
+  "size": "26 MB",
+  "size_raw": "26697920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-64c56ae-250623T115419-loongarch64-Linux[v0.74.2]",
+    "HEAD-8590dee-250624T141605-loongarch64-Linux",
+    "HEAD-10c83a7-250625T134350-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
