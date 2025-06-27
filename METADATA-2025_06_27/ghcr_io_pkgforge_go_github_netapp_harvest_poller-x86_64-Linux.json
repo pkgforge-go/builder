@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "poller",
+  "pkg_family": "harvest",
+  "pkg_id": "poller#github.com_NetApp_harvest",
+  "pkg_name": "poller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NetApp/harvest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open-metrics endpoint for ONTAP and StorageGRID",
+  "homepage": [
+    "https://github.com/NetApp/harvest"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "changelog",
+    "harvest",
+    "main",
+    "poller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NetApp/harvest/archive/30cb06da3ba2bd29009dfc5bdf1267f9747b0a2a.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "grafana-dashboard",
+    "monitoring",
+    "netapp-public",
+    "observability",
+    "prometheus",
+    "storagegrid"
+  ],
+  "version": "HEAD-30cb06d-250627T072535",
+  "version_upstream": "",
+  "bsum": "fd16163b2bcb4f1edf806bdced570c03ffb115a42fa54e0bbe80e0d9e6ac5782",
+  "build_date": "2025-06-27T19:06:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933790142",
+  "build_id": "15933790142",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/poller?tag=HEAD-30cb06d-250627T072535-x86_64-Linux&download=poller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/poller?tag=HEAD-30cb06d-250627T072535-x86_64-Linux&download=poller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/netapp/harvest/poller:HEAD-30cb06d-250627T072535-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/netapp/harvest/poller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/netapp/harvest/poller?tag=HEAD-30cb06d-250627T072535-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf61735e13bc1c747cfd44f009c593244931491d3b92c66c65e059219653f224",
+  "size": "16 MB",
+  "size_raw": "16204288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-66be280-250619T135739-x86_64-Linux",
+    "HEAD-9bb1ee6-250623T173316-x86_64-Linux[nightly]",
+    "HEAD-d73af48-250624T185343-x86_64-Linux",
+    "HEAD-a443dec-250624T142144-x86_64-Linux[nightly]",
+    "HEAD-53aa8f7-250625T173523-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
