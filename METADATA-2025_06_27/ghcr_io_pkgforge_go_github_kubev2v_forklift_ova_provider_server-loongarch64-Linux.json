@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ova-provider-server",
+  "pkg_family": "forklift",
+  "pkg_id": "ova-provider-server#github.com_kubev2v_forklift",
+  "pkg_name": "ova-provider-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubev2v/forklift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt",
+  "homepage": [
+    "https://github.com/kubev2v/forklift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "forklift-api",
+    "forklift-controller",
+    "image-converter",
+    "inventory",
+    "openstack-populator",
+    "ova-provider-server",
+    "ovirt-populator",
+    "populator-controller",
+    "virt-v2v",
+    "virt-v2v-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubev2v/forklift/archive/3c615d05e1f745660837b18c6893dfdec8c63dcd.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "kubevirt",
+    "migration",
+    "openstack",
+    "ova",
+    "ovf",
+    "ovirt",
+    "virt-v2v",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-3c615d0-250626T160501",
+  "version_upstream": "",
+  "bsum": "36b4fde69e884a3607ec7c2eac66d30897e8b84a04a44fd77e0493b8f68a4136",
+  "build_date": "2025-06-27T03:09:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916633918",
+  "build_id": "15916633918",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ova-provider-server?tag=HEAD-3c615d0-250626T160501-loongarch64-Linux&download=ova-provider-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "92",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ova-provider-server?tag=HEAD-3c615d0-250626T160501-loongarch64-Linux&download=ova-provider-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubev2v/forklift/ova-provider-server:HEAD-3c615d0-250626T160501-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubev2v/forklift/ova-provider-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubev2v/forklift/ova-provider-server?tag=HEAD-3c615d0-250626T160501-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fa342ae9694ff2c6866a486cdda2c7318403108f8379bb51d13f5ca75d4aaad",
+  "size": "6.2 MB",
+  "size_raw": "6476128",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d13e1d0-250620T145157-loongarch64-Linux",
+    "HEAD-e857e6e-250623T150948-loongarch64-Linux",
+    "HEAD-19f8baa-250624T134014-loongarch64-Linux",
+    "HEAD-11f505e-250625T134859-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
