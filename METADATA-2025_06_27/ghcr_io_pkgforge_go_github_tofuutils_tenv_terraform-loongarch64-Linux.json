@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "terraform",
+  "pkg_family": "tenv",
+  "pkg_id": "terraform#github.com_tofuutils_tenv",
+  "pkg_name": "terraform",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tofuutils/tenv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenTofu / Terraform / Terragrunt and Atmos version manager",
+  "homepage": [
+    "https://github.com/tofuutils/tenv"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atmos",
+    "dtofuver",
+    "ltfver",
+    "tenv",
+    "terraform",
+    "terragrunt",
+    "terramate",
+    "tf",
+    "tofu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tofuutils/tenv/archive/cbf2d4b6b130a1327c2f7dda5d73a123cc8b4509.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "hacktoberfest",
+    "hacktoberfest2024",
+    "hashicorp",
+    "hashicorp-terraform",
+    "iac",
+    "opentofu",
+    "tenv",
+    "terraform",
+    "tfenv",
+    "tofu",
+    "tofuenv"
+  ],
+  "version": "HEAD-cbf2d4b-250627T002456",
+  "version_upstream": "",
+  "bsum": "7e465bafdc2a0d946a9dfdaf9cbb574778cdb2edc11cb1818f2e67bd4fca3b8e",
+  "build_date": "2025-06-27T12:16:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923739437",
+  "build_id": "15923739437",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/terraform?tag=HEAD-cbf2d4b-250627T002456-loongarch64-Linux&download=terraform.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1105",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/terraform?tag=HEAD-cbf2d4b-250627T002456-loongarch64-Linux&download=terraform",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tofuutils/tenv/terraform:HEAD-cbf2d4b-250627T002456-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tofuutils/tenv/terraform",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tofuutils/tenv/terraform?tag=HEAD-cbf2d4b-250627T002456-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7df9e14c2fad0e58d5b28c9f9eb1210d9faf6815685a5f4f52e54a558bfa175",
+  "size": "2.0 MB",
+  "size_raw": "1999992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ebee6df-250622T144317-loongarch64-Linux",
+    "HEAD-7701917-250624T162547-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
