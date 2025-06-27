@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ldddns",
+  "pkg_family": "ldddns",
+  "pkg_id": "ldddns#github.com_arnested_ldddns",
+  "pkg_name": "ldddns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arnested/ldddns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Local Docker Development DNS",
+  "homepage": [
+    "https://github.com/arnested/ldddns"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ldddns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arnested/ldddns/archive/3c5a7d1842c8118ded1fc41157c55ec6f2b5a756.tar.gz"
+  ],
+  "tag": [
+    "debian-packages",
+    "developer-tools",
+    "dns",
+    "dns-sd",
+    "docker",
+    "hacktoberfest",
+    "multicast-dns",
+    "systemd-service"
+  ],
+  "version": "HEAD-3c5a7d1-250627T103513",
+  "version_upstream": "v1.0.309",
+  "bsum": "0ad6af4f8153992df4358cffb9528adc487fc09c3064422904724f4adb1e8520",
+  "build_date": "2025-06-27T16:10:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930418038",
+  "build_id": "15930418038",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnested/ldddns/ldddns?tag=HEAD-3c5a7d1-250627T103513-riscv64-Linux&download=ldddns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnested/ldddns/ldddns?tag=HEAD-3c5a7d1-250627T103513-riscv64-Linux&download=ldddns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arnested/ldddns/ldddns:HEAD-3c5a7d1-250627T103513-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arnested/ldddns/ldddns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnested/ldddns/ldddns?tag=HEAD-3c5a7d1-250627T103513-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c490c3593823373588bc956a01413cce0cccbb2ecdd40139b7aa341cc97ad54",
+  "size": "8.2 MB",
+  "size_raw": "8588056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
