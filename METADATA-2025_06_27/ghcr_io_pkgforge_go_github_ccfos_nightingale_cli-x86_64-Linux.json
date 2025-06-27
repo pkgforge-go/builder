@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "nightingale",
+  "pkg_id": "cli#github.com_ccfos_nightingale",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ccfos/nightingale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+  "homepage": [
+    "https://github.com/ccfos/nightingale"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alert",
+    "center",
+    "cli",
+    "edge",
+    "pushgw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ccfos/nightingale/archive/4945e982007d69572ef36ee9f0ebe8f0e77975c7.tar.gz"
+  ],
+  "tag": [
+    "alerting",
+    "ccf",
+    "metrics",
+    "monitoring",
+    "nightingale",
+    "observability",
+    "open-falcon",
+    "time-series",
+    "tsdb"
+  ],
+  "version": "HEAD-4945e98-250627T194528",
+  "version_upstream": "",
+  "bsum": "f0bf0d192721dcc1a15e16b8dd1d7c6a483cfd7d6a301ec9a7cc2c77d10ca774",
+  "build_date": "2025-06-27T19:41:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933794698",
+  "build_id": "15933794698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/cli?tag=HEAD-4945e98-250627T194528-x86_64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/cli?tag=HEAD-4945e98-250627T194528-x86_64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ccfos/nightingale/cli:HEAD-4945e98-250627T194528-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ccfos/nightingale/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ccfos/nightingale/cli?tag=HEAD-4945e98-250627T194528-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "012137508f6101e5393be3796309715479964cb0aa644e00abc946db20464ccc",
+  "size": "26 MB",
+  "size_raw": "26871776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-12f3cc2-250619T161830-x86_64-Linux",
+    "HEAD-514913a-250623T192050-x86_64-Linux",
+    "HEAD-25c3390-250625T180546-x86_64-Linux",
+    "HEAD-a938ea3-250626T184455-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
