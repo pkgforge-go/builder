@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "devicesimulator",
+  "pkg_family": "flightctl",
+  "pkg_id": "devicesimulator#github.com_flightctl_flightctl",
+  "pkg_name": "devicesimulator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flightctl/flightctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/flightctl/flightctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devicesimulator",
+    "flightctl",
+    "flightctl-agent",
+    "flightctl-api",
+    "flightctl-periodic",
+    "flightctl-worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/flightctl/flightctl/archive/1fd25893550aa1cffdd1e99e964d6eb2ec6191db.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1fd2589-250626T145334",
+  "version_upstream": "",
+  "bsum": "d109655d567f37db76aeb9b39769d1c9305f7b7187b611abe7fae3addaaead66",
+  "build_date": "2025-06-27T10:51:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923419996",
+  "build_id": "15923419996",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flightctl/flightctl/devicesimulator?tag=HEAD-1fd2589-250626T145334-riscv64-Linux&download=devicesimulator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flightctl/flightctl/devicesimulator?tag=HEAD-1fd2589-250626T145334-riscv64-Linux&download=devicesimulator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flightctl/flightctl/devicesimulator:HEAD-1fd2589-250626T145334-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flightctl/flightctl/devicesimulator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flightctl/flightctl/devicesimulator?tag=HEAD-1fd2589-250626T145334-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eee1075881a1a32aff7765891ede4803eabe5fdc769401c3d0e470ab35c7941b",
+  "size": "46 MB",
+  "size_raw": "47905592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2ff9a43-250619T160215-riscv64-Linux",
+    "HEAD-b849b08-250623T134448-riscv64-Linux",
+    "HEAD-550dc1e-250623T212416-riscv64-Linux",
+    "HEAD-576e215-250624T161548-riscv64-Linux",
+    "HEAD-093cc0c-250625T132203-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
