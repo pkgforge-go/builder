@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "spire-controller-manager",
+  "pkg_family": "spire-controller-manager",
+  "pkg_id": "spire-controller-manager#github.com_spiffe_spire_controller_manager",
+  "pkg_name": "spire-controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire-controller-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller manager that reconciles workload registration and federation relationships.",
+  "homepage": [
+    "https://github.com/spiffe/spire-controller-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "spire-controller-manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire-controller-manager/archive/b5de14a841155bc5cd8242ef09b41a58e8f40658.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b5de14a-250627T093344",
+  "version_upstream": "",
+  "bsum": "bf3d80df100d54d3eb913659657ca1e7b70f1d82dd05cc138e2cae16bb168574",
+  "build_date": "2025-06-27T17:14:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931209648",
+  "build_id": "15931209648",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire-controller-manager/spire-controller-manager?tag=HEAD-b5de14a-250627T093344-loongarch64-Linux&download=spire-controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "61",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire-controller-manager/spire-controller-manager?tag=HEAD-b5de14a-250627T093344-loongarch64-Linux&download=spire-controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire-controller-manager/spire-controller-manager:HEAD-b5de14a-250627T093344-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire-controller-manager/spire-controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire-controller-manager/spire-controller-manager?tag=HEAD-b5de14a-250627T093344-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a0d09d2bfdd3f2acbca9f2de911677bb3f2c2144d1c840fca514380d7d5d9d3",
+  "size": "46 MB",
+  "size_raw": "47389664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
