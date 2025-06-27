@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "saptune",
+  "pkg_family": "saptune",
+  "pkg_id": "saptune#github.com_SUSE_saptune",
+  "pkg_name": "saptune",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SUSE/saptune",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Saptune is a configuration tool to prepare a system to run SAP workloads by implementing the recommendations of various SAP notes.",
+  "homepage": [
+    "https://github.com/SUSE/saptune"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "saptune"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SUSE/saptune/archive/d75abfc8c86bd2a9da7d762e8c7783691c4cc8fb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d75abfc-250627T140515",
+  "version_upstream": "",
+  "bsum": "4761ce8ef76a40fce1696970ce71da5445cef9fcd4c3bc54d9a94f2d19dba08d",
+  "build_date": "2025-06-27T16:01:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930361443",
+  "build_id": "15930361443",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/saptune/saptune?tag=HEAD-d75abfc-250627T140515-loongarch64-Linux&download=saptune.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/saptune/saptune?tag=HEAD-d75abfc-250627T140515-loongarch64-Linux&download=saptune",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/suse/saptune/saptune:HEAD-d75abfc-250627T140515-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/suse/saptune/saptune",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/suse/saptune/saptune?tag=HEAD-d75abfc-250627T140515-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2af990c7923496a15febee16fa65bef8c4129cfb0caf0059fa89b6ed8943a5a6",
+  "size": "3.6 MB",
+  "size_raw": "3700704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
