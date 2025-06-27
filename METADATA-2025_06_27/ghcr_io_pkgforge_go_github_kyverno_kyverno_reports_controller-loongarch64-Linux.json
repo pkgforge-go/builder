@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "reports-controller",
+  "pkg_family": "kyverno",
+  "pkg_id": "reports-controller#github.com_kyverno_kyverno",
+  "pkg_name": "reports-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/a0243d792d7e6f8290a77def47f362bab887ae28.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-a0243d7-250627T141255",
+  "version_upstream": "",
+  "bsum": "d3be991da336f5797d78d3f3d1cf0cab841e3e83a2f5be3ca6335649221866e6",
+  "build_date": "2025-06-27T21:01:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15933985716",
+  "build_id": "15933985716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/reports-controller?tag=HEAD-a0243d7-250627T141255-loongarch64-Linux&download=reports-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6461",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/reports-controller?tag=HEAD-a0243d7-250627T141255-loongarch64-Linux&download=reports-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/reports-controller:HEAD-a0243d7-250627T141255-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/reports-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/reports-controller?tag=HEAD-a0243d7-250627T141255-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "63793fab8f64a18938ac917547eea80823776501a00a2b53e6ac19f4618fbd1f",
+  "size": "165 MB",
+  "size_raw": "172911840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-467bcb5-250620T115123-loongarch64-Linux",
+    "HEAD-9684ef6-250623T130110-loongarch64-Linux",
+    "HEAD-557a6d2-250624T142711-loongarch64-Linux",
+    "HEAD-515398a-250624T225149-loongarch64-Linux",
+    "HEAD-6f2ff42-250625T134817-loongarch64-Linux",
+    "HEAD-ec56688-250625T223903-loongarch64-Linux",
+    "HEAD-96f80dd-250626T221207-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
