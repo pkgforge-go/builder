@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "typed",
+  "pkg_family": "controller-runtime",
+  "pkg_id": "typed#github.com_kubernetes_sigs_controller_runtime",
+  "pkg_name": "typed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/controller-runtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repo for the controller-runtime subproject of kubebuilder _sig-apimachinery_",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/controller-runtime"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builtins",
+    "crd",
+    "gomodcheck",
+    "multiclustersync",
+    "priorityqueue",
+    "tokenreview",
+    "typed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/controller-runtime/archive/cacd627d0b9bc46b592cf5f96f57f1308313618e.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-api-machinery"
+  ],
+  "version": "HEAD-cacd627-250626T110032",
+  "version_upstream": "",
+  "bsum": "0ddc9eba7d632121691ce56b77d151e4fdbc51065614d538e77272f46cc6388e",
+  "build_date": "2025-06-27T07:56:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920263710",
+  "build_id": "15920263710",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-runtime/typed?tag=HEAD-cacd627-250626T110032-loongarch64-Linux&download=typed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2734",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-runtime/typed?tag=HEAD-cacd627-250626T110032-loongarch64-Linux&download=typed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/controller-runtime/typed:HEAD-cacd627-250626T110032-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/controller-runtime/typed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/controller-runtime/typed?tag=HEAD-cacd627-250626T110032-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad3facd43ee649aa78e7bc5ef45fdc0dbbf90f224509ac38c67b301c51a7f906",
+  "size": "32 MB",
+  "size_raw": "32879904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
