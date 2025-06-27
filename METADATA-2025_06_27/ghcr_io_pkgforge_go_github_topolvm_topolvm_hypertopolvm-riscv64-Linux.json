@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hypertopolvm",
+  "pkg_family": "topolvm",
+  "pkg_id": "hypertopolvm#github.com_topolvm_topolvm",
+  "pkg_name": "hypertopolvm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topolvm/topolvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Capacity-aware CSI plugin for Kubernetes",
+  "homepage": [
+    "https://github.com/topolvm/topolvm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hypertopolvm",
+    "lvmd",
+    "topolvm-controller",
+    "topolvm-node",
+    "topolvm-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topolvm/topolvm/archive/632afc8b5b8f0237681aa360d351399998dcecf9.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "kubernetes",
+    "lvm2"
+  ],
+  "version": "HEAD-632afc8-250627T101031",
+  "version_upstream": "",
+  "bsum": "952ffd95aa8c01f6081c520c5c3130ca45bbc56d830e08f30a2bc4ede26063d2",
+  "build_date": "2025-06-27T14:36:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927739115",
+  "build_id": "15927739115",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/hypertopolvm?tag=HEAD-632afc8-250627T101031-riscv64-Linux&download=hypertopolvm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "910",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/hypertopolvm?tag=HEAD-632afc8-250627T101031-riscv64-Linux&download=hypertopolvm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topolvm/topolvm/hypertopolvm:HEAD-632afc8-250627T101031-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topolvm/topolvm/hypertopolvm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/hypertopolvm?tag=HEAD-632afc8-250627T101031-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c8d9a6905f4977ff299aba8816b4e8a675fe6e5d0ab9917e78ac8d44f314a4d1",
+  "size": "53 MB",
+  "size_raw": "55285784",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cd1179b-250625T110437-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lvmd",
+  "pkg_family": "topolvm",
+  "pkg_id": "lvmd#github.com_topolvm_topolvm",
+  "pkg_name": "lvmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topolvm/topolvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Capacity-aware CSI plugin for Kubernetes",
+  "homepage": [
+    "https://github.com/topolvm/topolvm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hypertopolvm",
+    "lvmd",
+    "topolvm-controller",
+    "topolvm-node",
+    "topolvm-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topolvm/topolvm/archive/632afc8b5b8f0237681aa360d351399998dcecf9.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "kubernetes",
+    "lvm2"
+  ],
+  "version": "HEAD-632afc8-250627T101031",
+  "version_upstream": "",
+  "bsum": "1292cc2ffd5fa4df3b848c366186ae8e592c96fe6c54cd6e706699b7a6227783",
+  "build_date": "2025-06-27T14:36:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927739115",
+  "build_id": "15927739115",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/lvmd?tag=HEAD-632afc8-250627T101031-riscv64-Linux&download=lvmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "910",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/lvmd?tag=HEAD-632afc8-250627T101031-riscv64-Linux&download=lvmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topolvm/topolvm/lvmd:HEAD-632afc8-250627T101031-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topolvm/topolvm/lvmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/lvmd?tag=HEAD-632afc8-250627T101031-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47d60ff69cbe0f8cca51e777ca88b054ae485775fb0cc0ede060db104db58879",
+  "size": "39 MB",
+  "size_raw": "40191320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cd1179b-250625T110437-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
