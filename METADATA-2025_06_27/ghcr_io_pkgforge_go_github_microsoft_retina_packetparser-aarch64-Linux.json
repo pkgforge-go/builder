@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "packetparser",
+  "pkg_family": "retina",
+  "pkg_id": "packetparser#github.com_microsoft_retina",
+  "pkg_name": "packetparser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "captureworkload",
+    "controller",
+    "dns",
+    "dropreason",
+    "enricher",
+    "filtermanager",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "packetforward",
+    "packetparser",
+    "retina",
+    "utsummary",
+    "veth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/70562b3ca91e2277bc75110183b03dcb63de4519.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-70562b3-250626T204737",
+  "version_upstream": "",
+  "bsum": "c622d433b23490fec0da3c83f36c0c937b6eb6b51620285deac4cafc37e2cc42",
+  "build_date": "2025-06-27T11:42:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923559999",
+  "build_id": "15923559999",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/packetparser?tag=HEAD-70562b3-250626T204737-aarch64-Linux&download=packetparser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2984",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/packetparser?tag=HEAD-70562b3-250626T204737-aarch64-Linux&download=packetparser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/packetparser:HEAD-70562b3-250626T204737-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/packetparser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/packetparser?tag=HEAD-70562b3-250626T204737-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61e7c502d7414ac215489f38d3da9808bf6d5d37914a8ed9e3bba13fa069ee17",
+  "size": "61 MB",
+  "size_raw": "62934944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-586a3a6-250619T115102-aarch64-Linux",
+    "HEAD-bdd0b28-250623T090413-aarch64-Linux",
+    "HEAD-51ac044-250624T074805-aarch64-Linux[v0.0.35]",
+    "HEAD-192ddfb-250625T132826-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
