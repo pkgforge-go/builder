@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test_server",
+  "pkg_family": "trpc-mcp-go",
+  "pkg_id": "test_server#github.com_trpc_group_trpc_mcp_go",
+  "pkg_name": "test_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trpc-group/trpc-mcp-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "trpc mcp implementation, only support streamable http",
+  "homepage": [
+    "https://github.com/trpc-group/trpc-mcp-go"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server",
+    "stdio",
+    "test_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/trpc-group/trpc-mcp-go/archive/49de882dc5e7aef50c5f599d4eea01c5f5a65125.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-49de882-250627T212814",
+  "version_upstream": "",
+  "bsum": "2b63a2e98671866afecfe2b5cb7d2ee2cf0ecce119627b0c39ef98744d5fe35b",
+  "build_date": "2025-06-27T17:26:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931317716",
+  "build_id": "15931317716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trpc-group/trpc-mcp-go/test_server?tag=HEAD-49de882-250627T212814-riscv64-Linux&download=test_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trpc-group/trpc-mcp-go/test_server?tag=HEAD-49de882-250627T212814-riscv64-Linux&download=test_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trpc-group/trpc-mcp-go/test_server:HEAD-49de882-250627T212814-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trpc-group/trpc-mcp-go/test_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trpc-group/trpc-mcp-go/test_server?tag=HEAD-49de882-250627T212814-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3c0a2e9160b3745396709cb6396a6a82ccbd61d7dc10423e892e3809dbaaafe",
+  "size": "7.5 MB",
+  "size_raw": "7769784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
