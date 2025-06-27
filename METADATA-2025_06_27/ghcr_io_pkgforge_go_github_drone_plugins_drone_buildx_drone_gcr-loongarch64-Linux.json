@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "drone-gcr",
+  "pkg_family": "drone-buildx",
+  "pkg_id": "drone-gcr#github.com_drone_plugins_drone_buildx",
+  "pkg_name": "drone-gcr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drone-plugins/drone-buildx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drone plugin for publishing Docker images using Docker-in-Docker using buildx",
+  "homepage": [
+    "https://github.com/drone-plugins/drone-buildx"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drone-acr",
+    "drone-docker",
+    "drone-ecr",
+    "drone-gcr",
+    "drone-heroku"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/drone-plugins/drone-buildx/archive/1a3c2bbb1be9d27565e831371831adc3ce23e9ed.tar.gz"
+  ],
+  "tag": [
+    "drone",
+    "drone-plugin"
+  ],
+  "version": "HEAD-1a3c2bb-250627T150552",
+  "version_upstream": "",
+  "bsum": "615da71c90847042cbb0fb140d7433bb17988fa745da1b5e25db869b22eede60",
+  "build_date": "2025-06-27T16:23:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930447976",
+  "build_id": "15930447976",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildx/drone-gcr?tag=HEAD-1a3c2bb-250627T150552-loongarch64-Linux&download=drone-gcr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildx/drone-gcr?tag=HEAD-1a3c2bb-250627T150552-loongarch64-Linux&download=drone-gcr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drone-plugins/drone-buildx/drone-gcr:HEAD-1a3c2bb-250627T150552-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drone-plugins/drone-buildx/drone-gcr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildx/drone-gcr?tag=HEAD-1a3c2bb-250627T150552-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f1761e25747bf094663506afd3fa99654c75e3e79484e1d922e448353a62956",
+  "size": "6.6 MB",
+  "size_raw": "6894448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
