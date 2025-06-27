@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "run-container",
+  "pkg_family": "nerdctl",
+  "pkg_id": "run-container#github.com_containerd_nerdctl",
+  "pkg_name": "run-container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/nerdctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
+  "homepage": [
+    "https://github.com/containerd/nerdctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nerdctl",
+    "run-container"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/nerdctl/archive/90e0caaf46d277d4effb5c2a9aace069af814309.tar.gz"
+  ],
+  "tag": [
+    "containerd"
+  ],
+  "version": "HEAD-90e0caa-250626T153530",
+  "version_upstream": "",
+  "bsum": "b153bfe3e67a1f31184234ea01f8c1811f3cc266c9442a2b9f8b09bbd3ccddb2",
+  "build_date": "2025-06-27T02:37:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916550964",
+  "build_id": "15916550964",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-90e0caa-250626T153530-aarch64-Linux&download=run-container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9013",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-90e0caa-250626T153530-aarch64-Linux&download=run-container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/nerdctl/run-container:HEAD-90e0caa-250626T153530-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/nerdctl/run-container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/nerdctl/run-container?tag=HEAD-90e0caa-250626T153530-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d1324f1124fc0559e10f8f472cba85892cd8cd00f11a0af0e05e877efe732897",
+  "size": "24 MB",
+  "size_raw": "24512576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c24ee86-250623T114308-aarch64-Linux",
+    "HEAD-410b0f2-250623T231103-aarch64-Linux",
+    "HEAD-d0d1c2d-250624T124752-aarch64-Linux",
+    "HEAD-a7f4976-250625T113455-aarch64-Linux",
+    "HEAD-599681f-250625T230436-aarch64-Linux",
+    "HEAD-b25edf5-250626T094352-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
