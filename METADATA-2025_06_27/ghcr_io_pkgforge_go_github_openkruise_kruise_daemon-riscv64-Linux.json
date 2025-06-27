@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "daemon",
+  "pkg_family": "kruise",
+  "pkg_id": "daemon#github.com_openkruise_kruise",
+  "pkg_name": "daemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openkruise/kruise",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automated management of large-scale applications on Kubernetes _incubating project under CNCF_",
+  "homepage": [
+    "https://github.com/openkruise/kruise"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "daemon",
+    "fake_plugin",
+    "helm_hook",
+    "kruise"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openkruise/kruise/archive/4778e7cfea47531e3cae400d96f25127067eb55f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cloudnative",
+    "cncf",
+    "container",
+    "k8s",
+    "kruise",
+    "kubernetes",
+    "openkruise",
+    "workload",
+    "workloads"
+  ],
+  "version": "HEAD-4778e7c-250627T110058",
+  "version_upstream": "",
+  "bsum": "efa036de91950af18b06dc920a960128b475697135c7e60a99c39c5cb7c870ad",
+  "build_date": "2025-06-27T11:46:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923700719",
+  "build_id": "15923700719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/daemon?tag=HEAD-4778e7c-250627T110058-riscv64-Linux&download=daemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/daemon?tag=HEAD-4778e7c-250627T110058-riscv64-Linux&download=daemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openkruise/kruise/daemon:HEAD-4778e7c-250627T110058-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openkruise/kruise/daemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/daemon?tag=HEAD-4778e7c-250627T110058-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7c259a1d0537d57ecefd8af022ce3d95e38dee0ec59ec56749933212534286f",
+  "size": "61 MB",
+  "size_raw": "63001944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fc611f0-250625T103844-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

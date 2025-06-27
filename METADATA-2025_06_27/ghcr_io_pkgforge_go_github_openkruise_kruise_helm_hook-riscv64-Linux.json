@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "helm_hook",
+  "pkg_family": "kruise",
+  "pkg_id": "helm_hook#github.com_openkruise_kruise",
+  "pkg_name": "helm_hook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openkruise/kruise",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automated management of large-scale applications on Kubernetes _incubating project under CNCF_",
+  "homepage": [
+    "https://github.com/openkruise/kruise"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "daemon",
+    "fake_plugin",
+    "helm_hook",
+    "kruise"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openkruise/kruise/archive/4778e7cfea47531e3cae400d96f25127067eb55f.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cloudnative",
+    "cncf",
+    "container",
+    "k8s",
+    "kruise",
+    "kubernetes",
+    "openkruise",
+    "workload",
+    "workloads"
+  ],
+  "version": "HEAD-4778e7c-250627T110058",
+  "version_upstream": "",
+  "bsum": "a19c2922e354f6fe89089c428826e95715a03c1aa07e08d07c334e0658166997",
+  "build_date": "2025-06-27T11:45:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923700719",
+  "build_id": "15923700719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/helm_hook?tag=HEAD-4778e7c-250627T110058-riscv64-Linux&download=helm_hook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4900",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/helm_hook?tag=HEAD-4778e7c-250627T110058-riscv64-Linux&download=helm_hook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openkruise/kruise/helm_hook:HEAD-4778e7c-250627T110058-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openkruise/kruise/helm_hook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openkruise/kruise/helm_hook?tag=HEAD-4778e7c-250627T110058-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "60dc93687644aaf3869a71f28b55fe0cffd59907f5b32229c7b2f3cc3fb59539",
+  "size": "33 MB",
+  "size_raw": "34090008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fc611f0-250625T103844-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
