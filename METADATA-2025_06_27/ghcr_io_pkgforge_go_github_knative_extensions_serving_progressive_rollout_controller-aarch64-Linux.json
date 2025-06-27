@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "serving-progressive-rollout",
+  "pkg_id": "controller#github.com_knative_extensions_serving_progressive_rollout",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/serving-progressive-rollout",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative Serving extension to roll out the revision progressively",
+  "homepage": [
+    "https://github.com/knative-extensions/serving-progressive-rollout"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscaler",
+    "controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/serving-progressive-rollout/archive/fb7e3643e5908570fbea5cd7e5740aeedb22c564.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fb7e364-250627T091107",
+  "version_upstream": "",
+  "bsum": "50429efae48a4a3cee5355326faedc345aa6497eb6d07f44131a9aa3774e931a",
+  "build_date": "2025-06-27T16:44:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930646275",
+  "build_id": "15930646275",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/serving-progressive-rollout/controller?tag=HEAD-fb7e364-250627T091107-aarch64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/serving-progressive-rollout/controller?tag=HEAD-fb7e364-250627T091107-aarch64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/serving-progressive-rollout/controller:HEAD-fb7e364-250627T091107-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/serving-progressive-rollout/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/serving-progressive-rollout/controller?tag=HEAD-fb7e364-250627T091107-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee0692f6073ef5c3480672ab9db4f1ef564e8276ca4ae2b36b74af19bc60f6f4",
+  "size": "68 MB",
+  "size_raw": "71084864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

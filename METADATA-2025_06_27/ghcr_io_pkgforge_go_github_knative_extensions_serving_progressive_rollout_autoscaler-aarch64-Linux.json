@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "autoscaler",
+  "pkg_family": "serving-progressive-rollout",
+  "pkg_id": "autoscaler#github.com_knative_extensions_serving_progressive_rollout",
+  "pkg_name": "autoscaler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative-extensions/serving-progressive-rollout",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative Serving extension to roll out the revision progressively",
+  "homepage": [
+    "https://github.com/knative-extensions/serving-progressive-rollout"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autoscaler",
+    "controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/knative-extensions/serving-progressive-rollout/archive/fb7e3643e5908570fbea5cd7e5740aeedb22c564.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-fb7e364-250627T091107",
+  "version_upstream": "",
+  "bsum": "4f9c7fd8f9afb9216a33f88661ee5122950b7485e08eabca663255e2ac5ad1a5",
+  "build_date": "2025-06-27T16:44:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15930646275",
+  "build_id": "15930646275",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/serving-progressive-rollout/autoscaler?tag=HEAD-fb7e364-250627T091107-aarch64-Linux&download=autoscaler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/serving-progressive-rollout/autoscaler?tag=HEAD-fb7e364-250627T091107-aarch64-Linux&download=autoscaler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative-extensions/serving-progressive-rollout/autoscaler:HEAD-fb7e364-250627T091107-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative-extensions/serving-progressive-rollout/autoscaler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative-extensions/serving-progressive-rollout/autoscaler?tag=HEAD-fb7e364-250627T091107-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6158c0e87481bc2dcfa4237ff01e47da00614a9e74c84aea40c5cb9f69aaa990",
+  "size": "60 MB",
+  "size_raw": "61970080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
