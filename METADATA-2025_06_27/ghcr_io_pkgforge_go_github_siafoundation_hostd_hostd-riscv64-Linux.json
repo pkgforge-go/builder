@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hostd",
+  "pkg_family": "hostd",
+  "pkg_id": "hostd#github.com_SiaFoundation_hostd",
+  "pkg_name": "hostd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SiaFoundation/hostd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The next generation of Sia hosting. Stable. Fast. Scalable.",
+  "homepage": [
+    "https://github.com/SiaFoundation/hostd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hostd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SiaFoundation/hostd/archive/7137f3d8145cdde10657044a1adf97b069fcdf7a.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "decentralized-storage",
+    "golang",
+    "hacktoberfest",
+    "storage"
+  ],
+  "version": "HEAD-7137f3d-250626T052151",
+  "version_upstream": "",
+  "bsum": "4b90ac9d05ef9212a275986fa8970e18e16144594464a8730ecc8d8e8757b5ce",
+  "build_date": "2025-06-27T02:23:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916547958",
+  "build_id": "15916547958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siafoundation/hostd/hostd?tag=HEAD-7137f3d-250626T052151-riscv64-Linux&download=hostd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siafoundation/hostd/hostd?tag=HEAD-7137f3d-250626T052151-riscv64-Linux&download=hostd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/siafoundation/hostd/hostd:HEAD-7137f3d-250626T052151-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/siafoundation/hostd/hostd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/siafoundation/hostd/hostd?tag=HEAD-7137f3d-250626T052151-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c99fd32fa737c50bb61ae8c7b14af647c24ae85cba525f8bc716cc2f0f6e0ec9",
+  "size": "29 MB",
+  "size_raw": "30256120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9eff1fd-250619T055928-riscv64-Linux",
+    "HEAD-3980f23-250625T162931-riscv64-Linux",
+    "HEAD-a26aba2-250625T145432-riscv64-Linux[v2.3.4]"
+  ],
+  "trusted": "true"
+}
