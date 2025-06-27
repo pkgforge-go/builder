@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hortbot",
+  "pkg_family": "hortbot",
+  "pkg_id": "hortbot#github.com_hortbot_hortbot",
+  "pkg_name": "hortbot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hortbot/hortbot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Twitch IRC bot - the code behind CoeBot, AutoModBot _and of course, HortBot_",
+  "homepage": [
+    "https://github.com/hortbot/hortbot"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genmodels",
+    "hortbot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hortbot/hortbot/archive/af5528d56aa714d71f1303fa29388ccdcb3ed4be.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "irc",
+    "twitch",
+    "twitch-irc"
+  ],
+  "version": "HEAD-af5528d-250627T002553",
+  "version_upstream": "",
+  "bsum": "6bb75e109c4f3d18085e9b4d7ca9e1af3efeb7d3090551b59fb5034edc81d18a",
+  "build_date": "2025-06-27T22:33:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15936736708",
+  "build_id": "15936736708",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hortbot/hortbot/hortbot?tag=HEAD-af5528d-250627T002553-x86_64-Linux&download=hortbot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hortbot/hortbot/hortbot?tag=HEAD-af5528d-250627T002553-x86_64-Linux&download=hortbot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hortbot/hortbot/hortbot:HEAD-af5528d-250627T002553-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hortbot/hortbot/hortbot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hortbot/hortbot/hortbot?tag=HEAD-af5528d-250627T002553-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "651091e93dcba79f7e286297e644974beec74a7fb01b107d7bb92821c6535ed2",
+  "size": "30 MB",
+  "size_raw": "30706512",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0aa4155-250625T190446-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
