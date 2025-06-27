@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate-config",
+  "pkg_family": "microshift",
+  "pkg_id": "generate-config#github.com_openshift_microshift",
+  "pkg_name": "generate-config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/microshift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A small form factor OpenShift/Kubernetes optimized for edge computing",
+  "homepage": [
+    "https://github.com/openshift/microshift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate-config",
+    "microshift"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/microshift/archive/a4de97a8fc7e73c8f8aaa5fa384584650c899c1a.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "edge-computing",
+    "hacktoberfest",
+    "hacktoberfest2021",
+    "iot",
+    "k8s",
+    "kubernetes",
+    "openshift"
+  ],
+  "version": "HEAD-a4de97a-250626T091538",
+  "version_upstream": "",
+  "bsum": "4d1df2d792d97138bb83ed97fcb4551ff09b0f9a53fdb8057d439eceedaf0bc3",
+  "build_date": "2025-06-27T03:20:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916648426",
+  "build_id": "15916648426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/microshift/generate-config?tag=HEAD-a4de97a-250626T091538-riscv64-Linux&download=generate-config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "754",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/microshift/generate-config?tag=HEAD-a4de97a-250626T091538-riscv64-Linux&download=generate-config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/microshift/generate-config:HEAD-a4de97a-250626T091538-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/microshift/generate-config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/microshift/generate-config?tag=HEAD-a4de97a-250626T091538-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88ab68b708d6ee72aad13bc8f1cf031cad9e4840e8f88d3701b041584c8af20f",
+  "size": "16 MB",
+  "size_raw": "16610904",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-844791b-250621T054651-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
