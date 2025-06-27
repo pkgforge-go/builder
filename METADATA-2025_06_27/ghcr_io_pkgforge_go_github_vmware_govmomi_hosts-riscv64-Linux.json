@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hosts",
+  "pkg_family": "govmomi",
+  "pkg_id": "hosts#github.com_vmware_govmomi",
+  "pkg_name": "hosts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware/govmomi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for the VMware vSphere API",
+  "homepage": [
+    "https://github.com/vmware/govmomi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alarms",
+    "datastores",
+    "events",
+    "header",
+    "hosts",
+    "networks",
+    "perfmanager",
+    "tasks",
+    "virtualmachines"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/vmware/govmomi/archive/8c70084a55723909b7d3951af41be51f888b158f.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "sdk",
+    "vmware",
+    "vsphere"
+  ],
+  "version": "HEAD-8c70084-250626T194034",
+  "version_upstream": "",
+  "bsum": "92dca69ababd8ea34872bc526ff81754daed132ffb0c5cdd77cc5a4d1f6e16b5",
+  "build_date": "2025-06-27T12:24:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923781273",
+  "build_id": "15923781273",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/hosts?tag=HEAD-8c70084-250626T194034-riscv64-Linux&download=hosts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2385",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/hosts?tag=HEAD-8c70084-250626T194034-riscv64-Linux&download=hosts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware/govmomi/hosts:HEAD-8c70084-250626T194034-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware/govmomi/hosts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware/govmomi/hosts?tag=HEAD-8c70084-250626T194034-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8164ef94836130ec89332d08e938b6ffb74d66daeff62aa55a3006df1a6b946b",
+  "size": "27 MB",
+  "size_raw": "27607320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-06d4a3f-250623T114907-riscv64-Linux",
+    "HEAD-39c6f0f-250624T160355-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
