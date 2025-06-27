@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hypertopolvm",
+  "pkg_family": "topolvm",
+  "pkg_id": "hypertopolvm#github.com_topolvm_topolvm",
+  "pkg_name": "hypertopolvm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topolvm/topolvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Capacity-aware CSI plugin for Kubernetes",
+  "homepage": [
+    "https://github.com/topolvm/topolvm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hypertopolvm",
+    "lvmd",
+    "topolvm-controller",
+    "topolvm-node",
+    "topolvm-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topolvm/topolvm/archive/632afc8b5b8f0237681aa360d351399998dcecf9.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "kubernetes",
+    "lvm2"
+  ],
+  "version": "HEAD-632afc8-250627T101031",
+  "version_upstream": "",
+  "bsum": "72edc8b7bf44e242ef9918d8b558bc1d060b5509a0a76febe7804c96dc86319c",
+  "build_date": "2025-06-27T14:36:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927739115",
+  "build_id": "15927739115",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/hypertopolvm?tag=HEAD-632afc8-250627T101031-aarch64-Linux&download=hypertopolvm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "910",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/hypertopolvm?tag=HEAD-632afc8-250627T101031-aarch64-Linux&download=hypertopolvm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topolvm/topolvm/hypertopolvm:HEAD-632afc8-250627T101031-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topolvm/topolvm/hypertopolvm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/hypertopolvm?tag=HEAD-632afc8-250627T101031-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5573a8e85bfcae24d9517ccd6618eba61bb4aa9301bf04cdde7f14e9c32aab0f",
+  "size": "54 MB",
+  "size_raw": "55646560",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cd1179b-250625T110437-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
