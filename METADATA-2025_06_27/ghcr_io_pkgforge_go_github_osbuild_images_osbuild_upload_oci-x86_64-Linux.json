@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "osbuild-upload-oci",
+  "pkg_family": "images",
+  "pkg_id": "osbuild-upload-oci#github.com_osbuild_images",
+  "pkg_name": "osbuild-upload-oci",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osbuild/images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Image builder image definition library",
+  "homepage": [
+    "https://github.com/osbuild/images"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boot-aws",
+    "osbuild-mock-openid-provider",
+    "osbuild-upload-azure",
+    "osbuild-upload-gcp",
+    "osbuild-upload-generic-s3",
+    "osbuild-upload-oci"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/osbuild/images/archive/b4ffe7b22de02051d4f1129d21711709067491c5.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-b4ffe7b-250626T102550",
+  "version_upstream": "",
+  "bsum": "23e5f0e9340e049cb68634788bc4421702b5cdcd06c9422f62f75cff54e88d6d",
+  "build_date": "2025-06-27T00:23:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913523832",
+  "build_id": "15913523832",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-oci?tag=HEAD-b4ffe7b-250626T102550-x86_64-Linux&download=osbuild-upload-oci.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "29",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-oci?tag=HEAD-b4ffe7b-250626T102550-x86_64-Linux&download=osbuild-upload-oci",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osbuild/images/osbuild-upload-oci:HEAD-b4ffe7b-250626T102550-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osbuild/images/osbuild-upload-oci",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osbuild/images/osbuild-upload-oci?tag=HEAD-b4ffe7b-250626T102550-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9dc38f5a642d06e52e88402622bca58d50a75e3d4fd0b2b3902f71e42280f1e9",
+  "size": "8.5 MB",
+  "size_raw": "8885344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3cfb185-250620T084946-x86_64-Linux[v0.153.0]",
+    "HEAD-30942aa-250625T092943-x86_64-Linux",
+    "HEAD-5a99f8f-250625T180804-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
