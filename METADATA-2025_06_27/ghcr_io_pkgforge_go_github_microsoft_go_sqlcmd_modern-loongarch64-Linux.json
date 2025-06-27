@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "modern",
+  "pkg_family": "go-sqlcmd",
+  "pkg_id": "modern#github.com_microsoft_go_sqlcmd",
+  "pkg_name": "modern",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/go-sqlcmd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The new sqlcmd, CLI for SQL Server and Azure SQL _winget install sqlcmd / sqlcmd create mssql / sqlcmd open ads_",
+  "homepage": [
+    "https://github.com/microsoft/go-sqlcmd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "modern",
+    "sqlcmd-linter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/go-sqlcmd/archive/6b98225b5e23212e86691397fac9ae5e3e55cc76.tar.gz"
+  ],
+  "tag": [
+    "azure-sql",
+    "mssql",
+    "sql-server",
+    "sqlcmd"
+  ],
+  "version": "HEAD-6b98225-250625T093725",
+  "version_upstream": "",
+  "bsum": "072ed2cdff71bf0369bf2883fd79d1d793623e4826a74b0d58633dac45a3a4c7",
+  "build_date": "2025-06-27T08:11:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920379690",
+  "build_id": "15920379690",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-sqlcmd/modern?tag=HEAD-6b98225-250625T093725-loongarch64-Linux&download=modern.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "456",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-sqlcmd/modern?tag=HEAD-6b98225-250625T093725-loongarch64-Linux&download=modern",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/go-sqlcmd/modern:HEAD-6b98225-250625T093725-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/go-sqlcmd/modern",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/go-sqlcmd/modern?tag=HEAD-6b98225-250625T093725-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bfad64236bac749b1f2a7813524d70a491b4586d29c4245b5939249a115d1298",
+  "size": "24 MB",
+  "size_raw": "24576112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
