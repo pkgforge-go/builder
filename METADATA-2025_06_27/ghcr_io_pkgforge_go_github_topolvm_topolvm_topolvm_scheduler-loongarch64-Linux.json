@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "topolvm-scheduler",
+  "pkg_family": "topolvm",
+  "pkg_id": "topolvm-scheduler#github.com_topolvm_topolvm",
+  "pkg_name": "topolvm-scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/topolvm/topolvm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Capacity-aware CSI plugin for Kubernetes",
+  "homepage": [
+    "https://github.com/topolvm/topolvm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hypertopolvm",
+    "lvmd",
+    "topolvm-controller",
+    "topolvm-node",
+    "topolvm-scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/topolvm/topolvm/archive/632afc8b5b8f0237681aa360d351399998dcecf9.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "kubernetes",
+    "lvm2"
+  ],
+  "version": "HEAD-632afc8-250627T101031",
+  "version_upstream": "",
+  "bsum": "5873eaf70af525b0cf32b6ce381c27202781dfe9d622449d71a0dbd2e616b86a",
+  "build_date": "2025-06-27T14:35:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927739115",
+  "build_id": "15927739115",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-scheduler?tag=HEAD-632afc8-250627T101031-loongarch64-Linux&download=topolvm-scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "910",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-scheduler?tag=HEAD-632afc8-250627T101031-loongarch64-Linux&download=topolvm-scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/topolvm/topolvm/topolvm-scheduler:HEAD-632afc8-250627T101031-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/topolvm/topolvm/topolvm-scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/topolvm/topolvm/topolvm-scheduler?tag=HEAD-632afc8-250627T101031-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f04e47fd9932723249d1321444717516aae8720996e63113e967c2fd3e30aa05",
+  "size": "37 MB",
+  "size_raw": "38578368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cd1179b-250625T110437-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
