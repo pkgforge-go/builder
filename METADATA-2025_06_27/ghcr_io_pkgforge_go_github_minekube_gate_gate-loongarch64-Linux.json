@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gate",
+  "pkg_family": "gate",
+  "pkg_id": "gate#github.com_minekube_gate",
+  "pkg_name": "gate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minekube/gate",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.",
+  "homepage": [
+    "https://github.com/minekube/gate"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/minekube/gate/archive/4cfc98ebd11e8347c878eab43dfe938f619d8356.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "forge",
+    "go",
+    "java",
+    "kubernetes",
+    "lightweight",
+    "minecraft",
+    "minecraft-forge",
+    "minecraft-network",
+    "minecraft-proxy",
+    "minecraft-server",
+    "minecraft-server-proxy",
+    "paper",
+    "proxy",
+    "reverse-proxy",
+    "server-proxy",
+    "spigot"
+  ],
+  "version": "HEAD-4cfc98e-250626T130122",
+  "version_upstream": "v0.50.0",
+  "bsum": "d82e8aa953147510b651cd9e3051aedb46e11d7a116210899d9c59145e45192d",
+  "build_date": "2025-06-27T03:08:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916643677",
+  "build_id": "15916643677",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minekube/gate/gate?tag=HEAD-4cfc98e-250626T130122-loongarch64-Linux&download=gate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "792",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minekube/gate/gate?tag=HEAD-4cfc98e-250626T130122-loongarch64-Linux&download=gate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minekube/gate/gate:HEAD-4cfc98e-250626T130122-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minekube/gate/gate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minekube/gate/gate?tag=HEAD-4cfc98e-250626T130122-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb2527878ca376de1acadb6d023fdf3e84503070506634ec92d8d1f6cb811af7",
+  "size": "24 MB",
+  "size_raw": "24417744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-322916a-250613T161703-loongarch64-Linux[v0.49.2]"
+  ],
+  "trusted": "true"
+}
