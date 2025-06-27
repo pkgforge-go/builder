@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "annotations",
+  "pkg_family": "ingress",
+  "pkg_id": "annotations#github.com_wallarm_ingress",
+  "pkg_name": "annotations",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wallarm/ingress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Ingress controller with integrated Wallarm services",
+  "homepage": [
+    "https://github.com/wallarm/ingress"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "annotations",
+    "dataplane",
+    "dbg",
+    "nginx",
+    "rootfs",
+    "waitshutdown"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wallarm/ingress/archive/0c26eee1faac90bafa04312306c343537a0a7b3f.tar.gz"
+  ],
+  "tag": [
+    "ingress-controller",
+    "ingress-nginx",
+    "k8s",
+    "kubernetes",
+    "nginx",
+    "waf"
+  ],
+  "version": "HEAD-0c26eee-250627T130810",
+  "version_upstream": "",
+  "bsum": "1ef08fb94ead4bc917ba126b20d8ff2e392283fe42ebee16283ec0a2c0585bf1",
+  "build_date": "2025-06-27T21:50:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15934353300",
+  "build_id": "15934353300",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wallarm/ingress/annotations?tag=HEAD-0c26eee-250627T130810-aarch64-Linux&download=annotations.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "41",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wallarm/ingress/annotations?tag=HEAD-0c26eee-250627T130810-aarch64-Linux&download=annotations",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wallarm/ingress/annotations:HEAD-0c26eee-250627T130810-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wallarm/ingress/annotations",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wallarm/ingress/annotations?tag=HEAD-0c26eee-250627T130810-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "435b5ffd2a0342fa3791403b117afeebb0f312c12f1212995518cc0ad5bf2e8c",
+  "size": "33 MB",
+  "size_raw": "34321664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0e94d6c-250623T205816-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
