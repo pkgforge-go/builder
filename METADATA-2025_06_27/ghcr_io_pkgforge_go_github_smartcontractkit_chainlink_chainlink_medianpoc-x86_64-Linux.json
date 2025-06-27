@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "chainlink-medianpoc",
+  "pkg_family": "chainlink",
+  "pkg_id": "chainlink-medianpoc#github.com_smartcontractkit_chainlink",
+  "pkg_name": "chainlink-medianpoc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/smartcontractkit/chainlink",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "homepage": [
+    "https://github.com/smartcontractkit/chainlink"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chainlink-medianpoc",
+    "fetchtrueusd",
+    "gen",
+    "generate",
+    "gomod-local-update",
+    "log-event-trigger",
+    "lstxtardirs",
+    "operator_ui",
+    "plugout",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/smartcontractkit/chainlink/archive/8d18dac268dab248d7faf1e8525880f9f99630a0.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "chainlink",
+    "ethereum",
+    "golang",
+    "oracle",
+    "solidity"
+  ],
+  "version": "HEAD-8d18dac-250626T140907",
+  "version_upstream": "",
+  "bsum": "5f37df1415ce0e6d469d5fbab629f8a557955a90bf84eced25af34a96c2cebd9",
+  "build_date": "2025-06-27T00:43:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913696341",
+  "build_id": "15913696341",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/chainlink-medianpoc?tag=HEAD-8d18dac-250626T140907-x86_64-Linux&download=chainlink-medianpoc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7382",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/chainlink-medianpoc?tag=HEAD-8d18dac-250626T140907-x86_64-Linux&download=chainlink-medianpoc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/chainlink-medianpoc:HEAD-8d18dac-250626T140907-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/smartcontractkit/chainlink/chainlink-medianpoc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/smartcontractkit/chainlink/chainlink-medianpoc?tag=HEAD-8d18dac-250626T140907-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36aefb7d3889a7ac71d970becf96d69763752b8200bfbc02de9dbd62aa93e5fd",
+  "size": "33 MB",
+  "size_raw": "34353024",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d62f55f-250620T210233-x86_64-Linux",
+    "HEAD-ecc35c5-250623T140742-x86_64-Linux",
+    "HEAD-0fd48a9-250624T122506-x86_64-Linux",
+    "HEAD-01619e1-250624T221827-x86_64-Linux",
+    "HEAD-cfba9d0-250625T124745-x86_64-Linux",
+    "HEAD-bb8c18f-250626T004326-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
