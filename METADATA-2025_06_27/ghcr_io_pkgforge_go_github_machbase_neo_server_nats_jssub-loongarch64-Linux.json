@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nats_jssub",
+  "pkg_family": "neo-server",
+  "pkg_id": "nats_jssub#github.com_machbase_neo_server",
+  "pkg_name": "nats_jssub",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/machbase/neo-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "machbase-neo = time series database + mqtt + http + data visualization",
+  "homepage": [
+    "https://github.com/machbase/neo-server"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "main",
+    "nats_jspub",
+    "nats_jssub",
+    "nats_pub",
+    "nats_sub",
+    "test_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/machbase/neo-server/archive/b4246cc156b00b97c589fdf5764a36fe0d740614.tar.gz"
+  ],
+  "tag": [
+    "database",
+    "iot",
+    "mqtt",
+    "time-series",
+    "time-series-database",
+    "timeseries",
+    "tsdb"
+  ],
+  "version": "HEAD-b4246cc-250627T085303",
+  "version_upstream": "",
+  "bsum": "aff4ee19d40f7412924f20b61e2ca86208a143e6869919121ecc587a7f3f4b9e",
+  "build_date": "2025-06-27T08:09:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920306897",
+  "build_id": "15920306897",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/machbase/neo-server/nats_jssub?tag=HEAD-b4246cc-250627T085303-loongarch64-Linux&download=nats_jssub.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "182",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/machbase/neo-server/nats_jssub?tag=HEAD-b4246cc-250627T085303-loongarch64-Linux&download=nats_jssub",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/machbase/neo-server/nats_jssub:HEAD-b4246cc-250627T085303-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/machbase/neo-server/nats_jssub",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/machbase/neo-server/nats_jssub?tag=HEAD-b4246cc-250627T085303-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0436c8b7399991233fab5304d02d0b614cfd3b50c1e29a166deb8034225f0fad",
+  "size": "6.3 MB",
+  "size_raw": "6580512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
