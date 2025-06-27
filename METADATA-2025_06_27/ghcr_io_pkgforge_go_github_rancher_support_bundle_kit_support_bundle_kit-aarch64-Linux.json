@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "support-bundle-kit",
+  "pkg_family": "support-bundle-kit",
+  "pkg_id": "support-bundle-kit#github.com_rancher_support_bundle_kit",
+  "pkg_name": "support-bundle-kit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rancher/support-bundle-kit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit to generate and analyze the support bundles for Kubernetes and Kubernetes-native applications",
+  "homepage": [
+    "https://github.com/rancher/support-bundle-kit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cleanup",
+    "codegen",
+    "support-bundle-kit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rancher/support-bundle-kit/archive/d97435447e5517de7c9bbd2d30548ac82040ff7e.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "k8s",
+    "kubernetes"
+  ],
+  "version": "HEAD-d974354-250627T073827",
+  "version_upstream": "",
+  "bsum": "489ca661e6c2e6a4711988ebdcef18906a0aec4906b46efdeae0ce97b8b22a5a",
+  "build_date": "2025-06-27T08:27:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921087559",
+  "build_id": "15921087559",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/support-bundle-kit/support-bundle-kit?tag=HEAD-d974354-250627T073827-aarch64-Linux&download=support-bundle-kit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/support-bundle-kit/support-bundle-kit?tag=HEAD-d974354-250627T073827-aarch64-Linux&download=support-bundle-kit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher/support-bundle-kit/support-bundle-kit:HEAD-d974354-250627T073827-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher/support-bundle-kit/support-bundle-kit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher/support-bundle-kit/support-bundle-kit?tag=HEAD-d974354-250627T073827-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7e47b6d923960bddbf1469f4ad0b25f81815cf92eaae92ff4f45406c45930b0",
+  "size": "104 MB",
+  "size_raw": "108763232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
