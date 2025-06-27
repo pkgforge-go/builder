@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "controller-manager",
+  "pkg_family": "whizard",
+  "pkg_id": "controller-manager#github.com_WizTelemetry_whizard",
+  "pkg_name": "controller-manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/WizTelemetry/whizard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/WizTelemetry/whizard"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller-manager",
+    "monitoring-agent-proxy",
+    "monitoring-block-manager",
+    "monitoring-gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/WizTelemetry/whizard/archive/80b3028444eb68706e0c14b0c06d23b1edded899.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-80b3028-250627T092958",
+  "version_upstream": "",
+  "bsum": "91d32f6f1294f1c1c4979c6904726349650c29f7a8ffa9816854b92025a6bb67",
+  "build_date": "2025-06-27T07:17:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920171648",
+  "build_id": "15920171648",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wiztelemetry/whizard/controller-manager?tag=HEAD-80b3028-250627T092958-loongarch64-Linux&download=controller-manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wiztelemetry/whizard/controller-manager?tag=HEAD-80b3028-250627T092958-loongarch64-Linux&download=controller-manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wiztelemetry/whizard/controller-manager:HEAD-80b3028-250627T092958-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wiztelemetry/whizard/controller-manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wiztelemetry/whizard/controller-manager?tag=HEAD-80b3028-250627T092958-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37a6ba41981c07efeb39958b60fa1d82b9c599920b04810e185c7257c344fba1",
+  "size": "70 MB",
+  "size_raw": "73329984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
