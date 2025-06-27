@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gce-pd-csi-driver",
+  "pkg_family": "gcp-compute-persistent-disk-csi-driver",
+  "pkg_id": "gce-pd-csi-driver#github.com_kubernetes_sigs_gcp_compute_persistent_disk_csi_driver",
+  "pkg_name": "gce-pd-csi-driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Google Compute Engine Persistent Disk _GCE PD_ Container Storage Interface _CSI_ Storage Plugin.",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gce-pd-csi-driver",
+    "k8s-integration",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/archive/28f5cc86a79140d5d1e9cc3841869302b5758e67.tar.gz"
+  ],
+  "tag": [
+    "gcp",
+    "k8s-sig-gcp"
+  ],
+  "version": "HEAD-28f5cc8-250626T105029",
+  "version_upstream": "",
+  "bsum": "1e3c5400f2c66953a7dcd9edfcad62fc6724edc59613b7ae394ecc5cfca6936c",
+  "build_date": "2025-06-27T07:52:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920263175",
+  "build_id": "15920263175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/gce-pd-csi-driver?tag=HEAD-28f5cc8-250626T105029-x86_64-Linux&download=gce-pd-csi-driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "173",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/gce-pd-csi-driver?tag=HEAD-28f5cc8-250626T105029-x86_64-Linux&download=gce-pd-csi-driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/gce-pd-csi-driver:HEAD-28f5cc8-250626T105029-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/gce-pd-csi-driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/gce-pd-csi-driver?tag=HEAD-28f5cc8-250626T105029-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88e0d82cd1169bf3319a0a89acb648be39aee119c2c0249dab684430527a781e",
+  "size": "77 MB",
+  "size_raw": "80591200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
