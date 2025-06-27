@@ -58,6 +58,8 @@
 005_interfaces#github.com_jairogloz_senior_go_projects
 005_worker_pool_3#github.com_jairogloz_senior_go_projects
 006_gin#github.com_jairogloz_senior_go_projects
+00_build_adsys_deb#github.com_ubuntu_adsys
+00_check_vm_image#github.com_ubuntu_adsys
 01#github.com_chai2010_go_ast_book
 01#github.com_sswietoniowski_learning_go.git
 01-3d-shapes#github.com_ljanyst_ghostscad
@@ -72,7 +74,9 @@
 015-maps#github.com_soypat_gopherlings
 01_hello#github.com_TheZehel_gostart
 01_min#github.com_awalterschulze_goderive
+01_prepare_base_vm#github.com_ubuntu_adsys
 01_print_event#github.com_sarchlab_akita
+01_provision_client#github.com_ubuntu_adsys
 01_repay_amount#github.com_Gearbox_protocol_third_eye
 02#github.com_chai2010_go_ast_book
 02#github.com_sswietoniowski_learning_go.git
@@ -90,8 +94,10 @@
 029-pointermethod#github.com_soypat_gopherlings
 02_argumentos#github.com_TheZehel_gostart
 02_cell_split#github.com_sarchlab_akita
+02_create_vm_template#github.com_ubuntu_adsys
 02_graph_entry_close_price#github.com_Gearbox_protocol_third_eye
 02_min#github.com_awalterschulze_goderive
+02_provision_ad#github.com_ubuntu_adsys
 03#github.com_chai2010_go_ast_book
 03#github.com_sswietoniowski_learning_go.git
 03-booleans#github.com_ljanyst_ghostscad
@@ -101,6 +107,7 @@
 032-interfaceimage#github.com_soypat_gopherlings
 03_duplicatas#github.com_TheZehel_gostart
 03_gatewaypoolledgerfix#github.com_Gearbox_protocol_third_eye
+03_pam_coverage_support#github.com_ubuntu_adsys
 03_sort#github.com_awalterschulze_goderive
 03_usbcdc-serial#github.com_tinygo_keeb_workshop
 04#github.com_chai2010_go_ast_book
@@ -158,11 +165,14 @@
 107#github.com_tidwall_tile38
 10_balance_v3_ignore_enabled#github.com_Gearbox_protocol_third_eye
 10_dup#github.com_awalterschulze_goderive
+10_test_non_pro_managers#github.com_ubuntu_adsys
 11-color-mods#github.com_Zyko0_go_sdl3
 11-context-with-timeout#github.com_OtusGolang_webinars_practical_part
 11_dao_gho_fix#github.com_Gearbox_protocol_third_eye
+11_test_pro_managers#github.com_ubuntu_adsys
 12-context-with-deadline#github.com_OtusGolang_webinars_practical_part
 12_lm_rewards_dao_gho#github.com_Gearbox_protocol_third_eye
+12_test_pam_krb5cc#github.com_ubuntu_adsys
 13_v3_debt_limits#github.com_Gearbox_protocol_third_eye
 14-viewport#github.com_Zyko0_go_sdl3
 14_pprof_svg_and_web#github.com_OtusGolang_webinars_practical_part
@@ -238,7 +248,10 @@
 8-any#github.com_teivah_100_go_mistakes
 88250#github.com_88250_88250
 9-generics#github.com_teivah_100_go_mistakes
+98_collect_pam_coverage#github.com_ubuntu_adsys
 99-cleanup#github.com_ory_keto
+99_deprovision#github.com_ubuntu_adsys
+99_destroy_previous_versions#github.com_ubuntu_adsys
 9pr#github.com_docker_archive_go_p9p
 9ps#github.com_docker_archive_go_p9p
 a#github.com_as_a
@@ -261,6 +274,7 @@ abidump#github.com_autonity_autonity
 abidump#github.com_bnb_chain_bsc
 abidump#github.com_ethereum_go_ethereum
 abidump#github.com_ethereum_optimism_op_geth
+abidump#github.com_xt_smartchain_xsc_chain
 abigen#github.com_ava_labs_coreth
 abigen#github.com_ava_labs_subnet_evm
 abigen#github.com_bnb_chain_bsc
@@ -418,6 +432,7 @@ admission-webhook#github.com_pingcap_tidb_operator
 admission-webhook#github.com_prometheus_operator_prometheus_operator
 admissioncontroller#github.com_apache_yunikorn_k8shim
 admitik#github.com_freepik_company_admitik
+admxgen#github.com_ubuntu_adsys
 adoptium#github.com_paketo_buildpacks_adoptium
 adsr#github.com_DylanMeeus_GoAudio
 advanced#github.com_Ingenimax_agent_sdk_go
@@ -427,6 +442,7 @@ advanced#github.com_unidoc_unipdf_examples
 advanced-transform#github.com_peterbourgon_diskv
 advanced_query_options#github.com_hazelcast_hazelcast_go_client
 adventure#github.com_oakmound_oak
+adwatchd#github.com_ubuntu_adsys
 aead#github.com_Azure_ARO_RP
 aerial#github.com_Xe_x
 aerospace-marks#github.com_cristianoliveira_aerospace_marks
@@ -457,6 +473,7 @@ agent#github.com_neuvector_neuvector
 agent#github.com_nicocha30_ligolo_ng
 agent#github.com_percona_pmm
 agent#github.com_ph4ntonn_Stowaway
+agent#github.com_pulumi_pulumi_kubernetes_operator
 agent#github.com_quarkslab_proxyblob
 agent#github.com_secretflow_scql
 agent#github.com_tinkerbell_tinkerbell
@@ -526,6 +543,7 @@ ale#github.com_kode4food_ale
 alert#github.com_ccfos_nightingale
 alertcli#github.com_romashqua_alertcli
 alerter#github.com_Azure_adx_mon
+alerting-monitor#github.com_open_edge_platform_o11y_alerting_monitor
 alertmanager#github.com_kyverno_policy_reporter
 alertmanager-webhook#github.com_nholuongut_prometheus_operator
 alertmanager-webhook#github.com_prometheus_operator_prometheus_operator
@@ -747,6 +765,7 @@ apigateway#github.com_criyle_go_judge_demo
 apigeecli#github.com_apigee_apigeecli
 apigeecli-docs#github.com_apigee_apigeecli
 apigw#github.com_dc4eu_vc
+apimachinery#github.com_kubedb_apimachinery
 apinto#github.com_eolinker_apinto
 apiregistry#github.com_grokify_spectrum
 apiserver#github.com_AfterShip_email_verifier
@@ -853,6 +872,7 @@ apprentice#github.com_itchio_wizardry
 approle#github.com_openbao_openbao
 approve-list-svc#github.com_ecadlabs_signatory
 approveguard#github.com_wwwlde_approveguard
+approvelist#github.com_quickfeed_quickfeed
 approver#github.com_cert_manager_csi_driver_spiffe
 approver-policy#github.com_cert_manager_approver_policy
 apps-proxy#github.com_keboola_keboola_as_code
@@ -1081,6 +1101,7 @@ autokitteh#github.com_autokitteh_autokitteh
 automation#github.com_jurgen_kluft_go_home
 autoprofile#github.com_instana_go_sensor
 autoscale#github.com_brexhq_substation
+autoscaler#github.com_knative_extensions_serving_progressive_rollout
 autoscaler#github.com_nuclio_nuclio
 autoscaler#github.com_nuclio_nuclio.git
 autoscaler#github.com_v3io_scaler
@@ -1134,6 +1155,7 @@ aws-vpc-cni#github.com_aws_amazon_vpc_cni_k8s
 aws-vpc-cni-init#github.com_aws_amazon_vpc_cni_k8s
 aws-vpce-operator#github.com_openshift_aws_vpce_operator
 aws-xray-daemon#github.com_aws_aws_xray_daemon
+awsbreeze#github.com_grammeaway_awsbreeze
 awscli#github.com_yunionio_cloudmux
 awscollector#github.com_aws_observability_aws_otel_collector
 awsctl#github.com_omerh_awsctl
@@ -1618,6 +1640,7 @@ bsdiff#github.com_gabstv_go_bsdiff
 bsontags#github.com_genshinsim_gcsim
 bspatch#github.com_TotallyGamerJet_bsdiff
 bspatch#github.com_gabstv_go_bsdiff
+bspay-go-sdk#github.com_huifurepo_bspay_go_sdk
 bssd#github.com_hemilabs_heminetwork
 bt#github.com_LeperGnome_bt
 btail#github.com_galalen_btail
@@ -1753,6 +1776,7 @@ button#github.com_rivo_tview
 buttondemo#github.com_mum4k_termdash
 buttons#github.com_diamondburned_arikawa
 buttons#github.com_sago35_tinydisplay
+byd-hass#github.com_jkaberg_byd_hass
 byoidentity#github.com_storacha_guppy
 byp4xx#github.com_lobuhi_byp4xx
 bypass-403-go#github.com_elvisgraho_bypass_403_go
@@ -1860,6 +1884,7 @@ catalog#github.com_docker_mcp_registry
 catalog#github.com_nikogura_dbt
 catalog#github.com_operator_framework_operator_lifecycle_manager
 catalog-extract#github.com_openshift_oc_mirror
+catalog-importer#github.com_incident_io_catalog_importer
 catcher#github.com_wudijun_Catcher
 categorized#github.com_grokify_gocharts
 category_create_update_delete#github.com_grokify_go_ringcentral_client
@@ -1908,6 +1933,7 @@ cedana#github.com_cedana_cedana
 cel#github.com_epam_hubctl
 cel#github.com_shortlink_org_shortlink
 cel-key#github.com_celestiaorg_celestia_node
+cel-policy#github.com_kubewarden_cel_policy
 cel-shed#github.com_celestiaorg_celestia_node
 celestia#github.com_celestiaorg_celestia_node
 celestia-appd#github.com_celestiaorg_celestia_app
@@ -2250,6 +2276,8 @@ cl-fetch#github.com_aclements_go_misc
 cl-go-dataplane#github.com_clusterlink_net_clusterlink
 cl-operator#github.com_clusterlink_net_clusterlink
 cla-assistant#github.com_gardener_ci_infra
+clabernetes#github.com_srl_labs_clabernetes
+clabverter#github.com_srl_labs_clabernetes
 clace#github.com_claceio_clace
 clai#github.com_baalimago_clai
 claim#github.com_0xPolygonHermez_zkevm_bridge_service
@@ -2257,6 +2285,7 @@ clair#github.com_quay_clair
 clair#github.com_stackrox_scanner
 clairctl#github.com_quay_clair
 clang-tidy-cache#github.com_ejfitzgerald_clang_tidy_cache
+classificator#github.com_jvns_classificator
 claude-code-ntfy#github.com_Veraticus_claude_code_ntfy
 claude-gate#github.com_ml0_1337_claude_gate
 claude-squad#github.com_smtg_ai_claude_squad
@@ -2343,6 +2372,7 @@ cli#github.com_pgrok_pgrok
 cli#github.com_quii_learn_go_with_tests
 cli#github.com_rancher_k3k
 cli#github.com_rancher_k3k.git
+cli#github.com_silogen_kaiwo
 cli#github.com_thomaspoignant_go_feature_flag
 cli#github.com_tnb_labs_panel
 cli#github.com_volcano_sh_volcano
@@ -2443,6 +2473,7 @@ client#github.com_tgragnato_snowflake
 client#github.com_transparency_dev_serverless_log
 client#github.com_treenq_treenq
 client#github.com_treenq_treenq.git
+client#github.com_trpc_group_trpc_mcp_go
 client#github.com_vadiminshakov_committer
 client#github.com_valyala_fasthttp
 client#github.com_viamrobotics_rdk
@@ -2507,6 +2538,7 @@ cloudbrute#github.com_0xsha_CloudBrute
 cloudcash#github.com_mrusme_cloudcash
 cloudcore#github.com_kubeedge_kubeedge
 cloudflare#github.com_csyezheng_ip_scanner
+cloudflare-ddns#github.com_larivierec_cloudflare_ddns
 cloudflare-dynamic-dns#github.com_Zebradil_cloudflare_dynamic_dns
 cloudflare-ip-speedtest#github.com_badafans_Cloudflare_IP_SpeedTest
 cloudflare-tunnel-ingress-controller#github.com_STRRL_cloudflare_tunnel_ingress_controller
@@ -2591,6 +2623,7 @@ clusternet-controller-manager#github.com_clusternet_clusternet
 clusternet-scheduler#github.com_clusternet_clusternet
 clustersecretbackup#github.com_kubernetes_test_infra
 clustersynchro-manager#github.com_clusterpedia_io_clusterpedia
+cm#github.com_quickfeed_quickfeed
 cmake#github.com_monetr_monetr
 cmap-ranges#github.com_seehuhn_go_pdf
 cmap-wrap#github.com_seehuhn_go_pdf
@@ -2663,6 +2696,7 @@ cmd#github.com_pomerium_ingress_controller
 cmd#github.com_pomerium_pomerium
 cmd#github.com_projectcalico_vpp_dataplane
 cmd#github.com_projectdiscovery_utils
+cmd#github.com_pulumi_pulumi_kubernetes_operator
 cmd#github.com_quic_go_quic_go
 cmd#github.com_ray_project_kuberay
 cmd#github.com_refraction_networking_uquic
@@ -2715,9 +2749,11 @@ cni#github.com_kubeovn_kube_ovn
 cni-bridge-fp#github.com_containerd_containerd
 cni-metrics-helper#github.com_aws_amazon_vpc_cni_k8s
 cni-plugin#github.com_linkerd_linkerd2_proxy_init
+cni-plugin#github.com_woehrl01_pod_pacemaker
 cnivpc#github.com_ucloud_uk8s_cni_vpc
 cnivpc-ipamd#github.com_ucloud_uk8s_cni_vpc
 cnivpctl#github.com_ucloud_uk8s_cni_vpc
+cnpg-plugin-wal-g#github.com_wal_g_cnpg_plugin_wal_g
 cnquery#github.com_mondoohq_cnquery
 cnquery#github.com_mondoohq_cnquery.git
 cnspec#github.com_mondoohq_cnspec
@@ -3053,6 +3089,7 @@ contributors-img#github.com_lacolaco_contributors_img
 control#github.com_go_ap_fedbox
 control#github.com_scionproto_scion
 control-plane-operator#github.com_openshift_hypershift
+control-plane-operator#github.com_openshift_ibm_roks_toolkit
 control-plane-pki-operator#github.com_openshift_hypershift
 controller#github.com_Azure_karpenter_provider_azure
 controller#github.com_SAP_cap_operator
@@ -3071,6 +3108,7 @@ controller#github.com_knative_eventing
 controller#github.com_knative_extensions_eventing_autoscaler_keda.git
 controller#github.com_knative_extensions_eventing_github.git
 controller#github.com_knative_extensions_net_gateway_api
+controller#github.com_knative_extensions_serving_progressive_rollout
 controller#github.com_konflux_ci_multi_platform_controller
 controller#github.com_kro_run_kro
 controller#github.com_kubeflow_model_registry.git
@@ -3297,6 +3335,7 @@ crust#github.com_CoreumFoundation_crust
 crwriter#github.com_kubevirt_hyperconverged_cluster_operator
 cryptfs#github.com_moov_io_cryptfs
 cryptgo#github.com_Gituser143_cryptgo
+cryptik#github.com_petqoo_cryptik
 crypto#github.com_golang_crypto
 crypto#github.com_hidevopsio_hiboot
 crypto#github.com_pedrogao_plib
@@ -3331,6 +3370,7 @@ csv-generator#github.com_kubevirt_containerized_data_importer
 csv-merger#github.com_kubevirt_hyperconverged_cluster_operator
 csv-merger#github.com_red_hat_storage_ocs_operator
 csv_receiver#github.com_destrex271_pgwatch3_rpc_server
+csvi#github.com_hymkor_csvi
 csvinflater#github.com_piraeusdatastore_piraeus_operator
 csvtk#github.com_shenwei356_csvtk
 csvutil#github.com_StabbyCutyou_moldova
@@ -3556,6 +3596,7 @@ debug#github.com_autonity_autonity
 debug#github.com_cloudwego_eino_examples
 debug#github.com_gnolang_gno
 debug#github.com_itsManjeet_rlxos
+debug#github.com_xt_smartchain_xsc_chain
 debug-deadlock#github.com_go_rod_rod
 debug-state#github.com_projectcalico_vpp_dataplane
 debugagent#github.com_spiffe_spire
@@ -3694,6 +3735,7 @@ dev#github.com_mindersec_minder
 dev#github.com_mongodb_mongodb_kubernetes
 dev#github.com_perkeep_perkeep
 dev#github.com_picosh_git_pr
+dev#github.com_silogen_kaiwo
 dev-2544#github.com_authgear_authgear_server
 dev-mounter#github.com_argoproj_argo_cd
 dev_incus-client#github.com_lxc_incus
@@ -3720,6 +3762,7 @@ devp2p#github.com_autonity_autonity
 devp2p#github.com_bnb_chain_bsc
 devp2p#github.com_ethereum_go_ethereum
 devp2p#github.com_ethereum_optimism_op_geth
+devp2p#github.com_xt_smartchain_xsc_chain
 devpod#github.com_loft_sh_devpod
 devtest#github.com_jclark_satpulse
 devtool#github.com_rudderlabs_rudder_server
@@ -4130,6 +4173,7 @@ dyff#github.com_homeport_dyff
 dymension#github.com_dymensionxyz_dymension
 dymint#github.com_dymensionxyz_dymint
 dynamic#github.com_cadence_workflow_cadence_samples
+dynamic#github.com_pulumi_pulumi_terraform_bridge
 dynamic#github.com_zitadel_oidc
 dynamic-1#github.com_go_swagger_go_swagger
 dynamic-file-searcher#github.com_dsecuredcom_dynamic_file_searcher
@@ -4258,6 +4302,7 @@ egnaddrs#github.com_Layr_Labs_eigensdk_go
 egnkey#github.com_Layr_Labs_eigensdk_go
 ego#github.com_benbjohnson_ego
 egress-cni-plugin#github.com_aws_amazon_vpc_cni_k8s
+egress-operator#github.com_monzo_egress_operator
 ehole_magic#github.com_lemonlove7_EHole_magic
 eigenlayer-avs#github.com_AvaProtocol_EigenLayer_AVS
 eigentrust#github.com_Karma3Labs_go_eigentrust
@@ -4291,6 +4336,7 @@ elligator-test#github.com_refraction_networking_gotapdance
 elvish#github.com_elves_elvish
 elvmdfmt#github.com_elves_elvish
 elys#github.com_elys_network_elys
+emacs-builds#github.com_jimeh_emacs_builds
 email#github.com_mbvlabs_grafto
 email#github.com_xyproto_permissions
 email-linter#github.com_wheelercj_email_linter
@@ -4306,6 +4352,7 @@ embedded-pg#github.com_coder_coder
 embedder#github.com_maja42_ember
 embedgen#github.com_drpaneas_pigo8
 embedstyles#github.com_outernetcouncil_nmts
+emcee#github.com_loopwork_emcee
 emergent#github.com_emer_emergent
 emf-generator#github.com_aws_amazon_cloudwatch_agent_test
 emissary#github.com_EmissarySocial_emissary
@@ -4412,6 +4459,7 @@ es-rollover#github.com_jaegertracing_jaeger
 es-utils#github.com_ethstorage_es_node
 esbuild#github.com_evanw_esbuild
 esbuild#github.com_mariusor_oni
+esbuild#github.com_quickfeed_quickfeed
 eskip#github.com_zalando_skipper
 eslint-wrapper#github.com_smithy_security_smithy
 esmapping-generator#github.com_jaegertracing_jaeger
@@ -4567,6 +4615,7 @@ examples#github.com_joshuar_go_hass_agent
 examples#github.com_metal_stack_backup_restore_sidecar
 examples#github.com_rs_zerolog
 examples#github.com_sgl_project_ome
+examples#github.com_xt_smartchain_xsc_chain
 exampleupdate#github.com_brianvoe_gofakeit
 excalidraw-converter#github.com_sindrel_excalidraw_converter
 excel-mcp-server#github.com_negokaz_excel_mcp_server
@@ -4575,6 +4624,7 @@ exchange-rates#github.com_pieterclaerhout_go_finance
 exchange_template#github.com_thrasher_corp_gocryptotrader
 exchange_wrapper_coverage#github.com_thrasher_corp_gocryptotrader
 exchange_wrapper_issues#github.com_thrasher_corp_gocryptotrader
+exconverter#github.com_pulumi_pulumi_terraform_bridge
 exe_exits#github.com_cloudfoundry_bosh_utils
 exec#github.com_dreamjz_bubbletea_notes
 exec#github.com_getporter_porter
@@ -5294,6 +5344,7 @@ gen#github.com_richardwilkes_gcs
 gen#github.com_richardwilkes_unison
 gen#github.com_rwtodd_Go.Cgaify
 gen#github.com_sealdice_sealdice_core
+gen#github.com_sethvargo_ratchet
 gen#github.com_smartcontractkit_chainlink
 gen#github.com_smartcontractkit_chainlink_common
 gen#github.com_zitadel_oidc
@@ -5419,6 +5470,7 @@ generate#github.com_google_oss_rebuild
 generate#github.com_gptscript_ai_gptscript
 generate#github.com_grafana_terraform_provider_grafana
 generate#github.com_grow_graphics_gd
+generate#github.com_haproxytech_client_native
 generate#github.com_hashicorp_terraform_provider_vault
 generate#github.com_josephcopenhaver_loadtester_go
 generate#github.com_konveyor_analyzer_lsp
@@ -6404,6 +6456,7 @@ gopad-api#github.com_gopad_gopad_api
 gopass#github.com_gopasspw_gopass
 gopaste#github.com_go_vgo_robotgo
 gopatch#github.com_uber_go_gopatch
+gopay#github.com_malwarebo_gopay
 gopeed#github.com_GopeedLab_gopeed
 gopher#github.com_EliCDavis_polyform
 gopher-lua#github.com_yuin_gopher_lua
@@ -6560,6 +6613,7 @@ gozer#github.com_dannyvankooten_gozer
 gozig#github.com_cedrickchee_experiments
 gp#github.com_wal_g_wal_g
 gpgkey#github.com_elastic_elastic_package
+gpt-load#github.com_tbphp_gpt_load
 gptcomet#github.com_belingud_gptcomet
 gptscript#github.com_gptscript_ai_gptscript
 gpu#github.com_cedrickchee_experiments
@@ -6883,6 +6937,7 @@ helmfile-nix#github.com_reMarkable_helmfile_nix
 helmify#github.com_Azure_azure_workload_identity
 helmify#github.com_open_policy_agent_gatekeeper
 helmpush#github.com_ovh_cds
+helmtest#github.com_stackrox_helmtest
 help#github.com_dreamjz_bubbletea_notes
 help#github.com_ko_build_ko
 help#github.com_sigstore_cosign
@@ -6947,6 +7002,7 @@ hnjobs#github.com_mwinters0_hnjobs
 hodor#github.com_avahidi_interpol
 homarr-iframes#github.com_diogovalentte_homarr_iframes
 homi#github.com_kaiachain_kaia
+homing-pigeon-pkg#github.com_softonic_homing_pigeon
 honeydet#github.com_referefref_honeydet
 hoofli#github.com_dnnrly_hoofli
 hook#github.com_buildkite_agent
@@ -7258,6 +7314,7 @@ informabot#github.com_cartabinaria_informabot
 informer#github.com_nakamasato_kubernetes_training
 informer-gen#github.com_kubernetes_code_generator.git
 infra-main#github.com_vmware_load_balancer_and_ingress_services_for_kubernetes
+infraspec-cmd#github.com_robmorgan_infraspec
 infrastructure#github.com_gardener_gardener_extension_provider_alicloud
 infrastructure-bundle#github.com_newrelic_infrastructure_bundle
 ingest#github.com_adrianliechti_wingman
@@ -7280,6 +7337,7 @@ init#github.com_instill_ai_pipeline_backend
 init#github.com_itsManjeet_rlxos
 init#github.com_koderover_zadig.git
 init#github.com_siderolabs_talos
+init#github.com_woehrl01_pod_pacemaker
 init-container#github.com_virtual_kubelet_azure_aci
 init-corpus#github.com_gnolang_gno
 init-corpus#github.com_tendermint_tendermint
@@ -7313,6 +7371,7 @@ inscope#github.com_tomnomnom_hacks
 insert#github.com_ClickHouse_ch_go
 insert#github.com_apache_incubator_seata_go_samples
 insertable-streams#github.com_pion_webrtc
+insight#github.com_thirdweb_dev_insight
 insights-results-aggregator#github.com_RedHatInsights_insights_results_aggregator
 inspect#github.com_DylanMeeus_GoAudio
 insta-infra#github.com_data_catering_insta_infra
@@ -7506,6 +7565,7 @@ jaydiff#github.com_yazgazan_jaydiff
 jazigo#github.com_udhos_jazigo
 jd#github.com_josephburnett_jd
 jdcloudcli#github.com_yunionio_cloudmux
+jedis#github.com_tommll_jedis
 jeeves#github.com_ferreiraklet_Jeeves
 jeff#github.com_abraithwaite_jeff
 jenkins-autoscaler#github.com_bringg_jenkins_autoscaler
@@ -7803,6 +7863,7 @@ kkcardmodcheck#github.com_GenesisAN_KKCardModCheck
 kkr#github.com_dchest_kkr
 kleister-api#github.com_kleister_kleister_api.git
 klog#github.com_jotaen_klog
+km-agent#github.com_kloudmate_km_agent
 kmfddm#github.com_jessepeterson_kmfddm
 kms#github.com_tonymet_gcloud_go
 kn-plugin-quickstart#github.com_knative_extensions_kn_plugin_quickstart
@@ -7888,6 +7949,7 @@ kube-tf-reconciler#github.com_LEGO_kube_tf_reconciler
 kube-vip#github.com_kube_vip_kube_vip
 kubeadm#github.com_kubernetes_kubeadm
 kubebuilder#github.com_kubernetes_sigs_kubebuilder
+kubebuilder_marker_generator#github.com_haproxytech_client_native
 kubecarga#github.com_Tech_Preta_kubecarga
 kubeclient#github.com_openbao_openbao
 kubecm#github.com_sunny0826_kubecm
@@ -8400,6 +8462,7 @@ logs#github.com_buildpacks_community_kpack.git
 logs-exporter#github.com_knative_extensions_eventing_kafka_broker
 logscale-dummy#github.com_humio_humio_operator
 logseq-doctor#github.com_andreoliwa_logseq_doctor
+logshim#github.com_ten_nancy_portoshim
 logssubscribe#github.com_gagliardetto_solana_go
 logstash#github.com_liuzhaomax_learn_go
 logtimer#github.com_Eun_logtimer
@@ -8487,6 +8550,63 @@ machinepoollet#github.com_ironcore_dev_ironcore
 machineset#github.com_openshift_machine_api_operator
 machoview#github.com_fcharlie_buna
 mackerel-agent#github.com_mackerelio_mackerel_agent
+mackerel-agent-plugins#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-accesslog#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-apache2#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-cloudfront#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-dynamodb#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-ec2-cpucredit#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-ec2-ebs#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-elasticache#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-elasticsearch#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-elb#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-kinesis-streams#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-lambda#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-rds#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-s3-requests#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-aws-ses#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-conntrack#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-docker#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-elasticsearch#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-fluentd#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-gostats#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-h2o#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-haproxy#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-inode#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-jmx-jolokia#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-jvm#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-linux#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-mailq#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-mcrouter#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-memcached#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-mssql#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-multicore#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-munin#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-nginx#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-openldap#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-php-apc#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-php-fpm#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-php-opcache#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-plack#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-postgres#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-proc-fd#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-rabbitmq#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-rack-stats#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-redash#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-redis#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-sidekiq#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-snmp#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-solr#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-squid#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-td-table-count#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-trafficserver#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-twemproxy#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-unicorn#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-uptime#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-uwsgi-vassal#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-varnish#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-windows-process-stats#github.com_mackerelio_mackerel_agent_plugins
+mackerel-plugin-windows-server-sessions#github.com_mackerelio_mackerel_agent_plugins
 maclient#github.com_cloudflare_cfssl
 mad#github.com_txthinking_mad
 maddy#github.com_foxcpp_maddy
@@ -8574,6 +8694,7 @@ managed-cluster-validating-webhooks-cmd#github.com_openshift_managed_cluster_val
 managed-upgrade-operator#github.com_openshift_managed_upgrade_operator
 managed-velero-operator#github.com_openshift_managed_velero_operator
 management#github.com_netbirdio_netbird
+management#github.com_open_edge_platform_o11y_alerting_monitor
 manager#github.com_GoogleCloudPlatform_cloud_image_tests
 manager#github.com_Mellanox_nic_configuration_operator
 manager#github.com_SlinkyProject_slurm_operator
@@ -8829,6 +8950,7 @@ metrics-example#github.com_rcrowley_go_metrics
 metrics-exporter#github.com_cri_o_cri_o
 metrics-operator#github.com_openmcp_project_metrics_operator
 metrics-plugin-sample#github.com_argoproj_argo_rollouts
+metrics-pusher#github.com_openshift_ibm_roks_toolkit
 metrics-server#github.com_kubernetes_sigs_metrics_server
 metrics_exporter#github.com_Altinity_clickhouse_operator
 metrics_gen#github.com_aws_karpenter_provider_aws
@@ -9121,6 +9243,7 @@ mongo-tools#github.com_mongodb_mongo_tools
 mongodb#github.com_smithy_security_smithy
 mongodb#github.com_stashed_mongodb
 mongodb-atlas-kubernetes-cmd#github.com_mongodb_mongodb_atlas_kubernetes
+mongodb-datasource#github.com_haohanyang_mongodb_datasource
 mongodb-healthcheck#github.com_percona_percona_server_mongodb_operator
 mongodb-kubernetes#github.com_mongodb_mongodb_kubernetes
 mongodb-reader#github.com_MainfluxLabs_mainflux
@@ -9296,6 +9419,8 @@ n64go#github.com_clktmr_n64
 nacl-generate-box-key#github.com_kevinburke_nacl
 nacl-generate-key#github.com_kevinburke_nacl
 naclpipe#github.com_unix4fun_naclpipe
+naiserator#github.com_nais_naiserator
+naiserator_webhook#github.com_nais_naiserator
 naive#github.com_showwin_speedtest_go
 nak#github.com_fiatjaf_nak
 nakama#github.com_heroiclabs_nakama
@@ -9498,6 +9623,7 @@ node#github.com_hyperledger_labs_fabric_smart_client
 node#github.com_osmosis_labs_osmosis
 node#github.com_tendermint_tendermint
 node-attestation#github.com_spiffe_spire
+node-daemon#github.com_woehrl01_pod_pacemaker
 node-dialect-absent#github.com_bluenviron_gomavlib
 node-dialect-custom#github.com_bluenviron_gomavlib
 node-disk-manager#github.com_harvester_node_disk_manager
@@ -9511,12 +9637,14 @@ node-endpoint-udp-broadcast#github.com_bluenviron_gomavlib
 node-endpoint-udp-client#github.com_bluenviron_gomavlib
 node-endpoint-udp-server#github.com_bluenviron_gomavlib
 node-events#github.com_bluenviron_gomavlib
+node-healthcheck-operator#github.com_medik8s_node_healthcheck_operator
 node-installer#github.com_spinframework_runtime_class_manager
 node-joiner#github.com_openshift_installer
 node-message-read#github.com_bluenviron_gomavlib
 node-message-write#github.com_bluenviron_gomavlib
 node-operator#github.com_giantswarm_node_operator
 node-patch#github.com_yunify_hostnic_cni
+node-process-exporter#github.com_w8t_io_node_process_exporter
 node-router#github.com_bluenviron_gomavlib
 node-router-edit#github.com_bluenviron_gomavlib
 node-serial-to-json#github.com_bluenviron_gomavlib
@@ -9811,10 +9939,12 @@ openshift-tests#github.com_openshift_origin
 openslides-autoupdate-service#github.com_OpenSlides_openslides_autoupdate_service
 openstack-cinder-csi-driver-operator#github.com_openshift_csi_operator
 openstack-cloud-controller-manager#github.com_kubernetes_cloud_provider_openstack
+openstack-exporter#github.com_openstack_exporter_openstack_exporter
 openstack-manila-csi-driver-operator#github.com_openshift_csi_operator
 openstack-populator#github.com_kubev2v_forklift
 openstack-populator#github.com_kubevirt_containerized_data_importer
 openstackcli#github.com_yunionio_cloudmux
+opentelemetry-collector-releases#github.com_open_telemetry_opentelemetry_collector_releases
 opentelemetry-go-auto-instrumentation#github.com_alibaba_opentelemetry_go_auto_instrumentation
 opentelemetry-operations-collector#github.com_GoogleCloudPlatform_opentelemetry_operations_collector
 opentelemetry-operator#github.com_open_telemetry_opentelemetry_operator
@@ -9848,6 +9978,7 @@ operator#github.com_kedacore_keda.git
 operator#github.com_kubesphere_notification_manager
 operator#github.com_microsoft_retina
 operator#github.com_prometheus_operator_prometheus_operator
+operator#github.com_silogen_kaiwo
 operator#github.com_tektoncd_operator
 operator-cmd#github.com_VictoriaMetrics_operator
 operator-manifest-tools#github.com_operator_framework_operator_manifest_tools
@@ -9908,6 +10039,7 @@ osbuild-upload-oci#github.com_osbuild_osbuild_composer
 osbuild-upload-pulp-ostree#github.com_osbuild_osbuild_composer
 osbuild-worker-executor#github.com_osbuild_osbuild_composer
 osc#github.com_theimpostor_osc
+osc-bsu-csi-driver#github.com_outscale_osc_bsu_csi_driver
 oscap#github.com_osbuild_image_builder_crc
 oscillator#github.com_DylanMeeus_GoAudio
 osincliclient#github.com_openshift_osin
@@ -9965,6 +10097,7 @@ p0554brickwall#github.com_sebnyberg_leetcode
 p2p-forge#github.com_ipshipyard_p2p_forge
 p2p-rendering-computation#github.com_Akilan1999_p2p_rendering_computation
 p2psim#github.com_autonity_autonity
+p2psim#github.com_xt_smartchain_xsc_chain
 p9#github.com_hugelgupf_p9
 p9#github.com_rminnich_t9
 paas-aiven-broker#github.com_alphagov_paas_aiven_broker
@@ -10180,6 +10313,7 @@ petstore-server#github.com_go_swagger_go_swagger
 peview#github.com_fcharlie_buna
 pewpew#github.com_bengadbois_pewpew
 pex#github.com_josharian_pex
+pfprovider#github.com_pulumi_pulumi_terraform_bridge
 pg#github.com_wal_g_wal_g
 pg_back#github.com_orgrim_pg_back
 pg_featureserv#github.com_CrunchyData_pg_featureserv
@@ -10194,6 +10328,7 @@ pgit#github.com_picosh_pgit
 pgmocktime#github.com_target_goalert
 pgroll#github.com_xataio_pgroll
 pgroll-tools#github.com_xataio_pgroll
+pgrwl#github.com_hashmap_kz_pgrwl
 pgs#github.com_picosh_pgs
 pgsql-mcp-server#github.com_leixiaotian1_pgsql_mcp_server
 pgstream#github.com_xataio_pgstream
@@ -10787,6 +10922,7 @@ proxyarpd#github.com_mdlayher_arp
 proxybeast#github.com_Z3NTL3_ProxyBeast
 proxyclient#github.com_rancher_remotedialer
 proxypool#github.com_snakem982_proxypool
+proxysql_exporter#github.com_percona_proxysql_exporter
 prs#github.com_dhth_prs
 prune#github.com_xmtp_xmtpd
 prune#github.com_xmtp_xmtpd.git
@@ -10857,10 +10993,24 @@ pulumi-converter-terraform#github.com_pulumi_pulumi_converter_terraform
 pulumi-converter-yaml#github.com_pulumi_pulumi_yaml
 pulumi-gcp#github.com_pulumi_pulumi_gcp
 pulumi-language-yaml#github.com_pulumi_pulumi_yaml
+pulumi-resource-muxedrandom#github.com_pulumi_pulumi_terraform_bridge
+pulumi-resource-random#github.com_pulumi_pulumi_terraform_bridge
+pulumi-resource-testbridge#github.com_pulumi_pulumi_terraform_bridge
+pulumi-resource-tls#github.com_pulumi_pulumi_terraform_bridge
+pulumi-resource-tpinvschema#github.com_pulumi_pulumi_terraform_bridge
+pulumi-resource-tpsdkv2#github.com_pulumi_pulumi_terraform_bridge
+pulumi-terraform-bridge-test-provider#github.com_pulumi_pulumi_terraform_bridge
 pulumi-terraform-module#github.com_pulumi_pulumi_terraform_module
+pulumi-tfgen-muxedrandom#github.com_pulumi_pulumi_terraform_bridge
+pulumi-tfgen-random#github.com_pulumi_pulumi_terraform_bridge
+pulumi-tfgen-testbridge#github.com_pulumi_pulumi_terraform_bridge
+pulumi-tfgen-tls#github.com_pulumi_pulumi_terraform_bridge
+pulumi-tfgen-tpinvschema#github.com_pulumi_pulumi_terraform_bridge
+pulumi-tfgen-tpsdkv2#github.com_pulumi_pulumi_terraform_bridge
 pumba#github.com_alexei_led_pumba
 pummit#github.com_HidemaruOwO_pummit
 punchout#github.com_dhth_punchout
+puppeth#github.com_xt_smartchain_xsc_chain
 puredns#github.com_d3mondev_puredns
 puregotk#github.com_jwijenbergh_puregotk
 purge_data#github.com_artisoft_io_jetstore
@@ -10912,6 +11062,7 @@ qat-showdevice#github.com_intel_intel_resource_drivers_for_kubernetes
 qat_plugin#github.com_intel_intel_device_plugins_for_kubernetes
 qatool#github.com_ooni_probe_cli
 qcloudcli#github.com_yunionio_cloudmux
+qcm#github.com_quickfeed_quickfeed
 qemu-up#github.com_siderolabs_omni_infra_provider_bare_metal
 qemu-wrapper#github.com_containers_gvisor_tap_vsock
 qexp#github.com_goplus_ixgo
@@ -10962,6 +11113,7 @@ queuecontroller#github.com_NVIDIA_KAI_Scheduler
 quic-go-example#github.com_quic_go_quic_go
 quick-start#github.com_MaaXYZ_maa_framework_go
 quickcert#github.com_c3l3si4n_quickcert
+quickfeed#github.com_quickfeed_quickfeed
 quickon_cli#github.com_easysoft_quickon_cli
 quickon_cli-docs#github.com_easysoft_quickon_cli
 quickpassthrough#github.com_HikariKnight_quickpassthrough
@@ -11016,6 +11168,7 @@ range-over-channels#github.com_cedrickchee_experiments
 ranges#github.com_JasonLovesDoggo_caddy_defender
 rapwp#github.com_edoardottt_lit_bb_hack_tools
 rare#github.com_zix99_rare
+ratchet#github.com_sethvargo_ratchet
 rate-limit-checker#github.com_pkgforge_security_rate_limit_checker
 rate-limiting#github.com_cedrickchee_experiments
 rate_limiting#github.com_topfreegames_pitaya
@@ -11299,6 +11452,7 @@ replicated-sdk#github.com_replicatedhq_replicated_sdk
 replicated_map#github.com_hazelcast_hazelcast_go_client
 replication#github.com_xmtp_xmtpd
 replication#github.com_xmtp_xmtpd.git
+replication-manager#github.com_signal18_replication_manager
 repo#github.com_TencentBlueKing_bk_bscp
 repo-checker#github.com_zoetrope_website_operator
 repo-health-checker#github.com_joint_online_judge_JOJ3
@@ -11454,6 +11608,7 @@ rlpdump#github.com_autonity_autonity
 rlpdump#github.com_bnb_chain_bsc
 rlpdump#github.com_ethereum_go_ethereum
 rlpdump#github.com_ethereum_optimism_op_geth
+rlpdump#github.com_xt_smartchain_xsc_chain
 rlpgen#github.com_CortexFoundation_CortexTheseus
 rlpgen#github.com_astriaorg_astria_geth
 rlpgen#github.com_bnb_chain_bsc
@@ -11480,6 +11635,7 @@ rocket-update#github.com_mouuff_go_rocket_update
 rocketpool-cli#github.com_rocket_pool_smartnode
 rocksdb#github.com_cockroachdb_pebble
 rod-manager#github.com_go_rod_rod
+roks-metrics#github.com_openshift_ibm_roks_toolkit
 role#github.com_Azure_ARO_RP
 role-labels#github.com_uber_ringpop_go
 role_create_update#github.com_grokify_go_ringcentral_client
@@ -11834,6 +11990,7 @@ script#github.com_cli_cli
 script#github.com_go_kivik_kivik
 script#github.com_liyacn_go_project
 script#github.com_ovh_cds
+script#github.com_robmorgan_infraspec
 script#github.com_robpike_script
 script#github.com_vanng822_go_premailer
 scriptfs#github.com_xplshn_scriptfs
@@ -11879,6 +12036,7 @@ scripts#github.com_mongodb_mongodb_atlas_kubernetes
 scripts#github.com_mutagen_io_mutagen
 scripts#github.com_observeinc_observe_agent
 scripts#github.com_pesos_grofer
+scripts#github.com_pulumi_pulumi_terraform_bridge
 scripts#github.com_sameehj_ebpf_mcp
 scripts#github.com_shopware_shopware_cli
 scripts#github.com_sqlc_dev_sqlc
@@ -11905,6 +12063,7 @@ sdk#github.com_fluid_cloudnative_fluid
 sdk#github.com_go_faster_sdk
 sdk#github.com_sourcenetwork_sourcehub
 sdk-version#github.com_openziti_sdk_golang
+sdkv1provider#github.com_pulumi_pulumi_terraform_bridge
 sdns#github.com_semihalev_sdns
 sdp-decode#github.com_gortc_sdp
 sdp-encode#github.com_gortc_sdp
@@ -12074,6 +12233,7 @@ server#github.com_istio_istio
 server#github.com_juicity_juicity
 server#github.com_katzenpost_katzenpost
 server#github.com_kiosk404_tls_decrypt
+server#github.com_krillinai_KlicStudio
 server#github.com_kubeovn_kube_ovn
 server#github.com_kubernetes_sigs_aws_encryption_provider.git
 server#github.com_kumahq_kuma
@@ -12119,6 +12279,7 @@ server#github.com_tinygo_org_drivers
 server#github.com_tinygo_org_tinyhci
 server#github.com_treenq_treenq
 server#github.com_treenq_treenq.git
+server#github.com_trpc_group_trpc_mcp_go
 server#github.com_tunnels_is_tunnels
 server#github.com_tus_tusd
 server#github.com_unit_io_unitdb
@@ -12148,6 +12309,7 @@ server-zap#github.com_permguard_permguard.git
 server2#github.com_apache_incubator_seata_go_samples
 server2server_oauth#github.com_grokify_goauth
 server_box_monitor#github.com_lollipopkit_server_box_monitor
+server_params_runtime#github.com_haproxytech_client_native
 server_standalone#github.com_pkg_sftp
 serverstatus#github.com_xOS_ServerStatus
 serverv2#github.com_artisoft_io_jetstore
@@ -12398,6 +12560,7 @@ skewabc#github.com_ajstarks_svgo
 skills#github.com_thewhitetulip_web_dev_golang_anti_textbook
 skillset-example#github.com_copilot_extensions_skillset_example
 skip_tests#github.com_GoogleCloudPlatform_gcsfuse
+skiperator#github.com_kartverket_skiperator
 skipper#github.com_zalando_skipper
 skm#github.com_TimothyYe_skm
 skr#github.com_microsoft_confidential_sidecar_containers
@@ -12448,6 +12611,7 @@ smallblog#github.com_depado_smallblog
 smallest_integer#github.com_sammi_turner_Assorted_Golang
 smap#github.com_s0md3v_Smap
 smaps#github.com_grandecola_smaps
+smart-suggestion#github.com_yetone_smart_suggestion
 smartcrop#github.com_muesli_smartcrop
 smartrecon#github.com_Synck1_smartrecon
 smb-csi-driver-operator#github.com_openshift_csi_operator
@@ -12584,6 +12748,7 @@ spec-gen#github.com_sgl_project_ome
 spec-gen#github.com_tektoncd_pipeline
 spec_format#github.com_ViRb3_wgcf
 specific#github.com_hazelcast_hazelcast_go_client
+specification#github.com_haproxytech_client_native
 specs-checker#github.com_OffchainLabs_prysm
 spectral#github.com_DylanMeeus_GoAudio
 spectrum#github.com_grokify_spectrum
@@ -12612,6 +12777,7 @@ sping#github.com_benjojo_sping
 spinner#github.com_dreamjz_bubbletea_notes
 spinners#github.com_dreamjz_bubbletea_notes
 spire-agent#github.com_spiffe_spire
+spire-controller-manager#github.com_spiffe_spire_controller_manager
 spire-server#github.com_spiffe_spire
 spk#github.com_dhn_spk
 splice#github.com_linkedin_goavro
@@ -12731,6 +12897,7 @@ sslb#github.com_eduardonunesp_sslb
 sslip.io#github.com_cunnie_sslip.io
 sslsearch#github.com_HarshVaragiya_sslsearch
 ssm#github.com_kelseyhightower_confd
+ssm-shell#github.com_northwood_labs_ssm_shell
 ssmi#github.com_idoavrah_ssmi
 ssmwrap#github.com_handlename_ssmwrap
 sso-diag#github.com_ITRS_Group_cordial
@@ -12821,6 +12988,7 @@ statusetat#github.com_orange_cloudfoundry_statusetat
 statusline#github.com_mjw6i_statusline
 statvsfstat#github.com_rfjakob_gocryptfs
 stdin#github.com_ariary_fileless_xec
+stdio#github.com_trpc_group_trpc_mcp_go
 stdlib#github.com_kubernetes_component_base
 stdout#github.com_ariary_fileless_xec
 stdout-json#github.com_smithy_security_smithy
@@ -12893,6 +13061,7 @@ stress#github.com_argoproj_argo_events
 stress#github.com_bluesky_social_indigo
 stress#github.com_golang_tools
 stress#github.com_keminar_anyproxy
+stress#github.com_softonic_homing_pigeon
 stress_filer_upload_actual#github.com_seaweedfs_seaweedfs
 stress_generators#github.com_Azure_azure_storage_azcopy
 stress_test_write#github.com_influxdata_telegraf
@@ -12921,6 +13090,8 @@ struct#github.com_go_go_golems_go_go_mcp
 struct#github.com_liuzhaomax_learn_go
 struct-lvl-validations#github.com_gin_gonic_examples
 struct-with-pointer#github.com_teivah_100_go_mistakes
+struct_equal_generator#github.com_haproxytech_client_native
+struct_tags_checker#github.com_haproxytech_client_native
 structables#github.com_grow_graphics_gd
 structer#github.com_rjeczalik_interfaces
 structlayout#github.com_dominikh_go_tools
@@ -13301,6 +13472,7 @@ terraform-provider-cloudfoundry#github.com_cloudfoundry_terraform_provider_cloud
 terraform-provider-cloudinit#github.com_hashicorp_terraform_provider_cloudinit
 terraform-provider-coder#github.com_coder_terraform_provider_coder
 terraform-provider-coderd#github.com_coder_terraform_provider_coderd
+terraform-provider-commercetools#github.com_labd_terraform_provider_commercetools
 terraform-provider-conduktor#github.com_conduktor_terraform_provider_conduktor
 terraform-provider-confluent#github.com_confluentinc_terraform_provider_confluent
 terraform-provider-consul#github.com_hashicorp_terraform_provider_consul
@@ -13394,6 +13566,7 @@ terraform-provider-pingone#github.com_pingidentity_terraform_provider_pingone
 terraform-provider-platform#github.com_jfrog_terraform_provider_platform
 terraform-provider-pnap#github.com_phoenixnap_terraform_provider_pnap
 terraform-provider-port-labs#github.com_port_labs_terraform_provider_port_labs
+terraform-provider-portainer#github.com_portainer_terraform_provider_portainer
 terraform-provider-powerstore#github.com_dell_terraform_provider_powerstore
 terraform-provider-prefect#github.com_PrefectHQ_terraform_provider_prefect
 terraform-provider-proxmox#github.com_bpg_terraform_provider_proxmox
@@ -13413,9 +13586,11 @@ terraform-provider-singlestoredb#github.com_singlestore_labs_terraform_provider_
 terraform-provider-splunk-itsi#github.com_TiVo_terraform_provider_splunk_itsi
 terraform-provider-spotinst#github.com_spotinst_terraform_provider_spotinst
 terraform-provider-sumologic#github.com_SumoLogic_terraform_provider_sumologic
+terraform-provider-taikun#github.com_itera_io_terraform_provider_taikun
 terraform-provider-tencentcloud#github.com_tencentcloudstack_terraform_provider_tencentcloud
 terraform-provider-tfe#github.com_hashicorp_terraform_provider_tfe
 terraform-provider-thousandeyes#github.com_thousandeyes_terraform_provider_thousandeyes
+terraform-provider-tidbcloud#github.com_tidbcloud_terraform_provider_tidbcloud
 terraform-provider-tines#github.com_tines_terraform_provider_tines
 terraform-provider-trocco#github.com_trocco_io_terraform_provider_trocco
 terraform-provider-turbot#github.com_turbot_terraform_provider_turbot
@@ -13432,6 +13607,7 @@ terraform-provider-wireguard#github.com_OJFord_terraform_provider_wireguard
 terraform-provider-yandex#github.com_yandex_cloud_terraform_provider_yandex
 terraform-provider-zedcloud#github.com_zededa_terraform_provider_zedcloud
 terraform-provider-zia#github.com_zscaler_terraform_provider_zia
+terraform-registry#github.com_philips_labs_terraform_registry
 terraform-tfsec#github.com_smithy_security_smithy
 terraformdocsgenerator#github.com_dikhan_terraform_provider_openapi
 terrafrom-downloads#github.com_kislerdm_terraform_provider_neon
@@ -13532,6 +13708,7 @@ test_game#github.com_xiaonanln_goworld
 test_on_demand#github.com_bluenviron_mediamtx
 test_redimem#github.com_honeycombio_refinery
 test_server#github.com_machbase_neo_server
+test_server#github.com_trpc_group_trpc_mcp_go
 test_service#github.com_linkerd_linkerd2_proxy_init
 test_stage#github.com_kubernetes_sigs_kwok
 test_vectors#github.com_Consensys_gnark
@@ -14149,6 +14326,7 @@ umoci#github.com_opencontainers_umoci
 unassign#github.com_neilmartin83_terraform_provider_axm
 unch#github.com_dwisiswant0_unch
 unch-examples#github.com_dwisiswant0_unch
+unchain#github.com_unchainese_unchain
 uncle-ted#github.com_Xe_x
 uncloud#github.com_psviderski_uncloud
 uncloudd#github.com_psviderski_uncloud
@@ -14185,6 +14363,7 @@ universal#github.com_wal_g_wal_g
 universe#github.com_paescuj_universe
 unixtransport#github.com_peterbourgon_unixtransport
 unl#github.com_jasonthorsness_unlurker
+unleasherator#github.com_nais_unleasherator
 unmapped-code#github.com_seehuhn_go_pdf
 unmarshal#github.com_golang_tools
 unp#github.com_mpolden_unp
@@ -14272,6 +14451,7 @@ upstream#github.com_zhaochuninhefei_gmgo
 upswake#github.com_TheDarthMole_upswake
 uptick#github.com_UptickNetwork_uptick
 uptime#github.com_grokify_mogo
+uptimeguardian#github.com_stakater_UptimeGuardian
 uptimerobot#github.com_bitfield_uptimerobot
 uquic#github.com_refraction_networking_uquic
 uquic-example#github.com_refraction_networking_uquic
@@ -14329,6 +14509,7 @@ using_sdk_go#github.com_vmware_secrets_manager
 using_sidecar#github.com_vmware_secrets_manager
 usp#github.com_grahamhelton_USP
 usque#github.com_Diniboy1123_usque
+ut#github.com_huifurepo_bspay_go_sdk
 utask#github.com_ovh_utask
 utf8enc#github.com_seehuhn_go_pdf
 util#github.com_TheThingsIndustries_lorawan_stack_docs
@@ -14366,6 +14547,7 @@ v2#github.com_miniflux_v2
 v2#github.com_pedrogao_plib
 v2#github.com_quii_learn_go_with_tests
 v2_client#github.com_FalcoSuessgott_vault_kubernetes_kms
+v2ray-api#github.com_misakanetwork2018_v2ray_api
 v2ray-china-list#github.com_dctxmei_v2ray_china_list
 v2raycollector#github.com_mrvcoder_V2rayCollector
 v3#github.com_cedrickchee_experiments
@@ -14464,6 +14646,7 @@ velero-helper#github.com_vmware_tanzu_velero
 velero-restore-helper#github.com_vmware_tanzu_velero
 vengo#github.com_DamnWidget_VenGO
 vercheck#github.com_leapcode_bitmask_vpn
+vercheck#github.com_quickfeed_quickfeed
 verification#github.com_sapcc_maria_back_me_up
 verificator-svc#github.com_rarimo_verificator_svc
 verifier#github.com_WangYihang_Proxy_Verifier
@@ -14589,6 +14772,7 @@ voiceflow-cli#github.com_xavidop_voiceflow_cli
 volana#github.com_ariary_volana
 volana-encr#github.com_ariary_volana
 volcli#github.com_yunionio_cloudmux
+volt-build#github.com_volt_build_volt_build
 volume-init#github.com_firecracker_microvm_firecracker_containerd
 volume_tailer#github.com_seaweedfs_seaweedfs
 volumebroker#github.com_ironcore_dev_ironcore
