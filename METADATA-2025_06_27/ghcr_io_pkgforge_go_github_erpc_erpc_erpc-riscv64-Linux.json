@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "erpc",
+  "pkg_family": "erpc",
+  "pkg_id": "erpc#github.com_erpc_erpc",
+  "pkg_name": "erpc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/erpc/erpc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eRPC — fault-tolerant evm rpc proxy",
+  "homepage": [
+    "https://github.com/erpc/erpc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "erpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/erpc/erpc/archive/af56766f16e59e19ddcb9c1a7b6293c9a626afc0.tar.gz"
+  ],
+  "tag": [
+    "cache",
+    "erpc",
+    "ethereum",
+    "evm",
+    "go",
+    "load-balancer",
+    "proxy",
+    "rpc"
+  ],
+  "version": "HEAD-af56766-250627T025744",
+  "version_upstream": "",
+  "bsum": "83469f0c1685029f408e5fe3459b63dbb419dadcb0950fb0cafc28024be45621",
+  "build_date": "2025-06-27T10:45:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923418638",
+  "build_id": "15923418638",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erpc/erpc/erpc?tag=HEAD-af56766-250627T025744-riscv64-Linux&download=erpc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "491",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erpc/erpc/erpc?tag=HEAD-af56766-250627T025744-riscv64-Linux&download=erpc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/erpc/erpc/erpc:HEAD-af56766-250627T025744-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/erpc/erpc/erpc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erpc/erpc/erpc?tag=HEAD-af56766-250627T025744-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4dd672ac843a7bc92c36cca2cfd2329af03e5870cb30ab115faa7c53969b5392",
+  "size": "44 MB",
+  "size_raw": "45129080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-219a87b-250619T112831-riscv64-Linux",
+    "HEAD-191ed7e-250623T111510-riscv64-Linux",
+    "HEAD-bf0f955-250626T143601-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
