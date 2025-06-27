@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "docs",
+  "pkg_family": "telescope",
+  "pkg_id": "docs#github.com_blockopsnetwork_telescope",
+  "pkg_name": "docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/9b70fbf35dba866c8955eb4c456a98002a32d369.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-9b70fbf-250626T180550",
+  "version_upstream": "",
+  "bsum": "2c1abccef9afe73c4faa8f5f31ad9878839ba8c529700b27717782ac2584ecbc",
+  "build_date": "2025-06-27T10:24:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923373055",
+  "build_id": "15923373055",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/docs?tag=HEAD-9b70fbf-250626T180550-riscv64-Linux&download=docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/docs?tag=HEAD-9b70fbf-250626T180550-riscv64-Linux&download=docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/docs:HEAD-9b70fbf-250626T180550-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/docs?tag=HEAD-9b70fbf-250626T180550-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b20ecbb2efb9cdd03548ac3419a914291bcaf9f62e07603ee2274ca7d938aebe",
+  "size": "6.8 MB",
+  "size_raw": "7102200",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b120d12-250623T050932-riscv64-Linux",
+    "HEAD-bd1b4c9-250623T222606-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

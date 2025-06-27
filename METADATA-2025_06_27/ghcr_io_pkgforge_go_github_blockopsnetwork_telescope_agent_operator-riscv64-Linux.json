@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "agent-operator",
+  "pkg_family": "telescope",
+  "pkg_id": "agent-operator#github.com_blockopsnetwork_telescope",
+  "pkg_name": "agent-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blockopsnetwork/telescope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Node Monitoring Platform for blockchain nodes",
+  "homepage": [
+    "https://github.com/blockopsnetwork/telescope"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-operator",
+    "docs",
+    "integration-tests",
+    "otel-metrics-gen",
+    "prom-gen",
+    "rivereval"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blockopsnetwork/telescope/archive/9b70fbf35dba866c8955eb4c456a98002a32d369.tar.gz"
+  ],
+  "tag": [
+    "blockops"
+  ],
+  "version": "HEAD-9b70fbf-250626T180550",
+  "version_upstream": "",
+  "bsum": "aa7f0fc06aa73c7a5595eb8df0eacda9db7a37b8a26044ae7a92c31a6678b89b",
+  "build_date": "2025-06-27T10:24:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923373055",
+  "build_id": "15923373055",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/agent-operator?tag=HEAD-9b70fbf-250626T180550-riscv64-Linux&download=agent-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/agent-operator?tag=HEAD-9b70fbf-250626T180550-riscv64-Linux&download=agent-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/agent-operator:HEAD-9b70fbf-250626T180550-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blockopsnetwork/telescope/agent-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blockopsnetwork/telescope/agent-operator?tag=HEAD-9b70fbf-250626T180550-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f504999523735e59357ecc3d24c6abba4fe998778cdca2648eeaa37e51d7c225",
+  "size": "53 MB",
+  "size_raw": "54754008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b120d12-250623T050932-riscv64-Linux",
+    "HEAD-bd1b4c9-250623T222606-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
