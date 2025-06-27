@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "management",
+  "pkg_family": "o11y-alerting-monitor",
+  "pkg_id": "management#github.com_open_edge_platform_o11y_alerting_monitor",
+  "pkg_name": "management",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-edge-platform/o11y-alerting-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Alerting Monitor service handles management of alert notifications in the Edge Orchestrator.",
+  "homepage": [
+    "https://github.com/open-edge-platform/o11y-alerting-monitor"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alerting-monitor",
+    "management"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/open-edge-platform/o11y-alerting-monitor/archive/4435779e5a41d56c62db9d34e50c3fbcf61e7610.tar.gz"
+  ],
+  "tag": [
+    "alerting-rules",
+    "alertmanager",
+    "alerts",
+    "api",
+    "edge-orchestrator",
+    "email-notifications",
+    "monitoring",
+    "o11y",
+    "observability",
+    "reliability"
+  ],
+  "version": "HEAD-4435779-250627T160120",
+  "version_upstream": "",
+  "bsum": "df469ed2392025894ff48f91d9a20e3fe6d87b1b242ae90e1ae6548911c712f9",
+  "build_date": "2025-06-27T16:59:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931045130",
+  "build_id": "15931045130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/management?tag=HEAD-4435779-250627T160120-riscv64-Linux&download=management.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/management?tag=HEAD-4435779-250627T160120-riscv64-Linux&download=management",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/management:HEAD-4435779-250627T160120-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/management",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-edge-platform/o11y-alerting-monitor/management?tag=HEAD-4435779-250627T160120-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "425999f1bc9fc57214eabf1bf76de159f8a785b006d82d3aa74aefea552f36de",
+  "size": "20 MB",
+  "size_raw": "20928376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
