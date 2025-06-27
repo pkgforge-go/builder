@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "checker",
+  "pkg_family": "crl-monitor",
+  "pkg_id": "checker#github.com_letsencrypt_crl_monitor",
+  "pkg_name": "checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/letsencrypt/crl-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRL Monitor",
+  "homepage": [
+    "https://github.com/letsencrypt/crl-monitor"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checker",
+    "churner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/letsencrypt/crl-monitor/archive/a9ef40ef4029327e7429d0bd96eb549e76de998f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-a9ef40e-250626T183330",
+  "version_upstream": "",
+  "bsum": "bb95d79114e93cbec87d0644c76cad831bf784d9a637edfa19147261eddfc86b",
+  "build_date": "2025-06-27T07:56:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920273634",
+  "build_id": "15920273634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/crl-monitor/checker?tag=HEAD-a9ef40e-250626T183330-riscv64-Linux&download=checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/crl-monitor/checker?tag=HEAD-a9ef40e-250626T183330-riscv64-Linux&download=checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/letsencrypt/crl-monitor/checker:HEAD-a9ef40e-250626T183330-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/letsencrypt/crl-monitor/checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/letsencrypt/crl-monitor/checker?tag=HEAD-a9ef40e-250626T183330-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f1cff643844036cb8a92b8501d64fc4934284c83aaba17ca40f44790336cf1f",
+  "size": "24 MB",
+  "size_raw": "24195352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
