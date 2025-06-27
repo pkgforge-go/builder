@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ipscout",
+  "pkg_family": "ipscout",
+  "pkg_id": "ipscout#github.com_jonhadfield_ipscout",
+  "pkg_name": "ipscout",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jonhadfield/ipscout",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Host threat aggregator for network administrators and security analysts.",
+  "homepage": [
+    "https://github.com/jonhadfield/ipscout"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipscout"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jonhadfield/ipscout/archive/dea78d425aca2d56f2cb3163ecbce7e72cb77d7b.tar.gz"
+  ],
+  "tag": [
+    "cli",
+    "ip",
+    "ip-reputation",
+    "netsec",
+    "netsec-tools",
+    "network",
+    "security"
+  ],
+  "version": "HEAD-dea78d4-250626T185742",
+  "version_upstream": "0.3.3",
+  "bsum": "b8d4147b9d116512c0f8cd73fdcc7c84016bb0e3abecd440b3b9d3a45a64ae16",
+  "build_date": "2025-06-27T13:56:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15927152256",
+  "build_id": "15927152256",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonhadfield/ipscout/ipscout?tag=HEAD-dea78d4-250626T185742-x86_64-Linux&download=ipscout.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonhadfield/ipscout/ipscout?tag=HEAD-dea78d4-250626T185742-x86_64-Linux&download=ipscout",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jonhadfield/ipscout/ipscout:HEAD-dea78d4-250626T185742-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jonhadfield/ipscout/ipscout",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonhadfield/ipscout/ipscout?tag=HEAD-dea78d4-250626T185742-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "082cbf0a3364d94817459507d677e37a5f1e99ffd7f5fad1a9a5d1be2189abb6",
+  "size": "25 MB",
+  "size_raw": "25793664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-289552f-250619T202229-x86_64-Linux",
+    "HEAD-f87b7fd-250623T115052-x86_64-Linux",
+    "HEAD-315f6ea-250624T104220-x86_64-Linux",
+    "HEAD-4c2f5dc-250624T214448-x86_64-Linux",
+    "HEAD-7df3013-250625T211139-x86_64-Linux[0.3.2]"
+  ],
+  "trusted": "true"
+}
