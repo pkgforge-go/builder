@@ -1,0 +1,110 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bench_filer_upload",
+  "pkg_family": "seaweedfs",
+  "pkg_id": "bench_filer_upload#github.com_seaweedfs_seaweedfs",
+  "pkg_name": "bench_filer_upload",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/seaweedfs/seaweedfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O_1_ disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+  "homepage": [
+    "https://github.com/seaweedfs/seaweedfs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent_pub_record",
+    "agent_sub_record",
+    "bench_filer_upload",
+    "change_superblock",
+    "check_disk_size",
+    "compact_leveldb",
+    "diff_volume_servers",
+    "disk",
+    "fix_dat",
+    "load_test_leveldb",
+    "load_test_meta_tail",
+    "multipart",
+    "presigned_put",
+    "remove_duplicate_fids",
+    "repeated_vacuum",
+    "s3client",
+    "see_dat",
+    "see_idx",
+    "see_log_entry",
+    "see_meta",
+    "stream_read_volume",
+    "stress_filer_upload_actual",
+    "volume_tailer",
+    "write_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/seaweedfs/seaweedfs/archive/877b9b788a49b912958e9e37c7ff8c0ab09bc5c5.tar.gz"
+  ],
+  "tag": [
+    "blob-storage",
+    "cloud-drive",
+    "distributed-file-system",
+    "distributed-storage",
+    "distributed-systems",
+    "erasure-coding",
+    "fuse",
+    "hadoop-hdfs",
+    "hdfs",
+    "kubernetes",
+    "object-storage",
+    "posix",
+    "replication",
+    "s3",
+    "s3-storage",
+    "seaweedfs",
+    "tiered-file-system"
+  ],
+  "version": "HEAD-877b9b7-250626T032135",
+  "version_upstream": "",
+  "bsum": "5768dbe4e3431bf99fc90bc4b254f6a71d9e79e16fc6e5612bec38518a68dd9e",
+  "build_date": "2025-06-27T00:29:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913587638",
+  "build_id": "15913587638",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/bench_filer_upload?tag=HEAD-877b9b7-250626T032135-loongarch64-Linux&download=bench_filer_upload.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24928",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/bench_filer_upload?tag=HEAD-877b9b7-250626T032135-loongarch64-Linux&download=bench_filer_upload",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seaweedfs/seaweedfs/bench_filer_upload:HEAD-877b9b7-250626T032135-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/seaweedfs/seaweedfs/bench_filer_upload",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seaweedfs/seaweedfs/bench_filer_upload?tag=HEAD-877b9b7-250626T032135-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "430b7b69223bc2f8cd06ae6383e519fae63a0ad06b8f09c657c882f91d0a7faf",
+  "size": "14 MB",
+  "size_raw": "14671360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5a7d226-250620T173017-loongarch64-Linux",
+    "HEAD-7324cb7-250622T211706-loongarch64-Linux[3.92]",
+    "HEAD-2cdd809-250623T141202-loongarch64-Linux",
+    "HEAD-4511c2c-250624T084406-loongarch64-Linux",
+    "HEAD-95261a7-250624T230439-loongarch64-Linux",
+    "HEAD-ab49540-250625T175456-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
