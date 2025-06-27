@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "downstreamclient",
+  "pkg_family": "spire",
+  "pkg_id": "downstreamclient#github.com_spiffe_spire",
+  "pkg_name": "downstreamclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/6512090356d907113ad51d90d487ad983d4c4aad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6512090-250626T091322",
+  "version_upstream": "",
+  "bsum": "9a6e647a2c3db1f4a9939910643ee9ad2890dc8afb843dd76d79cfc622af3d11",
+  "build_date": "2025-06-27T00:33:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913697637",
+  "build_id": "15913697637",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/downstreamclient?tag=HEAD-6512090-250626T091322-loongarch64-Linux&download=downstreamclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1976",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/downstreamclient?tag=HEAD-6512090-250626T091322-loongarch64-Linux&download=downstreamclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/downstreamclient:HEAD-6512090-250626T091322-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/downstreamclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/downstreamclient?tag=HEAD-6512090-250626T091322-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "68ac48eacb4791a7f866ed0839055f5c1c6391e22775b4fd5b6c969511c9b4af",
+  "size": "13 MB",
+  "size_raw": "13137920",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-76299f8-250619T171403-loongarch64-Linux",
+    "HEAD-55e614c-250624T153733-loongarch64-Linux",
+    "HEAD-21359c4-250625T180423-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
