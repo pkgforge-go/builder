@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pgmocktime",
+  "pkg_family": "goalert",
+  "pkg_id": "pgmocktime#github.com_target_goalert",
+  "pkg_name": "pgmocktime",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/target/goalert",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert",
+  "homepage": [
+    "https://github.com/target/goalert"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configparams",
+    "configtsidgen",
+    "db-url-set-db",
+    "expflagtsgen",
+    "fetchcounts",
+    "genmake",
+    "gettool",
+    "goalert",
+    "goalert-migrate",
+    "goalert-slack-email-sync",
+    "gqltsgen",
+    "limitapigen",
+    "mockoidc",
+    "mockslack",
+    "ordermigrations",
+    "pgdump-lite",
+    "pgmocktime",
+    "procwrap",
+    "psql-lite",
+    "resetdb",
+    "runproc",
+    "sendit",
+    "sendit-server",
+    "sendit-token",
+    "simpleproxy",
+    "waitfor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/target/goalert/archive/888e5af4bb5a410ca4f8760b66c951603b7cbf79.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-888e5af-250626T131915",
+  "version_upstream": "",
+  "bsum": "323ffad476b71f3000722b22f2983329c7a090235f2ffbf8c5e08c97d980a6b8",
+  "build_date": "2025-06-27T08:53:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921232958",
+  "build_id": "15921232958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/pgmocktime?tag=HEAD-888e5af-250626T131915-x86_64-Linux&download=pgmocktime.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2450",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/pgmocktime?tag=HEAD-888e5af-250626T131915-x86_64-Linux&download=pgmocktime",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/target/goalert/pgmocktime:HEAD-888e5af-250626T131915-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/target/goalert/pgmocktime",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/pgmocktime?tag=HEAD-888e5af-250626T131915-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bef58aed924bc8a11c2965867f412afd7ea8ea9053ab7210637d1ae24eb79acb",
+  "size": "9.7 MB",
+  "size_raw": "10092032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mockoidc",
+  "pkg_family": "goalert",
+  "pkg_id": "mockoidc#github.com_target_goalert",
+  "pkg_name": "mockoidc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/target/goalert",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert",
+  "homepage": [
+    "https://github.com/target/goalert"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configparams",
+    "configtsidgen",
+    "db-url-set-db",
+    "expflagtsgen",
+    "fetchcounts",
+    "genmake",
+    "gettool",
+    "goalert",
+    "goalert-migrate",
+    "goalert-slack-email-sync",
+    "gqltsgen",
+    "limitapigen",
+    "mockoidc",
+    "mockslack",
+    "ordermigrations",
+    "pgdump-lite",
+    "pgmocktime",
+    "procwrap",
+    "psql-lite",
+    "resetdb",
+    "runproc",
+    "sendit",
+    "sendit-server",
+    "sendit-token",
+    "simpleproxy",
+    "waitfor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/target/goalert/archive/888e5af4bb5a410ca4f8760b66c951603b7cbf79.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-888e5af-250626T131915",
+  "version_upstream": "",
+  "bsum": "d482d90aad4e0996801de7c6b45e07749952ec85e3236d049e60e4a0be2a6b73",
+  "build_date": "2025-06-27T08:52:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15921232958",
+  "build_id": "15921232958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/mockoidc?tag=HEAD-888e5af-250626T131915-x86_64-Linux&download=mockoidc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2450",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/mockoidc?tag=HEAD-888e5af-250626T131915-x86_64-Linux&download=mockoidc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/target/goalert/mockoidc:HEAD-888e5af-250626T131915-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/target/goalert/mockoidc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/target/goalert/mockoidc?tag=HEAD-888e5af-250626T131915-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e99f5f2191d2a13535fe9317e62d834323f48c1312ff91e3a56fb66d7e40457",
+  "size": "6.7 MB",
+  "size_raw": "6982592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
