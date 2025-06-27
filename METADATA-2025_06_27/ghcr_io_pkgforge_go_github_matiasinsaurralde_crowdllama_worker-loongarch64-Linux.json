@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "crowdllama",
+  "pkg_id": "worker#github.com_matiasinsaurralde_crowdllama",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matiasinsaurralde/crowdllama",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CrowdLlama is a distributed system that leverages the open-source Ollama project to run LLM inference tasks across multiple nodes using peer-to-peer _P2P_ networking, enabling collaborative large language model inference workloads",
+  "homepage": [
+    "https://github.com/matiasinsaurralde/crowdllama"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "consumer",
+    "dht",
+    "dhtcertgen",
+    "ui",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matiasinsaurralde/crowdllama/archive/c9ba0dcbe8b6424d9a7a338a9798544c527becdf.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "llm",
+    "ollama",
+    "p2p"
+  ],
+  "version": "HEAD-c9ba0dc-250626T195108",
+  "version_upstream": "",
+  "bsum": "5f2ec68f0d0e9b1ebb779741f21201175fb22a333c9ce13607fd34897f1a3ccd",
+  "build_date": "2025-06-27T08:07:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15920314728",
+  "build_id": "15920314728",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama/worker?tag=HEAD-c9ba0dc-250626T195108-loongarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama/worker?tag=HEAD-c9ba0dc-250626T195108-loongarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matiasinsaurralde/crowdllama/worker:HEAD-c9ba0dc-250626T195108-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matiasinsaurralde/crowdllama/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama/worker?tag=HEAD-c9ba0dc-250626T195108-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "664922bd24f75cf4c90ae74d5c44f41c29b40007e61f39978ba2eb4c1c90790b",
+  "size": "25 MB",
+  "size_raw": "25650048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
