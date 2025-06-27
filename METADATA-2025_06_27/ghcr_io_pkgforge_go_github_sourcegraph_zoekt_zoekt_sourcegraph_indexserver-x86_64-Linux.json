@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "zoekt-sourcegraph-indexserver",
+  "pkg_family": "zoekt",
+  "pkg_id": "zoekt-sourcegraph-indexserver#github.com_sourcegraph_zoekt",
+  "pkg_name": "zoekt-sourcegraph-indexserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sourcegraph/zoekt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast trigram based code search",
+  "homepage": [
+    "https://github.com/sourcegraph/zoekt"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zoekt",
+    "zoekt-archive-index",
+    "zoekt-dynamic-indexserver",
+    "zoekt-git-clone",
+    "zoekt-git-index",
+    "zoekt-index",
+    "zoekt-indexserver",
+    "zoekt-merge-index",
+    "zoekt-mirror-bitbucket-server",
+    "zoekt-mirror-gerrit",
+    "zoekt-mirror-gitea",
+    "zoekt-mirror-github",
+    "zoekt-mirror-gitiles",
+    "zoekt-mirror-gitlab",
+    "zoekt-repo-index",
+    "zoekt-sourcegraph-indexserver",
+    "zoekt-test",
+    "zoekt-webserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sourcegraph/zoekt/archive/bf9caa2750947b52df419fb4dd3d0ab000bd182f.tar.gz"
+  ],
+  "tag": [
+    "repo-type-backend"
+  ],
+  "version": "HEAD-bf9caa2-250626T140833",
+  "version_upstream": "",
+  "bsum": "7205b51887fd119048341c98d09310b0fc31c28c4028be4a948ebc7042e20d14",
+  "build_date": "2025-06-27T03:36:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916653501",
+  "build_id": "15916653501",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-sourcegraph-indexserver?tag=HEAD-bf9caa2-250626T140833-x86_64-Linux&download=zoekt-sourcegraph-indexserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "987",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-sourcegraph-indexserver?tag=HEAD-bf9caa2-250626T140833-x86_64-Linux&download=zoekt-sourcegraph-indexserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-sourcegraph-indexserver:HEAD-bf9caa2-250626T140833-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sourcegraph/zoekt/zoekt-sourcegraph-indexserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sourcegraph/zoekt/zoekt-sourcegraph-indexserver?tag=HEAD-bf9caa2-250626T140833-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3bc3fcab0a92ed87fa0fb7e9f3c197c942cc049cc6d954a7ab356beec070207e",
+  "size": "40 MB",
+  "size_raw": "41221312",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fd39c59-250604T143347-x86_64-Linux",
+    "HEAD-4dbad3c-250625T083343-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
