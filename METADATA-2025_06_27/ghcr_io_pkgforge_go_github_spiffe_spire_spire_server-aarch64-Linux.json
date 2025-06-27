@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "spire-server",
+  "pkg_family": "spire",
+  "pkg_id": "spire-server#github.com_spiffe_spire",
+  "pkg_name": "spire-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/6512090356d907113ad51d90d487ad983d4c4aad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6512090-250626T091322",
+  "version_upstream": "",
+  "bsum": "2096b4c68717dd6f2fde251db0ba6a72c368fade6068caefcdf9ca9f0e6a2d70",
+  "build_date": "2025-06-27T00:32:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913697637",
+  "build_id": "15913697637",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/spire-server?tag=HEAD-6512090-250626T091322-aarch64-Linux&download=spire-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1976",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/spire-server?tag=HEAD-6512090-250626T091322-aarch64-Linux&download=spire-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/spire-server:HEAD-6512090-250626T091322-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/spire-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/spire-server?tag=HEAD-6512090-250626T091322-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72be601638565295c9cd8d07f285277a76c66c6410d2fce3c67579162c6876d3",
+  "size": "150 MB",
+  "size_raw": "156625152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-76299f8-250619T171403-aarch64-Linux",
+    "HEAD-55e614c-250624T153733-aarch64-Linux",
+    "HEAD-21359c4-250625T180423-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

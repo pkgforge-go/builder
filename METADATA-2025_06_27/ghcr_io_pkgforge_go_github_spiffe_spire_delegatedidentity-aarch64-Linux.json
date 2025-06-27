@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "delegatedidentity",
+  "pkg_family": "spire",
+  "pkg_id": "delegatedidentity#github.com_spiffe_spire",
+  "pkg_name": "delegatedidentity",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/spiffe/spire",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The SPIFFE Runtime Environment",
+  "homepage": [
+    "https://github.com/spiffe/spire"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adminclient",
+    "check",
+    "debugagent",
+    "debugserver",
+    "delegatedidentity",
+    "downstreamclient",
+    "node-attestation",
+    "oidc-discovery-provider",
+    "plugin",
+    "spire-agent",
+    "spire-server",
+    "x509pop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/spiffe/spire/archive/6512090356d907113ad51d90d487ad983d4c4aad.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6512090-250626T091322",
+  "version_upstream": "",
+  "bsum": "5b931ac8b8cce315576b63951f5f57464b5057839856d9f8047073fb0cfd5441",
+  "build_date": "2025-06-27T00:33:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15913697637",
+  "build_id": "15913697637",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/delegatedidentity?tag=HEAD-6512090-250626T091322-aarch64-Linux&download=delegatedidentity.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1976",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/delegatedidentity?tag=HEAD-6512090-250626T091322-aarch64-Linux&download=delegatedidentity",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/spiffe/spire/delegatedidentity:HEAD-6512090-250626T091322-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/spiffe/spire/delegatedidentity",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/spiffe/spire/delegatedidentity?tag=HEAD-6512090-250626T091322-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca8d26ffb2d60a278fac857683277ca334e8ab3a1335c34a2f9e8b0406441495",
+  "size": "11 MB",
+  "size_raw": "11499776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-76299f8-250619T171403-aarch64-Linux",
+    "HEAD-55e614c-250624T153733-aarch64-Linux",
+    "HEAD-21359c4-250625T180423-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
