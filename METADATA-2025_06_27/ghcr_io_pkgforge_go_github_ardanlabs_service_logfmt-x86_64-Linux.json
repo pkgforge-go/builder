@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "logfmt",
+  "pkg_family": "service",
+  "pkg_id": "logfmt#github.com_ardanlabs_service",
+  "pkg_name": "logfmt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ardanlabs/service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Starter-kit for writing services in Go using Kubernetes.",
+  "homepage": [
+    "https://github.com/ardanlabs/service"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "auth",
+    "logfmt",
+    "metrics",
+    "sales"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ardanlabs/service/archive/94591c79f0ddc0b3b595a8019e5df6b5570177c7.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-94591c7-250626T134351",
+  "version_upstream": "",
+  "bsum": "76d0590b4690df3c2255abf73eb84a75e4be41d0eef4853dea73b6a97f07e015",
+  "build_date": "2025-06-27T10:09:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15923371379",
+  "build_id": "15923371379",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/logfmt?tag=HEAD-94591c7-250626T134351-x86_64-Linux&download=logfmt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3806",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/logfmt?tag=HEAD-94591c7-250626T134351-x86_64-Linux&download=logfmt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ardanlabs/service/logfmt:HEAD-94591c7-250626T134351-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ardanlabs/service/logfmt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ardanlabs/service/logfmt?tag=HEAD-94591c7-250626T134351-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f5cd29878e887ff3010537d8b850d55921aee1bea08a888360afee8d8e407af7",
+  "size": "2.1 MB",
+  "size_raw": "2176888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ed4b7ce-250612T103718-x86_64-Linux",
+    "HEAD-f9298eb-250624T085415-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
