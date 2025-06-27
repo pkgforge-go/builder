@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "terraform",
+  "pkg_family": "terraform",
+  "pkg_id": "terraform#github.com_hashicorp_terraform",
+  "pkg_name": "terraform",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/terraform",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+  "homepage": [
+    "https://github.com/hashicorp/terraform"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generator",
+    "loggraphdiff",
+    "main",
+    "protobuf-compile",
+    "terraform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/terraform/archive/9212a2efddbb04069009d5e03eefa366944f013f.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "cloud-management",
+    "graph",
+    "infrastructure-as-code",
+    "terraform"
+  ],
+  "version": "HEAD-9212a2e-250626T122658",
+  "version_upstream": "",
+  "bsum": "8559f6866b9849ec6845fd3f9ff02e5f82ab1e1a22f610c235e946fddb5c0899",
+  "build_date": "2025-06-27T03:00:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15916625288",
+  "build_id": "15916625288",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform/terraform?tag=HEAD-9212a2e-250626T122658-loongarch64-Linux&download=terraform.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform/terraform?tag=HEAD-9212a2e-250626T122658-loongarch64-Linux&download=terraform",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/terraform/terraform:HEAD-9212a2e-250626T122658-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/terraform/terraform",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/terraform/terraform?tag=HEAD-9212a2e-250626T122658-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d5d662cc86a7f66e956f494591e15b7377c0f2f2b467b88e6ad3a59633e4187",
+  "size": "100 MB",
+  "size_raw": "103962392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a9b67a6-250618T170227-loongarch64-Linux",
+    "HEAD-8a498df-250623T092356-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
