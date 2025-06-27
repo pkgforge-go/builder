@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "proxysql_exporter",
+  "pkg_family": "proxysql_exporter",
+  "pkg_id": "proxysql_exporter#github.com_percona_proxysql_exporter",
+  "pkg_name": "proxysql_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/percona/proxysql_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for ProxySQL performance data.",
+  "homepage": [
+    "https://github.com/percona/proxysql_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "proxysql_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/percona/proxysql_exporter/archive/b206b428113aa508990427c626e440aacefe4c89.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "golang",
+    "hacktoberfest",
+    "metrics",
+    "pmm",
+    "prometheus",
+    "prometheus-exporter",
+    "proxysql"
+  ],
+  "version": "HEAD-b206b42-250627T114132",
+  "version_upstream": "",
+  "bsum": "406ab7688ca4911ec7321d1581f85774fb5dd40e0db1c9972afef2f0dffe7ec2",
+  "build_date": "2025-06-27T16:59:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15931096987",
+  "build_id": "15931096987",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/proxysql/exporter/proxysql_exporter?tag=HEAD-b206b42-250627T114132-riscv64-Linux&download=proxysql_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "109",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/proxysql/exporter/proxysql_exporter?tag=HEAD-b206b42-250627T114132-riscv64-Linux&download=proxysql_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/proxysql/exporter/proxysql_exporter:HEAD-b206b42-250627T114132-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/proxysql/exporter/proxysql_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/proxysql/exporter/proxysql_exporter?tag=HEAD-b206b42-250627T114132-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3650a5061f18bd7b8941bec2a6d16d8fafff7a7c679ad42c8e25c006bb7b41c6",
+  "size": "13 MB",
+  "size_raw": "12703128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
