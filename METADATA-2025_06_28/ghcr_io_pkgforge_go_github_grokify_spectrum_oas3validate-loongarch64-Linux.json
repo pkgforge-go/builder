@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "oas3validate",
+  "pkg_family": "spectrum",
+  "pkg_id": "oas3validate#github.com_grokify_spectrum",
+  "pkg_name": "oas3validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grokify/spectrum",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenAPI Spec SDK and Converter for OpenAPI 3.0 and 2.0 Specs to Postman 2.0 Collections. Example RingCentral spec included.",
+  "homepage": [
+    "https://github.com/grokify/spectrum"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiregistry",
+    "oas2meta",
+    "oas3lint",
+    "oas3validate",
+    "openapi2csv",
+    "openapi2postman",
+    "openapi2to3",
+    "openapi3table",
+    "operations",
+    "ringcentral",
+    "ringcentral-engage-digital",
+    "spectrum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grokify/spectrum/archive/5002ca4c7f95ac57049f67b218aa294699195cd8.tar.gz"
+  ],
+  "tag": [
+    "glip",
+    "golang",
+    "postman",
+    "postman-collection",
+    "ringcentral",
+    "swagger",
+    "swagger-specification"
+  ],
+  "version": "HEAD-5002ca4-250628T044415",
+  "version_upstream": "",
+  "bsum": "652e981f59c49d940f597b0d613b08abba53636461c67bc5052c31975b143374",
+  "build_date": "2025-06-28T19:39:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947192612",
+  "build_id": "15947192612",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/spectrum/oas3validate?tag=HEAD-5002ca4-250628T044415-loongarch64-Linux&download=oas3validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "114",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/spectrum/oas3validate?tag=HEAD-5002ca4-250628T044415-loongarch64-Linux&download=oas3validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grokify/spectrum/oas3validate:HEAD-5002ca4-250628T044415-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grokify/spectrum/oas3validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/spectrum/oas3validate?tag=HEAD-5002ca4-250628T044415-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "248ce842b76953e8b0e41e8eee32257fd254a1c1218d090e187bc899c86c90e4",
+  "size": "16 MB",
+  "size_raw": "16651680",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-648c256-250623T012402-loongarch64-Linux[v1.20.0]"
+  ],
+  "trusted": "true"
+}
