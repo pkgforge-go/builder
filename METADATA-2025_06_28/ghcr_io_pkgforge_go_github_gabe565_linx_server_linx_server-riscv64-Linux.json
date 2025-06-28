@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "linx-server",
+  "pkg_family": "linx-server",
+  "pkg_id": "linx-server#github.com_gabe565_linx_server",
+  "pkg_name": "linx-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gabe565/linx-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Self-hosted file/media sharing website.",
+  "homepage": [
+    "https://github.com/gabe565/linx-server"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "completions",
+    "docs",
+    "generate_example",
+    "linx-server",
+    "manpages"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gabe565/linx-server/archive/0fd0eb8ac252f9913713fad9bf4feda98250d3de.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-0fd0eb8-250626T233530",
+  "version_upstream": "",
+  "bsum": "6e100e646cf9f5be0bf1b445183fe5d54321bac3a0809ad4e91446cfaedf2363",
+  "build_date": "2025-06-28T16:09:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945733764",
+  "build_id": "15945733764",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gabe565/linx-server/linx-server?tag=HEAD-0fd0eb8-250626T233530-riscv64-Linux&download=linx-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gabe565/linx-server/linx-server?tag=HEAD-0fd0eb8-250626T233530-riscv64-Linux&download=linx-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gabe565/linx-server/linx-server:HEAD-0fd0eb8-250626T233530-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gabe565/linx-server/linx-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gabe565/linx-server/linx-server?tag=HEAD-0fd0eb8-250626T233530-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9b17c1035572baf8e00a4a658300a327a89284b0a191fdd63b19b7f670c51c1",
+  "size": "13 MB",
+  "size_raw": "13164248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
