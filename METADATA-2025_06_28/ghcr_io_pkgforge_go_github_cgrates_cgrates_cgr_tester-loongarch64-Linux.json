@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cgr-tester",
+  "pkg_family": "cgrates",
+  "pkg_id": "cgr-tester#github.com_cgrates_cgrates",
+  "pkg_name": "cgr-tester",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cgrates/cgrates",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real-time Charging System for Telecom _ ISP environments",
+  "homepage": [
+    "https://github.com/cgrates/cgrates"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdr_repl",
+    "cgr-console",
+    "cgr-engine",
+    "cgr-loader",
+    "cgr-migrator",
+    "cgr-tester",
+    "generate_config",
+    "parallel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cgrates/cgrates/archive/d7254ff73cf805cfa1202e37a4db22d7724c2e47.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d7254ff-250627T204621",
+  "version_upstream": "",
+  "bsum": "5ce9dada5a33f496c206c8b4e40dc17fc760ef9fe0528573be617c0143fe4da1",
+  "build_date": "2025-06-28T07:35:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941587309",
+  "build_id": "15941587309",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/cgr-tester?tag=HEAD-d7254ff-250627T204621-loongarch64-Linux&download=cgr-tester.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "459",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/cgr-tester?tag=HEAD-d7254ff-250627T204621-loongarch64-Linux&download=cgr-tester",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cgrates/cgrates/cgr-tester:HEAD-d7254ff-250627T204621-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cgrates/cgrates/cgr-tester",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/cgr-tester?tag=HEAD-d7254ff-250627T204621-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85993aca753190d5c0de2bbbdaca0206be86d381b3f952504cda10cb90215170",
+  "size": "32 MB",
+  "size_raw": "33548120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
