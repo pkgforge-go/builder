@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bufstyle",
+  "pkg_family": "buf",
+  "pkg_id": "bufstyle#github.com_bufbuild_buf",
+  "pkg_name": "bufstyle",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/buf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The best way of working with Protocol Buffers.",
+  "homepage": [
+    "https://github.com/bufbuild/buf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandeps",
+    "buf",
+    "buf-digest",
+    "buf-legacyfederation-go-data",
+    "buf-new-commit-id",
+    "buf-plugin-duplicate-category",
+    "buf-plugin-duplicate-rule",
+    "buf-plugin-panic",
+    "buf-plugin-protovalidate-ext",
+    "buf-plugin-rpc-ext",
+    "buf-plugin-suffix",
+    "bufstyle",
+    "ddiff",
+    "git-ls-files-unstaged",
+    "license-header",
+    "protoc-gen-buf-breaking",
+    "protoc-gen-buf-lint",
+    "protoc-gen-insertion-point-receiver",
+    "protoc-gen-insertion-point-writer",
+    "protoc-gen-top-level-type-names-yaml",
+    "storage-go-data",
+    "wkt-go-data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/buf/archive/87d9edb5dc9214c23d6973d72696a6892ac088be.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-87d9edb-250627T172621",
+  "version_upstream": "",
+  "bsum": "1f0c21c188080a937fe4b325074df46ff985c49c0585ab9154a1fab78d0d3374",
+  "build_date": "2025-06-28T10:12:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942891657",
+  "build_id": "15942891657",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/bufstyle?tag=HEAD-87d9edb-250627T172621-aarch64-Linux&download=bufstyle.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/bufstyle?tag=HEAD-87d9edb-250627T172621-aarch64-Linux&download=bufstyle",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/buf/bufstyle:HEAD-87d9edb-250627T172621-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/buf/bufstyle",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/bufstyle?tag=HEAD-87d9edb-250627T172621-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1db19e84ff9fbdf52258e82b64d74e79ea7812b076ab2e985ff180323103fe2e",
+  "size": "6.8 MB",
+  "size_raw": "7052480",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-139f92e-250618T175024-aarch64-Linux",
+    "HEAD-f280099-250623T103920-aarch64-Linux",
+    "HEAD-9706401-250623T133734-aarch64-Linux",
+    "HEAD-8f9f45a-250624T105822-aarch64-Linux",
+    "HEAD-8b0d081-250626T170845-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
