@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bulkbench",
+  "pkg_family": "go-hdb",
+  "pkg_id": "bulkbench#github.com_SAP_go_hdb",
+  "pkg_name": "bulkbench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SAP/go-hdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SAP HANA Database Client for Go",
+  "homepage": [
+    "https://github.com/SAP/go-hdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bulkbench",
+    "sniffer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SAP/go-hdb/archive/57d318358cf038326a6d69485b9c0ac2f80d2c19.tar.gz"
+  ],
+  "tag": [
+    "client",
+    "database-driver",
+    "driver",
+    "go",
+    "golang",
+    "hana",
+    "hdb",
+    "native",
+    "native-go",
+    "sap"
+  ],
+  "version": "HEAD-57d3183-250628T004051",
+  "version_upstream": "v1.13.9",
+  "bsum": "f24c939222ef031d981ea50149956a168f9850c4d7cde84ccba614f2f4e57bac",
+  "build_date": "2025-06-28T07:05:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941553924",
+  "build_id": "15941553924",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/go-hdb/bulkbench?tag=HEAD-57d3183-250628T004051-riscv64-Linux&download=bulkbench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "178",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/go-hdb/bulkbench?tag=HEAD-57d3183-250628T004051-riscv64-Linux&download=bulkbench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/go-hdb/bulkbench:HEAD-57d3183-250628T004051-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/go-hdb/bulkbench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/go-hdb/bulkbench?tag=HEAD-57d3183-250628T004051-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3383351e7e662b197d8e560169a91c001f8de34b480cafab5210e16ae780d92",
+  "size": "10 MB",
+  "size_raw": "10438808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
