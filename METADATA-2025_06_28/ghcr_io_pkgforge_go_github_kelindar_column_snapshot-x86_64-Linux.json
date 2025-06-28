@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "snapshot",
+  "pkg_family": "column",
+  "pkg_id": "snapshot#github.com_kelindar_column",
+  "pkg_name": "snapshot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelindar/column",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance, columnar, in-memory store with bitmap indexing in Go",
+  "homepage": [
+    "https://github.com/kelindar/column"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench",
+    "cache",
+    "codegen",
+    "merge",
+    "million",
+    "simple",
+    "snapshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelindar/column/archive/b35d478cda58087266d177b265bc8b29859c721e.tar.gz"
+  ],
+  "tag": [
+    "bitmap",
+    "columnar-storage",
+    "data-oriented",
+    "db",
+    "indexing",
+    "soa"
+  ],
+  "version": "HEAD-b35d478-250628T131601",
+  "version_upstream": "",
+  "bsum": "5852f23dc4417b111bab9c7c45a8d282ac57c7047ac04362728990697858fe03",
+  "build_date": "2025-06-28T19:54:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947210855",
+  "build_id": "15947210855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/snapshot?tag=HEAD-b35d478-250628T131601-x86_64-Linux&download=snapshot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1477",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/snapshot?tag=HEAD-b35d478-250628T131601-x86_64-Linux&download=snapshot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelindar/column/snapshot:HEAD-b35d478-250628T131601-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelindar/column/snapshot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/snapshot?tag=HEAD-b35d478-250628T131601-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "819aa3ecadbfc9ea7efe3d4c40deec42e42d03f9b23c3fdca96897086638c689",
+  "size": "2.6 MB",
+  "size_raw": "2675168",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0af9c37-231013T235249-x86_64-Linux[v0.4.1]"
+  ],
+  "trusted": "true"
+}
