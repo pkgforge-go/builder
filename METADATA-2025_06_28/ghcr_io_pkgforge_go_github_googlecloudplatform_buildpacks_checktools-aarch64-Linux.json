@@ -1,0 +1,109 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "checktools",
+  "pkg_family": "buildpacks",
+  "pkg_id": "checktools#github.com_GoogleCloudPlatform_buildpacks",
+  "pkg_name": "checktools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/buildpacks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Builders and buildpacks designed to run on Google Cloud_s container platforms",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/buildpacks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "appengine_gopath",
+    "appengine_main",
+    "appengine_validation",
+    "archive_source",
+    "bundle",
+    "checktools",
+    "clear_source",
+    "cloudfunctions",
+    "cmd",
+    "compile",
+    "entrypoint",
+    "exploded_jar",
+    "firebaseangular",
+    "firebasebundle",
+    "firebasenextjs",
+    "firebasenx",
+    "flex",
+    "flex_entrypoint",
+    "flex_gomod",
+    "functions_framework",
+    "get_package",
+    "graalvm",
+    "gradle",
+    "label",
+    "legacy_worker",
+    "maven",
+    "native_image",
+    "npm",
+    "pnpm",
+    "preparer",
+    "pub",
+    "publisher",
+    "rails",
+    "rubygems",
+    "yarn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/buildpacks/archive/6994b20ec52b70da0b8ce0934ebb25eba6809f52.tar.gz"
+  ],
+  "tag": [
+    "buildpacks",
+    "buildpacksv3",
+    "container-image",
+    "golang",
+    "java",
+    "nodejs",
+    "oci-image",
+    "python"
+  ],
+  "version": "HEAD-6994b20-250627T103204",
+  "version_upstream": "",
+  "bsum": "752e8cc06d6a9d01b33c31023791188773947d6b9ade1c6dbe581431fb30dbfb",
+  "build_date": "2025-06-28T10:08:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890730",
+  "build_id": "15942890730",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/checktools?tag=HEAD-6994b20-250627T103204-aarch64-Linux&download=checktools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/checktools?tag=HEAD-6994b20-250627T103204-aarch64-Linux&download=checktools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/buildpacks/checktools:HEAD-6994b20-250627T103204-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/buildpacks/checktools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/checktools?tag=HEAD-6994b20-250627T103204-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2502ac3ff62f3e040cd80ed05a80dadb6a4028a8e2243b284df0d9c9cadff348",
+  "size": "2.3 MB",
+  "size_raw": "2326872",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-69e55ed-250620T020310-aarch64-Linux",
+    "HEAD-ddf501a-250623T045824-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
