@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ifwait",
+  "pkg_family": "satpulse",
+  "pkg_id": "ifwait#github.com_jclark_satpulse",
+  "pkg_name": "ifwait",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jclark/satpulse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Use a GPS receiver as a source of time for a PTP and NTP server",
+  "homepage": [
+    "https://github.com/jclark/satpulse"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devtest",
+    "ifwait",
+    "satpulsed",
+    "satpulsetool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jclark/satpulse/archive/78eb4361db935c651bd9e737b79ae57a7fcd5e0c.tar.gz"
+  ],
+  "tag": [
+    "chrony",
+    "gnss",
+    "go",
+    "gps",
+    "linuxptp",
+    "ntp",
+    "ptp",
+    "ublox"
+  ],
+  "version": "HEAD-78eb436-250626T063013",
+  "version_upstream": "",
+  "bsum": "b1f92bf301f6781549d782175c904ff4b53c14b7ad190e3e2954b929a5aff33b",
+  "build_date": "2025-06-28T13:59:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944472379",
+  "build_id": "15944472379",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/ifwait?tag=HEAD-78eb436-250626T063013-x86_64-Linux&download=ifwait.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/ifwait?tag=HEAD-78eb436-250626T063013-x86_64-Linux&download=ifwait",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jclark/satpulse/ifwait:HEAD-78eb436-250626T063013-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jclark/satpulse/ifwait",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/ifwait?tag=HEAD-78eb436-250626T063013-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80a93c00b3b3e9c0a67d8e04e8dfa1c7c5857f6c865621d2f62775198d70dd36",
+  "size": "2.3 MB",
+  "size_raw": "2341080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-85c2247-250521T014644-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
