@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "skaffold",
+  "pkg_id": "webhook#github.com_GoogleContainerTools_skaffold",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleContainerTools/skaffold",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Easy and Repeatable Kubernetes Development",
+  "homepage": [
+    "https://github.com/GoogleContainerTools/skaffold"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bazel",
+    "comparisonstats",
+    "latest",
+    "latest_released",
+    "mark_latest_released",
+    "new",
+    "patch-dashboard",
+    "release",
+    "schema_check",
+    "schemas",
+    "struct-json",
+    "tests",
+    "update_comments",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleContainerTools/skaffold/archive/f460879efa2e0c2c6d14a193791c9483001f149f.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "developer-tools",
+    "docker",
+    "kubernetes"
+  ],
+  "version": "HEAD-f460879-250612T153012",
+  "version_upstream": "",
+  "bsum": "9cb914a4fe7febc02abcdf7130c92d92324b0328c3d8858aa0f44499d6e13707",
+  "build_date": "2025-06-28T07:17:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941543719",
+  "build_id": "15941543719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/webhook?tag=HEAD-f460879-250612T153012-aarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/webhook?tag=HEAD-f460879-250612T153012-aarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecontainertools/skaffold/webhook:HEAD-f460879-250612T153012-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecontainertools/skaffold/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/webhook?tag=HEAD-f460879-250612T153012-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7c6d5aad441a293436a2b4366999a9881e9b9887da13c91aa4f8bbc0ecd2ac9",
+  "size": "68 MB",
+  "size_raw": "71084736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
