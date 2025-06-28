@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ipswd",
+  "pkg_family": "ipsw",
+  "pkg_id": "ipswd#github.com_blacktop_ipsw",
+  "pkg_name": "ipswd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blacktop/ipsw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "iOS/macOS Research Swiss Army Knife",
+  "homepage": [
+    "https://github.com/blacktop/ipsw"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipsw",
+    "ipswd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blacktop/ipsw/archive/3cded00f5968bdce0fe65721d0533a0671ae4d87.tar.gz"
+  ],
+  "tag": [
+    "apple",
+    "class-dump",
+    "dyld",
+    "dyld-shared-cache",
+    "firmware",
+    "golang",
+    "img4",
+    "ios",
+    "ipsw",
+    "kernelcache",
+    "lzfse",
+    "lzss",
+    "macho",
+    "macho-parser",
+    "macos",
+    "ota",
+    "swift",
+    "swift-dump"
+  ],
+  "version": "HEAD-3cded00-250628T015440",
+  "version_upstream": "v3.1.617",
+  "bsum": "59731d27ec21581905b226da51797e529cf50a810106eeed0f6ffda4320b0cbd",
+  "build_date": "2025-06-28T19:19:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947170468",
+  "build_id": "15947170468",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacktop/ipsw/ipswd?tag=HEAD-3cded00-250628T015440-aarch64-Linux&download=ipswd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2527",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacktop/ipsw/ipswd?tag=HEAD-3cded00-250628T015440-aarch64-Linux&download=ipswd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blacktop/ipsw/ipswd:HEAD-3cded00-250628T015440-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blacktop/ipsw/ipswd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacktop/ipsw/ipswd?tag=HEAD-3cded00-250628T015440-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "33427c1a8ea5ddb6e12979c78449bf65b2ccc657111c1dc2b6d79eff9f6b010a",
+  "size": "46 MB",
+  "size_raw": "48197760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9cd42e3-250618T162930-aarch64-Linux[v3.1.615]",
+    "HEAD-3fca987-250622T154127-aarch64-Linux",
+    "HEAD-da5a399-250624T083927-aarch64-Linux",
+    "HEAD-98fad5d-250624T190612-aarch64-Linux",
+    "HEAD-13b8bde-250625T090322-aarch64-Linux",
+    "HEAD-823fed5-250626T122327-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
