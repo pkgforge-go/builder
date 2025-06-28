@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "app",
+  "pkg_family": "porter",
+  "pkg_id": "app#github.com_getporter_porter",
+  "pkg_name": "app",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getporter/porter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
+  "homepage": [
+    "https://github.com/getporter/porter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "exec",
+    "porter",
+    "testmixin",
+    "testplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getporter/porter/archive/d3035e6140e24d33741a6c4f8bbb0c16ac6a4928.tar.gz"
+  ],
+  "tag": [
+    "cnab",
+    "cncf",
+    "hacktoberfest",
+    "porter"
+  ],
+  "version": "HEAD-d3035e6-250627T214337",
+  "version_upstream": "canary",
+  "bsum": "a7e2d4fb1c4a9784f9ac17cb53ebea328f17f6e53fed721a2d1524448509fcb2",
+  "build_date": "2025-06-28T10:42:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942920579",
+  "build_id": "15942920579",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/app?tag=HEAD-d3035e6-250627T214337-aarch64-Linux&download=app.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1320",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/app?tag=HEAD-d3035e6-250627T214337-aarch64-Linux&download=app",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getporter/porter/app:HEAD-d3035e6-250627T214337-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getporter/porter/app",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/app?tag=HEAD-d3035e6-250627T214337-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e6f3b73c03ce619378e2437a1162ba93e1c1fef5bf1351a071d37b8ff13e408",
+  "size": "5.5 MB",
+  "size_raw": "5707744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8a0e0b3-250616T194727-aarch64-Linux[canary]",
+    "HEAD-8000b91-250622T212350-aarch64-Linux[canary]",
+    "HEAD-31409d0-250625T145000-aarch64-Linux[canary]",
+    "HEAD-42aedf2-250626T225621-aarch64-Linux[canary]"
+  ],
+  "trusted": "true"
+}
