@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "http-server",
+  "pkg_family": "go-whosonfirst-spatial-pmtiles",
+  "pkg_id": "http-server#github.com_whosonfirst_go_whosonfirst_spatial_pmtiles",
+  "pkg_name": "http-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package to implement the whosonfirst/go-whosonfirst-spatial interfaces using a Protomaps .pmtiles database.",
+  "homepage": [
+    "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-client",
+    "grpc-server",
+    "http-server",
+    "intersects",
+    "pip",
+    "pmtile",
+    "update-hierarchies"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles/archive/cf48b812bcbfa44b4ded4aa78bbe27921074cdc1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cf48b81-250628T064130",
+  "version_upstream": "v0.9.1",
+  "bsum": "e76d14391acca75464ad25d2c282fe3747cc7500b86335012335a9915d61ddfd",
+  "build_date": "2025-06-28T17:03:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945895313",
+  "build_id": "15945895313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/http-server?tag=HEAD-cf48b81-250628T064130-aarch64-Linux&download=http-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/http-server?tag=HEAD-cf48b81-250628T064130-aarch64-Linux&download=http-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/http-server:HEAD-cf48b81-250628T064130-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/http-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/http-server?tag=HEAD-cf48b81-250628T064130-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f36ad838eea49a8e00d8e7e22350590a8b3880777bb377206320274e17a17498",
+  "size": "75 MB",
+  "size_raw": "77778944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
