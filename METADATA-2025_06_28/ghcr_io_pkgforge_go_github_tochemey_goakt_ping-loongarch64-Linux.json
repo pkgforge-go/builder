@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ping",
+  "pkg_family": "goakt",
+  "pkg_id": "ping#github.com_Tochemey_goakt",
+  "pkg_name": "ping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Tochemey/goakt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "[Go] Distributed Actor framework using protocol buffers as message for Golang",
+  "homepage": [
+    "https://github.com/Tochemey/goakt"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ping",
+    "pong"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Tochemey/goakt/archive/1ff8de7871e1adc659e341889c051229edf5ed8e.tar.gz"
+  ],
+  "tag": [
+    "actor-framework",
+    "actor-model",
+    "actor-system",
+    "actors",
+    "actorsystem",
+    "cloud-computing",
+    "concurrent-programming",
+    "distributed",
+    "distributed-system",
+    "distributed-systems",
+    "erlang-otp",
+    "event-sourcing",
+    "framework",
+    "go",
+    "go-actor",
+    "golang",
+    "golang-library",
+    "high-performance",
+    "proto",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-1ff8de7-250628T004034",
+  "version_upstream": "",
+  "bsum": "710ae2b61653c613bdc86b6c0a6c7c5f3005991e54407a7330422446eb48239c",
+  "build_date": "2025-06-28T13:16:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944417921",
+  "build_id": "15944417921",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tochemey/goakt/ping?tag=HEAD-1ff8de7-250628T004034-loongarch64-Linux&download=ping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "259",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tochemey/goakt/ping?tag=HEAD-1ff8de7-250628T004034-loongarch64-Linux&download=ping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tochemey/goakt/ping:HEAD-1ff8de7-250628T004034-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tochemey/goakt/ping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tochemey/goakt/ping?tag=HEAD-1ff8de7-250628T004034-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9668846d376ba64241e939bbf2e5f11f30c2a0956f6b043eff416237a35c0973",
+  "size": "35 MB",
+  "size_raw": "35826592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7f41e6a-250618T233233-loongarch64-Linux",
+    "HEAD-c24f07c-250623T091618-loongarch64-Linux",
+    "HEAD-a913f01-250624T075857-loongarch64-Linux",
+    "HEAD-559c61b-250625T011057-loongarch64-Linux[v3.6.6]"
+  ],
+  "trusted": "true"
+}
