@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "filodb",
+  "pkg_family": "FiloDB",
+  "pkg_id": "filodb#github.com_sharvitKashikar_FiloDB",
+  "pkg_name": "filodb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sharvitKashikar/FiloDB",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight, high-performance database system written in Go having Interactive command-based database with B+ tree storage, ACID transactions, and memory-mapped I/O",
+  "homepage": [
+    "https://github.com/sharvitKashikar/FiloDB"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "filodb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sharvitKashikar/FiloDB/archive/e2b049930c5a544113ce3299659a1c7f8bc16f8b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e2b0499-250628T191048",
+  "version_upstream": "",
+  "bsum": "19fd0e660daddee3ce036d65b851b66005c77b2f38fb1d6f5c7860f0800bbfdb",
+  "build_date": "2025-06-28T20:26:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947287626",
+  "build_id": "15947287626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-e2b0499-250628T191048-loongarch64-Linux&download=filodb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "56",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-e2b0499-250628T191048-loongarch64-Linux&download=filodb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sharvitkashikar/filodb/filodb:HEAD-e2b0499-250628T191048-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sharvitkashikar/filodb/filodb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-e2b0499-250628T191048-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f1465a1a8188ce7c282cbe0821540b70c5c5d2ca35a6800634483d42ef8e65a7",
+  "size": "2.5 MB",
+  "size_raw": "2519896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b7b8bf2-250625T232208-loongarch64-Linux",
+    "HEAD-c1db78f-250626T160518-loongarch64-Linux",
+    "HEAD-c816139-250627T001222-loongarch64-Linux",
+    "HEAD-d0b1d0c-250627T161823-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
