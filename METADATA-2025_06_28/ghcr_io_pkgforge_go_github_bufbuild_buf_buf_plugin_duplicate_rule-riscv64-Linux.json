@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "buf-plugin-duplicate-rule",
+  "pkg_family": "buf",
+  "pkg_id": "buf-plugin-duplicate-rule#github.com_bufbuild_buf",
+  "pkg_name": "buf-plugin-duplicate-rule",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/buf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The best way of working with Protocol Buffers.",
+  "homepage": [
+    "https://github.com/bufbuild/buf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandeps",
+    "buf",
+    "buf-digest",
+    "buf-legacyfederation-go-data",
+    "buf-new-commit-id",
+    "buf-plugin-duplicate-category",
+    "buf-plugin-duplicate-rule",
+    "buf-plugin-panic",
+    "buf-plugin-protovalidate-ext",
+    "buf-plugin-rpc-ext",
+    "buf-plugin-suffix",
+    "bufstyle",
+    "ddiff",
+    "git-ls-files-unstaged",
+    "license-header",
+    "protoc-gen-buf-breaking",
+    "protoc-gen-buf-lint",
+    "protoc-gen-insertion-point-receiver",
+    "protoc-gen-insertion-point-writer",
+    "protoc-gen-top-level-type-names-yaml",
+    "storage-go-data",
+    "wkt-go-data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/buf/archive/87d9edb5dc9214c23d6973d72696a6892ac088be.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-87d9edb-250627T172621",
+  "version_upstream": "",
+  "bsum": "e4e43f31aceb37f69cff4ea97d2b4690d34952a1883be1c3de396b4850d6646e",
+  "build_date": "2025-06-28T10:14:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942891657",
+  "build_id": "15942891657",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-duplicate-rule?tag=HEAD-87d9edb-250627T172621-riscv64-Linux&download=buf-plugin-duplicate-rule.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-duplicate-rule?tag=HEAD-87d9edb-250627T172621-riscv64-Linux&download=buf-plugin-duplicate-rule",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/buf/buf-plugin-duplicate-rule:HEAD-87d9edb-250627T172621-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/buf/buf-plugin-duplicate-rule",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-duplicate-rule?tag=HEAD-87d9edb-250627T172621-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5b9effb561e14311a24b0fe414beb56bc8c369af6820694dce3bd2731a82f653",
+  "size": "11 MB",
+  "size_raw": "10776840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-139f92e-250618T175024-riscv64-Linux",
+    "HEAD-f280099-250623T103920-riscv64-Linux",
+    "HEAD-9706401-250623T133734-riscv64-Linux",
+    "HEAD-8f9f45a-250624T105822-riscv64-Linux",
+    "HEAD-8b0d081-250626T170845-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
