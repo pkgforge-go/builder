@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "genconfig",
+  "pkg_family": "katzenpost",
+  "pkg_id": "genconfig#github.com_katzenpost_katzenpost",
+  "pkg_name": "genconfig",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/katzenpost/katzenpost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
+  "homepage": [
+    "https://github.com/katzenpost/katzenpost"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "courier",
+    "dirauth",
+    "echo-plugin",
+    "fetch",
+    "genconfig",
+    "genkeypair",
+    "gensphinx",
+    "http-proxy-client",
+    "http-proxy-server",
+    "katzencat",
+    "katzencopy",
+    "kpclientd",
+    "map",
+    "ping",
+    "server",
+    "sphinx"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/katzenpost/katzenpost/archive/65cceed6bcb5ab659d3d20ec041f936a8cc69154.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-65cceed-250627T112959",
+  "version_upstream": "v0.0.50",
+  "bsum": "2f1001a0e3b1337139005db801aa83be417182c3b672251c92ee93ee0079ed50",
+  "build_date": "2025-06-28T11:25:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942933129",
+  "build_id": "15942933129",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/genconfig?tag=HEAD-65cceed-250627T112959-x86_64-Linux&download=genconfig.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/genconfig?tag=HEAD-65cceed-250627T112959-x86_64-Linux&download=genconfig",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/katzenpost/katzenpost/genconfig:HEAD-65cceed-250627T112959-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/katzenpost/katzenpost/genconfig",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/genconfig?tag=HEAD-65cceed-250627T112959-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "477447e0e2e3fd50a9b4ca0beeafa88f6de7127aff37e0dc531a1f17a85bf06a",
+  "size": "7.6 MB",
+  "size_raw": "7949760",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6de7519-250619T130558-x86_64-Linux",
+    "HEAD-e51ec02-250624T163441-x86_64-Linux",
+    "HEAD-6151eac-250626T185056-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

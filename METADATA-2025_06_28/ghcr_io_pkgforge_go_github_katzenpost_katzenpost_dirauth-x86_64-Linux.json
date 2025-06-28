@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dirauth",
+  "pkg_family": "katzenpost",
+  "pkg_id": "dirauth#github.com_katzenpost_katzenpost",
+  "pkg_name": "dirauth",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/katzenpost/katzenpost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
+  "homepage": [
+    "https://github.com/katzenpost/katzenpost"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "courier",
+    "dirauth",
+    "echo-plugin",
+    "fetch",
+    "genconfig",
+    "genkeypair",
+    "gensphinx",
+    "http-proxy-client",
+    "http-proxy-server",
+    "katzencat",
+    "katzencopy",
+    "kpclientd",
+    "map",
+    "ping",
+    "server",
+    "sphinx"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/katzenpost/katzenpost/archive/65cceed6bcb5ab659d3d20ec041f936a8cc69154.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-65cceed-250627T112959",
+  "version_upstream": "v0.0.50",
+  "bsum": "8522ed5ea822e18ccf8b81ee3fb04f1ecd440fa0c07b55608c1820d376428814",
+  "build_date": "2025-06-28T11:27:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942933129",
+  "build_id": "15942933129",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/dirauth?tag=HEAD-65cceed-250627T112959-x86_64-Linux&download=dirauth.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "117",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/dirauth?tag=HEAD-65cceed-250627T112959-x86_64-Linux&download=dirauth",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/katzenpost/katzenpost/dirauth:HEAD-65cceed-250627T112959-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/katzenpost/katzenpost/dirauth",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/katzenpost/katzenpost/dirauth?tag=HEAD-65cceed-250627T112959-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "423ef24e8d8b34586f615ddf463b0c7e905f1073b64865401027da519ad3dd2d",
+  "size": "12 MB",
+  "size_raw": "12325664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6de7519-250619T130558-x86_64-Linux",
+    "HEAD-e51ec02-250624T163441-x86_64-Linux",
+    "HEAD-6151eac-250626T185056-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
