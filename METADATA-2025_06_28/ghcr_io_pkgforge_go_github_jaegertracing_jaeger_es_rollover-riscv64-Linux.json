@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "es-rollover",
+  "pkg_family": "jaeger",
+  "pkg_id": "es-rollover#github.com_jaegertracing_jaeger",
+  "pkg_name": "es-rollover",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jaegertracing/jaeger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNCF Jaeger, a Distributed Tracing Platform",
+  "homepage": [
+    "https://github.com/jaegertracing/jaeger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "all-in-one",
+    "anonymizer",
+    "collector",
+    "crossdock",
+    "es-index-cleaner",
+    "es-rollover",
+    "esmapping-generator",
+    "hotrod",
+    "ingester",
+    "jaeger",
+    "query",
+    "remote-storage",
+    "savetracetest",
+    "tracegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jaegertracing/jaeger/archive/953a0359d6eac029e8a234e531f8d031c8e5c589.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "distributed-tracing",
+    "hacktoberfest",
+    "jaeger",
+    "observability",
+    "opentelemetry",
+    "tracing"
+  ],
+  "version": "HEAD-953a035-250628T074945",
+  "version_upstream": "",
+  "bsum": "8cc798976e6f7e5a575b17d2d2af7b43c1f91219f0d4e5cda78f388ae2b01c32",
+  "build_date": "2025-06-28T20:02:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947209452",
+  "build_id": "15947209452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/es-rollover?tag=HEAD-953a035-250628T074945-riscv64-Linux&download=es-rollover.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21518",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/es-rollover?tag=HEAD-953a035-250628T074945-riscv64-Linux&download=es-rollover",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaegertracing/jaeger/es-rollover:HEAD-953a035-250628T074945-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jaegertracing/jaeger/es-rollover",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/es-rollover?tag=HEAD-953a035-250628T074945-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "def048bd264ed23df8a8098b0b8b774d49da1ab9b555433e549777962f2f37e8",
+  "size": "17 MB",
+  "size_raw": "17700536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87d9b57-250618T215447-riscv64-Linux",
+    "HEAD-a5ba290-250620T202315-riscv64-Linux",
+    "HEAD-b86d1fd-250623T234236-riscv64-Linux",
+    "HEAD-b1a0a5e-250624T101024-riscv64-Linux",
+    "HEAD-a91e2ee-250625T005354-riscv64-Linux",
+    "HEAD-461923b-250625T042325-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
