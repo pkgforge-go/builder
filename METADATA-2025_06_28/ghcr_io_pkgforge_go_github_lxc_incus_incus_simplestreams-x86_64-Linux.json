@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "incus-simplestreams",
+  "pkg_family": "incus",
+  "pkg_id": "incus-simplestreams#github.com_lxc_incus",
+  "pkg_name": "incus-simplestreams",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lxc/incus",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/lxc/incus"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev_incus-client",
+    "generate-config",
+    "generate-database",
+    "incus",
+    "incus-benchmark",
+    "incus-migrate",
+    "incus-simplestreams",
+    "lxd-to-incus",
+    "mini-oidc",
+    "sysinfo",
+    "tls2jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/lxc/incus/archive/7f792e6fabf6cac20dc656ecbed4ab95e9f3a9e2.tar.gz"
+  ],
+  "tag": [
+    "cloud",
+    "containers",
+    "hacktoberfest",
+    "virtual-machines"
+  ],
+  "version": "HEAD-7f792e6-250627T153255",
+  "version_upstream": "",
+  "bsum": "3264b1f235412e386fd55db8637b3fbbd6d806947b4021c37ec2f577c344d58e",
+  "build_date": "2025-06-28T14:12:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944479424",
+  "build_id": "15944479424",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/incus-simplestreams?tag=HEAD-7f792e6-250627T153255-x86_64-Linux&download=incus-simplestreams.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3664",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/incus-simplestreams?tag=HEAD-7f792e6-250627T153255-x86_64-Linux&download=incus-simplestreams",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxc/incus/incus-simplestreams:HEAD-7f792e6-250627T153255-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxc/incus/incus-simplestreams",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxc/incus/incus-simplestreams?tag=HEAD-7f792e6-250627T153255-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb84601565004bdf999abee82344cf7e2b460e73894c6adee4481933c335ba16",
+  "size": "15 MB",
+  "size_raw": "15231008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-28452f9-250621T051047-x86_64-Linux",
+    "HEAD-f5f24e3-250622T192220-x86_64-Linux",
+    "HEAD-e1e6eb4-250624T211009-x86_64-Linux",
+    "HEAD-6a5c119-250625T080657-x86_64-Linux",
+    "HEAD-9e6c27e-250626T210253-x86_64-Linux",
+    "HEAD-c32128d-250627T093300-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
