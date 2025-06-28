@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "plugin",
+  "pkg_family": "fabric",
+  "pkg_id": "plugin#github.com_hyperledger_fabric",
+  "pkg_name": "plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hyperledger/fabric",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+  "homepage": [
+    "https://github.com/hyperledger/fabric"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "broadcast_config",
+    "broadcast_msg",
+    "cmd",
+    "cmdwithindexspec",
+    "cmdwithindexspecs",
+    "configtxgen",
+    "configtxlator",
+    "cryptogen",
+    "deliver_stdout",
+    "discover",
+    "ledgerutil",
+    "orderer",
+    "osnadmin",
+    "plugin",
+    "server",
+    "test-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hyperledger/fabric/archive/9fada9ff0bfde1788c94f1b2ec8af213bdb6e02a.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "confidentiality",
+    "consensus",
+    "distributed-ledger",
+    "fabric",
+    "hyperledger"
+  ],
+  "version": "HEAD-9fada9f-250628T014012",
+  "version_upstream": "",
+  "bsum": "c6986cdd191815cc788f2581edecd93aeebecba0bb92e2fee4e47ec83b721b5e",
+  "build_date": "2025-06-28T11:08:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942931050",
+  "build_id": "15942931050",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger/fabric/plugin?tag=HEAD-9fada9f-250628T014012-aarch64-Linux&download=plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger/fabric/plugin?tag=HEAD-9fada9f-250628T014012-aarch64-Linux&download=plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyperledger/fabric/plugin:HEAD-9fada9f-250628T014012-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyperledger/fabric/plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger/fabric/plugin?tag=HEAD-9fada9f-250628T014012-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c8b66121f46ccc3dfc417fc9e8169e689e051c97f383414e2e1cb7c0249b5c19",
+  "size": "11 MB",
+  "size_raw": "11380480",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-77db242-250622T224028-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
