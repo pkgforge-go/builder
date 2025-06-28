@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gitsign",
+  "pkg_family": "gitsign",
+  "pkg_id": "gitsign#github.com_sigstore_gitsign",
+  "pkg_name": "gitsign",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/gitsign",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Keyless Git signing using Sigstore",
+  "homepage": [
+    "https://github.com/sigstore/gitsign"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "gitsign",
+    "gitsign-credential-cache"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/gitsign/archive/1780d4c9ee5f5f12800bfaa495ab5883368b63b8.tar.gz"
+  ],
+  "tag": [
+    "git",
+    "signing",
+    "sigstore"
+  ],
+  "version": "HEAD-1780d4c-250627T211804",
+  "version_upstream": "",
+  "bsum": "944aeadcbe39819604a04ff23781e6c4cfc862cdc6f596b6bbe0f74982f3ea81",
+  "build_date": "2025-06-28T08:46:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941990526",
+  "build_id": "15941990526",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/gitsign/gitsign?tag=HEAD-1780d4c-250627T211804-x86_64-Linux&download=gitsign.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1003",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/gitsign/gitsign?tag=HEAD-1780d4c-250627T211804-x86_64-Linux&download=gitsign",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/gitsign/gitsign:HEAD-1780d4c-250627T211804-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/gitsign/gitsign",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/gitsign/gitsign?tag=HEAD-1780d4c-250627T211804-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "feca7f5986757acf852b300979bc6f029cca537c4c26fa30c141b8c14b18efed",
+  "size": "83 MB",
+  "size_raw": "86383232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
