@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "liqo",
+  "pkg_id": "cmd#github.com_liqotech_liqo",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/liqotech/liqo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enable dynamic and seamless Kubernetes multi-cluster topologies",
+  "homepage": [
+    "https://github.com/liqotech/liqo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "crd-replicator",
+    "fabric",
+    "gateway",
+    "geneve",
+    "ipam",
+    "liqo-controller-manager",
+    "liqoctl",
+    "metric-agent",
+    "proxy",
+    "telemetry",
+    "uninstaller",
+    "virtual-kubelet",
+    "webhook",
+    "wireguard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/liqotech/liqo/archive/c39e9fce0a99cc247a3fae7b27852ad2ae683ca6.tar.gz"
+  ],
+  "tag": [
+    "cloud-computing",
+    "clusters",
+    "k8s",
+    "kubernetes",
+    "kubernetes-clusters",
+    "liquid-computing",
+    "multi-cluster",
+    "resource-sharing"
+  ],
+  "version": "HEAD-c39e9fc-250610T162533",
+  "version_upstream": "",
+  "bsum": "3f3ec00039cd13a7de2e79f207ac4b57b0798116d3c62b01afb931a62a7237f4",
+  "build_date": "2025-06-28T16:45:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945758646",
+  "build_id": "15945758646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/cmd?tag=HEAD-c39e9fc-250610T162533-riscv64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1294",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/cmd?tag=HEAD-c39e9fc-250610T162533-riscv64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/liqotech/liqo/cmd:HEAD-c39e9fc-250610T162533-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/liqotech/liqo/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/cmd?tag=HEAD-c39e9fc-250610T162533-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a175787bf01a22058e66d01f6e8603b5efad08dfa97fd41518b2cfc4a81785c3",
+  "size": "134 MB",
+  "size_raw": "139940664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
