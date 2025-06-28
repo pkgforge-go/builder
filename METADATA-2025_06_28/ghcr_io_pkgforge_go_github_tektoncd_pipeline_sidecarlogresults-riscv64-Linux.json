@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sidecarlogresults",
+  "pkg_family": "pipeline",
+  "pkg_id": "sidecarlogresults#github.com_tektoncd_pipeline",
+  "pkg_name": "sidecarlogresults",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud-native Pipeline resource.",
+  "homepage": [
+    "https://github.com/tektoncd/pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "demoresolver",
+    "entrypoint",
+    "events",
+    "gohelloworld",
+    "nop",
+    "resolver",
+    "resolvers",
+    "sidecarlogresults",
+    "spec-gen",
+    "webhook",
+    "workingdirinit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/pipeline/archive/fa2dc2924ac1e36f4aab1b48c5d8e38a5f3fcdd8.tar.gz"
+  ],
+  "tag": [
+    "cdf",
+    "hacktoberfest",
+    "kubernetes",
+    "pipeline",
+    "tekton"
+  ],
+  "version": "HEAD-fa2dc29-250627T181955",
+  "version_upstream": "",
+  "bsum": "c353e1f9e859d903f90f4e61bd7d51d6340cfa37fd6d5d6f7e4cc6d6ba8b59c3",
+  "build_date": "2025-06-28T12:30:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943005005",
+  "build_id": "15943005005",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/sidecarlogresults?tag=HEAD-fa2dc29-250627T181955-riscv64-Linux&download=sidecarlogresults.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/sidecarlogresults?tag=HEAD-fa2dc29-250627T181955-riscv64-Linux&download=sidecarlogresults",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/pipeline/sidecarlogresults:HEAD-fa2dc29-250627T181955-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/pipeline/sidecarlogresults",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/sidecarlogresults?tag=HEAD-fa2dc29-250627T181955-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f54824b9ba337cf60be64e7595c34617f0ca2d39053316f4ec3768539fc5b598",
+  "size": "50 MB",
+  "size_raw": "51991608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87e29d8-250623T150154-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

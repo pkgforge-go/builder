@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "resolver",
+  "pkg_family": "pipeline",
+  "pkg_id": "resolver#github.com_tektoncd_pipeline",
+  "pkg_name": "resolver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud-native Pipeline resource.",
+  "homepage": [
+    "https://github.com/tektoncd/pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "demoresolver",
+    "entrypoint",
+    "events",
+    "gohelloworld",
+    "nop",
+    "resolver",
+    "resolvers",
+    "sidecarlogresults",
+    "spec-gen",
+    "webhook",
+    "workingdirinit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/pipeline/archive/fa2dc2924ac1e36f4aab1b48c5d8e38a5f3fcdd8.tar.gz"
+  ],
+  "tag": [
+    "cdf",
+    "hacktoberfest",
+    "kubernetes",
+    "pipeline",
+    "tekton"
+  ],
+  "version": "HEAD-fa2dc29-250627T181955",
+  "version_upstream": "",
+  "bsum": "62855da2276dd42732898d68d92c875957d6ca3a13839d38a1beebca883057de",
+  "build_date": "2025-06-28T12:31:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943005005",
+  "build_id": "15943005005",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/resolver?tag=HEAD-fa2dc29-250627T181955-riscv64-Linux&download=resolver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/resolver?tag=HEAD-fa2dc29-250627T181955-riscv64-Linux&download=resolver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/pipeline/resolver:HEAD-fa2dc29-250627T181955-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/pipeline/resolver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/resolver?tag=HEAD-fa2dc29-250627T181955-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be422a5839b405e8665689894e042414bc4cd556a0a6deb626549359d06c3ecb",
+  "size": "60 MB",
+  "size_raw": "62388600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87e29d8-250623T150154-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
