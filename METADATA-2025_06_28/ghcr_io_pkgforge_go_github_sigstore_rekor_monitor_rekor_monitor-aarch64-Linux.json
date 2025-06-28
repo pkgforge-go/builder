@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rekor_monitor",
+  "pkg_family": "rekor-monitor",
+  "pkg_id": "rekor_monitor#github.com_sigstore_rekor_monitor",
+  "pkg_name": "rekor_monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Log monitor for Rekor to verify immutability and monitor entries",
+  "homepage": [
+    "https://github.com/sigstore/rekor-monitor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ct_monitor",
+    "rekor_monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor-monitor/archive/7bd1b2dfba7971a47df12b97a76974e0223f8982.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7bd1b2d-250627T125218",
+  "version_upstream": "",
+  "bsum": "1693662d0f0e129e6b7d3c47e69d5fae40eb8a584d7d2e32b62c741470d00d54",
+  "build_date": "2025-06-28T08:45:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941992332",
+  "build_id": "15941992332",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-monitor/rekor_monitor?tag=HEAD-7bd1b2d-250627T125218-aarch64-Linux&download=rekor_monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-monitor/rekor_monitor?tag=HEAD-7bd1b2d-250627T125218-aarch64-Linux&download=rekor_monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor-monitor/rekor_monitor:HEAD-7bd1b2d-250627T125218-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor-monitor/rekor_monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-monitor/rekor_monitor?tag=HEAD-7bd1b2d-250627T125218-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "886cda290f0922ae61b3459428699dfc254e42c00fd063803e4e910b8c01ccfa",
+  "size": "25 MB",
+  "size_raw": "25795168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
