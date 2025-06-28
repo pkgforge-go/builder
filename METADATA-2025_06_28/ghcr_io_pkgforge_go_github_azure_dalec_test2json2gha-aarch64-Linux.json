@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "test2json2gha",
+  "pkg_family": "dalec",
+  "pkg_id": "test2json2gha#github.com_Azure_dalec",
+  "pkg_name": "test2json2gha",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/f4344d3bf094feb288596ef3137374bafabe737a.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-f4344d3-250627T164819",
+  "version_upstream": "",
+  "bsum": "b9fce1a81e051da86f1fe2fe7577996de160f334bd21ea12149d34ad6077a7ee",
+  "build_date": "2025-06-28T09:55:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890908",
+  "build_id": "15942890908",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/test2json2gha?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&download=test2json2gha.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/test2json2gha?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&download=test2json2gha",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/test2json2gha:HEAD-f4344d3-250627T164819-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/test2json2gha",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/test2json2gha?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1ef56c72dffbec4e7ad59de4137dda28329d9d908bbbe45fa059f7615a473d4",
+  "size": "17 MB",
+  "size_raw": "16782208",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6ac7399-250618T140047-aarch64-Linux",
+    "HEAD-82e72eb-250624T113910-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

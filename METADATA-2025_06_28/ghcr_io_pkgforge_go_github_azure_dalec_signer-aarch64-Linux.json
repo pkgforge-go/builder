@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "signer",
+  "pkg_family": "dalec",
+  "pkg_id": "signer#github.com_Azure_dalec",
+  "pkg_name": "signer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/f4344d3bf094feb288596ef3137374bafabe737a.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-f4344d3-250627T164819",
+  "version_upstream": "",
+  "bsum": "2d543e75d75de3f63dcaf75c4165936f6155058a98a7eae99e623621b83354e2",
+  "build_date": "2025-06-28T09:54:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890908",
+  "build_id": "15942890908",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/signer?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&download=signer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/signer?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&download=signer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/signer:HEAD-f4344d3-250627T164819-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/signer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/signer?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "261dd0690702cc64b07f8cc4160e74cb8f148662d3283bd59b6b70f4185722a6",
+  "size": "17 MB",
+  "size_raw": "17500672",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6ac7399-250618T140047-aarch64-Linux",
+    "HEAD-82e72eb-250624T113910-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

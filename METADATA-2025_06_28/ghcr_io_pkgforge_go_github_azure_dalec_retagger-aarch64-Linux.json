@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "retagger",
+  "pkg_family": "dalec",
+  "pkg_id": "retagger#github.com_Azure_dalec",
+  "pkg_name": "retagger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/f4344d3bf094feb288596ef3137374bafabe737a.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-f4344d3-250627T164819",
+  "version_upstream": "",
+  "bsum": "b8d11ef9818fedc50e1c96a959e0dc1657595b5707a0b638e87d94711e270591",
+  "build_date": "2025-06-28T09:55:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890908",
+  "build_id": "15942890908",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/retagger?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&download=retagger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/retagger?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&download=retagger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/retagger:HEAD-f4344d3-250627T164819-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/retagger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/retagger?tag=HEAD-f4344d3-250627T164819-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4ec65f6e8a7c4d4309b49bcfbff74264be0bf30267fbdf4f4d6e6a6f5f59509",
+  "size": "11 MB",
+  "size_raw": "10574720",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6ac7399-250618T140047-aarch64-Linux",
+    "HEAD-82e72eb-250624T113910-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
