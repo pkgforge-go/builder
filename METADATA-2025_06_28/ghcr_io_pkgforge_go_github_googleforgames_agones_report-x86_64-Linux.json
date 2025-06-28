@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "report",
+  "pkg_family": "agones",
+  "pkg_id": "report#github.com_googleforgames_agones",
+  "pkg_name": "report",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/googleforgames/agones",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes",
+  "homepage": [
+    "https://github.com/googleforgames/agones"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "allocationload",
+    "allocator",
+    "allocator-client",
+    "bump-image",
+    "controller",
+    "eviction",
+    "extensions",
+    "feature-shortcode-update",
+    "go",
+    "ping",
+    "remove-data-proofer-ignore",
+    "report",
+    "restapi",
+    "runscenario",
+    "sdk-server",
+    "sdk-update-version",
+    "simple-genai-server",
+    "update-navbar-version",
+    "websocket-watch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/googleforgames/agones/archive/6b6fb43c78e69ca0281b999de266985232fa77b0.tar.gz"
+  ],
+  "tag": [
+    "agones",
+    "dedicated-game-servers",
+    "dedicated-gameservers",
+    "game-development",
+    "game-server",
+    "go",
+    "golang",
+    "kubernetes",
+    "multiplayer"
+  ],
+  "version": "HEAD-6b6fb43-250627T130935",
+  "version_upstream": "",
+  "bsum": "28eaad7beadd716316eaf371911fd5430ad7cb1ab7c76f30f88776ad0aee572f",
+  "build_date": "2025-06-28T07:55:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941598450",
+  "build_id": "15941598450",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googleforgames/agones/report?tag=HEAD-6b6fb43-250627T130935-x86_64-Linux&download=report.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6357",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googleforgames/agones/report?tag=HEAD-6b6fb43-250627T130935-x86_64-Linux&download=report",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googleforgames/agones/report:HEAD-6b6fb43-250627T130935-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googleforgames/agones/report",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googleforgames/agones/report?tag=HEAD-6b6fb43-250627T130935-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8545d8542c93418cc58a565b7aef9b91bf1e6528ff047efbddc8fed308c6f92c",
+  "size": "17 MB",
+  "size_raw": "17610112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

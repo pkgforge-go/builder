@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sdk-update-version",
+  "pkg_family": "agones",
+  "pkg_id": "sdk-update-version#github.com_googleforgames_agones",
+  "pkg_name": "sdk-update-version",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/googleforgames/agones",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes",
+  "homepage": [
+    "https://github.com/googleforgames/agones"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "allocationload",
+    "allocator",
+    "allocator-client",
+    "bump-image",
+    "controller",
+    "eviction",
+    "extensions",
+    "feature-shortcode-update",
+    "go",
+    "ping",
+    "remove-data-proofer-ignore",
+    "report",
+    "restapi",
+    "runscenario",
+    "sdk-server",
+    "sdk-update-version",
+    "simple-genai-server",
+    "update-navbar-version",
+    "websocket-watch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/googleforgames/agones/archive/6b6fb43c78e69ca0281b999de266985232fa77b0.tar.gz"
+  ],
+  "tag": [
+    "agones",
+    "dedicated-game-servers",
+    "dedicated-gameservers",
+    "game-development",
+    "game-server",
+    "go",
+    "golang",
+    "kubernetes",
+    "multiplayer"
+  ],
+  "version": "HEAD-6b6fb43-250627T130935",
+  "version_upstream": "",
+  "bsum": "68981c4cefd1ebd0b404e153a6b15815b03f896938c7a136bba0fe23a1a68ba3",
+  "build_date": "2025-06-28T07:55:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941598450",
+  "build_id": "15941598450",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googleforgames/agones/sdk-update-version?tag=HEAD-6b6fb43-250627T130935-x86_64-Linux&download=sdk-update-version.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6357",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googleforgames/agones/sdk-update-version?tag=HEAD-6b6fb43-250627T130935-x86_64-Linux&download=sdk-update-version",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googleforgames/agones/sdk-update-version:HEAD-6b6fb43-250627T130935-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googleforgames/agones/sdk-update-version",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googleforgames/agones/sdk-update-version?tag=HEAD-6b6fb43-250627T130935-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfd43f200bb8b5eabf313dca23e361daf565281d2ec2264c87b86197867b51a8",
+  "size": "2.1 MB",
+  "size_raw": "2178968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
