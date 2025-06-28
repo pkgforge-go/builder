@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "yatas-aws",
+  "pkg_family": "yatas-aws",
+  "pkg_id": "yatas-aws#github.com_padok_team_yatas_aws",
+  "pkg_name": "yatas-aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/padok-team/yatas-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugin for YATAS that audits AWS accounts for misconfiguration and security issues",
+  "homepage": [
+    "https://github.com/padok-team/yatas-aws"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "yatas-aws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/padok-team/yatas-aws/archive/43aeb6035be061d952632368c98fadcf1bf8edfc.tar.gz"
+  ],
+  "tag": [
+    "audit",
+    "aws",
+    "hardening",
+    "misconfiguration",
+    "security",
+    "yatas"
+  ],
+  "version": "HEAD-43aeb60-250628T034554",
+  "version_upstream": "",
+  "bsum": "5651afd8aaa4831ab86dc47f98faa7553e6803e2f4baf8392453965fc4f9afcf",
+  "build_date": "2025-06-28T16:36:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945775700",
+  "build_id": "15945775700",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/padok-team/yatas-aws/yatas-aws?tag=HEAD-43aeb60-250628T034554-loongarch64-Linux&download=yatas-aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/padok-team/yatas-aws/yatas-aws?tag=HEAD-43aeb60-250628T034554-loongarch64-Linux&download=yatas-aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/padok-team/yatas-aws/yatas-aws:HEAD-43aeb60-250628T034554-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/padok-team/yatas-aws/yatas-aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/padok-team/yatas-aws/yatas-aws?tag=HEAD-43aeb60-250628T034554-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64156a0c614a5dc3f42428c1851a641910b053faa8feee720eb460b8ec9868e9",
+  "size": "76 MB",
+  "size_raw": "79382528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
