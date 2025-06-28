@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "operator-cmd",
+  "pkg_family": "operator",
+  "pkg_id": "operator-cmd#github.com_VictoriaMetrics_operator",
+  "pkg_name": "operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VictoriaMetrics/operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for Victoria Metrics",
+  "homepage": [
+    "https://github.com/VictoriaMetrics/operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config-reloader",
+    "operator-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VictoriaMetrics/operator/archive/9471e7a0c765d267f8473a8ffab4595130f7c077.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9471e7a-250627T192716",
+  "version_upstream": "",
+  "bsum": "5ede62f88cf5c739cd5968299380c46eb24f693389dfadaa17ae4456d64e6a9f",
+  "build_date": "2025-06-28T04:09:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15940290710",
+  "build_id": "15940290710",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/operator/operator-cmd?tag=HEAD-9471e7a-250627T192716-aarch64-Linux&download=operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/operator/operator-cmd?tag=HEAD-9471e7a-250627T192716-aarch64-Linux&download=operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/victoriametrics/operator/operator-cmd:HEAD-9471e7a-250627T192716-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/victoriametrics/operator/operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/operator/operator-cmd?tag=HEAD-9471e7a-250627T192716-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90bba44f147fef198c023c529334dd8df0d3731a166bf0b7d86dbb291b818fd7",
+  "size": "64 MB",
+  "size_raw": "66920816",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4d43ba7-250619T003544-aarch64-Linux",
+    "HEAD-30f9cf3-250622T142629-aarch64-Linux",
+    "HEAD-13f7a3c-250623T150326-aarch64-Linux",
+    "HEAD-e1dec2c-250623T221446-aarch64-Linux",
+    "HEAD-8cd0cdc-250624T201603-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
