@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "erpc",
+  "pkg_id": "cmd#github.com_erpc_erpc",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/erpc/erpc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eRPC — fault-tolerant evm rpc proxy",
+  "homepage": [
+    "https://github.com/erpc/erpc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "erpc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/erpc/erpc/archive/068e1e3671f70dd9e4c4fc81e4b12936e71b81a6.tar.gz"
+  ],
+  "tag": [
+    "cache",
+    "erpc",
+    "ethereum",
+    "evm",
+    "go",
+    "load-balancer",
+    "proxy",
+    "rpc"
+  ],
+  "version": "HEAD-068e1e3-250627T192423",
+  "version_upstream": "",
+  "bsum": "03d75f1eee937e06c4d1a5490f4b200637367d98cc446a616cbc27f16a6ed762",
+  "build_date": "2025-06-28T10:39:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942919508",
+  "build_id": "15942919508",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erpc/erpc/cmd?tag=HEAD-068e1e3-250627T192423-loongarch64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "492",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erpc/erpc/cmd?tag=HEAD-068e1e3-250627T192423-loongarch64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/erpc/erpc/cmd:HEAD-068e1e3-250627T192423-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/erpc/erpc/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erpc/erpc/cmd?tag=HEAD-068e1e3-250627T192423-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c5e7f489ffe2b84432ba858a3bb67c247c2300edd667cc143b361b26938da28",
+  "size": "28 MB",
+  "size_raw": "28838208",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-219a87b-250619T112831-loongarch64-Linux",
+    "HEAD-191ed7e-250623T111510-loongarch64-Linux",
+    "HEAD-bf0f955-250626T143601-loongarch64-Linux",
+    "HEAD-af56766-250627T025744-loongarch64-Linux",
+    "HEAD-b68868d-250627T151651-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
