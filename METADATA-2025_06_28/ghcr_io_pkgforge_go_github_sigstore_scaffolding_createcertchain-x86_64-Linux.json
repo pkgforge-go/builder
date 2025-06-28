@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "createcertchain",
+  "pkg_family": "scaffolding",
+  "pkg_id": "createcertchain#github.com_sigstore_scaffolding",
+  "pkg_name": "createcertchain",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/scaffolding",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff to make standing up sigstore _esp. for testing_ easier for e2e/integration testing.",
+  "homepage": [
+    "https://github.com/sigstore/scaffolding"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudsqlproxy",
+    "createcertchain",
+    "createcerts",
+    "createctconfig",
+    "createdb",
+    "createsecret",
+    "createtree",
+    "getoidctoken",
+    "managectroots",
+    "prober",
+    "rekor-createsecret",
+    "server",
+    "updatetree",
+    "verifyfulcio"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/scaffolding/archive/612a3177eda0b0de48142b6ddb15a9f6ca1785a8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-612a317-250627T212218",
+  "version_upstream": "",
+  "bsum": "34835cbbdcc9ca76db22f72fbce0879c49611fac009f92151405bdf2c1ab94f7",
+  "build_date": "2025-06-28T12:15:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942985505",
+  "build_id": "15942985505",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createcertchain?tag=HEAD-612a317-250627T212218-x86_64-Linux&download=createcertchain.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createcertchain?tag=HEAD-612a317-250627T212218-x86_64-Linux&download=createcertchain",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/scaffolding/createcertchain:HEAD-612a317-250627T212218-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/scaffolding/createcertchain",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createcertchain?tag=HEAD-612a317-250627T212218-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7acc8b9c8ebfc7f47903b67d62a41ae9face872aa3f485191369022da5c56152",
+  "size": "58 MB",
+  "size_raw": "60444160",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-819d566-250623T154043-x86_64-Linux[v0.7.24]"
+  ],
+  "trusted": "true"
+}

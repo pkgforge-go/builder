@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "verifyfulcio",
+  "pkg_family": "scaffolding",
+  "pkg_id": "verifyfulcio#github.com_sigstore_scaffolding",
+  "pkg_name": "verifyfulcio",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/scaffolding",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff to make standing up sigstore _esp. for testing_ easier for e2e/integration testing.",
+  "homepage": [
+    "https://github.com/sigstore/scaffolding"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudsqlproxy",
+    "createcertchain",
+    "createcerts",
+    "createctconfig",
+    "createdb",
+    "createsecret",
+    "createtree",
+    "getoidctoken",
+    "managectroots",
+    "prober",
+    "rekor-createsecret",
+    "server",
+    "updatetree",
+    "verifyfulcio"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/scaffolding/archive/612a3177eda0b0de48142b6ddb15a9f6ca1785a8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-612a317-250627T212218",
+  "version_upstream": "",
+  "bsum": "be5dd80bca135dad76626433ee830bc0412120b1d004baa74bb5128d212c9776",
+  "build_date": "2025-06-28T12:15:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942985505",
+  "build_id": "15942985505",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/verifyfulcio?tag=HEAD-612a317-250627T212218-x86_64-Linux&download=verifyfulcio.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/verifyfulcio?tag=HEAD-612a317-250627T212218-x86_64-Linux&download=verifyfulcio",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/scaffolding/verifyfulcio:HEAD-612a317-250627T212218-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/scaffolding/verifyfulcio",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/verifyfulcio?tag=HEAD-612a317-250627T212218-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f6c2c26df656cbb01b15b677a173e8766c3a266eee8f0842dd851d66c460c419",
+  "size": "19 MB",
+  "size_raw": "19225152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-819d566-250623T154043-x86_64-Linux[v0.7.24]"
+  ],
+  "trusted": "true"
+}
