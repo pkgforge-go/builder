@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kube-bench",
+  "pkg_family": "kube-bench",
+  "pkg_id": "kube-bench#github.com_aquasecurity_kube_bench",
+  "pkg_name": "kube-bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/kube-bench",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+  "homepage": [
+    "https://github.com/aquasecurity/kube-bench"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kube-bench"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/kube-bench/archive/93b0cfa2567c3ea787398ca747f20771e5d3e80b.tar.gz"
+  ],
+  "tag": [
+    "cis-benchmark",
+    "cis-kubernetes-benchmark",
+    "cis-security",
+    "hacktoberfest",
+    "kube-bench",
+    "kubernetes",
+    "kubernetes-security",
+    "openshift"
+  ],
+  "version": "HEAD-93b0cfa-250625T124049",
+  "version_upstream": "",
+  "bsum": "ae8e3994d0ec8b9ac02a9a348cb7b6daee2f8022ebe788f1187a94800372cd93",
+  "build_date": "2025-06-28T07:27:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941578279",
+  "build_id": "15941578279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/kube-bench/kube-bench?tag=HEAD-93b0cfa-250625T124049-aarch64-Linux&download=kube-bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7552",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/kube-bench/kube-bench?tag=HEAD-93b0cfa-250625T124049-aarch64-Linux&download=kube-bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/kube-bench/kube-bench:HEAD-93b0cfa-250625T124049-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/kube-bench/kube-bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/kube-bench/kube-bench?tag=HEAD-93b0cfa-250625T124049-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fdd812ffa9e4a72b6224182828424b66444c72cd22e30ffd75419d01de2c5fd2",
+  "size": "58 MB",
+  "size_raw": "59960256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
