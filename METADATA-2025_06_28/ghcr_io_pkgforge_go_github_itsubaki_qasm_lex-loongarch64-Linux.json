@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lex",
+  "pkg_family": "qasm",
+  "pkg_id": "lex#github.com_itsubaki_qasm",
+  "pkg_name": "lex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsubaki/qasm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quantum Computation Simulator with OpenQASM 3.0",
+  "homepage": [
+    "https://github.com/itsubaki/qasm"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lex",
+    "parse",
+    "qasm",
+    "repl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsubaki/qasm/archive/383b28f6de118544c28662e4c6ffc40ce00938fa.tar.gz"
+  ],
+  "tag": [
+    "openqasm",
+    "quantum-computation",
+    "quantum-computing"
+  ],
+  "version": "HEAD-383b28f-250628T202656",
+  "version_upstream": "",
+  "bsum": "eb80f7f9d7d3e567b25270dbae1779c7c8aa6aa7936aad7b9d89ebabb53250d0",
+  "build_date": "2025-06-28T16:16:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945744796",
+  "build_id": "15945744796",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/qasm/lex?tag=HEAD-383b28f-250628T202656-loongarch64-Linux&download=lex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/qasm/lex?tag=HEAD-383b28f-250628T202656-loongarch64-Linux&download=lex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsubaki/qasm/lex:HEAD-383b28f-250628T202656-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsubaki/qasm/lex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/qasm/lex?tag=HEAD-383b28f-250628T202656-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "782a2d88046e740d637f6cfdaff9d874c28d838d422928f7932a3e4562f653f5",
+  "size": "2.2 MB",
+  "size_raw": "2207512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
