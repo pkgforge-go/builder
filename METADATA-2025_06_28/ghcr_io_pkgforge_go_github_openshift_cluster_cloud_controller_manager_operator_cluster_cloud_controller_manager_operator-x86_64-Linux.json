@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cluster-cloud-controller-manager-operator",
+  "pkg_family": "cluster-cloud-controller-manager-operator",
+  "pkg_id": "cluster-cloud-controller-manager-operator#github.com_openshift_cluster_cloud_controller_manager_operator",
+  "pkg_name": "cluster-cloud-controller-manager-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-cloud-controller-manager-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for managing platform cloud controller managers",
+  "homepage": [
+    "https://github.com/openshift/cluster-cloud-controller-manager-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azure-config-credentials-injector",
+    "cluster-cloud-controller-manager-operator",
+    "config-sync-controllers"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-cloud-controller-manager-operator/archive/7d34021116c6e09b611aa0971528659423002b65.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7d34021-250628T002706",
+  "version_upstream": "",
+  "bsum": "68b0f74d83d7f290bffe21ee363f1cf47c232b916a54df3f821b7d64825dca7b",
+  "build_date": "2025-06-28T08:25:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941917848",
+  "build_id": "15941917848",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/cluster-cloud-controller-manager-operator?tag=HEAD-7d34021-250628T002706-x86_64-Linux&download=cluster-cloud-controller-manager-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/cluster-cloud-controller-manager-operator?tag=HEAD-7d34021-250628T002706-x86_64-Linux&download=cluster-cloud-controller-manager-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/cluster-cloud-controller-manager-operator:HEAD-7d34021-250628T002706-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/cluster-cloud-controller-manager-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/cluster-cloud-controller-manager-operator?tag=HEAD-7d34021-250628T002706-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77f4d02bf2eda230ca1786647e7ff9bc6b4ce92d47733ca7ed18f30db858f855",
+  "size": "68 MB",
+  "size_raw": "70878528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
