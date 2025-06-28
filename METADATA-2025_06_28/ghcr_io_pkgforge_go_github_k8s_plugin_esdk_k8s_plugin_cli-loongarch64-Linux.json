@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "esdk_k8s_plugin-cli",
+  "pkg_family": "eSDK_K8S_Plugin",
+  "pkg_id": "esdk_k8s_plugin-cli#github.com_Huawei_eSDK_K8S_Plugin",
+  "pkg_name": "esdk_k8s_plugin-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Huawei/eSDK_K8S_Plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container-Storage-Interface _CSI_ for Huawei storage",
+  "homepage": [
+    "https://github.com/Huawei/eSDK_K8S_Plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi",
+    "esdk_k8s_plugin-cli",
+    "huawei-csi-extender",
+    "storage-backend-controller",
+    "storage-backend-sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Huawei/eSDK_K8S_Plugin/archive/cd0eff7115ceddf350664b29b99911b6768404ba.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "huawei",
+    "kubernetes"
+  ],
+  "version": "HEAD-cd0eff7-250628T163837",
+  "version_upstream": "v4.8.0",
+  "bsum": "8803ae5f832768ec17e7474bccf6b42e7bb78419bd9f9303c20741d10ee9414c",
+  "build_date": "2025-06-28T15:50:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945702291",
+  "build_id": "15945702291",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/esdk_k8s_plugin-cli?tag=HEAD-cd0eff7-250628T163837-loongarch64-Linux&download=esdk_k8s_plugin-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "97",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/esdk_k8s_plugin-cli?tag=HEAD-cd0eff7-250628T163837-loongarch64-Linux&download=esdk_k8s_plugin-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k8s/plugin/esdk_k8s_plugin-cli:HEAD-cd0eff7-250628T163837-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k8s/plugin/esdk_k8s_plugin-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/esdk_k8s_plugin-cli?tag=HEAD-cd0eff7-250628T163837-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bac634a451fcf964ed1f32d34054486600c24eb7174f58af957c9a9bb0e783b9",
+  "size": "37 MB",
+  "size_raw": "38118592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
