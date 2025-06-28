@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "java-truststore-injection-webhook",
+  "pkg_family": "java-truststore-injection-webhook",
+  "pkg_id": "java-truststore-injection-webhook#github.com_bakito_java_truststore_injection_webhook",
+  "pkg_name": "java-truststore-injection-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bakito/java-truststore-injection-webhook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "💉 k8s webhook that allows converts pem certificates from a configmap into a java truststore and injects it to the same confimap",
+  "homepage": [
+    "https://github.com/bakito/java-truststore-injection-webhook"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "java-truststore-injection-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bakito/java-truststore-injection-webhook/archive/1e90f33b8d49fc83330fbee1eda2cee06cbd8d48.tar.gz"
+  ],
+  "tag": [
+    "cacert",
+    "java",
+    "k8s",
+    "kubernetes",
+    "openshift",
+    "pem",
+    "truststore"
+  ],
+  "version": "HEAD-1e90f33-250628T120054",
+  "version_upstream": "",
+  "bsum": "ebfd01f7bee623f8e285308707bb1b70b9de3d0d34b5ec69ffdc00bbd5f74c47",
+  "build_date": "2025-06-28T15:59:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945705426",
+  "build_id": "15945705426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bakito/java-truststore-injection-webhook/java-truststore-injection-webhook?tag=HEAD-1e90f33-250628T120054-aarch64-Linux&download=java-truststore-injection-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bakito/java-truststore-injection-webhook/java-truststore-injection-webhook?tag=HEAD-1e90f33-250628T120054-aarch64-Linux&download=java-truststore-injection-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bakito/java-truststore-injection-webhook/java-truststore-injection-webhook:HEAD-1e90f33-250628T120054-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bakito/java-truststore-injection-webhook/java-truststore-injection-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bakito/java-truststore-injection-webhook/java-truststore-injection-webhook?tag=HEAD-1e90f33-250628T120054-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a6b12abe6e8d3913be03c041c919f24a13cd6f0fcb769342453292ec7b16e548",
+  "size": "42 MB",
+  "size_raw": "43748960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
