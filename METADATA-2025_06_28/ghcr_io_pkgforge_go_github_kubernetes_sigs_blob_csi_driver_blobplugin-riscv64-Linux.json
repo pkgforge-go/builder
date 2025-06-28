@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "blobplugin",
+  "pkg_family": "blob-csi-driver",
+  "pkg_id": "blobplugin#github.com_kubernetes_sigs_blob_csi_driver",
+  "pkg_name": "blobplugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/blob-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Blob Storage CSI driver",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/blob-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blobfuse-proxy",
+    "blobplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/blob-csi-driver/archive/fdaac6f28a1d42ae7caa14b5c7b593c2eb6f30a4.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-cloud-provider"
+  ],
+  "version": "HEAD-fdaac6f-250627T235029",
+  "version_upstream": "",
+  "bsum": "f38112ea2e471e499b8b26c44e774e91aeec28df7f4d2b51fa3a80be6bbc184d",
+  "build_date": "2025-06-28T16:24:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945757949",
+  "build_id": "15945757949",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobplugin?tag=HEAD-fdaac6f-250627T235029-riscv64-Linux&download=blobplugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobplugin?tag=HEAD-fdaac6f-250627T235029-riscv64-Linux&download=blobplugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobplugin:HEAD-fdaac6f-250627T235029-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobplugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobplugin?tag=HEAD-fdaac6f-250627T235029-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61cc5d6497a6cc20155f54d35ef87261b3301ed9c6cdfe661f566dff6bfb22fb",
+  "size": "68 MB",
+  "size_raw": "71149080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
