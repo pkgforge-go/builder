@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "patch-dashboard",
+  "pkg_family": "skaffold",
+  "pkg_id": "patch-dashboard#github.com_GoogleContainerTools_skaffold",
+  "pkg_name": "patch-dashboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleContainerTools/skaffold",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Easy and Repeatable Kubernetes Development",
+  "homepage": [
+    "https://github.com/GoogleContainerTools/skaffold"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bazel",
+    "comparisonstats",
+    "latest",
+    "latest_released",
+    "man",
+    "mark_latest_released",
+    "new",
+    "patch-dashboard",
+    "release",
+    "schema_check",
+    "schemas",
+    "skaffold",
+    "struct-json",
+    "tests",
+    "update_comments",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleContainerTools/skaffold/archive/f460879efa2e0c2c6d14a193791c9483001f149f.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "developer-tools",
+    "docker",
+    "kubernetes"
+  ],
+  "version": "HEAD-f460879-250612T153012",
+  "version_upstream": "",
+  "bsum": "4e91ac92802939a5c95274ab701f4683159e2f3fafb23d8c293ca2b66de295cb",
+  "build_date": "2025-06-28T07:15:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941543719",
+  "build_id": "15941543719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/patch-dashboard?tag=HEAD-f460879-250612T153012-loongarch64-Linux&download=patch-dashboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/patch-dashboard?tag=HEAD-f460879-250612T153012-loongarch64-Linux&download=patch-dashboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecontainertools/skaffold/patch-dashboard:HEAD-f460879-250612T153012-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecontainertools/skaffold/patch-dashboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/patch-dashboard?tag=HEAD-f460879-250612T153012-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e80ccbc317f0b6856aecb717e4fad1a92b7edf4ab978e5459f17404da93cd8b3",
+  "size": "28 MB",
+  "size_raw": "28376160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
