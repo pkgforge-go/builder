@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gen-jsonschema",
+  "pkg_family": "dalec",
+  "pkg_id": "gen-jsonschema#github.com_Azure_dalec",
+  "pkg_name": "gen-jsonschema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/dalec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "📦 Produce secure packages and containers with declarative configurations",
+  "homepage": [
+    "https://github.com/Azure/dalec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dalec-redirectio",
+    "frontend",
+    "gen-jsonschema",
+    "git_repo",
+    "lint",
+    "phony",
+    "retagger",
+    "signer",
+    "test2json2gha"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/dalec/archive/f4344d3bf094feb288596ef3137374bafabe737a.tar.gz"
+  ],
+  "tag": [
+    "azure",
+    "azure-linux",
+    "containers",
+    "declarative",
+    "linux",
+    "packages",
+    "security",
+    "security-tools"
+  ],
+  "version": "HEAD-f4344d3-250627T164819",
+  "version_upstream": "",
+  "bsum": "233cbd532c4c017a5a7409e4563739ec84cd6447cc4dce4b5c1acd0781053559",
+  "build_date": "2025-06-28T09:54:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890908",
+  "build_id": "15942890908",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/gen-jsonschema?tag=HEAD-f4344d3-250627T164819-riscv64-Linux&download=gen-jsonschema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "179",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/gen-jsonschema?tag=HEAD-f4344d3-250627T164819-riscv64-Linux&download=gen-jsonschema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/dalec/gen-jsonschema:HEAD-f4344d3-250627T164819-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/dalec/gen-jsonschema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/dalec/gen-jsonschema?tag=HEAD-f4344d3-250627T164819-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8929b69cfb2e73a56b08214d2b8637c6f79ae448d51586a38a3dfd771f04735e",
+  "size": "19 MB",
+  "size_raw": "19040216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-6ac7399-250618T140047-riscv64-Linux",
+    "HEAD-82e72eb-250624T113910-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
