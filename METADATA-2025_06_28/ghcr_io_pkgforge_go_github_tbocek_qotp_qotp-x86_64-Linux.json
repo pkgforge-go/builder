@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "qotp",
+  "pkg_family": "qotp",
+  "pkg_id": "qotp#github.com_tbocek_qotp",
+  "pkg_name": "qotp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tbocek/qotp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A UDP-based transport protocol that takes an _opinionated_ approach, similar to QUIC but with a focus  on providing reasonable defaults rather than many options. The goal is to have lower complexity,  simplicity, and security, while still being reasonably performant.",
+  "homepage": [
+    "https://github.com/tbocek/qotp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "qotp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tbocek/qotp/archive/6b54dbccda2db9d7d93f13f93b4031f1aca6bbf9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6b54dbc-250628T133851",
+  "version_upstream": "",
+  "bsum": "14249a78a183c251ce1777d5df51c0886b4020715828b09724e4a702ab619348",
+  "build_date": "2025-06-28T22:07:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15948468735",
+  "build_id": "15948468735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbocek/qotp/qotp?tag=HEAD-6b54dbc-250628T133851-x86_64-Linux&download=qotp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbocek/qotp/qotp?tag=HEAD-6b54dbc-250628T133851-x86_64-Linux&download=qotp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tbocek/qotp/qotp:HEAD-6b54dbc-250628T133851-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tbocek/qotp/qotp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tbocek/qotp/qotp?tag=HEAD-6b54dbc-250628T133851-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a048c4f0d5ea11bed8d04a7ea944f5f90a83827d348730813319cca27a7307a",
+  "size": "2.3 MB",
+  "size_raw": "2341976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-15cc8a8-250624T204031-x86_64-Linux",
+    "HEAD-79447a6-250626T210628-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
