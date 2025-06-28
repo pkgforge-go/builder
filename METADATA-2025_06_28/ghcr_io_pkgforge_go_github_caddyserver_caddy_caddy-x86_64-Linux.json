@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "caddy",
+  "pkg_family": "caddy",
+  "pkg_id": "caddy#github.com_caddyserver_caddy",
+  "pkg_name": "caddy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/caddyserver/caddy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+  "homepage": [
+    "https://github.com/caddyserver/caddy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "caddy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/caddyserver/caddy/archive/33c88bd2bb543a726274cdf52899edb0639cf5f6.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "automatic-https",
+    "caddy",
+    "caddyfile",
+    "go",
+    "golang",
+    "http",
+    "http-server",
+    "http3",
+    "https",
+    "privacy",
+    "reverse-proxy",
+    "security",
+    "tls",
+    "web-server"
+  ],
+  "version": "HEAD-33c88bd-250627T220409",
+  "version_upstream": "",
+  "bsum": "5d2107e7d1c06d28965b3614249127880411721b3a2160820dc2d3d200c892c7",
+  "build_date": "2025-06-28T10:11:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942891855",
+  "build_id": "15942891855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/caddyserver/caddy/caddy?tag=HEAD-33c88bd-250627T220409-x86_64-Linux&download=caddy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "65164",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/caddyserver/caddy/caddy?tag=HEAD-33c88bd-250627T220409-x86_64-Linux&download=caddy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/caddyserver/caddy/caddy:HEAD-33c88bd-250627T220409-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/caddyserver/caddy/caddy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/caddyserver/caddy/caddy?tag=HEAD-33c88bd-250627T220409-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "11385146821f7968a07a75b83b627b8190d40f2f47bb1f4f55ddad975d313325",
+  "size": "49 MB",
+  "size_raw": "50800624",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2f0fc62-250616T201409-x86_64-Linux",
+    "HEAD-070d454-250619T163948-x86_64-Linux",
+    "HEAD-3b4d966-250623T132645-x86_64-Linux",
+    "HEAD-11c6dae-250626T101308-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
