@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "echoserver",
+  "pkg_family": "echoserver",
+  "pkg_id": "echoserver#github.com_ricoberger_echoserver",
+  "pkg_name": "echoserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ricoberger/echoserver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple echoserver, which dumps HTTP requests",
+  "homepage": [
+    "https://github.com/ricoberger/echoserver"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "echoserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ricoberger/echoserver/archive/20b256859d6d4517deecf1a1b573780eaf3e2193.tar.gz"
+  ],
+  "tag": [
+    "docker",
+    "echoserver",
+    "go",
+    "golang",
+    "kubernetes"
+  ],
+  "version": "HEAD-20b2568-250628T080751",
+  "version_upstream": "",
+  "bsum": "558ee3dd1eca51a03c8eed2b6665405842b86faab63b351802cf5bb562b5b11a",
+  "build_date": "2025-06-28T20:23:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947284292",
+  "build_id": "15947284292",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ricoberger/echoserver/echoserver?tag=HEAD-20b2568-250628T080751-riscv64-Linux&download=echoserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ricoberger/echoserver/echoserver?tag=HEAD-20b2568-250628T080751-riscv64-Linux&download=echoserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ricoberger/echoserver/echoserver:HEAD-20b2568-250628T080751-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ricoberger/echoserver/echoserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ricoberger/echoserver/echoserver?tag=HEAD-20b2568-250628T080751-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "232143a4e834c3eb193366112b3c5d97551855a4eec8684ab0f0b50264b078a3",
+  "size": "17 MB",
+  "size_raw": "17390840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7f0f16e-250623T151856-riscv64-Linux",
+    "HEAD-608ac04-250626T144824-riscv64-Linux[v1.1.0]",
+    "HEAD-3170890-250627T093241-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
