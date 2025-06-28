@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "functional-test",
+  "pkg_family": "nuclei",
+  "pkg_id": "functional-test#github.com_projectdiscovery_nuclei",
+  "pkg_name": "functional-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/nuclei",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+  "homepage": [
+    "https://github.com/projectdiscovery/nuclei"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "advanced",
+    "bindgen",
+    "docgen",
+    "functional-test",
+    "fuzzplayground",
+    "generate-checksum",
+    "integration-test",
+    "memogen",
+    "nuclei",
+    "scan-charts",
+    "scrapefuncs",
+    "signer",
+    "simple",
+    "tmc",
+    "tsgen",
+    "with_speed_control"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/nuclei/archive/7b1a02710eb21c7fceb0a654abd641a64e72d5bd.tar.gz"
+  ],
+  "tag": [
+    "attack-surface",
+    "cve-scanner",
+    "dast",
+    "hacktoberfest",
+    "nuclei-engine",
+    "security",
+    "security-scanner",
+    "subdomain-takeover",
+    "vulnerability-assessment",
+    "vulnerability-detection",
+    "vulnerability-scanner"
+  ],
+  "version": "HEAD-7b1a027-250628T020844",
+  "version_upstream": "",
+  "bsum": "34a5af55a04d38c7b3064b251275ff40c14e17ec1088fe1029fa6b4333056ec2",
+  "build_date": "2025-06-28T12:10:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942979665",
+  "build_id": "15942979665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/nuclei/functional-test?tag=HEAD-7b1a027-250628T020844-riscv64-Linux&download=functional-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "23784",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/nuclei/functional-test?tag=HEAD-7b1a027-250628T020844-riscv64-Linux&download=functional-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/nuclei/functional-test:HEAD-7b1a027-250628T020844-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/nuclei/functional-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/nuclei/functional-test?tag=HEAD-7b1a027-250628T020844-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "222cc5352563798de5d8227e0445703948b144a1d7c54c0cbe68802e04508873",
+  "size": "56 MB",
+  "size_raw": "57693112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c242b11-250619T200759-riscv64-Linux",
+    "HEAD-4ff8078-250624T054906-riscv64-Linux",
+    "HEAD-2c3df33-250625T042315-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
