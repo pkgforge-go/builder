@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "coredns",
+  "pkg_family": "coredns",
+  "pkg_id": "coredns#github.com_coredns_coredns",
+  "pkg_name": "coredns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coredns/coredns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CoreDNS is a DNS server that chains plugins",
+  "homepage": [
+    "https://github.com/coredns/coredns"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coredns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coredns/coredns/archive/8fce3456d7caa070ef377507fb4611907a1e32da.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "coredns",
+    "dns-server",
+    "go",
+    "plugin",
+    "service-discovery"
+  ],
+  "version": "HEAD-8fce345-250628T084621",
+  "version_upstream": "",
+  "bsum": "53020bc6d668fa696f277b1b549309ee8afe879319a1c62a8e1e1dc0d8f6241c",
+  "build_date": "2025-06-28T19:12:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947171526",
+  "build_id": "15947171526",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coredns/coredns/coredns?tag=HEAD-8fce345-250628T084621-riscv64-Linux&download=coredns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13114",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coredns/coredns/coredns?tag=HEAD-8fce345-250628T084621-riscv64-Linux&download=coredns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coredns/coredns/coredns:HEAD-8fce345-250628T084621-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coredns/coredns/coredns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coredns/coredns/coredns?tag=HEAD-8fce345-250628T084621-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "188490ecde54702614de6626401460697821078d632b5536855ddbd8d30e0ec4",
+  "size": "75 MB",
+  "size_raw": "77756984",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b2a2a5f-250619T174937-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
