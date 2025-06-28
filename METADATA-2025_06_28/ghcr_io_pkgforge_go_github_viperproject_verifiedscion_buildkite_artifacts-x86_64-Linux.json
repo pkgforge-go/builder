@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "buildkite_artifacts",
+  "pkg_family": "VerifiedSCION",
+  "pkg_id": "buildkite_artifacts#github.com_viperproject_VerifiedSCION",
+  "pkg_name": "buildkite_artifacts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viperproject/VerifiedSCION",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Verifying the SCION architecture using Gobra",
+  "homepage": [
+    "https://github.com/viperproject/VerifiedSCION"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildkite_artifacts",
+    "drkey",
+    "end2end",
+    "end2end_integration",
+    "graphupdater",
+    "pktgen",
+    "scion",
+    "scion_integration",
+    "sig_ping_acceptance",
+    "udpproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viperproject/VerifiedSCION/archive/d79508fb5b6b224703f2dc25752f3a7f4ac26507.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d79508f-250627T205436",
+  "version_upstream": "",
+  "bsum": "b75e3dfeea2188bc7f7ca85ec9691d915fd100f3f02f1ca6175922d4557c62cc",
+  "build_date": "2025-06-28T09:08:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942058676",
+  "build_id": "15942058676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viperproject/verifiedscion/buildkite_artifacts?tag=HEAD-d79508f-250627T205436-x86_64-Linux&download=buildkite_artifacts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viperproject/verifiedscion/buildkite_artifacts?tag=HEAD-d79508f-250627T205436-x86_64-Linux&download=buildkite_artifacts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viperproject/verifiedscion/buildkite_artifacts:HEAD-d79508f-250627T205436-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viperproject/verifiedscion/buildkite_artifacts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viperproject/verifiedscion/buildkite_artifacts?tag=HEAD-d79508f-250627T205436-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7efbcb14e3cb8ba483e0ee9d5cdd39331a7b0faa5e4f5e6965ec7d8c3b5020da",
+  "size": "14 MB",
+  "size_raw": "14095264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
