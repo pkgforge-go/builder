@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aws",
+  "pkg_family": "nri-flex",
+  "pkg_id": "aws#github.com_newrelic_nri_flex",
+  "pkg_name": "aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-flex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An application-agnostic, all-in-one New Relic integration integration",
+  "homepage": [
+    "https://github.com/newrelic/nri-flex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "gcp",
+    "https-server",
+    "nri-flex"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-flex/archive/cee9d637a87af72a1ce7121343a511e6a5acb938.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "flex",
+    "infrastructure",
+    "ingest",
+    "insights",
+    "integration",
+    "jmx",
+    "nrlabs"
+  ],
+  "version": "HEAD-cee9d63-250613T085658",
+  "version_upstream": "v1.16.6",
+  "bsum": "8b3a5a2fd2398f91aa4dd52f2d55e00c348a066e4c467acc6d6ff84f83ea7b30",
+  "build_date": "2025-06-28T08:21:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941908517",
+  "build_id": "15941908517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-flex/aws?tag=HEAD-cee9d63-250613T085658-riscv64-Linux&download=aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-flex/aws?tag=HEAD-cee9d63-250613T085658-riscv64-Linux&download=aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-flex/aws:HEAD-cee9d63-250613T085658-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-flex/aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-flex/aws?tag=HEAD-cee9d63-250613T085658-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5dc3571b8cb30cdbc737892b3b6d271b19155cf51699a66f3a10ac0972acda97",
+  "size": "43 MB",
+  "size_raw": "44779320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
