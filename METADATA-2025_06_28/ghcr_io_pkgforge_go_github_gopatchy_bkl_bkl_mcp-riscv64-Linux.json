@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bkl-mcp",
+  "pkg_family": "bkl",
+  "pkg_id": "bkl-mcp#github.com_gopatchy_bkl",
+  "pkg_name": "bkl-mcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gopatchy/bkl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Layered Configuration Language",
+  "homepage": [
+    "https://github.com/gopatchy/bkl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bkl",
+    "bkl-docs",
+    "bkl-mcp",
+    "bklb",
+    "bkld",
+    "bkli",
+    "bklr",
+    "kubectl-bkl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gopatchy/bkl/archive/9d48882892cdd31e24a834ff8553627d30af3139.tar.gz"
+  ],
+  "tag": [
+    "configuration",
+    "deployment",
+    "devops",
+    "json",
+    "k8s",
+    "kubernetes",
+    "sre",
+    "toml",
+    "yaml"
+  ],
+  "version": "HEAD-9d48882-250627T203614",
+  "version_upstream": "",
+  "bsum": "1f6f925cf7c3dd4fdb0d7db7ce30da0df04eab8cb10e801fb3911dffc441e4c5",
+  "build_date": "2025-06-28T10:47:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942924084",
+  "build_id": "15942924084",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bkl-mcp?tag=HEAD-9d48882-250627T203614-riscv64-Linux&download=bkl-mcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bkl-mcp?tag=HEAD-9d48882-250627T203614-riscv64-Linux&download=bkl-mcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopatchy/bkl/bkl-mcp:HEAD-9d48882-250627T203614-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopatchy/bkl/bkl-mcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bkl-mcp?tag=HEAD-9d48882-250627T203614-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "719cbb433136f381d8aeacbceda25996ffccd02d252201d9c2caa797142b6476",
+  "size": "5.5 MB",
+  "size_raw": "5663096",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-75cc93d-250624T163631-riscv64-Linux",
+    "HEAD-d764f31-250625T202006-riscv64-Linux",
+    "HEAD-e475e1e-250626T180334-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
