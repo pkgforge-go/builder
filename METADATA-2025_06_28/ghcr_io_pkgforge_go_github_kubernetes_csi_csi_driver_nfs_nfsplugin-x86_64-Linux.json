@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nfsplugin",
+  "pkg_family": "csi-driver-nfs",
+  "pkg_id": "nfsplugin#github.com_kubernetes_csi_csi_driver_nfs",
+  "pkg_name": "nfsplugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-csi/csi-driver-nfs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This driver allows Kubernetes to access NFS server on Linux node.",
+  "homepage": [
+    "https://github.com/kubernetes-csi/csi-driver-nfs"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nfsplugin",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-csi/csi-driver-nfs/archive/91cb522ab8582b5ba5cf3b1bdb71c10dd85497ec.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "k8s-sig-storage",
+    "kubernetes",
+    "nfs"
+  ],
+  "version": "HEAD-91cb522-250627T223229",
+  "version_upstream": "",
+  "bsum": "ec6d9d9292e8197aecb9c9f515e270e4cac16e5a450cfc04274c7cc71a561faa",
+  "build_date": "2025-06-28T16:21:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945756792",
+  "build_id": "15945756792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-nfs/nfsplugin?tag=HEAD-91cb522-250627T223229-x86_64-Linux&download=nfsplugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1054",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-nfs/nfsplugin?tag=HEAD-91cb522-250627T223229-x86_64-Linux&download=nfsplugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-csi/csi-driver-nfs/nfsplugin:HEAD-91cb522-250627T223229-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-csi/csi-driver-nfs/nfsplugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/csi-driver-nfs/nfsplugin?tag=HEAD-91cb522-250627T223229-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "82425282908b52b0431ca6ccb9c6223626046edb9386f94f1c8f19783b5fa853",
+  "size": "38 MB",
+  "size_raw": "39614624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
