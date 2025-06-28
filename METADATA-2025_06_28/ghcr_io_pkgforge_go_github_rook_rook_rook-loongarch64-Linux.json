@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rook",
+  "pkg_family": "rook",
+  "pkg_id": "rook#github.com_rook_rook",
+  "pkg_name": "rook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rook/rook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Storage Orchestration for Kubernetes",
+  "homepage": [
+    "https://github.com/rook/rook"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rook/rook/archive/38739a5bbc81bd184f6bd10a69f7e842c7bdc183.tar.gz"
+  ],
+  "tag": [
+    "ceph",
+    "cloud-native",
+    "cncf",
+    "docker",
+    "etcd",
+    "kubernetes",
+    "storage",
+    "storage-cluster"
+  ],
+  "version": "HEAD-38739a5-250627T145035",
+  "version_upstream": "",
+  "bsum": "3cc72625530129b7db33c992af38b8273934c7a17c377481bc7368c3b84c6bbe",
+  "build_date": "2025-06-28T14:24:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944507496",
+  "build_id": "15944507496",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rook/rook/rook?tag=HEAD-38739a5-250627T145035-loongarch64-Linux&download=rook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12904",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rook/rook/rook?tag=HEAD-38739a5-250627T145035-loongarch64-Linux&download=rook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rook/rook/rook:HEAD-38739a5-250627T145035-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rook/rook/rook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rook/rook/rook?tag=HEAD-38739a5-250627T145035-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e4b8cbbcf2d3d19e2f1bde37c62d14887d821d88fc274bde382010e56876cc4",
+  "size": "100 MB",
+  "size_raw": "104458816",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-eaa71a6-250624T155838-loongarch64-Linux",
+    "HEAD-af226f7-250625T130203-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
